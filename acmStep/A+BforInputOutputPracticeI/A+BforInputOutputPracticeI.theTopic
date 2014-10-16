@@ -1,0 +1,57 @@
+A+B for Input-Output Practice (I)
+Time Limit: 2000/1000 MS (Java/Others) Memory Limit: 65536/32768 K (Java/Others)
+Total Submission(s): 34333 Accepted Submission(s): 14695
+
+submission:上传,递交,上传的行为
+
+这里java要求在两秒内得到结果，其他程序要求在一秒内得到结果，MS是毫秒的意思
+内存限制，java只允许使用64MB的内存，而其他程序只允许使用32MB的内存，65536K/1024=64MB，32768K/1024=32MB，一个int如果是32位的，则它
+占4个byte，1024byte能存256个32位的int整数，可以存128个64位的int型整数，就是1K可以存256个32位的整数，128个64位的整数，
+1MB可以存256×1024个32位的整数，就是262144个32位int型整数，约26万个！32MB就大概是832万个32位的int型整数
+
+在阅读题目的过程中，我要多查字典，首先解决陌生单词，在这一过程中提高自己的英语阅读能力，我的一些汉语竞赛书籍无法帮助我提高英语
+从简单初级题目中一开始就学习英语，这是我要做到的！
+
+Problem Description
+Your task is to Calculate a + b.
+Too easy?! Of course! I specially designed the problem for acm beginners.
+You must have found that some problems have the same titles with this one, yes, all these problems were designed for the same aim.
+ 
+
+Input
+The input will consist of a series of pairs of integers a and b, separated by a space, one pair of integers per line.
+ 
+
+Output
+For each pair of input integers a and b you should output the sum of a and b in one line, and with one line of output for each line in input.
+ 
+
+Sample Input
+
+1 5
+10 20
+
+ 
+
+Sample Output
+
+6
+30
+
+ 
+
+Author
+lcy
+ 
+
+Recommend
+JGShining
+
+测试成功后的思考！
+
+c++代码测试成功，其中有一个书写错误，namespace，写成了，namesapce
+
+queuing,排成一条直线来等待，等待，有次序地等待，
+
+我对scanf函数有了更细致的认识！
+来自非代码逻辑上的错误，导致我测试失败，所以任何小问题都要解决好！

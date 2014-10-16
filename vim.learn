@@ -1,0 +1,2 @@
+在写程序时，我需要自动缩排，
+vim中有四种缩排，cindent和indentexpr比较适合c程序员
