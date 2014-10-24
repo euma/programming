@@ -1,0 +1,16 @@
+一月：January 二月：February 三月：March 四月：April 五月：May 六月：June 七月：July 八月：August 九月：September 十月：October 十一月：November 十二月：December
+
+当地时间
+世界统一时间UTC，格林尼治时间
+
+星期一： Mon.=Monday 
+星期二： Tues.=Tuesday 
+星期三： Wed.=Wednesday 
+星期四： Thur.=Thursday 
+星期五： Fri.=Friday 
+星期六： Sat.=Saturday 
+星期天： Sun.=Sunday
+
+time()  returns  the  time  as  the  number of seconds since the Epoch,
+       1970-01-01 00:00:00 +0000 (UTC).
+

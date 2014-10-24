@@ -1,0 +1,47 @@
+A+B for Input-Output Practice (II)
+Time Limit: 2000/1000 MS (Java/Others) Memory Limit: 65536/32768 K (Java/Others)
+Total Submission(s): 18541 Accepted Submission(s): 12381
+
+Problem Description
+Your task is to Calculate a + b.
+ 
+
+Input
+Input contains an integer N in the first line, and then N lines follow. Each line consists of a pair of integers a and b, separated by a space, one pair of integers per line.
+ 
+
+Output
+For each pair of input integers a and b you should output the sum of a and b in one line, and with one line of output for each line in input.
+ 
+
+Sample Input
+
+2
+1 5
+10 20
+
+ 
+
+Sample Output
+
+6
+30
+
+ 
+
+Author
+lcy
+ 
+
+Recommend
+JGShining
+ 
+
+Statistic|Submit|Back
+Home|Top
+Hangzhou Dianzi University Online Judge3.0
+Copyright©2005-2014HDU ACM Team.All Rights Reserved.
+Designer&Developer:Wang Rongtao LinLe GaoJie GanLu
+Total0.011559(s)query:3 Server time:2014-10-17 07:15:21,Gzip:Enabled
+Administration	
+

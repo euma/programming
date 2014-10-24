@@ -1,0 +1,25 @@
+#git remote add origin git@git.com:euma/programming.git
+git pull git@git.com:euma/programming.git
+git push origin master #这里master可以不写
+
+git rm --cached 子模块文件夹名 #当出现子模块，而你又不会要它时，一般是，某个文件夹里有.git文件夹，你没有看直接添加了
+#可以提前删除.git文件夹，避免产生子模块，如果你不需要它。添加了以后，不仅要删除.git文件夹，而且要用上面的命令删除记录
+#在git版本控制里的信息
+
+git clone repository #把你所关注的项目，下载到本地
+
+git remote add upstream origin_repository #原作者的项目命名为upstream，方便以后长传更新！
+
+git remote rm shortName #删除对一个项目的简短命名
+
+git remote -v #来查看远程项目的简短命名！
+
+#把原作者对项目的最新修改版本下载下来，
+#原作者的版本命名为upstream
+git fetch upstream
+
+git checkout master #查看master分支的内容！
+
+git merge upstream/master #把原作者的最新修改合并在你的本地项目中
+
+git add -A == git add -all #这两个命令都是我已经修改的，新添加的，还有删除的文件都记录在git版本控制中
