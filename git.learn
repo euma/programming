@@ -1,4 +1,10 @@
-#git remote add origin git@git.com:euma/programming.git
+git config --global core.editor vim
+#将把git commit默认使用的gnu nano编辑器改为vim
+#我还是习惯vim，
+#这个命令修改的是~/.gitconfig,文件，这个文件保存了一些有关git的配置信息，如你的邮件等
+
+
+git remote add origin git@git.com:euma/programming.git
 git pull git@git.com:euma/programming.git
 
 git push origin master #这里master可以不写,把文件上传到github上去

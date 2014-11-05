@@ -1,6 +1,13 @@
-#git remote add origin git@git.com:euma/programming.git
+git config --global core.editor vim
+#将把git commit默认使用的gnu nano编辑器改为vim
+#我还是习惯vim，
+#这个命令修改的是~/.gitconfig,文件，这个文件保存了一些有关git的配置信息，如你的邮件等
+
+
+git remote add origin git@git.com:euma/programming.git
 git pull git@git.com:euma/programming.git
-git push origin master #这里master可以不写
+
+git push origin master #这里master可以不写,把文件上传到github上去
 
 git rm --cached 子模块文件夹名 #当出现子模块，而你又不会要它时，一般是，某个文件夹里有.git文件夹，你没有看直接添加了
 #可以提前删除.git文件夹，避免产生子模块，如果你不需要它。添加了以后，不仅要删除.git文件夹，而且要用上面的命令删除记录

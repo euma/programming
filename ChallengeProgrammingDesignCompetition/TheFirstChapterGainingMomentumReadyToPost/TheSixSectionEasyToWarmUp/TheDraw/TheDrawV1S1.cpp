@@ -1,0 +1,74 @@
+/*这个程序只是让Thedraw.cpp结构分得更清,添加了一个函数solve！*/
+#include<cstdio>
+const int MAX_N = 1000;
+int n, m, k[MAX_N];
+
+int
+binarySearch (int target, int end)
+{
+  int start = 0;
+  while (start <= end)
+    {
+      int mid = (start + end) / 2;
+      if (k[mid] > target)
+	{
+	  end = mid - 1;
+	}
+      else if (k[mid] < target)
+	{
+	  start = mid + 1;
+	}
+      else
+	{
+	  return mid;
+	  //printf("we find! it's at %d\n And it's %d\n",mid,a[mid]);
+	  break;
+	}
+    }
+  return -1;
+}
+
+void
+solve ()
+{
+//是否找到和为m的组合的标记
+  bool f = false;
+//通过四重循环枚举所有方案
+  for (int a = 0; a < n; a++)
+    {
+      for (int b = 0; b < n; b++)
+	{
+	  for (int c = 0; c < n; c++)
+	    {
+	      int target = m - k[a] - k[b] - k[c];
+	      //这里应该可以过滤一下，target小于零，我们就没必要查找，不过这不是程序的主要问题，不过滤二分查找也能应对！
+
+	      if (binarySearch (target, n-1) >= 0)
+		{
+		  f = true;
+		  printf("%d+%d+%d+%d=%d\n",k[a],k[b],k[c],target,m);
+		}
+	    }
+	}
+    }
+
+//输出到标准输出
+  if (f)
+    puts ("Yes");
+  else
+    puts ("No");
+}
+
+int
+main ()
+{
+//从标准输入读入
+  scanf ("%d %d", &n, &m);
+  for (int i = 0; i < n; i++)
+    {
+      scanf ("%d", &k[i]);
+    }
+  solve ();
+
+  return 0;
+}

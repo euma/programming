@@ -2,8 +2,8 @@
 #include<math.h>
 int main(){
   printf("%.8lf\n", 1+2*sqrt(3)/(5-0.1));
-  printf("%.8lf\n", sqrt(9.0));
-  printf("%.8lf\n", sqrt(0.0));
-  printf("%.8lf\n", sqrt(-9.0));
+  printf("%.8lf\n", sqrt(9.0);
+  printf("%.8lf\n", sqrt(0.0);
+  printf("%.8lf\n", sqrt(-9.0);
   return 0;
 }
