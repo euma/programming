@@ -1,0 +1,6 @@
+gcc -E program.c #把预处理后的源文件显示在标准输出中！
+gcc -S program.c #生成汇编文件.s文件
+gcc -c program.c #生成．ｏ文件
+objdump -d program.o #可以看．ｏ文件的汇编代码
+objdump -d program #可以看可执行文件的汇编代码
+＃其实由可执行文件反编译出ｃ语言形式的源代码是最好的！

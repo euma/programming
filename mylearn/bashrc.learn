@@ -1,0 +1,7 @@
+我在ｂａｓｈｒｃ文件中加入
+
+# gcc g++ aliases
+alias g='gcc -Wall -Wextra'
+alias g+='g++ -Wall -Wextra'
+
+我的想法是：要节约时间，把更多的时间用在更有价值的工作上！

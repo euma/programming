@@ -1,0 +1,5 @@
+我需要ｍａｋｅ实现的功能
+这里我经常用的
+gcc -Wall -Wextra program.c
+g++ -Wall -Wextra program.cpp
+我想用make自动识别文件后缀名，完成上面两个编译！

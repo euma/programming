@@ -1,0 +1,43 @@
+//思路一样，所以这里不用看完分析去写代码，
+//作者的代码总是使用ｍｉｎ来避免使用ｉｆ，但是我喜欢用ｉｆ，这里用ｍｉｎ确实省代码．
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+//硬币的面值V for value of coin, V come from value's first character
+const int V[6] = { 1, 5, 10, 50, 100, 500 };
+
+//输入 C come from coin's first character
+int C[6];			//C[0]=C_1,C[1]=C_5,...
+int A;
+void
+input ()
+{
+  for (int i = 0; i < 6; i++)
+    {
+      scanf ("%d", &C[i]);
+    }
+//直接读入数组，不用像ＣｏｉｎＰｒｏｂｌｅｍＡｒｒａｙ．ｃ中一样先读入Ｃ１Ｃ５
+//．．．然后再转入数组！
+  scanf ("%d", &A);
+}
+
+void
+solve ()
+{
+  int ans = 0;			//ans come from answer's first three character.
+  for (int i = 5; i >= 0; i--)
+    {
+      int t = min (A / V[i], C[i]);	//使用硬币ｉ的枚数
+      A -= t * V[i];
+      printf ("(%d):%d", V[i],t);
+      ans += t;
+    }
+  printf ("%d\n", ans);
+}
+
+int
+main ()
+{
+  input ();
+  solve ();
+}

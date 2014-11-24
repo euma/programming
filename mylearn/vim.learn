@@ -1,0 +1,79 @@
+在写程序时，我需要自动缩排，
+vim中有四种缩排，cindent和indentexpr比较适合c程序员
+:reg #可以vim自己的12个粘贴板。
+如何使用特定的粘贴板："+粘贴板号+y
+粘贴板号有0,1,2 到 9，a,",+,总共十二个！
+
+如何使用系统粘贴板
+ +号粘贴板是系统粘贴板，用"+y将内容复制到该粘贴板后可以使用Ctrl＋V将其粘贴到其他文档（如firefox、gedit）中，同理，要把在其他地方用Ctrl＋C或右键复制的内容复制到vim中，需要在正常模式下按"+p；
+
+我现在在插入模式下，可以用ctrl+shift+v来把系统粘贴板中的内容粘贴到vim中
+
+对ｖｉｍｈｅｌｐ文件的阅读命令
+ｃｔｒｌ＋]进入一个链接
+ｃｔｒｌ＋］退出一个链接
+
+filetype on 执行的是filetype.vim,根据文件名判断文件类型，如果文件名不认识，再调用scripts.vim来根据文件内容来判断文件类型
+
+/usr/share/vim/vim74/doc/*.txt
+			  The  Vim documentation files.  Use ":help doc-file-list"
+			  to get the complete list.
+
+			  /usr/share/vim/vim74/doc/tags
+			  The tags file used for finding information in the  docu‐
+			  mentation files.
+
+			  /usr/share/vim/vim74/syntax/syntax.vim
+			  System wide syntax initializations.
+
+			  /usr/share/vim/vim74/syntax/*.vim
+			  Syntax files for various languages.
+
+			  /usr/share/vim/vimrc
+			  System wide Vim initializations.
+
+			  ~/.vimrc       Your personal Vim initializations.
+
+			  /usr/share/vim/gvimrc
+			  System wide gvim initializations.
+
+			  ~/.gvimrc      Your personal gvim initializations.
+
+			  /usr/share/vim/vim74/optwin.vim
+			  Script  used  for  the ":options" command, a nice way to
+			  view and set options.
+
+			  /usr/share/vim/vim74/menu.vim
+                      System wide menu initializations for gvim.
+
+       /usr/share/vim/vim74/bugreport.vim
+                      Script to generate a bug report.  See ":help bugs".
+
+       /usr/share/vim/vim74/filetype.vim
+                      Script to detect the type of a file by  its  name.   See
+                      ":help 'filetype'".
+
+       /usr/share/vim/vim74/scripts.vim
+                      Script  to  detect  the  type of a file by its contents.
+                      See ":help 'filetype'".
+
+       /usr/share/vim/vim74/print/*.ps
+                      Files used for PostScript printing.
+
+       For recent info read the VIM home page:
+       <URL:http://www.vim.org/>
+
+我用vim 的时候，如果第一行用得//注释，打完一行后，敲回车，换到第二行会自动的出现//符号。
+set fo-=cro
+-r: 按回车不会添加注释
+-o 按o不会添加注释
+-c:重新格式化长注释行不会添加注释
+
+
+#添加注释
+ctrl+v ,选中多行，I,#,Esc
+ctrl+v ,选中多行，d,Esc
+使用替换命令：
+:% s/^/\/\//g     在全部内容的行首添加//号注释
+:2,50 s/^/\/\//g  在2~50行首添加//号注释
+:2,50 s/^\/\///g  在2~50行首删除//号
