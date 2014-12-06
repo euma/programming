@@ -1,0 +1,34 @@
+终于我想要改进一下ｉｎｄｅｎｔ，让其满足我对程序代码格式的要求
+我的第一个要求
+函数声明格式
+ｖｏｉｄ　ａｂｄ（）
+｛
+｝
+ 默认情况下ｉｎｄｅｎｔ的处理
+ｖｏｉｄ
+ａｂｄ（）
+｛
+｝
+
+改变：
+１．－ｂｒ
+       -br, --braces-on-if-line
+           Put braces on line with if, etc.
+           See  STATEMENTS.
+2.
+
+       -brf, --braces-on-func-def-line
+           Put braces on function definition line.
+           See  DECLARATIONS.
+
+3.
+       -brs, --braces-on-struct-decl-line
+           Put braces on struct declaration line.
+           See  DECLARATIONS.
+
+
+这是别人给出的代码格式方法！
+ -kr -i4 -ts4 -nsob -l80 -ss -ncs -cp1 -bap -nbc -bl -bli0 -ncdb -ncdw -nce -cli0 -d0 -pcs -nprs -saf -sai -saw -nss
+
+这是我现在喜欢的风格
+-kr -brf

@@ -143,6 +143,6 @@ main ()
     {
       exit (1);
     }
-  //solve ();
+  solve ();
   return 0;
 }

@@ -1,0 +1,6 @@
+现在出现一个问题
+主机可以访问ｗｉｋｉ，ｇｉｔｈｕｂ，但是虚拟机上就不可以访问
+我需要解决这个问题！
+如何启用共享文件夹
+cd /media/heweiwei/VBOXADDITIONS_4.3.12_93733/
+sudo ./VBoxLinuxAdditions.run install

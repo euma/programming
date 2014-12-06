@@ -5,7 +5,7 @@ git config --global core.editor vim
 
 
 #git remote add origin git@git.com:euma/programming.git #我觉得origin这个名字不好，我要改一下
-git remote add upload_to_github git@git.com:euma/programming.git
+git remote add origin git@git.com:euma/programming.git
 git pull git@git.com:euma/programming.git
 
 git push origin master #这里master可以不写,把文件上传到github上去

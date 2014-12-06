@@ -94,7 +94,7 @@ solve ()
 	  maxcount++;
 	}
     }
-  printf ("\nmax work is %d\n", maxcount);
+  printf ("max work is %d\n", maxcount);
 
 }
 
