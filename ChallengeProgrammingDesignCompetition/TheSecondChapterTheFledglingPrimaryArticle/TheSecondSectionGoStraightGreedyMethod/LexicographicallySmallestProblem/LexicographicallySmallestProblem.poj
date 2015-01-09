@@ -1,0 +1,63 @@
+猜一遍ｏｋ
+查一遍
+Best Cow Line
+Time Limit: 1000MS		Memory Limit: 65536K
+Total Submissions: 10944		Accepted: 3264
+
+Description
+
+FJ is about to take his N (1 ≤ N ≤ 2,000) cows to the annual"Farmer of the Year" competition. In this contest every farmer arranges his cows in a line and herds them past the judges.
+
+annual 年度,猜对了，一年一次的，形容词！
+past 通过
+herds 牵着,不对，群集,放牧，向．．移动，使．．．移动，使成群
+herds them past the judges,带着自己的牛们，通过各种判断！herds强调成群的移动一群动物的方式．
+
+
+The contest organizers adopted a new registration scheme this year: simply register the initial letter of every cow in the order they will appear (i.e., If FJ takes Bessie, Sylvia, and Dora in that order he just registers BSD). After the registration phase ends, every group is judged in increasing lexicographic order according to the string of the initials of the cows' names.
+
+前提取每一个名字的第一个字母，然后按第一个字母排序从小到大排序
+本题目就是实现这个排序！
+registaration phase,注册阶段,phase,阶段
+
+
+registration scheme注册模式,不对，方案
+adopted 适应，提出,调整，改变！,不对，采用
+
+FJ is very busy this year and has to hurry back to his farm, so he wants to be judged as early as possible. He decides to rearrange his cows, who have already lined up, before registering them.
+
+hurry back ,急急忙忙的赶回,返回
+
+FJ marks a location for a new line of the competing cows. He then proceeds to marshal the cows from the old line to the new one by repeatedly sending either the first or last cow in the (remainder of the) original line to the end of the new line. When he's finished, FJ takes his cows for registration in this new order.
+
+proceed，接着做
+marshal,安排,群体性的安排！
+
+Given the initial order of his cows, determine the least lexicographic string of initials he can make this way.
+
+Input
+
+* Line 1: A single integer: N
+* Lines 2..N+1: Line i+1 contains a single initial ('A'..'Z') of the cow in the ith position in the original line
+
+Output
+
+The least lexicographic string he can make. Every line (except perhaps the last one) contains the initials of 80 cows ('A'..'Z') in the new line.
+这里又要求显示前８０头，而不是显示全部！
+理解错了，超过８０要换行！
+最后一行不一定有８０！
+
+一个字母，代表一头牛！
+Sample Input
+
+6
+A
+C
+D
+B
+C
+B
+
+Sample Output
+
+ABCBCD

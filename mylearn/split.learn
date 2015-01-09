@@ -1,0 +1,1 @@
+split -l 50 kaijufenlei.txt -d -a 2 kaiju

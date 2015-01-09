@@ -1,0 +1,52 @@
+/*
+ * 作者：何伟伟
+ * 作者邮箱：<1830973318@qq.com>
+ * 文件名: 35Other3.c
+ * 创建日期: 2015年01月04日 星期日 07时19分15秒
+ * 程序想法： 
+Sun, 31 Oct 2004, 13:07 
+dantruon 
+Australia	
+   Quote   Report    14
+	
+Hide Code
+
+#include <iostream.h>
+
+void main ()
+{
+ const int SIZE=10;
+ int array[SIZE];
+ int   three, five;
+ long sum=0;
+
+ for (int i=1;i<SIZE;i++)
+    {
+      three= (i%3==0);
+      five= (i%5==0);
+      if (three||five)
+       {
+	 cout<<i<<" ";
+	 sum =  sum+ (i*i); // the key line of code
+       }//endif
+     } //endfor
+    cout<<"\n"<<sum;
+} //end main
+
+That is my solution to the problem, similare to the previous one. It takes me a few days to figure it out...lol im a beginner so please be nice....thanks.
+[Permanent post] 
+ */
+#include<stdio.h>
+
+void input() {
+}
+
+void solve() {
+}
+
+int main() {
+    input();
+    solve();
+    return 0;
+}
+

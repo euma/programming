@@ -1,0 +1,3 @@
+http://blog.csdn.net/feixiaoxing/article/details/7203441
+此时如果我们想要生成动态库，要做的工作其实非常简单，输入gcc -shared -fPIC -o libtest.so test.c即可。回车后输入ls，我们就可以发现当前目录下面出现了libtest.so文件。
+在上面的代码当中，我们发现使用到了add函数，那么此时如何才能生成一个执行文件呢？也很简单，输入gcc hello.c -o  hello ./libtest.so。然后输入./hello，此时可以验证一下执行文件运行是否正确。在编写静态库的时候，我说过静态库是汇编链接到执行文件当中的，而动态库不会。朋友们可以做个小实验，删除libtest.so，然后输入./hello。此时大家可以看看系统有没有错误返回？

@@ -1,0 +1,15 @@
+比较字符可以直接使用==比较操作符，如：
+char c1='a',c2='b';
+if(c1==c2) printf("%c is same as %c.",c1,c2);
+else printf("%c is different to %c",c1,c2);
+
+若是字符串，则需要使用字符串函数了，strcmp
+char s1[]="abc",s2[]="xyz";
+if(strcmp(s1,s2)==0) printf("%s is same as %s.",s1,s2);
+也可以忽略大小写来比较，使用函数stricmp 中间的i意思是ignore case sensitive
+还可以指定长度比较，strncmp，如：
+char s1[]="abc",s2[]="abcdefg";
+if(strncmp(s1,s2,3)==0) printf("first 3 characters are same");
+若不是从开头位置开始比较，如：
+char s1[]="abc",s2[]="xyzabc"
+if(strncmp(s1,&s2[3],3)==0) 就是比较s1和s2的第3个字符开始的内容

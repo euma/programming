@@ -1,0 +1,122 @@
+/*
+ * 作者：何伟伟
+ * 作者邮箱：<1830973318@qq.com>
+ * 文件名: HuffmanCodingOther.cpp
+ * 创建日期: 2015年01月07日 星期三 20时48分59秒
+ * 程序想法： 
+ */
+
+#include<iostream>
+#include<string>
+#include<queue>
+using namespace std;
+
+class node{
+	public:
+		node(string con, float wht, node* left, node* right, string co ){
+			content=con;
+			weight=wht;
+			leftchild=left;
+			rightchild=right;
+			code=co;
+		}
+		string content;
+		float weight;
+		node* leftchild;
+		node* rightchild;
+		string code;
+};
+
+void insertion_sort(node** array, int low, int high){
+	for(int i=low+1;i<high;i++){
+		node* tem=array[i];
+		int j=i-1;
+		while(array[j]->weight>tem->weight&&j>=low){
+			array[j+1]=array[j];
+			j--;
+		}
+		array[j+1]=tem;
+	}
+}
+void create_huffman_tree(string* s, float* w,int n,node** array){
+	for(int i=0;i<n;i++){
+		array[i]=new node(s[i],w[i],NULL,NULL,"");
+	}
+	insertion_sort(array,0,n);
+	//~ for(int i=0;i<n;i++){
+	//~ cout<<array[i]->content<<"*";
+	//~ }
+	int p=0;
+	while(p!=n-1){
+		node* min_1=array[p];
+		node* min_2=array[p+1];
+		node* new_node=new node("",min_1->weight+min_2->weight,min_1,min_2,"");
+		//cout<<new_node->weight<<endl;
+		array[p+1]=new_node;
+		p=p+1;
+		insertion_sort(array,p,n);
+	}
+
+}
+
+void create_huffman_code(node* p){
+	queue<node*> nq;
+	nq.push(p);
+	while(nq.size()!=0){
+		node* cur=nq.front();
+		nq.pop();
+		node* l=cur->leftchild;
+		if(l!=NULL){l->code=cur->code+"0"; nq.push(l);}
+		node* r=cur->rightchild;
+		if(r!=NULL){r->code=cur->code+"1"; nq.push(r);}
+		if(l==NULL&&r==NULL){
+			cout<<cur->content<<": "<<cur->code<<endl;
+		}
+	}
+}
+//int main(int argc, char** argv){
+int main(){
+	node* array[7];
+	/*
+	string s[7]={"!","r","o"," ","p","b","e"};
+	float w[7]={1,1,2,2,2,3,4};
+b: 00
+e: 11
+ : 010
+p: 011
+o: 101
+!: 1000
+r: 1001
+
+	*/
+	/*
+	string s[7]={"!","r"," ","p","o","b","e"};
+	float w[7]={1,1,2,2,2,3,4};
+b: 00
+e: 11
+p: 010
+o: 011
+ : 101
+ !: 1000
+r: 1001
+
+	*/
+
+	string s[7]={"r","!","p","o"," ","b","e"};
+	//相同频率的字符，按ａｓｃｉｉ码有大到小排列？
+	float w[7]={1,1,2,2,2,3,4};
+	/*
+	 * b: 00
+	 * e: 11
+	 * o: 010
+	 *  : 011
+	 *  p: 101
+	 *  r: 1000
+	 *  !: 1001
+	 *
+	 * */
+
+	create_huffman_tree(s,w,7,array);
+	create_huffman_code(array[6]);
+}
+//该代码片段来自于: http://www.sharejs.com/codes/cpp/5464
