@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 h6 7. Bxf7 Nf6
+8. Nc3 Bb4 9. Bd2 Bxc3 10. Bxc3 Nxe4 11. Bxe5 Nxe5 12. Nxe5 Rf8 13. f3 Nd6 14.
+O-O-O Ke7 15. Bb3 Be6 16. Ng6+ Kd7 17. Nxf8+ Rxf8 18. Bxe6+ Kxe6 19. Rhe1+ Kd7
+20. Rd2 b6 21. Rde2 Rf7 22. b3 a5 23. a4 c6 24. c3 b5 25. axb5 cxb5 26. Kc2 h5
+27. Ra1 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.04.13"]
+[Round "1"]
+[White "Perez Fernandez, Guillermo"]
+[Black "Cabanas Bravo, Juan Andres"]
+[Result "0-1"]
+[ECO "C25"]
+[BlackElo "1959"]
+[PlyCount "56"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nc3 e5 2. e4 Nc6 3. Bc4 Bc5 4. d3 d6 5. f4 Bxg1 6. Rxg1 Qh4+ 7. g3 Qxh2 8.
+Be3 Nd4 9. Bb3 Nf6 10. f5 h5 11. Kf1 Ng4 12. Nd5 c6 13. Rg2 Qh1+ 14. Bg1 cxd5
+15. Qd2 dxe4 16. dxe4 g6 17. c3 Nxb3 18. axb3 gxf5 19. Re1 fxe4 20. Qxd6 Rh6
+21. Qd5 Rf6+ 22. Ke2 Qxg2+ 23. Kd1 Be6 24. Qb5+ Kf8 25. Bc5+ Kg8 26. Be7 Rf2
+27. Bg5 Rxb2 28. Rf1 Rd8+ 0-1
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.04.13"]
+[Round "1"]
+[White "Savchuk, Olga"]
+[Black "Garcia Folch, Guille"]
+[Result "1-0"]
+[ECO "C60"]
+[PlyCount "146"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. d3 g6 5. Bg5 Bg7 6. Qd2 O-O 7. O-O d5 8.
+Bxc6 bxc6 9. h3 Ba6 10. c3 dxe4 11. dxe4 Qxd2 12. Nbxd2 Bxf1 13. Kxf1 f6 14.
+Be3 Rab8 15. b3 f5 16. Bxa7 Ra8 17. Bc5 Rfe8 18. exf5 Nxf5 19. Ne4 Rad8 20. a4
+Nd6 21. Nfd2 Bh6 22. Nf6+ Kf7 23. Nxe8 Kxe8 24. Nf3 Bg7 25. Ng5 Nb7 26. Bb4 c5
+27. Ba3 Na5 28. Ne6 Rd7 29. Nxg7+ Rxg7 30. b4 cxb4 31. cxb4 Nc4 32. a5 c6 33.
+Bc1 Kd7 34. a6 Rg8 35. Rb1 Ra8 36. b5 cxb5 37. Rxb5 Rxa6 38. Bg5 Ra1+ 39. Ke2
+Ra2+ 40. Kf1 Ke6 41. Rb7 h5 42. Rc7 Nd6 43. Re7+ Kf5 44. Be3 Nc4 45. Bh6 g5 46.
+Rg7 Nd2+ 47. Ke1 Ne4 48. f3 Ra1+ 49. Ke2 Ra2+ 50. Ke3 Ra3+ 51. Ke2 Nc3+ 52. Kf2
+Ra2+ 53. Kg3 h4+ 54. Kh2 e4 55. Rxg5+ Kf6 56. fxe4 Nxe4 57. Rg4 Ng3 58. Bg5+
+Kf5 59. Bxh4 Nf1+ 60. Kg1 Ne3 61. Rg8 Ra1+ 62. Kf2 Nd1+ 63. Kg3 Ra3+ 64. Kh2
+Ne3 65. Be7 Ra2 66. h4 Ke6 67. Bg5 Nf5 68. h5 Kf7 69. Rc8 Ra6 70. g4 Nh6 71.
+Bxh6 Rxh6 72. Kh3 Kf6 73. Kh4 Rh7 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.04.20"]
+[Round "2"]
+[White "Casas Rios, Ramon"]
+[Black "Garcia Vozmediano, Aranzazu"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "1904"]
+[PlyCount "77"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Bg4 7. Qxd8+ Rxd8
+8. Nbd2 Nf6 9. Ne5 Be6 10. f3 Bd6 11. Nd3 Nd7 12. Nb3 h6 13. Be3 b6 14. Nd4 Nb8
+15. Nxe6 fxe6 16. Ke2 Ke7 17. Rad1 Nd7 18. c4 c5 19. Nf4 Ne5 20. b3 Rd7 21. Rd2
+Rhd8 22. Rhd1 g5 23. Nd3 Nxd3 24. Rxd3 Bxh2 25. Rxd7+ Rxd7 26. Rh1 Bf4 27. Rxh6
+e5 28. Rh7+ Ke6 29. Rxd7 Kxd7 30. Bxf4 gxf4 31. Kf2 c6 32. g4 fxg3+ 33. Kxg3
+Ke6 34. Kg4 Kf6 35. Kh5 b5 36. a4 b4 37. a5 Ke6 38. Kg6 Kd6 39. Kf6 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.04.20"]
+[Round "2"]
+[White "Ortiz Berruguete, Adrian"]
+[Black "Cuadrado Lopez, Francisco Javier"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "1658"]
+[BlackElo "1934"]
+[PlyCount "34"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. Nb5 Bxe3 7. fxe3 Qh4+
+8. g3 Qd8 9. Qg4 Nf6 10. Qf4 d6 11. Bc4 Ne5 12. Bb3 a6 13. Nd4 c5 14. Nf3 Ng6
+15. Qg5 h6 16. Bxf7+ Kxf7 17. Ne5+ dxe5 0-1
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.04.20"]
+[Round "2"]
+[White "Rasillo Fuentes, Raul"]
+[Black "Cano Nieto, Jose Luis"]
+[Result "1-0"]
+[ECO "C55"]
+[PlyCount "131"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. Nc3 Nf6 5. d3 d6 6. Ng5 O-O 7. Nxf7 Rxf7 8.
+Bxf7+ Kxf7 9. h3 Be6 10. Bg5 Kg8 11. Bxf6 Bxf6 12. Nd5 Bxd5 13. exd5 Ne7 14. c4
+c6 15. dxc6 bxc6 16. Rb1 Ng6 17. g3 Qe8 18. Qe2 Qf7 19. b3 Re8 20. O-O d5 21.
+cxd5 cxd5 22. f3 Qe6 23. Kg2 Bh4 24. d4 Bf6 25. dxe5 Qxe5 26. Qxe5 Rxe5 27. f4
+Re2+ 28. Rf2 Re8 29. Rd1 d4 30. h4 Rd8 31. Kh3 h6 32. h5 Ne7 33. g4 Nc6 34. Rc2
+Nb4 35. Rcd2 Kh7 36. a3 Nc6 37. b4 a6 38. Rc1 Rd6 39. Kg3 Kg8 40. Kf3 Kh7 41.
+Rd3 Re6 42. Kf2 Ne7 43. Rc4 Nd5 44. Kf3 Ne3 45. Rc5 Rd6 46. a4 Nd5 47. b5 axb5
+48. axb5 Nc3 49. Rcxc3 Rb6 50. Rb3 Kh8 51. g5 hxg5 52. fxg5 Bxg5 53. Rxd4 Be7
+54. Rc4 Rf6+ 55. Ke4 Rb6 56. Rc6 Rb8 57. b6 Bf6 58. b7 Kh7 59. Rc8 Rxb7 60.
+Rxb7 Ba1 61. Rc6 Kh8 62. h6 Kh7 63. hxg7 Bxg7 64. Rxg7+ Kxg7 65. Kf5 Kh7 66.
+Kg5 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.04.20"]
+[Round "2"]
+[White "Sancho Diaz, Santiago"]
+[Black "Perez Alvarez, Javier"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "1918"]
+[BlackElo "1727"]
+[PlyCount "93"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Be7 6. Bg5 Be6 7. cxd5 Nxd5 8.
+Be3 O-O 9. Nf3 Nd7 10. Be2 N7f6 11. h3 c6 12. O-O Bd6 13. Qd2 Qc8 14. Nxd5 Nxd5
+15. Ng5 Bf5 16. Bd3 h6 17. Bxf5 Qxf5 18. Nf3 Rfe8 19. a3 Re6 20. Rfe1 Bc7 21.
+Rad1 Rae8 22. Qd3 Qh5 23. Bd2 Bf4 24. Rxe6 Rxe6 25. Re1 Rxe1+ 26. Bxe1 f6 27.
+Bd2 Bxd2 28. Qxd2 Qf5 29. Nh4 Qf4 30. Qxf4 Nxf4 31. Nf5 a5 32. Kf1 Nd3 33. b3
+Nc1 34. b4 axb4 35. axb4 Kf8 36. Nd6 b5 37. d5 cxd5 38. Nxb5 Nd3 39. Nd6 Nxb4
+40. Ke2 g6 41. Ke3 Nc6 42. g4 Ke7 43. Nb5 g5 44. f4 Kd7 45. f5 Ne5 46. Nd4 Nc6
+47. Nb5 1/2-1/2
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.04.27"]
+[Round "3"]
+[White "Benitez Robles, Antonio"]
+[Black "Pablos Ceruelo, Oscar"]
+[Result "1-0"]
+[ECO "C41"]
+[PlyCount "65"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 c6 4. Bc4 Bg4 5. d3 h6 6. O-O Nf6 7. Re1 Nbd7 8. a3
+Be7 9. Re3 Nb6 10. Ba2 c5 11. b4 d5 12. exd5 Nbxd5 13. Nxd5 Nxd5 14. Rxe5 Nc3
+15. Qe1 cxb4 16. Bb2 Nxa2 17. Rxa2 Be6 18. Ra1 bxa3 19. Bxa3 Bxa3 20. Rxa3 Qb6
+21. Rb3 Qa6 22. Nd4 O-O 23. Nxe6 fxe6 24. Rxe6 Qa4 25. Rxb7 Qxc2 26. Rxg7+ Kh8
+27. Ree7 Qxd3 28. Rg3 Qd4 29. h3 a5 30. Qe6 Rf6 31. Re8+ Rxe8 32. Qxe8+ Kh7 33.
+Qg8# 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.04.27"]
+[Round "3"]
+[White "Cuadrado Lopez, Francisco Javier"]
+[Black "Cabanas Bravo, Juan Andres"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "1934"]
+[BlackElo "2014"]
+[PlyCount "88"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. Na3 Qe6 7. b3 Ne7 8.
+Nc4 Ng6 9. Bb2 f6 10. d4 exd4 11. Nxd4 Qg4 12. Re1 Bb4 13. Re3 Qxd1+ 14. Rxd1
+Bg4 15. f3 Bc8 16. a3 Bc5 17. b4 Ba7 18. Kf1 O-O 19. Red3 c5 20. bxc5 Bxc5 21.
+Nb3 Be7 22. Ne3 Bd6 23. g3 Be5 24. Bc1 b6 25. Nd4 a5 26. Kg2 Ba6 27. c4 Bd6 28.
+Ndf5 Ne5 29. Rc3 Rfd8 30. Nxd6 Rxd6 31. Rxd6 cxd6 32. f4 Nf7 33. Rb3 Rb8 34.
+Kf2 Kf8 35. Nd5 Bxc4 36. Rxb6 Rc8 37. Nc3 g5 38. Ke3 gxf4+ 39. gxf4 Rc5 40. f5
+Bf1 41. Kd4 Rc4+ 42. Kd5 Rxc3 43. Bb2 Bc4+ 44. Kd4 Rb3 0-1
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.04.27"]
+[Round "3"]
+[White "Perez Fernandez, Guillermo"]
+[Black "Vazquez Moreno, Luis"]
+[Result "1-0"]
+[ECO "C27"]
+[BlackElo "1736"]
+[PlyCount "91"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nc3 e5 2. e4 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. Nb5 g6 7. Qf3 Qe7 8.
+Nxc7+ Kd8 9. Nxa8 e4 10. Qc3 Rg8 11. Ne2 b6 12. Nd4 Bg7 13. Nxc6+ dxc6 14. Qxc6
+Bb7 15. Qc7+ Qxc7 16. Nxc7 Kxc7 17. O-O Rd8 18. c3 f5 19. Bc2 Ba6 20. Re1 Nc4
+21. f3 Nxd2 22. fxe4 Bf8 23. exf5 Bc5+ 24. Kh1 Bb7 25. fxg6 hxg6 26. Re2 Nf3
+27. Bf4+ Kc8 28. Bxg6 Nh4 29. Be4 Ba6 30. Rd2 Rg8 31. g3 Re8 32. Re1 Rxe4 33.
+Rxe4 Bb7 34. Rde2 Ng6 35. b4 Nxf4 36. gxf4 Bd6 37. Kg1 a5 38. Rd4 Kc7 39. Red2
+axb4 40. cxb4 Bc5 41. bxc5 bxc5 42. Rd7+ Kc6 43. Rxb7 Kxb7 44. f5 Kc6 45. f6
+Kb5 46. f7 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.04"]
+[Round "4"]
+[White "Cabanas Bravo, Juan Andres"]
+[Black "Perez Alvarez, Javier"]
+[Result "1-0"]
+[ECO "C15"]
+[WhiteElo "1959"]
+[BlackElo "1727"]
+[PlyCount "67"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Ne7 5. a3 Ba5 6. Qg4 O-O 7. e5 c5 8. dxc5
+Nd7 9. Nf3 Bxc3 10. Bxc3 Nxc5 11. O-O-O Bd7 12. Qh5 a5 13. h4 b5 14. Ng5 h6 15.
+Bd4 Qc7 16. Bd3 Nxd3+ 17. Rxd3 b4 18. Kb1 Bb5 19. Rdh3 Nf5 20. Qd1 bxa3 21.
+Rxa3 Nxd4 22. Qxd4 hxg5 23. hxg5 Rfc8 24. Rc3 Qb7 25. Qh4 Kf8 26. Qh8+ Ke7 27.
+Qxg7 Be8 28. Rf3 Rab8 29. Rxf7+ Bxf7 30. Qf6+ Kd7 31. Qxf7+ Kc6 32. Qxe6+ Kc5
+33. Qd6+ Kd4 34. Rh4# 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.04"]
+[Round "4"]
+[White "Rodriguez Alonso, Marcos"]
+[Black "Cano Nieto, Jose Luis"]
+[Result "0-1"]
+[ECO "C55"]
+[PlyCount "88"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 h6 5. O-O d6 6. d3 Bg4 7. h3 Bh5 8. Bb5
+a6 9. Bxc6+ bxc6 10. b3 Be7 11. Be3 O-O 12. Qd2 Bxf3 13. gxf3 Nh7 14. Rfe1 Bg5
+15. f4 Bxf4 16. Bxf4 exf4 17. Qxf4 Ng5 18. Qg3 Qf6 19. f4 Nxh3+ 20. Qxh3 Qxc3
+21. Re2 Qxa1+ 22. Kh2 Qf6 23. f5 Rfe8 24. Qg3 Qe5 25. Qxe5 Rxe5 26. Kg3 Rae8
+27. Kf3 d5 28. Kf4 dxe4 29. Rxe4 Rxe4+ 30. dxe4 Rd8 31. Ke3 Rd1 32. Ke2 Ra1 33.
+a4 Ra2 34. Kd3 h5 35. Ke3 Rxc2 36. Kd3 Ra2 37. Ke3 Ra3 38. Kf3 Rxb3+ 39. Kg2
+Rb4 40. e5 c5 41. e6 fxe6 42. fxe6 Re4 43. Kg3 Rxe6 44. Kh4 c4 0-1
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.11"]
+[Round "5"]
+[White "De Mingo Matias, Jose Andres"]
+[Black "Gines Martinez, Andres"]
+[Result "0-1"]
+[ECO "C45"]
+[PlyCount "88"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Bd3 Nf6 7. Bg5 Be7 8.
+O-O h6 9. Bh4 O-O 10. c4 b6 11. Nc3 c5 12. Qe3 Bb7 13. h3 Re8 14. g4 Nh7 15.
+Bxe7 Qxe7 16. Nd5 Bxd5 17. cxd5 Qg5 18. f4 Qxd5 19. Rad1 Nf6 20. Bb5 Rxe4 21.
+Rxd5 Rxe3 22. Rxd6 Rxh3 23. g5 hxg5 24. Rfd1 gxf4 25. Bc6 Rf8 26. Rd8 Re3 27.
+Rxf8+ Kxf8 28. Rd8+ Ke7 29. Rb8 Rd3 30. Rb7+ Nd7 31. Rxa7 g5 32. Ra4 Rd2 33. b3
+Kd6 34. Bxd7 Kxd7 35. Ra7+ Ke6 36. Ra6 Rd6 37. Ra8 f5 38. a4 f3 39. Kf2 g4 40.
+Re8+ Kf6 41. Rf8+ Ke5 42. Re8+ Kf4 43. Re1 Rd2+ 44. Kf1 g3 0-1
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.11"]
+[Round "5"]
+[White "Perez Alvarez, Javier"]
+[Black "Benitez Robles, Antonio"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "1727"]
+[PlyCount "55"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 c6 6. Nc3 d6 7. Be3 Bg4 8.
+f3 Be6 9. Bc4 Bxc4 10. Qxc4 Be7 11. O-O-O Qa5 12. Kb1 Rd8 13. g4 h6 14. h4 a6
+15. f4 Qc7 16. Nd5 Qa5 17. Nxe7 Nxe7 18. f5 O-O 19. g5 h5 20. g6 Qe5 21. gxf7+
+Kh7 22. Bd4 Qb5 23. Qe6 c5 24. Bxg7 Kxg7 25. Rhg1+ Kh7 26. Qf6 Nxf5 27. Qxf5+
+Kh8 28. Qxh5# 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.18"]
+[Round "6"]
+[White "Cabanas Bravo, Juan Andres"]
+[Black "Orantos Alonso, Francisco D"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "1959"]
+[BlackElo "1787"]
+[PlyCount "107"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 cxd4 7. cxd4 f6 8. Nf4
+Bb4+ 9. Bd2 Qb6 10. Bxb4 Qxb4+ 11. Qd2 Qxd2+ 12. Kxd2 Ke7 13. exf6+ gxf6 14.
+Nf3 a6 15. Bd3 Nb6 16. Rae1 Kf7 17. b3 Nc6 18. Rhg1 Bd7 19. g4 Rag8 20. Rg3
+Nxd4 21. Nxd4 e5 22. Nxd5 Nxd5 23. Bc4 Bc6 24. Nf5 Rd8 25. Rh3 b5 26. Bxd5+
+Rxd5+ 27. Kc3 Bd7 28. Ne3 Rc8+ 29. Kb4 Rd4+ 30. Ka5 Kg6 31. Rd1 Rxd1 32. Nxd1
+Rc2 33. Kxa6 Rxa2+ 34. Kb6 Rd2 35. Nc3 Bxg4 36. Rg3 Kf5 37. f3 Bh5 38. Nxb5 Rd3
+39. b4 Rxf3 40. Nd6+ Ke6 41. Kc5 Rxg3 42. hxg3 Bf3 43. b5 e4 44. Nc4 Kd7 45.
+Kd4 h5 46. Ke3 f5 47. Ne5+ Kc7 48. Nxf3 exf3 49. Kxf3 Kb6 50. Kf4 Kxb5 51. Kxf5
+Kc5 52. Kg5 h4 53. gxh4 Kd6 54. Kg6 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.18"]
+[Round "6"]
+[White "Casas Rios, Ramon"]
+[Black "Perez Fernandez, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "1904"]
+[PlyCount "49"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bd3 Bg4
+8. h3 Bh5 9. Be3 Nc6 10. g4 Bg6 11. Qd2 Qd7 12. O-O-O O-O-O 13. Bb5 Be4 14. Bd3
+Bg6 15. Nd4 Ne5 16. Bf5 Bxf5 17. Nxf5 Bf6 18. Qd5 Qe6 19. f4 Nc4 20. Bf2 g6 21.
+Qxe6+ fxe6 22. Nd4 Rde8 23. Rhe1 e5 24. fxe5 Nxe5 25. Re2 1/2-1/2
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.18"]
+[Round "6"]
+[White "Ortiz Berruguete, Adrian"]
+[Black "Savchuk, Olga"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "1658"]
+[PlyCount "47"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 Nf6 7. Bg5 Be7 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 c5 11. Qd3 Qc7 12. Bxf6 Bxf6 13. Qxd6 Qxd6 14. Rxd6
+Bxc3 15. bxc3 Rd8 16. Bc4 O-O 17. Rhd1 b5 18. Bxb5 Bxb5 19. Rxd8 Rxd8 20. Rxd8+
+Kh7 21. Rd5 Bc4 22. Rxc5 Bxa2 23. Ra5 Bc4 24. Rxa7 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.18"]
+[Round "6"]
+[White "Pablos Ceruelo, Oscar"]
+[Black "Garcia Vozmediano, Aranzazu"]
+[Result "0-1"]
+[ECO "C24"]
+[PlyCount "48"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. a3 Be7 5. Nc3 d6 6. h3 O-O 7. Qf3 Nd4 8. Qd1
+Be6 9. Nge2 Nxe2 10. Qxe2 Qd7 11. g4 Bxc4 12. g5 Bxd3 13. cxd3 Ne8 14. Be3 f5
+15. exf5 Qxf5 16. h4 c6 17. O-O-O d5 18. d4 Bd6 19. Rhe1 Nc7 20. dxe5 Bxe5 21.
+Bc5 Rfe8 22. Qc2 Qg4 23. Bd4 Bxd4 24. Ne2 Bxf2 0-1
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.18"]
+[Round "6"]
+[White "Rodriguez Dominguez, Julia"]
+[Black "Vazquez Moreno, Luis"]
+[Result "0-1"]
+[ECO "C24"]
+[BlackElo "1736"]
+[PlyCount "78"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 d5 4. exd5 Nxd5 5. Nf3 Nc6 6. Bg5 f6 7. Bh4 Bc5 8.
+O-O Nb6 9. Bb3 Na5 10. Nbd2 Qd6 11. Ne4 Qf8 12. Nxc5 Qxc5 13. c3 Nxb3 14. Qxb3
+g5 15. Bg3 Qd5 16. c4 Qc5 17. Rad1 Bd7 18. Rd2 g4 19. Ne1 O-O-O 20. Qc3 h5 21.
+Bh4 Rdf8 22. Nc2 Na4 23. Qb3 f5 24. d4 Qa5 25. Rdd1 exd4 26. Nxd4 Nc5 27. Qe3
+f4 28. Qe5 Qb6 29. Be7 Ne6 30. Nxe6 Bxe6 31. Bxf8 Rxf8 32. b3 h4 33. Qh5 h3 34.
+gxh3 gxh3 35. Qh6 Rg8+ 36. Kh1 Bd5+ 37. Rxd5 Qxh6 38. Rd4 Qg7 39. Rg1 Qxg1# 0-1
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.25"]
+[Round "7"]
+[White "Cuadrado Lopez, Francisco Javier"]
+[Black "Perez Alvarez, Javier"]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "1934"]
+[BlackElo "1728"]
+[PlyCount "51"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Qc7 8. Nf3
+Nbc6 9. Bd2 Bd7 10. a4 O-O 11. h5 h6 12. Qc1 cxd4 13. cxd4 Nxd4 14. Nxd4 Qxe5+
+15. Be3 Rac8 16. Bd3 f5 17. Nf3 Qc7 18. Bf4 Qc3+ 19. Kf1 Nc6 20. Ra3 Qf6 21.
+Bb5 Qe7 22. Bxc6 Bxc6 23. Ne5 Rfe8 24. Bxh6 gxh6 25. Qxh6 Qg7 26. Rg3 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.25"]
+[Round "7"]
+[White "Rasillo Fuentes, Raul"]
+[Black "Ramos Pinto, Jose Maria"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[BlackElo "1555"]
+[PlyCount "47"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 h6 6. Be3 Bb6 7. a3 d6 8. b4
+Bg4 9. h3 Bh5 10. g4 Bg6 11. Rg1 Bxe3 12. fxe3 a6 13. h4 Qd7 14. h5 Bh7 15. Nh2
+Qd8 16. Nd5 Nxd5 17. Bxd5 Qh4+ 18. Kf1 Qxh2 19. Rg2 Qh3 20. Qe2 Qh1+ 21. Rg1
+Qh3+ 22. Rg2 Qh1+ 23. Rg1 Qh3+ 24. Rg2 1/2-1/2
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.05.25"]
+[Round "7"]
+[White "Savchuk, Olga"]
+[Black "Rodriguez Dominguez, Julia"]
+[Result "1-0"]
+[ECO "C71"]
+[PlyCount "65"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 a6 5. Ba4 Bd7 6. d5 Na5 7. Bxd7+ Qxd7 8.
+Bd2 Nc4 9. b3 Nxd2 10. Nbxd2 Nf6 11. O-O c6 12. c4 Qg4 13. h3 Qg6 14. Nh4 Qh6
+15. Nf5 Qf4 16. Ng3 Be7 17. Re1 O-O 18. Nf3 cxd5 19. cxd5 Bd8 20. a4 Ba5 21.
+Re2 Nd7 22. Rb1 Bd8 23. Rc2 Bh4 24. Nxh4 Qxh4 25. b4 Nf6 26. Qf3 b5 27. a5 Rac8
+28. Rbc1 Rfd8 29. Rxc8 Rf8 30. Nf5 Qg5 31. Ne7+ Kh8 32. Rxf8+ Ng8 33. Rxg8# 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.06.01"]
+[Round "8"]
+[White "Moreno Lopez, Jose"]
+[Black "Cuadrado Lopez, Francisco Javier"]
+[Result "0-1"]
+[ECO "C33"]
+[BlackElo "1934"]
+[PlyCount "50"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d6 4. d4 Nf6 5. Nc3 Nc6 6. Bxf4 Bg4 7. Nf3 Qd7 8.
+Bb5 a6 9. Bc4 O-O-O 10. O-O h6 11. b4 Nxb4 12. Rb1 d5 13. exd5 Nbxd5 14. Nxd5
+Nxd5 15. Bxa6 bxa6 16. Qd3 Qa4 17. Ne5 Be6 18. Qe4 f5 19. Qd3 Nxf4 20. Rxf4 g5
+21. Rf2 Rxd4 22. Qf3 Re4 23. c4 Bc5 24. Kh1 Bxf2 25. Qxf2 Rd8 0-1
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.06.01"]
+[Round "8"]
+[White "Ortiz Berruguete, Adrian"]
+[Black "Rasillo Fuentes, Raul"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "1658"]
+[PlyCount "97"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. dxe5 Nxe5 5. Nxe5 dxe5 6. Qxd8+ Kxd8 7. Bc4 f6
+8. O-O Bd6 9. Nc3 g5 10. Be3 h5 11. Rad1 b6 12. Nb5 Ke7 13. Nxd6 cxd6 14. Rd2
+Bb7 15. f3 Nh6 16. h3 g4 17. Kh2 gxf3 18. gxf3 Raf8 19. Rg1 Nf7 20. Rdg2 Rh7
+21. h4 Bc6 22. Rg3 b5 23. Bb3 a5 24. a3 a4 25. Ba2 Bd7 26. Rd1 f5 27. Bg5+ Nxg5
+28. hxg5 h4 29. Rgg1 fxe4 30. fxe4 Rf2+ 31. Kh1 Rxc2 32. Rb1 Re2 33. Bd5 h3 34.
+g6 Rg7 35. b3 Ra2 36. bxa4 Rxa3 37. axb5 Be8 38. b6 Ra5 39. b7 Rxd5 40. exd5
+Bxg6 41. b8=Q Be4+ 42. Kh2 Rg2+ 43. Rxg2 hxg2 44. Qc7+ Kf6 45. Qxd6+ Kg5 46.
+Qxe5+ Bf5 47. Rg1 Kh4 48. Rxg2 Bh3 49. Qh8# 1-0
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.06.01"]
+[Round "8"]
+[White "Perez Fernandez, Guillermo"]
+[Black "Perez Alvarez, Javier"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[BlackElo "1728"]
+[PlyCount "88"]
+[EventDate "2008.04.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nc3 e6 2. e4 d5 3. exd5 exd5 4. d4 c6 5. Nf3 h6 6. Be2 Bd6 7. O-O Qf6 8. Be3
+Ne7 9. Qd2 O-O 10. Nd1 Bg4 11. c3 Nd7 12. h3 Bf5 13. Bf4 Ng6 14. Bxd6 Qxd6 15.
+Ne3 Be4 16. Nh2 Nf4 17. Bg4 Nf6 18. Nf5 Bxf5 19. Bxf5 Rfe8 20. Rae1 Ne6 21. Bb1
+Qf4 22. Qc2 Nf8 23. Nf3 Ne4 24. Re3 Re7 25. Rfe1 Rae8 26. Ne5 Qg5 27. Qe2 f5
+28. Bxe4 fxe4 29. Rg3 Qf5 30. Ng4 Kh8 31. Qe3 Nd7 32. Qd2 Nf6 33. Ne5 Kh7 34.
+Ng6 Rf7 35. Nh4 Qd7 36. Ng6 Qe6 37. Ne5 Rfe7 38. Ree3 Nd7 39. Rg6 Qf5 40. Nxd7
+Rxd7 41. Reg3 Re6 42. Rxe6 Qxe6 43. Qe3 Qd6 44. Qe2 Rf7 1/2-1/2
+
+[Event "Madrid los Angeles CC op 2nd"]
+[Site "Madrid"]
+[Date "2008.06.01"]
+[Round "8"]
+[White "Sancho Diaz, Santiago"]
+[Black "Orantos Alonso, Francisco D"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1918"]
+[BlackElo "1787"]

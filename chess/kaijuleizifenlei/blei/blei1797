@@ -1,0 +1,600 @@
+[BlackElo "2593"]
+[PlyCount "80"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. b4 cxb4 3. a3 bxa3 4. Nf3 d6 5. d4 Nf6 6. Nc3 e6 7. Bd3 Be7 8. O-O
+Nc6 9. Bxa3 O-O 10. Qe2 e5 11. d5 Na5 12. Nd2 b6 13. Ra2 Bd7 14. Rfa1 Qb8 15.
+h3 Rc8 16. Nd1 Ne8 17. Ne3 Bg5 18. Rf1 Nb7 19. Nf3 Bxe3 20. Qxe3 Nc5 21. Nh2
+Nxd3 22. cxd3 a5 23. f4 b5 24. fxe5 dxe5 25. Raf2 f6 26. Bb2 a4 27. Qg3 a3 28.
+Bxe5 Qb6 29. Kh1 b4 30. Nf3 b3 31. Bd4 Qb8 32. e5 b2 33. Kh2 Rc1 34. Nd2 Rxf1
+35. Rxf1 a2 36. exf6 Nxf6 37. d6 Ng4+ 38. hxg4 a1=Q 39. Qe5 Qf8 40. Rxf8+ Kxf8
+1-0
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.30"]
+[Round "9"]
+[White "Karrer, Damian"]
+[Black "Al Sayed, Mohamad Naser"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2033"]
+[BlackElo "2470"]
+[PlyCount "36"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 f6 8. Nf4 Bf7
+9. g5 Nc6 10. Bb5 Qb6 11. Ncxd5 exd5 12. e6 Qxb5 13. exf7+ Kxf7 14. Qh5+ g6 15.
+Nxg6 hxg6 16. Qxh8 Bg7 17. Qh7 Nxd4 18. h5 Qe2# 0-1
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.30"]
+[Round "9"]
+[White "Nezad, Husein Aziz"]
+[Black "Hausrath, Daniel"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2372"]
+[BlackElo "2491"]
+[PlyCount "63"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 e6 5. Qd2 a6 6. h4 h6 7. O-O-O b5 8. Bd3
+Nc6 9. Nce2 Nf6 10. f3 Nd7 11. f4 Nb6 12. h5 Nc4 13. Bxc4 bxc4 14. Nf3 Qd7 15.
+hxg6 fxg6 16. f5 exf5 17. exf5 Qxf5 18. Bxh6 Rxh6 19. Rxh6 Bxh6 20. Qxh6 Nb4
+21. Qd2 Rb8 22. Nc3 Nd5 23. Rh1 Kd7 24. Ne5+ dxe5 25. Nxd5 e4 26. Qa5 Rb7 27.
+Qc5 Ke6 28. Qc6+ Kf7 29. Rh7+ Kg8 30. Nf6+ Qxf6 31. Qxf6 Kxh7 32. Qf7+ 1-0
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.30"]
+[Round "9"]
+[White "Raetsky, Alexander"]
+[Black "Kovacevic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[WhiteElo "2421"]
+[BlackElo "2585"]
+[PlyCount "35"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. e4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8.
+Qxd4 Bg7 9. Be3 O-O 10. Qd2 Be6 11. f3 Qa5 12. Rc1 Rfc8 13. b3 a6 14. Nd5 Qxd2+
+15. Kxd2 Nxd5 16. cxd5 Bd7 17. Rxc8+ Rxc8 18. Rc1 1/2-1/2
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.30"]
+[Round "9"]
+[White "Skoberne, Jure"]
+[Black "Mas, Hafizulhelmi"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2499"]
+[BlackElo "2386"]
+[PlyCount "150"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. Nc3 dxe4 6. Bc4 Nc6 7. Nge2 a6 8.
+Bg5 Na5 9. Bd5 Nf6 10. Bxf6 exf6 11. Bxe4 f5 12. Bd5 Bd6 13. h4 h5 14. Qd2 Bd7
+15. O-O-O Rc8 16. Kb1 Kf8 17. g3 b5 18. Nf4 Nc4 19. Bxc4 bxc4 20. d5 Qf6 21.
+Rhe1 Kg8 22. Ne6 Be5 23. Nd4 Qd6 24. f4 Bf6 25. Nf3 Kg7 26. Re3 Rhd8 27. Ne5
+Rc5 28. Qe2 Bb5 29. a4 Bd7 30. Nxc4 Qb8 31. Ne5 Qb7 32. Rd4 Rb8 33. Qd2 Bd8 34.
+Qc2 Ba5 35. Rc4 Rxc4 36. Nxc4 Bd8 37. Re2 Bf6 38. Ne5 Be8 39. Qd1 Qb4 40. Qc2
+Rc8 41. Ka2 Bd8 42. Nd3 Qc4+ 43. Qb3 Qxb3+ 44. Kxb3 Kf8 45. Ne5 Be7 46. Rd2 Bd6
+47. Nc4 Bc5 48. Kc2 f6 49. b3 Bf7 50. Nd1 Bb4 51. Rd3 Rd8 52. Nc3 Kg7 53. Ne3
+Bc5 54. Kd2 Kf8 55. Nc2 Rb8 56. Na2 g5 57. Ke2 Re8+ 58. Ne3 gxf4 59. gxf4 Re4
+60. Kf3 Bd6 61. Ng2 Ke7 62. Nc3 Rb4 63. Ne3 Rxf4+ 64. Kg2 Kd7 65. Rd1 Bc5 66.
+Nf1 Rf2+ 67. Kh1 Rf3 68. Ne2 Rxb3 69. Nfg3 Bg6 70. Kg2 Bd6 71. Rf1 Rb2 72. Kh3
+Rb3 73. Nf4 Bf7 74. Kh2 Rb4 75. Ng2 Rg4 0-1
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.30"]
+[Round "9"]
+[White "Tairova, Elena"]
+[Black "Smirin, Ilia"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2417"]
+[BlackElo "2637"]
+[PlyCount "74"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. g3 Nf6 7. Bg2 Bd7 8. O-O
+Be7 9. a4 O-O 10. Nde2 a6 11. h3 Rb8 12. g4 b5 13. axb5 axb5 14. Ng3 h6 15. Be3
+Qc7 16. f4 Na5 17. g5 hxg5 18. fxg5 Nh7 19. h4 Nc4 20. Bd4 Bc6 21. b3 Ne5 22.
+Kh1 Ra8 23. Rxa8 Rxa8 24. Qe2 b4 25. Nd1 Bb7 26. Qd2 Ba6 27. Rg1 Nf8 28. Ne3
+Nfg6 29. Ngf5 exf5 30. Nd5 Qd8 31. exf5 Nxh4 32. Bb6 Qd7 33. Nf6+ Bxf6 34. gxf6
+Bb7 35. Qg5 Nxf5 36. Kh2 Bxg2 37. Qxg2 Rc8 0-1
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.31"]
+[Round "9"]
+[White "Kritz, Leonid"]
+[Black "Ivanisevic, Ivan"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2610"]
+[BlackElo "2664"]
+[Annotator "Kritz"]
+[PlyCount "101"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 {Die andere populäre
+Fortsetzung ist 5...a6. Danach hat Weiß hat einen kleinen, aber stabilen
+Vorteil:} (5... a6 6. Nxc6 bxc6 7. Bd3 d5 8. O-O Nf6 9. Re1 Be7 10. b3 O-O 11.
+Bb2 $14) 6. Be3 a6 7. Qd2 {Das ist die aggressivste Spielweise gegen die
+Klassische Paulsen-Variante.} (7. Bd3 {gilt als alternative Hauptvariante,
+meiner Meinung nach verspricht dieser Zug Weiß überhaupt nichts.} Nf6 8. O-O
+Nxd4 $1 {Der einfachste Weg, die Stellung auszugleichen.} 9. Bxd4 Bc5 10. Bxc5
+(10. Bxf6 gxf6 11. Qg4 Kf8 $1 $15) 10... Qxc5 11. Na4 (11. Kh1 e5 12. f4 d6 (
+12... exf4 $2 13. e5 $1 $18) 13. fxe5 Qxe5 $11)) (7. Be2 Nf6 8. O-O Be7 {führt
+zum Scheveningen.}) 7... Nf6 8. O-O-O Bb4 9. f3 {Die Ausgangsstellung der
+Paulsen-Variante.} Ne5 (9... d5 {sieht am logischsten aus, bringt Schwarz
+jedoch in große Schwierigkeiten:} 10. a3 $1 Bxc3 11. Qxc3 dxe4 12. fxe4 Nxe4
+13. Qd3 Nc5 (13... f5 14. Qc4 e5 15. Nxc6 Qxc6 16. Rd5 $1 Qe6 (16... Qxc4 17.
+Bxc4 $16) 17. Ra5 $1 Nd6 (17... O-O 18. Rxe5 Qxc4 19. Bxc4+ Kh8 20. Re7 $18)
+18. Qc3 O-O 19. Rxe5 Qa2 20. b3 Qxa3+ 21. Kb1 Nb5 22. Qe1 Rd8 23. Bc4+ Kh8 24.
+Bd2 {1-0 Polgar - Horvath (HalkidikI, 2002)}) 14. Qc4 Nd7 (14... Ne5 15. Qc3
+Bd7 16. b4 Ncd3+ 17. Rxd3 Nxd3+ 18. Qxd3 $18) (14... Qe5 15. Qc3 Nd7 $8 16. Bc4
+O-O 17. Rhf1 $36) 15. Nxc6 Qxc6 16. Qg4 g6 17. Be2 O-O 18. Bh6 Re8 19. Rhf1 $16
+{Kramnik - Ljubojevic (Monte Carlo, 2003)}) (9... Ne7 10. Nde2 d5 11. Bg5 dxe4
+12. Bxf6 gxf6 13. Qd4 exf3 14. Qxb4 fxe2 15. Bxe2 f5 16. Rhe1 Bd7 17. Bh5 $44 {
+Motylev - Ribli (Saint Vincent, 2005). Für den geopferten Bauernn hat Weiß
+mehr als ausreichende Kompensation dank seiner Aktivität und dem schlechten
+schwarzen König.}) (9... b5 10. Nb3 {scheint mir schließlich am besten zu sein.
+Schwarz hat nichts Besseres als Zugumstellung mittels 10...Ne5.} Ne5 {->9....
+Ne5} (10... Be7 11. Kb1 O-O 12. g4 $14)) 10. Nb3 b5 (10... Bxc3 $2 {Die
+schlechte Bauernstruktur macht Weiß nichts aus - sein schwarzfeldriger Läufer
+entscheidet den Kampf im Alleingang.} 11. Qxc3 Qxc3 12. bxc3 d5 (12... b5 13.
+Bf4 Ng6 14. Bd6 Bb7 15. Na5 Bc6 16. c4 $16) (12... O-O 13. Bc5 Rd8 14. Be7 Re8
+15. Bd6 $16) 13. Bd4 Nc6 (13... Nfd7 14. exd5 exd5 15. Re1 $18) 14. Bxf6 gxf6
+15. exd5 exd5 16. Rxd5 $16) 11. Kb1 (11. Qe1 {ist eine interessante und
+vollwertige Alternative.}) 11... Rb8 $6 {Ein seltener und wohl doch
+verdächtiger Zug. Andere Fortsetzungen sind:} (11... Be7 12. Qf2 d6 (12... Rb8
+13. Ba7 $1 Rb7 14. Bd4 $14) 13. Bb6 $1 Qb8 14. Bd4 {es ist gut, die schwarze
+Dame nach b8 zu locken, wo sie schlechter steht als auf c7, und erst dann Bd4
+zu spielen.} O-O (14... Nc6 15. Be3 Nd7 16. g4 O-O 17. g5 b4 18. Na4 Nce5 19.
+Rg1 Bb7 20. Na5 Rc8 21. b3 Bc6 22. Nxc6 Nxc6 23. f4 Nc5 24. Nxc5 dxc5 25. f5
+$16 {Topalov - Movsesian (Tripoli, 2004)}) 15. g4 Bb7 16. g5 Nfd7 17. Rg1 b4
+18. Ne2 a5 19. f4 a4 20. Nd2 Nc6 21. Be3 b3 22. cxb3 axb3 23. a3 Rc8 24. Nc3
+Bf8 25. Bb5 Nc5 26. Rg3 Nd8 27. Qe2 g6 28. f5 exf5 29. exf5 $14 {Georgiev -
+Almasi (Turin, 2006)}) (11... Nc4 12. Bxc4 bxc4 13. Nc1 (13. Nd4 $5 {Der
+Springer sieht auf d4 besser aus, aber in Wirklichkeit schließt er die d-Linie.
+Ich bevorzuge 13.Nc1.} Rb8 14. Ka1 O-O 15. Nde2 {Sieht nicht überzeugend aus.}
+d6 16. a3 Qa5 (16... a5 $2 {Versperrt das schwarze Gegenspiel. Weiß muss ja
+nicht auf b4 nehmen.} 17. Bf4 $14) 17. Qc1 Bd7 (17... d5 $2 18. exd5 Nxd5 19.
+Nxd5 exd5 20. Bd2 Be6 21. Bxb4 Rxb4 22. Qd2 Rfb8 23. Rhe1 d4 24. Nxd4 c3 25.
+Qxc3 Rxb2 26. Qxb2 Rxb2 27. Kxb2 Qb6+ 28. Ka1 $14 {Motylev - Pelletier (Biel,
+2007)}) 18. g4 Rb7 {Der schwarze Angriff entwickelt sich sehr schnell.} 19. Bf4
+e5 20. Bg5 Rfb8 21. Bxf6 Bxc3 (21... gxf6 22. Nd5 Kg7 23. Ng3 $1 Kh8 24. Nh5
+$16 {/\Qh6} (24. Qh6 Bxa3 25. Qxf6+ Kg8 26. Qg5+ Kf8 27. Qe7+ Kg8 $11)) 22.
+Nxc3 (22. bxc3 gxf6 $17) 22... Rxb2 23. Qxb2 Rxb2 24. Kxb2 Qb6+ 25. Kc1 gxf6
+$15) 13... Rb8 14. Bf4 e5 (14... Bxc3 15. Bxc7 Rxb2+ 16. Ka1 Rxc2+ 17. Qxc3
+Rxc3 18. Kb2 Rxc1 19. Rxc1 d5 20. Rhd1 Ke7 21. Ba5 $16) 15. Bg5 Qb6 (15... O-O
+16. Bxf6 gxf6 17. Nd5 $16) (15... Ba3 $2 16. b3 Qb6 17. Bxf6 Qxf6 18. Nd5 Qd8
+19. Qc3 $16) 16. N1e2 (16. Bxf6 $2 Qxf6 17. Nd5 $2 Bxd2 18. Nxf6+ gxf6 19. Rxd2
+c3 $17) 16... O-O 17. Bxf6 Ba3 18. b3 Qxf6 19. Nd5 Qd8 20. f4 $1 $14 {
+Cheparinov - Pelletier (Crete, 2007)}) 12. Bd4 Be7 (12... O-O 13. Qg5 Ng6 14.
+Bxf6 gxf6 15. Qxf6 Be7 16. Qd4 b4 17. Ne2 a5 18. Qd2 d6 19. Nbd4 $16 {Anand -
+Ivanisevic (Villarrobledo, 2006)}) (12... Nc6 13. Qg5 Nxd4 14. Qxg7 Rg8 15.
+Qxf6 Nxb3 (15... Bxc3 16. Nxd4 $1 Bb4 17. Qh6 $16) 16. axb3 Bb7 17. Qd4 Bc5 18.
+Qd2 Rc8 19. Bd3 $16) 13. Qg5 $1 $146 (13. Qf2 {So sollte man nicht spielen,
+weil man in eine theoretische Stellung kommt, wo der schwarze Turm auf b8
+steht anstatt auf b7 - siehe Kommentare zu 11....Be7.}) 13... Ng6 14. e5 Ne4 (
+14... Nd5 $2 15. Nxd5 exd5 16. Qe3 $16) 15. Qe3 Nxc3+ 16. Bxc3 b4 17. Bd4 a5
+18. g3 {Schwarz hat Probleme mit seinem Springer, der außerhalb des
+Aktionfeldes steht. Weiß begrenzt ihn weiter und bereitet gleichzeitig h4 vor.}
+Bb7 19. Bd3 (19. Bb6 $2 Qxe5 (19... Qc6 20. Be2 Ba6 21. Bxa5 $16) 20. Qxe5 Nxe5
+21. Bc7 Bxf3 (21... Nc6 22. Bxb8 Nxb8 23. Be2 a4 24. Na5 $16) 22. Bxb8 Nc6 $3 (
+22... Bxh1 23. Bxe5 $18) 23. Be2 Bxh1 24. Rxh1 Nxb8 25. Nxa5 O-O $17) (19. Nc5
+$4 Rc8 $1 $19) 19... Rc8 20. Rhe1 $14 {Eine gesunde Strategie - man
+zentralisiert sich, während der Gegner seine Probleme mit dem Springer und
+auch mit dem König lösen muss. Am weißen Vorteil ist nicht zu zweifeln.} a4 21.
+Nd2 Bd5 22. h4 Bc5 23. Bxc5 Qxc5 24. Qxc5 Rxc5 25. f4 O-O 26. Ne4 Ra5 27. Nd6
+Rb8 28. Be4 Ne7 29. Bxd5 Rxd5 30. Rxd5 Nxd5 31. Nc4 f6 32. Ne3 Rb5 33. Nxd5
+Rxd5 34. Kc1 fxe5 35. Rxe5 Rxe5 36. fxe5 Kf7 37. h5 g6 38. h6 g5 39. g4 Ke7 40.
+Kd2 d6 41. c3 bxc3+ 42. Kxc3 dxe5 43. Kd3 e4+ 44. Kxe4 Kd6 45. Kd4 e5+ 46. Ke4
+Ke6 47. b4 a3 48. b5 Kd6 49. b6 Kc6 50. Kxe5 Kxb6 51. Kf6 1-0
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.31"]
+[Round "10"]
+[White "Cherniaev, Alexander"]
+[Black "Benkovic, Petar"]
+[Result "0-1"]
+[ECO "B89"]
+[WhiteElo "2431"]
+[BlackElo "2479"]
+[PlyCount "80"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 Nc6 4. d4 cxd4 5. Nxd4 d6 6. Be3 Nf6 7. Bc4 a6 8.
+Qe2 Be7 9. O-O-O Qc7 10. Rhg1 Na5 11. Bb3 b5 12. f3 Nxb3+ 13. axb3 Nd7 14. g4
+b4 15. Na4 Nc5 16. Kb1 Bd7 17. g5 g6 18. Qf2 Bxa4 19. bxa4 Nxa4 20. h4 Nc5 21.
+h5 Qb7 22. Rh1 e5 23. Nb3 Ne6 24. f4 exf4 25. Bxf4 Qxe4 26. Rh4 Qf5 27. Qg2 O-O
+28. Bc1 Rac8 29. Rdh1 Bxg5 30. Bxg5 Qxg5 31. Rg4 Qf5 32. Rxb4 Rb8 33. Nd4 Qg5
+34. Qxg5 Nxg5 35. Ra4 Rb6 36. Rg1 f6 37. Rc4 Rfb8 38. Nb3 Nf3 39. Rg2 Ne5 40.
+Rc7 R6b7 0-1
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.31"]
+[Round "10"]
+[White "Feuerstack, Aljoscha"]
+[Black "Skoberne, Jure"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2355"]
+[BlackElo "2499"]
+[PlyCount "68"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. Bg5 Nd7 5. Qd2 c5 6. Nf3 a6 7. Bc4 cxd4 8. Nxd4
+Ngf6 9. f3 h6 10. Be3 b5 11. Bb3 Nc5 12. O-O-O Nxb3+ 13. cxb3 Bb7 14. Nde2 Qa5
+15. Kb1 Rc8 16. Bd4 b4 17. Na4 O-O 18. Nb6 Rc7 19. Rc1 Rxc1+ 20. Rxc1 Qb5 21.
+Be3 Rb8 22. Rc7 Nxe4 23. fxe4 Bxe4+ 24. Ka1 Rxb6 25. Rxe7 Bxg2 26. Bxb6 Qxb6
+27. Qe3 Qc6 28. Qc1 h5 29. Qxc6 Bxc6 30. Re3 Be5 31. h3 f5 32. Nc1 f4 33. Re2
+f3 34. Rf2 Be4 0-1
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.31"]
+[Round "10"]
+[White "Hausrath, Daniel"]
+[Black "Weindl, Alfred"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2491"]
+[BlackElo "2352"]
+[PlyCount "71"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. Re1 Nbd7 7. e4 e5 8. Nc3
+c6 9. a4 a5 10. h3 exd4 11. Nxd4 Re8 12. Bf4 Ne5 13. b3 Bd7 14. Be3 Qc8 15. Kh2
+h5 16. f4 h4 17. gxh4 Nh5 18. Qd2 c5 19. Nf3 Nxf3+ 20. Bxf3 Bxh3 21. Rg1 Nf6
+22. f5 d5 23. fxg6 d4 24. Bh6 Re7 25. gxf7+ Rxf7 26. Rxg7+ Rxg7 27. Bxg7 Qc7+
+28. Kxh3 dxc3 29. Qg5 Qxg7 30. Rg1 Qxg5 31. Rxg5+ Kf7 32. Rxc5 Nd7 33. Rc7 Ke8
+34. Bh5+ Kd8 35. Rxc3 Ra6 36. Bg4 1-0
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.31"]
+[Round "10"]
+[White "Misiano, Franco"]
+[Black "Tairova, Elena"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2269"]
+[BlackElo "2417"]
+[PlyCount "88"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. O-O-O b4 10. e5 Bb7 11. Bb5+ axb5 12. Ncxb5 Qc8 13. Qe2 Ne4 14. exd6 Rxa2
+15. Kb1 Ra5 16. Bh4 g6 17. f5 exf5 18. Nb3 Rxb5 19. Qxb5+ Nd7 20. Rhe1 Bg7 21.
+Be7 Qc6 22. Qxb4 Qb6 23. Qa3 Be5 24. Rd3 f6 25. Na5 Ba6 26. Rb3 Nd2+ 27. Ka2
+Nxb3 28. cxb3 Kf7 29. b4 Rb8 30. Qb3+ Kg7 31. Rc1 Qxb4 32. Qxb4 Rxb4 33. b3 Rb5
+34. Nc6 Rd5 35. Nxe5 fxe5 36. Rc7 Bb5 37. Ka3 Kf7 38. Kb4 Ke6 39. Rc8 e4 40.
+Rh8 h5 41. Rg8 Ne5 42. Bg5 Bd7 43. Rg7 Kxd6 44. Bf4 Ke6 0-1
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.31"]
+[Round "10"]
+[White "Narayanan, Srinath"]
+[Black "Bindrich, Falko"]
+[Result "0-1"]
+[ECO "B86"]
+[WhiteElo "2220"]
+[BlackElo "2516"]
+[PlyCount "90"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. g4
+h6 9. Be3 Nc6 10. Rg1 Na5 11. Qe2 g6 12. O-O-O e5 13. Nf5 Nxb3+ 14. axb3 gxf5
+15. exf5 Qa5 16. Kb1 Bd7 17. f4 Bc6 18. fxe5 dxe5 19. Rge1 Nd7 20. Qc4 Qb4 21.
+Qd3 O-O-O 22. Nd5 Bxd5 23. Qxd5 Bh4 24. Rf1 Qe7 25. Qc4+ Kb8 26. Rd5 Ka8 27.
+Qc7 Nb8 28. Rxd8 Rxd8 29. Qxe7 Bxe7 30. Bxh6 Rh8 31. g5 Nc6 32. g6 f6 33. c3
+Kb8 34. h4 Bd8 35. g7 Rg8 36. h5 Ne7 37. Kc2 Kc7 38. Kd3 Kd7 39. Ke4 Nc8 40.
+Kf3 Nd6 41. Rd1 Ke7 42. Bg5 Nf7 43. h6 fxg5 44. Rh1 Kf6 45. Ke4 g4 0-1
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.31"]
+[Round "10"]
+[White "Shachar, Ehud"]
+[Black "Kovacevic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "2366"]
+[BlackElo "2585"]
+[PlyCount "65"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 Bg4 5. O-O e6 6. Re1 Nc6 7. d4 cxd4 8. cxd4
+d5 9. exd5 Nxd5 10. Nc3 Bb4 11. Bd2 O-O 12. a3 Be7 13. Nxd5 Qxd5 14. Be3 Rfd8
+15. Rc1 Bf6 16. Qa4 a6 17. Red1 b5 18. Qc2 Ne7 19. h3 Bf5 20. Qc7 Qa2 21. Qc3
+Nd5 22. Qd2 Rac8 23. Rxc8 Rxc8 24. Rc1 Rxc1+ 25. Qxc1 h6 26. Bd1 Nxe3 27. fxe3
+g5 28. Nd2 Qd5 29. Bf3 Qd6 30. b4 Kg7 31. Kf2 Qh2 32. Nf1 Qd6 33. Qc6 1/2-1/2
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.07.31"]
+[Round "10"]
+[White "Smirin, Ilia"]
+[Black "Grachev, Boris"]
+[Result "0-1"]
+[ECO "B82"]
+[WhiteElo "2637"]
+[BlackElo "2640"]
+[PlyCount "76"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. f4 a6 7. Be3 b5 8. Bd3
+Bb7 9. Nb3 d6 10. O-O Nf6 11. Qf3 Be7 12. Qh3 h5 13. Kh1 Nb4 14. Nd4 Nxd3 15.
+cxd3 Qd7 16. Bf2 h4 17. Nf3 b4 18. Ne2 Qb5 19. Ned4 Qh5 20. Rac1 Qg4 21. Rc7
+Rb8 22. Qxg4 Nxg4 23. Bg1 Bd8 24. Rc4 h3 25. Nc6 Rc8 26. Nxd8 Rxc4 27. Nxb7 Rc2
+28. gxh3 Rxh3 29. Nd4 Rxb2 30. Nxd6+ Kd7 31. Nc4 Rxa2 32. Rc1 f6 33. Nb6+ Ke8
+34. f5 exf5 35. Nd5 Nxh2 36. Rc8+ Kf7 37. Rc7+ Kg8 38. Nf4 Nf1+ 0-1
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.08.01"]
+[Round "11"]
+[White "Belov, Vladimir"]
+[Black "Maze, Sebastien"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2561"]
+[BlackElo "2553"]
+[PlyCount "59"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nge7 9. c4 Nxd5 10. cxd5 Nd4 11. Bd3 g6 12. O-O Bg7 13. Nc2 Nxc2 14. Qxc2 Bd7
+15. Qb3 Qa5 16. Bg5 f6 17. Be3 Ke7 18. Qd1 Rhc8 19. f4 Bh6 20. Kh1 Bxf4 21.
+Bxf4 exf4 22. Rxf4 Qb4 23. Qf1 Qxb2 24. e5 f5 25. e6 Be8 26. g4 Rc7 27. gxf5
+gxf5 28. Rxf5 Rac8 29. Re1 Qd4 30. Qf4 1-0
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.08.01"]
+[Round "11"]
+[White "Jenni, Florian"]
+[Black "Hausrath, Daniel"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2544"]
+[BlackElo "2491"]
+[PlyCount "93"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Be3 e6 5. Nd2 Nd7 6. Nb3 Ne7 7. f4 h5 8. Be2 Be4
+9. Nf3 Nf5 10. Bf2 Be7 11. Qd2 Qb6 12. O-O a5 13. a4 f6 14. Nh4 Nxh4 15. Bxh4
+f5 16. Bxe7 Kxe7 17. Bd3 Bxd3 18. Qxd3 h4 19. Rf3 g5 20. fxg5 Rag8 21. Qd2 Rh5
+22. Qxa5 Rhxg5 23. Rf2 h3 24. g3 Qxa5 25. Nxa5 Rg4 26. c3 f4 27. Nxb7 fxg3 28.
+hxg3 Rxg3+ 29. Kh1 c5 30. Nxc5 Nxc5 31. dxc5 Kd7 32. a5 Kc6 33. a6 Kxc5 34. a7
+Ra8 35. Rf7 h2 36. Rb7 Kc6 37. Kxh2 Rgg8 38. Rh7 Kb6 39. Rh6 Rg7 40. Rxe6+ Kc5
+41. Rh6 Raxa7 42. Rxa7 Rxa7 43. Kg3 d4 44. cxd4+ Kxd4 45. Kf4 Ra1 46. Rd6+ Kc5
+47. Rd2 1-0
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.08.01"]
+[Round "11"]
+[White "Mas, Hafizulhelmi"]
+[Black "Cebalo, Miso"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "2386"]
+[BlackElo "2523"]
+[PlyCount "85"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. Bb5 Bg7 5. Bxc6 bxc6 6. d3 d6 7. O-O Rb8 8. Nc3
+Nh6 9. Qe1 f5 10. e5 O-O 11. b3 Qc7 12. Bb2 Nf7 13. Na4 Nd8 14. Qh4 Ne6 15.
+Rae1 d5 16. Ng5 Nxg5 17. Qxg5 c4 18. Ba3 Rf7 19. Rd1 cxb3 20. axb3 Rb5 21. Bc5
+Bf8 22. d4 Ba6 23. Rfe1 Ra5 24. Ra1 Bc8 25. Qg3 Qb8 26. Qc3 Qb5 27. Qb2 Qb8 28.
+Ra3 Bh6 29. Qc3 Ra6 30. Qd2 Bf8 31. Rea1 Rg7 32. Nb2 Rxa3 33. Rxa3 a6 34. Nd3
+h6 35. Qa5 g5 36. Qd8 Qb7 37. Ra4 Qd7 38. Qxd7 Bxd7 39. Rxa6 Kf7 40. Ra8 Rg8
+41. Kf2 Be6 42. Nb4 Bd7 43. Rd8 1-0
+
+[Event "Biel MTO op 41st"]
+[Site "Biel"]
+[Date "2008.08.01"]
+[Round "11"]
+[White "Meier, Volker"]
+[Black "Cherniaev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2276"]
+[BlackElo "2431"]
+[PlyCount "122"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8. a4
+b4 9. d4 Ng6 10. d5 Na5 11. Re1 Qc7 12. cxb4 cxb4 13. Nbd2 Bd6 14. Nb3 Nc4 15.
+Nbd4 Rc8 16. Bd3 O-O 17. b3 Nce5 18. Bf1 Ng4 19. g3 Bc5 20. Bb2 Qb6 21. a5 Qa7
+22. Re2 Nf6 23. Bh3 Rc7 24. Rc1 exd5 25. e5 Ne4 26. Kg2 Ba8 27. Bg4 Rfc8 28.
+Rec2 Nf8 29. h4 Ne6 30. Nxe6 dxe6 31. Bd4 Bxd4 32. Rxc7 Rxc7 33. Rxc7 Qxc7 34.
+Qxd4 Qc5 35. Qxc5 Nxc5 36. Nd4 Kf8 37. Be2 Ke7 38. f4 f6 39. Kf3 Bb7 40. Ke3 h6
+41. g4 fxe5 42. fxe5 Kf7 43. h5 Bc8 44. Kf4 Bd7 45. Ke3 Ke7 46. Kf4 Be8 47. Ke3
+g5 48. Bd3 Bd7 49. Be2 Be8 50. Bd3 Bf7 51. Be2 Kd7 52. Bd3 Bg8 53. Bc2 Nb7 54.
+Bd3 Nxa5 55. Bxa6 Bh7 56. Bb5+ Ke7 57. Ba6 Bb1 58. Kd2 Kd7 59. Bb5+ Ke7 60. Ba6
+Bh7 61. Bc8 Be4 1/2-1/2
+
+[Event "Paleochora op 1st"]
+[Site "Paleochora"]
+[Date "2008.07.21"]
+[Round "1"]
+[White "Fragaki, Maria"]
+[Black "Meijers, Viesturs"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "1891"]
+[BlackElo "2496"]
+[PlyCount "72"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 Bc5 8.
+Nb3 Ba7 9. c4 Nc6 10. Nc3 h5 11. Kh1 Ng4 12. f4 d6 13. Nd1 Qb6 14. g3 Nb4 15.
+h3 Nxd3 16. Qxd3 Nf6 17. Be3 Qc6 18. Nd2 Bxe3 19. Qxe3 b6 20. Nc3 O-O 21. Kh2
+Bb7 22. Rf2 Rad8 23. e5 Nd7 24. exd6 Nf6 25. Re1 Rxd6 26. Nde4 Nxe4 27. Nxe4
+Rd7 28. Qe2 Rd4 29. Ng5 g6 30. b3 Rfd8 31. Nf3 R4d6 32. Ne5 Qc5 33. Qc2 Qb4 34.
+Rfe2 Rd2 35. Qb1 Qc3 36. Nxg6 Qf3 0-1
+
+[Event "Paleochora op 1st"]
+[Site "Paleochora"]
+[Date "2008.07.21"]
+[Round "1"]
+[White "Holzke, Frank"]
+[Black "Karteri, Olga"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2516"]
+[BlackElo "1904"]
+[PlyCount "61"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Nc6 7. Bf4 Qd8 8.
+Bg2 e6 9. O-O Bd6 10. Bg5 h6 11. Bxf6 Qxf6 12. Ne4 Qd8 13. Nxd6+ Qxd6 14. c3
+O-O 15. Re1 b6 16. Nd2 Bb7 17. Qh5 Na5 18. Bxb7 Nxb7 19. Re5 Qc6 20. Rae1 Nd6
+21. g4 Nc4 22. Nxc4 Qxc4 23. g5 hxg5 24. Rxg5 Qd3 25. Re3 Qh7 26. Qg4 f5 27.
+Qf4 Qh6 28. Kg2 Rac8 29. Reg3 Qf6 30. Rg6 Qe7 31. Qh6 1-0
+
+[Event "Paleochora op 1st"]
+[Site "Paleochora"]
+[Date "2008.07.21"]
+[Round "1"]
+[White "Matsenko, Andrei"]
+[Black "Halkias, Stelios"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "1953"]
+[BlackElo "2579"]
+[PlyCount "68"]
+[EventDate "2008.07.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 a5 13. b3 Bg5 14. g3 O-O 15.
+Bg2 Be6 16. O-O Ne7 17. Nxe7+ Qxe7 18. f4 exf4 19. gxf4 Bf6 20. Rb1 Bc3 21. Qd3
+a4 22. Kh1 axb3 23. axb3 Ra2 24. Rbd1 Bg4 25. Bf3 Bxf3+ 26. Rxf3 Re8 27. Kg1 g6
+28. Re3 Qa7 29. Kf2 Rb2 30. Kf3 Qc5 31. h3 Rxb3 32. Qxd6 Qh5+ 33. Kg3 Rxe4 34.
+Rxe4 Be1+ 0-1
+
+[Event "Paleochora op 1st"]
+[Site "Paleochora"]
+[Date "2008.07.21"]
+[Round "1"]
+[White "Nilsson, Erling"]
+[Black "Kryvoruchko, Yuriy"]

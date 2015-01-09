@@ -1,0 +1,600 @@
+[BlackElo "2022"]
+[PlyCount "63"]
+[EventDate "2008.01.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nc3 Nf6 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 Be7 8.
+Bd3 O-O 9. Qc2 h6 10. Bh4 Re8 11. O-O b6 12. Rae1 Bb7 13. e4 dxe4 14. Nxe4 Nxe4
+15. Bxe7 Qxe7 16. Rxe4 Qf6 17. Rfe1 Rxe4 18. Bxe4 Qd6 19. Rc1 Nf6 20. Bd3 Nd5
+21. Bc4 Rc8 22. Qf5 Rc7 23. Ne5 Bc8 24. Nxf7 Qb4 25. Nxh6+ gxh6 26. Bxd5+ cxd5
+27. Qxd5+ Rf7 28. Rxc8+ Kg7 29. Qe5+ Kh7 30. Rh8+ Kg6 31. Rg8+ Kh7 32. Qh8# 1-0
+
+[Event "Madrid-ch sf-A"]
+[Site "Madrid"]
+[Date "2008.01.09"]
+[Round "3"]
+[White "Alvarez Abejon, Amilcar"]
+[Black "Martin Rodriguez, Emilio"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2080"]
+[BlackElo "2153"]
+[PlyCount "57"]
+[EventDate "2008.01.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nc3 Bg7 6. h3 O-O 7. Bd3 c5 8. dxc5
+Qa5 9. O-O Qxc5 10. Qe2 Nc6 11. cxd5 Nxd5 12. Nxd5 Qxd5 13. e4 Qh5 14. Be3 Rd8
+15. Rac1 Bxh3 16. Rc5 e5 17. gxh3 Rxd3 18. Qxd3 Qxf3 19. Qd7 h5 20. Qxb7 Rb8
+21. Qxc6 Qxh3 22. Rfc1 Qf3 23. Rb5 Rd8 24. Qc7 Rd1+ 25. Rxd1 Qxd1+ 26. Kh2 Qg4
+27. Rb8+ Kh7 28. Qd8 Bf8 29. Qg5 1-0
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.10"]
+[Round "3"]
+[White "Anastasian, Ashot"]
+[Black "Babuiian, Levon"]
+[Result "1-0"]
+[ECO "D32"]
+[WhiteElo "2562"]
+[BlackElo "2439"]
+[PlyCount "55"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. Nf3 d5 2. e3 c5 3. c4 e6 4. cxd5 exd5 5. b3 Nf6 6. Bb2 Be7 7. Be2 Nc6 8. O-O
+O-O 9. d4 Be6 10. dxc5 Bxc5 11. Nc3 a6 12. Rc1 Qe7 13. Na4 Bd6 14. Nd4 Ne5 15.
+f4 Neg4 16. Qd3 Bd7 17. Bxg4 Bxg4 18. h3 Be6 19. Kh2 Rad8 20. Nc3 Rfe8 21. Rf3
+Bb8 22. Nce2 Rc8 23. Rd1 Bd7 24. Ng3 g6 25. Ndf5 gxf5 26. Nxf5 Bxf5 27. Qxf5
+Ne4 28. Rg3+ 1-0
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.11"]
+[Round "4"]
+[White "Kotanjian, Tigran"]
+[Black "Andriasian, Zaven"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2545"]
+[BlackElo "2532"]
+[PlyCount "133"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Bd3 Nbd7 6. O-O dxc4 7. Bxc4 Bd6 8.
+Re1 O-O 9. e4 e5 10. Bg5 b5 11. Bb3 Bb7 12. Nbd2 c5 13. d5 h6 14. Bh4 Re8 15.
+Bc2 c4 16. Nf1 Nf8 17. Ne3 Ng6 18. Bg3 Nh5 19. Nf5 Nxg3 20. hxg3 Bc5 21. Nh2
+Ne7 22. g4 Nc8 23. g3 Bf8 24. Qd2 a5 25. Red1 Nd6 26. Nf3 a4 27. Kg2 a3 28.
+Nxd6 Qxd6 29. b3 Bc8 30. g5 h5 31. Qe2 Bg4 32. bxc4 bxc4 33. Qxc4 Rec8 34. Qd3
+Be7 35. Bb3 g6 36. Rac1 Kg7 37. Rc6 Qd8 38. Qc3 Bxf3+ 39. Kxf3 Bd6 40. Kg2 Kg8
+41. Qf3 Rc7 42. Rdc1 Rd7 43. Qe3 Kg7 44. R1c4 f6 45. gxf6+ Qxf6 46. Rxd6 Rxd6
+47. Rc7+ Kg8 48. Qh6 Qh8 49. Qg5 Qf6 50. Qxf6 Rxf6 51. f4 Rb6 52. Bc4 Kh8 53.
+fxe5 Rf8 54. e6 Rb2+ 55. Kh3 g5 56. Bd3 Rff2 57. Bc2 Kg8 58. Rc8+ Rf8 59. Rc6
+Rf2 60. e7 Rb8 61. d6 Kf7 62. Bb3+ Kf6 63. Rc2 g4+ 64. Kh4 Rf1 65. Kxh5 Re1 66.
+Rf2+ Kg7 67. Rf7+ 1-0
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.11"]
+[Round "4"]
+[White "Lputian, Smbat G"]
+[Black "Minasian, Ara"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2616"]
+[BlackElo "2466"]
+[PlyCount "122"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. c5 Bg4 7. Qb3 Bxf3 8. gxf3
+e5 9. a4 Nbd7 10. Na2 Qc8 11. Nb4 a5 12. Nd3 exd4 13. exd4 b4 14. f4 g6 15. Ne5
+Nh5 16. Bg2 Nxe5 17. Qe3 Bh6 18. Qxe5+ Qe6 19. O-O Qxe5 20. fxe5 Bxc1 21. Rfxc1
+Nf4 22. Bf1 Ne6 23. Rd1 f6 24. Rd2 fxe5 25. Re1 e4 26. f3 e3 27. Rxe3 Kf7 28.
+Kf2 Rhe8 29. Bh3 Ra7 30. Bxe6+ Rxe6 31. Rxe6 Kxe6 32. Re2+ Kf7 33. f4 b3 34. f5
+Rb7 35. Re6 Rb4 36. Rxc6 Rxd4 37. fxg6+ hxg6 38. Rb6 Rd2+ 39. Ke3 Rxb2 40. Kd4
+Rd2+ 41. Ke5 Re2+ 42. Kxd5 b2 43. h3 Rd2+ 44. Kc6 Ke7 45. Kb7 Rd7+ 46. Ka6 Rc7
+47. Rxb2 Rxc5 48. Rb5 Rc3 49. Kxa5 Rxh3 50. Kb6 Kd6 51. a5 Rh8 52. Kb7 Rh7+ 53.
+Ka8 Kc6 54. Rb6+ Kc5 55. Rb7 Rh8+ 56. Ka7 Rg8 57. Rc7+ Kd5 58. Kb6 g5 59. a6
+Ke4 60. a7 Ra8 61. Rb7 Kf4 1/2-1/2
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.11"]
+[Round "4"]
+[White "Nalbandian, Tigran"]
+[Black "Ter Sahakyan, Samvel"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2505"]
+[BlackElo "2369"]
+[PlyCount "109"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Nc6 5. c3 Qb6 6. Qb3 c4 7. Qc2 g6 8. Nbd2
+Bf5 9. Qc1 Bg7 10. h3 O-O 11. Be2 Qd8 12. Ne5 Nd7 13. Nxc6 bxc6 14. g4 Bd3 15.
+Bxd3 cxd3 16. Qb1 e5 17. dxe5 Bxe5 18. O-O Bxf4 19. exf4 f5 20. g5 Nc5 21. Re1
+Qd6 22. Re5 Ne6 23. Rxe6 Qxe6 24. Qxd3 Qd6 25. Qg3 Rfe8 26. Nf3 Re2 27. h4 Rxb2
+28. Re1 Rab8 29. Ne5 Rb1 30. Qe3 c5 31. Rxb1 Rxb1+ 32. Kh2 Rb8 33. h5 d4 34.
+Qd3 Rd8 35. Qc4+ Qd5 36. Qa6 Qd6 37. Qxa7 Qf8 38. h6 d3 39. Qa6 Qe7 40. Qc4+
+Kf8 41. Nxd3 Qe4 42. Qxc5+ Ke8 43. Qb5+ Ke7 44. Qc5+ Ke8 45. Qe5+ Qxe5 46. Nxe5
+Ra8 47. c4 Ke7 48. c5 Rxa2 49. Kg2 Ke6 50. c6 Kd6 51. Kf3 Ra4 52. Ke3 Re4+ 53.
+Kf3 Re1 54. Kg2 Ra1 55. Kf3 1/2-1/2
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.12"]
+[Round "5"]
+[White "Anastasian, Ashot"]
+[Black "Pashikian, Arman"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2562"]
+[BlackElo "2556"]
+[PlyCount "77"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+b6 9. O-O Bb7 10. Bb2 Qe7 11. a4 a5 12. Rfd1 Rad8 13. Bd3 h6 14. Qe2 Rfe8 15.
+Rac1 Bb8 16. h3 e5 17. cxd5 cxd5 18. dxe5 Nxe5 19. Nd4 Nxd3 20. Rxd3 Rc8 21.
+Rdd1 Qe5 22. Nf3 Qh5 23. Nb5 Ne4 24. Nfd4 Qg6 25. Qg4 Qf6 26. Qf5 Qe7 27. Ba3
+Qh4 28. Qf3 Qg5 29. Nf5 Rxc1 30. Rxc1 d4 31. Nbxd4 Kh7 32. Qg4 Qf6 33. f4 g6
+34. Ng3 h5 35. Nxe4 Rxe4 36. Qd7 Rxe3 37. Qxb7 Qxf4 38. Nf3 Rxb3 39. Ng5+ 1-0
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.13"]
+[Round "6"]
+[White "Kotanjian, Tigran"]
+[Black "Ter Sahakyan, Samvel"]
+[Result "1-0"]
+[ECO "D60"]
+[WhiteElo "2545"]
+[BlackElo "2369"]
+[PlyCount "115"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. Qc2 O-O 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Qxc3 b6 13. e4 Bb7 14. Rad1 c5
+15. d5 exd5 16. Bxd5 Bxd5 17. exd5 Qd6 18. Rfe1 Rfe8 19. Qa3 Rxe1+ 20. Nxe1 Ne5
+21. h3 Qd7 22. Qa6 f5 23. d6 Re8 24. f4 Nf7 25. Nf3 Re6 26. Qc4 Rxd6 27. Rxd6
+Qxd6 28. Ne5 Qd4+ 29. Qxd4 cxd4 30. Nc6 Nd6 31. Nxa7 Kf7 32. Nc6 Ke6 33. Nxd4+
+Kd5 34. Ne2 Ne4 35. b3 Kc5 36. g4 Kb4 37. Kg2 Ka3 38. Nd4 Kxa2 39. Nxf5 Kxb3
+40. Kf3 Nd2+ 41. Ke2 Kc3 42. Nxg7 b5 43. Ne6 b4 44. Nc5 b3 45. f5 Kc2 46. Nxb3
+Nxb3 47. Ke3 Kc3 48. g5 Nc5 49. g6 hxg6 50. fxg6 Ne6 51. h4 Ng7 52. Ke4 Nh5 53.
+Kf5 Kd4 54. Kg5 Ng7 55. Kf6 Nh5+ 56. Kf7 Ke5 57. g7 Nf6 58. h5 1-0
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.14"]
+[Round "7"]
+[White "Minasian, Ara"]
+[Black "Minasian, Artashes"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[WhiteElo "2466"]
+[BlackElo "2578"]
+[PlyCount "14"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bf4 Bf5 7. e3 e6
+1/2-1/2
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.16"]
+[Round "8"]
+[White "Andriasian, Zaven"]
+[Black "Minasian, Ara"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2532"]
+[BlackElo "2466"]
+[PlyCount "47"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
+Ne5 a5 9. f3 Nfd7 10. Nxd7 Nxd7 11. e4 Bg6 12. Be3 e5 13. dxe5 Bc5 14. Bxc5
+Nxc5 15. Qxd8+ Rxd8 16. h4 h5 17. Bc4 O-O 18. Ke2 Rde8 19. f4 Nxe4 20. Nxe4
+Bxe4 21. Rhd1 Bxg2 22. Rd7 Bh3 23. Rxb7 Be6 24. Kd3 1/2-1/2
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.17"]
+[Round "9"]
+[White "Yegiazarian, Arsen"]
+[Black "Lputian, Smbat G"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[WhiteElo "2512"]
+[BlackElo "2616"]
+[PlyCount "33"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Rc1
+c6 9. Bd3 Nd7 10. cxd5 cxd5 11. O-O Nb6 12. Ne2 Qd6 13. Ng3 g6 14. e4 dxe4 15.
+Nxe4 Qd8 16. Nxf6+ Qxf6 17. Be4 1/2-1/2
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.18"]
+[Round "10"]
+[White "Kotanjian, Tigran"]
+[Black "Yegiazarian, Arsen"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2545"]
+[BlackElo "2512"]
+[PlyCount "54"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Qa5 10. Nd2 Be7 11. Bg3 Bd7 12. Be2 Rac8 13. O-O Qd8 14. b4 d4 15.
+Nce4 dxe3 16. fxe3 Ne8 17. Nb3 f5 18. Nec5 Bxc5 19. Nxc5 b6 20. Nb7 Qf6 21.
+Rad1 Rf7 22. c5 Ne5 23. Nd6 Nxd6 24. Rxd6 bxc5 25. bxc5 Bc6 26. Rfd1 Be4 27.
+Qc3 Nf3+ 0-1
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.18"]
+[Round "10"]
+[White "Lputian, Smbat G"]
+[Black "Pashikian, Arman"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "2616"]
+[BlackElo "2556"]
+[PlyCount "108"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 dxc4 8.
+Bxc4 b5 9. Be2 O-O 10. O-O Bb7 11. e4 e5 12. Bg5 exd4 13. Nxd4 Qb8 14. f4 h6
+15. Bxf6 Nxf6 16. e5 Bc5 17. exf6 Bxd4+ 18. Kh1 Bxf6 19. Ne4 Bd4 20. Rad1 Rd8
+21. Rd3 Qc7 22. Rfd1 Qxf4 23. Nc5 Rab8 24. Qd2 Qe5 25. b4 Rd6 26. Rxd4 Rxd4 27.
+Qxd4 Qxe2 28. h3 Bc8 29. Qd6 Ra8 30. Rd3 Be6 31. Rg3 Bd5 32. Kh2 Kh8 33. Nd7
+Qe6 34. Qc7 Qe7 35. a3 Rd8 36. Qe5 Qxe5 37. Nxe5 Re8 38. Re3 Kh7 39. Kg3 a5 40.
+bxa5 f6 41. Nc4 Ra8 42. Nb6 Rxa5 43. Nxd5 cxd5 44. Rd3 Kg6 45. Kh4 Kf7 46. Rxd5
+Ra4+ 47. Kg3 Rxa3+ 48. Kf4 Ra4+ 49. Kf3 Rb4 50. Rd7+ Kg6 51. g4 Rb3+ 52. Kg2 h5
+53. gxh5+ Kh6 54. Rb7 b4 0-1
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.19"]
+[Round "11"]
+[White "Pashikian, Arman"]
+[Black "Kotanjian, Tigran"]
+[Result "1/2-1/2"]
+[ECO "D44"]
+[WhiteElo "2556"]
+[BlackElo "2545"]
+[PlyCount "84"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Nxf6 14. Bg2 Be7 15.
+O-O Nxd5 16. Bxe7 Kxe7 17. Qe1 Qd7 18. Bxd5 Bxd5 19. Qe5 b4 20. Nxd5+ Qxd5 21.
+Qc7+ Kf6 22. Rad1 Qe5 23. Qxe5+ Kxe5 24. Rd7 Rad8 25. Re1+ Kf6 26. Rxa7 Ra8 27.
+Rc7 Rhc8 28. Rxc8 Rxc8 29. Re4 c3 30. bxc3 bxc3 31. Kf1 Ra8 32. Rc4 Ke5 33.
+Rxc3 Kd4 34. Rc2 c4 35. Rd2+ Kc3 36. Ke2 Ra5 37. Rd7 f6 38. h4 Rxa2+ 39. Ke3
+Ra1 40. g4 Re1+ 41. Kf4 Kb3 42. Rb7+ Ka3 1/2-1/2
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.19"]
+[Round "11"]
+[White "Yegiazarian, Arsen"]
+[Black "Asrian, Karen"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2512"]
+[BlackElo "2621"]
+[PlyCount "50"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 dxc4 5. e4 b5 6. a4 e6 7. Nbd2 Na6 8. Be2
+Nb4 9. Qb1 Be7 10. O-O O-O 11. e5 Nfd5 12. Ne4 f5 13. exf6 Nxf6 14. Nc3 e5 15.
+dxe5 Nfd5 16. Nxd5 Qxd5 17. Be3 Bf5 18. Qd1 Nd3 19. axb5 cxb5 20. Rxa7 Rxa7 21.
+Bxa7 Be4 22. Be3 Rd8 23. Bxd3 Bxd3 24. Re1 Bb4 25. Bg5 Bxe1 1/2-1/2
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.21"]
+[Round "13"]
+[White "Lputian, Smbat G"]
+[Black "Kotanjian, Tigran"]
+[Result "0-1"]
+[ECO "D27"]
+[WhiteElo "2616"]
+[BlackElo "2545"]
+[PlyCount "96"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 a6 5. Nc3 dxc4 6. a4 c5 7. Bxc4 Nc6 8. O-O
+cxd4 9. exd4 Be7 10. Be3 O-O 11. Ne5 Qd6 12. Nxc6 bxc6 13. a5 Bd8 14. Qd2 Bc7
+15. g3 Qd8 16. b4 Qe7 17. Na4 Rd8 18. Nc5 Nd5 19. Rfe1 h6 20. Bxd5 Rxd5 21. Bf4
+Bd8 22. Qc3 g5 23. Bd2 Qe8 24. Qf3 Be7 25. Bc3 Qd8 26. Re4 Bf8 27. Rae1 Ra7 28.
+h4 Bg7 29. hxg5 hxg5 30. Qh5 Re7 31. Kg2 Qe8 32. R4e3 Kf8 33. Qh7 f5 34. Kg1
+Qf7 35. Qh1 Qg6 36. Qf3 Kf7 37. Qe2 Qh6 38. Qf3 Re8 39. Qg2 f4 40. gxf4 gxf4
+41. Rh3 Rh5 42. Rxh5 Qxh5 43. Qxc6 Rh8 44. Qc7+ Kg6 45. Qc6 f3 46. Rxe6+ Bxe6
+47. Qxe6+ Bf6 48. Qe4+ Kf7 0-1
+
+[Event "ARM-ch 68th"]
+[Site "Yerevan"]
+[Date "2008.01.21"]
+[Round "13"]
+[White "Nalbandian, Tigran"]
+[Black "Asrian, Karen"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2505"]
+[BlackElo "2621"]
+[PlyCount "20"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARM"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. Nf3 d5 2. d4 c6 3. Bf4 Nf6 4. e3 Bf5 5. Nbd2 Nbd7 6. c3 e6 7. h3 h6 8. Be2
+Be7 9. O-O O-O 10. Qb3 Qb6 1/2-1/2
+
+[Event "ASEAN Masters Circuit GM-A"]
+[Site "Tarakan"]
+[Date "2008.01.08"]
+[Round "1"]
+[White "Tirto"]
+[Black "Kosasih, Cecep"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2413"]
+[BlackElo "2408"]
+[PlyCount "62"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "INA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 e6 6. e3 Nc6 7. Bd3 a6 8. Rc1
+Be7 9. h3 Bd7 10. Nf3 O-O 11. O-O Rc8 12. Ne5 Nxe5 13. Bxe5 Bc6 14. a3 Nd7 15.
+Bf4 f5 16. Bh2 Nb6 17. Qb3 Nd7 18. Nb1 Qb6 19. Nd2 Bb5 20. Bxb5 Qxb5 21. Qxb5
+axb5 22. Nb3 b4 23. axb4 Bxb4 24. Rxc8 Rxc8 25. Rc1 Rc4 26. Bc7 Nf6 27. Be5 Ne4
+28. Rd1 Nd2 29. Nc1 Be7 30. Nd3 Rc6 31. Ra1 Kf7 1/2-1/2
+
+[Event "ASEAN Masters Circuit GM-A"]
+[Site "Tarakan"]
+[Date "2008.01.13"]
+[Round "1"]
+[White "Torre, Eugenio"]
+[Black "Nadera, Barlo A"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2519"]
+[BlackElo "2417"]
+[PlyCount "91"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "INA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 e6 2. Nf3 d5 3. c4 c6 4. e3 Nd7 5. Nbd2 Ngf6 6. Bd3 b6 7. O-O Bb7 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Nf6 11. Bg5 Qc7 12. Bxf6 gxf6 13. d5 O-O-O 14. Nd4
+Qf4 15. Re1 c5 16. Nb5 a6 17. Nc3 f5 18. g3 Rg8 19. Bg2 Qxc4 20. Qh5 Rg7 21.
+Rad1 Kc7 22. dxe6 Rxd1 23. Rxd1 Bxg2 24. e7 Bxe7 25. Kxg2 Bg5 26. Qf3 Qe6 27.
+Qa8 Qc6+ 28. Nd5+ Kd7 29. Qa7+ Ke8 30. Re1+ Kd8 31. Qb8+ Kd7 32. Qe8+ Kd6 33.
+Qe5+ Kd7 34. Qxg7 Qxd5+ 35. Kg1 Be7 36. Qxh7 Bf6 37. b3 Bc3 38. Rf1 b5 39. Qh6
+f6 40. Qg7+ Kd6 41. Qa7 Qc6 42. Rd1+ Ke6 43. Qb8 Kf7 44. Rd8 Be5 45. Qc8 Qb6
+46. Qd7+ 1-0
+
+[Event "ASEAN Masters Circuit GM-A"]
+[Site "Tarakan"]
+[Date "2008.01.09"]
+[Round "2"]
+[White "Torre, Eugenio"]
+[Black "Megaranto, Susanto"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2519"]
+[BlackElo "2563"]
+[PlyCount "92"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "INA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Bg5 c6 3. Nf3 h6 4. Bf4 Bf5 5. e3 e6 6. Bd3 Bxd3 7. cxd3 Nf6 8. Nc3
+Bd6 9. Bxd6 Qxd6 10. O-O O-O 11. Qb3 Qc7 12. Na4 Nbd7 13. Rac1 Rab8 14. Qc3
+Rfe8 15. Nc5 Nxc5 16. Qxc5 Nd7 17. Qc3 e5 18. dxe5 Nxe5 19. Nxe5 Rxe5 20. Qd4
+a6 21. Qf4 Re7 22. Qxc7 Rxc7 23. b4 Kf8 24. d4 Ke7 25. Rc3 Kd6 26. Rfc1 Rbc8
+27. Kf1 b6 28. Ke2 Ra8 29. Kd3 Raa7 30. Rb1 h5 31. a4 Rab7 32. h4 Rb8 33. Ke2
+g6 34. Kf3 Re7 35. Kg3 Rc7 36. f3 Re8 37. Kf4 f6 38. Rbc1 Rg8 39. e4 dxe4 40.
+fxe4 g5+ 41. hxg5 Rxg5 42. R1c2 Rc8 43. g3 Rg4+ 44. Kf5 Rg5+ 45. Kf4 Rg4+ 46.
+Kf5 Rg5+ 1/2-1/2
+
+[Event "ASEAN Masters Circuit GM-A"]
+[Site "Tarakan"]
+[Date "2008.01.10"]
+[Round "3"]
+[White "Ginting, Nasib"]
+[Black "Kosasih, Cecep"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2393"]
+[BlackElo "2408"]
+[PlyCount "105"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "INA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Bd6 7. e4 dxe4 8. Nxe4
+Nxe4 9. Bxe4 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 Nf6 12. Bc2 O-O 13. O-O-O a5 14. Ne5
+a4 15. g4 a3 16. b3 Nd7 17. f4 Nxe5 18. fxe5 Qh4 19. g5 Bd7 20. Rhg1 c5 21.
+dxc5 Bc6 22. Rg3 g6 23. Rd3 Rac8 24. Rd4 Qh5 25. Qf4 Qe2 26. Rf1 Bg2 27. Rf2
+Qe1+ 28. Rd1 Qc3 29. Qd4 Qh3 30. Rd3 Qxh2 31. Bd1 Qg1 32. Rfd2 Qh1 33. Qg4 Bc6
+34. Rh3 Qe1 35. Qh4 Qxh4 36. Rxh4 Rc7 37. Kc2 Be8 38. b4 Ba4+ 39. Kc3 Bxd1 40.
+Rxd1 h5 41. Kb3 Ra8 42. Rhd4 Kg7 43. Rd8 Rcc8 44. Rxc8 Rxc8 45. Kxa3 h4 46. Rh1
+Rh8 47. b5 Kf8 48. Kb4 Ke7 49. Ka5 Kd7 50. Kb6 Kc8 51. Rh3 Rh5 52. c6 bxc6 53.
+bxc6 1-0
+
+[Event "ASEAN Masters Circuit GM-A"]
+[Site "Tarakan"]
+[Date "2008.01.10"]
+[Round "3"]
+[White "Megaranto, Susanto"]
+[Black "Nadera, Barlo A"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2563"]
+[BlackElo "2417"]
+[PlyCount "127"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "INA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Qc2 b6 7. Bd3 Bb7 8. O-O
+Be7 9. cxd5 exd5 10. b3 O-O 11. Bb2 Bd6 12. Rfd1 Re8 13. Rac1 Qe7 14. Bf5 g6
+15. Bh3 Rad8 16. g3 Nh5 17. Ne2 f5 18. Nf4 Nhf6 19. Nd3 Ne4 20. Nfe5 Nxe5 21.
+Nxe5 Rc8 22. Bg2 c5 23. Qe2 Rc7 24. Rc2 Rec8 25. Rdc1 Qe6 26. a4 Bxe5 27. dxe5
+c4 28. b4 c3 29. Ba1 Qxe5 30. f3 Nd6 31. Qd3 d4 32. exd4 Qd5 33. Rxc3 Rxc3 34.
+Rxc3 Re8 35. Rc1 Qa2 36. Bf1 Bd5 37. Bc3 Qxa4 38. Bd2 b5 39. Qc3 Rc8 40. Qe3
+Rxc1 41. Bxc1 Qd1 42. Kf2 Kf7 43. Be2 Qh1 44. Qh6 Kg8 45. Bf4 Nf7 46. Qh4 Bc4
+47. g4 Bxe2 48. Kxe2 Qb1 49. Qe1 Qc2+ 50. Qd2 Qc4+ 51. Kf2 fxg4 52. fxg4 Qd5
+53. Qe3 g5 54. Qe8+ Kg7 55. Be5+ Nxe5 56. Qxe5+ Qxe5 57. dxe5 Kf7 58. Ke3 Ke6
+59. Ke4 h6 60. h3 a6 61. Kd4 Kd7 62. Kd5 Ke7 63. e6 Kf6 64. Kd6 1-0
+
+[Event "ASEAN Masters Circuit GM-A"]
+[Site "Tarakan"]
+[Date "2008.01.11"]
+[Round "4"]
+[White "Megaranto, Susanto"]
+[Black "Tirto"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2563"]
+[BlackElo "2413"]
+[PlyCount "102"]
+[EventDate "2008.01.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "INA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Qb6 5. Qc1 Nc6 6. c3 Bf5 7. dxc5 Qxc5 8.
+Nbd2 a6 9. Be2 e6 10. O-O Be7 11. Bd1 O-O 12. Bc2 Bxc2 13. Qxc2 Nh5 14. Bg3
+Nxg3 15. hxg3 Bf6 16. e4 Ne5 17. Nb3 Qc4 18. exd5 Qxd5 19. Nxe5 Qxe5 20. Rad1
+Rfd8 21. Rxd8+ Rxd8 22. Rd1 Rd5 23. Rxd5 exd5 24. Qd1 b6 25. Nc1 d4 26. c4 h5
+27. Nd3 Qa5 28. a3 g6 29. Qc1 Qf5 30. Qd1 Qa5 31. Qc2 Kg7 32. Kf1 Kg8 33. Nb4
+Bg7 34. Nd3 Bf6 35. Nf4 Bg7 36. Qd3 Qg5 37. Ne2 h4 38. gxh4 Qxh4 39. Kg1 Qe7
+40. b4 a5 41. Qd2 axb4 42. axb4 d3 43. Qxd3 Qxb4 44. g3 Qc5 45. Qe4 Qe5 46. Qd3
+Bf8 47. Kg2 Bc5 48. Nc3 Qd4 49. Qxd4 Bxd4 50. Nd5 f5 51. f4 Kf7 1/2-1/2

@@ -1,0 +1,600 @@
+[White "Pedersen, Christian Kyndel"]
+[Black "Schlosser, Philipp"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2402"]
+[BlackElo "2567"]
+[PlyCount "35"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. dxc5
+O-O 9. Qd2 Bxc5 10. Bxc5 Nxc5 11. O-O-O Qa5 12. Kb1 Bd7 13. Bd3 Rfc8 14. Ne2
+Qb6 15. Ned4 Nxd4 16. Nxd4 Na4 17. Nb3 Bb5 18. Rhf1 1/2-1/2
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Pinter, Erik"]
+[Black "Buhmann, Rainer"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2401"]
+[BlackElo "2561"]
+[PlyCount "109"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 O-O 8.
+d4 Nf5 9. c3 Nxe5 10. Rxe5 d6 11. Re1 d5 12. Bd3 c6 13. Qc2 g6 14. Bf4 Bg5 15.
+Bxg5 Qxg5 16. Qc1 Qxc1 17. Rxc1 Re8 18. Nd2 Nd6 19. Re1 Bf5 20. Rxe8+ Rxe8 21.
+Bf1 b6 22. f3 c5 23. dxc5 bxc5 24. Kf2 Rb8 25. b3 a5 26. Re1 Be6 27. a3 a4 28.
+b4 c4 29. g4 Nb5 30. Nb1 Kg7 31. Be2 h5 32. Bd1 Ra8 33. h3 hxg4 34. hxg4 g5 35.
+Bc2 Kf6 36. Ke3 Ke5 37. Rh1 Rd8 38. Rh5 Nxc3 39. f4+ Kf6 40. fxg5+ Ke7 41. Nxc3
+d4+ 42. Kd2 dxc3+ 43. Kxc3 Bxg4 44. Rh7 Ke6 45. Rh4 Bf5 46. Rh6+ Ke5 47. Bxf5
+Kxf5 48. Rf6+ Kxg5 49. Rxf7 Rd3+ 50. Kxc4 Rxa3 51. Rf1 Ra2 52. Kb5 Kg4 53. Ka6
+Rb2 54. b5 a3 55. Ra1 1-0
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Polzin, Rainer"]
+[Black "Krensing, Jan"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2520"]
+[BlackElo "2306"]
+[PlyCount "58"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. Qh5 h6 11. g4 Nbc6 12. g5 g6 13. Qd1 Rf7 14. gxh6 e5 15.
+dxc5 Qa5 16. Qd2 e4 17. Bf1 Qxc5 18. Bb2 Bg4 19. f3 Rxf3 20. Nxf3 Bxf3 21. Qg5
+Bxh1 22. O-O-O Bf3 23. Qf6 Qe3+ 24. Kb1 Qxh6 25. c4 Bxd1 26. cxd5 Qf8 27. Qh8+
+Kf7 28. Qh7+ Ke8 29. dxc6 Qxf1 0-1
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Smirnov, Pavel"]
+[Black "Neelotpal, Das"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2592"]
+[BlackElo "2462"]
+[PlyCount "95"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8.
+Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qd1 Ne6 13. cxd5 Nxd5 14. Bb5+
+c6 15. Nxd5 cxb5 16. Bf4 Nxf4 17. Rxe7+ Kf8 18. Re5 Qd6 19. Qd2 Qxe5 20. Qb4+
+Ke8 21. Qxb5+ Kd8 22. Rd1 Ne2+ 23. Kh1 Nd4 24. Qxb7 Rc8 25. h3 Rc5 26. Ne3 Re8
+27. Nf5 Rc7 28. Qb8+ Kd7 29. Rxd4+ Kc6 30. Qb3 Re6 31. Qf3+ Kb6 32. Rb4+ Kc5
+33. Rb8 Qe1+ 34. Kh2 Qe5+ 35. g3 Rb6 36. Qa3+ Kb5 37. Nd6+ Kc6 38. Rd8 Qd4 39.
+Qf3+ Qd5 40. Qxd5+ Kxd5 41. Ne8+ Ke5 42. Nxc7 Rxb2 43. Kg2 Rxa2 44. Rd7 Kf6 45.
+Ne8+ Ke6 46. Rd3 g6 47. Re3+ Kf5 48. Re7 1-0
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Volosin, Vladimir"]
+[Black "Aepfler, Christian"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2278"]
+[BlackElo "2331"]
+[PlyCount "112"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 c5 6. Nbd2 Nc6 7. e4 b6 8. Qe2
+Bb7 9. e5 Nd7 10. h4 Qc7 11. Re1 O-O-O 12. Nf1 h6 13. N1h2 Kb8 14. c3 Rc8 15.
+Ng4 Rhd8 16. Bd2 Bf8 17. a3 Ne7 18. b4 c4 19. d4 a6 20. h5 Nf5 21. Ne3 Nxe3 22.
+Qxe3 Ka7 23. Qf4 Nb8 24. a4 Qe7 25. Qg4 Rc7 26. Nh4 Bc8 27. f4 Qe8 28. Bh3 f5
+29. Qf3 Rf7 30. g4 fxg4 31. Bxg4 Qd7 32. a5 b5 33. f5 Qc6 34. Ng6 exf5 35. Bh3
+Be6 36. Nf4 Be7 37. Re2 Bg5 38. Nxe6 Qxe6 39. Kh1 Nc6 40. Rg1 Ne7 41. Bxg5 hxg5
+42. Rxg5 Qh6 43. Reg2 Rh8 44. Kg1 g6 45. Kf2 gxh5 46. Ke2 h4 47. Rg1 Qe6 48.
+Qe3 Rhh7 49. R5g2 Rh8 50. Qf4 Kb7 51. Rg7 Rh7 52. Rxh7 Rxh7 53. Qg5 Kc8 54. Rf1
+Qh6 55. Qf6 Qxf6 56. exf6 Ng8 1-0
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Warakomska, Anna"]
+[Black "Khmelniker, Ilya"]
+[Result "0-1"]
+[ECO "C69"]
+[WhiteElo "2211"]
+[BlackElo "2448"]
+[PlyCount "96"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1 8.
+Rxd1 fxe5 9. Rd3 Bd6 10. Nbd2 b5 11. b3 Ne7 12. h3 Be6 13. Bb2 Ng6 14. Kh2 O-O
+15. g3 c5 16. Kg2 c4 17. bxc4 bxc4 18. Re3 Bc5 19. Re2 Bb4 20. Re3 Rfd8 21. Bc3
+Bc5 22. Ree1 h6 23. Rab1 Rd7 24. Ba5 Rf8 25. Rb7 Rff7 26. Re2 Kh7 27. Nh2 Ne7
+28. Ndf3 Nc6 29. Bc3 Bd4 30. Bxd4 exd4 31. Ng4 Rfe7 32. c3 Bxg4 33. hxg4 dxc3
+34. e5 Rd3 35. Re4 Rxf3 36. Kxf3 c2 37. Re1 Nxe5+ 38. Kg2 Nd3 39. Rxe7 c1=Q 40.
+Rexc7 Qc3 41. Rf7 Ne1+ 42. Kf1 Nf3 43. Rxg7+ Qxg7 44. Rxg7+ Kxg7 45. Ke2 Ne5
+46. g5 hxg5 47. f4 Nd3 48. Kd2 Nxf4 0-1
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Zinchenko, Yaroslav"]
+[Black "Lavrov, Maksim"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2523"]
+[BlackElo "2364"]
+[PlyCount "83"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d6 10. a3 Na5 11. Ba2 c5 12. Nbd2 Nc6 13. Nf1 Bc8 14. Bg5 Be6 15.
+Bxf6 Bxf6 16. Ne3 Bg5 17. Nd5 Ra7 18. c3 Kh8 19. b4 a5 20. Qb1 cxb4 21. axb4 f5
+22. bxa5 Rxa5 23. Nb4 Bd7 24. exf5 Nxb4 25. Qxb4 Bc6 26. Be6 Rxa1 27. Rxa1 Bxf3
+28. gxf3 Qc7 29. Ra3 Rb8 30. Kf1 d5 31. Rb3 Be7 32. Qg4 Qd6 33. f4 exf4 34. d4
+Qc6 35. Kg2 Qc4 36. Qxf4 Rd8 37. Rb1 Bd6 38. Qf3 Be7 39. Re1 Bf8 40. Qh5 Qxc3
+41. Qf7 Ba3 42. f6 1-0
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Blomqvist, Erik"]
+[Black "Genba, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2322"]
+[BlackElo "2429"]
+[PlyCount "60"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Bd7 10. b3 Kc8 11. Bb2 Be7 12. Rad1 b6 13. g4 Nh4 14. Nxh4
+Bxh4 15. h3 h5 16. f3 Be7 17. Kg2 Be6 18. Ne2 a5 19. a4 hxg4 20. fxg4 Bg5 21.
+Nd4 Bd5+ 22. Kg3 Kb7 23. e6 f6 24. Nf5 g6 25. Ne7 Rxh3+ 26. Kxh3 Rh8+ 27. Kg3
+Bh4+ 28. Kf4 Bg5+ 29. Kg3 Bh4+ 30. Kf4 Bg5+ 1/2-1/2
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Geller, Jakov"]
+[Black "Klovans, Janis"]
+[Result "1/2-1/2"]
+[ECO "C75"]
+[WhiteElo "2510"]
+[BlackElo "2428"]
+[PlyCount "44"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nf6 7. Nbd2 g6 8. O-O
+Bg7 9. Bxc6 Bxc6 10. dxe5 dxe5 11. Nxe5 Bxe4 12. Nxe4 Qxd1 13. Rxd1 Nxe4 14.
+Nc4 O-O 15. Bf4 Rac8 16. f3 Nc5 17. Rd2 Na4 18. Be5 Bh6 19. Re2 f6 20. Bg3 b5
+21. Na5 c5 22. Rae1 Rf7 1/2-1/2
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Grimberg, Boris"]
+[Black "Richter, Michael"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "2293"]
+[BlackElo "2422"]
+[PlyCount "81"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. a3
+Be7 9. b4 cxd4 10. cxd4 f6 11. Bd3 O-O 12. b5 Nxd4 13. Nxd4 fxe5 14. fxe5 Nxe5
+15. Be2 Bc5 16. Bb2 Rf4 17. Ngf3 Ng4 18. Qd2 e5 19. Rc1 Re4 20. O-O exd4 21.
+Bd3 Be6 22. Ng5 Qd6 23. g3 Bb6 24. Kh1 Re8 25. Rf4 h6 26. Nxe6 R8xe6 27. Rc8+
+Re8 28. Rxe8+ Rxe8 29. Rxg4 Qe6 30. Rf4 Qe3 31. Qc2 Qe1+ 32. Kg2 Qe3 33. Bc1
+Qe6 34. Qf2 Bc7 35. Rf5 Be5 36. Qe2 Bf6 37. Qh5 Rc8 38. Bxh6 Rc3 39. Rxf6 Qxf6
+40. Qe8+ Qf8 41. Bh7+ 1-0
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Hadraba, Vladimir"]
+[Black "Husari, Sate"]
+[Result "1-0"]
+[ECO "C82"]
+[WhiteElo "2229"]
+[BlackElo "2362"]
+[PlyCount "63"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Qe2 Nxd2 12. Bxd2 Re8 13. Rad1 Na5 14. Be3 Bf8
+15. Nd4 Nc4 16. f4 Bc8 17. Bc1 f6 18. Qf3 c5 19. Nc2 Bb7 20. Ne3 Nxe3 21. Bxe3
+c4 22. Bc2 g6 23. exf6 Qxf6 24. Bd4 Qf7 25. f5 g5 26. Qg4 h6 27. h4 Be7 28. f6
+Bd6 29. hxg5 Bc8 30. Qh4 hxg5 31. Qxg5+ Kh8 32. Qh6+ 1-0
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Kantorik, Marian"]
+[Black "Jirka, Jiri"]
+[Result "0-1"]
+[ECO "C59"]
+[WhiteElo "2341"]
+[BlackElo "2457"]
+[PlyCount "66"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Be2 h6 9. Nf3 e4 10. Ne5 Qc7 11. d4 exd3 12. Nxd3 Bd6 13. b3 c5 14. Nd2 O-O 15.
+h3 Bf5 16. Bb2 Nd5 17. O-O Rad8 18. Bg4 Bh7 19. Re1 Nf4 20. Be2 c4 21. bxc4
+Bxd3 22. cxd3 Qb7 23. Bf1 Qxb2 24. Ne4 Be5 25. Rb1 Qd4 26. Qa4 Bc7 27. Re3 Rb8
+28. Rbe1 Rb2 29. Ng3 Ne6 30. Ne2 Qd6 31. g3 Bb6 32. Rf3 Nc6 33. Nc3 Bxf2+ 0-1
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Karasik, Evgeni"]
+[Black "Tikkanen, Hans"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[WhiteElo "2270"]
+[BlackElo "2417"]
+[PlyCount "22"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nc3 O-O 6. O-O Re8 7. a3 h6 8. Bc4
+a6 9. h3 d6 10. Be3 Nd4 11. Nd5 b5 1/2-1/2
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Kiewra, Keaton F"]
+[Black "Vokac, Marek"]
+[Result "0-1"]
+[ECO "C73"]
+[WhiteElo "2336"]
+[BlackElo "2451"]
+[PlyCount "70"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. Nc3 g6 8. Be3
+Nh6 9. Qd2 Nf7 10. O-O-O Bg7 11. Ne1 O-O 12. h4 exd4 13. Bxd4 c5 14. Be3 Rb8
+15. h5 f5 16. hxg6 hxg6 17. exf5 Bxf5 18. f3 Rxb2 19. g4 Qb8 20. Qh2 Re8 21.
+Nd5 Rxe3 22. gxf5 Re5 23. fxg6 Rb1+ 24. Kd2 Rxd1+ 25. Kxd1 Rxd5+ 26. Nd3 Rxd3+
+27. cxd3 Qb1+ 28. Ke2 Qxa2+ 29. Ke1 Qb1+ 30. Kd2 Qb4+ 31. Kd1 Ne5 32. Qh3 Qb1+
+33. Kd2 Qxd3+ 34. Kc1 Qc3+ 35. Kb1 Qb3+ 0-1
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Kononenko, Dmitry1"]
+[Black "Mamedjarova, Zeinab"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2502"]
+[BlackElo "2326"]
+[PlyCount "77"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Re1 Bg4 10. Bxe4 dxe4 11. Rxe4 f5 12. Re1 Bxf3 13. Qxf3 Qh4 14. h3 Qxd4
+15. Qb3 Rf7 16. Re8+ Bf8 17. Bg5 h6 18. Nd2 hxg5 19. Nf3 Qf6 20. Rae1 g4 21.
+R1e6 Qxe6 22. Rxe6 gxf3 23. Re8 fxg2 24. c5 g6 25. Qg3 Kh7 26. Re6 Rg7 27. Qh4+
+Kg8 28. Re8 g5 29. Qh6 g4 30. Qe6+ Rf7 31. Qg6+ Rg7 32. Qxf5 Rf7 33. Qg6+ Rg7
+34. Qe6+ Rf7 35. hxg4 Kg7 36. g5 Na6 37. Rxa8 Nxc5 38. Qh6+ Kg8 39. g6 1-0
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Lammers, Markus"]
+[Black "Galburd, Yan"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2355"]
+[BlackElo "2209"]
+[PlyCount "108"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 dxe4 5. dxe4 Bc5 6. Bg2 e5 7. Ngf3 Nc6 8.
+O-O O-O 9. Qe2 Qe7 10. c3 a5 11. Nh4 b6 12. Nf5 Qe8 13. Qf3 Ne7 14. Nh6+ Kh8
+15. Nb3 Nd7 16. Rd1 Bd6 17. Nf5 Nxf5 18. exf5 Rb8 19. Nd2 Nf6 20. Ne4 Nxe4 21.
+Qxe4 Qd7 22. f6 gxf6 23. Qh4 Qe7 24. Bh6 Rg8 25. h3 f5 26. Qh5 Qf6 27. Kh2 Qg6
+28. Qxg6 Rxg6 29. Be3 Kg8 30. f4 e4 31. Bf1 Be6 32. b3 Kf8 33. Rd2 Ke7 34. Be2
+Rgg8 35. Rad1 Bc5 36. Bd4 Bxd4 37. Rxd4 Rgd8 38. Rxd8 Rxd8 39. Rxd8 Kxd8 40.
+Kg1 Ke7 41. Kf2 a4 42. Bd1 Bxb3 43. Bxb3 axb3 44. axb3 h5 45. h4 Kd6 46. Ke3
+Kd5 47. Kd2 c5 48. Ke2 c4 49. b4 Kc6 50. Ke3 Kb5 51. Kd4 f6 52. Ke3 Ka4 53. Kd4
+Kb3 54. b5 e3 0-1
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Lavrov, Maksim"]
+[Black "Warakomska, Anna"]
+[Result "1-0"]
+[ECO "C97"]
+[WhiteElo "2364"]
+[BlackElo "2211"]
+[PlyCount "120"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. d5 c4 13. Nbd2 Nb7 14. Nf1 a5 15. a4 b4
+16. Ne3 Bd7 17. Qe2 Rfc8 18. Nd2 b3 19. Bb1 Nc5 20. Qxc4 Qb7 21. Nf5 Bxf5 22.
+exf5 Nxd5 23. Ne4 Nxe4 24. Qxe4 Rab8 25. Bd2 Bf6 26. Bd3 Rc7 27. Rad1 Nb6 28.
+Qg4 d5 29. h4 Nc4 30. Bc1 e4 31. Bf1 Kh8 32. Qh3 Rd8 33. g4 Ne5 34. Be2 Nc6 35.
+g5 Be5 36. f4 exf3 37. Bxf3 Rcd7 38. Qg2 Qc7 39. Rxd5 Rxd5 40. Bxd5 Ne7 41. Be4
+Bg3 42. Rf1 Bxh4 43. Qh3 Qg3+ 44. Qxg3 Bxg3 45. Kg2 Bc7 46. Kf3 Nd5 47. Rd1 Nb6
+48. Rxd8+ Bxd8 49. Bc6 Kg8 50. Bb5 Kf8 51. Be3 f6 52. gxf6 gxf6 53. Ke4 Ke7 54.
+Bc5+ Kf7 55. Bd6 Be7 56. Bc7 Bc5 57. Bd8 Bg1 58. Kf3 Bc5 59. Kg4 Be3 60. Kh5
+Kg7 1-0
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Majdan, Joanna"]
+[Black "Nabaty, Tamir"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2323"]
+[BlackElo "2431"]
+[PlyCount "58"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 O-O 7. d4 Ba7 8. Bg5
+h6 9. Bh4 exd4 10. e5 g5 11. Bg3 Nh5 12. Bc2 f5 13. exf6 Qxf6 14. Qd3 Qg7 15.
+Bb3+ Kh8 16. Bxc7 d5 17. Bd6 Rf6 18. Be5 Nxe5 19. Nxe5 Nf4 20. Qd1 Bf5 21. Kh1
+d3 22. Nd2 Re8 23. Ng4 Rfe6 24. g3 Re2 25. gxf4 Bxg4 26. Bxd5 Qd7 27. c4 Qf5
+28. Qb3 Qxf4 29. Qxb7 Bb8 0-1
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Nilsson, Sebastian"]
+[Black "Mikhalevski, Alexander"]
+[Result "1-0"]
+[ECO "C80"]
+[WhiteElo "2284"]
+[BlackElo "2448"]
+[PlyCount "95"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Bf5 11. Nd4 Nxd4 12. cxd4 Ne6 13. Nb1 c6 14. Be3 Qh4 15.
+Nc3 Be7 16. Rc1 O-O 17. Ne2 Rac8 18. Ng3 Bg6 19. f4 f5 20. exf6 Bxf6 21. f5
+Bxd4 22. Qd2 Qh6 23. Rce1 Bxe3+ 24. Qxe3 Qxe3+ 25. Rxe3 Nd4 26. fxg6 hxg6 27.
+Ne2 Nxb3 28. axb3 Rfe8 29. Kf2 c5 30. Rxe8+ Rxe8 31. Nf4 Re4 32. Nxd5 Rd4 33.
+Nc7 Rd2+ 34. Kg3 Rxb2 35. Rf3 Rc2 36. Nxa6 Kh7 37. b4 cxb4 38. Nxb4 Rc4 39. Rb3
+g5 40. Nd5 Rd4 41. Nc7 b4 42. Na6 Rd6 43. Nxb4 Rb6 44. Rb2 Kg6 45. Nd3 Rd6 46.
+Ne5+ Kf5 47. Nf3 Rd5 48. Rb8 1-0
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Ozolin, Maxim"]
+[Black "Spence, David"]
+[Result "1-0"]
+[ECO "C16"]
+[WhiteElo "2367"]
+[BlackElo "2221"]
+[PlyCount "71"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 f5 8. Qg3
+Bb7 9. Ne2 Nc6 10. Nf4 O-O-O 11. h4 Nh6 12. a4 Na5 13. Bb5 Bc6 14. Be2 Rhg8 15.
+Ba3 Nf7 16. h5 Rde8 17. Bb4 Nc4 18. a5 Bb5 19. Bd3 Nd8 20. Qg5 Kb7 21. g4 Nf7
+22. Qh4 g5 23. hxg6 hxg6 24. Qf6 g5 25. Ng6 Nd8 26. gxf5 Rg7 27. Nf8 Rxf8 28.
+Qxf8 Rf7 29. Qg8 Rg7 30. Qh8 exf5 31. axb6 axb6 32. Rh6 Ba6 33. e6 Nxe6 34.
+Bxf5 Qb5 35. Bxe6 Ne3 36. Bc8+ 1-0
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Pinter, Erik"]
+[Black "Teske, Henrik"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2401"]
+[BlackElo "2504"]
+[PlyCount "28"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Nc6 7. Bf4 Bg4
+8. Be2 Be7 9. Qd2 Qd7 10. O-O-O O-O-O 11. Rhe1 Bf6 12. h3 Be6 13. Bg5 Bxg5 14.
+Qxg5 f6 1/2-1/2
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Reutsky, Sergei"]
+[Black "Ismagambetov, Anuar"]
+[Result "0-1"]
+[ECO "C91"]
+[WhiteElo "2344"]
+[BlackElo "2482"]
+[PlyCount "62"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. d4
+d6 9. c3 Bg4 10. d5 Na5 11. Bc2 c6 12. dxc6 Qc7 13. h3 Be6 14. Nbd2 Qxc6 15.
+Ng5 Bd7 16. Nf1 h6 17. Nf3 Be6 18. Ng3 Rfd8 19. Nf5 Bf8 20. a4 Nc4 21. b3 Nb6
+22. axb5 axb5 23. Bd2 Rxa1 24. Qxa1 Ra8 25. Qb2 Nbd7 26. Nh2 Nc5 27. f3 d5 28.
+exd5 Qxd5 29. Ne3 Qd7 30. Nhg4 Nxg4 31. Nxg4 f5 0-1
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Rojicek, Vojtech"]
+[Black "Vavrak, Peter"]
+[Result "0-1"]
+[ECO "C05"]
+[WhiteElo "2346"]
+[BlackElo "2474"]
+[PlyCount "90"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. f4 cxd4 7. Nxd4 Nc6 8.
+Ngf3 Bc5 9. c3 Qe7 10. Bd3 f6 11. Qe2 O-O 12. h4 fxe5 13. fxe5 Bxd4 14. cxd4
+Rxf3 15. Qxf3 Nxd4 16. Qf2 Nc6 17. Bg5 Qb4+ 18. Bd2 Ndxe5 19. O-O Qe7 20. Bc2
+Ng4 21. Qf3 Nge5 22. Qf2 Ng4 23. Qf3 Nge5 24. Qh5 g6 25. Qe2 Qxh4 26. Rf4 Qe7
+27. Raf1 Bd7 28. R4f2 Qh4 29. Rf4 Qe7 30. Bb3 Qd6 31. Qf2 Nd3 32. Qh4 Nxf4 33.
+Bxf4 e5 34. Bh6 Bf5 35. Qg5 Nd4 36. Kh1 Re8 37. Ba4 Rc8 38. Bb3 Re8 39. Ba4 Rc8
+40. Bb3 a6 41. Qg3 b5 42. a3 Qe6 43. Ba2 Be4 44. Qh4 Nf5 45. Qxe4 Ng3+ 0-1
+
+[Event "Pardubice Chladek&Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.21"]
+[Round "4"]
+[White "Samojlov, Anton"]
+[Black "Skytte, Rasmus"]
+[Result "0-1"]
+[ECO "C63"]
+[WhiteElo "2258"]
+[BlackElo "2397"]
+[PlyCount "92"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 Nf6 5. Qe2 Bc5 6. c3 fxe4 7. dxe4 d6 8.
+Nbd2 O-O 9. h3 Qe8 10. Nf1 Kh8 11. Ng3 Nh5 12. Nxh5 Qxh5 13. Bxc6 bxc6 14. Be3
+Bb6 15. Nd2 Qg6 16. O-O-O Be6 17. f3 d5 18. exd5 cxd5 19. Bxb6 axb6 20. a3 e4
+21. fxe4 dxe4 22. Qxe4 Bf5 23. Qc4 b5 24. Qxb5 Rfb8 25. Qc5 Qe6 26. Rhe1 Qa2
+27. Re8+ Rxe8 28. Qxf5 Rab8 29. Qc2 Re2 30. c4 Rd8 31. Qa4 h6 32. Qb4 Rxg2 33.
+Kc2 c5 34. Qxc5 Rb8 35. Qd4 Qb3+ 36. Kc1 Qxh3 37. Re1 Qg3 38. Re6 Qg5 39. Rd6
+Re8 40. Kc2 Qf5+ 41. Qd3 Qg5 42. Rd5 Qg4 43. Rd6 Rg1 44. Rd8 Qd1+ 45. Kc3 Rge1

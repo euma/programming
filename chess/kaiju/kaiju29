@@ -1,0 +1,50 @@
+C00	Queen's Knight, French	1.e4 e6 2.Nc3
+C00	Pelikan Variation, French	1.e4 e6 2.Nc3 d5 3.f4
+C00	Two Knight Variation, French	1.e4 e6 2.Nc3 d5 3.Nf3
+C00	Knight Variation, French	1.e4 e6 2.Nf3
+C00	Wing Gambit, French	1.e4 e6 2.Nf3 d5 3.e5 c5 4.b4
+C00	Two Knights Variation, French	1.e4 e6 2.Nf3 d5 3.Nc3
+C00	Chigorin Variation, French	1.e4 e6 2.Qe2
+C01	C01	1.e4 e6 2.d4
+C01	Baeuerle Gambit, French	1.e4 e6 2.d4 b5
+C01	Schlechter Variation, French	1.e4 e6 2.d4 d5 3.Bd3
+C01	Exchange Variation, French	1.e4 e6 2.d4 d5 3.exd5 exd5
+C01	Monte Carlo Variation, French	1.e4 e6 2.d4 d5 3.exd5 exd5 4.c4
+C01	Svenius Variation, French	1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nc3 Nf6
+5.Bg5
+C01	Canal Attack, French	1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3
+Ne7 6.Qh5
+C01	Perseus Gambit, French	1.e4 e6 2.d4 d5 3.Nf3
+C01	Carlson Gambit, French	1.e4 e6 2.d4 d5 3.Nf3 dxe4 4.Ne5
+C01	Morphy Gambit, French	1.e4 e6 2.d4 d5 3.Nh3
+C01	Hoffman Gambit	1.e4 e6 2.d4 d5 3.Qe2 e5 4.f4 exf4
+C01	Franco-Hiva Gambit I, French	1.e4 e6 2.d4 f5
+C01	Mediterranean Defense, French	1.e4 e6 2.d4 Nf6
+C02	Advance Variation, French; C02	1.e4 e6 2.d4 d5 3.e5
+C02	Extended Bishop Swap, French	1.e4 e6 2.d4 d5 3.e5 Bd7
+C02	Advance; Nimzovich; Steinitz Var, Fr	1.e4 e6 2.d4 d5 3.e5 Bd7
+C02	Frenkel Gambit, French	1.e4 e6 2.d4 d5 3.e5 c5 4.b4
+C02	Paulsen Attack, French	1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3
+C02	Euwe Variation, French	1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7
+C02	Lputian Variation, French	1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3
+Qb6 6.a3 Nh6
+C02	Milner-Barry Gambit, French	1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3
+Qb6 6.Bd3
+C02	Milner-Barry Gambit, French	1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3
+Qb6 6.Bd3 cxd3 7.cxd3 Bd7 8.O-O Nxd4 9.Nxd4
+C02	Wade Variation, French	1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Qb6 5.Nf3 Bd7
+C02	Nimzovich Variation, French	1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3
+C02	Ruisdonk Gambit, French	1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Bd3
+C02	Nimzovich Attack, French	1.e4 e6 2.d4 d5 3.e5 c5 4.Qg4
+C03	Tarrasch Variation, French; C03	1.e4 e6 2.d4 d5 3.Nd2
+C03	Morozevich Variation, French	1.e4 e6 2.d4 d5 3.Nd2 Be7
+C03	Haberditz Variation, French	1.e4 e6 2.d4 d5 3.Nd2 f5
+C04	C04	1.e4 e6 2.d4 d5 3.Nd2 Nc6
+C04	Guimard Variation, French	1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.Ngf3 Nf6
+5.e5 Nfd7
+C04	Leningrad Variation, French	1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.Ngf3 Nf6
+5.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ndf3 cxd4 8.cxd4
+C05	C05	1.e4 e6 2.d4 d5 3.Nd2 Nf6
+C06	Botvinnik Variation, French	1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.e4 Nfd7
+5.Bd3 c5 6.c3 b6
+C06	C06	1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3

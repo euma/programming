@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 a6 7. Rc1 Ne4 8.
+Qb3 Nxc3 9. bxc3 e6 10. Ne5 Na5 11. Qc2 f6 12. Nd3 Bd7 13. g3 Ba3 14. Rb1 Rc8
+15. Bg2 Bb5 16. O-O Qd7 17. Nc1 Qc6 18. Re1 f5 19. e4 fxe4 20. f3 Bxc1 21.
+Rbxc1 Bd3 22. Qd1 O-O 23. fxe4 dxe4 24. Qg4 Nc4 25. Bh6 Rc7 26. Rcd1 Nb2 27.
+Rc1 e5 28. Be3 Nc4 29. dxe5 Nxe5 30. Qh5 Nf3+ 31. Bxf3 Rxf3 32. Bd4 Rcf7 33.
+Rcd1 h6 34. Qh4 Kh7 35. Qg4 R3f5 36. Qh4 Qg6 37. Be3 Rh5 38. Qd8 Rf3 39. Bf2
+Rxh2 40. Kxh2 Rxf2+ 41. Kh3 Qf5+ 0-1
+
+[Event "Nabokov Memorial 6th"]
+[Site "Kiev"]
+[Date "2008.04.05"]
+[Round "2"]
+[White "Baryshpolets, Andrey"]
+[Black "Shishkin, Vadim"]
+[Result "1-0"]
+[ECO "D77"]
+[WhiteElo "2409"]
+[BlackElo "2510"]
+[PlyCount "147"]
+[EventDate "2008.04.04"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. Bg2 dxc4 6. Na3 O-O 7. O-O Na6 8.
+Nxc4 c5 9. b3 Bf5 10. Bb2 Be4 11. Rc1 b6 12. Qd2 Qd5 13. Rfd1 Qb7 14. Ne1 Bxg2
+15. Nxg2 Rfd8 16. Qf4 Rac8 17. Ne1 Qe4 18. Qxe4 Nxe4 19. f3 Nd6 20. dxc5 Bxb2
+21. Nxb2 Nxc5 22. Ned3 Nxd3 23. Nxd3 Nb5 24. Kf1 f6 25. Ke1 Kf7 26. Nb4 Rxd1+
+27. Kxd1 Rxc1+ 28. Kxc1 Ke6 29. Kd2 a5 30. Nc2 Kd5 31. Kd3 Kc5 32. a3 Nc7 33.
+e4 e5 34. Ne3 h5 35. f4 exf4 36. gxf4 g5 37. fxg5 fxg5 38. e5 Nd5 39. Nf5 g4
+40. Ke4 Nc3+ 41. Kf4 Kd5 42. Ne3+ Ke6 43. Kg5 Kxe5 44. Kxh5 Nb5 45. Nxg4+ Ke6
+46. Kg6 Nxa3 47. h4 Nb5 48. h5 Nd6 49. h6 Nf7 50. h7 b5 51. Nh6 Nh8+ 52. Kg7 a4
+53. bxa4 b4 54. Kxh8 b3 55. Kg7 b2 56. h8=Q b1=Q 57. Qe8+ Kd5 58. Nf5 Qb7+ 59.
+Kf6 Qb6+ 60. Kg5 Qg1+ 61. Kf6 Qb6+ 62. Kf7 Qb7+ 63. Kf8 Qb4+ 64. Ne7+ Kc4 65.
+Qf7+ Kc5 66. Qf2+ Kd6 67. Qf6+ Kc5 68. Qc6+ Kd4 69. Ke8 Qb8+ 70. Kd7 Qa7+ 71.
+Ke6 Kd3 72. Qd7+ Qxd7+ 73. Kxd7 Kc4 74. Nc6 1-0
+
+[Event "Nabokov Memorial 6th"]
+[Site "Kiev"]
+[Date "2008.04.05"]
+[Round "2"]
+[White "Kruppa, Yuri"]
+[Black "Vysochin, Spartak"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[WhiteElo "2543"]
+[BlackElo "2521"]
+[PlyCount "41"]
+[EventDate "2008.04.04"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. cxd5 cxd5 6. Bf4 Nc6 7. e3 Bg4 8. Be2
+e6 9. h3 Bh5 10. O-O Be7 11. Ne5 Bxe2 12. Nxc6 Bxd1 13. Nxd8 Rxd8 14. Rfxd1 Rc8
+15. Rac1 O-O 16. Ne2 b5 17. Rxc8 Rxc8 18. Rc1 Rc4 19. b3 Rxc1+ 20. Nxc1 Ne4 21.
+Ne2 1/2-1/2
+
+[Event "Nabokov Memorial 6th"]
+[Site "Kiev"]
+[Date "2008.04.08"]
+[Round "6"]
+[White "Baryshpolets, Andrey"]
+[Black "Vysochin, Spartak"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "2409"]
+[BlackElo "2521"]
+[PlyCount "62"]
+[EventDate "2008.04.04"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. a4 e6 6. g3 dxc4 7. Bg2 c5 8. dxc5
+Qxd1+ 9. Nxd1 Nc6 10. Ne3 c3 11. bxc3 Bxc5 12. O-O Ne4 13. Ne5 Nxe5 14. Bxe4
+Ke7 15. Rb1 Rb8 16. Nc2 Rd8 17. Bf4 Bd6 18. Rfd1 Nc4 19. Rd4 Bxf4 20. gxf4 Nd2
+21. Rbb4 Rxd4 22. Rxd4 Nxe4 23. Rxe4 Bd7 24. Rb4 a5 25. Rc4 Rc8 26. Na3 b6 27.
+Kf1 Rxc4 28. Nxc4 Bxa4 29. Nxb6 Bb3 30. Ke1 Kd6 31. Kd2 Kc7 0-1
+
+[Event "Nabokov Memorial 6th"]
+[Site "Kiev"]
+[Date "2008.04.09"]
+[Round "7"]
+[White "Golichenko, Ilja"]
+[Black "Shishkin, Vadim"]
+[Result "1-0"]
+[ECO "D87"]
+[WhiteElo "2353"]
+[BlackElo "2510"]
+[PlyCount "65"]
+[EventDate "2008.04.04"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 Na5 11. Bd3 b6 12. Qd2 e5 13. Bh6 cxd4 14. cxd4 exd4
+15. Bxg7 Kxg7 16. f4 f6 17. Rac1 Bg4 18. Ng3 Bd7 19. Ne2 Bg4 20. Ng3 Bd7 21. h4
+Rc8 22. h5 Qe7 23. Ba6 Rxc1 24. Rxc1 Nc6 25. Bb5 Qd6 26. h6+ Kxh6 27. e5 Qd5
+28. f5+ Kg7 29. exf6+ Rxf6 30. Qg5 Rd6 31. f6+ Kf8 32. Qh6+ Ke8 33. Bc4 1-0
+
+[Event "Nabokov Memorial 6th"]
+[Site "Kiev"]
+[Date "2008.04.10"]
+[Round "8"]
+[White "Nyzhnyk, Illya"]
+[Black "Vysochin, Spartak"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2397"]
+[BlackElo "2521"]
+[PlyCount "55"]
+[EventDate "2008.04.04"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 Bg4 5. Ne5 Be6 6. cxd5 Nxd5 7. a3 Nf6 8. e3
+Nbd7 9. Nxd7 Bxd7 10. Nc3 e6 11. Be2 Bd6 12. O-O O-O 13. Na4 b6 14. e4 e5 15.
+f4 exd4 16. e5 c5 17. exd6 Rc8 18. b3 Re8 19. Nb2 b5 20. a4 a6 21. axb5 axb5
+22. Bd3 Qb6 23. Bd2 Qxd6 24. Rae1 h6 25. Rxe8+ Bxe8 26. Bf5 Bd7 27. Bxd7 Qxd7
+28. Rc1 1/2-1/2
+
+[Event "Nabokov Memorial 6th"]
+[Site "Kiev"]
+[Date "2008.04.10"]
+[Round "8"]
+[White "Shishkin, Vadim"]
+[Black "Bargan, Sergei"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2510"]
+[BlackElo "2404"]
+[PlyCount "83"]
+[EventDate "2008.04.04"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bd3 Nc6 7. Ne2 Bg4 8.
+Be3 Qd7 9. a4 a6 10. Nbc3 O-O-O 11. a5 Nd5 12. Nxd5 Qxd5 13. f3 Be6 14. O-O Qb3
+15. Qb1 Bc4 16. Rd1 e6 17. Bg5 Nxd4 18. Bxd8 Nxe2+ 19. Kh1 Bc5 20. Bh4 g5 21.
+Bxg5 h6 22. Bf6 Rg8 23. Bxc4 Qxc4 24. Qh7 Rf8 25. Qd3 Qxd3 26. Rxd3 Nf4 27. Rb3
+Rg8 28. g3 Nd5 29. Ra4 Nxf6 30. exf6 Rg6 31. Rg4 Rxf6 32. Rg8+ Kd7 33. Kg2 b6
+34. Rd3+ Kc6 35. axb6 cxb6 36. h4 a5 37. b3 Kb5 38. f4 Kb4 39. Kf3 e5 40. Re8
+exf4 41. Re4+ Ka3 42. b4+ 1-0
+
+[Event "Nabokov Memorial 6th"]
+[Site "Kiev"]
+[Date "2008.04.12"]
+[Round "10"]
+[White "Golichenko, Ilja"]
+[Black "Bargan, Sergei"]
+[Result "1-0"]
+[ECO "D41"]
+[WhiteElo "2353"]
+[BlackElo "2404"]
+[PlyCount "71"]
+[EventDate "2008.04.04"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Nc6 9. Be2 Bb4+ 10. Bd2 Qa5 11. Rb1 Bxd2+ 12. Qxd2 Ke7 13. Bb5 Bd7 14. d5
+Qxd2+ 15. Kxd2 exd5 16. exd5 Nd8 17. Rhe1+ Kd6 18. Bxd7 Kxd7 19. Kd3 Rc8 20.
+Ne5+ Kd6 21. Kd4 Rf8 22. Rb2 f6 23. Nc4+ Kd7 24. Rbe2 Rf7 25. a4 b6 26. Re8 Rc7
+27. R8e6 Rc8 28. Rd6+ Kc7 29. Rc1 Rb8 30. f4 g6 31. g4 a6 32. a5 b5 33. Rb6
+Rxb6 34. axb6+ Kd7 35. Na5 Kd6 36. b7 1-0
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "1"]
+[White "Bozov, Ahmet"]
+[Black "Lalev, Ivan"]
+[Result "0-1"]
+[ECO "D55"]
+[WhiteElo "2140"]
+[BlackElo "2026"]
+[PlyCount "109"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. Nf3 Be7 6. e3 O-O 7. Bd3 b6 8. Rc1
+Bb7 9. O-O c5 10. cxd5 exd5 11. Bb1 Ne4 12. Bxe7 Qxe7 13. dxc5 Nxc3 14. Rxc3
+bxc5 15. Bf5 Nf6 16. Qc2 g6 17. Rxc5 gxf5 18. Rc7 Qe4 19. Qc3 d4 20. Qxd4 Qxd4
+21. Nxd4 Bc8 22. Nc6 Be6 23. a3 a5 24. Rc1 a4 25. h3 Kh8 26. Nd4 Ra6 27. R1c5
+Ne4 28. Re5 Rb6 29. Nxf5 Bxf5 30. Rxf5 Rxb2 31. Rf4 Rb1+ 32. Kh2 Nd2 33. g4 Rb3
+34. Rxa4 Nb1 35. Raa7 Kg7 36. a4 Nc3 37. a5 Nb5 38. Rab7 Nxc7 39. Rxb3 Ra8 40.
+Ra3 Kf6 41. f4 Ke6 42. e4 f6 43. Kg3 Nb5 44. Ra1 Ra6 45. Kf2 Nd4 46. Rd1 Nc6
+47. Rd5 Rxa5 48. Rxa5 Nxa5 49. h4 Nc4 50. Ke2 Nd6 51. Kd3 Nf7 52. g5 f5 53. h5
+fxe4+ 54. Kxe4 Nd6+ 55. Kd4 0-1
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "1"]
+[White "Drenchev, Petar"]
+[Black "Sharkov, B."]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2426"]
+[PlyCount "103"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. Nc3 g6 5. d4 Bg7 6. Bd3 O-O 7. O-O Na6 8. cxd5
+Nb4 9. dxc6 bxc6 10. Be2 a5 11. e4 Qc7 12. a3 Na6 13. Bg5 h6 14. Bh4 Nh5 15.
+Rc1 Nf4 16. Nd5 Nxd5 17. exd5 Bg4 18. Ne5 Bxe2 19. Qxe2 c5 20. Bg3 Qb7 21. dxc5
+Qxd5 22. Rfd1 Qe6 23. Qc4 Qxc4 24. Rxc4 Rfb8 25. Nc6 Rxb2 26. Nxe7+ Kh7 27. h4
+Re2 28. Rd7 Bf8 29. Nd5 Nxc5 30. Rxf7+ Kg8 31. Rc7 Re6 32. R7xc5 Bxc5 33. Rxc5
+Ra7 34. Kh2 Kf7 35. Nc7 Re4 36. Nb5 Rd7 37. Nd6+ Rxd6 38. Bxd6 Ke6 39. Bg3 Ra4
+40. h5 gxh5 41. Rxh5 Rxa3 42. Rxh6+ Kd5 43. Ra6 Ra2 44. Kh3 a4 45. f4 Ra1 46.
+f5 Kc4 47. f6 Kb3 48. Bd6 Rf1 49. Be7 Rf5 50. Kg4 Rf2 51. g3 Rf1 52. Ra5 1-0
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "1"]
+[White "Metushev, F."]
+[Black "Filev, Georgi"]
+[Result "0-1"]
+[ECO "D00"]
+[BlackElo "2353"]
+[PlyCount "83"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. g3 d5 2. d4 Nf6 3. Bg2 c6 4. b3 Bf5 5. Nf3 h6 6. Bb2 e6 7. a3 Be7 8. O-O O-O
+9. Nbd2 Nbd7 10. c4 Re8 11. c5 Ne4 12. Nxe4 Bxe4 13. Nd2 Bxg2 14. Kxg2 Bf6 15.
+Qc2 e5 16. e3 Qe7 17. Rfe1 exd4 18. exd4 Qxe1 19. Rxe1 Rxe1 20. Nf3 Re4 21. Kf1
+Rae8 22. b4 a6 23. a4 g5 24. h3 Bg7 25. Bc3 Nf8 26. Qd3 Ne6 27. Ne5 Nxd4 28.
+Bxd4 Bxe5 29. Bxe5 R8xe5 30. b5 Rxa4 31. bxc6 bxc6 32. Qb3 Ra1+ 33. Kg2 Re2 34.
+Qc3 Raa2 35. Qf6 Rxf2+ 36. Qxf2 Rxf2+ 37. Kxf2 a5 38. Ke3 a4 39. Kd3 a3 40. Kc2
+d4 41. Kb3 d3 42. Kxa3 0-1
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "2"]
+[White "Davidov, Stefan"]
+[Black "Drenchev, Petar"]
+[Result "0-1"]
+[ECO "D26"]
+[BlackElo "2426"]
+[PlyCount "86"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 dxc4 5. e3 a6 6. Bxc4 b5 7. Bd3 Bb7 8. O-O
+Nbd7 9. a3 c5 10. dxc5 Nxc5 11. Bc2 Qc7 12. b4 Rd8 13. Qe2 Ncd7 14. Bb2 Bd6 15.
+e4 O-O 16. Rac1 Bf4 17. Rcd1 Nb6 18. Bb3 Nc4 19. Bxc4 Qxc4 20. Qxc4 bxc4 21. g3
+Nxe4 22. Nxe4 Bxe4 23. Ne5 Bxe5 24. Bxe5 Bf3 25. Rc1 f6 26. Bc7 Rd7 27. Bb6 Rb8
+28. Bc5 Rd2 29. Rfe1 Be2 30. a4 e5 31. a5 Bd3 32. Be3 Ra2 33. Bc5 Kf7 34. f3
+Ke6 35. g4 Kd5 36. Rcd1 h5 37. Re3 hxg4 38. Rexd3+ cxd3 39. Rxd3+ Kc4 40. Rd1
+gxf3 41. Rd7 Rh8 42. Rd1 Rg2+ 43. Kf1 Rhxh2 0-1
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "2"]
+[White "Dimitrova, Toni"]
+[Black "Vitanov, Georgi"]
+[Result "1/2-1/2"]
+[ECO "D04"]
+[BlackElo "2061"]
+[PlyCount "23"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 Bg4 4. Be2 e6 5. O-O Bd6 6. b3 O-O 7. Bb2 c6 8. Ne5
+Bf5 9. Nd2 Nbd7 10. c4 Rc8 11. Rc1 Qa5 12. a4 1/2-1/2
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "2"]
+[White "Maksudov, Z."]
+[Black "Dimitrov, Petko"]
+[Result "0-1"]
+[ECO "D12"]
+[BlackElo "2290"]
+[PlyCount "34"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. e3 c6 5. Nf3 Nf6 6. Be2 Nbd7 7. cxd5 exd5 8.
+Nh4 Be6 9. Nf3 b5 10. O-O Bd6 11. h3 O-O 12. Nh2 Qc7 13. f4 Nb6 14. Nf3 h6 15.
+Ne5 Kh7 16. Qe1 g6 17. Kh1 Rg8 0-1
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "2"]
+[White "Mehandjiev, B."]
+[Black "Lapantov, B."]
+[Result "1-0"]
+[ECO "D26"]
+[PlyCount "13"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 Be7 6. O-O O-O 7. Qe2 1-0
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "3"]
+[White "Drenchev, Petar"]
+[Black "Ilchov, Rosen"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2426"]
+[BlackElo "2144"]
+[PlyCount "71"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c6 2. Nf3 Nf6 3. Nc3 d5 4. e3 e6 5. d4 Nbd7 6. Qc2 Bd6 7. g4 h6 8. Rg1 e5
+9. cxd5 cxd5 10. Nb5 Bb8 11. Bd2 a6 12. Rc1 axb5 13. Qxc8 e4 14. g5 hxg5 15.
+Qxd8+ Kxd8 16. Nxg5 Bxh2 17. Nxf7+ Ke7 18. Nxh8 Bxg1 19. Bb4+ Ke8 20. Bxb5 Bh2
+21. a3 g5 22. Ke2 g4 23. Rh1 Bc7 24. Rh6 Bd8 25. Ng6 Kf7 26. Ne5+ Nxe5 27. dxe5
+Ng8 28. Rh7+ Ke6 29. Rxb7 Kxe5 30. Bc3+ Kd6 31. a4 Bf6 32. Bb4+ Ke5 33. a5 Kf5
+34. a6 d4 35. a7 d3+ 36. Kd2 1-0
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "3"]
+[White "Petrov, Simeon"]
+[Black "Dimitrova, Toni"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2011"]
+[PlyCount "37"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Be7 5. c4 b6 6. Nc3 Bb7 7. Rc1 O-O 8. cxd5
+Nh5 9. dxe6 Nxf4 10. exf7+ Rxf7 11. exf4 Rxf4 12. Be2 Nd7 13. O-O a6 14. Qb3+
+Kh8 15. Nd5 Nc5 16. Rxc5 Bxc5 17. Nxf4 Bd6 18. Ne5 Bxe5 19. dxe5 1-0
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "4"]
+[White "Iliev, Ilia"]
+[Black "Metushev, F."]
+[Result "1/2-1/2"]
+[ECO "D06"]
+[PlyCount "48"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 g6 3. Nf3 Bg7 4. Bf4 c6 5. e3 Nf6 6. h3 b6 7. Be2 O-O 8. O-O Bb7
+9. Nc3 Nbd7 10. Ne5 Nxe5 11. Bxe5 Nd7 12. Bxg7 Kxg7 13. b4 Nf6 14. Rb1 Bc8 15.
+cxd5 cxd5 16. a3 Bf5 17. Bd3 Be6 18. f4 Rc8 19. Qd2 Bd7 20. Rbc1 e6 21. Bb5
+Bxb5 22. Nxb5 Qd7 23. Nc3 Rc7 24. Ne2 Rfc8 1/2-1/2
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.05"]
+[Round "4"]
+[White "Stanoev, Atanas"]
+[Black "Vitanov, Georgi"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "2138"]
+[BlackElo "2061"]
+[PlyCount "63"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5 5. cxd5 exd5 6. g3 Nc6 7. Bg2 Be6 8. O-O
+Be7 9. b3 O-O 10. Bb2 Ne4 11. Na4 cxd4 12. Nxd4 Nxd4 13. Bxd4 b5 14. Nc3 Nxc3
+15. Bxc3 Qd7 16. Qd2 Bc5 17. Rfd1 Rfd8 18. Qg5 f6 19. Bxf6 Bxf2+ 20. Kxf2 Rf8
+21. Kg1 Rxf6 22. Rxd5 Qf7 23. Rxb5 h6 24. Qe3 Rf8 25. Rb7 Qg6 26. Rxa7 Qh5 27.
+Ra8 Rxa8 28. Bxa8 Bh3 29. Bf3 Qf7 30. Rd1 g5 31. Qe4 Qa7+ 32. Qd4 1-0
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.06"]
+[Round "5"]
+[White "Davidov, Stefan"]
+[Black "Mehandjiev, B."]
+[Result "1-0"]
+[ECO "D45"]
+[PlyCount "71"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 c6 4. e3 e6 5. Nc3 Nbd7 6. a3 Be7 7. b4 a5 8. b5 O-O
+9. bxc6 bxc6 10. c5 e5 11. Be2 exd4 12. exd4 Re8 13. O-O Ba6 14. Bxa6 Rxa6 15.
+Qd3 Ra7 16. Rb1 Qc8 17. Na4 Bd8 18. Bf4 Bc7 19. Bxc7 Qxc7 20. Rb3 Rb7 21. Rxb7
+Qxb7 22. Rb1 Qc7 23. Nb6 Qf4 24. g3 Qg4 25. Kg2 Nh5 26. Qd2 Ndf6 27. Qg5 g6 28.
+Qxg4 Nxg4 29. h3 Ngf6 30. Ne5 Re6 31. f3 Ng7 32. g4 Nge8 33. Nc8 Nc7 34. Nxc6
+Kf8 35. Nd6 Nd7 36. Rb7 1-0
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.06"]
+[Round "5"]
+[White "Lichkov, I."]
+[Black "Imamov, M."]
+[Result "1-0"]
+[ECO "D10"]
+[PlyCount "60"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Bg5 Bf5 5. Qb3 Qd7 6. Nf3 dxc4 7. Qxc4 e6 8.
+Bxf6 gxf6 9. e4 Bg4 10. Be2 Na6 11. O-O Nc7 12. Rfd1 Bxf3 13. Bxf3 Rg8 14. d5
+e5 15. dxc6 Qxc6 16. Qb3 Bc5 17. Rac1 Qb6 18. Qc2 Qa5 19. Na4 b6 20. a3 Na6 21.
+b4 Nxb4 22. axb4 Qxb4 23. Nxc5 bxc5 24. Qxc5 Qb6 25. Qxb6 axb6 26. Rb1 Ra6 27.
+Be2 Ra2 28. Bb5+ Kf8 29. Bc4 Rc2 30. Rd8+ Kg7 1-0
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.06"]
+[Round "5"]
+[White "Metushev, F."]
+[Black "Ivanov, Ognjan"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[BlackElo "2075"]
+[PlyCount "33"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. g3 d5 2. d4 g6 3. Bg2 Bg7 4. Nf3 Bf5 5. O-O Nc6 6. a3 Nf6 7. b3 Qd7 8. Bb2
+Bh3 9. Ne5 Nxe5 10. dxe5 Bxg2 11. Kxg2 Ng4 12. e6 Qxe6 13. Bxg7 Rg8 14. Bb2
+O-O-O 15. Nd2 h5 16. h3 Nf6 17. Nf3 1/2-1/2
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.06"]
+[Round "5"]
+[White "Petrov, Simeon"]
+[Black "Lalev, Ivan"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2011"]
+[BlackElo "2026"]
+[PlyCount "97"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 e6 4. Bd3 Nbd7 5. O-O c6 6. Nbd2 Bd6 7. b3 e5 8. dxe5
+Nxe5 9. Be2 O-O 10. Bb2 Qe7 11. c4 dxc4 12. Nxc4 Nxc4 13. Bxc4 Bg4 14. Be2 Rad8
+15. Qc2 Rfe8 16. Rad1 Bxf3 17. Bxf3 Be5 18. Bxe5 Qxe5 19. h3 g6 20. Rd2 Rxd2
+21. Qxd2 Kg7 22. Rd1 h5 23. Qb4 Re7 24. Qd4 Qxd4 25. Rxd4 c5 26. Rd6 b6 27. Kf1
+Rc7 28. Ke2 Ne8 29. Rd8 Kf8 30. Rb8 Ke7 31. Rb7 Rxb7 32. Bxb7 Nd6 33. Bd5 Kf6
+34. Kd3 Ke5 35. Bc6 h4 36. f4+ Kf5 37. Bd7+ Kf6 38. e4 Ke7 39. Bc6 f6 40. Ke3
+g5 41. fxg5 fxg5 42. Kf3 Kf6 43. Kg4 Nf7 44. Bd5 Ne5+ 45. Kh5 b5 46. Kh6 b4 47.
+Kh5 a5 48. Kh6 Nd3 49. Bc4 1-0
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.06"]
+[Round "7"]
+[White "Havaldjov, H."]
+[Black "Dimitrova, Toni"]
+[Result "1-0"]
+[ECO "D00"]
+[PlyCount "55"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Nd2 Be7 5. Bd3 O-O 6. c3 b6 7. Ngf3 Bb7 8. O-O
+Ne4 9. Qc2 f5 10. c4 Na6 11. a3 c5 12. cxd5 exd5 13. Ne5 c4 14. Bxe4 fxe4 15.
+h3 Nc7 16. b3 b5 17. bxc4 bxc4 18. Rfb1 Rb8 19. Rb2 Ba8 20. Rxb8 Qxb8 21. Nd7
+Qc8 22. Nxf8 Bxf8 23. Nxe4 Nb5 24. Ng3 g6 25. a4 Na3 26. Qc3 h6 27. Nf1 g5 28.
+Be5 1-0
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.06"]
+[Round "7"]
+[White "Ilchov, Rosen"]
+[Black "Filev, Georgi"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2144"]
+[BlackElo "2353"]
+[PlyCount "18"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. e4
+Bxe4 9. fxe4 Nxe4 1/2-1/2
+
+[Event "Ablanica op"]
+[Site "Ablanica"]
+[Date "2008.04.06"]
+[Round "7"]
+[White "Vlashki, Nino"]
+[Black "Drenchev, Petar"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[WhiteElo "2175"]
+[BlackElo "2426"]
+[PlyCount "12"]
+[EventDate "2008.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]

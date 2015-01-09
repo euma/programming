@@ -1,0 +1,600 @@
+[ECO "B12"]
+[WhiteElo "1930"]
+[BlackElo "1860"]
+[PlyCount "63"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 h6 5. Be2 e6 6. O-O Nd7 7. b3 c5 8. Bb2 Rc8
+9. Nbd2 Ne7 10. c4 b6 11. Re1 Nc6 12. a3 Be7 13. Nf1 cxd4 14. Nxd4 Nxd4 15.
+Bxd4 dxc4 16. Bxc4 O-O 17. Ng3 Bg6 18. Qg4 Bc5 19. Bb2 Rb8 20. b4 b5 21. Bb3
+Bb6 22. h4 Rc8 23. Re2 Qe7 24. Ne4 Bxe4 25. Qxe4 Rfd8 26. Rd1 Nf8 27. Rd6 Bc7
+28. Red2 Bxd6 29. exd6 Rxd6 30. Qe5 Rc1+ 31. Bxc1 Rxd2 32. Bxd2 1-0
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.19"]
+[Round "8"]
+[White "Jaworek, Miroslaw"]
+[Black "Urbanski, Grzegorz"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "1838"]
+[BlackElo "2158"]
+[PlyCount "117"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nde2 d5 8.
+exd5 Nxd5 9. O-O Be6 10. Be4 Nxc3 11. Qxd8+ Kxd8 12. Nxc3 Nc6 13. Be3 Bd6 14.
+Rfd1 Ke7 15. Nd5+ Bxd5 16. Rxd5 Nb4 17. Rd2 Rac8 18. Rad1 Bb8 19. c3 Nc6 20.
+Rd7+ Ke6 21. Rxb7 Rhd8 22. Rxd8 Rxd8 23. Kf1 Ne7 24. Rb6+ Kd7 25. Rxa6 f5 26.
+Bc2 Bd6 27. c4 h6 28. c5 Bb8 29. b4 e4 30. Ke2 Nd5 31. Bd2 Kc8 32. Rg6 Bf4 33.
+Be1 Be5 34. Ra6 Kb7 35. Ra3 Nf4+ 36. Kf1 g5 37. b5 Rd4 38. g3 Nd3 39. Bxd3 exd3
+40. Bd2 f4 41. Ke1 Rd5 42. Bb4 d2+ 43. Kd1 h5 44. Ra6 Bd4 45. Rd6 Rxd6 46. cxd6
+Bxf2 47. gxf4 g4 48. Kxd2 h4 49. Ke2 Bg1 50. h3 gxh3 51. Kf1 Bd4 52. a4 Kb6 53.
+Be1 Kb7 54. a5 Kc8 55. Bb4 Kd7 56. f5 Kc8 57. b6 Kb7 58. d7 Bf6 59. Bc3 1-0
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.19"]
+[Round "8"]
+[White "Korcz, Daniel"]
+[Black "Buchowski, Adam"]
+[Result "1-0"]
+[ECO "B28"]
+[WhiteElo "1687"]
+[BlackElo "1975"]
+[PlyCount "167"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. f3 O-O 8. a3
+Bxc3+ 9. bxc3 Qc7 10. c4 d6 11. Bd3 Be6 12. Qe2 Nbd7 13. Be3 Rac8 14. Nd2 Nb6
+15. Bxb6 Qxb6 16. Rb1 Qc6 17. O-O Rc7 18. Rb4 Nd7 19. Rfb1 Nc5 20. Qe3 f6 21.
+Nb3 Qd7 22. Nxc5 dxc5 23. Rb6 Rd8 24. g4 Qf7 25. Qe2 Bc8 26. Kh1 h5 27. gxh5
+Qxh5 28. Rg1 Qh6 29. Qg2 Kh7 30. Qg3 Rh8 31. f4 Re7 32. fxe5 Rxe5 33. Qxe5 fxe5
+34. Rxh6+ Kxh6 35. Rf1 Kg6 36. Rg1+ Kf6 37. Rf1+ Ke7 38. Rg1 Rg8 39. Rg6 Be6
+40. Kg2 Kf7 41. Rg5 Kf6 42. h4 Rh8 43. Kg3 g6 44. Be2 Rd8 45. c3 Rd2 46. Kf3
+Rc2 47. Rg1 Rxc3+ 48. Kf2 Rxa3 49. Rb1 Bc8 50. Rb6+ Kg7 51. h5 gxh5 52. Bxh5
+Rc3 53. Be2 Rc2 54. Ke3 a5 55. Rb5 b6 56. Rxb6 a4 57. Rc6 Bh3 58. Rxc5 a3 59.
+Rxe5 a2 60. Ra5 Be6 61. Kd3 Rb2 62. Bh5 Rh2 63. Be8 Kf8 64. Bc6 Ke7 65. Bd5 Bh3
+66. Kc3 Kd6 67. c5+ Ke5 68. c6 Kd6 69. Kb3 Bg4 70. Rxa2 Bd1+ 71. Ka3 Rh3+ 72.
+Kb4 Rh4 73. Ka5 Rh8 74. Kb6 Rb8+ 75. Ka7 Rb4 76. Rh2 Ra4+ 77. Kb7 Rb4+ 78. Ka6
+Kc5 79. Rd2 Ba4 80. c7 Bb5+ 81. Ka7 Bd7 82. Rc2+ Kb5 83. Bc6+ Bxc6 84. Rxc6 1-0
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.19"]
+[Round "8"]
+[White "Motyka, Michal"]
+[Black "Kosiorek, Marek"]
+[Result "1-0"]
+[ECO "B24"]
+[WhiteElo "2331"]
+[BlackElo "2371"]
+[PlyCount "117"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Rb8 6. f4 e6 7. Be3 d6 8. Nf3 Nd4
+9. e5 dxe5 10. fxe5 Nxf3+ 11. Qxf3 Bxe5 12. Bxc5 b6 13. O-O f5 14. Ba3 b5 15.
+Qc6+ Bd7 16. Qc5 Qb6 17. Kh1 Qxc5 18. Bxc5 Rc8 19. d4 Bb8 20. Bb7 Rc7 21. Ba6
+Nf6 22. Bxb5 Bxb5 23. Nxb5 Rb7 24. c4 Ne4 25. Ba3 a6 26. Nc3 Nd2 27. Rfe1 Nxc4
+28. Rxe6+ Kf7 29. Rxa6 Nxa3 30. Rxa3 Rxb2 31. Rb3 Rc2 32. Rb7+ Kf6 33. Nd5+ Kg5
+34. a4 Rd8 35. h4+ Kh6 36. Nf6 Bc7 37. d5 Kg7 38. d6 Kxf6 39. Rxc7 Rd2 40. d7
+R2xd7 41. Rxd7 Rxd7 42. a5 Ra7 43. a6 Ke5 44. Kg2 h6 45. Kf3 g5 46. Ra5+ Ke6
+47. h5 Kf6 48. Ke3 Ke6 49. Kd4 Kd7 50. Ke5 f4 51. gxf4 gxf4 52. Kxf4 Kc8 53.
+Kf5 Kb8 54. Kg6 Rc7 55. a7+ Ka8 56. Kxh6 Rc1 57. Kg6 Rg1+ 58. Rg5 Rb1 59. h6
+1-0
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.19"]
+[Round "8"]
+[White "Osipow, Nikolaj"]
+[Black "Kalinin, Oleg"]
+[Result "1/2-1/2"]
+[ECO "B24"]
+[WhiteElo "2243"]
+[BlackElo "2356"]
+[PlyCount "23"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Nge2 Nge7 7. O-O O-O 8. Nf4
+Rb8 9. a4 a6 10. Nce2 d5 11. exd5 exd5 12. Nc3 1/2-1/2
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.19"]
+[Round "8"]
+[White "Polok, Kacper"]
+[Black "Santura, Janusz"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1903"]
+[BlackElo "1808"]
+[PlyCount "80"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 Bg4 5. c3 cxd4 6. cxd4 Nc6 7. Bb5 Qb6 8. Nc3
+Bxf3 9. gxf3 e6 10. O-O Nge7 11. Be3 Nf5 12. Qd3 a6 13. Nxd5 Qd8 14. Bxc6+ bxc6
+15. Nc3 Bb4 16. Ne4 O-O 17. Ng3 Ne7 18. Qe4 Nd5 19. a3 Be7 20. Nh5 Bg5 21. Kh1
+g6 22. Rg1 Bxe3 23. fxe3 Rb8 24. b4 Kh8 25. Nf4 Ne7 26. Rac1 a5 27. Rc4 axb4
+28. axb4 Ra8 29. Nh3 Ra3 30. Nf2 Nd5 31. Re1 Qe7 32. Ng4 Qh4 33. Rcc1 Ra2 34.
+Qb1 Rfa8 35. e4 Qh3 36. Rc2 Qxf3+ 37. Kg1 Qxg4+ 38. Kf1 Qf3+ 39. Kg1 Rxc2 40.
+Qxc2 Nf4 0-1
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.19"]
+[Round "8"]
+[White "Ulrych, Wojciech"]
+[Black "Sanetra, Piotr"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2020"]
+[BlackElo "2065"]
+[PlyCount "103"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 Qd7 5. Be2 h6 6. g4 Bh7 7. Be3 e6 8. a3 Qc7
+9. f4 Ne7 10. Nf3 Nd7 11. Bd3 O-O-O 12. Bxh7 Rxh7 13. Qd3 g6 14. b4 Bg7 15. Na4
+Rhh8 16. Nc5 Rdf8 17. Bf2 Nxc5 18. bxc5 h5 19. g5 Qa5+ 20. c3 Nf5 21. O-O Kc7
+22. Rfb1 Rb8 23. Nd2 b6 24. Rb4 b5 25. Nb3 Qa6 26. a4 Qb7 27. axb5 cxb5 28. c6
+Qxc6 29. Rxa7+ Kd8 30. Rxf7 Re8 31. Nc5 Re7 32. Rxe7 Kxe7 33. Qb1 Bf8 34. Ra4
+Ke8 35. Ra6 Rb6 36. Rxb6 Qxb6 37. Qa2 Bxc5 38. Qa8+ Kf7 39. dxc5 Qc7 40. Qa6
+Ne7 41. Qxb5 Qa7 42. Bd4 Qa1+ 43. Kg2 Qa2+ 44. Bf2 Qc2 45. Qb4 Qe2 46. Qa4 Qg4+
+47. Kf1 Qf3 48. Qb4 Qd1+ 49. Kg2 Qg4+ 50. Kf1 Qd1+ 51. Kg2 Qg4+ 52. Kf1 1/2-1/2
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.19"]
+[Round "8"]
+[White "Walach, Marcin"]
+[Black "Szumilas, Pawel"]
+[Result "1/2-1/2"]
+[ECO "B35"]
+[WhiteElo "2410"]
+[BlackElo "2164"]
+[PlyCount "47"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 a5 9. a4 Ng4 10. Qxg4 Nxd4 11. Qh4 Nxb3 12. cxb3 Ra6 13. O-O d6 14. Nd5 Re8
+15. Rac1 Rc6 16. Bg5 f6 17. Be3 Be6 18. Rc4 f5 19. Bg5 Bxd5 20. exd5 Rxc4 21.
+bxc4 Bxb2 22. Rb1 Bf6 23. g4 fxg4 24. Bxf6 1/2-1/2
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.19"]
+[Round "8"]
+[White "Wiewiora, Eneasz"]
+[Black "Galyga, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "1992"]
+[BlackElo "2175"]
+[PlyCount "97"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Be6 7. c5 a6 8. Bd3
+g6 9. O-O Bg7 10. h3 O-O 11. a3 Nd7 12. Be3 b6 13. cxb6 Nxb6 14. Qe2 Qc8 15.
+Rfc1 Qb7 16. b4 Bf5 17. Bxf5 gxf5 18. Qc2 e6 19. Nxd5 Nxd5 20. Qxc6 Qxc6 21.
+Rxc6 a5 22. b5 a4 23. Rb1 Rfb8 24. Ne5 Bxe5 25. dxe5 Nxe3 26. fxe3 Rb7 27. b6
+Kf8 28. Kf2 Ke8 29. Ke2 Kd7 30. Rd6+ Ke7 31. Rd4 Ra6 32. Rdb4 Kd7 33. Kd3 Ra5
+34. Rb5 Rxb5 35. Rxb5 Kc8 36. Kc4 Rd7 37. Kb4 Kb7 38. Kxa4 Rd3 39. Kb4 Rxe3 40.
+a4 Re4+ 41. Kb3 Re3+ 42. Kb4 Re4+ 43. Kb3 Re3+ 44. Kc2 Rg3 45. a5 Rxg2+ 46. Kb3
+Rg3+ 47. Ka4 Rg1 48. Rc5 Ra1+ 49. Kb3 1/2-1/2
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.21"]
+[Round "9"]
+[White "Blasiak, Miroslaw"]
+[Black "Polok, Kacper"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "2003"]
+[BlackElo "1903"]
+[PlyCount "72"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nce7 9. c4 Nxd5 10. exd5 bxc4 11. Nxc4 Nf6 12. Be3 Rb8 13. Be2 Be7 14. O-O O-O
+15. Rc1 Bb7 16. Nb6 Nd7 17. Nxd7 Qxd7 18. Qd2 Bd8 19. Rfd1 f5 20. f3 f4 21. Bf2
+g5 22. h3 h5 23. Qd3 Qg7 24. Qb3 Ra8 25. Bb6 g4 26. hxg4 hxg4 27. fxg4 e4 28.
+Bxd8 Raxd8 29. Rc4 Rde8 30. Rc3 Bc8 31. Rf1 Bxg4 32. Bxg4 Qxg4 33. Rh3 Re7 34.
+Qc2 Rg7 35. Kh2 f3 36. gxf3 Rxf3 0-1
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.21"]
+[Round "9"]
+[White "Galyga, Jozef"]
+[Black "Szusterowski, Radoslaw"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1884"]
+[BlackElo "1839"]
+[PlyCount "56"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Bc4 Nf6 5. d3 e5 6. Nf3 Nc6 7. h3 h6 8. O-O
+Bd6 9. a3 a6 10. Ba2 b5 11. Ne4 O-O 12. Be3 Nxe4 13. dxe4 Rb8 14. Qe2 Qe7 15.
+Rfd1 Be6 16. Bd5 Bxd5 17. Rxd5 f5 18. exf5 e4 19. Nd4 Nxd4 20. Bxd4 Qf7 21.
+Qxe4 Rfe8 22. Qf3 Rbd8 23. Kf1 c6 24. Rxd6 Rxd6 25. c3 c5 26. Be3 Rf6 27. g4
+Kh7 28. Bxc5 Qc4+ 0-1
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.21"]
+[Round "9"]
+[White "Jacko, Vladimir"]
+[Black "Walach, Marcin"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2107"]
+[BlackElo "2410"]
+[PlyCount "84"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Qxd5 4. Nc3 Qd6 5. Be2 Nc6 6. h3 e5 7. d3 Be7 8.
+O-O O-O 9. Bg5 Bf5 10. Nd2 Nd4 11. Re1 b5 12. Bf1 Rfe8 13. Nce4 Nxe4 14. Nxe4
+Qg6 15. Bxe7 Rxe7 16. Ng3 Rd8 17. c3 Nc6 18. Nxf5 Qxf5 19. Qb3 b4 20. Qc4 Re6
+21. Re3 Rf6 22. Qh4 Qd7 23. Qc4 Qd6 24. g3 bxc3 25. bxc3 Rb8 26. Bg2 Ne7 27.
+Rae1 Rb2 28. d4 Rfxf2 29. R1e2 Rbxe2 30. Rxe2 Rxe2 31. Qxe2 exd4 32. Qb5 g6 33.
+cxd4 Qxd4+ 34. Kh2 Kg7 35. Qb7 Qb6 36. Qe4 Qd6 37. Qa4 a6 38. Kh1 Nf5 39. g4
+Ng3+ 40. Kg1 Ne2+ 41. Kf1 Nf4 42. Qc4 Qd1+ 0-1
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.21"]
+[Round "9"]
+[White "Korcz, Daniel"]
+[Black "Widera, Jan"]
+[Result "1/2-1/2"]
+[ECO "B34"]
+[WhiteElo "1687"]
+[BlackElo "2119"]
+[PlyCount "35"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8.
+f3 Qb6 9. Qd2 Nxe4 10. Nxc6 Qxb2 11. Nxe7+ Kh8 12. Nxe4 Qxa1+ 13. Qd1 Qxa2 14.
+Bd4 f6 15. Nd6 b6 16. Nexc8 Raxc8 17. Nxc8 Rxc8 18. Bd3 1/2-1/2
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.21"]
+[Round "9"]
+[White "Labus, Zbigniew"]
+[Black "Ulrych, Wojciech"]
+[Result "0-1"]
+[ECO "B40"]
+[BlackElo "2020"]
+[PlyCount "94"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Bd3 d5 7. O-O Nf6 8.
+Nd2 Qb6 9. Qe2 Be7 10. Kh1 O-O 11. f4 Nd7 12. Rf3 Nc5 13. Rh3 g6 14. e5 Nxd3
+15. cxd3 c5 16. Nf3 f6 17. b3 a5 18. Be3 d4 19. Bf2 a4 20. bxa4 Rxa4 21. Bh4
+Ra7 22. Rg3 Bb7 23. Rf1 Bd5 24. f5 Rxa2 25. Qe1 exf5 26. exf6 Bxf6 27. Ng5 Qb2
+28. Nf3 Bxh4 29. Nxh4 Qe2 30. Qc1 Rc2 31. Qf4 Qe6 32. Qh6 Rf6 33. Rb1 Rb2 34.
+Rg1 Re2 35. h3 f4 36. Rg4 f3 37. gxf3 Re1 38. Qg5 Rxg1+ 39. Kxg1 Qe3+ 40. Kg2
+Bxf3+ 41. Nxf3 Qxf3+ 42. Kh2 Qf2+ 43. Kh1 Qf1+ 44. Kh2 Rf2+ 45. Rg2 Rxg2+ 46.
+Qxg2 Qxg2+ 47. Kxg2 Kf7 0-1
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.21"]
+[Round "9"]
+[White "Pyclik, Blazej"]
+[Black "Gromada, Andrzej"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1560"]
+[BlackElo "1995"]
+[PlyCount "76"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd2 Qb6 6. Bf4 c6 7. Na4 Qa5+ 8.
+c3 Nbd7 9. b4 Qf5 10. Bg3 e5 11. Bd3 Qe6 12. dxe5 Nxe5 13. Be2 Be7 14. Bxe5
+Qxe5 15. Nf3 Qc7 16. O-O O-O 17. a3 Bf5 18. c4 Rad8 19. Qb3 Rfe8 20. Rfe1 h6
+21. h3 Ne4 22. Rad1 Qf4 23. Nc3 Nd2 24. Nxd2 Rxd2 25. g3 Qd6 26. Rxd2 Qxd2 27.
+Rd1 Qg5 28. Kg2 Qg6 29. Rd2 Bg5 30. Rd4 Bc2 31. Qb2 Bf6 32. Rd2 Be4+ 33. f3 Bf5
+34. g4 Re3 35. Rd6 Bxc3 36. Rd8+ Kh7 37. Qa2 Bb1 38. Qb3 Rxe2+ 0-1
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.21"]
+[Round "9"]
+[White "Sadowski, Krzysztof"]
+[Black "Sanetra, Szymon"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1879"]
+[BlackElo "2050"]
+[PlyCount "90"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. e4 c6 3. f3 e6 4. Bd3 dxe4 5. fxe4 Qxd4 6. Nf3 Qb6 7. Bd2 Nd7 8.
+Qe2 Bb4 9. Nc3 Ngf6 10. O-O-O e5 11. g4 Nxg4 12. Rhg1 Nf2 13. Rdf1 Nxd3+ 14.
+cxd3 g6 15. Ng5 f6 16. Ne6 Ke7 17. Ng7 Qc5 18. a3 Bxc3 19. Bxc3 Qd6 20. h4 Nb6
+21. h5 g5 22. Qf2 Na4 23. Bd2 Qc5+ 24. Qxc5+ Nxc5 25. Bb4 b6 26. Kc2 a5 27.
+Bxc5+ bxc5 28. Rf2 Ba6 29. Rg3 Rad8 30. Rgf3 Rhf8 31. h6 Bc8 32. Nh5 Bg4 33.
+Nxf6 Bxf3 34. Nxh7 Rh8 35. Nxg5 Bh5 36. Rf5 Rxh6 37. Rxe5+ Kd6 38. Rf5 Re8 39.
+e5+ Rxe5 40. Ne4+ Ke6 41. Rf8 c4 42. Rc8 cxd3+ 43. Kxd3 Bg6 44. Rxc6+ Ke7 45.
+Rxg6 Rxg6 0-1
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.21"]
+[Round "9"]
+[White "Szczecina, Kamil"]
+[Black "Przepiora, Gabriel"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1621"]
+[PlyCount "31"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Qf3 Qf5 6. Bd3 Qxf3 7. Nxf3 Bg4 8.
+Ne5 Bh5 9. g4 Bg6 10. Bxg6 hxg6 11. d5 Nf6 12. dxc6 Nxc6 13. Nxc6 bxc6 14. h3
+Nxg4 15. f3 Nf6 16. Be3 1/2-1/2
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.21"]
+[Round "9"]
+[White "Szumilas, Pawel"]
+[Black "Janiszewski, Maciej"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2164"]
+[BlackElo "2072"]
+[PlyCount "59"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Qc7 4. Nf3 e6 5. Bxc6 Qxc6 6. d4 Nf6 7. d5 Qc7 8.
+O-O a6 9. Bg5 d6 10. dxe6 fxe6 11. Qe2 b5 12. e5 b4 13. exf6 bxc3 14. bxc3 Qf7
+15. fxg7 Bxg7 16. Rad1 Qd7 17. Bf4 d5 18. Ne5 Bxe5 19. Bxe5 Rg8 20. Qe3 Bb7 21.
+f3 Qc6 22. Rb1 O-O-O 23. Rb2 Rd7 24. Bg3 d4 25. Qe5 Kd8 26. Qb8+ Bc8 27. Rb6
+Qd5 28. Bh4+ Rg5 29. Bxg5+ Qxg5 30. Rc6 1-0
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.21"]
+[Round "9"]
+[White "Tchorzewski, Kazimierz"]
+[Black "Faron, Rafal"]
+[Result "1/2-1/2"]
+[ECO "B75"]
+[WhiteElo "1870"]
+[BlackElo "1730"]
+[PlyCount "93"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 Nf6 8. f3
+a6 9. O-O-O Qc7 10. g4 O-O 11. h4 Nxd4 12. Bxd4 Be6 13. Kb1 Rfb8 14. h5 b5 15.
+Nd5 Nxd5 16. Bxg7 Nb4 17. Qxb4 Kxg7 18. hxg6 hxg6 19. g5 Qc5 20. Qd2 Rc8 21.
+Bd3 b4 22. f4 a5 23. f5 gxf5 24. Rh7+ Kxh7 25. Qh2+ Kg8 26. Qh6 Qe5 27. g6 Qg7
+28. gxf7+ Kxf7 29. Qe3 Bc4 30. Bxc4+ Rxc4 31. exf5 Qf6 32. Qd3 Rc5 33. Qb3+ Kf8
+34. Rg1 Qf7 35. Qf3 Rac8 36. Rh1 Ke8 37. Rh8+ Kd7 38. Qb7+ R8c7 39. Qb8 Kc6 40.
+Qa8+ Kb5 41. b3 R5c6 42. Qb8+ Ka6 43. Qa8+ Kb5 44. a4+ Kc5 45. Qxa5+ Kd4 46.
+Qxb4+ Ke5 47. Rh2 1/2-1/2
+
+[Event "Asia-ch U14"]
+[Site "Teheran"]
+[Date "2008.07.16"]
+[Round "1"]
+[White "Amanbaev, Kaium"]
+[Black "Vakhidov, Jahongir"]
+[Result "1-0"]
+[ECO "B52"]
+[BlackElo "2165"]
+[PlyCount "51"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. Re1 e6 8.
+d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Nbd2 Nxd2 12. Bxd2 Be7 13. a3 O-O 14. Rc1 h6
+15. Qe2 Rfb8 16. Rc2 b5 17. Rec1 Rb6 18. b4 Bf8 19. h3 a5 20. bxa5 Nxa5 21.
+Bxa5 Rxa5 22. Rc7 Qd8 23. Rc8 Qe7 24. R1c7 Qxa3 25. Rd8 b4 26. Rdd7 1-0
+
+[Event "Asia-ch U14"]
+[Site "Teheran"]
+[Date "2008.07.16"]
+[Round "1"]
+[White "Ankit, R Rajpara"]
+[Black "Valerio, Axel John"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2194"]
+[BlackElo "1851"]
+[PlyCount "59"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. h3 Bh5 8. O-O
+Nc6 9. Be3 cxd4 10. cxd4 Be7 11. Nc3 Qd6 12. Qb3 O-O 13. a3 a6 14. Rfe1 b5 15.
+d5 Na5 16. Qc2 e5 17. b4 Nb7 18. Ng5 Bxe2 19. Qxe2 Rac8 20. Nce4 Nxe4 21. Nxe4
+Qg6 22. Qd3 f5 23. d6 fxe4 24. Qd5+ Qf7 25. dxe7 Rfe8 26. Qxb7 Qxe7 27. Qxe7
+Rxe7 28. Rac1 Rec7 29. Rxc7 Rxc7 30. Rc1 1-0
+
+[Event "Asia-ch U14"]
+[Site "Teheran"]
+[Date "2008.07.16"]
+[Round "1"]
+[White "Golubev, Roman"]
+[Black "Fenil, Shah"]
+[Result "1-0"]
+[ECO "B44"]
+[BlackElo "2129"]
+[PlyCount "73"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 a6 7. N5a3 Nf6 8. Nc3
+b6 9. Be2 Bb7 10. Be3 Be7 11. O-O O-O 12. Rc1 Rc8 13. Qd2 Ne5 14. f3 Ned7 15.
+Rfd1 Qc7 16. Kh1 Rfd8 17. Bf1 Qb8 18. Qe1 Qa8 19. Rd2 Re8 20. Rcd1 d5 21. exd5
+exd5 22. Qf2 Bb4 23. Nc2 Bxc3 24. bxc3 Ne5 25. Bxb6 dxc4 26. Ne3 Qb8 27. Bd4
+Re7 28. Nf5 Ree8 29. Qg3 g6 30. Bxe5 Rxe5 31. Nd6 Rh5 32. Qf4 Kg7 33. Rd4 Rd8
+34. Rb1 Rb5 35. Rxb5 axb5 36. Nxb7 Qxf4 37. Rxf4 1-0
+
+[Event "Asia-ch U14"]
+[Site "Teheran"]
+[Date "2008.07.16"]
+[Round "1"]
+[White "Pranav, Shetty"]
+[Black "Chohrour, Hassan"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2138"]
+[PlyCount "1"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 1-0
+
+[Event "Asia-ch U14"]
+[Site "Teheran"]
+[Date "2008.07.17"]
+[Round "2"]
+[White "Golubev, Roman"]
+[Black "Hosseinipour, Mehdi"]
+[Result "1/2-1/2"]
+[ECO "B95"]
+[BlackElo "2067"]
+[PlyCount "81"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qe2 Nbd7 8.
+O-O-O Qc7 9. g4 b5 10. a3 Bb7 11. f4 Be7 12. h4 O-O-O 13. Rh3 Kb8 14. f5 e5 15.
+Nb3 h6 16. Bd2 Rc8 17. Be1 Nb6 18. Bf2 Nc4 19. Bg1 Bc6 20. Nd2 Nb6 21. Qe3 Nfd7
+22. Nb3 Nc5 23. Kb1 Ba8 24. Rh2 Rhd8 25. g5 hxg5 26. hxg5 d5 27. Nxc5 Bxc5 28.
+Qxc5 Qxc5 29. Bxc5 Rxc5 30. Rh7 d4 31. Rxg7 Rf8 32. Nd5 Nxd5 33. exd5 Bxd5 34.
+Be2 Be4 35. Bd3 Bf3 36. Re1 e4 37. Bxe4 Re5 38. Bxf3 Rxe1+ 39. Ka2 Rf1 40. Be4
+Rf4 41. Bd3 1/2-1/2
+
+[Event "Asia-ch U14"]
+[Site "Teheran"]
+[Date "2008.07.17"]
+[Round "2"]
+[White "Perera, WCC."]
+[Black "Ankit, R Rajpara"]
+[Result "0-1"]
+[ECO "B34"]
+[BlackElo "2194"]

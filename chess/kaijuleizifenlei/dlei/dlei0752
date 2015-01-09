@@ -1,0 +1,600 @@
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 h6 5. Bh4 Bb4+ 6. Nc3 c5 7. cxd5 exd5 8. a3
+Bxc3+ 9. bxc3 g5 10. Bg3 Qa5 11. Qb3 Nc6 12. e3 Ne4 13. Rc1 c4 14. Qb2 Qb6 15.
+Qc2 Bf5 16. Qa2 Qb3 17. Qxb3 cxb3 18. Be5 f6 0-1
+
+[Event "Varna op U16"]
+[Site "Varna"]
+[Date "2008.07.04"]
+[Round "6"]
+[White "Krumov, Georgi"]
+[Black "Terziev, Boris"]
+[Result "1-0"]
+[ECO "D04"]
+[WhiteElo "1622"]
+[PlyCount "41"]
+[EventDate "2008.06.29"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Bg4 3. e3 e6 4. Bd3 Nf6 5. Nbd2 Bb4 6. c3 Bd6 7. h3 Bxf3 8.
+Qxf3 O-O 9. e4 Qe7 10. e5 Ne4 11. Nxe4 dxe4 12. Qxe4 f5 13. exd6 fxe4 14. dxe7
+Re8 15. Bxe4 Rxe7 16. Bxb7 e5 17. Bg5 Re6 18. Bxa8 exd4+ 19. Be3 dxe3 20. Bd5
+Kf7 21. fxe3 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.06.30"]
+[Round "1"]
+[White "Beutelhoff, Josef"]
+[Black "Lauche, Christoph"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[WhiteElo "2139"]
+[PlyCount "67"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 Nc6 3. e3 e5 4. dxe5 dxc4 5. Qxd8+ Kxd8 6. Bxc4 Nxe5 7. Be2 Bf5
+8. Nf3 Nd3+ 9. Bxd3 Bxd3 10. Ne5 Bg6 11. Bd2 Nf6 12. Nc3 c6 13. e4 Bd6 14. Nxg6
+hxg6 15. f4 Nxe4 16. Nxe4 Re8 17. O-O-O Rxe4 18. Bb4 Rxb4 19. Rxd6+ Kc7 20.
+Rhd1 Rxf4 21. Rd7+ Kb6 22. Re7 Rh8 23. h3 Rh5 24. Rdd7 Rhf5 25. Rxb7+ Kc5 26.
+Rxa7 Rf1+ 27. Kc2 R1f2+ 28. Kb3 R5f4 29. a3 f5 30. Re6 Rxg2 31. Ra6 Rg3+ 32.
+Ka2 Re4 33. Raxc6+ Kd4 34. Red6+ 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.06.30"]
+[Round "1"]
+[White "Boesel, Alexander"]
+[Black "Schlierkamp, Ferdinand"]
+[Result "0-1"]
+[ECO "D61"]
+[WhiteElo "2017"]
+[BlackElo "2192"]
+[PlyCount "72"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. Qc2 O-O 8. a3
+Re8 9. Bd3 h6 10. Bh4 a6 11. c5 e5 12. dxe5 Ng4 13. Bxe7 Qxe7 14. b4 Ndxe5 15.
+h3 Nxf3+ 16. gxf3 Ne5 17. Qe2 a5 18. Kd2 axb4 19. axb4 Rxa1 20. Rxa1 Bxh3 21.
+f4 Bg4 22. Qf1 d4 23. fxe5 dxc3+ 24. Kxc3 Qxe5+ 25. Kc2 Rd8 26. Ra3 Bf5 27.
+Bxf5 Qxf5+ 28. Kc3 Qe5+ 29. Kc2 Qd5 30. Qe2 Qe4+ 31. Kc3 Qb1 32. Ra2 g6 33. Rb2
+Qa1 34. b5 Qa3+ 35. Kc4 Rd5 36. bxc6 Qxc5+ 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.06.30"]
+[Round "1"]
+[White "Bykovskij, Sergej"]
+[Black "Eichhorn, Andreas"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1950"]
+[BlackElo "2297"]
+[PlyCount "92"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bg4 4. e3 e6 5. Be2 Bd6 6. Bg3 Nge7 7. Nbd2 O-O 8.
+O-O Ng6 9. c3 Qe7 10. Re1 f5 11. c4 Kh8 12. cxd5 exd5 13. Qb3 Bb4 14. Rad1 Bxf3
+15. gxf3 f4 16. Qxd5 Rad8 17. Qb3 fxg3 18. hxg3 Na5 19. Qc2 c5 20. a3 Bxd2 21.
+Qxd2 b6 22. d5 Qf6 23. Qc2 Nb7 24. e4 Nd6 25. Rd2 Qg5 26. Bd1 Nb5 27. Re3 Nd4
+28. Qc3 Rd7 29. Kf1 Rdf7 30. f4 Qh6 31. Kg1 Nxf4 32. gxf4 Rxf4 33. Rh3 Qg6+ 34.
+Kf1 Qxe4 35. d6 Qe6 36. Qd3 g6 37. d7 Qxd7 38. Rh2 Qb5 39. Qxb5 Nxb5 40. Bc2
+Kg7 41. Bb3 Nd4 42. Bd5 b5 43. Rd3 c4 44. Re3 Nf5 45. Re6 Rd4 46. Re5 Rxd5 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.06.30"]
+[Round "1"]
+[White "Muehlenhaus, Sven"]
+[Black "Kartsev, Alexandr"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "2208"]
+[BlackElo "1975"]
+[PlyCount "98"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Bd6 6. Qc2 Nbd7 7. g4 Nxg4 8. Rg1
+h5 9. h3 Qf6 10. hxg4 Qxf3 11. Be2 Qh3 12. Bd2 Bh2 13. Rh1 hxg4 14. O-O-O Nf6
+15. cxd5 exd5 16. e4 Be6 17. exd5 Nxd5 18. Ne4 O-O-O 19. Nc5 Nf4 20. Bb5 Rxd4
+21. Nxe6 Nxe6 22. Be3 Rxd1+ 23. Rxd1 Qf3 24. Be2 Qf6 25. Bxg4 Bf4 26. Qe4 Bxe3+
+27. Qxe3 Rh4 28. Bxe6+ Qxe6 29. Qxa7 Qc4+ 30. Kb1 Qa4 31. Qxa4 Rxa4 32. b3 Rf4
+33. Rd2 Kc7 34. Kc2 c5 35. Re2 Kd6 36. Kd3 f5 37. Rc2 Rd4+ 38. Ke3 g5 39. f3 g4
+40. fxg4 Rxg4 41. Rh2 Re4+ 42. Kf3 b5 43. Rh8 Re7 44. Rd8+ Rd7 45. Rb8 Kc6 46.
+Rc8+ Kd5 47. Ke3 Re7+ 48. Kf4 Kd4 49. Kxf5 c4 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.06.30"]
+[Round "1"]
+[White "Paulus, Jeffrey"]
+[Black "Limberg, Martin"]
+[Result "0-1"]
+[ECO "D15"]
+[BlackElo "2050"]
+[PlyCount "26"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 Qb6 5. cxd5 cxd5 6. e3 Bf5 7. Bd3 Bg6 8.
+Ne5 e6 9. O-O Nc6 10. Nxg6 hxg6 11. a3 Be7 12. b4 Qc7 13. Bd2 Qxh2# 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.06.30"]
+[Round "1"]
+[White "Podzielny, Karl Heinz"]
+[Black "Knapp, Michael"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[WhiteElo "2412"]
+[BlackElo "1964"]
+[PlyCount "85"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Nbd7 8. Qc2
+b6 9. cxd5 exd5 10. Rd1 Bb7 11. Bd3 a6 12. O-O c5 13. dxc5 bxc5 14. Bf5 Nb6 15.
+Bxf6 Bxf6 16. Ne4 c4 17. b3 Qe7 18. Nxf6+ Qxf6 19. Nd4 Bc8 20. bxc4 Nxc4 21.
+Bh7+ Kh8 22. Bd3 Bg4 23. Rc1 Ne5 24. Bf5 Bxf5 25. Qxf5 Qxf5 26. Nxf5 Rac8 27.
+Ne7 Rc4 28. Nxd5 Rfc8 29. Rxc4 Rxc4 30. Rd1 Rc2 31. f4 Nc4 32. Rd4 a5 33. a4 f5
+34. h3 Kh7 35. g4 Nd2 36. Rd3 Nf3+ 37. Kf1 fxg4 38. hxg4 Nh2+ 39. Ke1 Nxg4 40.
+e4 Rc4 41. Ke2 Rxa4 42. e5 Re4+ 43. Kf3 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.06.30"]
+[Round "1"]
+[White "Skutta, Bernd"]
+[Black "Stockhuss, Kevin"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2077"]
+[BlackElo "1901"]
+[PlyCount "51"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Bf4 Nf6 5. e3 Be7 6. Rc1 O-O 7. g4 Nxg4 8. Bxb8
+Rxb8 9. Qxg4 e5 10. Qd1 exd4 11. Qxd4 Bf6 12. Qf4 Be6 13. Nf3 dxc4 14. Bxc4 Qa5
+15. Bxe6 fxe6 16. Qe4 Kh8 17. a3 Qh5 18. Nd4 Bh4 19. O-O Rf6 20. f4 Rg6+ 21.
+Kh1 Bg3 22. Rc2 Rh6 23. Nf3 Rd8 24. Rg2 Bh4 25. Qe5 Bf6 26. Qxh5 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "2"]
+[White "Boesel, Alexander"]
+[Black "Bartel, Mario"]
+[Result "0-1"]
+[ECO "D60"]
+[WhiteElo "2017"]
+[BlackElo "2149"]
+[PlyCount "116"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. Bg5 Nbd7 6. e3 Be7 7. a3 O-O 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. bxc3 e5 13. dxe5 Nxe5 14. Nxe5
+Qxe5 15. Qd4 Re8 16. Rfd1 Bf5 17. Qxe5 Rxe5 18. Rd4 Rae8 19. h3 Kf8 20. g4 Bc8
+21. a4 h5 22. Rf4 f6 23. Rd1 Rc5 24. Kg2 hxg4 25. hxg4 b5 26. Be2 a6 27. Rh1
+Kf7 28. c4 b4 29. a5 Rxa5 30. c5 Rxc5 31. Rxb4 a5 32. Rb6 Be6 33. Ra1 Ra8 34.
+Bd1 Ra7 35. f3 Ke7 36. Ba4 Bd7 37. Kf2 Rc4 38. Bb3 Rc3 39. Ke2 Be6 40. Ba4 Kd6
+41. Kd2 Rc5 42. Rab1 Bc8 43. Rb8 Kc7 44. R8b2 Ba6 45. f4 Ra8 46. Ke1 Rc4 47.
+Bb3 Rc3 48. Kf2 Rh8 49. Bd1 Rh2+ 50. Kg3 Rxb2 51. Rxb2 Rxe3+ 52. Kf2 Re4 53.
+Kf3 Rb4 54. Ra2 Kb6 55. Rh2 Rb1 56. Rd2 Bc4 57. Ke3 Bd5 58. Rd4 Rb4 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "2"]
+[White "Dyballa, Gerhard"]
+[Black "Muehlenhaus, Sven"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "2028"]
+[BlackElo "2208"]
+[PlyCount "57"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. Bf4 Nc6 6. e3 a6 7. Bd3 Bg4 8. Nf3
+e6 9. h3 Bh5 10. g4 Bg6 11. Ne5 Nxe5 12. Bxe5 Nd7 13. Bg3 Rc8 14. Rc1 Qb6 15.
+Rc2 Bb4 16. O-O Bxc3 17. Rxc3 Rxc3 18. bxc3 Qc6 19. Qc2 O-O 20. Bxg6 hxg6 21.
+Rc1 Rc8 22. f3 b5 23. Qb3 Nb6 24. Qb4 Nc4 25. Kf2 a5 26. Qe7 Nb2 27. Kg2 b4 28.
+Be1 Nd3 29. Kf1 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "2"]
+[White "Eichhorn, Andreas"]
+[Black "Steinmetzer, Thomas"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2297"]
+[BlackElo "2038"]
+[PlyCount "107"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 c5 5. b3 Nc6 6. O-O Bd6 7. Bb2 O-O 8. Nbd2
+Qe7 9. Ne5 cxd4 10. exd4 Ba3 11. Bxa3 Qxa3 12. c3 Nxe5 13. dxe5 Nd7 14. Re1 g6
+15. Nf3 b6 16. Qd2 Kg7 17. Nd4 Ba6 18. Bc2 Rfc8 19. Re3 Rc7 20. Rh3 Nf8 21. Bd3
+Bxd3 22. Rxd3 a6 23. Re1 Rac8 24. Ree3 Nd7 25. Rh3 Nxe5 26. Qh6+ Kg8 27. Qxh7+
+Kf8 28. Rd1 Qd6 29. Re1 Rxc3 30. f4 Rc1 31. Qh8+ Ke7 32. Qh4+ g5 33. fxg5 Ng6
+34. Nf5+ Kd7 35. Nxd6 Nxh4 36. Nxc8 Rxe1+ 37. Kf2 Re4 38. Nxb6+ Kc6 39. Na4 d4
+40. Nb2 Kd5 41. Nd3 a5 42. g3 Nf5 43. Rh8 Re3 44. Rd8+ Nd6 45. Nb2 Kc5 46. Rxd6
+Rc3 47. Na4+ Kxd6 48. Nxc3 dxc3 49. Ke3 Kc5 50. h4 Kb4 51. Kd3 e5 52. h5 e4+
+53. Kc2 e3 54. a3+ 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "2"]
+[White "Hokamp, Sascha"]
+[Black "Savchenko, Alekseij"]
+[Result "1/2-1/2"]
+[ECO "D04"]
+[WhiteElo "2110"]
+[BlackElo "2163"]
+[PlyCount "63"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 d5 4. Nbd2 Nc6 5. Bb5 Qb6 6. Bxc6+ bxc6 7. O-O e6 8.
+Re1 Be7 9. c3 cxd4 10. exd4 O-O 11. Ne5 c5 12. Nb3 cxd4 13. cxd4 a5 14. Bg5 h6
+15. Bh4 g5 16. Bg3 a4 17. Nc5 Bxc5 18. dxc5 Qxc5 19. Rc1 Qb6 20. h4 Ne4 21. Re3
+Qxb2 22. Rc2 Qb5 23. Ng4 Kg7 24. Rc7 h5 25. Qa1+ Kh7 26. Ne5 Rb8 27. Nxf7 Qb1+
+28. Re1 Qxa1 29. Rxa1 Kg6 30. Ne5+ Kh6 31. hxg5+ Nxg5 32. Rac1 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "2"]
+[White "Knapp, Michael"]
+[Black "Krallmann, Matthias"]
+[Result "0-1"]
+[ECO "D27"]
+[WhiteElo "1964"]
+[BlackElo "2276"]
+[PlyCount "92"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. dxc5 Qxd1 8.
+Rxd1 Bxc5 9. a3 b5 10. Be2 Bb7 11. b4 Be7 12. Bb2 Nbd7 13. Nbd2 O-O 14. Rac1
+Rac8 15. Ne5 Nxe5 16. Bxe5 Nd7 17. Bd4 Rfd8 18. Nb3 Bd5 19. Rxc8 Rxc8 20. Rc1
+Rxc1+ 21. Nxc1 e5 22. Bb2 f6 23. Bd1 Kf7 24. Bb3 Ke6 25. e4 Bxb3 26. Nxb3 Nb6
+27. f3 Nc4 28. Bc1 Kd7 29. Kf2 Kc6 30. Ke2 Kb6 31. Be3+ Kb7 32. Bc1 a5 33. bxa5
+Ka6 34. Kd3 Nxa3 35. Bd2 b4 36. Bc1 Kb5 37. Bxa3 bxa3 38. Kc2 Bb4 39. a6 Kxa6
+40. Na1 Kb5 41. Kb3 Bc5 42. Nc2 a2 43. Kxa2 Kc4 44. Kb2 Kd3 45. h4 h5 46. Kb3
+Bf2 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "2"]
+[White "Leon Villagra, Pablo"]
+[Black "Holmsgaard, Henrik"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "1827"]
+[BlackElo "2324"]
+[PlyCount "35"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nc3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. e4 e5 12. Bg5 Re8 13. Rfd1 Qe7 14. Rac1 exd4
+15. Nxd4 Bxh2+ 16. Kh1 Be5 17. Nf5 Qf8 18. f4 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "2"]
+[White "Limberg, Martin"]
+[Black "Voicu, Carmen"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2050"]
+[BlackElo "2290"]
+[PlyCount "35"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c3 Nf6 3. Bf4 Bf5 4. e3 e6 5. Nf3 Be7 6. Be2 Nbd7 7. Nbd2 c5 8. Qb3
+Qb6 9. O-O h6 10. h3 O-O 11. Ne5 Nxe5 12. Qxb6 axb6 13. Bxe5 Nd7 14. Bg3 Ra7
+15. a3 Rc8 16. Rac1 c4 17. Bd1 b5 18. Bc2 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "2"]
+[White "Savchenko, Viacheslav"]
+[Black "Fox, Daniel"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "2427"]
+[BlackElo "2107"]
+[PlyCount "112"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Be2 Bd6 5. O-O O-O 6. b3 b6 7. Bb2 Bb7 8. Ne5
+c5 9. Nd2 Nbd7 10. f4 cxd4 11. exd4 Ne4 12. Nxe4 dxe4 13. c4 f6 14. Nxd7 Qxd7
+15. Qe1 Qc7 16. Bc1 Rad8 17. Qh4 e5 18. d5 Qc5+ 19. Kh1 Qd4 20. Rb1 exf4 21.
+Bxf4 Bxf4 22. Qxf4 f5 23. b4 b5 24. Rfd1 Qc3 25. Qc7 Ba8 26. d6 bxc4 27. Qxa7
+Qc2 28. Qf2 e3 29. Qf1 Kh8 30. Rbc1 Qxa2 31. Rxc4 f4 32. Rcd4 f3 33. gxf3 Rxf3
+34. Bxf3 e2 35. Qg2 exd1=Q+ 36. Rxd1 Qb3 37. Rf1 Bxf3 38. Qxf3 Qxf3+ 39. Rxf3
+Kg8 40. Rd3 Kf7 41. Kg2 Ke6 42. Rh3 h6 43. Re3+ Kf6 44. Rd3 Ke6 45. Kf3 Rxd6
+46. Rxd6+ Kxd6 47. Ke4 g6 48. h3 Ke6 49. b5 Kd6 50. b6 Kc6 51. Ke5 Kxb6 52. Kf6
+h5 53. h4 Kc6 54. Kxg6 Kd6 55. Kxh5 Ke7 56. Kg6 Kf8 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "3"]
+[White "Babczyk, Adrian"]
+[Black "Naiditsch, Evgenija"]
+[Result "0-1"]
+[ECO "D43"]
+[WhiteElo "2033"]
+[BlackElo "2119"]
+[PlyCount "82"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e3 b5 8. Be2
+Bb7 9. O-O Be7 10. Ne5 Nbd7 11. f4 Nd5 12. Bxe7 Qxe7 13. Nxd5 cxd5 14. Bh5 Nxe5
+15. fxe5 g6 16. Bf3 h5 17. Be2 Qg5 18. Qd2 O-O 19. Rf6 b4 20. Kf2 a5 21. g3 h4
+22. a3 Rfb8 23. Rf4 hxg3+ 24. hxg3 Kg7 25. Rg4 Qe7 26. Rh4 Rh8 27. Rxh8 Rxh8
+28. Kg2 Qg5 29. Rg1 Bc6 30. axb4 axb4 31. Bf3 Rb8 32. Re1 b3 33. Ra1 Qf5 34.
+Rc1 Ba4 35. g4 Qc2 36. Rd1 c3 37. Qf2 cxb2 38. Be2 b1=Q 39. Rxb1 Qxb1 40. Qf6+
+Kg8 41. g5 b2 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "3"]
+[White "Beutelhoff, Josef"]
+[Black "Neumair, Cedric"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2139"]
+[BlackElo "1844"]
+[PlyCount "95"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8.
+Qc2 Re8 9. Nge2 c6 10. f3 Nf8 11. Bh4 b6 12. O-O Bd6 13. Bf2 Bb7 14. Ng3 Rc8
+15. Rac1 Bb8 16. b4 Ne6 17. Rfd1 h6 18. Qb3 Qd7 19. Nf5 Red8 20. Bh4 Ng5 21.
+Qb1 Qe8 22. Re1 Rc7 23. e4 dxe4 24. fxe4 Qd7 25. e5 Ne8 26. Ne4 Nxe4 27. Bxd8
+Qxd8 28. Bxe4 h5 29. Rcd1 g6 30. Ne3 Rd7 31. b5 cxb5 32. Bxb7 Rxb7 33. Qxb5 Rd7
+34. Qb2 Nc7 35. Rf1 Nd5 36. Qf2 Nc3 37. Rc1 Nb5 38. Nd5 Rxd5 39. Qxf7+ Kh8 40.
+Rc8 Qxc8 41. Qxd5 Qe8 42. Qf7 Qxf7 43. Rxf7 Kg8 44. Rb7 Bxe5 45. dxe5 Kf8 46.
+a4 Nc3 47. Rxa7 g5 48. Kf2 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "3"]
+[White "Czap, Bernhard"]
+[Black "Kartsev, Alexandr"]
+[Result "0-1"]
+[ECO "D01"]
+[WhiteElo "2167"]
+[BlackElo "1975"]
+[PlyCount "44"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Nbd7 4. Qd3 h6 5. Bh4 e6 6. e4 dxe4 7. Nxe4 Be7 8.
+Nxf6+ Nxf6 9. O-O-O O-O 10. Nf3 a6 11. Ne5 Qd5 12. c4 Qa5 13. a3 c5 14. Ng4
+Nxg4 15. Bxe7 Nxf2 16. Qf3 Nxh1 17. Bxf8 Kxf8 18. d5 exd5 19. cxd5 Bg4 20. Qxg4
+Nf2 21. Qd7 Nxd1 22. Qxb7 Rd8 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "3"]
+[White "Klatt, Peter"]
+[Black "Lauche, Christoph"]
+[Result "0-1"]
+[ECO "D07"]
+[WhiteElo "2016"]
+[PlyCount "72"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nc6 2. d4 d5 3. Nf3 e5 4. e3 Bg4 5. Be2 dxc4 6. Nc3 Bd6 7. d5 Nce7 8. e4
+Ng6 9. O-O a6 10. Bxc4 Nf6 11. h3 Bd7 12. Nh2 Qc8 13. Bg5 h5 14. Bxf6 gxf6 15.
+Qf3 Rg8 16. Kh1 Nf4 17. Rg1 Ke7 18. Ne2 Rg5 19. Nxf4 exf4 20. h4 Rg4 21. g3 Qh8
+22. Nxg4 hxg4 23. Qc3 f3 24. Rge1 Rg8 25. e5 fxe5 26. Re3 Rg5 27. Rae1 f6 28.
+Bf1 Rh5 29. Kg1 Kd8 30. Qa5 e4 31. Rxe4 Rxh4 32. gxh4 Qxh4 33. Re5 g3 34. fxg3
+Qxg3+ 35. Kh1 f2 36. Bg2 Qh4+ 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "3"]
+[White "Lapidus, Mark"]
+[Black "Krueger, Georg"]
+[Result "1-0"]
+[ECO "D80"]
+[WhiteElo "1877"]
+[BlackElo "1740"]
+[PlyCount "43"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. Bf4 Nxc3 7. bxc3 O-O 8.
+e3 c5 9. Be2 Qa5 10. Qd2 cxd4 11. cxd4 Qxd2+ 12. Nxd2 Nc6 13. Rb1 dxc4 14. Nxc4
+Rd8 15. O-O f6 16. Rfc1 e5 17. dxe5 fxe5 18. Bg5 Rf8 19. Nd6 Na5 20. Bf3 Bf6
+21. Bxf6 Rxf6 22. Nxc8 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "3"]
+[White "Muehlenhaus, Sven"]
+[Black "Borgmeyer, Max"]
+[Result "1-0"]
+[ECO "D52"]
+[WhiteElo "2208"]
+[BlackElo "2040"]
+[PlyCount "45"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Nd2 Bb4 8. Qc2
+Ne4 9. Ndxe4 dxe4 10. Bf4 e5 11. dxe5 Nxe5 12. O-O-O Bf5 13. Nxe4 Qxa2 14. Nd6+
+Bxd6 15. Qxf5 Qa1+ 16. Qb1 Qxb1+ 17. Kxb1 O-O-O 18. Rxd6 Rxd6 19. Bxe5 Rd2 20.
+g3 Rxf2 21. Bh3+ f5 22. e4 Re8 23. Bd4 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "3"]
+[White "Savchenko, Alekseij"]
+[Black "Wolter, Jens"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2163"]
+[BlackElo "2106"]
+[PlyCount "43"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 Nbd7 8.
+Qc2 O-O 9. Nge2 Re8 10. O-O Nf8 11. f3 b6 12. Rad1 Bb7 13. e4 dxe4 14. fxe4 Ng4
+15. Bc1 Bg5 16. Rf3 Bxc1 17. Qxc1 Nh6 18. Rg3 Kh8 19. e5 f6 20. Bc4 fxe5 21.
+Qxh6 Ng6 22. Qxg6 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "3"]
+[White "Werrn, Pascal"]
+[Black "Knapp, Michael"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[BlackElo "1964"]
+[PlyCount "44"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bf4 e6 4. e3 Bd6 5. Bg3 c5 6. Nbd2 Nc6 7. c3 O-O 8. Bd3
+Re8 9. Ne5 cxd4 10. exd4 g6 11. O-O Nh5 12. Qe2 f6 13. Nxc6 bxc6 14. Nf3 Nf4
+15. Bxf4 Bxf4 16. g3 Bd6 17. Qc2 Kf7 18. Nh4 Rg8 19. f4 c5 20. Rae1 Qb6 21. Nf3
+Kg7 22. h4 c4 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.01"]
+[Round "3"]

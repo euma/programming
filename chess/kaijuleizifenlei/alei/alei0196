@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Plzen II"]
+[BlackTeam "Hradec Kralove"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+ 0-1
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.01.20"]
+[Round "6.7"]
+[White "Tichy, Stepan"]
+[Black "Vitak, Pavel"]
+[Result "0-1"]
+[ECO "A26"]
+[WhiteElo "2079"]
+[BlackElo "2183"]
+[PlyCount "90"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Karlovy Vary"]
+[BlackTeam "Pankrac"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 g6 5. d3 Bg7 6. Nf3 Nge7 7. h4 h6 8. e4 d6
+9. Be3 fxe4 10. dxe4 Bg4 11. Qd2 Qd7 12. Nh2 Be6 13. Nd5 Nd4 14. Nf3 c5 15.
+Bxd4 cxd4 16. Qa5 O-O 17. O-O Rfc8 18. Rac1 Rc5 19. Qa3 Rac8 20. Nd2 b6 21. b4
+R5c6 22. b5 Rc5 23. Qd3 Rf8 24. Nb3 Rcc8 25. a4 h5 26. a5 Bh6 27. Ra1 Nxd5 28.
+exd5 Bf5 29. Be4 Bxe4 30. Qxe4 Rf5 31. axb6 axb6 32. Ra6 Rxc4 33. Rxb6 Rb4 34.
+Na5 Rxb5 35. Rxb5 Qxb5 36. Nc6 Bf8 37. Rb1 Qa6 38. Rb8 Kh7 39. Nd8 Bg7 40. Ne6
+Bh6 41. Qb1 Rf7 42. Rh8+ Kxh8 43. Qxg6 Qa1+ 44. Kg2 Rxf2+ 45. Kxf2 Be3+ 0-1
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.01.20"]
+[Round "6.3"]
+[White "Freisler, Pavel"]
+[Black "Jedlicka, Ales"]
+[Result "1-0"]
+[ECO "A09"]
+[WhiteElo "2301"]
+[BlackElo "2304"]
+[PlyCount "119"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Praha Holdia"]
+[BlackTeam "Polabiny"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. Nf3 d5 2. c4 d4 3. e3 Nc6 4. exd4 Nxd4 5. Nxd4 Qxd4 6. Nc3 g6 7. d3 Bg7 8.
+Be3 Qd8 9. d4 Nh6 10. Qd2 Nf5 11. Rd1 O-O 12. Be2 c6 13. O-O e5 14. d5 Qa5 15.
+dxc6 bxc6 16. Bf3 Ba6 17. Bxc6 Rad8 18. Qe2 Nd4 19. Bxd4 exd4 20. Nb5 Bc8 21.
+Na3 Bf5 22. Qd2 Qc5 23. Bd5 Rb8 24. Nb1 d3 25. b3 Qd4 26. h3 h5 27. Qe3 Rfe8
+28. Qxd4 Bxd4 29. Bf3 h4 30. Rfe1 Bc5 31. Kf1 Rxe1+ 32. Rxe1 Rd8 33. Nd2 Bb4
+34. Rd1 g5 35. Be4 Be6 36. Nf3 g4 37. hxg4 Bxg4 38. Bxd3 Bxf3 39. gxf3 Kg7 40.
+Kg2 Bc5 41. f4 Rd4 42. Kf3 Bd6 43. f5 Kf6 44. Ke3 Ke5 45. Rh1 Rg4 46. Kf3 Rf4+
+47. Ke2 Kd4 48. f3 Be5 49. Be4 f6 50. Kf2 Kc3 51. Rc1+ Kd2 52. Rh1 Kc3 53. Kg2
+Kb2 54. c5 Kxa2 55. b4 Kb3 56. b5 Kb4 57. b6 axb6 58. cxb6 Ka5 59. b7 Ka6 60.
+Ra1+ 1-0
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.01.20"]
+[Round "6.4"]
+[White "Rosko, Lubos"]
+[Black "Gregor, Jiri"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2232"]
+[BlackElo "2248"]
+[PlyCount "57"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Polabiny"]
+[BlackTeam "Praha Holdia"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. d4 c5 2. d5 e6 3. c4 exd5 4. cxd5 d6 5. Nc3 Ne7 6. Nf3 a6 7. a4 Ng6 8. e4
+Be7 9. Be2 Bg4 10. O-O Nd7 11. a5 Bxf3 12. Bxf3 O-O 13. Bg4 Bf6 14. Qa4 b5 15.
+axb6 Nxb6 16. Qc2 Re8 17. Be2 Qe7 18. Qb3 Qc7 19. Rxa6 Rxa6 20. Bxa6 Bxc3 21.
+bxc3 Rxe4 22. c4 Qa7 23. Bb5 Ne5 24. f3 Rd4 25. Bb2 Rd2 26. Qc3 Re2 27. f4 Rxb2
+28. Qxb2 Nexc4 29. Qe2 1-0
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.01.20"]
+[Round "6.6"]
+[White "Kourek, Josef"]
+[Black "Fraas, Martin"]
+[Result "0-1"]
+[ECO "A33"]
+[WhiteElo "2240"]
+[BlackElo "2191"]
+[PlyCount "56"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Polabiny"]
+[BlackTeam "Praha Holdia"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 c5 4. Bg2 cxd4 5. O-O Be7 6. Nxd4 a6 7. c4 Qc7 8. b3
+Nc6 9. Bb2 O-O 10. Nc3 d6 11. Rc1 Nxd4 12. Qxd4 Bd7 13. Rfd1 Rad8 14. e4 Qa5
+15. Qd2 Qh5 16. Qf4 e5 17. Qd2 Ng4 18. h3 Nf6 19. Nd5 Nxd5 20. Qxd5 Bxh3 21.
+Qxb7 Bg5 22. Rb1 Rfe8 23. Qb6 Re6 24. c5 d5 25. c6 d4 26. Qxa6 Rh6 27. Qf1 Bg4
+28. Qd3 Be2 0-1
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.01.20"]
+[Round "6.8"]
+[White "Mojzis, Jaroslav"]
+[Black "Klecker, Tadeas"]
+[Result "0-1"]
+[ECO "A12"]
+[WhiteElo "2198"]
+[BlackElo "2078"]
+[PlyCount "66"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Polabiny"]
+[BlackTeam "Praha Holdia"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. Nf3 Nf6 2. c4 c6 3. b3 d5 4. Bb2 Bf5 5. g3 e6 6. d3 h6 7. Bg2 Bd6 8. O-O O-O
+9. Nbd2 Nbd7 10. e4 dxe4 11. dxe4 Bxe4 12. Nxe4 Nxe4 13. Re1 Ndf6 14. Nh4 Ng5
+15. Bxf6 gxf6 16. Qh5 Kg7 17. Rad1 Qc7 18. f4 Nh7 19. Qg4+ Kh8 20. Qh5 Kg7 21.
+Be4 Bb4 22. Qg4+ Kh8 23. Rf1 Rad8 24. Rxd8 Rxd8 25. Qh5 Bf8 26. Nf5 Qa5 27. b4
+Bxb4 28. Qxf7 exf5 29. Bf3 Bf8 30. Kg2 Qxa2+ 31. Kh3 b5 32. Bh5 Qxc4 33. Qxa7
+Qxf1+ 0-1
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.10"]
+[Round "7.2"]
+[White "Lorenc, Tomas"]
+[Black "Stastny, Jan"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2164"]
+[BlackElo "2228"]
+[PlyCount "113"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Karlovy Vary"]
+[BlackTeam "Chrudim"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. b4 c6 2. Bb2 Qb6 3. a3 a5 4. c4 axb4 5. c5 Qc7 6. axb4 Rxa1 7. Bxa1 Nf6 8.
+Nf3 Na6 9. Be5 Qd8 10. Qb3 d6 11. Bxf6 exf6 12. d4 Be6 13. Qc3 f5 14. e3 Nc7
+15. Bd3 Nd5 16. Qb2 Be7 17. O-O O-O 18. Nc3 Nxc3 19. Qxc3 b6 20. b5 bxc5 21.
+bxc6 Qb6 22. Qc2 Qxc6 23. Bxf5 Bxf5 24. Qxf5 g6 25. Qc2 c4 26. h4 Rc8 27. h5
+Qb5 28. Qe4 Qd7 29. Qd5 Kg7 30. Rc1 Qe6 31. Qb7 d5 32. e4 dxe4 33. d5 Qg4 34.
+Ne5 Qf4 35. h6+ Kxh6 36. Rc3 Re8 37. Nxc4 Bf6 38. Qxf7 Re7 39. Rh3+ Kg5 40.
+Rg3+ Qxg3 41. Qxe7 Qxf2+ 42. Kxf2 Bxe7 43. d6 Bd8 44. Ke3 Kf5 45. g4+ Kxg4 46.
+Kxe4 Kg3 47. Ne5 Bb6 48. Nc4 Bd8 49. Ne5 Bf6 50. Nd7 Bc3 51. Nf8 h5 52. Nxg6
+Kg4 53. Ne5+ Kg3 54. Ng6 Bf6 55. Ne7 Kg4 56. Nf5 h4 57. Nxh4 1/2-1/2
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.10"]
+[Round "7.5"]
+[White "Novotny, Michal"]
+[Black "Novy, Daniel"]
+[Result "0-1"]
+[ECO "A43"]
+[WhiteElo "2278"]
+[BlackElo "2086"]
+[PlyCount "68"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Chrudim"]
+[BlackTeam "Karlovy Vary"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 g6 4. h4 h5 5. e4 Bg7 6. Be3 Nf6 7. f3 Nc6 8. Nc3
+O-O 9. Nde2 Qa5 10. Qd2 Rd8 11. Nf4 e6 12. Nb5 Qxd2+ 13. Bxd2 Ne8 14. Nc3 b6
+15. O-O-O Bb7 16. g4 hxg4 17. fxg4 Ne5 18. g5 Nd6 19. Bd3 Rac8 20. h5 gxh5 21.
+Nxh5 Ndc4 22. Nxg7 Kxg7 23. Bf4 Ng6 24. Bg3 Ne3 25. Rde1 Ng4 26. Nb5 d5 27.
+exd5 Bxd5 28. Be4 Rc5 29. Nd6 N4e5 30. Kb1 Rxd6 31. Bxe5+ Nxe5 32. Rh7+ Kf8 33.
+Rh8+ Ke7 34. Bh7 Nf3 0-1
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.10"]
+[Round "7.2"]
+[White "Prymula, Roman"]
+[Black "Rehorek, Martin"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2287"]
+[BlackElo "2348"]
+[PlyCount "52"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hradec Kralove"]
+[BlackTeam "Praha CSOB"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 e6 4. f3 Bd6 5. Bxd6 Nxd6 6. e4 b5 7. Nd2 Nc6 8. c3
+O-O 9. Bd3 e5 10. d5 Ne7 11. Qe2 c6 12. dxc6 dxc6 13. O-O-O Be6 14. a3 a5 15.
+c4 Qb6 16. cxb5 cxb5 17. Kb1 Nc6 18. f4 exf4 19. e5 Nd4 20. Qf2 N6f5 21. Qxf4
+b4 22. a4 Qc6 23. Ngf3 Qxa4 24. Nxd4 Qa2+ 25. Kc1 Nxd4 26. Qxd4 Rac8+ 0-1
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.10"]
+[Round "7.7"]
+[White "Dvorak, Jan"]
+[Black "Nun, Josef"]
+[Result "0-1"]
+[ECO "A43"]
+[WhiteElo "2229"]
+[BlackElo "2311"]
+[PlyCount "60"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Praha CSOB"]
+[BlackTeam "Hradec Kralove"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Bb5+ Bd7 7. a4 O-O 8. h3
+Na6 9. O-O Nc7 10. Re1 a6 11. Bxd7 Nxd7 12. Qe2 Rb8 13. Bf4 f6 14. Rab1 a5 15.
+Nb5 Nxb5 16. Qxb5 Qc7 17. Rbd1 Rfd8 18. Rd3 Qb6 19. Rb3 Qxb5 20. Rxb5 b6 21.
+Nd2 Kf7 22. Nc4 f5 23. exf5 gxf5 24. Re6 Nf6 25. Ne3 Nxd5 26. Nxd5 Kxe6 27.
+Nxb6 Rb7 28. c4 Rdb8 29. Nd5 Rxb5 30. axb5 Bxb2 0-1
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.10"]
+[Round "7.1"]
+[White "Jirovsky, Milos"]
+[Black "Kulhanek, Tomas"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2482"]
+[BlackElo "2410"]
+[PlyCount "87"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Pankrac"]
+[BlackTeam "Novy Bor II"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+O-O 9. Rd1 Nc6 10. Qf4 d6 11. b3 a6 12. Ba3 d5 13. cxd5 exd5 14. Bb2 Bd6 15.
+Qh4 Ne7 16. Na4 Ng6 17. Bxf6 gxf6 18. Qh5 Rc8 19. Bh3 Rb8 20. Nc3 Be5 21. Nxe5
+fxe5 22. Nxd5 Bxd5 23. Bg2 Qf6 24. Bxd5 b5 25. Rac1 Rbc8 26. Qf3 Rxc1 27. Rxc1
+Qg5 28. Rc6 Kh8 29. Qf6+ Qxf6 30. Rxf6 Kg7 31. Rxa6 Ne7 32. Bc6 b4 33. Bb5 Nd5
+34. Bc4 Nc3 35. a4 bxa3 36. Rxa3 f5 37. Ra7+ Kg6 38. Re7 e4 39. Rc7 Nd1 40. Rd7
+Nc3 41. Kg2 f4 42. f3 fxg3 43. hxg3 h5 44. fxe4 1-0
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.10"]
+[Round "7.2"]
+[White "Petran, Peter"]
+[Black "Novak, Pavel"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2360"]
+[BlackElo "2361"]
+[PlyCount "71"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Vysehrad"]
+[BlackTeam "Plzen II"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. g3 Nf6 2. Bg2 d5 3. d3 c6 4. Nd2 Bg4 5. Ngf3 Nbd7 6. O-O e6 7. b3 Be7 8. Bb2
+O-O 9. h3 Bh5 10. g4 Bg6 11. Nh4 a5 12. a3 Ne8 13. Nxg6 hxg6 14. f4 Bf6 15. d4
+c5 16. e3 g5 17. f5 Nd6 18. fxe6 fxe6 19. Kh1 Qb6 20. Qe1 a4 21. Rb1 axb3 22.
+Nxb3 c4 23. Nd2 Qc7 24. c3 Be7 25. Rxf8+ Nxf8 26. e4 dxe4 27. Nxe4 Nxe4 28.
+Qxe4 Qg3 29. Qf3 Qxf3 30. Bxf3 Ra5 31. Bxb7 Ng6 32. Bc6 Bxa3 33. Ra1 Bxb2 34.
+Rxa5 Bxc3 35. Ra8+ Nf8 36. d5 1-0
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.10"]
+[Round "7.4"]
+[White "Tichy, Vladimir"]
+[Black "Palek, Miroslav"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2260"]
+[BlackElo "2261"]
+[PlyCount "108"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Vysehrad"]
+[BlackTeam "Plzen II"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. f3 Nd6 5. Nc3 c6 6. e4 e6 7. Bd3 b6 8. Bxd6
+Bxd6 9. e5 Be7 10. f4 c5 11. Nf3 Nc6 12. O-O O-O 13. Kh1 f5 14. Rg1 Kh8 15. Qf1
+Nb4 16. a3 Nxd3 17. Qxd3 Bd7 18. Ne2 Qe8 19. g4 Bb5 20. Qe3 fxg4 21. Rxg4 Bxe2
+22. Qxe2 Rf5 23. dxc5 bxc5 24. Rag1 g6 25. c4 Rd8 26. Ne1 Qf7 27. Ng2 dxc4 28.
+Qxc4 Rd4 29. Qb3 Bf8 30. Qh3 Kg7 31. Qb3 Be7 32. Rd1 Rxd1+ 33. Qxd1 h5 34. Rg3
+h4 35. Rf3 g5 36. h3 Qh5 37. Qd3 Qf7 38. Qe4 Bd8 39. Rd3 Be7 40. Rd7 gxf4 41.
+Nxh4 Rg5 42. Nf3 Rg3 43. Kh2 Kh8 44. Rxa7 Qh5 45. Qa8+ Rg8 46. Qe4 Rg3 47. Ng1
+Qg5 48. Qa8+ Kg7 49. Qe4 Rxg1 50. Rxe7+ Kf8 51. Qa8+ Kxe7 52. Qb7+ Kf8 53. Qc8+
+Kg7 54. Qd7+ Kh6 0-1
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.10"]
+[Round "7.2"]
+[White "Varejcko, Josef"]
+[Black "Kanovsky, David"]
+[Result "1-0"]
+[ECO "A63"]
+[WhiteElo "2239"]
+[BlackElo "2396"]
+[PlyCount "53"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Zajecice"]
+[BlackTeam "Polabiny"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. d4 Nf6 2. g3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Bg2 g6 7. Nc3 Bg7 8. Nf3
+O-O 9. O-O a6 10. a4 Nbd7 11. a5 Qe7 12. Qa4 Rb8 13. Nd2 Re8 14. Qh4 b5 15.
+axb6 Rxb6 16. Ra4 h6 17. Nde4 g5 18. Nxf6+ Qxf6 19. Qh5 Rb4 20. Rxb4 cxb4 21.
+Ne4 Qe7 22. f4 f5 23. fxg5 fxe4 24. gxh6 Bd4+ 25. Kh1 Nf8 26. Bg5 Qd7 27. Bh3
+1-0
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.10"]
+[Round "7.8"]
+[White "Konrad, Frantisek"]
+[Black "Lorenc, Oldrich"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "1702"]
+[BlackElo "2166"]
+[PlyCount "46"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Zajecice"]
+[BlackTeam "Polabiny"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. d4 Nf6 2. Bf4 d6 3. Nf3 Nbd7 4. e3 c5 5. c3 g6 6. Bd3 Bg7 7. O-O O-O 8. Nbd2
+Qc7 9. Bg3 a6 10. a4 b6 11. b4 Bb7 12. a5 Qc6 13. axb6 cxb4 14. cxb4 Nxb6 15.
+Qe2 Nbd5 16. Nb3 Nxb4 17. Na5 Qd7 18. Rfb1 Bxf3 19. gxf3 Nxd3 20. Rb7 Qf5 21.
+Nc6 Nd5 22. e4 N3f4 23. Bxf4 Nxf4 0-1
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.10"]
+[Round "7.2"]
+[White "Pribyl, Josef"]
+[Black "Svatos, Jan"]
+[Result "1/2-1/2"]
+[ECO "A32"]
+[WhiteElo "2379"]
+[BlackElo "2314"]
+[PlyCount "31"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Praha Holdia"]
+[BlackTeam "Vrsovice"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 b6 6. Ndb5 Bc5 7. Bf4 O-O 8.
+Bc7 Qe7 9. Bd6 Bxd6 10. Qxd6 Qxd6 11. Nxd6 Nc6 12. e3 Ne8 13. O-O-O Nxd6 14.
+Rxd6 Rd8 15. Be2 Kf8 16. Rhd1 1/2-1/2
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.24"]
+[Round "8.1"]
+[White "Jirovsky, Milos"]
+[Black "Tuma, Jiri"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2482"]
+[BlackElo "2298"]
+[PlyCount "69"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Pankrac"]
+[BlackTeam "Chrudim"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qc2 Bb7 8. a4
+b4 9. d4 c5 10. dxc5 Nbd7 11. Bg5 Rc8 12. O-O Bxc5 13. Qd3 O-O 14. Nbd2 h6 15.
+Bxf6 Nxf6 16. Ne5 Bxg2 17. Kxg2 Bd4 18. Nec4 Qd5+ 19. f3 Rfd8 20. Rac1 Qb7 21.
+Na5 Qd7 22. Rxc8 Qxc8 23. Qb3 Bb6 24. Nac4 Qc5 25. e4 e5 26. Qd1 Rd3 27. Qe2
+Rd8 28. Nb3 Qc7 29. Rc1 Bd4 30. Nca5 Qb6 31. Rc6 Qb8 32. Rc4 Qb6 33. Nc6 Rd7
+34. Qc2 Qa6 35. Nb8 1-0
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.24"]
+[Round "8.4"]
+[White "Hlavacek, Robert"]
+[Black "Pesout, Jan"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[WhiteElo "2249"]
+[BlackElo "2245"]
+[PlyCount "50"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Chrudim"]
+[BlackTeam "Pankrac"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 Bg7 8. f3
+O-O 9. Qd2 a6 10. a4 Nbd7 11. Nh3 h6 12. Be3 Kh7 13. Be2 Re8 14. Nf2 Rb8 15.
+O-O Ne5 16. Rfb1 Qa5 17. Qc2 Kg8 18. Ncd1 g5 19. Bd2 Qc7 20. Ne3 b5 21. axb5
+axb5 22. Nh1 Ng6 23. Ng3 Ne7 24. Ra5 Bd7 25. b4 c4 1/2-1/2
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.24"]
+[Round "8.7"]
+[White "Pick, Stepan"]
+[Black "Bujnoch, Radek"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2152"]
+[BlackElo "2251"]
+[PlyCount "1"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Pankrac"]
+[BlackTeam "Chrudim"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. Nf3 1-0
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.24"]
+[Round "8.8"]
+[White "Danes, Jaroslav"]
+[Black "Vitak, Pavel"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2201"]
+[BlackElo "2183"]
+[PlyCount "66"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Chrudim"]
+[BlackTeam "Pankrac"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. c4 f5 5. Nc3 Bg7 6. e3 d6 7. Nge2 Nd7 8. g3
+O-O 9. Bg2 Nf6 10. O-O Re8 11. Qc2 h5 12. Rac1 h4 13. b4 hxg3 14. hxg3 Ng4 15.
+b5 Qg5 16. Nd5 Qh6 17. Rfe1 c6 18. Nc7 Rxe3 19. Nxa8 Rf3 20. Nf4 Qh2+ 21. Kf1
+Qxg3 22. Re8+ Kh7 23. Nh3 Nh2+ 24. Kg1 Bxd4 25. Kh1 Qh4 26. Kxh2 Bxf2 27. Qxf2
+Rxf2 28. Rxc8 f4 29. Rc3 Rxa2 30. Rc7 Qg4 31. Rxf7+ Kg8 32. Nxf4 Kxf7 33. Kg1
+g5 0-1
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.24"]
+[Round "8.5"]
+[White "Kopal, Josef"]
+[Black "Rosko, Lubos"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2270"]
+[BlackElo "2232"]
+[PlyCount "44"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hradec Kralove"]
+[BlackTeam "Polabiny"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 Nf6 6. Nge2 O-O 7. O-O Ne8 8. d3
+Nc7 9. Rb1 Ne6 10. a3 d6 11. h3 Rb8 12. b4 Bd7 13. Kh2 Ned4 14. b5 Nxe2 15.
+Nxe2 Nd4 16. Nxd4 cxd4 17. Bd2 f5 18. f4 e6 19. Bb4 Qc7 20. Qb3 a5 21. Bd2 b6
+22. a4 Rbe8 1/2-1/2
+
+[Event "CZE-chT1W 0708"]
+[Site "Czechia"]
+[Date "2008.02.24"]
+[Round "8.3"]
+[White "Krejcik, Jiri"]
+[Black "Cesal, Jaroslav"]
+[Result "0-1"]
+[ECO "A42"]
+[WhiteElo "2117"]
+[BlackElo "2244"]
+[PlyCount "106"]
+[EventDate "2007.10.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Karlovy Vary"]
+[BlackTeam "Plzen II"]

@@ -1,0 +1,50 @@
+D31	Alatortsev; Petrosian, Charousek Var, QGD	1.d4 d5 2.c4 e6 3.Nc3
+Be7
+D31	Miladinovic Gambit, QGD	1.d4 d5 2.c4 e6 3.Nc3 Be7 4.e4 dxe4 5.f3
+D31	Semi-Slav Defense	1.d4 d5 2.c4 e6 3.Nc3 c6  
+D31	Portisch Gambit, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 f5 5.g4
+D31	Marshall Gambit, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4  
+D31	Gunderam Gambit, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4 dxe4
+5.f3
+D31	Tolush Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4 dxe4
+5.Nxe4 Bb4+ 6.Bd2 Qxd4 7.Bxb4 Qxe4+8.Be2 c5 9.Bxc5 Qxg2
+D31	Noteboom Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4
+D31	Abrahams; Noteboom; Klaus Junge Var, QGD	1.d4 d5 2.c4 e6 3.Nc3
+c6 4.Nf3 dxc4 5.a4 Bb4 6.e3 b5 7.Bd2 a5
+D31	Anti-Noteboom Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3
+dxc4 5.Bg5
+D31	Beliavsky Line, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4
+5.Bg5 f6
+D32	Tarrasch Defense, QGD; D32	1.d4 d5 2.c4 e6 3.Nc3 c5
+D32	Schara-Hennig; Duisburg Gambit, QGD	1.d4 d5 2.c4 e6 3.Nc3 c5
+4.cxd5 cxd4
+D32	Von Hennig Gambit, QGD	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4 5.Qxd4
+Nc6 6.Qd1 exd5 7.Qxd5 Be6
+D32	Tarrasch Gambit, QGD	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.dxc5 d4
+6.Na4 b5
+D32	Marshall Gambit, Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.e4
+D32	Two Knights Variation, Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.Nf3
+D32	Grunfeld Gambit, Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.Nf3 Nc6 6.dxc5 d4 7.Na4 b5
+D32	Symmetrical Variation, Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 c5 4.e3 Nf6
+5.Nf3 Nc6
+D33	Lodz; Schlecter; Rubinstein Var, QGD; D33	1.d4 d5 2.c4 e6 3.Nc3
+c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3
+D33	Folkestone; Swedish Var, QGD	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.Nf3 Nc6 6.g3 c4
+D33	Prague Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6
+6.g3 Nf6
+D33	Wagner Variation, Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Bg4
+D34	D34	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2
+Be7
+D34	Rubinstein; Normal Position, QGD	1.d4 d5 2.c4 e6 3.Nc3 c5
+4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O
+D34	Carlsbad Variation, Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5
+D34	Endgame Variation, Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5 Be6
+D34	Bogoljubow Variation, Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5 Be6 10.Rc1 c4

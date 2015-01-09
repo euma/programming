@@ -1,0 +1,600 @@
+[EventCountry "RUS"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 Nf6 4. Bg2 d6 5. e3 h5 6. Nf3 c6 7. d4 Be6 8. b3 Qc8
+9. h4 Bg4 10. Qc2 Na6 11. a3 Nc7 12. Ng5 O-O 13. Bb2 e5 14. dxe5 dxe5 15. f3
+Bf5 16. e4 Bd7 17. Nd1 Nfe8 18. Nf2 f6 19. Ngh3 c5 20. Nd1 Ne6 21. Ne3 Nd4 22.
+Bxd4 cxd4 23. Nd5 Qd8 24. Nf2 Nc7 25. Bh3 Nxd5 26. exd5 f5 27. O-O Kh7 28. Rae1
+Qc7 29. Kg2 Rac8 30. a4 Qd6 31. Nd3 Qxd5 32. cxd5 Rxc2+ 33. Rf2 Rxf2+ 34. Kxf2
+e4 35. Nf4 e3+ 36. Kg1 Rc8 37. Bf1 Rc3 38. Bc4 Be5 39. Ne2 Rxc4 40. bxc4 d3 41.
+f4 Bg7 42. d6 Bxa4 43. Rb1 d2 44. c5 Bc2 45. d7 Bf6 46. Rf1 Bd3 47. Nc3 e2 48.
+Nxe2 Bxe2 49. c6 Bxf1 50. c7 Bd4+ 51. Kxf1 d1=Q+ 52. Kg2 Qe2+ 53. Kh1 Qf3+ 54.
+Kh2 Qf2+ 55. Kh3 Qg1 56. g4 0-1
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.12"]
+[Round "1"]
+[White "Goganov, Aleksey"]
+[Black "Kasparov, Sergey"]
+[Result "0-1"]
+[ECO "A58"]
+[WhiteElo "2382"]
+[BlackElo "2486"]
+[PlyCount "74"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 d6 8. Bg2
+Bg7 9. Nf3 Nfd7 10. Qc2 Nb6 11. O-O N8d7 12. Rd1 O-O 13. b3 Bxe2 14. Qxe2 Bxc3
+15. Bb2 Bxb2 16. Qxb2 Nf6 17. Ng5 Qd7 18. h4 Ra7 19. Qd2 Rfa8 20. a4 c4 21. Qd4
+Qd8 22. bxc4 Rxa4 23. Rxa4 Rxa4 24. Rb1 Nbd7 25. Ra1 Qb6 26. Qc3 Rxa1+ 27. Qxa1
+Ne5 28. Qe1 Nfg4 29. Qe2 Qd4 30. Bh3 h6 31. Ne4 f5 32. Bxg4 fxe4 33. Be6+ Kg7
+34. Qa2 Qd1+ 35. Kg2 Nf3 36. Qb2+ Kh7 37. Qc3 Qg1+ 0-1
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.12"]
+[Round "1"]
+[White "Vorobjov, Denis S"]
+[Black "Volodin, Aleksandr"]
+[Result "0-1"]
+[ECO "A12"]
+[WhiteElo "2256"]
+[BlackElo "2397"]
+[PlyCount "64"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. c4 c6 3. b3 Nf6 4. g3 Bg4 5. Bg2 Nbd7 6. Bb2 e6 7. O-O Bd6 8. d3
+O-O 9. Nbd2 a5 10. a3 Re8 11. h3 Bh5 12. Re1 Qb6 13. e4 dxe4 14. Nxe4 Nxe4 15.
+dxe4 Bxg3 16. Bd4 Bxf3 17. Bxf3 c5 18. Bxg7 Kxg7 19. fxg3 Ne5 20. Bg2 Rad8 21.
+Qh5 f6 22. g4 Ng6 23. e5 fxe5 24. Re3 Rd4 25. Rae1 Rf8 26. Rxe5 Qxb3 27. Rxc5
+Qg3 28. Rb1 b6 29. g5 Qf2+ 30. Kh1 bxc5 31. Rb7+ Rf7 32. Qh6+ Kg8 0-1
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.13"]
+[Round "2"]
+[White "Utkin, Aleksey"]
+[Black "Gorovykh, Eduard"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2412"]
+[BlackElo "2380"]
+[PlyCount "100"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d6 5. c3 h6 6. Bh4 g5 7. Bg3 Nh5 8. e4
+e6 9. Qc2 Nc6 10. Nc4 g4 11. Nfd2 Qg5 12. Ne3 Bd7 13. Be2 Nxg3 14. hxg3 h5 15.
+O-O-O O-O-O 16. Kb1 Ne7 17. Qb3 f5 18. exf5 exf5 19. Nec4 f4 20. Ka1 Rde8 21.
+gxf4 Qxf4 22. Na5 b6 23. Ba6+ Kb8 24. f3 gxf3 25. Nxf3 h4 26. Rhf1 Qg4 27. Nd2
+Rh5 28. Nac4 Bh6 29. Rg1 Rf5 30. a4 d5 31. Na3 Nc6 32. Qa2 Be3 33. Rge1 Qxg2
+34. Nab1 h3 35. Bf1 Qg3 36. Bd3 Rg5 37. Nf1 Qf4 38. Nxe3 Rxe3 39. Rf1 Qd6 40.
+Qb3 Kb7 41. Qc2 Rg2 42. Rf2 Qg3 43. Rfd2 Bg4 44. Bb5 Bxd1 45. Qxd1 a6 46. Bxc6+
+Kxc6 47. Qf1 Kb7 48. Rd1 Qf2 49. Nd2 Qxf1 50. Nxf1 Ree2 0-1
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.13"]
+[Round "3"]
+[White "Khruschiov, Alexey"]
+[Black "Kasparov, Sergey"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[WhiteElo "2496"]
+[BlackElo "2486"]
+[PlyCount "101"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. O-O e6 8. Nd2
+exd5 9. exd5 Nbd7 10. a4 Re8 11. h3 a6 12. Ra3 Qc7 13. Re1 Nb6 14. Bf3 Rxe1+
+15. Qxe1 Bd7 16. a5 Re8 17. Qf1 Nc8 18. Nc4 Na7 19. Bf4 Bf8 20. Ne3 Nb5 21.
+Nxb5 axb5 22. a6 Ra8 23. Qa1 Rxa6 24. Rxa6 bxa6 25. Qxa6 Ne8 26. b3 Qc8 27. Qa3
+Qb7 28. Bg4 f5 29. Be2 Be7 30. c4 g5 31. Bh2 f4 32. Nf1 bxc4 33. bxc4 Bf6 34.
+h4 h6 35. Qd3 Kg7 36. Bh5 Ba4 37. Qg6+ Kf8 38. Qxh6+ Qg7 39. hxg5 Bxg5 40. Qe6
+Bd7 41. Qe2 Nf6 42. g3 Nxh5 43. Qxh5 Bf6 44. Qf3 Qg4 45. Nd2 Qxf3 46. Nxf3 Bf5
+47. gxf4 Bd3 48. f5 Ke7 49. Nd2 Bc3 50. f6+ Kxf6 51. Bxd6 1/2-1/2
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Matlakov, Maksim"]
+[Black "Volodin, Aleksandr"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2484"]
+[BlackElo "2397"]
+[PlyCount "65"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. Bg5 Bb7 5. Bxf6 gxf6 6. e4 Rg8 7. Bxb5 Rxg2 8.
+Nc3 Qb6 9. Nd2 f5 10. Qf3 Qg6 11. O-O-O Bh6 12. Bf1 Rg4 13. exf5 Qg5 14. Nce4
+Qh4 15. Qb3 Bxd2+ 16. Nxd2 Rb4 17. Qc3 d6 18. Nc4 Ba6 19. Na5 Bxf1 20. Rhxf1 f6
+21. Rfe1 Kf8 22. Kb1 Nd7 23. a3 Rf4 24. Re3 Ne5 25. Rg3 Rxf5 26. Nc6 Ng6 27.
+Rdg1 Qf4 28. Qe1 Re8 29. Qe6 Qxf2 30. b3 Rh5 31. Rxg6 hxg6 32. Rxg6 Rh8 33.
+Nxe7 1-0
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Utkin, Aleksey"]
+[Black "Zacurdajev, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2412"]
+[BlackElo "2400"]
+[PlyCount "16"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 b6 4. e3 Bb7 5. Bd3 Be7 6. h3 d6 7. Nbd2 Nbd7 8. O-O
+O-O 1/2-1/2
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.15"]
+[Round "5"]
+[White "Volodin, Aleksandr"]
+[Black "Kasparov, Sergey"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[WhiteElo "2397"]
+[BlackElo "2486"]
+[PlyCount "77"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 c5 2. d5 d6 3. Nf3 Nf6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. O-O Bg4 8. h3
+Bxf3 9. Bxf3 Nbd7 10. Bf4 a6 11. a4 b6 12. Qd2 Rb8 13. Rfe1 b5 14. axb5 axb5
+15. Rad1 b4 16. Ne2 Ne8 17. b3 Ne5 18. Qe3 Nc7 19. g4 Nxf3+ 20. Qxf3 Nb5 21.
+Qg3 Qc7 22. Kg2 c4 23. Ng1 cxb3 24. cxb3 Qc3 25. Re3 Qc2 26. Rdd3 Nc3 27. e5
+dxe5 28. Bxe5 Bxe5 29. Rxe5 Qxb3 30. Rxe7 Qc4 31. Qf3 Na4 32. Ne2 b3 33. Re4
+Qb5 34. Nd4 Qxd5 35. Nxb3 Qa8 36. Rdd4 Rxb3 37. Qxb3 Nc5 38. Qf3 Nxe4 39. Qxe4
+1/2-1/2
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.15"]
+[Round "5"]
+[White "Vorobjov, Denis S"]
+[Black "Yevseev, Denis"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2256"]
+[BlackElo "2510"]
+[PlyCount "106"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bg4 5. c4 Nbd7 6. cxd5 cxd5 7. d4 e6 8.
+Nc3 a6 9. b3 Bd6 10. Bb2 O-O 11. Qd2 Rc8 12. a3 b5 13. Rfc1 Qb6 14. Ne5 Bf5 15.
+Nxd7 Nxd7 16. e4 dxe4 17. Nxe4 Bxe4 18. Bxe4 Nf6 19. Bg2 Nd5 20. Rxc8 Rxc8 21.
+Rc1 Qd8 22. Rc2 g6 23. Qc1 Rxc2 24. Qxc2 Qa5 25. Qc1 Be7 26. Bxd5 exd5 27. Kf1
+Kg7 28. Qe1 Qxe1+ 29. Kxe1 h5 30. Ke2 g5 31. h3 g4 32. hxg4 hxg4 33. f3 gxf3+
+34. Kxf3 Kg6 35. Bc1 Kf5 36. Bb2 b4 37. axb4 Bxb4 38. Bc1 Ke6 39. Bf4 Bc3 40.
+Be3 Bb2 41. Ke2 f5 42. Kd3 Ba3 43. Ke2 Bd6 44. Kf3 Bc7 45. g4 fxg4+ 46. Kxg4
+Bb6 47. Kf3 Kd6 48. Ke2 Kc6 49. Kd3 Kb5 50. Bd2 Bd8 51. Bf4 Kb4 52. Kc2 Bb6 53.
+Be5 Kb5 1/2-1/2
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.15"]
+[Round "6"]
+[White "Goganov, Aleksey"]
+[Black "Zacurdajev, Mikhail"]
+[Result "1-0"]
+[ECO "A90"]
+[WhiteElo "2382"]
+[BlackElo "2400"]
+[PlyCount "65"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 5. Nh3 Nc6 6. O-O Be7 7. Nf4 dxc4 8. e3
+e5 9. Bxc6+ bxc6 10. dxe5 Qxd1 11. Rxd1 Ng4 12. Bd2 Rb8 13. h3 Nxe5 14. Bc3 Bd6
+15. Nd2 Ba6 16. Ne6 Rg8 17. f4 Nd3 18. Nxg7+ Kf8 19. Nxf5 Bc8 20. Nxd6 Rxg3+
+21. Kh2 Rxh3+ 22. Kg2 cxd6 23. Nxc4 Be6 24. Rxd3 Ke7 25. Nxd6 Rg8+ 26. Kf2 Rh2+
+27. Kf3 Bd5+ 28. Rxd5 Rh3+ 29. Ke4 cxd5+ 30. Kxd5 Rd8 31. Be5 Rxe3 32. Rh1 Rd3+
+33. Ke4 1-0
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.17"]
+[Round "8"]
+[White "Utkin, Aleksey"]
+[Black "Zhidkov, Valery S"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2412"]
+[BlackElo "2346"]
+[PlyCount "29"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 c5 5. O-O Ba6 6. Bxa6 Nxa6 7. b3 Be7 8. Bb2
+O-O 9. Nbd2 Rc8 10. c4 Nc7 11. Rc1 d5 12. dxc5 bxc5 13. cxd5 exd5 14. Qc2 Ne6
+15. Rfd1 1/2-1/2
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.17"]
+[Round "8"]
+[White "Yevseev, Denis"]
+[Black "Matlakov, Maksim"]
+[Result "1/2-1/2"]
+[ECO "A90"]
+[WhiteElo "2510"]
+[BlackElo "2484"]
+[PlyCount "40"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nbd2 f5 5. g3 Nf6 6. Bg2 Bd6 7. O-O Nbd7 8. b3
+O-O 9. Qc2 Qe7 10. Bb2 b6 11. Ne5 Bb7 12. Rac1 Rac8 13. Ndf3 Ne4 14. Nxd7 Qxd7
+15. Ne5 Qe7 16. f3 Nf6 17. c5 bxc5 18. dxc5 Bb8 19. Qd3 a5 20. Bd4 Nd7 1/2-1/2
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.17"]
+[Round "9"]
+[White "Vorobjov, Denis S"]
+[Black "Zacurdajev, Mikhail"]
+[Result "0-1"]
+[ECO "A09"]
+[WhiteElo "2256"]
+[BlackElo "2400"]
+[PlyCount "70"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. c4 d4 3. b4 f6 4. e3 e5 5. Qb3 c5 6. bxc5 Nc6 7. Be2 Nh6 8. Na3
+Bxc5 9. exd4 Bxd4 10. Rb1 O-O 11. Nc2 Nf5 12. d3 Bc5 13. O-O Rb8 14. Ba3 Bxa3
+15. Qxa3 Be6 16. Rfd1 Qd7 17. Bf1 Rfd8 18. Rdc1 Bf7 19. Nd2 b6 20. Ne4 Nfd4 21.
+Nxd4 Nxd4 22. Qa6 Ne6 23. a4 f5 24. Ng3 Nc5 25. Qb5 Qe6 26. a5 Be8 27. Qb4 Nxd3
+28. Bxd3 Rxd3 29. c5 b5 30. c6 Bxc6 31. Qc5 Rbd8 32. Re1 f4 33. Nf5 Qxf5 34.
+Qxc6 f3 35. Qxb5 Qg4 0-1
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.17"]
+[Round "9"]
+[White "Zhidkov, Valery S"]
+[Black "Gorovykh, Eduard"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[WhiteElo "2346"]
+[BlackElo "2380"]
+[PlyCount "21"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d6 5. b3 O-O 6. Bb2 Nbd7 7. Nbd2 c5 8. c4
+a6 9. O-O Rb8 10. dxc5 Nxc5 11. Nd4 1/2-1/2
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.18"]
+[Round "10"]
+[White "Zacurdajev, Mikhail"]
+[Black "Volodin, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "A18"]
+[WhiteElo "2400"]
+[BlackElo "2397"]
+[PlyCount "120"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 Nc6 4. Nf3 d5 5. e5 d4 6. exf6 dxc3 7. bxc3 Qxf6 8.
+d4 h6 9. Bd3 Bd6 10. O-O O-O 11. Qe2 Rd8 12. Rb1 Bf8 13. Qe4 Qf5 14. Qe2 Qf6
+15. Rb5 a6 16. Rh5 g6 17. Rh4 Re8 18. Bf4 b5 19. Bxh6 Bxh6 20. Rxh6 e5 21. Rh4
+bxc4 22. Bc2 Bb7 23. Rg4 exd4 24. Qxc4 Kg7 25. cxd4 Rad8 26. h4 Bc8 27. Rg3
+Nxd4 28. Nxd4 Rxd4 29. Qxc7 Bd7 30. Rf3 Qxh4 31. Bb3 Re7 32. Re3 Be6 33. Qc3
+Qf6 34. Bxe6 Rxe6 35. Rxe6 fxe6 36. Qc7+ Kh6 37. Rb1 Rh4 38. g3 Rh5 39. Qc6 Qf5
+40. Rb8 Qd5 41. Qxd5 Rxd5 42. Rb6 Ra5 43. Rxe6 Rxa2 44. Kg2 Kg5 45. Rc6 a5 46.
+Rc5+ Kh6 47. g4 a4 48. Ra5 a3 49. Kg3 Ra1 50. Kf4 g5+ 51. Kf5 Rf1 52. Ra6+ Kg7
+53. Kxg5 Rxf2 54. Rxa3 Rf7 55. Ra6 Rb7 56. Kh5 Rc7 57. Rg6+ Kh7 58. Rf6 Kg7 59.
+Rd6 Rc5+ 60. g5 Rc7 1/2-1/2
+
+[Event "Petrovskaya Ladya GM-A"]
+[Site "Peterhof"]
+[Date "2008.08.19"]
+[Round "11"]
+[White "Kasparov, Sergey"]
+[Black "Gorovykh, Eduard"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[WhiteElo "2486"]
+[BlackElo "2380"]
+[PlyCount "43"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d6 5. O-O O-O 6. Re1 Nc6 7. d5 Na5 8. Nc3
+e5 9. Nd2 b6 10. Rb1 Ne8 11. b4 Nb7 12. e4 f5 13. exf5 Bxf5 14. Nde4 h6 15. Be3
+Qd7 16. Qd2 Kh7 17. f4 exf4 18. Bxf4 Bh3 19. Bh1 a5 20. a3 axb4 21. axb4 Nd8
+22. Nf2 1/2-1/2
+
+[Event "Petrovskaya Ladya GM-B"]
+[Site "Peterhof"]
+[Date "2008.08.12"]
+[Round "1"]
+[White "Kosov, Ivan"]
+[Black "Rozum, Ivan"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2405"]
+[BlackElo "2444"]
+[PlyCount "16"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c5 2. Nf3 b6 3. g3 Bb7 4. Bg2 Nf6 5. Nc3 g6 6. O-O Bg7 7. d3 O-O 8. a3 d5
+1/2-1/2
+
+[Event "Petrovskaya Ladya GM-B"]
+[Site "Peterhof"]
+[Date "2008.08.12"]
+[Round "1"]
+[White "Terekhov, Andrey"]
+[Black "Serov, Maksim"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2342"]
+[BlackElo "2368"]
+[PlyCount "66"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Bb7 6. Nc3 e6 7. e4 exd5 8. e5 Qe7
+9. Qe2 Ne4 10. Nf3 Qe6 11. Ng5 Nxg5 12. Bxg5 Nc6 13. O-O-O d4 14. Ne4 Qxa2 15.
+Nd6+ Bxd6 16. exd6+ Kf8 17. Be7+ Kg8 18. Qc2 Na5 19. Rd3 Be4 20. Ra3 Qxa3 21.
+Qxe4 Qa1+ 22. Kc2 Qa4+ 23. Kb1 Qd1+ 24. Ka2 Rb8 25. Qd5 h5 26. Qxc5 Qb3+ 27.
+Kb1 Rxb6 28. Qc2 Qxc2+ 29. Kxc2 Kh7 30. Bd3+ g6 31. Ra1 Rc8+ 32. Kd1 Nc6 33.
+Rxa6 Rxb2 0-1
+
+[Event "Petrovskaya Ladya GM-B"]
+[Site "Peterhof"]
+[Date "2008.08.13"]
+[Round "2"]
+[White "Savchenko, Stanislav"]
+[Black "Khuseinkhodzhaev, Muhammad"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2557"]
+[BlackElo "2402"]
+[PlyCount "65"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 c5 5. d4 Qa5 6. Bd2 cxd4 7. Nxd4 O-O 8.
+Nb3 Qc7 9. Be2 b6 10. O-O Bb7 11. f3 Nc6 12. Rc1 d6 13. Bg5 Qd7 14. Nd5 Nxd5
+15. cxd5 Nb4 16. a3 Na6 17. Nd4 Nc5 18. Be3 Ba6 19. Bxa6 Nxa6 20. b4 Bxd4 21.
+Qxd4 Rfc8 22. Rc6 Rxc6 23. dxc6 Qxc6 24. Rc1 Qd7 25. Bh6 e5 26. Qc4 Qb7 27. Qd3
+Rd8 28. Bg5 Rd7 29. Bf6 h6 30. h4 Kh7 31. Kh2 b5 32. Qd5 Qxd5 33. Rc8 1-0
+
+[Event "Petrovskaya Ladya GM-B"]
+[Site "Peterhof"]
+[Date "2008.08.13"]
+[Round "3"]
+[White "Ivanov, Andrew"]
+[Black "Savchenko, Stanislav"]
+[Result "1/2-1/2"]
+[ECO "A09"]
+[WhiteElo "2335"]
+[BlackElo "2557"]
+[PlyCount "108"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. c4 d4 3. g3 Nc6 4. Bg2 e5 5. d3 Bb4+ 6. Nfd2 a5 7. Na3 Nf6 8. O-O
+O-O 9. Nc2 Be7 10. b3 Re8 11. a3 Bf5 12. Rb1 Qd7 13. Re1 Rab8 14. Bb2 Bc5 15.
+Ba1 Qd6 16. Bb2 Rbd8 17. b4 axb4 18. Nb3 bxa3 19. Nxc5 Qxc5 20. Bxa3 Qa7 21.
+Rb5 Bd7 22. Qd2 b6 23. Ra1 Qb8 24. Rbb1 e4 25. Bb2 Bf5 26. Ra3 Qc8 27. Rba1 Qd7
+28. Qf4 h6 29. Rd1 g5 30. Qd2 exd3 31. exd3 Bh3 32. Bh1 Bg4 33. f3 Bf5 34. Qf2
+Qd6 35. Bg2 Bg6 36. Bf1 Bf5 37. Raa1 Qd7 38. Re1 Qd6 39. Rxe8+ Nxe8 40. Re1 Ng7
+41. Ba3 Qg6 42. Qd2 Qf6 43. Bg2 Ne5 44. Nb4 c5 45. Nd5 Qd6 46. f4 gxf4 47. Nxf4
+Re8 48. Bc1 Ng4 49. Rxe8+ Nxe8 50. Qe2 Qe5 51. Be4 Nef6 52. h3 Ne3 53. Bxe3
+dxe3 54. Bxf5 Qxf5 1/2-1/2
+
+[Event "Petrovskaya Ladya GM-B"]
+[Site "Peterhof"]
+[Date "2008.08.13"]
+[Round "3"]
+[White "Khuseinkhodzhaev, Muhammad"]
+[Black "Rozum, Ivan"]
+[Result "0-1"]
+[ECO "A49"]
+[WhiteElo "2402"]
+[BlackElo "2444"]
+[PlyCount "148"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 g6 2. Nf3 Bg7 3. g3 c5 4. c3 Nf6 5. Bg2 O-O 6. O-O d6 7. Qb3 Nc6 8. Rd1
+Qb6 9. dxc5 Qxc5 10. h3 Rb8 11. Be3 Qa5 12. Qa3 Qxa3 13. Nxa3 Bd7 14. Nb5 a6
+15. Nc7 Rfc8 16. Bb6 Bf5 17. Nd5 Nxd5 18. Rxd5 Be4 19. Rdd1 Bxf3 20. exf3 Ne5
+21. Ba7 Ra8 22. Bd4 Nd7 23. f4 Rc7 24. Be3 Rac8 25. Rd2 Nc5 26. g4 b5 27. f5
+gxf5 28. gxf5 a5 29. Bd4 Bxd4 30. Rxd4 Kg7 31. Bf1 Rb8 32. b4 Na4 33. c4 bxc4
+34. bxa5 Ra8 35. Bxc4 Rxa5 36. Rh4 Nb6 37. Bb3 Rxf5 38. a4 Ra5 39. Kh2 Rcc5 40.
+Rb4 Nd5 41. Rg1+ Kf6 42. Rh4 e6 43. Rxh7 Nf4 44. Rh4 Ng6 45. Rb4 Rf5 46. Kg3
+Rac5 47. f4 Nxf4 48. Rxf4 Rc3+ 49. Kg4 Rxf4+ 50. Kxf4 Rxb3 51. Ra1 Rxh3 52. a5
+Rh8 53. a6 Ra8 54. a7 Ke7 55. Kg5 f6+ 56. Kg6 f5 57. Ra4 d5 58. Kg5 Kd6 59. Kf6
+f4 60. Ra6+ Kc5 61. Kxe6 f3 62. Ra5+ Kd4 63. Rxd5+ Ke3 64. Re5+ Kd2 65. Rf5 Ke2
+66. Re5+ Kf1 67. Ra5 f2 68. Kd6 Ke2 69. Re5+ Kf3 70. Rf5+ Ke3 71. Re5+ Kf4 72.
+Re7 Rf8 73. Rd7 Kg5 74. Rg7+ Kf6 0-1
+
+[Event "Petrovskaya Ladya GM-B"]
+[Site "Peterhof"]
+[Date "2008.08.15"]
+[Round "5"]
+[White "Terekhov, Andrey"]
+[Black "Rozum, Ivan"]
+[Result "0-1"]
+[ECO "A62"]
+[WhiteElo "2342"]
+[BlackElo "2444"]
+[PlyCount "90"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Na6 10. Nd2 Nc7 11. Nc4 Nh5 12. a4 b6 13. e4 Ba6 14. Qd3 Bxc4 15.
+Qxc4 Nf6 16. Bd2 a6 17. Rfe1 Ng4 18. Qe2 Qd7 19. h3 Nf6 20. f4 b5 21. e5 Rae8
+22. Qf3 dxe5 23. fxe5 Nfxd5 24. Nxd5 Qxd5 25. Qxd5 Nxd5 26. Bxd5 Rd8 27. Bxf7+
+Rxf7 28. Bf4 Rf5 29. axb5 axb5 30. h4 h6 31. Rad1 Re8 32. Kg2 g5 33. hxg5 hxg5
+34. Bd2 Rfxe5 35. Rxe5 Bxe5 36. Bc3 Bxc3 37. bxc3 Re4 38. Rd8+ Kf7 39. Rb8 Ke6
+40. Rxb5 Kd5 41. Ra5 g4 42. Kf2 Kc4 43. Ra3 Kd3 44. Rb3 c4 45. Ra3 Kc2 0-1
+
+[Event "Petrovskaya Ladya GM-B"]
+[Site "Peterhof"]
+[Date "2008.08.15"]
+[Round "6"]
+[White "Rozum, Ivan"]
+[Black "Serov, Maksim"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[WhiteElo "2444"]
+[BlackElo "2368"]
+[PlyCount "66"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Be2 O-O 7. O-O Na6 8. h3
+Nc7 9. a4 b6 10. Bf4 Bb7 11. Re1 Re8 12. Bc4 a6 13. Qd3 Nd7 14. e5 dxe5 15.
+Nxe5 Nxe5 16. Bxe5 Qd7 17. Rad1 Rad8 18. h4 Bxe5 19. Rxe5 Qg4 20. h5 Ne6 21.
+hxg6 hxg6 22. Re4 Nf4 23. Qf1 Qf5 24. Qe1 Kg7 25. f3 Qg5 26. g3 e5 27. Kf2 Nh3+
+28. Kg2 Nf4+ 29. Kf2 Nh5 30. Rg4 Qe7 31. Rh4 f5 32. Qh1 Rh8 33. Qh2 f4 1/2-1/2
+
+[Event "Petrovskaya Ladya GM-B"]
+[Site "Peterhof"]
+[Date "2008.08.16"]
+[Round "7"]
+[White "Ivanov, Andrew"]
+[Black "Brodsky, Michail"]
+[Result "1-0"]
+[ECO "A33"]
+[WhiteElo "2335"]
+[BlackElo "2548"]
+[PlyCount "87"]
+[EventDate "2008.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]

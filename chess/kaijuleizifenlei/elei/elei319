@@ -1,0 +1,600 @@
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.16"]
+[Round "1"]
+[White "Bodiroga, Predrag"]
+[Black "Kukina, Mario"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "2405"]
+[BlackElo "1969"]
+[PlyCount "85"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 Nbd7 7. Bg5 e5 8. Qd2
+c6 9. O-O-O Qa5 10. Kb1 a6 11. Nd5 Qxd2 12. Ne7+ Kh8 13. Rxd2 Re8 14. Nxc8
+Raxc8 15. dxe5 dxe5 16. g3 Rcd8 17. Bh3 Nb6 18. b3 Rxd2 19. Bxd2 h6 20. Be3
+Nbd7 21. Rd1 Nf8 22. Nc3 Ne6 23. Bxe6 Rxe6 24. Na4 g5 25. Nc5 Re7 26. Rd8+ Kh7
+27. g4 Ne8 28. Nxb7 f5 29. gxf5 Nf6 30. Nc5 g4 31. fxg4 Nxg4 32. Bg1 h5 33. Ne6
+Bh6 34. Kc2 h4 35. h3 Be3 36. Bxe3 Nxe3+ 37. Kd3 Ng2 38. Ke2 a5 39. Kf3 Ne1+
+40. Kg4 Ng2 41. Ng5+ Kg7 42. Rd6 Ra7 43. f6+ 1-0
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.16"]
+[Round "1"]
+[White "Rukavina, Josip"]
+[Black "Baljak, Jadranko"]
+[Result "1-0"]
+[ECO "E07"]
+[WhiteElo "2398"]
+[PlyCount "59"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. b3 c6 5. Bg2 Nbd7 6. O-O Be7 7. Nc3 O-O 8. d4
+Re8 9. Qc2 b6 10. e4 dxe4 11. Nxe4 Bb7 12. Rd1 Nxe4 13. Qxe4 Nf6 14. Qe2 Qc7
+15. Bf4 Bd6 16. Bxd6 Qxd6 17. Ne5 Qc7 18. Qf3 Rac8 19. b4 Qe7 20. b5 Ba8 21.
+Nxc6 Bxc6 22. bxc6 Qd6 23. a4 Qb4 24. d5 Qxc4 25. d6 Red8 26. Rac1 Qa6 27. c7
+Rf8 28. Qc6 Qe2 29. Qc4 Qe5 30. d7 1-0
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.16"]
+[Round "1"]
+[White "Savic, Miroslav"]
+[Black "Drazic, Sinisa"]
+[Result "0-1"]
+[ECO "E11"]
+[WhiteElo "2314"]
+[BlackElo "2497"]
+[PlyCount "90"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. Nbd2 O-O 7. e3 b6 8.
+Rc1 Bb7 9. Bd3 d6 10. O-O Qe7 11. Qc2 Nbd7 12. Ng5 h6 13. Nge4 Rfc8 14. f3 a5
+15. Nxf6+ Nxf6 16. Qd1 Rc7 17. Qe2 Rac8 18. Rcd1 e5 19. d5 Re8 20. Qf2 Nd7 21.
+b3 Nc5 22. Bb1 Ba6 23. Rc1 b5 24. Rfd1 g6 25. Qg3 Kh7 26. h4 h5 27. Re1 f5 28.
+Qh3 Rf8 29. Rf1 bxc4 30. bxc4 Bc8 31. g4 fxg4 32. fxg4 Bxg4 33. Qg3 Rcc8 34.
+Nf3 Kg7 35. Nh2 Qd7 36. Kg2 a4 37. Bc2 b3 38. axb3 axb3 39. Bb1 Rb8 40. Nxg4
+Qxg4 41. Qxg4 hxg4 42. Kg3 Rxf1 43. Rxf1 Rb4 44. Rc1 Na4 45. Kxg4 Nb6 0-1
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.17"]
+[Round "2"]
+[White "Kukina, Mario"]
+[Black "Savic, Miroslav"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "1969"]
+[BlackElo "2314"]
+[PlyCount "91"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Bg5 exd4 8. Nxd4
+Nc6 9. Nxc6 bxc6 10. O-O Qe8 11. Qc2 Rb8 12. Rab1 Ng4 13. h3 Qe5 14. Bxg4 Bxg4
+15. Be3 Be6 16. Qd3 Rb4 17. f4 Qa5 18. b3 f5 19. e5 dxe5 20. Bd2 e4 21. Qc2
+Qc5+ 22. Kh1 Rd8 23. Na4 Rxa4 24. bxa4 e3 25. Bxe3 Qxe3 26. Rbe1 Qc5 27. Rxe6
+Rd4 28. Qe2 Bf8 29. Re8 Rxc4 30. Qe6+ Kg7 31. Qe5+ Qxe5 32. fxe5 Kf7 33. Rc8
+Be7 34. Rxc7 Rxa4 35. Rxc6 Rxa2 36. g4 Re2 37. gxf5 gxf5 38. Rxf5+ Kg7 39. e6
+Bf6 40. Rd5 Kg6 41. Rd7 a5 42. Ra7 Kf5 43. Rxa5+ Ke4 44. e7 Re1+ 45. Kg2 Re2+
+46. Kf1 1-0
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.18"]
+[Round "3"]
+[White "Jovanic, Ognjen"]
+[Black "Franciskovic, Vinko"]
+[Result "1-0"]
+[ECO "E40"]
+[WhiteElo "2504"]
+[BlackElo "2099"]
+[PlyCount "53"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Ne4 5. Qc2 f5 6. Nge2 O-O 7. a3 Bxc3+ 8.
+Nxc3 b6 9. Nxe4 fxe4 10. Qxe4 d5 11. Qc2 Bb7 12. cxd5 exd5 13. Bd3 Qh4 14. O-O
+Rf7 15. Bd2 Nd7 16. f3 c5 17. Bf5 Nf8 18. dxc5 bxc5 19. Rac1 Bc8 20. Bxc8 Rxc8
+21. e4 Ne6 22. exd5 Nd4 23. Qd3 c4 24. Bg5 Qxg5 25. Qxd4 Rxf3 26. Rxf3 Qxc1+
+27. Rf1 1-0
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.18"]
+[Round "3"]
+[White "Vukelic, Miljenko"]
+[Black "Tomljanovic, Goran"]
+[Result "0-1"]
+[ECO "E90"]
+[BlackElo "2121"]
+[PlyCount "98"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 Nbd7 7. Bd3 e5 8. d5
+Nh5 9. Qc2 a6 10. a3 Nc5 11. b4 Nxd3+ 12. Qxd3 f5 13. O-O f4 14. Bb2 g5 15. c5
+Bf6 16. cxd6 cxd6 17. Rac1 Rf7 18. Na2 Rg7 19. Nh2 g4 20. hxg4 Bxg4 21. Rc3 Bd7
+22. Rfc1 f3 23. Qxf3 Nf4 24. g3 Bh3 25. R1c2 Bg5 26. Bc1 Bg2 27. Qd1 Bxe4 28.
+Rb2 Rc8 29. Bxf4 Bxf4 30. Kf1 Qd7 31. Qh5 Bg5 32. Ng4 Kh8 33. f4 Bg6 34. Qh3
+exf4 35. gxf4 Rxc3 36. Nxc3 Bf6 37. Rg2 Bf5 38. Nxf6 Bxh3 39. Nxd7 Rxd7 40. Kf2
+Bxg2 41. Kxg2 Rg7+ 42. Kf3 Kg8 43. Ne4 Rg6 44. f5 Rh6 45. Kg4 Rh1 46. Kg5 Rd1
+47. Kh6 Rd4 48. Nf6+ Kf7 49. Nxh7 Rh4+ 0-1
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.19"]
+[Round "4"]
+[White "Mihalj, M Miroslav"]
+[Black "Prlac, Vedran"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2346"]
+[BlackElo "2100"]
+[PlyCount "30"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Nh5 8. e3
+Nxg3 9. hxg3 c5 10. Qd2 Nc6 11. d5 Nb8 12. Bd3 Nd7 13. Bf5 Qa5 14. Qc2 a6 15.
+O-O b5 1/2-1/2
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.19"]
+[Round "5"]
+[White "Rukavina, Josip"]
+[Black "Kukina, Mario"]
+[Result "1-0"]
+[ECO "E61"]
+[WhiteElo "2398"]
+[BlackElo "1969"]
+[PlyCount "111"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. d4 O-O 5. Bf4 d6 6. e3 Nbd7 7. h3 c6 8. Be2
+Re8 9. O-O Nh5 10. Bh2 f5 11. d5 c5 12. Ng5 Bxc3 13. bxc3 Ndf6 14. Qc2 h6 15.
+Nf3 Ne4 16. Ne1 Ng7 17. f3 Ng5 18. Nd3 Nf7 19. e4 e5 20. dxe6 Bxe6 21. Nf4 Qf6
+22. Rad1 g5 23. Nd5 Bxd5 24. Rxd5 f4 25. Rfd1 Rad8 26. Qd2 Re5 27. Rd3 Re6 28.
+Qb2 b6 29. Qa3 Qe7 30. Qa4 Qc7 31. Rd5 Re5 32. Bd3 Ne8 33. Bc2 Nf6 34. R5d2 Re7
+35. Bd3 Ne5 36. Be2 Kh8 37. Kh1 Rg7 38. Qb5 Rgd7 39. a4 Rb8 40. Rb2 Rdd8 41.
+Ra2 Kh7 42. Bg1 Kh8 43. Bf2 Qe7 44. a5 Rb7 45. Qa6 bxa5 46. Bxc5 dxc5 47. Rxd8+
+Qxd8 48. Qxb7 Nh5 49. Qd5 Qb8 50. Rd2 Kg7 51. Qxc5 a4 52. Qe7+ Nf7 53. Rd7 Qg8
+54. Bd3 g4 55. hxg4 Ng3+ 56. Kh2 1-0
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.20"]
+[Round "6"]
+[White "Bodiroga, Predrag"]
+[Black "Rukavina, Josip"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "2405"]
+[BlackElo "2398"]
+[PlyCount "109"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d6 2. c4 g6 3. e4 Bg7 4. Nc3 e5 5. Nge2 Nf6 6. f3 O-O 7. Bg5 c6 8. Qd2
+Nbd7 9. O-O-O a6 10. d5 c5 11. g4 b5 12. Ng3 Qa5 13. Kb1 bxc4 14. h4 Nb6 15. h5
+Bd7 16. Nf5 gxf5 17. gxf5 Na4 18. Nxa4 Qxd2 19. Rxd2 Rfb8 20. Rg2 Kf8 21. h6
+Bh8 22. Nc3 Ne8 23. Kc2 Bf6 24. Bd2 Nc7 25. Bxc4 Nb5 26. Bxb5 axb5 27. Bg5 Ke7
+28. Bxf6+ Kxf6 29. Kb1 b4 30. Nd1 Bb5 31. Nf2 Rb7 32. Rg7 Rba7 33. Ng4+ Ke7 34.
+f6+ Kd8 35. Rxh7 Rxa2 36. Rh8+ Kc7 37. Rxa8 Rxa8 38. Rh2 Rh8 39. h7 c4 40. Kc2
+Kb6 41. Kd2 Kc5 42. Ke3 c3 43. bxc3 bxc3 44. Nf2 c2 45. Kd2 Kd4 46. Ng4 Bd3 47.
+Rh1 Bxe4 48. fxe4 Kxe4 49. Kxc2 Kxd5 50. Kd3 Ke6 51. Rh5 Kd5 52. Ke3 Ke6 53.
+Ke4 d5+ 54. Ke3 e4 55. Kd4 1-0
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.20"]
+[Round "6"]
+[White "Vukovic, Ivo"]
+[Black "Pasalic, Enio"]
+[Result "1-0"]
+[ECO "E66"]
+[WhiteElo "2243"]
+[BlackElo "2073"]
+[PlyCount "83"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 g6 2. c4 Bg7 3. Nc3 Nf6 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. d4 a6 8. d5
+Na5 9. Nd2 c5 10. Qc2 Rb8 11. b3 b5 12. Bb2 bxc4 13. bxc4 Bh6 14. Ncb1 Ng4 15.
+Bc3 Bd7 16. Na3 Ne5 17. Rab1 Qc7 18. h3 f6 19. f4 Nf7 20. Rxb8 Rxb8 21. Rb1
+Rxb1+ 22. Qxb1 Bg7 23. e4 e5 24. Nf3 f5 25. Qe1 Nb7 26. exf5 gxf5 27. Qa1 Bf6
+28. Kh2 Ba4 29. Qb1 Bd7 30. Nc2 Kg7 31. Qb2 Ba4 32. Ne3 Bd7 33. Bf1 Na5 34. Bd3
+Kg8 35. Qd2 Bd8 36. Nxf5 Nxc4 37. Bxc4 Bxf5 38. fxe5 dxe5 39. d6 Qb7 40. Nxe5
+Bg6 41. Nxg6 hxg6 42. Qh6 1-0
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.20"]
+[Round "7"]
+[White "Rukavina, Josip"]
+[Black "Prlac, Vedran"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2398"]
+[BlackElo "2100"]
+[PlyCount "78"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. d4 d6 5. Bf4 h6 6. h3 c5 7. d5 O-O 8. e4 Na6
+9. Be2 Nc7 10. O-O a6 11. a4 Nfe8 12. e5 Rb8 13. Qd2 Kh7 14. a5 b5 15. axb6
+Rxb6 16. Rfe1 Bf5 17. g4 Bd7 18. Bd3 e6 19. exd6 Nxd6 20. Nd1 exd5 21. cxd5
+Nxd5 22. Bg3 Bc8 23. Rc1 c4 24. Bxc4 Nxc4 25. Rxc4 Re6 26. Rxe6 Bxe6 27. Rc6
+Qa8 28. Rd6 Rd8 29. Rxd8 Qxd8 30. Ne3 Qf6 31. Ne5 Nf4 32. Bxf4 Qxf4 33. Nd3 Qf3
+34. Nc5 Qxh3 35. Nxe6 fxe6 36. Qd7 h5 37. Qxe6 Bxb2 38. Qxa6 Bg7 39. Qe6 hxg4
+1/2-1/2
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.20"]
+[Round "7"]
+[White "Vukelic, Miljenko"]
+[Black "Franciskovic, Vinko"]
+[Result "0-1"]
+[ECO "E20"]
+[BlackElo "2099"]
+[PlyCount "40"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 Bxc3 5. Bxc3 Ne4 6. Nf3 O-O 7. e3 b6 8.
+Bd3 f5 9. O-O Bb7 10. Bb4 c5 11. Ba3 Na6 12. b3 Rf6 13. dxc5 Rg6 14. Ne5 Rxg2+
+15. Kxg2 Qg5+ 16. Kh3 Qh6+ 17. Kg2 Nc3+ 18. Qf3 Qg5+ 19. Kh3 Bxf3 20. Nxf3 Qg4#
+0-1
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.21"]
+[Round "8"]
+[White "Mihalj, M Miroslav"]
+[Black "Rukavina, Josip"]
+[Result "0-1"]
+[ECO "E80"]
+[WhiteElo "2346"]
+[BlackElo "2398"]
+[PlyCount "26"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 c6 5. Be3 a6 6. a4 a5 7. Qd2 Nf6 8. f3 Na6
+9. Rd1 Nb4 10. d5 O-O 11. Bd3 e6 12. Bb1 exd5 13. cxd5 cxd5 0-1
+
+[Event "Senj op"]
+[Site "Senj"]
+[Date "2008.04.22"]
+[Round "9"]
+[White "Prlac, Vedran"]
+[Black "Franciskovic, Vinko"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2100"]
+[BlackElo "2099"]
+[PlyCount "12"]
+[EventDate "2008.04.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 c5 4. e3 Be7 5. Be2 O-O 6. O-O cxd4 1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "2008.04.19"]
+[Round "1.3"]
+[White "Topalov, Veselin"]
+[Black "Polgar, Judit"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[WhiteElo "2767"]
+[BlackElo "2709"]
+[PlyCount "148"]
+[EventDate "2008.04.18"]
+[EventType "k.o. (rapid)"]
+[EventRounds "2"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 a5 7. O-O O-O 8. Bg5
+Be7 9. Qc2 Na6 10. Nc3 d5 11. a3 dxc4 12. Bxf6 Bxf6 13. Ng5 Bxg5 14. Bxb7 Ra7
+15. Bg2 c5 16. d5 Nc7 17. Rad1 exd5 18. Nxd5 b5 19. a4 bxa4 20. Nb6 Qe7 21.
+Nxc4 Rb8 22. e3 g6 23. Qxa4 Rb4 24. Qc2 Bf6 25. Bh3 Nb5 26. Rd5 a4 27. Rfd1 Nc3
+28. bxc3 Rxc4 29. Rd7 Rxd7 30. Rxd7 Qe8 31. Qa2 Rxc3 32. Qxa4 c4 33. Qc6 Rc1+
+34. Kg2 c3 35. Rd6 Qxc6+ 36. Rxc6 Rd1 37. Bg4 Rb1 38. Bf3 Be5 39. Rc5 f5 40. h4
+Kg7 41. h5 Kf6 42. hxg6 hxg6 43. Bd5 Rb2 44. Bc4 Rd2 45. Bb3 Rb2 46. Bd1 g5 47.
+g4 Rd2 48. Ba4 fxg4 49. Kf1 Ke6 50. Rc4 g3 51. fxg3 Rb2 52. e4 g4 53. Rc6+ Ke7
+54. Rc5 Bd4 55. Rc4 Rd2 56. Rc6 Rd3 57. Rc4 Be5 58. Rc5 Bd4 59. Rd5 Rf3+ 60.
+Ke2 Re3+ 61. Kd1 Bf6 62. e5 Bxe5 63. Bd7 Rxg3 64. Bxg4 Rg1+ 65. Kc2 Rg2+ 66.
+Kb3 Rb2+ 67. Ka4 c2 68. Rxe5+ Kd6 69. Re1 Rb1 70. Bf5 Rxe1 71. Bxc2 Kc5 72. Kb3
+Kd4 73. Bg6 Re6 74. Bh7 Ke5 1/2-1/2
+
+[Event "Nordic-ch U20 Girls"]
+[Site "Haraldsheim"]
+[Date "2008.04.19"]
+[Round "2"]
+[White "Bator, Magdalena"]
+[Black "Agrest, Inna"]
+[Result "0-1"]
+[ECO "E60"]
+[WhiteElo "1869"]
+[BlackElo "2180"]
+[PlyCount "48"]
+[EventDate "2008.04.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d6 5. O-O O-O 6. c4 Bd7 7. Nc3 Qc8 8. Re1
+Bh3 9. Bh1 h6 10. e4 Bg4 11. b3 Nc6 12. Bb2 e5 13. d5 Nd4 14. Qd3 Bxf3 15. Bxf3
+Nh7 16. Ne2 Nxf3+ 17. Qxf3 Ng5 18. Qg2 f5 19. f3 fxe4 20. fxe4 Nh3+ 21. Kh1 Rf2
+22. Qxf2 Nxf2+ 23. Kg2 Nd3 24. Reb1 Qg4 0-1
+
+[Event "Bartlesville Phillips 66 op"]
+[Site "Bartlesville"]
+[Date "2008.04.19"]
+[Round "3"]
+[White "Mc Cann, Sam"]
+[Black "Deputy, Larry"]
+[Result "0-1"]
+[ECO "E90"]
+[PlyCount "56"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 d6 4. Nc3 Bg7 5. e4 O-O 6. Bd3 Nc6 7. a3 e5 8. d5 Ne7
+9. O-O Nh5 10. b4 Nf4 11. Bxf4 exf4 12. Rc1 f5 13. Ng5 h6 14. Nf3 g5 15. h3 Ng6
+16. exf5 Bxf5 17. Bxf5 Rxf5 18. Qc2 Qd7 19. Nd4 Bxd4 20. Rfe1 Be5 21. Nb5 a6
+22. Nxc7 Rc8 23. Ne6 Qf7 24. c5 Nf8 25. Nxf8 Qxf8 26. cxd6 Rxc2 27. Rxc2 Qxd6
+28. Rc8+ Rf8 0-1
+
+[Event "Chicago North Am 10th"]
+[Site "Chicago"]
+[Date "2008.04.19"]
+[Round "1"]
+[White "Shankar, Gauri"]
+[Black "Yuan, Yuanling"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2219"]
+[BlackElo "2119"]
+[PlyCount "170"]
+[EventDate "2008.04.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 Kh8 13. Bb2 h6 14. Ne6 Bxe6 15.
+dxe6 Qc8 16. Nd5 Neg8 17. b5 Re8 18. exf5 gxf5 19. Bh5 Nxh5 20. Qxh5 Rxe6 21.
+Qxf5 Re8 22. Qf7 c6 23. bxc6 bxc6 24. Ne3 Rf8 25. Qh5 Qe6 26. Rad1 Ne7 27. Re2
+Rad8 28. Ba3 Rf4 29. g3 Rff8 30. Red2 Nc8 31. Qh4 e4 32. Bb2 Bxb2 33. Rxb2 Nb6
+34. Rd4 d5 35. cxd5 cxd5 36. a4 Rd7 37. a5 Nc8 38. Rbd2 Ne7 39. Qg4 Qxg4 40.
+Nxg4 h5 41. Ne5 Rc7 42. g4 hxg4 43. Nxg4 Rc5 44. Ne3 Rxa5 45. Nxd5 Rg8+ 46. Kf1
+Nxd5 47. Rxd5 Ra1+ 48. Rd1 Rxd1+ 49. Rxd1 Rg7 50. Ke2 Rg2 51. Ra1 Rxh2 52. Rxa7
+Kg8 53. Re7 Rh4 54. Ke3 Kf8 55. Rxe4 Rh5 56. Kf4 Ra5 57. Re5 Ra2 58. f3 Kf7 59.
+Kf5 Ra3 60. f4 Ra6 61. Rb5 Ra7 62. Kg5 Rc7 63. Ra5 Rb7 64. Ra1 Rb5+ 65. f5 Rb6
+66. Ra7+ Kf8 67. Ra1 Kf7 68. Rh1 Kg7 69. Re1 Kf7 70. Rc1 Ra6 71. Re1 Rb6 72.
+Ra1 Rc6 73. Ra7+ Kf8 74. Ra5 Kg7 75. Re5 Kf7 76. Rb5 Kg7 77. Rb7+ Kf8 78. Kf4
+Ra6 79. Rb5 Kf7 80. Ke5 Ke7 81. f6+ Kf7 82. Rb7+ Kf8 83. Rd7 Ra5+ 84. Ke6 Ra6+
+85. Kf5 Ra1 1/2-1/2
+
+[Event "Chicago North Am 10th"]
+[Site "Chicago"]
+[Date "2008.04.20"]
+[Round "3"]
+[White "Chow, Albert"]
+[Black "Yuan, Yuanling"]
+[Result "1-0"]
+[ECO "E99"]
+[WhiteElo "2198"]
+[BlackElo "2119"]
+[PlyCount "117"]
+[EventDate "2008.04.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. c5 g5 14. cxd6 cxd6 15. Nf2
+h5 16. h3 Ng6 17. Qb3 Rf7 18. Rac1 Bf8 19. Nb5 Rh7 20. Rc2 Ne8 21. a4 Qf6 22.
+Rfc1 Ne7 23. Nc7 Nxc7 24. Rxc7 Rg7 25. a5 Kh8 26. Qa4 a6 27. Qe8 Rh7 28. Rxc8
+Nxc8 29. Rxc8 Rxc8 30. Qxc8 Re7 31. Bc3 Qg7 32. Bd1 Rc7 33. Qe8 Qf7 34. Ba4
+Qxe8 35. Bxe8 h4 36. Kf1 Re7 37. Ba4 Kg7 38. Ke2 Kf7 39. Kd3 Rc7 40. Nd1 Ke7
+41. b3 Kd8 42. Nb2 Rc8 43. Nc4 Kc7 44. Bb4 Rd8 45. Be1 Be7 46. Bf2 Rg8 47. Bb6+
+Kb8 48. Bd7 Rg7 49. Be6 Rg6 50. Kc3 Rh6 51. b4 Rh7 52. Kb3 Rh8 53. Ka4 Rh7 54.
+Bf2 Kc7 55. Ba7 Rh8 56. b5 Ra8 57. Bb6+ Kb8 58. Kb4 axb5 59. Na3 1-0
+
+[Event "Chicago North Am 10th"]
+[Site "Chicago"]
+[Date "2008.04.21"]
+[Round "5"]
+[White "Young, Angelo"]
+[Black "Pasalic, Mehmed"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[WhiteElo "2381"]
+[BlackElo "2392"]
+[PlyCount "28"]
+[EventDate "2008.04.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+Qh4+ 9. Qf2 Qd8 10. Qd2 Qh4+ 11. Bf2 Qe7 12. Be3 Qh4+ 13. Bf2 Qe7 14. Be3 Qh4+
+1/2-1/2
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.19"]
+[Round "1"]
+[White "Gineys, Patrick"]
+[Black "Lalic, Bogdan"]
+[Result "0-1"]
+[ECO "E60"]
+[BlackElo "2514"]
+[PlyCount "52"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 g6 2. d4 Nf6 3. e3 Bg7 4. b3 O-O 5. Bb2 d6 6. Be2 Nbd7 7. c4 e5 8. dxe5
+Ng4 9. Nc3 Ndxe5 10. Nxe5 Nxe5 11. O-O a5 12. Qd2 Be6 13. Rad1 Re8 14. Nd5 a4
+15. Nf4 axb3 16. Nxe6 Rxe6 17. Bxe5 Rxa2 18. Qd3 Rxe5 19. Bf3 b2 20. Qb3 Rea5
+21. Qxb7 Ra1 22. Be4 Rxd1 23. Rxd1 Bf6 24. g3 Qd7 25. Bc2 Qg4 26. Qd5 Qxd1+ 0-1
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.19"]
+[Round "1"]
+[White "Murey, Jacob"]
+[Black "Unikowski, Michel"]
+[Result "1-0"]
+[ECO "E80"]
+[WhiteElo "2415"]
+[PlyCount "36"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 Nc6 6. Nge2 a6 7. Be3 Rb8 8. Qd2
+Nd7 9. Bh6 O-O 10. h4 e5 11. Bg5 f6 12. Be3 f5 13. Bg5 Bf6 14. a3 Bxg5 15. hxg5
+fxe4 16. O-O-O exf3 17. gxf3 Nxd4 18. Nxd4 exd4 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.19"]
+[Round "1"]
+[White "Shchekachev, Andrei"]
+[Black "Basinski, Roger"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2520"]
+[BlackElo "1904"]
+[PlyCount "77"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. Be3 Nc6 8. d5
+Ne7 9. Nd2 Nd7 10. b4 f5 11. f3 f4 12. Bf2 Nf6 13. c5 g5 14. Nc4 Rf7 15. cxd6
+cxd6 16. Nb5 Ne8 17. Nxa7 Bd7 18. a4 Ng6 19. Nb5 Bf8 20. Nb6 Rb8 21. Rc1 Nf6
+22. Nxd7 Rxd7 23. a5 g4 24. Bb6 Qe7 25. Nc7 Rdd8 26. Ne6 Rdc8 27. O-O gxf3 28.
+Bxf3 Qd7 29. Qd3 Be7 30. b5 Nf8 31. Rxc8 Qxc8 32. Nxf8 Kxf8 33. Bf2 Ra8 34. Ra1
+Bd8 35. a6 Nd7 36. Bg4 Qc7 37. Bxd7 Qxd7 38. h3 Kf7 39. Kh2 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.20"]
+[Round "2"]
+[White "Baudry, Lyam"]
+[Black "Sundararajan, Kidambi"]
+[Result "0-1"]
+[ECO "E46"]
+[WhiteElo "2003"]
+[BlackElo "2441"]
+[PlyCount "62"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 Re8 6. a3 Bf8 7. Ng3 d5 8. Bd3
+c5 9. dxc5 Bxc5 10. O-O Nc6 11. b4 Bf8 12. Bb2 a5 13. b5 Ne5 14. cxd5 exd5 15.
+Bf5 Nc4 16. Qc2 g6 17. Bxc8 Rxc8 18. Rfd1 Bg7 19. Qb3 Nxb2 20. Qxb2 Ng4 21.
+Rac1 Qh4 22. Nf1 Rxc3 23. Rxc3 Bxc3 24. Qxc3 Qxf2+ 25. Kh1 Qe2 26. Rb1 a4 27.
+Qd4 Nxe3 28. Nxe3 Rxe3 29. Qb4 Re4 30. Qa5 b6 31. Qa8+ Re8 0-1
+
+[Event "Metz op 26th"]

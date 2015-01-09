@@ -1,0 +1,600 @@
+[White "Deshmukh, Anup"]
+[Black "Hossain, Enamul"]
+[Result "0-1"]
+[ECO "A36"]
+[WhiteElo "2284"]
+[BlackElo "2489"]
+[PlyCount "98"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. a3 d6 6. Rb1 a5 7. e3 e5 8. Nge2
+Nge7 9. O-O O-O 10. b3 Bf5 11. d3 Qd7 12. Ne4 b6 13. N2c3 h6 14. Bb2 Be6 15.
+Na4 Rab8 16. Nec3 d5 17. e4 dxe4 18. dxe4 Qxd1 19. Rfxd1 Nd4 20. Bc1 Rfc8 21.
+Be3 Bf8 22. Bf1 Nec6 23. Nd5 Bxd5 24. exd5 Ne7 25. Nc3 Nef5 26. Rb2 Nd6 27. Kg2
+Bg7 28. f3 N4f5 29. Bc1 e4 30. Nxe4 Bxb2 31. Nxd6 Nxd6 32. Bxb2 Re8 33. Kf2 b5
+34. cxb5 Nxb5 35. d6 Nd4 36. Bc4 Red8 37. Bxd4 cxd4 38. Rxd4 Rb6 39. Rd5 Rdxd6
+40. Rxa5 Rd2+ 41. Ke3 Rxh2 42. a4 h5 43. Ra6 Rxa6 44. Bxa6 g5 45. Bc4 Ra2 46.
+Kd4 h4 47. gxh4 gxh4 48. f4 h3 49. Kc5 Rc2 0-1
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Dharani Sree, R."]
+[Black "Das, Rajdeep"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "1745"]
+[PlyCount "89"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 O-O 5. d3 d6 6. Nf3 c6 7. O-O h6 8. Bd2
+Be6 9. a3 Ba5 10. b4 Bc7 11. Rc1 Nbd7 12. e4 Qe7 13. Nh4 a5 14. Kh1 axb4 15.
+axb4 Rfe8 16. f4 exf4 17. Rxf4 d5 18. cxd5 Bxf4 19. dxe6 Bxd2 20. exd7 Bxc1 21.
+dxe8=Q+ Rxe8 22. Qxc1 Qxb4 23. Nf5 Ng4 24. h3 Nf2+ 25. Kh2 Nxd3 26. Qd2 Ne5 27.
+Qc2 b5 28. Ne2 Qc4 29. Qb2 Qc5 30. Nf4 Kh7 31. Nd3 Qb6 32. Nxe5 f6 33. Nd3 c5
+34. Qf2 Rc8 35. Ne7 Re8 36. Qf5+ Kh8 37. Ng6+ Kg8 38. Nxc5 b4 39. Bf1 b3 40.
+Bc4+ Re6 41. Bxe6+ Qxe6 42. Qxe6+ Kh7 43. Ne7 h5 44. Qf5+ Kh8 45. Qxh5# 1-0
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Gagare, Shardul"]
+[Black "Satvik, M."]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2070"]
+[BlackElo "1891"]
+[PlyCount "61"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d5 6. Nbd2 c5 7. c4 Nc6 8. a3
+Re8 9. cxd5 Nxd5 10. Nc4 e5 11. Ne3 Nb6 12. Nd2 Nd4 13. Nec4 Rb8 14. Nxb6 Qxb6
+15. e3 Ne6 16. Qc2 Qc7 17. Ne4 b6 18. f4 exf4 19. gxf4 f5 20. Ng3 Bb7 21. Bd2
+Rbd8 22. Bc3 Ba6 23. Rfd1 Qd6 24. Bf1 Nc7 25. Bxg7 Kxg7 26. Qf2 Nd5 27. Re1 Ne7
+28. Rad1 Qd5 29. Qc2 Qd6 30. Qf2 Qd5 31. Qc2 1/2-1/2
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Kais, Mohd"]
+[Black "Sagar, Tejaswini"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "32"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e3 Nf6 2. Nc3 g6 3. g3 Bg7 4. Nf3 d5 5. Bg2 c6 6. O-O O-O 7. b3 Bd7 8. d3
+Qc8 9. a4 Bh3 10. Bxh3 Qxh3 11. Kh1 Ng4 12. Ne4 h6 13. Rb1 Nd7 14. Ba3 Nde5 15.
+Qe2 Nxf3 16. Qxf3 Qxh2# 0-1
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Kamble, Vikramaditya"]
+[Black "Narayanan, Srinath"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "2376"]
+[BlackElo "2220"]
+[PlyCount "109"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. g3 Qb6 6. Nb5 Ne5 7. b3 a6 8. Nd4
+e6 9. Bg2 Bb4+ 10. Kf1 Bc5 11. e3 d6 12. Nc3 Bd7 13. Rb1 O-O 14. f4 Neg4 15. b4
+Bxd4 16. Qxd4 Qc7 17. h3 e5 18. Qd3 Be6 19. Bd5 Bxd5 20. cxd5 Rac8 21. Bd2 e4
+22. Qd4 Ne5 23. fxe5 dxe5 24. Qa7 Nd7 25. d6 Qxd6 26. Ke1 Rfd8 27. Rh2 Qc6 28.
+b5 axb5 29. Rxb5 b6 30. Qa3 Nc5 31. Kf1 Nd3 32. Qa4 Qd7 33. Kg1 Rc6 34. Rd5 Rd6
+35. Qxd7 R6xd7 36. Rxd7 Rxd7 37. Nxe4 f5 38. Nc3 e4 39. Nb5 g5 40. Bc3 Rd5 41.
+Nd4 f4 42. gxf4 gxf4 43. Rg2+ Kf7 44. exf4 Rh5 45. Ne2 Rxh3 46. f5 Nc1 47. Ng3
+Nxa2 48. Be5 Nc1 49. Nxe4 Re3 50. Rg7+ Ke8 51. Nf6+ Kd8 52. Rg8+ Ke7 53. Nd5+
+Kf7 54. Rg7+ Kf8 55. Nxe3 1-0
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Kashyap, Rahul B"]
+[Black "Anuprita, Patil"]
+[Result "0-1"]
+[ECO "A35"]
+[WhiteElo "1812"]
+[BlackElo "2068"]
+[PlyCount "74"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nf3 d6 7. e4 Nf6 8. Be2
+O-O 9. h3 b6 10. Be3 Bb7 11. O-O Rc8 12. Qd2 Na5 13. e5 dxe5 14. b3 Qxd2 15.
+Nxd2 Nc6 16. Rac1 Nd4 17. Nf3 Ne4 18. Bxd4 exd4 19. Nb5 Rfd8 20. Rfd1 Nc3 21.
+Nxc3 dxc3 22. Bd3 Rd6 23. Ne1 Rcd8 24. Kf1 e5 25. f3 Kf8 26. Kf2 f5 27. Bb1
+Rd2+ 28. Rxd2 cxd2 29. Rd1 dxe1=Q+ 30. Kxe1 Rxd1+ 31. Kxd1 e4 32. Ke2 exf3+ 33.
+gxf3 Ke7 34. Ke3 Kd6 35. Kd3 Bxf3 36. Ke3 Bg2 37. h4 Ke5 0-1
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Krishna Teja, N."]
+[Black "Ghate, VN."]
+[Result "0-1"]
+[ECO "A65"]
+[WhiteElo "1766"]
+[BlackElo "1972"]
+[PlyCount "74"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 Bg7 8. Bd3
+h6 9. Bh4 O-O 10. Nf3 a6 11. a4 Re8 12. O-O Nbd7 13. Re1 Qc7 14. Qc2 Kh7 15. h3
+Rb8 16. Bg3 Nh5 17. Bh2 Ne5 18. Nxe5 Bxe5 19. Bxe5 Rxe5 20. Re3 Nf4 21. Bc4 Qe7
+22. Kh2 Bd7 23. Bf1 Re8 24. g3 Nxh3 25. Bxh3 Rh5 26. g4 Bxg4 27. Rh1 Qh4 28.
+Kg2 f5 29. exf5 Rxe3 30. fxg6+ Kg7 31. fxe3 Bxh3+ 32. Kf3 Qg4+ 33. Kf2 Qg2+ 34.
+Ke1 Qxc2 35. Nd1 Bg4 36. Rh2 Rxh2 37. Nc3 Rh1# 0-1
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Kunte, Abhijit"]
+[Black "Shyam, Nikil P"]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[WhiteElo "2554"]
+[BlackElo "2364"]
+[PlyCount "90"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. Nxb5 Ba6 7. Nc3 d6 8. Nf3
+g6 9. g3 Bg7 10. Bg2 O-O 11. Rb1 Nbd7 12. O-O Qa5 13. Bd2 Rfb8 14. Qc2 Ne8 15.
+Rfd1 Nc7 16. a4 Qb6 17. b3 Rb7 18. Be3 Qa5 19. Na2 Rab8 20. h3 Ne8 21. Bd2 Qd8
+22. Be1 Rc8 23. Rdc1 Bh6 24. Bd2 Bxd2 25. Qxd2 Nef6 26. b4 cxb4 27. Nxb4 Rxc1+
+28. Rxc1 Qa5 29. Rc8+ Kg7 30. Nd4 h6 31. Ndc6 Qxa4 32. Ra8 Nc5 33. Nxa6 Nxa6
+34. Qd3 Qa1+ 35. Bf1 Rb1 36. e3 Rd1 37. Rxa6 Qc1 38. Qe2 Nxd5 39. Ra5 Re1 40.
+Qd3 Rd1 41. Qe2 Nc3 42. Qa6 Ne4 43. Ra2 Nc3 44. Ra5 Ne4 45. Ra2 Nc3 1/2-1/2
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Premnath, R."]
+[Black "Barua, Dibyendu"]
+[Result "0-1"]
+[ECO "A84"]
+[WhiteElo "2257"]
+[BlackElo "2497"]
+[PlyCount "108"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 f5 5. g4 Nf6 6. gxf5 exf5 7. cxd5 Nxd5 8. Nf3
+Nf6 9. Bc4 Bd6 10. Rg1 Qe7 11. Bd2 Nbd7 12. Ng5 Nb6 13. Bf7+ Kd8 14. Bb3 Rf8
+15. Nf3 g6 16. Qc2 Be6 17. O-O-O Nbd5 18. Na4 Ne4 19. Ne5 Rc8 20. f3 Nxd2 21.
+Qxd2 Kc7 22. Kb1 f4 23. e4 Ne3 24. Bxe6 Qxe6 25. Rc1 Bxe5 26. Nc5 Qe7 27. dxe5
+b6 28. Nd3 Kb7 29. Qc3 c5 30. Nxf4 Rxf4 31. Qxe3 Rcf8 32. Rg3 Qxe5 33. Rd1 R8f7
+34. Rd5 Qe6 35. Qd3 Rc7 36. Rd6 Qf7 37. a4 c4 38. Qc3 Qe7 39. Rd5 Rxe4 40. a5
+Re3 41. Qc2 c3 42. Rg2 cxb2 43. a6+ Kxa6 44. Qa4+ Kb7 45. Rxb2 Re1+ 46. Rd1 Qe3
+47. Ka2 Qe6+ 48. Kb1 Qc4 49. Qxc4 Rxd1+ 50. Kc2 Rxc4+ 51. Kxd1 a5 52. Kd2 Ka6
+53. Kd3 Rc7 54. f4 a4 0-1
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Rahman, Ziaur"]
+[Black "Arun, Karthik R"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2564"]
+[BlackElo "2277"]
+[PlyCount "87"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O d6 7. Re1 Be7 8. e4
+Nbd7 9. d4 cxd4 10. Nxd4 Qc7 11. Ndb5 Qb8 12. Bf4 Ne5 13. b3 a6 14. Nd4 O-O 15.
+h3 Qc7 16. Rc1 Rfe8 17. g4 Nfd7 18. Bg3 g5 19. Qd2 Nf8 20. Nf3 Nxf3+ 21. Bxf3
+Ng6 22. Bg2 Rad8 23. Ne2 Rd7 24. Kh1 Qd8 25. Nc3 Bf6 26. Rcd1 Bxc3 27. Qxc3 e5
+28. f3 Re6 29. Rd2 Nf4 30. Bf1 Rh6 31. Red1 Qf6 32. Rh2 Bc6 33. Qe3 Rb7 34.
+Rhd2 Rd7 35. Kh2 Rb7 36. h4 Ne6 37. Rxd6 gxh4 38. Be1 Rg6 39. Rxc6 Qe7 40. Bc3
+Rd7 41. Rc8+ Kg7 42. Rd5 f6 43. Bb4 Qf7 44. Bh3 1-0
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Ramakrishna, J."]
+[Black "Patil, Pratik"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "2321"]
+[BlackElo "2003"]
+[PlyCount "53"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 a6 6. c4 e6 7. Nc3 Be7 8. Be3
+O-O 9. Qd2 b6 10. Be2 Bb7 11. O-O Nbd7 12. Rfd1 Rc8 13. Rac1 Qc7 14. Bf1 Rfe8
+15. Qf2 Nf8 16. Nc2 N6d7 17. Bd4 Bd8 18. b4 Qb8 19. Na4 Ba8 20. Na3 Bc7 21. g3
+Ng6 22. c5 bxc5 23. bxc5 dxc5 24. Rb1 Qa7 25. Nxc5 e5 26. Be3 Nb6 27. Nd7 1-0
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Santhosbaala, RS."]
+[Black "Antonio, Viani D'Cunha"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "1915"]
+[BlackElo "2114"]
+[PlyCount "91"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. c3 O-O 8. Re1
+d6 9. Nbd2 Rb8 10. Nf1 b5 11. d4 cxd4 12. cxd4 d5 13. e5 Qb6 14. g4 a5 15. Bg5
+f6 16. exf6 Bxf6 17. Bxf6 Rxf6 18. g5 Rf8 19. Qd2 Nf5 20. Rad1 Nd6 21. Ne3 Ne4
+22. Qc1 Bd7 23. Ng4 Rf5 24. Nh4 Nxd4 25. Nxf5 exf5 26. Bxe4 fxe4 27. Nf6+ Kg7
+28. Rxd4 Qxd4 29. Qc7 Rf8 30. Qxd7+ Rf7 31. Qh3 h5 32. Qc3 Qxc3 33. bxc3 Re7
+34. h4 Re5 35. Kf1 Kf7 36. Ke2 Rf5 37. Rb1 Rf4 38. Rxb5 Rxh4 39. Rxa5 Rh1 40.
+Rxd5 Ra1 41. Rd2 h4 42. f3 h3 43. Ng4 Rg1 44. Kf2 Rc1 45. fxe4 Rxc3 46. Rd6 1-0
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Shabdhik, Varma"]
+[Black "Madhuri, N."]
+[Result "1-0"]
+[ECO "A41"]
+[BlackElo "1585"]
+[PlyCount "119"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d6 2. c4 e5 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Nc3 Be6 6. b3 Nc6 7. Bb2 Bb4 8.
+O-O-O+ Ke7 9. Nd5+ Bxd5 10. cxd5 Nd4 11. e3 Nf5 12. Bxe5 f6 13. Bb2 a5 14. Bd3
+Nd6 15. Ne2 a4 16. a3 Bc5 17. b4 Ba7 18. Bd4 Nh6 19. Bxa7 Rxa7 20. e4 Ng4 21.
+Rdf1 Ne5 22. Kc2 Rc8 23. f3 c6 24. dxc6 Rxc6+ 25. Nc3 Nxd3 26. Kxd3 b5 27. Rc1
+Ke6 28. Nxb5 Rxc1 29. Nd4+ Kf7 30. Rxc1 Rd7 31. Ke3 g6 32. b5 Rb7 33. Rc5 h5
+34. Kd3 Ke7 35. Kc3 Kd7 36. Kb4 Ra7 37. b6 Rb7 38. Rc7+ Rxc7 39. bxc7 Kxc7 40.
+Nb5+ Nxb5 41. Kxb5 Kb7 42. Kxa4 Ka6 43. Kb4 Kb6 44. a4 g5 45. a5+ Ka6 46. Kc5
+Kxa5 47. Kd6 Kb6 48. Ke6 Kc6 49. Kxf6 g4 50. fxg4 hxg4 51. e5 Kd7 52. h4 gxh3
+53. gxh3 Ke8 54. h4 Kf8 55. h5 Kg8 56. e6 Kf8 57. h6 Kg8 58. e7 Kh7 59. e8=Q
+Kxh6 60. Qh8# 1-0
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Singh, DP."]
+[Black "Vinoth Kumar, M."]
+[Result "1-0"]
+[ECO "A44"]
+[WhiteElo "2299"]
+[BlackElo "2202"]
+[PlyCount "63"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c5 2. d5 e5 3. c4 d6 4. Nc3 g6 5. e4 Nh6 6. h4 f6 7. h5 g5 8. Bd3 Be7 9.
+f3 f5 10. exf5 Nxf5 11. Bxf5 Bxf5 12. g4 Bd7 13. Qd3 Na6 14. Ne4 b5 15. a3 bxc4
+16. Qxc4 Qb6 17. Ne2 Bb5 18. Qc2 Nc7 19. N2c3 h6 20. Be3 Rf8 21. Kf2 Bd7 22.
+Kg2 Qb7 23. Rhd1 Rb8 24. b4 cxb4 25. axb4 Rc8 26. Nxd6+ Bxd6 27. Qg6+ Rf7 28.
+Qxd6 Nb5 29. Qxe5+ Kd8 30. Ne4 Rc2+ 31. Kg3 Rc7 32. Qh8+ 1-0
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Sriram, Jha"]
+[Black "Soman, Satchidanand"]
+[Result "1/2-1/2"]
+[ECO "A87"]
+[WhiteElo "2429"]
+[BlackElo "2251"]
+[PlyCount "81"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. b4 O-O 6. c4 Ne4 7. Bb2 c5 8. bxc5
+Nxc5 9. Nc3 Ne4 10. O-O Nxc3 11. Bxc3 d6 12. Qd3 Nd7 13. Rfe1 Nf6 14. d5 Bd7
+15. Nd2 Rc8 16. a4 Qc7 17. Rec1 Ng4 18. Bxg7 Kxg7 19. Qd4+ Kg8 20. h3 Nf6 21.
+Qxa7 Ra8 22. Qd4 Bxa4 23. e4 fxe4 24. Nxe4 Nxe4 25. Qxe4 Qc5 26. Ra2 Bd7 27.
+Re2 Rf7 28. Qe3 Rc8 29. Qxc5 Rxc5 30. Rb1 b5 31. cxb5 Bxb5 32. Reb2 Bd3 33. Rd1
+Bb5 34. Rdb1 Bd3 35. Rd1 Bb5 36. h4 Bd7 37. Re1 Rc7 38. Ree2 Bf5 39. Kh2 Rf8
+40. f4 Bg4 41. Rec2 1/2-1/2
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Wijesuriya, G Vineetha"]
+[Black "Bhaskar, Gupta"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "1941"]
+[PlyCount "125"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. g3 c5 3. c4 e6 4. Bg2 Nc6 5. cxd5 exd5 6. d3 Nf6 7. O-O Be7 8. Nc3
+O-O 9. Bg5 Be6 10. d4 c4 11. Ne5 Rc8 12. Qd2 a6 13. a4 h6 14. Bxf6 Bxf6 15.
+Nxc6 Rxc6 16. Rfd1 Qd7 17. e4 Bg4 18. f3 Bh5 19. Nxd5 Bg5 20. Qc3 f5 21. Re1 f4
+22. h4 Bf6 23. Nxf6+ Rcxf6 24. d5 Rc8 25. Qe5 Qf7 26. Bh3 Re8 27. Be6 Rexe6 28.
+dxe6 Rxe6 29. Qxf4 Rf6 30. Qb8+ Kh7 31. f4 Rb6 32. Qe5 Kh8 33. Re3 Bg4 34. Rc1
+Qd7 35. Qd5 Rd6 36. Qxc4 Rc6 37. Qf1 Qd4 38. Qe1 Be2 39. Qxe2 Rxc1+ 40. Kh2
+Qxa4 41. Rc3 Rxc3 42. bxc3 Qc6 43. Qd3 b5 44. e5 Qc4 45. Qf3 Kh7 46. f5 a5 47.
+e6 a4 48. e7 Qf7 49. Qe4 Qe8 50. f6+ Kh8 51. f7 Qxf7 52. e8=Q+ Qxe8 53. Qxe8+
+Kh7 54. Qxb5 a3 55. Qa4 a2 56. Qxa2 Kg6 57. Qe6+ Kh7 58. c4 g5 59. hxg5 hxg5
+60. c5 g4 61. c6 Kg7 62. c7 Kh7 63. c8=Q 1-0
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "8"]
+[White "Ajith, MP."]
+[Black "Premnath, R."]
+[Result "0-1"]
+[ECO "A47"]
+[WhiteElo "2104"]
+[BlackElo "2257"]
+[PlyCount "122"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. c3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nbd2 c5 8. dxc5
+bxc5 9. Qc2 d5 10. Ne5 Qc7 11. f4 Bd6 12. Ndf3 Ne4 13. Be3 Nc6 14. Nxc6 Bxc6
+15. b4 Bb7 16. b5 Qa5 17. c4 Qc3 18. Qxc3 Nxc3 19. Ne5 Nxe2+ 20. Kf2 Nc3 21. a4
+f6 22. Nd3 Rac8 23. a5 Rf7 24. a6 Ba8 25. Rfc1 d4 26. Bxa8 Rxa8 27. Bd2 Ne4+
+28. Ke2 e5 29. Ba5 Re7 30. Kf3 Nc3 31. Bxc3 e4+ 32. Kf2 exd3 33. Ba5 Re2+ 34.
+Kg1 g5 35. fxg5 fxg5 36. Rd1 Rc2 37. Rxd3 Rxc4 38. Re1 Ra4 39. Bd2 g4 40. Re4
+h5 41. Kg2 Kf7 42. h3 Rg8 43. hxg4 hxg4 44. Be1 Ra2+ 45. Rd2 Rxd2+ 46. Bxd2 Kf6
+47. Ba5 Kf5 48. Re1 c4 49. Rf1+ Ke6 50. b6 axb6 51. Bxb6 d3 52. Rd1 Kd5 53. a7
+Be5 54. Kf2 Re8 55. Rh1 Rf8+ 56. Kg2 d2 57. Ba5 Ra8 58. Bxd2 Rxa7 59. Bf4 Ra2+
+60. Kf1 Bxf4 61. gxf4 c3 0-1
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "8"]
+[White "Cholleti, Sahajasri"]
+[Black "Sai, Krishna GV"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "1918"]
+[BlackElo "2139"]
+[PlyCount "85"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 d6 6. Nc3 Nbd7 7. a4 a5 8. e4 Qxb6
+9. Nf3 g6 10. Bb5 Ba6 11. Qe2 Bg7 12. O-O O-O 13. Nd2 Bc8 14. Nc4 Qb8 15. f4
+Nb6 16. Bc6 Ba6 17. Bb5 Nxa4 18. Bxa6 Nxc3 19. bxc3 Rxa6 20. Rxa5 Qa7 21. Rxa6
+Qxa6 22. Bb2 Rb8 23. Ra1 Rxb2 24. Qxb2 Qxc4 25. Ra8+ Bf8 26. Qb8 Nd7 27. Qc8
+Qxc3 28. Kf2 Qd2+ 29. Kf3 Qd3+ 30. Kf2 Qxe4 31. Qxd7 Qxf4+ 32. Ke2 Qxh2 33. Qe8
+Qxg2+ 34. Ke3 Qh3+ 35. Ke2 Qh5+ 36. Ke3 Qe5+ 37. Kf2 Qg7 38. Qxe7 Qb2+ 39. Ke3
+Qa3+ 40. Rxa3 Bxe7 41. Ra6 h5 42. Kf4 f5 43. Ra2 0-1
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "8"]
+[White "Gajendra, Singh"]
+[Black "West, Guy"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "2159"]
+[BlackElo "2342"]
+[PlyCount "129"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. e4 Nc6 5. g3 d5 6. e5 Ng4 7. cxd5 Ncxe5 8.
+Nxe5 Nxe5 9. f4 Ng6 10. Bb5+ Bd7 11. Qe2 Bxb5 12. Qxb5+ Qd7 13. dxe6 fxe6 14.
+Qxd7+ Kxd7 15. b3 Be7 16. Bb2 Bf6 17. O-O-O Rhc8 18. d3 Ne7 19. Ne4 Bd4 20. Kb1
+Nf5 21. Rhe1 h5 22. Re2 a5 23. Nc3 Rc6 24. Nb5 Ke7 25. Bxd4 cxd4 26. Re4 Rd8
+27. Rde1 Rd5 28. a4 Kf7 29. Re5 Rd8 30. Rd1 g6 31. Rc1 Rxc1+ 32. Kxc1 Rc8+ 33.
+Kd2 Kf6 34. Re4 Rd8 35. Nc7 Ng7 36. h3 Rh8 37. Nb5 Nf5 38. Nxd4 Nxg3 39. Rxe6+
+Kf7 40. Rb6 Re8 41. Rxb7+ Kf6 42. Rb6+ Kf7 43. Nf3 Nf1+ 44. Kc3 Re3 45. Ng5+
+Kg7 46. Rb7+ Kg8 47. Rb6 Kg7 48. Ra6 Ng3 49. Rxa5 Re7 50. Kc4 Kf6 51. Ra6+ Kf5
+52. a5 Ne2 53. Ne4 Nxf4 54. Rf6+ Ke5 55. a6 Rc7+ 56. Kb5 Nxd3 57. Rc6 Rxc6 58.
+Kxc6 Nb4+ 59. Kb6 Nxa6 60. Kxa6 Kxe4 61. h4 g5 62. hxg5 Kf5 63. b4 h4 64. g6
+Kxg6 65. b5 1/2-1/2
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "8"]
+[White "Hetul, Shah"]
+[Black "Dhar Barua, Saheli"]
+[Result "0-1"]
+[ECO "A88"]
+[WhiteElo "1815"]
+[BlackElo "2180"]
+[PlyCount "84"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 f5 2. Nc3 Nf6 3. g3 g6 4. Bg2 Bg7 5. d4 c6 6. Nf3 d6 7. O-O O-O 8. Re1
+Ne4 9. Qc2 Nxc3 10. bxc3 e5 11. Ba3 e4 12. Nd2 Re8 13. e3 Be6 14. Rab1 Qc7 15.
+Qb2 b6 16. f4 exf3 17. Bxf3 d5 18. cxd5 Bxd5 19. Bxd5+ cxd5 20. Qb3 Qf7 21. Nf3
+Nc6 22. Bd6 Na5 23. Qc2 Nc4 24. Bf4 h6 25. h4 Na3 26. Qb3 Nxb1 27. Rxb1 Rac8
+28. Be5 Bxe5 29. Nxe5 Rxe5 30. dxe5 Qe6 31. Rd1 Rc5 32. Rd4 Qxe5 33. Kf2 Kg7
+34. a3 Kf6 35. c4 Qc7 36. cxd5 Rc2+ 37. Kf3 g5 38. d6 g4+ 39. Rxg4 fxg4+ 40.
+Kxg4 Qd7+ 41. Kh5 Qf5+ 42. Kxh6 Qg6# 0-1
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "8"]
+[White "Joshi, Pankaj"]
+[Black "Rathnakaran, K."]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[WhiteElo "2281"]
+[BlackElo "2453"]
+[PlyCount "113"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f3 Bg7 8. Bg5 h6
+9. Be3 O-O 10. Qd2 Kh7 11. Nge2 a6 12. a4 Nbd7 13. Nc1 Rb8 14. Be2 Qc7 15. O-O
+c4 16. Rb1 b5 17. axb5 axb5 18. b4 Ne8 19. Bd1 f5 20. exf5 Rxf5 21. N1e2 Ndf6
+22. Bc2 Qf7 23. Bxf5 Bxf5 24. Ra1 Rb7 25. Ra5 Nc7 26. Nd4 Nfxd5 27. Ncxb5 Nxb5
+28. Nxb5 c3 29. Nxc3 Nxc3 30. Qxd6 Qc4 31. Re1 h5 32. Kh1 Rd7 33. Qc5 Qb3 34.
+Ra7 Na4 35. Qc1 Rxa7 36. Bxa7 Qxb4 37. Bf2 Nb2 38. Bc5 Qh4 39. Be7 Qd4 40. Qe3
+Qd7 41. Bh4 Nd3 42. Rf1 Bd4 43. Qe7+ Qxe7 44. Bxe7 Kh6 45. h4 Kg7 46. Kh2 Kf7
+47. Bg5 Ke6 48. Rd1 Be5+ 49. Kg1 Bg3 50. Kf1 Kd5 51. Ke2 Kc4 52. Ra1 Kb3 53.
+Rd1 Nb2 54. Rc1 Nd3 55. Rd1 Kc4 56. Ra1 Kb3 57. Rd1 1/2-1/2
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "8"]
+[White "Koshy, Varugeese"]
+[Black "Mohana, Priya J"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "2283"]
+[BlackElo "2048"]
+[PlyCount "58"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. a3 Be7 8.
+O-O Be6 9. d3 f6 10. b4 O-O 11. Bb2 a5 12. b5 Nd4 13. Nxd4 exd4 14. Na4 Rb8 15.
+Rc1 Re8 16. Nxb6 cxb6 17. e4 Bc5 18. Bf3 Qd7 19. Qa4 Qf7 20. Bd1 Rbd8 21. Rb1
+Ba2 22. Ra1 Be6 23. Bc1 Kh8 24. Rb1 Bh3 25. f4 Rxe4 26. dxe4 d3+ 27. Rf2 Bxf2+
+28. Kxf2 Qa2+ 29. Rb2 d2 0-1
+
+[Event "Commonwealth-ch"]
+[Site "Nagpur"]
+[Date "2008.10.03"]
+[Round "8"]
+[White "Lolla, Sembhu"]
+[Black "Meghna, CH."]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1943"]
+[BlackElo "1729"]
+[PlyCount "145"]
+[EventDate "2008.09.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e3 e5 2. g3 d5 3. Bg2 Nf6 4. Ne2 Nc6 5. d4 e4 6. O-O Bd6 7. c4 Be6 8. Nbc3
+Bb4 9. cxd5 Bxd5 10. Nxd5 Qxd5 11. a3 Be7 12. Nc3 Qd7 13. Nxe4 Nxe4 14. Bxe4
+O-O 15. b4 a6 16. Bb2 Bf6 17. Qf3 Rfe8 18. Rac1 Rad8 19. Bxc6 bxc6 20. Qxc6
+Qxc6 21. Rxc6 Rc8 22. Rfc1 Re7 23. R1c2 Kf8 24. d5 Bxb2 25. Rxb2 Ra8 26. Rbc2
+Ra7 27. d6 cxd6 28. Rxd6 g6 29. Rcc6 a5 30. b5 Rab7 31. b6 Kg7 32. Rd5 Re6 33.
+Rxe6 fxe6 34. Rxa5 Rxb6 35. a4 Rb1+ 36. Kg2 Kf6 37. h4 Ra1 38. g4 h6 39. e4 Re1
+40. e5+ Kf7 41. f4 Re2+ 42. Kf3 Rh2 43. Ra7+ Kf8 44. Kg3 Ra2 45. f5 gxf5 46.
+gxf5 exf5 47. e6 Re2 48. Kf4 Rxe6 49. Kxf5 Re1 50. h5 Kg8 51. a5 Ra1 52. a6
+Ra5+ 53. Kg6 Rg5+ 54. Kxh6 Ra5 55. Kg6 Kf8 56. h6 Ra1 57. h7 Rg1+ 58. Kf5 Rf1+
+59. Ke4 Re1+ 60. Kd3 Rd1+ 61. Ke2 Rh1 62. h8=Q+ Rxh8 63. Ra8+ Kg7 64. Rxh8 Kxh8
+65. a7 Kg7 66. a8=Q Kf7 67. Qc6 Ke7 68. Ke3 Kf7 69. Ke4 Ke7 70. Kf5 Kf7 71.
+Qd7+ Kg8 72. Kf6 Kh8 73. Qg7# 1-0
+
+[Event "Commonwealth-ch"]

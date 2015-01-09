@@ -1,0 +1,600 @@
+[Black "Kalvaitis, Sigitas"]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[WhiteElo "2152"]
+[BlackElo "2261"]
+[PlyCount "20"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Bd3 dxc4 8.
+Bxc4 a6 9. O-O b5 10. Bb3 Bb7 1/2-1/2
+
+[Event "LTU-ch sf"]
+[Site "Vilnius"]
+[Date "2008.02.21"]
+[Round "9"]
+[White "Limontas, Martynas"]
+[Black "Beinoras, Mindaugas"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2289"]
+[BlackElo "2280"]
+[PlyCount "62"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 c5 7. e4 Nxe4 8. Qf3
+e6 9. Nxf7 Kxf7 10. Nxe4 Nc6 11. Ng5+ Ke8 12. Bxc4 Nxd4 13. Qxb7 Nc2+ 14. Ke2
+Nd4+ 15. Kf1 Be7 16. Bf4 Qc8 17. Qxc8+ Rxc8 18. Re1 Bxg5 19. Bxg5 Rb8 20. b3
+Nxb3 21. Bxe6 Bxe6 22. Rxe6+ Kf7 23. Re7+ Kg6 24. Be3 Nd4 25. g4 Rhe8 26. Rxa7
+Re4 27. h3 Rb2 28. a5 Nf3 29. Rc7 Nh4 30. Kg1 Nf3+ 31. Kf1 Nh4 1/2-1/2
+
+[Event "LTU-ch sf"]
+[Site "Vilnius"]
+[Date "2008.02.21"]
+[Round "9"]
+[White "Vaznonis, Vytautas"]
+[Black "Slapikas, Vytautas"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2399"]
+[BlackElo "2329"]
+[PlyCount "77"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Qc2 O-O 8. Bd3
+h6 9. Bh4 Ng4 10. Bxe7 Qxe7 11. Nf3 Be6 12. O-O c5 13. dxc5 Qxc5 14. Rfd1 Rc8
+15. h3 Nf6 16. Rac1 Nbd7 17. Qe2 Qb6 18. Bb1 Nc5 19. Nb5 a6 20. Nbd4 Na4 21.
+Nb3 Rc4 22. Bd3 Rcc8 23. Nfd4 Ne4 24. Bb1 Rab8 25. Nxe6 Qxe6 26. Nd4 Qf6 27.
+Rxc8+ Rxc8 28. Bxe4 dxe4 29. Qg4 Rd8 30. Qxe4 Nxb2 31. Rb1 Nc4 32. Qxb7 a5 33.
+Qc7 Nd2 34. Rb6 Qg5 35. Qc2 Rxd4 36. exd4 g6 37. Rb8+ Kg7 38. Qc8 Nf3+ 39. Kh1
+1-0
+
+[Event "LTU-ch sf"]
+[Site "Vilnius"]
+[Date "2008.02.21"]
+[Round "9"]
+[White "Zickus, Simonas"]
+[Black "Sakalauskas, Vaidas"]
+[Result "1/2-1/2"]
+[ECO "D77"]
+[WhiteElo "2253"]
+[BlackElo "2397"]
+[PlyCount "20"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O d5 5. d4 O-O 6. c4 dxc4 7. Ne5 Ne8 8. Na3
+Nd6 9. e3 Be6 10. Qe2 c6 1/2-1/2
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "D43"]
+[WhiteElo "2733"]
+[BlackElo "2799"]
+[Annotator "Anand"]
+[PlyCount "118"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Ne5 h5 10. f3 {A relatively rare move. Ein relative seltener Zug.} h4 11.
+Bf2 Bb7 12. Be2 Nbd7 13. Nxd7 Nxd7 14. O-O (14. e5 c5 15. Nxb5 Qa5+ {Possible
+since White hasn't castled. Möglich, da Weiß nicht rochiert hat.} 16. Nc3 h3 {
+looks rather unpleasant for White. sieht ziemlich unangenehm für Weiß aus.})
+14... e5 $1 {Now White was threatening e5 and Ne4. Black has equalized, so
+White should look for an improvement earlier. Nun drohte Weiß e5 und Ne4.
+Schwarz hat ausgeglichen, daher sollte der Anziehende vorher nach einer
+Verbesserung suchen.} 15. a4 a6 16. d5 Rh6 {Inspired by Paco Vallejo's rook
+against Topalov from Morelia 2006. Black is not really looking at castling
+kingside, and the rook is incredibly useful on the 6th rank. Inspiriert durch
+Paco Vallejos Turm gegen Topalov aus dem Turnier Morelia 2006. Die kurze
+Rochade hat Schwarz nicht wirklich auf dem Plan, und der Turm ist unglaublich
+nützlich auf der 6. Reihe.} 17. dxc6 Bxc6 18. axb5 axb5 19. Rxa8 Qxa8 {The
+problem for White is that Black has so much space especially in the kingside
+where White needs f4 to get things going. Das Problem für Weiß ist, dass
+Schwarz so viel Raum hat, vor allem am Königsflügel, wo Weiß f4 braucht, um
+die Dinge in Gang zu bekommen.} 20. Qc1 Rg6 21. Rd1 Bc5 22. Bxc5 Nxc5 23. Qe3
+Nb3 $6 (23... Ne6 $1 {The other route to get to d4, but allows White the
+possibility of b3 which I hoped to avoid The other route to get to d4, but
+allows White the possibility of b3 which I hoped to avoid} 24. b3 (24. Nd5 Kf8
+25. b3 cxb3 26. Qxb3 Nd4) 24... b4 $1 (24... cxb3 25. Nxb5 Qa2 {Not a very
+human move to make. Kein besonders menschlicher Zug.} 26. Nd6+ Kf8 27. Nf5 (27.
+Bc4 Nf4) 27... h3 28. gxh3 b2 29. Qb6 Be8 30. Qb4+ Kg8 31. Ne7+ Kh7 32. Nxg6
+Kxg6) 25. Nd5 cxb3 26. Qxb3 Qb7 {and it seems White can't take the b4 pawn:
+und es scheint, als könnte Weiß den Bauern b4 nicht nehmen:} 27. Nxb4 (27. Bc4
+Nd4 28. Qe3 Qa7 29. Kh1 Qa3 30. Qd2 h3 $1) 27... Nd4 $17) 24. Qb6 (24. f4 $1 {
+Shipov suggested this move and it does seem to hold. Shipov suggested this
+move and it does seem to hold.} gxf4 (24... exf4 25. Qb6 h3 26. Bh5 Rh6 27.
+Bxf7+ Kxf7 28. Qc7+ Ke8 29. Qe5+ Kf8 30. Qf5+ Kg7 31. Qxg5+ Rg6 32. Qe7+ $11)
+25. Qh3 Qa7+ (25... Kf8 26. Qxh4 Kg7 $4 27. Rd8 $1) (25... b4 26. Bh5 (26. Nd5
+Bxd5 27. exd5 Nd4) 26... Nd4 27. Bxg6 fxg6 28. Rxd4 exd4 29. Qe6+ {seems to be
+a draw. scheint remis zu sein.}) 26. Kh1 Nd4 27. Qxh4 Qc7 (27... Qe7 28. Qh8+
+Kd7 29. Bh5 $1 (29. Ra1 Qg5 $1 30. Ra7+ Ke6 31. Qc8+ Kf6 32. Qh8+ Rg7 33. Qd8+
+Kg6) 29... Qf6 30. Qb8 Rg5 31. Ra1 Rxh5 32. Ra7+ Ke6 33. Qc8+ Kd6 34. Qf8+ Ke6
+$11) 28. Bh5 (28. Qh8+ Ke7 29. Qh4+ Rf6 (29... Kf8 30. Qh8+ Rg8 31. Qh6+ {with
+enough compensation. mit genug Kompensation.}) 30. Bg4) 28... Rg7 29. Bg4 {
+followed by Ra1 seems to give White enough play. nebst Ra1 scheint Weiß genug
+Spiel zu geben.}) (24. Nd5 Kf8) 24... Nd4 {Now White has little choice but to
+enter the endgame. Nun bleibt Weiß kaum etwas anderes, als ins Endspiel
+überzugehen.} 25. Rxd4 exd4 26. Nxb5 (26. Qxd4 Qd8 27. Qh8+ (27. Nxb5 Bxb5 28.
+Qe5+ Kf8 29. Qxb5 Qb6+ {transposes to the game. führt zur Partie.}) 27... Kd7)
+26... Bxb5 27. Qxb5+ Qc6 28. Qe5+ Re6 (28... Qe6 29. Qb8+ Ke7 30. Qa7+ Kf8) 29.
+Qxd4 (29. Qb8+ Ke7 30. Qa7+ Kf8 31. Qxd4 Qb6 {comes to the same thing. läuft
+auf dasselbe hinaus.}) 29... Qb6 30. Qxb6 Rxb6 31. Bxc4 Rxb2 {Black needs to
+keep the king on the first rank. Schwarz muss den König auf der ersten Reihe
+halten.} 32. g3 (32. Kf1 Ke7 33. Be2 Kd6 34. Kf2 Kc5 35. Ke3 Rb1 36. g3 (36.
+Bd3 Rh1 37. Kf2 f6 38. Bf1 Kd4 $19) 36... Rh1 $17) 32... f6 (32... Ke7 33. gxh4
+(33. e5 Rc2 34. Bb3 (34. Bd3 Rc3 35. Be2 Ke6) 34... Re2 $1) 33... gxh4 34. f4
+f6 35. e5 Rd2 $1 {This excellent move takes away d5 and d3 from the white
+bishop. Dieser hervorragende Zug nimmt dem dem weißen Läufer d5 und d3.} (35...
+Rb4 36. exf6+ Kxf6 37. Ba6 Kf5 38. Kg2 $1 Kxf4 39. Bc8 $11) (35... f5 36. Bd3
+$1 Ke6 37. Bc4+ $11) 36. Bg8 (36. Kh1 f5 37. Ba6 Rd4 38. Kg2 Rxf4 39. Bc8 Kf7
+$19) 36... h3 $1) 33. Be6 Ke7 34. Bg4 (34. Bf5 Kd6 35. gxh4 gxh4 36. f4 Re2 $1
+{again the key. wieder der Schlüssel.}) (34. Bh3 Kd6 35. gxh4 gxh4 36. f4 Re2
+37. Bg2 Kc5 38. Kf1 Rb2 39. e5 f5 40. Bh3 Rb4 41. Ke2 Rxf4 42. Ke3 Re4+ 43. Kf3
+Rxe5 44. Kf4 Re2 45. Kxf5 Kd5 46. Kg4 Ke4 47. Kxh4 Kf4 $1) 34... Re2 $3 (34...
+Kd6 35. gxh4 gxh4 36. f4 Rd2 37. Bh3 Kc5 38. e5 Rd4 39. exf6 Rxf4 40. Kg2 {
+Once the king escapes from the first rank, its a draw. Wenn der König einmal
+von der ersten Reihe wegkommt, ist es remis.} Rxf6 41. Bc8 $11) 35. gxh4 gxh4
+36. h3 {Now a fortress is no longer possible, so Black wins. Nun ist eine
+Festung nicht länger möglich, also gewinnt Schwarz.} Kd6 37. Kf1 Rb2 38. f4 Kc5
+39. e5 Rb4 40. exf6 Rxf4+ 41. Ke2 Kd4 42. Bf3 Rxf6 43. Bb7 Rb6 44. Bc8 (44. Bg2
+Rb3) 44... Ke4 45. Bg4 Rb2+ 46. Ke1 Ke3 47. Kf1 Kf4 48. Ke1 Kg3 49. Kf1 Rf2+
+50. Ke1 (50. Kg1 Rf7 $1 {wins gewinnt.}) 50... Rf4 51. Bc8 Rf8 52. Bg4 Kg2 53.
+Ke2 Re8+ 54. Kd3 Kf2 55. Bf5 Re3+ 56. Kd4 Kf3 57. Bg4+ Kf4 58. Kd5 Re5+ 59. Kd4
+Rg5 (59... Rg5 60. Be6 Rg6 61. Bc8 Rd6+ 62. Kc5 Rd2 {Now the king is far
+enough. Nun steht der König weit genug weg.} 63. Bg4 Kg3 64. Bf5 Rh2 65. Kd4
+Rxh3 {wins. gewinnt.}) 0-1
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.02.22"]
+[Round "6"]
+[White "Ivanchuk, Vassily"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2751"]
+[BlackElo "2755"]
+[PlyCount "53"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Qd2
+g5 9. Bd3 Bg7 10. O-O O-O 11. Qc2 dxc4 12. Bxc4 c5 13. Rfd1 g4 14. Ne1 cxd4 15.
+exd4 Nb6 16. Be2 h5 17. Ne4 Qg6 18. Nc3 Qxc2 19. Nxc2 Bd7 20. Rd2 Bh6 21. Ne3
+f5 22. g3 f4 23. gxf4 Bxf4 24. Re1 Bc6 25. Bb5 Bf3 26. Be2 Bc6 27. Bb5 1/2-1/2
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.01"]
+[Round "10"]
+[White "Radjabov, Teimour"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2735"]
+[BlackElo "2739"]
+[Annotator "Krasenkow"]
+[PlyCount "62"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Ne5 h5 10. h4 g4 11. Be2 Bb7 12. O-O Nbd7 13. Qc2 Nxe5 14. Bxe5 Bg7 15. Rad1
+O-O {This sharp line was examined in several CBM issues, most recently in CBM
+120 (Aronian - Anand annotated by GM M.Marin)} 16. Qc1 {A relatively new plan.
+Other options:[%cal Rc1g5,Yc1f4]} (16. Bg3) (16. f3) (16. b3) 16... Nh7 (16...
+Nd7 $5 {needs checking, e.g.} 17. Bxg7 (17. Bd6 Qxh4 $1) 17... Kxg7 18. e5 (18.
+g3 Qf6 $5) 18... f5 $1 (18... Qxh4 $143 19. Ne4 $44)) 17. g3 $146 (17. Bxg7 {
+was played (without success) in the stem correspondence game:} Kxg7 18. g3 (18.
+e5 f5 $5) 18... Qb6 19. b3 Rad8 20. Qf4 (20. bxc4 $142 Rxd4 21. cxb5 $11) 20...
+cxb3 21. axb3 f6 22. e5 c5 23. Nxb5 Qc6 $13 {0-1 Martys,M-Starke,R/IECG 2004/
+Telechess CBM 115(41)}) 17... f6 18. Bf4 $44 {The black g7-bishop is now shut
+in.} a6 19. Rfe1 {It is not clear whether the rook is better here than on f1 
+(f2-f3 may be a good plan in some situations).} (19. b3 $5) 19... Rf7 20. Qc2
+Rd7 21. b3 cxb3 22. Qxb3 Nf8 23. Be3 Qe7 24. a4 (24. f3 $5 {Still! Despite the
+fact that the rook is on e1.}) 24... Qf7 (24... b4 25. Nb1 $44 {[%cal Yb1d2,
+Yd2c4]}) 25. d5 $6 {This break in the centre is not dangerous.} (25. f3 $142 $5
+) 25... exd5 26. exd5 f5 $1 {At last the black bishop says its word!} 27. Bf1
+$6 {Too passive.} (27. Bd3 $142 $5 cxd5 (27... Ng6 $2 28. Bxf5) (27... Rc8 28.
+Ne2 (28. Bxf5 $2 cxd5 $1 29. Bxd7 Rxc3) 28... c5 29. axb5 Bxd5 30. Qb1 Ba2 31.
+Qc1 axb5 32. Bxb5 Rxd1 33. Rxd1 {and Black can hardly make use of his extra
+pawn due to his kingside weaknesses.}) 28. axb5 (28. Ne2 Ng6 $1 $36 (28... bxa4
+29. Qxa4 $44)) 28... Bxc3 $1 29. Qxc3 d4 $1 30. Bxd4 Rc8 31. Qd2 (31. Bc5 $143
+Rd5 32. Bc4 Rcxc5 33. bxa6 Rxc4 (33... Bxa6 $143 34. Rxd5 $1 Rxc4 35. Qd2) 34.
+Qxc4 Rxd1 35. Qxf7+ Kxf7 36. Rxd1 Bxa6 {with winning chances for Black}) 31...
+Rxd4 32. Qg5+ Qg6 (32... Kh8 33. Bxf5 $44) 33. Qxg6+ Nxg6 34. Bxf5 Rxd1 35.
+Rxd1 Rc5 $1 36. Bxg6 axb5 37. f4 $1 gxf3 38. Bxh5 $1 {and White should reach a
+draw.}) 27... Ng6 28. Bg2 Ne7 $2 {Missing a good chance:} (28... f4 $1 $17) 29.
+axb5 axb5 30. Bd4 Bxd4 31. Rxd4 Rc8 {Without the dark-squared bishops White
+has full compensation for the missing pawn as the dark squares in Black's camp
+are too weak.} 1/2-1/2
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.03"]
+[Round "11"]
+[White "Aronian, Levon"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[WhiteElo "2739"]
+[BlackElo "2751"]
+[Annotator "Krasenkow"]
+[PlyCount "43"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. Qc2 dxc4 8.
+Ne4 $5 $146 {Another unbelievable novelty at such an early stage of the game.
+It looks quite harmless; however, it brings some fresh air to the position.} (
+8. O-O-O a6 9. e4 b5 10. e5 Bg5+ 11. Kb1 Bb7 12. h4 Be7 $15 {0-1 Bradbury,
+N-Wells,P/London 1985/MCL/[Tsesarsky] (39)}) (8. e3 c5 9. dxc5 (9. Bxc4 cxd4
+10. exd4 Nc6 11. O-O-O O-O 12. Qe4 Qa5 13. Rhe1 Bd7 14. Kb1 Rac8 15. Bb3 Rfd8
+16. Qe3 Be8 $15 {0-1 Li Shilong-Negi,P/Wijk aan Zee 2008/CBM 122 (48)[%csl Rb1]
+}) 9... Qa5 10. Bxc4 Qxc5 11. Ne4 Qb4+ (11... Qa5+ 12. Ke2 Be7 13. Qc3 $146 (
+13. g4 Nd7 (13... Bd7 $142 $1) 14. a3 Nf6 (14... O-O $142 $1) 15. Ned2 (15. b4
+$142 $1) 15... Bd7 16. Rhg1 Rc8 17. Qb3 Qb6 18. Qxb6 axb6 19. Ne5 Ba4 $11 {0-1
+Bacrot,E-Kortschnoj,V/Albert 1997/CBM 061/[Kortschnoj] (54)}) 13... Qxc3 14.
+Nxc3 a6 15. Rhd1 Nd7 16. Ne4 b5 17. Bb3 Bb7 18. Nd6+ Bxd6 19. Rxd6 Ke7 $11 {
+0-1 Vallejo Pons,F-Topalov,V/Linares 2005/CBM 106/[Postny] (38)}) 12. Nfd2 (12.
+Ke2 $6 Qxb2 $1) 12... Nd7 $6 (12... Qxb2 $1 13. Nd6+ Ke7 14. Qxb2 Bxb2 15.
+Nxc8+ Rxc8 16. Rb1 Bc3 17. Rxb7+ Nd7 18. Ke2 Bxd2 19. Bb5 $11) 13. Bb3 Be7 14.
+O-O O-O 15. Qc7 $6 (15. Rfd1) (15. Rac1) 15... Bd8 $5 (15... a5 $5 $11) 16. Qf4
+Qe7 17. Rac1 $14 {1-0 Najer,E-Kruppa,Y/Elista 2000/CBM 079/[Tsesarsky] (53)})
+8... b5 $5 9. a4 Bb7 $5 {Black wants to develop his pieces and not to keep his
+extra pawn by} (9... c6) {In fact, he sacrifices a pawn himself!} 10. axb5 a6
+$5 11. Nxf6+ Qxf6 12. Qxc4 O-O 13. Qxc7 {Development is a problem for White so
+he decides to take some material.} axb5 14. Rxa8 Bxa8 15. e3 (15. Ne5 $5 {
+needs testing although such a move requires nerves of steel!} Qf5 16. Nd3 Be4
+17. Nb4 {etc.}) 15... Bxf3 16. gxf3 Qxf3 17. Rg1 {White has given the pawn
+back but his rook is now active.[%cal Rc7e5]} Qf5 $1 (17... Qe4 $143 18. Kd2
+Qb1 19. Qc2) 18. Qc3 $6 (18. f4 $5 Qb1+ 19. Kf2 Qxb2+ 20. Be2 Na6 21. Qe5 g6
+$132 {[%cal Ya6b4]} 22. Qxb5 $11) 18... Qb1+ $6 {Missing} (18... b4 $1 19. Qd3
+(19. Qxb4 Qb1+ 20. Ke2 Nc6 $36) 19... Qa5 {and Black seizes the initiative.})
+19. Kd2 Nd7 20. Qc2 Qa2 21. Bd3 e5 22. b3 1/2-1/2
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.03"]
+[Round "11"]
+[White "Topalov, Veselin"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "D89"]
+[WhiteElo "2780"]
+[BlackElo "2755"]
+[Annotator "Krasenkow"]
+[PlyCount "67"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. O-O Nc6 10. Be3 Bg4 11. f3 Na5 12. Bd3 cxd4 13. cxd4 Be6 14. d5 Bxa1
+15. Qxa1 f6 16. Qd4 Bf7 17. Bh6 Re8 18. Bb5 e5 19. Qf2 Re7 20. Bd3 $5 $146 {
+Another new idea of Topalov's team. Recent theoretical discussions were
+concentrated on[%cal Yf3f4]} (20. f4 exf4 21. Qxf4 Qb6+ 22. Kh1 Bxd5 23. exd5
+Qxb5 24. Qxf6 Qe8 25. Qd4 {see - Topalov - Shirov in CBM 117, which Topalov
+brilliantly won, and Aronian - Shirov (CBM 119), where Alexey demonstrated a
+way to equality.}) 20... Rc8 (20... Rc7 $5 21. f4 Qe7 {is another way of
+consolidation, which may be tested in future.}) 21. f4 Nc4 22. fxe5 Nxe5 $6 (
+22... Rxe5 $1 {looks stronger, e.g.} 23. Qxa7 (23. Bf4 Re7 24. Qxa7 Ne5) 23...
+Nd6 24. Bf4 Rxe4 $1 25. Bxd6 Rxe2 26. Bxe2 Qxd6 27. Qxb7 (27. Bf3 b6 $15) 27...
+Qc5+ 28. Kh1 Bxd5 $15 {It would be interesting to know what Topalov had
+prepared in that case.}) 23. Qxf6 Bxd5 (23... Qb6+ 24. Qxb6 axb6 {, although
+not very pleasant, was apparently better than the text, e.g.} 25. Bg5 Rec7 26.
+Bb1 Be8 $1 27. Bf4 Bb5 $1 28. Bxe5 Rc5 {regaining the piece with good drawing
+chances.}) 24. exd5 Ng4 25. Qf4 Nxh6 26. Qxh6 Qb6+ $2 {A strange blunder.} (
+26... Qxd5 {was necessary but with the queens on the board Black's life is far
+from easy.}) 27. Kh1 Qe3 28. Qh4 {It looks like Black overlooked this simple
+move but the mysterious thing is that even after} (28. Qxe3 Rxe3 29. Rd1 {I
+don't see equality for him.}) 28... Re5 $2 {Collapsing immediately.} (28... Rf8
+$142 $1 29. Rxf8+ (29. Rg1 $5) 29... Kxf8 30. Qc4 {and White should gradually
+win} ({but not} 30. Qf6+ $4 Rf7 31. Qh8+ Ke7)) 29. Qf6 Ree8 30. Bxg6 hxg6 31.
+Qxg6+ Kh8 32. Qf6+ Kh7 33. Qf7+ Kh8 34. Nf4 (34. Nf4 Rg8 35. Qh5+ Kg7 36. Qg6+
+$18) 1-0
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.16"]
+[Round "1"]
+[White "Arsovic, Goran"]
+[Black "Cabrilo, Goran"]
+[Result "1/2-1/2"]
+[ECO "D67"]
+[WhiteElo "2504"]
+[BlackElo "2508"]
+[PlyCount "20"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 O-O 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 1/2-1/2
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.17"]
+[Round "2"]
+[White "Arsovic, Zoran"]
+[Black "Nadj Hedjesi, Balind"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2467"]
+[BlackElo "2376"]
+[PlyCount "48"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 e6 5. b3 Be7 6. Bd3 O-O 7. O-O b6 8. Nc3 Bb7
+9. Bb2 dxc4 10. bxc4 c5 11. Qe2 Nc6 12. Rad1 Qc7 13. d5 Nb4 14. d6 Bxd6 15. Nb5
+Bxf3 16. Qxf3 Bxh2+ 17. Kh1 Qb8 18. Bxf6 gxf6 19. g3 Bxg3 20. Rg1 f5 21. Rxg3+
+Kh8 22. Bxf5 exf5 23. Qxf5 Qb7+ 24. e4 Qe7 1-0
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.17"]
+[Round "2"]
+[White "Vasovski, Nikola"]
+[Black "Pavlovic, Milos M"]
+[Result "0-1"]
+[ECO "D01"]
+[WhiteElo "2368"]
+[BlackElo "2457"]
+[PlyCount "76"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 g6 4. e3 Bg7 5. Bd3 O-O 6. Nf3 Nbd7 7. O-O c5 8. Re1
+b6 9. e4 dxe4 10. Nxe4 cxd4 11. Nxd4 Bb7 12. c3 Qc7 13. Qe2 Nd5 14. Ba6 Bxa6
+15. Qxa6 e6 16. Rad1 Nc5 17. Qe2 h6 18. Bc1 Rad8 19. Nb5 Qb8 20. Nxc5 bxc5 21.
+Qc4 Rd7 22. Na3 Qc7 23. Qh4 g5 24. Qg4 Rfd8 25. h3 Nb6 26. Qe2 Qc6 27. Rxd7
+Qxd7 28. Be3 Qd5 29. Nb5 Nc4 30. Bc1 Ne5 31. Be3 Qxa2 32. Bxc5 Nd3 33. Rd1 Qd5
+34. c4 Qxc4 35. Be7 Rd5 36. Nd6 Qd4 37. Kf1 Qa4 38. Rd2 Nf4 0-1
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.18"]
+[Round "3"]
+[White "Arsovic, Goran"]
+[Black "Vasovski, Nikola"]
+[Result "1-0"]
+[ECO "D76"]
+[WhiteElo "2504"]
+[BlackElo "2368"]
+[PlyCount "56"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nc6 8.
+Nc3 Nb6 9. d5 Na5 10. e4 c6 11. Bg5 h6 12. Bf4 cxd5 13. Nxd5 Nxd5 14. exd5 Bg4
+15. Qa4 Bxf3 16. Bxf3 Rc8 17. Rac1 g5 18. Be3 b6 19. h4 Bxb2 20. Rxc8 Qxc8 21.
+hxg5 hxg5 22. Bxg5 f6 23. Bf4 Kg7 24. Re1 Qc5 25. Qd7 Rf7 26. Bh5 Bd4 27. Qg4+
+Kf8 28. Bh6+ Ke8 1-0
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.21"]
+[Round "6"]
+[White "Arsovic, Zoran"]
+[Black "Mijovic, Aleksandra"]
+[Result "1-0"]
+[ECO "D66"]
+[WhiteElo "2467"]
+[BlackElo "2216"]
+[PlyCount "79"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Be7 5. Nc3 O-O 6. e3 Nbd7 7. Rc1 c6 8. Bd3
+Re8 9. O-O Nf8 10. Qc2 Ng6 11. Rfd1 dxc4 12. Bxc4 Nd5 13. Bxe7 Qxe7 14. Ne4 Nf6
+15. Bd3 Nd7 16. Neg5 Ndf8 17. Qb3 h6 18. Ne4 e5 19. Nxe5 Nxe5 20. dxe5 Qxe5 21.
+Nd6 Be6 22. Qxb7 Red8 23. Qxc6 Rab8 24. Nc4 Qh5 25. b3 Bd5 26. Qc7 Ne6 27. Qe5
+Ng5 28. Be2 Qxe2 29. Rxd5 Qxa2 30. h4 Ne6 31. Na5 Rxd5 32. Qxd5 Rd8 33. Qe5 Qd2
+34. Qc3 Qe2 35. Nc4 Qg4 36. g3 Qe4 37. Qe5 Qf3 38. Nd6 Rf8 39. Ra1 g5 40. Ne4
+1-0
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.21"]
+[Round "6"]
+[White "Milovic, Jovan"]
+[Black "Lajthajm, Borko"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "2268"]
+[BlackElo "2518"]
+[PlyCount "78"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 a6 7. b3 Bb4 8. Bd2 b6
+9. a3 Be7 10. e4 dxe4 11. Nxe4 Bb7 12. Qe2 c5 13. O-O cxd4 14. b4 O-O 15. Ng3
+Bxf3 16. gxf3 a5 17. Rfc1 Qc7 18. f4 Bd6 19. Qf3 Rfc8 20. c5 bxc5 21. bxa5 Nd5
+22. Ne2 Qd8 23. Bc4 N7f6 24. Rab1 Ne7 25. Rb7 Bc7 26. a6 Nf5 27. Ng3 Nd6 28.
+Bf1 Ba5 29. Bxa5 Qxa5 30. f5 c4 31. fxe6 fxe6 32. Bh3 Re8 33. Re7 Qxa6 34.
+Bxe6+ Kh8 35. Bd5 Rxe7 36. Bxa8 d3 37. Rb1 Re8 38. Bc6 Rc8 39. Be4 Ndxe4 0-1
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.22"]
+[Round "7"]
+[White "Kosic, Dragan"]
+[Black "Stojanovic, Marija R"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2511"]
+[BlackElo "2164"]
+[PlyCount "59"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Nbd7 5. Qc2 b6 6. cxd5 exd5 7. Nb5 Bb4+ 8.
+Bd2 Bxd2+ 9. Nxd2 c5 10. Nd6+ Kf8 11. Qa4 g6 12. e3 Kg7 13. Be2 Qe7 14. Nxc8
+Rhxc8 15. O-O Ne4 16. Nxe4 dxe4 17. Rfd1 Nf6 18. h3 Rc7 19. dxc5 Rxc5 20. b4
+Rc3 21. Rd4 Rac8 22. g3 Qe5 23. Kg2 a5 24. bxa5 bxa5 25. Rb1 Rb8 26. Rxb8 Qxb8
+27. Qxa5 Qb2 28. Qb4 Qc2 29. Bd1 Qc1 30. Bb3 1-0
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.22"]
+[Round "7"]
+[White "Mihic, Bojan"]
+[Black "Prelevic, Dusko"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[WhiteElo "2404"]
+[BlackElo "2354"]
+[PlyCount "21"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bxf6 Bxf6 8.
+cxd5 exd5 9. Bd3 c6 10. O-O Bg4 11. h3 1/2-1/2
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Milovic, Jovan"]
+[Black "Kosic, Dragan"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2268"]
+[BlackElo "2511"]
+[PlyCount "66"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 a6 7. b3 Bd6 8. O-O e5
+9. cxd5 cxd5 10. e4 exd4 11. Nxd5 Nxd5 12. exd5 O-O 13. Nxd4 Nf6 14. Bg5 Be5
+15. Bc4 h6 16. Be3 b5 17. Nc6 Bxh2+ 18. Kxh2 Qd6+ 19. g3 bxc4 20. bxc4 Re8 21.
+a4 Qd7 22. Rh1 g5 23. Bd2 Qf5 24. Kg1 Ng4 25. f3 Qd3 26. Bxg5 Qxd1+ 27. Rxd1
+hxg5 28. fxg4 Bxg4 29. Rd2 Kg7 30. Kg2 Re3 31. Rc1 Rh8 32. Rh1 Rhe8 33. Rb1 Rc3
+1/2-1/2
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.25"]
+[Round "9"]
+[White "Mihic, Bojan"]
+[Black "Stojanovic, Marija R"]
+[Result "1/2-1/2"]
+[ECO "D63"]
+[WhiteElo "2404"]
+[BlackElo "2164"]
+[PlyCount "91"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 Nbd7 6. e3 O-O 7. Rc1 a6 8. c5
+c6 9. Bd3 e5 10. dxe5 Ne8 11. h4 Nxc5 12. Bb1 Ne6 13. Qc2 g6 14. Bh6 N8g7 15.
+h5 Re8 16. hxg6 hxg6 17. Rd1 b5 18. Nd4 Qb6 19. Kf1 a5 20. Kg1 Bd7 21. Bxg7
+Kxg7 22. Nf5+ Kg8 23. Nh6+ Kg7 24. Nxf7 Nf8 25. Nd6 Bxd6 26. exd6 Bf5 27. Qd2
+Bxb1 28. Rxb1 Rad8 29. e4 Rxd6 30. Qh6+ Kf7 31. exd5 b4 32. Nd1 Re1+ 33. Kh2
+Rxh1+ 34. Kxh1 Rxd5 35. Kg1 Rh5 36. Qf4+ Rf5 37. Qc4+ Ne6 38. Ne3 Rf4 39. Qe2
+Nd4 40. Qd2 Qb5 41. Nc4 Qg5 42. Qd3 Nf3+ 43. Kf1 Nh2+ 44. Kg1 Nf3+ 45. Kf1 Nh2+
+46. Kg1 1/2-1/2
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.25"]
+[Round "9"]
+[White "Rmus, Ante"]
+[Black "Nadj Hedjesi, Balind"]
+[Result "0-1"]
+[ECO "D14"]
+[WhiteElo "2386"]
+[BlackElo "2376"]
+[PlyCount "112"]
+[EventDate "2008.02.16"]
+[EventType "team"]

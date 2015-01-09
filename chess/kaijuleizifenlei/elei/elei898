@@ -1,0 +1,600 @@
+[Date "2008.11.01"]
+[Round "7"]
+[White "Gonda, Laszlo"]
+[Black "Csiszar, Csaba"]
+[Result "1-0"]
+[ECO "E29"]
+[WhiteElo "2507"]
+[BlackElo "2437"]
+[PlyCount "75"]
+[EventDate "2008.10.27"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 d6 7. Bd3 Nc6 8. Ne2
+e5 9. e4 O-O 10. d5 Ne7 11. f3 Ne8 12. g4 Ng6 13. Ng3 Qh4 14. Be3 Nf4 15. Qd2
+h5 16. Bxf4 exf4 17. Qxf4 hxg4 18. Kd2 g5 19. Qe3 gxf3 20. Rag1 f6 21. h3 Ng7
+22. Qxf3 Rf7 23. Nf5 Nxf5 24. exf5 Rh7 25. Rg4 Qh6 26. Qg3 Bd7 27. Qxd6 b6 28.
+h4 Kh8 29. Be4 Qf8 30. Qg3 Re8 31. hxg5 Ree7 32. Rxh7+ Rxh7 33. Rh4 Qe7 34. d6
+Qg7 35. g6 Rxh4 36. Qxh4+ Kg8 37. Bd5+ Kf8 38. Qh7 1-0
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.10.27"]
+[Round "1"]
+[White "Ostroverkhova, Elena"]
+[Black "Ivanenko, Olga A"]
+[Result "0-1"]
+[ECO "E13"]
+[WhiteElo "2074"]
+[BlackElo "2154"]
+[PlyCount "72"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. Bg5 h6 6. Bh4 Bb4 7. e3 g5 8. Bg3
+Ne4 9. Qc2 d6 10. Nd2 Bxc3 11. bxc3 f5 12. f3 Nxd2 13. Qxd2 Nd7 14. Bd3 Qf6 15.
+Qc2 O-O-O 16. O-O-O Rhf8 17. h4 Rde8 18. hxg5 hxg5 19. Qa4 a5 20. Kb2 e5 21. c5
+dxc5 22. Rh7 Rd8 23. Rxd7 Rxd7 24. dxe5 Qe7 25. Qc2 Kb8 26. Bc4 Rxd1 27. Qxd1
+f4 28. exf4 gxf4 29. Bh2 Qxe5 30. Qd2 Qd6 31. Qe1 Qh6 32. Bg1 Qh1 33. Qf1 Rf6
+34. Qf2 Rg6 35. Bf1 Ba6 36. Qe1 Bxf1 0-1
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.10.30"]
+[Round "4"]
+[White "Ostroverkhova, Elena"]
+[Black "Kashlinskaya, Alina"]
+[Result "0-1"]
+[ECO "E68"]
+[WhiteElo "2074"]
+[BlackElo "2266"]
+[PlyCount "106"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. g3 Nbd7 7. Bg2 e5 8. O-O
+a6 9. Re1 exd4 10. Nxd4 Ng4 11. h3 Qf6 12. Nf3 Nge5 13. Nd5 Nxf3+ 14. Bxf3 Qd8
+15. Bg2 Ne5 16. Qc2 Be6 17. f4 Nc6 18. Be3 f5 19. exf5 Bxf5 20. Qd2 h5 21. Bf2
+Qd7 22. Kh2 Rae8 23. Rac1 Kh7 24. b4 Nd8 25. Bd4 Ne6 26. Bxg7 Qxg7 27. Ne3 Nd4
+28. c5 Be4 29. cxd6 cxd6 30. Nd5 Bxd5 31. Bxd5 Rc8 32. Red1 Rxc1 33. Qxc1 h4
+34. Qc3 hxg3+ 35. Qxg3 Nf5 36. Qf2 b5 37. Be4 Qe7 38. Re1 Qf6 39. Rg1 Ne7 40.
+Rg4 d5 41. Bd3 Rc8 42. Qe2 Rc3 43. Bc2 Rc4 44. Qd2 Rd4 45. Qf2 Rxb4 46. h4 Rb2
+47. h5 Kg7 48. Rg2 d4 49. Qg3 Nf5 50. Qf3 Nh4 51. Qb7+ Kh6 52. Rf2 d3 53. Qe4
+Rxc2 0-1
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.11.02"]
+[Round "7"]
+[White "Kashlinskaya, Alina"]
+[Black "Ivanenko, Olga A"]
+[Result "1-0"]
+[ECO "E44"]
+[WhiteElo "2266"]
+[BlackElo "2154"]
+[PlyCount "93"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Bb7 6. a3 Be7 7. d5 e5 8. Ng3 g6
+9. Be2 d6 10. O-O Nbd7 11. f4 exf4 12. exf4 O-O 13. b4 Re8 14. Bb2 Bf8 15. Qd2
+h5 16. Bd3 Bg7 17. Rae1 Rxe1 18. Rxe1 Ng4 19. Nce4 Bxb2 20. Qxb2 Qh4 21. h3 f5
+22. Nf2 Qxg3 23. hxg4 Qxf4 24. Re7 Ne5 25. gxh5 Qg5 26. Rxe5 dxe5 27. Qxe5 Rf8
+28. Qxc7 Rf7 29. Qb8+ Kh7 30. hxg6+ Qxg6 31. g4 Kg7 32. Qe5+ Qf6 33. Qxf6+ Kxf6
+34. gxf5 Ke5 35. Kh2 Bc8 36. Kg3 Bxf5 37. Ng4+ Kd4 38. Bxf5 Rxf5 39. d6 Rf7 40.
+Nh6 Rg7+ 41. Kf4 Kxc4 42. Ke5 Rg5+ 43. Nf5 Rg8 44. d7 a5 45. Nd6+ Kb3 46. Ne8
+Kxa3 47. d8=Q 1-0
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.11.03"]
+[Round "8"]
+[White "Ostroverkhova, Elena"]
+[Black "Romanova, Inna"]
+[Result "0-1"]
+[ECO "E52"]
+[WhiteElo "2074"]
+[BlackElo "2257"]
+[PlyCount "114"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 b6 5. Nf3 Bb7 6. e3 O-O 7. Bd3 d5 8. cxd5
+exd5 9. O-O a5 10. Rc1 Ba6 11. Ne5 Bxd3 12. Nxd3 Bd6 13. Nb5 Ne4 14. Nxd6 Nxd6
+15. Qc2 Ra7 16. f3 c6 17. Nf2 Re7 18. Qd3 Rfe8 19. Rfe1 f5 20. b3 Re6 21. Nh3
+Qh4 22. Re2 g5 23. Be1 Qh5 24. Bf2 Qg6 25. Kf1 Nf7 26. Rce1 Nd6 27. Bg3 Nd7 28.
+Qc2 Nf7 29. Nf2 Qf6 30. Nd3 h5 31. h3 h4 32. Bh2 Qe7 33. Qd2 Rf6 34. Qc2 Re6
+35. Qd2 Nf6 36. Be5 Nh5 37. Kg1 c5 38. f4 Ng3 39. Rf2 Ne4 40. Qc2 Nxe5 41. Nxe5
+Qg7 42. Rff1 Ng3 43. Rf2 Ne4 44. Rff1 g4 45. hxg4 fxg4 46. f5 Rxe5 47. dxe5
+Qxe5 48. Rf4 Nf6 49. Qe2 Qxf4 50. exf4 Rxe2 51. Rxe2 Ne4 52. a4 Kf7 53. g3 hxg3
+54. Kg2 Kf6 55. Re1 Kxf5 56. Rf1 d4 57. Kg1 d3 0-1
+
+[Event "Kharkov 5th"]
+[Site "Kharkov"]
+[Date "2008.10.29"]
+[Round "3"]
+[White "Lushenkov, Mikhail M"]
+[Black "Onischuk, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2430"]
+[BlackElo "2495"]
+[PlyCount "43"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. Bg5 O-O 5. e3 d6 6. Be2 c6 7. Nf3 a6 8. O-O
+Nbd7 9. Qc2 b5 10. Nd2 Rb8 11. Bf3 c5 12. dxc5 Nxc5 13. Rac1 bxc4 14. Nxc4 Be6
+15. b3 h6 16. Bh4 Rb4 17. Bxf6 Bxf6 18. Nd5 Bxd5 19. Bxd5 Kg7 20. Rfd1 Rb8 21.
+e4 Qc7 22. Ne3 1/2-1/2
+
+[Event "Kharkov 5th"]
+[Site "Kharkov"]
+[Date "2008.10.30"]
+[Round "4"]
+[White "Agaragimov, Djahangir"]
+[Black "Lushenkov, Mikhail M"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2351"]
+[BlackElo "2430"]
+[PlyCount "96"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Qc2 Bb4+ 6. Bd2 Be7 7. e4 d5 8. cxd5
+Bxf1 9. Kxf1 exd5 10. e5 Ne4 11. Kg2 Qd7 12. Nc3 Nxc3 13. Bxc3 Nc6 14. Rhe1 Nd8
+15. Rad1 Ne6 16. Qd3 O-O 17. Ng1 Rae8 18. f4 f5 19. exf6 Bxf6 20. Nf3 c6 21. h3
+g6 22. Rf1 Bg7 23. Rde1 c5 24. b3 b5 25. Ne5 Qb7 26. Kh2 c4 27. Qd2 Bxe5 28.
+Rxe5 Ng7 29. g4 Qd7 30. b4 Rf7 31. Qe3 Re6 32. Rg1 Kf8 33. Re1 Rxe5 34. Qxe5
+Kg8 35. Qe3 Rf8 36. Qf2 Ne6 37. Bd2 Ng5 38. Re5 Ne4 39. Qg2 Qd6 40. a3 Kf7 41.
+f5 Re8 42. Bf4 Qd7 43. Qf3 g5 44. Bg3 c3 45. Qd3 Qc6 46. Qc2 Qc4 47. Be1 Qxd4
+48. Rxe4 Qxe4 0-1
+
+[Event "Kharkov 5th"]
+[Site "Kharkov"]
+[Date "2008.11.01"]
+[Round "6"]
+[White "Brodsky, Michail"]
+[Black "Onischuk, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "2550"]
+[BlackElo "2495"]
+[PlyCount "100"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Nbd7 7. O-O e5 8. Qc2
+exd4 9. Nxd4 Nc5 10. Rd1 Re8 11. f3 c6 12. Be3 Qe7 13. Bf2 a5 14. Qd2 Nfd7 15.
+Bf1 a4 16. Rab1 Ne5 17. b3 axb3 18. axb3 Qf6 19. Be3 Qe7 20. Nc2 Qf6 21. Nd4
+Qe7 22. Re1 Qf8 23. b4 Ne6 24. Nb3 f5 25. exf5 gxf5 26. Rbc1 h5 27. Red1 Bf6
+28. Nd4 Nxd4 29. Bxd4 Qg7 30. Kh1 Be6 31. Qf2 Rad8 32. Na4 Bf7 33. Qg3 h4 34.
+Qxg7+ Kxg7 35. Nb6 Bh5 36. h3 Kf7 37. Ra1 Re7 38. Ra3 f4 39. Kg1 Bg6 40. Kf2
+Bc2 41. Rd2 Bf5 42. Bc3 Ree8 43. Bb2 Kg6 44. Be2 Re6 45. Ra7 Re7 46. b5 Kf7 47.
+Ba3 Ke6 48. Bb2 Kf7 49. Na4 Be6 50. Nb6 Bf5 1/2-1/2
+
+[Event "Kharkov 5th"]
+[Site "Kharkov"]
+[Date "2008.11.03"]
+[Round "8"]
+[White "Brodsky, Michail"]
+[Black "Agaragimov, Djahangir"]
+[Result "1-0"]
+[ECO "E91"]
+[WhiteElo "2550"]
+[BlackElo "2351"]
+[PlyCount "73"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Bg4 7. Be3 Nfd7 8. h4
+Nc6 9. d5 Ncb8 10. Qd2 c5 11. Bh6 Nf6 12. Ng1 e5 13. h5 Bxh6 14. Qxh6 Qe7 15.
+f3 Bc8 16. g4 Rd8 17. Nh3 Nbd7 18. O-O-O a6 19. Nf2 Nf8 20. Rdg1 Kh8 21. hxg6
+fxg6 22. f4 Ng8 23. Qh2 exf4 24. Qxf4 Nd7 25. g5 Rf8 26. Qh2 Ne5 27. Nd3 Rf7
+28. Nxe5 dxe5 29. Na4 Rg7 30. Qf2 Qc7 31. Qxc5 b5 32. d6 Qa5 33. Nc3 Bd7 34.
+Qxe5 Re8 35. Qd4 b4 36. Nd5 Qxa2 37. Rxh7+ 1-0
+
+[Event "Kharkov 5th"]
+[Site "Kharkov"]
+[Date "2008.11.04"]
+[Round "9"]
+[White "Lushenkov, Mikhail M"]
+[Black "Brodsky, Michail"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[WhiteElo "2430"]
+[BlackElo "2550"]
+[PlyCount "58"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. Nc3 O-O 7. d4 d5 8. cxd5
+Nxd5 9. Nxd5 exd5 10. Bf4 Nd7 11. Rc1 c5 12. dxc5 bxc5 13. Ne5 Nxe5 14. Bxe5
+Qd7 15. Qb3 Rfd8 16. Rfd1 Bc6 17. Qc3 Qe6 18. Bf4 a5 19. Qe5 a4 20. Rd2 Ra6 21.
+Bf1 Bb5 22. Bh3 Qxe5 23. Bxe5 Ra7 24. b3 axb3 25. axb3 d4 26. Rb2 f6 27. Be6+
+Kf8 28. Bf4 g5 29. Bd2 Bxe2 1/2-1/2
+
+[Event "Cap d'Agde CCAS Gp-B playoff"]
+[Site "Cap d'Agde"]
+[Date "2008.10.28"]
+[Round "1"]
+[White "Karpov, Anatoly"]
+[Black "Hou, Yifan"]
+[Result "1-0"]
+[ECO "E37"]
+[WhiteElo "2651"]
+[BlackElo "2578"]
+[PlyCount "137"]
+[EventDate "2008.10.28"]
+[EventType "match (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. cxd5 exd5 10. e3 Bf5 11. Bd3 Qg5 12. f3 Qh4+ 13. Kf1 Ng3+ 14. hxg3
+Bxd3+ 15. Qxd3 Qxh1 16. b4 O-O 17. Bb2 Rad8 18. Kf2 Qh6 19. Ne2 Rfe8 20. Nf4
+Qg5 21. Rh1 g6 22. Rd1 Qe7 23. b5 Ne5 24. Qd4 f6 25. Nxd5 Qf7 26. e4 Kg7 27. g4
+Qd7 28. a4 a6 29. b6 Qe6 30. Kg1 Qf7 31. Rd2 h6 32. Bc3 Qe6 33. Rd1 Qf7 34. Qe3
+Rd7 35. Qf4 Red8 36. Bxe5 fxe5 37. Qxe5+ Kh7 38. Nf6+ Qxf6 39. Qxf6 Rxd1+ 40.
+Kh2 R1d7 41. c6 bxc6 42. Qxc6 Rd6 43. Qc5 R6d7 44. a5 Re8 45. g5 hxg5 46. Qxg5
+Red8 47. Qf6 Re8 48. Qc6 Ree7 49. Qc8 Rb7 50. Kg3 Kg7 51. Kg4 Rf7 52. e5 Rbe7
+53. f4 Rb7 54. g3 Rfe7 55. Qc6 Rbd7 56. Kg5 Kf8 57. Qf6+ Rf7 58. Qh8+ Ke7 59.
+Qc8 Ke6 60. Qc6+ Ke7 61. e6 Rf5+ 62. Kg4 Rd6 63. Qc7+ Kxe6 64. b7 Rb5 65. b8=Q
+Rxb8 66. Qxb8 Rc6 67. Qe8+ Kd5 68. Kg5 Rd6 69. Qxg6 1-0
+
+[Event "Cap d'Agde CCAS Gp-B playoff"]
+[Site "Cap d'Agde"]
+[Date "2008.10.28"]
+[Round "3"]
+[White "Karpov, Anatoly"]
+[Black "Hou, Yifan"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2651"]
+[BlackElo "2578"]
+[PlyCount "84"]
+[EventDate "2008.10.28"]
+[EventType "match (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. Nf3 Nbd7 8.
+g3 b6 9. Bg2 Bb7 10. O-O c5 11. b4 Rc8 12. dxc5 bxc5 13. b5 d5 14. e3 Nb6 15.
+cxd5 exd5 16. Rd1 Qe7 17. a4 Rfd8 18. a5 Nc4 19. Bb2 Nxb2 20. Qxb2 h6 21. Qe5
+Qd7 22. Rab1 Re8 23. Qb2 Ne4 24. Nd2 Nd6 25. b6 a6 26. Nf3 Nb5 27. Rbc1 Qe6 28.
+Ne1 c4 29. Nc2 c3 30. Qb3 Rc4 31. Nd4 Nxd4 32. Rxd4 Rxd4 33. exd4 Rc8 34. h4
+Qe2 35. Bxd5 Qd2 36. Rf1 c2 37. Bxb7 c1=Q 38. Rxc1 Rxc1+ 39. Kg2 Qe1 40. Kh3
+Qxf2 41. Bg2 Rc2 42. Qd5 Rb2 1-0
+
+[Event "Wch Seniors (Women) 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.11.02"]
+[Round "6"]
+[White "Kierzek, Mira"]
+[Black "Dotan, Valeria"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2014"]
+[BlackElo "2124"]
+[PlyCount "104"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Qb3 c6 6. Bg2 d5 7. Nbd2 Be7 8. O-O
+O-O 9. Qc2 Nbd7 10. Re1 c5 11. cxd5 exd5 12. a3 Bb7 13. b3 Rc8 14. Qa2 Ne4 15.
+Bb2 Bf6 16. Nf1 Re8 17. Rac1 g6 18. Qa1 Ba6 19. Ne3 Nf8 20. Ng4 c4 21. bxc4
+Bxc4 22. Nxf6+ Qxf6 23. Qb1 Qf5 24. Ba1 b5 25. Qb2 f6 26. Rf1 Nd7 27. Nh4 Qe6
+28. Rfe1 a5 29. e3 Rb8 30. Bf1 Rb6 31. Qc2 g5 32. Ng2 Qf5 33. f4 Reb8 34. Be2
+Rc6 35. g4 Qe6 36. f5 Qd6 37. Bb2 Kf7 38. Bd3 Re8 39. Qe2 Nb6 40. Qc2 Kg7 41.
+Red1 Qd7 42. Rf1 b4 43. axb4 axb4 44. Rfe1 Rc7 45. Red1 Qb5 46. Ne1 Ree7 47.
+Kg2 Na4 48. Qe2 Nd6 49. Rb1 Qe8 50. Bc1 Rb7 51. Nc2 Nc3 52. Qd2 Nxb1 0-1
+
+[Event "Wch Seniors (Women) 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.11.03"]
+[Round "7"]
+[White "Vilerte, Tamara"]
+[Black "Saunina, Ludmila"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2208"]
+[BlackElo "2298"]
+[PlyCount "45"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. a3 Bxd2+ 7. Qxd2 d6 8.
+Bg2 O-O 9. Nc3 e5 10. Nd5 Qd8 11. Nxf6+ Qxf6 12. d5 Ne7 13. O-O a5 14. b4 axb4
+15. axb4 Bg4 16. Qc3 Nf5 17. Rxa8 Rxa8 18. Ra1 Qd8 19. h3 Bxf3 20. Bxf3 Nd4 21.
+Kg2 h6 22. c5 Nxf3 23. Kxf3 1/2-1/2
+
+[Event "Wch Seniors 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.10.28"]
+[Round "1"]
+[White "Bogdanov, Valentin"]
+[Black "Gustavsson, Sture"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2383"]
+[BlackElo "2040"]
+[PlyCount "77"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. h3 e5 7. d5 a5 8. Bg5 Na6
+9. Be2 Nc5 10. Nd2 Bd7 11. Nb3 b6 12. Nxc5 bxc5 13. Qd2 a4 14. O-O Qe8 15. Bxf6
+Bxf6 16. Bg4 Bxg4 17. hxg4 Qd7 18. Qe2 Kg7 19. g3 h5 20. f3 Rh8 21. Kg2 h4 22.
+gxh4 Rxh4 23. Rh1 Rah8 24. Rxh4 Rxh4 25. Rh1 Rxh1 26. Kxh1 Bg5 27. Kg2 Bf4 28.
+Kf1 Qe8 29. Ke1 Qh8 30. Kd1 Qh1+ 31. Kc2 Qc1+ 32. Kd3 a3 33. bxa3 Qxa3 34. Qc2
+Kf6 35. Qb1 Kg5 36. Qc2 Kh4 37. Qf2+ Bg3 38. Qg2 Qc1 39. Qxg3+ 1-0
+
+[Event "Wch Seniors 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.10.28"]
+[Round "1"]
+[White "Giering, Gregor"]
+[Black "Uhlmann, Wolfgang"]
+[Result "0-1"]
+[ECO "E14"]
+[WhiteElo "2056"]
+[BlackElo "2417"]
+[PlyCount "42"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. b3 d5 2. Bb2 e6 3. e3 Nf6 4. Nf3 Be7 5. Be2 O-O 6. O-O c5 7. d4 b6 8. c4 Bb7
+9. Nc3 Nbd7 10. Qc2 Rc8 11. Rac1 dxc4 12. bxc4 cxd4 13. exd4 Bxf3 14. gxf3 Qc7
+15. Nb5 Qf4 16. Kh1 a6 17. Ba3 Bxa3 18. Nxa3 Qxd4 19. Rcd1 Qh4 20. Qa4 Rc5 21.
+Rxd7 Rh5 0-1
+
+[Event "Wch Seniors 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.10.28"]
+[Round "1"]
+[White "Khanukov, Boris"]
+[Black "Diskin, Semen"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2399"]
+[BlackElo "2047"]
+[PlyCount "109"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 Nd7 5. e4 e5 6. Be2 exd4 7. Nxd4 Ngf6 8.
+O-O O-O 9. Be3 Re8 10. f3 a5 11. Ndb5 Ne5 12. c5 Bf8 13. Bg5 Be7 14. Bxf6 Bxf6
+15. cxd6 cxd6 16. Qxd6 Be6 17. Qxd8 Rexd8 18. Nc7 Rac8 19. N7d5 Bxd5 20. Nxd5
+Kg7 21. Rac1 Nc6 22. Nxf6 Kxf6 23. Rfd1 Rxd1+ 24. Bxd1 Rd8 25. Ba4 Nd4 26. Kf2
+b5 27. Bd1 Ne6 28. Ke3 a4 29. Be2 Rb8 30. f4 h5 31. Rc6 Ke7 32. g3 Kd7 33. Rc1
+Rb7 34. Rd1+ Ke7 35. Rd5 Nc7 36. Rc5 Kd6 37. Rc2 Na6 38. e5+ Ke7 39. a3 Nc7 40.
+Bf3 Ra7 41. Rc5 Kd8 42. Bd5 Ra6 43. Bxf7 Rb6 44. h3 b4 45. g4 bxa3 46. bxa3
+hxg4 47. hxg4 Nb5 48. Bxg6 Nxa3 49. Bd3 Rb3 50. Ke4 Nb1 51. Bxb1 Rxb1 52. Ra5
+Ra1 53. Kf5 a3 54. g5 a2 55. g6 1-0
+
+[Event "Wch Seniors 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.10.28"]
+[Round "1"]
+[White "Vaitonis, Vytautas"]
+[Black "Bakhmatov, Eduard"]
+[Result "0-1"]
+[ECO "E67"]
+[WhiteElo "2036"]
+[BlackElo "2370"]
+[PlyCount "43"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e3 g6 6. g3 Bg7 7. Bg2 O-O 8. O-O
+Re8 9. b3 c6 10. Bb2 e4 11. Nd2 d5 12. Rc1 a6 13. Qc2 Rb8 14. Ndb1 Nb6 15. c5
+Nbd7 16. Rce1 Bh6 17. Bc1 Nf8 18. h3 Bf5 19. Kh2 Ne6 20. Qd1 Qc7 21. Ne2 Ng5
+22. Kg1 0-1
+
+[Event "Wch Seniors 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.10.29"]
+[Round "2"]
+[White "Blaushtein, Boris"]
+[Black "Opl, Klaus"]
+[Result "0-1"]
+[ECO "E24"]
+[WhiteElo "2156"]
+[BlackElo "2362"]
+[PlyCount "64"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. a3 Bxc3+ 6. bxc3 Nc6 7. Nf3 d6 8. e3
+e5 9. Bd3 O-O 10. O-O Re8 11. Be2 e4 12. Ne1 Bf5 13. Qd1 Qd7 14. f4 exf3 15.
+gxf3 Rac8 16. Bd2 Bh3 17. Rf2 Qe7 18. Ng2 Nh5 19. d5 Na5 20. Bd3 f5 21. Qc2 Rf8
+22. Re1 Qf6 23. Kh1 Rce8 24. Rg1 Kh8 25. Qd1 g5 26. Ne1 Qh6 27. f4 g4 28. Qc2
+Rg8 29. Qb1 g3 30. hxg3 Nxg3+ 31. Rxg3 Rxg3 32. Rh2 Reg8 0-1
+
+[Event "Wch Seniors 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.10.29"]
+[Round "2"]
+[White "Kool, Gerard J"]
+[Black "Donchenko, Anatoly G"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2157"]
+[BlackElo "2373"]
+[PlyCount "45"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 dxc4 5. Bg2 Bb4+ 6. Nc3 Nc6 7. O-O O-O 8. a3
+Be7 9. e4 Na5 10. Be3 a6 11. Qe2 b5 12. Rad1 Bb7 13. Ne5 c5 14. d5 Qc7 15. f4
+exd5 16. Nxd5 Nxd5 17. exd5 Bd6 18. Qh5 g6 19. Qh6 f6 20. Nf3 Nb3 21. f5 Qg7
+22. fxg6 hxg6 23. Nh4 1/2-1/2
+
+[Event "Wch Seniors 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.10.29"]
+[Round "2"]
+[White "Sorensen, Bent"]
+[Black "Khanukov, Boris"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2172"]
+[BlackElo "2399"]
+[PlyCount "89"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c5 4. O-O Nc6 5. d4 e6 6. c4 dxc4 7. Qa4 cxd4 8.
+Nxd4 Qxd4 9. Bxc6+ Bd7 10. Bxd7+ Qxd7 11. Qxc4 Rc8 12. Qb3 Bc5 13. Nc3 h6 14.
+Na4 O-O 15. Nxc5 Rxc5 16. Be3 Rb5 17. Qa3 e5 18. Kg2 Nd5 19. Rfd1 Qc6 20. Kg1
+Nxe3 21. Qxe3 Rxb2 22. Qxe5 Rc2 23. Qe7 a5 24. Rd8 Rxd8 25. Qxd8+ Kh7 26. Qxa5
+Rxe2 27. Qf5+ Kg8 28. a3 g6 29. Qf4 Kg7 30. Qd4+ Kh7 31. Qf4 Qd5 32. Rc1 Ra2
+33. Qe3 Rd2 34. Re1 Rd3 35. Qe4 Qb3 36. h4 h5 37. Kg2 Rd2 38. Re3 Qb6 39. Rf3
+Rd7 40. g4 hxg4 41. Qxg4 Qc6 42. h5 Rd3 43. hxg6+ fxg6 44. Qf4 Rxf3 45. Qxf3
+1/2-1/2
+
+[Event "Wch Seniors 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.10.30"]
+[Round "3"]
+[White "Dornieden, Manfred"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "E62"]
+[WhiteElo "2266"]
+[BlackElo "2477"]
+[PlyCount "58"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 Nf6 4. Bg2 O-O 5. d4 d6 6. Nf3 c6 7. O-O Qa5 8. h3
+Be6 9. Qd3 Qa6 10. b3 d5 11. Ne5 Rd8 12. cxd5 Nxd5 13. Qxa6 Nxa6 14. Ne4 Ndb4
+15. Bb2 Bd5 16. e3 Bxe5 17. dxe5 Bxe4 18. Bxe4 Rd2 19. Ba3 Rad8 20. Bxb4 Nxb4
+21. a3 Nd3 22. e6 f5 23. Bf3 Kg7 24. e4 fxe4 25. Bxe4 Nc5 26. Rfe1 Nxb3 27.
+Rab1 Nc5 28. Bg2 R8d6 29. Re5 b6 0-1
+
+[Event "Wch Seniors 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.10.30"]
+[Round "3"]
+[White "Gudat, Alfons"]
+[Black "Sorokin, Valentin"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[WhiteElo "2046"]
+[BlackElo "2327"]
+[PlyCount "51"]
+[EventDate "2008.10.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Nbd2 O-O 7. O-O d5 8. a3
+Be7 9. b3 Nbd7 10. Bb2 c5 11. e3 cxd4 12. exd4 a6 13. Rc1 Rc8 14. Qe2 Rc7 15.
+Ne5 Qa8 16. cxd5 Rxc1 17. Rxc1 Nxe5 18. dxe5 Nxd5 19. Ne4 Rd8 20. f4 h6 21. h3
+Rc8 22. Rxc8+ Qxc8 23. Kh2 a5 24. Nd6 Bxd6 25. exd6 Qd7 26. Qg4 1/2-1/2
+
+[Event "Wch Seniors 18th"]
+[Site "Bad Zwischenahn"]
+[Date "2008.10.30"]
+[Round "3"]
+[White "Kaminik, Aleksandar"]
+[Black "Uhlmann, Wolfgang"]
+[Result "0-1"]
+[ECO "E86"]
+[WhiteElo "2256"]
+[BlackElo "2417"]
+[PlyCount "72"]
+[EventDate "2008.10.28"]

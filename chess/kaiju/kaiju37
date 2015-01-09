@@ -1,0 +1,50 @@
+C33	Lesser Bishop; Tartakower	1.e4 e5 2.f4 exf4 3.Be2
+C33	Weiss Defense, KGA	1.e4 e5 2.f4 exf4 3.Be2 f5 4.exf5 d6
+C33	Central; Polerio; Willemson, Steinitz	1.e4 e5 2.f4 exf4 3.d4
+C33	Gaga Gambit, KGA	1.e4 e5 2.f4 exf4 3.g3
+C33	Gama Gambit, KGA	1.e4 e5 2.f4 exf4 3.g3 fxg3 4.Nf3
+C33	Leonardo (Stamma) Gambit, KGA	1.e4 e5 2.f4 exf4 3.h4
+C33	Drunken King, KGA	1.e4 e5 2.f4 exf4 3.Kf2
+C33	Tumbleweed; King's Own, KGA	1.e4 e5 2.f4 exf4 3.Kf2 
+C33	Keres, Mason, Parnu, Requena	1.e4 e5 2.f4 exf4 3.Nc3
+C33	Requena Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nc3 Qh4+
+C33	Paris Gambit, KGA	1.e4 e5 2.f4 exf4 3.Ne2
+C33	Eisenberg Variation, KGA	1.e4 e5 2.f4 exf4 3.Nh3
+C33	Basman Gambit, KGA	1.e4 e5 2.f4 exf4 3.Qe2
+C33	Bilguer-Mirage Variation, KGA	1.e4 e5 2.f4 exf4 3.Qe2
+C33	Breyer; Hungarian; Carrera, KGA	1.e4 e5 2.f4 exf4 3.Qf3
+C33	Dodo Gambit, KGA	1.e4 e5 2.f4 exf4 3.Qg4
+C33	Carrera Gambit, KGA	1.e4 e5 2.f4 exf4 3.Qh5
+C34	King's Knight Gambit, KGA; C34	1.e4 e5 2.f4 exf4 3.Nf3
+C34	Fischer Defense, KGA	1.e4 e5 2.f4 exf4 3.Nf3 d6
+C34	Schulder Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 d6 4.b4
+C34	Gianutio Countergambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 f5
+C34	Becker; Anti-Kieseritzky Var, KGA	1.e4 e5 2.f4 exf4 3.Nf3 h6
+C34	MacLeod Defense, KGA	1.e4 e5 2.f4 exf4 3.Nf3 Nc6
+C34	Bonsch-Osmolovsky Variation, KGA	1.e4 e5 2.f4 exf4 3.Nf3 Ne7
+C34	Schallop Defense, KGA	1.e4 e5 2.f4 exf4 3.Nf3 Nf6
+C34	Tashkent Attack, KGA	1.e4 e5 2.f4 exf4 3.Nf3 Nf6 4.e5 Nh5 5.g4
+C35	Cunningham Gambit, KGA; C35	1.e4 e5 2.f4 exf4 3.Nf3 Be7
+C35	Wild Cunningham Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+  
+C35	Bertin; Three Pawns Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+
+5.g3
+C35	Neo-Cunningham Gambit, KGA; McCormick Defense	1.e4 e5 2.f4 exf4
+3.Nf3 Be7 4.Bc4 Nf6
+C36	Scandinavian Variation, KGA; Modern Defense, KGA; C36	1.e4 e5 2.f4
+exf4 3.Nf3 d5
+C36	Abbazia Defense, KGA	1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6
+C37	C37	1.e4 e5 2.f4 exf4 3.Nf3 g5
+C37	Ghulam Kassim; Koch Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4
+C37	Middleton Counter-Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 d6
+5.O-O Bg4 6.h3 h5 7.hxg4
+C37	Greco-Lolli; Wild Muzio Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5
+4.Bc4 g4 5.Bxf7+
+C37	Young Variation, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Bxf7+
+Kxf7 6.O-O gxf3 7.Qxf3 Qf6 8.d4 Qxd4+ 9.Be3
+C37	Koch; Ghulam Kassim Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4
+5.d4
+C37	Kotov Gambit	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.d4 gxf3 6.Bxf4
+C37	Ghulam-Kassim Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4
+5.d4 gxf3 6.Qxf3
+C37	Australian Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.h4
+C37	MacDonnell Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Nc3

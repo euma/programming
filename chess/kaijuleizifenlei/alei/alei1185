@@ -1,0 +1,600 @@
+[WhiteElo "2130"]
+[BlackElo "2298"]
+[PlyCount "87"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 d6 5. e4 Ne7 6. Nge2 c5 7. a3 Nbc6 8. Rb1
+h5 9. h4 Bg4 10. f3 Bd7 11. d3 Nd4 12. b4 b6 13. O-O O-O 14. Be3 Rb8 15. Qd2 a6
+16. bxc5 dxc5 17. Nd5 Nxe2+ 18. Qxe2 Nxd5 19. cxd5 Qe7 20. Qf2 Bb5 21. Rfd1
+Rfc8 22. f4 exf4 23. gxf4 Bd4 24. Bxd4 cxd4 25. e5 Rc3 26. Qxd4 Rbc8 27. f5
+gxf5 28. d6 Qd7 29. Bd5 Rc2 30. Kh1 Bc6 31. Rg1+ Kf8 32. Rxb6 f4 33. e6 Bxd5+
+34. Qxd5 Qxe6 35. Qxe6 fxe6 36. Rf1 e5 37. d4 R8c3 38. Rb8+ Kf7 39. dxe5 Rh3+
+40. Kg1 Rg3+ 41. Kh1 Rh3+ 42. Kg1 f3 43. Rf2 Rc1+ 44. Rf1 1/2-1/2
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.15"]
+[Round "4"]
+[White "Gutierrez Valero, Mario"]
+[Black "Galvan Ruiz, Mario"]
+[Result "0-1"]
+[ECO "A77"]
+[WhiteElo "1945"]
+[BlackElo "2019"]
+[PlyCount "64"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Nd2 a6 8. a4
+Bg7 9. e4 O-O 10. Be2 Re8 11. O-O Nbd7 12. f3 Nh5 13. Nb3 Qc7 14. Kh1 Rb8 15.
+Bd2 c4 16. Nc1 b5 17. axb5 axb5 18. Qc2 Nc5 19. g4 Nf6 20. b4 cxb3 21. Nxb3
+Ncxe4 22. fxe4 Nxe4 23. Ra7 Bb7 24. Qxe4 Rxe4 25. Nxe4 Qc2 26. Nxd6 Bxd5+ 27.
+Bf3 Qxb3 28. Kg2 Qd3 29. Bf4 Qe2+ 30. Rf2 Bxf3+ 31. Kg3 Qe1 32. Kxf3 Bd4 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.15"]
+[Round "4"]
+[White "Marrero Falcon, Hector Xarach"]
+[Black "Garcia Garcia, Jesus"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "2044"]
+[PlyCount "139"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 f5 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. e3 b6 6. Be2 Bb7 7. b4 Ne4 8. Bb2 e6
+9. Qb3 Qf6 10. O-O h5 11. Nxe4 fxe4 12. Nd2 O-O 13. c5 Bd5 14. Bc4 c6 15. Qc2
+Qg5 16. Nxe4 Qg4 17. Bxd5 exd5 18. Nc3 h4 19. f3 Qg5 20. Rae1 Re8 21. Nd1 Na6
+22. a3 Nc7 23. e4 Ne6 24. e5 bxc5 25. bxc5 Nf4 26. Bc1 Kh7 27. Ne3 Ne6 28. f4
+Qh5 29. Qd3 Bh6 30. g4 hxg3 31. hxg3 Qh3 32. Kf2 Bxf4 33. Rh1 Bxg3+ 34. Kg1
+Qxh1+ 35. Kxh1 Bxe1 36. Ng4 Rh8 37. Bh6 Bh4 38. Kg2 Raf8 39. Qh3 Bd8 40. Bxf8+
+Kg8 41. Bh6 Bg5 42. Kg3 Nxd4 43. Bxg5 Rxh3+ 44. Kxh3 Ne6 45. Be7 d4 46. Kg3 Kf7
+47. Bd6 Ng7 48. Kf3 Ke6 49. Ke4 Nf5 50. a4 a6 51. Nf2 g5 52. Nh3 Nxd6+ 53. exd6
+g4 54. Nf4+ Kf6 55. Kxd4 Kg5 56. Ke4 Kh4 57. a5 Kg3 58. Ng6 Kf2 59. Kf4 g3 60.
+Nh4 g2 61. Nxg2 Kxg2 62. Ke5 Kf3 63. Kf6 Ke4 64. Ke7 Kd5 65. Kxd7 Kxc5 66. Ke7
+Kb4 67. d7 c5 68. d8=Q c4 69. Qb6+ Ka3 70. Qxa6 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.15"]
+[Round "4"]
+[White "Osuna Vega, Enrique"]
+[Black "Ibarra Jerez, Juan Miguel"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2134"]
+[BlackElo "2186"]
+[PlyCount "74"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 g6 4. Bf4 Bg7 5. Nbd2 d6 6. e4 cxd4 7. cxd4 O-O 8.
+Be2 Nc6 9. O-O d5 10. e5 Nh5 11. Be3 f6 12. exf6 Bxf6 13. Nb3 Ng7 14. Bh6 Qb6
+15. Qd2 Bf5 16. Bd3 Bg4 17. Be2 Rad8 18. Rfd1 a5 19. Ne5 Bxe5 20. Bxg4 Bf6 21.
+Be3 Rfe8 22. f4 e6 23. Rac1 Nf5 24. Bf2 Re7 25. g3 Rde8 26. Kg2 Nd6 27. Nc5 Nc4
+28. Rxc4 dxc4 29. Nxe6 Nb4 30. d5 Qb5 31. d6 Rxe6 32. d7 Nd3 33. dxe8=Q+ Rxe8
+34. b3 c3 35. Qc2 Nb4 36. a4 Qc6+ 37. Bf3 Nxc2 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.15"]
+[Round "4"]
+[White "Parada Medrano, Ivan"]
+[Black "Rabadan, Velasco Raul"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "2122"]
+[BlackElo "2323"]
+[PlyCount "92"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 Nc6 2. g3 e5 3. Bg2 Bc5 4. Nc3 d6 5. d3 Nge7 6. e3 h5 7. Nge2 h4 8. a3 a6
+9. b4 Ba7 10. Bd2 Qd7 11. Nc1 hxg3 12. hxg3 Rxh1+ 13. Bxh1 Qh3 14. Qf3 Bg4 15.
+Qg2 Qh7 16. Qg1 O-O-O 17. Be4 f5 18. Qh1 Qxh1+ 19. Bxh1 Rh8 20. Bg2 Nd8 21. Nb3
+Ne6 22. f4 exf4 23. gxf4 g5 24. Nd5 Ng6 25. fxg5 Nh4 26. Kf2 Nxg2 27. Kxg2 Nxg5
+28. Bc3 Bf3+ 29. Kg3 Rh3+ 30. Kf4 Bxd5 31. cxd5 Bxe3+ 32. Kxf5 Rf3+ 33. Kg4
+Rf4+ 34. Kg3 Rf5 35. Rd1 Rxd5 36. Kg4 Ne4 37. Be1 Bb6 38. Kf4 Nf6 39. Bc3 Nd7
+40. d4 Rh5 41. Rd3 Nf6 42. Kg3 Rf5 43. Bd2 Kd7 44. a4 c6 45. Nc5+ dxc5 46.
+dxc5+ Rd5 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.15"]
+[Round "4"]
+[White "Rubio Nevado, Pedro"]
+[Black "Hernandez Leon, Sergio"]
+[Result "0-1"]
+[ECO "A43"]
+[WhiteElo "2100"]
+[BlackElo "2042"]
+[PlyCount "84"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c5 2. d5 g6 3. e4 Bg7 4. Nf3 d6 5. h3 Nf6 6. Nc3 O-O 7. Bg5 h6 8. Bf4
+Nbd7 9. Be2 b5 10. Bxb5 Nxe4 11. Bxd7 Nxc3 12. bxc3 Bxc3+ 13. Bd2 Bxd2+ 14.
+Qxd2 Bxd7 15. Qxh6 Qa5+ 16. Qd2 Qa6 17. Qh6 Qc4 18. Rd1 Bb5 19. Rd3 Qe4+ 20.
+Kd2 Bxd3 21. Re1 Qf5 22. Ng5 Qxf2+ 23. Kxd3 Qd4+ 24. Ke2 Qg7 25. Qh4 Rab8 26.
+Kf1 Rb4 27. c4 Re8 28. Ne4 Rbb8 29. Ng5 Qf6+ 30. Kg1 Qd4+ 31. Qxd4 cxd4 32. Re4
+d3 33. Rd4 Rec8 34. Rxd3 Rxc4 35. Re3 Rb7 36. Rf3 f6 37. Ne6 Rb5 38. Rd3 a5 39.
+Kh2 a4 40. Kg3 Rb2 41. Ra3 g5 42. Kf3 Rd2 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Camacho Collados, Jose"]
+[Black "Urbina Perez, Juan Antonio"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2276"]
+[BlackElo "2223"]
+[PlyCount "95"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. c4 e6 5. b3 Nbd7 6. O-O Bd6 7. Nc3 O-O 8. Bb2
+b6 9. Qc2 Bb7 10. d4 Rc8 11. Rad1 a6 12. e4 dxe4 13. Nxe4 Nxe4 14. Qxe4 Nf6 15.
+Qe2 Qe7 16. Ne5 c5 17. dxc5 Bxc5 18. Nd7 Bxg2 19. Nxf6+ gxf6 20. Kxg2 Rfd8 21.
+f4 Rxd1 22. Rxd1 Rd8 23. Kh3 Rxd1 24. Qxd1 e5 25. Qg4+ Kh8 26. Qc8+ Kg7 27.
+Qg4+ Kh8 28. Bc1 e4 29. Bb2 e3 30. Qf5 Kg7 31. Qg5+ Kf8 32. Bxf6 Qd7+ 33. g4 e2
+34. Qe5 Qe6 35. Qb8+ Qe8 36. Bg7+ Ke7 37. Bf6+ Kf8 38. Bg7+ Ke7 39. Qe5+ Kd7
+40. Qd5+ Kc8 41. Qa8+ Kd7 42. Qb7+ Ke6 43. f5+ Kd6 44. Qd5+ Kc7 45. Be5+ Kc8
+46. Qa8+ Kd7 47. Qb7+ Kd8 48. Qc7# 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Plaza Pardo, Daniel"]
+[Black "Cruz Ravina, Francisco Javier"]
+[Result "0-1"]
+[ECO "A54"]
+[WhiteElo "2207"]
+[BlackElo "2337"]
+[PlyCount "92"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. Bg5 Be7 6. e3 O-O 7. Qc2 Ne8 8. h4
+exd4 9. exd4 Nef6 10. O-O-O Re8 11. Bd3 Nf8 12. Rde1 c6 13. Ne4 Nxe4 14. Bxe4
+Be6 15. Bxe7 Rxe7 16. Ng5 h6 17. Bh7+ Kh8 18. Bd3 Qa5 19. Kb1 Rae8 20. Re3 d5
+21. c5 Qb4 22. Nf3 Bd7 23. a3 Qa5 24. Qe2 Rxe3 25. fxe3 Bg4 26. Qf2 Bxf3 27.
+gxf3 Qc7 28. Rg1 Qe7 29. Qg3 Qf6 30. f4 Ng6 31. h5 Nf8 32. Bc2 b6 33. cxb6 axb6
+34. Ka1 c5 35. Rd1 c4 36. Rg1 b5 37. Kb1 Re7 38. Rg2 Rb7 39. Qf3 Qd6 40. Qg4 f6
+41. Qf5 b4 42. axb4 Qxb4 43. Bd1 Qe1 44. Kc2 Qxe3 45. Qxd5 Qd3+ 46. Kc1 Ra7 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Sanchez Guirado, Francisco Javier"]
+[Black "Suarez Real, Alberto"]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "2415"]
+[BlackElo "2401"]
+[PlyCount "87"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 c5 4. Nf3 Bg7 5. O-O cxd4 6. Nxd4 d5 7. Nc3 Nc6 8.
+Nb3 e6 9. e4 d4 10. Ne2 e5 11. Bg5 h6 12. Bxf6 Qxf6 13. c3 dxc3 14. Nxc3 O-O
+15. Nd5 Qd8 16. Rc1 Rb8 17. Qd3 Be6 18. Rfd1 Nd4 19. Nxd4 Bxd5 20. Nf5 Be6 21.
+Qa3 Qf6 22. Ne7+ Kh7 23. Nd5 Bxd5 24. exd5 Rfd8 25. Rc7 Bf8 26. Qxa7 Bd6 27.
+Rxb7 Rxb7 28. Qxb7 Rb8 29. Qa7 Rxb2 30. Be4 Rb4 31. Qe3 Ra4 32. Rd2 Ra3 33. Qb6
+Ra4 34. Bc2 Rb4 35. Qc6 h5 36. h4 Kg7 37. Bb3 e4 38. Re2 Qa1+ 39. Kg2 Qf6 40.
+Re3 Rd4 41. Bc4 Rd2 42. Be2 Qe5 43. a4 Kh6 44. Qc1 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Barrantes Munoz, Hugo Pedro"]
+[Black "Fernandez Barrera, Victor"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2200"]
+[BlackElo "2319"]
+[PlyCount "114"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. Nd2 cxd4 7. Nb3 Qb6 8.
+Qxd4 Nc6 9. Qxb6 axb6 10. Nd4 e5 11. Nxc6 exf4 12. Nd4 Nd5 13. Nh3 Bc5 14. e4
+fxe3 15. Bc4 Ne7 16. O-O-O O-O 17. Nf4 Re8 18. g3 d5 19. Nxd5 Nxd5 20. Bxd5 e2
+21. Rde1 Bxd4 22. cxd4 Bf5 23. Bb3 Re3 24. g4 Bg6 25. Kd2 Rxf3 26. Rxe2 Rd3+
+27. Ke1 Rxd4 28. h3 h5 29. Rg1 Kf8 30. Kf2 Rc8 31. Rd1 Rcd8 32. Rxd4 Rxd4 33.
+Kg3 f6 34. Re6 Rb4 35. Re2 Be8 36. Bd5 hxg4 37. hxg4 Bd7 38. Bf3 Kf7 39. Rd2
+Be6 40. b3 Ke7 41. Rd3 g5 42. Rd2 Bd7 43. Rd3 Bc6 44. Re3+ Kd7 45. Rd3+ Kc7 46.
+Bxc6 bxc6 47. Rf3 Rd4 48. Rxf6 b5 49. Rf5 Rd2 50. Rxg5 Rxa2 51. Rf5 Kd6 52. g5
+Ra7 53. Kf4 c5 54. Rf6+ Ke7 55. Rc6 c4 56. bxc4 bxc4 57. Rxc4 Kf7 1/2-1/2
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Cuenca Jimenez, Jose Francisco"]
+[Black "Jimenez Villena, Francisco Jose"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2448"]
+[BlackElo "2274"]
+[PlyCount "41"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. c4 e6 3. b3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O c5 7. Bb2 Nc6 8. e3 b6
+9. Nc3 Bb7 10. cxd5 Nxd5 11. Nxd5 Qxd5 12. Ne5 Qd6 13. Nc4 Qd7 14. Qg4 f6 15.
+d4 b5 16. d5 Nd8 17. Na5 Bxd5 18. Rad1 Qc7 19. e4 h5 20. Qh3 Qxa5 21. exd5 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Macieja, Bartlomiej"]
+[Black "Baklan, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[WhiteElo "2606"]
+[BlackElo "2630"]
+[PlyCount "127"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Rb1 a5 8. a3
+e5 9. d3 h6 10. b4 axb4 11. axb4 Be6 12. Nd2 Qd7 13. Nd5 Ne8 14. Bb2 Nd8 15.
+Ra1 Rb8 16. Qa4 Qxa4 17. Rxa4 b5 18. cxb5 Rxb5 19. Ne7+ Kh7 20. Ra8 Nf6 21. Ba3
+Bd7 22. Rc1 Ne6 23. Ra7 Re8 24. Nc6 Rb6 25. e3 Kh8 26. Nc4 Bxc6 27. Nxb6 Bxg2
+28. Kxg2 cxb6 29. Rc6 Rb8 30. b5 Nc5 31. Rxd6 Ne8 32. Rd5 Bf8 33. Rxf7 Kg8 34.
+Ra7 Nf6 35. Rxe5 Bd6 36. Re6 Nxe6 37. Bxd6 Rd8 38. Be5 Nd7 39. Ba1 Ndf8 40. d4
+Rd7 41. Ra8 Nc7 42. Rb8 Nxb5 43. Rxb6 Nd6 44. Bc3 Nc8 45. Rb8 Rc7 46. Ba5 Rc2
+47. Kf3 Kf7 48. Rb7+ Ke8 49. e4 Ne6 50. d5 Ng5+ 51. Ke3 Nxe4 52. Rg7 Nf6 53.
+Rxg6 Kf7 54. Rxh6 Ng4+ 55. Kd3 Rxf2 56. Rh7+ Kg6 57. Rc7 Nd6 58. Bb4 Rf3+ 59.
+Ke2 Re3+ 60. Kf1 Ne4 61. Rc2 Rb3 62. Bc5 Rd3 63. Bg1 Rxd5 64. Kg2 1/2-1/2
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Brozhik, Vasilij"]
+[Black "Kernazhitsky, Leonid"]
+[Result "0-1"]
+[ECO "A22"]
+[WhiteElo "2148"]
+[BlackElo "2349"]
+[PlyCount "38"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. Nc3 Nf6 3. e3 d5 4. cxd5 Nxd5 5. Qc2 Nxc3 6. bxc3 Bd6 7. d4 O-O 8.
+Nf3 Nc6 9. Bb5 Bd7 10. d5 Nb4 11. Qb3 Bxb5 12. cxb4 e4 13. Nd4 Bd3 14. h4 Qd7
+15. Bb2 Qg4 16. g3 a5 17. b5 a4 18. Qc3 a3 19. Bc1 Ra4 0-1
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Gerber, Vladimir"]
+[Black "Khaetsky, Roman"]
+[Result "0-1"]
+[ECO "A82"]
+[WhiteElo "2175"]
+[BlackElo "2400"]
+[PlyCount "44"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4 h6 5. Bg2 d5 6. h3 c5 7. Be3 Nc6 8. Nge2
+cxd4 9. Nxd4 e5 10. Nxc6 bxc6 11. Bd2 Rb8 12. Rb1 Bd6 13. O-O O-O 14. Ne2 Ba6
+15. Re1 Bc5 16. b4 Bb6 17. Rf1 Nh7 18. Be3 d4 19. Bxh6 gxh6 20. Ng3 Ng5 21.
+Nxe4 Nxe4 22. Bxe4 Bxf1 0-1
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Ianov, Viktor"]
+[Black "Varchenko, Grigory"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2370"]
+[BlackElo "2162"]
+[PlyCount "87"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. c3 e5 6. e4 Nge7 7. d3 O-O 8. Re1
+d5 9. Nbd2 d4 10. cxd4 Nxd4 11. Nxd4 Qxd4 12. Nc4 b6 13. Be3 Qd7 14. a3 Nc6 15.
+b4 cxb4 16. axb4 Rb8 17. Qb3 Rb7 18. Rec1 Rd8 19. Qb2 Qe7 20. Nxb6 axb6 21.
+Rxc6 Bd7 22. Rxb6 Rxb6 23. Bxb6 Rb8 24. Ba5 Qd6 25. Bf1 Bh6 26. Rd1 Ba4 27. Ra1
+Bd7 28. h4 f5 29. exf5 gxf5 30. Re1 Bg7 31. Rc1 e4 32. Qe2 Re8 33. dxe4 Rxe4
+34. Qa2+ Be6 35. Qc2 Bd4 36. Qc7 Bxf2+ 37. Kxf2 Qd4+ 38. Kg2 Bd5 39. Kh3 Rxh4+
+40. gxh4 Qg4+ 41. Kh2 Qxh4+ 42. Kg1 Qd4+ 43. Kh2 Qh4+ 44. Kg1 1/2-1/2
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Ianovsky, Alexander"]
+[Black "Bobechko, Ivan"]
+[Result "1/2-1/2"]
+[ECO "A24"]
+[WhiteElo "2186"]
+[PlyCount "43"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 Nf6 4. Bg2 d6 5. d3 e5 6. Nf3 O-O 7. O-O Nbd7 8. Rb1
+a5 9. a3 Re8 10. e4 Ra6 11. b4 axb4 12. axb4 Nf8 13. h3 h6 14. Nh2 Ne6 15. f4
+Nd4 16. g4 Nh7 17. Be3 exf4 18. Bxf4 Ng5 19. Qd2 Ra3 20. Nd5 c6 21. Ne3 Nge6
+22. Bg3 1/2-1/2
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Khadzh Khamed, Naser"]
+[Black "Shumilov, Ilya"]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "2008"]
+[BlackElo "2286"]
+[PlyCount "86"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. b3 d5 2. Bb2 c6 3. g3 Nf6 4. Bg2 Nbd7 5. d3 e5 6. Nd2 Bd6 7. e4 O-O 8. Ne2
+Re8 9. O-O Qc7 10. h3 a5 11. a3 Bf8 12. f4 dxe4 13. dxe4 b6 14. f5 Nc5 15. g4
+Ba6 16. Re1 Rad8 17. Ng3 h6 18. h4 Nxg4 19. Qxg4 Rxd2 20. Bc1 Rd6 21. Be3 Nd7
+22. Rad1 Nf6 23. Qf3 Rxd1 24. Rxd1 Bxa3 25. Kh1 Rd8 26. Rg1 Bc5 27. Bxc5 bxc5
+28. Qc3 Qe7 29. Bf3 Ng4 30. f6 Qxf6 31. Nf5 h5 32. Bxg4 hxg4 33. Rxg4 g6 34.
+Qe3 Bc8 35. Rg5 Kh7 36. Qg1 Be6 37. Qxc5 gxf5 38. Rh5+ Kg6 39. Rg5+ Kh6 40.
+exf5 Bxf5 41. Qe3 Be4+ 42. Qxe4 Qf1+ 43. Kh2 Rd2+ 0-1
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Majboroda, Evgenija"]
+[Black "Golubka, Petr"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2004"]
+[BlackElo "2296"]
+[PlyCount "0"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+ 1/2-1/2
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Panchenko, Alexandar G"]
+[Black "Chernozem, Sergey"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[WhiteElo "2332"]
+[BlackElo "2102"]
+[PlyCount "40"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 Nbd7 7. Nbd2 Re8 8.
+O-O c6 9. e4 e5 10. dxe5 dxe5 11. Re1 b5 12. b4 Bf8 13. a3 a5 14. c3 Nb6 15.
+Qc2 Qc7 16. Nb3 axb4 17. axb4 Rxa1 18. Rxa1 Nc4 19. Bc1 Be6 20. Nbd2 h6 1/2-1/2
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Panin, James Li"]
+[Black "Semenova, Lidia K"]
+[Result "0-1"]
+[ECO "A03"]
+[BlackElo "2213"]
+[PlyCount "84"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. f4 d5 2. Nf3 g6 3. g3 Bg7 4. Bg2 c6 5. Nc3 Nf6 6. d3 Nbd7 7. e4 dxe4 8. dxe4
+Qb6 9. e5 Ng4 10. Qe2 Nc5 11. h3 Nh6 12. g4 Be6 13. Ng5 O-O-O 14. Nxe6 Nxe6 15.
+Qf2 Qxf2+ 16. Kxf2 Nd4 17. Be4 f6 18. exf6 exf6 19. Bd3 f5 20. g5 Nf7 21. Bd2
+Nxc2 22. Bxf5+ gxf5 23. Rad1 Nd6 24. Kf3 Rhe8 25. Bc1 Nd4+ 26. Kg2 Re6 27. Rd3
+Rde8 28. Rhd1 c5 29. a3 Ne4 30. Nd5 Ne2 31. Nf6 Bxf6 32. gxf6 Nxf6 33. b4 c4
+34. Rf3 Nxc1 35. Rxc1 b5 36. a4 Rg8+ 37. Kf1 Ne4 38. Rc2 Reg6 39. Rh2 c3 40.
+Rc2 Rg1+ 41. Ke2 R8g2+ 42. Kd3 Rd1+ 0-1
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Shpilevoy, Eugen"]
+[Black "Grinev, Valeriy"]
+[Result "0-1"]
+[ECO "A49"]
+[WhiteElo "2025"]
+[BlackElo "2297"]
+[PlyCount "102"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 e5 7. dxe5 Nfd7 8. Bb2
+Nc6 9. Nbd2 dxe5 10. Ne1 f5 11. c4 Re8 12. Nc2 Nf6 13. Bxc6 bxc6 14. Nf3 Nd7
+15. Qd2 h6 16. Rad1 Kh7 17. Nb4 Qf6 18. Nc2 Qe7 19. Nb4 Qe6 20. Nc2 Nf8 21. Qa5
+Qe7 22. Nb4 Bb7 23. Ba3 Qf7 24. Na6 Ne6 25. Nc5 Nxc5 26. Qxc5 a5 27. Bb2 e4 28.
+Ne5 Qe7 29. Rd7 Qxc5 30. Rxg7+ Kxg7 31. Nd3+ Kf7 32. Nxc5 Bc8 33. Rd1 Be6 34.
+Kf1 Red8 35. Ke1 Rxd1+ 36. Kxd1 a4 37. Nxa4 Bxc4 38. Nc3 Be6 39. Kc2 g5 40. a3
+c5 41. e3 Rb8 42. Nb1 Bxb3+ 43. Kc3 Bd5 44. Nd2 Ke6 45. a4 Ra8 46. Ba3 Rxa4 47.
+Bxc5 Ra1 48. Bf8 h5 49. Bh6 g4 50. Bf4 Rh1 51. Bxc7 Rc1+ 0-1
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Vdovichenko, Vladislav"]
+[Black "Shmat, Anna"]
+[Result "1-0"]
+[ECO "A59"]
+[WhiteElo "2222"]
+[BlackElo "1836"]
+[PlyCount "73"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. e4 Bxf1 8.
+Kxf1 d6 9. g3 Bg7 10. Kg2 Nbd7 11. Nf3 O-O 12. Re1 Ne8 13. Bf4 Qb6 14. Qc2 Nc7
+15. e5 dxe5 16. Nxe5 Nxe5 17. Bxe5 f6 18. Bxc7 Qxc7 19. Qe4 Rfb8 20. Qc4 Kf8
+21. Nb5 Qb7 22. a4 Rd8 23. Rad1 f5 24. b3 Bf6 25. Kg1 Qb6 26. d6 exd6 27. Re6
+Kg7 28. Rdxd6 Rxd6 29. Rxd6 Qa5 30. Rd7+ Kh6 31. Qf4+ Bg5 32. Qe5 Bf6 33. Qxf6
+Qe1+ 34. Kg2 Qe4+ 35. f3 Qe2+ 36. Kh3 Qf1+ 37. Kh4 1-0
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Vorobiov, Ivan"]
+[Black "Bortnik, Alexandr"]
+[Result "0-1"]
+[ECO "A87"]
+[BlackElo "2189"]
+[PlyCount "60"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 d6 4. g3 g6 5. Bg2 Bg7 6. Nf3 O-O 7. O-O Qe8 8. d5 c6
+9. Rb1 Na6 10. Nd4 Bd7 11. a3 Rc8 12. e4 fxe4 13. Nxe4 Nxe4 14. Bxe4 Nc5 15.
+Bg2 cxd5 16. cxd5 Qf7 17. Be3 a6 18. Qd2 Bf5 19. Rbd1 Be4 20. Ne2 Bxg2 21. Kxg2
+Ne4 22. Qb4 Qf3+ 23. Kg1 Nxf2 24. Bxf2 Qxe2 25. Qxb7 Rb8 26. Qa7 Qxb2 27. Rde1
+Rxf2 28. Qxf2 Bd4 29. Re3 Qxf2+ 30. Kxf2 Rf8+ 0-1
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.14"]
+[Round "2"]
+[White "Julin, Alexei"]
+[Black "Majboroda, Evgenija"]
+[Result "1-0"]
+[ECO "A87"]
+[WhiteElo "2232"]
+[BlackElo "2004"]
+[PlyCount "85"]
+[EventDate "2008.08.13"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 f5 2. Nc3 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 d6 6. d4 O-O 7. O-O Qe8 8. d5 a5
+9. Nd4 Na6 10. e4 fxe4 11. Nxe4 Nxe4 12. Bxe4 Nc5 13. Bg2 Qf7 14. Be3 Bd7 15.
+Rc1 Rac8 16. b3 c6 17. Qd2 e5 18. dxe6 Bxe6 19. Nxe6 Nxe6 20. Qxa5 Nd4 21. Qd2
+Nf5 22. Bh3 Rcd8 23. Bxf5 Qxf5 24. Bd4 Bxd4 25. Qxd4 d5 26. Rce1 Rd7 27. Re5
+dxc4 28. Qxc4+ Qf7 29. Qxf7+ Rfxf7 30. Rfe1 Rd2 31. R1e2 Rfd7 32. Kg2 Kf7 33.
+h4 Rxe2 34. Rxe2 Kf6 35. Kf3 c5 36. Ke3 Kg7 37. Rd2 Re7+ 38. Kd3 Re6 39. Kc4 b6
+40. Kb5 Kf6 41. a4 Kf5 42. Rd7 h5 43. Rb7 1-0
+
+[Event "Kiev Independence Cup-A 8th"]
+[Site "Kiev"]
+[Date "2008.08.14"]
+[Round "2"]
+[White "Shumilov, Ilya"]
+[Black "Danilenko, Dmitriy"]

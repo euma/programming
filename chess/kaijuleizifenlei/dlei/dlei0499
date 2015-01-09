@@ -1,0 +1,600 @@
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 Be6 5. Na3 g6 6. Nxc4 Bg7 7. Bd3 O-O 8.
+O-O c6 9. Qe2 Qc7 10. b3 Nbd7 11. Bb2 Nd5 12. Ng5 Bf5 13. Bxf5 gxf5 14. Qh5 h6
+15. Nf3 e6 16. Ba3 Rfe8 17. Bd6 Qd8 18. Nce5 Nxe5 19. Bxe5 Nf6 20. Qh3 Ne4 21.
+Bxg7 Kxg7 22. Rfd1 Ng5 23. Qh5 Nxf3+ 24. Qxf3 Kh7 25. e4 Qf6 26. Rac1 Rad8 27.
+d5 cxd5 28. exd5 e5 29. Rc7 e4 30. Qh5 Kg7 31. Rxb7 e3 32. fxe3 Rxe3 33. Rc7
+Rxd5 34. Rxd5 1-0
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.10"]
+[Round "4"]
+[White "Campos, Alexandre Ferreira"]
+[Black "Chaves, Jorge Antonio"]
+[Result "0-1"]
+[ECO "D20"]
+[WhiteElo "2148"]
+[BlackElo "2087"]
+[Annotator "Chaves,J"]
+[PlyCount "100"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e5 (3... Nf6 4. e4 e5 5. d5 c6 6. Bxc4 $14) 4. dxe5
+$5 ({Melhor era} 4. d5 c6 $14) 4... Qxd1+ 5. Kxd1 (5. Nxd1 Nc6 6. Nf3 Bg4 7.
+Bf4 $15) 5... Be6 6. e4 Nc6 $15 7. Nf3 O-O-O+ 8. Bd2 Bc5 9. Ke1 Nge7 {(As
+negras planejam h6, g5 e Cg6 pressionando em e5. O Final parece promissor
+devido a possibilidade de forçar a criação de um peão passado na ala dama. As
+Brancas estão com problema de desenvolvimento e falta de espaço.)} 10. Bg5 $6 (
+10. Rc1 {pensando em Cd5!?}) 10... h6 11. Bxe7 Nxe7 {(E as negras têm o Par de
+Bispos)} 12. Be2 c6 13. Rd1 Rxd1+ 14. Bxd1 b5 15. Ke2 (15. a4 a6 16. Ke2 Ng6
+17. g3 Bg4 $19) 15... g5 (15... Ng6 $19) 16. h3 Ng6 17. Re1 Nf4+ 18. Kf1 Rd8
+19. Be2 Nd3 20. Bxd3 cxd3 21. Rd1 Bb4 (21... Bf8 $19) 22. a3 Bxc3 23. bxc3 c5
+24. Ke1 Kc7 25. Kd2 Kb6 $5 (25... Bb3 {era melhor}) 26. Ke3 c4 27. Nd4 Kc5 28.
+Rb1 Rb8 29. g3 a5 (29... Bxh3 $5 30. Rh1 g4 31. e6 Rb7 32. exf7 Rxf7 33. f4 Re7
+$17) 30. f4 gxf4+ 31. gxf4 Bd7 32. f5 b4 $6 ({era melhor} 32... Rb6) 33. axb4+
+axb4 34. e6 fxe6 35. cxb4+ (35. Rxb4 Rxb4 36. Nxe6+ Bxe6 37. cxb4+ Kd6 38. fxe6
+Kxe6 39. h4 Kd6 40. Kd2 Ke5 41. b5 Kd6 42. Kc3 Kc5 $19) 35... Rxb4 36. Nxe6+
+Bxe6 (36... Kb5 $2 37. Nc7+ Ka4 38. Rxb4+ Kxb4 39. f6 $18) 37. Rxb4 Kxb4 (37...
+Bxf5 38. Rb1 (38. Rxc4+ Kxc4 39. exf5 Kc3 40. f6 d2 41. f7 d1=Q 42. f8=Q Qe1+
+43. Kf4 Qf2+ $19) 38... Bxh3 39. Rh1 Bg4 40. Rxh6 Be2 41. Kd2 $11) 38. fxe6 Kc3
+39. e7 d2 40. e8=Q d1=Q 41. Qe5+ Kc2 {(O peão de c5 apoiado pelo Rei e dama
+das negras dificulta a defesa das brancas.)} 42. Qh2+ Kc1 ({Vencia} 42... Kb1
+$19 43. e5 c3 44. Qg2 Qc1+ 45. Kd3 c2 46. Qe4 Qa3+ 47. Kd2 Qa5+ 48. Ke2 Qb5+
+49. Ke1 Kb2 50. Qd4+ Kb3 51. Qe3+ Ka2 52. Qc1 $19) 43. e5 c3 44. Qf4 $6 (44.
+Ke4 Qa4+ 45. Kf5 c2 46. Qg2 Qb5 47. Kf6 Kb1 48. Qe4 Kb2 49. Qd4+ Ka2 50. Qf2
+Qb2 51. Qa7+ Qa3 52. Qxa3+ Kxa3 53. e6 c1=Q 54. e7 Qg5+ 55. Kf7 Qf5+ 56. Kg8
+Qe6+ 57. Kf8 Qf6+ 58. Ke8 Kb4 59. Kd7 Qf5+ 60. Kd6 Qe4 61. Kd7 Qd5+ 62. Kc7 Qh5
+63. Kd8 Qh4 64. Kd7 Qxh3+ 65. Kc7 Qe6 66. Kd8 Qd6+ 67. Ke8 h5 $19) 44... Qd2+
+45. Kf3 Qxf4+ 46. Kxf4 c2 47. e6 Kb2 48. Kf5 c1=Q 49. Kf6 Qc3+ 50. Kf7 Qxh3 0-1
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.10"]
+[Round "4"]
+[White "Carvalho, Renato Luiz"]
+[Black "Siqueira, Allan de Sousa"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2105"]
+[PlyCount "19"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 Bf5 4. e3 e6 5. Bd3 Bg6 6. Bg3 Nbd7 7. c3 Bxd3 8.
+Qxd3 c6 9. Nbd2 Be7 10. Ne5 1/2-1/2
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.10"]
+[Round "4"]
+[White "Mascarenhas, Alberto Pinheiro"]
+[Black "Kubrusly, Jose Cristovam"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2263"]
+[BlackElo "2221"]
+[PlyCount "105"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 c5 5. Bxc4 e6 6. O-O Nc6 7. Nc3 cxd4 8.
+exd4 Be7 9. Qe2 O-O 10. Rd1 a6 11. a4 Nb4 12. Bg5 Re8 13. Rac1 Bd7 14. Ne5 Nbd5
+15. Rd3 Rc8 16. Rh3 Bc6 17. Bxd5 Bxd5 18. Bxf6 Bxf6 19. Qh5 Bxe5 20. Qxh7+ Kf8
+21. dxe5 Qg5 22. Qh8+ Ke7 23. Qh4 Qxh4 24. Rxh4 Bc6 25. Rd1 Red8 26. Rhd4 Rxd4
+27. Rxd4 f6 28. exf6+ gxf6 29. f3 Rh8 30. h3 f5 31. Kf2 e5 32. Rd1 Rh4 33. b3
+Ke6 34. Ke3 Rb4 35. Rb1 Kf6 36. Kd3 Kg5 37. Re1 Kf6 38. Kc2 Ke6 39. Na2 Rf4 40.
+Kc3 a5 41. Nc1 Rh4 42. Nd3 e4 43. g3 Rh7 44. fxe4 fxe4 45. Nf4+ Ke5 46. Kd2 Rg7
+47. Rg1 Be8 48. Kc3 Rc7+ 49. Kd2 Bf7 50. Rb1 Rd7+ 51. Kc2 Rc7+ 52. Kd2 Rd7+ 53.
+Kc2 1/2-1/2
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.10"]
+[Round "4"]
+[White "Santos, Celso da Silva"]
+[Black "Maia, Marco Aurelio Ferre"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2050"]
+[BlackElo "2119"]
+[PlyCount "85"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Nxe5 gxf4 13. Nxd7 O-O-O 14. Qd4
+Qxd7 15. Qxd7+ Bxd7 16. gxf4 Bd6 17. e3 Rhg8 18. Bf3 Bg4 19. Ke2 Rde8 20. Bxg4+
+Rxg4 21. Kf3 Reg8 22. Rad1 Kc7 23. Ne4 Be7 24. Ng3 R4g6 25. b3 a5 26. Rd3 Rd8
+27. Rhd1 Rxd3 28. Rxd3 b5 29. e4 Bb4 30. e5 Rh6 31. Nf1 bxa4 32. bxa4 Rh3+ 33.
+Ke4 Rxd3 34. Kxd3 Be1 35. f3 c5 36. Kc4 Kc6 37. f5 Bf2 38. f4 Bd4 39. f6 Kd7
+40. Kd5 Bf2 41. f5 Bd4 42. Nd2 Be3 43. Nc4 {tempo} 1-0
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.13"]
+[Round "5"]
+[White "Kubrusly, Jose Cristovam"]
+[Black "Von Buelow, Georg"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[WhiteElo "2221"]
+[BlackElo "2367"]
+[PlyCount "54"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. e3 d5 5. d4 e6 6. a3 a6 7. dxc5 Bxc5 8. cxd5
+exd5 9. b4 Ba7 10. Be2 O-O 11. O-O Bg4 12. b5 axb5 13. Nxb5 Bc5 14. Bb2 Ne4 15.
+Nfd4 Bxe2 16. Qxe2 Qd7 17. Nb3 Bb6 18. Bd4 Bxd4 19. N3xd4 Ne5 20. h3 Ra6 21.
+Qh5 f5 22. Qh4 Nd3 23. Rad1 Rh6 24. Qxh6 gxh6 25. Rxd3 f4 26. exf4 Rxf4 27. f3
+Nd6 1/2-1/2
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.13"]
+[Round "5"]
+[White "Maia, Marco Aurelio Ferre"]
+[Black "Dos Santos, Braulio"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2119"]
+[BlackElo "2044"]
+[PlyCount "85"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bg4 4. Nbd2 f6 5. h3 Bh5 6. g4 Bg6 7. c3 Qd7 8. Bg2
+O-O-O 9. b4 h5 10. b5 Nb8 11. Nh4 Be8 12. Nf5 hxg4 13. hxg4 Rxh1+ 14. Bxh1 e6
+15. Ne3 g5 16. Bg3 Qh7 17. Bg2 Bd6 18. Bxd6 Rxd6 19. a4 Ne7 20. Nf3 Ng6 21. Qc2
+Qe7 22. Qd2 Nf4 23. Bf1 Rd8 24. Nc2 e5 25. e3 Ng6 26. Nb4 e4 27. Ng1 Bf7 28. a5
+Rd6 29. b6 cxb6 30. a6 Kd8 31. Qa2 Ke8 32. axb7 a5 33. Bb5+ Kf8 34. Na6 Qxb7
+35. Qa3 Ke7 36. Nxb8 Qxb8 37. Ne2 Nh4 38. Ng3 Qc8 39. Be2 Be6 40. c4 Bxg4 41.
+cxd5 Bxe2 42. Nxe4 Ng2+ 43. Kd2 {tempo} 0-1
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.13"]
+[Round "5"]
+[White "Rovedo, Salomao"]
+[Black "Carvalho, Renato Luiz"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1822"]
+[BlackElo "2105"]
+[PlyCount "36"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Bg4 3. e3 e6 4. Be2 Bd6 5. h3 Bxf3 6. Bxf3 f5 7. Nd2 Nf6 8. c4
+c6 9. O-O O-O 10. cxd5 exd5 11. Be2 Nbd7 12. f4 Ne4 13. Nf3 Ng3 14. Rf2 Nxe2+
+15. Qxe2 Qe7 16. Ne5 Nf6 17. Rf3 Ne4 18. Bd2 Rf6 1/2-1/2
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.23"]
+[Round "6"]
+[White "Carvalho Beserra, Juan Pablo"]
+[Black "Ramos, Angelo Bil"]
+[Result "1/2-1/2"]
+[ECO "D97"]
+[BlackElo "2238"]
+[PlyCount "66"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Be2
+b5 9. Qb3 c5 10. dxc5 Bb7 11. O-O Qc7 12. e5 Ng4 13. h3 Nxe5 14. Nxe5 Qxe5 15.
+Be3 Nc6 16. Rac1 Rfd8 17. Rfd1 Nd4 18. Bxd4 Rxd4 19. Rxd4 Qxd4 20. Nxb5 axb5
+21. c6 Bc8 22. c7 Qd2 23. Rd1 Qxe2 24. Rd8+ Bf8 25. Qc3 f6 26. Qc6 Qe1+ 27. Kh2
+Qxf2 28. Qxa8 Qf4+ 29. g3 Qf2+ 30. Qg2 Qf5 31. Rxc8 Qxc8 32. Qd5+ Kg7 33. Qd8
+Qe6 1/2-1/2
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.23"]
+[Round "6"]
+[White "Mascarenhas, Alberto Pinheiro"]
+[Black "Lima, Darcy"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[WhiteElo "2263"]
+[BlackElo "2479"]
+[PlyCount "74"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. e3 Nc6 5. Be2 d5 6. d4 cxd4 7. exd4 dxc4 8.
+Bxc4 a6 9. O-O Be7 10. Bg5 O-O 11. Qd2 b5 12. Bb3 Na5 13. Bc2 Bb7 14. Ne5 Rc8
+15. Qd3 g6 16. Rfe1 Nd5 17. Bxe7 Qxe7 18. Nxd5 Bxd5 19. Qd2 Nc4 20. Nxc4 Rxc4
+21. Bb3 Qb4 22. Rad1 Qxd2 23. Rxd2 Rc7 24. Bxd5 exd5 25. Kf1 b4 26. Re5 Rd8 27.
+Ke2 a5 28. Kd1 a4 29. Rc2 Rxc2 30. Kxc2 f6 31. Re6 Rc8+ 32. Kd3 b3 33. axb3
+axb3 34. Re2 Kf7 35. Re1 h5 36. Rd1 Ke6 37. Ke3 g5 1/2-1/2
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.23"]
+[Round "6"]
+[White "Rovedo, Salomao"]
+[Black "Ferreira, Jose Carlos"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "1822"]
+[BlackElo "2037"]
+[PlyCount "20"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. O-O O-O 6. c3 c6 7. Nbd2 Nbd7 8. b3
+b6 9. Bb2 Bb7 10. e4 Bf4 1/2-1/2
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.23"]
+[Round "6"]
+[White "Santos, Celso da Silva"]
+[Black "Rodrigues, Nei Jorge"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2050"]
+[BlackElo "2065"]
+[PlyCount "109"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Bg5 c6 5. cxd5 exd5 6. Qc2 Be7 7. e3 O-O 8. Bd3
+h6 9. Bf4 Nbd7 10. Nge2 Re8 11. O-O Nf8 12. Rab1 Bd6 13. b4 Ne6 14. Bg3 b6 15.
+e4 Bxg3 16. hxg3 dxe4 17. Nxe4 Nxd4 18. Nxd4 Qxd4 19. Qxc6 Be6 20. Nxf6+ Qxf6
+21. Qa4 Red8 22. Rbd1 a5 23. Be4 Rac8 24. a3 g6 25. Rxd8+ Qxd8 26. Rd1 Qg5 27.
+bxa5 bxa5 28. Qd4 Rc4 29. Qd8+ Qxd8 30. Rxd8+ Kg7 31. Bf3 Rc3 32. a4 Rc4 33.
+Bd1 Kf6 34. Kf1 Ke7 35. Ra8 Rc5 36. Ke1 Kd6 37. Be2 Bd7 38. Bd1 Bc6 39. Ra7 Bd7
+40. Bb3 Be6 41. Bxe6 Kxe6 42. Kd2 h5 43. Kd3 g5 44. Ra6+ Kf5 45. Rh6 f6 46.
+Rxh5 Rc1 47. Rh7 Ra1 48. Ra7 Rxa4 49. Ra6 Ra2 50. Ke3 a4 51. Ra5+ Kg6 52. Ra6
+a3 53. Kf3 Kf5 54. Ra5+ Kg6 55. Ra6 1/2-1/2
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.23"]
+[Round "6"]
+[White "Von Buelow, Georg"]
+[Black "Chauca, Jose Luis Murga"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2367"]
+[BlackElo "2209"]
+[PlyCount "73"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 a6 6. c5 O-O 7. e3 Nh5 8. Bd3
+Nxf4 9. exf4 f5 10. Ne5 Nd7 11. Qc2 Nxe5 12. fxe5 Bd7 13. O-O-O b6 14. cxb6
+cxb6 15. Kb1 b5 16. g4 g6 17. h4 Rc8 18. Qd2 Bb4 19. h5 g5 20. f4 gxf4 21. gxf5
+Bxc3 22. bxc3 exf5 23. Qg2+ Kh8 24. Qxd5 Qe7 25. Qb3 a5 26. Rhf1 Be6 27. Qb2 b4
+28. cxb4 axb4 29. Bc2 Bd5 30. Rxf4 Qg5 31. Rdf1 Qxh5 32. Bb3 Be4+ 33. Ka1 Qe8
+34. e6 h6 35. d5+ Kh7 36. d6 Qg6 37. d7 1-0
+
+[Event "Rio de Janeiro Andrade op"]
+[Site "Rio de Janeiro"]
+[Date "2008.05.31"]
+[Round "7"]
+[White "Rios Filho, Hilton Carlos"]
+[Black "Chaves, Jorge Antonio"]
+[Result "1-0"]
+[ECO "D23"]
+[WhiteElo "2222"]
+[BlackElo "2087"]
+[PlyCount "165"]
+[EventDate "2008.04.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Qa4+ Nbd7 5. g3 c6 6. Qxc4 Nb6 7. Qd3 Bg4 8.
+Bg2 e6 9. Nc3 Be7 10. O-O O-O 11. Rd1 a5 12. e4 c5 13. Qb5 cxd4 14. Rxd4 Qc7
+15. Bf4 Qc5 16. Rad1 Qxb5 17. Nxb5 Bc5 18. R4d2 Nxe4 19. Rc2 Rfd8 20. Re1 Bxf2+
+21. Rxf2 Nxf2 22. Kxf2 Nd5 23. Bg5 f6 24. Bd2 Nb4 25. Bxb4 axb4 26. a3 bxa3 27.
+Nxa3 e5 28. Ke3 Ra4 29. Rc1 Rb4 30. Rc2 Rb3+ 31. Kf2 e4 32. Ne1 e3+ 33. Kf1 Kf8
+34. Nc4 Rd1 35. Rc3 Rxc3 36. bxc3 e2+ 37. Kf2 Rc1 38. Bxb7 Rxc3 39. Ne3 Bh5 40.
+g4 Bf7 41. Kxe2 Rb3 42. Be4 Rb2+ 43. N1c2 Bg6 44. Bxg6 hxg6 45. Kf3 Kf7 46. h4
+Rb1 47. Nd4 Rh1 48. Kg3 Ra1 49. Ne2 Ra5 50. Kf3 Ra3 51. Ke4 Ra1 52. Nd4 Rh1 53.
+Kf3 Ke7 54. Kg3 Ra1 55. Nf3 Kf7 56. Ng2 Ra3 57. Nf4 Ra5 58. g5 Ra3 59. Kg4 Ra5
+60. Kg3 Ra4 61. Nh3 Ke6 62. Nf2 Kf7 63. Nd3 Ra5 64. Nf4 Ra3 65. Kg4 Ra5 66. Kg3
+Ra3 67. Kg4 Ra5 68. Kg3 Ra3 69. Kf2 Ra4 70. Ke3 Ra3+ 71. Nd3 Ra4 72. Nc5 Ra3+
+73. Kf4 Rc3 74. Ne4 Rc4 75. Ke3 Ra4 76. Nc3 Ra3 77. Kd4 Ra1 78. Ne4 Ra4+ 79.
+Ke3 Ra3+ 80. Kf2 Ra2+ 81. Kg3 Ra7 82. Nc3 Ra3 83. Ne4 1-0
+
+[Event "Sigeman & Co 16th"]
+[Site "Malmo"]
+[Date "2008.04.22"]
+[Round "1"]
+[White "Hansen, Lars Bo"]
+[Black "Portisch, Lajos"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[WhiteElo "2563"]
+[BlackElo "2523"]
+[PlyCount "63"]
+[EventDate "2008.04.22"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. Rc1
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. Bd3 c5 12. O-O cxd4 13. Nxd4 Nc6 14. Nxc6
+Bxc6 15. Ne2 Qd7 16. Qc2 Bb7 17. Qc7 Qxc7 18. Rxc7 Rab8 19. Nd4 Be5 20. Rd7
+Rfd8 21. Rxd8+ Rxd8 22. Rc1 Bxd4 23. exd4 Rc8 24. Re1 Kf8 25. f4 Re8 26. Rd1
+Ke7 27. Kf2 Kd6 28. g4 Bc6 29. h4 a6 30. Re1 Rxe1 31. Kxe1 a5 32. Kf2 1/2-1/2
+
+[Event "Sigeman & Co 16th"]
+[Site "Malmo"]
+[Date "2008.04.22"]
+[Round "1"]
+[White "Lie, Kjetil A"]
+[Black "Smith, Axel"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2558"]
+[BlackElo "2428"]
+[PlyCount "80"]
+[EventDate "2008.04.22"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nc3 dxc4 5. e3 b5 6. a4 Bb4 7. Bd2 a5 8. axb5
+Bxc3 9. Bxc3 cxb5 10. b3 Bb7 11. bxc4 b4 12. Bb2 Nf6 13. Bd3 Nbd7 14. O-O O-O
+15. Nd2 Qc7 16. e4 e5 17. f4 exd4 18. e5 Qc6 19. Rf3 Nc5 20. exf6 Nxd3 21. Rg3
+g6 22. Bxd4 Rfd8 23. Nb3 Nxf4 24. Qd2 Rxd4 25. Nxd4 Qxf6 26. Nc2 Rd8 27. Qe1
+Nxg2 28. Rxg2 Bxg2 29. Kxg2 Qb2 30. Qc1 Qc3 31. Ne1 Qxc1 32. Rxc1 b3 33. Ra1
+Rb8 34. Nd3 b2 35. Rb1 a4 36. Nxb2 a3 37. Kf3 Rxb2 38. Ra1 Rc2 39. Rxa3 Rxc4
+40. Kg3 Kg7 0-1
+
+[Event "Sigeman & Co 16th"]
+[Site "Malmo"]
+[Date "2008.04.23"]
+[Round "2"]
+[White "Portisch, Lajos"]
+[Black "Akesson, Ralf"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "2523"]
+[BlackElo "2466"]
+[PlyCount "66"]
+[EventDate "2008.04.22"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Bc4 Nxc3 8.
+bxc3 c5 9. O-O Qc7 10. Qe2 b6 11. Rd1 e6 12. e4 Bb7 13. Bd3 Nc6 14. Bb2 Rfd8
+15. Qe3 Rac8 16. Rac1 Qe7 17. Ba3 Rd7 18. Be2 Na5 19. dxc5 bxc5 20. Bb5 Rdc7
+21. Nd2 a6 22. Bd3 Qe8 23. Bc2 Qc6 24. Qe2 Rd7 25. Nc4 Rxd1+ 26. Rxd1 Qb5 27.
+Bd3 Nxc4 28. Bxc4 Qa4 29. Bb2 Bxe4 30. Bxa6 Rb8 31. a3 Bc2 32. Rc1 Rxb2 33. Bd3
+Bh6 0-1
+
+[Event "Sigeman & Co 16th"]
+[Site "Malmo"]
+[Date "2008.04.24"]
+[Round "3"]
+[White "Agrest, Evgenij"]
+[Black "Smith, Axel"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2567"]
+[BlackElo "2428"]
+[PlyCount "85"]
+[EventDate "2008.04.22"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. Nf3 d5 2. d4 c6 3. c4 e6 4. Qc2 Nf6 5. Bg5 h6 6. Bh4 dxc4 7. Qxc4 b5 8. Qc2
+Bb7 9. e3 Nbd7 10. Bd3 a6 11. a4 c5 12. Bxf6 gxf6 13. Be4 Bxe4 14. Qxe4 b4 15.
+O-O f5 16. Qc2 cxd4 17. exd4 Bg7 18. Nbd2 O-O 19. Nb3 Nb6 20. a5 Nd5 21. Rfc1
+Kh8 22. Qd2 Qd6 23. Ne5 Kh7 24. Nc4 Qe7 25. Ne3 Nxe3 26. fxe3 h5 27. Qe2 Qg5
+28. Rf1 Bh6 29. Rf3 Rg8 30. Raf1 Qg4 31. Nc5 Rg6 32. R1f2 Rag8 33. Kf1 h4 34.
+h3 Qh5 35. e4 Qg5 36. Nd3 R8g7 37. exf5 exf5 38. Rxf5 Qd8 39. Qe4 Qc7 40. Rh5
+Qg3 41. Ne5 Qh2 42. Rxh6+ Kxh6 43. Qxh4# 1-0
+
+[Event "Sigeman & Co 16th"]
+[Site "Malmo"]
+[Date "2008.04.24"]
+[Round "3"]
+[White "Hansen, Lars Bo"]
+[Black "Hillarp Persson, Tiger"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2563"]
+[BlackElo "2491"]
+[PlyCount "41"]
+[EventDate "2008.04.22"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 a6 6. Qc2 c5 7. cxd5 exd5 8. Be2
+Nc6 9. O-O Be6 10. dxc5 Bxc5 11. a3 Rc8 12. b4 Ba7 13. Bb2 O-O 14. b5 axb5 15.
+Nxb5 Bb8 16. Qd3 Ne4 17. Rac1 Qe7 18. Nc3 Nf6 19. Nb5 Ne4 20. Nc3 Nf6 21. Nb5
+1/2-1/2
+
+[Event "Sigeman & Co 16th"]
+[Site "Malmo"]
+[Date "2008.04.24"]
+[Round "3"]
+[White "Lie, Kjetil A"]
+[Black "Portisch, Lajos"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2558"]
+[BlackElo "2523"]
+[PlyCount "85"]
+[EventDate "2008.04.22"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 Nbd7 8.
+Nge2 O-O 9. f3 Re8 10. O-O Nf8 11. Qc2 Be6 12. Rad1 Rc8 13. e4 dxe4 14. fxe4
+Ng4 15. Bc1 Bg5 16. Rf3 c5 17. Bb5 Bxc1 18. Qxc1 Qc7 19. Qf4 Qxf4 20. Rxf4 cxd4
+21. Nd5 Nd7 22. Nxd4 Nge5 23. Nf5 Bxf5 24. exf5 a6 25. Ba4 b5 26. Bb3 a5 27. a4
+Nc5 28. Bc2 Nxa4 29. Bxa4 bxa4 30. f6 Ng6 31. Rxa4 Rc5 32. h4 h5 33. fxg7 Kxg7
+34. Nf4 Nxf4 35. Rxf4 Re7 36. Rdf1 Rb5 37. R1f3 Reb7 38. Rg3+ Kf8 39. Ra3 Rc7
+40. Kh2 Rc2 41. Raf3 Rbxb2 42. Rxf7+ Kg8 43. Rf8+ 1/2-1/2
+
+[Event "Sigeman & Co 16th"]
+[Site "Malmo"]
+[Date "2008.04.25"]
+[Round "4"]
+[White "Hansen, Lars Bo"]
+[Black "Akesson, Ralf"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2563"]
+[BlackElo "2466"]
+[PlyCount "121"]
+[EventDate "2008.04.22"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. cxd5 exd5 7. e3 c6 8. Bd3
+Ne4 9. Bxe4 Bxg5 10. Bd3 Bg4 11. h4 Bh6 12. Bxh7+ Kxh7 13. Ng5+ Qxg5 14. hxg5
+Bxd1 15. Rxd1 Nd7 16. Kd2 f5 17. Ne2 Nf6 18. gxf6 Rxf6 19. g3 Kg8 20. Nc1 c5
+21. dxc5 d4 22. f4 Rg6 23. Ne2 dxe3+ 24. Kxe3 Rc8 25. Rd5 b6 26. Rc1 Re6+ 27.
+Kf2 bxc5 28. Rcxc5 Rxc5 29. Rxc5 g6 30. b3 Bg7 31. Rc4 Ra6 32. a4 Bf8 33. Nd4
+Rb6 34. Ke3 Rb7 35. Kd3 Kh7 36. Kc2 Kh6 37. Ne6 Be7 38. Rc7 Rxc7+ 39. Nxc7 Kh5
+40. Nd5 Bd8 41. Ne3 Ba5 42. Kd1 Bc3 43. Ke2 a5 44. Nd5 Bd4 45. b4 axb4 46. Nxb4
+Kg4 47. Nc6 Bb6 48. Ne5+ Kxg3 49. Nxg6 Kg4 50. Kd3 Ba5 51. Kc4 Bd2 52. Kb5 Bxf4
+53. Nxf4 Kxf4 54. a5 Ke3 55. a6 f4 56. a7 f3 57. a8=Q f2 58. Qg2 Ke2 59. Kc4
+Ke1 60. Kc3 Ke2 61. Qe4+ 1-0
+
+[Event "Sigeman & Co 16th"]
+[Site "Malmo"]
+[Date "2008.04.26"]
+[Round "5"]
+[White "Agrest, Evgenij"]
+[Black "Portisch, Lajos"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2567"]
+[BlackElo "2523"]
+[PlyCount "71"]
+[EventDate "2008.04.22"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. Qc2 Bg4 7. f3 Bh5 8.
+O-O-O Nd7 9. e4 Bg6 10. Bd3 Ngf6 11. Nge2 Nf8 12. h3 Ne6 13. Be3 dxe4 14. fxe4
+Qc7 15. Kb1 O-O 16. g4 c5 17. e5 Bxd3 18. Rxd3 Nd7 19. d5 Nd4 20. Bxd4 cxd4 21.
+d6 Bxd6 22. exd6 Qc6 23. Rhd1 dxc3 24. Rxc3 Qg2 25. Nf4 Qxc2+ 26. Rxc2 Ne5 27.
+Rc7 Rab8 28. Re1 Nc6 29. Nd5 Rfd8 30. Ne7+ Nxe7 31. Rexe7 Rxd6 32. Rxf7 Rg6 33.
+Rxb7 Rxb7 34. Rxb7 Ra6 35. b4 Ra3 36. b5 1-0
+
+[Event "Sigeman & Co 16th"]
+[Site "Malmo"]
+[Date "2008.04.26"]
+[Round "5"]
+[White "Akesson, Ralf"]
+[Black "Hillarp Persson, Tiger"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "2466"]
+[BlackElo "2491"]
+[PlyCount "84"]
+[EventDate "2008.04.22"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. b3
+b6 9. O-O Bb7 10. Bb2 Qe7 11. Rad1 Rad8 12. Bd3 Rfe8 13. Rfe1 dxc4 14. Bxc4 a6
+15. e4 b5 16. Bf1 e5 17. Ne2 Bb4 18. Nc3 exd4 19. Nxd4 Ne5 20. Nf5 Qc7 21. h3
+c5 22. Rxd8 Rxd8 23. f4 Ng6 24. e5 Nh5 25. Nd6 Nhxf4 26. Rd1 Ba8 27. Nce4 Ne6
+28. a4 c4 29. bxc4 Bxe4 30. Qxe4 bxa4 31. Kh1 a3 32. Ba1 Nxe5 33. c5 Bxc5 34.
+Bxe5 Bxd6 35. Ba1 Bc5 36. Rc1 Qg3 37. Bc4 Bd6 38. Kg1 Bc5+ 39. Kh1 Bd6 40. Kg1
+Qh2+ 41. Kf2 Bg3+ 42. Ke2 Nf4+ 0-1
+
+[Event "Sigeman & Co 16th"]
+[Site "Malmo"]
+[Date "2008.04.27"]
+[Round "6"]
+[White "Hansen, Lars Bo"]
+[Black "Stellwagen, Daniel"]

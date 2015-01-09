@@ -1,0 +1,600 @@
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. Qd2 b5 8. f4 b4
+9. Nd1 e6 10. Nf3 Nd4 11. O-O Ne7 12. Nh4 O-O 13. c3 bxc3 14. bxc3 Ndc6 15. f5
+f6 16. fxg6 hxg6 17. Bh6 Ne5 18. Bxg7 Kxg7 19. Nf3 N7c6 20. Nxe5 Nxe5 21. Rf2
+Ba6 22. Bf1 Qa5 23. Kg2 c4 24. d4 Nd3 25. Bxd3 cxd3 26. Qf4 e5 27. Qg4 exd4 28.
+cxd4 f5 29. exf5 Qd5+ 30. Kg1 Rf6 31. Ne3 Qc6 32. fxg6 Rxf2 33. Kxf2 Rb2+ 34.
+Kg1 d2 35. Rd1 Qe8 36. Qg5 Rb5 37. Qf4 Qxg6 38. Rxd2 Rb1+ 39. Kg2 Bb7+ 40. d5
+Bc8 41. Rf2 Qe8 42. Qg5+ Kh7 43. Rf4 Rb2+ 44. Kf3 Rxh2 45. Rh4+ Rxh4 46. Qxh4+
+Kg8 47. Qg5+ Kh7 48. Ng2 Qf7+ 49. Nf4 Bb7 50. Kg4 Bc8+ 51. Kh4 Qc7 52. Nh5 Qc4+
+53. g4 Qd4 54. Nf6+ 1-0
+
+[Event "Condom (Women)"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "6"]
+[White "Videnova, Iva"]
+[Black "Shoker, Samy"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2211"]
+[BlackElo "2365"]
+[PlyCount "48"]
+[EventDate "2008.07.12"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 6. Bd3 Bb7 7. O-O c5 8. dxc5
+dxc5 9. e5 Nd7 10. Be4 Qc8 11. Ng5 Nh6 12. Nd5 e6 13. Nc3 Nf5 14. g4 Ne7 15.
+Qf3 Nc6 16. Be3 h6 17. Nxe6 fxe6 18. Bxg6+ Kf8 19. Qf2 Ne7 20. f5 Nxe5 21. Qe2
+N7xg6 22. fxg6+ Kg8 23. Bf4 Qc6 24. Bxe5 Bxe5 0-1
+
+[Event "Condom (Women)"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "8"]
+[White "Benmesbah, Natacha"]
+[Black "Matseyko, Ekaterina"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2210"]
+[BlackElo "2308"]
+[PlyCount "92"]
+[EventDate "2008.07.12"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 b5 10. Nd5 Bg7 11. c3 f5 12. Bd3 Be6 13. Nxb5 axb5 14. Bxb5
+Bd7 15. exf5 O-O 16. Qg4 Kh8 17. Qe4 Rb8 18. a4 f6 19. O-O Ne7 20. Bxd7 Qxd7
+21. Nxe7 Qxe7 22. b4 Rfc8 23. Rfc1 Qf7 24. a5 d5 25. Qd3 Bf8 26. a6 Rc7 27. Rd1
+Rd8 28. Qb5 Rxc3 29. Qa5 Ra8 30. Rxd5 Rc2 31. Rb5 Qc4 32. g3 e4 33. Qb6 e3 34.
+Rf1 e2 35. Re1 Rc1 36. Kg2 Rxe1 37. Qxf6+ Bg7 38. Qd6 Rg1+ 39. Kh3 e1=Q 40.
+Rb8+ Rxb8 41. Qxb8+ Qg8 42. a7 Qf1+ 43. Kg4 Qfc4+ 44. f4 Qcc8 45. Qb5 Be5+ 46.
+Kf3 Qc3+ 0-1
+
+[Event "Condom (Women)"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "8"]
+[White "Congiu, Mathilde"]
+[Black "Shoker, Samy"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2196"]
+[BlackElo "2365"]
+[PlyCount "116"]
+[EventDate "2008.07.12"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 c6 5. a4 Nf6 6. Be2 O-O 7. O-O Nbd7 8. h3
+e5 9. Be3 exd4 10. Nxd4 Re8 11. Nf3 Nxe4 12. Nxe4 Rxe4 13. Qxd6 Bxb2 14. Rad1
+Bf6 15. Bd3 Re6 16. Qg3 Qa5 17. Bc4 Re7 18. Bg5 Kg7 19. Qh4 h5 20. Rd6 Bxg5 21.
+Nxg5 Qe5 22. Rfd1 f6 23. Ne6+ Kh6 24. Nf4 Qg5 25. Qxg5+ Kxg5 26. g3 Ne5 27. h4+
+Kh6 28. Be2 Kg7 29. Rd8 Nf7 30. Bc4 Nxd8 31. Rxd8 b5 32. axb5 cxb5 33. Bd5 Bb7
+34. Rxa8 Bxa8 35. Bxa8 Re1+ 36. Kg2 a5 37. Bc6 b4 38. Ba4 g5 39. hxg5 fxg5 40.
+Nd3 Ra1 41. Nc5 Kf6 42. Bb3 Ke5 43. Na4 Kd4 44. Kh2 Re1 45. Kg2 Re7 46. Nb6 Rb7
+47. Na4 Rb8 48. Bf7 Rh8 49. Bb3 Rf8 50. Be6 Rf6 51. Bb3 Rh6 52. Bf7 Rf6 53. Bb3
+Ke4 54. Nb2 Kd4 55. Na4 Ra6 56. Kh2 Rh6 57. Kg2 h4 58. gxh4 gxh4 1/2-1/2
+
+[Event "Condom (Women)"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "8"]
+[White "Robles Garcia, Claudia"]
+[Black "Guichard, Pauline"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[WhiteElo "2256"]
+[BlackElo "2284"]
+[PlyCount "99"]
+[EventDate "2008.07.12"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nge7 9. c4 Nd4 10. Bd3 Nxd5 11. cxd5 g6 12. O-O Bg7 13. Be3 O-O 14. Nc2 Nxc2
+15. Qxc2 Bd7 16. Qe2 f5 17. f3 Rc8 18. b3 Qa5 19. Bd2 Qd8 20. Be3 Bf6 21. a4
+Bg5 22. Bf2 fxe4 23. fxe4 Rc3 24. axb5 Rxd3 25. Qxd3 Bxb5 26. Qc2 Bxf1 27. Rxf1
+Qa5 28. Qd3 Qd2 29. Qxa6 Be3 30. Bxe3 Qxe3+ 31. Kh1 Rxf1+ 32. Qxf1 Qxe4 33. Qd1
+Qf4 34. g3 Qe4+ 35. Kg1 Qe3+ 36. Kf1 Qe4 37. Kf2 Qb4 38. Qd3 Kg7 39. Qc4 Qd2+
+40. Kf3 Qd1+ 41. Kf2 Kf6 42. Qh4+ Kf5 43. Qh3+ Ke4 44. Qh4+ Kf5 45. Qh3+ Ke4
+46. Qh4+ Kd3 47. Qc4+ Kd2 48. Qb4+ Kc1 49. Qc4+ Kd2 50. Qb4+ 1/2-1/2
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "1"]
+[White "Bouthier, Jacques"]
+[Black "Bujisho, Benjamin"]
+[Result "0-1"]
+[ECO "B28"]
+[WhiteElo "1965"]
+[BlackElo "2402"]
+[PlyCount "78"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. c3 d3 5. Bxd3 d6 6. O-O e6 7. c4 Nf6 8. Nc3
+Be7 9. Be3 Nbd7 10. Rc1 O-O 11. Nd4 Qc7 12. Bb1 b6 13. f4 Bb7 14. Qe2 Rac8 15.
+b3 Qb8 16. Kh1 Rfe8 17. Bg1 Qa8 18. Nf3 g6 19. f5 Bf8 20. fxe6 fxe6 21. Bd4 Bg7
+22. e5 Bxf3 23. Rxf3 Nxe5 24. Rg3 Nh5 25. Bxe5 dxe5 26. Rf3 Rf8 27. Rxf8+ Rxf8
+28. Ne4 Qd8 29. Rd1 Qh4 30. g3 Qe7 31. Qe3 Qc7 32. Bc2 Nf6 33. Nxf6+ Rxf6 34.
+Qe4 Bf8 35. h4 Bc5 36. Qg4 Qf7 37. Rd8+ Kg7 38. Be4 h5 39. Qg5 Rf1+ 0-1
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "1"]
+[White "Catala, Laurent"]
+[Black "Massoni, Michael"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "1873"]
+[BlackElo "2172"]
+[PlyCount "61"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. a4 Qc7 6. Bd3 Nf6 7. Nc3 b6 8. Qe2
+d6 9. O-O g6 10. Nb3 Bg7 11. f4 Nbd7 12. Be3 O-O 13. Bd4 Nc5 14. Kh1 Nxb3 15.
+cxb3 e5 16. fxe5 dxe5 17. Bg1 Bb7 18. Rac1 Qd8 19. Rcd1 Nh5 20. Qf2 Qg5 21. Bc4
+b5 22. axb5 axb5 23. Bxb5 f5 24. Qd2 Nf4 25. Bc4+ Kh8 26. Nd5 fxe4 27. Be3 Qg4
+28. Nxf4 exf4 29. Rxf4 Rxf4 30. Bxf4 e3 31. Qd8+ 1-0
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "1"]
+[White "Devecchi, Jorge"]
+[Black "Van Elst, Andreas"]
+[Result "0-1"]
+[ECO "B41"]
+[WhiteElo "1938"]
+[BlackElo "2336"]
+[PlyCount "40"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be3 Nf6 6. f3 Qc7 7. Qd2 d5 8. Bd3
+dxe4 9. fxe4 Bd6 10. Nc3 O-O 11. Nde2 Ng4 12. Bd4 Ne5 13. O-O-O Nbc6 14. Bg1
+Rd8 15. Kb1 b5 16. Bxb5 Ba3 17. Bxc6 Rxd2 18. Bxa8 Qb8 19. Kc1 Nc4 20. Rxd2
+Qxb2+ 0-1
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "1"]
+[White "Klimakovs, Sergejs"]
+[Black "Ouerk, Yanis"]
+[Result "0-1"]
+[ECO "B70"]
+[WhiteElo "2265"]
+[BlackElo "1918"]
+[PlyCount "72"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 Nxd4 7. Qxd4 g6 8.
+Bg2 Bg7 9. O-O O-O 10. Qb4 a5 11. Qb3 Ra6 12. a4 Rb6 13. Nb5 Be6 14. Qd3 Ng4
+15. f4 Qc8 16. Rf3 Bc4 17. Qd2 Bxb5 18. axb5 Rxb5 19. h3 Qc5+ 20. Kh1 Nf6 21.
+Rc3 Qb6 22. Rca3 Ra8 23. Qe2 Nd7 24. R1a2 Bxb2 25. Qxb5 Qxb5 26. Rxb2 Qe2 27.
+Be3 Rc8 28. Bg1 b6 29. Bf3 Qf1 30. Bg4 e6 31. Kh2 Qc1 32. Raa2 a4 33. c4 Rxc4
+34. Bf3 a3 35. Rd2 Nc5 36. Rd1 Rc2+ 0-1
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "1"]
+[White "Lejarre, Ludovic"]
+[Black "Larand, Manuel"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2409"]
+[BlackElo "1966"]
+[PlyCount "47"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 Na6 3. c3 Nc7 4. Bd3 g6 5. Nf3 Bg7 6. Nbd2 Nh6 7. h4 d5 8. h5
+Bg4 9. Qb3 Qc8 10. Ne5 Be6 11. Qc2 Ng4 12. Nxg4 Bxg4 13. f3 dxe4 14. Nxe4 Be6
+15. Bd2 Nb5 16. O-O-O Nd6 17. hxg6 hxg6 18. Rxh8+ Bxh8 19. Rh1 Kd7 20. Nc5+ Kc7
+21. Re1 Nf5 22. Bf4+ Kd8 23. g4 Ng7 24. Qh2 1-0
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "1"]
+[White "Maenhout, Thibaut"]
+[Black "Tchefranoff, Stephane"]
+[Result "1-0"]
+[ECO "B11"]
+[WhiteElo "2277"]
+[BlackElo "1928"]
+[PlyCount "41"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. a3 Nd7 7. d3 Ngf6 8. g4
+h6 9. Bg2 Qb6 10. O-O Bd6 11. Qe2 O-O-O 12. b4 Be5 13. Bd2 g5 14. b5 h5 15.
+bxc6 Qxc6 16. d4 Bxd4 17. Nb5 Qc5 18. Bb4 Qb6 19. Nd6+ Kb8 20. Rab1 Nc5 21.
+Bxc5 1-0
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "1"]
+[White "Muratet, Lucas"]
+[Black "Rooze, Jan"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "1934"]
+[BlackElo "2298"]
+[PlyCount "82"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Bd3 Nf6 7. O-O d5 8.
+Nc3 Be7 9. Qe2 O-O 10. f4 Rb8 11. Kh1 c5 12. e5 Ne8 13. b3 f5 14. Na4 Bd7 15.
+Nb2 Nc7 16. c4 d4 17. Bc2 Na6 18. Nd3 Bc6 19. Bd2 Rf7 20. a3 Bf8 21. Rfb1 Rfb7
+22. Rb2 Be4 23. Rab1 Qc8 24. Qf1 Qc6 25. Bd1 Rc8 26. Bf3 Nb8 27. Qe2 Bxf3 28.
+Qxf3 Qxf3 29. gxf3 Nc6 30. Kg2 a5 31. Kf2 Rcb8 32. Ke2 a4 33. bxa4 Rxb2 34.
+Rxb2 Rxb2 35. Nxb2 Kf7 36. Kd3 Ke8 37. Kc2 Kd7 38. a5 Nb8 39. Kb3 Na6 40. Ka4
+Kc6 41. Nd3 Be7 1/2-1/2
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "1"]
+[White "Simon, Olivier"]
+[Black "Morel, Jean Marc"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2381"]
+[BlackElo "1965"]
+[PlyCount "101"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Ngf6 12. O-O-O Nd5 13. Bd2 Qc7 14. Kb1 Bd6
+15. Ne4 Bf4 16. Qa3 c5 17. Bxf4 Nxf4 18. c4 b6 19. g3 Ne2 20. Qd3 Nxd4 21. Nxd4
+cxd4 22. Qxd4 f6 23. Rhe1 Rd8 24. Nd6+ Ke7 25. Rxe6+ Kf8 26. Rde1 Kg8 27. Re7
+Qc5 28. Qg4 Qg5 29. Qe6+ Kh7 30. Rxd7 Rxd7 31. Qxd7 Qxh5 32. Qf5+ Qxf5+ 33.
+Nxf5 Kg6 34. Ne3 h5 35. b4 h4 36. gxh4 Rxh4 37. Rg1+ Kh5 38. Rxg7 Rf4 39. Rg2
+Kh4 40. Kc2 Kh3 41. Kd3 f5 42. Rg3+ Kh2 43. Rg5 Rxf2 44. Rxf5 Rxa2 45. Rf2+
+Rxf2 46. Ng4+ Kg2 47. Nxf2 a5 48. bxa5 bxa5 49. c5 a4 50. c6 a3 51. Kc3 1-0
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Barraud, Mickael"]
+[Black "Gryson, Wouter"]
+[Result "0-1"]
+[ECO "B09"]
+[WhiteElo "1803"]
+[BlackElo "2105"]
+[PlyCount "100"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 b6 7. Bd3 Bb7 8. h3 c5
+9. Qd2 Nbd7 10. f5 Rc8 11. b3 cxd4 12. Bxd4 Nc5 13. Qe3 e5 14. Bxc5 Rxc5 15.
+Ne2 gxf5 16. Nd2 fxe4 17. Bxe4 d5 18. Bf5 d4 19. Qd3 e4 20. Bxe4 Bxe4 21. Nxe4
+Nxe4 22. Qxe4 d3 23. Rd1 Re5 24. Qxd3 Qxd3 25. cxd3 Bh6 26. Kf2 Rc8 27. Rhe1
+Rc2 28. a4 Bd2 29. Rf1 Rb2 30. Rde1 Bxe1+ 31. Rxe1 Rd2 32. d4 Re7 33. g3 Kf8
+34. h4 Ke8 35. Kf1 Kd7 36. h5 Rb2 37. Nc1 Rxe1+ 38. Kxe1 Kd6 39. Nd3 Rxb3 40.
+Ke2 Ra3 41. Ne5 Ke6 42. g4 Rxa4 43. Kd3 Ra1 44. g5 Rg1 45. Nf3 Rg3 46. Ke4 Rg4+
+47. Kd3 a5 48. Kc4 a4 49. Kb4 a3 50. Ne5 Rg3 0-1
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Bujisho, Benjamin"]
+[Black "Galby, Vassili"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2402"]
+[BlackElo "2086"]
+[PlyCount "85"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. Bc4 Nb6 8. Bb5
+dxe5 9. Nxe5 Bd7 10. Nxd7 Qxd7 11. O-O e6 12. Nc3 Be7 13. Qg4 O-O 14. Rd1 Rfd8
+15. Bh6 Bf8 16. Ne4 Kh8 17. Nc5 Qc7 18. Bf4 Bd6 19. Bg5 Be7 20. Bxc6 bxc6 21.
+Bxe7 Qxe7 22. Rac1 Rd5 23. Nb3 Qd7 24. Rd3 h5 25. Qf3 Na4 26. Rd2 Rc8 27. Rdc2
+g6 28. h3 Kg7 29. Qe2 Rb5 30. Qxb5 cxb5 31. Rxc8 a5 32. R8c7 Qd6 33. Rb7 Nxb2
+34. Rcc7 Qf4 35. Nxa5 Qxd4 36. Rxf7+ Kh6 37. h4 g5 38. Rh7+ Kg6 39. hxg5 Kxg5
+40. Rxb5+ Kg4 41. Rhxh5 Qd1+ 42. Kh2 Qd6+ 43. Rbe5 1-0
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Dubois, Vincent"]
+[Black "Le Gallen, Luc"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1715"]
+[BlackElo "1914"]
+[PlyCount "64"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 e6 3. f4 d5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be7 7. Nf3 Nf6 8.
+O-O O-O 9. b3 Nb4 10. Bd3 Re8 11. Bb2 c4 12. Bxh7+ Nxh7 13. Qd1 Bf5 14. Ne5 Nf6
+15. d3 cxd3 16. cxd3 Rc8 17. d4 Nc2 18. g4 Ne3 19. Qe2 Nexg4 20. h3 Nh6 21. Qg2
+Bb4 22. Rac1 Qa5 23. Rf3 Ne4 24. Ne2 Rxc1+ 25. Nxc1 Rc8 26. Ng4 Kh7 27. a4 Bc3
+28. Bxc3 Rxc3 29. Ne2 Rxf3 30. Qxf3 Qe1+ 31. Kh2 Nd2 32. Qf2 Nxg4+ 0-1
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Forgues, Fabien"]
+[Black "Dia, Hussein"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2187"]
+[BlackElo "1910"]
+[PlyCount "55"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 Nf6 5. d3 Bg4 6. f3 Bh5 7. Bd2 c6 8.
+Nge2 Qb6 9. Nf4 Bg6 10. Qe2 Nbd7 11. O-O-O O-O-O 12. Nxg6 fxg6 13. f4 e6 14.
+Qxe6 Re8 15. Qh3 Bd6 16. Rde1 Qc7 17. g3 Kb8 18. Ne4 Be7 19. Ng5 Nc5 20. d4 Na4
+21. Bb3 b5 22. Qg2 Qd6 23. c3 Nxb2 24. Kxb2 Qa3+ 25. Ka1 Kb7 26. Re6 Rc8 27.
+Bc1 Qa5 28. Rxe7+ 1-0
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Marholev, Dimitar"]
+[Black "Fantinel, Thibault"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2366"]
+[BlackElo "1908"]
+[PlyCount "45"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 e6 5. Nge2 Nf6 6. O-O a6 7. a4 d5 8. exd5
+exd5 9. Ba2 Be7 10. Nxd4 cxd4 11. Ne2 Bc5 12. b4 Bxb4 13. Nxd4 O-O 14. Rb1 Bd6
+15. h3 Bb8 16. d3 Qc7 17. Nf3 Ne4 18. Bd2 Rd8 19. dxe4 dxe4 20. Re1 exf3 21.
+Qxf3 a5 22. Bg5 Rf8 23. Be7 1-0
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Pieri, Pierre Louis"]
+[Black "Rundstrom, Douglas"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "1754"]
+[BlackElo "1953"]
+[PlyCount "69"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 Bd7 5. d3 g6 6. Bg5 Bg7 7. Nbd2 O-O 8. O-O
+Nc6 9. d4 cxd4 10. cxd4 h6 11. Bh4 g5 12. Bg3 g4 13. Nh4 Nxd4 14. Bd3 Nh5 15.
+Nf5 Nxf5 16. exf5 Nxg3 17. hxg3 h5 18. Nc4 Bb5 19. Qd2 d5 20. Ne5 Bxd3 21. Nxd3
+e6 22. fxe6 fxe6 23. Nf4 Bh6 24. Qe2 Bxf4 25. Qxe6+ Kh7 26. gxf4 Rxf4 27. Qe5
+Re4 28. Qxh5+ Kg7 29. Rae1 Qe8 30. Qg5+ Kh7 31. Rxe4 Qxe4 32. Rc1 Kh8 33. Rc7
+Qe1+ 34. Kh2 g3+ 35. fxg3 1-0
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Sivan, Michel"]
+[Black "Dubois, Emmanuelle"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "1943"]
+[BlackElo "1735"]
+[PlyCount "41"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. exd5 exd5 6. Bb5 Nge7 7. O-O a6 8.
+Be2 g6 9. Ne5 Bg7 10. Nxc6 Nxc6 11. Bf3 Be6 12. d3 O-O 13. Ne2 Qd7 14. c3 Rac8
+15. a4 d4 16. c4 Nb4 17. Ng3 b5 18. axb5 axb5 19. b3 bxc4 20. bxc4 Rb8 21. Ne4
+1/2-1/2
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Tchefranoff, Stephane"]
+[Black "Maupin, Gervais"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "1928"]
+[BlackElo "1720"]
+[PlyCount "81"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qa5 7. Bxf6 exf6 8.
+cxd5 Bb4 9. Qf3 Ne7 10. Bc4 O-O 11. Nge2 Bd7 12. O-O Rac8 13. Bb3 Nf5 14. Ne4
+Bb5 15. Rfc1 Bxe2 16. Qxe2 Qb6 17. Qg4 Rxc1+ 18. Rxc1 Nxd4 19. Rc4 f5 20. Nf6+
+Qxf6 21. Qxd4 Qxd4 22. Rxd4 Bd6 23. h3 Rc8 24. Rc4 Rxc4 25. Bxc4 g5 26. g4 fxg4
+27. hxg4 Kg7 28. Bd3 h6 29. f3 Kf6 30. Kf2 Ke5 31. Ke3 b6 32. Bc4 Bc5+ 33. Ke2
+f5 34. gxf5 Kxf5 35. Kf1 h5 36. a4 g4 37. fxg4+ hxg4 38. Kg2 Kf4 39. b3 Bd6 40.
+Kf2 Ke4 41. Kg2 1/2-1/2
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Vincenti, Francois Xavier"]
+[Black "Hirschmann, Georges"]
+[Result "0-1"]
+[ECO "B26"]
+[WhiteElo "1666"]
+[BlackElo "1911"]
+[PlyCount "58"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 d6 6. O-O e6 7. d3 Nge7 8. Be3
+Nd4 9. f4 Nec6 10. a3 O-O 11. Rb1 Bd7 12. h3 Rb8 13. g4 f5 14. Ng3 Qe7 15. Nce2
+b5 16. c3 Nxe2+ 17. Qxe2 a5 18. Rbc1 b4 19. axb4 axb4 20. cxb4 Rxb4 21. e5 Nd4
+22. Bxd4 Rxd4 23. exd6 Qxd6 24. gxf5 exf5 25. Qc2 Rxd3 26. Ne2 Rd2 27. Rcd1
+Rxc2 28. Rxd6 Bb5 29. Rb1 Bxe2 0-1
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "3"]
+[White "Okhotnik, Vladimir"]
+[Black "Vandervorst, Jean Marc"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2468"]
+[BlackElo "2070"]
+[PlyCount "87"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. Be3 b6 7. Bd3 Bb7 8. Qd2 f5
+9. Ng5 Qd7 10. d5 exd5 11. exd5 Nxd5 12. Bb5 c6 13. Nxd5 cxb5 14. Ne6 Bxb2 15.
+Rb1 Bxd5 16. Qxd5 Bc3+ 17. Bd2 Bxd2+ 18. Kxd2 Qc6 19. Qxc6+ Nxc6 20. Nc7+ Kd7
+21. Nxa8 Rxa8 22. Rxb5 Rc8 23. Rb3 Nd4 24. Rh3 Ke6 25. c3 Nb5 26. Re1+ Kd5 27.
+Rd3+ Kc6 28. Re7 Na3 29. Rh3 a5 30. Rhxh7 Kd5 31. Rc7 Re8 32. Rhe7 Rh8 33. h3
+Rh4 34. Ke3 Nc4+ 35. Kf3 Nd2+ 36. Kf2 g5 37. fxg5 Ne4+ 38. Ke3 f4+ 39. Kd3 Nc5+
+40. Ke2 Rh5 41. g6 Rg5 42. g7 Ne6 43. c4+ Ke5 44. Re8 1-0
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "4"]
+[White "Dugailliez, Guy"]
+[Black "Iglesias, Joachim"]
+[Result "1/2-1/2"]
+[ECO "B79"]
+[WhiteElo "2045"]
+[BlackElo "2187"]
+[PlyCount "61"]
+[EventDate "2008.07.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Bc4 Bg7 7. Be3 O-O 8. f3
+Nc6 9. Qd2 Bd7 10. O-O-O Qa5 11. h4 Rfc8 12. Bb3 Ne5 13. Nd5 Qxd2+ 14. Rxd2
+Nxd5 15. Bxd5 Nc4 16. Bxc4 Rxc4 17. Kb1 Rac8 18. c3 b5 19. Nc2 a5 20. a3 f5 21.
+Bg5 fxe4 22. Bxe7 exf3 23. gxf3 b4 24. cxb4 axb4 25. Nxb4 Rxb4 26. axb4 Bf5+
+27. Ka2 Ra8+ 28. Kb3 Be6+ 29. Kc2 Rc8+ 30. Kb1 Bf5+ 31. Ka2 1/2-1/2
+
+[Event "Condom op"]
+[Site "Condom"]
+[Date "2008.??.??"]
+[Round "4"]
+[White "Luciani, Thibault"]
+[Black "Muratet, Lucas"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1828"]
+[BlackElo "1934"]
+[PlyCount "38"]

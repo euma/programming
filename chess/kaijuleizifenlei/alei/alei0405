@@ -1,0 +1,600 @@
+[White "Johannesson, Ingvar Thor"]
+[Black "Osborne, Sam"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "2338"]
+[BlackElo "1986"]
+[PlyCount "61"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 e6 5. e4 exd5 6. cxd5 g6 7. f3 Bg7 8. Nge2
+O-O 9. Ng3 Na6 10. Be2 Nc7 11. O-O Bd7 12. Be3 Nfe8 13. f4 Qe7 14. Qd2 b6 15.
+Rad1 Qd8 16. Bf3 Rb8 17. Nce2 Bb5 18. Rfe1 Ba4 19. b3 Bd7 20. b4 Na6 21. a3
+Nec7 22. Bf2 Re8 23. Rb1 Qf6 24. bxc5 bxc5 25. Qa5 Qd8 26. e5 Rb5 27. Rxb5 Bxb5
+28. Ne4 f5 29. Nxd6 Bxe2 30. Bxe2 Nxd5 31. Qxa6 1-0
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.23"]
+[Round "2"]
+[White "McPhillips, Karl"]
+[Black "Williams, Simon Kim"]
+[Result "0-1"]
+[ECO "A85"]
+[WhiteElo "2206"]
+[BlackElo "2482"]
+[PlyCount "62"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. e3 d5 5. Bd3 c6 6. Nf3 Bd6 7. Qc2 Ne4 8. a4 a5
+9. O-O Na6 10. Ne2 Nb4 11. Qb1 O-O 12. Bd2 Qf6 13. Bxb4 axb4 14. c5 Bc7 15. Qe1
+Qh6 16. Qxb4 Nf6 17. Qd2 g5 18. b4 Nd7 19. Qc3 g4 20. Ne5 Nxe5 21. dxe5 Qg7 22.
+f4 gxf3 23. Rxf3 Bxe5 24. Nd4 f4 25. Raf1 Bd7 26. Rh3 h6 27. Qe1 fxe3 28. Nf3
+Bf4 29. g3 e5 30. Rh4 e4 31. Kh1 exf3 0-1
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.23"]
+[Round "2"]
+[White "Short, Philip M"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "A35"]
+[WhiteElo "2300"]
+[BlackElo "2763"]
+[PlyCount "58"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 g6 2. Nf3 Bg7 3. c4 c5 4. e3 Nf6 5. Be2 cxd4 6. Nxd4 Nc6 7. O-O O-O 8.
+Nc3 d6 9. Nxc6 bxc6 10. e4 Qa5 11. Qc2 Rb8 12. Rb1 Be6 13. Bd2 Qc7 14. h3 d5
+15. cxd5 cxd5 16. exd5 Nxd5 17. Qa4 Nxc3 18. bxc3 Be5 19. Bf3 h5 20. Rfe1 Rxb1
+21. Rxb1 Rb8 22. Rxb8+ Qxb8 23. Qc2 Bc4 24. Be3 a5 25. g4 hxg4 26. hxg4 Qb5 27.
+Be4 Bd6 28. Bd4 Qg5 29. Bf3 Qf4 0-1
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.23"]
+[Round "3"]
+[White "O'Shea, Kevin"]
+[Black "Armstrong, Malcolm J"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2035"]
+[BlackElo "2109"]
+[PlyCount "27"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. g3 Nf6 2. Bg2 d5 3. Nf3 Bf5 4. O-O e6 5. d3 Be7 6. Nbd2 c6 7. Qe1 O-O 8. e4
+Bg6 9. Ne5 Qc7 10. Nxg6 hxg6 11. Nf3 dxe4 12. dxe4 e5 13. Qe2 Nbd7 14. Bg5
+1/2-1/2
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.23"]
+[Round "3"]
+[White "Svidler, Peter"]
+[Black "Williams, Simon Kim"]
+[Result "1-0"]
+[ECO "A90"]
+[WhiteElo "2763"]
+[BlackElo "2482"]
+[PlyCount "39"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Bb4+ 5. Nd2 a5 6. Ngf3 b6 7. a3 Be7 8. Ne5
+Ra7 9. e4 Bb7 10. d5 fxe4 11. Nxe4 exd5 12. Nxf6+ Bxf6 13. O-O d4 14. Bxb7 Rxb7
+15. Qh5+ g6 16. Nxg6 hxg6 17. Qxg6+ Kf8 18. Re1 d5 19. Re6 Nd7 20. Bf4 1-0
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.23"]
+[Round "3"]
+[White "Thorfinnsson, Bjorn"]
+[Black "Jones, Gawain C"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2364"]
+[BlackElo "2562"]
+[PlyCount "86"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nf3 h6 4. Bh4 c5 5. e3 b6 6. c4 cxd4 7. Nxd4 Bb7 8. Nc3
+a6 9. f3 Be7 10. Be2 O-O 11. O-O d5 12. cxd5 Nxd5 13. Bf2 Nc6 14. Nxd5 exd5 15.
+Nxc6 Bxc6 16. Rc1 Bb7 17. Qb3 b5 18. f4 Rc8 19. Bf3 Rc4 20. Rcd1 Qa8 21. Qd3
+Bf6 22. b3 Rc3 23. Qf5 Rd8 24. Rd2 Bc8 25. Qb1 Be6 26. Rfd1 Qc8 27. e4 dxe4 28.
+Rxd8+ Bxd8 29. Bxe4 Bf6 30. Be1 Rc5 31. Bf2 Bg4 32. Bxc5 Qxc5+ 33. Kh1 Bxd1 34.
+Qxd1 Qe3 35. Bb7 a5 36. g3 b4 37. Kg2 Bd4 38. Qc2 g5 39. Bd5 Kg7 40. Qf5 Qe2+
+41. Kh3 Bf6 42. fxg5 hxg5 43. Qf3 Qxf3 1/2-1/2
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.23"]
+[Round "4"]
+[White "Cafolla, Peter"]
+[Black "O'Shea, Kevin"]
+[Result "0-1"]
+[ECO "A36"]
+[WhiteElo "2048"]
+[BlackElo "2035"]
+[PlyCount "52"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. e4 Nge7 7. Nge2 O-O 8. O-O
+Nd4 9. Rb1 Nxe2+ 10. Nxe2 d5 11. f4 dxc4 12. dxc4 Nc6 13. e5 Nd4 14. Be3 Nxe2+
+15. Qxe2 Qc7 16. Qf2 Bd7 17. Bxc5 Rfc8 18. Bd6 Qxc4 19. Bxb7 Bc6 20. Bxa8 Bxa8
+21. h4 Qe4 22. Qf3 Qxf3 23. Rxf3 Bxf3 24. Kf2 Bd5 25. Ke3 Bf8 26. Bxf8 Kxf8 0-1
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.23"]
+[Round "4"]
+[White "Orr, Mark JL"]
+[Black "Murphy, Dara"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2258"]
+[BlackElo "1956"]
+[PlyCount "68"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 Nh5 6. Be5 f6 7. g4 fxe5 8.
+gxh5 e4 9. Ng5 d5 10. hxg6 hxg6 11. Bg4 Rf6 12. Nc3 c6 13. h4 Qf8 14. Bxc8 Qxc8
+15. Qe2 Qf5 16. Rh2 Bh6 17. O-O-O Nd7 18. Rg1 e5 19. Qg4 Qxg4 20. Rxg4 exd4 21.
+exd4 Raf8 22. Nd1 Rf4 23. Rgg2 c5 24. Ne3 Bxg5 25. hxg5 cxd4 26. Nxd5 R4f7 27.
+Rh4 Rxf2 28. Rxf2 Rxf2 29. Rxe4 Rf1+ 30. Kd2 Rf2+ 31. Ke1 Rxc2 32. Re7 Nc5 33.
+b4 Nd3+ 34. Kd1 Rxa2 1/2-1/2
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.24"]
+[Round "5"]
+[White "Quinn, Mark"]
+[Black "McPhillips, Karl"]
+[Result "1-0"]
+[ECO "A26"]
+[WhiteElo "2403"]
+[BlackElo "2206"]
+[PlyCount "93"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e4 d6 6. d3 f5 7. Nge2 Nf6 8. O-O
+O-O 9. h3 Be6 10. Be3 Qd7 11. exf5 Bxf5 12. g4 Be6 13. Ng3 h6 14. Nce4 Nxe4 15.
+Nxe4 Rf7 16. Qb3 Raf8 17. Qxb7 Nd4 18. Bxd4 exd4 19. f4 Rxf4 20. Rxf4 Rxf4 21.
+Qxa7 Be5 22. Rc1 Qe7 23. Rf1 Rxf1+ 24. Kxf1 Qf7+ 25. Nf2 d5 26. cxd5 Bxd5 27.
+Qc5 Bxg2+ 28. Kxg2 Qf4 29. a4 Qg3+ 30. Kf1 Qe3 31. Qd5+ Kg7 32. Qe4 Qc1+ 33.
+Kg2 Bf6 34. a5 Qxb2 35. Kf3 Bh4 36. Qe5+ Kg8 37. Qe8+ Kg7 38. Qd7+ Kf8 39. Qc8+
+Kf7 40. Qxc7+ Kf8 41. Ne4 Qb3 42. Qc5+ Ke8 43. Qb5+ Qxb5 44. Nd6+ Kd7 45. Nxb5
+Kc6 46. Nxd4+ Kc5 47. Ke4 1-0
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.24"]
+[Round "6"]
+[White "Armstrong, Malcolm J"]
+[Black "Wolferink, Frans"]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "2109"]
+[BlackElo "2131"]
+[PlyCount "102"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 g6 2. Nf3 Bg7 3. e4 d6 4. c4 e5 5. dxe5 dxe5 6. Qxd8+ Kxd8 7. Nc3 c6 8.
+Be3 Kc7 9. h3 f6 10. Be2 Nh6 11. O-O-O Nf7 12. Nd2 Be6 13. b3 Nd7 14. Kb2 Rhd8
+15. Ndb1 Bf8 16. f3 Bc5 17. Rxd7+ Rxd7 18. Bxc5 b6 19. Be3 Rad8 20. Rc1 Kb7 21.
+Rd1 Rxd1 22. Nxd1 Rd7 23. Kc2 Nd8 24. Nbc3 h5 25. Nf2 g5 26. g3 Bf7 27. Ncd1
+Ne6 28. Nb2 Kc7 29. Nbd3 Kd6 30. Kc3 c5 31. a3 a5 32. b4 axb4+ 33. axb4 Ra7 34.
+Kb2 Nd4 35. Bxd4 exd4 36. bxc5+ bxc5 37. Kb3 Rb7+ 38. Kc2 Bxc4 39. f4 Bb3+ 40.
+Kd2 c4 41. e5+ fxe5 42. fxe5+ Ke7 43. Nc5 Ra7 44. Nxb3 Ra2+ 45. Ke1 cxb3 46.
+Bc4 Ra1+ 47. Kd2 b2 48. Bd3 b1=Q 49. Bxb1 Rxb1 50. Ne4 Rb3 51. Ke2 Re3+ 0-1
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.24"]
+[Round "6"]
+[White "Astaneh Lopez, Alex"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "2346"]
+[BlackElo "2763"]
+[PlyCount "98"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 4. O-O e6 5. d4 d5 6. Nbd2 Nbd7 7. a4 b4 8. a5
+Rc8 9. c3 bxc3 10. bxc3 c5 11. Ba3 Be7 12. Ne1 Ba6 13. Nd3 Qc7 14. Nb3 Bxd3 15.
+exd3 cxd4 16. Nxd4 Bxa3 17. Rxa3 O-O 18. Qa1 Ne5 19. c4 a6 20. Rc1 Nfd7 21.
+Rac3 dxc4 22. dxc4 Nc5 23. h3 Rfd8 24. Nb3 Ned3 25. Rb1 h5 26. Qa3 Rb8 27. Rd1
+h4 28. Nxc5 Nxc5 29. Re1 Rd2 30. gxh4 Rbb2 31. Rf3 Ra2 32. Qe3 Rd3 33. Qg5 Rxf3
+34. Bxf3 Nd3 35. Rd1 Rxf2 36. Bg2 Rf5 37. Qe3 Nc5 38. Qd2 Qg3 39. Qd4 Qa3 40.
+Ra1 Qb4 41. Kh1 g6 42. Qd8+ Kh7 43. Qd4 e5 44. Qe3 e4 45. Bxe4 Nxe4 46. Qxe4
+Qc3 47. Re1 Qxh3+ 48. Kg1 Qg3+ 49. Kh1 Rf4 0-1
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.24"]
+[Round "6"]
+[White "Baburin, Alexander"]
+[Black "Jones, Gawain C"]
+[Result "1-0"]
+[ECO "A58"]
+[WhiteElo "2542"]
+[BlackElo "2562"]
+[PlyCount "69"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 d6 8. Bg2
+Bg7 9. Nf3 Nbd7 10. O-O Nb6 11. Re1 O-O 12. Bg5 Ne8 13. Qc1 Nc7 14. e4 Bc8 15.
+Bh6 Bg4 16. Bxg7 Kxg7 17. Nd2 Qd7 18. e5 Ra7 19. b3 Bf5 20. Nc4 Rb8 21. Qf4
+Nxc4 22. bxc4 Rb4 23. Re3 h5 24. Rae1 Ra3 25. h3 dxe5 26. Qxe5+ Kg8 27. Qxe7
+Rxc4 28. d6 Rcxc3 29. Rxc3 Qxe7 30. Rxe7 Rxc3 31. dxc7 Rc1+ 32. Kh2 Kg7 33. Bd5
+Kf6 34. Rxf7+ Ke5 35. Rxf5+ 1-0
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.24"]
+[Round "6"]
+[White "Cafolla, Peter"]
+[Black "O'Connor, Eddie"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2048"]
+[PlyCount "13"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 d6 4. d3 e5 5. O-O Be7 6. c4 O-O 7. Nc3 1/2-1/2
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.24"]
+[Round "6"]
+[White "Johannesson, Ingvar Thor"]
+[Black "Williams, Simon Kim"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2338"]
+[BlackElo "2482"]
+[PlyCount "61"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. b3 e5 2. Bb2 e4 3. c4 c6 4. e3 d5 5. cxd5 cxd5 6. d3 Nf6 7. a3 Bd6 8. Nd2
+O-O 9. dxe4 Re8 10. exd5 Nxd5 11. Nc4 Bc5 12. b4 Bf8 13. Nf3 Nc6 14. Be2 b5 15.
+Nce5 Nxe5 16. Bxe5 Bb7 17. Bd4 Nf4 18. exf4 Bxf3 19. gxf3 Qh4 20. Qb3 a5 21.
+bxa5 Rxa5 22. Be3 Qh3 23. a4 Rea8 24. Bxb5 Qxf3 25. Rg1 Qh5 26. Rg5 Qxh2 27.
+Rf5 Bb4+ 28. Ke2 Qh3 29. Qxf7+ Kh8 30. Rg1 Rg8 31. Rh5 1-0
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.24"]
+[Round "6"]
+[White "O'Donoghue, Dennis J"]
+[Black "Duffy, Seamus"]
+[Result "1-0"]
+[ECO "A25"]
+[PlyCount "73"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 f5 4. e3 Nf6 5. Nc3 Be7 6. Nge2 O-O 7. Nd5 Nxd5 8.
+cxd5 Nb8 9. O-O d6 10. f4 Nd7 11. Qc2 g6 12. b4 Nb6 13. Bb2 Bf6 14. Rac1 Rf7
+15. a4 a5 16. b5 Qe8 17. Rfe1 Bd8 18. d3 Bd7 19. Qb3 Rc8 20. Rc3 exf4 21. Nxf4
+Bf6 22. Rc2 Bxb2 23. Rxb2 Qe5 24. Rc2 Re7 25. d4 Qf6 26. Rec1 g5 27. Ne6 Bxe6
+28. dxe6 Qxe6 29. Qxe6+ Rxe6 30. Rxc7 Rxc7 31. Rxc7 Rxe3 32. Bxb7 Nxa4 33. b6
+f4 34. gxf4 gxf4 35. Bd5+ Kh8 36. Rc8+ Kg7 37. b7 1-0
+
+[Event "Bunratty op"]
+[Site "Bunratty"]
+[Date "2008.02.24"]
+[Round "6"]
+[White "Orr, Mark JL"]
+[Black "Schoonenberg, Olav"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[WhiteElo "2258"]
+[PlyCount "90"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. h3
+O-O 9. Bd3 b5 10. Nxb5 Nxe4 11. Bxe4 Re8 12. Ng5 f5 13. O-O fxe4 14. Re1 a6 15.
+Nc3 Ra7 16. Ngxe4 Rf8 17. Bg5 Qd7 18. Qd2 Rb7 19. Bf4 Rb6 20. Ng5 Rb4 21. Ne6
+Rf5 22. Nxg7 Kxg7 23. Bg3 Rd4 24. Qe3 Bb7 25. Qe8 Qxe8 26. Rxe8 Nd7 27. Re7+
+Rf7 28. Rxf7+ Kxf7 29. Bxd6 Bxd5 30. Nxd5 Rxd5 31. Bf4 Ne5 32. Bxe5 Rxe5 33.
+Kf1 c4 34. Re1 Rb5 35. Re2 Ra5 36. a3 c3 37. bxc3 Rxa3 38. Rc2 Ke6 39. Ke2 Kd5
+40. Kd3 Ra1 41. Rb2 a5 42. c4+ Kc5 43. Rb5+ Kc6 44. f4 a4 45. Kc3 Ra2 1/2-1/2
+
+[Event "Novosibirsk-ch"]
+[Site "Novosibirsk"]
+[Date "2008.02.22"]
+[Round "1"]
+[White "Biryukov, Alexander"]
+[Black "Petenev, Konstantin"]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "2041"]
+[BlackElo "2222"]
+[PlyCount "74"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d6 2. Nf3 Bg4 3. c4 Bxf3 4. gxf3 c6 5. e4 g6 6. Be3 Bg7 7. Nc3 Nd7 8. Be2
+Ngf6 9. f4 e5 10. fxe5 dxe5 11. d5 O-O 12. O-O cxd5 13. cxd5 Nb6 14. Bc5 Re8
+15. Bb5 Nbd7 16. Be3 a6 17. Bd3 Rc8 18. Rc1 Nc5 19. Bb1 b5 20. b4 Nb7 21. a4
+Qd7 22. axb5 Qh3 23. f3 Ng4 24. fxg4 Qxe3+ 25. Kh1 Rxc3 26. Rxc3 Qxc3 27. d6
+axb5 28. Ba2 Nd8 29. Qd5 Rf8 30. Qxb5 Bh6 31. Bd5 Bf4 32. Qc5 Qd2 33. Qf2 Qxb4
+34. d7 Qb5 35. Rd1 Qxd7 36. h3 Ne6 37. Bb3 Nd4 0-1
+
+[Event "Novosibirsk-ch"]
+[Site "Novosibirsk"]
+[Date "2008.02.22"]
+[Round "1"]
+[White "Vershinin, Mikhail1"]
+[Black "Okladnikov, Gennady"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2032"]
+[BlackElo "2217"]
+[PlyCount "87"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. b3 Bg7 4. Bb2 O-O 5. e3 d6 6. Be2 c6 7. Nbd2 Bf5 8. O-O
+h6 9. Ne1 Re8 10. f4 a5 11. a4 Na6 12. Nc4 Nb4 13. Bf3 h5 14. Qe2 Ne4 15. Nd3
+Nd5 16. Qe1 Qc7 17. h3 Ndf6 18. Qh4 b5 19. axb5 cxb5 20. Na3 Qd7 21. Rad1 Rac8
+22. Ne5 dxe5 23. dxe5 Qa7 24. exf6 Bxf6 25. Bxf6 Nxf6 26. g4 hxg4 27. hxg4 Be4
+28. Rd2 Qb6 29. Rh2 Qxe3+ 30. Kg2 Bxf3+ 31. Rxf3 Qe2+ 32. Kg1 Qd1+ 33. Kg2
+Rxc2+ 34. Nxc2 Qxc2+ 35. Kg1 Qd1+ 36. Kg2 Qd2+ 37. Kg1 Qd1+ 38. Kg2 Qd2+ 39.
+Kg1 Qd4+ 40. Kg2 Qd2+ 41. Kg1 Qd1+ 42. Kg2 Qe2+ 43. Kg1 Qd1+ 44. Kg2 1/2-1/2
+
+[Event "Novosibirsk-ch"]
+[Site "Novosibirsk"]
+[Date "2008.02.23"]
+[Round "2"]
+[White "Dolgusheva, Izabella"]
+[Black "Dzhumagaliev, Yan"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "2007"]
+[BlackElo "2232"]
+[PlyCount "58"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 c5 2. c4 Nc6 3. g3 g6 4. Bg2 Bg7 5. O-O e5 6. d3 d6 7. Nc3 Nge7 8. e4
+O-O 9. Be3 Rb8 10. Qd2 f5 11. Ne1 fxe4 12. dxe4 Nd4 13. Nd5 Nxd5 14. exd5 b5
+15. Bxd4 cxd4 16. cxb5 Rxb5 17. b3 Bb7 18. Qe2 Qb6 19. Qg4 Bc8 20. Qe2 Rc5 21.
+Nd3 Rc3 22. Rfd1 Ba6 23. Qe4 Rc2 24. Bf3 Bc8 25. g4 Ba6 26. Kg2 Bh6 27. Nb4 Rb2
+28. Nxa6 d3 29. Qe1 e4 0-1
+
+[Event "Novosibirsk-ch"]
+[Site "Novosibirsk"]
+[Date "2008.02.23"]
+[Round "2"]
+[White "Krasnov, Yury A"]
+[Black "Karimov, Adkhamzhan"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2146"]
+[BlackElo "2182"]
+[PlyCount "45"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 g6 6. Nxc6 bxc6 7. g3 Bg7 8.
+Bg2 O-O 9. O-O Qa5 10. Bd2 Qb6 11. Qc2 Rb8 12. b3 d5 13. cxd5 cxd5 14. Rac1 Bf5
+15. e4 dxe4 16. Nxe4 Rbc8 17. Qb1 Kh8 18. Be3 Qb4 19. Bd2 Qa3 20. Rxc8 Rxc8 21.
+Rc1 Rxc1+ 22. Bxc1 Qb4 23. Bd2 0-1
+
+[Event "Novosibirsk-ch"]
+[Site "Novosibirsk"]
+[Date "2008.02.25"]
+[Round "3"]
+[White "Pimankin, Sergey"]
+[Black "Tuzhik, Artem"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2159"]
+[BlackElo "2313"]
+[PlyCount "92"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Nxd4
+Bxg2 9. Kxg2 Qc7 10. Qd2 a6 11. b3 O-O 12. Bb2 Nc6 13. e4 Ne5 14. Qe2 d6 15. f4
+Ned7 16. g4 Rfc8 17. g5 Ne8 18. Qg4 Nc5 19. Rf3 Qb7 20. Re1 e5 21. Nf5 Bf8 22.
+fxe5 dxe5 23. Nd5 Rc6 24. Bxe5 Rg6 25. h4 f6 26. Bf4 fxg5 27. hxg5 Nf6 28.
+Nxf6+ gxf6 29. Nh4 Rg7 30. g6 hxg6 31. Bh6 f5 32. Qf4 fxe4 33. Rg3 Nd3 34. Qe3
+Nxe1+ 35. Qxe1 e3+ 36. Kg1 Qe4 37. Bxg7 Bxg7 38. Nxg6 e2 39. Rg2 Re8 40. Nh4
+Qxh4 41. Qxh4 e1=Q+ 42. Qxe1 Rxe1+ 43. Kf2 Re6 44. Rg3 Kf7 45. a4 Bd4+ 46. Kf1
+a5 0-1
+
+[Event "Novosibirsk-ch"]
+[Site "Novosibirsk"]
+[Date "2008.02.25"]
+[Round "3"]
+[White "Romanov, Viktor"]
+[Black "Giljazitdinov, Eduard"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2005"]
+[BlackElo "2159"]
+[PlyCount "77"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Bd3 d6 5. Nf3 Nh5 6. Bg3 Nxg3 7. hxg3 Bg4 8.
+c3 O-O 9. Qc2 e5 10. Nbd2 exd4 11. Nxd4 c5 12. N4f3 d5 13. O-O-O Nc6 14. Rh4
+Ne5 15. Rdh1 Nxd3+ 16. Qxd3 Bf5 17. e4 dxe4 18. Qxd8 Raxd8 19. Nxe4 h5 20. Nfd2
+Bh6 21. f4 Bg7 22. Re1 b6 23. Rhh1 Rd3 24. Rhf1 Rfd8 25. Rf3 R3d5 26. Rfe3 Kf8
+27. Nc4 b5 28. Ncd6 Bxe4 29. Nxe4 c4 30. Ng5 Rd2 31. Re8+ Rxe8 32. Nh7+ Kg8 33.
+Rxe8+ Kxh7 34. Kxd2 a5 35. Rb8 b4 36. cxb4 Bxb2 37. bxa5 Bd4 38. a6 Kg7 39. Rb7
+1-0
+
+[Event "Novosibirsk-ch"]
+[Site "Novosibirsk"]
+[Date "2008.02.25"]
+[Round "3"]
+[White "Vershinin, Mikhail1"]
+[Black "Tsygankov, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2032"]
+[BlackElo "2076"]
+[PlyCount "24"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. h4 c5 5. c3 cxd4 6. cxd4 d6 7. Nbd2 Bg4 8. e3
+O-O 9. Qb3 Nbd7 10. Bc4 Qb6 11. Bxf6 Qxb3 12. Bxb3 Nxf6 1/2-1/2
+
+[Event "Novosibirsk-ch"]
+[Site "Novosibirsk"]
+[Date "2008.02.25"]
+[Round "3"]
+[White "Zaichenko, Daria"]
+[Black "Shevchenko, Vitaly"]
+[Result "1/2-1/2"]
+[ECO "A50"]
+[WhiteElo "2070"]
+[BlackElo "2148"]
+[PlyCount "58"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nc6 2. c4 e5 3. d5 Nce7 4. e4 Nf6 5. Nc3 Ng6 6. Be3 d6 7. h3 Be7 8. g3
+O-O 9. Bg2 c5 10. Nge2 a6 11. O-O Ne8 12. Kh2 Bg5 13. Qc1 Bxe3 14. Qxe3 Nc7 15.
+a4 b6 16. Rab1 b5 17. axb5 axb5 18. b4 f5 19. f4 cxb4 20. Nxb5 Nxb5 21. cxb5
+Qa5 22. fxe5 dxe5 23. Qc5 Qa2 24. Ng1 f4 25. Qxb4 fxg3+ 26. Kxg3 Ra3+ 27. Nf3
+Ra4 28. Qb3 Nf4 29. Qb2 Qxb2 1/2-1/2
+
+[Event "Novosibirsk-ch"]
+[Site "Novosibirsk"]
+[Date "2008.02.26"]
+[Round "4"]
+[White "Dzhumagaliev, Yan"]
+[Black "Zaichenko, Daria"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2232"]
+[BlackElo "2070"]
+[PlyCount "119"]
+[EventDate "2008.02.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Nbd7 5. d3 b6 6. c4 Bb7 7. cxd5 Nxd5 8.
+Nc3 Nxc3 9. bxc3 Bd6 10. e4 O-O 11. Qe2 Rc8 12. Bg5 f6 13. Be3 Qe7 14. a4 c5
+15. Nd2 Bc6 16. f4 Rfd8 17. Rfc1 e5 18. f5 Nb8 19. c4 Na6 20. Nb1 Qd7 21. Nc3

@@ -1,0 +1,600 @@
+[Black "Fedorowicz, John P"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2560"]
+[BlackElo "2459"]
+[PlyCount "128"]
+[EventDate "2008.05.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Be7 8. O-O
+O-O 9. Be3 Qc7 10. g4 Re8 11. g5 Nfd7 12. f4 Bf8 13. Kh1 Nc6 14. Qd2 Nxd4 15.
+Bxd4 b5 16. f5 Ne5 17. f6 Bb7 18. Nd1 g6 19. Ne3 Rad8 20. b3 Nc6 21. Bb2 a5 22.
+Rad1 Nb4 23. a3 Na6 24. Qf2 Nc5 25. Qh4 h5 26. gxh6 Kh7 27. Rfe1 Bc6 28. b4
+axb4 29. axb4 Na4 30. Bd4 Qb7 31. Ng4 Qc7 32. Ba1 d5 33. exd5 Bxd5 34. Bxd5
+Rxd5 35. Rxd5 Qb7 36. Ree5 Nb6 37. Kg1 Nxd5 38. Nf2 Rc8 39. Re2 Rc4 40. Bd4 Nc3
+41. Re3 Nd5 42. Re4 Rxc2 43. Nh3 Rc1+ 44. Kf2 Rc2+ 45. Kg1 Rc1+ 46. Kf2 Nc3 47.
+Ng5+ Kh8 48. Bxc3 Rxc3 49. Qf4 Qa7+ 50. Kf1 Rc2 51. h4 Qd7 52. Rd4 Qa7 53. Re4
+Bxb4 54. Nxf7+ Qxf7 55. Rxb4 Rc5 56. Kg1 Rf5 57. Qb8+ Kh7 58. Rxb5 Qxf6 59.
+Qc7+ Kxh6 60. Qc1+ Rf4 61. Rb2 e5 62. Rc2 Qf5 63. Rg2 Qd3 64. Qe1 Qd4+ 0-1
+
+[Event "USA-ch"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "7"]
+[White "Kudrin, Sergey"]
+[Black "Shabalov, Alexander"]
+[Result "1-0"]
+[ECO "B88"]
+[WhiteElo "2549"]
+[BlackElo "2633"]
+[PlyCount "71"]
+[EventDate "2008.05.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6 7. Bc4 e6 8. O-O
+Be7 9. Be3 O-O 10. Kh1 Bd7 11. f4 Rc8 12. Qe2 Qc7 13. Ba2 Na5 14. Rad1 Nc4 15.
+Bc1 Rfd8 16. g4 Qc5 17. g5 Ne8 18. f5 b5 19. axb5 axb5 20. fxe6 fxe6 21. Qf3
+Nf6 22. gxf6 Bxf6 23. Qd3 Kh8 24. Bxc4 bxc4 25. Qe3 Rf8 26. Nf3 Qc6 27. Ne2
+Rce8 28. Ng3 e5 29. Bd2 Bh3 30. Bb4 Bxf1 31. Nxf1 Be7 32. Ng3 Qa4 33. Qc3 Rxf3
+34. Qxf3 Qxb4 35. Qf7 Qa4 36. Nf5 1-0
+
+[Event "USA-ch"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "7"]
+[White "Langer, Mikhail"]
+[Black "Gulko, Boris F"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2254"]
+[BlackElo "2559"]
+[PlyCount "61"]
+[EventDate "2008.05.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. Qg4 g6 8. O-O
+d6 9. Qe2 Nc6 10. Na3 Bf6 11. c3 Bg7 12. f4 b5 13. Nc2 Nf6 14. Be3 O-O 15. a4
+bxa4 16. Rxa4 Bb7 17. Nbd4 Nb8 18. Bf2 Nbd7 19. b4 Qc7 20. Ra3 Rfe8 21. Bh4 e5
+22. fxe5 Rxe5 23. Nf3 Ree8 24. Nd2 a5 25. bxa5 Rxa5 26. Rxa5 Qxa5 27. Bb5 Rf8
+28. Rf3 Qc7 29. Nd4 Ng4 30. Nc4 Nc5 31. Rf1 0-1
+
+[Event "USA-ch"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "8"]
+[White "Friedel, Joshua E"]
+[Black "Kudrin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "B78"]
+[WhiteElo "2484"]
+[BlackElo "2549"]
+[PlyCount "72"]
+[EventDate "2008.05.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. f3 Bd7 10. h4 h5 11. Qd2 Rc8 12. O-O-O Ne5 13. Bh6 Bxh6 14. Qxh6 a5
+15. a4 Rxc3 16. bxc3 Qc7 17. Kb1 b5 18. axb5 a4 19. Ba2 Rb8 20. Qd2 Bxb5 21.
+Ka1 Bc4 22. Rb1 Bxa2 23. Kxa2 Rc8 24. Rb4 Nc4 25. Qe2 Qc5 26. Rhb1 e5 27. Nb5
+d5 28. Rxa4 Rb8 29. exd5 Nb6 30. Ra6 Nfxd5 31. Rb3 Nc4 32. Ra4 Ncb6 33. Ra6 Nc4
+34. Ra4 Ncb6 35. Ra6 Nc4 36. Ra4 Ncb6 1/2-1/2
+
+[Event "USA-ch"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "8"]
+[White "Galant, Sergey"]
+[Black "Gurevich, Dmitry"]
+[Result "0-1"]
+[ECO "B09"]
+[WhiteElo "2235"]
+[BlackElo "2513"]
+[PlyCount "74"]
+[EventDate "2008.05.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bc4 Nxe4 7. Nxe4 d5 8. Bd3
+dxe4 9. Bxe4 c5 10. c3 cxd4 11. Nxd4 Qb6 12. Nf3 Nd7 13. Qe2 Nf6 14. Be3 Qc7
+15. Bc2 Nd5 16. O-O Bd7 17. Rad1 Bb5 18. Bd3 Bxd3 19. Rxd3 Qc4 20. a3 Rad8 21.
+Rfd1 Nxf4 22. Bxf4 Rxd3 23. Rxd3 Qxf4 24. Rd7 e5 25. Rxb7 Rd8 26. Rb4 Qc1+ 27.
+Kf2 a5 28. Rb7 Qf4 29. Qe3 Qf5 30. Rb5 Bf6 31. Rxa5 g5 32. h3 h5 33. Kg1 Rd1+
+34. Kh2 g4 35. Nxe5 Bg5 36. Nc4 Bf4+ 37. g3 Qc2+ 0-1
+
+[Event "USA-ch"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "8"]
+[White "Shankland, Samuel L"]
+[Black "Ludwig, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[WhiteElo "2296"]
+[BlackElo "2357"]
+[PlyCount "106"]
+[EventDate "2008.05.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Bd3 g6 8. Nf3
+Bg7 9. O-O O-O 10. Kh1 Nc5 11. Qe1 b5 12. Bd2 b4 13. Nd1 a5 14. Nf2 Bb7 15. a3
+b3 16. Bc3 d5 17. e5 Nfe4 18. Bd4 Rc8 19. Qe3 a4 20. c3 Nxd3 21. Qxd3 Qa5 22.
+Qe3 f5 23. Rad1 e6 24. Nxe4 dxe4 25. Ne1 Qb5 26. Rg1 g5 27. g3 g4 28. Kg2 Rfd8
+29. Kf2 Rd7 30. Ng2 Rcd8 31. Rd2 Ba6 32. Rgd1 Bf8 33. Qe1 Qc6 34. Ne3 Bd3 35.
+Qh1 Rc7 36. h3 h5 37. Qg2 Rdd7 38. Rh1 Qb7 39. Rdd1 Rh7 40. Rd2 Qb5 41. h4 Rhd7
+42. Rhd1 Rc8 43. Kg1 Be7 44. Qf2 Rb8 45. Kh2 Rbd8 46. Kg1 Rxd4 47. cxd4 Rxd4
+48. Kg2 Bc5 49. Rc1 Kf7 50. Qe1 Rd8 51. Nc4 Qc6 52. Kh2 Rd4 53. Nd6+ Ke7
+1/2-1/2
+
+[Event "USA-ch"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "9"]
+[White "Kaidanov, Gregory S"]
+[Black "Finegold, Benjamin"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[WhiteElo "2596"]
+[BlackElo "2539"]
+[PlyCount "118"]
+[EventDate "2008.05.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Qc7 13. Ne4 Nxe4 14. Qxe4
+Nf6 15. Qe2 O-O-O 16. g3 Bd6 17. c4 c5 18. Bc3 cxd4 19. Nxd4 a6 20. Kb1 Rd7 21.
+Nf3 Rhd8 22. Rc1 Qc5 23. Rh4 Nxh5 24. Ne5 Bxe5 25. Rxh5 f6 26. Bxe5 fxe5 27.
+Rxe5 Qb4 28. Rxe6 Rd2 29. Qe5 Rd1 30. Rxd1 Rxd1+ 31. Kc2 Rd8 32. Qc3 Qa4+ 33.
+Qb3 Qxb3+ 34. axb3 Rf8 35. f4 h5 36. Re4 g5 37. Kd3 gxf4 38. gxf4 h4 39. Ke3 h3
+40. Kf3 Rh8 41. Re1 Kd7 42. Kg3 h2 43. Rh1 Rg8+ 44. Kxh2 Ke6 45. Rd1 Kf5 46.
+Rd7 Kxf4 47. Rxb7 Rd8 48. b4 Rd2+ 49. Kh3 Rxb2 50. c5 Ke5 51. Rb6 Kd5 52. Kg3
+a5 53. Rd6+ Kc4 54. c6 Kb5 55. bxa5 Rc2 56. a6 Kxa6 57. Kf4 Kb6 58. Ke5 Rxc6
+59. Rxc6+ Kxc6 1/2-1/2
+
+[Event "USA-ch"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "9"]
+[White "Langer, Mikhail"]
+[Black "Shankland, Samuel L"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "2254"]
+[BlackElo "2296"]
+[PlyCount "43"]
+[EventDate "2008.05.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. d3 Nc6 3. g3 g6 4. Bg2 Bg7 5. f4 e6 6. Nf3 Nge7 7. O-O O-O 8. c3 d6
+9. Na3 Rb8 10. Be3 b5 11. e5 dxe5 12. fxe5 Nxe5 13. Bxc5 Qc7 14. d4 Rd8 15.
+Nxe5 Bxe5 16. Qe2 Bd6 17. Nxb5 Ba6 18. Qf2 Bxb5 19. Qxf7+ Kh8 20. Qf6+ Kg8 21.
+Qxe6+ Kh8 22. Rf7 1-0
+
+[Event "USA-ch"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "9"]
+[White "Pruess, David"]
+[Black "Kaufman, Larry C"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2425"]
+[BlackElo "2365"]
+[PlyCount "90"]
+[EventDate "2008.05.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2
+Ne7 9. Ne2 c5 10. b4 cxb4 11. O-O Qa6 12. Qf3 Nf5 13. a3 bxa3 14. c4 Nc6 15.
+cxd5 Ncxd4 16. Nxd4 Nxd4 17. Qe4 Ne2+ 18. Kh1 Nc3 19. Qf3 Nxd5 20. Ne4 Rc8 21.
+Rfb1 Rc4 22. Rb3 Qc6 23. Rd1 a5 24. Rdb1 a2 25. Ra1 Ra4 26. Qd3 Bb4 27. Qf3 Rf8
+28. Rb2 Nc3 29. Rd2 Nd5 30. Rdxa2 Rxa2 31. Rxa2 Qc4 32. Ra1 Qd4 33. Rc1 Qxe5
+34. Rc8+ Kd7 35. Rxf8 Bxf8 36. Qxf7+ Be7 37. Nc5+ Kc6 38. Nxe6 Bxg5 39. hxg5
+Kd6 40. Nxg7 Qxg5 41. Qxb7 Qc1+ 42. Kh2 Qf4+ 43. Kg1 Qc1+ 44. Kh2 Qf4+ 45. Kg1
+Qc1+ 1/2-1/2
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "1"]
+[White "Abrahamyan, Tatev"]
+[Black "Krush, Irina"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2239"]
+[BlackElo "2479"]
+[PlyCount "69"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 a6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 Bb4 7. Nb3 Nf6 8. a3
+Bxc3+ 9. bxc3 d6 10. Bd3 Qxc3+ 11. Nd2 O-O 12. O-O Qc7 13. f4 Nbd7 14. c4 b6
+15. Qf3 Bb7 16. Rae1 Rac8 17. g4 d5 18. cxd5 exd5 19. e5 d4 20. Qh3 dxe3 21.
+exf6 Nxf6 22. Rxe3 g6 23. f5 Qc5 24. Nb3 Qd5 25. g5 Nh5 26. Be4 Qd7 27. Rd3 Qe7
+28. Bxb7 Qxb7 29. fxg6 hxg6 30. Rd7 Rc7 31. Rd6 Re7 32. Nd4 Qe4 33. Nf5 Re5 34.
+Rd4 Qc6 35. Nh6+ 0-1
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "1"]
+[White "Airapetian, Chouchanik"]
+[Black "Jamison, Courtney"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2092"]
+[BlackElo "1979"]
+[PlyCount "135"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Bg5 g6 7. Nd2 Bf5 8.
+Bxf5 gxf5 9. Qf3 Qd7 10. Ne2 O-O-O 11. O-O f6 12. Bh4 Re8 13. c4 dxc4 14. Nxc4
+e5 15. dxe5 fxe5 16. Rfd1 Qe6 17. Rac1 Kb8 18. Qc3 Bb4 19. Qb3 Nh6 20. Qa4 Rhg8
+21. Bg3 Rg4 22. Nxe5 Nxe5 23. Qb5 Rxg3 24. hxg3 Nc6 25. Nf4 Qe5 26. Qxe5+ Rxe5
+27. Nd3 Rd5 28. a3 Be7 29. b4 a6 30. Kf1 Ng4 31. Nf4 Rxd1+ 32. Rxd1 Nge5 33.
+Nd5 Ng6 34. f4 Kc8 35. Ke2 Bf8 36. Kd3 b5 37. Rh1 h6 38. Ne3 a5 39. bxa5 Bxa3
+40. Rb1 b4 41. a6 Nge7 42. Kc4 Kb8 43. Nc2 Ka7 44. Kb5 Nb8 45. Nxb4 Bxb4 46.
+Rxb4 Nd5 47. Rb3 Nxa6 48. Ra3 Kb7 49. Rd3 Nac7+ 50. Kc5 Nf6 51. Kd6 h5 52. Ke5
+Nce8 53. Kxf5 Kc7 54. Ke6 Ng4 55. Rd7+ Kc6 56. Rh7 Nef6 57. Rh8 Kc5 58. Rd8 Kc4
+59. Kf5 Nd5 60. Rh8 Nde3+ 61. Kg5 Nxg2 62. Rxh5 N2e3 63. Rh4 Nf2 64. f5+ Kd5
+65. f6 Nd3 66. f7 Nc5 67. Kf6 Kd6 68. f8=Q+ 1-0
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "1"]
+[White "Zatonskih, Anna"]
+[Black "Zenyuk, Iryna"]
+[Result "1-0"]
+[ECO "B41"]
+[WhiteElo "2458"]
+[BlackElo "2233"]
+[PlyCount "121"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be3 b6 8. Bd3
+Bb7 9. Rc1 d6 10. O-O Be7 11. f4 Nbd7 12. b4 Rc8 13. f5 e5 14. Nb3 Qb8 15. a3
+h5 16. h3 h4 17. Re1 Nh5 18. Nd5 Ng3 19. Nd2 Bd8 20. Qf3 O-O 21. Qg4 Bxd5 22.
+cxd5 b5 23. Bh6 Bf6 24. Nf3 Qb6+ 25. Kh2 Rxc1 26. Rxc1 Qf2 27. Rc6 Kh7 28. Bd2
+Nb8 29. Rxd6 Be7 30. f6 Nf1+ 31. Bxf1 Qg3+ 32. Qxg3 hxg3+ 33. Kxg3 Bxd6 34.
+fxg7 Rg8 35. Nh4 Rxg7+ 36. Kf3 Nd7 37. Nf5 Rg6 38. Be3 Bc7 39. g4 Bb6 40. Bd2
+f6 41. h4 Rg8 42. Bh3 Rc8 43. g5 Rc2 44. Ke2 fxg5 45. hxg5 Bd8 46. Ne3 Rc7 47.
+Bf5+ Kg7 48. Ng4 Kg8 49. Kd3 Nb6 50. Nxe5 Nc4 51. Nxc4 bxc4+ 52. Kc2 Ra7 53.
+Kc3 a5 54. Kxc4 axb4 55. axb4 Ra2 56. Kc3 Ra3+ 57. Kb2 Rg3 58. b5 Bxg5 59. Bxg5
+Rxg5 60. Kc3 Rg7 61. Kd4 1-0
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "2"]
+[White "Airapetian, Chouchanik"]
+[Black "Zatonskih, Anna"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2092"]
+[BlackElo "2458"]
+[PlyCount "160"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Bg5 Nf6 7. h3 Ne4 8. Be3
+Bf5 9. Ne2 e6 10. O-O Nd6 11. Bf4 Bxd3 12. Qxd3 Be7 13. Nd2 O-O 14. Rae1 Qb6
+15. b3 Rfd8 16. Bh2 Rac8 17. Kh1 a5 18. a4 Na7 19. Be5 Qc6 20. Qg3 Nf5 21. Qf3
+Bg5 22. Bf4 Bf6 23. g4 Nd6 24. g5 Be7 25. Bxd6 Bxd6 26. Rg1 e5 27. dxe5 Bxe5
+28. c4 d4 29. Qxc6 Nxc6 30. f4 Bd6 31. Ne4 d3 32. Nxd6 Rxd6 33. Nc3 d2 34. Re3
+Rd4 35. Rd1 Rcd8 36. Nd5 Nb4 37. Nxb4 axb4 38. Re2 g6 39. Kg2 Rd3 40. h4 Kf8
+41. Kf2 R8d4 42. Re3 Rxf4+ 43. Ke2 Rxe3+ 44. Kxe3 Rxh4 45. Rxd2 Rh3+ 46. Ke4
+Rxb3 47. Rd7 Rg3 48. Rxb7 Rxg5 49. Rxb4 h5 50. Rb1 Ra5 51. Ra1 h4 52. c5 Rxc5
+53. a5 Rc8 54. a6 h3 55. Kf3 Ke7 56. Kg3 Rh8 57. Kh2 Ra8 58. Kxh3 Kd7 59. Kg4
+Kc7 60. Kg5 Kb6 61. Rf1 Ra7 62. Rf6+ Kc5 63. Kf4 Kd5 64. Rb6 Rc7 65. Rb7 Rc4+
+66. Kf3 Ke6 67. Rb6+ Ke7 68. Rb7+ Kf6 69. Rb6+ Kg7 70. a7 Ra4 71. Rb7 g5 72.
+Kg3 Kg6 73. Rc7 Ra3+ 74. Kg2 f5 75. Kf2 f4 76. Rb7 Kf5 77. Rg7 Ra2+ 78. Ke1 g4
+79. Kd1 g3 80. Ke1 Ke4 0-1
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "2"]
+[White "Battsetseg, Tsagaan"]
+[Black "Abrahamyan, Tatev"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2254"]
+[BlackElo "2239"]
+[PlyCount "68"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Be2
+Be7 9. O-O O-O 10. f4 exf4 11. Bxf4 Nc6 12. Kh1 Re8 13. Nd4 Ne5 14. a4 Rc8 15.
+Qb1 Qb6 16. Nxe6 fxe6 17. Qa2 Bf8 18. Qb3 Qc7 19. Rad1 Nfd7 20. Rd2 g6 21. h3
+Bg7 22. Rfd1 Nc5 23. Qa2 Rf8 24. Be3 Nf7 25. Bxc5 Qxc5 26. Qxe6 Bxc3 27. bxc3
+Qxc3 28. Rxd6 Qxc2 29. R6d2 Qxa4 30. Rd7 Qc2 31. Bg4 Rce8 32. Qf6 Qxe4 33. Bf3
+Qe5 34. Qb6 Re7 0-1
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "3"]
+[White "Abrahamyan, Tatev"]
+[Black "Zenyuk, Iryna"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2239"]
+[BlackElo "2233"]
+[PlyCount "67"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Qf3 Nc6 7. Nxc6 dxc6 8.
+Be3 Nf6 9. O-O-O Bd6 10. Na4 Nd7 11. Qg4 b5 12. Nb6 Nxb6 13. Qxg7 Rf8 14. Bxb6
+Qxb6 15. Rxd6 Qxf2 16. Qg5 Bd7 17. Rd2 Qe1+ 18. Rd1 Qxe4 19. Kb1 f6 20. Qh5+
+Qg6 21. Qc5 Qf7 22. Be2 e5 23. Rd6 O-O-O 24. Bf3 Qc4 25. Qb6 e4 26. b3 Qb4 27.
+Rxc6+ Bxc6 28. Qxc6+ Kb8 29. Bxe4 Qe7 30. Qb6+ Kc8 31. Bf5+ Rd7 32. Rd1 Rfd8
+33. Qc6+ Kb8 34. Bxd7 1-0
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "3"]
+[White "Epstein, Esther"]
+[Black "Battsetseg, Tsagaan"]
+[Result "1/2-1/2"]
+[ECO "B27"]
+[WhiteElo "2184"]
+[BlackElo "2254"]
+[PlyCount "159"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qa4 Nd5 7. c4 Nc7 8. Bd2
+Bg7 9. Bc3 a6 10. Qc2 Ne6 11. Nbd2 Qc7 12. Qe4 O-O 13. Qe3 Qb8 14. c5 Nc7 15.
+Nc4 Nd5 16. Qe4 Nxc3 17. bxc3 d5 18. Qxd5 Rd8 19. Qe4 Bf5 20. Qe3 Qc7 21. Be2
+Bg4 22. O-O Bxf3 23. Bxf3 Nxe5 24. Nxe5 Bxe5 25. g3 Rab8 26. Rfe1 Bf6 27. Rab1
+Rdc8 28. Rb3 Qxc5 29. Bxb7 Rc7 30. Qxc5 Rxc5 31. Bxa6 Ra8 32. Bb5 Rf5 33. c4
+Rxa2 34. f3 Rh5 35. h4 g5 36. Re4 gxh4 37. gxh4 Bxh4 38. Rg4+ Kf8 39. Bc6 Bf2+
+40. Kg2 Bc5+ 41. Kg3 Bd6+ 42. f4 f5 43. Rh4 Rxh4 44. Kxh4 Bxf4 45. Bd7 Rh2+ 46.
+Rh3 Bg5+ 47. Kg3 Bf4+ 48. Kh4 Rf2 49. Bxf5 h6 50. Be6 Kg7 51. Kg4 Bd6 52. Bd5
+Rf6 53. Rf3 Rg6+ 54. Kh3 e6 55. Be4 Rg5 56. Rd3 Bf4 57. Rf3 Bc7 58. Rf1 Re5 59.
+Bb1 Re3+ 60. Kh4 Rc3 61. Rg1+ Kf7 62. Rf1+ Kg7 63. Rg1+ Kf6 64. Rg6+ Ke5 65.
+Kh5 Rh3+ 66. Kg4 Rh1 67. Bc2 Rc1 68. Bd3 Kd4 69. Be2 Rg1+ 70. Kh5 Rh1+ 71. Kg4
+h5+ 72. Kf3 e5 73. Kg2 Rc1 74. Rc6 Rc2 75. Kf1 Bb8 76. Bxh5 e4 77. Rc8 Bh2 78.
+Bg6 Ke3 79. Re8 Rxc4 80. Rxe4+ 1/2-1/2
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "3"]
+[White "Tuvshintugs, Batchimeg"]
+[Black "Krush, Irina"]
+[Result "0-1"]
+[ECO "B28"]
+[WhiteElo "2278"]
+[BlackElo "2479"]
+[PlyCount "86"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 a6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nf5 d6 7. Bd3 g6 8. Ne3
+Nf6 9. Nc3 Bg7 10. Ned5 Nxd5 11. Nxd5 O-O 12. h4 h5 13. Bg5 f6 14. Be3 Be6 15.
+Bb6 Qd7 16. Nc7 Rac8 17. Nxe6 Qxe6 18. O-O Kh7 19. a3 Ne7 20. Be3 Bh6 21. b3
+Bxe3 22. fxe3 Ng8 23. Ra2 Nh6 24. Be2 f5 25. Qd3 Rf6 26. Bd1 Rcf8 27. Raf2 f4
+28. Qd5 Qxd5 29. cxd5 Kg7 30. Rc2 R6f7 31. Bf3 Ng4 32. Bxg4 hxg4 33. Rcf2 g3
+34. Re2 Kh6 35. Rf3 Re8 36. Re1 Kh5 37. Kf1 Kxh4 38. Ke2 g5 39. Rh1+ Kg4 40.
+Rh6 Rc7 41. exf4 Rc2+ 42. Kf1 exf4 43. Re6 Rh8 0-1
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "3"]
+[White "Zatonskih, Anna"]
+[Black "Jamison, Courtney"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "2458"]
+[BlackElo "1979"]
+[PlyCount "81"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 d6 4. d3 g6 5. f4 Bg7 6. Nf3 e6 7. O-O Nge7 8. c3 O-O
+9. Be3 Qc7 10. a4 b6 11. Na3 a6 12. d4 Bb7 13. Bf2 Rad8 14. Rc1 Qb8 15. Re1 h6
+16. d5 exd5 17. exd5 Nxd5 18. Qxd5 Nd4 19. Qxb7 Qxb7 20. cxd4 Qd7 21. b3 Rfe8
+22. Red1 Qa7 23. Rc2 Rd7 24. Nb1 Rde7 25. Nc3 Kh7 26. h4 Qb8 27. Rdd2 Bh8 28.
+Kh2 Bg7 29. a5 bxa5 30. dxc5 Qxb3 31. Nd5 Re4 32. cxd6 Rc4 33. Rxc4 Qxc4 34.
+Ne5 Qc1 35. Re2 Qa3 36. d7 Rd8 37. Bb6 Qf8 38. Bxd8 Qxd8 39. Rc2 Bxe5 40. fxe5
+Kg7 41. Nf6 1-0
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "5"]
+[White "Rohonyan, Katerina"]
+[Black "Jamison, Courtney"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2309"]
+[BlackElo "1979"]
+[PlyCount "57"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O Qc7 8.
+Qe2 Bd6 9. f4 Ne7 10. Nc3 Bb7 11. Be3 Qa5 12. a3 Bc5 13. b4 Bxe3+ 14. Qxe3 Qc7
+15. Na4 d6 16. c4 O-O 17. e5 Rad8 18. Rad1 dxe5 19. fxe5 a5 20. Qc5 axb4 21.
+axb4 Ra8 22. Nc3 Ng6 23. Bxg6 hxg6 24. Nb5 Qb8 25. Nd6 f6 26. Rf3 Ra4 27. exf6
+gxf6 28. Qe3 Kg7 29. Qxe6 1-0
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "7"]
+[White "Abrahamyan, Tatev"]
+[Black "Jamison, Courtney"]
+[Result "1-0"]
+[ECO "B45"]
+[WhiteElo "2239"]
+[BlackElo "1979"]
+[PlyCount "69"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O Be6 12. Bg5 h6 13. Bh4 Ne5 14. Re1
+Ned7 15. Nb5 Qb6 16. a4 a6 17. a5 Qc5 18. Nd4 Bg4 19. Qd2 Rfe8 20. b4 Qc7 21.
+f3 Bh5 22. Nf5 Rad8 23. Bg3 Ne5 24. Re2 Re6 25. Rae1 Rde8 26. Nxh6+ gxh6 27.
+Qxh6 Qc3 28. Qg5+ Ng6 29. Rxe6 Rxe6 30. Rxe6 fxe6 31. Bxg6 Bxg6 32. Qxg6+ Kh8
+33. h4 Qd4+ 34. Kh2 Qc3 35. h5 1-0
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "7"]
+[White "Battsetseg, Tsagaan"]
+[Black "Zenyuk, Iryna"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2254"]
+[BlackElo "2233"]
+[PlyCount "163"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Bd3 Nf6 7. Qe2 d5 8.
+Nd2 Be7 9. O-O O-O 10. Kh1 a5 11. f4 Nd7 12. Rf3 Nc5 13. Rh3 g6 14. e5 Nxd3 15.
+cxd3 f5 16. Nf3 d4 17. Bd2 c5 18. Rc1 a4 19. Be1 Bb7 20. Qc2 Bxf3 21. Rxf3 Qd5
+22. Qc4 Rfb8 23. Rc2 Qxc4 24. dxc4 Bd8 25. Kg1 Kf7 26. Kf1 g5 27. fxg5 Bxg5 28.
+g4 Rf8 29. Rg2 Be3 30. Bf2 Bxf2 31. Rgxf2 Kg6 32. Ke2 h5 33. gxh5+ Kh6 34. Rg2
+Rg8 35. Rxg8 Rxg8 36. Ra3 Rg2+ 37. Kd3 Rxb2 38. Rxa4 Rxh2 39. Ra6 Kxh5 40. Rxe6
+Rh3+ 41. Kd2 Rh2+ 42. Kd3 Rxa2 43. Rc6 Ra3+ 44. Kd2 Kg4 45. Rxc5 Kf4 46. Rd5
+Ke4 47. e6 Ra2+ 48. Ke1 Ra6 49. e7 Re6 50. Rd7 Kd3+ 51. Kf2 Kxc4 52. Kf3 Re4
+53. Ra7 Kc3 54. Ra3+ Kb4 55. Ra7 d3 56. Rd7 Kc3 57. Rc7+ Kd2 58. Rd7 Kc2 59.
+Rc7+ Kd1 60. Kf2 Re2+ 61. Kf1 Kd2 62. Ra7 Re4 63. Kf2 Kc2 64. Rc7+ Kd1 65. Rd7
+Kd2 66. Ra7 Rf4+ 67. Kg3 Rg4+ 68. Kf2 Re4 69. Rd7 Re6 70. Rc7 Kd1 71. Rd7 Kc2
+72. Rc7+ Kb3 73. Rd7 Kc3 74. Rc7+ Kd4 75. Rd7+ Ke4 76. Ra7 f4 77. Ra4+ Kf5 78.
+Rd4 Re2+ 79. Kf3 Re3+ 80. Kf2 Rxe7 81. Rxd3 Ra7 82. Kf3 1/2-1/2
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "7"]
+[White "Epstein, Esther"]
+[Black "Rohonyan, Katerina"]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "2184"]
+[BlackElo "2309"]
+[PlyCount "72"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 a6 5. Ba4 Ngf6 6. Bc2 e5 7. O-O Be7 8. d4
+O-O 9. a4 Re8 10. Re1 Bf8 11. Nbd2 cxd4 12. cxd4 b6 13. Nf1 exd4 14. Nxd4 Bb7
+15. Ng3 d5 16. exd5 Rxe1+ 17. Qxe1 Nc5 18. Qe5 Qxd5 19. Qxd5 Nxd5 20. Bd2 a5
+21. b3 g6 22. Re1 Bg7 23. Nb5 Nb4 24. Bxb4 axb4 25. Ne4 Bxe4 26. Bxe4 Rd8 27.
+f3 f5 28. Bc6 Nxb3 29. Rb1 Na5 30. Na7 b3 31. Bb5 b2 32. Nc6 Nxc6 33. Bxc6 Kf8
+34. Kf2 Rd2+ 35. Kg3 Ke7 36. Bb5 Kd6 0-1
+
+[Event "USA-ch (Women)"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "7"]
+[White "Tuvshintugs, Batchimeg"]
+[Black "Zatonskih, Anna"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2278"]
+[BlackElo "2458"]
+[PlyCount "152"]
+[EventDate "2008.05.13"]
+[EventType "tourn"]
+[EventRounds "9"]

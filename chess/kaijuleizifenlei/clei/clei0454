@@ -1,0 +1,600 @@
+[BlackElo "2597"]
+[PlyCount "116"]
+[EventDate "2008.03.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qd3 Ne7 11. Be3 O-O 12. Nbd2 Bxe3 13. Qxe3 Nxd2 14. Qxd2 c5
+15. Rad1 Qc7 16. Bc2 Bg4 17. Rfe1 Bxf3 18. gxf3 Rad8 19. f4 Qc8 20. Qd3 g6 21.
+Qg3 d4 22. Qg5 Nf5 23. Bxf5 Qxf5 24. Qxf5 gxf5 25. cxd4 Rxd4 26. Rxd4 cxd4 27.
+Rd1 Rd8 28. Rd3 f6 29. Kf1 Kf7 30. Ke2 fxe5 31. fxe5 Ke6 32. f4 Kd5 33. Rh3 Ke4
+34. Rxh7 d3+ 35. Kd2 Rg8 36. e6 Rg2+ 37. Kc3 Rc2+ 38. Kb3 Rc6 39. e7 Rc8 40.
+Rh6 Re8 41. Re6+ Kd5 42. Re5+ Kd4 43. Re6 a5 44. Rd6+ Ke3 45. Re6+ Kd2 46. a4
+bxa4+ 47. Ka2 Kc2 48. Rc6+ Kd1 49. Re6 Kc2 50. Rc6+ Kd1 51. Re6 d2 52. Kb1 a3
+53. bxa3 Rb8+ 54. Ka2 Kc2 55. Rc6+ Kd3 56. Rd6+ Kc2 57. Rc6+ Kd3 58. Rd6+ Kc2
+1/2-1/2
+
+[Event "TUR-ch"]
+[Site "Ankara"]
+[Date "2008.03.31"]
+[Round "9"]
+[White "Erdogdu, Mert"]
+[Black "Gurevich, Mikhail"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "2434"]
+[BlackElo "2607"]
+[PlyCount "128"]
+[EventDate "2008.03.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Nxf6+ Nxf6
+8. Be3 Bd6 9. Bd3 b6 10. O-O Bb7 11. c4 O-O 12. h3 Qe7 13. Ne5 c5 14. Qe2 Rad8
+15. Rad1 Bb8 16. Bb1 cxd4 17. Bf4 Nd7 18. Qd3 g6 19. Nxd7 Rxd7 20. Bxh6 Re8 21.
+f4 e5 22. fxe5 Qxe5 23. Bf4 Qxf4 24. Rxf4 Bxf4 25. Rf1 Be3+ 26. Kh2 Be4 27.
+Qxe4 Rxe4 28. Bxe4 d3 29. Rd1 d2 30. Kg3 Rd4 31. Kf3 Bh6 32. b3 Kg7 33. Bd5
+Rd3+ 34. Ke2 Rc3 35. Bf3 Rc2 36. Kd3 Rxa2 37. Rf1 f5 38. Bd1 Ra5 39. Rf2 Rc5
+40. Rf3 Re5 41. Kc2 Be3 42. Kd3 f4 43. h4 g5 44. Rh3 Ra5 45. Rh1 b5 46. cxb5
+Rxb5 47. hxg5 Rd5+ 48. Ke4 Rxg5 49. Bf3 Kf6 50. Kd3 Rg3 51. Kc2 Rg8 52. Kd3
+Rd8+ 53. Kc3 Bf2 54. Kc2 Be1 55. Rh6+ Ke5 56. Kd1 Kd4 57. Rc6 Ke3 58. Rc4 Rf8
+59. Ra4 Rf7 60. Bd5 Re7 61. Bf3 Kd3 62. Ra2 Rc7 63. Ra1 Kc3 64. Bd5 Kd4 0-1
+
+[Event "TUR-ch"]
+[Site "Ankara"]
+[Date "2008.03.31"]
+[Round "9"]
+[White "Haznedaroglu, Kivanc"]
+[Black "Atalik, Suat"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2459"]
+[BlackElo "2597"]
+[PlyCount "87"]
+[EventDate "2008.03.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 a5 7. Bd3 Bd7 8. O-O cxd4
+9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nc3 Qb6 12. Qg4 h5 13. Qg3 Ne7 14. Bg5 Rc8 15.
+Rac1 h4 16. Bxh4 Qxb2 17. Rc2 Qxa3 18. Nb5 Nf5 19. Rxc8+ Bxc8 20. Qg5 Qe7 21.
+Rc1 Bd7 22. Bxf5 Qxg5 23. Nc7+ Kd8 24. Bxg5+ Be7 25. Bd2 exf5 26. Bxa5 Rh4 27.
+f4 Rg4 28. Nxd5+ Ke8 29. Nxe7 Kxe7 30. g3 Rg6 31. Bb4+ Ke8 32. Bd6 Bc6 33. Kf2
+Rh6 34. h4 Rg6 35. Ra1 Kd7 36. Ra8 f6 37. Rf8 fxe5 38. Bxe5 Ke6 39. Rg8 Kf7 40.
+Rc8 Re6 41. Rc7+ Re7 42. Rxe7+ Kxe7 43. Bxg7 Kf7 44. Bd4 1/2-1/2
+
+[Event "TUR-ch"]
+[Site "Ankara"]
+[Date "2008.04.01"]
+[Round "10"]
+[White "Duman, Aydin"]
+[Black "Ataman, Alper Efe"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "2231"]
+[BlackElo "2209"]
+[PlyCount "87"]
+[EventDate "2008.03.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ng4 6. O-O d6 7. exd6 Qxd6 8.
+h3 Nf6 9. Ng5 Be6 10. Re1 Nd8 11. Na3 c6 12. Bxe6 fxe6 13. Nc4 Qd5 14. Qd3 Bd6
+15. Nxd6+ Qxd6 16. Be3 c5 17. c3 Qd5 18. cxd4 O-O 19. Nf3 c4 20. Qc2 Nf7 21.
+Rac1 b5 22. Bf4 Rac8 23. Re3 Qd7 24. Be5 Nxe5 25. Rxe5 Nd5 26. Ng5 Rf5 27. g4
+Rxg5 28. Rxg5 Nf4 29. Kh2 Qxd4 30. Rd1 Nd3 31. Kg1 Rf8 32. Rf1 Nf4 33. Kh2 Nd5
+34. Kg1 h6 35. Rh5 Nf4 36. Rh4 Qf6 37. Rh5 Nxh5 38. gxh5 Qg5+ 39. Kh2 Qxh5 40.
+Rg1 Qf5 41. Qc3 Qxf2+ 42. Rg2 Qf4+ 43. Kh1 e5 44. Qa5 0-1
+
+[Event "TUR-ch"]
+[Site "Ankara"]
+[Date "2008.04.02"]
+[Round "11"]
+[White "Erdogdu, Mert"]
+[Black "Dogan, Ali Ekber"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2434"]
+[BlackElo "1978"]
+[PlyCount "99"]
+[EventDate "2008.03.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. Qd2 Nc6 10. dxc5 Qxc5 11. Bd3 b5 12. h4 Nb6 13. Qf2 Qxf2+ 14. Kxf2 h5 15.
+Ne2 g6 16. Ned4 Ne7 17. b3 Nf5 18. Bxf5 exf5 19. Rh3 Be6 20. Rg3 Rh6 21. Ng5
+Ke7 22. Re1 Rc8 23. Ree3 b4 24. Re1 Rc5 25. a3 bxa3 26. Ra1 Na8 27. Rxa3 Nc7
+28. Ke2 Bd7 29. Kd2 Rh8 30. Rc3 Rxc3 31. Kxc3 Bb5 32. Ra1 Rc8 33. Kb4 Bd7 34.
+Ngf3 Rb8+ 35. Kc5 Rc8 36. Kb6 Kd8 37. Kb7 Ra8 38. Ng5 Bc8+ 39. Kc6 Bd7+ 40. Kd6
+Be8 41. e6 f6 42. Nf7+ Kc8 43. Ke7 Kb7 44. Kxf6 Kb6 45. Kxg6 Kc5 46. c3 a5 47.
+Kxf5 a4 48. bxa4 Bxa4 49. Ke5 Kc4 50. Ra3 1-0
+
+[Event "TUR-ch"]
+[Site "Ankara"]
+[Date "2008.04.02"]
+[Round "11"]
+[White "Firat, Burak"]
+[Black "Buker, Muhittin"]
+[Result "0-1"]
+[ECO "C91"]
+[WhiteElo "2182"]
+[BlackElo "2166"]
+[PlyCount "120"]
+[EventDate "2008.03.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Be3 Na5 11. Bc2 c5 12. Nbd2 Qc7 13. Rc1 Rac8 14. h3 Bh5 15.
+g4 Bg6 16. Qe2 Rfe8 17. d5 c4 18. Nh4 Nb7 19. Ng2 Nc5 20. f3 Nfd7 21. Nf1 Qd8
+22. Qf2 a5 23. b4 cxb3 24. axb3 b4 25. cxb4 axb4 26. Bd2 Qb6 27. Nfe3 Ra8 28.
+Nc4 Qb5 29. Ra1 Nb6 30. Nge3 Nxc4 31. Nxc4 Reb8 32. Be3 f6 33. Kg2 Ra6 34. Rxa6
+Qxa6 35. Rb1 Be8 36. Qe1 Qa2 37. Qd1 Ra8 38. Rb2 Qa1 39. Bxc5 dxc5 40. d6 Bd8
+41. Rb1 Qa2 42. Rb2 Qa1 43. Qd5+ Bf7 44. Qxc5 Qe1 45. Qf2 Qc3 46. Bd1 Ra1 47.
+Be2 h5 48. Bf1 Kh7 49. Qd2 hxg4 50. hxg4 Rxf1 51. Kxf1 Qxf3+ 52. Ke1 Qxe4+ 53.
+Qe2 Qh1+ 54. Kd2 Bg6 55. Qf2 f5 56. gxf5 Bh5 57. Ne3 Bg5 58. Kd3 Qc6 59. f6 e4+
+60. Kd4 Bxf6+ 0-1
+
+[Event "TUR-ch"]
+[Site "Ankara"]
+[Date "2008.04.02"]
+[Round "11"]
+[White "Yilmaz, Mustafa Enes"]
+[Black "Atalik, Suat"]
+[Result "0-1"]
+[ECO "C08"]
+[WhiteElo "2288"]
+[BlackElo "2597"]
+[PlyCount "80"]
+[EventDate "2008.03.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 a6 6. dxc5 Bxc5 7. Be2 Nf6 8.
+O-O O-O 9. Nb3 Ba7 10. Bg5 h6 11. Bh4 Nc6 12. c3 g5 13. Bg3 Ne4 14. Nfd2 Nxg3
+15. hxg3 Re8 16. Rc1 Bf5 17. Nf3 Qf6 18. Nfd4 Be4 19. Bf3 Rad8 20. Re1 Qg6 21.
+Kh2 Ne5 22. Bxe4 dxe4 23. Rc2 f5 24. Rh1 Ng4+ 25. Kg1 e3 26. f3 Nf2 27. Rxf2
+exf2+ 28. Kxf2 Re5 29. Qd3 Rde8 30. Rd1 Qe6 31. Kg1 Re3 32. Qb1 Qf7 33. Kh2
+Qh5+ 34. Kg1 g4 35. Nd2 Re2 36. Qd3 b5 37. a4 R8e3 38. Qb1 gxf3 39. N2xf3 Rxf3
+40. Qa2+ Kh7 0-1
+
+[Event "TUR-ch"]
+[Site "Ankara"]
+[Date "2008.04.04"]
+[Round "13"]
+[White "Firat, Burak"]
+[Black "Dogan, Ali Ekber"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2182"]
+[BlackElo "1978"]
+[PlyCount "81"]
+[EventDate "2008.03.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 a6 10. O-O-O Nxd4 11. Bxd4 b5 12. Ne4 Be7 13. Ng5 h6 14. Nf3 Nc5 15.
+Qe3 Qc7 16. Kb1 Bd7 17. Bd3 Rc8 18. Rc1 O-O 19. g4 Nxd3 20. Qxd3 Qc4 21. Qd2 b4
+22. h4 a5 23. h5 Bb5 24. Rh2 a4 25. b3 axb3 26. axb3 Qc6 27. g5 Qa6 28. gxh6
+Ra8 29. Rg1 Rfc8 30. Qg2 Bf8 31. hxg7 Be7 32. h6 Kh7 33. Qd2 Qa2+ 34. Kc1 Rc3
+35. g8=Q+ Rxg8 36. Rg7+ Rxg7 37. hxg7+ Kg8 38. Bxc3 bxc3 39. Qxc3 Qa6 40. Kb1
+Qb7 41. Nd4 1-0
+
+[Event "TUR-ch"]
+[Site "Ankara"]
+[Date "2008.04.04"]
+[Round "13"]
+[White "Haznedaroglu, Kivanc"]
+[Black "Buker, Muhittin"]
+[Result "1-0"]
+[ECO "C22"]
+[WhiteElo "2459"]
+[BlackElo "2166"]
+[PlyCount "55"]
+[EventDate "2008.03.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 d6 7. O-O-O O-O 8.
+a3 Bc5 9. Qg3 Nh5 10. Qf3 Qh4 11. g3 Qg4 12. Qg2 Qe6 13. Nd5 Ne7 14. Nxc7 Qa2
+15. Bc3 Bg4 16. Be2 Bxe2 17. Nxe2 Rac8 18. Nd5 Nxd5 19. Rxd5 f5 20. Rhd1 fxe4
+21. Rxh5 Rf3 22. Rxc5 Rxc5 23. Rxd6 Qa1+ 24. Kd2 h6 25. Qh3 Rcf5 26. Rd8+ Kh7
+27. Rh8+ Kg6 28. Qg4+ 1-0
+
+[Event "TUR-ch"]
+[Site "Ankara"]
+[Date "2008.04.04"]
+[Round "13"]
+[White "Secer, Ata"]
+[Black "Gurevich, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2308"]
+[BlackElo "2607"]
+[PlyCount "19"]
+[EventDate "2008.03.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 Bxd4 10. Bxd4 1/2-1/2
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.25"]
+[Round "2"]
+[White "Ibarretxe Campo, Lander"]
+[Black "Alcaide Luque, Aitor"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2113"]
+[BlackElo "2169"]
+[PlyCount "96"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Bd3 Bg4 6. O-O Nc6 7. c3 Qd7 8.
+Bg5 Nge7 9. Bxe7 Nxe7 10. Nbd2 O-O 11. Qc2 Bf5 12. Rfe1 f6 13. Bxf5 Qxf5 14.
+Qxf5 Nxf5 15. Kf1 c6 16. Ke2 g5 17. h3 h5 18. Kf1 Kf7 19. Nb3 a5 20. Ng1 a4 21.
+Nc5 Bxc5 22. dxc5 Ra5 23. b4 axb3 24. axb3 Rxc5 25. Ra7 Rb5 26. Rb1 Nd6 27. Ne2
+Ne4 28. Ra2 Rb6 29. f3 Nd6 30. Nc1 Re8 31. Kf2 Nb5 32. Re2 Nxc3 33. Rxe8 Kxe8
+34. Ra1 Ra6 35. Rxa6 bxa6 36. Ke3 Kd7 37. Kd4 Nb5+ 38. Kc5 Kc7 39. Nd3 Nd6 40.
+g4 hxg4 41. hxg4 Nb7+ 42. Kd4 Kd6 43. f4 c5+ 44. Kc3 d4+ 45. Kb2 Kd5 46. fxg5
+fxg5 47. Nf2 Nd6 48. Ka3 Ne4 0-1
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.25"]
+[Round "2"]
+[White "Varas Gonzalez, Carlos"]
+[Black "Perez Fernandez, Modesto C"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2250"]
+[BlackElo "2109"]
+[PlyCount "55"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Nc3 Nxc3 10. bxc3 Bg4 11. cxd5 cxd5 12. Rb1 Nd7 13. h3 Bxf3 14. Qxf3 Nb6
+15. Re1 Qc7 16. Bd2 Rfe8 17. g3 Rxe1+ 18. Rxe1 Nc4 19. Bc1 Qc6 20. Kg2 b5 21.
+Qf5 g6 22. Qf6 Rc8 23. Bh6 Be5 24. Qxc6 Rxc6 25. Bxc4 bxc4 26. Rxe5 f6 27. Rxd5
+g5 28. Rd7 1-0
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.26"]
+[Round "3"]
+[White "Hernandez Perez, Jesus"]
+[Black "Alcaide Luque, Aitor"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2043"]
+[BlackElo "2169"]
+[PlyCount "60"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 b6 5. Bg2 dxe4 6. Nxe4 Nxe4 7. Bxe4 c6 8.
+Ne2 Bb7 9. O-O Nd7 10. Nc3 Nf6 11. Bg2 Be7 12. Qe2 O-O 13. b3 Bc5 14. Be3 Bd4
+15. Bxd4 Qxd4 16. Ne4 Rac8 17. Nxf6+ Qxf6 18. Rfe1 Rc7 19. Qe5 Qxe5 20. Rxe5
+Bc8 21. f4 Bd7 22. Kf2 c5 23. Rae1 Rfc8 24. a4 Kf8 25. Ke2 a6 26. Kd2 Ra7 27.
+Ra1 Ke7 28. a5 b5 29. c3 Rac7 30. Kc2 Kd6 1/2-1/2
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.27"]
+[Round "4"]
+[White "Ruiz Gomez, Alejandro"]
+[Black "Villalta Bustillo, Igor"]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "2365"]
+[BlackElo "2119"]
+[PlyCount "159"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. dxe5 Be7 6. Nbd2 Nc5 7. Be2 O-O 8.
+O-O Nc6 9. Nb3 Nxb3 10. axb3 f6 11. exf6 Bxf6 12. Ra4 Ne5 13. Ne1 c6 14. Be3 a6
+15. c3 Bf5 16. Nc2 Bg6 17. Qd2 Re8 18. Rd1 Qe7 19. Bf1 Rad8 20. Bb6 Rc8 21. f3
+Nd7 22. Re1 Be5 23. Bf2 Qf8 24. Ne3 Nc5 25. Ra3 Bf4 26. b4 Ne6 27. Bd3 Bxd3 28.
+Qxd3 Rcd8 29. Nc2 Ng5 30. Raa1 Qd6 31. g3 Nh3+ 32. Kg2 Nxf2 33. Kxf2 Qh6 34.
+Kg2 Bc7 35. Ne3 Bb6 36. Nf5 Qf6 37. f4 Re6 38. Rxe6 Qxe6 39. Rd1 Re8 40. Kf3 g6
+41. Nh6+ Kg7 42. Ng4 Qe4+ 43. Qxe4 Rxe4 44. Rd2 Re1 45. c4 h5 46. Ne5 Re3+ 47.
+Kg2 Rb3 48. cxd5 cxd5 49. Rxd5 Rxb2+ 50. Kf3 Rxb4 51. Rd7+ Kf6 52. Rxb7 Rb3+
+53. Ke4 Rb4+ 54. Kd3 Ba5 55. Rf7+ Ke6 56. Rg7 Rb3+ 57. Kc2 Rc3+ 58. Kb2 Kf5 59.
+Rxg6 Re3 60. Rg5+ Ke4 61. Rxh5 Bc3+ 62. Kc2 Bd4 63. Nf7 Rc3+ 64. Kd2 Rd3+ 65.
+Kc2 Rc3+ 66. Kd2 Rd3+ 67. Ke2 Re3+ 68. Kf1 Ra3 69. Kg2 Ra2+ 70. Kh3 Bg1 71. Kg4
+Bxh2 72. Ng5+ Ke3 73. Nf3 Bxg3 74. Kxg3 a5 75. Re5+ Kd3 76. f5 Rb2 77. Rxa5 Ke4
+78. Re5+ Kd3 79. Kf4 Rb8 80. f6 1-0
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.27"]
+[Round "4"]
+[White "Trigo Urquijo, Sergio"]
+[Black "Hernandez Perez, Jesus"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2169"]
+[BlackElo "2043"]
+[PlyCount "45"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Bd3 Bc6 6. Nf3 Nd7 7. O-O Ngf6 8.
+Ng3 Be7 9. b3 O-O 10. c4 b6 11. Bb2 Bb7 12. Qe2 c5 13. Rad1 Qc7 14. Bc2 Rfe8
+15. Rfe1 Rad8 16. Ng5 Nf8 17. N3e4 h6 18. Nf3 Nxe4 19. Bxe4 Bxe4 20. Qxe4 Bf6
+21. Rd3 Ng6 22. g3 Re7 23. Red1 1/2-1/2
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.27"]
+[Round "4"]
+[White "Varas Gonzalez, Carlos"]
+[Black "Angulo Martinez, Jon"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteElo "2250"]
+[BlackElo "2165"]
+[PlyCount "97"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Nxd5 6. exd5 Bb4+ 7. Bd2 Qe7+
+8. Qe2 Bxd2+ 9. Kxd2 Qxe2+ 10. Bxe2 Nb8 11. d6 c5 12. Rhe1 O-O 13. Bc4 Nc6 14.
+Ng5 Nd8 15. a4 b6 16. Re7 h6 17. Nh3 Nc6 18. Bd5 Rb8 19. Bxc6 dxc6 20. d7 Ba6
+21. a5 b5 22. Rae1 Rbd8 23. R1e5 c4 24. Rc5 Bb7 25. a6 Bxa6 26. Rxc6 Bb7 27.
+Rc7 Bxg2 28. Nf4 Bf3 29. Rxa7 g6 30. Ne2 Kg7 31. Nxd4 Kf6 32. Re8 Bd5 33. Rxf8
+Rxf8 34. Nxb5 Rd8 35. Kc3 Be6 36. Nd4 Bxd7 37. Kxc4 Ke5 38. c3 f5 39. b4 Ke4
+40. Rc7 g5 41. b5 h5 42. b6 Rc8 43. Rxc8 Bxc8 44. Nb3 Ba6+ 45. Kb4 f4 46. Ka5
+Bb7 47. Nc5+ Kf3 48. Nxb7 Kxf2 49. Nd6 1-0
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.28"]
+[Round "5"]
+[White "Burguete Archel, Eduardo"]
+[Black "Alcaide Luque, Aitor"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2173"]
+[BlackElo "2169"]
+[PlyCount "61"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. Na3 Ng6 8. Nc2
+Be7 9. O-O O-O 10. Rb1 cxd4 11. cxd4 f6 12. exf6 Bxf6 13. b4 a6 14. Bd3 Be8 15.
+a4 e5 16. b5 e4 17. bxc6 Bxc6 18. Be2 exf3 19. Bxf3 Bxa4 20. Rxb7 Rc8 21. Rb2
+Nh4 22. Bg4 Rc4 23. Qd2 Re8 24. Be2 Rxe2 25. Qxe2 Qc8 26. Bf4 Rxc2 27. Rxc2
+Qxc2 28. Qe6+ Kh8 29. Rc1 h6 30. Rxc2 Bxc2 31. Qc8+ 1-0
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.28"]
+[Round "5"]
+[White "Urbieta Gabancho, Koldo"]
+[Black "Sanz Perez, Eduardo"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2018"]
+[BlackElo "2161"]
+[PlyCount "38"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Qf3 Nge7 7. Ne2 O-O 8.
+Bf4 Ng6 9. Bxg6 hxg6 10. Qxd5 Nb4 11. Qf3 Nc2+ 12. Kd1 Nxa1 13. Bxd6 Qxd6 14.
+Na3 Qe6 15. c4 Re8 16. Kd2 Qe7 17. Rxa1 Qg5+ 18. Nf4 Bg4 19. Qg3 Re5 0-1
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.29"]
+[Round "6"]
+[White "Prieto Aranguren, Alain"]
+[Black "Hernandez Perez, Jesus"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2177"]
+[BlackElo "2043"]
+[PlyCount "84"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. e4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 Bd7 8. Bh3 Nh6
+9. O-O Nf5 10. g4 Nh6 11. Nh4 Be7 12. Ng2 O-O-O 13. Nd2 Ng8 14. b3 cxb3 15.
+Nxb3 Na5 16. Nxa5 Qxa5 17. Bd2 Qa4 18. Qf3 f6 19. exf6 Nxf6 20. Bf4 Ne4 21. c4
+Bd6 22. Bxd6 Nxd6 23. cxd5 exd5 24. Qxd5 Bc6 25. Rfc1 Kb8 26. Qe5 Rhe8 27. Qxg7
+Ne4 28. Ne3 Rd7 29. Qh6 Rxd4 30. Bg2 Rd2 31. Qf4+ Nd6 32. Rc4 Qa6 33. Bxc6 Rxe3
+34. Qxe3 Nxc4 35. Qf4+ Rd6 36. Be4 Nd2 37. Qf8+ Kc7 38. Rc1+ Nc4 39. Qf7+ Kd8
+40. Qxc4 Qxa3 41. Qc8+ Ke7 42. Rc7+ Kf6 1-0
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.29"]
+[Round "6"]
+[White "Trigo Urquijo, Sergio"]
+[Black "Agirretxe San Sebastian, Jesus Maria"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2169"]
+[BlackElo "2182"]
+[PlyCount "36"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Bg4
+8. h3 Bh5 9. Bd3 Nd7 10. g4 Bg6 11. Qe2 Nc5 12. Bxg6 hxg6 13. O-O-O Ne6 14. Be3
+Qd7 15. Nd4 O-O-O 16. f4 Rde8 17. Qf3 Nxd4 18. Bxd4 Bf6 1/2-1/2
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.29"]
+[Round "6"]
+[White "Varas Gonzalez, Carlos"]
+[Black "Burguete Archel, Eduardo"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2250"]
+[BlackElo "2173"]
+[PlyCount "99"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nd5 Be7 6. Bf4 d6 7. Nxd4 O-O 8.
+Nb5 Nxd5 9. exd5 Ne5 10. Be2 Bf6 11. c3 c6 12. dxc6 bxc6 13. Nxd6 Qb6 14. Bxe5
+Bxe5 15. Nc4 Qc7 16. Nxe5 Qxe5 17. O-O Rb8 18. b3 Qxc3 19. Qd6 Be6 20. Bf3 Rfc8
+21. Qa3 a5 22. Rac1 Qb4 23. Qxb4 axb4 24. Bxc6 Rc7 25. Be4 Rxc1 26. Rxc1 Rd8
+27. h3 f5 28. Bf3 Rd2 29. Rc6 Kf7 30. Rb6 Rxa2 31. Rxb4 Rb2 32. Rb7+ Kf6 33. b4
+g5 34. g4 Ke5 35. Kg2 Kf4 36. Re7 Bc8 37. Re8 Bd7 38. Rd8 Be6 39. gxf5 Bxf5 40.
+Rd4+ Ke5 41. Rd5+ Kf4 42. Rd4+ Ke5 43. Rc4 Rb3 44. h4 Bd3 45. Rg4 Bf5 46. Rc4
+Bd3 47. Rg4 Bf5 48. Rxg5 Kf4 49. Bd5 Rxb4 50. Rg3 1/2-1/2
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.30"]
+[Round "7"]
+[White "Angulo Martinez, Jon"]
+[Black "Trigo Urquijo, Sergio"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2165"]
+[BlackElo "2169"]
+[PlyCount "23"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. dxe5 dxe5 8.
+Qe2 c6 9. a3 b5 10. Ba2 a5 11. Rd1 Qc7 12. Nh4 1/2-1/2
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.30"]
+[Round "7"]
+[White "Diez Fraile, David"]
+[Black "Villalta Bustillo, Igor"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2150"]
+[BlackElo "2119"]
+[PlyCount "88"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4 Be6 6. Nc3 g6 7. Bd3 Kg7 8.
+O-O Be7 9. f4 Rf8 10. h3 Bf7 11. Be3 c6 12. g4 Kh8 13. Rf2 Nfd7 14. Qf3 c5 15.
+Nd5 Bxd5 16. exd5 cxd4 17. Bxd4+ Bf6 18. Be3 Bg7 19. c3 Ne5 20. Qe4 Nxd3 21.
+Qxd3 Nd7 22. Rh2 Qe7 23. Re1 Rae8 24. Ree2 Qf7 25. Rhf2 b6 26. b4 Re7 27. a4
+Nf6 28. c4 Ne4 29. Rf3 Rfe8 30. Kg2 Qf6 31. Bg1 Nc3 32. Rxe7 Rxe7 33. Re3 Qf8
+34. Re6 Rxe6 35. dxe6 Qe7 36. Bd4 Ne4 37. Bxg7+ Kxg7 38. Qd4+ Qf6 39. Qxd6 Nc3
+40. Qd7+ Kf8 41. Qd6+ Kg7 42. g5 Qf8 43. Qd4+ Kg8 44. Qxc3 Qxf4 1/2-1/2
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.30"]
+[Round "7"]
+[White "Gonzalez de la Torre, Santiago"]
+[Black "Argandona Riveiro, Inigo"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2389"]
+[BlackElo "2404"]
+[PlyCount "91"]

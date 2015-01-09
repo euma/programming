@@ -1,0 +1,600 @@
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. h3 a6 11. Rb1 Rb8 12. Re1 Ne5 13. b3 Bd7 14. Bb2 Qc8 15.
+f4 Nc6 16. Nxc6 bxc6 17. g4 h5 18. f5 Nh7 19. Ne2 Bxb2 20. Rxb2 hxg4 21. hxg4
+Qd8 22. Nf4 Qg5 23. Rf2 Nf6 24. Nh3 Qh4 25. fxg6 fxg6 26. g5 Ng4 27. Rf3 Ne5
+28. Rc3 Rf8 29. Ree3 Rf7 30. Qe1 Qh5 31. c5 Rbf8 32. cxd6 cxd6 33. Qd2 Qh4 34.
+Rg3 Bg4 35. Qxd6 Bxh3 36. Bxh3 Qf4 37. Qd4 Re7 38. Qe3 Qh4 39. Bg2 Ng4 40. Rh3
+Nxe3 41. Rxh4 Nxg2 42. Kxg2 Re5 43. Rg4 c5 44. Rf3 Rfe8 45. Rf6 Kg7 46. Kf3
+Rxg5 47. Rxg5 Kxf6 48. Rxc5 Re6 49. Kf4 Rb6 50. Rd5 Rc6 51. Ra5 Rb6 52. Rc5 Ke6
+53. Kg5 Ke7 54. Rc7+ Kd6 55. Rg7 Ke5 56. Re7+ Re6 57. Rxe6+ Kxe6 58. Kxg6 Ke5
+59. Kf7 Kxe4 60. Ke6 Kd4 61. Kd6 Kc3 62. Kc5 Kb2 63. a4 Kxb3 64. a5 1-0
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.22"]
+[Round "2"]
+[White "Volkov, Sergey"]
+[Black "Nevednichy, Vladislav"]
+[Result "1-0"]
+[ECO "E75"]
+[WhiteElo "2633"]
+[BlackElo "2558"]
+[Annotator "Reeh"]
+[PlyCount "85"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 g6 2. c4 Bg7 3. e4 d6 4. Nc3 Nf6 5. Be2 O-O 6. Nf3 c5 7. d5 e6 8. Bg5 h6
+9. Bh4 Re8 10. Nd2 a6 11. a4 b6 12. O-O e5 13. a5 Nbd7 14. Qa4 Rb8 15. Rfb1 g5
+16. Bg3 h5 17. f3 bxa5 18. Qxa5 Qe7 19. Nf1 Nf8 20. b4 Rxb4 21. Rxb4 cxb4 22.
+Qxb4 Ng6 23. c5 dxc5 24. Qb6 g4 25. fxg4 Nxg4 26. h3 Nf6 27. Bxa6 Bxa6 28. Rxa6
+Nh7 29. d6 Qg5 30. h4 Nxh4 31. Bxh4 Qxh4 32. Nd5 Nf8 33. Ne7+ Kh7 ({Worthy of
+some attention was Aufmerksamkeit verdiente} 33... Rxe7 34. dxe7 Qxe7 {and
+Black should not lose. und Schwarz sollte nicht verlieren.}) 34. Qb7 Ne6 35.
+Nf5 Qf6 36. N1e3 Bh6 37. Nd5 Qg6 38. Qe7 $3 {After this spectacular blow,
+White's passed d-pawn (or e-pawn!) becomes the decisive force. Nach diesem
+spektakulären Schlag wird freie weiße d-Bauer (bzw. e-Bauer!) zur
+entscheidenden Kraft.} (38. d7 $2 Rd8 {and White's passed pawn would be safely
+blocked. und der weiße Freibauer wäre sicher blockiert.}) 38... Rb8 (38... Rxe7
+39. dxe7 Qg5 {, and now simplest is , und nun geschieht am einfachsten} 40. Ra1
+$1 {(preventing any inconvenience starting with ...Qc1+) when White's e-pawn
+can't be stopped. (verhindert jegliche Unanehmlichkeiten basierend auf ...Qc1+)
+, wonach der weiße e-Bauer nicht mehr aufzuhalten ist.}) 39. d7 {This makes
+all the difference - on e7 now the white queen is on the (literally) right
+side of the passed pawn, not only supporting it but also bearing heavily on
+the kingside. Das macht den ganzen Unterschied aus - auf e7 steht die weiße
+Dame nun auf der rechten (und richtigen!) Seite des Freibauern, wo sie diesen
+nicht nur unterstützt, sondern dazu noch kräftig am Königsflügel wirkt.} Bf8 ({
+After Nach} 39... Bg7 {follows folgt} 40. Ra3 $1 {with the deadly threat 41.
+Rg3. mit der tödlichen Drohung 41.Rg3.}) 40. Rxe6 $1 {The most forcing
+continuation. Am forciertesten.} Qxe6 ({Also hopeless is Ebenfalls
+hoffnungslos ist} 40... Bxe7 41. Rxg6 fxg6 42. Nfxe7 {, e.g. , z.B.} Rd8 43.
+Nc6 Rxd7 44. Nf6+) 41. d8=Q Rb1+ 42. Kh2 Bxe7 43. Ndxe7 1-0
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Banikas, Hristos"]
+[Black "Damaso, Rui"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2600"]
+[BlackElo "2449"]
+[PlyCount "51"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Ba6 8.
+Nf3 d6 9. Nd2 Nbd7 10. e4 c5 11. dxc5 Nxc5 12. Bxf6 Qxf6 13. Qxf6 gxf6 14.
+O-O-O Rab8 15. f3 b5 16. b4 Na4 17. Nb1 Rfd8 18. cxb5 Bxb5 19. Bxb5 Rxb5 20.
+Kc2 d5 21. exd5 exd5 22. Kb3 Nc5+ 23. Ka2 Na4 24. Kb3 Nc5+ 25. Ka2 Na4 26. Kb3
+1/2-1/2
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Bocharov, Dmitry"]
+[Black "Miroshnichenko, Evgenij"]
+[Result "1-0"]
+[ECO "E72"]
+[WhiteElo "2569"]
+[BlackElo "2642"]
+[PlyCount "107"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 c6 6. e4 d6 7. Nge2 e5 8. O-O a6
+9. h3 b5 10. Be3 Nbd7 11. c5 dxc5 12. dxe5 Nxe5 13. Bxc5 Re8 14. Qxd8 Rxd8 15.
+Rad1 Bb7 16. f4 Nc4 17. b3 Nb2 18. Rxd8+ Rxd8 19. e5 Nd5 20. Nxd5 cxd5 21. Bd4
+Nd3 22. Rd1 Nb4 23. Nc3 Rc8 24. Rd2 Bf8 25. Kf2 Bc5 26. Ne2 Be7 27. Bc3 Bc5+
+28. Kf1 Rc7 29. a3 Nc6 30. b4 Be7 31. Bxd5 Kf8 32. g4 a5 33. f5 gxf5 34. gxf5
+axb4 35. axb4 Bg5 36. Ra2 Rd7 37. Be4 Rd1+ 38. Kg2 Ke8 39. Ra1 Rd7 40. Kg3 h6
+41. f6 Kd8 42. Rf1 Ke8 43. h4 Be3 44. e6 fxe6 45. f7+ Rxf7 46. Bg6 Nd8 47. Bd4
+Bxd4 48. Nxd4 Ke7 49. Bxf7 Nxf7 50. Rc1 Nd6 51. Rc7+ Kf6 52. Nxb5 Nf5+ 53. Kf2
+Bh1 54. Na3 1-0
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Bologan, Viktor"]
+[Black "Lenic, Luka"]
+[Result "1/2-1/2"]
+[ECO "E05"]
+[WhiteElo "2665"]
+[BlackElo "2584"]
+[PlyCount "91"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bg5 Bd5 11. Qc2 Be4 12. Qc1 Nc6 13. e3 Nb4 14. Nc3 Bxf3 15.
+Bxf3 c6 16. a5 Nd7 17. Bxe7 Qxe7 18. Qd1 Rab8 19. Qb3 Rfc8 20. Na4 b6 21. axb6
+Nxb6 22. Nc5 Nd7 23. Rfc1 Nxc5 24. Rxc5 Rb5 25. Qc3 Rcb8 26. Ra4 g6 27. e4 e5
+28. Rxe5 Rxe5 29. dxe5 c5 30. Ra5 Rb5 31. Ra1 Nc6 32. Be2 Rb4 33. Bc4 Qxe5 34.
+Bd5 Rxb2 35. Qxc5 Rb5 36. Qc1 Nd4 37. Qc8+ Kg7 38. Qxa6 Rb2 39. Kg2 Nc2 40. Qa7
+Nxa1 41. Qxf7+ Kh6 42. Qf8+ Qg7 43. Qf4+ g5 44. Qd6+ Qg6 45. Qf8+ Qg7 46. Qd6+
+1/2-1/2
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Collas, Didier"]
+[Black "Atalik, Suat"]
+[Result "1/2-1/2"]
+[ECO "E57"]
+[WhiteElo "2446"]
+[BlackElo "2592"]
+[PlyCount "98"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O Nc6 7. a3 cxd4 8.
+exd4 Be7 9. Nc3 O-O 10. Re1 Bd7 11. Bg5 h6 12. Bh4 Rc8 13. Qd3 Nh5 14. Bg3 Nxg3
+15. hxg3 Bf6 16. Ne4 Na5 17. Ba2 a6 18. Nxf6+ Qxf6 19. Ne5 Ba4 20. d5 Rfd8 21.
+b4 Nc6 22. Ng4 Qg5 23. Ne3 Ne7 24. d6 Bb5 25. Qd4 Rd7 26. Rad1 Nc6 27. Qc5 Qd8
+28. f4 b6 29. Qh5 Ba4 30. Rc1 Rxd6 31. f5 Rd2 32. fxe6 Rxa2 33. Qxf7+ Kh7 34.
+e7 Qg8 35. Qxg8+ Rxg8 36. Nd5 Nd4 37. Nc3 Rd2 38. Nxa4 Ne2+ 39. Kh2 Nxc1 40.
+e8=Q Rxe8 41. Rxe8 Rd6 42. Ra8 a5 43. bxa5 bxa5 44. Rxa5 Nd3 45. Rf5 Ra6 46.
+Nc3 Rxa3 47. Ne4 Ra2 48. Rd5 Nf2 49. Nxf2 Rxf2 1/2-1/2
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Delchev, Aleksander"]
+[Black "Tratar, Marko"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "2639"]
+[BlackElo "2477"]
+[PlyCount "158"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Be3 c6 8. O-O
+Na6 9. Re1 Ng4 10. Bg5 Bf6 11. Bxf6 Qxf6 12. Qd2 exd4 13. Qxd4 Rd8 14. Rad1 Be6
+15. Qxf6 Nxf6 16. Nd4 Nc5 17. f3 a5 18. Rd2 Kf8 19. Red1 Ke7 20. b3 h5 21. h4
+Ne8 22. Re1 Ng7 23. Bd1 Re8 24. Bc2 Rad8 25. Kf2 Bc8 26. a3 Nd7 27. Na4 Ne5 28.
+Red1 Ne6 29. Ne2 Nc7 30. Nb6 Be6 31. Nf4 Na6 32. Kg3 Rg8 33. Ne2 Nc5 34. Nd4
+Ncd7 35. Na4 Nf6 36. Kf4 Bc8 37. Ne2 Ne8 38. c5 f6 39. Ke3 Be6 40. Nf4 Bf7 41.
+Nb6 Nd7 42. Nxd7 Rxd7 43. b4 axb4 44. axb4 g5 45. hxg5 Rxg5 46. Ba4 h4 47. Kf2
+Be6 48. Nxe6 Kxe6 49. Kg1 Re5 50. Bc2 b6 51. f4 Rh5 52. Ba4 b5 53. Bb3+ Ke7 54.
+Kh2 f5 55. Re2 dxc5 56. exf5+ Kd8 57. Rxd7+ Kxd7 58. bxc5 Nc7 59. Re5 Nd5 60.
+Bxd5 cxd5 61. Rxd5+ Kc6 62. Re5 b4 63. Kh3 Rh8 64. f6 b3 65. Re3 Rb8 66. f7 b2
+67. Re1 Rf8 68. Rb1 Rxf7 69. Rxb2 Rxf4 70. Rb6+ Kxc5 71. Rh6 Kd5 72. Rxh4 Rf1
+73. Kg4 Ke6 74. Kg5 Rf5+ 75. Kg6 Rf6+ 76. Kg7 Rf7+ 77. Kg8 Rf2 78. Rg4 Kf5 79.
+Rg7 Rf4 1/2-1/2
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Dizdar, Goran"]
+[Black "Miton, Kamil"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2548"]
+[BlackElo "2620"]
+[PlyCount "93"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. d4 d6 6. Nc3 c6 7. O-O Bf5 8. Qb3
+Qb6 9. Re1 Na6 10. e4 Bg4 11. Be3 Nd7 12. Qc2 c5 13. d5 Bxf3 14. Bxf3 Qd8 15.
+Qd2 Nc7 16. Be2 a6 17. a4 Qb8 18. Rab1 e5 19. a5 f5 20. exf5 gxf5 21. f4 Ne8
+22. Nd1 Nef6 23. Nf2 exf4 24. Bxf4 Ne5 25. Rf1 Qc7 26. Rbe1 Rae8 27. b3 Kh8 28.
+Bd1 Ng6 29. Bg5 Rxe1 30. Rxe1 Ng4 31. Nxg4 fxg4 32. Bxg4 Bd4+ 33. Be3 Bxe3+ 34.
+Rxe3 Qg7 35. Be2 Ne5 36. Re4 Ng6 37. Kg2 Qf6 38. Qe3 Qb2 39. Re6 Rf5 40. Kh3
+Kg7 41. Rxd6 Rf7 42. Re6 Qb1 43. Kg2 Kf8 44. d6 Qf5 45. Bd3 Qg4 46. Bxg6 hxg6
+47. Qe4 1-0
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Elkin, Leonid"]
+[Black "Lilov, Valeri"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2213"]
+[BlackElo "2385"]
+[PlyCount "116"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 d6 6. e4 O-O 7. Nge2 Nh5 8. Bd2
+Bxc3 9. Bxc3 a6 10. a4 f5 11. Qc2 exd5 12. cxd5 fxe4 13. fxe4 Qe7 14. O-O-O b5
+15. g4 Nf6 16. e5 dxe5 17. d6 Qe8 18. Bg2 Ra7 19. Ng3 Nxg4 20. Rhe1 Nc6 21.
+Bd5+ Kh8 22. Qe4 Nd4 23. Rxd4 cxd4 24. Bxd4 Nf6 25. Qxe5 Qxe5 26. Rxe5 Rd7 27.
+Nf5 Nxd5 28. Rxd5 Rfd8 29. Re5 Kg8 30. axb5 axb5 31. Bb6 Rf8 32. Ne7+ Kh8 33.
+Bc7 Ba6 34. Kd2 g6 35. Ke3 Rf6 36. Nd5 Rfxd6 37. Bxd6 Rxd6 38. Nc7 Rc6 39. Nxa6
+Rxa6 40. Rxb5 Kg7 41. Kd4 Ra4+ 42. b4 Ra2 43. h4 h5 44. Rd5 Rh2 45. b5 Rxh4+
+46. Kc5 Rh1 47. b6 Rb1 48. Rd4 Rf1 49. b7 Rf8 50. Kc6 g5 51. Kc7 Kg6 52. Rd8
+Rf7+ 53. Kc8 Rxb7 54. Kxb7 Kf5 55. Kc6 h4 56. Rb8 Kg4 57. Kd5 h3 58. Ke4 Kg3
+1/2-1/2
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Galopoulos, Nikolaos"]
+[Black "Rombaldoni, Axel"]
+[Result "0-1"]
+[ECO "E91"]
+[WhiteElo "2243"]
+[BlackElo "2398"]
+[PlyCount "66"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 c5 7. O-O Nc6 8. d5
+Na5 9. a3 b6 10. Qc2 e5 11. Ne1 Ne8 12. b4 Nb7 13. Nd3 f5 14. Rb1 f4 15. Qd1
+Nf6 16. bxc5 bxc5 17. f3 g5 18. Nf2 h5 19. Qd3 Rf7 20. h3 Bh6 21. Bd2 Nd7 22.
+Rb5 Nb6 23. Qc2 Bd7 24. Rb2 g4 25. fxg4 Qh4 26. Nb1 Na5 27. gxh5 Kh7 28. Bxa5
+f3 29. Bxf3 Rxf3 30. Bd2 Rg8 31. Bxh6 Rgg3 32. Kh2 Bxh3 33. gxh3 Rxf2+ 0-1
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Gurevich, Mikhail"]
+[Black "Grigorov, Grigor"]
+[Result "1-0"]
+[ECO "E39"]
+[WhiteElo "2611"]
+[BlackElo "2456"]
+[PlyCount "67"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 b6 8. Bf4
+Bb7 9. Rd1 Nc6 10. b4 Be7 11. e4 a5 12. b5 Na7 13. Be2 Nh5 14. Bc1 Qc7 15. O-O
+d6 16. Nd4 Nf6 17. f4 Nd7 18. f5 e5 19. f6 exd4 20. fxe7 Rfe8 21. Rxd4 Rxe7 22.
+Qd2 Nc5 23. Rxd6 Bxe4 24. Nd5 Bxd5 25. Qxd5 Rae8 26. Bg4 Re5 27. Rd7 Nxd7 28.
+Qxf7+ Kh8 29. Bxd7 Qc5+ 30. Kh1 Ra8 31. Bb2 Rg5 32. h4 Rg3 33. Be5 Rg6 34. h5
+1-0
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Ivanisevic, Ivan"]
+[Black "Anastasian, Ashot"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2649"]
+[BlackElo "2560"]
+[PlyCount "67"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Nbd2 Bb4 6. Qc2 Bb7 7. Bg2 O-O 8. O-O
+Bxd2 9. Bxd2 Be4 10. Qa4 d6 11. Rfd1 Nbd7 12. Rac1 a6 13. Qa3 a5 14. Bh3 h6 15.
+Ne1 c5 16. Bf4 Ne8 17. Qe3 Ndf6 18. f3 Bh7 19. Qd2 Qb8 20. Be3 e5 21. dxe5 dxe5
+22. Ng2 e4 23. Bf4 Qb7 24. Ne3 Qe7 25. Qc3 Rd8 26. Qe5 Rxd1+ 27. Rxd1 Qb7 28.
+Kf2 exf3 29. exf3 Qc6 30. Qe7 Qa4 31. Rd8 Qxa2 32. Bd6 Qxb2+ 33. Kg1 Qc1+ 34.
+Nf1 1-0
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Kuzubov, Yuriy"]
+[Black "Mastrovasilis, Athanasios"]
+[Result "0-1"]
+[ECO "E51"]
+[WhiteElo "2603"]
+[BlackElo "2524"]
+[PlyCount "44"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. e3 d5 6. Bd3 Nc6 7. O-O dxc4 8.
+Bxc4 Bd6 9. Bb5 e5 10. Bxc6 exd4 11. Qxd4 bxc6 12. e4 Ng4 13. Qa4 Qf6 14. Qa5
+c5 15. Nd5 Qg6 16. h3 Qxe4 17. Rd1 Bb7 18. Nc3 Bh2+ 19. Kf1 Qc4+ 20. Ne2 Rfe8
+21. Re1 Ba6 22. Qxa6 Qxa6 0-1
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Morchiashvili, Bachana"]
+[Black "Savchenko, Boris"]
+[Result "0-1"]
+[ECO "E16"]
+[WhiteElo "2421"]
+[BlackElo "2569"]
+[PlyCount "82"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 g6 6. Nc3 Bg7 7. d5 O-O 8. O-O d6
+9. e4 Nbd7 10. Re1 Re8 11. h3 a6 12. Qc2 Nc5 13. Rb1 a5 14. b3 exd5 15. cxd5
+Ba6 16. Bf1 Bxf1 17. Kxf1 c6 18. dxc6 Qc8 19. Bg5 Qxc6 20. Bxf6 Bxf6 21. Nd5
+Bg7 22. b4 axb4 23. Rxb4 b5 24. Nd4 Qc8 25. Kg2 Na6 26. Qxc8 Raxc8 27. Nxb5
+Nxb4 28. Nxb4 Rc5 29. a4 Ra8 30. Nd5 Rxa4 31. Nxd6 Be5 32. Ne8 Rc2 33. Nef6+
+Kg7 34. Ng4 Bd4 35. Nge3 Rd2 36. Kf3 Raa2 37. Rf1 Bc5 38. Nc3 Ra6 39. Ncd5 Re6
+40. Rc1 Bxe3 41. Nxe3 Rf6+ 0-1
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Nielsen, Peter Heine"]
+[Black "Markus, Robert"]
+[Result "1/2-1/2"]
+[ECO "E66"]
+[WhiteElo "2629"]
+[BlackElo "2557"]
+[PlyCount "55"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c5 7. O-O Nc6 8. d5
+Na5 9. Nd2 e5 10. b3 Bd7 11. Bb2 b6 12. Qc2 Nb7 13. Rae1 h5 14. Nd1 h4 15. e4
+Qe7 16. Ne3 Rae8 17. Qd1 Qd8 18. Kh1 Nh7 19. Bc1 hxg3 20. hxg3 Qg5 21. Nf3 Qh6+
+22. Nh2 f5 23. exf5 gxf5 24. f4 Qg6 25. g4 fxg4 26. fxe5 Rxf1+ 27. Bxf1 dxe5
+28. Nexg4 1/2-1/2
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Nikolaidis, Konstantinos"]
+[Black "Ivanov, Ljubomir"]
+[Result "1-0"]
+[ECO "E44"]
+[WhiteElo "2299"]
+[BlackElo "2020"]
+[PlyCount "77"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Bb7 6. a3 Be7 7. d5 e5 8. g3 c5
+9. Bg2 O-O 10. O-O d6 11. f4 Nbd7 12. e4 Ne8 13. Be3 g6 14. Qd2 Ng7 15. f5 g5
+16. Rf2 f6 17. h4 h6 18. Bf3 Kf7 19. Rh2 Rh8 20. Kg2 h5 21. hxg5 fxg5 22. Rah1
+h4 23. gxh4 Rxh4 24. Bf2 Rxh2+ 25. Rxh2 Qg8 26. Kf1 Ba6 27. b3 Rf8 28. Be3 Ke8
+29. Ke1 Nf6 30. Bxg5 Bc8 31. Nb5 a6 32. Nc7+ Kd8 33. Ne6+ Bxe6 34. dxe6 Nxf5
+35. exf5 e4 36. Bxf6 Rxf6 37. Bxe4 Qg7 38. Qd5 Rf8 39. Qa8+ 1-0
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Nikolic, Predrag"]
+[Black "Kosic, Dragan"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2674"]
+[BlackElo "2500"]
+[PlyCount "87"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 Bxd2+ 4. Qxd2 Nf6 5. Nf3 O-O 6. Nc3 d5 7. e3 Qe7 8.
+Rd1 Nbd7 9. Qc2 c6 10. a3 Rd8 11. cxd5 exd5 12. Bd3 c5 13. dxc5 Nxc5 14. Nd4
+Be6 15. O-O Rac8 16. Qb1 g6 17. Rc1 a6 18. h3 Rc7 19. Be2 Rcc8 20. Bf3 Ncd7 21.
+Rfd1 Ne5 22. Be2 Kg7 23. Qa1 Kg8 24. b3 Nc6 25. Bf3 Ne5 26. Qb2 Nxf3+ 27. Nxf3
+Rc7 28. Ne2 Rxc1 29. Rxc1 Rc8 30. Rxc8+ Bxc8 31. Nf4 Bd7 32. Qd4 Bc6 33. b4 Qd6
+34. Qb6 Ne4 35. Qd4 f6 36. Ne2 Kg7 37. Nc3 Qe6 38. Qd3 Qf5 39. Qc2 Nd6 40. Qe2
+Ne4 41. Qb2 Nd6 42. Nd4 Qd3 43. Qc1 h5 44. Nxd5 1-0
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Nikolov, Momchil"]
+[Black "Socko, Bartosz"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2488"]
+[BlackElo "2644"]
+[PlyCount "18"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 d5 6. Qc2 c5 7. cxd5 cxd4 8. Bg2
+Nxd5 9. Nxd4 O-O 1/2-1/2
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Radulski, Julian"]
+[Black "Berbatov, Kiprian"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2514"]
+[BlackElo "2220"]
+[PlyCount "110"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. h3 d6 6. Bf4 Nfd7 7. e3 e5 8. Bg3
+Nc6 9. Be2 f5 10. Bh4 Bf6 11. Bxf6 Nxf6 12. O-O Qe7 13. d5 Nd8 14. b4 Nf7 15.
+c5 dxc5 16. bxc5 Qxc5 17. Rc1 Qe7 18. Nb5 Ne8 19. Qc2 Bd7 20. Nxc7 Rc8 21. d6
+Nexd6 22. Qb3 Bc6 23. Ne6 Rfe8 24. Neg5 Kg7 25. Nxf7 Nxf7 26. Bb5 Bxb5 27. Qxb5
+Nd6 28. Qd5 Kf6 29. Rfd1 Rxc1 30. Rxc1 Rd8 31. Qa5 b6 32. Qa3 Nf7 33. Qa6 Rd7
+34. Qa4 h6 35. Rc6+ Rd6 36. Rxd6+ Qxd6 37. Qxa7 h5 38. Qa4 g5 39. Qc2 g4 40.
+hxg4 hxg4 41. Nh4 Qe6 42. a4 Qd7 43. Qb1 Qe6 44. Qd3 Qc8 45. Kh2 Qe6 46. e4 f4
+47. Nf5 Kg6 48. Qa6 Ng5 49. a5 bxa5 50. Qa8 Nxe4 51. Nh4+ Kg5 52. g3 Nxg3 53.
+Qd8+ Qf6 54. Qxf6+ Kxf6 55. fxg3 f3 0-1
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Ramesa, Davor"]
+[Black "Kounalakis, Evryklis"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2321"]
+[BlackElo "2099"]
+[PlyCount "71"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 b6 4. Bf4 Bb4+ 5. Nbd2 Bb7 6. e3 O-O 7. a3 Be7 8. Bd3
+c5 9. O-O Nh5 10. Bg3 Nxg3 11. hxg3 cxd4 12. exd4 d5 13. Qc2 g6 14. c5 Nd7 15.
+b4 e5 16. c6 Bxc6 17. Qxc6 e4 18. Bb5 Nf6 19. Ne5 Rc8 20. Qb7 Rc7 21. Qa6 Rc2
+22. Qxa7 Bd6 23. Rad1 e3 24. fxe3 Bxe5 25. dxe5 Ng4 26. Rfe1 d4 27. Qa4 Rb2 28.
+Nf3 Qd5 29. Rxd4 Qa2 30. Rxg4 Rxg2+ 31. Kh1 h5 32. Bc4 hxg4 33. Bxa2 gxf3 34.
+Qc6 Rxg3 35. Qf6 Rc8 36. Qxf7+ 1-0
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Sanikidze, Tornike"]
+[Black "Gajewski, Grzegorz"]
+[Result "1-0"]
+[ECO "E10"]
+[WhiteElo "2458"]
+[BlackElo "2601"]
+[PlyCount "61"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 exd5 6. cxd5 h6 7. Bxf6 Qxf6 8.
+Qc2 d6 9. e4 a6 10. a4 b4 11. Nbd2 Nd7 12. Nc4 g6 13. Bd3 Bg7 14. O-O O-O 15.
+Rae1 Re8 16. Nfd2 g5 17. Kh1 Ne5 18. Nxe5 Qxe5 19. Nc4 Qf4 20. Re3 a5 21. Rf3
+Qh4 22. Rxf7 Kxf7 23. Nxd6+ Kg8 24. Nxe8 Be5 25. g3 Qh5 26. f4 Bd4 27. Qxc5
+Bxc5 28. Nf6+ Kh8 29. Nxh5 Bh3 30. Rc1 Be3 31. Rc6 1-0
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Sargissian, Gabriel"]
+[Black "Werle, Jan"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2643"]
+[BlackElo "2581"]
+[PlyCount "164"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 c5 6. d5 exd5 7. cxd5 g6 8. Bg2
+Bg7 9. O-O O-O 10. Nc3 Re8 11. Re1 d6 12. e4 Nbd7 13. Bf4 Ne5 14. Nxe5 dxe5 15.
+Bd2 Nd7 16. Nd1 c4 17. Ne3 Rc8 18. Bh3 Bf8 19. Rec1 Rc7 20. a4 Bc5 21. a5 b5
+22. b4 Bd4 23. Bc3 Bxe3 24. fxe3 Nf6 25. Rf1 Bc8 26. Bg2 h5 27. a6 Qd6 28. Qf2
+Nh7 29. Ra5 Qb6 30. h3 f6 31. Kh2 Kg7 32. Rd1 Bd7 33. Rf1 Ng5 34. Ra3 Qd6 35.
+Qe1 Rb8 36. Ra2 Rb6 37. Qa1 Nf7 38. Ra5 Rc8 39. Ra2 Rd8 40. Ra5 Qe7 41. Rf2 Rf8
+42. Qf1 Nd6 43. Qa1 Rbb8 44. Raa2 Rbe8 45. Rf1 Nc8 46. Bf3 Nd6 47. Bg2 Qd8 48.
+Raf2 Qb6 49. Qa5 Qxa5 50. bxa5 Bc8 51. Bb4 Rd8 52. Bf3 Bxa6 53. g4 hxg4 54.
+hxg4 g5 55. Kg3 Rh8 56. Bg2 Rh6 57. Rb2 Kf7 58. Rh1 Rxh1 59. Bxh1 Rh8 60. Bg2
+Ke7 61. Rf2 Rh6 62. Bc5 Kd7 63. Bb4 Bc8 64. a6 Kc7 65. Ba5+ Kb8 66. Bb4 Ne8 67.
+Rb2 Bxa6 68. Bf1 Rh7 69. Rb1 Bb7 70. Be2 a6 71. Rf1 Bc8 72. Rd1 Kb7 73. Ra1 Rc7
+74. Rh1 Bd7 75. Ba5 Nd6 76. Kf3 Be8 77. Rh6 c3 78. Rh1 Bg6 79. Bd3 Rc4 80. Rh6
+Bxe4+ 81. Bxe4 Nxe4 82. Rh7+ Kc8 0-1
+
+[Event "EU-ch 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Tregubov, Pavel V"]
+[Black "Spasov, Vasil"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[WhiteElo "2629"]
+[BlackElo "2579"]
+[PlyCount "77"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]

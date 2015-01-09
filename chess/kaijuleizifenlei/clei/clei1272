@@ -1,0 +1,600 @@
+[Result "0-1"]
+[ECO "C53"]
+[WhiteElo "1929"]
+[BlackElo "2122"]
+[PlyCount "90"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nc6 2. Bc4 e5 3. Nf3 Bc5 4. c3 d6 5. Qb3 Qd7 6. Ng5 Nh6 7. O-O O-O 8. Qc2
+Qe7 9. d3 Na5 10. Bb3 Nxb3 11. axb3 f5 12. d4 exd4 13. cxd4 Bb6 14. Qc4+ Kh8
+15. Nc3 fxe4 16. Nd5 Qd8 17. Nxe4 Nf7 18. Nxb6 cxb6 19. Qd5 Qe7 20. Ng5 Nxg5
+21. Bxg5 Qe6 22. Qxe6 Bxe6 23. Be7 Rfe8 24. Bxd6 Bxb3 25. Ra3 Bc4 26. Rc3 Bxf1
+27. Kxf1 Rac8 28. Be5 Rxc3 29. bxc3 Rc8 30. d5 Rc5 31. Bb8 Rxd5 32. Bxa7 Rc5
+33. Bxb6 Rxc3 34. Ke2 Kg8 35. g3 Kf7 36. h4 g6 37. Kd2 Rc6 38. Be3 Ke6 39. Kd3
+Kd5 40. g4 b5 41. Bd2 Rc4 42. f4 b4 43. h5 gxh5 44. g5 Rd4+ 45. Ke3 Rxd2 0-1
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Fyodorova, Irina"]
+[Black "Velikanov, Igor"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "1971"]
+[BlackElo "2276"]
+[PlyCount "88"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8.
+Re1 Bg4 9. Bxe4 dxe4 10. Rxe4 Bxf3 11. Qxf3 Nxd4 12. Qd3 Ne6 13. Qe2 O-O 14.
+Nc3 Bf6 15. Be3 c6 16. Rb1 Qa5 17. Ra4 Qf5 18. Ne4 Be7 19. Ng3 Qe5 20. f4 Qxe3+
+21. Qxe3 Bc5 22. Qxc5 Nxc5 23. Rc4 Ne6 24. f5 Nc7 25. Rd4 Nd5 26. c4 Nf6 27.
+Ne4 Nxe4 28. Rxe4 Rfe8 29. Rbe1 Rxe4 30. Rxe4 Kf8 31. Kf2 Rd8 32. Ke2 Rd6 33.
+Rh4 h6 34. Re4 Rf6 35. g4 h5 36. h3 hxg4 37. hxg4 Rh6 38. Kd3 Rh3+ 39. Kd2 Rg3
+40. a3 Rf3 41. c5 b6 42. cxb6 axb6 43. Rc4 c5 44. b4 Rxa3 1/2-1/2
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Kuznetsov, Mikhail"]
+[Black "Andreev, Gennadiy"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2122"]
+[BlackElo "2058"]
+[PlyCount "77"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nc3 e5 2. e4 Nc6 3. Bc4 Nf6 4. d3 Bb4 5. Nf3 d6 6. O-O h6 7. Ne2 Bg4 8. Ng3
+Qd7 9. h3 Be6 10. Bb3 d5 11. c3 dxe4 12. Bxe6 Qxe6 13. dxe4 Bd6 14. Nf5 Bf8 15.
+Qd3 g6 16. Ng3 a6 17. b4 b5 18. a4 Qc4 19. Qxc4 bxc4 20. Nd2 h5 21. f3 h4 22.
+Ne2 Nh5 23. Nxc4 f6 24. Be3 g5 25. Rfd1 Rd8 26. Rxd8+ Nxd8 27. b5 axb5 28. axb5
+Nf4 29. Nxf4 gxf4 30. Bf2 Rh7 31. Kf1 f5 32. exf5 Be7 33. Nxe5 Rh5 34. Re1 Bf6
+35. Ng4+ Kf7 36. Nxf6 Kxf6 37. Re8 Nb7 38. Bd4+ Kf7 39. Rc8 1-0
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Medvedev, Vladimir"]
+[Black "Domnin, Vladimir"]
+[Result "0-1"]
+[ECO "C13"]
+[WhiteElo "2182"]
+[BlackElo "2088"]
+[PlyCount "78"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. e4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Bg5 Be7 6. Bxf6 Bxf6 7. Nf3 O-O 8.
+c3 b6 9. Bd3 Bb7 10. h4 Nd7 11. g4 c5 12. g5 Be7 13. Rg1 cxd4 14. Nxd4 Nc5 15.
+Nxc5 bxc5 16. Nc2 Qd6 17. Qe2 Qf4 18. Ne3 Bf3 19. Qc2 Qxh4 20. Rg3 c4 21. Nxc4
+Bd5 22. Ne3 Bxg5 23. Bxh7+ Kh8 24. Bd3 f5 25. Bf1 Bh6 26. Rh3 Qf6 27. O-O-O Be4
+28. Bd3 Bxd3 29. Rxd3 Rfd8 30. Kb1 Rxd3 31. Qxd3 Rd8 32. Qa6 f4 33. Qxa7 fxe3
+34. Qxe3 Kg8 35. Qe4 Rd1+ 36. Kc2 Rd2+ 37. Kb3 Rxf2 38. Rd3 Qf5 39. Qa8+ Kh7
+0-1
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "2"]
+[White "Rusakovsky, Oleg"]
+[Black "Konovalov, Valerij"]
+[Result "0-1"]
+[ECO "C47"]
+[BlackElo "2321"]
+[PlyCount "58"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+Bd2 O-O 9. O-O Bxc3 10. Bxc3 Nxe4 11. Bxe4 dxe4 12. Qe2 Bf5 13. Rad1 Qg5 14.
+Qc4 Rfe8 15. Kh1 Re6 16. f4 Qg6 17. Be5 e3 18. Rde1 Be4 19. Rg1 Rd8 20. Qb3
+Bxc2 21. Qb4 Qd3 22. Bxc7 Rde8 23. Qc5 Qd2 24. f5 Re4 25. Qxc6 Rc8 26. Rc1 Qxc1
+27. Rxc1 e2 28. Qc3 Rxc7 29. Qg3 Bd1 0-1
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "3"]
+[White "Motuz, German"]
+[Black "Belyaev, Oleg"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "2167"]
+[BlackElo "2072"]
+[PlyCount "101"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3 c5 8.
+d3 Nf6 9. Bg5 Be7 10. Nd2 O-O 11. Nc4 Nd7 12. Bd2 c6 13. Qg3 Re8 14. Bc3 f6 15.
+Ne3 Nf8 16. Nf5 Ne6 17. Qg4 Qc8 18. f4 exf4 19. Rxf4 Bf8 20. Rf3 Nd4 21. Bxd4
+cxd4 22. Rg3 g6 23. Qh4 Qe6 24. Rf1 Bg7 25. Nxd4 Qe5 26. c3 Rad8 27. Nf5 gxf5
+28. Rxf5 Qd6 29. Rh5 Rd7 30. Rxh7 Qxg3 31. Qxg3 Kxh7 32. h4 Re5 33. h5 Rg5 34.
+Qf3 c5 35. Kf2 Re7 36. b3 Rge5 37. Qg4 Rg5 38. Qf3 b5 39. g4 Rge5 40. Ke3 Bh6+
+41. Ke2 Bg5 42. c4 bxc4 43. bxc4 Rb7 44. Qf1 Rb2+ 45. Kf3 Rd2 46. Qb1 Re7 47.
+e5 Rxe5 48. d4+ Kh8 49. dxe5 fxe5 50. Qg6 Bf4 51. h6 1-0
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "3"]
+[White "Tamarovskiy, Andrey"]
+[Black "Rusakovsky, Oleg"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1929"]
+[PlyCount "60"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Ne2 Ne7 6. O-O O-O 7. c3 c6 8. Bg5
+Qc7 9. Bxe7 Qxe7 10. Ng3 f5 11. f4 g6 12. Rf3 Nd7 13. Nd2 Nf6 14. c4 Ne4 15.
+Qe2 Bd7 16. a3 Rfb8 17. Re1 b5 18. c5 Bc7 19. Nb1 b4 20. Ba6 bxa3 21. Nxa3 Rb4
+22. Nxe4 fxe4 23. Qf2 Qg7 24. Nc2 Rxb2 25. Rg3 Rab8 26. h4 Rf8 27. Re2 Rxf4 28.
+Qe1 Rxh4 29. Rxg6 Bh2+ 30. Kh1 Bg3+ 0-1
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "4"]
+[White "Batalov, Vadim"]
+[Black "Lazarenko, Viktor"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2050"]
+[BlackElo "2124"]
+[PlyCount "70"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. f3 O-O 7. a3 Bxc3+ 8.
+bxc3 h6 9. Bc4 d5 10. exd5 Nxd5 11. Bd2 Nxd4 12. Bxd5 Qxd5 13. Be3 Nxc2+ 14.
+Qxc2 Bf5 15. Qc1 Qc4 16. Kf2 Qh4+ 17. g3 Qc4 18. Rd1 Rfe8 19. Rd4 Qe6 20. Qd2
+Qe7 21. g4 Bg6 22. Rd7 Rad8 23. Rxe7 Rxd2+ 24. Bxd2 Rxe7 25. Be3 Rd7 26. Re1 b6
+27. Bf4 Kf8 28. Re3 Bc2 29. h4 Bb3 30. g5 hxg5 31. hxg5 f6 32. gxf6 gxf6 33.
+Kg3 Kf7 34. Kf2 Bc4 35. Re4 Bd5 1/2-1/2
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "4"]
+[White "Chumurin, Aleksandr"]
+[Black "Zhukovsky, Viacheslav"]
+[Result "0-1"]
+[ECO "C02"]
+[BlackElo "2074"]
+[PlyCount "80"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Qb6 5. Nc3 Bd7 6. b3 Ne7 7. dxc5 Qxc5 8. Qd4
+Qa5 9. Bd2 Nbc6 10. Nb5 Qxb5 11. Bxb5 Nxd4 12. Bxd7+ Kxd7 13. Nxd4 Rc8 14. Rc1
+Ng6 15. f4 Ba3 16. Rb1 Bc5 17. Nf3 Ne7 18. Ke2 f6 19. c3 Rhf8 20. Kd3 Nc6 21.
+Rhe1 Rf7 22. b4 Bb6 23. b5 Na5 24. Be3 Bxe3 25. Rxe3 Nc4 26. Re2 fxe5 27. Nxe5+
+Nxe5+ 28. fxe5 Rc4 29. Rb4 Rxb4 30. cxb4 Rf4 31. Kc3 Ke7 32. g3 Rc4+ 33. Kb3
+Kf7 34. Rf2+ Kg6 35. Rf8 Rc7 36. Rf4 h5 37. a4 Rf7 38. Rxf7 Kxf7 39. Kc3 b6 40.
+Kd3 Kg6 0-1
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "4"]
+[White "Medvedev, Mikhail"]
+[Black "Konovalov, Valerij"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteElo "2197"]
+[BlackElo "2321"]
+[PlyCount "43"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nd5 Nb4 6. Nxd4 Nbxd5 7. exd5 Nxd5
+8. Qf3 Nf6 9. Bg5 Bc5 10. O-O-O O-O 11. Nf5 c6 12. Bd3 d5 13. Nxg7 Kxg7 14. Qg3
+Bxf2 15. Bxf6+ Kxf6 16. Rhf1 Be6 17. Rxf2+ Ke7 18. Bxh7 Qd6 19. Qg5+ f6 20. Qe3
+Qe5 21. Re1 Kd6 22. Qa3+ 1-0
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "5"]
+[White "Andreev, Gennadiy"]
+[Black "Rusakovsky, Oleg"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2058"]
+[PlyCount "90"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxb4 7. Nb5 bxa3+ 8. Bd2
+Bc7 9. Qg4 Kf8 10. Rxa3 f5 11. Bb4+ Ne7 12. Qh4 Nbc6 13. Bd2 Ng6 14. Qh5 Bd7
+15. Nf3 a6 16. Nxc7 Qxc7 17. Bd3 Be8 18. Qh3 Qe7 19. Rb3 b5 20. O-O Kg8 21. g4
+fxg4 22. Qxg4 Bf7 23. c3 Na5 24. Rb4 Nc4 25. Bc1 Qe8 26. Ng5 Nf8 27. f4 h5 28.
+Qh3 g6 29. Kh1 Nh7 30. Nf3 Kf8 31. Rg1 Ke7 32. Ng5 Nxg5 33. fxg5 Kd7 34. Rf1
+Rf8 35. Rf6 Kc6 36. Rb1 Rg8 37. Qf3 Ra7 38. Bxc4 bxc4 39. Ba3 Qd7 40. Rb4 Rg7
+41. Rxc4+ Kb7 42. Bf8 Bg8 43. Rb4+ Kc6 44. Bxg7 Qxg7 45. c4 Rb7 1-0
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "5"]
+[White "Motuz, German"]
+[Black "Medvedev, Mikhail"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2167"]
+[BlackElo "2197"]
+[PlyCount "117"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d4 e5 3. Nf3 exd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Nc3 Nf6 7. Bd3 Be7 8.
+O-O O-O 9. b3 Nd7 10. Bb2 Bf6 11. f4 Bd4+ 12. Kh1 Nc5 13. Na4 Bxb2 14. Nxb2
+Nxd3 15. cxd3 c5 16. Nc4 a5 17. Ne3 a4 18. bxa4 Bd7 19. Rf3 Bxa4 20. Qe2 Bd7
+21. Rg3 f5 22. Qb2 g6 23. Qb3+ Kg7 24. Qc3+ Kg8 25. Qb3+ Kg7 26. Qc3+ Qf6 27.
+e5 dxe5 28. Nd5 Qd6 29. Qxe5+ Qxe5 30. fxe5 Rfb8 31. h3 c6 32. Nf4 Kf7 33. Rc1
+Rb4 34. Rf3 Raa4 35. Ne2 Rb2 36. Nc3 Ra3 37. Ne4 Raxa2 38. Nxc5 Be8 39. Rg3 Ke7
+40. Rc4 Rb1+ 41. Kh2 Raa1 42. Rf3 Re1 43. d4 Reb1 44. Nd3 Rb3 45. Nf4 Rxf3 46.
+gxf3 g5 47. Nd3 f4 48. Nb4 Ke6 49. Nxc6 Bh5 50. Rc3 Kd5 51. Rc5+ Ke6 52. d5+
+Kd7 53. Nd4 Rd1 54. Rc4 Rd2+ 55. Kg1 Bg6 56. d6 Bf7 57. Rc7+ Ke8 58. e6 Rxd4
+59. Rc8# 1-0
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "6"]
+[White "Belyaev, Oleg"]
+[Black "Lazarenko, Viktor"]
+[Result "1/2-1/2"]
+[ECO "C21"]
+[WhiteElo "2072"]
+[BlackElo "2124"]
+[PlyCount "51"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 d6 5. Qb3 Qd7 6. Nxc3 Nc6 7. Qd1 Nf6 8.
+Nf3 Ne5 9. Nxe5 dxe5 10. Qb3 Bd6 11. Bg5 O-O 12. Bxf6 gxf6 13. Nd5 Kg7 14. h3
+Qd8 15. Qg3+ Kh8 16. Qf3 Kg7 17. O-O-O Be6 18. Ne3 Qe7 19. Rd3 Bc5 20. Bxe6
+fxe6 21. Rhd1 Rad8 22. Qg4+ Kh8 23. Rxd8 Rxd8 24. Rxd8+ Qxd8 25. Qxe6 Bxe3+ 26.
+fxe3 1/2-1/2
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "6"]
+[White "Medvedev, Mikhail"]
+[Black "Velikanov, Igor"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2197"]
+[BlackElo "2276"]
+[PlyCount "120"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nd5 Nxd5 6. exd5 Bb4+ 7. Bd2 Qe7+
+8. Be2 d3 9. cxd3 Ne5 10. O-O Nxf3+ 11. Bxf3 Bxd2 12. Qxd2 O-O 13. Qf4 d6 14.
+Rfe1 Qd8 15. Rac1 Bd7 16. Rc2 Re8 17. Rec1 Rc8 18. h3 g6 19. a4 Re7 20. Qd4 b6
+21. a5 Qe8 22. Qc3 Bf5 23. Bg4 Bxg4 24. hxg4 Re5 25. axb6 axb6 26. Qd4 Qe7 27.
+g3 Re1+ 28. Kg2 Rxc1 29. Rxc1 Ra8 30. Qc3 Ra5 31. Qxc7 Qxc7 32. Rxc7 Rxd5 33.
+Rc3 Rb5 34. Rc2 Rb3 35. Rd2 Kf8 36. Kf3 Ke7 37. Ke3 d5 38. f4 Ke6 39. Kd4 Rb4+
+40. Kc3 Ra4 41. Rh2 d4+ 42. Kb3 Ra1 43. Kc4 Rg1 44. Kxd4 Rxg3 45. g5 Rf3 46.
+Ke4 Rf1 47. Re2 h5 48. gxh6 Rh1 49. d4 Rxh6 50. d5+ Kd7 51. Rc2 Rh1 52. Rc6
+Re1+ 53. Kd4 Rd1+ 54. Ke5 Re1+ 55. Kf6 Re4 56. Rxb6 Rxf4+ 57. Ke5 Rf5+ 58. Ke4
+Rf1 59. Rb7+ Kd6 60. Rb6+ Kd7 1/2-1/2
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "7"]
+[White "Andreev, Gennadiy"]
+[Black "Smirnov, Yury V"]
+[Result "1-0"]
+[ECO "C32"]
+[WhiteElo "2058"]
+[BlackElo "2284"]
+[PlyCount "37"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Bb5+ c6 5. dxc6 bxc6 6. Bc4 Nf6 7. d4 exd3 8.
+Qxd3 Qc7 9. Be3 Bd6 10. Ne2 O-O 11. Nbc3 a5 12. Ne4 Nxe4 13. Qxe4 Ba6 14. O-O
+Bxc4 15. Qxc4 Nd7 16. Nd4 Rfc8 17. Nf5 Bf8 18. Rf3 Nb6 19. Nh6+ 1-0
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "7"]
+[White "Orekhovsky, Vasily"]
+[Black "Kazankov, Andrey"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2029"]
+[BlackElo "2130"]
+[PlyCount "100"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 c4 7. b4 cxb3 8. Qxb3 Na5
+9. Qb2 Qc7 10. Bb5 Nc4 11. Bxc4 dxc4 12. O-O Ba4 13. Nbd2 Qc6 14. Re1 Ne7 15.
+Ne4 Nd5 16. Rb1 O-O-O 17. Nc5 Bxc5 18. dxc5 Rd7 19. Nd2 Qxc5 20. Ne4 Qc6 21.
+Be3 b6 22. f3 f6 23. Nc5 Re7 24. Nxa4 Qxa4 25. Bc5 Ree8 26. Bd4 f5 27. Qb5 Qxb5
+28. Rxb5 Kc7 29. Reb1 Rb8 30. a4 a6 31. Rxd5 exd5 32. e6 Kd6 33. Re1 Rbe8 34.
+Bxg7 Rhg8 35. Bd4 Rxe6 36. Rxe6+ Kxe6 37. Bxb6 Rb8 38. a5 Kd6 39. Kf2 Kc6 40.
+Bd4 Rb5 41. Kg3 Kd7 42. Kf4 Ke6 43. g4 fxg4 44. Kxg4 Rxa5 45. f4 Rb5 46. f5+
+Kf7 47. Kf4 a5 48. Be5 a4 49. Bd6 Rb3 50. Ke5 a3 0-1
+
+[Event "Zhukovskij op"]
+[Site "Zhukovskij"]
+[Date "2008.??.??"]
+[Round "8"]
+[White "Kuznetsov, Mikhail"]
+[Black "Belyaev, Oleg"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2122"]
+[BlackElo "2072"]
+[PlyCount "76"]
+[EventDate "2008.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nc3 e5 2. e4 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nf3 O-O 6. O-O d6 7. h3 Na5 8. Bb3
+Nxb3 9. axb3 h6 10. Ne2 Be6 11. Ng3 c5 12. Nd2 Qd7 13. Kh2 Nh7 14. Nc4 Ng5 15.
+f4 exf4 16. Bxf4 Bxc4 17. bxc4 Ne6 18. Be3 Bg5 19. Bxg5 Nxg5 20. Nf5 Qe6 21. c3
+Qe5+ 22. g3 Kh7 23. Qg4 g6 24. h4 Ne6 25. Ne7 h5 26. Qf3 Nd4 27. Qf6 Qxf6 28.
+Rxf6 Ne6 29. b4 Kg7 30. Rf2 cxb4 31. cxb4 Nd4 32. Ra5 Nc6 33. Nxc6 bxc6 34.
+Rfa2 Rfb8 35. Rxa7 Rxa7 36. Rxa7 Rxb4 37. Rd7 d5 38. cxd5 Rd4 1/2-1/2
+
+[Event "Antwerp InventiChess"]
+[Site "Antwerp"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Michiels, Bart"]
+[Black "Vaganian, Rafael A"]
+[Result "1/2-1/2"]
+[ECO "C12"]
+[WhiteElo "2442"]
+[BlackElo "2594"]
+[PlyCount "88"]
+[EventDate "2008.08.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Be3 Ne4 7. Qg4 g6 8. a3
+Bxc3+ 9. bxc3 Nxc3 10. Bd3 Nc6 11. h4 Ne7 12. f3 Nf5 13. Bd2 Na4 14. h5 Rg8 15.
+hxg6 Rxg6 16. Qh3 Nb2 17. Ne2 Nxd3+ 18. cxd3 b6 19. g4 Ne7 20. Nf4 Ba6 21. Nxg6
+Nxg6 22. f4 Kd7 23. f5 Ne7 24. Bxh6 Qg8 25. Kd2 Kc8 26. Qh4 Nc6 27. Be3 Kb7 28.
+fxe6 fxe6 29. g5 Ne7 30. Qh7 Qe8 31. a4 Nf5 32. g6 Qf8 33. Rac1 Rc8 34. Rc3 Kb8
+35. Rhc1 c5 36. Bf2 Rc7 37. Qh5 c4 38. Qg5 Kb7 39. dxc4 Bxc4 40. Rh1 Qb4 41.
+Rh7 Qb2+ 42. Rc2 Qb4+ 43. Rc3 Qb2+ 44. Rc2 Qb4+ 1/2-1/2
+
+[Event "Antwerp InventiChess"]
+[Site "Antwerp"]
+[Date "2008.08.26"]
+[Round "4"]
+[White "Timman, Jan H"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2562"]
+[BlackElo "2594"]
+[PlyCount "105"]
+[EventDate "2008.08.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Nh6 7. Bxh6 gxh6 8. Qd2
+Bg7 9. O-O O-O 10. Na3 cxd4 11. cxd4 f6 12. exf6 Rxf6 13. Nc2 a5 14. a3 a4 15.
+Rad1 Bd7 16. Nb4 Rf5 17. Nxc6 bxc6 18. Ne5 Bxe5 19. dxe5 Raf8 20. Bd3 Rxe5 21.
+Qxh6 Rf7 22. Qh4 Qb8 23. Kh1 Qf8 24. f4 Ref5 25. Bxf5 Rxf5 26. Rf3 c5 27. Rh3
+h6 28. Qg3+ Kh8 29. Rh4 Be8 30. Re1 Qf6 31. Rg4 Bf7 32. h3 d4 33. Qf3 h5 34.
+Rg5 Rxf4 35. Qa8+ Kh7 36. Rxc5 d3 37. Rg1 Bg6 38. Rc7+ Kh6 39. Rc8 Bh7 40. Rh8
+e5 41. Qg8 Qf5 42. Rc1 Rf1+ 43. Rxf1 Qxf1+ 44. Kh2 Qf5 45. Qg3 e4 46. h4 Qg4
+47. Qf2 Qe6 48. Qf4+ Kg7 49. Ra8 Qf5 50. Ra7+ Kf6 51. Qd6+ Qe6 52. Qf8+ Ke5 53.
+Ra5+ 1-0
+
+[Event "Antwerp InventiChess"]
+[Site "Antwerp"]
+[Date "2008.08.29"]
+[Round "7"]
+[White "Michiels, Bart"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[WhiteElo "2442"]
+[BlackElo "2562"]
+[PlyCount "137"]
+[EventDate "2008.08.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 Be7 5. O-O d6 6. c3 O-O 7. Bb3 Bg4 8. h3
+Bh5 9. Re1 Nbd7 10. Nbd2 Nc5 11. Bc2 Ne6 12. Nf1 Nd7 13. Ng3 Bxf3 14. Qxf3 Bg5
+15. Nf5 Bxc1 16. Raxc1 Qf6 17. Nxd6 Qxf3 18. gxf3 b6 19. Rcd1 Rad8 20. d4 exd4
+21. cxd4 c5 22. dxc5 Ne5 23. Re3 bxc5 24. Rd5 Ng6 25. Nc4 Ngf4 26. Rxd8 Rxd8
+27. Kh2 Nd4 28. Bb3 Kf8 29. h4 h6 30. Kg3 Nde2+ 31. Kh2 Nd4 32. Kg3 Nde2+ 33.
+Kh2 g5 34. e5 Rd4 35. hxg5 hxg5 36. Nd6 Rd2 37. Nxf7 Nd4 38. Nxg5 Nf5 39. Ne4
+Rd7 40. Nf6 Rd2 41. Ne4 Rd7 42. Nxc5 Rh7+ 43. Kg1 Rg7+ 44. Kf1 Rh7 45. Kg1 Rg7+
+46. Kf1 Rh7 47. Ne6+ Nxe6 48. Bxe6 Nxe3+ 49. fxe3 Re7 50. Bc4 Rxe5 51. Kf2 Ke7
+52. f4 Rh5 53. Kg3 Rh1 54. e4 Re1 55. e5 Re3+ 56. Kg4 Re4 57. b3 Re3 58. Ba6
+Ke6 59. Bc8+ Ke7 60. Ba6 Ke6 61. Bc4+ Ke7 62. Kf5 a5 63. a3 Re1 64. Kg4 Re3 65.
+Kf5 Re1 66. Kg4 Re3 67. Kg5 Rg3+ 68. Kh4 Rf3 69. Kg4 1/2-1/2
+
+[Event "Antwerp InventiChess"]
+[Site "Antwerp"]
+[Date "2008.08.31"]
+[Round "9"]
+[White "Lahno, Kateryna"]
+[Black "Michiels, Bart"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2507"]
+[BlackElo "2442"]
+[PlyCount "114"]
+[EventDate "2008.08.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. Na3 cxd4 8. cxd4
+Nf5 9. Nc2 Qb6 10. O-O Rc8 11. Kh1 Na5 12. b3 Bb5 13. Bxb5+ Qxb5 14. Ne3 Nxe3
+15. Bxe3 Be7 16. Ng5 O-O 17. Nh3 Qc6 18. Qg4 Qc2 19. Rac1 Qe4 20. Qe2 Ba3 21.
+Rxc8 Rxc8 22. Qb5 b6 23. Qd7 Qc2 24. Qxa7 Qxa2 25. Qxb6 Nxb3 26. Qa6 Rc2 27.
+Ng5 h6 28. Nxe6 fxe6 29. Qxe6+ Kh8 30. Qxd5 Nd2 31. Qxa2 Rxa2 32. Bxd2 Rxd2 33.
+g3 Bb2 34. e6 Kg8 35. Re1 Kf8 36. d5 Rxd5 37. Re2 Bc3 38. h4 Rd2 39. Re3 Bd4
+40. Rf3+ Ke7 41. Kg2 Kxe6 42. Rf4 Ke5 43. Rf7 Ke4 44. Rf4+ Kd3 45. Kf1 Ra2 46.
+Rf3+ Kc4 47. Kg2 Ra6 48. Kh3 Rf6 49. Rxf6 Bxf6 50. Kg4 Kd3 51. Kf3 Bd4 52. h5
+Bb6 53. g4 Bc5 54. g5 hxg5 55. Kg4 Bxf2 56. Kxg5 Be3+ 57. Kg6 Bh6 0-1
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.23"]
+[Round "1.1"]
+[White "Burovic, Ismet"]
+[Black "Iveljic, Igor"]
+[Result "1-0"]
+[ECO "C29"]
+[WhiteElo "2363"]
+[BlackElo "2280"]
+[PlyCount "135"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Nc6 6. Bb5 Be7 7. O-O O-O 8.
+Qe1 Nxc3 9. dxc3 Bf5 10. Bd3 Bxd3 11. cxd3 Qd7 12. Qg3 Kh8 13. d4 Nd8 14. Bg5
+Ne6 15. Bxe7 Qxe7 16. Nh4 Rae8 17. Nf5 Qd8 18. Rae1 Qg5 19. Qf3 Qd8 20. Ne3 c6
+21. Nf5 Qd7 22. Qg4 Rb8 23. Re3 f6 24. Nxg7 Qxg7 25. Qxe6 fxe5 26. Qxe5 Rxf1+
+27. Kxf1 Qxe5 28. Rxe5 Rf8+ 29. Ke2 Rf7 30. Rg5 h6 31. Rg3 Kh7 32. a4 Re7+ 33.
+Kd2 Rf7 34. Rf3 Rg7 35. g3 Kg6 36. a5 Re7 37. Re3 Rc7 38. Re5 Kf6 39. Kc2 Rh7
+40. Re8 Rc7 41. Ra8 a6 42. Re8 Rh7 43. Kb3 Kf5 44. Rf8+ Ke4 45. Kc2 Ke3 46. g4
+Ke2 47. h3 Ke3 48. Rf5 Rg7 49. Rf6 Rh7 50. Rf5 Rg7 51. Rh5 Rg6 52. Rf5 Rg7 53.
+Kb3 Kd3 54. Rf6 Rh7 55. h4 Kd2 56. Rg6 Kd1 57. Rf6 Kd2 58. Rg6 Kc1 59. Re6 Kd2
+60. Rf6 Kc1 61. g5 hxg5 62. hxg5 Rh2 63. Rf1+ Kd2 64. Rg1 Rh7 65. g6 Rg7 66.
+Kb4 Ke2 67. Kc5 Kf2 68. Rg5 1-0
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.23"]
+[Round "1.1"]
+[White "Mestrovic, Zvonimir"]
+[Black "Mahmutbegovic, Midhat"]
+[Result "1-0"]
+[ECO "C13"]
+[WhiteElo "2337"]
+[BlackElo "2088"]
+[PlyCount "55"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bg5 Be7
+8. Bxf6 Bxf6 9. c3 Bd7 10. Bd3 Bc6 11. Qe2 O-O 12. O-O-O Bxf3 13. gxf3 g6 14.
+Kb1 c6 15. Rdg1 b5 16. h4 h5 17. f4 Kh8 18. Qe4 Rg8 19. Qe3 Rg7 20. Rd1 Qb6 21.
+f5 exf5 22. Bxf5 b4 23. c4 Rd8 24. c5 Qc7 25. Be4 Qd7 26. Rd3 Bxd4 27. Qd2 f5
+28. Bf3 1-0
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.23"]
+[Round "1.1"]
+[White "Mujic, Hamza"]
+[Black "Rasidovic, Sead"]

@@ -1,0 +1,600 @@
+[WhiteElo "2166"]
+[BlackElo "2162"]
+[PlyCount "170"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. cxd5 Nxd5 7. Bxe7 Qxe7 8.
+e4 Nxc3 9. bxc3 c5 10. Bd3 Nc6 11. O-O cxd4 12. cxd4 Rd8 13. Qa4 Nxd4 14. Nxd4
+e5 15. Nc6 bxc6 16. Qxc6 Bb7 17. Qc2 Rac8 18. Qb3 Rc6 19. Rfd1 Rb6 20. Qa4 Bc6
+21. Qa5 h6 22. Rac1 Rd4 23. Qe1 Bb7 24. f3 Qa3 25. Rc3 Qd6 26. Qe2 Ba6 27. Qc2
+Kh7 28. Kf2 Qd8 29. Ke2 Rbd6 30. Qb1 Qh4 31. h3 Qg3 32. Kf1 Qg5 33. Kf2 Qh4+
+34. Ke2 Qg3 35. Kf1 Qf4 36. Ke2 Qg5 37. Kf2 Qd8 38. Ke2 Rb6 39. Rb3 Rbd6 40.
+Ra3 Rxd3 41. Raxd3 Rd4 42. Ke3 Bxd3 43. Rxd3 Rxd3+ 44. Qxd3 Qb6+ 45. Ke2 Qg1
+46. g4 Qg2+ 47. Ke3 Qxa2 48. Qc3 Qe6 49. Qa3 a6 50. Ke2 Qc6 51. Qe7 f6 52. Qd8
+Qb5+ 53. Ke3 Qc5+ 54. Ke2 a5 55. Qe8 Qc4+ 56. Kd2 Qd4+ 57. Ke2 Qb2+ 58. Ke3
+Qc3+ 59. Ke2 Qc2+ 60. Ke3 a4 61. h4 a3 62. h5 Qb3+ 63. Ke2 Qg8 64. Qa4 Qa2+ 65.
+Ke3 Qb2 66. Qe8 Qd4+ 67. Ke2 Qd6 68. Qg6+ Kg8 69. Qe8+ Qf8 70. Qa4 Kh7 71. Ke3
+Qe7 72. Kd3 Qd6+ 73. Ke2 Qe7 74. Kd3 g6 75. hxg6+ Kxg6 76. Qb3 Kg5 77. Ke2 Qc5
+78. Qd3 Kh4 79. Qd2 Kg3 80. Qe1+ Kg2 81. Qf1+ Kh2 82. Qa1 Qc4+ 83. Ke1 Qb4+ 84.
+Kf1 Qb2 85. Qe1 Qg2# 0-1
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.14"]
+[Round "7"]
+[White "Grotnes, Nils"]
+[Black "Peek, Marcel"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2256"]
+[BlackElo "2389"]
+[PlyCount "110"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Bf4 e6 5. e3 Bb4+ 6. Nc3 Nge7 7. h3 Bxf3 8.
+Qxf3 O-O 9. Rc1 e5 10. Bxe5 Nxe5 11. dxe5 d4 12. exd4 Qxd4 13. Be2 Qxe5 14. a3
+Bd6 15. b4 c6 16. Ne4 Rad8 17. Ng3 Qb2 18. O-O Bxg3 19. fxg3 Rd2 20. Rb1 Qd4+
+21. Kh2 Nf5 22. Rb3 Qe5 23. Bd1 Nh4 24. Qe3 Qxe3 25. Rxe3 Nxg2 26. Re2 Ne3 27.
+Rf3 Rxe2+ 28. Bxe2 Re8 29. Bd3 g6 30. g4 Nc2 31. Rf2 Nd4 32. Rf4 Ne6 33. Re4
+Rd8 34. Re3 Rd4 35. Kg3 Kg7 36. h4 h6 37. Bf1 g5 38. hxg5 hxg5 39. a4 Kf6 40.
+a5 Nf4 41. b5 cxb5 42. cxb5 b6 43. a6 Rd1 44. Kf2 Rd2+ 45. Kg3 Rd1 46. Kf2 Rc1
+47. Re8 Rc7 48. Kf3 Ne6 49. Ke3 Rc3+ 50. Kd2 Rc7 51. Bd3 Ke5 52. Bf5 Kd6 53.
+Kd3 Kc5 54. Bxe6 fxe6 55. Rg8 Kxb5 0-1
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.14"]
+[Round "7"]
+[White "Kveinys, Aloyzas"]
+[Black "Saltaev, Mihail"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2515"]
+[BlackElo "2500"]
+[PlyCount "56"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Qb3 Nbd7 6. Bg5 Qa5 7. Bd2 Qb6 8. g3
+Bd6 9. Bg2 Qxb3 10. axb3 a6 11. c5 Bc7 12. Bf4 Bxf4 13. gxf4 Ke7 14. b4 Rb8 15.
+Kd2 h6 16. h4 Nh5 17. e3 f6 18. Rag1 g6 19. Ne1 Nf8 20. Bf3 Ng7 21. h5 g5 22.
+Nd3 Bd7 23. Be2 Nf5 24. fxg5 hxg5 25. f4 Nh7 26. fxg5 Nxg5 27. Nf4 Be8 28. Rg2
+Bf7 1/2-1/2
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.14"]
+[Round "7"]
+[White "Levin, Felix"]
+[Black "Arun Prasad, Subramanian"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2546"]
+[BlackElo "2465"]
+[PlyCount "48"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Bd3 Nbd7 6. O-O Bd6 7. Nbd2 O-O 8. e4
+e5 9. cxd5 cxd5 10. exd5 exd4 11. Ne4 Nxe4 12. Bxe4 Nf6 13. Qxd4 Nxe4 14. Qxe4
+Re8 15. Qd4 Bf5 16. Bg5 f6 17. Bh4 Re4 18. Qd2 Bf4 19. Qd1 Qd6 20. Bg3 Bxg3 21.
+hxg3 Rd8 22. Nh4 Bg4 23. Qb3 Rb4 24. Qa3 Qb6 1/2-1/2
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.14"]
+[Round "7"]
+[White "Welling, Gerard"]
+[Black "Andersen, Mads"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2378"]
+[BlackElo "2020"]
+[PlyCount "42"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Be2 c5 7. dxc5 Nbd7 8.
+O-O Nxc5 9. Be5 Bg4 10. h3 Bxf3 11. Bxf3 e6 12. a4 Rc8 13. Qd4 Ncd7 14. Bxf6
+Bxf6 15. Qxa7 Ra8 16. Qxb7 Rb8 17. Qa6 Rxb2 18. Nb5 Qb6 19. Qxb6 Nxb6 20. c3
+Nxa4 21. Rxa4 Rxb5 1/2-1/2
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.15"]
+[Round "8"]
+[White "Akesson, Ralf"]
+[Black "Arun Prasad, Subramanian"]
+[Result "1-0"]
+[ECO "D48"]
+[WhiteElo "2466"]
+[BlackElo "2465"]
+[PlyCount "69"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. d5 c4 11. Bc2 Qc7 12. O-O Bb7 13. dxe6 fxe6 14. Nd4 Nc5 15. Be3
+e5 16. Nf5 g6 17. Ng3 Be7 18. Qe2 O-O-O 19. b3 Nd3 20. bxc4 Nf4 21. Qf3 Kb8 22.
+cxb5 Bb4 23. bxa6 Qxc3 24. Rfb1 g5 25. h3 h5 26. Bxf4 gxf4 27. Nf5 Rh7 28. a3
+Qxc2 29. Rxb4 Rd3 30. Nd4 Qc3 31. Nc6+ Kc7 32. axb7 Qxa1+ 33. Kh2 Rd8 34. Nxd8
+Nd7 35. Qd3 1-0
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.15"]
+[Round "8"]
+[White "Elsness, Frode"]
+[Black "Levin, Felix"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2440"]
+[BlackElo "2546"]
+[PlyCount "130"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. b3 Nbd7 6. Bd3 Bb4+ 7. Nbd2 e5 8. dxe5
+Bc3 9. Rb1 Nxe5 10. Nxe5 Bxe5 11. Qc2 O-O 12. O-O h6 13. Nf3 Bc7 14. Bb2 dxc4
+15. bxc4 Qe7 16. e4 Bg4 17. Nd4 Rad8 18. h3 Be5 19. Ne2 Bxe2 20. Qxe2 Bxb2 21.
+Rxb2 Rfe8 22. Re1 b6 23. Bb1 Qc5 24. Rb3 Rd4 25. Rc3 Nd7 26. Kh2 Qd6+ 27. Kh1
+Rd2 28. Qe3 Qd4 29. Qxd4 Rxd4 30. Rd3 Rxd3 31. Bxd3 Nc5 32. Bc2 Rd8 33. f3 Rd4
+34. Bb3 a5 35. Rc1 a4 36. Bd1 Nd3 37. Rc2 Nb4 38. Rc1 a3 39. Ba4 Rd2 40. Bb3 c5
+41. Kh2 g5 42. h4 Kg7 43. hxg5 hxg5 44. Kh3 Nxa2 45. Bxa2 Rxa2 46. Rc3 Kf6 47.
+Rd3 Ke6 48. g3 Ra1 49. Kg4 a2 50. Rd2 f6 51. Rf2 Rc1 52. Rxa2 Rxc4 53. Ra6 Rb4
+54. f4 gxf4 55. gxf4 c4 56. Ra8 c3 57. Rc8 Rb3 58. Rc6+ Kd7 59. Rc4 b5 60. Rc5
+b4 61. Kf5 Rb2 62. Kxf6 Re2 63. e5 c2 64. f5 b3 65. e6+ Kd6 0-1
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.15"]
+[Round "8"]
+[White "Naeslund, Mikael"]
+[Black "Unander, Matts"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2228"]
+[BlackElo "2132"]
+[PlyCount "112"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. Qc2 O-O 7. e3 c6 8. Bd3
+Nbd7 9. Nge2 Re8 10. O-O Nf8 11. Rab1 Bg4 12. b4 a6 13. Na4 Nh5 14. Bxe7 Qxe7
+15. Rfc1 g6 16. Nc5 Bc8 17. a4 Ne6 18. b5 axb5 19. axb5 Nxc5 20. Qxc5 Qxc5 21.
+Rxc5 Bd7 22. h3 Nf6 23. bxc6 bxc6 24. Rc2 Ra3 25. Rc3 Rxc3 26. Nxc3 Ra8 27. Bc2
+c5 28. dxc5 Ra5 29. Ne2 Rxc5 30. Bb3 Bb5 31. Nd4 Bd3 32. Ra1 Ne4 33. Ra8+ Kg7
+34. Rd8 Rc1+ 35. Kh2 Nxf2 36. Bxd5 Rh1+ 37. Kg3 Ne4+ 38. Kf4 Rf1+ 39. Nf3 Nc5
+40. Rc8 Nd7 41. Rc7 Bb5 42. h4 Kf6 43. Rb7 Ba4 44. Ra7 Bb5 45. Kg3 Ke7 46. Nd4
+Kd6 47. Nxb5+ Kxd5 48. Rxd7+ Kc6 49. Rd4 Kxb5 50. Rf4 Rxf4 51. Kxf4 Kc4 52. Ke4
+f5+ 53. Kf4 Kd3 54. g4 fxg4 55. Kxg4 Kxe3 56. h5 gxh5+ 1/2-1/2
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.15"]
+[Round "8"]
+[White "Peek, Marcel"]
+[Black "Flumbort, Andras"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2389"]
+[BlackElo "2499"]
+[PlyCount "88"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 b6 10. O-O Bb7 11. Qd3 Ba6 12. Qe3 Qc8 13. d5 Bxe2 14. Qxe2 e6
+15. c4 exd5 16. cxd5 Qa6 17. Qc2 Nd7 18. a4 c4 19. Ba3 Rfe8 20. Rfd1 Rac8 21.
+Nd4 Nc5 22. Bxc5 Rxc5 23. Nb5 Rd8 24. f4 Qb7 25. Nd4 c3 26. Nc6 Rd7 27. Rb5
+Rxc6 28. dxc6 Rxd1+ 29. Qxd1 Qxc6 30. Qc2 a6 31. Rb1 Bd4+ 32. Kh1 Qc4 33. g3 b5
+34. axb5 axb5 35. Kg2 b4 36. h4 Kg7 37. Kh2 Bc5 38. Kg2 Be3 39. Rb3 Qd4 40. Kf3
+Bd2 41. Kg2 Be1 42. Kf3 Qg1 43. Rxb4 Qxg3+ 44. Ke2 Bd2 0-1
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.15"]
+[Round "8"]
+[White "Sundararajan, Kidambi"]
+[Black "Bromberger, Stefan"]
+[Result "0-1"]
+[ECO "D48"]
+[WhiteElo "2441"]
+[BlackElo "2487"]
+[PlyCount "66"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. e5 cxd4 11. Ne4 Nd5 12. O-O Nc5 13. Bg5 Qb6 14. Rc1 Bb7 15.
+Nxc5 Bxc5 16. Nd2 h6 17. Qh5 Be7 18. Ne4 Bxg5 19. Nxg5 O-O 20. f4 Ne3 21. Nh7
+Bxg2 22. Nf6+ Kh8 23. Rf2 Bb7 24. h3 Rac8 25. Rxc8 Rxc8 26. Qxf7 Qc6 27. Be4
+Qc1+ 28. Kh2 Qe1 29. Rg2 Nf1+ 30. Kh1 Ng3+ 31. Kh2 Bxe4 32. Nxe4 Nf1+ 33. Kh1
+Nd2+ 0-1
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.15"]
+[Round "8"]
+[White "Tolhuizen, Ludo"]
+[Black "Tjoelsen, Katrine"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2248"]
+[BlackElo "2066"]
+[PlyCount "58"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. Qd2 O-O 6. Bh6 c5 7. Bxg7 Kxg7 8.
+dxc5 Na6 9. Rd1 e6 10. e4 Nxc5 11. exd5 exd5 12. Be2 Be6 13. O-O Qb6 14. b3
+Rac8 15. Nd4 Rfd8 16. Bf3 Nce4 17. Bxe4 dxe4 18. Na4 Qc7 19. Nxe6+ fxe6 20. Qe2
+Rxd1 21. Qxd1 b5 22. Nb2 Qxc2 23. Qd4 Qc5 24. Qd2 Qc3 25. Qe2 Rc7 26. Nd1 Qd3
+27. Qb2 Qc2 28. Qe5 Qc5 29. Qxe6 Qc6 1/2-1/2
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.16"]
+[Round "9"]
+[White "Akesson, Ralf"]
+[Black "Saltaev, Mihail"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2466"]
+[BlackElo "2500"]
+[PlyCount "22"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. b3
+Qe7 9. O-O b6 10. Bb2 Bb7 11. Rad1 Rad8 1/2-1/2
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.16"]
+[Round "9"]
+[White "Arun Prasad, Subramanian"]
+[Black "Cox, John J"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2465"]
+[BlackElo "2380"]
+[PlyCount "55"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qc2 Bb7 8. Bg2
+Nbd7 9. a4 bxa4 10. Qxa4 c5 11. O-O cxd4 12. Nxd4 Bxg2 13. Kxg2 Bc5 14. Nc6 Qc7
+15. b4 Bb6 16. Bf4 Qb7 17. Bd6 Ne4 18. Bf4 f5 19. f3 Nef6 20. Nc3 Kf7 21. Nb5
+Ne8 22. Rfd1 Ndf6 23. Ne5+ Kg8 24. Nd6 Nxd6 25. Rxd6 Re8 26. Bg5 Qb8 27. Rad1
+Nd5 28. Qd7 1-0
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.16"]
+[Round "9"]
+[White "Grotnes, Nils"]
+[Black "Unander, Matts"]
+[Result "1-0"]
+[ECO "D58"]
+[WhiteElo "2256"]
+[BlackElo "2132"]
+[PlyCount "119"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. cxd5
+exd5 9. Qb3 Bb7 10. Be2 Nbd7 11. O-O c5 12. dxc5 Nxc5 13. Qd1 Rc8 14. Nd4 Nfe4
+15. Bxe7 Qxe7 16. Rc1 Qf6 17. Bg4 Rcd8 18. b4 Nxc3 19. Rxc3 Ne6 20. Ra3 a6 21.
+Be2 Ra8 22. Qd2 Rfc8 23. Rd1 Ng5 24. Qe1 Ne4 25. Bd3 Rc7 26. f3 Nd6 27. Rc1 Nc4
+28. Rac3 b5 29. Bxc4 bxc4 30. a4 g6 31. Qd2 Qe5 32. Ne2 Re8 33. Qd4 Qg5 34. h4
+Qe7 35. Rb1 Bc6 36. h5 Kh7 37. hxg6+ fxg6 38. b5 axb5 39. axb5 Rb7 40. Nf4 Qe5
+41. Qxe5 Rxe5 42. b6 Be8 43. Ra3 Bf7 44. Ra7 Ree7 45. Rxb7 Rxb7 46. Ne2 Be8 47.
+Nd4 Bd7 48. Ra1 Kg7 49. Ra7 Bc8 50. Ra8 Bd7 51. Ra7 Bc8 52. Nb5 Rxa7 53. bxa7
+Bb7 54. Kf2 Kf6 55. Nc7 Ke5 56. a8=Q Bxa8 57. Nxa8 h5 58. Nc7 g5 59. Nb5 g4 60.
+Kg3 1-0
+
+[Event "Gausdal op-A"]
+[Site "Gausdal"]
+[Date "2008.04.16"]
+[Round "9"]
+[White "Mader, Manuela"]
+[Black "Ofstad, Per"]
+[Result "1-0"]
+[ECO "D13"]
+[WhiteElo "2161"]
+[BlackElo "2155"]
+[PlyCount "87"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. c4 c6 3. cxd5 cxd5 4. d4 Nc6 5. Nc3 e6 6. Bf4 Nf6 7. e3 Be7 8. Bd3
+h6 9. O-O O-O 10. Rc1 Nh5 11. Be5 f5 12. Bb1 Bd7 13. h3 Be8 14. a3 Nf6 15. Qd3
+Bh5 16. Bxf6 Rxf6 17. Ne5 Qe8 18. Nb5 Rc8 19. Nxc6 bxc6 20. Nc3 Bd6 21. Qa6 Rd8
+22. f4 c5 23. Rf2 cxd4 24. exd4 Qd7 25. Na4 Bb8 26. Nc5 Qe7 27. b4 g5 28. Qb7
+Qd6 29. Na6 Rf7 30. Qb5 gxf4 31. Rc6 Qe7 32. Nxb8 f3 33. Rc1 Rg7 34. Rcc2 Be8
+35. Nc6 Bxc6 36. Qxc6 Qh4 37. Qxe6+ Kh8 38. Rxf3 Qxd4+ 39. Kh2 Rdg8 40. Qxh6+
+Rh7 41. Qd2 Qe5+ 42. Kg1 Rhg7 43. Qd1 Qe4 44. Rcf2 1-0
+
+[Event "Gausdal op-B"]
+[Site "Gausdal"]
+[Date "2008.04.08"]
+[Round "1"]
+[White "Carlsen, Henrik"]
+[Black "Lahlum, Ida"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2082"]
+[BlackElo "1831"]
+[PlyCount "43"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e6 4. e4 c6 5. a4 Bb4 6. Bxc4 Ne7 7. Nf3 O-O 8. O-O
+Qc7 9. Be3 Bxc3 10. bxc3 Nd7 11. e5 c5 12. Rc1 Nb6 13. Bd3 c4 14. Bxh7+ Kxh7
+15. Ng5+ Kg8 16. Qh5 Rd8 17. Qxf7+ Kh8 18. f4 Nbd5 19. Rf3 Nf5 20. Rh3+ Nh6 21.
+Qg6 Kg8 22. Rxh6 1-0
+
+[Event "Gausdal op-B"]
+[Site "Gausdal"]
+[Date "2008.04.08"]
+[Round "1"]
+[White "Henderikse, Bert"]
+[Black "Kreiter, Thomas"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2002"]
+[BlackElo "1743"]
+[PlyCount "61"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Qe2
+Qc7 9. Nc3 Bd6 10. Rd1 O-O 11. h3 b6 12. d5 exd5 13. Bxd5 Bb7 14. e4 Rae8 15.
+Be3 Nd8 16. Bxb7 Nxb7 17. Qxa6 Qc6 18. Nd5 Nd7 19. Nd2 Ra8 20. Qb5 Qxb5 21.
+axb5 Na5 22. b4 Nb7 23. Nc4 cxb4 24. Rxa8 Rxa8 25. Nxd6 Nxd6 26. Nxb4 Ra4 27.
+Rxd6 Rxb4 28. Rxd7 h6 29. Rd8+ Kh7 30. Rd5 Rxe4 31. Bxb6 1-0
+
+[Event "Gausdal op-B"]
+[Site "Gausdal"]
+[Date "2008.04.08"]
+[Round "1"]
+[White "Jacobsen, Mads Holger"]
+[Black "Spanton, Timothy"]
+[Result "1-0"]
+[ECO "D48"]
+[WhiteElo "1785"]
+[BlackElo "2007"]
+[PlyCount "131"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. e4 c5 11. d5 e5 12. Bg5 h6 13. Bh4 Be7 14. Re1 O-O 15. Bg3
+Bd6 16. Nh4 g6 17. Qd2 c4 18. Bc2 Kg7 19. f4 exf4 20. Bxf4 Bxf4 21. Qxf4 Nh5
+22. Qf2 Ne5 23. Nf3 Qf6 24. Rad1 Rad8 25. Nxe5 Qxe5 26. Qd4 Rfe8 27. Qxe5+ Rxe5
+28. a3 Nf6 29. h3 Ne8 30. Kf2 Nd6 31. g4 Rde8 32. Re2 Bc8 33. Rde1 h5 34. Kf3
+hxg4+ 35. hxg4 Rh8 36. Rg2 Rh3+ 37. Rg3 Rh4 38. Nd1 Rh2 39. Nf2 g5 40. Rg2 Rh4
+41. Rh1 Rxh1 42. Nxh1 Ne8 43. Ng3 Nf6 44. Nf5+ Bxf5 45. gxf5 Nh7 46. Ke3 f6 47.
+Kd4 Nf8 48. Rxg5+ Kf7 49. Rg3 Nd7 50. a4 Re7 51. axb5 axb5 52. Ra3 b4 53. Rh3
+b3 54. Bb1 Ne5 55. d6 Rd7 56. Kd5 Kg7 57. Ke6 Ra7 58. Rg3+ Kf8 59. Kxf6 Ra1 60.
+Kxe5 Rxb1 61. d7 Ke7 62. Rg7+ Kd8 63. Ke6 Rd1 64. Rg8+ Kc7 65. Rc8+ Kb7 66.
+Rxc4 1-0
+
+[Event "Gausdal op-B"]
+[Site "Gausdal"]
+[Date "2008.04.09"]
+[Round "2"]
+[White "De Koster, Franzke K"]
+[Black "De Luna Butz, Alberto"]
+[Result "0-1"]
+[ECO "D13"]
+[BlackElo "1867"]
+[PlyCount "74"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. Nf3 Ne4 7. Nxe4 dxe4 8.
+d5 Qa5+ 9. Qd2 Qxd2+ 10. Nxd2 Nb4 11. Rc1 Nxd5 12. e3 Bf5 13. Bb5+ Kd8 14. Nc4
+Rc8 15. O-O a6 16. Rfd1 e6 17. Ne5 Rxc1 18. Rxc1 Rg8 19. g4 axb5 20. gxf5 Ke7
+21. fxe6 Kxe6 22. Rc8 f6 23. Re8+ Ne7 24. Ng4 h5 25. h3 hxg4 26. hxg4 g5 27.
+Bc7 Bg7 28. Rxg8 Nxg8 29. Ba5 Nh6 30. Kg2 Nxg4 31. Kg3 f5 32. Bc3 Bxc3 33. bxc3
+Kd5 34. f4 exf3 35. Kxf3 Nxe3 36. Kxe3 Kc4 37. Kd2 f4 0-1
+
+[Event "Gausdal op-B"]
+[Site "Gausdal"]
+[Date "2008.04.10"]
+[Round "3"]
+[White "De Luna Butz, Alberto"]
+[Black "Bjorgvik, Jan Arne"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[WhiteElo "1867"]
+[BlackElo "2021"]
+[PlyCount "45"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Bg5 Be7 5. Nc3 O-O 6. e3 c6 7. Bd3 dxc4 8. Bxc4
+Nd5 9. Bxe7 Qxe7 10. O-O Rd8 11. Qe2 Nd7 12. Rfd1 Nxc3 13. bxc3 b5 14. Bd3 Bb7
+15. a4 a6 16. Qc2 g6 17. e4 Rdc8 18. Qe2 e5 19. Qe3 f6 20. Bf1 Rd8 21. dxe5
+fxe5 22. Ne1 Nc5 23. axb5 1/2-1/2
+
+[Event "Gausdal op-B"]
+[Site "Gausdal"]
+[Date "2008.04.10"]
+[Round "3"]
+[White "Flermoen, Peter"]
+[Black "Kristiansen, Reidar"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "1996"]
+[PlyCount "79"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 a6 6. cxd5 Nxd5 7. Nxd5 exd5 8.
+e3 c6 9. Bd3 Bb4+ 10. Nd2 Qa5 11. a3 Bxd2+ 12. Qxd2 Qxd2+ 13. Kxd2 Be6 14. b4
+Nd7 15. Kc3 Nf6 16. f3 Nh5 17. Bg3 Nxg3 18. hxg3 g6 19. Rae1 O-O-O 20. Rh6 Rd7
+21. Reh1 f5 22. Rxg6 hxg6 23. Rxh8+ Kc7 24. f4 Rg7 25. Rh6 Kd6 26. Kd2 Ke7 27.
+Ke2 g5 28. fxg5 Rxg5 29. Kf3 Kf7 30. Rh7+ Rg7 31. Rxg7+ Kxg7 32. Kf4 Kf6 33. g4
+fxg4 34. Be2 Kg6 35. Bxg4 Bxg4 36. Kxg4 Kf6 37. Kf4 Ke6 38. e4 dxe4 39. Kxe4
+Kf6 40. d5 1-0
+
+[Event "Gausdal op-B"]
+[Site "Gausdal"]
+[Date "2008.04.10"]
+[Round "3"]
+[White "Henderikse, Bert"]
+[Black "Suntharalingam, Jathavan"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "2002"]
+[BlackElo "1888"]
+[PlyCount "46"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Qc2 Bg4 5. Ne5 Bh5 6. cxd5 Qxd5 7. e3 e6 8. Nc3
+Qd8 9. Qb3 Qc7 10. h3 Nbd7 11. g4 Bg6 12. Nxg6 hxg6 13. Bg2 e5 14. Bd2 Bd6 15.
+Rc1 a6 16. g5 exd4 17. exd4 Nh5 18. Ne4 Bf4 19. Be3 O-O 20. O-O Nb6 21. d5 Nxd5
+22. Nc5 Nxe3 23. fxe3 Bh2+ 0-1
+
+[Event "Gausdal op-B"]
+[Site "Gausdal"]
+[Date "2008.04.10"]
+[Round "3"]
+[White "Hobber, Anders"]
+[Black "Lund, Terje"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "1949"]
+[BlackElo "2068"]
+[PlyCount "35"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 c6 5. Bd3 Nbd7 6. c3 Be7 7. Nbd2 O-O 8. O-O
+Re8 9. Qc2 h6 10. Bh4 Qc7 11. Bg3 Bd6 12. Bxd6 Qxd6 13. e4 dxe4 14. Nxe4 Nxe4
+15. Bxe4 b6 16. Rfe1 Nf6 17. Ne5 Nxe4 18. Qxe4 1/2-1/2
+
+[Event "Gausdal op-B"]
+[Site "Gausdal"]
+[Date "2008.04.10"]
+[Round "3"]
+[White "Hoem, Tor Wetle"]
+[Black "Wibe, Per H"]
+[Result "1-0"]
+[ECO "D06"]
+[BlackElo "1791"]
+[PlyCount "93"]
+[EventDate "2008.04.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 d5 3. cxd5 Nxd5 4. e4 Nb6 5. Nf3 Bg4 6. Be2 e6 7. O-O Be7 8.
+Nc3 O-O 9. Bf4 c6 10. h3 Bh5 11. Rc1 f5 12. exf5 exf5 13. Qd2 h6 14. Rfd1 Bd6
+15. d5 c5 16. Bxd6 Qxd6 17. Nb5 Qd8 18. Rxc5 Na6 19. Rdc1 Qe8 20. Nc7 Nxc7 21.
+Rxc7 Bf7 22. Bc4 Rd8 23. Qc3 Nxc4 24. Qxc4 Rc8 25. Re1 Rxc7 26. Qxc7 Qc8 27.
+Qxc8 Rxc8 28. d6 Rd8 29. Re7 Bd5 30. Nd4 Rxd6 31. Nxf5 Rg6 32. g4 h5 33. Re5
+Bxa2 34. Ne7+ Kf7 35. Nxg6 Kxg6 36. Rxh5 Bc4 37. Re5 b5 38. f4 a5 39. Kf2 a4
+40. Ke3 Bf1 41. h4 b4 42. Ra5 a3 43. bxa3 b3 44. Kd2 Bh3 45. h5+ Kf7 46. g5 Bg4
+47. Kc3 1-0
+

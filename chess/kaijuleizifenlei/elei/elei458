@@ -1,0 +1,600 @@
+[Site "Voronezh"]
+[Date "2008.06.14"]
+[Round "3"]
+[White "Kurukin, Dmitry"]
+[Black "Gorshkov, Yuri"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2197"]
+[BlackElo "2393"]
+[PlyCount "82"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 fxe4 13. Ncxe4 Nf5 14. Bb2 Nxe4
+15. Nxe4 a5 16. b5 b6 17. g3 Bd7 18. Bg2 Rf7 19. h4 h6 20. Qd3 Qf8 21. Nd2 Re8
+22. Be4 Ree7 23. a4 Qd8 24. Rf1 Rf8 25. Bc3 Ref7 26. Kg2 Bc8 27. f3 h5 28. Rae1
+g5 29. hxg5 Qxg5 30. Bxf5 Bxf5 31. Ne4 Qg6 32. Qe2 Bh6 33. Bd2 Bxd2 34. Qxd2
+Rg7 35. Qf2 h4 36. Re3 Bxe4 37. Rxe4 Qxg3+ 38. Qxg3 Rxg3+ 39. Kh2 Rfxf3 40.
+Rxf3 Rxf3 41. Rxh4 Kg7 0-1
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.14"]
+[Round "3"]
+[White "Peschansky, Mikhail"]
+[Black "Chernov, Vladimir2"]
+[Result "1-0"]
+[ECO "E61"]
+[WhiteElo "2279"]
+[BlackElo "2105"]
+[PlyCount "63"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. d4 O-O 5. Bg2 d6 6. e3 c6 7. Nge2 Na6 8. O-O
+Nc7 9. h3 Bd7 10. Rb1 h5 11. b4 Qc8 12. Kh2 e5 13. a4 Ne6 14. f4 exd4 15. exd4
+Nc7 16. b5 d5 17. c5 Bf5 18. Rb3 Ne6 19. Be3 Re8 20. Bf2 Nf8 21. Ng1 Ne4 22.
+Nf3 Nxf2 23. Rxf2 Nh7 24. a5 Nf6 25. Ne5 Nd7 26. a6 Nxe5 27. axb7 Qxb7 28. bxc6
+Qxc6 29. Bxd5 Qd7 30. fxe5 Rab8 31. c6 Qc8 32. Nb5 1-0
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.14"]
+[Round "3"]
+[White "Sergienko, Sergey"]
+[Black "Yakovich, Yuri"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2446"]
+[BlackElo "2566"]
+[PlyCount "69"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
+cxd5 Nxd5 9. Bd2 Bxc3 10. bxc3 e5 11. Nb3 Nc6 12. O-O Bg4 13. h3 Bh5 14. Nc5 b6
+15. Ne4 Qc7 16. Bg5 Nde7 17. g4 Rfd8 18. Qa4 Bg6 19. Rad1 f6 20. Bc1 Rxd1 21.
+Rxd1 Rd8 22. Ba3 Rxd1+ 23. Qxd1 Bf7 24. Nd6 Qd7 25. Qb1 Bd5 26. Bf1 Be6 27. c4
+h5 28. f3 Nc8 29. Nxc8 Qxc8 30. c5 hxg4 31. hxg4 Nd4 32. cxb6 axb6 33. Qxb6
+Bxa2 34. Kf2 Qc2 35. Qb2 1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.14"]
+[Round "3"]
+[White "Shefer, Alexander"]
+[Black "Smirnov, Alexei2"]
+[Result "0-1"]
+[ECO "E99"]
+[WhiteElo "2105"]
+[BlackElo "2397"]
+[PlyCount "90"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. c5 g5 14. cxd6 cxd6 15. Nf2
+Ng6 16. Qc2 Rf7 17. Rfc1 Bd7 18. a4 h5 19. h3 Bf8 20. Nb5 Rc8 21. Qd1 a6 22.
+Na3 Rxc1 23. Rxc1 g4 24. hxg4 hxg4 25. fxg4 Nh7 26. Nc4 b5 27. Ba5 Qh4 28. Nb6
+f3 29. Bxf3 Ng5 30. Nxd7 Nxf3+ 31. gxf3 Qg3+ 32. Kf1 Rxf3 33. Qxf3 Qxf3 34. Rc8
+Qb3 35. Kg1 bxa4 36. Bd8 Kf7 37. Nf6 Qg3+ 38. Kf1 Nf4 39. Bb6 Bh6 40. Nh5 Qg2+
+41. Ke1 Qg1+ 42. Kd2 Nxd5+ 43. Ke2 Nxb6 44. Rc6 Qb1 45. Rxb6 a3 0-1
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.14"]
+[Round "3"]
+[White "Zubov, Oleksander"]
+[Black "Harutjunyan, Gevorg"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[WhiteElo "2568"]
+[BlackElo "2432"]
+[PlyCount "29"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. g3 b6 7. Bg2 Bb7 8. O-O
+c5 9. b3 Bd6 10. Bb2 cxd4 11. Bxd4 Qc7 12. Re1 Nc6 13. Bb2 Rfd8 14. Rc1 Ne5 15.
+b4 1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.15"]
+[Round "4"]
+[White "Batyrov, Sapar"]
+[Black "Kruchev, Boris"]
+[Result "0-1"]
+[ECO "E06"]
+[WhiteElo "2453"]
+[BlackElo "2263"]
+[PlyCount "61"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. g3 O-O 6. Bg2 dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qb3 Bb7 10. O-O c5 11. Rd1 c4 12. Qc2 Nbd7 13. Bf4 Rc8 14. Ne5 Bxg2 15.
+Kxg2 Nd5 16. Nxd5 exd5 17. Qf5 Nf6 18. h4 g6 19. Qh3 Re8 20. h5 Nxh5 21. Rh1
+Bf8 22. Be3 f5 23. g4 fxg4 24. Qxg4 Bg7 25. Nxg6 Nf6 26. Qf5 hxg6 27. Qxg6 Re4
+28. f3 Rxe3 29. Rh8+ Kxh8 30. Qf7 Rxe2+ 31. Kg3 0-1
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.15"]
+[Round "4"]
+[White "Gasanov, Eldar"]
+[Black "Provotorov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2531"]
+[BlackElo "2398"]
+[PlyCount "87"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Be7 6. Bg2 Bb7 7. O-O O-O 8. Bf4
+d6 9. Rd1 Nbd7 10. Nc3 a6 11. Qc2 c5 12. d5 e5 13. Bd2 b5 14. e4 bxc4 15. Na4
+Ne8 16. Qxc4 a5 17. a3 Nc7 18. b4 axb4 19. axb4 f5 20. bxc5 fxe4 21. cxd6 Bxd6
+22. Ng5 Bxd5 23. Qc2 Nf6 24. Nb6 Rxa1 25. Rxa1 Bf7 26. Be3 Bg6 27. Nxe4 Kh8 28.
+Nc4 Ncd5 29. Ncxd6 Nxe3 30. fxe3 Qxd6 31. Nxd6 Bxc2 32. Ra5 e4 33. h3 Rb8 34.
+Re5 Rb1+ 35. Kf2 Rb2 36. g4 h6 37. Kg3 Rb3 38. Kf4 Rd3 39. Bxe4 g5+ 40. Kf5
+Nxe4 41. Re8+ Kg7 42. Re7+ Kf8 43. Re8+ Kg7 44. Re7+ 1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.15"]
+[Round "4"]
+[White "Kairbekov, Ruslan"]
+[Black "Bocharov, Dmitry"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2342"]
+[BlackElo "2569"]
+[PlyCount "93"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 g6 6. d5 Bg7 7. e4 O-O 8. Be2 d6
+9. O-O Nbd7 10. Be3 Qe7 11. Nd4 Nc5 12. Qc2 e5 13. Nc6 Bxc6 14. dxc6 Ne6 15.
+Nd5 Qe8 16. b4 Kh8 17. b5 Ng8 18. Bg4 Qd8 19. a4 a5 20. Rad1 Bh6 21. Bxh6 Nxh6
+22. Bxe6 fxe6 23. Ne3 Qh4 24. f3 Ng8 25. c5 bxc5 26. Nc4 Ne7 27. Qc3 Qf6 28.
+Nxa5 Nc8 29. Ra1 Nb6 30. Nc4 Nxa4 31. Qb3 Nb6 32. Nxb6 cxb6 33. Ra6 Rab8 34.
+Rd1 d5 35. exd5 exd5 36. Rxd5 e4 37. Rd7 Rbd8 38. Raa7 Rxd7 39. Rxd7 c4 40.
+Qxc4 Qa1+ 41. Qf1 Qc3 42. Qd1 exf3 43. Qd4+ Qxd4+ 44. Rxd4 Kg7 45. Rd7+ Kf6 46.
+gxf3 Ke6 47. Rxh7 1-0
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.15"]
+[Round "4"]
+[White "Lutsko, Igor"]
+[Black "Korobkov, Piotr"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[WhiteElo "2405"]
+[BlackElo "2508"]
+[PlyCount "41"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. c4 b6 3. Nf3 Bb7 4. Nc3 Bb4 5. g3 Bxc3+ 6. bxc3 Nf6 7. Bg2 d6 8.
+O-O Nbd7 9. a4 a5 10. Bg5 Qe7 11. Qd3 h6 12. Bxf6 Nxf6 13. Nd2 Bxg2 14. Kxg2 e5
+15. e4 Nd7 16. Rfe1 h5 17. Nf1 h4 18. Ne3 g6 19. Nd5 Qd8 20. Qf3 c6 21. Ne3
+1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.15"]
+[Round "4"]
+[White "Napalkov, Vladimir"]
+[Black "Sanzhaev, Darsen"]
+[Result "1-0"]
+[ECO "E55"]
+[WhiteElo "2289"]
+[BlackElo "2079"]
+[PlyCount "75"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Nbd7 9. a3 cxd4 10. axb4 dxc3 11. bxc3 Qc7 12. Qb3 b6 13. Be2 Bb7 14. h3 Ne4
+15. c4 Ne5 16. Rd1 Ng6 17. Bb2 a5 18. Rab1 Rfb8 19. Ba1 Bc6 20. Nd4 Bb7 21. Qb2
+e5 22. Nb5 Qe7 23. Bf1 Bc6 24. bxa5 bxa5 25. Qc2 Ng5 26. Qf5 Nh4 27. Qg4 f5 28.
+Qg3 f4 29. exf4 exf4 30. Qxf4 Rf8 31. Qc7 Nxh3+ 32. gxh3 Qg5+ 33. Qg3 Nf3+ 34.
+Kh1 Nh4+ 35. Rd5 Bxd5+ 36. cxd5 Qxd5+ 37. Bg2 Nxg2 38. Qxg7# 1-0
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.15"]
+[Round "4"]
+[White "Vlasenko, Alexey"]
+[Black "Ulko, Jaroslav"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2311"]
+[BlackElo "2469"]
+[PlyCount "52"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. Nbd2 O-O 7. e4 d6 8.
+Bd3 e5 9. O-O Nbd7 10. a3 bxa3 11. Rxa3 Re8 12. d5 Qb6 13. Qb3 Qxb3 14. Nxb3 b6
+15. Nbd2 a5 16. Bc2 Nc5 17. Rfa1 Rb8 18. Ne1 Kf8 19. f3 Rd8 20. Ba4 Bd7 21.
+Bxd7 Nfxd7 22. Nc2 Na6 23. b4 Nxb4 24. Nxb4 axb4 25. Ra4 b3 26. Nxb3 Nc5
+1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.15"]
+[Round "4"]
+[White "Zhumabaev, Rinat"]
+[Black "Ovetchkin, Roman"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2442"]
+[BlackElo "2556"]
+[PlyCount "132"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 a5 5. g3 d5 6. Qc2 c5 7. Bxb4 axb4 8.
+dxc5 Qa5 9. Nbd2 Qxc5 10. Bg2 b5 11. Ne5 bxc4 12. Nexc4 Ba6 13. Qa4+ Nbd7 14.
+Ne5 Qb5 15. Qxb5 Bxb5 16. Ndf3 Nxe5 17. Nxe5 Ke7 18. Kd2 Ra7 19. a4 bxa3 20.
+Rxa3 Rb7 21. Rha1 Nd7 22. Nxd7 Bxd7 23. Rb1 Rhb8 24. b3 Rb4 25. e3 g5 26. Bf3
+d4 27. Bd1 dxe3+ 28. fxe3 f5 29. Ra7 R4b6 30. Rc1 Rd6+ 31. Ke1 Rb5 32. Rc3 Kf6
+33. Be2 Rbd5 34. b4 Rd2 35. Rb3 Rc2 36. Ra1 Rdd2 37. Bd3 Rxh2 38. Bxc2 Rh1+ 39.
+Kd2 Rxa1 40. b5 Ra8 41. Bd1 Rb8 42. Be2 Ke7 43. Kc3 h5 44. e4 fxe4 45. Kd4 Kd6
+46. Bxh5 Bc6 47. Be2 Bd5 48. Ra3 e5+ 49. Ke3 Rc8 50. Ra6+ Kc5 51. Bg4 Rd8 52.
+b6 Kb5 53. Ra3 Rf8 54. b7 Bxb7 55. Rb3+ Ka6 56. Be2+ Ka7 57. Rb5 Re8 58. Bd1
+Bc6 59. Rc5 Re6 60. Bc2 Kb6 61. Rc3 Rh6 62. Bxe4 Bd7 63. Rd3 Be6 64. Rd6+ Kc7
+65. Ra6 Kd7 66. Bf5 Ke7 1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.15"]
+[Round "4"]
+[White "Zubarev, Alexander2"]
+[Black "Fedorov, Alexei"]
+[Result "0-1"]
+[ECO "E84"]
+[WhiteElo "2510"]
+[BlackElo "2603"]
+[PlyCount "94"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Qd2
+Rb8 9. Rc1 Nd7 10. g4 Na5 11. b3 c5 12. h4 b5 13. cxb5 axb5 14. Bh6 e6 15. Bg5
+Qb6 16. Be3 Nc6 17. Rd1 Qa5 18. Kf2 b4 19. Na4 c4 20. h5 c3 21. Qc1 Ba6 22. Bh6
+Bh8 23. d5 Nce5 24. Bxf8 Rxf8 25. Nf4 Nc5 26. hxg6 fxg6 27. dxe6 Bxf1 28. e7
+Re8 29. Rhxf1 g5 30. Kg2 gxf4 31. Qxf4 Nxa4 32. Qg5+ Bg7 33. Rxd6 Nc6 34. Rd5
+Qc7 35. bxa4 Qxe7 36. Qe3 Ne5 37. a5 Qe6 38. Qb6 Qxb6 39. axb6 Nc4 40. Kf2 Nxb6
+41. Rb5 Bf8 42. e5 Nc4 43. f4 Ra8 44. e6 Rxa2+ 45. Kg3 Re2 46. Rg5+ Kh8 47. Rf5
+Be7 0-1
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.16"]
+[Round "5"]
+[White "Feoktistov, Alexey A"]
+[Black "Matinian, Nikita"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2423"]
+[BlackElo "2262"]
+[PlyCount "57"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 g6 2. d4 Nf6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Ne8 10. Re1 f5 11. Ng5 Nf6 12. f3 Nh5 13. g3 a5 14. Rb1 c6 15. a3
+axb4 16. Rxb4 Qa5 17. Kg2 h6 18. Qb3 hxg5 19. Ra4 Qxc3 20. Qxc3 Rxa4 21. Bxg5
+Nf6 22. Qb3 Ra7 23. c5 cxd5 24. exd5 Kf7 25. cxd6 Neg8 26. Rc1 Bd7 27. Rc7 Rfa8
+28. Qb4 Nxd5 29. Qh4 1-0
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.16"]
+[Round "5"]
+[White "Gladyszev, Oleg"]
+[Black "Petrushin, Alexander I"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "2497"]
+[BlackElo "2426"]
+[PlyCount "64"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Be3
+Ng4 9. Bg5 f6 10. Bh4 Nh6 11. d5 a5 12. Nd2 g5 13. Bg3 Nc5 14. f3 f5 15. Bf2 g4
+16. exf5 gxf3 17. Bxf3 Nxf5 18. Nde4 b6 19. Nxc5 bxc5 20. Be4 Qg5 21. Nb5 Rf7
+22. Qd3 Bh6 23. Rae1 Rb8 24. Re2 Nd4 25. Nxd4 cxd4 26. Be1 Bg4 27. Ref2 Qe3 28.
+Bd2 Qxd3 29. Bxd3 Rxf2 30. Rxf2 Be3 31. Bxe3 dxe3 32. Rc2 Bd1 0-1
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.16"]
+[Round "5"]
+[White "Lushenkov, Mikhail M"]
+[Black "Pavlovski, Yaroslav"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2434"]
+[BlackElo "2263"]
+[PlyCount "69"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 g6 2. e4 Bg7 3. d4 d6 4. Nc3 Nf6 5. Nf3 O-O 6. h3 Nbd7 7. g3 e5 8. Bg2
+exd4 9. Nxd4 Nb6 10. b3 a5 11. O-O a4 12. Be3 Nfd7 13. Rc1 axb3 14. axb3 c6 15.
+Qc2 Qe7 16. Ra1 Nc5 17. Kh2 Bd7 18. Rfe1 Rxa1 19. Rxa1 Ra8 20. Re1 Bc8 21. f4
+Nbd7 22. Bf2 Qf6 23. Rd1 h5 24. Nce2 Qe7 25. b4 Na6 26. Qb1 c5 27. Nb5 Nxb4 28.
+Nxd6 h4 29. gxh4 Qe6 30. Rd2 Ra1 31. Qb3 Ra8 32. h5 gxh5 33. Qg3 Kf8 34. Nf5
+Qg6 35. Bxc5+ 1-0
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.16"]
+[Round "5"]
+[White "Napalkov, Vladimir"]
+[Black "Alavkin, Arseny"]
+[Result "0-1"]
+[ECO "E55"]
+[WhiteElo "2289"]
+[BlackElo "2439"]
+[PlyCount "47"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 cxd4 7. exd4 dxc4 8.
+Bxc4 O-O 9. O-O b6 10. Bg5 Bb7 11. Qe2 Nbd7 12. Rfd1 Qc7 13. Bd3 h6 14. Bd2 Qd6
+15. Rac1 a6 16. Ne5 Rfc8 17. Bf4 b5 18. Bb1 Nb6 19. Rd3 Nbd5 20. Bd2 Rc7 21.
+Rg3 Kf8 22. h3 Rac8 23. Kh2 Ne7 24. Qd3 0-1
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.16"]
+[Round "5"]
+[White "Papin, Vasily"]
+[Black "Lutsko, Igor"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[WhiteElo "2483"]
+[BlackElo "2405"]
+[PlyCount "112"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Bf5 8. Re1
+Ne4 9. Qb3 Nxc3 10. bxc3 Bc8 11. e4 Nd7 12. Ba3 Re8 13. Rad1 Qc7 14. c5 Nf8 15.
+h3 dxc5 16. Bxc5 Be6 17. Qb2 Nd7 18. Ba3 Nb6 19. Ng5 Bc4 20. f4 f6 21. Nf3 Bf7
+22. Qc2 Nc4 23. Bc1 b5 24. Kh2 Rad8 25. e5 Bd5 26. f5 gxf5 27. Qxf5 e6 28. Qg4
+f5 29. Qh4 Qf7 30. Rf1 Qg6 31. Qf4 Nb6 32. a3 Rc8 33. Rf2 Qh5 34. Kg1 Rf8 35.
+Re1 h6 36. Nh4 a6 37. Bf3 Bxf3 38. Rxf3 Nd5 39. Qd2 c5 40. Qf2 cxd4 41. cxd4
+Rc4 42. Kh2 Nc3 43. g4 fxg4 44. Rxf8+ Bxf8 45. hxg4 Qf7 46. Qg3 Nd5 47. g5 Rc3
+48. Qg4 h5 49. Qe4 Qf2+ 50. Ng2 Qc2 51. Qh4 Qg6 52. Rf1 Be7 53. Qf2 Rc2 54. Qf3
+Rc3 55. Qf2 Rc2 56. Qf3 Rc3 1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.16"]
+[Round "5"]
+[White "Sanzhaev, Darsen"]
+[Black "Shishkin, Aleksey A"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[WhiteElo "2079"]
+[BlackElo "2223"]
+[PlyCount "106"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 b6 7. a3 Be7 8. d5
+exd5 9. cxd5 d6 10. Nd4 O-O 11. Be2 Bb7 12. Bf3 Nbd7 13. O-O Ne5 14. Bf4 Nxf3+
+15. Qxf3 Qd7 16. Rfe1 Rfe8 17. Rad1 Rac8 18. Bg3 g6 19. h3 Nh5 20. Bh2 a6 21.
+Nb3 Ng7 22. Ne4 f5 23. Nc3 Bf6 24. Re3 Rxe3 25. Qxe3 Qc7 26. Nd4 Qc5 27. Nde2
+Qxe3 28. fxe3 Rd8 29. Nd4 Be5 30. Nc6 Bxh2+ 31. Kxh2 Re8 32. Rd3 Nh5 33. b4 b5
+34. g4 fxg4 35. hxg4 Nf6 36. Kg3 Kg7 37. Kf4 Rc8 38. g5 Nxd5+ 39. Nxd5 Rxc6 40.
+Nf6 Kf7 41. Nxh7 Ke6 42. Nf8+ Kf7 43. Nh7 Ke7 44. e4 Rc1 45. Nf6 Rf1+ 46. Ke3
+Rc1 47. Kf4 Rc4 48. Ke3 Ke6 49. Kf3 Bc6 50. Ke3 Rc1 51. Kf4 Rf1+ 52. Ke3 Rh1
+53. Kf4 Rf1+ 1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.16"]
+[Round "5"]
+[White "Shaposhnikov, Evgeny"]
+[Black "Harutjunyan, Gevorg"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[WhiteElo "2553"]
+[BlackElo "2432"]
+[PlyCount "65"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. g3 b6 7. Bg2 Bb7 8. O-O
+c5 9. e3 a6 10. b3 d6 11. Bb2 Nbd7 12. Qe2 Qc7 13. e4 cxd4 14. Bxd4 Ng4 15. b4
+Rac8 16. Rfc1 Rfd8 17. h3 Ngf6 18. Qe3 Ne8 19. Nb3 Bf6 20. a4 a5 21. bxa5 bxa5
+22. Bxf6 Nexf6 23. Nfd4 Nc5 24. Nb5 Qe7 25. Nxc5 Rxc5 26. Rd1 h5 27. Rac1 Ne8
+28. Qd2 h4 29. g4 Rdc8 30. Qxa5 f5 31. exf5 Bxg2 32. Kxg2 exf5 33. Qe1 1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.16"]
+[Round "5"]
+[White "Shefer, Alexander"]
+[Black "Kovalev, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "E99"]
+[WhiteElo "2105"]
+[BlackElo "2306"]
+[PlyCount "82"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. c5 g5 14. cxd6 cxd6 15. Nf2
+Ng6 16. Qc2 Rf7 17. Rfc1 a6 18. a4 h5 19. h3 g4 20. hxg4 hxg4 21. fxg4 Bf8 22.
+a5 Rh7 23. Qd1 Nd7 24. Na4 Be7 25. Ra3 Bh4 26. Nh3 b5 27. axb6 Nf6 28. Ba5 Qf8
+29. Rc7 Bg3 30. Rxh7 Nxh7 31. Rc3 Qh6 32. Rc7 Ng5 33. Qf1 Rb8 34. Be1 Bxe1 35.
+Qxe1 f3 36. Nxg5 fxe2 37. Ne6 Qe3+ 38. Kh2 Bxe6 39. dxe6 Rf8 40. Rf7 Qh6+ 41.
+Kg1 Qe3+ 1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.16"]
+[Round "5"]
+[White "Weetik, Vjacheslav"]
+[Black "Korotylev, Alexey"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2407"]
+[BlackElo "2606"]
+[PlyCount "71"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. O-O Nc6 8. dxe5
+dxe5 9. Bg5 Qxd1 10. Rfxd1 h6 11. Be3 Kh7 12. h3 Be6 13. b4 a6 14. a3 Rfd8 15.
+Rac1 Ne8 16. Nd5 Rd7 17. g4 Rad8 18. Bc5 f5 19. exf5 gxf5 20. gxf5 Bxf5 21. Nh4
+Bxh3 22. Kh2 Be6 23. Bd3+ Kg8 24. Rg1 b6 25. Be3 Ne7 26. Bxh6 Nxd5 27. cxd5
+Bxd5 28. Nf5 Kh8 29. Nxg7 Nxg7 30. Bxg7+ Rxg7 31. Rxg7 Kxg7 32. Rxc7+ Kf6 33.
+Bxa6 Rh8+ 34. Kg3 Ra8 35. b5 Rg8+ 36. Kh3 1/2-1/2
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.18"]
+[Round "6"]
+[White "Batyrov, Sapar"]
+[Black "Shishkin, Aleksey A"]
+[Result "1-0"]
+[ECO "E18"]
+[WhiteElo "2453"]
+[BlackElo "2223"]
+[PlyCount "131"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bf4
+Nxc3 9. bxc3 f5 10. a4 a5 11. d5 g5 12. Bc1 exd5 13. Nxg5 Bxg5 14. Bxd5+ Kh8
+15. Bxb7 Ra7 16. Bxg5 Qxg5 17. Bg2 Qf6 18. Qd4 Kg7 19. c5 Qxd4 20. cxd4 bxc5
+21. dxc5 Re8 22. e3 Re5 23. Rab1 Na6 24. c6 d6 25. Rb7 Ra8 26. Rd1 Kf6 27. Bf1
+Re7 28. Bxa6 Rxa6 29. Rc1 Ke5 30. Rb5+ Ke6 31. Kg2 Kf6 32. Kf3 h6 33. Rc4 Re5
+34. Rb7 Re4 35. Rc2 Re7 36. Ke2 Ke6 37. Rb8 Kf6 38. Kd3 Kg6 39. Rb5 Kf6 40. Rc4
+Kg6 41. h4 Kf6 42. Rf4 Re5 43. g4 Rxc6 44. Rxf5+ Ke6 45. Rxa5 Rxf5 46. Rxf5 Ra6
+47. Rh5 Rxa4 48. Rxh6+ Kd5 49. Rh5+ Ke6 50. f4 c5 51. Rh8 d5 52. h5 Ra2 53. h6
+Kf7 54. Rc8 c4+ 55. Kd4 Rd2+ 56. Ke5 Kg6 57. Rc6+ Kh7 58. g5 Rd3 59. Rc7+ Kg8
+60. g6 Rxe3+ 61. Kf6 Re8 62. Rg7+ Kh8 63. Rf7 Rc8 64. g7+ Kh7 65. Rf8 Rc6+ 66.
+Kf5 1-0
+
+[Event "Voronezh op-A"]
+[Site "Voronezh"]
+[Date "2008.06.18"]
+[Round "6"]
+[White "Chuprikov, Dmitry"]
+[Black "Shaposhnikov, Evgeny"]
+[Result "0-1"]
+[ECO "E41"]
+[WhiteElo "2461"]
+[BlackElo "2553"]
+[PlyCount "66"]
+[EventDate "2008.06.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]

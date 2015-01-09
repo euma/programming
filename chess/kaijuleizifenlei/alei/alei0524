@@ -1,0 +1,600 @@
+
+[Event "Schleswig Holstein-ch U18 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.29"]
+[Round "8"]
+[White "Hasbach, Jonas"]
+[Black "Grossmann, Johannes"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "1473"]
+[BlackElo "1245"]
+[PlyCount "50"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 f5 4. f3 exf3 5. Nxf3 Nf6 6. Bd3 Nc6 7. Be3 e6 8.
+O-O Be7 9. Ne2 Nd5 10. Bd2 O-O 11. Qe1 Bf6 12. c3 Qe7 13. Qd1 Bd7 14. Qc2 a6
+15. Rae1 b5 16. Ng3 Qf7 17. a3 Rfe8 18. Bg5 Bxg5 19. Nxg5 Qf6 20. Nf3 Na5 21.
+Ne5 Rad8 22. Nxd7 Rxd7 23. Bxf5 Qh6 24. Qf2 Rde7 25. Bxe6+ Rxe6 1-0
+
+[Event "Schleswig Holstein-ch U18 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Ohlsen, Merle"]
+[Black "Grossmann, Johannes"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "836"]
+[BlackElo "1245"]
+[PlyCount "63"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Bf5 4. d3 e6 5. Bg5 f6 6. Be3 Nc6 7. d4 Bxe4 8.
+Bb5 a6 9. Ba4 Bd6 10. Ne2 Nge7 11. Nc3 Bg6 12. O-O O-O 13. Ne2 e5 14. Bb3+ Bf7
+15. Ng3 Bxb3 16. axb3 exd4 17. Bd2 Ng6 18. Ne4 Re8 19. Ng3 Be5 20. c3 Qd5 21.
+c4 Qd7 22. Ne4 Bd6 23. Re1 Nb4 24. Bh6 Rf8 25. Bd2 Nd3 26. Re2 Nc5 27. Ba5 Nxe4
+28. Rxe4 Be5 29. Qd3 Nf4 30. Qd2 b6 31. Bb4 c5 32. Ba3 {..} 0-1
+
+[Event "Balagna-ch"]
+[Site "Balagne"]
+[Date "2008.03.27"]
+[Round "5"]
+[White "Humeau, Cyril"]
+[Black "Degoirat, Julien"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2159"]
+[BlackElo "2141"]
+[PlyCount "91"]
+[EventDate "2008.03.25"]
+[EventType "match (rapid)"]
+[EventRounds "10"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Bd3 d6 5. O-O O-O 6. b3 c5 7. Bb2 Nc6 8. Nbd2
+e5 9. dxe5 Ng4 10. a3 Ngxe5 11. Nxe5 Nxe5 12. Qe2 Bg4 13. f3 Nxd3 14. Bxg7 Kxg7
+15. Qxd3 Be6 16. Ne4 Bf5 17. g4 Bxe4 18. Qxe4 Qh4 19. Qd5 Rfe8 20. e4 Rad8 21.
+c4 Re5 22. Qd3 h5 23. gxh5 Rxh5 24. Rf2 Rg5+ 25. Rg2 Rh8 26. Qc3+ Kg8 27. Rxg5
+Qxg5+ 28. Kh1 Qf4 29. Ra2 Rh4 30. Rf2 Rh3 31. Qd3 Kg7 32. a4 a5 33. Qc3+ Kg8
+34. Qxa5 Rxf3 35. Qd8+ Kg7 36. Rxf3 Qxf3+ 37. Kg1 Qe3+ 38. Kf1 Qf3+ 39. Kg1
+Qe3+ 40. Kf1 Qd3+ 41. Kg1 Qd4+ 42. Kf1 Qd3+ 43. Kg1 Qd1+ 44. Kg2 Qe2+ 45. Kg1
+Qe3+ 46. Kf1 1/2-1/2
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Antonic, Dusan"]
+[Black "Stevanovic, Nenad"]
+[Result "1-0"]
+[ECO "A52"]
+[WhiteElo "1978"]
+[PlyCount "81"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. a3 a5 7. Nf3 Bc5 8. Nc3
+d6 9. h3 Nd7 10. g4 b6 11. Bg2 Bb7 12. Rb1 b5 13. cxb5 Ne7 14. b4 axb4 15. axb4
+Bb6 16. f5 f6 17. Nd4 Bxd4 18. Qxd4 Ne5 19. O-O h5 20. g5 h4 21. g6 Qd7 22. Be3
+c6 23. b6 d5 24. Ra1 Ra6 25. Rxa6 Bxa6 26. Ra1 Bb7 27. Ra7 Nc8 28. Ra5 dxe4 29.
+Bxe4 Nd6 30. Ra7 O-O 31. Qd1 Nxf5 32. Qxd7 Nxd7 33. Bxf5 Nxb6 34. Bxb6 Bc8 35.
+Be4 Bxh3 36. Bxc6 Bf5 37. Bd5+ Kh8 38. Bf7 Rc8 39. Nd5 Rc1+ 40. Kf2 Rc2+ 41.
+Kf3 1-0
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Arsenovic, Milos"]
+[Black "Carnic, Dejan"]
+[Result "0-1"]
+[ECO "A41"]
+[BlackElo "2162"]
+[PlyCount "148"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d6 2. c4 e5 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Nc3 c6 6. Nf3 f6 7. e4 Na6 8.
+Be3 Nc5 9. O-O-O+ Kc7 10. Be2 a5 11. Rd2 a4 12. Bd1 Be6 13. Bxc5 Bxc5 14. Bxa4
+Nh6 15. Bb3 Nf7 16. Rhd1 Rhd8 17. Rxd8 Nxd8 18. Rd2 Nf7 19. Ne1 Bd4 20. Nc2
+Bxc3 21. bxc3 Ra5 22. Ne3 Rc5 23. Kc2 Nd6 24. Kd3 h5 25. h4 g6 26. Rd1 f5 27.
+exf5 gxf5 28. g3 Ne4 29. Rf1 b6 30. Bd1 Ra5 31. Bb3 Ra8 32. Nd1 Rd8+ 33. Ke3
+Nd2 34. Re1 Bxc4 35. Bc2 Nf1+ 36. Kf3 Bd5+ 37. Ke2 Nh2 38. Nb2 f4 39. gxf4 exf4
+40. Nd3 Nf3 41. Rb1 Re8+ 42. Kd1 Bc4 43. Kc1 Bxd3 44. Bxd3 Re1+ 45. Kb2 Rxb1+
+46. Bxb1 Nxh4 47. Be4 Kd6 48. Kc2 c5 49. Kd3 Ke5 50. Bc6 Nf5 51. Ke2 Ne7 52.
+Be8 h4 53. Kf3 Nd5 54. c4 Nf6 55. Bc6 Kf5 56. Bb7 Kg5 57. Bc8 Ne8 58. Bd7 Nd6
+59. Be6 Nf5 60. Bd5 h3 61. Ke2 h2 62. Bh1 Nd4+ 63. Kd3 Kf5 64. Be4+ Ke5 65. Bh1
+Ne6 66. Bf3 Ng5 67. Bh1 Nh3 68. Ke2 Kd4 69. Kf3 Kxc4 70. Kg2 Ng5 71. Kxh2 Kd4
+72. Kg1 f3 73. Kf1 Kd3 74. Ke1 Kc2 0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Hlebec, Darko"]
+[Black "Nenezic, Zoran"]
+[Result "0-1"]
+[ECO "A43"]
+[BlackElo "1946"]
+[PlyCount "90"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 Nc6 4. e3 g6 5. b3 Bg7 6. Bb2 Nf6 7. Be2 O-O 8.
+O-O d5 9. Nd2 Re8 10. N2f3 Ne4 11. Nxc6 bxc6 12. Bxg7 Kxg7 13. Qd4+ f6 14. Rfd1
+e5 15. Qb2 Qb6 16. Rac1 a5 17. c4 Be6 18. cxd5 cxd5 19. Rc2 Rac8 20. Rdc1 Rc5
+21. Nd2 Rxc2 22. Rxc2 Nxd2 23. Rxd2 Rd8 24. Rc2 Bf5 25. Rc1 d4 26. exd4 exd4
+27. Qa3 Rd7 28. Rc8 Qb4 29. Qxb4 axb4 30. Rc4 d3 31. Bxd3 Rxd3 32. Kf1 Rd2 33.
+Ke1 Rxa2 34. Rxb4 Bd3 35. Rb7+ Kh6 36. Re7 Rb2 37. Re3 Rxb3 38. Kd2 Bc4 39.
+Rxb3 Bxb3 40. Ke3 f5 41. Kf4 Kg7 42. Ke5 Kf7 43. g3 Bc2 44. f3 Bd1 45. Kf4 Kf6
+0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Ilic, Ljubisa"]
+[Black "Brankov, Kristina"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2310"]
+[BlackElo "1875"]
+[PlyCount "37"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. g3 e6 3. d3 f5 4. Nbd2 Nf6 5. Bg2 Bd6 6. c4 c6 7. O-O O-O 8. a3 a5
+9. Rb1 a4 10. b4 axb3 11. Qxb3 Nbd7 12. Bb2 Nc5 13. Qc2 Na4 14. Ra1 Nxb2 15.
+Qxb2 Qe7 16. a4 e5 17. cxd5 cxd5 18. Qb3 Kh8 19. Qc2 1/2-1/2
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Krgovic, Veselin"]
+[Black "Vucinic, Gojko"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2234"]
+[BlackElo "1850"]
+[PlyCount "50"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nc3 c5 3. Bg5 e6 4. d5 d6 5. e4 Be7 6. Bb5+ Bd7 7. dxe6 fxe6 8. a4
+Bxb5 9. axb5 O-O 10. Nf3 Nbd7 11. O-O Ng4 12. Bxe7 Qxe7 13. h3 Nge5 14. Nxe5
+Nxe5 15. f4 Nc4 16. Qe2 Nb6 17. Kh2 Qd7 18. Rad1 Rad8 19. e5 d5 20. Ne4 Qe7 21.
+Nd6 Nc8 22. Nxc8 Rxc8 23. c4 dxc4 24. Qxc4 Rfd8 25. b3 g6 1/2-1/2
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Masovic, Bogosav"]
+[Black "Jovicic, Radosav"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "1852"]
+[BlackElo "2288"]
+[PlyCount "81"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. e3 Bg7 5. g3 O-O 6. Bg2 f5 7. h4 h6 8. Nf3
+d6 9. c3 Nd7 10. Nbd2 Nf6 11. O-O Bd7 12. Re1 Re8 13. Rc1 Rb8 14. c4 c5 15. Nb3
+Qb6 16. Qd2 Qc7 17. Qc2 Ba4 18. Nfd2 Ng4 19. Qb1 Qb6 20. Qd3 Re7 21. Red1 Rbe8
+22. h5 cxd4 23. exd4 Re2 24. Rf1 Bxb3 25. Nxb3 Rxb2 26. hxg6 fxg6 27. Bf3 h5
+28. c5 dxc5 29. dxc5 Qf6 30. Rc2 Rxc2 31. Qxc2 Re7 32. Qd2 Kh7 33. Re1 Ne5 34.
+Bg2 h4 35. Qc3 Nf3+ 36. Qxf3 Rxe1+ 37. Kh2 hxg3+ 38. Qxg3 Qe7 39. Qf3 Be5+ 40.
+Kh3 Re4 41. Bh1 0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Micic, Nenad"]
+[Black "Lukovic, Vladimir"]
+[Result "1-0"]
+[ECO "A15"]
+[WhiteElo "2247"]
+[BlackElo "1943"]
+[PlyCount "61"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. e3 g6 3. Nf3 Bg7 4. Be2 d6 5. Nc3 O-O 6. O-O e5 7. Qc2 Nc6 8. d4
+Nd7 9. dxe5 Ndxe5 10. Nxe5 Nxe5 11. b3 Re8 12. Bb2 b6 13. Rad1 Bb7 14. Nd5 f6
+15. Qe4 c6 16. Nc3 Qc7 17. Qc2 Rad8 18. Ba1 Re7 19. Rd2 a6 20. Rfd1 f5 21. Bf1
+b5 22. cxb5 axb5 23. Rc1 Qb6 24. Rcd1 d5 25. Ne2 b4 26. Bd4 c5 27. Qxc5 Qe6 28.
+Qxb4 g5 29. Qb6 Qf7 30. Qxd8+ Re8 31. Qxg5 1-0
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Milijanovic, Goran"]
+[Black "Simic, Stefan"]
+[Result "1-0"]
+[ECO "A23"]
+[WhiteElo "2166"]
+[BlackElo "1796"]
+[PlyCount "89"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bc5 4. Bg2 c6 5. Nf3 e4 6. Ng5 d5 7. d4 exd3 8. Qxd3
+O-O 9. cxd5 Re8 10. O-O h6 11. Nge4 Nxe4 12. Nxe4 Bf8 13. dxc6 Nxc6 14. Qxd8
+Rxd8 15. Be3 Nb4 16. Rad1 Be6 17. a3 Nc6 18. b4 Bc4 19. Nc3 a6 20. Bb6 Rd6 21.
+Rxd6 Bxd6 22. Rc1 Be5 23. e3 Rc8 24. Bh3 Be6 25. Bxe6 fxe6 26. Na4 Bc7 27. Bxc7
+Rxc7 28. Nb6 Rf7 29. f4 e5 30. Rc5 exf4 31. gxf4 Rf6 32. Nd5 Rf8 33. Kg2 Re8
+34. Kf3 Ne7 35. Nxe7+ Rxe7 36. a4 Kf7 37. b5 axb5 38. axb5 Ke8 39. e4 Kd7 40.
+h4 Re6 41. Rd5+ Kc7 42. e5 b6 43. Kg4 g6 44. h5 gxh5+ 45. Kxh5 1-0
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Pantic, Milivoje"]
+[Black "Vujosevic, Dimitrije"]
+[Result "0-1"]
+[ECO "A50"]
+[WhiteElo "2172"]
+[BlackElo "1996"]
+[PlyCount "74"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d6 4. d4 b6 5. Bd2 Bb7 6. d5 Nbd7 7. Be3 e5 8. b4 c6
+9. Rc1 Be7 10. a4 Rc8 11. g3 cxd5 12. cxd5 O-O 13. Nh3 Rxc3 14. Rxc3 Nxe4 15.
+Rc1 Nef6 16. Bc4 Qa8 17. Bg5 h6 18. Bh4 Rc8 19. O-O g5 20. Nxg5 hxg5 21. Bxg5
+Bf8 22. h4 Bg7 23. h5 Re8 24. h6 Bf8 25. Kg2 Nxd5 26. Bxd5 Bxd5+ 27. f3 Re6 28.
+Qd2 Rg6 29. Rc7 Be6 30. Rfc1 Nf6 31. h7+ Nxh7 32. Be7 Bh6 33. Qxd6 Bxc1 34.
+Qxe5 Bg5 35. Bd6 Bf6 36. Qe3 Qd5 37. Rxa7 Qxd6 0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Pucarevic, Milenko"]
+[Black "Karadarevic, Slobodan"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2227"]
+[BlackElo "1831"]
+[PlyCount "154"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 e6 2. Nf3 d5 3. g3 c6 4. Bg2 Nf6 5. O-O Nbd7 6. b3 Be7 7. Bb2 O-O 8. d3
+Ne8 9. Qc2 Bf6 10. d4 Nd6 11. Nbd2 g6 12. Ba3 Be7 13. Rfe1 f5 14. cxd5 exd5 15.
+e3 Nf6 16. Ne5 Nde4 17. Bxe7 Qxe7 18. f3 Nxd2 19. Qxd2 Nd7 20. Nd3 Nf6 21. Rac1
+Bd7 22. b4 a6 23. a4 Ne8 24. Ne5 Nd6 25. Qc3 Be6 26. Qc5 Rae8 27. Bf1 Nf7 28.
+Qxe7 Rxe7 29. Nd3 Nd6 30. Ne5 Bd7 31. Bd3 Nf7 32. f4 Nxe5 33. fxe5 Ra8 34. Re2
+Be8 35. Rb2 b5 36. Rc5 Rb7 37. Ra2 Rab8 38. axb5 axb5 39. Rc1 Kf8 40. h4 h5 41.
+Kf2 Ke7 42. Kf3 Bd7 43. Kf4 Kf7 44. Ra6 Rc8 45. Rca1 Ke6 46. Kg5 Ke7 47. Ra8
+Rxa8 48. Rxa8 Be8 49. Ra6 Kf7 50. Ra8 Re7 51. g4 hxg4 52. h5 gxh5 53. Bxf5 Kg7
+54. e6 g3 55. Ra2 Kf8 56. Kh4 Rg7 57. Rg2 Bg6 58. Bxg6 Rxg6 59. Kxh5 Rxe6 60.
+Rxg3 Kf7 61. Rf3+ Ke7 62. Kg5 Re4 63. Rh3 Kd6 64. Kf5 Re8 65. Rh6+ Kd7 66. Rh7+
+Kd6 67. Rh6+ Kd7 68. Kf4 Re7 69. Rf6 Rh7 70. Rg6 Re7 71. Kf3 Rf7+ 72. Ke2 Re7
+73. Rg4 Kc7 74. Kd3 Kd6 75. Rg6+ Kd7 76. Rf6 Kc7 77. Ke2 Kd7 1/2-1/2
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Tausanov, Mihail"]
+[Black "Starcevic, Goran"]
+[Result "0-1"]
+[ECO "A17"]
+[WhiteElo "1850"]
+[BlackElo "2236"]
+[PlyCount "52"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. g3 d4 5. Nb5 Nc6 6. Bg2 a6 7. Na3 e5 8. d3
+Bb4+ 9. Bd2 Bc5 10. b4 Nxb4 11. Nxe5 Qe7 12. Qa4+ Nd7 13. O-O O-O 14. Nxd7 Bxd7
+15. Qb3 Ra7 16. Rfe1 b5 17. Rab1 Nxa2 18. Nc2 Nc3 19. Bxc3 bxc4 20. Qxc4 Be6
+21. Qa4 dxc3 22. Nd4 Qf6 23. Nc6 Bxf2+ 24. Kh1 Bxe1 25. Rxe1 Bd7 26. Rf1 Bxc6
+0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.25"]
+[Round "1"]
+[White "Zugic, Milan"]
+[Black "Novkovic, Marko"]
+[Result "0-1"]
+[ECO "A12"]
+[BlackElo "1936"]
+[PlyCount "96"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. g3 h6 3. Bg2 Bf5 4. O-O Nf6 5. d3 Bh7 6. Nbd2 e6 7. c4 c6 8. b3
+Be7 9. Bb2 O-O 10. Ne5 Nbd7 11. e4 Nxe5 12. Bxe5 d4 13. Bxf6 Bxf6 14. f4 e5 15.
+Qg4 Kh8 16. Nf3 Qc7 17. Rf2 Bg6 18. Nh4 Bxh4 19. Qxh4 f6 20. Raf1 a5 21. Bh3 b5
+22. Be6 Rae8 23. Qg4 Bf7 24. Bxf7 Rxf7 25. Rc1 b4 26. Rcf1 a4 27. bxa4 f5 28.
+exf5 e4 29. dxe4 Rxe4 30. Re2 Rxe2 31. Qxe2 Re7 32. Qd2 Qa7 33. Kh1 c5 34. Re1
+Rxe1+ 35. Qxe1 Qxa4 36. Qe2 Kh7 37. f6 Qc6+ 38. Kg1 Qxf6 39. Qc2+ Qg6 40. f5
+Qf6 41. g4 g6 42. fxg6+ Qxg6 43. Qd1 Qe4 44. h3 d3 45. Qf1 Qd4+ 46. Kg2 Kg7 47.
+Qf3 Qxc4 48. Qf2 Qc2 0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.26"]
+[Round "2"]
+[White "Dimitrijevic, Miroljub"]
+[Black "Milijanovic, Goran"]
+[Result "0-1"]
+[ECO "A54"]
+[WhiteElo "2010"]
+[BlackElo "2166"]
+[PlyCount "76"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. Nf3 e5 5. Bg5 Be7 6. e3 c6 7. Be2 O-O 8. O-O
+Re8 9. Qc2 Qc7 10. b4 Nf8 11. Rac1 Ng6 12. Rfe1 Bd7 13. Bf1 h6 14. Bxf6 Bxf6
+15. d5 Rec8 16. Bd3 Nf8 17. Bf5 g6 18. Bxd7 Nxd7 19. Nd2 a6 20. Red1 c5 21. b5
+a5 22. a4 Bg7 23. e4 Nb6 24. Qd3 Rf8 25. Qh3 Qc8 26. Qxc8 Raxc8 27. Ra1 h5 28.
+Ncb1 Bh6 29. f3 f5 30. Ra3 Rcd8 31. exf5 gxf5 32. g3 Kf7 33. Kf2 Ke7 34. Re1
+Kd7 35. Ra1 Rde8 36. Ra2 e4 37. f4 h4 38. Rc1 e3+ 0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.26"]
+[Round "2"]
+[White "Djurovic, Dejan"]
+[Black "Mesterovic, Ljubisa J"]
+[Result "0-1"]
+[ECO "A02"]
+[WhiteElo "2305"]
+[BlackElo "1796"]
+[PlyCount "66"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. f4 e5 2. fxe5 d6 3. Nf3 dxe5 4. d3 Bc5 5. Nc3 Bg4 6. Na4 Bd6 7. Nc3 Nc6 8.
+Be3 Nge7 9. Bg5 f6 10. Bh4 Nf5 11. Bf2 a6 12. e4 Nfd4 13. Be2 Nxe2 14. Qxe2 Bb4
+15. O-O Nd4 16. Bxd4 Bxf3 17. Qxf3 Qxd4+ 18. Qf2 Bxc3 19. bxc3 Qxc3 20. Rab1 b6
+21. Rb3 Qc6 22. Qe2 O-O 23. g4 a5 24. h3 Rad8 25. c4 Qc5+ 26. Qf2 Rd4 27. Rb5
+Qa3 28. Rd5 Rxd5 29. cxd5 Qxd3 30. Qg2 Rc8 31. Re1 c6 32. Qf2 cxd5 33. exd5 Rc2
+0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.26"]
+[Round "2"]
+[White "Dzunic, Vladimir"]
+[Black "Mrsa, Ferdinand"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2049"]
+[BlackElo "2220"]
+[PlyCount "2"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 h5 1/2-1/2
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.26"]
+[Round "2"]
+[White "Maljevic, Dragoljub"]
+[Black "Tomin, Ksenija"]
+[Result "0-1"]
+[ECO "A16"]
+[BlackElo "1756"]
+[PlyCount "58"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 g6 3. d3 Bg7 4. e4 d6 5. h3 Nc6 6. a3 O-O 7. f4 e5 8. Nf3 Nh5
+9. fxe5 Nxe5 10. Be3 Ng3 11. Rg1 f5 12. Qd2 Nxf1 13. Rxf1 f4 14. Bf2 c6 15. Bh4
+Nxf3+ 16. Rxf3 Qxh4+ 17. Kd1 Bd4 18. Kc2 Bd7 19. Raf1 Be3 20. Qd1 Qg5 21. Qe2
+Qe5 22. g4 g5 23. Qg2 b5 24. cxb5 cxb5 25. h4 a5 26. hxg5 Qxg5 27. Nd5 Qxg4 28.
+Nxe3 Rac8+ 29. Kd1 fxe3 0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.26"]
+[Round "2"]
+[White "Nenezic, Zoran"]
+[Black "Petrovic, Petar"]
+[Result "0-1"]
+[ECO "A34"]
+[WhiteElo "1946"]
+[BlackElo "2110"]
+[PlyCount "70"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 c5 2. Nc3 Nf6 3. Nf3 d5 4. cxd5 Nxd5 5. g3 Nc6 6. Nxd5 Qxd5 7. Bg2 e5 8.
+d3 Be7 9. O-O Qd8 10. b3 O-O 11. Bb2 f6 12. Rc1 Bg4 13. h3 Be6 14. Ba3 Qa5 15.
+Bb2 Qxa2 16. Qd2 Qxb3 17. Rb1 Qa4 18. Ra1 Qb4 19. Bc3 Qb6 20. Nh4 Qc7 21. e4
+Rfd8 22. Rfd1 Qd7 23. g4 g6 24. Qb2 Rab8 25. f4 exf4 26. Nf3 Nd4 27. Rxa7 Nb5
+28. Raa1 Nxc3 29. Qxc3 b5 30. d4 b4 31. Qc1 b3 32. Qxf4 b2 33. Rab1 cxd4 34.
+Kh1 d3 35. Bf1 Rb3 0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.26"]
+[Round "2"]
+[White "Nikolovska, Dragana"]
+[Black "Tausanov, Mihail"]
+[Result "0-1"]
+[ECO "A90"]
+[BlackElo "1850"]
+[PlyCount "68"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 f5 2. Nc3 Nf6 3. Nf3 e6 4. g3 c6 5. Bg2 d5 6. cxd5 exd5 7. O-O Bd6 8. d4
+O-O 9. Bg5 Qe8 10. Qd2 Nbd7 11. Nh4 Ne4 12. Nxe4 fxe4 13. f3 exf3 14. Rxf3 Rxf3
+15. Bxf3 Nf8 16. Rf1 Be7 17. Bg2 Bg4 18. Bxe7 Qxe7 19. Bf3 Bd7 20. Qf4 g5 21.
+Qc7 gxh4 22. Qxb7 Re8 23. Qxa7 Qg5 24. Kg2 Re7 25. Qb8 Rf7 26. a4 h3+ 27. Kh1
+Rxf3 28. exf3 Qd2 29. Rg1 Qd3 30. Qf4 Ng6 31. Qf6 Bg4 32. Qd8+ Kg7 33. Qc7+ Kh6
+34. Qf7 Bxf3+ 0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.26"]
+[Round "2"]
+[White "Pantovic, Dragan M"]
+[Black "Adamovic, Strahinja"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2171"]
+[BlackElo "2006"]
+[PlyCount "60"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 g6 3. b4 Bg7 4. Bb2 O-O 5. g3 d6 6. Bg2 e5 7. d3 Nbd7 8. Nbd2
+Nh5 9. Qb3 Kh8 10. O-O f5 11. c5 Qe7 12. cxd6 cxd6 13. Nc4 Ndf6 14. b5 Be6 15.
+Qb4 Bxc4 16. Qxc4 e4 17. Ng5 d5 18. Qb3 Ng4 19. Bxg7+ Nxg7 20. Nh3 Qe5 21. e3
+Ne6 22. Nf4 Nc5 23. Qa3 Nxd3 24. Nxd3 exd3 25. Qxd3 Nf6 26. Rac1 Rfd8 27. Qc3
+Qxc3 28. Rxc3 Rac8 29. Ra3 Rc5 30. Rb1 Ra8 1/2-1/2
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.26"]
+[Round "2"]
+[White "Vasic, Dusan"]
+[Black "Paulic, Branko"]
+[Result "0-1"]
+[ECO "A38"]
+[WhiteElo "1966"]
+[BlackElo "2120"]
+[PlyCount "104"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 Nc6 4. g3 g6 5. Bg2 d6 6. O-O Bg7 7. h3 O-O 8. d3
+Bd7 9. Kh2 Rb8 10. Bg5 h6 11. Bd2 a6 12. a4 b6 13. b3 e5 14. e4 Kh7 15. Be3 Nd4
+16. Bxd4 cxd4 17. Ne2 b5 18. axb5 axb5 19. Ra7 Bc6 20. Qa1 Nd7 21. Qa6 Rb6 22.
+Qa3 Qb8 23. Nd2 b4 24. Qa2 Nc5 25. Nc1 Rb7 26. Ra5 Bf6 27. f4 Be7 28. Nf3 Qc7
+29. Rf2 Kg7 30. Qa1 f6 31. Rfa2 Rfb8 32. Ra7 Rxa7 33. Rxa7 Bb7 34. Qa5 Qxa5 35.
+Rxa5 Ba6 36. Nd2 Bd8 37. Ra2 Bb7 38. Bf3 Bb6 39. Kg2 Bc8 40. Bg4 f5 41. Bf3 Kf6
+42. exf5 gxf5 43. Bd5 Bb7 44. Bxb7 Rxb7 45. Kf3 Re7 46. fxe5+ dxe5 47. Nf1 e4+
+48. Kf2 exd3 49. Kf3 Re1 50. Nxd3 Nxd3 51. Ra6 Re6 52. Nd2 Nc5 0-1
+
+[Event "Belgrade Spring op"]
+[Site "Belgrade"]
+[Date "2008.03.27"]
+[Round "3"]
+[White "Brujic, Bozidar"]
+[Black "Carnic, Dejan"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2242"]
+[BlackElo "2162"]
+[PlyCount "80"]
+[EventDate "2008.03.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d6 2. c4 e5 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. e4 f6 6. Be3 Be6 7. Nc3 Nd7 8.
+Nf3 c6 9. a3 Kc7 10. Nd2 Nh6 11. f3 Nf7 12. Be2 Bc5 13. Bxc5 Nxc5 14. b4 Nd7
+15. Rc1 a5 16. Kf2 axb4 17. axb4 Rhd8 18. Ra1 Rxa1 19. Rxa1 Nb6 20. Ke1 Rd4 21.
+Nb3 Rd8 22. Nc5 Bc8 23. h4 Nd6 24. b5 Nbxc4 25. bxc6 Kxc6 26. Nd3 Be6 27. Nb4+
+Kc5 28. Nbd5 b5 29. Nc7 Bc8 30. Ra8 Rd7 31. N7xb5 Bb7 32. Nxd6 Bxa8 33. Nxc4
+Bc6 34. Na5 Ra7 35. Nxc6 Ra1+ 36. Kf2 Kxc6 37. h5 Kc5 38. Nd5 Rh1 39. g4 Kd4

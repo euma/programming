@@ -1,0 +1,600 @@
+[Site "Helsingor"]
+[Date "2008.07.27"]
+[Round "10"]
+[White "Nielsen, Jimmy Osted"]
+[Black "Gardarsson, Hordur"]
+[Result "1-0"]
+[ECO "D10"]
+[BlackElo "1943"]
+[PlyCount "63"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 Bg4 6. Be2 Bxe2 7. Qxe2 e6 8. Nf3
+Nbd7 9. O-O Bd6 10. h3 Ne4 11. Nxe4 dxe4 12. Nd2 f5 13. f3 Nf6 14. fxe4 fxe4
+15. b3 Bc7 16. g4 Qd6 17. Qg2 h6 18. a4 O-O-O 19. Ba3 Qd7 20. Nxe4 Nxe4 21.
+Qxe4 h5 22. g5 h4 23. Rf3 Bg3 24. Raf1 e5 25. Kg2 exd4 26. Rf7 Qe8 27. Re7 Qh5
+28. exd4 Qxg5 29. Bc1 Bf4+ 30. Kh1 Bxc1 31. Rff7 Qg3 32. Qe6+ 1-0
+
+[Event "Politiken Cup"]
+[Site "Helsingor"]
+[Date "2008.07.27"]
+[Round "10"]
+[White "Noer, Martin Stampe"]
+[Black "Sjol, Henrik"]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[WhiteElo "2000"]
+[BlackElo "1860"]
+[PlyCount "19"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. Nf3 d5 3. c4 Nf6 4. Bg5 Be7 5. Nc3 c6 6. e3 Nbd7 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 b5 10. Bd3 1/2-1/2
+
+[Event "Politiken Cup"]
+[Site "Helsingor"]
+[Date "2008.07.27"]
+[Round "10"]
+[White "Overeem, Marc"]
+[Black "Jorgensen, Dennis"]
+[Result "1/2-1/2"]
+[ECO "D42"]
+[WhiteElo "2288"]
+[BlackElo "2167"]
+[PlyCount "67"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3 e6 7. d4 Be7 8.
+Bd3 Nc6 9. O-O O-O 10. Re1 Bf6 11. Be4 Nce7 12. Qd3 h6 13. Ne5 Nxc3 14. Qxc3
+Nd5 15. Qg3 Bh4 16. Qh3 Bg5 17. Bxg5 Qxg5 18. Rad1 Nf6 19. Bb1 Rd8 20. Qb3 b6
+21. f3 Bd7 22. Qd3 Be8 23. Re2 Rac8 24. Red2 Rc7 25. g3 h5 26. Kg2 Nd5 27. Kf2
+a6 28. a3 Rdc8 29. Ba2 Ba4 30. Re1 Rc2 31. Rxc2 Rxc2+ 32. Re2 Rxe2+ 33. Qxe2
+Ne7 34. Qe3 1/2-1/2
+
+[Event "Politiken Cup"]
+[Site "Helsingor"]
+[Date "2008.07.27"]
+[Round "10"]
+[White "Peschardt, Soren"]
+[Black "Rasmussen, Morten"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "2137"]
+[BlackElo "1885"]
+[PlyCount "39"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. e3 e5 5. Be2 e4 6. Ne5 Bxe2 7. Qxe2 Nxe5 8.
+dxe5 Qg5 9. O-O Qxe5 10. cxd5 O-O-O 11. Nc3 f5 12. f4 exf3 13. Qxf3 g6 14. e4
+Bc5+ 15. Kh1 fxe4 16. Qh3+ Kb8 17. Bf4 Qg7 18. Nb5 Rc8 19. Rac1 Qe7 20. d6 1-0
+
+[Event "Politiken Cup"]
+[Site "Helsingor"]
+[Date "2008.07.27"]
+[Round "10"]
+[White "Radovic, Slobodan"]
+[Black "Snahre, Stig Allan"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[PlyCount "46"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. d4 d5 3. Nc3 c6 4. Nf3 e6 5. e3 Bb4 6. Bd3 O-O 7. O-O Nbd7 8. Ne2
+Re8 9. a3 dxc4 10. Bxc4 Ba5 11. b4 Bc7 12. Bb2 b6 13. Rc1 Bb7 14. Bd3 h6 15.
+Ng3 e5 16. dxe5 Nxe5 17. Nxe5 Bxe5 18. Bxe5 Rxe5 19. Bc4 c5 20. Qb3 Qe7 21.
+Rfd1 Rg5 22. Bf1 cxb4 23. Qxb4 Qxb4 1/2-1/2
+
+[Event "Politiken Cup"]
+[Site "Helsingor"]
+[Date "2008.07.27"]
+[Round "10"]
+[White "Schnabel, Andreas"]
+[Black "Benediktsson, Frimann"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "2153"]
+[BlackElo "1915"]
+[PlyCount "36"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. cxd5 cxd5 6. g3 g6 7. Bg2 Bg7 8. Qa4+
+Nbd7 9. Bf4 O-O 10. Rc1 b5 11. Nxb5 Qb6 12. Nc7 Ra7 13. b4 Nb8 14. Ne5 Rxc7 15.
+Rxc7 Qxc7 16. O-O Qb6 17. Rc1 e6 18. Qc2 Nfd7 0-1
+
+[Event "Politiken Cup"]
+[Site "Helsingor"]
+[Date "2008.07.27"]
+[Round "10"]
+[White "Svanholm, Borge Waaktaar"]
+[Black "Salomonsen, Sixten"]
+[Result "1-0"]
+[ECO "D19"]
+[WhiteElo "2003"]
+[PlyCount "101"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Qe2 Nbd7 10. Rd1 Qc7 11. e4 Bg6 12. Nh4 Bh5 13. f3 Be7 14. g3 Nb6 15.
+Bb3 a5 16. Bf4 Qc8 17. Be3 Nbd7 18. Ng2 c5 19. Rac1 cxd4 20. Bxd4 Bc5 21. Nb5
+Bxd4+ 22. Nxd4 Qd8 23. Nf4 e5 24. Nxh5 exd4 25. Rxd4 Qe7 26. Nf4 Rac8 27. Rcd1
+Qc5 28. Kg2 Ne5 29. Nd5 Nc6 30. R4d3 Nxd5 31. Rxd5 Qb4 32. Qb5 h6 33. Qxb4 Nxb4
+34. Rxa5 Rfd8 35. Rxd8+ Rxd8 36. Bd5 b6 37. Rb5 Nxd5 38. Rxd5 Rc8 39. Rb5 Rc6
+40. Kf2 g5 41. Ke3 f6 42. Kd4 Rd6+ 43. Ke3 Kf7 44. f4 Rc6 45. b4 Ke6 46. a5
+bxa5 47. bxa5 Rc3+ 48. Kd4 Ra3 49. Rb6+ Kf7 50. a6 gxf4 51. gxf4 1-0
+
+[Event "Politiken Cup"]
+[Site "Helsingor"]
+[Date "2008.07.27"]
+[Round "10"]
+[White "Van Zutphen, Jimmy"]
+[Black "Hansen, Pal Andreas"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2201"]
+[BlackElo "2069"]
+[PlyCount "60"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c3 Nf6 3. Bg5 Nbd7 4. e3 g6 5. Nd2 Bg7 6. f4 O-O 7. Bd3 b6 8. Qf3
+Bb7 9. Ne2 Ne8 10. Qh3 Ndf6 11. Bxf6 Nxf6 12. Qf3 Qc8 13. O-O Ba6 14. Bxa6 Qxa6
+15. e4 Nxe4 16. Nxe4 dxe4 17. Qxe4 e6 18. Nc1 Rad8 19. Rd1 Rd5 20. Nd3 c5 21.
+dxc5 Rfd8 22. Nf2 bxc5 23. a3 Qb6 24. Qc2 c4 25. Kf1 Qe3 26. Rxd5 Rxd5 27. Qe4
+Qxe4 28. Nxe4 f5 29. Ng5 Rb5 30. Nxe6 Rxb2 1/2-1/2
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.19"]
+[Round "1"]
+[White "Efinowicz, Michal"]
+[Black "Urban, Klaudiusz"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2083"]
+[BlackElo "2469"]
+[PlyCount "104"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nxc3 6. bxc3 Bg7 7. Ba3 O-O 8.
+e3 b6 9. h4 c5 10. h5 Nc6 11. hxg6 hxg6 12. Bd3 Na5 13. Qc2 cxd4 14. cxd4 Be6
+15. Ne2 Rc8 16. Qd2 Nc4 17. Bxc4 Rxc4 18. Nf4 Bf5 19. O-O Qd7 20. Rac1 Rfc8 21.
+Rxc4 Rxc4 22. Rc1 Rxc1+ 23. Qxc1 Be4 24. f3 Bb7 25. Qc4 Kf8 26. Kf2 Bf6 27. Ke2
+Kg7 28. Bb2 Bc6 29. Nd3 Bd5 30. Qc2 Bxa2 31. e4 Qb5 32. e5 Bg5 33. g3 e6 34.
+Ba3 Bc4 35. f4 Bd8 36. Ke3 f5 37. Nb2 Qb3+ 38. Qxb3 Bxb3 39. Kd3 Kf7 40. Kc3
+Bd5 41. Nd3 a5 42. Nb2 Ke8 43. Bd6 Kd7 44. Nd1 Kc6 45. Ne3 b5 46. Bc5 g5 47. g4
+b4+ 48. Kd3 Be4+ 49. Ke2 gxf4 50. gxf5 fxe3 51. fxe6 Bg5 52. e7 Bg6 0-1
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.19"]
+[Round "1"]
+[White "Jedruszek, Krzysztof"]
+[Black "Sieciechowicz, Marcin"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "2037"]
+[BlackElo "2311"]
+[PlyCount "88"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. cxd5 exd5 6. Bg5 Bd6 7. Qc2 Nbd7 8.
+e3 h6 9. Bh4 O-O 10. Bd3 b5 11. O-O Bb7 12. Rac1 b4 13. Na4 Qa5 14. Nc5 Bxc5
+15. dxc5 Ba6 16. Bxa6 Qxa6 17. Nd4 Rfe8 18. Qb3 Ne4 19. Qxb4 Rab8 20. Qa3 Qxa3
+21. bxa3 Rb2 22. Nxc6 g5 23. Bg3 Ndxc5 24. Nxa7 Ra8 25. Nc6 Nd3 26. Ra1 Rxa3
+27. f3 Nc3 28. Nd4 Kg7 29. Be1 Nxa2 30. h4 Kg6 31. hxg5 hxg5 32. Kh2 f5 33. Kg1
+f4 34. exf4 gxf4 35. g4 Ra4 36. Nf5 Rc4 37. Bf2 Rcc2 38. Rab1 Nxf2 39. Rxb2
+Nh3+ 40. Kh1 Rxb2 41. Ne7+ Kg5 42. Nxd5 Nb4 43. Re1 Nxd5 44. Re5+ Kh4 0-1
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.19"]
+[Round "1"]
+[White "Kaszowski, Dariusz"]
+[Black "Jaskowski, Tadeusz"]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[WhiteElo "2326"]
+[BlackElo "2040"]
+[PlyCount "84"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. O-O
+h6 9. Bh4 Re8 10. Qe2 Nf8 11. a3 N6h7 12. Bg3 f5 13. cxd5 exd5 14. Qc2 g6 15.
+b4 a6 16. Na4 Nf6 17. Nc5 Ne4 18. Be5 Bxc5 19. bxc5 Nd7 20. Bf4 g5 21. Bg3 Qf6
+22. Rab1 g4 23. Nd2 Nxg3 24. hxg3 Nf8 25. Nb3 Qg5 26. Na5 Re7 27. Rb3 h5 28.
+Rfb1 Ra7 29. R1b2 Rh7 30. Kf1 h4 31. gxh4 Qxh4 32. Bxf5 Bxf5 33. Qxf5 Rf7 34.
+Qe5 g3 35. e4 Qh1+ 36. Ke2 Rxf2+ 37. Kd3 Qd1+ 38. Kc3 Qe1+ 39. Kd3 Qd1+ 40. Kc3
+Qe1+ 41. Kd3 Qd1+ 42. Kc3 Qe1+ 1/2-1/2
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Cyborowski, Lukasz"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2546"]
+[BlackElo "2396"]
+[PlyCount "69"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 g6 2. d4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. Na4 Bg7 6. e4 Nb6 7. Be3 O-O 8.
+Nf3 Nxa4 9. Qxa4 c5 10. Rd1 cxd4 11. Nxd4 Bd7 12. Qa3 Qc8 13. Be2 Nc6 14. Nb5
+Rd8 15. O-O Bf8 16. Nc3 e6 17. Qb3 Na5 18. Qc2 Bg7 19. Bg5 f6 20. Be3 b5 21. b4
+Nc4 22. Bc5 a6 23. Bxc4 bxc4 24. Qe2 Be8 25. Rxd8 Qxd8 26. Qxc4 Bf7 27. Rd1 Qc7
+28. Qd3 f5 29. exf5 gxf5 30. Na4 Bf6 31. Nb6 Re8 32. Qxa6 Rd8 33. Rxd8+ Qxd8
+34. Qc8 Qxc8 35. Nxc8 1-0
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Shishkin, Vadim"]
+[Black "Przybylski, Wojciech"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2506"]
+[BlackElo "2363"]
+[PlyCount "95"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Be2 Bb7 10. O-O Nbd7 11. Ne5 h5 12. Nxd7 Qxd7 13. Be5 Rh6 14. Qc1 Rg6 15.
+Bxf6 Rxf6 16. Qxg5 Rg6 17. Qe3 Rd8 18. Bxh5 Rh6 19. Qf3 Qc7 20. Rad1 b4 21. Ne2
+Bg7 22. g4 Qe7 23. Qe3 Rh8 24. e5 Rc8 25. Rc1 c5 26. Rxc4 Ba6 27. Rxc5 Rxc5 28.
+dxc5 Qc7 29. Re1 Bb7 30. Nd4 Bd5 31. Nb5 Qe7 32. Nd6+ Kf8 33. Qf4 f5 34. exf6
+Qxf6 35. Qxf6+ Bxf6 36. b3 Ke7 37. Ne4 Bd4 38. Kg2 Bxc5 39. Kg3 Bd4 40. f4 Rc8
+41. Re2 Bb7 42. Ng5 Rc3+ 43. Kh4 Bd5 44. Bg6 Be3 45. Be4 Bxf4 46. Bxd5 Bxg5+
+47. Kxg5 Rc5 48. Rxe6+ 1-0
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.21"]
+[Round "3"]
+[White "Malaniuk, Vladimir P"]
+[Black "Sieciechowicz, Marcin"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2508"]
+[BlackElo "2311"]
+[PlyCount "93"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8. Bd2
+Nbd7 9. g3 Bd6 10. Qb3 Rb8 11. Bg2 O-O 12. O-O Qe7 13. Rfe1 Rfc8 14. cxd5 cxd5
+15. Nb5 a6 16. Nxd6 Qxd6 17. e4 dxe4 18. Bf4 Qxd4 19. Bxb8 Rxb8 20. Rad1 Qa7
+21. Qe3 Qxe3 22. Rxe3 Nc5 23. b4 Nd3 24. a3 Nb2 25. Rc1 b5 26. Bxe4 Nc4 27. Re2
+Nxa3 28. Ra1 Nc4 29. Rxa6 Nxe4 30. Rxe4 Rd8 31. Kg2 g5 32. Rc6 e5 33. Rc5 f5
+34. Re1 g4 35. Rxb5 f4 36. gxf4 exf4 37. Rg5 Rd2 38. Kg1 f3 39. Rxg4 Ne5 40.
+Rge4 Nd3 41. Rd4 Re2 42. Rf1 Ne5 43. Rb1 Kf7 44. b5 Ke6 45. b6 Nc6 46. b7 Nb8
+47. Rd8 1-0
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Graca, Robert"]
+[Black "Zdanowicz, Lukasz"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "2104"]
+[BlackElo "2059"]
+[PlyCount "131"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O Nbd7 8. h3
+Re8 9. cxd5 cxd5 10. Qb3 Nb6 11. Bd2 h6 12. Ne5 Be6 13. Rfc1 Ne4 14. Nxe4 dxe4
+15. Qc2 Qd5 16. Qc5 Rec8 17. Qxd5 Bxd5 18. a4 Rxc1+ 19. Bxc1 Rc8 20. a5 Na4 21.
+Bd1 Nc5 22. Bd2 Nb3 23. Bxb3 Bxb3 24. Nd7 Bd5 25. Bb4 Rc7 26. Nc5 e5 27. Rd1
+exd4 28. exd4 b6 29. Na6 Rc4 30. axb6 axb6 31. Bc3 Bf8 32. Ra1 b5 33. Ra5 b4
+34. Nxb4 Bxb4 35. Rxd5 Bxc3 36. bxc3 Rxc3 37. Re5 Rc1+ 38. Kh2 f5 39. g4 Rc2
+40. Kg3 Rc3+ 41. Kg2 Rf3 42. d5 Kf7 43. d6 Kf6 44. Rd5 Rd3 45. Ra5 Rxd6 46.
+gxf5 gxf5 47. Ra8 Kg5 48. Rg8+ Kf4 49. Rg7 Rd2 50. Rg3 Rd3 51. Rg6 h5 52. h4
+Rd7 53. Rg5 Rh7 54. Rg8 e3 55. fxe3+ Kxe3 56. Re8+ Kf4 57. Rg8 Rh6 58. Rg7 Ke5
+59. Kf3 Kf6 60. Ra7 Rg6 61. Ra6+ Kg7 62. Ra7+ Kh6 63. Kf4 Rg4+ 64. Kxf5 Rxh4
+65. Ra6+ Kg7 66. Ra7+ 1/2-1/2
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Sieciechowicz, Marcin"]
+[Black "Przybylski, Wojciech"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2311"]
+[BlackElo "2363"]
+[PlyCount "67"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Qe2
+cxd4 9. Rd1 Be7 10. exd4 O-O 11. Nc3 Nb4 12. Bg5 Nfd5 13. Bxe7 Nxe7 14. a5 Ned5
+15. Ne4 b6 16. axb6 Qxb6 17. Nc5 Nf6 18. Ne5 Bb7 19. Ra3 Ra7 20. Rg3 Bd5 21.
+Qe3 g6 22. Qh6 Rd8 23. Be2 Qd6 24. h4 Qf8 25. Qf4 Ne8 26. h5 Nd6 27. Bg4 Qe7
+28. hxg6 fxg6 29. Nxg6 hxg6 30. Bxe6+ Kg7 31. Qe5+ Qf6 32. Bxd5 Nxd5 33. Ne6+
+Kg8 34. Nxd8 1-0
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Kaszowski, Dariusz"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "2326"]
+[BlackElo "2396"]
+[PlyCount "34"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Bc4 Nxc3 8.
+bxc3 c5 9. O-O Qc7 10. Be2 b6 11. Bb2 Bb7 12. Rc1 Rd8 13. Qc2 Nd7 14. Qb1 Nf6
+15. Rfd1 Rac8 16. Ba3 e6 17. Qb3 Ne4 1/2-1/2
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Malaniuk, Vladimir P"]
+[Black "Plonczak, Dominik"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2508"]
+[BlackElo "2162"]
+[PlyCount "91"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c6 4. Nc3 d5 5. e3 Bg7 6. Be2 O-O 7. O-O a5 8. b3 Na6
+9. Bb2 Bg4 10. h3 Bf5 11. Na4 Nc7 12. Ne5 Nd7 13. Nxd7 Bxd7 14. Rc1 b5 15. Nc5
+bxc4 16. bxc4 Ne6 17. Nxd7 Qxd7 18. Qa4 Rfb8 19. Ba3 Ra7 20. Rb1 Rab7 21. Rxb7
+Qxb7 22. Bd3 Ra8 23. Rb1 Qc7 24. Rc1 Qb7 25. cxd5 cxd5 26. Qb5 Qxb5 27. Bxb5
+Bf8 28. Bc6 Rd8 29. Rb1 Nc7 30. Bc5 e6 31. Bb6 Rb8 32. Rb3 Na6 33. Bxa5 Nb4 34.
+Bd7 Rb7 35. Bxe6 fxe6 36. a3 Nc6 37. Rxb7 Nxa5 38. Ra7 Nc4 39. a4 Bb4 40. h4 h6
+41. Kf1 e5 42. dxe5 Nxe5 43. a5 Nc6 44. Ra8+ Kg7 45. a6 Bd6 46. a7 1-0
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Shishkin, Vadim"]
+[Black "Cyborowski, Lukasz"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[WhiteElo "2506"]
+[BlackElo "2546"]
+[PlyCount "20"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c6 8. Rd1
+h6 9. Bh4 b6 10. Bd3 Bb7 1/2-1/2
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Efinowicz, Michal"]
+[Black "Szuminski, Marek"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2083"]
+[BlackElo "2062"]
+[PlyCount "81"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. Nf3 Nbd7 7. e3 c6 8.
+Bd3 O-O 9. Qc2 Re8 10. Ne5 Nf8 11. O-O Ng4 12. Bxe7 Qxe7 13. Nxg4 Bxg4 14. Rae1
+Qd6 15. h3 Bd7 16. f4 Re7 17. Nd1 Rae8 18. Rf3 b6 19. Nf2 c5 20. dxc5 bxc5 21.
+b3 Qb6 22. Rg3 f6 23. Bf5 Bxf5 24. Qxf5 Qe6 25. Ng4 Kh8 26. Qc2 Qd6 27. Rf3 Ne6
+28. Rd1 d4 29. Qf5 Qc7 30. e4 d3 31. Nxf6 gxf6 32. Qxf6+ Ng7 33. e5 Rf7 34. Qg5
+Ne6 35. Qh5 Nxf4 36. Rxf4 Rfe7 37. Qh6 Kg8 38. Rxd3 Qxe5 39. Rg3+ Rg7 40. Rxg7+
+Qxg7 41. Rg4 1-0
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Przybylski, Wojciech"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2396"]
+[BlackElo "2363"]
+[PlyCount "101"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 b5 10. Be2 Qc7 11. e4 e5 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. f4 Qb6+
+15. Kh1 Bd4 16. h3 Bb7 17. Bf3 Rad8 18. Bd2 c5 19. Rae1 b4 20. Na4 Qb5 21. b3
+Rfe8 22. e5 Bxf3 23. Rxf3 Nd5 24. Nb2 Nb6 25. Nd3 a5 26. Nf2 Bxf2 27. Rxf2 c4
+28. Be3 c3 29. Qe4 Nd7 30. Rd1 Nc5 31. Qc2 Rxd1+ 32. Qxd1 Qd3 33. Qe1 Ne4 34.
+Rf3 Rd8 35. Qh4 Qb1+ 36. Kh2 Rd1 37. Rf1 g5 38. Rxd1 Qxd1 39. fxg5 Qd3 40. Qf4
+Nd2 41. Bd4 Qe4 42. Qf2 Qd3 43. e6 Nf3+ 44. gxf3 fxe6 45. Be3 Qb1 46. Kg3 a4
+47. bxa4 c2 48. Qd2 Qxa2 49. Qd8+ Kf7 50. Bc5 Qb2 51. Qd7+ 1-0
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Sieciechowicz, Marcin"]
+[Black "Shishkin, Vadim"]
+[Result "0-1"]
+[ECO "D93"]
+[WhiteElo "2311"]
+[BlackElo "2506"]
+[PlyCount "44"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c5 7. dxc5 Qa5 8. Rc1
+dxc4 9. Bxc4 Qxc5 10. Bb3 Qa5 11. O-O Na6 12. Ne5 Nc5 13. Bxf7+ Rxf7 14. Nxf7
+Kxf7 15. b4 Qxb4 16. Nd5 Nxd5 17. Qxd5+ Ne6 18. Rc4 Qb2 19. Rfc1 Bd7 20. g4 Rd8
+21. Qa5 Bc6 22. Qxa7 Qe2 0-1
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Zdanowicz, Piotr"]
+[Black "Zdanowicz, Lukasz"]
+[Result "1/2-1/2"]
+[ECO "D42"]
+[WhiteElo "2050"]
+[BlackElo "2059"]
+[PlyCount "20"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. cxd5 Nxd5 8.
+Bd3 Be7 9. O-O O-O 10. a3 Bf6 1/2-1/2
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.25"]
+[Round "7"]
+[White "Kaszowski, Dariusz"]
+[Black "Cyborowski, Lukasz"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2326"]
+[BlackElo "2546"]
+[PlyCount "36"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Be3 Qa5 9. Qd2 O-O 10. Rc1 Bg4 11. Be2 Rd8 12. d5 Bxf3 13. Bxf3 Nc6 14. O-O e6
+15. Be2 exd5 16. exd5 Ne7 17. c4 Qxd2 18. Bxd2 Nf5 1/2-1/2
+
+[Event "Poznan op-A"]
+[Site "Poznan"]
+[Date "2008.07.25"]
+[Round "7"]
+[White "Malaniuk, Vladimir P"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2508"]
+[BlackElo "2396"]
+[PlyCount "47"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]

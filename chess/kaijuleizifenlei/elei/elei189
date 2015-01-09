@@ -1,0 +1,600 @@
+[BlackTeam "Niedersachsen Freibauer"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 O-O 8. Bd3
+Nc6 9. O-O Qc7 10. h3 dxc4 11. Bxc4 e5 12. Ba2 h6 13. Bb2 cxd4 14. cxd4 exd4
+15. Nxd4 Nxd4 16. Bxd4 Be6 17. Bxf6 gxf6 18. Bxe6 fxe6 19. Qg4+ Kf7 20. Qh5+
+Kg7 21. Rac1 Qf7 22. Qg4+ Kh8 23. Qf4 Qg6 24. Rc7 Rg8 25. Qf3 Rab8 26. Rfc1 Rg7
+27. Rxg7 Qxg7 28. Qe4 e5 29. Qf5 Rg8 30. g3 Re8 31. Rc4 Rg8 32. Qe6 h5 33. Qd6
+Rf8 34. Rh4 Qf7 35. Qd1 Rc8 36. Rxh5+ 1-0
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.1"]
+[White "Pape, Manfred"]
+[Black "James, Geoffrey H"]
+[Result "1-0"]
+[ECO "E19"]
+[WhiteElo "2240"]
+[BlackElo "2189"]
+[PlyCount "77"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Widukind"]
+[BlackTeam "England"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "ENG"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. Nc3 O-O 7. d4 Ne4 8. Qc2
+Nxc3 9. Qxc3 d6 10. Rd1 Nd7 11. b3 Qc8 12. Bb2 Bf6 13. Qc2 Re8 14. e4 e5 15. d5
+a5 16. a3 Nf8 17. Ne1 Bg5 18. b4 axb4 19. axb4 Qd7 20. Nd3 Ng6 21. c5 Ba6 22.
+c6 Qg4 23. f3 Be3+ 24. Nf2 Qg5 25. Qa4 Bc4 26. Qxa8 Rxa8 27. Rxa8+ Nf8 28. Rc8
+b5 29. Rxc7 Bb6 30. Bc1 Qd8 31. Rb7 Bd4 32. Bh3 Qa8 33. c7 Qxb7 34. c8=Q Qa7
+35. Rd2 Qa1 36. Rc2 Be3 37. Bf1 Bxc1 38. Bxc4 bxc4 39. Qxc4 1-0
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.3"]
+[White "McDonald Ross, Michael"]
+[Black "Swoboda, Peter"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[WhiteElo "2154"]
+[BlackElo "1915"]
+[PlyCount "82"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "England II"]
+[BlackTeam "Halle"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 c6 5. Bg2 Bd6 6. Nbd2 Nbd7 7. O-O O-O 8. Qc2
+Re8 9. b3 e5 10. cxd5 cxd5 11. dxe5 Nxe5 12. Bb2 Bd7 13. Nxe5 Bxe5 14. Bxe5
+Rxe5 15. Nf3 Bf5 16. Qb2 Re7 17. Rac1 Qe8 18. Nd4 Be4 19. f3 Bg6 20. Bh3 Qd8
+21. Rc5 Qb6 22. Rfc1 Rae8 23. Kf1 a6 24. Qd2 h6 25. Rc8 Kh7 26. Rxe8 Nxe8 27.
+Bf5 Bxf5 28. Nxf5 Rc7 29. Rxc7 Nxc7 30. Qc3 f6 31. Ne7 Qd6 32. Qd3+ Kh8 33.
+Ng6+ Kg8 34. Nf4 Qe5 35. Kg2 Kf7 36. h4 b5 37. b4 Qd6 38. Qc3 Ne6 39. Nd3 Ke7
+40. a3 Kd7 41. Qc2 Qb6 1/2-1/2
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.1"]
+[White "Norman, Kenneth I"]
+[Black "Malmdin, Nils Ake"]
+[Result "1-0"]
+[ECO "E66"]
+[WhiteElo "2154"]
+[BlackElo "2268"]
+[PlyCount "81"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "England III"]
+[BlackTeam "Sweden"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "SWE"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 d6 5. d4 O-O 6. Nc3 Nc6 7. O-O a6 8. d5
+Na5 9. Nd2 c5 10. Qc2 Rb8 11. b3 b5 12. Bb2 h5 13. Nd1 Bf5 14. e4 Bd7 15. Bc3
+h4 16. Ne3 h3 17. Bh1 e5 18. dxe6 Bxe6 19. f4 bxc4 20. bxc4 Bd7 21. e5 dxe5 22.
+fxe5 Nh5 23. Bd5 Qg5 24. Rf3 Nc6 25. Ne4 Qd8 26. Nf6+ Kh8 27. g4 Nd4 28. Bxd4
+cxd4 29. gxh5 dxe3 30. hxg6 e2 31. gxf7 Bxf6 32. Rxf6 Rb6 33. Qxe2 Rxf6 34.
+exf6 Qxf6 35. Rf1 Qd4+ 36. Kh1 Bg4 37. Qe7 Kg7 38. Qg5+ Kh7 39. Qh4+ Kg6 40.
+Rg1 Kf5 41. Rxg4 1-0
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.3"]
+[White "Kanko, Ilkka"]
+[Black "Nautsch, Werner"]
+[Result "1-0"]
+[ECO "E09"]
+[WhiteElo "2219"]
+[BlackElo "2290"]
+[PlyCount "91"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Finnland"]
+[BlackTeam "Katernberg"]
+[WhiteTeamCountry "FIN"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 e6 5. g3 Be7 6. Bg2 O-O 7. O-O Nbd7 8. b3
+b6 9. Bb2 Ba6 10. Nbd2 Rc8 11. e4 c5 12. exd5 exd5 13. Rfe1 b5 14. cxb5 Bxb5
+15. Rac1 c4 16. Bf1 Nb6 17. Ne5 Bb4 18. Bc3 Bxc3 19. Qxc3 cxb3 20. Qxb3 Bxf1
+21. Rxf1 Qd6 22. a4 Ne4 23. Nxe4 dxe4 24. Rxc8 Nxc8 25. Rc1 Ne7 26. Qb7 Nf5 27.
+Rc8 Qe7 28. Qxe7 Nxe7 29. Rc7 Nf5 30. Nc6 a6 31. Ra7 e3 32. fxe3 Nxe3 33. Rxa6
+g5 34. Rb6 Kg7 35. Rb8 Rxb8 36. Nxb8 Nc4 37. Nc6 Kf6 38. a5 Ke6 39. a6 Nb6 40.
+Nb4 f5 41. Kf2 Kd6 42. Kf3 Kc7 43. g4 f4 44. Ke4 Kd6 45. a7 Kc7 46. Nd5+ 1-0
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.2"]
+[White "Aaltio, Erkki"]
+[Black "Barlocco, Carlo"]
+[Result "0-1"]
+[ECO "E33"]
+[WhiteElo "2111"]
+[BlackElo "2124"]
+[PlyCount "110"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Finnland II"]
+[BlackTeam "Italy"]
+[WhiteTeamCountry "FIN"]
+[BlackTeamCountry "ITA"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 e6 4. Nc3 Bb4 5. Qc2 O-O 6. Bg5 h6 7. Bd2 d6 8. a3
+Bxc3 9. Bxc3 Qe7 10. e3 e5 11. Be2 Bg4 12. O-O e4 13. Ne1 Bf5 14. b4 Rfe8 15.
+Qb2 d5 16. Bd2 dxc4 17. Bxc4 Qd6 18. f4 exf3 19. Nxf3 Ne4 20. Be1 Be6 21. Qc2
+Bd5 22. Rc1 a6 23. Qb3 Ne7 24. Nd2 Nxd2 25. Bxd2 Bxc4 26. Qxc4 Nd5 27. Rf3 Re7
+28. Rcf1 Rae8 29. Qd3 b5 30. Qb3 Qe6 31. a4 Nf6 32. Qxe6 Rxe6 33. axb5 axb5 34.
+Rc1 Ne4 35. Be1 c6 36. Bf2 Ra8 37. Be1 Ra2 38. h4 Rg6 39. Bf2 Rb2 40. d5 Nd2
+41. Rf5 cxd5 42. Rxd5 Ne4 43. Rf5 Nxf2 44. Rxf2 Rxf2 45. Kxf2 Rg4 46. Rb1 Rxh4
+47. Kf3 Rc4 48. e4 g5 49. Ke3 Kg7 50. Rb2 Kf6 51. Kd3 Ke5 52. Rf2 Rxe4 53. Rxf7
+Rxb4 54. Rh7 Rh4 55. Ke3 Kd6 0-1
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.4"]
+[White "Gabriel, J."]
+[Black "Klundt, Klaus"]
+[Result "0-1"]
+[ECO "E81"]
+[WhiteElo "2135"]
+[BlackElo "2378"]
+[PlyCount "60"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Wuerttemberg"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 c5 7. dxc5 dxc5 8. Qxd8
+Rxd8 9. Bxc5 Nc6 10. Rb1 Nd7 11. Ba3 Bxc3+ 12. bxc3 Nde5 13. Be2 Be6 14. Rxb7
+Rab8 15. Rb3 Nxc4 16. Bc5 N4a5 17. Rb5 Bc4 18. Bxc4 Nxc4 19. Rb3 N4a5 20. Rxb8
+Rxb8 21. Kf2 Rb1 22. h4 Nc4 23. Rh3 Rb2+ 24. Ne2 N6e5 25. f4 Ng4+ 26. Kf3 h5
+27. Bxa7 Nd2+ 28. Kg3 Nxe4+ 29. Kf3 Nd2+ 30. Kg3 Nf1+ 0-1
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.1"]
+[White "Nugel, Karl Heinz"]
+[Black "Siegmund, Rainer"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2155"]
+[BlackElo "2170"]
+[PlyCount "23"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Hamburger SK"]
+[BlackTeam "Sachsen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8. cxd5
+Nxd5 9. O-O Be7 10. Rd1 Qc8 11. e4 Nc7 12. Nc3 1/2-1/2
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.1"]
+[White "Hauswald, Gerd"]
+[Black "Haug, Kjell Martin"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "1820"]
+[BlackElo "1958"]
+[PlyCount "75"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Heidenau"]
+[BlackTeam "Mecklenburg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Nc6 7. O-O e5 8. d5
+Nb4 9. a3 Na6 10. h3 Bd7 11. Bg5 h6 12. Be3 Kh7 13. Nh2 Nc5 14. Bf3 a5 15. Qc2
+Qc8 16. Ne2 Ba4 17. Qb1 Nb3 18. Ra2 c6 19. Nc3 b5 20. cxb5 cxb5 21. Bd1 Rb8 22.
+Bc2 Qc4 23. Qd1 Nd4 24. Bxa4 bxa4 25. Bxd4 exd4 26. Qxa4 Qxa4 27. Nxa4 Nxe4 28.
+Nf3 Rfc8 29. Raa1 Rc4 30. b4 axb4 31. Nb2 Rc3 32. axb4 Rxb4 33. Nd1 Rc2 34. Rc1
+Nc3 35. Nxc3 dxc3 36. Ne1 Rd2 37. Nc2 Rxd5 38. Ne3 0-1
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.1"]
+[White "Adamski, Jan"]
+[Black "Boehnisch, Manfred"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2333"]
+[BlackElo "2369"]
+[PlyCount "43"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Mazowsze"]
+[BlackTeam "Leipzig"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. d4 O-O 6. Qc2 dxc4 7. Qxc4 a6 8. Bf4
+Nd5 9. Nc3 b5 10. Qd3 Nxf4 11. gxf4 Ra7 12. Rd1 c5 13. dxc5 Qxd3 14. Rxd3 Bxc5
+15. O-O Rc7 16. Rfd1 f6 17. Ne4 Be7 18. Nd6 Bd7 19. h3 Rc2 20. R3d2 Rxd2 21.
+Rxd2 Rd8 22. e4 1/2-1/2
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.1"]
+[White "Pekun, Cem"]
+[Black "Gerusel, Mathias"]
+[Result "1/2-1/2"]
+[ECO "E31"]
+[WhiteElo "2111"]
+[BlackElo "2293"]
+[PlyCount "42"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Turkey"]
+[BlackTeam "Rhein Sieg"]
+[WhiteTeamCountry "TUR"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 e5 7. e3 d6 8. Bd3
+Bxc3+ 9. bxc3 Qa5 10. Qc2 Nbd7 11. Ne2 a6 12. O-O O-O 13. f4 Re8 14. fxe5 Rxe5
+15. Rf3 b5 16. Raf1 bxc4 17. Bf5 Rxf5 18. Rxf5 Ne5 19. Rxe5 dxe5 20. Bxf6 gxf6
+21. Rxf6 Kg7 1/2-1/2
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.2"]
+[White "Kot, Jerzy"]
+[Black "Pushkov, Nikolai"]
+[Result "0-1"]
+[ECO "E18"]
+[WhiteElo "2293"]
+[BlackElo "2513"]
+[PlyCount "78"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Wroclaw"]
+[BlackTeam "Rostov Stiller Don"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "RUS"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Na6 8. Bf4
+d5 9. Ne5 c5 10. cxd5 exd5 11. Rc1 Ne4 12. Qa4 Qe8 13. Bxe4 dxe4 14. Rfd1 cxd4
+15. Rxd4 Bf6 16. Ng4 Bxd4 17. Qxd4 Qe6 18. Ne3 Rfd8 19. Qa4 Nc5 20. Qc2 h6 21.
+Nf1 Rac8 22. Be3 Qc6 23. Bxc5 Qxc5 24. Ne3 b5 25. a3 b4 26. axb4 Qxb4 27. Ra1
+a5 28. Ra3 Bc6 29. Qc1 a4 30. Ra2 Qd4 31. Qf1 Rb8 32. h3 Rb3 33. Nf5 Qe5 34. g4
+a3 35. e3 axb2 36. Nb1 Rbd3 37. Nd4 R8xd4 38. exd4 Qxd4 39. Kh2 Rd1 0-1
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.4"]
+[White "Bakalarczyk, Wlodzimierz"]
+[Black "Petrushin, Alexander I"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "1996"]
+[BlackElo "2426"]
+[PlyCount "56"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Wroclaw"]
+[BlackTeam "Rostov Stiller Don"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. O-O Nbd7 8. d5
+Nc5 9. Qc2 a5 10. b3 Nh5 11. Be3 b6 12. Rad1 f5 13. Nd2 Nf4 14. Bf3 fxe4 15.
+Bxe4 Bd7 16. Rfe1 Rf7 17. Bxc5 bxc5 18. Nf1 Qg5 19. Ng3 Raf8 20. f3 h5 21. Kh1
+Qh6 22. Nge2 g5 23. g3 Nh3 24. Ng1 Nxg1 25. Kxg1 g4 26. fxg4 Bxg4 27. Rd2 Bh3
+28. Bg2 Qe3+ 0-1
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.13"]
+[Round "3.2"]
+[White "Loktiev, Ivan"]
+[Black "Vucenovic, Dragomir"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[WhiteElo "2327"]
+[BlackElo "2304"]
+[PlyCount "112"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "St Petersburg"]
+[BlackTeam "Switzerland"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O 5. Nf3 d5 6. e3 c5 7. a3 Bxc3 8. Bxc3
+cxd4 9. Nxd4 Ne4 10. Rc1 a6 11. Qc2 Nxc3 12. Qxc3 Nc6 13. cxd5 Nxd4 14. Qxd4
+Qxd5 15. Qxd5 exd5 16. Bd3 Be6 17. Kd2 Rfc8 18. Rc3 Rxc3 19. Kxc3 a5 20. Kd4
+Rc8 21. Rd1 Kf8 22. Rd2 Ke7 23. Ke5 g6 24. h4 h6 25. f4 f6+ 26. Kd4 Bf7 27. g4
+Rc1 28. Rg2 b6 29. g5 fxg5 30. hxg5 h5 31. Ke5 Rc5 32. f5 gxf5 33. g6 d4+ 34.
+Kxd4 Bg8 35. Rh2 Kf6 36. Rxh5 Kxg6 37. Rh8 Kg7 38. Rh1 Rd5+ 39. Kc3 Rc5+ 40.
+Kd2 Bd5 41. Rg1+ Kf6 42. Rf1 Be6 43. e4 Bd7 44. exf5 Bb5 45. Bxb5 Rxb5 46. Kc3
+Rc5+ 47. Kb3 Rb5+ 48. Ka2 Rxf5 49. Rxf5+ Kxf5 50. Kb3 Ke6 51. Kc4 Kd6 52. Kb5
+Kc7 53. Ka6 Kc6 54. b4 axb4 55. axb4 b5 56. Ka5 Kc7 1/2-1/2
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.14"]
+[Round "4.2"]
+[White "Biebinger, Gerhard"]
+[Black "Weinwurm, Wolfgang"]
+[Result "1-0"]
+[ECO "E70"]
+[WhiteElo "2324"]
+[BlackElo "2177"]
+[PlyCount "55"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Baden"]
+[BlackTeam "Salzburg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "AUT"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Bg5 O-O 6. Qd2 Na6 7. f4 c5 8. d5 Nc7
+9. Bd3 a6 10. a4 Rb8 11. a5 b5 12. axb6 Rxb6 13. Nf3 Qe8 14. O-O Bg4 15. Ne1
+Bd7 16. h3 Qb8 17. Ra2 h6 18. Bh4 Kh7 19. e5 Ng8 20. Nf3 Qc8 21. g4 h5 22. gxh5
+Bxh3 23. hxg6+ Kh8 24. e6 fxe6 25. Qh2 exd5 26. f5 Rxf5 27. Qxh3 Rg5+ 28. Nxg5
+1-0
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.14"]
+[Round "4.4"]
+[White "Saeurig, Bernhard"]
+[Black "Warnke, Eberhard"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "1801"]
+[BlackElo "1787"]
+[PlyCount "24"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Dresden Rotation"]
+[BlackTeam "Bahn Sozialwerk II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Qc2 O-O 6. e3 b6 7. cxd5 exd5 8. Bd3
+Bb7 9. O-O Nbd7 10. b3 a6 11. Bb2 Re8 12. Rac1 Rc8 1/2-1/2
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.14"]
+[Round "4.1"]
+[White "Baumbach, Friedrich"]
+[Black "Westerinen, Heikki MJ"]
+[Result "1/2-1/2"]
+[ECO "E91"]
+[WhiteElo "2290"]
+[BlackElo "2362"]
+[PlyCount "57"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Berlin"]
+[BlackTeam "Finnland"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "FIN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Bg4 7. Be3 Nc6 8. d5
+Bxf3 9. Bxf3 Na5 10. Be2 c5 11. Qc2 e5 12. a3 Rc8 13. O-O a6 14. Na4 Nxc4 15.
+Bxc4 b5 16. Be2 bxa4 17. Qxa4 Ra8 18. Rfc1 Qb8 19. Rab1 a5 20. f3 Ra7 21. Bd2
+Qb6 22. Rc3 Rb8 23. Bc4 Qc7 24. Rb3 Rxb3 25. Qxb3 h5 26. Qb5 Kh7 27. Kf2 Bh6
+28. Bc3 Qd8 29. g3 1/2-1/2
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.14"]
+[Round "4.1"]
+[White "Walter, Guenter"]
+[Black "Pape, Manfred"]
+[Result "1/2-1/2"]
+[ECO "E91"]
+[WhiteElo "2281"]
+[BlackElo "2240"]
+[PlyCount "27"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Brandenburg"]
+[BlackTeam "Widukind"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be3 Bg4 7. Be2 Nc6 8. Nd2
+Bxe2 9. Qxe2 e5 10. d5 Nd4 11. Qd3 c5 12. f3 a6 13. O-O Nd7 14. Kh1 1/2-1/2
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.14"]
+[Round "4.3"]
+[White "McDonald Ross, Michael"]
+[Black "Sorensen, Bent"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "2154"]
+[BlackElo "2228"]
+[PlyCount "52"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "England II"]
+[BlackTeam "Denmark"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O c5 6. c4 Be7 7. Nc3 d5 8. cxd5
+exd5 9. b3 O-O 10. Bb2 Nbd7 11. Rc1 Rc8 12. Bf5 g6 13. Bh3 Ba6 14. Re1 c4 15.
+Ne5 cxb3 16. axb3 Bb4 17. Qf3 Bb7 18. Red1 Bxc3 19. Bxc3 Qe7 20. Qe2 Ne4 21.
+Bb2 Rxc1 22. Rxc1 Nxe5 23. dxe5 Ng5 24. Qg4 Rd8 25. f4 Nxh3+ 26. Qxh3 Qd7
+1/2-1/2
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.14"]
+[Round "4.1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Lenk, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "E98"]
+[WhiteElo "2404"]
+[BlackElo "2212"]
+[PlyCount "97"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Wroclaw"]
+[BlackTeam "Dresden USV TU"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Ne8 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. a4 Ng6 14. a5 Rf7 15. c5 Bf8
+16. cxd6 Nxd6 17. Nd3 h5 18. Nc5 Qf6 19. Qb3 g4 20. fxg4 hxg4 21. Ne6 f3 22.
+gxf3 Nf4 23. fxg4 Nh3+ 24. Kg2 Nxf2 25. g5 Qh8 26. Rxf2 Rxf2+ 27. Kxf2 Qxh2+
+28. Ke3 Qg3+ 29. Bf3 Bxe6 30. dxe6 Be7 31. Rf1 Bxg5+ 32. Ke2 Qh2+ 33. Rf2 Qf4
+34. Nd5 Qd2+ 35. Kf1 Qc1+ 36. Kg2 Kg7 37. Rc2 Qe1 38. Rxc7+ Kg6 39. Qd1 Qxa5
+40. Ne7+ Bxe7 41. Rxe7 Qb4 42. Rd7 Qxb2+ 43. Kg3 Rh8 44. Qg1 Kf6 45. Rxd6 Rg8+
+46. Bg4 Qa3+ 47. Kh2 Qb2+ 48. Kg3 Qa3+ 49. Kh2 1/2-1/2
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.14"]
+[Round "4.3"]
+[White "Cylwik, Zbigniew"]
+[Black "Petzold, Hans"]
+[Result "1-0"]
+[ECO "E46"]
+[WhiteElo "2073"]
+[BlackElo "2155"]
+[PlyCount "87"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Wroclaw"]
+[BlackTeam "Dresden USV TU"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "GER"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d6 6. a3 Bxc3+ 7. Nxc3 Nc6 8.
+Be2 e5 9. O-O Re8 10. d5 Ne7 11. b4 Ng6 12. e4 Qe7 13. Be3 Rf8 14. c5 Ne8 15.
+Bg4 f5 16. exf5 Bxf5 17. cxd6 Nxd6 18. Bxf5 Nxf5 19. Bc5 Nd6 20. Ne4 a6 21. Rc1
+Rad8 22. Bxd6 cxd6 23. g3 h6 24. Rc4 Qf7 25. Qd3 Qf5 26. Rfc1 Qh3 27. Ng5 Qh5
+28. Ne6 e4 29. Rxe4 Ne5 30. Rxe5 Qxe5 31. Nxd8 Rxd8 32. Rc7 Rf8 33. Kg2 Qb2 34.
+Qe3 b5 35. Rd7 Qc2 36. Rxd6 Kh8 37. Rxa6 Qf5 38. Qd4 Qf3+ 39. Kg1 Rd8 40. Ra7
+Qf8 41. Rb7 Rc8 42. Kg2 Rc4 43. Qe5 Kh7 44. d6 1-0
+
+[Event "EU-chT Seniors 10th"]
+[Site "Dresden"]
+[Date "2008.02.14"]
+[Round "4.1"]
+[White "Perman, Torvald"]
+[Black "Feavyour, John"]
+[Result "1-0"]
+[ECO "E08"]
+[WhiteElo "2092"]
+[BlackElo "2094"]
+[PlyCount "99"]
+[EventDate "2008.02.11"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Finnland II"]

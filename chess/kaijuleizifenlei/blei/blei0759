@@ -1,0 +1,600 @@
+[ECO "B81"]
+[WhiteElo "2484"]
+[BlackElo "2588"]
+[PlyCount "35"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6 7. g5 hxg5 8. Bxg5
+Nc6 9. h4 a6 10. Qd2 Qb6 11. Nb3 Qc7 12. O-O-O Bd7 13. Kb1 b5 14. f4 b4 15.
+Bxf6 gxf6 16. Ne2 a5 17. Nbd4 Nxd4 18. Nxd4 1/2-1/2
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.20"]
+[Round "5"]
+[White "Puerto Traver, Juan Manuel"]
+[Black "Sanchez Ruesga, Hector"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2105"]
+[BlackElo "1804"]
+[PlyCount "77"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 g6 2. e4 d6 3. Nc3 Bg7 4. Be3 Nd7 5. Qd2 c6 6. h4 Ngf6 7. f3 b5 8. O-O-O
+Rb8 9. Bh6 Bxh6 10. Qxh6 Qa5 11. Kb1 b4 12. Nce2 Qb6 13. g4 Rg8 14. Ng3 Nf8 15.
+Qd2 a5 16. g5 N6d7 17. f4 a4 18. Nf3 b3 19. cxb3 axb3 20. a3 Ba6 21. Bh3 Qb7
+22. Rc1 c5 23. d5 Nb6 24. Rhd1 Bc4 25. Bf1 Bxf1 26. Nxf1 Nfd7 27. Ne3 Rc8 28.
+e5 Kd8 29. h5 Kc7 30. h6 Kb8 31. Qc3 c4 32. exd6 exd6 33. Qb4 Rc5 34. Nd2 Nxd5
+35. Nxd5 Rxd5 36. Qxb7+ Kxb7 37. Nxc4 Rxd1 38. Rxd1 Kc7 39. Nxd6 1-0
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.20"]
+[Round "6"]
+[White "Alsina Leal, Daniel"]
+[Black "Cifuentes Parada, Roberto"]
+[Result "1/2-1/2"]
+[ECO "B60"]
+[WhiteElo "2455"]
+[BlackElo "2520"]
+[PlyCount "54"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 h6 7. Bxf6 gxf6 8.
+Qd2 Bd7 9. O-O-O Nxd4 10. Qxd4 Qa5 11. Kb1 Rc8 12. Nd5 Qc5 13. Qxc5 Rxc5 14.
+Be2 f5 15. exf5 Bxf5 16. Nc3 Bd7 17. Bf3 b5 18. Rd3 a5 19. Re1 Rg8 20. Nd5 Kd8
+21. g3 Rg5 22. Nf4 Rge5 23. Red1 b4 24. R3d2 Rc8 25. Nd3 Rb5 26. Nf4 Rbc5 27.
+Be4 Be6 1/2-1/2
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.20"]
+[Round "6"]
+[White "Hargues, Franck"]
+[Black "Andres Gonzalez, Ivan"]
+[Result "0-1"]
+[ECO "B99"]
+[WhiteElo "2046"]
+[BlackElo "2375"]
+[PlyCount "66"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+Nbd7 9. O-O-O Be7 10. g4 b5 11. Bxf6 gxf6 12. Re1 Bb7 13. Nd5 Qa5 14. b4 Qxa2
+15. Nxb5 axb5 16. Nc7+ Kd8 17. Nxa8 Qa1+ 18. Kd2 Qd4+ 19. Bd3 Bxa8 20. c3 Qb6
+21. Ra1 Bc6 22. Ra5 h5 23. gxh5 Bf8 24. Qe2 Bh6 25. Bxb5 Bxf4+ 26. Kc2 Be5 27.
+Bxc6 Qxc6 28. c4 Ke7 29. Rd1 Rxh5 30. Rh1 Rh3 31. c5 Rc3+ 32. Kd1 dxc5 33. b5
+Qd6+ 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.20"]
+[Round "6"]
+[White "Hernandez, Elvis"]
+[Black "Martinez Pelaez, David"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2322"]
+[BlackElo "1970"]
+[PlyCount "49"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bf5 7. Ne5 e6 8.
+O-O Be7 9. Be3 O-O 10. Qe2 Nbd7 11. Rad1 Nb6 12. Bd3 Bxd3 13. Rxd3 Nbd5 14.
+Nxd5 cxd5 15. Rb3 Rb8 16. Bf4 Bd6 17. Bg5 Be7 18. Rh3 Ne4 19. Bf4 Rc8 20. Qh5
+Nf6 21. Qh4 g6 22. Bg5 h5 23. Rf3 Kg7 24. Qf4 Ng8 25. Qxf7+ 1-0
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.20"]
+[Round "6"]
+[White "Huesmann, Thomas"]
+[Black "Simutowe, Amon"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2247"]
+[BlackElo "2457"]
+[PlyCount "108"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 Nc6 7. Nc3 Nxc3 8.
+bxc3 d6 9. exd6 Bxd6 10. Bd3 Qa5 11. Bd2 O-O 12. O-O Qh5 13. Re1 b6 14. Ne5
+Qxd1 15. Raxd1 Bxe5 16. dxe5 Bb7 17. Be4 Na5 18. Bxb7 Nxb7 19. Bg5 Rfc8 20. Rd7
+Nc5 21. Rd4 Nb7 22. Red1 h6 23. Bd2 Na5 24. f4 Nc4 25. Bc1 b5 26. R1d3 Rc6 27.
+Rd8+ Rxd8 28. Rxd8+ Kh7 29. Rd7 Ra6 30. a3 Kg6 31. Kf2 Nxa3 32. Be3 Nb1 33. g4
+Nxc3 34. Bd4 Ra2+ 35. Kf3 Ne2 36. Bxa7 b4 37. Rb7 b3 38. Rxb3 Nxf4 39. Kxf4
+Rxa7 40. h4 h5 41. Kg3 hxg4 42. Kxg4 Ra4+ 43. Kh3 Kh5 44. Rf3 Rxh4+ 45. Kg3
+Rg4+ 46. Kh3 Rg5 47. Rxf7 Kg6 48. Ra7 Rxe5 49. Kg4 Rf5 50. Ra6 Rf6 51. Ra5 Rf1
+52. Ra8 e5 53. Re8 Rf4+ 54. Kg3 Kf5 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.20"]
+[Round "6"]
+[White "Narciso Dublan, Marc"]
+[Black "Andres Gonzalez, Alberto"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2513"]
+[BlackElo "2436"]
+[PlyCount "130"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 g6 5. Be2 cxd4 6. cxd4 Bg7 7. Nf3 Nf6 8.
+Nc3 Qa5 9. O-O O-O 10. Qb3 Nc6 11. d5 Nb4 12. Rd1 Rd8 13. Bd2 Na6 14. Nb5 Qb6
+15. Be3 Qa5 16. Ne5 Qb4 17. Bf3 Bd7 18. Nxd7 Rxd7 19. Bxa7 Qxb3 20. axb3 Nb4
+21. d6 exd6 22. Bd4 Rxa1 23. Rxa1 h5 24. Rd1 d5 25. Nc3 Kh7 26. Kf1 h4 27. h3
+Bh8 28. Bc5 Na6 29. Be3 Nb4 30. Rd4 Nc2 31. Rxh4+ Kg8 32. Bg5 Nh7 33. Bd2 d4
+34. Na4 Na1 35. Bd1 Nf8 36. Re4 Ne6 37. Nb6 Rd6 38. Nc4 Rd5 39. b4 b5 40. Na5
+d3 41. b3 Nc2 42. h4 Bg7 43. g4 Bf6 44. g5 Bb2 45. Bg4 Ned4 46. h5 Ba3 47. Re8+
+Kh7 48. Re7 Bxb4 49. Bxb4 Nxb4 50. Rxf7+ Kg8 51. hxg6 Rxg5 52. Rf4 Nbc2 53. Bd1
+Re5 54. Kg2 d2 55. Nc6 Ne1+ 56. Kh3 Nxc6 57. Rf6 Nd3 58. Kg2 Re1 59. Bg4 Nce5
+60. Bh5 Kg7 61. Rf5 d1=Q 62. Bxd1 Rxd1 63. f4 Kxg6 64. Rf8 Nd7 65. f5+ Kg5 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.20"]
+[Round "6"]
+[White "Recuero Guerra, David"]
+[Black "Lafuente, Pablo"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2424"]
+[BlackElo "2489"]
+[PlyCount "74"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6 8.
+Qe2 h6 9. Ne4 Nxe4 10. Qxe4 Nf6 11. Qh4 Qe7 12. O-O Bd7 13. Bf4 O-O-O 14. Bxd6
+Qxd6 15. Qg3 Qxg3 16. hxg3 Kc7 17. c4 Bc8 18. c5 Ng4 19. Bc4 Rhe8 20. Rfe1 h5
+21. Re2 Nh6 22. b4 Nf5 23. Re4 Re7 24. Kf1 Rg8 25. Ke2 Rd8 26. Rd1 Red7 27. Rd2
+g5 28. g4 hxg4 29. Rxg4 f6 30. Re4 Re7 31. Kd1 Rh8 32. Kc2 Ree8 33. Ree2 Ng7
+34. Kc3 Rh1 35. Re1 Rhh8 36. g3 Bd7 37. a4 e5 1/2-1/2
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.21"]
+[Round "7"]
+[White "Argandona Riveiro, Inigo"]
+[Black "Lakunza Plazaola, Asier"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2404"]
+[BlackElo "2018"]
+[PlyCount "78"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. g3 b5 5. Qe2 Bb7 6. Bg2 Nf6 7. e5 Nd5 8. Ne4
+Nc6 9. b3 f5 10. exf6 Nxf6 11. Bb2 Be7 12. Neg5 O-O 13. h4 Nb4 14. d3 Qa5 15.
+Kf1 Rae8 16. a3 Nc6 17. c4 Qc7 18. Re1 Bd6 19. Bxf6 Rxf6 20. Nxh7 Kxh7 21. Ng5+
+Kh6 22. Qe4 Rf5 23. Bh3 Nd4 24. Bxf5 Nxf5 25. Qg4 Rf8 26. Kg1 Bxh1 27. Kxh1 Be7
+28. Nh3 Kh7 29. Nf4 Nxh4 30. Re4 Nf5 31. Qh5+ Nh6 32. Qg6+ Kg8 33. Nh5 Rf7 34.
+Rf4 Qc6+ 35. f3 e5 36. Qxc6 dxc6 37. Rxf7 Kxf7 38. g4 Bh4 39. Kg2 g6 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.21"]
+[Round "7"]
+[White "Garay Lenne, Luis Maria"]
+[Black "Landa Manux, Josu"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2025"]
+[BlackElo "1995"]
+[PlyCount "79"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. Be2 Nc6 7. O-O Bg4 8.
+h3 Bh5 9. Be3 e6 10. Qd2 Be7 11. Rad1 O-O 12. a3 Rad8 13. Rfe1 Bg6 14. Bd3 Bxd3
+15. Qxd3 Nb8 16. Ne5 c5 17. Ne4 Qc7 18. c3 Nc6 19. Nxc6 Qxc6 20. Bg5 c4 21. Qf3
+Nd5 22. Qh5 Bxg5 23. Nxg5 h6 24. Nf3 Nf4 25. Qg4 Nd3 26. Ne5 Nxe5 27. Rxe5 Rd5
+28. Rde1 Rfd8 29. f4 Qb6 30. Qe2 Rb5 31. Rxb5 Qxb5 32. Rf1 Rd5 33. g4 g6 34.
+Rf3 Kg7 35. Re3 Qb3 36. Re5 Rxe5 37. fxe5 f6 38. exf6+ Kxf6 39. Qe5+ Kf7 40.
+Qf4+ 1/2-1/2
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.21"]
+[Round "7"]
+[White "Iglesias Gonzalez, Veronica"]
+[Black "Hargues, Franck"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1784"]
+[BlackElo "2046"]
+[PlyCount "54"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 Qe7
+8. Qe2 Nc6 9. Nf3 O-O-O 10. d5 Nb4 11. a3 Nd3+ 12. Qxd3 Bxd5+ 13. Qe3 Bxf3 14.
+gxf3 Qd7 15. Nc3 Rhe8 16. Ne4 Nxe4 17. fxe4 Rxe4 18. Be2 Rxe3 19. fxe3 Qd2+ 20.
+Kf2 Rd6 21. Rhd1 Rf6+ 22. Kg3 Qxe3+ 23. Kh4 Rh6+ 24. Kg4 Rg6+ 25. Kh4 Qg5+ 26.
+Kh3 Rh6+ 27. Bh5 Rxh5# 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.21"]
+[Round "7"]
+[White "Juez Villar, Erik"]
+[Black "Perez Calahorra, Ricardo"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1897"]
+[BlackElo "2134"]
+[PlyCount "172"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Nge2 Nc6 5. f3 e5 6. Be3 f5 7. d5 Nce7 8. Qd2
+f4 9. Bf2 Nh6 10. h4 Nf7 11. O-O-O O-O 12. Kb1 b5 13. Nxb5 Bd7 14. Nbc3 Nc8 15.
+Ka1 Nb6 16. Nc1 Qe7 17. Bb5 Rfb8 18. Bxd7 Qxd7 19. Nb3 a5 20. Bxb6 Rxb6 21. Rb1
+a4 22. Nc1 Nd8 23. b3 axb3 24. cxb3 Nb7 25. Kb2 Na5 26. Kc2 Rab8 27. Nd3 c5 28.
+Nb2 Bf6 29. Nc4 Ra6 30. Nxa5 Rxa5 31. a4 Bd8 32. Rb2 Ra6 33. Qe2 Rab6 34. Nb5
+R6b7 35. Qc4 Be7 36. Rbb1 Qd8 37. Qc3 Rb6 38. h5 g5 39. Qc4 Kg7 40. h6+ Kg8 41.
+Rbc1 R8b7 42. Kd1 Qa8 43. Ke2 Kf7 44. Kf2 Kg6 45. Qf1 Rxb5 46. axb5 Qa2+ 47.
+Qe2 Qxb3 48. Rb1 Qc4 49. Rhc1 Qd4+ 50. Kf1 Qa4 51. Rc4 Qa7 52. Rc2 g4 53. Ra2
+Qb8 54. Ra6 g3 55. Ke1 Rb6 56. Rxb6 Qxb6 57. Qc4 Qa5+ 58. Ke2 Bd8 59. Kd1 Bb6
+60. Kc2 Kxh6 61. Qc3 Qa2+ 62. Rb2 Qa4+ 63. Kb1 Qd1+ 64. Qc1 Qd3+ 65. Qc2 Qa3
+66. Qb3 Qa5 67. Qd1 Qc3 68. Qa4 Qe1+ 69. Ka2 Qc3 70. Qc2 Qa5+ 71. Kb1 Qe1+ 72.
+Qc1 Qa5 73. Kc2 c4 74. Kb1 c3 75. Rb3 Bd4 76. Qa3 Qc7 77. Kc2 Qc4 78. Rxc3 Qe2+
+79. Kb1 Bxc3 80. Qxd6+ Kh5 81. Qa3 Qxb5+ 82. Kc2 Bd4 83. Qf8 Qc5+ 84. Qxc5 Bxc5
+85. Kb3 Kg5 86. Kc4 Ba3 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.21"]
+[Round "7"]
+[White "Lopez Martinez, Josep Manuel"]
+[Black "Spraggett, Kevin"]
+[Result "0-1"]
+[ECO "B04"]
+[WhiteElo "2550"]
+[BlackElo "2588"]
+[PlyCount "90"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. c4 Nb6 6. exd6 cxd6 7. h3 Bg7 8. Nc3
+O-O 9. Bg5 h6 10. Be3 e5 11. Qd2 Kh7 12. O-O-O Nc6 13. dxe5 dxe5 14. Qxd8 Rxd8
+15. Rxd8 Nxd8 16. c5 Nd7 17. Nd2 f5 18. f3 Ne6 19. Nb3 Bf8 20. Na4 Nf6 21. Bc4
+Bd7 22. Rd1 Nf4 23. Bxf4 exf4 24. Nc3 Rc8 25. Nd5 Nxd5 26. Rxd5 Rc7 27. Kd2 Kg7
+28. Rd4 g5 29. Kd3 Kg6 30. Bd5 Kh5 31. Rb4 Bc8 32. Nd4 Re7 33. Rc4 Re5 34. Bf7+
+Kh4 35. c6 b5 36. Rc2 Re3+ 37. Kd2 Bb4+ 38. Rc3 Kg3 39. Nxb5 Re7 40. Bg6 Kxg2
+41. Nd4 Re5 42. a3 Bxc3+ 43. Kxc3 Kxh3 44. b4 g4 45. c7 g3 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.21"]
+[Round "7"]
+[White "Mateo, Ramon"]
+[Black "Puerto Traver, Juan Manuel"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2484"]
+[BlackElo "2105"]
+[PlyCount "62"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. h3 e5 5. Nge2 Be7 6. g4 b5 7. a3 a6 8. Bg2 O-O
+9. Be3 Re8 10. Ng3 exd4 11. Qxd4 h6 12. O-O Bf8 13. Rad1 Bb7 14. g5 hxg5 15.
+Bxg5 Nbd7 16. Nf5 c5 17. Qd3 b4 18. Ne2 Qb6 19. Neg3 a5 20. Rfe1 d5 21. exd5
+Ne5 22. Qd2 Nc4 23. Qf4 Nxb2 24. Nh6+ gxh6 25. Bxf6 Nxd1 26. Qg4+ Kh7 27. Qf5+
+Kg8 28. Be4 Rxe4 29. Rxe4 Nxf2 30. Kxf2 c4+ 31. Kf1 Bc5 1-0
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Alsina Leal, Daniel"]
+[Black "Martin Alvarez, Inigo"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2455"]
+[BlackElo "2189"]
+[PlyCount "121"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qxf6 Nxf6 9. Nc3 Nb4 10. Kd2 d5 11. a3 d4 12. axb4 dxc3+ 13. Ke3 cxb2 14. Bxb2
+Be6 15. Be2 Nd7 16. c4 f6 17. Rhd1 Kf7 18. Rd6 Rac8 19. Rad1 Nb8 20. Rb6 Rc7
+21. g3 Nd7 22. Rbd6 Nb8 23. c5 a5 24. bxa5 Rxc5 25. Rb6 Bc8 26. Rb5 Rxb5 27.
+Bxb5 Be6 28. f4 Rc8 29. f5 Bb3 30. Rd3 Bc2 31. Rd6 Rc7 32. g4 Ke7 33. Re6+ Kf7
+34. Be8+ Kg8 35. Bh5 Ba4 36. Rd6 Nd7 37. g5 Rc5 38. Be8 Rc2 39. Bxd7 Bxd7 40.
+Bxe5 fxe5 41. Rxd7 Rc3+ 42. Kf2 Rc2+ 43. Ke3 Rxh2 44. Rxb7 Rh3+ 45. Kf2 Ra3 46.
+Rb5 h5 47. g6 Kf8 48. Rxe5 h4 49. Kg2 Re3 50. a6 Ra3 51. Re6 h3+ 52. Kh2 Rf3
+53. a7 Ra3 54. a8=Q+ Rxa8 55. Kxh3 Ra4 56. Kg4 Ra1 57. Kf4 Rb1 58. Ra6 Rb8 59.
+e5 Re8 60. f6 Rb8 61. Ra7 1-0
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Bellia, Fabrizio"]
+[Black "Andres Gonzalez, Ivan"]
+[Result "1-0"]
+[ECO "B89"]
+[WhiteElo "2405"]
+[BlackElo "2375"]
+[PlyCount "91"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 a6 9. O-O-O Qc7 10. Bb3 Bd7 11. Rhe1 b5 12. f3 Na5 13. Kb1 Nc4 14. g4 Nxe3
+15. Qxe3 b4 16. Nce2 a5 17. Qd3 a4 18. Bc4 O-O 19. g5 Nh5 20. h4 Rfc8 21. b3
+axb3 22. Bxb3 Ba4 23. f4 Qa5 24. Rd2 Bf8 25. Qf3 g6 26. f5 Bxb3 27. cxb3 exf5
+28. exf5 Qe5 29. Rf1 Bg7 30. f6 Bf8 31. Nc6 Qe8 32. Rc2 d5 33. Qxd5 h6 34. Rfc1
+Kh7 35. Ned4 Nf4 36. Qf3 Ne6 37. Qd5 Nf4 38. Qf3 Ne6 39. Nxe6 Qxe6 40. Rc4 h5
+41. Qe4 Qh3 42. Qd5 Kg8 43. Ne5 Qf5+ 44. Kb2 Qf2+ 45. R1c2 Qa7 46. Rxc8 1-0
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Hargues, Franck"]
+[Black "Recuero Guerra, David"]
+[Result "0-1"]
+[ECO "B65"]
+[WhiteElo "2046"]
+[BlackElo "2424"]
+[PlyCount "88"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Kb1 h6 12. Bh4 e5 13. Qd2 Nxe4 14. Nxe4
+Qxd2 15. Rxd2 Bxh4 16. Nxd6 exf4 17. Nxc8 Raxc8 18. Be2 Rcd8 19. Rhd1 Rxd2 20.
+Rxd2 Re8 21. Bf3 Re1+ 22. Rd1 Rxd1+ 23. Bxd1 Kf8 24. c4 Bf2 25. Kc2 Ke7 26. Kd3
+f5 27. b4 b6 28. Bf3 Kf6 29. Ke2 Bd4 30. Kd3 Bg1 31. h3 Kg5 32. a4 Kh4 33. c5
+bxc5 34. b5 c4+ 35. Kxc4 g5 36. Kd3 g4 37. Bd5 Kg3 38. Ke2 Bb6 39. Bc6 f3+ 40.
+Kf1 fxg2+ 41. Bxg2 h5 42. hxg4 fxg4 43. a5 Bc5 44. Bd5 Kh2 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Hernandez, Elvis"]
+[Black "Jimenez Crespo, Inigo"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2322"]
+[PlyCount "67"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. f3 b5 8. Qd2
+Nbd7 9. g4 h6 10. a3 Bb7 11. O-O-O Nb6 12. h4 d5 13. Qf2 Nfd7 14. exd5 Nxd5 15.
+Nxd5 Bxd5 16. Rg1 Qc7 17. f4 b4 18. axb4 Bxb4 19. Bg2 Nf6 20. Bxd5 Nxd5 21. f5
+Rc8 22. g5 Nxe3 23. Qxe3 hxg5 24. fxe6 O-O 25. Rxg5 fxe6 26. Qxe6+ Qf7 27. Rdg1
+Kh8 28. Qxf7 Rxf7 29. Nf5 Rcf8 30. Rh5+ Kg8 31. Nh6+ Kh7 32. Nxf7+ Kg8 33. Nh6+
+Kh7 34. Nf5+ 1-0
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Juaristi Izaga, Juan Ignacio"]
+[Black "Campos Urbaneja, Ricardo"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1596"]
+[PlyCount "78"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. h3 c6 5. Nc3 e6 6. Bg5 Ne7 7. Qd2 Nd7 8. Bc4
+Nb6 9. Bb3 a5 10. a4 O-O 11. O-O Qc7 12. Bh6 d5 13. Bxg7 Kxg7 14. e5 Nd7 15.
+Qg5 Nf5 16. g4 h6 17. Qd2 Ne7 18. Ne2 b5 19. c3 bxa4 20. Bxa4 Nb6 21. Bc2 Nc4
+22. Qc1 Ba6 23. Re1 c5 24. b3 Nb6 25. Rxa5 Bxe2 26. Rxc5 Qa7 27. Rxe2 Nd7 28.
+Rb5 Qa6 29. Bd3 Rfb8 30. Rxb8 Qxd3 31. Re3 Qa6 32. Rxa8 Qxa8 33. b4 Nb6 34. Nd2
+g5 35. Rf3 Ng6 36. Re3 Nf4 37. Kh2 Nc4 38. Nxc4 dxc4 39. Qb1 Qg2# 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Krulich, Roman"]
+[Black "Lafuente, Pablo"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "2240"]
+[BlackElo "2489"]
+[PlyCount "54"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. c5 Nc6 7. Nf3 Ne4 8. Qc2
+Nxc3 9. Qxc3 a5 10. a3 Be7 11. Rb1 O-O 12. Bd3 Bf6 13. O-O a4 14. Bc2 b6 15. b4
+axb3 16. Rxb3 bxc5 17. Qxc5 Ba6 18. Bd3 Na5 19. Rb5 Bxb5 20. Bxb5 Nb3 21. Qc3
+Nxc1 22. Rxc1 Rc8 23. Qb2 Rxc1+ 24. Qxc1 Qb6 25. Qb2 Rb8 26. a4 Qa5 27. Qc2
+Rxb5 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Lakunza Plazaola, Asier"]
+[Black "Huerga Leache, Mikel"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "2018"]
+[BlackElo "2440"]
+[PlyCount "78"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne8 10. Nc3 Bg4 11. Bxc6 bxc6 12. Na4 f6 13. e6 Bxf3 14. Qxf3 Qa5
+15. Nc3 Rb8 16. Rb1 f5 17. Bg5 Rb7 18. Red1 Nd6 19. Qe3 f4 20. Qd2 f3 21. g4
+Qd8 22. Re1 Nc4 23. Qd1 Qb6 24. b3 Nd6 25. Be3 Qd8 26. Na4 Ne4 27. Nc5 Nxc5 28.
+dxc5 Rb4 29. h3 h5 30. a3 Re4 31. Bg5 Rd4 32. Qc2 Qe8 33. gxh5 Rf5 34. h4 Rg4+
+35. Kf1 Qb8 36. Re3 Qh2 37. Ke1 Qg1+ 38. Kd2 Qxf2+ 39. Kd3 Rd4+ 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Marchena Hurtado, Javier"]
+[Black "Parfett, Gerald F"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "1809"]
+[BlackElo "1648"]
+[PlyCount "75"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Be7 7. Bd3 Nc6 8.
+Nge2 Bf6 9. Be3 O-O 10. b3 Bg4 11. f3 Bh5 12. O-O Bg6 13. Ne4 Bxe4 14. fxe4 Re8
+15. Rc1 a5 16. a4 g6 17. Bb1 Bg7 18. Qd2 Nd7 19. Rcd1 Nf6 20. Ng3 Qd7 21. Bh6
+Re7 22. Bg5 Ne8 23. Bxe7 Nxe7 24. Rf3 b6 25. Ne2 c6 26. Rdf1 f6 27. b4 c5 28.
+b5 Rd8 29. Rd1 Rc8 30. Ba2 Kh8 31. Nf4 f5 32. dxc5 Rxc5 33. exf5 Nxf5 34. Kh1
+Be5 35. Nd3 Qe7 36. Nxc5 dxc5 37. Qd7 Qh4 38. Qxe8+ 1-0
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Martinez Pelaez, David"]
+[Black "Argandona Riveiro, Inigo"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1970"]
+[BlackElo "2404"]
+[PlyCount "72"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Be3 Nc6 5. Qd2 e5 6. Nge2 f5 7. f3 Nf6 8. O-O-O
+O-O 9. exf5 gxf5 10. dxe5 dxe5 11. Qxd8 Rxd8 12. Rxd8+ Nxd8 13. Nb5 Nd5 14. Bf2
+a6 15. Nec3 Nxc3 16. Nxc3 Be6 17. Be2 Nc6 18. Rd1 Nd4 19. Bf1 Rd8 20. Ne2 c5
+21. Nxd4 cxd4 22. Bd3 Kf7 23. h3 h5 24. Rg1 Rg8 25. Kb1 Bh6 26. b3 Bf4 27. g3
+Be3 28. Bxe3 dxe3 29. c4 Ke7 30. Kc2 e4 31. fxe4 f4 32. Be2 Bxh3 33. Bxh5 Rxg3
+34. Re1 f3 35. Bxf3 Rxf3 36. Kd3 Bf1+ 0-1
+
+[Event "San Sebastian op 31st"]
+[Site "Donostia"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Mateo, Ramon"]
+[Black "San Segundo Carrillo, Pablo"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "2484"]
+[BlackElo "2542"]
+[PlyCount "62"]
+[EventDate "2008.03.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Bf4 Bb4 7. Bd3 dxc4 8.
+Bxc4 O-O 9. Nge2 a6 10. a3 Be7 11. Qd3 b5 12. Qf3 Ra7 13. Bd3 Rd7 14. Rd1 Bb7

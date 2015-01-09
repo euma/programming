@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Be3 Ne4 7. Qg4 Kf8 8. a3
+Bxc3+ 9. bxc3 c5 10. Bd3 Nxc3 11. dxc5 Nc6 12. Nf3 f5 13. Qh4 Qxh4 14. Nxh4 Kf7
+15. f4 d4 16. Bf2 Rd8 17. Bc4 Na5 18. Ba2 g6 19. Nf3 Nc6 20. Bc4 a6 21. h4 Na4
+22. O-O-O Nxc5 23. Nxd4 Ne4 24. Be3 Nxd4 25. Bxd4 b5 26. Bb3 Bb7 27. Bb6 Rxd1+
+28. Rxd1 Bc6 29. Be3 Rc8 30. Kb2 a5 31. Rd3 Rb8 32. c3 Ke7 33. Kc2 Rb7 34. c4
+bxc4 35. Bxc4 Ba4+ 36. Bb3 Bb5 37. Rd4 Nc5 38. Bc4 Ba4+ 39. Kc1 Rc7 40. Kb2 Bc6
+41. Bd2 Ra7 42. Rd6 Bd7 43. Be1 Ne4 44. Rb6 Rc7 45. Bb5 Ra7 46. a4 Nc5 47. Ka3
+Bxb5 48. axb5 Rd7 49. Bxa5 Rd3+ 50. Kb4 Rd5 51. Rb8 Nd3+ 52. Kc4 Nxf4 53. Bc7
+Kd7 54. Bd6 Nxg2 55. Rb7+ Kd8 56. Rb8+ Kd7 57. Rb7+ Kd8 58. b6 Ne3+ 59. Kb4 Rd1
+60. Rb8+ Kd7 61. Kc5 Rd5+ 62. Kb4 Kc6 63. Rg8 Kxb6 64. Rxg6 Rd4+ 65. Kc3 Rxh4
+66. Rxe6 Nd5+ 67. Kd2 Kb5 68. Re8 Kc4 69. e6 Rd4+ 70. Ke1 Kd3 71. e7 Re4+ 72.
+Kf2 Re2+ 73. Kf1 Re6 74. Rd8 Nxe7 75. Bxe7+ Ke3 76. Bc5+ Kf3 77. Rd3+ Kg4 78.
+Bf2 f4 79. Kg2 Rf6 80. Rh3 f3+ 81. Kh2 Re6 82. Rh4+ Kg5 83. Kg3 h5 84. Rc4 Rf6
+85. Be3+ Kg6 86. Bf4 Ra6 87. Kxf3 Ra3+ 88. Be3 Ra6 89. Rc5 Rf6+ 90. Ke4 Re6+
+91. Kd3 Rd6+ 92. Ke2 Rf6 93. Rg5+ Kh6 94. Rg3+ Kh7 95. Kd3 Rg6 96. Rh3 Rd6+ 97.
+Ke4 Kg6 98. Rg3+ Kf6 99. Bd4+ Ke6 100. Rg7 Rc6 101. Rh7 Rc1 102. Rh6+ Kf7 103.
+Rxh5 Re1+ 104. Be3 Kg6 105. Rh6+ Kf7 106. Rc6 Kg7 107. Kf4 Kf7 108. Bd4 Re6
+109. Rc5 Re1 110. Rc6 Re6 111. Rc1 Ke8 112. Kf5 Kd7 113. Be5 Rc6 114. Rd1+ Kc8
+115. Rb1 Ra6 116. Rc1+ Kb7 117. Ke4 Rc6 118. Rg1 Kb6 119. Rb1+ Kc5 120. Bd4+
+Kd6 121. Rg1 Ke6 122. Rg5 Rc1 123. Rg6+ Kf7 124. Rf6+ Ke7 125. Kd5 Rh1 126. Rg6
+Rd1 127. Rg7+ Kf8 128. Rb7 Rd2 129. Ke5 Rc2 130. Kf5 Rc1 131. Bf6 Rf1+ 132. Ke6
+Re1+ 133. Be5 Kg8 134. Rb8+ Kh7 135. Rh8+ Kg6 136. Rg8+ Kh7 137. Rg2 Re3 138.
+Kf7 Rh3 139. Bf6 Kh6 140. Rg5 Rb3 141. Rg4 Rb7+ 142. Be7 Rb5 143. Rh4+ Rh5 144.
+Rf4 Rb5 145. Bf6 Rb7+ 146. Ke6 Rb6+ 147. Kf5 Rb5+ 148. Be5 Kh5 149. Rf2 Rb4
+150. Rg2 Ra4 151. Rg5+ Kh4 152. Rg2 1/2-1/2
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.11"]
+[Round "9"]
+[White "Borosova, Zuzana"]
+[Black "Hamrakulova, Yulduz"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2254"]
+[BlackElo "2145"]
+[PlyCount "89"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Nd7
+8. Qd2 O-O 9. O-O-O Nc5 10. Be3 Re8 11. Kb1 Bf6 12. Nd4 Ne4 13. Qc1 c5 14. Ne2
+Qb6 15. Ka1 Be7 16. f3 Nf6 17. Nf4 Be6 18. g4 Qc6 19. Rg1 d5 20. Nxe6 Qxe6 21.
+Qd2 Red8 22. Bh3 Ne8 23. f4 Qh6 24. Qg2 Nc7 25. g5 Qb6 26. Bc1 d4 27. c4 Qa6
+28. Qe4 Bf8 29. Bf1 Re8 30. Qf3 Rab8 31. f5 f6 32. gxf6 Qxf6 33. Bg5 Qf7 34. f6
+Ne6 35. h4 g6 36. h5 Nxg5 37. Rxg5 Bh6 38. hxg6 hxg6 39. Rxc5 Re6 40. Qg3 Rbe8
+41. Bg2 Re3 42. Qh4 Kh7 43. Rh1 Qxf6 44. Qxh6+ Kg8 45. Bd5+ 1-0
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.11"]
+[Round "9"]
+[White "Chierici, Marianna"]
+[Black "Corke, Anya Sun"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2037"]
+[BlackElo "2255"]
+[PlyCount "70"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. g3 dxe4 6. dxe4 Bb7 7. Qe2 Nc6 8. c3
+a5 9. Bg2 Ba6 10. c4 e5 11. O-O Bc5 12. Nb3 Bd6 13. Be3 a4 14. Nbd2 a3 15. b3
+O-O 16. Nh4 Re8 17. Nf5 Bf8 18. Rfd1 g6 19. Nh4 Qe7 20. Nb1 Rad8 21. Nc3 Nd4
+22. Qf1 Nc2 23. Rac1 Nxe3 24. fxe3 c6 25. Qf2 Ng4 26. Qe2 Qg5 27. Re1 Bc5 28.
+Nd1 Rxd1 29. Qxd1 Bxe3+ 30. Kf1 Nxh2+ 31. Ke2 Bxc1 32. Qxc1 Qxg3 33. Qe3 Qxh4
+34. Qxb6 Bc8 35. Qg1 Rd8 0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.12"]
+[Round "10"]
+[White "Acar, Gizem"]
+[Black "Daulyte, Deimante"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "1931"]
+[BlackElo "2288"]
+[PlyCount "118"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O d6 6. c3 g6 7. d4 Qe7 8. Nbd2
+Bg7 9. h3 O-O 10. Re1 Bd7 11. Nf1 Rae8 12. Ng3 Kh8 13. a4 Ng8 14. dxe5 dxe5 15.
+b3 Qd8 16. Ba3 Nge7 17. Qc2 Na5 18. Bf1 Be6 19. c4 Qc8 20. b4 Nac6 21. b5 Nd4
+22. Nxd4 exd4 23. Rad1 c5 24. bxc6 Qxc6 25. e5 Rg8 26. Bd6 Nf5 27. Ne4 Bd7 28.
+c5 Qxa4 29. Qxa4 Bxa4 30. Ra1 Bc6 31. Bc4 Bxe4 32. Bxf7 Bc6 33. e6 Ra8 34. Bxg8
+Kxg8 35. Be5 Bxe5 36. Rxe5 a5 37. Ra3 a4 38. Kf1 d3 39. Ke1 Bb5 40. Kd2 Kf8 41.
+Re4 Ke7 42. Rb4 Ra5 43. Rg4 Kxe6 44. Rxg6+ Kd5 45. Rf6 Nd4 46. Rxh6 Nc2 47.
+Rh5+ Kc6 48. Rh6+ Kc7 49. Ra2 a3 50. Rh4 Kc6 51. Kc3 Ra8 52. Rh6+ Kxc5 53. Rh5+
+Kb6 54. Rh4 Rd8 55. Kd2 Kc5 56. Rh7 Bc6 57. g4 Kc4 58. f4 Kb3 59. Rxa3+ Nxa3
+0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.12"]
+[Round "10"]
+[White "Efroimski, Marsel"]
+[Black "Middelveld, Martine"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "2091"]
+[BlackElo "2073"]
+[PlyCount "76"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Ngf3 Nc6 7. Bd3 g6 8. h4
+Be7 9. h5 g5 10. h6 Qb6 11. Rh5 cxd4 12. cxd4 Nxd4 13. Nxd4 Qxd4 14. Nf3 Qg4
+15. Nxg5 Bb4+ 16. Bd2 Bxd2+ 17. Kxd2 Qf4+ 18. Ke1 Nxe5 19. g3 Qb4+ 20. Kf1 Nxd3
+21. Qxd3 Bd7 22. Kg2 Qc4 23. Qf3 f5 24. Rh4 Qc5 25. Re1 O-O-O 26. Nf7 Bc6 27.
+Qf4 d4+ 28. Kh2 d3 29. Nxd8 Rxd8 30. Rd1 Qd5 31. f3 d2 32. Kg2 Qd3 33. Rhh1
+Qe2+ 34. Kh3 Bxf3 35. Rhg1 Bg4+ 36. Kh4 Qh2+ 37. Kg5 Qh5+ 38. Kf6 Qg6+ 0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.12"]
+[Round "10"]
+[White "Nemcova, Katerina"]
+[Black "Guo Qi"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2372"]
+[BlackElo "2048"]
+[PlyCount "144"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Be3 Ne4 7. Qg4 g6 8. a3
+Bxc3+ 9. bxc3 h5 10. Qf4 c5 11. Bd3 g5 12. Qf3 Nxc3 13. dxc5 d4 14. Bd2 Nc6 15.
+Qg3 Qd5 16. Qxg5 Qxe5+ 17. Ne2 Nxe2 18. Bxe2 Qxg5 19. Bxg5 e5 20. Rb1 f5 21.
+Bc4 Rh7 22. O-O h4 23. Rfe1 h3 24. Bf6 e4 25. g3 Rh6 26. Bg5 Rh7 27. f3 Ne5 28.
+Be2 Be6 29. fxe4 fxe4 30. Bf4 Nc6 31. Bb5 Bd5 32. Rbd1 O-O-O 33. Bxc6 Bxc6 34.
+Bd6 Rf7 35. Rxd4 Rf3 36. a4 Re8 37. Rf1 Re6 38. Bf4 Rc3 39. Rfd1 Re8 40. Bg5
+Rxc5 41. Be3 Rxc2 42. R4d2 Rxd2 43. Rxd2 Bxa4 44. Bxa7 Bb5 45. Kf2 Bd3 46. Ke3
+b5 47. Rf2 Kb7 48. Bd4 Kc6 49. Rf6+ Kd5 50. g4 Ra8 51. Rf5+ Kc4 52. Rc5+ Kb3
+53. Rh5 b4 54. Rxh3 Ka2 55. Rg3 b3 56. Rg2+ Bc2 57. g5 Rf8 58. Rf2 Rc8 59. g6
+b2 60. Bxb2 Kxb2 61. g7 Rg8 62. Rg2 Kc3 63. h4 Bb3 64. h5 Re8 65. h6 Bg8 66.
+Rf2 Bh7 67. Rf8 Re6 68. Rh8 Rxh6 69. Rxh7 Rg6 70. Kxe4 Rg1 71. Kf5 Kd4 72. Rh4+
+Kd5 1-0
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.12"]
+[Round "10"]
+[White "Nikolova, Adriana"]
+[Black "Ozturk, Kubra"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "2242"]
+[BlackElo "2188"]
+[PlyCount "134"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 Qd6 8.
+Nxd4 Bd7 9. Bh4 Qh6 10. Nf3 Bd6 11. Qd4 Ne7 12. Rd1 O-O 13. Bg3 Bxg3 14. hxg3
+Bg4 15. Qe5 Rae8 16. Re1 f5 17. Nbd2 Nd5 18. Qd4 fxe4 19. Rxe4 Rxe4 20. Qxe4
+Bf5 21. Qc4 Qf6 22. Qb3 Bc8 23. Re1 h6 24. Ne4 Qf7 25. Ned2 Nb6 26. Re7 Qxb3
+27. axb3 Nd5 28. Re5 Rf5 29. Re2 c5 30. Nc4 Rf8 31. Re5 Rd8 32. Na5 Nb4 33. Re7
+b6 34. Nc4 Nd5 35. Re5 a5 36. c3 Nf6 37. Ne3 Kf7 38. Kf1 Be6 39. c4 Bc8 40. Ke2
+Bb7 41. Ne1 g6 42. Nd5 Nxd5 43. cxd5 Bxd5 44. Nd3 Bxb3 45. Nf4 g5 46. Rf5+ Kg7
+47. Nh3 Bc4+ 48. Ke1 Be6 49. Re5 Kf6 50. Re3 Bxh3 51. gxh3 a4 52. Rf3+ Kg6 53.
+Re3 Rd4 54. g4 Rb4 55. Re2 Kf6 56. Kd1 b5 57. Kc1 Rc4+ 58. Kb1 b4 59. Re8 b3
+60. Rc8 Re4 61. Kc1 Re1+ 62. Kd2 Rb1 63. Kc3 Rc1+ 64. Kd3 a3 65. Rxc7 axb2 66.
+Rc6+ Ke7 67. Rc7+ Kd6 0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.12"]
+[Round "10"]
+[White "Preethi, Rajkumar"]
+[Black "Severiukhina, Zoja"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "2183"]
+[BlackElo "2300"]
+[PlyCount "66"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. Nf3 Nc6 7. e5 Be7 8. a3
+O-O 9. Bd3 f6 10. exf6 Bxf6 11. O-O g6 12. Bb5 Ne7 13. Qd2 a6 14. Be2 Qd6 15.
+Na4 b6 16. Rfd1 Bd7 17. Nc3 Bg7 18. Na2 Rf5 19. c4 Raf8 20. Qe3 dxc4 21. Nc3
+Nd5 22. Qd2 Nf4 23. Bf1 Bc6 24. Ne5 Bxe5 25. dxe5 Qxe5 26. Bxc4 Nh3+ 27. gxh3
+Rg5+ 28. Kf1 Bg2+ 29. Kg1 Bxh3+ 30. Kh1 Bg2+ 31. Kg1 Bd5+ 32. Kf1 Bxc4+ 33. Ne2
+Qxh2 0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.13"]
+[Round "11"]
+[White "Abrahamyan, Tatev"]
+[Black "Guo Qi"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2277"]
+[BlackElo "2048"]
+[PlyCount "111"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. g3 dxe4 6. dxe4 Bb7 7. Qe2 Ba6 8. c4
+Nc6 9. e5 Nd7 10. Bg2 Bb7 11. O-O Nc5 12. Nb3 Qd3 13. Qxd3 Nxd3 14. Nfd4 Ndxe5
+15. f4 O-O-O 16. fxe5 Nxd4 17. Bg5 Rd7 18. Nxd4 Bc5 19. Bxb7+ Kxb7 20. Be3 Bxd4
+21. Bxd4 Rxd4 22. Rxf7 Rhd8 23. Rxg7 Rxc4 24. Rxh7 Rd2 25. b3 Rcc2 26. a4 Re2
+27. Kh1 Rxe5 28. Rg1 b5 29. axb5 Rxb5 30. g4 Rg5 31. h4 Rd5 32. Rg2 Rc3 33. Re2
+Rd4 34. g5 Rh3+ 35. Kg2 Rdd3 36. b4 Rdg3+ 37. Kf2 Rg4 38. Re3 Rf4+ 39. Ke2 Rh2+
+40. Kd3 Rhxh4 41. Rxh4 Rxh4 42. Rg3 Kc6 43. Kc3 Kd5 44. g6 Rh8 45. Rg5+ e5 46.
+g7 Rg8 47. Kd3 Ke6 48. Ke4 Kf6 49. Rf5+ Kxg7 50. Rg5+ Kf7 51. Rxg8 Kxg8 52.
+Kxe5 Kf7 53. Kd5 Ke7 54. Kc6 Kd8 55. Kb7 Kd7 56. Kxa7 1/2-1/2
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.13"]
+[Round "11"]
+[White "Berke, Ana"]
+[Black "Efroimski, Marsel"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2100"]
+[BlackElo "2091"]
+[PlyCount "66"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. g3 dxe4 6. dxe4 Bb7 7. Qe2 Ba6 8. c4
+Nc6 9. e5 Nd7 10. a3 Bb7 11. Rg1 a5 12. b3 Nc5 13. Bb2 Qe7 14. Qe3 O-O-O 15.
+O-O-O g6 16. Ng5 Bg7 17. f4 f6 18. Ngf3 Rd7 19. Be2 Rhd8 20. Nb1 fxe5 21. fxe5
+Qf8 22. g4 a4 23. bxa4 Na5 24. Nd4 Qh8 25. Nf3 Nab3+ 26. Kc2 Be4+ 27. Kc3 Bxe5+
+28. Kb4 Bxb2 29. Ng5 Bc2 30. Qf3 Nb7 31. Rxd7 Rxd7 32. Nxe6 Qe8 33. Qc6 Qxe6
+0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.13"]
+[Round "11"]
+[White "Bodnaruk, Anastasia"]
+[Black "Corke, Anya Sun"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2394"]
+[BlackElo "2255"]
+[PlyCount "85"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 f6 5. Bb5 Bd7 6. Nf3 Qe7 7. O-O Qf7 8. Re1
+Nge7 9. Qe2 O-O-O 10. a4 fxe5 11. dxe5 h6 12. a5 Nf5 13. Rd1 g5 14. h3 Rg8 15.
+a6 b6 16. Nxd5 exd5 17. e6 Qxe6 18. Qxe6 Bxe6 19. Bxc6 Bg7 20. Re1 Bf7 21. g4
+Nd6 22. Ne5 Bf6 23. Bb7+ Nxb7 24. axb7+ Kxb7 25. Nxf7 Rde8 26. Bd2 Bxb2 27.
+Rab1 Bg7 28. f4 gxf4 29. Bxf4 Bd4+ 30. Kg2 Rgf8 31. Rxe8 Rxe8 32. Nxh6 Re2+ 33.
+Kf3 Rf2+ 34. Kg3 Rxc2 35. Nf5 Bf2+ 36. Kf3 Bc5 37. g5 Rf2+ 38. Kg3 Re2 39. h4
+Re8 40. g6 a5 41. g7 a4 42. h5 a3 43. h6 1-0
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.13"]
+[Round "11"]
+[White "Chierici, Marianna"]
+[Black "Acar, Gizem"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2037"]
+[BlackElo "1931"]
+[PlyCount "187"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. e5 Nfd7 6. g3 c5 7. c3 Ba6 8. Qa4 b5
+9. Qf4 Nc6 10. Be2 h6 11. d4 c4 12. O-O Bb7 13. Qe3 Ne7 14. Bd1 Nf5 15. Qe2 b4
+16. Bc2 bxc3 17. bxc3 Ne7 18. Rb1 Rb8 19. Ba3 Nc6 20. Bxf8 Kxf8 21. Qe3 Ke7 22.
+Nh4 g5 23. Ng2 Qg8 24. f4 Bc8 25. Ba4 Bb7 26. f5 Nb6 27. Bc2 Bc8 28. fxe6 Bxe6
+29. Qf3 Qg7 30. Rb5 g4 31. Qe2 Nd7 32. Rfb1 Rxb5 33. Rxb5 Rb8 34. Rxb8 Ncxb8
+35. Nh4 Qg5 36. Kf2 h5 37. Qe3 Qxe3+ 38. Kxe3 f6 39. Ng6+ Kf7 40. Kf4 Nc6 41.
+exf6 Kxf6 42. Nh4 Ne7 43. Ba4 Nc8 44. Nf1 Nd6 45. Bc2 Bf7 46. Ne3 Nf8 47. Nef5
+Nb5 48. a4 Nxc3 49. Nd6 Ng6+ 50. Nxg6 Bxg6 51. Bxg6 Kxg6 52. a5 Nd1 53. Nb5 c3
+54. Na3 Kf6 55. Nc2 Nb2 56. Ke3 Nc4+ 57. Kd3 Nxa5 58. Nb4 Ke6 59. Kxc3 Nb7 60.
+Nd3 Nd6 61. Nf4+ Kf5 62. Nxd5 Ne4+ 63. Kb4 Nf6 64. Nc3 Ke6 65. Kc5 Nd7+ 66. Kc6
+Nb6 67. Nb5 Nd5 68. Nxa7 Ne7+ 69. Kc5 Nf5 70. d5+ Kd7 71. Nc6 h4 72. gxh4 Nxh4
+73. Ne5+ Ke7 74. Nxg4 Nf5 75. h3 Kd7 76. Nf6+ Ke7 77. Ne4 Kd7 78. Ng5 Nh4 79.
+Kd4 Ng6 80. Nf3 Kd6 81. Ng5 Nf4 82. Ne4+ Ke7 83. h4 Kf7 84. Kc5 Kg6 85. Ng3 Kf6
+86. Kc6 Ke7 87. d6+ Kd8 88. Nf5 Nd3 89. h5 Ne5+ 90. Kd5 Nf7 91. Ke6 Ke8 92. d7+
+Kf8 93. h6 Nd8+ 94. Kf6 1-0
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.13"]
+[Round "11"]
+[White "Soumya, Swaminathan"]
+[Black "Mamedjarova, Turkan"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2293"]
+[BlackElo "2284"]
+[PlyCount "67"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Bc4 d6 5. O-O O-O 6. Nd5 Nxd5 7. Bxd5 c6 8.
+Bb3 Qf6 9. c3 Ba5 10. d4 Bg4 11. h3 Bxf3 12. Qxf3 Qxf3 13. gxf3 Nd7 14. f4 Rae8
+15. fxe5 dxe5 16. f3 Bb6 17. Be3 Kh8 18. Bc2 exd4 19. Bxd4 c5 20. Bf2 Ne5 21.
+f4 Nc4 22. e5 Nxb2 23. Be4 f6 24. a4 fxe5 25. a5 Bc7 26. Bxc5 Rxf4 27. Bxb7 Nc4
+28. Bd5 Nd6 29. Rxf4 exf4 30. Bxa7 Re5 31. Bb6 Rg5+ 32. Kf1 Rxd5 33. Bxc7 Nc8
+34. Re1 1-0
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.14"]
+[Round "12"]
+[White "Boyarchenko, Marie"]
+[Black "Dai, Irmak"]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "1895"]
+[PlyCount "85"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 d5 4. exd5 Nxd5 5. Nf3 Nc6 6. h3 Be7 7. O-O O-O 8.
+Re1 Qd6 9. Nbd2 Be6 10. Ne4 Qd7 11. Bb5 f6 12. c3 Nb6 13. d4 f5 14. Nxe5 Qd5
+15. Bxc6 bxc6 16. Ng5 Bxg5 17. Bxg5 Nd7 18. Be7 Rfe8 19. c4 Qa5 20. Nxc6 Qb6
+21. Rxe6 Qxb2 22. Qe1 Rec8 23. Bb4 Kh8 24. Bc3 Qa3 25. d5 Qf8 26. Qe2 Re8 27.
+Re1 Rxe6 28. Qxe6 Nf6 29. Bxf6 Qxf6 30. Qxf6 gxf6 31. Re7 Rc8 32. Nxa7 Rb8 33.
+Rxc7 Rb2 34. d6 Rd2 35. c5 Rd1+ 36. Kh2 Kg8 37. d7 Rxd7 38. Rxd7 Kf8 39. c6 Ke8
+40. Nc8 h5 41. Nb6 h4 42. c7 f4 43. c8=Q# 1-0
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.14"]
+[Round "12"]
+[White "Davletbayeva, Madina"]
+[Black "Isgandarova, Khayala"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2155"]
+[BlackElo "2207"]
+[PlyCount "58"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 dxe4 5. dxe4 Nc6 6. Be2 Bc5 7. O-O e5 8.
+h3 O-O 9. c3 a5 10. Qc2 Qe7 11. Rd1 Nh5 12. Nc4 Nf4 13. Be3 f5 14. Bf1 fxe4 15.
+Bxc5 Qxc5 16. Qxe4 Bf5 17. Qe3 Qxe3 18. Nxe3 Bg6 19. Nh4 Bf7 20. Bb5 Be6 21.
+Kh2 g5 22. Nf3 Nxh3 23. Bxc6 bxc6 24. Nxe5 Nxf2 25. Rd2 Rf6 26. g4 Raf8 27.
+Nxc6 Nxg4+ 28. Nxg4 Bxg4 29. Rd5 Rxc6 0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.14"]
+[Round "12"]
+[White "Eric, Jovana"]
+[Black "Bayrak, Asli"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2111"]
+[BlackElo "2013"]
+[PlyCount "129"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Qxf6 10. Nf3 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 O-O 13. O-O e5 14. dxe5
+Ndxe5 15. Nxe5 Qxe5 16. Rae1 Qf6 17. Nc3 Be6 18. Nb5 Rad8 19. Nc7 Bf7 20. Nb5
+d4 21. a4 a6 22. Na3 Ne5 23. Be4 b5 24. axb5 axb5 25. f4 Ng4 26. Rf3 Ne3 27.
+Nxb5 Qb6 28. Na3 Rfe8 29. Bb1 Bd5 30. Rf2 Ng4 31. Ref1 Nxf2 32. Qxf2 Rb8 33.
+Nc2 d3 34. Nd4 d2 35. Qxd2 Qxb2 36. Bc2 Qb4 37. Qf2 Qf8 38. Qh4 g6 39. f5 Qe7
+40. Qxe7 Rxe7 41. fxg6 hxg6 42. Bxg6 Rg7 43. Nf5 Rxg6 44. Ne7+ Kg7 45. Nxd5 Rb2
+46. Nf4 Rc6 47. h4 Rc3 48. Kh2 Kh6 49. Nd5 Ra3 50. Rf8 Rd2 51. Ne7 Re2 52. Nf5+
+Kh7 53. Ng3 Rc2 54. Nh5 Raa2 55. Nf4 Ra3 56. Rf7+ Kh6 57. Rf6+ Kg7 58. Rg6+ Kf7
+59. h5 Rf3 60. Ne6 Re3 61. Ng5+ Ke8 62. h6 Re7 63. Kh3 Ra2 64. g3 Ra4 65. Re6
+1-0
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.14"]
+[Round "12"]
+[White "Hoolt, Sarah"]
+[Black "Hamrakulova, Yulduz"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2298"]
+[BlackElo "2145"]
+[PlyCount "114"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Bc5 5. Bb3 O-O 6. O-O d6 7. c3 Bb6 8. Nbd2
+Be6 9. Bc2 d5 10. Qe2 d4 11. h3 Nd7 12. Rd1 Qe7 13. Nf1 f6 14. Ng3 g6 15. Kh1
+Kh8 16. Ba4 Ndb8 17. Bd2 a6 18. a3 dxc3 19. bxc3 Bc5 20. Bc1 b5 21. Bc2 Na5 22.
+Bb2 Bd6 23. Nd2 Nd7 24. d4 Bc4 25. Qe1 Nb6 26. Bc1 Bf7 27. Ne2 c6 28. f3 Rfd8
+29. Qf2 Nbc4 30. a4 Nxd2 31. Bxd2 Nb3 32. Rab1 bxa4 33. Be3 Bc4 34. Nc1 Nxc1
+35. Rdxc1 a3 36. Bb3 Bxb3 37. Rxb3 Rab8 38. Rcb1 Rb5 39. c4 Rxb3 40. Rxb3 exd4
+41. Bxd4 Be5 42. Bxe5 Qxe5 43. Rb1 Rb8 44. Rd1 Qb2 45. Qc5 a2 46. Qa5 Qb1 47.
+Rg1 Qxg1+ 48. Kxg1 Rb1+ 49. Kh2 a1=Q 50. Qd8+ Kg7 51. Qe7+ Kg8 52. Qe8+ Kg7 53.
+Qe7+ Kh6 54. Qf8+ Kg5 55. h4+ Kf4 56. Qd6+ Ke3 57. Qc5+ Ke2 0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.14"]
+[Round "12"]
+[White "Karayaylali, Pinar"]
+[Black "Albano Jeremias, Bianca"]
+[Result "0-1"]
+[ECO "C05"]
+[WhiteElo "1597"]
+[BlackElo "1990"]
+[PlyCount "56"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. f4 Qb6 8. Nf3
+cxd4 9. cxd4 Bb4+ 10. Bd2 f6 11. Bxb4 Qxb4+ 12. Qd2 Qe7 13. Nc3 a6 14. Rc1 O-O
+15. h4 Nb6 16. a3 Na5 17. Nxd5 Nxd5 18. Qxa5 Nxf4 19. Qc7 Qe8 20. Qc2 Bd7 21.
+Qd2 fxe5 22. Nxe5 Bb5 23. Bxb5 Qxb5 24. Rc5 Qb3 25. Rc3 Qd5 26. Rg1 Qe4+ 27.
+Re3 Qb1+ 28. Qd1 Nxg2+ 0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.14"]
+[Round "12"]
+[White "Nemcova, Katerina"]
+[Black "Severiukhina, Zoja"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "2372"]
+[BlackElo "2300"]
+[PlyCount "51"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. f4 Nc6 7. c3 Qb6 8. Nf3
+cxd4 9. cxd4 Bb4+ 10. Nc3 O-O 11. Bd3 f6 12. a3 fxe5 13. fxe5 Rxf3 14. Qxf3
+Qxd4 15. Qh3 Bxc3+ 16. bxc3 Qxe5+ 17. Kd1 Nf6 18. Rf1 d4 19. Bd2 Bd7 20. Rb1
+Ne7 21. Rb4 Nf5 22. cxd4 Qa5 23. g4 Re8 24. gxf5 exf5 25. Bxf5 Ba4+ 26. Kc1 1-0
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.15"]
+[Round "13"]
+[White "Dai, Irmak"]
+[Black "Karayaylali, Pinar"]
+[Result "0-1"]
+[ECO "C02"]
+[BlackElo "1597"]
+[PlyCount "108"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Be2 Bd7 7. b3 Rc8 8. O-O
+cxd4 9. cxd4 Nge7 10. Be3 Nf5 11. Qd2 Bb4 12. Qd3 Be7 13. a3 Na5 14. b4 Nc4 15.
+Nbd2 Ncxe3 16. fxe3 a6 17. Rac1 Rxc1 18. Rxc1 Bb5 19. Qb3 Bxe2 20. Rc8+ Bd8 21.
+Qa4+ Bb5 22. Qa5 Qxa5 23. bxa5 O-O 24. Rb8 Bxa5 25. Rxb7 Nxe3 26. Kf2 Bxd2 27.
+Nxd2 Nc4 28. Nb1 f6 29. exf6 Rxf6+ 30. Kg3 Ne3 31. Rb8+ Kf7 32. Nc3 Nf5+ 33.
+Kh3 Nxd4 34. a4 Rh6+ 35. Kg3 Ne2+ 36. Nxe2 Bxe2 37. Rb7+ Kf6 38. Rb2 Bc4 39.
+Rf2+ Ke7 40. h3 Rf6 41. Rxf6 Kxf6 42. Kf3 e5 43. g4 e4+ 44. Ke3 Ke5 45. h4 d4+
+46. Kd2 e3+ 47. Ke1 d3 48. Kd1 Bb3+ 49. Ke1 d2+ 50. Ke2 d1=Q+ 51. Kxe3 Qxg4 52.
+Kd2 Qg3 53. Ke2 Ke4 54. Kf1 Bc4# 0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.15"]
+[Round "13"]
+[White "Kaya, Sena Nur"]
+[Black "Ikonomopoulou, Maria"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "1529"]
+[BlackElo "2074"]
+[PlyCount "44"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 f6 7. Be2 Qc7 8. O-O fxe5
+9. Nxe5 Nxe5 10. dxe5 O-O-O 11. f4 Ne7 12. Nd2 g5 13. fxg5 Qxe5 14. Nf3 Qc7 15.
+Be3 h6 16. b4 Nf5 17. Bf2 hxg5 18. g4 Nh6 19. bxc5 Nxg4 20. Bg3 Bxc5+ 21. Kh1
+Bd6 22. Bxd6 Qxd6 0-1
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.15"]
+[Round "13"]
+[White "Nadig, Kruttika"]
+[Black "Corke, Anya Sun"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2241"]
+[BlackElo "2255"]
+[PlyCount "137"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 f6 5. exf6 Nxf6 6. Nf3 Bd6 7. Be2 O-O 8. O-O
+Kh8 9. Bg5 Ne7 10. Bh4 c5 11. Nb5 Nf5 12. Nxd6 Qxd6 13. Bg3 Nxg3 14. hxg3 Qb6
+15. b3 cxd4 16. Bd3 Bd7 17. a4 Be8 18. Ne5 Qd6 19. f4 Ne4 20. g4 Bc6 21. g5
+Rxf4 22. Rxf4 Qxe5 23. Qf3 Kg8 24. Rf1 Qd6 25. Qh5 Be8 26. Rf8+ Qxf8 27. Rxf8+
+Kxf8 28. Qxh7 Nxg5 29. Qh4 Nf7 30. Qxd4 b6 31. Qb4+ Kg8 32. Qe7 e5 33. Qb7 Rd8
+34. Qxa7 e4 35. Be2 d4 36. Qxb6 d3 37. cxd3 exd3 38. Bh5 Rd5 39. Qe6 Rd8 40.
+Qe7 Rc8 41. a5 d2 42. a6 g6 43. Bg4 Rc1+ 44. Kh2 Re1 45. Qb4 d1=Q 46. Bxd1 Rxd1
+47. a7 Bc6 48. Qb8+ Rd8 49. b4 Kg7 50. b5 Be4 51. b6 Rd2 52. a8=Q Rxg2+ 53. Kh1
+Rg4+ 54. Qxe4 Rxe4 55. b7 Rb4 56. Qc7 Rb1+ 57. Kg2 Rb2+ 58. Kf3 Rb3+ 59. Ke2
+Rb2+ 60. Kd3 Rb3+ 61. Kc4 Rxb7 62. Qxb7 Kf6 63. Kd5 Nh6 64. Qb2+ Kf7 65. Qh8
+Ng4 66. Qh7+ Kf6 67. Ke4 Nf2+ 68. Kf3 Nd3 69. Qh4+ 1-0
+
+[Event "Wch U20 Girls"]
+[Site "Gaziantep"]
+[Date "2008.08.15"]
+[Round "13"]
+[White "Ozmut, Perinisa"]
+[Black "Efroimski, Marsel"]
+[Result "0-1"]
+[ECO "C00"]

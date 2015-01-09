@@ -1,0 +1,600 @@
+[Result "0-1"]
+[ECO "B91"]
+[WhiteElo "2103"]
+[BlackElo "2252"]
+[PlyCount "46"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+b5 9. O-O Bb7 10. a4 bxa4 11. Nxa4 Nbd7 12. f3 Qc7 13. b3 d5 14. f4 dxe4 15.
+fxe5 Nxe5 16. Nec3 O-O 17. Qe2 Nf3+ 18. Kh1 Nd4 19. Qf2 Rad8 20. h3 Bb4 21. Bb2
+Nh5 22. Nxe4 Bxe4 23. Bxd4 Nxg3+ 0-1
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.01"]
+[Round "6"]
+[White "Fluvia Poyatos, Jordi"]
+[Black "Gerber, Richard"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "2508"]
+[BlackElo "2386"]
+[PlyCount "63"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 e5 13. Bc5 Be6 14. Ne4 Re8
+15. h4 Nf4 16. g3 Qxd2+ 17. Rxd2 Nh5 18. Rg1 Bh6 19. Ng5 Bd5 20. c4 Bxg5 21.
+hxg5 Bxf3 22. Bh3 e4 23. Be3 Re5 24. Bd7 c5 25. Bc6 Rc8 26. Bb7 Rc7 27. Rd8+
+Kg7 28. Bd5 h6 29. g4 hxg5 30. gxh5 Bxh5 31. Rxg5 Kf6 32. Rd6+ 1-0
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.01"]
+[Round "6"]
+[White "Groetz, Harald"]
+[Black "Czakon, Jakub"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[WhiteElo "2321"]
+[BlackElo "2510"]
+[PlyCount "45"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Be3 Nxe5 13. Qh5 Nbc6 14. Nxc6 Nxc6
+15. Rf3 Qd6 16. Rh3 h6 17. Rg3 Qe5 18. Qxe5 Nxe5 19. Bxh6 Ng6 20. Bg5 Bxg5 21.
+Rxg5 Rd8 22. Rf1 Bd7 23. Ne4 1/2-1/2
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.02"]
+[Round "7"]
+[White "Leks, Hanna"]
+[Black "Yastrebova, Tatiana"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2199"]
+[BlackElo "2037"]
+[PlyCount "27"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. e5 dxe5 6. dxe5 Nfd7 7. Nd5 c6 8.
+Nxe7 Qa5+ 9. Qd2 Qxe5+ 10. Ne2 Qc7 11. Qe3 Kf8 12. Bf4 Qd8 13. Bd6 Nf6 14.
+Nxc8+ 1-0
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.02"]
+[Round "7"]
+[White "Lillo Castan, Victor"]
+[Black "Muter, Donny"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2069"]
+[BlackElo "2212"]
+[PlyCount "48"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. Nf3 Bg4 7. Be3 Nbd7 8. O-O
+Be7 9. h3 Bxf3 10. Qxf3 O-O 11. Ne2 c5 12. dxe5 dxe5 13. Nc3 exf4 14. Qxf4 Ne8
+15. e5 c4 16. Bxh7+ Kxh7 17. Qf5+ Kg8 18. Qxd7 Qxe5 19. Rae1 Nf6 20. Qxb7 Bd6
+21. Bf4 Qd4+ 22. Be3 Qe5 23. Bf4 Qd4+ 24. Be3 Qe5 1/2-1/2
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.03"]
+[Round "8"]
+[White "Daurelle, Herve"]
+[Black "Slings, Stefan"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2263"]
+[BlackElo "2076"]
+[PlyCount "59"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qb6 6. Nb3 Qc7 7. O-O Nf6 8.
+Qe2 d6 9. c4 Be7 10. Nc3 Nbd7 11. Be3 b6 12. f3 O-O 13. Rfd1 Rb8 14. Rdc1 Bb7
+15. Qf2 Rfc8 16. Bf1 Ba8 17. Nd4 Ne5 18. b3 Nc6 19. Nd5 Qb7 20. Nxc6 Rxc6 21.
+Nb4 Rcc8 22. c5 b5 23. c6 Qc7 24. Nxa6 Qa5 25. Nxb8 Rxb8 26. c7 Rc8 27. Bb6 Qb4
+28. Qe2 Qa3 29. Qxb5 Bb7 30. Ba5 1-0
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.03"]
+[Round "8"]
+[White "Hartikainen, Markku"]
+[Black "Rombaldoni, Denis"]
+[Result "0-1"]
+[ECO "B46"]
+[WhiteElo "2310"]
+[BlackElo "2402"]
+[PlyCount "38"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+O-O d5 9. Qf3 Bd6 10. h3 Ne7 11. Bd2 O-O 12. Qh5 f5 13. exf5 Nxf5 14. f4 Bd7
+15. Ne2 g6 16. Qf3 e5 17. fxe5 Bxe5 18. Bf4 Nd4 19. Nxd4 Rxf4 0-1
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.03"]
+[Round "8"]
+[White "Muter, Donny"]
+[Black "Dijon, Frederic"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2212"]
+[BlackElo "2103"]
+[PlyCount "49"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nc6 2. e4 d5 3. e5 Bf5 4. Bb5 Qd7 5. Ne2 h5 6. O-O O-O-O 7. Nd2 g5 8. Nb3
+Qe6 9. Bxg5 Qg6 10. Be3 Nh6 11. Nf4 Qg7 12. Bxc6 bxc6 13. Qe2 e6 14. Qa6+ Kd7
+15. Na5 Rg8 16. Qxc6+ Kc8 17. Qb7+ Kd7 18. Qb5+ Kc8 19. Nc6 Kd7 20. Nxa7+ Ke7
+21. Nc6+ Kd7 22. g3 Bg4 23. Bd2 f5 24. Nxd8+ Kxd8 25. Nxe6+ 1-0
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.03"]
+[Round "8"]
+[White "Sabria Batlle, Pol"]
+[Black "Toma, Katarzyna"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2006"]
+[BlackElo "2283"]
+[PlyCount "73"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Ne7 12. Nxf6+ gxf6 13. Bd3 Bb7 14. Qe2
+d5 15. O-O-O Qb6 16. exd5 Nxd5 17. Be4 Nf4 18. Qf3 Bxe4 19. Qxe4 O-O 20. g3 Ne6
+21. Nc2 Nc5 22. Qf5 Rfd8 23. Ne3 Qe6 24. Kb1 Qxf5+ 25. Nxf5 Ne4 26. f4 Nf2 27.
+Rxd8+ Rxd8 28. Rf1 Rd2 29. Ne3 e4 30. c4 Nd3 31. c5 Nxc5 32. Rc1 Ne6 33. Rc8+
+Nf8 34. Nf5 Rxh2 35. Ne7+ Kg7 36. Nf5+ Kg8 37. Ne7+ 1/2-1/2
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.03"]
+[Round "8"]
+[White "Schut, Lisa"]
+[Black "Vehi Bach, Victor Manuel"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "1976"]
+[BlackElo "2369"]
+[PlyCount "72"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Nxc6 Qxc6 8.
+Bd3 b5 9. O-O Bb7 10. Kh1 Nf6 11. f3 Qc7 12. Qe2 Be7 13. Bd4 e5 14. Be3 d6 15.
+Bd2 O-O 16. a4 b4 17. Na2 a5 18. c3 bxc3 19. Nxc3 h6 20. Rac1 Qb8 21. Nb5 Rc8
+22. Qf2 d5 23. Rxc8+ Qxc8 24. exd5 Nxd5 25. Qg3 Qe6 26. Bc4 Rc8 27. b3 Bb4 28.
+Bxb4 axb4 29. Re1 f6 30. Qg6 Kf8 31. Nd4 Qf7 32. Qxf7+ Kxf7 33. Nf5 Rd8 34. Rd1
+Rd7 35. Ne3 Ke6 36. Kg1 f5 1-0
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.04"]
+[Round "9"]
+[White "Bruned, Yvalin"]
+[Black "Muter, Donny"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2355"]
+[BlackElo "2212"]
+[PlyCount "57"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. a4 e5 5. Nf3 Nbd7 6. Bc4 exd4 7. Qxd4 Qb6 8.
+O-O Ne5 9. Qxb6 axb6 10. Nxe5 dxe5 11. Be3 Nd7 12. Rfb1 Bb4 13. Nd1 Ke7 14. c3
+Bd6 15. b4 Bc7 16. Nb2 Nf6 17. f3 Ne8 18. Bf1 Nd6 19. c4 f6 20. c5 bxc5 21.
+bxc5 Nf7 22. Nc4 Ng5 23. a5 Ra7 24. Nb6 Rd8 25. h4 Ne6 26. Kf2 Bd7 27. Rd1 Be8
+28. Rxd8 Kxd8 29. Rd1+ 1-0
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.04"]
+[Round "9"]
+[White "Leks, Hanna"]
+[Black "Tomini, Marco"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2199"]
+[BlackElo "2091"]
+[PlyCount "45"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 g6 7. Bc4 Bg7 8. O-O
+O-O 9. Re1 b6 10. Bg5 Bb7 11. Nd5 Nbd7 12. f4 e6 13. Nc3 Qc8 14. Bxe6 fxe6 15.
+Nxe6 Re8 16. Qxd6 Ra7 17. Rad1 Qc6 18. Nxg7 Kxg7 19. Qd2 Bc8 20. e5 Ng4 21. Ne4
+Re6 22. h3 Nh6 23. Bxh6+ 1-0
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.04"]
+[Round "9"]
+[White "Toma, Katarzyna"]
+[Black "Yastrebova, Tatiana"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2283"]
+[BlackElo "2037"]
+[PlyCount "49"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Qe2 O-O 6. e5 Ne8 7. Bg5 dxe5 8.
+dxe5 c6 9. a4 Nc7 10. Rd1 Qe8 11. h4 Be6 12. h5 Nd7 13. Nf3 Rd8 14. hxg6 hxg6
+15. Qe4 Bxc4 16. Qxc4 Ne6 17. Be3 Nb6 18. Qh4 Rxd1+ 19. Kxd1 f5 20. Qh7+ Kf7
+21. Nh4 Qd7+ 22. Kc1 Ke8 23. Qxg6+ Kd8 24. Bxb6+ axb6 25. Rd1 1-0
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.04"]
+[Round "9"]
+[White "Van Weersel, Arlette"]
+[Black "Kadziolka, Beata"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "2174"]
+[BlackElo "2295"]
+[PlyCount "62"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. c4 Nc6 3. Ne2 g6 4. d4 Bg7 5. dxc5 Qa5+ 6. Nec3 Nf6 7. Nd2 Qxc5 8.
+Nb3 Qb6 9. Be3 Qd8 10. Be2 O-O 11. O-O d6 12. Rc1 b6 13. f3 Bb7 14. Qd2 Rc8 15.
+Rfd1 Nd7 16. Nb5 Nc5 17. N5d4 Nxd4 18. Nxd4 Qd7 19. b4 Ne6 20. Nb3 f5 21. exf5
+gxf5 22. c5 f4 23. Bf2 Ng5 24. cxd6 e5 25. Rc7 Rxc7 26. dxc7 Qxc7 27. Qd7 Qc2
+28. Rd2 Qb1+ 29. Rd1 Qc2 30. Rd2 Qb1+ 31. Rd1 Qc2 1/2-1/2
+
+[Event "Illes Medes op-B 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.01"]
+[Round "6"]
+[White "Gomez Figueroa, Manuel"]
+[Black "Padros Martinez, Albert"]
+[Result "1-0"]
+[ECO "B59"]
+[WhiteElo "1932"]
+[BlackElo "1856"]
+[PlyCount "41"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be7 8.
+Be3 O-O 9. O-O a6 10. f4 b5 11. Bf3 Bb7 12. Qe1 Re8 13. Rd1 Bf8 14. Nd5 exf4
+15. Bb6 Qc8 16. Nc7 Re5 17. Nxa8 Qxa8 18. Qe2 g5 19. Rde1 Be7 20. g3 g4 21.
+gxf4 1-0
+
+[Event "Illes Medes op-B 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.01"]
+[Round "6"]
+[White "Healy, John"]
+[Black "Diaz Comas, Jordi"]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[BlackElo "1941"]
+[PlyCount "30"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. Nf3 g6 6. Bf4 Bg7 7. Qd2 O-O 8. Bh6
+Bg4 9. Be2 Nc6 10. Bxg7 Kxg7 11. b3 e6 12. O-O Qe7 13. Qf4 Bxf3 14. Bxf3 d5 15.
+Nd2 Rad8 1/2-1/2
+
+[Event "Illes Medes op-B 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.02"]
+[Round "7"]
+[White "Diaz Comas, Jordi"]
+[Black "Bonell Gleich, Xavier"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1941"]
+[PlyCount "29"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Bc4 Nf6 5. Nf3 Bg4 6. d4 a6 7. Bxf7+ Kxf7
+8. Ne5+ Ke8 9. Nxg4 Qe6+ 10. Ne3 c6 11. O-O Nbd7 12. Re1 Qf7 13. d5 Rd8 14. Nf5
+Nxd5 15. Nd6# 1-0
+
+[Event "Illes Medes op-B 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.02"]
+[Round "7"]
+[White "Pereira Garcia, Josep Ramon"]
+[Black "Pera Martinez, Eloy"]
+[Result "0-1"]
+[ECO "B34"]
+[BlackElo "1545"]
+[PlyCount "50"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bg7 6. Be3 Nf6 7. f3 O-O 8.
+Qd2 d5 9. exd5 Nxd5 10. Nxc6 bxc6 11. Bc4 Be6 12. Nxd5 cxd5 13. Bb3 Bxb2 14. c3
+Bxa1 15. Qc1 Bxc3+ 16. Qxc3 Rc8 17. Qb2 Qa5+ 18. Bd2 Qc5 19. Ke2 d4 20. Rc1
+Qe5+ 21. Kf2 Bxb3 22. Re1 Rc2 23. Rxe5 Rxb2 24. Ke1 Ba4 25. Rxe7 Re8 0-1
+
+[Event "Illes Medes op-B 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.02"]
+[Round "7"]
+[White "Rios Torondell, Jaume"]
+[Black "Healy, John"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "1994"]
+[PlyCount "65"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+b5 9. Qd2 Nbd7 10. O-O-O Nb6 11. Kb1 Nc4 12. Bxc4 bxc4 13. Nc1 Rb8 14. N1e2 Qa5
+15. Nd5 Qxd2 16. Nxf6+ gxf6 17. Rxd2 f5 18. exf5 Bxf5 19. Nc3 Be6 20. Ne4 Kd7
+21. Rhd1 Kc6 22. Nxd6 c3 23. Rd3 Bxa2+ 24. Kxa2 Rxb2+ 25. Ka1 Rxc2 26. Kb1 Rb2+
+27. Kc1 Rb3 28. Kc2 Rb2+ 29. Kxc3 Rxg2 30. Nxf7 Bg7 31. Rd6+ Kc7 32. Rd7+ Kc8
+33. Nxh8 1-0
+
+[Event "Illes Medes op-B 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.02"]
+[Round "7"]
+[White "Roussel, Yannis"]
+[Black "Bosch Peracaula, Miquel"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[PlyCount "40"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Bc4 e6 5. O-O Ne7 6. Bf4 O-O 7. Nc3 a6 8. Qd2
+f5 9. exf5 Nxf5 10. Rfe1 d5 11. Bb3 Nc6 12. Ne2 b5 13. c3 Na5 14. Nc1 Rb8 15.
+Ng5 Re8 16. a3 Nc4 17. Bxc4 bxc4 18. Be5 Bh6 19. f4 Rb7 20. Na2 a5 1/2-1/2
+
+[Event "Illes Medes op-B 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.02"]
+[Round "7"]
+[White "Schut, Heleen"]
+[Black "Gomez Figueroa, Manuel"]
+[Result "1-0"]
+[ECO "B02"]
+[WhiteElo "1919"]
+[BlackElo "1932"]
+[PlyCount "29"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Qf3 Qc5 6. Qb3 Nc6 7. Nf3 Bg4
+8. Qxb7 Rb8 9. Qxc7 Rc8 10. Qf4 Bxf3 11. Qxf3 Nd4 12. Qb7 Nxc2+ 13. Kd1 Nxa1
+14. Bb5+ Qxb5 15. Qxc8# 1-0
+
+[Event "Illes Medes op-B 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.03"]
+[Round "8"]
+[White "Bonell Gleich, Xavier"]
+[Black "Dalmas Porqueres, Joan Albert"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[BlackElo "1723"]
+[PlyCount "72"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 a6 2. Nc3 b5 3. b4 e6 4. Rb1 Bb7 5. Nf3 Nf6 6. d3 d6 7. Bg5 Be7 8. a4
+bxa4 9. Nxa4 h6 10. Bd2 Nbd7 11. Be2 O-O 12. O-O Re8 13. h3 Nf8 14. e5 N6d7 15.
+exd6 cxd6 16. c4 Ng6 17. Be3 Qc7 18. Nd2 Nh4 19. Nf3 Nf5 20. Nd4 Nxe3 21. fxe3
+Bf6 22. Nc2 Bxg2 23. Rf2 Bb7 24. Bf3 Bxf3 25. Qxf3 Ne5 26. Qe2 Red8 27. Nc3
+Nxc4 28. Ne4 Ne5 29. Nxf6+ gxf6 30. Rxf6 Kh7 31. Rbf1 Rg8+ 32. Kf2 Rg6 33. Rxg6
+fxg6 34. Kg1 Qe7 35. d4 Nf7 36. Qf3 Rf8 1/2-1/2
+
+[Event "Illes Medes op-B 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.04"]
+[Round "9"]
+[White "Vidal Zamora, Alex"]
+[Black "Serra Sola, Jordi"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "1934"]
+[BlackElo "1888"]
+[PlyCount "21"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c6 2. d4 d5 3. e5 g6 4. f4 h5 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 e6 8. b3 Qb6
+9. Qf2 c5 10. c3 Nc6 11. Be3 1/2-1/2
+
+[Event "Reggio Emilia 50th"]
+[Site "Reggio Emilia"]
+[Date "2008.01.01"]
+[Round "4"]
+[White "Harikrishna, Penteala"]
+[Black "Navara, David"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2668"]
+[BlackElo "2656"]
+[PlyCount "85"]
+[EventDate "2007.12.29"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 Bd6 5. Bg2 Nge7 6. O-O Bc7 7. Be3 b6 8. d4
+d5 9. exd5 Nxd5 10. Bg5 f6 11. c4 Nde7 12. Be3 cxd4 13. Nxd4 Bd7 14. Nxc6 Nxc6
+15. Qh5+ g6 16. Qe2 Kf7 17. Nc3 Rc8 18. Nb5 Bb8 19. c5 bxc5 20. Bxc5 Qa5 21.
+Rfd1 Rhd8 22. Nd6+ Bxd6 23. Bxd6 e5 24. Rd5 Qb6 25. Bc5 Qb8 26. Qa6 Ne7 27.
+Bxe7 Kxe7 28. Rad1 Bb5 29. Qa3+ Ke8 30. Rxd8+ Rxd8 31. Rxd8+ Qxd8 32. Qb3 Be2
+33. Qg8+ Ke7 34. Qxh7+ Ke6 35. Bh3+ Kd5 36. Qxg6 Qc7 37. Bg2+ Ke6 38. Qe8+ Kd6
+39. h4 Qc1+ 40. Kh2 Qxb2 41. Qc6+ Ke7 42. Qc5+ Ke6 43. Bd5+ 1-0
+
+[Event "Reggio Emilia 50th"]
+[Site "Reggio Emilia"]
+[Date "2008.01.02"]
+[Round "5"]
+[White "Godena, Michele"]
+[Black "Landa, Konstantin"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2535"]
+[BlackElo "2678"]
+[PlyCount "51"]
+[EventDate "2007.12.29"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Nc6 7. O-O cxd4 8.
+cxd4 Be7 9. Nc3 Qd6 10. Nb5 Qd8 11. Bf4 Nd5 12. Bg3 O-O 13. Bc4 a6 14. Bxd5
+exd5 15. Nc7 Ra7 16. Qb3 Bd6 17. Bxd6 Qxd6 18. Qb6 f6 19. Rfc1 Rf7 20. Nxd5
+Qxd5 21. Rc5 Qd6 22. d5 Qc7 23. Qb3 Qd6 24. Qb6 Qc7 25. Qb3 Qd6 26. Qb6 1/2-1/2
+
+[Event "Reggio Emilia 50th"]
+[Site "Reggio Emilia"]
+[Date "2008.01.02"]
+[Round "5"]
+[White "Ni Hua"]
+[Black "Tiviakov, Sergei"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2641"]
+[BlackElo "2643"]
+[PlyCount "81"]
+[EventDate "2007.12.29"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. Bf4 Nd5 8.
+Nxd5 Qxd5 9. Nf3 Nf6 10. Be2 Bg4 11. O-O e6 12. h3 Bxf3 13. Bxf3 Qd7 14. c4 Bd6
+15. Bg5 Be7 16. Qb3 O-O 17. Rfd1 Rfd8 18. Bf4 a5 19. a3 a4 20. Qc2 Bd6 21. Bg5
+Qe7 22. Rd3 h6 23. Bd2 Ra6 24. Re1 Bc7 25. Bb4 Qd7 26. Red1 Bd6 27. Bc3 Qc7 28.
+d5 cxd5 29. cxd5 e5 30. Re3 Raa8 31. Qf5 Re8 32. Rde1 Nd7 33. Bh5 Nf8 34. Rg3
+Re7 35. Re4 Ra6 36. Rxg7+ Kxg7 37. Rg4+ Ng6 38. Bxg6 Kf8 39. Bh7 Rd7 40. Rg8+
+Ke7 41. Bg6 1-0
+
+[Event "Reggio Emilia 50th"]
+[Site "Reggio Emilia"]

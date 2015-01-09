@@ -1,0 +1,600 @@
+[Date "2008.03.26"]
+[Round "10"]
+[White "Gelfand, Boris"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "2737"]
+[BlackElo "2799"]
+[PlyCount "62"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. a3 Bd6 10. O-O O-O 11. Qc2 a6 12. b4 a5 13. Rb1 axb4 14. axb4 Qe7 15. e4
+e5 16. dxe5 Nxe5 17. Nxe5 Bxe5 18. Ne2 Qe6 19. f4 Ra2 20. Qd1 Ba1 21. e5 c5 22.
+exf6 Bd4+ 23. Rf2 Bxf2+ 24. Kxf2 Qd5 25. Bb2 Qxg2+ 26. Ke1 c4 27. Bc2 Bf3 28.
+fxg7 Re8 29. Be5 f6 30. Bxh7+ Kxh7 31. g8=Q+ Kxg8 0-1
+
+[Event "Amber-blindfold 17th"]
+[Site "Nice"]
+[Date "2008.03.27"]
+[Round "11"]
+[White "Kramnik, Vladimir"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2799"]
+[BlackElo "2732"]
+[PlyCount "104"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. a4 e5 15. d5
+c5 16. b4 Qb6 17. bxc5 Nxc5 18. Bxc5 Qxc5 19. axb5 axb5 20. Rxa8+ Bxa8 21. Qa1
+O-O 22. Qa5 Rb8 23. Rb1 Bf8 24. Nxb5 f5 25. Qa6 Kh8 26. Nc3 Rxb1+ 27. Nxb1 Qb4
+28. Qxa8 Qxb1+ 29. Bf1 Qb4 30. exf5 c3 31. Qc8 e4 32. d6 Qxd6 33. Qxc3+ Bg7 34.
+Qc8+ Kh7 35. g3 Qd4 36. Qe8 Qe5 37. Qg6+ Kh8 38. Kg2 Qe7 39. Kh3 e3 40. fxe3
+Qxe3 41. Bc4 Qe7 42. Bb3 Qf6 43. Qe8+ Qf8 44. Qe6 Bf6 45. Kg4 Kh7 46. Kh5 Kg7
+47. Bc4 Kh7 48. Qd7+ Qe7 49. Qc8 Qd8 50. Qe6 Qf8 51. Bd3 Kg7 52. Bc4 Kh7
+1/2-1/2
+
+[Event "Amber-blindfold 17th"]
+[Site "Nice"]
+[Date "2008.03.27"]
+[Round "11"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[ECO "D47"]
+[WhiteElo "2760"]
+[BlackElo "2737"]
+[PlyCount "73"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bd6 9. Bd2 Bb7 10. Ne4 Nxe4 11. Bxe4 O-O 12. b4 Qe7 13. a3 f5 14. Bc2 e5 15.
+Bc3 e4 16. Nd2 Nf6 17. g3 a5 18. Rb1 Kh8 19. Bb3 axb4 20. axb4 Bc8 21. Qc1 Bd7
+22. O-O f4 23. exf4 Bxf4 24. gxf4 Ng4 25. f3 Nxh2 26. Rf2 Nxf3+ 27. Nxf3 exf3
+28. Rxf3 Bg4 29. Re3 Qd6 30. Re5 Qh6 31. Rb2 Bh3 32. Rg5 Qh4 33. d5 Ra7 34. Re2
+h6 35. Be1 Ra1 36. Qxa1 Qxf4 37. Qxg7# 1-0
+
+[Event "Amber-blindfold 17th"]
+[Site "Nice"]
+[Date "2008.03.27"]
+[Round "11"]
+[White "Topalov, Veselin"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2780"]
+[BlackElo "2751"]
+[PlyCount "105"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3
+Qc7 9. Bd2 Be7 10. O-O-O Nbd7 11. Nxg6 hxg6 12. Kb1 Rd8 13. g4 dxc4 14. Bxc4
+Nb6 15. Be2 Nfd5 16. Nxd5 exd5 17. f4 g5 18. h3 Rd6 19. Bc1 Rdh6 20. Bf1 Qd7
+21. Qc2 Re6 22. Bd3 Reh6 23. Qg2 Rh4 24. e4 dxe4 25. Bxe4 gxf4 26. Bxf4 Nd5 27.
+Bc1 g6 28. Qf3 O-O 29. Rhe1 Bd8 30. Qb3 b5 31. Qf3 Kg7 32. Qg3 Rfh8 33. Bg2 Bc7
+34. Qf3 Bd8 35. Rf1 a5 36. Rf2 a4 37. Rdf1 Rf8 38. Qg3 Qe6 39. Qe5+ Qxe5 40.
+dxe5 Be7 41. Rc2 Nb4 42. Rc3 c5 43. a3 Na6 44. Rd3 Nb8 45. Be3 Rhh8 46. Rd5 Rc8
+47. e6 fxe6 48. Re5 Rhf8 49. Rxe6 Rxf1+ 50. Bxf1 Kf7 51. Rb6 Nd7 52. Rb7 Nf6
+53. Bxb5 1-0
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.15"]
+[Round "1"]
+[White "Van Wely, Loek"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "2681"]
+[BlackElo "2739"]
+[PlyCount "68"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. b4 O-O 6. Qb3 c6 7. Nf3 Bg4 8. h3
+Bxf3 9. gxf3 a5 10. bxa5 Rxa5 11. Bd2 c5 12. Nxd5 Nxd5 13. cxd5 cxd4 14. e4 Nd7
+15. Bb5 d3 16. O-O Bxa1 17. Rxa1 Ra8 18. Qxd3 Ne5 19. Qb3 Qb6 20. Kg2 Nxf3 21.
+Bh6 Qf6 22. Rb1 Nh4+ 23. Kf1 Rfc8 24. Qb2 Rc3 25. Bd2 Raa3 26. Bxc3 Rxc3 27.
+Rc1 Rc5 28. Qd2 Nf3 29. Qe3 Rxc1+ 30. Qxc1 Qd4 31. Qc8+ Kg7 32. Qxb7 Nd2+ 33.
+Ke2 Nxe4 34. Bc6 Qxf2+ 0-1
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.16"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2733"]
+[BlackElo "2681"]
+[PlyCount "59"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. d4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. b3 cxb3 13. axb3 O-O 14. Nxd7 Qxd7 15.
+e5 Nd5 16. Ne4 Qe7 17. Qc1 a5 18. Rd1 b4 19. Bh5 Rfd8 20. Nd6 f5 21. exf6 Bxf6
+22. Nf7 Nc3 23. Re1 Bxd4 24. Nxh6+ Kf8 25. Nf5 Qc5 26. Nxd4 Rxd4 27. Be5 Rf4
+28. Bxf4 gxf4 29. Qxf4+ Qf5 30. Qh6+ 1-0
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.16"]
+[Round "2"]
+[White "Gelfand, Boris"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "2737"]
+[BlackElo "2751"]
+[PlyCount "146"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Bd6 7. e4 dxe4 8. Nxe4
+Nxe4 9. Bxe4 e5 10. O-O exd4 11. Bg5 Nf6 12. Qxd4 h6 13. Bh4 Be7 14. Qe5 Be6
+15. Bc2 O-O 16. Rad1 Qb8 17. Qc3 Qf4 18. Rfe1 Rfe8 19. b3 Qc7 20. h3 Rad8 21.
+Nd4 Bc8 22. Qd3 Kf8 23. Qf3 Qa5 24. Nf5 Rxd1 25. Rxd1 Bxf5 26. Qxf5 Qxa2 27.
+Bxf6 Bxf6 28. Qh7 Qa5 29. Qh8+ Ke7 30. Qh7 Rd8 31. Qe4+ Kf8 32. Rxd8+ Qxd8 33.
+g3 a5 34. Kg2 g6 35. Qe3 Kg7 36. Be4 h5 37. h4 Qe7 38. Bf3 Qb4 39. Qd3 Qb6 40.
+Bd1 Bd4 41. Qd2 Qc5 42. Qe2 Qa3 43. Qd2 Bf6 44. Qc2 Qa1 45. Bf3 Qe1 46. Qe2 Qc3
+47. Qe3 Qb2 48. Bd1 Qb1 49. Qe2 b5 50. cxb5 cxb5 51. Bc2 Qb2 52. Bd3 Qxb3 53.
+Bxb5 Qd5+ 54. Kg1 Bd4 55. Bc4 Qc5 56. Ba2 a4 57. Qf3 Qa7 58. Kg2 a3 59. Qd5
+Bxf2 60. Qe5+ f6 61. Qd5 Bxg3 62. Qg8+ Kh6 63. Qh8+ Qh7 64. Qxf6 Bxh4 65. Qxh4
+Qb7+ 66. Kg1 Qb6+ 67. Kf1 Qb5+ 68. Kg1 Qg5+ 69. Qxg5+ Kxg5 70. Kf2 Kf4 71. Ke2
+h4 72. Kd3 h3 73. Kc3 Ke5 0-1
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.17"]
+[Round "3"]
+[White "Ivanchuk, Vassily"]
+[Black "Van Wely, Loek"]
+[Result "0-1"]
+[ECO "D42"]
+[WhiteElo "2751"]
+[BlackElo "2681"]
+[PlyCount "134"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. cxd5 Nxd5 7. Bd3 Nc6 8.
+Nf3 Be7 9. O-O O-O 10. Re1 Bf6 11. Be4 Nce7 12. Ne5 Bd7 13. Qd3 h6 14. Qf3 Bc6
+15. Ng4 h5 16. Nxf6+ Nxf6 17. Bxc6 bxc6 18. Rd1 Nf5 19. Qh3 Qb6 20. b3 Nxd4 21.
+Ba3 Rfe8 22. Rd2 e5 23. Rad1 Rad8 24. Qd3 Nd5 25. Na4 Qb5 26. Bc5 Nf4 27. Qe3
+Nd5 28. Qd3 Qxd3 29. Rxd3 Nb5 30. f3 f6 31. h3 Kf7 32. Kh2 g5 33. R1d2 Kg6 34.
+Nb2 Rd7 35. Nc4 Red8 36. Na5 Nd4 37. Bxd4 Nb4 38. Rc3 Rxd4 39. Re2 Rd2 40. Nxc6
+Rxe2 41. Nxd8 Nd5 42. Rc1 Ne3 43. Rg1 Rxa2 44. b4 a6 45. Nc6 h4 46. Kh1 Rc2 47.
+Nb8 Ra2 48. Nc6 Kf5 49. Kh2 Kf4 50. Ne7 Rc2 51. Ng6+ Kf5 52. Nf8 Nd5 53. Rd1
+Nf4 54. Rg1 Rb2 55. Nd7 Rxb4 56. Ra1 Rd4 57. Nc5 Rd2 58. Ne4 Rxg2+ 59. Kh1 Rb2
+60. Rxa6 Nh5 61. Kg1 Rc2 62. Rb6 Kf4 63. Nxf6 Nxf6 64. Rxf6+ Kg3 65. Kf1 Rf2+
+66. Ke1 Rxf3 67. Rg6 Rf5 0-1
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.17"]
+[Round "3"]
+[White "Morozevich, Alexander"]
+[Black "Leko, Peter"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "2765"]
+[BlackElo "2753"]
+[PlyCount "112"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. g4 h6 8. Bd2
+dxc4 9. Bxc4 b5 10. Be2 Bb7 11. a3 a6 12. b4 Qe7 13. Rg1 e5 14. h4 e4 15. g5
+hxg5 16. hxg5 exf3 17. gxf6 Nxf6 18. Bxf3 g6 19. e4 Rh3 20. Bg2 Rh4 21. Bg5 Rg4
+22. Bxf6 Qxf6 23. e5 Qe6 24. O-O-O Rxg2 25. Rxg2 Bf8 26. f4 a5 27. d5 Qh3 28.
+e6 Bg7 29. exf7+ Kf8 30. Rd3 Qf5 31. Ne2 axb4 32. Rg5 Qf6 33. Re5 bxa3 34. d6
+Qxf7 35. d7 Rd8 36. Qc5+ Kg8 37. Qd6 a2 38. Kb2 Qc4 39. Nc3 Qf7 40. Qc7 Bf6 41.
+Nxa2 Qc4 42. Nc1 Qxf4 43. Rde3 Rxd7 44. Qb8+ Kg7 45. Kc2 Bxe5 46. Rxe5 Qc4+ 47.
+Kb1 c5 48. Qe8 Qb4+ 49. Ka1 Qd4+ 50. Kb1 Rf7 51. Re7 Bd5 52. Rxf7+ Bxf7 53.
+Qxb5 Qb4+ 54. Qxb4 cxb4 55. Nd3 b3 56. Kb2 Kf6 0-1
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.20"]
+[Round "5"]
+[White "Aronian, Levon"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2739"]
+[BlackElo "2751"]
+[PlyCount "103"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Qc2 dxc4 6. e4 Nc6 7. e5 Nb4 8. Qb1
+Nfd5 9. Bxc4 Nb6 10. Bb3 Bd7 11. a3 N4d5 12. O-O Bc6 13. Ne4 Qd7 14. Nc5 Bxc5
+15. dxc5 Na4 16. Qc2 b6 17. cxb6 axb6 18. Be3 Nxe3 19. fxe3 Bxf3 20. Rxf3 O-O
+21. Rd1 Qb5 22. Rd4 Nc5 23. Bc4 Qa4 24. Qf2 Rfd8 25. Bf1 Qe8 26. h4 Qe7 27. Qg3
+Kh8 28. Bb5 f5 29. exf6 gxf6 30. Qf4 f5 31. b4 Rxd4 32. exd4 Ne4 33. Bc6 Rd8
+34. Bxe4 fxe4 35. Qxe4 Qg7 36. Rf4 Rg8 37. a4 h6 38. a5 Qg3 39. Qe5+ Rg7 40.
+Rf8+ Kh7 41. Qe4+ Qg6 42. Qxg6+ Kxg6 43. a6 c6 44. Rb8 b5 45. Rb7 Rg8 46. a7
+Ra8 47. g4 h5 48. g5 Kf5 49. Kf2 Ke4 50. g6 Kxd4 51. g7 Kc3 52. Rb8 1-0
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.21"]
+[Round "6"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "D47"]
+[WhiteElo "2760"]
+[BlackElo "2739"]
+[PlyCount "45"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bd6 9. Ng5 Bb7 10. Qf3 h6 11. Nge4 Nxe4 12. Nxe4 Be7 13. O-O O-O 14. Rd1 Qb6
+15. Qg3 c5 16. dxc5 Nxc5 17. Nxc5 Bxc5 18. b4 Bd6 19. Bh7+ Kxh7 20. Rxd6 Qxd6
+21. Qxd6 Rfd8 22. Qd2 Rxd2 23. Bxd2 1/2-1/2
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.21"]
+[Round "6"]
+[White "Morozevich, Alexander"]
+[Black "Van Wely, Loek"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[WhiteElo "2765"]
+[BlackElo "2681"]
+[PlyCount "51"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 a6 7. Rc1 Bf5 8. Nf3
+Rc8 9. Be2 e6 10. O-O Bd6 11. Bxd6 Qxd6 12. Na4 Nd7 13. Qb3 Rc7 14. Nc5 Nxc5
+15. Rxc5 O-O 16. Rfc1 Bg4 17. Qb6 Bxf3 18. Bxf3 Rd7 19. Kh1 g6 20. g3 Rb8 21.
+R1c3 Kf8 22. Be2 Ne7 23. Qxd6 Rxd6 24. Rb3 Rc6 25. Kg2 Ke8 26. Rxc6 1/2-1/2
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.22"]
+[Round "7"]
+[White "Aronian, Levon"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2739"]
+[BlackElo "2780"]
+[PlyCount "69"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 h6 8. Rg1 e5
+9. cxd5 cxd5 10. Bd2 e4 11. Nb5 Bb8 12. Nh4 a6 13. Nf5 O-O 14. Nbd6 Bxd6 15.
+Nxd6 Nb8 16. Qxc8 Qxd6 17. Qf5 g6 18. Qe5 Qb6 19. Qf4 g5 20. Qf5 Qxb2 21. Rd1
+Ne8 22. Qxd5 Nc6 23. Bc4 Nf6 24. Qc5 Kg7 25. Bb3 Nd7 26. Qf5 Rad8 27. h4 Ne7
+28. Qxe4 Ng6 29. hxg5 hxg5 30. Qxb7 Nf6 31. Qxa6 Nh4 32. Qa5 Nf3+ 33. Ke2 Nxg1+
+34. Rxg1 Nh7 35. Rh1 1-0
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.23"]
+[Round "8"]
+[White "Topalov, Veselin"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2780"]
+[BlackElo "2732"]
+[PlyCount "203"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Bd2 e6 6. Qc2 Nbd7 7. Nc3 c5 8. cxd5
+exd5 9. g3 b5 10. Bg2 Bb7 11. O-O Rc8 12. Qf5 g6 13. Qh3 Bg7 14. Rfd1 O-O 15.
+Ne5 Nb6 16. Ne2 Re8 17. Ba5 Qd6 18. dxc5 Rxc5 19. Nd3 Rc4 20. Nd4 h6 21. Bf3
+Ne4 22. Qg2 Ng5 23. b3 Bxd4 24. exd4 Rxd4 25. Rac1 Nd7 26. h4 Nxf3+ 27. Qxf3
+Rde4 28. Rc7 Ba8 29. Ra7 Nf6 30. Bc7 Qe6 31. Nc5 Re1+ 32. Kg2 Qc6 33. Rxe1 Rxe1
+34. Rxa8+ Qxa8 35. Qxf6 d4+ 36. f3 Re2+ 37. Kf1 d3 38. Nxd3 Re3 39. Ne1 Qe8 40.
+Ng2 Re6 41. Qf4 Qc6 42. Be5 b4 43. Bd4 Qd6 44. Kf2 a5 45. Ne3 Qxf4 46. gxf4 Rd6
+47. Nc2 Rc6 48. Ne1 Rd6 49. Ke3 Rd5 50. Ng2 Kf8 51. Kd3 Ke7 52. Kc4 Rh5 53. Bf2
+Kd6 54. Ne1 Kc6 55. Nc2 Kd6 56. Ne1 Kc6 57. Nd3 f6 58. Nc5 Rf5 59. Nd3 Rh5 60.
+Bg3 Rf5 61. Be1 Rh5 62. Bf2 Rf5 63. Kd4 Rh5 64. Ke4 Kb5 65. Nb2 Kc6 66. Nc4 Rd5
+67. Bd4 f5+ 68. Kd3 Kb5 69. Ne5 Rd6 70. Nf7 Rc6 71. Nxh6 Rc1 72. Nf7 a4 73. Ne5
+Rd1+ 74. Ke3 Rg1 75. bxa4+ Kxa4 76. Nd3 Rh1 77. Bc5 b3 78. axb3+ Kxb3 79. Be7
+Rg1 80. Kf2 Ra1 81. Ne5 Ra6 82. Kg3 Kc3 83. Bg5 Kd4 84. h5 gxh5 85. Kh4 Ke3 86.
+Kxh5 Re6 87. Kh4 Ra6 88. Kg3 Ra1 89. Nc4+ Ke2 90. Kg2 Rf1 91. Nd6 Rf2+ 92. Kg3
+Rxf3+ 93. Kh4 Rf1 94. Nxf5 Kf3 95. Kh5 Rb1 96. Nh4+ Ke4 97. f5 Ke5 98. f6 Rb8
+99. Kh6 Ke6 100. Kg7 Rb7+ 101. Kg6 Rb8 102. Nf5 1-0
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.25"]
+[Round "9"]
+[White "Aronian, Levon"]
+[Black "Morozevich, Alexander"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2739"]
+[BlackElo "2765"]
+[PlyCount "117"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. c5 g6 7. Bd3 Bf5 8. Bxf5
+gxf5 9. Ne5 e6 10. f3 Rg8 11. O-O Qc7 12. Nd3 a5 13. Bd2 Nbd7 14. Be1 Be7 15.
+Bg3 Qb7 16. Rc1 Rg7 17. Rc2 Kf8 18. Bf4 Kg8 19. Ne5 Nxe5 20. Bxe5 Rg6 21. Ne2
+Nd7 22. Bd6 Bg5 23. Nf4 Bxf4 24. Bxf4 h6 25. Rcf2 Nf6 26. Kh1 Kh7 27. Be5 Rag8
+28. Qc2 Nd7 29. Bd6 f6 30. Re2 Qc8 31. Rfe1 R8g7 32. e4 fxe4 33. fxe4 dxe4 34.
+Qxe4 f5 35. Qf3 Nf6 36. Rxe6 Ne4 37. Rxg6 Rxg6 38. h3 Qe6 39. Kh2 Ng5 40. Qf1
+Ne4 41. Be5 Rg5 42. Qf3 Nd2 43. Qc3 Ne4 44. Qxa5 Qd5 45. Re2 Kg6 46. b3 Kh5 47.
+Qe1 Kg6 48. Qb4 h5 49. Bf4 h4 50. Bxg5 Kxg5 51. a4 bxa4 52. bxa4 Ng3 53. Qd2+
+Kg6 54. Re1 Ne4 55. Qf4 Qxd4 56. Rf1 Qxc5 57. Qxh4 Qd5 58. Qf4 c5 59. a5 1-0
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.26"]
+[Round "10"]
+[White "Anand, Viswanathan"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "2799"]
+[BlackElo "2737"]
+[PlyCount "58"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nf3 c6 3. d4 d5 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8. Bd3
+Bb4 9. O-O O-O 10. Rd1 Nb6 11. c5 Nbd7 12. a3 Ba5 13. b4 Bc7 14. Bf1 e5 15. b5
+Re8 16. Na2 Ne4 17. Bd3 Nexc5 18. Bxh7+ Kxh7 19. dxc5 Kg8 20. e4 Nxc5 21. exd5
+e4 22. Qg4 cxd5 23. Be3 Nd3 24. Nb4 Qd6 25. Qg3 Qd7 26. f4 d4 27. Nxd3 dxe3 28.
+Ne5 Qxb5 29. Ng4 Qg5 0-1
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.26"]
+[Round "10"]
+[White "Topalov, Veselin"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2780"]
+[BlackElo "2681"]
+[PlyCount "74"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nbd2 Bf5 6. Qb3 Qc7 7. Bd3 e6 8. O-O
+Bd6 9. Re1 Nbd7 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Bxe4 13. Rxe4 c5 14. Rg4
+cxd4 15. Rxg7 Be5 16. Nxe5 Qxe5 17. Bh6 Qf6 18. Qh3 O-O-O 19. Qh5 Ne5 20. Rg5
+Nd3 21. Qh4 Qe7 22. Qg3 Nc5 23. Qa3 b6 24. b4 Ne4 25. Re5 Qb7 26. c5 Nc3 27.
+Bd2 Rhg8 28. g3 Nb5 29. Qd3 Kb8 30. a4 Nc7 31. Rc1 f6 32. cxb6 Qxb6 33. Rec5
+Rg7 34. Rc6 Qb7 35. b5 axb5 36. Ba5 Nd5 37. Bxd8 Nb4 1-0
+
+[Event "Amber-rapid 17th"]
+[Site "Nice"]
+[Date "2008.03.27"]
+[Round "11"]
+[White "Karjakin, Sergey"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2732"]
+[BlackElo "2799"]
+[PlyCount "47"]
+[EventDate "2008.03.15"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Na6 7. e3 Nb4 8. Bxc4
+e6 9. O-O Be7 10. f3 Bc2 11. Qe2 O-O 12. Na2 Nxa2 13. Rxa2 Bg6 14. Rd1 c5 15.
+dxc5 Qc7 16. Nxg6 hxg6 17. b4 a5 18. bxa5 Rxa5 19. Bb5 Bxc5 20. Rc2 Qe7 21. Kh1
+Raa8 22. e4 Rfd8 23. Rf1 Ne8 24. Bf4 1/2-1/2
+
+[Event "DEN-ch"]
+[Site "Silkeborg"]
+[Date "2008.03.15"]
+[Round "1"]
+[White "Antonsen, Mikkel"]
+[Black "Matthiesen, Arne"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "2409"]
+[BlackElo "2327"]
+[PlyCount "79"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bb3 Nc6 7. Ne2 Bf5 8.
+Nbc3 e6 9. O-O Qd7 10. Be3 O-O-O 11. Bc2 Bxc2 12. Qxc2 Be7 13. a3 f5 14. b4 g5
+15. f3 Kb8 16. Bf2 h5 17. Rfd1 g4 18. b5 Na5 19. f4 h4 20. Be1 Nac4 21. Qb3 h3
+22. g3 Ne3 23. Rd3 Ned5 24. Bf2 Nxc3 25. Rxc3 Qd5 26. Qxd5 Rxd5 27. a4 Bb4 28.
+Rc2 Rd7 29. Nc1 Nd5 30. Nd3 Rc8 31. a5 Be7 32. a6 c6 33. axb7 Kxb7 34. bxc6+
+Rxc6 35. Rxa7+ Kxa7 36. Rxc6 Rb7 37. Rc1 Rb3 38. Nc5 Bxc5 39. dxc5 Kb7 40. Kf1
+1/2-1/2
+
+[Event "DEN-ch"]
+[Site "Silkeborg"]
+[Date "2008.03.15"]
+[Round "1"]
+[White "Jakobsen, Ole"]
+[Black "Teplyi, Igor"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2372"]
+[BlackElo "2256"]
+[PlyCount "59"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Qc2 c5 8. dxc5
+Nxc5 9. Be2 dxc4 10. Bxc4 a6 11. a4 Bd7 12. a5 Bb5 13. Nxb5 axb5 14. Bxb5 Rxa5
+15. Rd1 Qb6 16. Be2 Qb4+ 17. Kf1 Rd8 18. Rxd8+ Bxd8 19. g3 Ra1+ 20. Kg2 Rxh1
+21. Kxh1 Nfe4 22. Kg2 Bf6 23. Be5 b6 24. Qc4 Qxc4 25. Bxc4 Bxe5 26. Nxe5 Nd6
+27. Be2 f6 28. Nc4 Nxc4 29. Bxc4 Kf7 30. f4 1/2-1/2
+
+[Event "DEN-ch"]
+[Site "Silkeborg"]
+[Date "2008.03.15"]
+[Round "1"]
+[White "Lund, Esben"]
+[Black "Nielsen, Peter Heine"]
+[Result "1/2-1/2"]
+[ECO "D80"]
+[WhiteElo "2403"]
+[BlackElo "2625"]
+[PlyCount "97"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. e3 Be6 8.
+Rb1 Nd7 9. Qa4 Bd5 10. Bxc4 Bxg2 11. Qb3 Bh6 12. Bxf7+ Kf8 13. Bd5 Nc5 14. Bxg2
+Nxb3 15. Rxb3 b6 16. Nf3 Kg7 17. Ne5 Re8 18. O-O Qc8 19. Nc6 Qd7 20. Bxe7 Kh8
+21. Bh4 Bg7 22. Bg3 Re6 23. d5 Rd6 24. c4 a5 25. e4 a4 26. Re3 a3 27. e5 Rxc6
+28. e6 Qe7 29. dxc6 Rd8 30. Bd5 b5 31. Rb1 b4 32. Rf3 Rf8 33. Rbb3 Rf5 34. Rfe3
+Bc3 35. Rexc3 bxc3 36. Rxc3 Kg7 37. Rb3 Rg5 38. Rf3 Rf5 39. Rb3 Rg5 40. Rb7 Kf6
+41. Kf1 Rxd5 42. cxd5 Qc5 43. e7 Qxe7 44. d6 Qe4 45. d7 Qh1+ 46. Ke2 Qe4+ 47.
+Kf1 Qh1+ 48. Ke2 Qe4+ 49. Kf1 1/2-1/2
+
+[Event "DEN-ch"]
+[Site "Silkeborg"]
+[Date "2008.03.16"]
+[Round "2"]
+[White "Boe Olsen, Mads"]
+[Black "Glud, Jakob Vang"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2337"]
+[BlackElo "2486"]
+[PlyCount "62"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c3 g6 4. Bf4 Bg7 5. h3 O-O 6. e3 b6 7. Nbd2 Nbd7 8. a4
+a6 9. Bd3 Bb7 10. O-O Ne4 11. Qc2 Nxd2 12. Qxd2 c5 13. Bh2 e6 14. b4 c4 15. Bc2
+a5 16. b5 f6 17. Rfe1 e5 18. e4 f5 19. exf5 e4 20. Ne5 gxf5 21. Nxd7 Qxd7 22.
+Bf4 Rae8 23. Bd1 Re6 24. g4 fxg4 25. Bxg4 Rg6 26. Bg3 Rxg4 27. hxg4 Qxg4 28.
+Qd1 Rf3 29. Re3 h5 30. Rxf3 exf3 31. Qe1 h4 0-1
+
+[Event "DEN-ch"]
+[Site "Silkeborg"]
+[Date "2008.03.16"]
+[Round "2"]
+[White "Hoi, Carsten"]
+[Black "Kristensen, Kaare"]
+[Result "1-0"]

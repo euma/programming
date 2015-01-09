@@ -1,0 +1,600 @@
+[WhiteElo "2269"]
+[BlackElo "2135"]
+[PlyCount "103"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. b3 Nc6 3. f4 d6 4. Bb2 e5 5. Nf3 g6 6. Bb5 Bg7 7. O-O Nge7 8. fxe5
+dxe5 9. Nxe5 O-O 10. Bxc6 Nxc6 11. Nxc6 bxc6 12. Bxg7 Kxg7 13. Kh1 Qd4 14. Nc3
+Ba6 15. Ne2 Qxe4 16. d3 Qe5 17. Ng3 Rae8 18. Qf3 Re6 19. Qf2 Qd4 20. Ne2 Qxf2
+21. Rxf2 Rfe8 22. Nc3 f5 23. Kg1 Re5 24. Kf1 Kf6 25. Re2 Rxe2 26. Nxe2 Ke5 27.
+Kf2 Bc8 28. h4 h6 29. g3 Bd7 30. Re1 Kf6 31. Rh1 Ke5 32. Nf4 Kf6 33. Ng2 Ke5
+34. Nf4 Kf6 35. Ne2 Ke5 36. Rd1 Kd6 37. Rh1 Ke5 38. Rd1 Kd6 39. a3 Re7 40. Ng1
+Be8 41. Nf3 Bf7 42. Nd2 Kd5 43. Nb1 Kd4 44. c3+ Kd5 45. Nd2 Rb7 46. Ra1 Kd6 47.
+b4 Rd7 48. Nf3 Kd5 49. Re1 cxb4 50. axb4 Rd8 51. c4+ Kd6 52. c5+ 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.15"]
+[Round "3"]
+[White "Sarenac, David"]
+[Black "Stankovic, Milos"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2222"]
+[BlackElo "2155"]
+[PlyCount "65"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bd3 Bb7 11. Rhe1 Qb6 12. Nd5 Qxd4 13. Bxf6 gxf6 14. Bxb5
+Qc5 15. Nxf6+ Kd8 16. Nxd7 Qxb5 17. Nxf8 Rxf8 18. Qa3 Ke8 19. Qxd6 Rc8 20. Re3
+Qc6 21. Qd2 Qc7 22. Rc3 Qd8 23. Rd3 Qb6 24. Rd6 Qc7 25. Rd7 Qb6 26. f5 Bxe4 27.
+f6 Rxc2+ 28. Qxc2 Qe3+ 29. Qd2 Qc5+ 30. Qc3 Qxc3+ 31. bxc3 Bd5 32. Re7+ Kd8 33.
+c4 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.16"]
+[Round "4"]
+[White "Elez, Nikola"]
+[Black "Nestorovic, Nikola"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2092"]
+[BlackElo "2422"]
+[PlyCount "57"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. Be2 b5 7. Ne5 c5 8. Bf3
+Ra7 9. Bf4 cxd4 10. Ne2 Qb6 11. Nxd4 e6 12. O-O Bc5 13. Be3 Qc7 14. Nec6 Nxc6
+15. Nxc6 Bxe3 16. fxe3 Rb7 17. Qd4 O-O 18. Rad1 Re8 19. Ne5 Rb8 20. Bc6 Rf8 21.
+Rxf6 gxf6 22. Ng4 e5 23. Nxf6+ Kg7 24. Qh4 Bf5 25. Nh5+ Kh6 26. Ng3+ Kg6 27.
+Qh5+ Kg7 28. Nxf5+ Kh8 29. Qh6 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.16"]
+[Round "4"]
+[White "Sarenac, David"]
+[Black "Mirkovic, Stevan"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "2222"]
+[BlackElo "2211"]
+[PlyCount "107"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. g3 d5 5. Nf3 dxe4 6. Nxe4 Nf6 7. Nf2 Bd6 8. Bg2
+O-O 9. O-O e5 10. fxe5 Nxe5 11. b3 Nxf3+ 12. Bxf3 Be5 13. c3 Rb8 14. Bb2 Qc7
+15. d4 Bd6 16. c4 Re8 17. d5 Bxg3 18. hxg3 Qxg3+ 19. Bg2 Bg4 20. Qd2 Bf3 21.
+Nh1 Qxg2+ 22. Qxg2 Bxg2 23. Kxg2 Ng4 24. Rfe1 f5 25. Kf3 Kf7 26. Bc3 g5 27. Ng3
+Kg6 28. Rxe8 Rxe8 29. Re1 Rxe1 30. Bxe1 Ne5+ 31. Ke3 h5 32. Bc3 Nf7 33. Kf3 f4
+34. Ne4 Kf5 35. Nxc5 g4+ 36. Kg2 h4 37. Ne6 Nd6 38. c5 f3+ 39. Kg1 Ne4 40. Ng7+
+Kf4 41. Ne6+ Ke3 42. Bd4+ Kd3 43. c6 bxc6 44. dxc6 g3 45. Nc5+ Kxd4 46. Nxe4
+Kxe4 47. c7 f2+ 48. Kg2 h3+ 49. Kxg3 f1=Q 50. c8=Q Qf3+ 51. Kh4 h2 52. Qc2+ Ke3
+53. Qxh2 Qf6+ 54. Kg3 1/2-1/2
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.16"]
+[Round "4"]
+[White "Stankovic, Milos"]
+[Black "Sarenac, Ivan"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2155"]
+[BlackElo "2289"]
+[PlyCount "89"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be7 8.
+Nd5 Nf6 9. Nxf6+ Bxf6 10. Nc4 Be7 11. Ne3 O-O 12. Bc4 Bg5 13. O-O Be6 14. Bxe6
+fxe6 15. Qg4 Re8 16. Rd1 Bxe3 17. Bxe3 Qc7 18. Rd2 Rad8 19. Rad1 Na5 20. b3 b5
+21. g3 Nb7 22. h4 Qf7 23. f4 exf4 24. Bxf4 e5 25. Bg5 Rc8 26. Rf1 Qe6 27. Rf5
+h5 28. Qxh5 Rf8 29. Rdf2 Rxf5 30. exf5 Qf7 31. Qg4 Re8 32. f6 e4 33. fxg7 Qxg7
+34. Qh5 Re6 35. Be3 Re5 36. Qd1 Kh7 37. g4 Qe7 38. g5 Kg8 39. Qh5 Qe8 40. Qg4
+Re7 41. g6 Nc5 42. h5 Qd7 43. Qxd7 Nxd7 44. h6 Nf8 45. Rxf8+ 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.17"]
+[Round "5"]
+[White "Mirkovic, Stevan"]
+[Black "Stankovic, Milos"]
+[Result "1/2-1/2"]
+[ECO "B38"]
+[WhiteElo "2211"]
+[BlackElo "2155"]
+[PlyCount "100"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 c5 3. d4 g6 4. Nc3 cxd4 5. Nxd4 Bg7 6. e4 Nc6 7. Be3 d6 8. Be2
+O-O 9. O-O a5 10. Qd2 a4 11. f3 Qa5 12. Rfc1 Nxd4 13. Bxd4 Nd7 14. Be3 Nf6 15.
+Rab1 Qb4 16. Nd5 Nxd5 17. cxd5 Qxd2 18. Bxd2 Bd4+ 19. Kf1 Bb6 20. Bh6 Rd8 21.
+Bd3 Bd7 22. Ke2 Rdc8 23. Be3 Bxe3 24. Kxe3 b5 25. Kd2 Kf8 26. Rxc8+ Rxc8 27.
+Rc1 Rxc1 28. Kxc1 Ke8 29. Kd2 Kd8 30. Kc3 Kc7 31. Kb4 Kb6 32. b3 axb3 33. axb3
+g5 34. Bc2 h5 35. Kc3 h4 36. b4 Kc7 37. Kd4 f6 38. Bd3 Kb6 39. g3 hxg3 40. hxg3
+Kc7 41. f4 gxf4 42. gxf4 Kb6 43. Ke3 Kc7 44. Kd4 Kb7 45. e5 fxe5+ 46. fxe5 Kb6
+47. Bg6 Bh3 48. Be8 Bf1 49. Bc6 Bc4 50. exd6 exd6 1/2-1/2
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.17"]
+[Round "5"]
+[White "Nestorovic, Lazar"]
+[Black "Sarenac, David"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2269"]
+[BlackElo "2222"]
+[PlyCount "83"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. Bb5 Nd4 5. Nxd4 cxd4 6. Ne2 Qg5 7. Bc4 Qxg2 8.
+Ng3 Qh3 9. d3 Nf6 10. Bd2 Be7 11. Qe2 d6 12. O-O-O O-O 13. f4 Bd7 14. Rhg1 a5
+15. e5 dxe5 16. fxe5 Ng4 17. a3 b5 18. Bb3 Kh8 19. Qe4 a4 20. Ba2 Rac8 21. Kb1
+Bc6 22. Qf4 g5 23. Qxd4 Bf3 24. Qd7 Bxd1 25. Rxd1 Rfe8 26. Ne4 Qxh2 27. Rf1 Qe2
+28. Re1 Qg2 29. Bc3 Kg8 30. Bxe6 fxe6 31. Qxe6+ Kf8 32. Qf5+ Kg7 33. Nf6 Bxf6
+34. exf6+ Kh6 35. Re7 Kh5 36. Rxh7+ Nh6 37. Qd7 Rg8 38. f7 Qf1+ 39. Ka2 Rgf8
+40. Qe6 Kh4 41. Be1+ Qxe1 42. Qxe1+ 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.17"]
+[Round "5"]
+[White "Sarenac, Ivan"]
+[Black "Dimitrijevic, Radmilo"]
+[Result "1-0"]
+[ECO "B72"]
+[WhiteElo "2289"]
+[BlackElo "2186"]
+[PlyCount "69"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. h3 Bd7 10. O-O a5 11. Ndb5 Nb4 12. a4 Bc6 13. f3 Nd7 14. Qe2 Na6 15.
+Rad1 Ndc5 16. Bc4 Qd7 17. b3 Rfc8 18. Nd5 Bxd5 19. Bxd5 Nb4 20. Bc4 Qc6 21. Bg5
+Qe8 22. f4 h6 23. Bh4 Nd7 24. Bf2 Kh7 25. Rd2 Na6 26. h4 Nac5 27. h5 Nb6 28.
+hxg6+ fxg6 29. Bd5 Nxd5 30. exd5 Qf7 31. Bh4 Bf6 32. Bxf6 Qxf6 33. Re1 Qxf4 34.
+Qxe7+ Kh8 35. Rf2 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.18"]
+[Round "7"]
+[White "Dimitrijevic, Radmilo"]
+[Black "Elez, Nikola"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2186"]
+[BlackElo "2092"]
+[PlyCount "20"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 a6 3. g3 b5 4. Bg2 Bb7 5. f4 e6 6. d3 Nf6 7. Qe2 Nc6 8. Nf3 Nd4
+9. Qd1 Nxf3+ 10. Bxf3 d5 1/2-1/2
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.18"]
+[Round "7"]
+[White "Nestorovic, Lazar"]
+[Black "Stankovic, Milos"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2269"]
+[BlackElo "2155"]
+[PlyCount "69"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Qf3 e6 7. Be3 Nbd7 8.
+O-O-O Qc7 9. g4 Ne5 10. Qg3 Nexg4 11. f4 e5 12. fxe5 dxe5 13. Ndb5 Qc6 14. Bg5
+Bd7 15. h3 axb5 16. hxg4 Qe6 17. Bxf6 gxf6 18. g5 Bc6 19. Nxb5 Rc8 20. Bh3 Qxa2
+21. Bxc8 Bxb5 22. Qc3 Qa1+ 23. Kd2 Qa4 24. Qc7 Bb4+ 25. Ke3 Be7 26. Bf5 Kf8 27.
+Qb8+ Be8 28. Bd7 Bc5+ 29. Kf3 Qxc2 30. Qxe8+ Kg7 31. gxf6+ Kg6 32. Bf5+ Kg5 33.
+Rh5+ Kxh5 34. Qxf7+ Kg5 35. Qg7+ 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.18"]
+[Round "7"]
+[White "Nestorovic, Nikola"]
+[Black "Sarenac, David"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2422"]
+[BlackElo "2222"]
+[PlyCount "125"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 Nf6 8.
+O-O Ne5 9. h3 Bc5 10. Kh1 d6 11. f4 Bd7 12. fxe5 dxe5 13. Ndb5 axb5 14. Nxb5
+Qb6 15. Bxc5 Qxc5 16. b4 Qb6 17. a4 O-O 18. a5 Qc6 19. Qe2 b6 20. a6 Ne8 21.
+Ra3 Bc8 22. Rfa1 Nd6 23. Rc3 Qd7 24. Rc7 Qd8 25. Rc6 Ne8 26. Qe3 Bxa6 27. Rxb6
+Bxb5 28. Rxa8 Qxa8 29. Rxb5 Qa1+ 30. Qg1 Qb2 31. Rb8 Qd4 32. Qxd4 exd4 33. Rd8
+e5 34. Rd5 Nc7 35. Rxe5 Rb8 36. b5 Kf8 37. Rc5 Ne6 38. Rc6 Ke7 39. e5 Rb7 40.
+b6 Nd8 41. Rd6 Rd7 42. Rxd7+ Kxd7 43. Be4 Ne6 44. Bd5 Nf4 45. Bxf7 Kc6 46. g3
+Ne2 47. Kg2 Nc3 48. Kf3 Kxb6 49. e6 Nd5 50. Ke4 Kc5 51. Ke5 Ne7 52. Be8 Ng8 53.
+h4 Ne7 54. g4 h6 55. h5 Ng8 56. Bg6 Ne7 57. Be4 Ng8 58. e7 Nxe7 59. Ke6 Nc8 60.
+Bd3 Nd6 61. Ke7 Nc4 62. Kf8 Ne5 63. Bf5 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.18"]
+[Round "7"]
+[White "Sarenac, Ivan"]
+[Black "Radusinovic, Lazar"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2289"]
+[BlackElo "2135"]
+[PlyCount "53"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. O-O h6 7. h3 Nf6 8. Nd5
+O-O 9. a3 Nxd5 10. Bxd5 Be6 11. c3 Bxd5 12. exd5 Nb8 13. b4 b6 14. bxc5 bxc5
+15. Rb1 Nd7 16. c4 Qc7 17. Qa4 Nb6 18. Qc2 Qd7 19. Bd2 Rab8 20. Rb3 Qa4 21.
+Rfb1 Nd7 22. Ne1 Rb6 23. Rxb6 Qxc2 24. Nxc2 axb6 25. a4 Ra8 26. a5 Bd8 27. axb6
+1/2-1/2
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.19"]
+[Round "8"]
+[White "Sarenac, David"]
+[Black "Stankovic, Ivan G"]
+[Result "0-1"]
+[ECO "B25"]
+[WhiteElo "2222"]
+[BlackElo "2025"]
+[PlyCount "78"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. f4 d6 6. d3 e5 7. Nh3 Nge7 8. f5 O-O
+9. O-O f6 10. g4 Nd4 11. Be3 b5 12. a3 Bb7 13. Nd5 Bxd5 14. Bxd4 Bxe4 15. Bxe4
+cxd4 16. Bxa8 Qxa8 17. Qf3 Nd5 18. fxg6 hxg6 19. Nf2 Ne3 20. Qxa8 Rxa8 21. Rfc1
+Bh6 22. c3 Nd5 23. Rc2 Be3 24. cxd4 Bxd4 25. Kh1 f5 26. gxf5 gxf5 27. Nh3 Kf7
+28. Ng5+ Ke7 29. Nf3 Bb6 30. Re1 Rg8 31. Rd2 Nf4 32. d4 e4 33. Ng1 Kf6 34. Ne2
+e3 35. Nxf4 exd2 36. Nd5+ Kf7 37. Rd1 Bxd4 38. b3 f4 39. Nxf4 Rg1+ 0-1
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.19"]
+[Round "8"]
+[White "Stankovic, Milos"]
+[Black "Elez, Nikola"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "2155"]
+[BlackElo "2092"]
+[PlyCount "104"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. Kb1 Nxd4 11. e5 Nd7 12. Bxd4 Nxe5 13. Qe3 Nc6 14. Bxg7 Kxg7
+15. Nxd5 Be6 16. Bc4 Bxd5 17. Rxd5 Qc7 18. h4 e6 19. Rdd1 Qe5 20. Qc1 Rad8 21.
+Rde1 Qd4 22. Re4 Qd2 23. Qf1 Rd4 24. c3 Rxe4 25. fxe4 h6 26. g4 Ne5 27. g5 hxg5
+28. hxg5 Qxg5 29. Bb3 Qe3 30. Bc2 a6 31. Rh3 Qg5 32. Qh1 Rd8 33. Rh7+ Kf8 34.
+Qf1 Ke7 35. Qf2 Qd2 36. Qg3 Rd7 37. Rh2 Qd6 38. Qg5+ f6 39. Rh7+ Ke8 40. Rh8+
+Ke7 41. Qh6 Rd8 42. Rh7+ Nf7 43. Qxg6 Rf8 44. Qh5 b5 45. a3 Qe5 46. Qh1 Rc8 47.
+Qg1 Qc5 48. Qg6 Rf8 49. Bd1 Qf2 50. Bh5 Qf1+ 51. Kc2 Qf2+ 52. Kb3 Rc8 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.20"]
+[Round "9"]
+[White "Dimitrijevic, Radmilo"]
+[Black "Indjic, Aleksandar"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2186"]
+[PlyCount "63"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. h3 Nc6 8. Be3
+a6 9. a4 Nd7 10. O-O Ne7 11. f4 f5 12. Bf2 Kh8 13. Qd2 Nb6 14. b3 Be6 15. exf5
+Bxf5 16. g4 Bc8 17. Rad1 exf4 18. Nxf4 g5 19. Nh5 Ng6 20. Nxg7 Kxg7 21. Be3 h6
+22. Rxf8 Qxf8 23. Rf1 Qe7 24. a5 Nd7 25. Nd5 Qd8 26. Qf2 Nh8 27. h4 c6 28. hxg5
+hxg5 29. Nb6 Nxb6 30. Bxg5 Qe8 31. Qf6+ Kg8 32. Bh6 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.20"]
+[Round "9"]
+[White "Elez, Nikola"]
+[Black "Radusinovic, Lazar"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2092"]
+[BlackElo "2135"]
+[PlyCount "131"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. O-O h6 7. Nd5 Nf6 8. c3
+O-O 9. Re1 Nxd5 10. Bxd5 Be6 11. d4 exd4 12. Bxe6 fxe6 13. cxd4 cxd4 14. Nxd4
+Nxd4 15. Qxd4 Bf6 16. Qb4 a5 17. Qb3 Qe8 18. a4 Kh8 19. Be3 Qc6 20. Rac1 Qa6
+21. Rc7 d5 22. exd5 exd5 23. Rxb7 d4 24. Bd2 Rae8 25. Rxe8 Rxe8 26. Rb8 Rxb8
+27. Qxb8+ Kh7 28. Qb5 Qc8 29. Qd3+ Kh8 30. b3 Qc5 31. h3 Qh5 32. Be1 Qc5 33.
+Bd2 Qh5 34. Qf3 Qg6 35. Qa8+ Kh7 36. Qxa5 Qb1+ 37. Kh2 Qxb3 38. Qf5+ Kh8 39. a5
+Qb8+ 40. Bf4 Qd8 41. a6 d3 42. a7 d2 43. Bxd2 Qc7+ 44. Bf4 Qxa7 45. Bxh6 Qd4
+46. Be3 Qd6+ 47. g3 Kg8 48. Qe4 Qd7 49. Bf4 Qa7 50. Kg2 Qb6 51. h4 Qb5 52. Qa8+
+Kh7 53. Qe4+ Kg8 54. Be3 Kh8 55. Qf3 Kg8 56. h5 Kh7 57. h6 Qb1 58. hxg7 Kxg7
+59. Qg4+ Kf7 60. Qf3 Kg7 61. g4 Qb5 62. Qe4 Kf7 63. Qh7+ Ke8 64. Qh5+ Qxh5 65.
+gxh5 Kf7 66. Kf3 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.21"]
+[Round "10"]
+[White "Nestorovic, Lazar"]
+[Black "Stankovic, Ivan G"]
+[Result "0-1"]
+[ECO "B24"]
+[WhiteElo "2269"]
+[BlackElo "2025"]
+[PlyCount "98"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. d3 e6 4. g3 Nf6 5. Bg2 Be7 6. Nge2 d5 7. exd5 Nxd5 8.
+O-O O-O 9. Nxd5 exd5 10. Nf4 Be6 11. Qh5 g6 12. Nxe6 fxe6 13. Qe2 Nd4 14. Qd1
+Bf6 15. c3 Nf5 16. Re1 Qd6 17. Qb3 Rad8 18. Bd2 Rfe8 19. Re2 b6 20. Rae1 Kh8
+21. h4 e5 22. Qa4 Rf8 23. Qg4 Qd7 24. Bh3 Qg7 25. Bg5 Rde8 26. Bxf6 Qxf6 27.
+Bg2 d4 28. c4 Nd6 29. Qd7 Re7 30. Qc6 Kg7 31. a3 Nf7 32. Qa4 g5 33. hxg5 Nxg5
+34. Qd1 Re6 35. b4 Qf5 36. Qd2 Rh6 37. f4 exf4 38. gxf4 Qxf4 39. Re7+ Kg6 40.
+Qxf4 Rxf4 41. bxc5 bxc5 42. Rxa7 Nh3+ 43. Kh2 Ng5+ 44. Kg3 Kf5 45. Rae7 Rg4+
+46. Kf2 Rh2 47. R7e5+ Kf6 48. Rxc5 Rgxg2+ 49. Kf1 Rf2+ 0-1
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.22"]
+[Round "11"]
+[White "Dimitrijevic, Radmilo"]
+[Black "Mirkovic, Stevan"]
+[Result "1-0"]
+[ECO "B35"]
+[WhiteElo "2186"]
+[BlackElo "2211"]
+[PlyCount "77"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Nf6 6. Nc3 Bg7 7. Bc4 Qa5 8.
+O-O O-O 9. Bb3 d6 10. h3 Bd7 11. f4 Nxd4 12. Bxd4 Bc6 13. Qd3 Rad8 14. f5 Nd7
+15. Nd5 Bxd5 16. Bxd5 Bxd4+ 17. Qxd4 Qc5 18. Qxc5 Nxc5 19. b4 Nd7 20. Rf3 Kg7
+21. Ra3 gxf5 22. exf5 Kf6 23. Rxa7 Rc8 24. Rxb7 Ne5 25. Bb3 Rg8 26. Rf1 Rc3 27.
+Kh2 Re3 28. Rf2 Nc6 29. a4 Nd4 30. Bc4 h5 31. a5 Kg5 32. Bd3 e5 33. fxe6 fxe6
+34. a6 e5 35. a7 Kh4 36. Rb8 Reg3 37. Rxg8 Nf3+ 38. Rxf3 Rxh3+ 39. Rxh3# 1-0
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.22"]
+[Round "11"]
+[White "Elez, Nikola"]
+[Black "Sarenac, David"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2092"]
+[BlackElo "2222"]
+[PlyCount "160"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. b3 d6 3. Bb2 e5 4. Bc4 Nf6 5. Nc3 Be7 6. Nge2 a6 7. a4 Nc6 8. O-O
+O-O 9. f4 exf4 10. Nxf4 Nd4 11. d3 Rb8 12. a5 Ng4 13. Ncd5 Bg5 14. h3 Ne5 15.
+Bxd4 cxd4 16. Qe2 Nc6 17. b4 Qe8 18. Rab1 Qe5 19. b5 axb5 20. Rxb5 Na7 21. Rb2
+Bd7 22. Qf3 Kh8 23. g4 Bc6 24. Ng2 Bd2 25. Qf5 Bxa5 26. Ra2 b6 27. Ngf4 Nb5 28.
+Qxe5 dxe5 29. Ne7 Bd7 30. Nfd5 Nd6 31. Bb3 Rb7 32. Kg2 Nc8 33. Nf5 Be6 34. g5
+Rd8 35. h4 Nd6 36. Nfe7 Re8 37. Nc6 Bc3 38. Nxe5 Rc8 39. h5 Ba5 40. Nf3 Nb5 41.
+Rf2 Rd8 42. Ra1 Bg4 43. Ne5 Bxh5 44. Rh1 Re8 45. Nc4 Bg6 46. Ba4 Rxe4 47. dxe4
+Bxe4+ 48. Kh2 Bxd5 49. Bxb5 Bxh1 50. Kxh1 Rc7 51. Ne5 Be1 52. Re2 Bb4 53. Nd7
+g6 54. Nf6 Re7 55. Rf2 Re5 56. Be8 Kg7 57. Bc6 Rxg5 58. Nd5 Bc5 59. Re2 h5 60.
+Nc7 Rf5 61. Bd7 Rf3 62. Kg2 Re3 63. Rf2 Re7 64. Ne8+ Kh6 65. Bb5 f5 66. Nf6 Re3
+67. Nd5 Re5 68. Nf4 Re3 69. Bd3 Re5 70. Nh3 Be7 71. Rf4 Rd5 72. Rf1 Bg5 73. Ra1
+Be3 74. Ra6 Rd6 75. Ra8 Rf6 76. Rd8 g5 77. Rh8+ Kg6 78. Rg8+ Kh7 79. Rd8 g4 80.
+Ng1 h4 0-1
+
+[Event "SRB-ch U18"]
+[Site "Golubac"]
+[Date "2008.07.22"]
+[Round "11"]
+[White "Stankovic, Ivan G"]
+[Black "Jovanovic, Bojan P"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "2025"]
+[BlackElo "1894"]
+[PlyCount "81"]
+[EventDate "2008.07.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 c5 3. g3 Nc6 4. Bg2 g6 5. c4 Bg7 6. Nc3 a6 7. Nge2 Nge7 8. Be3
+d6 9. d4 cxd4 10. Nxd4 O-O 11. O-O Qc7 12. Rc1 b6 13. Nd5 Qd8 14. Nxc6 Nxc6 15.
+Nxb6 Rb8 16. Nxc8 Bxb2 17. Nxd6 Bxc1 18. Bxc1 Rb1 19. c5 Qa5 20. Qc2 Rfb8 21.
+Bd2 Rxf1+ 22. Bxf1 Qa3 23. Qc3 Qxc3 24. Bxc3 Rb1 25. e5 Rc1 26. Ne4 Kf8 27. Kg2
+Nb8 28. Ba5 Nc6 29. Bc7 a5 30. a4 Re1 31. f3 Nd4 32. Bxa5 Ra1 33. Nc3 Rc1 34.
+Bb5 Rc2+ 35. Kf1 Rc1+ 36. Kf2 Rc2+ 37. Ke3 Nf5+ 38. Kd3 Rf2 39. c6 Rxf3+ 40.
+Kc4 Ne3+ 41. Kc5 1-0
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.15"]
+[Round "1"]
+[White "Banasik, Henryk"]
+[Black "Szusterowski, Radoslaw"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2148"]
+[BlackElo "1839"]
+[PlyCount "53"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Nf6 4. d4 Bf5 5. c4 Qd8 6. Nc3 e6 7. Be2 Bb4 8.
+O-O Bxc3 9. bxc3 O-O 10. Qb3 Qc8 11. Nh4 Be4 12. f3 Bc6 13. g4 b6 14. Qc2 Nbd7
+15. Ba3 Re8 16. g5 Nh5 17. f4 g6 18. Bxh5 gxh5 19. f5 Nf8 20. g6 fxg6 21. fxg6
+Qd8 22. Rxf8+ Rxf8 23. gxh7+ Kg7 24. Bxf8+ Qxf8 25. Qg6+ Kh8 26. Rf1 Qa3 27.
+Qf6+ 1-0
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.15"]
+[Round "1"]
+[White "Chmiel, Piotr"]
+[Black "Szusterowski, Przemyslaw"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "1984"]
+[PlyCount "65"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 g6 5. O-O Bg7 6. d3 O-O 7. h3 Nc6 8. a4 Be6
+9. Ng5 Qb6 10. Nxe6 fxe6 11. Nd2 d5 12. Qc2 Rac8 13. f4 d4 14. e5 Nd5 15. Ne4
+dxc3 16. bxc3 c4+ 17. d4 Nxd4 18. cxd4 Qxd4+ 19. Kh1 Qxa1 20. Ng5 Qc3 21. Qe4
+Rc6 22. Nxe6 Qa5 23. Nxf8 Nc3 24. Bxc4+ e6 25. Qd3 Bxf8 26. Bd2 Bb4 27. f5 Qxe5
+28. Bxe6+ Rxe6 29. fxe6 Bd6 30. Bf4 Qe4 31. Qxd6 Qe2 32. Qb8+ Kg7 33. Qe5+ 1-0
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.15"]
+[Round "1"]
+[White "Korcz, Daniel"]
+[Black "Foltyn, Lukasz"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "1687"]
+[BlackElo "2017"]
+[PlyCount "92"]
+[EventDate "2008.07.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d6 9. Bc4 Be6 10. Qd3 Nd4 11. Bb5+ Kf8 12. O-O a6 13. Bc4 Bxc4 14. Qxc4
+Nxc2 15. Rb1 Nd4 16. Bg5 h6 17. Be3 b5 18. Qd3 Ne6 19. f3 g5 20. Rbd1 Ke7 21.
+g3 Rc8 22. Kh1 Nc5 23. Qe2 Qd7 24. f4 gxf4 25. gxf4 Qc6 26. fxe5 dxe5 27. Nd5+
+Nxd5 28. exd5 Qd6 29. Qh5 f6 30. Rg1 Nd7 31. Rg7+ Kd8 32. b4 Rc4 33. Qf5 Re8
+34. Bxh6 Re7 35. Rg8+ Kc7 36. Bf8 Nxf8 37. Rxf8 Kb7 38. Rxf6 Rf4 39. Qxf4 Qxd5+
+40. Rxd5 exf4 41. Rxf4 Re3 42. Rf6 Rxa3 43. Rd7+ Kc8 44. Rg7 Rd3 45. Rf8+ Rd8
+46. Rxd8+ Kxd8 1-0
+
+[Event "Pszczyna op 4th"]
+[Site "Pszczyna"]
+[Date "2008.07.15"]
+[Round "1"]
+[White "Szczecina, Kamil"]
+[Black "Gromada, Andrzej"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "1621"]
+[BlackElo "1995"]
+[PlyCount "54"]
+[EventDate "2008.07.15"]

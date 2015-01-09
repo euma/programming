@@ -1,0 +1,600 @@
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. f4 e5 3. Bc4 exf4 4. d4 Qh4+ 5. Kf1 Be6 6. Qd3 Nd7 7. Nf3 Qh6 8.
+Nc3 Ngf6 9. Bb3 a6 10. Ne2 g5 11. h4 g4 12. Bxf4 Qg6 13. Nd2 Nh5 14. g3 O-O-O
+15. Kg2 Re8 16. Rhf1 f5 17. Bxe6 Qxe6 18. Nc3 fxe4 19. Ndxe4 Nxf4+ 20. Rxf4 Bh6
+21. Ng5 Bxg5 22. hxg5 h5 23. Qf5 Qe3 24. Nd5 Qd2+ 25. Rf2 Qxd4 1/2-1/2
+
+[Event "Staufer op 20th"]
+[Site "Schwaebisch Gmuend"]
+[Date "2008.01.06"]
+[Round "9"]
+[White "Krivoborodov, Egor"]
+[Black "Miedema, Roi"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2394"]
+[BlackElo "2287"]
+[PlyCount "139"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. Nf3 Nf6 5. e5 Ne4 6. Bd3 Bb4 7. Bd2 Nxd2 8.
+Qxd2 Be7 9. Ne2 Nb4 10. Bb5+ Bd7 11. Bxd7+ Qxd7 12. c3 Nc6 13. O-O O-O-O 14. b4
+Rdg8 15. a4 g5 16. Qd3 g4 17. Nd2 f6 18. exf6 Bxf6 19. Nb3 Be7 20. b5 Nd8 21.
+a5 Bd6 22. c4 dxc4 23. Qxc4 Rg5 24. b6 a6 25. Nc5 Bxc5 26. dxc5 Qd5 27. Qa4 Nc6
+28. bxc7 Re5 29. Rad1 Qe4 30. Qa1 Re8 31. Nd4 Rxc5 32. Rfe1 Qg6 33. Nxc6 Rxc6
+34. Qd4 Kxc7 35. Qe5+ Kc8 36. Rc1 Qf7 37. Rxc6+ bxc6 38. Qe2 Qb7 39. Qxg4 Kb8
+40. Qe4 Qc7 41. Rb1+ Ka7 42. Qe3+ c5 43. Rc1 Rd8 44. g3 Rd5 45. Qxe6 Re5 46.
+Qf6 c4 47. Qf4 Rc5 48. Qxc7+ Rxc7 49. f4 Rc5 50. Kf2 Kb7 51. Ke3 Kc6 52. Ke4
+Kb5 53. f5 Kxa5 54. f6 Kb4 55. f7 Rc8 56. Rf1 Rf8 57. Kd5 c3 58. Ke6 c2 59. Ke7
+Rxf7+ 60. Kxf7 Kb3 61. g4 Kb2 62. g5 a5 63. h4 a4 64. h5 a3 65. g6 h6 66. g7
+c1=Q 67. Rxc1 Kxc1 68. g8=Q a2 69. Qa8 Kb1 70. Kg6 1-0
+
+[Event "Staufer op 20th"]
+[Site "Schwaebisch Gmuend"]
+[Date "2008.01.06"]
+[Round "9"]
+[White "Metz, Hartmut"]
+[Black "Raps, Johannes"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "2335"]
+[BlackElo "2191"]
+[PlyCount "37"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Bg4 4. Bc4 Nf6 5. fxe5 Bxf3 6. Qxf3 dxe5 7. Qb3 Bc5 8.
+Bxf7+ Kf8 9. Rf1 Nbd7 10. d3 c6 11. Bh5 g6 12. Bh6+ Ke7 13. Be2 Qb6 14. Nd2
+Rag8 15. h4 Qxb3 16. Nxb3 Bb6 17. O-O-O Kd8 18. d4 Bc7 19. Bc4 1-0
+
+[Event "Staufer op 20th"]
+[Site "Schwaebisch Gmuend"]
+[Date "2008.01.06"]
+[Round "9"]
+[White "Zoch, Werner"]
+[Black "Hoenick, Andreas"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2044"]
+[BlackElo "2163"]
+[PlyCount "76"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3
+Qa5 9. Bd2 Nbc6 10. Qh5 h6 11. g4 c4 12. Be2 f5 13. exf6 Rxf6 14. h4 Bd7 15. g5
+Be8 16. Qg4 h5 17. Qg2 Rf8 18. Rh3 Nf5 19. g6 Nd6 20. Bxh5 Ne4 21. Rf3 Nxd4 22.
+Rxf8+ Kxf8 23. Bd1 Nxd2 24. Kxd2 Nf5 25. h5 d4 26. Ne2 Rd8 27. Qxb7 dxc3+ 28.
+Kc1 Kg8 29. Qb4 Qd5 30. Nxc3 Qd2+ 31. Kb2 Qf4 32. Ka2 Rb8 33. Ne2 Qc7 34. Qc3
+Nd6 35. Nd4 Ne4 36. Qe1 Qb6 37. Qb4 Qd6 38. Qxc4 Qd5 0-1
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.02"]
+[Round "1"]
+[White "Maslova, Elena"]
+[Black "Abramov, Anatoly"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2027"]
+[BlackElo "2139"]
+[PlyCount "79"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 c6 5. Bf4 Bd6 6. Qd2 Bf5 7. f3 Ne7 8. g4
+Bg6 9. O-O-O Qc7 10. Nge2 O-O 11. h4 h5 12. Bxd6 Qxd6 13. Nf4 hxg4 14. fxg4 Be4
+15. Nxe4 dxe4 16. Re1 Nd7 17. Rxe4 Nf6 18. Re5 Ng6 19. Nxg6 fxg6 20. Bc4+ Nd5
+21. h5 Rae8 22. Rxe8 Rxe8 23. h6 Qf6 24. hxg7 Qxg7 25. Qg5 Qf7 26. Rf1 Qe6 27.
+Kb1 Kg7 28. a3 Qe7 29. Qd2 Qe3 30. Qh2 Qxd4 31. Bxd5 Qxd5 32. Rh1 Qe5 33. Qh7+
+Kf6 34. Rf1+ Kg5 35. Rh1 Qe2 36. Qh4+ Kf4 37. Qf6+ Kg3 38. Qxg6 Kg2 39. Qh5 Kg3
+40. Rh3+ 1-0
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.02"]
+[Round "1"]
+[White "Smolskiy, Mikhail"]
+[Black "Semenov, Nikolai"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2025"]
+[BlackElo "2091"]
+[PlyCount "54"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bc4 Bb4 5. a3 Ba5 6. b4 Bb6 7. d3 d6 8. Na4
+Bg4 9. Nxb6 axb6 10. c3 O-O 11. Bg5 h6 12. Bh4 Be6 13. Bxe6 fxe6 14. Qb3 Qe8
+15. O-O Qf7 16. h3 g5 17. Bg3 Nh5 18. Qd1 Nf4 19. Nh2 Kh8 20. d4 exd4 21. cxd4
+e5 22. Bxf4 Qxf4 23. dxe5 Nxe5 24. Qd5 c6 25. Qxd6 Nf3+ 26. Nxf3 Qxd6 27. e5
+Qe6 0-1
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.03"]
+[Round "2"]
+[White "Kazakov, Nikolay"]
+[Black "Abramov, Anatoly"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "1990"]
+[BlackElo "2139"]
+[PlyCount "107"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 c5 6. Bb5 Qb6 7. O-O cxd4 8.
+Nxd4 Nc6 9. Nxc6 bxc6 10. Ba4 Ba6 11. Re1 Bc5 12. Qf3 Qc7 13. Bf4 Bb7 14. Rad1
+Nf8 15. Nxd5 Qc8 16. Nc3 Ng6 17. Bg3 O-O 18. h4 Bb4 19. h5 Bxc3 20. Qxc3 Ne7
+21. Qc5 Nf5 22. Bb3 Rd8 23. Bf4 h6 24. Kh2 Qc7 25. g4 Ne7 26. Rd6 Qb6 27. Be3
+Qxc5 28. Bxc5 Rxd6 29. exd6 Nd5 30. Kg3 Nf6 31. f3 Nd7 32. Be3 a5 33. a4 Ba6
+34. Bd2 Bb7 35. Bc4 Ba6 36. Bxa6 Rxa6 37. b3 Kf8 38. Rd1 Ke8 39. g5 hxg5 40.
+Bxg5 f6 41. h6 gxh6 42. Bxh6 Kf7 43. Be3 e5 44. c4 Ke6 45. c5 Ra8 46. Rh1 Kd5
+47. Rd1+ Ke6 48. Rd2 f5 49. f4 Rg8+ 50. Kf3 e4+ 51. Kf2 Nf6 52. Ke1 Nd5 53. Bf2
+Rg4 54. d7 0-1
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.03"]
+[Round "2"]
+[White "Semenov, Nikolai"]
+[Black "Kuznezov, Albert"]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "2091"]
+[BlackElo "2053"]
+[PlyCount "109"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. exd5 Qxd5 6. Bc4 Qd8 7. O-O Nc6 8.
+Nb3 Nf6 9. Nbxd4 Nxd4 10. Qxd4 Qxd4 11. Nxd4 a6 12. Bf4 b5 13. Be2 Bb7 14. Bf3
+Bxf3 15. Nxf3 Be7 16. Rfd1 O-O 17. Bd6 Bxd6 18. Rxd6 Rfd8 19. Rxd8+ Rxd8 20.
+Kf1 Ne4 21. Ke2 f6 22. c3 Kf7 23. a4 g5 24. axb5 axb5 25. Ra7+ Kg6 26. g4 h5
+27. h3 hxg4 28. hxg4 e5 29. Rb7 Nd6 30. Rb6 Kf7 31. Nd2 Ke7 32. f3 Nc4 33. Nxc4
+bxc4 34. Rb4 Rc8 35. Ke3 Kd6 36. Ke4 Kc5 37. Kf5 Rc6 38. Rb8 Rd6 39. Rc8+ Kd5
+40. Rb8 Kc5 41. Rb7 Kd5 42. Rb5+ Kc6 43. Ra5 Kb6 44. Ra8 Kc5 45. Rf8 Rb6 46.
+Rxf6 Rxb2 47. Re6 Rd2 48. Rxe5+ Kd6 49. Re3 Rd5+ 50. Ke4 Ke6 51. f4 gxf4 52.
+Kxf4+ Kf6 53. Re4 Rc5 54. Rd4 Rc6 55. Ke4 1-0
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.04"]
+[Round "3"]
+[White "Maslova, Elena"]
+[Black "Semenov, Nikolai"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "2027"]
+[BlackElo "2091"]
+[PlyCount "136"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 Bb4+ 4. c3 dxc3 5. bxc3 Bd6 6. Nf3 Nc6 7. O-O Nge7
+8. Ng5 Ne5 9. Bb3 Bc5 10. Nxf7 Nxf7 11. Bxf7+ Kxf7 12. Qh5+ g6 13. Qxc5 d6 14.
+Qb5 Qd7 15. Qc4+ d5 16. exd5 Nxd5 17. Rd1 c6 18. Qb3 Qe6 19. c4 Re8 20. Nd2 Nf4
+21. Bb2 Qg4 22. g3 c5 23. Nf3 b6 24. Ne5+ Rxe5 25. Bxe5 Ne2+ 26. Kg2 Qh3+ 27.
+Kh1 Bb7+ 28. f3 Re8 29. Bd6 Nd4 30. Rxd4 cxd4 31. c5+ Qe6 32. cxb6 Qxb3 33.
+axb3 Bxf3+ 34. Kg1 axb6 35. Ra6 d3 36. Bf4 Bg4 37. Rxb6 Re1+ 38. Kf2 Re2+ 39.
+Kg1 d2 40. Rb7+ Ke6 41. Bxd2 Rxd2 42. Rxh7 Rb2 43. h3 Bf3 44. g4 Kf6 45. Rc7
+Kg5 46. Rf7 Bd5 47. Rc7 Bxb3 48. Rb7 Kh4 49. Rh7+ Kg3 50. Kf1 Bd5 51. g5 Bf3
+52. Ke1 Bh5 53. Rc7 Kxh3 54. Rc4 Bg4 55. Rc6 Bf5 56. Rc4 Rg2 57. Rc3+ Kh4 58.
+Kf1 Bh3 59. Ke1 Rxg5 60. Kf2 Rg2+ 61. Ke1 Ra2 62. Rc4+ Kg3 63. Rc3+ Kh2 64. Rc5
+Rg2 65. Kd1 g5 66. Ke1 g4 67. Rg5 g3 68. Kd1 Ra2 0-1
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.05"]
+[Round "4"]
+[White "Kazakov, Nikolay"]
+[Black "Andrianov, Vyacheslav"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "1990"]
+[BlackElo "2165"]
+[PlyCount "39"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Be7 4. Nf3 dxe4 5. Nxe4 Nf6 6. Bd3 Nbd7 7. Ng3 b6 8.
+O-O Bb7 9. Re1 O-O 10. Bd2 c5 11. c3 Qc7 12. Rc1 Rad8 13. h3 Bd6 14. Be4 Be7
+15. Bg5 Rfe8 16. Qe2 c4 17. Bc2 Nd5 18. Bxe7 Rxe7 19. Ng5 Nf4 20. Qe3 0-1
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.05"]
+[Round "4"]
+[White "Semenov, Nikolai"]
+[Black "Abramov, Anatoly"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2091"]
+[BlackElo "2139"]
+[PlyCount "65"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. c3 Nge7 5. Bg2 d5 6. d3 d4 7. Nh3 Ng6 8. O-O e5
+9. f4 h5 10. f5 Nge7 11. f6 gxf6 12. Rxf6 Bg7 13. Rf1 Bg4 14. Qf2 f6 15. c4 Qd7
+16. Ng5 Ng6 17. Nf3 O-O-O 18. a3 Kb8 19. Bd2 a5 20. Qe1 a4 21. h4 b6 22. Qd1
+Na7 23. b4 axb3 24. Qxb3 Kc7 25. a4 Rb8 26. Na3 Qc6 27. Nb5+ Nxb5 28. cxb5 Qd6
+29. a5 bxa5 30. Bxa5+ Kb7 31. Rac1 Bf8 32. Nd2 Be7 33. Nc4 1-0
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.06"]
+[Round "5"]
+[White "Smolskiy, Mikhail"]
+[Black "Kazakov, Nikolay"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2025"]
+[BlackElo "1990"]
+[PlyCount "48"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. c4 d5 3. exd5 exd5 4. d4 Bb4+ 5. Nc3 Qe7+ 6. Be3 Nf6 7. a3 Bxc3+ 8.
+bxc3 O-O 9. Nf3 Bg4 10. Qb3 c6 11. Ne5 h6 12. Bd3 b6 13. O-O Be6 14. Rfe1 Rc8
+15. c5 bxc5 16. dxc5 d4 17. Qc2 dxe3 18. Rxe3 Qxc5 19. Rae1 Nbd7 20. Nxd7 Nxd7
+21. c4 Nf6 22. h3 Re8 23. Rf3 Bd7 24. Rd1 Rad8 0-1
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.07"]
+[Round "6"]
+[White "Smolskiy, Mikhail"]
+[Black "Kuznezov, Albert"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2025"]
+[BlackElo "2053"]
+[PlyCount "94"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 c5 6. dxc5 Bxc5 7. Bd3 h6 8. O-O
+Nc6 9. Bf4 a6 10. a3 b5 11. b4 Be7 12. Ne2 Qc7 13. Ned4 Nxd4 14. Nxd4 Bb7 15.
+Re1 Nb6 16. Qh5 Rc8 17. Nxe6 Qc6 18. Nxg7+ Kf8 19. Bxh6 Qxh6 20. Qxh6 Rxh6 21.
+Nf5 Rh8 22. f4 Rd8 23. Nd4 Nc4 24. c3 Nd2 25. a4 bxa4 26. Rxa4 Nc4 27. Ra2 Rb8
+28. g3 Bd8 29. e6 Bb6 30. f5 Bxd4+ 31. cxd4 f6 32. h4 Ke7 33. Kf2 Rbg8 34. Be2
+Rg7 35. h5 Rg5 36. g4 Rhg8 37. Rh1 Nd6 38. h6 Nc4 39. Rh4 Rh8 40. Kf3 Rh7 41.
+Kf4 Rg8 42. Bd3 Rgh8 43. Rah2 Bc6 44. g5 fxg5+ 45. Kxg5 Rg8+ 46. Kf4 Kf6 47.
+Ra2 Bb5 0-1
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.08"]
+[Round "7"]
+[White "Maslova, Elena"]
+[Black "Smolskiy, Mikhail"]
+[Result "1-0"]
+[ECO "C21"]
+[WhiteElo "2027"]
+[BlackElo "2025"]
+[PlyCount "99"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 c6 4. Qxd4 Qb6 5. Qe5+ Ne7 6. Be3 Qb4+ 7. Nd2 d6 8.
+Qh5 g6 9. Qf3 Be6 10. Bxe6 fxe6 11. Qf6 Rg8 12. Qxe6 Qxb2 13. Rb1 Qxc2 14. Ngf3
+b6 15. Bg5 Rg7 16. Bf6 Nd7 17. Bxg7 Nc5 18. Qc4 Nd3+ 19. Kf1 Qxc4 20. Nxc4 Bxg7
+21. Nxd6+ Kd7 22. Rd1 Nb2 23. Rd2 Kc7 24. Ng5 Bc3 25. Rc2 Na4 26. Nc4 b5 27.
+Ne3 h6 28. Ne6+ Kd6 29. Nf4 g5 30. Ne2 Bb4 31. Ng3 c5 32. h4 Kc7 33. hxg5 hxg5
+34. Rh7 Kd6 35. Rg7 Bc3 36. Rxg5 Bf6 37. Ngf5+ Ke6 38. Rh5 Ng8 39. Nd5 Be5 40.
+f4 Bd6 41. Rh8 Rf8 42. Nxd6 Kxd6 43. g3 c4 44. Ne3 Nc5 45. Nf5+ Rxf5 46. exf5
+Nf6 47. Rh6 Nce4 48. g4 Ke7 49. g5 Ng4 50. Rh7+ 1-0
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.09"]
+[Round "8"]
+[White "Drizgalovich, Mikhail"]
+[Black "Semenov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2212"]
+[BlackElo "2091"]
+[PlyCount "24"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. c4 Bb4+ 7. Bd2 Nxd2 8.
+Nbxd2 O-O 9. Be2 dxc4 10. O-O c3 11. Qb3 cxb2 12. Qxb2 Be7 1/2-1/2
+
+[Event "Tula Efremenkov Memorial"]
+[Site "Tula"]
+[Date "2008.01.10"]
+[Round "9"]
+[White "Semenov, Nikolai"]
+[Black "Zhukov, Vladimir"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2091"]
+[BlackElo "1941"]
+[PlyCount "61"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. e5 Nfd7 6. c3 Nc6 7. Bd3 Qb6 8. Qa4
+cxd4 9. cxd4 Qb4 10. Qxb4 Nxb4 11. Bb1 Nb6 12. a3 Nc6 13. b4 a6 14. Bd3 Na4 15.
+Bc2 Nb6 16. Bb3 Bd7 17. O-O Be7 18. Bb2 O-O 19. Ne1 Rac8 20. Nd3 Rc7 21. Rfc1
+Rfc8 22. Nc5 Be8 23. f4 Nb8 24. Rc2 N6d7 25. Rac1 Bxc5 26. dxc5 b6 27. cxb6
+Rxc2 28. Rxc2 Rxc2 29. Bxc2 Nxb6 30. Bd4 Na4 31. Bxa4 1-0
+
+[Event "Tula Kotov Memorial"]
+[Site "Tula"]
+[Date "2008.01.02"]
+[Round "1"]
+[White "Kochetkov, German"]
+[Black "Kalinichev, Andrey"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "2386"]
+[BlackElo "2403"]
+[PlyCount "22"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. c3 Qd3 7. h3 h5 8.
+hxg4 hxg4 9. Nxe5 Bd6 10. Nxd3 Bh2+ 11. Kh1 Be5+ 1/2-1/2
+
+[Event "Tula Kotov Memorial"]
+[Site "Tula"]
+[Date "2008.01.04"]
+[Round "3"]
+[White "Aveskulov, Valeriy"]
+[Black "Kalinichev, Andrey"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "2532"]
+[BlackElo "2403"]
+[PlyCount "97"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. d3 Qxd5 6. Nbd2 Nc6 7. dxe4 Qh5 8.
+Qb5 Bc5 9. Nb3 Nxe4 10. Be3 Bb4+ 11. c3 Qxb5 12. Bxb5 Bd6 13. Na5 a6 14. Bxc6+
+bxc6 15. Nxc6 Bd7 16. Na5 Rb8 17. Nc4 Be7 18. O-O-O Be6 19. Na5 Bxa2 20. Nc6
+Ra8 21. Rhe1 Bd6 22. Nfd4 O-O 23. b3 a5 24. Kb2 a4 25. f3 Nxc3 26. Kxc3 axb3
+27. Nf5 Ba3 28. Bc1 Bc5 29. Re5 Bb6 30. Kb2 h6 31. Be3 Bxe3 32. Rxe3 Ra4 33.
+Rd4 Ra6 34. Rd7 Rfa8 35. Rxc7 Ra4 36. Re4 Rxe4 37. fxe4 Ra4 38. Nd6 f5 39. Ne7+
+Kh8 40. Nexf5 g6 41. Nf7+ Kg8 42. N7xh6+ Kh8 43. Nh4 Ra6 44. e5 g5 45. Nf7+ Kg8
+46. Nxg5 Ra5 47. Nf5 Ra8 48. Rg7+ Kf8 49. Ne6+ 1-0
+
+[Event "Tula Kotov Memorial"]
+[Site "Tula"]
+[Date "2008.01.04"]
+[Round "3"]
+[White "Yagupov, Igor"]
+[Black "Zubarev, Alexander2"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[WhiteElo "2491"]
+[BlackElo "2491"]
+[PlyCount "80"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 d5 11. exd5 e4 12. Bxe4 Nxe4 13. Rxe4 Bb7 14. d4 Re8 15.
+Bf4 Qxd5 16. Re5 Qd7 17. Nbd2 f6 18. Re1 Bd5 19. b3 Rac8 20. Qc2 Nb7 21. c4 Bf7
+22. Re2 Red8 23. Rae1 Bf8 24. Nf1 Bh5 25. N1d2 Bf7 26. Qc3 Nd6 27. d5 bxc4 28.
+bxc4 c6 29. dxc6 Rxc6 30. Bxd6 Rxd6 31. c5 Rd3 32. Qa5 Qc6 33. Nb3 R8d5 34. Re3
+Rxe3 35. Rxe3 Rd1+ 36. Re1 Rxe1+ 37. Qxe1 Bxc5 38. Nxc5 Qxc5 39. Qd2 Qd5 40.
+Qc2 g6 1/2-1/2
+
+[Event "Tula Kotov Memorial"]
+[Site "Tula"]
+[Date "2008.01.05"]
+[Round "4"]
+[White "Vlassov, Nikolai"]
+[Black "Afromeev, Vladimir"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2471"]
+[BlackElo "2646"]
+[PlyCount "76"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Bc5 5. Bg5 d6 6. Nc3 Na5 7. Nd2 h6 8. Bh4
+g5 9. Bg3 Nxc4 10. Nxc4 Be6 11. h4 g4 12. h5 Qd7 13. Ne3 Bd4 14. Qd2 Qc6 15.
+Ncd1 Rg8 16. c3 Bb6 17. c4 Qd7 18. Nc3 c6 19. O-O-O Ba5 20. Nc2 Rh8 21. f4 gxf3
+22. gxf3 Qc7 23. Rdf1 b5 24. b4 Bb6 25. cxb5 cxb5 26. Nxb5 Qc6 27. Nc3 Rc8 28.
+Kb2 Rg8 29. Be1 Bd4 30. Rh2 Qa6 31. Nxd4 exd4 32. Nd5 Bxd5 33. exd5 Nxd5 34.
+Re2+ Kd7 35. Qxh6 Nc3 36. Bxc3 Qxd3 37. Rfe1 Qxc3+ 38. Kb1 Qxb4+ 0-1
+
+[Event "Tula Kotov Memorial"]
+[Site "Tula"]
+[Date "2008.01.07"]
+[Round "6"]
+[White "Aveskulov, Valeriy"]
+[Black "Domogaev, Sergey"]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "2532"]
+[BlackElo "2367"]
+[PlyCount "167"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 Nc6 5. dxe5 Nc5 6. O-O Nxd3 7. Qxd3 Be7
+8. Nc3 O-O 9. Rd1 f6 10. Qc4+ Kh8 11. e6 d6 12. Bf4 f5 13. Re1 g5 14. Bd2 g4
+15. Nd4 Ne5 16. Qb3 c5 17. Nde2 c4 18. Qb4 a5 19. Qb5 Bxe6 20. Nd4 Bd7 21. Qxb7
+Bg5 22. Bxg5 Qxg5 23. Qd5 Qg6 24. Nce2 f4 25. Nxf4 Qf6 26. g3 Rab8 27. b3 a4
+28. bxa4 Rbc8 29. Rab1 Rc5 30. Qe4 Ra5 31. Rb7 Rxa4 32. Reb1 c3 33. R1b4 Rxa2
+34. Rb8 Rb2 35. Qa8 Kg8 36. Rxb2 cxb2 37. Rxf8+ Qxf8 38. Qa2+ Qf7 39. Qxb2 Qc4
+40. Qb3 Kf8 41. Qxc4 Nxc4 42. Kf1 Kf7 43. Ke2 Kf6 44. Kd3 Nb2+ 45. Ke4 Nd1 46.
+Kd5 Ke7 47. Nd3 Nc3+ 48. Kc4 Ne4 49. Nb3 Ng5 50. Nd2 Bf5 51. Kd4 Kd7 52. Ke3
+Ke6 53. Nb3 Kf6 54. Nd4 Bd7 55. c3 Nf7 56. Ke4 Bc8 57. Ke3 Bd7 58. f4 gxf3 59.
+Nxf3 Be6 60. Kf4 Bc4 61. Nf2 h6 62. Ng4+ Kg6 63. Nh4+ Kg7 64. Nf5+ Kg6 65. Ne7+
+Kg7 66. h4 Be6 67. Nf5+ Kg6 68. Ne7+ Kg7 69. Nf5+ Kg6 70. Nge3 h5 71. Nd4 Bc8
+72. Nd5 Bb7 73. Nf5 Ba6 74. Nfe7+ Kg7 75. Kf5 Be2 76. Ne3 Kf8 77. Kf6 Ke8 78.
+N3f5 Bd1 79. Ng7+ Kf8 80. Ne6+ Ke8 81. Nf5 Nd8 82. Nxd8 Kxd8 83. Nxd6 Kd7 84.
+Ke5 1-0
+
+[Event "Tula Kotov Memorial"]
+[Site "Tula"]
+[Date "2008.01.09"]
+[Round "8"]
+[White "Kochetkov, German"]
+[Black "Vlassov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2386"]
+[BlackElo "2471"]
+[PlyCount "26"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 Be7 6. Bd3 d5 7. c4 Nc6 8. O-O
+O-O 9. Nc3 Nxc3 10. bxc3 dxc4 11. Bxc4 Bg4 12. Re1 Bd6 13. h3 Bf5 1/2-1/2
+
+[Event "Tula Kotov Memorial"]
+[Site "Tula"]
+[Date "2008.01.09"]
+[Round "8"]
+[White "Yagupov, Igor"]
+[Black "Domogaev, Sergey"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2491"]
+[BlackElo "2367"]
+[PlyCount "87"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d3 d6 10. Nbd2 Be6 11. Bxe6 fxe6 12. Nf1 Na5 13. c3 bxc3 14. bxc3 Rb8 15.
+d4 exd4 16. cxd4 Nb3 17. Ra2 c5 18. Ba3 Nd7 19. dxc5 Ndxc5 20. N1d2 Na5 21. Nd4
+Qd7 22. Qg4 Rf6 23. e5 dxe5 24. Bxc5 Rg6 25. Qe4 Bxc5 26. Qxe5 Ba7 27. N2f3 Nc6
+28. Nxc6 Qxc6 29. Qe4 Qxe4 30. Rxe4 Rb1+ 31. Ne1 Bd4 32. g3 Bc3 33. Rae2 Kf7
+34. Kg2 Bxe1 35. Rxe1 Rxe1 36. Rxe1 Rg5 37. f4 Ra5 38. Re4 Kf6 39. Kf3 Rc5 40.
+g4 h5 41. Kg3 Rc3+ 42. Kh4 hxg4 43. Kxg4 Ra3 44. Rc4 1/2-1/2
+
+[Event "Tula Kotov Memorial"]
+[Site "Tula"]
+[Date "2008.01.10"]
+[Round "9"]
+[White "Vlassov, Nikolai"]
+[Black "Aveskulov, Valeriy"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[WhiteElo "2471"]
+[BlackElo "2532"]
+[PlyCount "43"]
+[EventDate "2008.01.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
+a4 c5 16. d5 c4 17. Bg5 h6 18. Be3 Qc7 19. Qd2 h5 20. Bg5 Nh7 21. Be3 Nhf6 22.
+Bg5 1/2-1/2

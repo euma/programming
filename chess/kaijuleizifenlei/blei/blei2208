@@ -1,0 +1,600 @@
+[White "Rutkowski, Maciej"]
+[Black "Swicarz, Maciej"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2380"]
+[BlackElo "2284"]
+[PlyCount "88"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Nd5 Be7 11. Bxf6 Bxf6 12. c4 b4 13. Nc2 a5 14. g3 Bg5 15.
+Bg2 Ne7 16. Nde3 O-O 17. O-O Qb6 18. Qd3 Ra6 19. Rad1 g6 20. f4 Bh6 21. Kh1 Qc5
+22. Qe2 Bg7 23. b3 exf4 24. gxf4 Re8 25. Nd5 Nxd5 26. Rxd5 Qc7 27. Rdd1 Bb7 28.
+Qd3 Qe7 29. Rde1 Rc6 30. Nd4 Rc5 31. Nb5 d5 32. exd5 Qxe1 33. Rxe1 Rxe1+ 34.
+Bf1 Rxb5 35. cxb5 Rxf1+ 36. Kg2 Rxf4 37. b6 Rf5 38. Qe3 Bxd5+ 39. Kg1 h5 40. h4
+Bf6 41. Qe8+ Kg7 42. Qd7 Bd4+ 43. Kh2 Rf2+ 44. Kg1 Rf4+ 0-1
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.27"]
+[Round "7"]
+[White "Sochacki, Wojtek"]
+[Black "Sievers, Stefan"]
+[Result "1-0"]
+[ECO "B37"]
+[WhiteElo "2239"]
+[BlackElo "2363"]
+[PlyCount "81"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. c4 Nf6 6. Nc3 Bg7 7. Nc2 O-O 8.
+Be2 d6 9. Be3 Nd7 10. Qd2 Nc5 11. f3 Qa5 12. Rb1 Bxc3 13. bxc3 Qxa2 14. O-O Qa5
+15. Nb4 Qd8 16. Rfd1 Be6 17. Nxc6 bxc6 18. e5 Bf5 19. Rb2 a5 20. g4 Be6 21.
+exd6 exd6 22. Bh6 Re8 23. Qf4 f6 24. Rxd6 Qe7 25. g5 fxg5 26. Bxg5 Qf7 27. Rxc6
+Qxf4 28. Bxf4 Rec8 29. Rxc8+ Rxc8 30. Rb5 a4 31. Ra5 Bd7 32. Be3 Nb3 33. Ra7
+Bc6 34. c5 h5 35. Bc4+ Kh8 36. Bh6 Ra8 37. Rc7 Bxf3 38. Bg7+ Kh7 39. Bf6+ Kh6
+40. h4 g5 41. Bf1 1-0
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.27"]
+[Round "7"]
+[White "Szymanowska, Lena"]
+[Black "Cagara, Paulina"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "1932"]
+[BlackElo "2078"]
+[PlyCount "83"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 g6 6. h3 Nh6 7. Nf3 Bf5 8. O-O
+Bg7 9. Re1 O-O 10. Bxh6 Bxh6 11. Bxf5 gxf5 12. Nbd2 e6 13. Qb3 Qc7 14. Rad1 Kh8
+15. Ne5 Nxe5 16. Rxe5 Rg8 17. Nf1 Rg6 18. Rd3 Bf4 19. Re2 Rag8 20. f3 a6 21.
+Qd1 h5 22. Qe1 Qc4 23. Rd1 Kh7 24. b3 Qc7 25. Rc2 b5 26. Ra1 b4 27. c4 dxc4 28.
+Qxb4 c3 29. Re1 Rc8 30. Rd1 Rgg8 31. Rd3 Bd6 32. Qxc3 Qb6 33. Qd2 Bb4 34. Qe2
+Rxc2 35. Qxc2 Rd8 36. Qd1 Rxd4 37. Rxd4 Bc5 38. Kh1 Bxd4 39. f4 Kh6 40. Ng3 Bf2
+41. Qxh5+ Kg7 42. Qg5+ 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.27"]
+[Round "7"]
+[White "Verdaguer Montanya, Marc"]
+[Black "Klim, Kamil"]
+[Result "1-0"]
+[ECO "B67"]
+[WhiteElo "2142"]
+[BlackElo "2181"]
+[PlyCount "139"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Nxc6 Bxc6 11. Qe1 Be7 12. e5 Nd5 13. Bxe7 Qxe7 14. Ne4
+dxe5 15. fxe5 O-O 16. Qg3 Kh8 17. Kb1 b4 18. Bd3 a5 19. Qg5 Qxg5 20. Nxg5 Ne3
+21. Rd2 h6 22. Be4 Nc4 23. Rd4 Nxe5 24. Bxc6 Nxc6 25. Rd6 hxg5 26. Rxc6 Rfc8
+27. Rd6 Rd8 28. Rhd1 Rxd6 29. Rxd6 g6 30. c4 bxc3 31. bxc3 Kg7 32. Kc2 Kf6 33.
+Kd3 g4 34. c4 Ke7 35. Rb6 Rh8 36. Rb7+ Kd6 37. Rxf7 Rxh2 38. Rf2 g5 39. Rc2 Rh1
+40. c5+ Kc6 41. Rc4 Rd1+ 42. Kc2 Rd5 43. Rxg4 Kxc5 44. Re4 Kd6 45. Kc3 Rf5 46.
+Rg4 Ke5 47. Kd3 Kf6 48. Ra4 Rd5+ 49. Ke3 Kf5 50. Ke2 Rc5 51. Ke3 Rd5 52. Ke2 g4
+53. Kf2 e5 54. Ke3 Rc5 55. g3 Rc2 56. Rxa5 Rg2 57. Ra8 Rxg3+ 58. Kf2 Rf3+ 59.
+Kg2 e4 60. a4 Kf4 61. Rf8+ Ke3 62. Rg8 Ke2 63. Rxg4 Rf2+ 64. Kg1 e3 65. Rb4 Kf3
+66. Rb8 Rg2+ 67. Kh1 Ra2 68. Rf8+ Kg3 69. Rg8+ Kf2 70. Rg2+ 1-0
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.27"]
+[Round "7"]
+[White "Zadlo, Tomasz"]
+[Black "Hermanowicz, Dominika"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2041"]
+[BlackElo "2118"]
+[PlyCount "91"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Nf6 5. d4 e6 6. Na3 a6 7. Nc4 Nbd7 8. Ne3
+Qd6 9. Be2 Be7 10. O-O O-O 11. Qc2 b6 12. Nc4 Qc7 13. Nce5 cxd4 14. Nxd7 Nxd7
+15. Nxd4 Bb7 16. Bd3 h6 17. Qe2 Qe5 18. Be3 Nc5 19. f4 Qf6 20. Bc2 Rfe8 21. Nf3
+Rad8 22. Bd4 Qxf4 23. Ne5 Qh4 24. Nxf7 Rxd4 25. cxd4 Qxd4+ 26. Qf2 Qxf2+ 27.
+Rxf2 Nd7 28. Kh1 Bd5 29. Bb3 Bc5 30. Rf4 Re7 31. Bxd5 exd5 32. Raf1 Re2 33. b4
+Be3 34. R4f3 d4 35. Nd6 Rxa2 36. Nf5 Ne5 37. Rg3 Bg5 38. Nxd4 Rb2 39. Ne6 Bf6
+40. h3 Kf7 41. Nxg7 Ke7 42. Nf5+ Ke6 43. Nd4+ Ke7 44. Re3 Bh8 45. Nc6+ Kd6 46.
+Nxe5 1-0
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Andrzejewska, Anna"]
+[Black "Baturo, Tomasz"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "1992"]
+[BlackElo "2059"]
+[PlyCount "107"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Nc6 6. Nf3 Bg4 7. Be3 e6 8. Be2
+dxc4 9. Bxc4 Qb6 10. O-O O-O-O 11. Rc1 Kb8 12. Nb5 Ka8 13. d5 Bc5 14. Bxc5 Qxc5
+15. d6 Kb8 16. Be2 Qb6 17. Ng5 Bxe2 18. Qxe2 Rd7 19. Rfd1 Rhd8 20. Qc4 h6 21.
+Nf3 a6 22. Nc3 Rxd6 23. Rxd6 Rxd6 24. Qf4 Qc7 25. Qg3 g5 26. h3 Rd8 27. Qxc7+
+Kxc7 28. Ne2 Kb6 29. Kf1 Ne4 30. Ke1 f5 31. a3 h5 32. Nc3 Nc5 33. Ke2 g4 34.
+hxg4 hxg4 35. Ng5 Nb3 36. Rd1 Nbd4+ 37. Ke3 e5 38. Nf7 Nc2+ 39. Ke2 Rxd1 40.
+Kxd1 N2d4 41. Nd5+ Kc5 42. Ne3 e4 43. Kd2 a5 44. Kc3 Nb5+ 45. Kd2 Nbd4 46. Kc3
+b5 47. g3 b4+ 48. axb4+ axb4+ 49. Kd2 Ne7 50. Nh6 Kd6 51. Nf7+ Ke6 52. Nd8+ Kd7
+53. Nf7 Ke6 54. Nd8+ 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Cagara, Paulina"]
+[Black "Michna, Christian"]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[WhiteElo "2078"]
+[BlackElo "2304"]
+[PlyCount "92"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O h6 12. Bf4 d4 13. Nb5 Nd5 14. Bg3 Be6
+15. Re1 Qd7 16. Bc4 Bg4 17. f3 Nb6 18. Bd3 Bh5 19. Nd6 f5 20. Nc4 Nxc4 21.
+Bxc4+ Bf7 22. Qd3 Rad8 23. Rad1 Bxc4 24. Qxc4+ Qf7 25. Qxf7+ Kxf7 26. Re2 Rd7
+27. Rd3 Rfd8 28. Bf2 Rd5 29. f4 Rb5 30. b3 Ra5 31. a4 Rad5 32. Be1 R8d7 33. Kf2
+Nd8 34. Bb4 Ne6 35. g3 g5 36. fxg5 hxg5 37. c3 dxc3 38. Rxc3 a5 39. Ba3 Rd3 40.
+Bb2 Rxc3 41. Bxc3 b6 42. Rd2 Rc7 43. Be5 Rc5 44. Bb2 Rc7 45. Be5 Rc5 46. Bb2
+Rc7 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Chojnacki, Krzysztof"]
+[Black "Butkiewicz, Lukasz"]
+[Result "1/2-1/2"]
+[ECO "B88"]
+[WhiteElo "2416"]
+[BlackElo "2284"]
+[PlyCount "42"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a4 Be7 8. O-O
+Nc6 9. Be3 O-O 10. Ba2 Qc7 11. Kh1 Bd7 12. f4 Nxd4 13. Bxd4 Bc6 14. Qd3 e5 15.
+Be3 b5 16. axb5 axb5 17. Bd5 Bxd5 18. Nxd5 Nxd5 19. Rxa8 Rxa8 20. Qxd5 Rf8 21.
+Rc1 Qc4 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Czachor, Radoslaw"]
+[Black "Budakow, Adrian"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2127"]
+[PlyCount "70"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Bd7 4. Bc4 Bg4 5. f3 Bf5 6. Nc3 Nbd7 7. Nge2 Nb6
+8. Bb3 Nfxd5 9. Nxd5 Nxd5 10. Nd4 Qd7 11. Nxf5 Qxf5 12. O-O O-O-O 13. Qe2 e6
+14. Qe4 Bc5+ 15. Kh1 Qg6 16. d4 Bb6 17. c3 Nf6 18. Qe2 c6 19. Bc2 Qh5 20. Bf4
+Nd5 21. Bg3 Qh6 22. Rfe1 Nf4 23. Qe5 Bc7 24. Bxf4 Qxf4 25. Qxf4 Bxf4 26. g3 Bc7
+27. f4 g6 28. b4 h5 29. Kg2 b6 30. Be4 Rd6 31. Rad1 Rhd8 32. Bf3 b5 33. Re5 Bb6
+34. Rde1 Kc7 35. a4 a5 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Hermanowicz, Dominika"]
+[Black "Grochowalski, Pawel"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2118"]
+[BlackElo "2121"]
+[PlyCount "31"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6 7. Be2 g6 8. Be3
+Bg7 9. O-O O-O 10. Kh1 Bd7 11. Nb3 Na5 12. Nxa5 Qxa5 13. Qd2 Rfc8 14. f3 Be6
+15. Rfd1 Nd7 16. Bd4 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Koziak, Vitali"]
+[Black "Zhigalko, Andrey"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2489"]
+[BlackElo "2551"]
+[PlyCount "23"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 Nc6 7. c3 e6 8.
+d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Nbd2 Nxd2 12. Bxd2 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Kucypera, Malgorzata"]
+[Black "Palosz, Andrzej"]
+[Result "1-0"]
+[ECO "B39"]
+[WhiteElo "2081"]
+[BlackElo "2148"]
+[PlyCount "61"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 Ng4 8.
+Qxg4 Nxd4 9. Qd1 Ne6 10. Be2 Bxc3+ 11. bxc3 Qa5 12. Qd2 b6 13. Rb1 Ba6 14. O-O
+Rc8 15. Rb4 Bb7 16. Bd3 Bc6 17. f4 Nc5 18. f5 Rg8 19. f6 Nxd3 20. Qxd3 Qe5 21.
+Bd4 Qxe4 22. Qxe4 Bxe4 23. Re1 d5 24. cxd5 Bxd5 25. Rxe7+ Kf8 26. Rxa7 g5 27.
+Rxb6 Rg6 28. Rd6 Be6 29. Bc5 Kg8 30. Rxe6 h6 31. Rd6 1-0
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Lahiri, Atanu"]
+[Black "Czerwonski, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[WhiteElo "2338"]
+[BlackElo "2414"]
+[PlyCount "78"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Bg4 9. Kh1 Nc7 10. h3 Bxf3 11. Qxf3 Nd7 12. Be3 a6 13. a4 b6 14. Bf2 Rb8 15.
+Bh4 f6 16. Qe2 Qc8 17. Ra3 Qb7 18. Rb3 c4 19. Bxc4 Nc5 20. Ra3 b5 21. axb5 axb5
+22. b4 N5a6 23. Bb3 Nxb4 24. Rfa1 Nba6 25. Ra5 g5 26. Bg3 gxf4 27. Bxf4 Kh8 28.
+Nxb5 Nxb5 29. Rxa6 f5 30. e5 Nd4 31. Qe1 Nxb3 32. cxb3 Qxd5 33. exd6 exd6 34.
+Bxd6 Rxb3 35. Ba3 Rfb8 36. Re6 h6 37. Re8+ Rxe8 38. Qxe8+ Kh7 39. Qe2 Qe5
+1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Nasuta, Grzegorz"]
+[Black "Brodowski, Piotr"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "1959"]
+[BlackElo "2424"]
+[PlyCount "78"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c3 Ng6 10. Qa4 Bd7 11. Qb4 Qb8 12. Qc4 Kd8 13. Be3 Be7 14. g3 f5
+15. h4 Bf6 16. Qb4 Bxb5 17. Bxb5 Qc7 18. a4 Rf8 19. h5 Ne7 20. Rd1 Nc8 21. f4
+Nb6 22. O-O e4 23. c4 Rc8 24. Rc1 a5 25. Qd2 Nd7 26. Bxd7 Kxd7 27. c5 Rfd8 28.
+c6+ Ke7 29. Qf2 bxc6 30. Bb6 Qb7 31. Bxd8+ Kxd8 32. Qd2 Qb6+ 33. Kh1 c5 34. g4
+fxg4 35. Qe2 Qb3 36. Qxg4 Qxd5 37. Rcd1 Bd4 38. f5 e3+ 39. Kh2 Qe5+ 0-1
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Nguyen, Piotr"]
+[Black "Dragun, Kamil"]
+[Result "0-1"]
+[ECO "B53"]
+[WhiteElo "2329"]
+[BlackElo "2240"]
+[PlyCount "130"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 a6 5. Be3 Nc6 6. Qb6 Qxb6 7. Bxb6 Nf6 8.
+Nc3 Be6 9. Ng5 Nd7 10. Nxe6 fxe6 11. Be3 g6 12. O-O-O Bg7 13. Ne2 Nde5 14. Nf4
+Kd7 15. g3 Bh6 16. Bh3 Bxf4 17. Bxf4 Nf7 18. Be3 h5 19. f4 Rag8 20. Rdg1 g5 21.
+Bf1 gxf4 22. gxf4 Nh6 23. h3 Rxg1 24. Rxg1 Rg8 25. Rg5 h4 26. Rh5 Rg3 27. Kd2
+Ng8 28. Rxh4 Nf6 29. Bd3 d5 30. e5 Ne4+ 31. Ke2 Nb4 32. a3 Nc6 33. Bf2 Rg2 34.
+Bxe4 dxe4 35. Kf1 Rg8 36. Rg4 Rc8 37. c3 Na5 38. Rg7 Nc4 39. Bh4 Ne3+ 40. Ke2
+Nf5 41. Rh7 b5 42. Rh5 Rg8 43. Kf2 e3+ 44. Kf1 a5 45. Be1 Rc8 46. Rg5 Kc6 47.
+h4 Kd5 48. Ke2 Ke4 49. Rg6 Kxf4 50. Rxe6 Rg8 51. a4 bxa4 52. Rc6 Rg2+ 53. Kd3
+Rxb2 54. h5 a3 55. h6 a2 56. Rc4+ Kf3 57. Ra4 Nxh6 58. c4 e2 59. Bxa5 Ng4 60.
+Kd4 Kf2 61. c5 Ne3 62. c6 Nc2+ 63. Kd3 a1=Q 64. Rxa1 Nxa1 65. c7 Rc2 0-1
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Przybylski, Wojciech"]
+[Black "Swicarz, Maciej"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2363"]
+[BlackElo "2284"]
+[PlyCount "67"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5
+15. Bc4 Rb8 16. b3 Kh8 17. h4 Bh6 18. Nce3 g6 19. h5 Kg7 20. Qd2 Rh8 21. g3 f5
+22. f4 fxe4 23. Qg2 Bd7 24. Ra2 Qe8 25. g4 Bxf4 26. h6+ Kf8 27. Qxe4 Bxe3 28.
+Qxe3 Bxg4 29. Qg5 Qe6 30. Nc7 Qe7 31. Rf1+ Bf5 32. Rxf5+ gxf5 33. Qxf5+ Qf6 34.
+Qxf6# 1-0
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Puczylowski, Marcin"]
+[Black "Sochacki, Zenon"]
+[Result "1/2-1/2"]
+[ECO "B34"]
+[WhiteElo "1958"]
+[BlackElo "1956"]
+[PlyCount "27"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nde2 a6 7. g3 b5 8. Bg2
+Bb7 9. O-O e6 10. f4 Nge7 11. e5 Nd5 12. Ne4 O-O 13. Kh1 Nce7 14. Nf6+ 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Smirnov, Aleksander"]
+[Black "Sievers, Stefan"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[WhiteElo "2262"]
+[BlackElo "2363"]
+[PlyCount "56"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Bg7 7. Bb3 O-O 8. f3
+Nc6 9. Be3 Bd7 10. Nde2 Ne5 11. Nf4 b5 12. Qe2 a6 13. Ncd5 Nxd5 14. Nxd5 Rb8
+15. Qf2 Bc6 16. Bb6 Qd7 17. O-O Qb7 18. Bd4 e6 19. Nf4 Rfd8 20. Rad1 a5 21. a3
+Bf8 22. Qg3 Bg7 23. h4 Nc4 24. Bxg7 Kxg7 25. Qg5 h6 26. Nh5+ Kh7 27. Nf6+ Kg7
+28. Nh5+ Kh7 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Wieczorek, Oskar"]
+[Black "Budrewicz, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2232"]
+[BlackElo "2333"]
+[PlyCount "136"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 g6 6. c5 Nd5 7. Bc4 c6 8. Qb3
+Bg7 9. Nf3 O-O 10. O-O Nxc3 11. bxc3 b5 12. cxb6 axb6 13. Re1 b5 14. Bd3 Na6
+15. Bg5 Re8 16. c4 Nc7 17. Be4 Ra6 18. cxb5 Be6 19. Qc2 cxb5 20. Qc5 Bc4 21.
+Bc6 Ne6 22. Rxe6 Bxe6 23. Bxb5 Ra5 24. Bd2 Rxa2 25. Rxa2 Bxa2 26. Bxe8 Qxe8 27.
+h3 h6 28. Bf4 Qd7 29. Bg3 f6 30. h4 Bd5 31. Nd2 Bf8 32. Qc3 Qb7 33. f3 h5 34.
+Bf4 Kf7 35. Kf2 Qb6 36. Ne4 Qa7 37. Qc5 Qa2+ 38. Kg3 Qa8 39. Nc3 Be6 40. d5 Bd7
+41. Qc7 Qc8 42. Kf2 Qxc7 43. Bxc7 Ke8 44. Ke3 Bc8 45. Bf4 Bg7 46. Kd4 Ba6 47.
+Ke3 Bf1 48. Kf2 Bc4 49. Bd2 Kd7 50. g4 Bd3 51. gxh5 gxh5 52. Ke3 Bg6 53. Be1
+Bh6+ 54. Kd4 Bf4 55. Ne4 Be5+ 56. Kc5 Bb8 57. Bd2 f5 58. Ng5 Ba7+ 59. Kc4 Bf2
+60. Ne6 Bf7 61. Nc5+ Ke8 62. Bg5 Bg3 63. Nd3 Bd6 64. Kd4 Ba3 65. Ke5 Bg8 66.
+Nf4 Bb2+ 67. Kxf5 Bh7+ 68. Ke6 Bg8+ 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.29"]
+[Round "9"]
+[White "Baturo, Tomasz"]
+[Black "Czachor, Grzegorz"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2059"]
+[BlackElo "2020"]
+[PlyCount "90"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. Be3 e6 8. c5
+Be7 9. Be2 O-O 10. a3 a5 11. Qb3 Qc7 12. h3 Bh5 13. g4 Bg6 14. Rg1 Nd7 15. h4
+Be4 16. Nxe4 dxe4 17. Ng5 Nf6 18. Bc4 a4 19. Qc2 Qa5+ 20. Kf1 Rfd8 21. Rd1 g6
+22. Ke2 Rd7 23. Nxe6 fxe6 24. Bxe6+ Kh8 25. g5 Rdd8 26. gxf6 Bxf6 27. Qxe4 Qb5+
+28. Ke1 Qxb2 29. Bg5 Bxg5 30. hxg5 Rxd4 31. Rxd4 Qxd4 32. Qxd4+ Nxd4 33. Bd5
+Ra5 34. Rg4 Nc2+ 35. Kd2 Rxc5 36. Bxb7 Nxa3 37. Rxa4 Nc4+ 38. Ke2 Nd6 39. Ra8+
+Kg7 40. Rd8 Re5+ 41. Kf1 Nxb7 42. Rd7+ Kg8 43. Rxb7 Rxg5 44. f3 h5 45. Kf2 Rf5
+1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.29"]
+[Round "9"]
+[White "Dragun, Kamil"]
+[Black "Matuszewski, Michal"]
+[Result "0-1"]
+[ECO "B99"]
+[WhiteElo "2240"]
+[BlackElo "2233"]
+[PlyCount "126"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Nbd7 9. O-O-O Qc7 10. g4 h6 11. Bxf6 Bxf6 12. h4 Qb6 13. Nb3 Be7 14. Kb1 Nc5
+15. g5 Bd7 16. f5 O-O-O 17. f6 gxf6 18. gxf6 Bf8 19. Qh5 Nxb3 20. axb3 Be8 21.
+Bh3 Kb8 22. Rd3 Qc7 23. Rhd1 Rc8 24. Rd4 b5 25. Qe2 Rg8 26. Na2 Rg3 27. R4d3
+Rxd3 28. Rxd3 Qb6 29. Qe3 Qxe3 30. Rxe3 h5 31. Rg3 Bc6 32. Bg2 Bh6 33. Nb4 Bb7
+34. Bf3 Rf8 35. Nd3 Kc7 36. c4 Be3 37. e5 Bxf3 38. Rxf3 Bd4 39. exd6+ Kxd6 40.
+Rf4 e5 41. Rf5 bxc4 42. bxc4 Rh8 43. b4 Ke6 44. Rf1 Rh6 45. c5 Rxf6 46. Rc1 Kd7
+47. Re1 Rf5 48. Kc2 Kc6 49. Re2 Kb5 50. Kb3 Rf3 51. Kc2 f6 52. Rg2 e4 53. Ne1
+Rf2+ 54. Kb3 Rxg2 55. Nxg2 f5 56. Nf4 Be5 57. Nxh5 f4 58. Kc2 f3 59. Kd2 f2 60.
+Ke2 e3 61. Kf1 a5 62. bxa5 Kxa5 63. c6 Kb6 0-1
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.29"]
+[Round "9"]
+[White "Nicolo, Filippo"]
+[Black "Knap, Jerzy"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2125"]
+[BlackElo "1974"]
+[PlyCount "87"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. c5 Be7 7. Nf3 O-O 8. Qc2
+b6 9. b4 a5 10. Na4 Nfd7 11. b5 bxc5 12. dxc5 Qc7 13. c6 Ne5 14. Bb2 Bb4+ 15.
+Nd2 Nbxc6 16. bxc6 Qxc6 17. Qxc6 Nxc6 18. Rc1 Ne7 19. Nb6 Rb8 20. Nxc8 Rfxc8
+21. Rxc8+ Nxc8 22. Be5 Rb6 23. Bd3 f6 24. Bd4 Rc6 25. Ke2 e5 26. Bb2 e4 27. Bb1
+Nd6 28. Rc1 Rxc1 29. Bxc1 Kf7 30. Nb3 a4 31. Nd4 Bc5 32. Be3 Bxd4 33. Bxd4 g6
+34. Bc2 a3 35. Bc5 Nc4 36. Bb3 Ke6 37. Bxc4 dxc4 38. Bxa3 Kd5 39. Kd2 f5 40.
+Bf8 h5 41. Kc3 f4 42. Bh6 Ke5 43. Kxc4 Kf5 44. Kd4 1-0
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.29"]
+[Round "9"]
+[White "Palosz, Andrzej"]
+[Black "Kues, Hendrik"]
+[Result "1/2-1/2"]
+[ECO "B27"]
+[WhiteElo "2148"]
+[BlackElo "2235"]
+[PlyCount "73"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qh4 Nxe5 7. Nxe5 Qa5+ 8.
+Nc3 Qxe5+ 9. Be2 Bg7 10. O-O O-O 11. Bh6 d6 12. Rfe1 Qc5 13. Bf3 Be6 14. Rad1
+Rab8 15. Rd2 b5 16. Ne2 Rfe8 17. Nd4 Bd7 18. b4 Qc7 19. Bxg7 Kxg7 20. g4 h6 21.
+Re3 e5 22. Nf5+ gxf5 23. g5 Ng8 24. Bd5 f4 25. gxh6+ Nxh6 26. Qg5+ Kf8 27.
+Qxh6+ Ke7 28. Qg5+ Kf8 29. Qh6+ Ke7 30. Qxf4 Rg8+ 31. Kh1 Be6 32. Qh4+ Kd7 33.
+Bxe6+ Kxe6 34. Qh3+ Ke7 35. Qh4+ Ke6 36. Qh3+ Ke7 37. Qh4+ 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.29"]
+[Round "9"]
+[White "Puczylowski, Marcin"]
+[Black "Wnuk Lipinski, Pawel"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "1958"]
+[BlackElo "1956"]
+[PlyCount "75"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]

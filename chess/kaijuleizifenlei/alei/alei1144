@@ -1,0 +1,600 @@
+[Event "Stare Mesto op"]
+[Site "Stare Mesto"]
+[Date "2008.08.16"]
+[Round "10"]
+[White "Sosna, Jan"]
+[Black "Ponizil, Cyril"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2379"]
+[BlackElo "2284"]
+[PlyCount "57"]
+[EventDate "2008.08.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e4 d6 6. c3 h6 7. Bh4 Qe8 8. Bc4
+Nc6 9. O-O Nh5 10. Re1 e5 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Qb3 Bf6 14. Bxf6 Nxf6
+15. a4 a5 16. Nf3 Qe7 17. h3 b6 18. Rad1 Bd7 19. Bb5 c6 20. Bf1 Rab8 21. Qc2
+Rfd8 22. Qd2 Bxh3 23. Qxh6 Rxd1 24. Rxd1 Bg4 25. Bc4 Bh5 26. Ng5 Rf8 27. g4
+Bxg4 28. Qxg6+ Kh8 29. Bxf7 1-0
+
+[Event "Stare Mesto op"]
+[Site "Stare Mesto"]
+[Date "2008.08.16"]
+[Round "10"]
+[White "Vokac, Marek"]
+[Black "Lahiri, Atanu"]
+[Result "1-0"]
+[ECO "A61"]
+[WhiteElo "2451"]
+[BlackElo "2338"]
+[PlyCount "107"]
+[EventDate "2008.08.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 d6 6. e3 c5 7. d5 e6 8. Nd2
+exd5 9. cxd5 Na6 10. Be2 Nc7 11. e4 Re8 12. O-O a6 13. a4 Rb8 14. a5 b5 15.
+axb6 Rxb6 16. Nc4 Rb4 17. e5 dxe5 18. d6 Ne6 19. Bxf6 Bxf6 20. Nd5 Rb7 21. Na5
+Nd4 22. Bxa6 Rxb2 23. Bxc8 Qxd6 24. Bb7 Bd8 25. Nc4 Qd7 26. Ba8 Rb8 27. Nde3 f5
+28. Qa4 Qxa4 29. Rxa4 Bc7 30. Bd5+ Kh8 31. Ra7 Nb5 32. Ra6 Nd4 33. Nd6 Re7 34.
+Nec4 Kg7 35. Nb7 Rd7 36. Bc6 Nxc6 37. Nxc5 Rb4 38. Nxd7 Rxc4 39. Ra8 e4 40. Rd1
+Ne5 41. Ra7 Nf7 42. g3 Rc2 43. Raa1 Bd6 44. Rac1 Ra2 45. Rc6 Be7 46. Re6 Bb4
+47. h4 Rc2 48. Kf1 Bd2 49. Nf6 Bb4 50. Rd7 Bc5 51. Nd5 Rxf2+ 52. Ke1 Ra2 53.
+Rf6 Bb4+ 54. Kf1 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.09"]
+[Round "1"]
+[White "Bernal, Gustavo"]
+[Black "Sanduay, Nicolas"]
+[Result "1-0"]
+[ECO "A58"]
+[WhiteElo "2105"]
+[BlackElo "2003"]
+[PlyCount "85"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 Bg7 8. Bg2
+d6 9. Nh3 Nbd7 10. O-O Nb6 11. Rb1 O-O 12. b3 Qb8 13. Nf4 Qa7 14. Qc2 Rfb8 15.
+h4 Ne8 16. Rd1 Nc7 17. a4 Bc8 18. Be3 Bf5 19. Be4 Bxc3 20. Bxf5 Bg7 21. Be4 Na6
+22. h5 Nb4 23. Qd2 Nd7 24. hxg6 hxg6 25. Nxg6 fxg6 26. Bxg6 Ne5 27. Bf5 Kf7 28.
+Be6+ Ke8 29. Bh6 Bf6 30. Kg2 Kd8 31. f4 Nd7 32. g4 Kc7 33. g5 Bh8 34. e4 Qb7
+35. Kh3 Bd4 36. Rdc1 Kb6 37. Rc4 Ka5 38. Rbc1 Bh8 39. g6 Bf6 40. g7 Nb6 41.
+Rxc5+ dxc5 42. Rxc5+ Ka6 43. Qxb4 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.09"]
+[Round "1"]
+[White "Bianchi, Lucas"]
+[Black "Marino, Federico"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "2056"]
+[PlyCount "65"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 c5 2. d5 e6 3. c4 exd5 4. cxd5 Nf6 5. Nc3 g6 6. e4 d6 7. Bd3 a6 8. a4 Bg7
+9. Nge2 O-O 10. O-O Re8 11. h3 Nbd7 12. f4 c4 13. Bc2 Nc5 14. Ng3 Bd7 15. Be3
+Qc7 16. Bd4 b5 17. e5 dxe5 18. fxe5 Rxe5 19. Bxe5 Qxe5 20. Qf3 Re8 21. axb5
+axb5 22. Kh1 Qe3 23. Ra5 Qxf3 24. Rxf3 Nb7 25. Ra7 Nd6 26. Ra6 b4 27. Rxd6 bxc3
+28. bxc3 Bf5 29. Bxf5 gxf5 30. Rxf5 Ne4 31. Nxe4 Rxe4 32. Rd8+ Bf8 33. Rg5+ 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.09"]
+[Round "1"]
+[White "Bruno, Gerardo Damian"]
+[Black "Papadopulos, Daniel"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "1720"]
+[BlackElo "2147"]
+[PlyCount "60"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 cxd4 5. Bxb8 Rxb8 6. Qxd4 a6 7. Nc3 Qc7 8.
+Bd3 Be7 9. O-O O-O 10. Ne4 d5 11. Ng3 b6 12. Qe5 Qxe5 13. Nxe5 Bb7 14. Ne2 g6
+15. Nd4 Bd6 16. Ndf3 Rfd8 17. h3 Ne4 18. Ng4 Nc5 19. Nfe5 Kg7 20. f4 f5 21. Nh2
+Bxe5 22. fxe5 d4 23. Rad1 dxe3 24. Nf3 h6 25. Be2 Kf7 26. c3 Bxf3 27. Rxd8 Rxd8
+28. Rxf3 Rd2 29. b4 Rxe2 30. bxc5 Re1+ 0-1
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.09"]
+[Round "1"]
+[White "Calderon Fernandez, Gervasio"]
+[Black "Galli, Gabriel"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2303"]
+[BlackElo "1962"]
+[PlyCount "53"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Nc3 Nxe5 5. e4 c6 6. Be2 Nxf3+ 7. Bxf3 Qe5
+8. O-O g5 9. Be3 Bg7 10. Qd2 h6 11. Rad1 Nf6 12. Bd4 Qa5 13. e5 Nd5 14. e6 O-O
+15. Nxd5 Qxd2 16. Ne7+ Kh8 17. Rxd2 fxe6 18. Bxg7+ Kxg7 19. Nxc8 d5 20. Nd6 b6
+21. c4 Rad8 22. c5 Rf4 23. Re1 g4 24. Bd1 bxc5 25. Rxe6 Rd7 26. g3 Rb4 27. Nf5+
+1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.09"]
+[Round "1"]
+[White "Goldwaser, Christian"]
+[Black "Alvarez, Roberto Gabriel"]
+[Result "1-0"]
+[ECO "A89"]
+[WhiteElo "2374"]
+[BlackElo "2109"]
+[PlyCount "67"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 g6 2. c4 f5 3. d4 Nf6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. Nc3 Nc6 8. d5
+Ne5 9. Qb3 Ned7 10. Be3 Ng4 11. Bd4 Nc5 12. Qd1 e5 13. dxe6 Nxe6 14. Bxg7 Kxg7
+15. e3 Ne5 16. b3 Qf6 17. Nd4 Nxd4 18. Qxd4 Nc6 19. Qd2 Be6 20. Nd5 Bxd5 21.
+cxd5 Ne5 22. Rac1 Rf7 23. h3 Re7 24. f4 Nf7 25. g4 Kh8 26. Qc3 Qxc3 27. Rxc3
+Kg7 28. Kf2 Kf8 29. Rfc1 Rc8 30. Bf3 Ke8 31. Rg1 Nh6 32. gxf5 Nxf5 33. Bg4 Rb8
+34. Bxf5 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.09"]
+[Round "1"]
+[White "Lopez, Diego"]
+[Black "Iermito, Sebastian"]
+[Result "0-1"]
+[ECO "A75"]
+[WhiteElo "2148"]
+[BlackElo "2385"]
+[PlyCount "80"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. Re1 Nbd7 14. a5 Rab8 15.
+Be2 Ne8 16. Qd2 Nc7 17. Bh6 b5 18. axb6 Bxh6 19. Qxh6 Rxb6 20. Bf1 Qf6 21. Qd2
+Rfb8 22. Ra2 Rb4 23. e5 Nxe5 24. Ne4 Qd8 25. Nxc5 Nf3+ 26. gxf3 dxc5 27. Re4
+Ne6 28. Ra4 Nd4 29. Rxd4 Rxd4 30. Rxd4 cxd4 31. Qxd4 Qg5+ 32. Kh1 Qc1 33. Kg2
+Qxb2 34. Qxb2 Rxb2 35. Bxa6 Rb4 36. Kg3 Kf8 37. f4 Ke7 38. Be2 Kf8 39. h3 h5
+40. h4 Rd4 0-1
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.09"]
+[Round "1"]
+[White "Lujan, Maria Carolina"]
+[Black "Franco, Gaston"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2361"]
+[BlackElo "2044"]
+[PlyCount "72"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 g6 4. g3 Bg7 5. Bg2 Nf6 6. O-O O-O 7. Re1 d6 8. c3
+Bg4 9. h3 Bxf3 10. Bxf3 Ne8 11. h4 e5 12. h5 Nc7 13. Na3 Ne6 14. Nc4 Qd7 15.
+Kg2 f5 16. hxg6 hxg6 17. exf5 gxf5 18. Rh1 d5 19. Ne3 Ne7 20. c4 dxc4 21. Nxc4
+Nd4 22. Bh6 Qe6 23. Bxg7 Kxg7 24. Bxb7 Rab8 25. Qh5 Rh8 26. Qg5+ Ng6 27. Rxh8
+Rxh8 28. Ne3 Qd7 29. Bd5 f4 30. Qg4 Qd6 31. Be4 fxe3 32. Bxg6 Qxg6 33. Qd7+ Qf7
+34. Qg4+ Kf6 35. b4 Qb7+ 36. f3 Qxb4 0-1
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.09"]
+[Round "1"]
+[White "Orozco, Gustavo"]
+[Black "Cuevas, Alex"]
+[Result "0-1"]
+[ECO "A43"]
+[WhiteElo "2203"]
+[BlackElo "2227"]
+[PlyCount "84"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nc3 c5 3. d5 d6 4. Nf3 g6 5. e4 Bg7 6. Bd3 O-O 7. O-O Na6 8. h3
+Nc7 9. Re1 a6 10. a4 Bd7 11. Qe2 Qe8 12. a5 Bb5 13. Bf4 Rc8 14. Nd2 Bxd3 15.
+Qxd3 Nb5 16. Na4 e5 17. Be3 Nd7 18. Nc4 f5 19. f3 f4 20. Bf2 g5 21. Nab6 Rc7
+22. Nxd7 Rxd7 23. Nb6 Rc7 24. c3 h5 25. b4 g4 26. hxg4 hxg4 27. Kf1 g3 28. Bg1
+c4 29. Nxc4 Qh5 30. Rec1 Rfc8 31. Nb6 Rxc3 32. Qd2 R8c7 33. Rxc3 Rxc3 34. Rc1
+Rxf3+ 35. gxf3 Qxf3+ 36. Ke1 Bh6 37. Qc2 Kh7 38. Qc8 Qxe4+ 39. Kd1 Qd3+ 40. Ke1
+Qe4+ 41. Kd1 f3 42. Qc2 Nc3+ 0-1
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.09"]
+[Round "1"]
+[White "Scalise, Luis"]
+[Black "Perez Ponsa, Federico"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2182"]
+[BlackElo "2326"]
+[PlyCount "70"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. Bd3 Bg7 5. O-O O-O 6. c3 Qc7 7. Nbd2 d5 8. dxc5
+Nbd7 9. b4 b6 10. Bb2 bxc5 11. e4 Bb7 12. exd5 Nxd5 13. Qb3 Ne5 14. Be4 c4 15.
+Qc2 f5 16. Nxe5 Bxe5 17. Bf3 Bxh2+ 18. Kh1 Qf4 19. Rfe1 Qh4 20. Nf1 Bd6+ 21.
+Kg1 Rab8 22. Rad1 Nf6 23. Bxb7 Rxb7 24. Qe2 Rc7 25. Qe6+ Kg7 26. Rxd6 exd6 27.
+Qxd6 Rd7 28. Re7+ Rf7 29. Rxf7+ Kxf7 30. Qc6 Qe4 31. Qc8 Rd1 32. Qc7+ Nd7 33.
+Kh2 Qe5+ 34. Qxe5 Nxe5 35. Ne3 Ng4+ 0-1
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.16"]
+[Round "2"]
+[White "Axarlian, Carlos"]
+[Black "Pradines, Emanuel"]
+[Result "1-0"]
+[ECO "A21"]
+[WhiteElo "2126"]
+[BlackElo "1911"]
+[PlyCount "111"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 Nf6 4. O-O O-O 5. c4 d6 6. Nc3 e5 7. d3 Nh5 8. Rb1
+f5 9. Qc2 a5 10. a3 f4 11. b4 axb4 12. axb4 c6 13. b5 g5 14. bxc6 bxc6 15. Nd2
+Be6 16. Bb2 Qd7 17. Nce4 h6 18. Ra1 Rxa1 19. Rxa1 fxg3 20. hxg3 Bh3 21. Nf3
+Bxg2 22. Kxg2 Nf6 23. d4 Nxe4 24. Qxe4 d5 25. cxd5 cxd5 26. Qg6 Rf6 27. Qh5 e4
+28. Ne5 Qf5 29. Ng4 Rb6 30. Bc3 Qc8 31. Ra7 Nd7 32. Ne5 Nxe5 33. dxe5 Rb7 34.
+Rxb7 Qxb7 35. Qe8+ Kh7 36. e6 d4 37. Qd7 Qxd7 38. exd7 Bf6 39. Ba5 d3 40. exd3
+exd3 41. Kf1 d2 42. Ke2 Kg6 43. Kxd2 Kf5 44. Ke3 Kg4 45. d8=Q Bxd8 46. Bxd8 h5
+47. Ke4 h4 48. gxh4 gxh4 49. Bxh4 Kxh4 50. Kf5 Kh5 51. f4 Kh6 52. Kf6 Kh7 53.
+Kf7 Kh8 54. f5 Kh7 55. f6 Kh8 56. Ke8 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.16"]
+[Round "2"]
+[White "Flores, Diego"]
+[Black "Krysa, Leandro Sergio"]
+[Result "1-0"]
+[ECO "A38"]
+[WhiteElo "2553"]
+[BlackElo "2066"]
+[PlyCount "67"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 d6 6. a3 Nf6 7. O-O O-O 8. Rb1
+d5 9. cxd5 Nxd5 10. Nxd5 Qxd5 11. d3 Bg4 12. Be3 Qd6 13. Nd2 Bd4 14. Ne4 Qe5
+15. h3 Bxe3 16. hxg4 Bh6 17. e3 Rac8 18. g5 Bg7 19. b4 cxb4 20. axb4 Qb5 21.
+Qb3 Ne5 22. d4 Nc4 23. Qa2 a6 24. Rfc1 Nd6 25. Nxd6 exd6 26. Bd5 Qd7 27. Qa5 h6
+28. gxh6 Bxh6 29. Kg2 Rxc1 30. Rxc1 Rc8 31. Rxc8+ Qxc8 32. Qb6 Bxe3 33. Qxd6
+Bg5 34. Qxg6+ 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.16"]
+[Round "2"]
+[White "Gimenez, Dante"]
+[Black "Ramirez, David"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2098"]
+[PlyCount "27"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 d6 3. Nf3 Nc6 4. Nc3 Nf6 5. e4 b6 6. Qa4 Qd7 7. d5 exd5 8. cxd5
+Ne7 9. Bb5 c6 10. dxc6 Nxc6 11. Bxc6 Bb7 12. Bxd7+ Nxd7 13. Nd5 a6 14. Nc7+ 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.16"]
+[Round "2"]
+[White "Liascovich, Lucas"]
+[Black "Julia, Ernesto"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2435"]
+[BlackElo "2367"]
+[PlyCount "69"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. Nc3 Qxb2 5. Bd2 Qb6 6. e4 d6 7. f4 e5 8. fxe5
+dxe5 9. Nf3 Bd6 10. Bc4 a6 11. O-O Bg4 12. h3 Bh5 13. a4 Nbd7 14. Qe2 Qc7 15.
+a5 O-O 16. g4 Bg6 17. Nh4 Kh8 18. Kh1 Qd8 19. Nf5 Bxf5 20. exf5 e4 21. g5 Ne8
+22. Nxe4 Be5 23. c3 Nd6 24. Bd3 c4 25. Bc2 Nxe4 26. Qxe4 Re8 27. f6 Nf8 28. Ba4
+Nd7 29. Qf5 Nc5 30. fxg7+ Bxg7 31. Bxe8 Qxe8 32. Rae1 Qg8 33. Re7 Rd8 34. h4
+Re8 35. d6 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.16"]
+[Round "2"]
+[White "Orozco, Gustavo"]
+[Black "Restuccia, Francisco"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2203"]
+[BlackElo "2148"]
+[PlyCount "120"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Bc4 d6 6. O-O c6 7. a4 Nh5 8. Bg5
+h6 9. Bh4 Qe8 10. Nbd2 Kh7 11. c3 f5 12. Be2 Nd7 13. Ne1 Nhf6 14. Nc4 d5 15.
+Nd2 e5 16. dxe5 Nxe5 17. Bg3 Bd7 18. Nef3 Nf7 19. h3 c5 20. Qb3 Bc6 21. Bb5 Ne4
+22. Bxc6 bxc6 23. Bh2 Ne5 24. Qc2 Nxf3+ 25. Nxf3 g5 26. Nd2 Qg6 27. Nxe4 fxe4
+28. Rac1 a5 29. Qe2 Rf7 30. Rc2 Qe6 31. Rfc1 Be5 32. Bxe5 Qxe5 33. Qh5 Qf6 34.
+Qg4 c4 35. Qg3 Raf8 36. Rd1 h5 37. Rdd2 Qf5 38. Re2 h4 39. Qg4 Kg6 40. Red2 Rh8
+41. Re2 Qxg4 42. hxg4 h3 43. g3 h2+ 44. Kh1 Kf6 45. Rcd2 Ke5 46. Re1 Rb7 47.
+Red1 Rhb8 48. Rb1 Rb3 49. Rc2 Ra3 50. Kxh2 Rxa4 51. b3 Rxb3 52. Rbc1 Raa3 53.
+Kg2 a4 54. Kf1 Rb7 55. Ke2 Rab3 56. Kd2 a3 57. Ra1 Kd6 58. Raa2 Kc5 59. Ra1 Kb5
+60. Raa2 Ka4 0-1
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.16"]
+[Round "2"]
+[White "Ronco, Raul"]
+[Black "Juarez, Carlos Eleodoro"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "2104"]
+[BlackElo "2142"]
+[PlyCount "78"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 d6 6. O-O Bd7 7. e3 Qc8 8. b3
+Bh3 9. Bb2 Nf6 10. Nd5 e5 11. Nc7+ Qxc7 12. Bxh3 O-O 13. Bg2 Rad8 14. d4 exd4
+15. exd4 Rfe8 16. d5 Nb8 17. Qc2 Nbd7 18. Rae1 a6 19. Rxe8+ Rxe8 20. Re1 Rxe1+
+21. Nxe1 b5 22. Qe2 bxc4 23. bxc4 Qd8 24. Bh3 Nb6 25. Bc3 Qe8 26. Bf1 Qxe2 27.
+Bxe2 Ne4 28. Ba5 Na4 29. Bc7 Bd4 30. Nd3 Nac3 31. Kf1 Nd2+ 32. Ke1 Nxc4 33.
+Nxc5 Nxe2 34. Nb3 Nc3 35. Nxd4 Nxd5 36. Bb8 Nc3 37. a3 Kf8 38. Nc2 Ke7 39. Ba7
+Nb5 0-1
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.23"]
+[Round "3"]
+[White "Bianchi, Lucas"]
+[Black "Diaz Dalaglio, Sergio Roberto"]
+[Result "1-0"]
+[ECO "A36"]
+[WhiteElo "2056"]
+[BlackElo "2112"]
+[PlyCount "59"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 e5 4. Bg2 d6 5. e4 g6 6. Nge2 Bg7 7. O-O Be6 8. d3
+Qd7 9. f4 Nf6 10. Nd5 Bg4 11. Bf3 O-O 12. f5 Bh3 13. Bg2 Bg4 14. Bf3 Bh3 15.
+Rf2 gxf5 16. Nxf6+ Bxf6 17. exf5 Nd4 18. Nxd4 exd4 19. Be4 b5 20. Qh5 bxc4 21.
+Bxa8 Rxa8 22. Qxh3 cxd3 23. Bh6 c4 24. Rf4 c3 25. Rg4+ Kh8 26. Bg7+ Bxg7 27.
+Rxg7 Kxg7 28. f6+ Kg6 29. Qxd7 d2 30. Rf1 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.23"]
+[Round "3"]
+[White "Caponetto, Sergio"]
+[Black "Orozco, Gustavo"]
+[Result "1-0"]
+[ECO "A48"]
+[BlackElo "2203"]
+[PlyCount "97"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 O-O 5. Be2 d6 6. O-O c6 7. Nbd2 Nh5 8. Bg5
+h6 9. Bh4 Nd7 10. c4 Qe8 11. Rb1 e5 12. dxe5 dxe5 13. b4 g5 14. Bg3 Nxg3 15.
+hxg3 Nf6 16. Qc2 Bg4 17. Rfe1 Bh5 18. Nh2 Bg6 19. Bd3 e4 20. Be2 Qe6 21. Nb3
+Rfd8 22. Nc5 Qc8 23. Red1 b6 24. Nb3 Qc7 25. Ng4 Nd7 26. Nh2 c5 27. b5 Ne5 28.
+Rxd8+ Rxd8 29. Rd1 Rxd1+ 30. Qxd1 Qc8 31. Qd5 Nd3 32. Bg4 Qb8 33. Bf5 Bxf5 34.
+Qxf5 Qe5 35. Qc8+ Bf8 36. Ng4 Qd6 37. Qf5 Bg7 38. Qxe4 h5 39. Nh2 Nb4 40. Qa8+
+Bf8 41. Qxa7 Qd1+ 42. Nf1 Nd3 43. Qxb6 Qe2 44. Qf6 Bg7 45. Qf5 h4 46. Nxc5 Ne1
+47. gxh4 gxh4 48. b6 Qxc4 49. b7 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.23"]
+[Round "3"]
+[White "Giardelli, Sergio Carlos"]
+[Black "Julia, Ernesto"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[WhiteElo "2378"]
+[BlackElo "2367"]
+[PlyCount "103"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. d4 exd4 5. Qxd4 d5 6. Nc3 Be6 7. cxd5 cxd5 8.
+Nf3 Nc6 9. Qa4 Be7 10. O-O O-O 11. Rd1 Qb6 12. Qb5 Bc5 13. Qxb6 Bxb6 14. Na4
+Rfe8 15. Nxb6 axb6 16. Be3 Ra6 17. Nd4 h6 18. a3 Na5 19. b3 Nc6 20. Rdc1 Nxd4
+21. Bxd4 Ne4 22. e3 Nd2 23. Rc3 Rea8 24. Rd3 Ne4 25. Bb2 Rc8 26. f3 Nc5 27. Rc3
+Raa8 28. Rd1 Rd8 29. Bf1 d4 30. Rxd4 Nxb3 31. Rxd8+ Rxd8 32. Rc2 Rd1 33. Kf2
+Kf8 34. Be2 Rb1 35. Be5 Nc5 36. Bd6+ Ke8 37. Bxc5 bxc5 38. Rxc5 Rb2 39. e4 Kd8
+40. Rc3 Bd7 41. Ke3 Bc6 42. h4 Ke7 43. f4 Bxe4 44. Rc7+ Kf8 45. Bc4 Bg6 46. g4
+f6 47. Bd5 Be8 48. Rxb7 Rh2 49. Rb8 Ke7 50. Rb7+ Kf8 51. Rb8 Ke7 52. Rb7+
+1/2-1/2
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.23"]
+[Round "3"]
+[White "Krysa, Leandro Sergio"]
+[Black "Arca, Nahuel"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2066"]
+[BlackElo "1993"]
+[PlyCount "47"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. c3 d6 6. Bd3 Nd7 7. Ne2 g6 8. O-O
+Bg7 9. Nd2 Qe7 10. f4 f5 11. Qb3 d5 12. exd5 exd5 13. Rae1 Qe3+ 14. Kh1 Qxd2
+15. Nc1+ Kd8 16. Re2 Qxe2 17. Bxe2 Nf6 18. Nd3 Rf8 19. Bf3 c6 20. Ne5 g5 21.
+Qa3 g4 22. Re1 gxf3 23. Qd6+ Ke8 24. gxf3 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.23"]
+[Round "3"]
+[White "Lopez, Ricardo"]
+[Black "Cuevas, Alex"]
+[Result "0-1"]
+[ECO "A31"]
+[WhiteElo "2205"]
+[BlackElo "2227"]
+[PlyCount "107"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 c5 3. c4 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bc5 7. e3 O-O 8.
+N5c3 Qe7 9. Be2 e4 10. a3 Rd8 11. b4 Bb6 12. Bb2 a5 13. Qb3 Bc7 14. Nd2 Nbd7
+15. Nb5 a4 16. Qc2 Be5 17. d6 Bxd6 18. Nxd6 Qxd6 19. Nxe4 Nxe4 20. Qxe4 Nc5 21.
+Qd4 Qxd4 22. Bxd4 Nb3 23. Rd1 Bf5 24. Bb6 Rxd1+ 25. Bxd1 Rc8 26. Ke2 Rc3 27. f3
+Bd3+ 28. Kf2 Bb5 29. Bxb3 axb3 30. Bd4 Rc2+ 31. Kg3 Bc4 32. Rb1 Ra2 33. Ra1 Rd2
+34. Rb1 b5 35. Rb2 Rd1 36. Bc3 f6 37. Kf4 Kf7 38. e4 Ke6 39. g3 g5+ 40. Kg4 Kf7
+41. f4 Rc1 42. Bd4 Rd1 43. Be3 Kg6 44. f5+ Kf7 45. e5 Rd3 46. e6+ Ke7 47. Bd2
+Bd5 48. h4 Bf3+ 49. Kh3 g4+ 50. Kh2 Be4 51. Kg1 Rxg3+ 52. Kf1 Rf3+ 53. Kg1 Bxf5
+54. Be1 0-1
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.23"]
+[Round "3"]
+[White "Scalise, Luis"]
+[Black "Lopez, Carlos"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2182"]
+[BlackElo "2156"]
+[PlyCount "77"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e4 d6 6. Bc4 c5 7. c3 Nc6 8. O-O
+Qb6 9. d5 Nb8 10. Qc2 Qc7 11. Rfe1 Ng4 12. h3 Ne5 13. Nxe5 Bxe5 14. f4 Bg7 15.
+Nf3 e6 16. Rad1 exd5 17. exd5 f6 18. Bh4 Bf5 19. Qe2 h5 20. Bf2 Kh7 21. Nh4 Bd7
+22. f5 g5 23. Qxh5+ Kg8 24. Re7 Be8 25. Qe2 Qd8 26. Ng6 Nd7 27. Qe6+ Rf7 28.
+Bb5 Bf8 29. Rxf7 Bxf7 30. Qxd7 Qxd7 31. Bxd7 Kg7 32. Nxf8 Kxf8 33. Be6 Be8 34.
+Re1 b5 35. Re4 a5 36. h4 Bh5 37. hxg5 fxg5 38. g4 Be8 39. Be3 1-0
+
+[Event "ARG-chT"]
+[Site "Villa Martelli"]
+[Date "2008.08.30"]
+[Round "4"]
+[White "Bianchi, Lucas"]
+[Black "Barrionuevo, Pablo"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "2056"]
+[BlackElo "2363"]
+[PlyCount "92"]
+[EventDate "2008.08.09"]
+[EventType "team-tourn"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]

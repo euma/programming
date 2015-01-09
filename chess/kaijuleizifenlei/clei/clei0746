@@ -1,0 +1,600 @@
+[PlyCount "41"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. c3 Bc5 6. Be3 Qg6 7. Nd2 Bb6 8.
+g3 Nge7 9. f4 f5 10. Bd3 d6 11. exf5 Bxf5 12. Nxf5 Bxe3 13. Nc4 Nxf5 14. Qe2
+Qe6 15. g4 O-O 16. gxf5 Qd5 17. Rf1 Bc5 18. Nb6 Bxb6 19. Bc4 Rae8 20. Bxd5+ Kh8
+21. Be6 1-0
+
+[Event "Vladivostok op"]
+[Site "Vladivostok"]
+[Date "2008.06.06"]
+[Round "7"]
+[White "Tarnovskiy, Valeriy"]
+[Black "Vardanian, Tatevik"]
+[Result "1/2-1/2"]
+[ECO "C52"]
+[PlyCount "65"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. O-O Nf6 8. Qb3
+O-O 9. dxe5 Nxe4 10. exd6 Qf6 11. Ba3 Nxd6 12. Rd1 Rb8 13. Bd5 Bf5 14. Nd4 Nxd4
+15. cxd4 c6 16. Bf3 Rfd8 17. Nc3 Qg6 18. Rac1 Bxc3 19. Qxc3 Nb5 20. Qb4 Be6 21.
+d5 Nxa3 22. Qxa3 Bxd5 23. Bxd5 cxd5 24. Qxa7 Qa6 25. Qxa6 bxa6 26. Rc6 a5 27.
+Rc5 a4 28. g3 d4 29. Rc4 d3 30. Rxa4 d2 31. Rc4 Rb2 32. a4 Ra2 33. a5 1/2-1/2
+
+[Event "Vladivostok op"]
+[Site "Vladivostok"]
+[Date "2008.06.07"]
+[Round "8"]
+[White "Panchenko, Makar"]
+[Black "Ibraeva, Galina"]
+[Result "1-0"]
+[ECO "C27"]
+[PlyCount "45"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. d3 h6 5. f4 d6 6. Na4 Bd4 7. c3 Bxg1 8. Rxg1
+O-O 9. b4 a6 10. Nb2 Nc6 11. f5 Bd7 12. g4 Nh7 13. g5 hxg5 14. Qh5 Qf6 15. Bxg5
+Nxg5 16. Rxg5 Ne7 17. O-O-O Rfd8 18. Rdg1 Kf8 19. Rxg7 Qxg7 20. Rxg7 Kxg7 21.
+Qxf7+ Kh8 22. Qxe7 Rac8 23. f6 1-0
+
+[Event "Vladivostok op"]
+[Site "Vladivostok"]
+[Date "2008.06.07"]
+[Round "8"]
+[White "Tsigelnitskiy, Ilusha"]
+[Black "Pavlovskiy, Mikhail"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteElo "2369"]
+[BlackElo "2211"]
+[PlyCount "65"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 d6 5. Bg2 Be7 6. O-O O-O 7. h3 h6 8. d4
+Nh7 9. Nd5 Ng5 10. Nxg5 hxg5 11. c3 Rb8 12. f4 gxf4 13. gxf4 f5 14. dxe5 dxe5
+15. Qh5 Bc5+ 16. Kh1 Be6 17. b4 Bd6 18. b5 Ne7 19. fxe5 Bxe5 20. Bg5 Bxd5 21.
+exd5 Bxc3 22. d6 cxd6 23. Bxe7 Qxe7 24. Bd5+ Rf7 25. Rxf5 Bf6 26. Raf1 Qc7 27.
+Rxf6 gxf6 28. Qh6 Qc5 29. Rg1+ Qxg1+ 30. Kxg1 Rbf8 31. Qg6+ Kh8 32. Bxf7 Rxf7
+33. Qxf7 1-0
+
+[Event "Vladivostok op"]
+[Site "Vladivostok"]
+[Date "2008.06.08"]
+[Round "9"]
+[White "Feigin, Semen"]
+[Black "Zagryadsky, Dmitriy"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2084"]
+[PlyCount "32"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 cxd4 6. cxd4 Bb4+ 7. Nc3 Nge7 8.
+Bd3 O-O 9. Ng5 h6 10. h4 Nf5 11. Qh5 Ncxd4 12. g4 g6 13. Nxf7 gxh5 14. Nxd8
+hxg4 15. Kd1 Rxd8 16. h5 Kf7 0-1
+
+[Event "Vladivostok op"]
+[Site "Vladivostok"]
+[Date "2008.06.08"]
+[Round "9"]
+[White "Slupskiy, Sergey"]
+[Black "Golubkov, Anton"]
+[Result "1-0"]
+[ECO "C25"]
+[WhiteElo "2275"]
+[BlackElo "2288"]
+[PlyCount "57"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. Na4 Nd7 5. d3 Ne7 6. Nxc5 Nxc5 7. Be3 Ne6 8.
+d4 exd4 9. Nxd4 O-O 10. Qd2 Nxd4 11. Bxd4 f5 12. Bc4+ Kh8 13. Qc3 Rg8 14. Bxg8
+Qxg8 15. f3 Nc6 16. O-O Nxd4 17. Qxd4 Be6 18. Rfe1 Qf7 19. Rad1 f4 20. b3 h6
+21. c4 a5 22. e5 dxe5 23. Rxe5 a4 24. Rde1 c5 25. Qxc5 axb3 26. axb3 Bh3 27.
+gxh3 Ra2 28. Qc8+ Kh7 29. Qf5+ 1-0
+
+[Event "Vladivostok op"]
+[Site "Vladivostok"]
+[Date "2008.06.08"]
+[Round "9"]
+[White "Tarnovskiy, Valeriy"]
+[Black "Gridchin, Maxim"]
+[Result "0-1"]
+[ECO "C53"]
+[PlyCount "26"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb6 7. O-O Bg4 8.
+Nc3 Nxd4 9. Be3 Nxf3+ 10. gxf3 Bh3 11. Re1 Bxe3 12. Qd5 Qg5+ 13. Qxg5 Bxg5 0-1
+
+[Event "Alushta Summer-1"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "1"]
+[White "Bezgodov, Alexei"]
+[Black "Alikhanov, Felix"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2502"]
+[BlackElo "2392"]
+[PlyCount "17"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. c3 d6 7. Bb3 h6 8. Re1
+Re8 9. Nbd2 1/2-1/2
+
+[Event "Alushta Summer-1"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "1"]
+[White "Ismagambetov, Anuar"]
+[Black "Kabanov, Nikolai"]
+[Result "1-0"]
+[ECO "C66"]
+[WhiteElo "2492"]
+[BlackElo "2532"]
+[PlyCount "67"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Bd7 6. Re1 g6 7. d4 Bg7 8. Bxc6
+Bxc6 9. dxe5 Nxe4 10. Qd3 d5 11. Bf4 O-O 12. Nc3 Nxc3 13. Qxc3 Bd7 14. Rad1 c6
+15. h3 Re8 16. Bg5 Qb6 17. Bf6 Bf8 18. Qd2 Be6 19. b3 a5 20. Qf4 a4 21. bxa4
+Qa5 22. Qh4 c5 23. c4 d4 24. Ng5 h6 25. Ne4 Bf5 26. Nd6 Bc2 27. e6 fxe6 28.
+Nxe8 Rxe8 29. Rb1 Qd2 30. Be5 Re7 31. Qf6 Bxb1 32. Rxb1 Qc2 33. Rb3 Rg7 34. Rf3
+1-0
+
+[Event "Alushta Summer-1"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "2"]
+[White "Belikov, Vladimir"]
+[Black "Bezgodov, Alexei"]
+[Result "0-1"]
+[ECO "C96"]
+[WhiteElo "2554"]
+[BlackElo "2502"]
+[PlyCount "71"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 exd4 13. cxd4 Nc6 14. d5 Nce5 15.
+Nh2 Ng6 16. g3 c4 17. f4 Nc5 18. Ndf3 f5 19. exf5 Bxf5 20. Nd4 Bxc2 21. Qxc2
+Nd3 22. Re6 Bf6 23. Nc6 Qd7 24. Ng4 Rae8 25. Nxf6+ Rxf6 26. Nd4 Nf8 27. f5 Nxe6
+28. dxe6 Qa7 29. Be3 Qc5 30. Rf1 Qe5 31. Rf3 Ne1 32. Qe2 Nxf3+ 33. Qxf3 b4 34.
+g4 c3 35. b3 d5 36. Nc2 0-1
+
+[Event "Alushta Summer-1"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "4"]
+[White "Ibrayev, Nurlan"]
+[Black "Kabanov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2507"]
+[BlackElo "2532"]
+[PlyCount "11"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O 1/2-1/2
+
+[Event "Alushta Summer-1"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "4"]
+[White "Pridorozhni, Aleksei"]
+[Black "Bezgodov, Alexei"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2510"]
+[BlackElo "2502"]
+[PlyCount "65"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Bd7 10. Rd1 Kc8 11. Ng5 Be8 12. b3 c5 13. Bb2 Nd4 14. Nd5
+Nxc2 15. Rac1 c6 16. e6 cxd5 17. exf7 Bc6 18. Rxc2 Kd7 19. b4 h6 20. Nf3 Ba4
+21. Rxd5+ Ke6 22. Rcd2 Kxf7 23. bxc5 Kg8 24. Ne5 Kh7 25. R5d4 Be8 26. Nd7 Rc8
+27. Rg4 Rc7 28. Nxf8+ Rxf8 29. Rd8 Kg8 30. Be5 Rcf7 31. Bd6 Bd7 32. Rxg7+ Kxg7
+33. Bxf8+ 1-0
+
+[Event "Alushta Summer-1"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "6"]
+[White "Belikov, Vladimir"]
+[Black "Kabanov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[WhiteElo "2554"]
+[BlackElo "2532"]
+[PlyCount "118"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxe5 Qe7 6. f4 Nxb5 7. Nxb5 d6 8.
+Nf3 Qxe4+ 9. Kf2 Kd8 10. d3 Ng4+ 11. Kg1 Qe8 12. Nc3 h5 13. Bd2 c6 14. Qf1 f6
+15. Re1 Qf7 16. h3 Nh6 17. Qf2 d5 18. Ne2 Bd6 19. Ned4 Bd7 20. b4 Kc7 21. Nb3
+b6 22. a4 Rae8 23. a5 Rxe1+ 24. Qxe1 Re8 25. Qa1 Kb7 26. Kf2 Nf5 27. axb6 axb6
+28. Nbd4 Nxd4 29. Qxd4 Ra8 30. Be3 Bc7 31. Ra1 Rxa1 32. Qxa1 Bd6 33. Qd4 c5 34.
+bxc5 bxc5 35. Qb2+ Kc7 36. Qc3 Qe7 37. Qa5+ Kb7 38. c3 Bc6 39. Qa3 Bb5 40. Qb3
+Kc6 41. c4 dxc4 42. dxc4 Ba6 43. Qd3 Kc7 44. Nd2 Bb7 45. Qf5 h4 46. Qh7 Bxg2
+47. Qxh4 Bc6 48. Qh7 Bb7 49. h4 Qd7 50. Qg6 Kb8 51. h5 Bf8 52. h6 gxh6 53. Qxf6
+Bg7 54. Qb6 Bc3 55. Ne4 Qd1 56. Qd6+ Qxd6 57. Nxd6 Bf6 58. Bxc5 Kc7 59. Nf5 Kc6
+1/2-1/2
+
+[Event "Alushta Summer-1"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "6"]
+[White "Bezgodov, Alexei"]
+[Black "Ismagambetov, Anuar"]
+[Result "0-1"]
+[ECO "C67"]
+[WhiteElo "2502"]
+[BlackElo "2492"]
+[PlyCount "64"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. dxe5 Nxb5 7. a4 d6 8.
+e6 Bxe6 9. axb5 Ne5 10. Nd4 Bd7 11. Nc3 Be7 12. f4 Ng4 13. Qf3 c5 14. bxc6 bxc6
+15. h3 Nf6 16. g4 O-O 17. Be3 d5 18. Nb3 Qc7 19. Qf2 Bb4 20. Bc5 Bxc3 21. Bxf8
+Ne4 22. Qe3 Bxb2 23. Rab1 Bf6 24. Ba3 Re8 25. Rbe1 Bh4 26. Re2 h5 27. Qf3 Qc8
+28. f5 c5 29. Rg2 Ng5 30. Qc3 Ne4 31. Qf3 d4 32. Bc1 Bb5 0-1
+
+[Event "Alushta Summer-1"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "9"]
+[White "Belikov, Vladimir"]
+[Black "Ipatov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2554"]
+[BlackElo "2371"]
+[PlyCount "65"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Nd7
+8. Qd2 O-O 9. O-O-O Nc5 10. Be3 Re8 11. Bc4 Be6 12. Bxe6 Nxe6 13. h4 Qd7 14.
+Qd3 Qa4 15. Kb1 h5 16. Nd4 Bf6 17. Ne2 Qg4 18. Rdg1 g6 19. f3 Qf5 20. Qd2 Re7
+21. Ng3 Qe5 22. Ne4 Bg7 23. Re1 Rae8 24. Bf2 Qb5 25. Be3 f5 26. Ng5 Nxg5 27.
+Bxg5 Re2 28. Rxe2 Rxe2 29. a4 Rxd2 30. axb5 Re2 31. Rg1 Kf7 32. g4 hxg4 33.
+fxg4 1/2-1/2
+
+[Event "Alushta Summer-2"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "1"]
+[White "Ismagambetov, Anuar"]
+[Black "Shimanov, Alexandr"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[WhiteElo "2492"]
+[BlackElo "2480"]
+[PlyCount "23"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. c3 O-O 7. d4 b5 8. Bb3
+d6 9. h3 Re8 10. Ng5 Rf8 11. Nf3 Re8 12. Ng5 1/2-1/2
+
+[Event "Alushta Summer-2"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "1"]
+[White "Okara, Andrey"]
+[Black "Pridorozhni, Aleksei"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2407"]
+[BlackElo "2510"]
+[PlyCount "78"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. Nc3 h6 8. Ne2
+d6 9. c3 O-O 10. O-O Bb6 11. Ng3 Na5 12. Bc2 c5 13. h3 Nc6 14. Qe2 Re8 15. Nh2
+d5 16. exd5 Qxd5 17. Bb3 Qd6 18. Qf3 Ra7 19. Ng4 Nxg4 20. hxg4 Qg6 21. Nf5 e4
+22. dxe4 Ne5 23. Qf4 c4 24. Bd1 Nd3 25. Qf3 Bb7 26. Ng3 Bxe4 27. Nxe4 Rxe4 28.
+Bc2 Rd7 29. a4 Qxg4 30. Qxg4 Rxg4 31. axb5 axb5 32. Ra8+ Kh7 33. Rb8 Rg6 34.
+Be3 Bxe3 35. fxe3 Rg5 36. b3 g6 37. Rc8 Ne5 38. Rf2 Ra7 39. bxc4 Ng4 0-1
+
+[Event "Alushta Summer-2"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "3"]
+[White "Belikov, Vladimir"]
+[Black "Kabanov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2554"]
+[BlackElo "2532"]
+[PlyCount "44"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. Qe2+ Be7 10. O-O O-O 11. Re1 Be6 12. Nb5 c5 13. c4 Qd7 14. Bf4
+Rac8 15. Rad1 d4 16. Bc2 Qb7 17. Nd6 Bxd6 18. Bxd6 Rfe8 19. Be5 Nd7 20. Bg3 Nf6
+21. Be5 Nd7 22. Bg3 Nf6 1/2-1/2
+
+[Event "Alushta Summer-2"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "4"]
+[White "Amanov, Zhanibek"]
+[Black "Pridorozhni, Aleksei"]
+[Result "0-1"]
+[ECO "C96"]
+[WhiteElo "2382"]
+[BlackElo "2510"]
+[PlyCount "112"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. d5 Nb6 13. a4 bxa4 14. Bxa4 Nxa4 15.
+Qxa4 Nb7 16. Nbd2 Bd7 17. Qb3 Qc7 18. Nc4 Bb5 19. Na3 Bd7 20. Nc4 Rfb8 21. Nb6
+Na5 22. Rxa5 Rxb6 23. Qa2 Rb5 24. Rxb5 Bxb5 25. Bd2 Qb7 26. Nh2 Bd3 27. Bc1 f5
+28. exf5 Bxf5 29. Nf1 Rf8 30. Ne3 Bc8 31. Qa4 Bd7 32. Qc2 Bh4 33. Rf1 Bb5 34.
+c4 Be8 35. Qe2 h5 36. g3 Bd8 37. Qd3 Rf6 38. Nd1 Bg6 39. Qe2 Rf8 40. Nc3 Qf7
+41. Kg2 Qf5 42. Re1 Ba5 43. Be3 Bxc3 44. bxc3 Qd3 45. Qxd3 Bxd3 46. f4 e4 47.
+g4 hxg4 48. hxg4 a5 49. f5 Ra8 50. Bf4 Ra6 51. Ra1 a4 52. Bc1 e3 53. Bxe3 a3
+54. Bf4 Bxc4 55. Kg3 a2 56. g5 Rb6 0-1
+
+[Event "Alushta Summer-2"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "4"]
+[White "Ismagambetov, Anuar"]
+[Black "Ibrayev, Nurlan"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2492"]
+[BlackElo "2507"]
+[PlyCount "39"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 f6 8. Nf4
+Qe7 9. Qh5+ Qf7 10. Bg6 hxg6 11. Qxh8 fxe5 12. Nh3 exd4 13. Nf3 dxc3 14. O-O
+cxb2 15. Bxb2 Nf6 16. Rfe1 Ne4 17. Nhg5 Qf5 18. Bxg7 Bd7 19. Rxe4 dxe4 20. Nh4
+1-0
+
+[Event "Alushta Summer-2"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "4"]
+[White "Kabanov, Nikolai"]
+[Black "Okara, Andrey"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[WhiteElo "2532"]
+[BlackElo "2407"]
+[PlyCount "113"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 exd4 14. Nxd4 Bb7
+15. Nf5 Rfe8 16. Nf3 Rac8 17. N3d4 Bf8 18. Qf3 Nc6 19. Bg5 Nxd4 20. Nxd4 Nd7
+21. Rad1 g6 22. Bb3 Nc5 23. Bd5 Bxd5 24. exd5 Qa5 25. Be3 Nd3 26. Re2 Ne5 27.
+Qg3 Qxa2 28. b3 Qa5 29. Bf4 b4 30. Nc6 Qb5 31. Rde1 Qxd5 32. Nxb4 Qb5 33. Nc2
+Rxc2 34. Rxc2 Nf3+ 35. Qxf3 Rxe1+ 36. Kh2 Qf5 37. Rc6 a5 38. Ra6 Re4 39. Bd2
+Qxf3 40. gxf3 Re2 41. Be3 Rb2 42. Ra8 g5 43. Rxa5 Rxb3 44. Rxg5+ Bg7 45. Bd4 f6
+46. Bxf6 Rb7 47. Bd4 Kf8 48. Be3 Bf6 49. Ra5 Rd7 50. Kg3 Kf7 51. f4 d5 52. Kg4
+Bc3 53. Ra2 d4 54. Bd2 Ke6 55. f5+ Kd5 56. Bh6 d3 57. Bg5 1/2-1/2
+
+[Event "Alushta Summer-2"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "5"]
+[White "Okara, Andrey"]
+[Black "Shimanov, Alexandr"]
+[Result "1-0"]
+[ECO "C03"]
+[WhiteElo "2407"]
+[BlackElo "2480"]
+[PlyCount "73"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. e5 c5 5. Ngf3 Nc6 6. Bd3 f6 7. Bb5 cxd4 8. O-O
+Qb6 9. Qe2 fxe5 10. Nxe5 Nf6 11. Nb3 O-O 12. Bd3 Bd6 13. Bf4 Ne4 14. Nxc6 Rxf4
+15. Ncxd4 e5 16. Nb5 Bg4 17. Qe3 d4 18. Qe1 Bf3 19. Nxd6 Qxd6 20. gxf3 Ng5 21.
+Nd2 Raf8 22. Kg2 Rh4 23. Rh1 Qf6 24. Qe2 Nh3 25. Kf1 Qh6 26. Ke1 Nf4 27. Qxe5
+Qb6 28. Rg1 Nh5 29. Kf1 Qb4 30. Nc4 Kh8 31. Qd6 Qxd6 32. Nxd6 Rxf3 33. Re1 g6
+34. Re8+ Kg7 35. Nf5+ Rxf5 36. Bxf5 Kf7 37. Re4 1-0
+
+[Event "Alushta Summer-2"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "7"]
+[White "Okara, Andrey"]
+[Black "Ismagambetov, Anuar"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2407"]
+[BlackElo "2492"]
+[PlyCount "83"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 Nxe4 5. dxe5 d5 6. O-O Bc5 7. Nbd2 Bf5 8.
+Nb3 Bb6 9. Nfd4 Bd7 10. Bxc6 bxc6 11. f3 Ng5 12. Be3 c5 13. Qd2 h6 14. Ne2 d4
+15. Bf2 c4 16. Nbc1 c5 17. c3 d3 18. Ng3 O-O 19. b3 Be6 20. f4 Nh7 21. bxc4
+Bxc4 22. Rd1 Qd7 23. Ne4 Rfd8 24. Nd6 Ba6 25. Nxd3 Qc6 26. Be3 Nf8 27. Qf2 Ne6
+28. f5 Ng5 29. Nxc5 Bxc5 30. Bxc5 Ne4 31. Nxe4 Rxd1+ 32. Rxd1 Qxe4 33. Re1 Qc6
+34. e6 fxe6 35. fxe6 Bb7 36. Bd4 Rf8 37. Qg3 g5 38. h4 Re8 39. hxg5 Rxe6 40.
+Rxe6 Qxe6 41. gxh6+ Kf7 42. h7 1-0
+
+[Event "Alushta Summer-2"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "8"]
+[White "Shtyrenkov, Veniamen"]
+[Black "Belikov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[WhiteElo "2348"]
+[BlackElo "2554"]
+[PlyCount "21"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 1/2-1/2
+
+[Event "Alushta Summer-2"]
+[Site "Alushta"]
+[Date "2008.06.??"]
+[Round "9"]
+[White "Amanov, Zhanibek"]
+[Black "Kozlov, Roman"]
+[Result "1-0"]
+[ECO "C94"]
+[WhiteElo "2382"]
+[BlackElo "2361"]
+[PlyCount "99"]
+[EventDate "2008.06.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d3 Nbd7 11. Nbd2 Bb7 12. Nf1 Nc5 13. Bc2 Re8 14. Ng3 Bf8 15.
+b4 Ncd7 16. Nf5 c5 17. bxc5 Nxc5 18. Bg5 Ne6 19. Bd2 Nf4 20. d4 Ng6 21. Ng3 Qc7
+22. a4 d5 23. Nxe5 Nxe5 24. dxe5 Qxe5 25. f4 Qc7 26. e5 Nd7 27. Kh2 g6 28. axb5
+axb5 29. Bd3 Bc6 30. Qe2 Rxa1 31. Rxa1 Rb8 32. Rb1 Nb6 33. Be3 Nc4 34. Bd4 Ra8

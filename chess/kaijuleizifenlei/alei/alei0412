@@ -1,0 +1,600 @@
+[BlackElo "2488"]
+[PlyCount "114"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 f5 2. c4 e6 3. Nc3 Bb4 4. e3 Nf6 5. Nge2 O-O 6. g3 d6 7. Bg2 e5 8. dxe5
+dxe5 9. Qb3 a5 10. a3 Bxc3+ 11. Qxc3 Qe7 12. b3 Ne4 13. Qc2 Nc5 14. O-O e4 15.
+Nf4 a4 16. b4 Nb3 17. Rb1 Nxc1 18. Nd5 Qf7 19. Rbxc1 Nc6 20. f3 exf3 21. Bxf3
+Ne5 22. Bg2 g6 23. e4 Qg7 24. Qc3 Be6 25. Ne7+ Qxe7 26. Qxe5 f4 27. gxf4 Rae8
+28. c5 Bb3 29. Qc3 c6 30. Rce1 Qg7 31. e5 Rd8 32. Rf2 Kh8 33. Rd2 Rde8 34. Qg3
+Be6 35. h4 Qf7 36. Rd4 Bf5 37. Bf1 Be6 38. Bg2 Bf5 39. Kh2 Qa2 40. Qe3 Qf7 41.
+Rd6 Be6 42. Rf1 Re7 43. Rf2 Qg7 44. Qg3 Bf5 45. Rfd2 Be6 46. R2d4 Bf5 47. Bf3
+Qf7 48. Qg5 Be6 49. Rd8 Ree8 50. Rxe8 Rxe8 51. h5 Bd5 52. hxg6 hxg6 53. Bxd5
+cxd5 54. Rd3 Kg8 55. Rg3 Re6 56. b5 d4 57. Qd8+ Kg7 1-0
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.28"]
+[Round "7"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Arizmendi Martinez, Julen Luis"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2455"]
+[BlackElo "2506"]
+[PlyCount "64"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 g5 4. f3 gxh4 5. fxe4 c5 6. Nc3 cxd4 7. Qxd4 Rg8 8.
+e5 Nc6 9. Qe4 d5 10. Qxh7 d4 11. Qxg8 dxc3 12. bxc3 Qa5 13. Rd1 Qxc3+ 14. Rd2
+Nxe5 15. e4 Bd7 16. Ne2 Qe3 17. Qh8 Qg5 18. Rd5 f6 19. g3 O-O-O 20. Bh3 e6 21.
+Rxe5 Bb4+ 22. c3 Bxc3+ 23. Kf2 fxe5 24. Qxd8+ Kxd8 25. Nxc3 Qd2+ 26. Ne2 hxg3+
+27. hxg3 Qxa2 28. g4 Qd2 29. Bg2 a5 30. Rh5 a4 31. g5 Be8 32. Rh7 a3 0-1
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.28"]
+[Round "7"]
+[White "Cueto Chajtur, Johny"]
+[Black "Garcia Gata, Jorge David"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2312"]
+[BlackElo "2130"]
+[PlyCount "37"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. d5 e6 5. f3 Bd6 6. Bxd6 Nxd6 7. e4 Nxe4 8.
+fxe4 Qh4+ 9. g3 Qxe4+ 10. Kf2 Qxh1 11. Nf3 g5 12. Qd2 g4 13. Bg2 Qxg2+ 14. Kxg2
+gxf3+ 15. Kg1 d6 16. Nc3 O-O 17. Ne4 Nd7 18. Qg5+ Kh8 19. Qe7 1-0
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.28"]
+[Round "7"]
+[White "Fenollar Jorda, Manuel"]
+[Black "Cruz Ravina, Francisco Javier"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2253"]
+[BlackElo "2361"]
+[PlyCount "64"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e4 d6 6. Bc4 Nc6 7. e5 dxe5 8.
+dxe5 Ng4 9. Qe2 Ngxe5 10. Nxe5 Nxe5 11. O-O-O Qd4 12. c3 Qb6 13. Bb3 Qxf2 14.
+Rde1 Qxe2 15. Rxe2 Bg4 16. Re3 Bf5 17. Rf1 e6 18. h3 Nd3+ 19. Kd1 Nxb2+ 20. Ke2
+Rad8 21. Rff3 h5 22. Ne4 f6 23. Bf4 Kh8 24. Ng3 e5 25. Nxf5 gxf5 26. Rf1 exf4
+27. Re7 Rfe8 28. Rxe8+ Rxe8+ 29. Kd2 b5 30. Rb1 Nc4+ 31. Bxc4 bxc4 32. Rb7 Bh6
+0-1
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.28"]
+[Round "7"]
+[White "Lasinskas, Povilas"]
+[Black "Shoker, Samy"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2265"]
+[BlackElo "2381"]
+[PlyCount "56"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 g6 2. Nf3 Bg7 3. c4 d6 4. Bg5 Nd7 5. Nc3 f6 6. Bd2 e5 7. e3 Nh6 8. Qc2
+O-O 9. h4 f5 10. O-O-O Ng4 11. Be1 c6 12. dxe5 dxe5 13. h5 g5 14. h6 Nxh6 15.
+Nxe5 Qe7 16. Nf3 Ng4 17. Ne2 a5 18. Ng3 Nc5 19. Rh5 h6 20. Nd4 Qe8 21. Rh1 Ne4
+22. Nh5 Kh8 23. Rd3 a4 24. a3 Qe5 25. Rh3 Bd7 26. Ng3 Rae8 27. Be2 Qe7 28. Nxe4
+fxe4 1-0
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.28"]
+[Round "7"]
+[White "Mirzoev, Azer"]
+[Black "Herraiz Hidalgo, Herminio"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[WhiteElo "2518"]
+[BlackElo "2485"]
+[PlyCount "36"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. b3 d6 2. Bb2 e5 3. e3 g6 4. d4 Bg7 5. dxe5 Nc6 6. Bb5 Bd7 7. Nf3 Nge7 8. Na3
+Nxe5 9. Nxe5 Bxe5 10. Bxe5 dxe5 11. Bxd7+ Qxd7 12. Qxd7+ Kxd7 13. O-O-O+ Ke6
+14. Nb5 Rhc8 15. Rd2 a6 16. Nc3 Rd8 17. Rhd1 Rxd2 18. Rxd2 f6 1/2-1/2
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.28"]
+[Round "7"]
+[White "Ramos Moreno, Francisco Jose"]
+[Black "Ortega Ruiz, Jose Miguel"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2111"]
+[BlackElo "2290"]
+[PlyCount "147"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. a3 d5 3. b4 e6 4. d4 a5 5. b5 a4 6. e3 c5 7. c4 Nbd7 8. Be2 cxd4
+9. Qxd4 Nc5 10. Nbd2 Be7 11. Bb2 Rg8 12. cxd5 exd5 13. O-O Be6 14. Rad1 Nfe4
+15. Bc1 Bf6 16. Ne5 Qc7 17. f4 Nxd2 18. Bxd2 Nb3 19. Qb2 Qb6 20. Bd3 O-O-O 21.
+Kh1 Kb8 22. Bc2 Nxd2 23. Rxd2 Qxe3 24. Bxa4 Bxe5 25. fxe5 Rc8 26. b6 Qc3 27.
+Bb5 Qa5 28. Rd3 Rc5 29. Rb3 Rgc8 30. Bd3 g6 31. Rb1 Rc3 32. a4 Rxb3 33. Qxb3
+Qc3 34. h3 Qxb3 35. Rxb3 Rc1+ 36. Kh2 Ra1 37. Bb5 Rc1 38. Rd3 h5 39. h4 Kc8 40.
+Kg3 Rc2 41. Kf3 Kd8 42. g3 Ke7 43. Ke3 f6 44. exf6+ Kxf6 45. Kd4 Rc1 46. a5 Bc8
+47. Kxd5 Ra1 48. Kd6 Rxa5 49. Rd5 Bf5 50. Kc7 Be4 51. Rd6+ Ke5 52. Bd3 Rc5+ 53.
+Kd7 Bxd3 54. Rxd3 Rc6 55. Rb3 Kd5 56. Rb5+ Kc4 57. Rg5 Rxb6 58. Ke7 Rb3 59.
+Rxg6 b5 60. g4 Rh3 61. gxh5 Rxh4 62. Rc6+ Kd3 63. h6 b4 64. Kd7 b3 65. Ke7 b2
+66. Rb6 Kc2 67. Rc6+ Kd3 68. Rb6 Kc2 69. Rc6+ Kb3 70. Rb6+ Ka3 71. Ra6+ Kb3 72.
+Rb6+ Kc2 73. Rc6+ Kd3 74. Rb6 1/2-1/2
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.28"]
+[Round "7"]
+[White "Terron Elena, Francisco Miguel"]
+[Black "Kovacevic, Slobodan"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[WhiteElo "2272"]
+[BlackElo "2413"]
+[PlyCount "33"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f3 Bg7 8. Bg5 h6
+9. Be3 O-O 10. Qd2 a6 11. a4 Nh7 12. Nge2 Re8 13. Nc1 h5 14. Be2 Nd7 15. O-O
+Ne5 16. N1a2 a5 17. Rac1 1/2-1/2
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Arizmendi Martinez, Julen Luis"]
+[Black "Almeida Quintana, Omar"]
+[Result "1/2-1/2"]
+[ECO "A69"]
+[WhiteElo "2506"]
+[BlackElo "2500"]
+[PlyCount "71"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 a6 8. a4
+Nbd7 9. e4 Bg7 10. Be2 O-O 11. O-O Re8 12. f4 h5 13. h3 Qc7 14. Kh1 Rb8 15. Qc2
+c4 16. e5 dxe5 17. Nxc4 b5 18. axb5 axb5 19. d6 Qc6 20. Nxe5 Nxe5 21. fxe5 Rxe5
+22. Bf4 Bf5 23. Qd1 Ree8 24. d7 Bxd7 25. Bxb8 Rxb8 26. Bf3 Qb6 27. Nd5 Nxd5 28.
+Bxd5 Be6 29. Bxe6 Qxe6 30. Ra7 Rf8 31. b3 Bc3 32. Rd7 b4 33. Rd6 Qe4 34. Rd8
+Qe7 35. Rxf8+ Kxf8 36. Qd5 1/2-1/2
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Munoz Moreno, Francisco Javier"]
+[Result "1/2-1/2"]
+[ECO "A44"]
+[WhiteElo "2455"]
+[BlackElo "2253"]
+[PlyCount "126"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. g3 Nf6 5. Bg2 g6 6. f4 exf4 7. Bxf4 Bg7 8. Nc3
+O-O 9. Qd2 a6 10. a4 Ng4 11. Nf3 Qe7 12. O-O Nd7 13. Rae1 Nde5 14. b3 Nxf3+ 15.
+Bxf3 Ne5 16. Bg2 b6 17. h3 Bd7 18. Bg5 f6 19. Bf4 b5 20. g4 b4 21. Nd1 Rae8 22.
+Ne3 Bc8 23. Rf2 Qc7 24. Ref1 Re7 25. Bxe5 fxe5 26. Rxf8+ Bxf8 27. Nc4 Rf7 28.
+g5 Rxf1+ 29. Bxf1 Be7 30. Qg2 Qd8 31. h4 Kg7 32. Be2 h6 33. Bg4 hxg5 34. Bxc8
+Qxc8 35. hxg5 Qd8 36. Kf1 Qf8+ 37. Ke2 Qf4 38. Qf3 Qxf3+ 39. Kxf3 Kf7 40. Kg4
+Ke8 41. Nd2 Bd8 42. Nf3 Kf7 43. Kg3 Kg7 44. Kf2 Kf7 45. Ke2 Kg7 46. Kd3 Kf7 47.
+Kc4 Ke8 48. c3 bxc3 49. Kxc3 Ba5+ 50. Kc4 Kf7 51. Nxe5+ dxe5 52. Kxc5 Ke8 53.
+b4 Bd8 54. Kd6 Bxg5 55. Kxe5 Bd2 56. b5 axb5 57. axb5 Kd7 58. b6 Be3 59. b7 Kc7
+60. Kf6 g5 61. e5 Kxb7 62. d6 g4 63. d7 g3 1/2-1/2
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Cisnero, Juan Jose"]
+[Black "Karim, Ismael"]
+[Result "0-1"]
+[ECO "A11"]
+[WhiteElo "2043"]
+[BlackElo "2347"]
+[PlyCount "90"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 c6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Bg4 5. Ne5 Bf5 6. cxd5 cxd5 7. Qa4+ Bd7 8.
+Nxd7 Qxd7 9. Qxd7+ Nbxd7 10. Nc3 e6 11. d3 a6 12. O-O Bd6 13. e4 d4 14. Ne2 e5
+15. f4 Nc5 16. fxe5 Bxe5 17. Bf4 Ng4 18. Bh3 Bxf4 19. gxf4 Ne3 20. Rf3 Rd8 21.
+Nxd4 Rxd4 22. Rxe3 O-O 23. Bf1 Rfd8 24. Rc1 b6 25. a3 a5 26. Kf2 g6 27. Rc3 a4
+28. Kf3 Kg7 29. Be2 Ra8 30. Bd1 Ra5 31. Ke2 Rb5 32. Rc2 f5 33. exf5 gxf5 34.
+Re5 Kf6 35. Rd2 Rxf4 36. d4 Rxd4 37. Rxd4 Kxe5 38. Rb4 Rxb4 39. axb4 Nb3 40.
+Bxb3 axb3 41. Ke3 f4+ 42. Kf3 Kf5 43. b5 Ke5 44. h3 Kf5 45. h4 h5 0-1
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Cruz Alvarez de Ron, Dan"]
+[Black "Ris, Robert"]
+[Result "1/2-1/2"]
+[ECO "A12"]
+[WhiteElo "2246"]
+[BlackElo "2386"]
+[PlyCount "76"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 c6 3. g3 d5 4. b3 Bg4 5. Bg2 Nbd7 6. Bb2 e6 7. O-O Be7 8. d3
+O-O 9. Nbd2 a5 10. h3 Bxf3 11. Nxf3 a4 12. Bc3 axb3 13. axb3 Qb6 14. Qc2 Nc5
+15. Nd2 Nfd7 16. d4 Na6 17. e4 Nf6 18. exd5 exd5 19. c5 Qd8 20. Rfe1 Re8 21.
+Ba5 Qc8 22. Qd3 Nd7 23. b4 Bf6 24. h4 Nf8 25. Nf3 Re4 26. Rxe4 dxe4 27. Qxe4
+Nxb4 28. Qb1 Nd5 29. Bd2 Rxa1 30. Qxa1 h6 31. Qa7 Nc7 32. Be3 Nb5 33. Qa5 Qd7
+34. Qa8 Nxd4 35. Nxd4 Bxd4 36. Bxd4 Qxd4 37. Qxb7 Qxc5 38. Qxc6 Qxc6 1/2-1/2
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Garcia Gata, Jorge David"]
+[Black "Simutowe, Amon"]
+[Result "0-1"]
+[ECO "A47"]
+[WhiteElo "2130"]
+[BlackElo "2457"]
+[PlyCount "78"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 b6 5. Nbd2 Bb7 6. c3 Be7 7. Bd3 Nc6 8. O-O
+O-O 9. Re1 d5 10. Ne5 Nxe5 11. dxe5 Nd7 12. Bf4 f5 13. exf6 Nxf6 14. Be5 Qe8
+15. e4 Qf7 16. f3 c4 17. Bc2 Rad8 18. Qe2 Bc5+ 19. Kh1 b5 20. Rad1 a5 21. Bd4
+Bxd4 22. cxd4 Nh5 23. g3 e5 24. dxe5 d4 25. Qf2 g5 26. Nf1 d3 27. Rxd3 Rxd3 28.
+Bxd3 cxd3 29. Re3 Qxa2 30. Qd2 Ng7 31. Rxd3 Bxe4 32. fxe4 Qb1 33. Qe2 Qxf1+ 34.
+Qxf1 Rxf1+ 35. Kg2 Rb1 36. Rb3 b4 37. Kf3 h5 38. Ke3 Ne6 39. Kd2 Nc5 0-1
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Karlsson, Lars"]
+[Black "Guerra Bastida, Diego"]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "2488"]
+[BlackElo "2386"]
+[PlyCount "60"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. b3 e5 2. Bb2 d6 3. e3 f5 4. f4 Nc6 5. Bb5 Bd7 6. Nf3 e4 7. Ng5 Nf6 8. Bxf6
+Qxf6 9. Nc3 Ne7 10. Bxd7+ Kxd7 11. d4 h6 12. Nh3 Rd8 13. Ne2 Kc8 14. c4 g5 15.
+b4 Ng6 16. Qa4 Kb8 17. g3 c5 18. O-O g4 19. Nf2 h5 20. Rab1 Rh7 21. dxc5 h4 22.
+Rfd1 hxg3 23. hxg3 Nh4 24. Nd4 Nf3+ 25. Kf1 Qh8 26. b5 Rh1+ 27. Ke2 Rh2 28.
+Nc6+ bxc6 29. bxc6+ Ka8 30. Qa5 Rxf2+ 0-1
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Kovacevic, Slobodan"]
+[Black "Cori Tello, Deysi Estella"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2413"]
+[BlackElo "2201"]
+[PlyCount "83"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 Qb6 5. Qc1 d5 6. c3 Nc6 7. h3 Bd7 8. Nbd2
+Rc8 9. Qb1 g6 10. Bd3 Bg7 11. O-O cxd4 12. exd4 O-O 13. Re1 Nh5 14. Bh2 f5 15.
+Nb3 Nf6 16. Nc5 Rce8 17. b4 Bc8 18. a4 Ne4 19. Qb3 Qd8 20. Bb5 g5 21. Bxc6 bxc6
+22. Ne5 Bxe5 23. Bxe5 g4 24. Nxe4 fxe4 25. hxg4 Qh4 26. Qc2 Rf7 27. Re3 Ref8
+28. Rg3 Ba6 29. b5 cxb5 30. Qe2 Rxf2 31. Qxf2 Rxf2 32. Kxf2 Qe7 33. Kg1 b4 34.
+Rb1 Qf8 35. g5 Bd3 36. Rxb4 Qf1+ 37. Kh2 Qe2 38. Rb8+ Kf7 39. Rb7+ Ke8 40. Rxh7
+e3 41. Rh8+ Kd7 42. g6 1-0
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Matamoros Franco, Carlos S"]
+[Black "Tate, Emory"]
+[Result "1/2-1/2"]
+[ECO "A41"]
+[WhiteElo "2529"]
+[BlackElo "2390"]
+[PlyCount "36"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 d6 4. g3 Bd7 5. Bg2 Qc8 6. O-O Bh3 7. Nc3 Bxg2 8.
+Kxg2 c5 9. dxc5 Bxc3 10. bxc3 dxc5 11. Ne5 Nf6 12. Qa4+ Nc6 13. Nxc6 bxc6 14.
+Be3 O-O 15. Bxc5 Qe6 16. Bd4 Ne4 17. c5 Nxc5 18. Bxc5 Qd5+ 1/2-1/2
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Pakleza, Zbigniew"]
+[Black "Lasinskas, Povilas"]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2492"]
+[BlackElo "2265"]
+[PlyCount "73"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Qe7 5. a3 Bxc3 6. Qxc3 d6 7. b3 Nbd7 8.
+Bb2 O-O 9. g4 e5 10. Rg1 Nc5 11. g5 Nfe4 12. Qc2 f5 13. d3 Nxf2 14. Kxf2 e4 15.
+b4 Nd7 16. Re1 b6 17. Qc3 Bb7 18. h4 Rae8 19. Bg2 exf3 20. exf3 Qf7 21. f4 Bxg2
+22. Kxg2 c5 23. Kf2 Nb8 24. b5 Qc7 25. Kg3 Re7 26. Rxe7 Qxe7 27. Re1 Qd7 28. h5
+Rf7 29. h6 Re7 30. hxg7 Qe8 31. Rxe7 Qxe7 32. Kf2 Nd7 33. Qe1 Qf7 34. Qh1 Nb8
+35. Qa8 Qc7 36. g6 hxg6 37. Qh1 1-0
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Paunovic, Dragan"]
+[Black "Jaime Montalvan, Luis Felipe"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2522"]
+[BlackElo "2170"]
+[PlyCount "85"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nf3 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+d6 9. Bg5 a6 10. Bxf6 Bxf6 11. Qf4 Qc7 12. Rfd1 Be7 13. Ne4 Bxe4 14. Qxe4 Ra7
+15. Nd4 O-O 16. Rac1 Rc8 17. Qe3 Bf8 18. b4 e5 19. Nf5 a5 20. a3 axb4 21. axb4
+g6 22. Nh6+ Bxh6 23. Qxh6 Nc6 24. Qd2 Nd4 25. Qb2 Ra4 26. e3 Nc6 27. c5 dxc5
+28. bxc5 Rb4 29. Qc3 b5 30. Bxc6 Rc4 31. Qb2 Qxc6 32. Rxc4 bxc4 33. Qxe5 Qb5
+34. h4 h5 35. Rd6 Re8 36. Qd4 Qb3 37. c6 c3 38. Rd8 Rxd8 39. Qxd8+ Kg7 40. c7
+Qb1+ 41. Kh2 Qf5 42. Qd4+ Kg8 43. e4 1-0
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Piasetski, Leon David"]
+[Black "Dolezal, Cristian"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "2308"]
+[BlackElo "2425"]
+[PlyCount "80"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 g6 2. Nf3 Bg7 3. c4 c5 4. d5 d6 5. e4 e6 6. Bd3 exd5 7. cxd5 Bg4 8. h3
+Bxf3 9. Qxf3 Nd7 10. Qe2 Ne7 11. O-O O-O 12. Nd2 Re8 13. Qd1 Ne5 14. Bc2 b5 15.
+Kh1 Nc8 16. a4 Nc4 17. Ra2 Nxd2 18. Bxd2 bxa4 19. f4 Nb6 20. Bc1 Bd4 21. Qf3 f6
+22. f5 g5 23. h4 h6 24. g4 Re7 25. Kg2 Rb8 26. Rh1 Rbb7 27. Qd3 Qe8 28. Ra3 Rh7
+29. Qa6 Rbg7 30. Rah3 Qe7 31. Kf3 Kh8 32. Bxa4 h5 33. Bc2 hxg4+ 34. Kxg4 Rxh4+
+35. Kg3 Rgh7 36. Rxh4 gxh4+ 37. Kf3 Qf7 38. Be3 Qh5+ 39. Kf2 Bxe3+ 40. Kxe3
+Qg5+ 0-1
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Shoker, Samy"]
+[Black "Rubio Doblas, Ricardo"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "2381"]
+[BlackElo "2111"]
+[PlyCount "67"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. g3 Nf6 2. Bg2 g6 3. c4 Bg7 4. Nc3 d6 5. Rb1 O-O 6. b4 e5 7. d3 c6 8. Nf3 Re8
+9. e4 d5 10. cxd5 cxd5 11. Bg5 dxe4 12. Nxe4 Qb6 13. Nxf6+ Bxf6 14. Be3 Qa6 15.
+a4 Rd8 16. b5 Qd6 17. O-O Qxd3 18. Qxd3 Rxd3 19. Rbc1 Nd7 20. Nd2 Nb6 21. Ne4
+Be7 22. a5 Nd5 23. Bc5 Be6 24. Bxe7 Nxe7 25. Nc5 Ra3 26. a6 Rb8 27. axb7 Bd5
+28. Ra1 Rc3 29. Bxd5 Nxd5 30. Rxa7 Nb6 31. Na6 Ra3 32. Rc1 Kg7 33. Rc6 Ra1+ 34.
+Kg2 1-0
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.03.01"]
+[Round "9"]
+[White "Cueto Chajtur, Johny"]
+[Black "Kovacevic, Slobodan"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2312"]
+[BlackElo "2413"]
+[PlyCount "27"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Be7 5. Nbd2 b6 6. Bd3 Bb7 7. O-O O-O 8. Re1
+cxd4 9. exd4 d6 10. Qe2 Nbd7 11. Rad1 a6 12. c3 b5 13. Bb1 Re8 14. Qd3 1/2-1/2
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.03.01"]
+[Round "9"]
+[White "Jovanic, Ognjen"]
+[Black "Dolezal, Cristian"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2491"]
+[BlackElo "2425"]
+[PlyCount "121"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 g6 2. c4 Bg7 3. e4 c5 4. d5 d6 5. Nc3 Bxc3+ 6. bxc3 Qa5 7. Qc2 Nd7 8. f4
+Nb6 9. Bd3 Bd7 10. Nf3 Ba4 11. Qb2 O-O-O 12. O-O Qa6 13. Qe2 f6 14. h3 Kb8 15.
+e5 Re8 16. Be3 e6 17. dxe6 Rxe6 18. exd6 Nh6 19. f5 Nxf5 20. Bxf5 gxf5 21. Qf2
+Qxc4 22. Bxc5 Nd7 23. Bxa7+ Ka8 24. Rfe1 Rxd6 25. Bd4 Bc6 26. Qg3 Re6 27. Rxe6
+Qxe6 28. Re1 Qc4 29. Re7 Rg8 30. Rg7 Re8 31. Qd6 Qa4 32. Nh4 f4 33. Qxf4 Qxa2
+34. Kh2 Rg8 35. Qg3 Rxg7 36. Qxg7 b6 37. Qxh7 Qe6 38. Qg6 Kb7 39. Qg3 Be4 40.
+Nf3 Kc6 41. Qf4 Qf5 42. Qxf5 Bxf5 43. Kg3 Kd5 44. Kf4 Bd3 45. g4 b5 46. h4 Ke6
+47. Nd2 Nf8 48. h5 Nh7 49. Ne4 Bc2 50. Bb6 Kd5 51. Nd2 Bd1 52. Nf3 Nf8 53. Nd4
+Ne6+ 54. Kf5 Nf8 55. h6 Kd6 56. Bd8 Kd7 57. Bxf6 Ke8 58. Bg7 Nh7 59. g5 Nf8 60.
+Bxf8 Kxf8 61. Kf6 1-0
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.03.01"]
+[Round "9"]
+[White "Mirzoev, Azer"]
+[Black "Pakleza, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "A41"]
+[WhiteElo "2518"]
+[BlackElo "2492"]
+[PlyCount "71"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d6 2. Nf3 Bg4 3. c4 c6 4. Nc3 Nd7 5. g3 Bxf3 6. exf3 e6 7. d5 exd5 8.
+cxd5 Ngf6 9. Bg2 Be7 10. O-O O-O 11. f4 c5 12. a4 Ne8 13. g4 Nc7 14. g5 Re8 15.
+h4 Bf8 16. h5 a6 17. b3 b5 18. a5 Rc8 19. Bb2 c4 20. b4 h6 21. gxh6 Qh4 22. Ne4
+Rxe4 23. Bxe4 Qxf4 24. Bg2 Ne5 25. Ra3 Qxh6 26. Rg3 Nd3 27. Bc3 Re8 28. Qg4 Nc1
+29. Bf3 Na2 30. Ba1 Nxb4 31. Qd7 Re7 32. Qc8 Ne8 33. Bc3 Na2 34. Ba1 Nb4 35.
+Bc3 Na2 36. Ba1 1/2-1/2
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.03.01"]
+[Round "9"]
+[White "Paunovic, Dragan"]
+[Black "Ramos Moreno, Francisco Jose"]
+[Result "1-0"]
+[ECO "A15"]
+[WhiteElo "2522"]
+[BlackElo "2111"]
+[PlyCount "51"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 a6 3. Nc3 b5 4. cxb5 axb5 5. Nxb5 d5 6. d4 e6 7. e3 Be7 8. Bd3
+O-O 9. O-O c5 10. dxc5 Bxc5 11. Bd2 Ne4 12. Qc2 Ba6 13. a4 Nd7 14. Bxe4 dxe4
+15. Qxe4 Rb8 16. Bc3 Bxb5 17. axb5 Rxb5 18. Rfd1 Nf6 19. Qh4 Qe7 20. Qg3 Rd8
+21. Rxd8+ Qxd8 22. Bxf6 Qxf6 23. Ra8+ Bf8 24. Qd6 h6 25. Rxf8+ Kh7 26. Qd3+ 1-0
+
+[Event "Sofia ZSKA op 1st"]
+[Site "Sofia"]
+[Date "2008.02.24"]
+[Round "4"]
+[White "Nikolov, Savko"]
+[Black "Filev, Georgi"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "1973"]

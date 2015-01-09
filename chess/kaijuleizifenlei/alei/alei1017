@@ -1,0 +1,600 @@
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bf4 e6 3. Nf3 c5 4. c3 cxd4 5. cxd4 b5 6. h3 Bb7 7. e3 a6 8. Bd3
+Nc6 9. a3 Qb6 10. O-O Be7 11. Nbd2 d6 12. Qe2 O-O 13. Rfc1 Rac8 14. b4 Rfe8 15.
+Nb3 h6 16. Qb2 Nb8 17. Nbd2 Nbd7 18. e4 Nf8 19. Be3 d5 20. e5 N6d7 21. Nb3
+Rxc1+ 22. Rxc1 Rc8 23. Nc5 Nxc5 24. bxc5 Qa7 25. Rb1 Bc6 26. Bd2 Bd8 27. Bc3
+Qe7 28. a4 Rb8 29. Qa2 Qd7 30. axb5 Bxb5 31. Ba5 Bxa5 32. Qxa5 Qc6 33. Bxb5
+axb5 34. Ra1 Nd7 35. Nd2 f6 36. f4 fxe5 37. fxe5 Nxe5 38. dxe5 Qxc5+ 39. Kh2
+Qe3 40. Nf3 g5 41. Qc7 Rf8 42. Ra7 Qf4+ 43. Kh1 Rf7 44. Qxf7+ Qxf7 45. Rxf7
+Kxf7 46. Nd4 b4 47. Kg1 h5 48. g4 1-0
+
+[Event "ICSC Silent op"]
+[Site "St Gallen"]
+[Date "2008.07.24"]
+[Round "4"]
+[White "Johannesen, Hans"]
+[Black "Mussainov, Bauryzhan"]
+[Result "0-1"]
+[ECO "A85"]
+[PlyCount "114"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e6 2. Nc3 d5 3. e3 c6 4. d4 f5 5. Nf3 Bd6 6. a3 Nf6 7. Be2 O-O 8. O-O Ne4
+9. c5 Bc7 10. Rb1 a5 11. g3 Nd7 12. Nxe4 fxe4 13. Nh4 e5 14. a4 b6 15. cxb6
+Bxb6 16. b3 Qf6 17. Bb2 exd4 18. Bxd4 Bxd4 19. Qxd4 Qxd4 20. exd4 Nf6 21. Rbc1
+Bd7 22. Rc5 Rfb8 23. Rc3 Rb4 24. Rd1 Rab8 25. Ng2 Rxb3 26. Rxb3 Rxb3 27. Rc1
+Rb4 28. f3 Rxd4 29. fxe4 Nxe4 30. Bd1 Kf7 31. Nf4 Ke7 32. Bf3 Rxa4 33. Re1 Kd6
+34. Rd1 Nf6 35. Nd3 Bg4 36. Kf2 Ne4+ 37. Ke3 Bxf3 38. Kxf3 Ra3 39. Kf4 g5+ 40.
+Kf5 Nf2 41. Nxf2 Rf3+ 42. Kxg5 Rxf2 43. h4 Rf7 44. g4 c5 45. Re1 c4 46. Ra1 c3
+47. Rxa5 Rc7 48. Ra1 c2 49. Rc1 Ke5 50. Re1+ Kd4 51. Rc1 Kd3 52. Kf5 Kd2 53.
+Rxc2+ Kxc2 54. Ke5 Rd7 55. Kd4 Kd2 56. g5 Ke2 57. h5 Rg7 0-1
+
+[Event "ICSC Silent op"]
+[Site "St Gallen"]
+[Date "2008.07.25"]
+[Round "5"]
+[White "Marczukiewicz, Jerzy"]
+[Black "Hoyer, Olaf"]
+[Result "1/2-1/2"]
+[ECO "A84"]
+[WhiteElo "2000"]
+[PlyCount "46"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 c6 3. c4 e6 4. Nc3 f5 5. Bf4 Bd6 6. Bxd6 Qxd6 7. e3 Nf6 8. Bd3
+O-O 9. O-O Bd7 10. Ne5 Be8 11. Qb3 Qc7 12. Rac1 Ne4 13. Qc2 Nd7 14. cxd5 Nxe5
+15. dxe5 exd5 16. Nxd5 Qxe5 17. Nf4 Nd6 18. Rfd1 Bf7 19. b3 Rad8 20. Qc5 Qxc5
+21. Rxc5 g6 22. Re5 Rfe8 23. Rxe8+ Nxe8 1/2-1/2
+
+[Event "ICSC Silent op"]
+[Site "St Gallen"]
+[Date "2008.07.26"]
+[Round "6"]
+[White "Geisser, Rainer"]
+[Black "David, Barry"]
+[Result "1-0"]
+[ECO "A25"]
+[PlyCount "53"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bc5 4. e3 Nc6 5. Bg2 O-O 6. Nge2 Re8 7. O-O d6 8. d3
+a5 9. a3 Bf5 10. e4 Bg4 11. Kh1 h6 12. Be3 Nd4 13. Bxd4 exd4 14. Nb1 a4 15. f3
+Bd7 16. Nd2 c6 17. g4 Nh7 18. h3 d5 19. f4 dxe4 20. Nxe4 Qe7 21. f5 Bb6 22. Qd2
+c5 23. N2g3 Bc6 24. f6 gxf6 25. Qxh6 Bc7 26. Nh5 Qf8 27. Nexf6+ 1-0
+
+[Event "ICSC Silent op"]
+[Site "St Gallen"]
+[Date "2008.07.28"]
+[Round "7"]
+[White "Mussainov, Bauryzhan"]
+[Black "Muratov, Lir"]
+[Result "0-1"]
+[ECO "A57"]
+[BlackElo "2152"]
+[PlyCount "124"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Ba6 7. Nc3 Qb6 8. Qb3
+g6 9. Nf3 Bg7 10. O-O O-O 11. a4 Bxb5 12. Nxb5 d6 13. Ra3 Nbd7 14. Re1 Rfb8 15.
+e4 Ng4 16. Qc2 Nde5 17. Nxe5 Nxe5 18. b3 Rc8 19. Bd2 c4 20. b4 Nd3 21. Rf1 Nb2
+22. Rb1 Nxa4 23. Rxa4 Qxb5 24. Rxa8 Rxa8 25. Rc1 Rc8 26. Bc3 Bxc3 27. Qxc3 Qa4
+28. g3 h5 29. Ra1 Qd7 30. Rc1 Qb5 31. Rc2 f6 32. Rc1 Kf7 33. Rc2 Qa4 34. Rc1
+Qa2 35. b5 Rb8 36. Qb4 c3 37. Qxc3 Rxb5 38. Qc8 Rc5 39. Rxc5 dxc5 40. Qe6+ Kf8
+41. Qc8+ Kg7 42. Qxc5 Qb1+ 43. Kg2 Qxe4+ 44. Kg1 Qe5 45. Qc4 f5 46. Qc6 Kf7 47.
+Qb7 h4 48. gxh4 Qe1+ 49. Kg2 Qe4+ 50. Kg1 Qg4+ 51. Kh1 f4 52. Qc7 Qd1+ 53. Kg2
+Qxd5+ 54. f3 Qa2+ 55. Kh3 Qe6+ 56. Kg2 Qe2+ 57. Kg1 Qxf3 58. Qc4+ Kg7 59. Qd4+
+Kh7 60. Qc4 Qg4+ 61. Kf1 Qf5 62. Qd4 Qh3+ 0-1
+
+[Event "ICSC Silent op"]
+[Site "St Gallen"]
+[Date "2008.07.29"]
+[Round "8"]
+[White "Dunn, Richard"]
+[Black "Grudina, Marco"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[BlackElo "1897"]
+[PlyCount "49"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. e4 e5 7. Nc3 c6 8. h3 Re8
+9. Re1 Nbd7 10. d4 exd4 11. Nxd4 Qc7 12. Kh2 a6 13. a4 Nf8 14. Be3 Ne6 15. Nb3
+b6 16. Qd2 Bb7 17. Rad1 Rad8 18. f3 Re7 19. Qf2 c5 20. Nd5 Nxd5 21. exd5 Nf8
+22. c3 Rde8 23. f4 Nd7 24. c4 Nf6 25. Rc1 1/2-1/2
+
+[Event "ICSC Silent op"]
+[Site "St Gallen"]
+[Date "2008.07.30"]
+[Round "9"]
+[White "Chernov, Igor"]
+[Black "Alchinidi, Yuri"]
+[Result "1-0"]
+[ECO "A23"]
+[WhiteElo "2147"]
+[BlackElo "2038"]
+[PlyCount "81"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. g3 e5 3. Bg2 Bc5 4. Nc3 O-O 5. e3 c6 6. d4 exd4 7. exd4 Bb4 8.
+Nge2 d5 9. cxd5 Nxd5 10. O-O Bg4 11. Nxd5 cxd5 12. Qd3 Nc6 13. Nf4 Re8 14. Be3
+Be6 15. Qb3 Qd7 16. Bxd5 Bxd5 17. Qxd5 Rad8 18. Qxd7 Rxd7 19. Rfd1 Red8 20. d5
+Ne7 21. Bxa7 Nxd5 22. Nxd5 Rxd5 23. Rxd5 Rxd5 24. Be3 h6 25. Kf1 Kf8 26. Rc1
+Rd7 27. Rc8+ Ke7 28. Ke2 h5 29. a4 g6 30. h3 Ke6 31. Rc4 Bf8 32. b4 f5 33. a5
+Be7 34. b5 Bd6 35. a6 bxa6 36. bxa6 Bb8 37. Rc6+ Kf7 38. Rb6 Ba7 39. Rb7 Bxe3
+40. Rxd7+ Ke8 41. Rh7 1-0
+
+[Event "ICSC Silent op"]
+[Site "St Gallen"]
+[Date "2008.07.30"]
+[Round "9"]
+[White "Golemovic, Tvrtko"]
+[Black "Christie, John"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "1813"]
+[PlyCount "99"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. c4 e6 3. Nc3 Nf6 4. Nf3 Nc6 5. e4 Be7 6. Be2 Bd7 7. Bf4 Nh5 8. Be3
+Nf6 9. h3 e5 10. d5 Nb8 11. Rc1 c6 12. Qc2 c5 13. a3 b6 14. b4 cxb4 15. axb4
+O-O 16. O-O h6 17. c5 bxc5 18. bxc5 dxc5 19. Nxe5 Bd6 20. Nc4 Nh7 21. e5 Bc7
+22. Bxc5 Re8 23. Bd3 Ng5 24. f4 Nxh3+ 25. gxh3 Bxh3 26. Rf3 Qh4 27. Qf2 Qxf2+
+28. Kxf2 Bg4 29. Rg3 h5 30. Ne3 Nd7 31. Bd4 Bb6 32. Bxb6 Nxb6 33. Nxg4 hxg4 34.
+Rxg4 g6 35. Bb5 Red8 36. Bc6 Rac8 37. Ra1 Nxd5 38. Nxd5 Rxc6 39. Ne7+ Kg7 40.
+Nxc6 Ra8 41. Rxa7 Rc8 42. Ne7 Rc2+ 43. Ke3 Rc3+ 44. Kd4 Rh3 45. Nf5+ Kh7 46.
+Rxf7+ Kg8 47. Rg7+ Kf8 48. R4xg6 Rd3+ 49. Kxd3 Ke8 50. Ra6 1-0
+
+[Event "ICSC Silent op"]
+[Site "St Gallen"]
+[Date "2008.07.30"]
+[Round "9"]
+[White "Langedoen, Arie"]
+[Black "Geisser, Rainer"]
+[Result "1-0"]
+[ECO "A95"]
+[PlyCount "91"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 f5 2. d4 Nf6 3. c4 d5 4. Nc3 e6 5. g3 Be7 6. Bg2 O-O 7. O-O c5 8. e3
+Nbd7 9. b3 Nb6 10. cxd5 Nbxd5 11. Nxd5 Nxd5 12. Bb2 cxd4 13. Nxd4 Nf6 14. Rc1
+a6 15. Qc2 e5 16. Qc4+ Kh8 17. Nf3 e4 18. Ng5 Qe8 19. Rfd1 Bd7 20. Ne6 Qf7 21.
+Nxf8 Qxc4 22. Rxc4 Bxf8 23. Rc7 Bc6 24. Bxf6 gxf6 25. Bh3 Re8 26. Bxf5 Re7 27.
+Rc8 Kg7 28. Rdd8 Re5 29. Rxf8 Rxf5 30. Rxc6 bxc6 31. Re8 Re5 32. Rxe5 fxe5 33.
+g4 Kg6 34. Kg2 h5 35. gxh5+ Kxh5 36. b4 Kg4 37. h3+ Kh4 38. f3 exf3+ 39. Kxf3
+Kxh3 40. Ke4 Kg4 41. Kxe5 Kg5 42. Ke6 Kg6 43. e4 Kg7 44. Ke7 a5 45. a3 axb4 46.
+axb4 1-0
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.20"]
+[Round "1"]
+[White "Bukhan, Vladimir"]
+[Black "Kosikov, Andrey"]
+[Result "0-1"]
+[ECO "A43"]
+[BlackElo "2174"]
+[PlyCount "48"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 Nf6 4. Bf4 d6 5. Nf3 Nc6 6. e3 Qb6 7. b3 g6 8.
+Nbd2 Bg7 9. Rb1 Nd5 10. Rc1 Nc3 11. Nc4 Qc7 12. Bxd6 exd6 13. Nxd6+ Ke7 14. Nb5
+Nxb5 15. Bxb5 Qa5+ 16. Nd2 Qxb5 17. c4 Qa5 18. Qc2 Rd8 19. Rd1 Bc3 20. a3 Bf5
+21. Qc1 Rxd2 22. Rxd2 Rd8 23. b4 Bxd2+ 24. Qxd2 Qxa3 0-1
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.20"]
+[Round "1"]
+[White "Chirpii, Alenxandru"]
+[Black "Peregnyak, Sergey"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2007"]
+[PlyCount "81"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. b4 d5 2. e3 Nf6 3. Bb2 e6 4. b5 Be7 5. Nf3 O-O 6. c4 c6 7. a4 a6 8. Nc3 axb5
+9. axb5 Rxa1 10. Qxa1 Nbd7 11. Be2 Qc7 12. O-O dxc4 13. Bxc4 c5 14. Qa7 Nb6 15.
+Be2 Bd7 16. Na4 Nxa4 17. Qxa4 b6 18. Ne5 Bc8 19. Ng4 Bb7 20. Bxf6 Bxf6 21.
+Nxf6+ gxf6 22. d4 Ra8 23. Qc2 f5 24. Rc1 Rc8 25. Qb2 Qd6 26. dxc5 Rxc5 27. Rd1
+Rd5 28. Rxd5 Qxd5 29. Bf1 Qc5 30. Qf6 Bd5 31. h4 Qf8 32. Qd4 Qc5 33. Qe5 Qc8
+34. h5 h6 35. Qf6 Qf8 36. Qd4 Qc5 37. Qe5 Qc8 38. Qd6 Qb7 39. Bd3 Be4 40. Bxe4
+fxe4 41. Qc6 1-0
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.20"]
+[Round "1"]
+[White "Kinoshenko, Konstantin"]
+[Black "Mysik, Natalia"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[BlackElo "2098"]
+[PlyCount "59"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 d6 4. Bg2 Nf6 5. e3 e6 6. Nge2 Be7 7. d4 O-O 8. O-O
+e5 9. b3 Bg4 10. Qd2 Qd7 11. Bb2 Bh3 12. dxc5 Bxg2 13. Kxg2 dxc5 14. Qxd7 Nxd7
+15. Nd5 Rfd8 16. Rfd1 Bf8 17. Rd2 Nf6 18. Nxf6+ gxf6 19. Rad1 Rxd2 20. Rxd2 Rd8
+21. Rxd8 Nxd8 22. Nc3 Ne6 23. Nd5 Kg7 24. h4 Bd6 25. f4 Nc7 26. Nxc7 Bxc7 27.
+Kf3 Kg6 28. Ke4 exf4 29. exf4 f5+ 30. Kf3 1/2-1/2
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.20"]
+[Round "1"]
+[White "Kutsykh, Mikle"]
+[Black "Talmazan, Oleg"]
+[Result "1-0"]
+[ECO "A90"]
+[WhiteElo "2268"]
+[BlackElo "1788"]
+[PlyCount "57"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 d5 5. O-O Bd6 6. c4 c6 7. b3 Qe7 8. Bb2 O-O
+9. Nbd2 b6 10. Ne5 Bb7 11. cxd5 exd5 12. Ndf3 Nbd7 13. Rc1 c5 14. Qd3 Ng4 15.
+Nxd7 Qxd7 16. dxc5 bxc5 17. e3 Rae8 18. Ba3 Rf6 19. Rfd1 Rc8 20. Bb2 Rh6 21.
+Nh4 Rxh4 22. gxh4 Bxh2+ 23. Kf1 d4 24. exd4 Rc6 25. dxc5 Ba6 26. Qxa6 Qxd1+ 27.
+Rxd1 Rxa6 28. b4 Rxa2 29. Bd5+ 1-0
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.20"]
+[Round "1"]
+[White "Liapin, Vladimir"]
+[Black "Gritsenko, Vladimir"]
+[Result "1-0"]
+[ECO "A06"]
+[BlackElo "2049"]
+[PlyCount "55"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. b3 c5 3. e3 Nc6 4. Bb5 Bg4 5. Bxc6+ bxc6 6. Bb2 e6 7. d3 Nf6 8.
+Nbd2 Bd6 9. h3 Bh5 10. g4 Bg6 11. Ne5 Qc7 12. f4 h5 13. Nxg6 fxg6 14. g5 Nd7
+15. Bxg7 Rg8 16. Bb2 a5 17. a4 e5 18. Qe2 exf4 19. O-O-O fxe3 20. Qxe3+ Kd8 21.
+Qe6 Re8 22. Qxg6 Ne5 23. Qxh5 c4 24. dxc4 Kc8 25. Qxe8+ Kb7 26. Qe6 dxc4 27.
+Nxc4 Nxc4 28. Qxc4 1-0
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.20"]
+[Round "1"]
+[White "Skorik, Alexey"]
+[Black "Varanitsa, Yury"]
+[Result "0-1"]
+[ECO "A30"]
+[BlackElo "1973"]
+[PlyCount "92"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c5 2. d4 cxd4 3. Qxd4 Nf6 4. h3 Nc6 5. Qd1 e6 6. Bg5 Be7 7. Nc3 a6 8. a3
+Qa5 9. Bxf6 Bxf6 10. Rc1 O-O 11. Nf3 d5 12. e3 Rd8 13. Nd4 Nxd4 14. exd4 dxc4
+15. d5 Bxc3+ 16. Rxc3 Rxd5 17. Qc2 b5 18. b3 Qxa3 19. g3 Re5+ 20. Be2 Qa1+ 21.
+Qc1 Qxc1+ 22. Rxc1 Bb7 23. Rf1 cxb3 24. Rb1 Bf3 25. Rb2 a5 26. Kd1 Rd8+ 27. Ke1
+a4 28. Rd2 Rxd2 29. Kxd2 Rxe2+ 30. Kc3 Rc2+ 31. Kb4 Kf8 32. Kxb5 Be2+ 33. Kxa4
+Bxf1 34. Kxb3 Rxf2 35. Kc3 Rf3+ 36. Kb2 Rxg3 37. Kc2 Bxh3 38. Kd2 Ke7 39. Ke1
+Rg2 40. Kd1 Kd6 41. Kc1 Kd5 42. Kd1 Kd4 43. Kc1 Kd3 44. Kb1 Kc3 45. Ka1 Kb3 46.
+Kb1 Rg1# 0-1
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.20"]
+[Round "1"]
+[White "Troshohenko, Pavel"]
+[Black "Fainkihen, Efim"]
+[Result "1-0"]
+[ECO "A37"]
+[WhiteElo "2160"]
+[PlyCount "53"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. g3 g6 2. Bg2 Bg7 3. c4 c5 4. Nf3 Nc6 5. Nc3 e5 6. d3 Nge7 7. O-O O-O 8. Bg5
+h6 9. Be3 d6 10. Qc1 Kh7 11. Nd5 Nxd5 12. cxd5 Ne7 13. Nd2 Nf5 14. a4 Rb8 15.
+Nc4 b6 16. Bd2 Nd4 17. Qd1 a6 18. b4 Qc7 19. Rc1 Bd7 20. e3 Nf5 21. a5 bxa5 22.
+bxc5 dxc5 23. Bxa5 Qa7 24. d6 Rb5 25. Bc7 Rc8 26. Qa4 Be8 27. Ra1 1-0
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.21"]
+[Round "2"]
+[White "Bakharev, Andrei"]
+[Black "Vladichenko, Anatoly"]
+[Result "1-0"]
+[ECO "A42"]
+[WhiteElo "2136"]
+[PlyCount "69"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e5 5. Be3 Nd7 6. Qd2 Ngf6 7. f3 exd4 8. Bxd4
+O-O 9. Nh3 a5 10. Be2 Nc5 11. Nf2 Re8 12. O-O-O Bd7 13. g4 Ne6 14. Be3 Bc6 15.
+g5 Nd7 16. h4 Qe7 17. Rh3 f5 18. gxf6 Nxf6 19. Nd3 Qf7 20. Nf4 Nxf4 21. Bxf4
+Rab8 22. Bh6 Bh8 23. h5 Nxh5 24. Rxh5 Bxc3 25. Qxc3 Bd7 26. Rxa5 b6 27. Ra7 Be6
+28. Rxd6 Rbc8 29. Rxb6 Rcd8 30. Rxe6 Rxe6 31. c5 Qd7 32. b4 g5 33. Bxg5 Rb8 34.
+Bc4 Kf7 35. Qf6+ 1-0
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.21"]
+[Round "2"]
+[White "Bugaev, Viktor"]
+[Black "Yehorova, Elizaveta"]
+[Result "1-0"]
+[ECO "A10"]
+[PlyCount "65"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. g3 e6 3. Bg2 Bd6 4. O-O f5 5. c4 c6 6. b3 Nf6 7. Ba3 c5 8. d4 b6
+9. cxd5 Nxd5 10. dxc5 bxc5 11. Nbd2 Bb7 12. Rc1 Nd7 13. e4 N5f6 14. Nc4 Bc7 15.
+exf5 exf5 16. Nd6+ Bxd6 17. Qxd6 Ne4 18. Qe6+ Qe7 19. Qxf5 Rc8 20. Rfe1 g6 21.
+Qf4 Ndf6 22. Nd2 g5 23. Qf5 Nxd2 24. Rxe7+ Kxe7 25. Bxb7 Rcd8 26. Bxc5+ Kf7 27.
+Be3 Rhe8 28. Rc7+ Re7 29. Bxg5 Rxc7 30. Qxf6+ Ke8 31. Qxd8+ Kf7 32. Bd5+ Kg7
+33. Qf6# 1-0
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.21"]
+[Round "2"]
+[White "Chernetskiy, Mykola"]
+[Black "Vorobiov, Ivan"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2120"]
+[PlyCount "89"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. b3 b6 3. g3 Bb7 4. Bg2 g6 5. Bb2 Bg7 6. O-O O-O 7. d3 d6 8. c4
+Nbd7 9. e4 e5 10. Nc3 Nc5 11. b4 Ne6 12. h3 Nh5 13. Re1 Qd7 14. a4 a5 15. b5
+Rae8 16. Nd5 h6 17. Rc1 Kh7 18. Rc2 f6 19. Nh4 Rf7 20. Kh2 Rd8 21. Bc1 Nd4 22.
+Ra2 Bf8 23. Rf1 Ng7 24. f4 f5 25. fxe5 dxe5 26. Raf2 Bxd5 27. cxd5 Bd6 28. Nf3
+Nxf3+ 29. Rxf3 Rdf8 30. Qd2 g5 31. Qe2 g4 32. R3f2 f4 33. hxg4 Bc5 34. gxf4
+Bxf2 35. Rxf2 exf4 36. e5 Qe7 37. Qe4+ Kg8 38. e6 Qh4+ 39. Kg1 Rf6 40. Bf3 h5
+41. Rh2 Qg5 42. Rg2 Qh4 43. gxh5 Kh8 44. Bb2 Nf5 45. Qxf5 1-0
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.21"]
+[Round "2"]
+[White "Gonchar, Mariya"]
+[Black "Bortnik, Alexandr"]
+[Result "0-1"]
+[ECO "A85"]
+[WhiteElo "1921"]
+[BlackElo "2189"]
+[PlyCount "64"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 d6 4. Nf3 g6 5. Bg5 Bg7 6. e3 O-O 7. Bd3 Qe8 8. O-O
+e5 9. Bxf6 Bxf6 10. dxe5 dxe5 11. e4 c6 12. Qc2 f4 13. c5 g5 14. Rad1 g4 15.
+Nd2 Qh5 16. Be2 Kh8 17. Rfe1 Rg8 18. Nf1 Qh4 19. Bc4 Rg6 20. Qd3 f3 21. Qd6 Nd7
+22. Qe6 Nf8 23. Qe8 Be7 24. Rd8 Bd7 25. Qxg6 hxg6 26. Rxa8 Kg7 27. b4 fxg2 28.
+Kxg2 Qh3+ 29. Kg1 Qxc3 30. Rd1 Qxc4 31. Rxf8 Kxf8 32. Rxd7 Qxb4 0-1
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.21"]
+[Round "2"]
+[White "Gordiyenko, Anna"]
+[Black "Khaetsky, Roman"]
+[Result "0-1"]
+[ECO "A87"]
+[WhiteElo "2041"]
+[BlackElo "2400"]
+[PlyCount "78"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. e3 d6 7. c4 Qe8 8. Nc3 c6
+9. d5 Na6 10. Nd4 Bd7 11. e4 fxe4 12. Nxe4 Nxe4 13. Bxe4 Nc7 14. f4 c5 15. Nf3
+b5 16. cxb5 Nxb5 17. Rb1 Nd4 18. Bd2 Bg4 19. Bc3 Rb8 20. Qd3 Bxf3 21. Bxf3 Qb5
+22. Qe4 Nxf3+ 23. Rxf3 Bxc3 24. Rxc3 Qb4 25. Qe6+ Rf7 26. Qe3 Qa4 27. Ra3 Qc2
+28. Rc1 Qxb2 29. Rxa7 g5 30. Rf1 gxf4 31. Rxf4 Rxf4 32. gxf4 Qb1+ 33. Kg2 Rb2+
+34. Kg3 Qg6+ 35. Kh3 Qg2+ 36. Kh4 Qxh2+ 37. Kg4 Rg2+ 38. Kf5 Qh5+ 39. Ke6 Re2
+0-1
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.21"]
+[Round "2"]
+[White "Kitsan, Konstantin"]
+[Black "Barayev, Anton"]
+[Result "0-1"]
+[ECO "A55"]
+[BlackElo "2139"]
+[PlyCount "86"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d6 2. c4 e5 3. Nf3 Nd7 4. g3 Ngf6 5. Bg2 Be7 6. O-O O-O 7. Nc3 c6 8. e4
+a6 9. Qe2 b5 10. b3 Bb7 11. Rd1 Qc7 12. Ba3 Qa5 13. Bb2 Rfe8 14. a3 exd4 15. b4
+Qc7 16. Nxd4 Ne5 17. cxb5 axb5 18. Nf5 Bf8 19. Rac1 Nc4 20. Nd4 d5 21. Qc2 Nxb2
+22. Qxb2 dxe4 23. Ncxb5 Qb6 24. Nc3 e3 25. fxe3 Rxe3 26. Qf2 Ree8 27. Nc2 c5
+28. Bxb7 Qxb7 29. b5 c4 30. h3 Nd7 31. Rd5 Rac8 32. Kh2 Nc5 33. Nb4 Ne4 34.
+Nxe4 Bxb4 35. Rcd1 Bf8 36. Ng5 Qe7 37. a4 c3 38. b6 Qe2 39. Kg2 Qxf2+ 40. Kxf2
+c2 41. Rc1 Ba3 42. b7 Bxc1 43. Re5 Bxg5 0-1
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.21"]
+[Round "2"]
+[White "Varanitsa, Yury"]
+[Black "Vdovichenko, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "1973"]
+[BlackElo "2222"]
+[PlyCount "60"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. e3 d5 3. b3 e6 4. Bb2 Bd6 5. c4 O-O 6. Be2 c5 7. cxd5 exd5 8. O-O
+Nc6 9. a3 Qe7 10. d3 b6 11. Nbd2 Bb7 12. Re1 Rad8 13. Qc2 d4 14. Bf1 Qd7 15.
+exd4 cxd4 16. Ne4 Be7 17. b4 a6 18. Rac1 Qd5 19. Qc4 Ne8 20. Qxd5 Rxd5 21. Ned2
+Bf6 22. g3 Rd8 23. Bg2 Nd6 24. Nb3 Nb5 25. Nfd2 Nc3 26. Ne4 Nxe4 27. Bxe4 Rc8
+28. Bxc6 Rxc6 29. Rxc6 Bxc6 30. Bxd4 Rd8 1/2-1/2
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.21"]
+[Round "2"]
+[White "Zaynutdinov, Iskander"]
+[Black "Lobova, Anastasiya"]
+[Result "1-0"]
+[ECO "A10"]
+[WhiteElo "1851"]
+[PlyCount "45"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 f5 2. c4 d6 3. e3 g6 4. Nc3 Bg7 5. Be2 b6 6. O-O Bb7 7. d4 e6 8. b4 Nd7
+9. Bb2 Ngf6 10. Ng5 Qe7 11. Nb5 Nb8 12. Nxe6 Na6 13. Qa4 Kf7 14. Nxg7 Kxg7 15.
+d5 Rhe8 16. Nd4 Kg8 17. a3 Ne4 18. Qc2 Qg5 19. Bf3 Bc8 20. Rae1 Bd7 21. Ba1 Re7
+22. Qb2 Qf6 23. Nxf5 1-0
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.21"]
+[Round "2"]
+[White "Zhecheva, Oksana"]
+[Black "Ulasevich, Sergei"]
+[Result "0-1"]
+[ECO "A52"]
+[BlackElo "2089"]
+[PlyCount "66"]
+[EventDate "2008.07.20"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. e3 Ngxe5 6. b3 Qf6 7. Nd4 Nxd4 8.
+Qxd4 Bb4+ 9. Nd2 c5 10. Qe4 O-O 11. Rb1 d5 12. Qf4 Qg6 13. Qxe5 Qxb1 14. Qb2
+Qxb2 15. Bxb2 dxc4 16. Bxc4 Rd8 17. Bc1 Be6 18. Bxe6 fxe6 19. Ke2 Bxd2 20. Bxd2
+Rd5 21. e4 Rd4 22. f3 Rad8 23. Be3 R4d7 24. Bf4 Rc8 25. Rc1 b5 26. Be3 c4 27.
+bxc4 Rxc4 28. Rxc4 bxc4 29. Bd2 Rd3 30. a4 Ra3 31. a5 c3 32. Be1 c2 33. Kd2 Ra1
+0-1
+
+[Event "Ilichevsk Sunnny Pawn op"]
+[Site "Illichevsk"]
+[Date "2008.07.22"]
+[Round "3"]
+[White "Baranov, Jury"]
+[Black "Sivuk, Vitaly"]

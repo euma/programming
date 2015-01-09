@@ -1,0 +1,600 @@
+[Result "1/2-1/2"]
+[ECO "B11"]
+[WhiteElo "2345"]
+[BlackElo "2348"]
+[PlyCount "68"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. Bb5+ Nc6 7. g4 Bg6 8.
+Ne5 Rc8 9. d4 f6 10. Nxg6 hxg6 11. Qd3 Kf7 12. Nxd5 Nxd4 13. Qxd4 e6 14. Be3
+Bc5 15. Qd3 Qxd5 16. Qxd5 exd5 17. Bxc5 Rxc5 18. Ba4 Rc4 19. Bb3 Re4+ 20. Kf1
+Ne7 21. Rd1 Ke6 22. f3 Re5 23. Kf2 g5 24. c4 Ng6 25. Rxd5 Rxd5 26. cxd5+ Kd6
+27. Bc2 Nf4 28. Be4 Rxh3 29. Rxh3 Nxh3+ 30. Ke3 Nf4 31. Kd4 b5 32. a3 a6 33. b4
+Ne2+ 34. Kd3 Nf4+ 1/2-1/2
+
+[Event "Breizh Masters-B"]
+[Site "Guingamp"]
+[Date "2008.02.26"]
+[Round "5"]
+[White "Kozhuharov, Spas"]
+[Black "Aurel, Luc"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2456"]
+[BlackElo "2148"]
+[PlyCount "73"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Nc3 Bg4 5. Be3 e6 6. h3 Bh5 7. Bb5 a6 8. Bxc6+
+bxc6 9. Qe2 Be7 10. O-O-O Qb8 11. g4 Bg6 12. Bg5 h6 13. Bh4 Qb4 14. a3 Qb6 15.
+d5 cxd5 16. exd5 Rb8 17. b3 Qa5 18. Kb2 O-O 19. dxe6 d5 20. Ra1 Ne4 21. Nxe4
+Bxh4 22. Nxh4 Bxe4 23. f3 Bh7 24. Rad1 c6 25. Rhe1 Qc7 26. e7 Rfe8 27. Nf5 Rb7
+28. Qxa6 Bxf5 29. gxf5 Ra7 30. Qd3 Qd6 31. Qd4 Qf6 32. a4 Qxd4+ 33. Rxd4 f6 34.
+Re6 Rc7 35. c4 dxc4 36. Rxc4 c5 37. b4 1-0
+
+[Event "Breizh Masters-B"]
+[Site "Guingamp"]
+[Date "2008.02.26"]
+[Round "5"]
+[White "Le Goff, Damien"]
+[Black "Mullon, Jean Baptiste"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2217"]
+[BlackElo "2329"]
+[PlyCount "95"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6 8.
+Qg4 Nf6 9. Qg3 d6 10. Kh1 e5 11. Nc3 Nh5 12. Qf3 Qh4 13. Be2 Nf6 14. Nd5 Nxd5
+15. exd5 Ne7 16. c4 O-O 17. Qg3 Qxg3 18. hxg3 Nf5 19. g4 Nd4 20. Nxd4 Bxd4 21.
+a4 a5 22. Ra2 Bd7 23. b3 Bc5 24. Ba3 Ra6 25. Bxc5 dxc5 26. f3 f6 27. Bd1 g6 28.
+Re2 Raa8 29. Rfe1 Kg7 30. g3 Rae8 31. Re3 g5 32. Kg2 Rh8 33. Re4 Rhf8 34. Kf2
+Re7 35. f4 gxf4 36. gxf4 Rfe8 37. fxe5 Rxe5 38. Rxe5 fxe5 39. Ke3 Re7 40. Rg1
+Be8 41. Bc2 Rf7 42. Bf5 Kf6 43. Ke4 Bd7 44. Bxd7 Rxd7 45. Rf1+ Kg5 46. Kxe5
+Re7+ 47. Kd6 Re3 48. Kc7 1-0
+
+[Event "Breizh Masters-B"]
+[Site "Guingamp"]
+[Date "2008.02.27"]
+[Round "6"]
+[White "Aurel, Luc"]
+[Black "Guilleux, Fabien"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2148"]
+[BlackElo "2345"]
+[PlyCount "84"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 c5 2. e4 e6 3. Nc3 a6 4. d3 b5 5. g3 Bb7 6. Bg2 Nf6 7. O-O d5 8. exd5
+Nxd5 9. Ne4 Be7 10. Nfg5 Nc6 11. Qh5 g6 12. Qd1 Qd7 13. a3 h6 14. Nf3 O-O-O 15.
+b4 cxb4 16. axb4 Bxb4 17. Bb2 Rhe8 18. c4 bxc4 19. dxc4 Nb6 20. Qc1 Qd3 21. c5
+Nc4 22. Nd6+ Nxd6 23. cxd6 Rxd6 24. Ne5 Qb5 25. Nxf7 Rd7 26. Ne5 Rc7 27. Nxc6
+Bxc6 28. Bxc6 Rxc6 29. Qxh6 e5 30. Ba3 Bxa3 31. Rxa3 e4 32. Rc1 Ree6 33. Qf8+
+Kb7 34. Qf7+ Ka8 35. Rd1 Rcd6 36. Rxd6 Rxd6 37. Ra1 e3 38. Qf8+ Ka7 39. Qxd6
+exf2+ 40. Kg2 Qb7+ 41. Kh3 Qc8+ 42. Kg2 Qb7+ 1/2-1/2
+
+[Event "Breizh Masters-B"]
+[Site "Guingamp"]
+[Date "2008.02.27"]
+[Round "6"]
+[White "Mullon, Jean Baptiste"]
+[Black "Kozhuharov, Spas"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[WhiteElo "2329"]
+[BlackElo "2456"]
+[PlyCount "42"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 e6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Nf6 11. Bd2 c5 12. O-O-O Nc6 13. Be3 Qa5 14. Qb3 O-O-O
+15. Ne5 Qc7 16. Nxc6 Qxc6 17. dxc5 Bxc5 18. Bxc5 Qxc5 19. Qf3 Rxd1+ 20. Rxd1
+Rd8 21. Rxd8+ Kxd8 1/2-1/2
+
+[Event "Breizh Masters-B"]
+[Site "Guingamp"]
+[Date "2008.02.28"]
+[Round "7"]
+[White "Kozhuharov, Spas"]
+[Black "Alanic, Xavier"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2456"]
+[BlackElo "2284"]
+[PlyCount "43"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Qa4+ Bd7 6. Qb3 Qc7 7. Nc3 e6 8.
+Bc4 Na6 9. dxe6 fxe6 10. d4 Rc8 11. Bxe6 Nb4 12. Nf3 Nc2+ 13. Qxc2 Bxe6 14. O-O
+Be7 15. Re1 Qd7 16. Bg5 Kf8 17. Qe2 Bg4 18. h3 Bxf3 19. Qxf3 Kf7 20. Nd5 Rhe8
+21. Rxe7+ Rxe7 22. Nxf6 1-0
+
+[Event "Breizh Masters-B"]
+[Site "Guingamp"]
+[Date "2008.02.28"]
+[Round "7"]
+[White "Le Goff, Damien"]
+[Black "Ringoir, Tanguy"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2217"]
+[BlackElo "2229"]
+[PlyCount "81"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Nd5 Nbd7 10. Qd3 O-O 11. O-O-O Rc8 12. Nxe7+ Qxe7 13. Qxd6 Qxd6 14. Rxd6
+Nxe4 15. Rdd1 Rc7 16. Kb1 Rfc8 17. Rc1 Kf8 18. Rhd1 Ke7 19. f3 Nef6 20. c3 Nd5
+21. Bf2 Nf4 22. Bf1 a5 23. Nxa5 Ra8 24. Nb3 b6 25. c4 b5 26. Nd2 bxc4 27. Nxc4
+Nxg2 28. Bxg2 Rxc4 29. Rxc4 Bxc4 30. b3 Be6 31. Bf1 f5 32. Bb5 Nf6 33. Bc5+ Kf7
+34. Kb2 Bd5 35. Rf1 Ke6 36. a4 e4 37. fxe4 Nxe4 38. Bb6 Rb8 39. a5 Nd2 40. Re1+
+Kf7 41. Rd1 1-0
+
+[Event "Breizh Masters-B"]
+[Site "Guingamp"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Le Goff, Damien"]
+[Black "Kozhuharov, Spas"]
+[Result "1/2-1/2"]
+[ECO "B70"]
+[WhiteElo "2217"]
+[BlackElo "2456"]
+[PlyCount "48"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be2 g6 7. O-O Nxd4 8.
+Qxd4 Bg7 9. Bg5 O-O 10. Qd2 Be6 11. Bh6 Bxh6 12. Qxh6 Qa5 13. Rab1 Rac8 14. Bd3
+Bg4 15. Qd2 Rfd8 16. Qe2 Qd5 17. Bc4 Qxc4 18. Qxc4 Rxc4 19. f3 Rdc8 20. Rf2
+R8c5 21. Rd2 Kf8 22. Kf2 b5 23. Rc1 a6 24. Ke3 Nd7 1/2-1/2
+
+[Event "Breizh Masters-B"]
+[Site "Guingamp"]
+[Date "2008.03.01"]
+[Round "9"]
+[White "Guilleux, Fabien"]
+[Black "Le Goff, Damien"]
+[Result "1/2-1/2"]
+[ECO "B85"]
+[WhiteElo "2345"]
+[BlackElo "2217"]
+[PlyCount "56"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+O-O 9. Be3 Nc6 10. g4 Nxd4 11. Bxd4 e5 12. fxe5 dxe5 13. Bxe5 Bc5+ 14. Kh1 Qxd1
+15. Raxd1 Nxg4 16. Bxg4 Bxg4 17. Rd5 Be3 18. Rd3 Bh6 19. Rg1 Bh5 20. Nd5 Bg6
+21. Ne7+ Kh8 22. Nxg6+ hxg6 23. Rd7 b5 24. Bc3 Kg8 25. e5 Rfd8 26. Rgd1 Rxd7
+27. Rxd7 Re8 28. Rd6 Re6 1/2-1/2
+
+[Event "Breizh Masters-B"]
+[Site "Guingamp"]
+[Date "2008.03.01"]
+[Round "9"]
+[White "Jolly, Jean Francois"]
+[Black "Mullon, Jean Baptiste"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2290"]
+[BlackElo "2329"]
+[PlyCount "71"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. exd5 Nf6 6. Nc3 Bg7 7. Qb3 O-O 8. g3
+Nbd7 9. Bg2 Nb6 10. Nge2 Bg4 11. Nf4 Ne8 12. Be3 Nd6 13. Nd3 Nbc4 14. O-O Qc8
+15. Rac1 Nxe3 16. fxe3 Bh6 17. Nf4 Qc4 18. Ne4 Qxb3 19. axb3 Rac8 20. Rc3 g5
+21. Nf2 Bd7 22. N4d3 Bb5 23. Rfc1 Bg7 24. Bh3 Rxc3 25. bxc3 Bxd3 26. Nxd3 h5
+27. c4 g4 28. Bg2 Nf5 29. Kf2 h4 30. c5 hxg3+ 31. hxg3 e6 32. d6 b6 33. Be4
+Nxd4 34. exd4 Bxd4+ 35. Ke2 bxc5 36. Nxc5 1-0
+
+[Event "Breizh Masters-B"]
+[Site "Guingamp"]
+[Date "2008.03.01"]
+[Round "9"]
+[White "Kozhuharov, Spas"]
+[Black "Ringoir, Tanguy"]
+[Result "1-0"]
+[ECO "B36"]
+[WhiteElo "2456"]
+[BlackElo "2229"]
+[PlyCount "53"]
+[EventDate "2008.02.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. e4 Nf6 6. Nc3 d6 7. f3 Nxd4 8.
+Qxd4 Bg7 9. Be3 O-O 10. Qd2 Be6 11. Rc1 Qa5 12. Nd5 Qxa2 13. Nxe7+ Kh8 14. Be2
+Rfe8 15. Nd5 Bxd5 16. cxd5 Nxe4 17. fxe4 Rxe4 18. Bf3 Rxe3+ 19. Qxe3 Qa4 20.
+Kf1 Bxb2 21. Re1 Bd4 22. Qd3 Rc8 23. Bd1 Qa1 24. h4 h5 25. Rh3 Bf6 26. Bxh5 Qa2
+27. Bf3 1-0
+
+[Event "Kirishi North-West-ch U18"]
+[Site "Kirishi"]
+[Date "2008.02.23"]
+[Round "1"]
+[White "Ganichev, Alexander"]
+[Black "Butuc, Maria"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2100"]
+[BlackElo "2098"]
+[PlyCount "102"]
+[EventDate "2008.02.23"]
+[EventType "tourn (rapid)"]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. h3 Bf5
+8. Bd3 Bxd3 9. Qxd3 e6 10. O-O Bd6 11. Bg5 h6 12. Bd2 O-O 13. c4 c5 14. Bc3
+cxd4 15. Qxd4 Be7 16. Qe3 Qc7 17. b3 b6 18. Ne5 Bd6 19. Rad1 Rad8 20. Kh1 Nd7
+21. Nf3 e5 22. Rfe1 Rfe8 23. Qe4 Nf6 24. Qh4 Re6 25. Re2 Rde8 26. Rde1 Qb8 27.
+Nd2 Qd8 28. Qg3 Qb8 29. Ne4 Nxe4 30. Rxe4 f5 31. R4e2 Qc7 32. Qd3 e4 33. Qd5
+Qf7 34. Re3 Bf4 35. R3e2 Rd6 36. Qb5 Red8 37. Be5 Bxe5 38. Qxe5 Qe6 39. Qf4 Rd1
+40. f3 Rxe1+ 41. Rxe1 Re8 42. fxe4 fxe4 43. Re3 Kh8 44. Qc7 Re7 45. Qb8+ Kh7
+46. Qf4 Qe5 47. Qh4 Qa1+ 48. Kh2 Qe5+ 49. Kh1 Re8 50. Qg4 Qe6 51. Qf4 Qd7
+1/2-1/2
+
+[Event "Kirishi North-West-ch U18"]
+[Site "Kirishi"]
+[Date "2008.02.23"]
+[Round "1"]
+[White "Smirnov, Vladimir1"]
+[Black "Polonovsky, Evgeniy"]
+[Result "0-1"]
+[ECO "B25"]
+[BlackElo "2141"]
+[PlyCount "98"]
+[EventDate "2008.02.23"]
+[EventType "tourn (rapid)"]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. f4 Nge7 7. Nf3 d6 8. O-O
+O-O 9. h3 f5 10. Be3 b6 11. Rb1 d5 12. Ne2 dxe4 13. dxe4 Ba6 14. Qxd8 Raxd8 15.
+Rfe1 h6 16. e5 Nb4 17. Kf2 Nxc2 18. Red1 Nxe3 19. Kxe3 Nd5+ 20. Kf2 Rd7 21. Nc3
+Nxc3 22. bxc3 Rfd8 23. Ke1 Bf8 24. Rxd7 Rxd7 25. Rd1 Rxd1+ 26. Kxd1 Bc4 27. a3
+Bd5 28. Ke2 b5 29. Kf2 a5 30. Nd2 Kf7 31. Bxd5 exd5 32. Ke3 Ke6 33. Kf3 c4 34.
+Nb1 b4 35. cxb4 axb4 36. axb4 Bxb4 37. Ke3 Bc5+ 38. Kf3 d4 39. Nd2 Kd5 40. Ke2
+d3+ 41. Kd1 c3 42. Nb3 Be3 43. Na1 c2+ 44. Nxc2 dxc2+ 45. Kxc2 Bf2 46. g4 Bg3
+47. gxf5 gxf5 48. Kd3 Bxf4 49. h4 Kxe5 0-1
+
+[Event "Kirishi North-West-ch U18"]
+[Site "Kirishi"]
+[Date "2008.02.23"]
+[Round "2"]
+[White "Alekseenko, Kirill"]
+[Black "Polonovsky, Evgeniy"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2067"]
+[BlackElo "2141"]
+[PlyCount "65"]
+[EventDate "2008.02.23"]
+[EventType "tourn (rapid)"]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qxf6 Nxf6 9. f3 O-O 10. Bg5 d6 11. Bxf6 gxf6 12. Nc3 Be6 13. O-O-O Rfd8 14. Nd5
+Kg7 15. c3 b5 16. g3 Rac8 17. a3 f5 18. h4 Bxd5 19. Rxd5 Nd4 20. Bh3 Kf6 21. g4
+Rc7 22. g5+ Ke6 23. Kd1 Rdc8 24. Rxd4 exd4 25. Bxf5+ Ke5 26. cxd4+ Kxd4 27.
+Bxc8 Rxc8 28. Kd2 Rf8 29. h5 Rg8 30. Rg1 a5 31. Ke2 Rc8 32. Rd1+ Kc5 33. Rc1+
+1-0
+
+[Event "Kirishi North-West-ch U18"]
+[Site "Kirishi"]
+[Date "2008.02.23"]
+[Round "3"]
+[White "Ganichev, Alexander"]
+[Black "Alekseenko, Kirill"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2100"]
+[BlackElo "2067"]
+[PlyCount "127"]
+[EventDate "2008.02.23"]
+[EventType "tourn (rapid)"]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 Nf6 4. e5 Nd7 5. f4 Nb6 6. Nf3 h5 7. Bd3 Bg4 8. Be3
+e6 9. h3 Bf5 10. O-O Na5 11. Ne2 Nac4 12. Bc1 c5 13. b3 Bxd3 14. Qxd3 Na5 15.
+Qb5+ Nd7 16. Bd2 b6 17. dxc5 Bxc5+ 18. Kh1 a6 19. Qd3 Nc6 20. c4 dxc4 21. Qxc4
+b5 22. Qe4 Ne7 23. Be3 Bxe3 24. Qxe3 Nd5 25. Qd2 O-O 26. f5 Nc5 27. fxe6 Nxe6
+28. Rad1 Nb6 29. Qe3 Qc7 30. Rd6 Nc8 31. Rc1 Qa7 32. Qxa7 Rxa7 33. Rd2 Ne7 34.
+Ned4 Nf4 35. Nc6 Rc7 36. Nxe7+ Rxe7 37. Rd6 Ra8 38. Rcc6 a5 39. Ra6 Rc8 40.
+Rxa5 Rc1+ 41. Kh2 g6 42. Rxb5 Rc2 43. Rd2 Rec7 44. Rb8+ Kg7 45. Rbd8 Rc1 46.
+R8d7 Rxd7 47. Rxd7 Rc2 48. Rd2 Rc5 49. a4 Rc3 50. b4 Nd3 51. b5 Nc5 52. a5 Rb3
+53. Nd4 Ra3 54. a6 Nxa6 55. bxa6 Rxa6 56. Nf3 f6 57. Rd7+ Kh6 58. exf6 Rxf6 59.
+Kg3 Ra6 60. h4 Ra3 61. Kh2 Ra4 62. g3 Ra2+ 63. Kh3 Rh2+ 64. Kxh2 1-0
+
+[Event "Kirishi North-West-ch U18"]
+[Site "Kirishi"]
+[Date "2008.02.23"]
+[Round "3"]
+[White "Smirnov, Vladimir1"]
+[Black "Pischikov, Vadim"]
+[Result "1-0"]
+[ECO "B07"]
+[PlyCount "179"]
+[EventDate "2008.02.23"]
+[EventType "tourn (rapid)"]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. f3 c6 6. Qd2 Nbd7 7. h4 h5 8. Nh3 b5
+9. Nf2 Nb6 10. Bd3 a6 11. a3 Qc7 12. Bg5 e5 13. O-O-O exd4 14. Ne2 c5 15. Rde1
+c4 16. Bxc4 Qxc4 17. Qxd4 Qxd4 18. Nxd4 O-O 19. Nd3 Bb7 20. Be3 Nc4 21. Bf2
+Rac8 22. Ne2 Ne5 23. Nef4 Bh6 24. Be3 Nxd3+ 25. Nxd3 Bxe3+ 26. Rxe3 Rc7 27. Kb1
+Rfc8 28. Rc1 Nd7 29. g4 hxg4 30. fxg4 Rc4 31. Nf2 Nf6 32. b3 Rc3 33. Re2 Rg3
+34. g5 Nh5 35. Rd2 Re3 36. Rxd6 Ng3 37. Ng4 Nxe4 38. Rb6 Nd2+ 39. Kb2 Bf3 40.
+Nxe3 Re8 41. Nf1 Nxf1 42. Rxf1 Bg2 43. Rf2 Bd5 44. Rxa6 Re4 45. Rh2 Re5 46. Rb6
+Be6 47. Rb8+ Kg7 48. Rb6 Kg8 49. Ra6 Re4 50. h5 gxh5 51. Rxh5 Rg4 52. Rb6 Bd7
+53. Rbh6 Bf5 54. Rh8+ Kg7 55. Rb8 Bd7 56. Rb7 Bc6 57. Rc7 Be4 58. Rc5 Rg2 59.
+Rh4 Bg6 60. Rh1 Bd3 61. Rc1 Kg6 62. Kb1 Be2 63. Re1 Bg4 64. Rxb5 Bd7 65. Rc5
+Rg4 66. Kb2 Rd4 67. a4 Rb4 68. Rc4 Rb6 69. Re5 Be6 70. Rc3 Bd7 71. a5 Ra6 72.
+Rc7 Be6 73. Rec5 Ra8 74. R7c6 Kg7 75. Rb6 Bc8 76. Rcc6 Bd7 77. Rd6 Bf5 78. a6
+Kf8 79. Rf6 Bg6 80. Rb7 Rc8 81. a7 Rxc2+ 82. Ka3 Rc1 83. a8=Q+ Kg7 84. Rxg6+
+Kxg6 85. Rb6+ Kg7 86. Qe4 Ra1+ 87. Kb4 Ra7 88. Qe5+ Kh7 89. Rh6+ Kg8 90. Qh8#
+1-0
+
+[Event "Kirishi North-West-ch U18"]
+[Site "Kirishi"]
+[Date "2008.02.23"]
+[Round "4"]
+[White "Alekseenko, Kirill"]
+[Black "Butuc, Maria"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2067"]
+[BlackElo "2098"]
+[PlyCount "110"]
+[EventDate "2008.02.23"]
+[EventType "tourn (rapid)"]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. d4 exd4 6. exd5 cxd5 7. Nxd4 Nc6 8.
+Bb5 Nge7 9. O-O O-O 10. N2f3 Qc7 11. h3 Bd7 12. Bd3 Bf4 13. Re1 Ng6 14. Nb5 Qb8
+15. Bxg6 hxg6 16. Bxf4 Qxf4 17. Qxd5 Rad8 18. Qe4 Qf6 19. c3 Rfe8 20. Qh4 Qxh4
+21. Nxh4 Re5 22. Rxe5 Nxe5 23. Nd4 g5 24. Nhf3 Nxf3+ 25. Nxf3 f6 26. Nd4 Kf7
+27. Rd1 Bf5 28. Rd2 Bg6 29. Nb3 Rxd2 30. Nxd2 Bd3 31. f3 Ke6 32. Kf2 Kd5 33.
+Ke3 Bg6 34. b3 b5 35. g3 Bf5 36. h4 gxh4 37. gxh4 Bg6 38. Kf4 a5 39. c4+ bxc4
+40. Nxc4 Bb1 41. a3 Ba2 42. Nxa5 Bb1 43. Nc4 Kd4 44. Nd2 Bc2 45. a4 Kc5 46. Ke3
+Bf5 47. a5 Kb5 48. Nc4 Be6 49. Kd4 g5 50. hxg5 fxg5 51. Ke5 Bd7 52. Kd6 Bf5 53.
+Kc7 Be6 54. Kb7 Bd5+ 55. Ka7 Bxc4 1/2-1/2
+
+[Event "Kirishi North-West-ch U18"]
+[Site "Kirishi"]
+[Date "2008.02.23"]
+[Round "4"]
+[White "Ganichev, Alexander"]
+[Black "Smirnov, Vladimir1"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2100"]
+[PlyCount "129"]
+[EventDate "2008.02.23"]
+[EventType "tourn (rapid)"]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 a6 7. O-O O-O 8. e5
+Bxc3 9. bxc3 Nd5 10. Ba3 Re8 11. c4 Nf4 12. Bd6 Nc6 13. Be4 Nxd4 14. g3 Qg5 15.
+Kh1 Nfe2 16. c3 Nxc3 17. Qxd4 Nxe4 18. Qxe4 Qg6 19. Qg2 f6 20. f4 Ra7 21. Bc5
+b6 22. Bxb6 Bb7 23. Rf3 Bxf3 24. Qxf3 Raa8 25. Bc7 Rac8 26. Qb7 fxe5 27. fxe5
+Qd3 28. c5 Rf8 29. Bd6 Rf1+ 30. Kg2 Qe2+ 31. Kh3 Re8 32. Rxf1 Qxf1+ 33. Kh4 Qb5
+34. Qb6 Qc4+ 35. Kh3 Qf1+ 36. Kh4 Qc4+ 37. Kh3 h6 38. Qb7 Qb5 39. Qb6 Qc4 40.
+Qb7 Qb5 41. Qb6 Qf1+ 42. Kh4 Kh7 43. g4 g5+ 44. Kg3 Qe1+ 45. Kg2 Qe2+ 46. Kg3
+Qe3+ 47. Kg2 Qe4+ 48. Kg3 Qf4+ 49. Kg2 Qxg4+ 50. Kh1 Qf3+ 51. Kg1 Qe3+ 52. Kg2
+Qe2+ 53. Kg1 Qxa2 54. Qb4 Qd5 55. Qb1+ Kg7 56. Qf1 Qd4+ 57. Kg2 Qg4+ 58. Kh1
+Qe4+ 59. Kg1 Qe3+ 60. Kh1 Qf4 61. Qd1 a5 62. Qa1 a4 63. Qa3 Qf5 64. Qc1 Ra8 65.
+Qd1 0-1
+
+[Event "Kirishi North-West-ch U18"]
+[Site "Kirishi"]
+[Date "2008.02.23"]
+[Round "5"]
+[White "Butuc, Maria"]
+[Black "Pischikov, Vadim"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2098"]
+[PlyCount "69"]
+[EventDate "2008.02.23"]
+[EventType "tourn (rapid)"]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 c6 7. a4 Nbd7 8. O-O
+e5 9. h3 Qe7 10. Re1 Ne8 11. f4 f5 12. dxe5 dxe5 13. exf5 Rxf5 14. Kh2 Qb4 15.
+Qd3 Nc5 16. Qd8 Rf8 17. fxe5 Bxe5 18. Bf4 Nd6 19. Qe7 Re8 20. Qg5 Nf7 21. Qh4
+Bf5 22. Bxe5 Qxh4 23. gxh4 Rxe5 24. Nd4 Rae8 25. Rxe5 Rxe5 26. Nxf5 Rxf5 27.
+Rf1 Re5 28. Rf2 Nd6 29. Bf3 Rf5 30. Kg3 Rf6 31. Bd5+ cxd5 32. Rxf6 Nde4+ 33.
+Nxe4 Nxe4+ 34. Kf4 Nxf6 35. Ke5 0-1
+
+[Event "Kirishi North-West-ch U18"]
+[Site "Kirishi"]
+[Date "2008.02.23"]
+[Round "5"]
+[White "Smirnov, Vladimir1"]
+[Black "Alekseenko, Kirill"]
+[Result "0-1"]
+[ECO "B01"]
+[BlackElo "2067"]
+[PlyCount "120"]
+[EventDate "2008.02.23"]
+[EventType "tourn (rapid)"]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. d3 Bg4 6. Be2 O-O-O 7. Bd2 Bxf3
+8. Bxf3 Qe5+ 9. Qe2 Qxe2+ 10. Bxe2 Nd4 11. O-O-O Nxe2+ 12. Nxe2 e5 13. Bc3 f6
+14. Ng3 Ne7 15. d4 exd4 16. Rxd4 Rxd4 17. Bxd4 Nc6 18. Be3 g6 19. Re1 f5 20.
+Bg5 Bc5 21. Be3 Bd6 22. Nf1 f4 23. Bd2 Rf8 24. f3 Kd7 25. Bc3 Bc5 26. Rd1+ Ke6
+27. Re1+ Kf5 28. g3 h5 29. a3 a5 30. Bd2 g5 31. gxf4 gxf4 32. Re4 Bd6 33. Bc3
+Rg8 34. Kd1 Rg1 35. Ke1 Be7 36. Bd2 Bh4+ 37. Ke2 Rg2+ 38. Kd1 Bg5 39. h4 Bh6
+40. c3 Ne5 41. Re2 Rg1 42. Ke1 Nd3+ 43. Kd1 Rxf1+ 44. Kc2 Rxf3 45. Re7 Nc5 46.
+Rxc7 Ne4 47. Rf7+ Ke6 48. Rxb7 Rf2 49. Rb6+ Kf5 50. Rxh6 Rxd2+ 51. Kb3 f3 52.
+Rxh5+ Kg6 53. Rxa5 f2 54. Ra6+ Kf5 55. Ra8 f1=Q 56. Rf8+ Nf6 57. a4 Qb1 58. h5
+Rxb2+ 59. Kc4 Qe4+ 60. Kc5 Qd5# 0-1
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.23"]
+[Round "1"]
+[White "Dolezal, Cristian"]
+[Black "Pedraza Fernandez, Miguel Angel"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2425"]
+[BlackElo "1933"]
+[PlyCount "65"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. g3 d5 5. Bg2 dxe4 6. Nxe4 Be7 7. O-O Nf6 8.
+Qe2 O-O 9. d3 Nd4 10. Nxd4 cxd4 11. c4 dxc3 12. bxc3 Nxe4 13. Bxe4 Rb8 14. Be3
+b6 15. a4 Bb7 16. a5 Bxe4 17. dxe4 bxa5 18. Bxa7 Rc8 19. Bd4 Bc5 20. Rfd1 Bxd4
+21. cxd4 Qc7 22. d5 Rfd8 23. dxe6 Rxd1+ 24. Rxd1 fxe6 25. Qb5 Rd8 26. Ra1 Ra8
+27. Kg2 h6 28. Ra2 Kf7 29. Ra4 Ke7 30. Rc4 Qd7 31. Qe5 Rc8 32. Qxg7+ Ke8 33.
+Qg8+ 1-0
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.23"]
+[Round "1"]
+[White "Dominguez Garcia, Juan Antonio"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1986"]
+[BlackElo "2488"]
+[PlyCount "60"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Bc4 a6 5. O-O e6 6. c3 Ne7 7. Re1 Nd7 8. Nbd2
+O-O 9. Nf1 b5 10. Bb3 c5 11. Be3 Bb7 12. Bc2 Rc8 13. Rc1 e5 14. Qd2 cxd4 15.
+cxd4 exd4 16. Nxd4 Ne5 17. b3 d5 18. Ng3 dxe4 19. Bxe4 Bxe4 20. Nxe4 Rxc1 21.
+Rxc1 Ng4 22. Nf3 Nxe3 23. Qxe3 Nf5 24. Qa7 Qd5 25. Nc5 Nd4 26. Nxd4 Bxd4 27.
+Qb7 Bxf2+ 28. Kf1 Qd2 29. Ne4 Qxc1+ 30. Kxf2 Qf4+ 0-1
+
+[Event "Malaga op 11th"]
+[Site "Malaga"]
+[Date "2008.02.23"]
+[Round "1"]
+[White "Fernandez Romero, Ernesto"]
+[Black "Rodriguez Perez, Angel Mariano"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2462"]
+[BlackElo "1966"]
+[PlyCount "73"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Bc4 Nf6 5. Qe2 O-O 6. O-O c6 7. e5 Ng4 8. Bf4
+dxe5 9. dxe5 Nh6 10. Nc3 e6 11. Ne4 Nf5 12. Rad1 Nd7 13. g4 Ne7 14. Bg5 h6 15.
+Nf6+ Bxf6 16. Bxf6 Qe8 17. Qe3 g5 18. Nxg5 Nxf6 19. exf6 Nd5 20. Bxd5 exd5 21.
+Qf4 Qe2 22. Nf3 Qe4 23. Rd4 Qxf4 24. Rxf4 Kh7 25. Re1 Be6 26. h4 Rg8 27. g5
+Rae8 28. Kh2 Bd7 29. Re7 Rxe7 30. fxe7 Be6 31. Nd4 Re8 32. Nxe6 fxe6 33. Rf7+
+Kg8 34. g6 e5 35. Kg3 h5 36. f4 e4 37. f5 1-0
+
+[Event "Malaga op 11th"]

@@ -1,0 +1,600 @@
+[Site "Zupanja"]
+[Date "2008.01.09"]
+[Round "9"]
+[White "Martic, Zlatko"]
+[Black "Konjicanin, Muris"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[WhiteElo "2290"]
+[BlackElo "2241"]
+[PlyCount "13"]
+[EventDate "2008.01.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nf3 Nf6 5. Nc3 Nc6 6. Bf4 a6 7. e3 1/2-1/2
+
+[Event "Baden-ch U10"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.04"]
+[Round "1"]
+[White "Schweer, Hendrik"]
+[Black "Hartmann, Martin"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "808"]
+[PlyCount "73"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 Ne4 8. Bb4
+Na6 9. Qb3 Nxb4 10. Qxb4 Kd7 11. Bd3 a5 12. Qa4 Nf6 13. Ne5+ Kd6 14. Nxf7+ Ke7
+15. Nxd8 Kxd8 16. O-O Kc7 17. Rac1 Re8 18. cxd5 exd5 19. Bb5 Bd7 20. Rc2 Re7
+21. Rfc1 Re6 22. h3 g5 23. Bd3 h5 24. Bf5 Rd6 25. Bxd7 Nxd7 26. b4 b5 27. Qa3
+Re6 28. bxa5 Ra6 29. e4 Rxe4 30. Qg3+ Kb7 31. Qxg5 Re6 32. Qxh5 Rxa5 33. Qf7
+Rd6 34. Rxc6 Rxc6 35. Qxd7+ Kb8 36. Rxc6 Ra6 37. Rc8# 1-0
+
+[Event "Baden-ch U10"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.04"]
+[Round "2"]
+[White "Fesenmeier, Lukas"]
+[Black "Haerter, Silas"]
+[Result "1-0"]
+[ECO "D25"]
+[WhiteElo "953"]
+[BlackElo "786"]
+[PlyCount "55"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 Bg4 5. Nf3 e6 6. O-O Nd5 7. h3 Bxf3 8.
+Qxf3 Nb4 9. Nc3 Nc2 10. Rb1 Nxd4 11. Qxb7 Nd7 12. exd4 e5 13. Re1 Bd6 14. Qf3
+O-O 15. Qg4 exd4 16. Bh6 Qf6 17. Nd5 Qxh6 18. Qxd7 Rfd8 19. Ne7+ Kh8 20. Qf5
+Re8 21. Qxf7 Bxe7 22. Rxe7 Qg6 23. Qe6 Qxb1+ 24. Kh2 Rxe7 25. Qxe7 d3 26. Qe4
+Qxb2 27. Qxa8+ Qb8 28. Qxb8# 1-0
+
+[Event "Baden-ch U10"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.04"]
+[Round "2"]
+[White "Hartmann, Martin"]
+[Black "De Silva, Joel"]
+[Result "1-0"]
+[ECO "D00"]
+[PlyCount "47"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nc6 3. Nc3 Nf6 4. e3 Bg4 5. Bb5 Bxf3 6. Qxf3 e6 7. Bxc6+ bxc6
+8. O-O Bb4 9. e4 Bxc3 10. Qxc3 Nxe4 11. Qe3 Qh4 12. Qf4 Qxf4 13. Bxf4 g5 14.
+Bxc7 c5 15. dxc5 Nxc5 16. Be5 Rc8 17. Bxh8 Ke7 18. Bd4 Nd7 19. c3 a6 20. b4 e5
+21. Rfe1 Kd6 22. Be3 Rxc3 23. Rac1 Rxc1 24. Rxc1 1-0
+
+[Event "Baden-ch U10"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.05"]
+[Round "5"]
+[White "Fesenmeier, Lukas"]
+[Black "Von Ehr, Lukas"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "953"]
+[BlackElo "1025"]
+[PlyCount "96"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 Bg4 5. Bg5 e6 6. e3 h6 7. Bh4 Bb4 8. Be2
+Nbd7 9. O-O Nb6 10. c5 Nbd7 11. h3 Bf5 12. Re1 Qc7 13. a3 Bxc3 14. bxc3 O-O 15.
+Bg3 Qd8 16. Qb3 b5 17. Bh4 Re8 18. Bxf6 Qxf6 19. Red1 Qg6 20. Nh4 Qh7 21. Bh5
+Bc2 22. Qb2 Bxd1 23. Rxd1 Nf6 24. Be2 a5 25. Bd3 g6 26. Qe2 Ne4 27. Qg4 h5 28.
+Qf4 Rf8 29. f3 Nxc3 30. Rf1 Qg7 31. Rc1 b4 32. axb4 axb4 33. e4 dxe4 34. fxe4
+Ra2 35. e5 g5 36. Qf3 gxh4 37. Qxc6 Nd5 38. Be4 Kh8 39. Bxd5 exd5 40. Qxd5 Rd2
+41. c6 Rc8 42. c7 b3 43. Qd8+ Qg8 44. Qxg8+ Kxg8 45. Rb1 b2 46. Kf1 Rxc7 47.
+Ke1 Rxg2 48. Rxb2 Rc1# 0-1
+
+[Event "Baden-ch U10"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.05"]
+[Round "5"]
+[White "Schweer, Hendrik"]
+[Black "Gschnitzer, Adrian"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "808"]
+[BlackElo "872"]
+[PlyCount "91"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. Bf4 Bb4 6. Qc2 O-O 7. e3 Na6 8. Bd3
+c5 9. cxd5 exd5 10. O-O c4 11. Be2 Nh5 12. Bg5 Qd6 13. Bh4 Qg6 14. Qxg6 fxg6
+15. Nxd5 Be6 16. Bxc4 Nc7 17. Ne7+ Bxe7 18. Bxe7 Bxc4 19. Bxf8 Bxf1 20. Bd6 Nb5
+21. Kxf1 Nxd6 22. Ne5 Nf7 23. Nd7 Nf6 24. Nc5 b6 25. Ne6 Re8 26. Nc7 Rc8 27.
+Nb5 a6 28. Na7 Rc7 29. Ke2 Rxa7 30. Re1 Nd6 31. f3 Nfe8 32. e4 Rc7 33. Rd1 Rc2+
+34. Kd3 Rxb2 35. a4 b5 36. a5 Ra2 37. e5 Nf7 38. Ke3 b4 39. Rb1 Rxa5 40. Rxb4
+Nc7 41. Rb8+ Nd8 42. Rxd8+ Kf7 43. Rd7+ Ke6 44. Rxc7 Ra1 45. Ke4 a5 46. d5# 1-0
+
+[Event "Baden-ch U10"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.05"]
+[Round "6"]
+[White "Gschnitzer, Adrian"]
+[Black "Bohlsen, Linus"]
+[Result "1-0"]
+[ECO "D53"]
+[WhiteElo "872"]
+[PlyCount "105"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c6 5. Nf3 Be7 6. Bxf6 Bxf6 7. e4 O-O 8. e5
+Be7 9. Bd3 Bb4 10. O-O Bxc3 11. bxc3 b6 12. Nd2 Ba6 13. Qh5 h6 14. f4 b5 15. c5
+b4 16. Bc2 bxc3 17. Rfd1 cxd2 18. Rxd2 Bc4 19. f5 exf5 20. Qxf5 g6 21. Qg4 Qd7
+22. Qg3 Na6 23. Re1 Bxa2 24. e6 fxe6 25. Qxg6+ Qg7 26. Rxe6 Bc4 27. Qxg7+ Kxg7
+28. Rg6+ Kf7 29. Rf2+ Ke8 30. Re6+ Kd7 31. Rd6+ Kc7 32. Bf5 Rfe8 33. Rd7+ Kb8
+34. Rb2+ Bb5 35. Rh7 Nc7 36. Rxh6 Kb7 37. Bd7 Rf8 38. h3 Ne6 39. Bxe6 a5 40.
+Bxd5 Kc7 41. Rh7+ Kd8 42. Rh6 Rc8 43. Be6 Rc7 44. d5 Ba6 45. d6 Rb7 46. Rb6
+Rxb6 47. cxb6 c5 48. Rh7 c4 49. Bxc4 Bxc4 50. b7 Be6 51. b8=Q+ Bc8 52. Qc7+ Ke8
+53. Qe7# 1-0
+
+[Event "Baden-ch U10"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.05"]
+[Round "6"]
+[White "Hartmann, Martin"]
+[Black "Reiss, Michael"]
+[Result "0-1"]
+[ECO "D00"]
+[BlackElo "1339"]
+[PlyCount "118"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Nc3 Nc6 4. e3 Bg4 5. Bb5 e6 6. Bxc6+ bxc6 7. O-O Bd6 8.
+Bd2 O-O 9. Qe2 Qd7 10. h3 Bh5 11. Ne5 Bxe5 12. Qe1 Bd6 13. Ne2 Ne4 14. f3 Nxd2
+15. Qxd2 Rab8 16. c3 Rb7 17. Nf4 Bxf4 18. exf4 h6 19. g4 Bg6 20. h4 Rfb8 21. b4
+Bh7 22. a4 Rf8 23. Rf2 Qe7 24. Rh2 f5 25. gxf5 Bxf5 26. a5 a6 27. Qe2 Ra7 28.
+Rd1 Bh7 29. c4 Rxf4 30. cxd5 cxd5 31. Qe3 Rf6 32. Rb2 Rg6+ 33. Rg2 Rxg2+ 34.
+Kxg2 Bf5 35. Qc3 Rb7 36. Qc5 Qxc5 37. bxc5 Rb5 38. Ra1 Rb2+ 39. Kg1 Rb1+ 40.
+Rxb1 Bxb1 41. Kf2 Kf7 42. Ke3 Kf6 43. Kf4 g5+ 44. hxg5+ hxg5+ 45. Ke3 e5 46. c6
+Ba2 47. Kd3 Bc4+ 48. Ke3 Kf5 49. Kd2 exd4 50. Kc2 d3+ 51. Kd2 Kf4 52. Kd1 Kxf3
+53. Kd2 Kf2 54. Kd1 g4 55. Kd2 g3 56. Kd1 g2 57. Kd2 Bb5 58. Kd1 g1=Q+ 59. Kd2
+Qe1# 0-1
+
+[Event "Baden-ch U10"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.06"]
+[Round "7"]
+[White "Fesenmeier, Lukas"]
+[Black "Riewe, Jana"]
+[Result "1-0"]
+[ECO "D25"]
+[WhiteElo "953"]
+[PlyCount "69"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 Bg4 5. Nf3 e6 6. O-O Bd6 7. h3 Bh5 8. e4
+Nxe4 9. Re1 Nf6 10. Bg5 O-O 11. Nc3 Nc6 12. Ne4 Be7 13. Nc3 h6 14. Bh4 Re8 15.
+Bb3 Bb4 16. Qd3 g6 17. d5 Rb8 18. Nd4 Na5 19. Nc2 Be7 20. Ba4 c6 21. Qe3 Kg7
+22. Bg3 exd5 23. Bxb8 Qxb8 24. Nd4 Qd6 25. Bd1 Bd8 26. Qd2 Bc7 27. f4 g5 28.
+Nf5+ Kg8 29. Nxd6 Bxd6 30. Rxe8+ Nxe8 31. Bxh5 Nf6 32. fxg5 Nxh5 33. gxh6 Ng3
+34. Qg5+ Kf8 35. Qd8# 1-0
+
+[Event "Baden-ch U12"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.04"]
+[Round "1"]
+[White "Bauer, Andreas2"]
+[Black "Schweer, Victoria"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1952"]
+[BlackElo "1020"]
+[PlyCount "63"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. Bf4 d5 3. e3 Ne7 4. Nd2 Nbc6 5. Ngf3 Nf5 6. c3 Bd6 7. Ne5 g5 8.
+Nxc6 bxc6 9. Be5 f6 10. Qh5+ Ke7 11. Bg3 Nxg3 12. hxg3 Qg8 13. Bd3 f5 14. Nf3
+g4 15. Ne5 Bd7 16. Qh4+ Ke8 17. Qh6 Ke7 18. Kd2 Rb8 19. Rab1 c5 20. Rh5 c4 21.
+Bc2 Bxe5 22. dxe5 Qf7 23. Qg5+ Ke8 24. Rh6 Bb5 25. Rf6 Qe7 26. Qh5+ Kd8 27. Rf7
+Be8 28. Rxe7 Bxh5 29. Rxe6 Bg6 30. f4 Rf8 31. Ba4 Rf7 32. Re8# 1-0
+
+[Event "Baden-ch U12"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.04"]
+[Round "2"]
+[White "Gubela, Hans Erich Constant"]
+[Black "Hagg, Fabian"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "1603"]
+[BlackElo "1078"]
+[PlyCount "69"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4 5. e3 Bd7 6. Bd2 c6 7. Qc2 a6 8. Be2
+O-O 9. O-O b5 10. cxb5 cxb5 11. a3 Bd6 12. Rac1 Nc6 13. Bd3 e5 14. dxe5 Nxe5
+15. Nxe5 Bxe5 16. e4 d4 17. Ne2 Ng4 18. h3 Qh4 19. hxg4 Bxg4 20. Bf4 Bxf4 21.
+Nxf4 Qg5 22. Ne2 h5 23. Rcd1 h4 24. Qd2 Qg6 25. Nf4 Qg5 26. Nd5 Qh5 27. f3 h3
+28. fxg4 h2+ 29. Kh1 Qh4 30. Qf4 g5 31. Qxh2 Qxg4 32. Nf6+ Kg7 33. Nxg4 Rfd8
+34. Qh6+ Kg8 35. Nf6# 1-0
+
+[Event "Baden-ch U12"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.04"]
+[Round "2"]
+[White "Herbst, Timothy"]
+[Black "Meister, Philipp"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "1103"]
+[PlyCount "105"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e6 2. d4 d5 3. c5 b6 4. cxb6 cxb6 5. Nf3 Bb7 6. Bf4 Nc6 7. e3 Bd6 8. Nc3
+Bxf4 9. exf4 Nf6 10. Bb5 Qb8 11. Qd2 O-O 12. O-O Nb4 13. a3 Nc6 14. Ne5 Nxe5
+15. fxe5 Ng4 16. h3 Nh6 17. Ba4 Ba6 18. Rfe1 Rc8 19. Rac1 Nf5 20. Nb5 Bxb5 21.
+Bxb5 Rxc1 22. Rxc1 Qd8 23. Qc2 h6 24. Qd2 a6 25. Bc6 Rc8 26. g4 Nh4 27. Qe3 f6
+28. Kh1 fxe5 29. Qxe5 Nf3 30. Qxe6+ Kh8 31. Qe3 Nh4 32. Qe2 h5 33. Rc3 hxg4 34.
+hxg4 Rc7 35. Re3 Rxc6 36. Re8+ Qxe8 37. Qxe8+ Kh7 38. Qxc6 b5 39. Qc3 g5 40. f4
+gxf4 41. Qh3 Kg7 42. Qxh4 f3 43. Qg5+ Kf7 44. Qf5+ Ke7 45. Qxf3 b4 46. g5 bxa3
+47. bxa3 Kd6 48. g6 Kc6 49. g7 Kb5 50. g8=R Ka4 51. Rb8 a5 52. Qd1+ Kxa3 53.
+Qa1# 1-0
+
+[Event "Baden-ch U12"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.04"]
+[Round "3"]
+[White "Bauer, Andreas2"]
+[Black "Gubela, Hans Erich Constant"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1952"]
+[BlackElo "1603"]
+[PlyCount "51"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 e6 4. Nd2 Nbd7 5. Ngf3 Be7 6. Bd3 O-O 7. Ne5 c6 8. c3
+Re8 9. g4 Nf8 10. Qf3 N6d7 11. Nxf7 Qb6 12. Rb1 Nf6 13. Ne5 Qd8 14. Rg1 N6d7
+15. Qg3 g5 16. Ndf3 gxf4 17. Qxf4 Nxe5 18. Nxe5 Bf6 19. Nf3 Ng6 20. Bxg6 hxg6
+21. Qh6 Kf7 22. Qh7+ Bg7 23. Ne5+ Kf8 24. Nxg6+ Kf7 25. Rg3 Qf6 26. Rf3 1-0
+
+[Event "Baden-ch U12"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.04"]
+[Round "3"]
+[White "Warsinsky, Simon"]
+[Black "Ullrich, Elisabeth"]
+[Result "1-0"]
+[ECO "D06"]
+[WhiteElo "889"]
+[PlyCount "73"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 Be6 4. Bg5 Nc6 5. e3 Bf5 6. Nf3 e6 7. Ne5 Bb4 8. a3
+Bxc3+ 9. bxc3 O-O 10. Qa4 Qd6 11. c5 Qe7 12. Nxc6 bxc6 13. Qxc6 Rac8 14. Ba6
+Rb8 15. O-O h6 16. Bxf6 Qxf6 17. Qxc7 Rb2 18. c4 Qg6 19. g3 Rb1 20. Raxb1 Bxb1
+21. cxd5 exd5 22. Qxa7 Be4 23. Qb7 Qf5 24. Be2 Qh3 25. f3 Bg6 26. Qxd5 Re8 27.
+e4 Rb8 28. a4 Rb2 29. Rf2 Rb1+ 30. Bf1 Rxf1+ 31. Rxf1 h5 32. Qd8+ Kh7 33. c6 h4
+34. gxh4 Qxh4 35. Qxh4+ Kg8 36. c7 Kf8 37. c8=Q# 1-0
+
+[Event "Baden-ch U12"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.05"]
+[Round "5"]
+[White "Bauer, Andreas2"]
+[Black "Noe, Christopher"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1952"]
+[BlackElo "1699"]
+[PlyCount "53"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Bd6 4. Bg3 Nf6 5. Nd2 b6 6. c3 Ba6 7. Bxa6 Nxa6 8.
+Qa4+ c6 9. Qxa6 Bxg3 10. hxg3 Qc7 11. Qe2 c5 12. f4 Rc8 13. Ngf3 h6 14. Ne5 Nd7
+15. Nxd7 Qxd7 16. Qg4 Rh7 17. a4 a5 18. Nf3 Qb7 19. Ne5 b5 20. axb5 Qxb5 21.
+Qe2 c4 22. Qc2 Ke7 23. Qxh7 Qxb2 24. O-O Qxc3 25. Rfe1 Rf8 26. Qxg7 Qc2 27.
+Rxa5 1-0
+
+[Event "Baden-ch U12"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.05"]
+[Round "5"]
+[White "Warsinsky, Simon"]
+[Black "Gubela, Hans Erich Constant"]
+[Result "0-1"]
+[ECO "D53"]
+[WhiteElo "889"]
+[BlackElo "1603"]
+[PlyCount "100"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 c6 7. c5 Qc7 8. Bd3
+O-O 9. O-O e5 10. dxe5 Nxe5 11. Nxe5 Qxe5 12. Bxf6 Qxf6 13. e4 Be6 14. exd5
+Bxd5 15. Be4 Bc4 16. Re1 Bxc5 17. Qc2 Kh8 18. b3 Be6 19. Rad1 Rad8 20. Bf3 Bf5
+21. Ne4 Bb4 22. Re3 Qg6 23. Rxd8 Rxd8 24. Rd3 Re8 25. Qc4 Ba5 26. Re3 Bb6 27.
+Re2 Rd8 28. Re1 Re8 29. Kf1 Ba5 30. Re3 Bd2 31. Rd3 Ba5 32. Re3 h6 33. h3 Bb6
+34. Re1 Qe6 35. Qxe6 Rxe6 36. g4 Bg6 37. h4 f5 38. gxf5 Bxf5 39. Kg2 g5 40.
+hxg5 hxg5 41. Kg3 Bc7+ 42. Kg2 g4 43. Bxg4 Rxe4 44. Rh1+ Bh7 45. f3 Re2+ 46.
+Kg1 Rxa2 47. Bf5 Bb6+ 48. Kf1 Ra1+ 49. Ke2 Rxh1 50. Bxh7 Kxh7 0-1
+
+[Event "Baden-ch U12"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.06"]
+[Round "7"]
+[White "Bauer, Andreas2"]
+[Black "Hirschberg, Leander"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1952"]
+[BlackElo "1369"]
+[PlyCount "42"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. Nf3 Nd7 5. Nbd2 Ngf6 6. Ne5 Bd6 7. Be2 O-O 8.
+g4 Bg6 9. h4 h6 10. Nxg6 fxg6 11. Bd3 Qe8 12. g5 Bxf4 13. exf4 Nh5 14. gxh6
+gxh6 15. Rg1 Nxf4 16. Bxg6 Nxg6 17. h5 Rf6 18. Nf3 Kh7 19. hxg6+ Rxg6 20. Rxg6
+Qxg6 21. Qe2 Re8 1/2-1/2
+
+[Event "Baden-ch U12"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.06"]
+[Round "7"]
+[White "Hagg, Fabian"]
+[Black "Dieterle, Patrick"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1078"]
+[BlackElo "1069"]
+[PlyCount "142"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Bd3 Bd6 5. Ne2 h6 6. Nd2 O-O 7. O-O Nc6 8. c4
+dxc4 9. Nxc4 Qe7 10. Nxd6 cxd6 11. e4 d5 12. e5 Nd7 13. Ng3 f6 14. Qg4 fxe5 15.
+Bxh6 e4 16. Nh5 Rf7 17. Bxg7 Rxg7 18. Nxg7 Qxg7 19. Qxe6+ Qf7 20. Qxf7+ Kxf7
+21. Bb5 Nxd4 22. Bxd7 Bxd7 23. Rad1 Ne2+ 24. Kh1 Bb5 25. Rfe1 Ke6 26. b3 Nf4
+27. f3 Nd3 28. Re2 Nf4 29. Re3 Ke5 30. g3 Nd3 31. Re2 Nc5 32. f4+ Kd6 33. Rg2
+Nd3 34. f5 Rf8 35. g4 Nf4 36. Rf2 Nh3 37. Rfd2 Kc6 38. Kg2 Nf4+ 39. Kg3 Ne2+
+40. Kf2 Nf4 41. h4 Nd3+ 42. Kg3 Kd6 43. h5 Rg8 44. h6 Ke7 45. Kh4 Kf6 46. Rg1
+Bd7 47. h7 Rh8 48. g5+ Kg7 49. f6+ Kxh7 50. g6+ Kg8+ 51. Kg5 Be8 52. f7+ Bxf7
+53. gxf7+ Kxf7 54. Rf1+ Ke7 55. Rc2 Rg8+ 56. Kh6 Kd6 57. Rf6+ Ke7 58. Rg6 Rxg6+
+59. Kxg6 Ke6 60. Kg5 Ke5 61. Kg4 Kd4 62. Re2 Ne5+ 63. Kf4 Kd3 64. Re3+ Kd4 65.
+Re1 Nd3+ 66. Kg3 Nxe1 67. Kf2 Nf3 68. Ke2 Ng1+ 69. Kf2 Kd3 70. Ke1 e3 71. Kd1
+e2+ 0-1
+
+[Event "Baden-ch U12"]
+[Site "Neuenbuerg/Enz"]
+[Date "2008.01.06"]
+[Round "7"]
+[White "Warsinsky, Simon"]
+[Black "Mangusan, Robin"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "889"]
+[BlackElo "825"]
+[PlyCount "93"]
+[EventDate "2008.01.04"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Bb4 5. Nf3 Nc6 6. e3 Bd7 7. Qc2 Be7 8. Bd3
+Nb4 9. Qd2 Nxd3+ 10. Qxd3 Ng4 11. Bxe7 Qxe7 12. cxd5 exd5 13. Nxd5 Qd6 14. Nc3
+a6 15. O-O O-O 16. h3 Nf6 17. e4 Nh5 18. e5 Qh6 19. Ne2 Bb5 20. Qe4 Bxe2 21.
+Qxe2 Nf4 22. Qe4 Rfe8 23. Rad1 Rf8 24. Qxb7 Qg6 25. Ne1 Rab8 26. Qf3 Rxb2 27.
+Nd3 Ne2+ 28. Kh1 Rxa2 29. Nc1 Nxc1 30. Rxc1 f6 31. e6 Re8 32. d5 f5 33. Rxc7 f4
+34. Qxf4 Rf8 35. Qe3 h5 36. d6 Qe8 37. d7 Qe7 38. Rc8 Ra3 39. Qf4 Rd3 40. Rfc1
+a5 41. Qxf8+ Qxf8 42. e7 Rxd7 43. exf8=Q+ Kh7 44. Qf5+ g6 45. Qxd7+ Kh6 46.
+R1c5 h4 47. Rh8# 1-0
+
+[Event "Ciudad del Este Ingolotti Memorial"]
+[Site "Ciudad del Este"]
+[Date "2008.01.05"]
+[Round "3"]
+[White "Valiente, Cristobal"]
+[Black "Soppe, Guillermo"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2273"]
+[BlackElo "2426"]
+[PlyCount "54"]
+[EventDate "2008.01.04"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "PAR"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 e6 2. Nf3 d5 3. e3 Nf6 4. d4 c5 5. Bd3 a6 6. O-O dxc4 7. Bxc4 b5 8. Bb3
+Bb7 9. a4 Nbd7 10. Nc3 c4 11. Bc2 b4 12. Ne2 Bd6 13. Ng3 h5 14. e4 h4 15. Nf5
+exf5 16. e5 h3 17. Bxf5 hxg2 18. Re1 Be7 19. exf6 Nxf6 20. Bf4 Kf8 21. Ne5 Bd6
+22. Nd7+ Qxd7 23. Bxd7 Bxf4 24. h3 Nxd7 25. Qg4 Nf6 26. Qxf4 Rxh3 27. f3 Bxf3
+0-1
+
+[Event "Ciudad del Este Ingolotti Memorial"]
+[Site "Ciudad del Este"]
+[Date "2008.01.06"]
+[Round "4"]
+[White "Patriarca, Luis"]
+[Black "Soppe, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2314"]
+[BlackElo "2426"]
+[PlyCount "18"]
+[EventDate "2008.01.04"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "PAR"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 e6 2. d4 d5 3. g3 c6 4. Qc2 dxc4 5. Qxc4 b5 6. Qd3 Bb7 7. Bg2 Nf6 8. Nc3
+a6 9. Nh3 Nbd7 1/2-1/2
+
+[Event "Ciudad del Este Ingolotti Memorial"]
+[Site "Ciudad del Este"]
+[Date "2008.01.06"]
+[Round "5"]
+[White "Valiente, Cristobal"]
+[Black "Cubas, Jose Fernando"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2273"]
+[BlackElo "2451"]
+[PlyCount "41"]
+[EventDate "2008.01.04"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "PAR"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. d4 a6 5. Nbd2 Bf5 6. Be2 e6 7. O-O Nbd7 8. b3
+Be7 9. Bb2 h6 10. Ne5 Nxe5 11. dxe5 Nd7 12. Nf3 O-O 13. Rc1 Bg6 14. Qd2 Qb8 15.
+Qd4 f6 16. Qg4 Bf7 17. cxd5 cxd5 18. Qg3 f5 19. Nd4 Kh8 20. f4 Rg8 21. Qh3
+1/2-1/2
+
+[Event "Ciudad del Este Ingolotti Memorial"]
+[Site "Ciudad del Este"]
+[Date "2008.01.07"]
+[Round "6"]
+[White "Diaz Hollemaert, Nahuel"]
+[Black "Soppe, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2429"]
+[BlackElo "2426"]
+[PlyCount "27"]
+[EventDate "2008.01.04"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "PAR"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. cxd5 exd5 6. Bg5 c6 7. Qc2 O-O 8. e3
+Nbd7 9. Bd3 Re8 10. O-O g6 11. h3 Nh5 12. Bxe7 Qxe7 13. Rab1 Nb6 14. Na4
+1/2-1/2
+
+[Event "Ciudad del Este Ingolotti Memorial"]
+[Site "Ciudad del Este"]
+[Date "2008.01.07"]
+[Round "6"]
+[White "Valiente, Cristobal"]
+[Black "Patriarca, Luis"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2273"]
+[BlackElo "2314"]
+[PlyCount "15"]
+[EventDate "2008.01.04"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "PAR"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. Nf3 Bb4 6. e3 c5 7. cxd5 exd5 8.
+Rc1 1/2-1/2
+
+[Event "Ciudad del Este Ingolotti Memorial"]
+[Site "Ciudad del Este"]
+[Date "2008.01.07"]
+[Round "7"]
+[White "Soppe, Guillermo"]
+[Black "Cubas, Jose Fernando"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2426"]

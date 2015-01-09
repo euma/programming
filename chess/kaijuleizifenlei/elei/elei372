@@ -1,0 +1,600 @@
+h7-square.} 26. f4 {The most natural reply, White tries to tear apart Black's
+king-side with an f5-break.} Rae8 27. Rf1 ({Black's last move was aimed
+against the f5-break;} 27. f5 Re5 $1 28. Ng3 gxf5 29. gxf5 Nxf5 30. Nxf5 Qxf5
+31. Rf1 Qc8 {is equal.}) 27... Nf6 28. Bf3 ({Instead} 28. Nxf6 $6 Rxe2 (28...
+Qxf6 29. Qxf6 Rxf6 30. Bxf6 Rxe2 31. f5 {is slightly better for White.}) 29.
+Qd3 Re6 30. g5 Nf5 $1 31. Qh3 Rxf6 32. Bxf6+ Kh7 {is horrible for White, his
+bishop is 'empty'.}) 28... Nd7 $6 ({Gives White the opportunity to get a
+definite advantage -although not easy to find-. I think Black's best is} 28...
+Nxe4 29. Bxe4 Kh7 $1 {and now: A)} 30. f5 ({B)} 30. Bxb7 {is too greedy} Ne6
+31. Qxa7 Nxf4 32. Qd4 c5 $1 33. bxc6 Qe7 $1 34. Rxf4 Rxf4 35. Qxf4 Rf8 {with
+the bishop stuck on b7, Black's attack is winning.}) 30... Rxe4 $1 (30... gxf5
+31. Bd3 $1 {is dangerous for Black. The bishops are too strong, Black should
+eliminate one.}) 31. Qxe4 gxf5 32. Qd3 ({or} 32. gxf5 Nxf5 33. Rg1 Rg8 34. Rxg8
+Kxg8 35. Qxb7 Qh5 36. Qd5+ (36. Qc8+ Kf7 37. Qxc7+ Kg6 {is only dangerous for
+White.}) 36... Kf8 {and the Black combination of queen+knight assure a draw.})
+32... a6 33. a4 Qe6 34. Bxg7 Kxg7 35. gxf5 Qe5 {and a draw is likely.}) 29. g5
+$2 ({Hands the advantage to Black! White had to continue his fight for the
+f5-break. The following ending proves suprisingly difficult for Black;} 29. Ng3
+$1 Qf6 30. Bxb7 Qxd4 31. Bxd4 Kh7 (31... Nb6 32. f5 $1 Nxc4 33. Bc6 Rd8 34. Bd5
+Ne5 35. f6 Ne8 36. f7 Ng7 37. Rf6 Kh7 38. Be4 {Black is collapsing.}) 32. f5 {
+(even here!)} Ne5 33. Be4 {Black's king is still under fire.}) 29... Kh7 $1 {
+Radjabov conducts his defensive duties very well! White's initiative has
+vanished.} 30. Bg4 (30. gxh6 Ne6 31. Ng5+ Nxg5 32. fxg5 Ne5 {isn't pleasant
+either.}) 30... h5 (30... Rxe4 $5) 31. Bh3 ({Zagrebelny calls this a dubious
+move on Chesspro.ru but I dont think} 31. Bxd7 Qxd7 32. Nf6+ Rxf6 33. Qxf6 Nf5
+{is a serious improvement. Black's next move is Qe7, exchanging queens
+transposing to a dream-ending. The textmove creates more difficulties for
+Black.}) 31... Ne6 32. Qd1 (32. Bxe6 Rxe6 33. f5 gxf5 34. Rxf5 {looks winning
+but after} Qe7 {it isn't.}) 32... Nec5 33. Nf6+ Nxf6 34. Bxf6 Ne4 $2 ({Time
+trouble starts to influence the level of the moves! The route to victory is} 
+34... Re3 $1 35. Bg2 Qxc4 36. f5 Qd3 $1 {parrying all White's threats.}) 35. f5
+$1 {Now suddenly Black is in trouble!} Kg8 36. fxg6 Qxg6 37. Bf5 Qf7 38. Qd4 ({
+After the game it was thought that} 38. Qd3 {wins, it is not so easy however}
+Nc5 39. Qc2 Re3 $1 {is messy, I dont see anything clear for White.}) (38. Ba1
+Re7 39. g6) 38... Nxf6 39. gxf6 Kh8 40. Bd3 Re6 41. Qh4 Rfe8 ({Wisely taking
+the draw. Instead} 41... Rg8 42. Qf4 Qf8 (42... Rg4 43. Qh6+ Kg8 44. h3 $1 Rg3
+45. Kh2 Ree3 46. Bf5 {with the idea} Qxc4 47. f7+ $1 Qxf7 48. Bh7+ Qxh7 49.
+Rf8# {mate!}) 43. f7 Rg4 44. Qf5 Rh6 45. Be2 Rgg6 (45... Rg7 46. Bxh5 Rgh7 47.
+Re1 $1 Rxh5 48. Qf6+ {curtains.}) 46. Bxh5 $1 Rf6 47. Qxf6+ Rxf6 48. Rxf6 {is
+winning, White will manage to promote his pawn.}) 42. Qg5 Re1 43. Qh6+ Kg8 44.
+Qg5+ Kh8 45. Qh6+ Kg8 46. Qg5+ {and a draw was agreed. A great fight,
+important for opening theory!} 1/2-1/2
+
+[Event "Sofia MTel Masters 4th"]
+[Site "Sofia"]
+[Date "2008.05.16"]
+[Round "8"]
+[White "Aronian, Levon"]
+[Black "Radjabov, Teimour"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2763"]
+[BlackElo "2751"]
+[Annotator "Krasenkow"]
+[PlyCount "88"]
+[EventDate "2008.05.08"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "BUL"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 a5 {Quite an unpretentious reaction to the 9.b4 system,
+which eventually gives White slightly better prospects.} 11. bxa5 Rxa5 12. Nd2
+Nf4 13. Bf1 c5 14. a4 Ra6 15. Ra3 {A typical manoeuvre in the ...a7-a5 lines.
+The rook is protecting White's kingside, and now he plans Nc3-b5 and then
+g2-g3 pushing away the black f4 knight.} Nh5 {The knight retreats voluntarily
+in order to take the defensive e8 square. The point is that White can hardly
+break through on the queenside so Black must take measures aganst White's
+kingside plans (g2-g3 and f2-f4 etc.)} (15... g5 {and}) (15... Kh8 {are the
+main theoretical moves.}) 16. Nb5 Nf6 17. Bb2 Ne8 $146 (17... Nd7 $143 18. g3
+f5 19. f4 $1 (19. exf5 gxf5 20. Bg2 Ng6 21. h4 e4 22. Bxg7 Kxg7 23. f4 Nf6 24.
+Nf1 Ne7 25. Ne3 Neg8 26. Bh3 Nh6 $13 {1/2-1/2 Shirov,A-Bologan,V/Tallinn 2000/
+CBM 074 ext (56)}) 19... g5 $6 (19... exf4 20. Bxg7 Kxg7 21. gxf4 fxe4 22. Nxe4
+$36 {Xu Jun}) 20. fxg5 f4 21. Bh3 Nb6 22. Bxc8 Nexc8 23. a5 Nd7 24. Qg4 Rxa5
+25. Rxa5 Qxa5 26. Bc3 Qd8 27. Ra1 $16 {1-0 Xu Jun-Magai,V/Istanbul 2000/EXT
+2001 (34)}) 18. Nf3 (18. g3 f5 19. f4 exf4 20. Bxg7 Nxg7 $1 {- that's the idea
+behind 17...Ne8!}) 18... h6 (18... f5 $5 19. Ng5 fxe4 20. Nxe4 Nf5 {[%csl Yd4]}
+) 19. g3 f5 20. exf5 Nxf5 21. Nd2 Nf6 22. Bd3 Rf7 {Although the unnecessary 18.
+..h6 has weakened Black's position, it remains very solid. The impossibility
+for White to break through on the queenside is a key factor.} 23. Bc2 Bd7 24.
+Qb1 Rf8 25. Rf3 h5 26. Ne4 Nxe4 27. Rxe4 Ra8 28. Re1 Rc8 29. Bc1 Ra8 30. Bd2 b6
+31. Be3 e4 $5 {Black takes an opportunity to activate his bishop but it was
+quite good enough to wait.} 32. Rf4 $6 (32. Bxe4 $142 Rxa4 33. Qc2 Rb4 $13)
+32... Nxe3 33. fxe3 Bh6 $6 {This enables an exchange sac, for which White
+receives strong compensation.} (33... Qe7 $1 $15 34. Rxe4 Be5 {[%csl Re4]}) 34.
+Nxd6 $1 Bxf4 35. gxf4 $6 {Weakening White's own king and giving Black good
+counter-attacking possibilities.} (35. exf4 $1 g5 36. fxg5 Qxg5 37. Nxe4 Qh6
+38. d6 $13) 35... Qh4 (35... g5 $1 36. Nxe4 (36. Kh1 Bg4) 36... gxf4 37. exf4
+Rxf4 38. Kh1 Bg4 39. Bd1 Bf5 $36) 36. Re2 $6 {An obvious but unnecessary
+transfer of the rook.} (36. Nxe4 $142 Qg4+ (36... Bf5 37. Re2 $1) 37. Ng3 Bf5 (
+37... h4 $2 38. Bd1) (37... Bxa4 38. Bd3) 38. Kf2 $13) 36... Bg4 (36... Bh3 $1
+$40) 37. Rg2 g5 38. f5 $2 (38. Nxe4 {was not late:} gxf4 39. exf4 Rxf4 40. Rg3
+$13 {[%cal Rb1b6]} Raf8 41. Bd3 Qe7 $5 (41... Rf3 42. Qxb6 Rxd3 43. Qg6+ $11)
+42. Rg2 $1 {[%cal Rh2h3]} (42. h3 $2 Rf3) (42. Qxb6 $2 Qxe4 $1) 42... Rf3 43.
+Be2 R3f4 44. Bd3 $11) 38... Bxf5 39. Rg3 $2 {Losing instantly.} (39. Bxe4 $142
+Bh3 (39... Bxe4 $5 40. Nxe4 Ra7 41. Rxg5+ Rg7 $17) 40. Nf5 $1 Bxg2 $1 ({but not
+} 40... Rxf5 41. Bxf5 Bxg2 42. Qxb6 $1 Qe1+ 43. Kxg2 Qe2+ 44. Kg1 Qxe3+ 45. Kg2
+{and Black must give a perpetual}) 41. Nh6+ $1 (41. Nxh4 Rf1+ 42. Kxg2 Rxb1 43.
+Bxb1 gxh4 {and Black should win as he blocks the white pawns.}) 41... Kg7 42.
+Qb2+ $1 Rf6 $8 43. Nf5+ Kf7 44. Nxh4 Bxe4 45. Ng2 h4 $17 {- two black rooks
+are stronger than the white queen but the black bishop is especially powerful.}
+) 39... Bh3 40. Bxe4 Rf1+ 41. Qxf1 Bxf1 42. Bf5 g4 43. Be6+ Kh7 44. Bf5+ Kh8
+0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.09"]
+[Round "1"]
+[White "Galje, Hans"]
+[Black "Alienkin, Aleksander"]
+[Result "0-1"]
+[ECO "E46"]
+[WhiteElo "2118"]
+[BlackElo "2407"]
+[PlyCount "90"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Be7 7. cxd5 exd5 8. b4
+c6 9. Ng3 Re8 10. Bd3 Bd6 11. O-O Nbd7 12. Qb3 Ng4 13. Nce2 Qh4 14. h3 Nh6 15.
+Nf5 Nxf5 16. Bxf5 Nf6 17. Bxc8 Raxc8 18. f3 Re6 19. Bd2 Rce8 20. Rac1 Nh5 21.
+f4 Nf6 22. Rf3 Ne4 23. Be1 Qe7 24. Rd1 a6 25. Nc1 Bb8 26. Nd3 Nd6 27. Bf2 Ba7
+28. Nc5 Bxc5 29. bxc5 Nc4 30. Rd3 Re4 31. Kh2 h6 32. g4 b5 33. Qc3 Qc7 34. Bg3
+Qe7 35. Bf2 a5 36. Qb3 Qc7 37. Kg2 Qd7 38. Kh2 Qe7 39. Qc3 Rb8 40. Qc2 Rb7 41.
+Rb3 Qd7 42. Rg3 Re8 43. Bg1 a4 44. Rc3 b4 45. Rxc4 b3 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.09"]
+[Round "1"]
+[White "Pliester, Leon"]
+[Black "Hendriks, Richard"]
+[Result "1-0"]
+[ECO "E49"]
+[WhiteElo "2403"]
+[BlackElo "2137"]
+[PlyCount "61"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 c5 8.
+cxd5 exd5 9. Ne2 Nc6 10. O-O Re8 11. f3 b6 12. Ra2 Bb7 13. g4 h6 14. Ng3 Rc8
+15. Rg2 Rc7 16. h4 Nh7 17. Rh2 Bc8 18. Kh1 Na5 19. g5 cxd4 20. exd4 Rxc3 21.
+gxh6 g6 22. Ne2 Rc7 23. Bf4 Rce7 24. h5 Re6 25. Rg1 g5 26. Bxh7+ Kxh7 27. Bxg5
+f6 28. Qd3+ Kh8 29. Bd2 Rg8 30. Rxg8+ Qxg8 31. Nf4 1-0
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "2"]
+[White "Balke, Bert"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[ECO "E98"]
+[BlackElo "2344"]
+[PlyCount "94"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. b4 Nf6 12. f3 f4 13. c5 g5 14. Bd2 Ng6 15. Rc1
+Rf7 16. Be1 h5 17. Qc2 g4 18. cxd6 cxd6 19. Nb5 Qb6+ 20. Bf2 Qxb5 21. Nxe5 Qe8
+22. Nxg6 gxf3 23. Bxf3 Ng4 24. e5 Bf5 25. Be4 Bxe4 26. Qxe4 Bxe5 27. Nh4 Bb2
+28. Qg6+ Rg7 29. Qxe8+ Rxe8 30. Nf5 Bxc1 31. Nxg7 Kxg7 32. Rxc1 Re2 33. Bxa7
+Rxa2 34. Bb8 Ne3 35. Bxd6 Rxg2+ 36. Kh1 f3 37. Bc5 Ng4 38. h3 Rh2+ 39. Kg1 Rxh3
+40. d6 Rg3+ 41. Kf1 f2 42. Ke2 Ra3 43. Bd4+ Kf7 44. Rf1 Ke6 45. Bxf2 Ra2+ 46.
+Ke1 Ra1+ 47. Ke2 Rxf1 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "2"]
+[White "Blok, Michiel"]
+[Black "Pruijssers, Roeland"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "2210"]
+[BlackElo "2420"]
+[PlyCount "108"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Be3
+Ng4 9. Bg5 Qe8 10. dxe5 dxe5 11. h3 h6 12. Bd2 Nf6 13. Be3 Qe7 14. Nd5 Qd8 15.
+Qc2 Nd7 16. a3 c6 17. Nc3 Ndc5 18. Rfd1 Qe7 19. b4 Ne6 20. c5 Nac7 21. Bc4 Kh7
+22. Rd3 f5 23. Rad1 f4 24. Bc1 b6 25. cxb6 axb6 26. Bb2 Nd4 27. Nxd4 exd4 28.
+Ne2 c5 29. bxc5 bxc5 30. f3 Bd7 31. Rb1 Ne8 32. Bc1 Be5 33. Qa2 Nd6 34. Bd5
+Rac8 35. Kh1 Bb5 36. Rdb3 Ba4 37. Rb6 d3 38. Ng1 c4 39. R1b4 Bb3 40. Qf2 Rc7
+41. Rb8 Rxb8 42. Rxb8 g5 43. Qb6 Bc2 44. Rg8 Rb7 45. Bxb7 Kxg8 46. Bd5+ Kh7 47.
+Qb8 Qg7 48. Bd2 Nf5 49. Bg8+ Kh8 50. Qe8 Nd6 51. Qe6 Qf6 52. Qd5 c3 53. Be6 Ne8
+54. Bc1 Nc7 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "2"]
+[White "Van Vliet, Harry"]
+[Black "Van Ketel, Raoul"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2079"]
+[BlackElo "2339"]
+[PlyCount "84"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. a3
+Bxc3+ 9. bxc3 Qa5 10. Ne2 cxd4 11. cxd5 exd5 12. f3 Nxc3 13. Nxd4 Ne4+ 14. Ke2
+Qc3 15. Bxe4 Qxa1 16. Bxh7+ Kh8 17. Rd1 Nc6 18. Bb2 Nxd4+ 19. Bxd4 Qxa3 20. Bc5
+Qa6+ 21. Bd3 Bf5 22. Bxf8 Rxf8 23. Bxa6 Bxc2 24. Rd2 Re8 25. Rxc2 Rxe5+ 26. Kd3
+bxa6 27. Rc7 f6 28. Rxa7 Re6 29. Rd7 Re1 30. Rxd5 Rd1+ 31. Kc4 Rxd5 32. Kxd5
+Kh7 33. Kc5 Kg6 34. Kb6 Kf5 35. Kxa6 Kf4 36. Kb5 Ke3 37. Kc4 Kf2 38. Kd5 Kxg2
+39. Ke6 Kxh2 40. Kf7 Kg3 41. Kxg7 f5 42. Kg6 f4 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Galje, Hans"]
+[Black "Ris, Robert"]
+[Result "0-1"]
+[ECO "E60"]
+[WhiteElo "2118"]
+[BlackElo "2386"]
+[PlyCount "28"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. f3 e5 4. dxe5 Nh5 5. Nh3 Nc6 6. Bg5 Be7 7. Bxe7 Qxe7 8.
+f4 d6 9. exd6 cxd6 10. Nc3 Bxh3 11. Nd5 Qe4 12. Nc7+ Ke7 13. Qd5 Bf5 14. g4
+Nxf4 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Giri, Anish"]
+[Black "Miezis, Normunds"]
+[Result "0-1"]
+[ECO "E11"]
+[WhiteElo "2344"]
+[BlackElo "2553"]
+[PlyCount "58"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 d5 6. Bg2 O-O 7. O-O Nc6 8. Qc2
+Bd7 9. a3 Be7 10. Bf4 Bd6 11. Nbd2 Re8 12. Rad1 Nxd4 13. Nxd4 e5 14. Bg5 exd4
+15. Bxd5 c6 16. c5 cxd5 17. cxd6 Bb5 18. Rfe1 Bxe2 19. Rc1 Qxd6 20. Qc7 Qxc7
+21. Rxc7 Ba6 22. Rce7 Rxe7 23. Rxe7 Rc8 24. Bxf6 gxf6 25. Nb3 d3 26. Kg2 a4 27.
+Nd2 Rc2 28. Nf1 Re2 29. Ne3 Rxe3 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Pliester, Leon"]
+[Black "De Groote, Ewoud"]
+[Result "1-0"]
+[ECO "E52"]
+[WhiteElo "2403"]
+[BlackElo "2241"]
+[PlyCount "71"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nf3 Bb7 6. Bd3 O-O 7. O-O d5 8. cxd5
+exd5 9. Ne5 Bd6 10. f4 c5 11. Bd2 Nc6 12. Rc1 cxd4 13. Nxc6 Bxc6 14. exd4 a6
+15. Be1 Be7 16. Bf2 Re8 17. Qc2 Qd6 18. Rfe1 b5 19. a3 Bb7 20. Re5 h6 21. Qe2
+Bf8 22. Re1 Rec8 23. Bb1 Qb6 24. Qd3 g6 25. Qg3 Bg7 26. Bxg6 fxg6 27. Qxg6 Nd7
+28. Re6 Rc6 29. Nxd5 Rxe6 30. Rxe6 Qd8 31. Re7 Qf8 32. Rxd7 Bxd5 33. Rxd5 Qxf4
+34. Qe6+ Kh8 35. g3 Qf8 36. Rf5 1-0
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Wempe, Joost"]
+[Black "Borst, Filip"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2289"]
+[BlackElo "1997"]
+[PlyCount "61"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 Na6
+9. Nd2 Bd7 10. O-O Qe8 11. Rb1 h5 12. b3 Nh7 13. Be3 Qe7 14. Rc1 Rae8 15. Bd3
+f5 16. exf5 gxf5 17. f4 Nf6 18. h3 Bh6 19. Kh1 Ng4 20. hxg4 exf4 21. Bxf4 Bxf4
+22. Rxf4 Qh4+ 23. Kg1 fxg4 24. Qf1 Rxf4 25. Qxf4 Rf8 26. Qd4 Nb4 27. Rf1 Rxf1+
+28. Nxf1 Nxd3 29. Qxd3 Qf6 30. Ne4 Qf4 31. Qe3 1-0
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Alienkin, Aleksander"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2407"]
+[BlackElo "2344"]
+[PlyCount "59"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. Be3
+Ng4 9. Bg5 f6 10. Bc1 Kh8 11. h3 exd4 12. Nxd4 Nxd4 13. Qxd4 f5 14. Qd1 Nf6 15.
+exf5 Bxf5 16. Bf3 Qd7 17. Bxb7 Rae8 18. Bf3 Ne4 19. Bxe4 Bxe4 20. Be3 Bf3 21.
+Qd2 Be5 22. Rfe1 Qf5 23. Bd4 Bxg2 24. Kxg2 Qf3+ 25. Kg1 Qxh3 26. Bxe5+ Rxe5 27.
+Rxe5 Qg4+ 28. Kf1 Qh3+ 29. Kg1 Qg4+ 30. Kf1 1/2-1/2
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Overeem, Marc"]
+[Black "Blok, Michiel"]
+[Result "0-1"]
+[ECO "E06"]
+[WhiteElo "2266"]
+[BlackElo "2210"]
+[PlyCount "90"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nf6 4. O-O Nc6 5. d4 e6 6. c4 Be7 7. dxc5 Bxc5 8. a3
+O-O 9. b4 Bb6 10. Bb2 Qe7 11. Nbd2 Rd8 12. Qc2 e5 13. cxd5 Nxd5 14. Nc4 f6 15.
+e4 Nc7 16. Nxb6 axb6 17. Rac1 Be6 18. Qe2 Rd7 19. Qe3 Nb5 20. Rfd1 Qd8 21. Rxd7
+Qxd7 22. Qxb6 Nxa3 23. Bf1 Ra4 24. b5 Nd8 25. Be2 Nc4 26. Bxc4 Rxc4 27. Ra1
+Rxe4 28. Bc3 Rc4 29. Ra8 Rc8 30. Rxc8 Qxc8 31. Qe3 Qc4 32. b6 Qd5 33. Nd2 Nc6
+34. f3 Kf7 35. Kf2 Bd7 36. Ne4 Ne7 37. g4 Bc6 38. g5 Qa2+ 39. Kg1 Nf5 40. Qd3
+Nh4 41. Nd2 Qd5 42. Qxd5+ Bxd5 43. Kf2 Ke6 44. gxf6 gxf6 45. Nf1 Nxf3 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.11"]
+[Round "5"]
+[White "Alienkin, Aleksander"]
+[Black "Wempe, Joost"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2407"]
+[BlackElo "2289"]
+[PlyCount "94"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Bg2 Bxd2+ 7. Nbxd2 O-O
+8. O-O d6 9. e4 e5 10. d5 Nb8 11. Ne1 a5 12. b3 Na6 13. Nd3 Nd7 14. a3 Ndc5 15.
+Nxc5 Nxc5 16. b4 Na6 17. Qb3 Bd7 18. Rfc1 Rfb8 19. Qc3 axb4 20. axb4 c5 21.
+dxc6 bxc6 22. Ra5 g6 23. Rca1 Nc7 24. Bf1 c5 25. Rxa8 Nxa8 26. b5 Nb6 27. Ra7
+Qd8 28. Nb3 Ra8 29. Qa5 Qb8 30. Rxa8 Nxa8 31. Qd2 Nb6 32. h4 h5 33. Na5 Kg7 34.
+Kh2 Be6 35. Qc3 Qa8 36. f3 f6 37. Qd2 Qb8 38. Kg1 Qc7 39. Kf2 Bf7 40. Ke3 Be6
+41. Be2 Bd7 42. Kf2 Be6 43. g4 hxg4 44. fxg4 Bc8 45. Kg3 Be6 46. Kh3 Qf7 47.
+Qc2 Qa7 1/2-1/2
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.11"]
+[Round "5"]
+[White "Blok, Michiel"]
+[Black "Wustefeld, Emile"]
+[Result "0-1"]
+[ECO "E26"]
+[WhiteElo "2210"]
+[BlackElo "2255"]
+[PlyCount "116"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 d6 7. Bd3 Qe7 8. Ne2
+Nc6 9. O-O e5 10. d5 Nb8 11. Ng3 h5 12. e4 h4 13. Ne2 Nbd7 14. Bg5 Kd8 15. Rb1
+Kc7 16. Qa4 Rh5 17. Bd2 g5 18. Nc1 Ne8 19. Be2 Rh8 20. Rb2 f6 21. Nd3 Kb8 22.
+Qd1 Nb6 23. Ne1 Bd7 24. Bd3 Kc7 25. Qe2 Ng7 26. Nc2 Nh5 27. Rfb1 Nf4 28. Qf1
+Rag8 29. Ne3 g4 30. Nf5 Bxf5 31. exf5 Nxd3 32. Qxd3 Rb8 33. Qe4 Rhg8 34. Be3
+Qd7 35. Rb5 Nc8 36. f3 gxf3 37. Qxf3 b6 38. R5b2 Ne7 39. Rf2 Rh8 40. Rbb2 Rbg8
+41. a4 a5 42. Rb5 Rg7 43. Qe4 Nc8 44. Qb1 Rhg8 45. Rfb2 e4 46. Qxe4 Re8 47. Qf4
+Re5 48. Rf2 Qe7 49. Bd2 Re4 50. Qf3 Rgg4 51. Rb1 Rxc4 52. Re1 Rge4 53. Rfe2
+Rxe2 54. Rxe2 Qd7 55. Re6 Rxa4 56. h3 Ra1+ 57. Kh2 Qb5 58. Rxf6 Qb1 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.11"]
+[Round "5"]
+[White "Wiering, Jelle"]
+[Black "Grashuis, Aldert Jan"]
+[Result "1-0"]
+[ECO "E95"]
+[WhiteElo "1945"]
+[PlyCount "67"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 d6 2. d4 Nf6 3. c4 Nbd7 4. Nc3 c6 5. e4 e5 6. Be2 g6 7. d5 c5 8. O-O Bg7
+9. Re1 O-O 10. a3 a6 11. b4 b6 12. Qb3 Ng4 13. h3 Nh6 14. Ng5 Kh8 15. Bd2 Ng8
+16. a4 Bh6 17. Nf3 f5 18. Reb1 f4 19. a5 bxa5 20. Rxa5 Rb8 21. Qa3 Ngf6 22. b5
+axb5 23. Raxb5 Rxb5 24. cxb5 g5 25. Qa7 Nb6 26. Nh2 Rg8 27. f3 Bf8 28. Na4 Nxa4
+29. Qxa4 g4 30. hxg4 h5 31. b6 Rg7 32. Qa8 Qe8 33. Bb5 Bb7 34. Qxe8 1-0
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.12"]
+[Round "6"]
+[White "Wempe, Joost"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2289"]
+[BlackElo "2344"]
+[PlyCount "88"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 Na6
+9. Nd2 Qe8 10. O-O Kh8 11. Bxf6 Bxf6 12. Bg4 Bg5 13. Bxc8 Qxc8 14. Nf3 Bh6 15.
+Ne1 Qb8 16. Rb1 Qa7 17. a3 f5 18. exf5 Rxf5 19. b4 Rf4 20. c5 axb4 21. axb4
+Nxb4 22. cxd6 Raf8 23. Nf3 cxd6 24. Qe2 Qa6 25. Qb5 Qxb5 26. Nxb5 Rd8 27. Rfd1
+Na6 28. Rb3 Rc4 29. g3 Rc2 30. Rdb1 Nc5 31. Rc3 Rxc3 32. Nxc3 e4 33. Nd4 e3 34.
+Ne6 Rc8 35. Nb5 Ne4 36. fxe3 Bxe3+ 37. Kh1 Rc2 38. Nbd4 Bxd4 39. Nxd4 Rd2 40.
+Ne6 Nc5 41. Nxc5 dxc5 42. Rxb7 Rxd5 43. Rc7 h5 44. h4 Rd1+ 1/2-1/2
+
+[Event "Frome op"]
+[Site "Frome"]
+[Date "2008.05.09"]
+[Round "1"]
+[White "Arkell, Keith C"]
+[Black "Small, Simon"]
+[Result "1-0"]
+[ECO "E67"]
+[WhiteElo "2495"]
+[BlackElo "2245"]
+[PlyCount "51"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 Nf6 5. c4 O-O 6. O-O c6 7. Nc3 Nbd7 8. d5
+cxd5 9. cxd5 Nc5 10. Be3 a5 11. Rc1 Bd7 12. Ne5 Ng4 13. Nxg4 Bxg4 14. h3 Bf5
+15. Bd4 Bxd4 16. Qxd4 Qb6 17. e4 Bd7 18. Rc2 Qb4 19. Qe3 a4 20. Rd1 f6 21. f4
+a3 22. b3 Rfc8 23. Rdc1 e5 24. dxe6 Bxe6 25. e5 Bf5 26. Nd5 1-0
+
+[Event "Frome op"]
+[Site "Frome"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Bonafont, Philip"]
+[Black "Arkell, Keith C"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2123"]
+[BlackElo "2495"]
+[PlyCount "79"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 b5 6. Bg2 bxc4 7. Ne5 Bb4+ 8. Kf1
+c6 9. bxc4 O-O 10. Ba3 Bxa3 11. Nxa3 Qa5 12. Qb3 d6 13. Nxc6 Nxc6 14. Bxc6 Rac8
+15. Bf3 Rb8 16. Qe3 e5 17. dxe5 dxe5 18. Nb5 e4 19. Bg2 Bxb5 20. cxb5 Rxb5 21.
+Bh3 Rb2 22. Kg2 Rxa2 23. Qd4 Rxa1 24. Rxa1 Qb6 25. Qa4 Ra8 26. Bf5 Qb7 27. e3
+h5 28. Qd4 a6 29. h3 Qe7 30. g4 hxg4 31. hxg4 Rd8 32. Qc4 g6 33. Bxg6 Nxg4 34.
+Qxe4 Qg5 35. Bxf7+ Kxf7 36. Qh7+ Kf8 37. Qh8+ Kf7 38. Qh7+ Qg7 39. Qxg7+ Kxg7
+40. Kg3 1/2-1/2
+
+[Event "Frome op"]
+[Site "Frome"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Lyell, Meri"]
+[Black "Franklin, Michael J"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2058"]
+[BlackElo "2242"]
+[PlyCount "67"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. Nc3 O-O 6. Qc2 d6 7. a3 Bxc3 8.
+Bxc3 Nbd7 9. e3 b6 10. Bd3 Bb7 11. e4 e5 12. d5 a5 13. O-O a4 14. Qe2 Nc5 15.
+Bc2 Bc8 16. Nd2 Ba6 17. Bb4 Nfd7 18. Nb1 Rfb8 19. Nc3 Qe8 20. Rac1 f6 21. Bd1
+Nb3 22. Bxb3 axb3 23. Nb5 Bxb5 24. cxb5 Nc5 25. Rc3 Rb7 26. Rfc1 Qd7 27. Qc4
+Ra4 28. Qe2 Ra8 29. Rh3 h6 30. Rcc3 Kf8 31. Rhg3 Ra4 32. Rg6 Ra8 33. Rcg3 Re8
+34. Bd2 1-0
+
+[Event "Frome op"]
+[Site "Frome"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Morris, Gareth"]
+[Black "Ross, Chris Neil"]
+[Result "0-1"]
+[ECO "E00"]
+[WhiteElo "2133"]
+[BlackElo "2146"]
+[PlyCount "130"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. c4 Nf6 3. g3 Bb4+ 4. Bd2 Qe7 5. Bg2 O-O 6. Nc3 d6 7. a3 Bxc3 8.
+Bxc3 e5 9. d5 Nbd7 10. e4 Nb6 11. b3 a5 12. Qd3 Nfd7 13. b4 axb4 14. axb4 Rxa1+
+15. Bxa1 f5 16. exf5 Nf6 17. Ne2 e4 18. Qd4 Bxf5 19. O-O Qf7 20. Nf4 Nbd7 21.
+h4 h6 22. Re1 Ne5 23. c5 Re8 24. Bc3 g5 25. hxg5 hxg5 26. Ne6 Bxe6 27. dxe6
+Rxe6 28. cxd6 cxd6 29. Qe3 Qh5 30. Bd2 Nd3 31. Ra1 Ng4 32. Qxg5+ Qxg5 33. Bxg5
+Ngxf2 34. Be3 Ng4 35. Bh3 Rg6 36. Bxg4 Rxg4 37. Kg2 Nxb4 38. Rb1 Nd5 39. Bd4 e3
+40. Bxe3 Nxe3+ 41. Kf3 Rg7 42. Kxe3 Rxg3+ 43. Kd4 Kf7 44. Rxb7+ Ke6 45. Rh7
+Rg4+ 46. Kd3 Kd5 47. Rh5+ Kc6 48. Rh6 Kc5 49. Rh5+ d5 50. Rh8 Rg3+ 51. Kd2 Ra3
+52. Rg8 Rh3 53. Ra8 Kd4 54. Ra4+ Ke5 55. Ra5 Ke4 56. Ra4+ d4 57. Ra8 Rh2+ 58.
+Kd1 Ke3 59. Rg8 Rh1+ 60. Kc2 d3+ 61. Kc3 Rc1+ 62. Kb2 d2 63. Re8+ Kf4 64. Rf8+
+Kg5 65. Rg8+ Kf6 0-1
+
+[Event "Frome op"]
+[Site "Frome"]
+[Date "2008.05.11"]
+[Round "5"]
+[White "Arkell, Keith C"]
+[Black "Barrett, Stephen J"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2495"]
+[BlackElo "2260"]

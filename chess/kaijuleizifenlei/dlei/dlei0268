@@ -1,0 +1,600 @@
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.02.27"]
+[Round "3"]
+[White "Dziuba, Marcin"]
+[Black "Grabarczyk, Miroslaw"]
+[Result "1-0"]
+[ECO "D41"]
+[WhiteElo "2556"]
+[BlackElo "2476"]
+[PlyCount "51"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. d5 Nc5 14. Rfe1
+Bb7 15. Rad1 exd5 16. exd5 Qf6 17. Ne5 Rfe8 18. Qd4 Qd6 19. Bb5 Red8 20. Bc6
+Bxc6 21. Nxc6 Rd7 22. h3 Qf6 23. Qg4 h6 24. Re3 Kh8 25. Rd4 Rg8 26. Ne5 1-0
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.02.27"]
+[Round "3"]
+[White "Gajewski, Grzegorz"]
+[Black "Szoen, Dariusz"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2594"]
+[BlackElo "2491"]
+[PlyCount "65"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Nf6 5. Bxc4 e6 6. O-O c5 7. Bb3 Nc6 8. Nc3
+cxd4 9. exd4 Be7 10. Bf4 O-O 11. Re1 Bd7 12. a3 Rc8 13. d5 exd5 14. Nxd5 Nxd5
+15. Bxd5 Kh8 16. Qb3 Na5 17. Qa2 Bf6 18. Rad1 Rc2 19. Be4 Rxb2 20. Qd5 Bg4 21.
+Qc5 Qc8 22. Qxa5 Bc3 23. Qd5 Bxe1 24. Rxe1 Rd8 25. Qxf7 Rf8 26. Qc7 Qxc7 27.
+Bxc7 Rc8 28. Bd6 Rd8 29. Ng5 Be6 30. Bc7 Re2 31. Rc1 Rd7 32. Kf1 Bg4 33. f3 1-0
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.02.28"]
+[Round "4"]
+[White "Macieja, Bartlomiej"]
+[Black "Bobras, Piotr"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2617"]
+[BlackElo "2581"]
+[PlyCount "104"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c6 4. c3 Ne4 5. Bf4 Qb6 6. Qc2 Bf5 7. Bd3 e6 8. f3
+Nd6 9. e4 Bg6 10. Nd2 Nd7 11. h4 h5 12. O-O-O Be7 13. Ne2 Qa5 14. Kb1 b5 15.
+Nb3 Qb6 16. Bc1 dxe4 17. fxe4 e5 18. Ng3 f6 19. Be3 Nc4 20. Bf2 Qc7 21. Nf5 Bf8
+22. Nc5 Nxc5 23. dxc5 Bf7 24. Bxc4 Bxc4 25. Rd2 Be6 26. Be3 Kf7 27. Rf1 g6 28.
+Nd6+ Kg7 29. b3 Be7 30. Qd1 a5 31. Qf3 b4 32. cxb4 a4 33. Rb2 axb3 34. axb3 Ra3
+35. Kc2 Qa7 36. Bd2 Ra2 37. Rfb1 Qa3 38. Qc3 Rd8 39. Qe3 Rh8 40. Rxa2 Qxa2+ 41.
+Rb2 Qa7 42. Nc4 Bf7 43. Na5 Qa6 44. Rb1 Rd8 45. Re1 Kg8 46. Bc3 Be6 47. Qe2 Qc8
+48. Rd1 Rxd1 49. Qxd1 Qa6 50. Qd3 Qxd3+ 51. Kxd3 Bd7 52. Nc4 Bc8 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.02.28"]
+[Round "4"]
+[White "Miton, Kamil"]
+[Black "Lubczynski, Rafal"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2609"]
+[BlackElo "2413"]
+[PlyCount "91"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. c5 Bf5 6. Bf4 Nbd7 7. e3 e6 8. Be2
+Be7 9. O-O O-O 10. b4 Ne4 11. Nxe4 Bxe4 12. Nd2 Bg6 13. Nb3 Re8 14. Bg3 Qc8 15.
+Qd2 Bd8 16. Qb2 Bc7 17. a4 e5 18. b5 exd4 19. bxc6 bxc6 20. Nxd4 Bxg3 21. hxg3
+a5 22. Bg4 Rb8 23. Qe2 Rd8 24. Qf3 Qc7 25. Bxd7 Qxd7 26. Qf4 Rb4 27. Rfc1 Qb7
+28. Rc3 h6 29. Raa3 Rb1+ 30. Kh2 Qa6 31. Rab3 Rd1 32. Nb5 Re8 33. Qg4 Ra1 34.
+Qd7 Re5 35. g4 cxb5 36. c6 Kh7 37. Qb7 bxa4 38. Qxa6 axb3 39. Rxb3 Rc1 40. Rb8
+Re6 41. Qc8 Bd3 42. c7 Ba6 43. Qg8+ Kg6 44. c8=Q Bxc8 45. Rxc8 Rf1 46. f4 1-0
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.02.28"]
+[Round "4"]
+[White "Moranda, Wojciech"]
+[Black "Grabarczyk, Miroslaw"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2533"]
+[BlackElo "2476"]
+[PlyCount "95"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Bg4 7. e3 Be7 8. h3
+Be6 9. Bd3 Nh5 10. Bxe7 Qxe7 11. g4 Nf6 12. Nge2 Nbd7 13. Ng3 O-O-O 14. O-O-O
+Nb6 15. Kb1 Kb8 16. Rhe1 h5 17. g5 Ne8 18. h4 Bg4 19. Be2 Bxe2 20. Ngxe2 Nd6
+21. Nf4 g6 22. f3 Nf5 23. Qf2 Qd6 24. Nd3 Rhf8 25. Ne5 f6 26. Nxg6 Rg8 27. e4
+Nxd4 28. Rxd4 Rxg6 29. f4 fxg5 30. hxg5 Rf8 31. exd5 Rxg5 32. dxc6 Qg6+ 33. Ka1
+Qxc6 34. Rd8+ Rxd8 35. fxg5 Qd6 36. a3 Rf8 37. Qh4 Qg6 38. Nb5 a6 39. Qg3+ Ka8
+40. Nc7+ Ka7 41. Qg1 Qc2 42. Rc1 Qd2 43. Rd1 Qc2 44. Rc1 Qd2 45. Qe1 Qxe1 46.
+Rxe1 Rg8 47. Ne6 h4 48. Rh1 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.02.29"]
+[Round "5"]
+[White "Dziuba, Marcin"]
+[Black "Heberla, Bartlomiej"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "2556"]
+[BlackElo "2506"]
+[PlyCount "49"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 Nc6
+8. O-O Qf6 9. b4 Bg4 10. Qa4 Nge7 11. b5 Ne5 12. Nxe5 Qxe5 13. f4 Qc5 14. Nb3
+Qb6 15. Kh1 O-O 16. f5 d3 17. Bxd3 Rad8 18. Bc4 Kh8 19. Qa3 Nc8 20. e5 Qe3 21.
+Rae1 Qc3 22. Qc1 Qxc1 23. Nxc1 Ne7 24. f6 Nd5 25. Nb3 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.02.29"]
+[Round "5"]
+[White "Lubczynski, Rafal"]
+[Black "Szoen, Dariusz"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2413"]
+[BlackElo "2491"]
+[PlyCount "111"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. Nf3 e6 3. g3 Nf6 4. Bg2 c6 5. O-O Nbd7 6. b3 a5 7. c4 a4 8. Nc3
+axb3 9. Qxb3 Qa5 10. Bd2 Qa3 11. Rfb1 Be7 12. c5 e5 13. e3 O-O 14. Ne1 Bd8 15.
+Qd1 exd4 16. exd4 b6 17. Nc2 Qa7 18. Nb4 Bb7 19. Nb5 Qa4 20. Nd6 Qa7 21. Qc2
+bxc5 22. dxc5 Ba6 23. Be3 Qc7 24. a4 Bc8 25. a5 Nb8 26. a6 Be7 27. Bf4 Qd7 28.
+Qe2 Qa7 29. Nb7 Re8 30. Bxb8 Qxb8 31. Nxc6 Qc7 32. Qb5 Bf8 33. Qb6 Qd7 34. Nd4
+Qg4 35. c6 Qh5 36. Re1 Ne4 37. Nb5 Bh3 38. Bh1 Ng5 39. Nd4 Bg4 40. h4 Nh3+ 41.
+Kf1 Qg6 42. Qb3 Qf6 43. Qb2 Rxe1+ 44. Rxe1 Ba3 45. Qd2 Bb4 46. Qe3 Kf8 47. Re2
+Bxe2+ 48. Nxe2 Re8 49. Qd4 Qe7 50. Bf3 Be1 51. Qc5 Bxf2 52. Qxe7+ Kxe7 53. Bg4
+Bb6 54. Bxh3 Kf6 55. Nc3 Ke5 56. Nb5 1-0
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.02"]
+[Round "6"]
+[White "Gajewski, Grzegorz"]
+[Black "Czakon, Jakub"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2594"]
+[BlackElo "2504"]
+[PlyCount "112"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
+Ne5 a5 9. g3 e6 10. Bg2 Bb4 11. O-O O-O 12. e3 h6 13. Qe2 Bh7 14. Rd1 Nbd7 15.
+Nc4 Qe7 16. e4 e5 17. dxe5 Nxe5 18. Nxe5 Qxe5 19. f4 Qe6 20. e5 Nd7 21. Be3
+Rad8 22. Ne4 f6 23. g4 fxe5 24. f5 Qe7 25. g5 Bxf5 26. gxh6 Bxe4 27. Bxe4 Bc5
+28. hxg7 Rf4 29. Bxc5 Nxc5 30. Bc2 Rxd1+ 31. Rxd1 Kxg7 32. Kh1 Kf8 33. Qe3 b6
+34. Qh3 Qe6 35. Rd8+ Ke7 36. Qh8 Qf7 37. Bd1 Rf1+ 38. Kg2 Qf2+ 39. Kh3 Qe3+ 40.
+Kh4 Qf4+ 41. Kh3 Qe3+ 42. Kh4 Rf4+ 43. Bg4 Qf2+ 44. Kh3 Qf1+ 45. Kh4 Rxg4+ 46.
+Kxg4 Qg2+ 47. Kh4 Qxh2+ 48. Kg4 Qf4+ 49. Kh3 Qf5+ 50. Kh2 Qc2+ 51. Kh3 Qb3+ 52.
+Kh4 Qc4+ 53. Kh3 Qf1+ 54. Kh2 Qf4+ 55. Kh3 Qf5+ 56. Kh2 Qf4+ 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.03"]
+[Round "7"]
+[White "Dziuba, Marcin"]
+[Black "Miton, Kamil"]
+[Result "1/2-1/2"]
+[ECO "D44"]
+[WhiteElo "2556"]
+[BlackElo "2609"]
+[PlyCount "49"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Qa5 12. g3 b4 13. Ne4 Ba6 14. b3 O-O-O 15.
+Bxc4 Bxc4 16. bxc4 Nc5 17. Nxc5 Bxc5 18. Be3 Bxd4 19. Bxd4 Qf5 20. f3 c5 21.
+O-O Rxd4 22. Qa4 Rd2 23. Rad1 Rdxh2 24. Qd7+ Kb8 25. Qb5+ 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.03"]
+[Round "7"]
+[White "Grabarczyk, Miroslaw"]
+[Black "Macieja, Bartlomiej"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2476"]
+[BlackElo "2617"]
+[PlyCount "18"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. cxd5 exd5 5. Nc3 c6 6. Qc2 Be7 7. Bg5 g6 8. e3
+Bf5 9. Bd3 Bxd3 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.03"]
+[Round "7"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Heberla, Bartlomiej"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2614"]
+[BlackElo "2506"]
+[PlyCount "109"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 Nc6
+8. O-O Qf6 9. b4 Bg4 10. Qa4 Nge7 11. e5 Qh6 12. h3 Be6 13. b5 Nd8 14. Nb3 O-O
+15. Nbxd4 c6 16. bxc6 Nexc6 17. Bxe6 Nxe6 18. Nxc6 bxc6 19. Qxc6 Rac8 20. Qe4
+Rc7 21. Rad1 Qg6 22. Qxg6 hxg6 23. Rc1 Rfc8 24. Rxc7 Rxc7 25. Rb1 g5 26. g3 Kh7
+27. Kg2 Kg6 28. Rb3 Rc2 29. Ra3 Nc5 30. e6 Nxe6 31. Rxa7 f6 32. Re7 Nc7 33. Nd4
+Rd2 34. Nf3 Rc2 35. Nd4 Rd2 36. Rd7 Nb5 37. Ne6 Rxa2 38. Rxg7+ Kf5 39. Nf8 Nd6
+40. Re7 g4 41. hxg4+ Kxg4 42. Re6 Nf5 43. Rxf6 Ne3+ 44. Kg1 Nf5 45. Kg2 Ne3+
+46. Kg1 Nf5 47. Ne6 Kh3 48. Nf4+ Kg4 49. Ne6 Kh3 50. Ng5+ Kg4 51. Ne4 Re2 52.
+Nd6 Nxg3 53. Rg6+ Kf4 54. Rxg3 Rxf2 55. Kxf2 1-0
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.04"]
+[Round "8"]
+[White "Czakon, Jakub"]
+[Black "Lubczynski, Rafal"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2504"]
+[BlackElo "2413"]
+[PlyCount "69"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. c5 Bf5 6. Bf4 Nbd7 7. e3 e6 8. Nd2
+Be7 9. Be2 h6 10. b4 Qc8 11. a4 b6 12. a5 b5 13. g4 Bh7 14. h4 Qb7 15. g5 Ng8
+16. Bf3 O-O-O 17. e4 Nb8 18. Qe2 dxe4 19. Ncxe4 Bxe4 20. Nxe4 hxg5 21. hxg5
+Rxh1+ 22. Bxh1 Rxd4 23. Qb2 Qd7 24. Nd6+ Bxd6 25. Qxd4 Bc7 26. Qxg7 Bxf4 27.
+Qxg8+ Kb7 28. Rd1 Qe7 29. Rd8 Nd7 30. Re8 Qxg5 31. Qxf7 Qe5+ 32. Kf1 Qd4 33.
+Bf3 Bc7 34. Bxc6+ Kxc6 35. Qf3+ 1-0
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.04"]
+[Round "8"]
+[White "Gajewski, Grzegorz"]
+[Black "Bobras, Piotr"]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "2594"]
+[BlackElo "2581"]
+[PlyCount "99"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bd2 Bg7 5. cxd5 Nxd5 6. e4 Nb6 7. Be3 O-O 8. f4
+Nc6 9. d5 Nb8 10. a4 c6 11. a5 N6d7 12. d6 Re8 13. Nf3 exd6 14. Qxd6 Bxc3+ 15.
+bxc3 Rxe4 16. Kf2 Qe7 17. Qxe7 Rxe7 18. Rd1 Re8 19. Rd6 Nf8 20. Bc4 Be6 21.
+Bxe6 Nxe6 22. Ne5 f6 23. Nd7 Kf7 24. Rb1 Ke7 25. Rdd1 Nxd7 26. Rxb7 Red8 27.
+Bxa7 Rxa7 28. Rxa7 Nec5 29. Rc7 Ra8 30. Rxc6 Rxa5 31. Rc8 f5 32. Kg1 Ra3 33.
+Rc7 Ke6 34. h3 Ra4 35. c4 Ra6 36. Rd5 Ra1+ 37. Kh2 Rc1 38. Rdxc5 Nxc5 39. Rxc5
+Kd6 40. Rc8 Kd7 41. Rh8 Rxc4 42. Rxh7+ Ke6 43. Kg3 Kf6 44. Ra7 Rb4 45. Ra6+ Kg7
+46. Kh4 Kh6 47. g4 Rxf4 48. Kg3 Rf1 49. Kg2 Rf4 50. Kg3 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.05"]
+[Round "9"]
+[White "Socko, Bartosz"]
+[Black "Gajewski, Grzegorz"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2635"]
+[BlackElo "2594"]
+[Annotator "Krasenkow"]
+[PlyCount "83"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. e3 O-O 7. Qc2 $5 {An
+unusual move instead of the normal} (7. Bd2) {Now we have a position arising
+from the Nimzowitsch defence (4.Qc2 system), with an extra tempo for Black!
+However, things are not so easy for him...} 7... a6 $6 {This reaction is
+definitely too passive.} (7... dxc4 {looks illogical:} 8. Bxc4 a6 (8... Na5 9.
+Bd3 c5 10. dxc5 Bxc5 11. a3 Bd6 12. b4 Nc6 13. Bb2 Ne5 14. Nxe5 Bxe5 15. Rd1
+Qc7 16. f4 Bd6 17. O-O a6 18. Qb1 Rb8 19. Ne4 $16 {1-0 Cantarino Neto,M-Rocha,
+J/Brazil 2003/EXT 2006 (24)}) (8... Bd6 $5) 9. O-O Bd6 10. Rd1 Qe8 11. a3 e5
+12. Ng5 h6 13. Nge4 Nxe4 14. Nxe4 Qe7 15. d5 Nd8 16. Nxd6 cxd6 17. a4 $14 {1/
+2-1/2 Hillarp Persson,T-Arutinian,D/Crete 2007/CBM 121 (45)}) (7... Re8 $5 {
+[%cal Ye6e5]} 8. Bd2 $1 (8. a3 Bxc3+ 9. Qxc3 e5 10. Nxe5 Ne4 (10... Nxe5 $5 11.
+dxe5 Ne4 12. Qd4 Qh4 13. g3 Qh5 14. Be2 Bg4 $44) 11. Nxc6 bxc6 12. Qc2 Bf5 13.
+Bd3 Qg5 $6 (13... dxc4 14. Bxc4 Ng3 15. Qb3 Nxh1 16. Bxf7+ Kh8 17. Bxe8 Qxe8
+18. Kf1 $140 Qh5 19. Kg1 Qe2 $1) 14. g3 $2 (14. O-O $1 dxc4 15. Bxc4 $14) 14...
+Qg6 15. cxd5 Nxg3 $1 $17 {0-1 Mirzoev,A-Petkov,V/La Roda 2007/CBM 117 ext (46)}
+) 8... e5 9. dxe5 Nxe5 10. Nxd5 $6 (10. cxd5 $5 Nxf3+ 11. gxf3 Bxc3 12. Bxc3
+Qxd5 13. Rg1 Bf5 14. Qd1 $1 $14) 10... Bxd2+ 11. Qxd2 Ne4 12. Qc2 Ng4 13. Bd3
+Ngxf2 14. Bxe4 Nxe4 15. O-O-O c6 $4 (15... Bf5 $15) 16. Nc3 Qe7 17. Qxe4 {1-0
+Jakobsen,O-Sola Plaza,G/Andorra 2007/CBM 119 ext}) (7... b6 $5) 8. a3 Be7 (8...
+Bxc3+ 9. bxc3 $5) 9. b4 b6 (9... dxc4 {is dubious here, too:} 10. Bxc4 Bd6 (
+10... b5 11. Bd3 Bb7 12. Ne4 $14) 11. O-O (11. Bb2 e5 12. dxe5 $6 Nxe5 13. Nxe5
+Bxe5 14. Rd1 Qe7 15. Nd5 Nxd5 16. Rxd5 Bxb2 17. Qxb2 Qe4 $11 {0-1 Dubeck,
+M-Wirthensohn,H/Switzerland 1998/EXT 2006 (58)}) 11... e5 12. h3 Qe7 13. Rd1
+Bd7 14. d5 Nd8 15. e4 Nh5 16. Bd3 f6 17. g4 Nf4 18. Bxf4 exf4 19. e5 fxe5 20.
+Bxh7+ Kh8 21. Ne4 $36 {1-0 Mirzoev,A-Landenbergue,C/Elgoibar 2006/CBM 115 ext 
+(30)}) 10. Bb2 {That's the general idea of 7.Qc2 (as compared with 7.Bd2): the
+bishop can take this comfortable square.} (10. c5 {is premature:} bxc5 11. bxc5
+e5 (11... Rb8 $5) 12. dxe5 Ng4 13. Bb2 Ncxe5 $13) 10... dxc4 $6 {Still! Black
+was probably (and rightly) afraid of} (10... Bb7 11. c5 $1 $14 {[%csl Rb7]}) {
+but the medicine proves more harmful than the disease!} 11. Bxc4 Bb7 12. O-O b5
+{White now gets an extra tempo compared to 9...dxc4.} 13. Bd3 $16 h6 14. Ne4 $1
+Nd7 15. Rfd1 f5 {Desperation but Black has simply no moves!} (15... Qe8 {was
+possible but what to do next after, say,} 16. Rac1 {?}) 16. Nc3 {[%cal Yd4d5,
+Ye3e4]} (16. d5 $5 {was quite good at once, e.g.} exd5 (16... fxe4 17. Bxe4)
+17. Nc3 Nce5 18. Nxe5 Nxe5 19. Bxf5 $16) 16... Nf6 (16... Qe8 $142 {[%cal
+Yc6d8]} 17. d5 Nce5 (17... Nd8 18. dxe6 Bxf3 19. exd7 Qg6 20. g3 Bxd1 21. Rxd1
+$18 {[%csl Gd7][%cal Ye3e4,Rc3d5]}) 18. Nxe5 Nxe5 19. Nxb5 $1 Nf3+ $1 (19...
+Nxd3 20. Nxc7) 20. gxf3 axb5 21. Qxc7 Bxd5 22. e4 $16) 17. d5 $1 {A
+spectacular break destroying Black's defence.} (17. e4 {was less energetic.})
+17... Nxd5 18. Nxd5 Qxd5 (18... exd5 19. Bxf5 Qd6 20. Be4 Nb8 21. Ne5 $18) 19.
+e4 $1 Nxb4 (19... Qd7 20. Bxb5 Qe8 21. Ba4 a5 22. Ne5 Bf6 23. bxa5 $18 (23.
+Rac1 $18)) 20. axb4 fxe4 21. Bf1 Qc6 22. Qxc6 Bxc6 23. Ne5 {and White had no
+problems converting his extra piece:} Bd5 24. Rdc1 Bf6 (24... Bxb4 25. Rxc7 Bd6
+26. Rd7 Rfd8 27. Rxd8+ Rxd8 28. Rxa6 $18) 25. Rxc7 Rfc8 26. Rac1 Rxc7 27. Rxc7
+a5 28. bxa5 Rxa5 29. Nc6 Ra2 30. Bxf6 gxf6 31. Ne7+ Kf8 32. Bxb5 Ra1+ (32... e3
+33. fxe3 Rxg2+ 34. Kf1 Bf3 (34... Rxh2 35. Nxd5 exd5 36. Rd7 Rh5 37. Bc6) 35.
+Bd3 f5 (35... Rxh2 36. Ng6+ Kg8 37. Bc4 Bg4 38. Nf4 $18) 36. Nc6 Rxh2 37. Ne5
+$18) 33. Bf1 Bb3 34. Ng6+ Kg8 35. h3 Re1 (35... Bd1 36. Nf4 e5 37. Bc4+ $18)
+36. g3 Ba4 37. Kg2 Bd1 38. Nh4 Bf3+ 39. Nxf3 exf3+ 40. Kg1 e5 41. Rc3 e4 42.
+Re3 1-0
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.05"]
+[Round "9"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Miton, Kamil"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2614"]
+[BlackElo "2609"]
+[PlyCount "56"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 f6 12. O-O Rd8 13. Qc1 Be6 14. Ne4 Bb4
+15. Nxe5 Nxe5 16. Nc5 Bc8 17. Bxe5 fxe5 18. Nd3 Bd6 19. b4 Bf5 20. Nc5 O-O 21.
+Qc4+ Kh8 22. Rac1 Qe7 23. b5 b6 24. Ne4 Ba3 25. Rcd1 c5 26. Qb3 Bb4 27. Nc3
+Bxc3 28. Qxc3 h6 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.06"]
+[Round "10"]
+[White "Gajewski, Grzegorz"]
+[Black "Dziuba, Marcin"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2594"]
+[BlackElo "2556"]
+[PlyCount "67"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. c4 c6 2. Nf3 d5 3. d4 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 Nbd7 8. g3
+Be7 9. O-O O-O 10. Nxg6 hxg6 11. b3 Re8 12. Bb2 Bf8 13. Qc2 Qa5 14. a3 dxc4 15.
+bxc4 e5 16. c5 exd4 17. exd4 Nd5 18. Nxd5 cxd5 19. Rab1 Nf6 20. Bc1 Qc7 21. Bb5
+Re6 22. Qb3 b6 23. Bf4 Qc8 24. Rbc1 bxc5 25. dxc5 a6 26. Ba4 Re4 27. Bd6 Bxd6
+28. cxd6 Qe6 29. d7 Rd8 30. Qb7 Qh3 31. Rc8 Rh4 32. Rxd8+ Kh7 33. Rh8+ Kxh8 34.
+Qb8+ 1-0
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.06"]
+[Round "10"]
+[White "Miton, Kamil"]
+[Black "Heberla, Bartlomiej"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2609"]
+[BlackElo "2506"]
+[PlyCount "75"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Nbd2 Nc6 7. O-O Nf6 8.
+e5 Nd5 9. a3 Be7 10. Qb3 Na5 11. Qa4+ Nc6 12. Nxd4 Nb6 13. Nxc6 Nxa4 14. Nxd8
+Bxd8 15. f4 g6 16. Ne4 Be7 17. Nf6+ Bxf6 18. exf6 Nb6 19. Re1+ Be6 20. f5 gxf5
+21. Bxe6 fxe6 22. Rxe6+ Kf7 23. Re7+ Kxf6 24. Rxc7 Rac8 25. Rxb7 Rhd8 26. Bf4
+Rc4 27. Rf1 Rd7 28. Rxd7 Nxd7 29. Bd2 Ke6 30. Re1+ Kd5 31. Bc3 Re4 32. Rd1+ Ke6
+33. Kf2 Nb6 34. Rd4 Nd5 35. Rxe4+ fxe4 36. g4 Ne7 37. Ke3 Kd5 38. h4 1-0
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.06"]
+[Round "10"]
+[White "Moranda, Wojciech"]
+[Black "Macieja, Bartlomiej"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2533"]
+[BlackElo "2617"]
+[PlyCount "19"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qd3 Nbd7 8.
+a3 b4 9. axb4 Bxb4 10. g3 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.07"]
+[Round "11"]
+[White "Heberla, Bartlomiej"]
+[Black "Szoen, Dariusz"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2506"]
+[BlackElo "2491"]
+[PlyCount "32"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nd2 Bg4 6. Qb3 Qd7 7. Ngf3 c4 8. Qa4
+a6 9. h3 Bh5 10. g4 Bg6 11. Nh4 b5 12. Qd1 e6 13. a4 b4 14. Nxg6 hxg6 15. e4
+bxc3 16. bxc3 Bd6 1-0
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.08"]
+[Round "12"]
+[White "Czakon, Jakub"]
+[Black "Grabarczyk, Miroslaw"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2504"]
+[BlackElo "2476"]
+[PlyCount "83"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Bd3
+c6 9. O-O Nxf4 10. exf4 b6 11. b4 bxc5 12. bxc5 Qa5 13. Qc2 g6 14. Rab1 Ba6 15.
+Rb3 Bxd3 16. Qxd3 Rfb8 17. Rfb1 Rxb3 18. axb3 Rb8 19. Ne1 Bf6 20. Ne2 Qb5 21.
+Qxb5 Rxb5 22. Nc2 a5 23. g3 Bg7 24. Kg2 Kf8 25. Kf3 Ke8 26. Ke3 Rb7 27. Nc1 Kd8
+28. Ra1 Rb5 29. Ra3 f6 30. b4 axb4 31. Ra8+ Rb8 32. Rxb8+ Nxb8 33. Nxb4 Kc7 34.
+Ncd3 Nd7 35. g4 e5 36. fxe5 fxe5 37. dxe5 Nxe5 38. Nxe5 Bxe5 39. f4 Bc3 40. Nc2
+Kd7 41. h3 Bb2 42. Kd2 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.08"]
+[Round "12"]
+[White "Moranda, Wojciech"]
+[Black "Miton, Kamil"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2533"]
+[BlackElo "2609"]
+[PlyCount "124"]
+[EventDate "2008.02.02"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 a6 10. Rd1 b5 11. Be2 Qc7 12. e4 e5 13. g3 Re8 14. a3 exd4 15.
+Nxd4 Be5 16. Bf3 c5 17. Nf5 Nb6 18. a4 b4 19. a5 bxc3 20. axb6 Qxb6 21. bxc3
+Rb8 22. Be3 Qb3 23. Qxb3 Rxb3 24. Ra5 Rxc3 25. Rxc5 Rxc5 26. Bxc5 Bxf5 27. exf5
+g6 28. fxg6 hxg6 29. Bb4 Rb8 30. Be1 Rb3 31. Kg2 Ra3 32. Rd8+ Kg7 33. Bb4 Ra2
+34. Bf8+ Kh7 35. Bc5 a5 36. Ra8 Bc3 37. Ra7 Kg7 38. Be3 Ra4 39. h3 Bd4 40. Bxd4
+Rxd4 41. Rxa5 Rb4 42. h4 Rd4 43. Ra7 Rd7 44. Ra4 Ng8 45. g4 Ne7 46. Be4 Rc7 47.
+g5 Rc5 48. Ra6 Nf5 49. Kh3 Nd4 50. Rd6 Ne6 51. Kg3 Rc3+ 52. f3 Nc5 53. Bc6 Rd3
+54. Rxd3 Nxd3 55. f4 f6 56. Be8 fxg5 57. hxg5 Nc5 58. Kf3 Ne6 59. Ke4 Nf8 60.
+Ke5 Nh7 61. Ke6 Nf8+ 62. Ke7 Nh7 1/2-1/2
+
+[Event "POL-ch 65th"]
+[Site "Lublin"]
+[Date "2008.03.09"]
+[Round "13"]
+[White "Dziuba, Marcin"]
+[Black "Bobras, Piotr"]

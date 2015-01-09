@@ -1,0 +1,50 @@
+E79	Exchange Variation, Four Pawns Attack, KID; E79	1.d4 Nf6 2.c4 g6 3.Nc3
+Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.Nf3 cxd4 8.Nxd4 Nc6 9.Be3
+E80	Saemisch Variation, KID; E80	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6
+5.f3
+E80	Bronstein Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6
+5.f3 e5 6.d5 Nh5 7.Be3 Na6 8.Qd2 Qh4+ 9.g3 Nxg3 10.Qf2 Nxf1 11.Qxh4 Nxe3
+12.Kf2 Nxc4
+E81	Normal Defesne, Sameisch Variation, KID; E81	1.d4 Nf6 2.c4 g6 3.Nc3
+Bg7 4.e4 d6 5.f3 O-O
+E81	Byrne Defense, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O
+6.Be3 c6 7.Bd3 a6
+E81	Steiner Attack, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O
+6.Bg5
+E81	Bobotsov-Korchnoi-Petrosian Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3
+Bg7 4.e4 d6 5.f3 O-O 6.Nge2
+E82	Double Fianchetto, KID; E82	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6
+5.f3 O-O 6.Be3 b6
+E83	Yates Defense, KID; E83	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O
+6.Be3 Nc6
+E83	Panno Formation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O
+6.Be3 Nc6 7.Nge2 a6
+E83	Ruban Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O
+6.Be3 Nc6 7.Nge2 Rb8
+E84	E84	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2
+a6 8.Qd2 Rb8
+E85	Orthodox Variation, KID; E85	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6
+5.f3 O-O 6.Be3 e5
+E86	E86	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.Nge2 c6
+E87	Closed Variation, KID; E87	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6
+5.f3 O-O 6.Be3 e5 7.d5
+E87	Bronstein Defense, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O
+6.Be3 e5 7.d5 Nh5 8.Qd2 Qh4+ 9.g3 Nxg3 10.Qf2 Nxf1
+E88	E88	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6
+E89	E89	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6
+8.Nge2
+E90	E90	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3
+E90	Larsen Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be3
+E90	Zinnowitz Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6
+5.Nf3 O-O 6.Bg5
+E91	Orthodox Variation, KID; E91	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6
+5.Nf3 O-O 6.Be2
+E91	Kazakh Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Na6
+E92	E92	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5
+E92	Gligoric-Taimanov Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7
+4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3
+E92	Petrosian Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6
+5.Nf3 O-O 6.Be2 e5 7.d5
+E92	Stein Defense, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O

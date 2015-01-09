@@ -1,0 +1,600 @@
+[WhiteElo "2380"]
+[BlackElo "1993"]
+[PlyCount "29"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5 8.
+Qd3 Nf8 9. Nh3 Qe7 10. Nf4 Bd7 11. Qg3 g6 12. Ncxd5 exd5 13. Nxd5 Qd8 14. Nf6+
+Ke7 15. Qa3+ 1-0
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.27"]
+[Round "7"]
+[White "Mazurkiewicz, Michal"]
+[Black "Lahiri, Atanu"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2239"]
+[BlackElo "2338"]
+[PlyCount "28"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 dxe4 5. dxe4 e5 6. Ngf3 Nc6 7. Bc4 Bc5 8.
+O-O O-O 9. c3 Bh3 10. Re1 Ng4 11. Re2 Qf6 12. b4 Bb6 13. a4 Rfd8 14. a5 Qxf3
+0-1
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.27"]
+[Round "7"]
+[White "Siwiec, Arkadiusz"]
+[Black "Andrzejewska, Anna"]
+[Result "1-0"]
+[ECO "C82"]
+[WhiteElo "2096"]
+[BlackElo "1992"]
+[PlyCount "71"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Bg4 11. Bc2 Ne6 12. Re1 Bc5 13. h3 Bh5 14. Nf1 O-O 15.
+Ng3 Bg6 16. Be3 Bxe3 17. Rxe3 Ne7 18. Nd4 Bxc2 19. Qxc2 c5 20. Ndf5 Nc6 21. Nh5
+g6 22. Nf6+ Kh8 23. f4 Ng7 24. Nd6 Ne7 25. Rd3 c4 26. Rdd1 Qb6+ 27. Qf2 Qxf2+
+28. Kxf2 Ne6 29. Kf3 Nc7 30. Nd7 Kg7 31. Nxf8 Kxf8 32. h4 Rb8 33. h5 Rb6 34.
+hxg6 hxg6 35. Rh1 Kg7 36. Rh2 1-0
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Demidowicz, Maria"]
+[Black "Nicolo, Filippo"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2032"]
+[BlackElo "2125"]
+[PlyCount "61"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 f6 5. f4 Qe7 6. Nf3 Qf7 7. a3 Bd7 8. Bd3 Nh6
+9. O-O O-O-O 10. b4 Qh5 11. b5 Ne7 12. a4 Nef5 13. Qe1 Be7 14. b6 cxb6 15. a5
+b5 16. Nxb5 Kb8 17. Ba3 Qe8 18. Qb1 Bc6 19. Re1 Qd7 20. Qb3 Rc8 21. Rab1 Bxa3
+22. Qxa3 Rhe8 23. g4 Nxg4 24. Bxf5 exf5 25. Nd6 fxe5 26. dxe5 Re6 27. Nd4 Rg6
+28. e6 Qc7 29. Nxc8 Qxf4 30. Qd6+ Qxd6 31. Nxd6 1-0
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.28"]
+[Round "8"]
+[White "Korosciel, Aneta"]
+[Black "Witek, Tomasz"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2067"]
+[BlackElo "2125"]
+[PlyCount "90"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bg4 5. h3 Bh5 6. Qe2+ Qe7 7. Be3 Nc6 8.
+Nc3 O-O-O 9. g4 Bg6 10. O-O-O f6 11. Bg2 Qb4 12. a3 Qa5 13. Qb5 Qxb5 14. Nxb5
+a6 15. Nc3 Nge7 16. Rhe1 Bf7 17. Ne2 Ng6 18. Ng3 Na5 19. Nd2 Nh4 20. Bh1 g5 21.
+f4 Bd6 22. Ne2 Rde8 23. Bf2 h5 24. f5 hxg4 25. hxg4 b5 26. Nc3 c6 27. Rxe8+
+Rxe8 28. Re1 Rh8 29. Ne2 Kd7 30. Bg3 Re8 31. Bxd6 Kxd6 32. Kd1 Re3 33. Nf1 Rh3
+34. Neg3 Nc4 35. Kc1 Nb6 36. Re3 Kd7 37. b3 Nc8 38. Kd2 Ne7 39. Re2 Ng8 40. Rh2
+Rxh2+ 41. Nxh2 Nh6 42. Ne2 Kd6 43. b4 Be8 44. Nc1 Bd7 45. Nd3 Bc8 1/2-1/2
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.29"]
+[Round "9"]
+[White "Meyer, Falko"]
+[Black "Lahiri, Atanu"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2305"]
+[BlackElo "2338"]
+[PlyCount "152"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. c3 Bd6 6. g3 O-O 7. Bg2 e5 8. O-O
+Be6 9. Qc2 h6 10. b4 dxe4 11. dxe4 a5 12. b5 Nb8 13. c4 Nbd7 14. Bb2 Qe7 15.
+Rfe1 Rfd8 16. Nf1 Nc5 17. Rad1 Bg4 18. Ne3 Bxf3 19. Bxf3 c6 20. Nf5 Qe6 21.
+bxc6 bxc6 22. Ba3 Bf8 23. Ne3 Ncxe4 24. Bxf8 Ng5 25. Bg2 Kxf8 26. h4 Ngh7 27.
+Rxd8+ Rxd8 28. Qa4 Ra8 29. Bxc6 Ra7 30. Qb5 Rc7 31. Bg2 g5 32. Qxa5 Rc8 33.
+hxg5 Nxg5 34. Rd1 Kg7 35. Rd8 Rxc4 36. Nxc4 Qxc4 37. Qd2 Qb5 38. Qd1 Ne6 39.
+Rd6 Nd4 40. a4 Qb4 41. Rd8 Qb6 42. Ra8 e4 43. a5 Qb2 44. Bh3 e3 45. fxe3 Ne2+
+46. Kh1 Nxg3+ 47. Kg1 Ne2+ 48. Kf1 Ne4 49. Qe1 N4g3+ 50. Kf2 Qf6+ 51. Kg2 Qc6+
+52. Kf2 Qf6+ 53. Kg2 Qc6+ 54. Kf2 Qxa8 55. Qa1+ f6 56. Bg4 Nh1+ 57. Kxe2 Qg2+
+58. Kd3 Nf2+ 59. Kc3 Qxg4 60. a6 Ne4+ 61. Kd4 Ng5+ 62. Kd5 Qd7+ 63. Kc4 Qc6+
+64. Kb4 Qb6+ 65. Kc4 Qa7 66. Qa5 Nf7 67. Kd3 Ne5+ 68. Ke2 Nc4 69. Qb5 Qxe3+ 70.
+Kf1 Qf4+ 71. Ke2 Qe5+ 72. Qxe5 fxe5 73. Kd3 Nb6 74. Kc3 h5 75. Kb4 h4 76. Kc5
+Na8 0-1
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.29"]
+[Round "9"]
+[White "Michna, Christian"]
+[Black "Korosciel, Aneta"]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "2304"]
+[BlackElo "2067"]
+[PlyCount "113"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 Be7 5. Nc3 d6 6. h3 O-O 7. O-O Nbd7 8. a3
+Nc5 9. Re1 Be6 10. Bxe6 Nxe6 11. d4 exd4 12. Nxd4 Nxd4 13. Qxd4 Qa5 14. Bf4 Ne8
+15. b4 Qh5 16. Qc4 Nc7 17. Rad1 Rad8 18. Nd5 Nxd5 19. exd5 Rc8 20. Qe2 Qxe2 21.
+Rxe2 Bf6 22. dxc6 Rxc6 23. Rxd6 Rc4 24. Be3 Bb2 25. Rd7 Bxa3 26. Bc5 Rc8 27.
+Rxb7 a5 28. Rc7 Ra8 29. Ra7 Rc8 30. Rxa5 Bxb4 31. Bxb4 Rxb4 32. Rc5 Rb1+ 33.
+Kh2 Rbb8 34. Rxc8+ Rxc8 35. c4 Kf8 36. Re4 Rc5 37. Kg3 f5 38. Rd4 Ke7 39. Kf4
+Kf6 40. Ke3 Ra5 41. Rd2 Ke6 42. Kd4 Kd6 43. Rb2 Kc6 44. Rb5 Rxb5 45. cxb5+ Kxb5
+46. Ke5 Kc5 47. Kxf5 Kd6 48. h4 Ke7 49. Ke5 Kd7 50. h5 Ke7 51. h6 g6 52. f4 Kf7
+53. Kd6 Kf6 54. g4 Kf7 55. Kd7 Kg8 56. Ke7 Kh8 57. f5 1-0
+
+[Event "Rewal op-A 13th"]
+[Site "Rewal"]
+[Date "2008.08.29"]
+[Round "9"]
+[White "Sochacki, Wojtek"]
+[Black "Nester, Igor"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "2239"]
+[BlackElo "2385"]
+[PlyCount "82"]
+[EventDate "2008.08.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Be7 12. h3 Rb8 13. Rab1 Be6 14. Rfe1 c5
+15. Bf5 Qd7 16. Bxe6 fxe6 17. Qe3 Rb6 18. b3 Qc8 19. Na4 Ra6 20. Rbc1 c4 21.
+Re2 Ba3 22. Rf1 Ne4 23. Bf4 Rf5 24. g4 Rf7 25. Be5 Nc5 26. Nc3 Nd7 27. Nb5 Nxe5
+28. Qxe5 Bf8 29. a4 Rb6 30. Kg2 g6 31. Qe3 Bc5 32. Qe5 a6 33. Nd4 cxb3 34. Nxb3
+Bf8 35. a5 Rc6 36. Qe3 Bg7 37. Rfe1 e5 38. Rd2 Rc3 39. Qb6 d4 40. Ree2 Qa8+ 41.
+Kh2 Rxh3+ 0-1
+
+[Event "Rubinstein Memorial 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.23"]
+[Round "4"]
+[White "Warakomski, Tomasz"]
+[Black "Gajewski, Grzegorz"]
+[Result "1-0"]
+[ECO "C76"]
+[WhiteElo "2502"]
+[BlackElo "2575"]
+[PlyCount "53"]
+[EventDate "2008.08.20"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 g6 6. d4 Bd7 7. O-O b5 8. Bb3 Bg7
+9. Qd3 Nf6 10. Ng5 O-O 11. f4 exd4 12. cxd4 h6 13. Nf3 Nb4 14. Qd2 c5 15. a3 c4
+16. Qxb4 cxb3 17. Nc3 Be6 18. d5 Qb6+ 19. Kh1 Bg4 20. Qxb3 Rfe8 21. Qc2 Nxe4
+22. Nxe4 Bf5 23. Qf2 Qc7 24. Ng3 Bd3 25. Re1 Bc2 26. Bd2 Rxe1+ 27. Nxe1 1-0
+
+[Event "Rubinstein Memorial 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.25"]
+[Round "6"]
+[White "Warakomski, Tomasz"]
+[Black "Swiercz, Dariusz"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "2502"]
+[BlackElo "2456"]
+[PlyCount "88"]
+[EventDate "2008.08.20"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O 12. Bg5 Bd7 13. Re1 Qb6 14. Bf4 Bxf4
+15. Nxf4 Qxb2 16. Rb1 Qxa2 17. Ng5 Nd8 18. Ra1 Qb2 19. Re2 Qc3 20. Re3 Qc7 21.
+Nh5 h6 22. Rg3 hxg5 23. Rxg5 Nxh5 24. Qxh5 Rf7 25. g3 Be8 26. Bg6 Kf8 27. Rxd5
+exd5 28. Re1 Ne6 29. Rxe6 Qc1+ 30. Kg2 Qh6 31. Qe2 Re7 32. Qf3+ Kg8 33. Bh7+
+Kxh7 34. Rxh6+ gxh6 35. h4 Bg6 36. Kh3 h5 37. Qxd5 Rf8 38. Qc5 Rff7 39. g4
+hxg4+ 40. Kxg4 Re4+ 41. Kg3 Ref4 42. d5 Rf3+ 43. Kh2 Rxf2+ 44. Kg3 Bh5 0-1
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.21"]
+[Round "1"]
+[White "Stomboli, Ettore"]
+[Black "Bianchi, Alberto"]
+[Result "1-0"]
+[ECO "C69"]
+[WhiteElo "2004"]
+[BlackElo "2300"]
+[PlyCount "77"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. Qe2 Bd6 7. c3 Ne7 8. d4
+Ng6 9. Rd1 Qe7 10. h3 O-O 11. Re1 Be6 12. Be3 Rae8 13. Nbd2 b5 14. a4 Bc8 15.
+c4 exd4 16. Nxd4 Bd7 17. axb5 axb5 18. cxb5 Qe5 19. Qc4+ Kh8 20. N2f3 Qh5 21.
+bxc6 Bxh3 22. gxh3 Qxh3 23. Qf1 Qh5 24. Bd2 Be5 25. Ra5 Rd8 26. Qg2 Rfe8 27.
+Rd5 Rb8 28. b4 Ne7 29. Ne6 Qf7 30. Neg5 Qg8 31. Nxe5 fxg5 32. Qh3 h6 33. Rd7
+Kh7 34. Bxg5 Qf8 35. Re3 Ng8 36. Rf3 Rxe5 37. Bxh6 Nxh6 38. Rxf8 Rxf8 39. Qg3
+1-0
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.21"]
+[Round "1"]
+[White "Tomescu, Vlad"]
+[Black "Allegranti, Luca"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2405"]
+[BlackElo "2026"]
+[PlyCount "37"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O 12. Nc3 Qe8 13. h3 e5 14. Nxd5 Nxd4 15.
+Nxd4 exd4 16. Bc4 Kh8 17. Qxd4 Qh5 18. Nf4 Bc5 19. Qxf6 1-0
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.21"]
+[Round "1"]
+[White "Vuelban, Virgilio"]
+[Black "Caiazzo, Diego"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2263"]
+[PlyCount "97"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Be7 7. O-O O-O 8.
+Qe2 b6 9. Bg5 Bb7 10. Nxf6+ Bxf6 11. Bxf6 Nxf6 12. Rfd1 Qe7 13. Ba6 c6 14. Ne5
+Rac8 15. Bxb7 Qxb7 16. Qf3 Qc7 17. c3 Rfd8 18. Qe2 c5 19. Nf3 h6 20. Re1 cxd4
+21. Nxd4 Qb7 22. Rad1 Rd7 23. a3 Rcd8 24. f4 Rd5 25. Rd3 Qd7 26. Qf3 Qc7 27.
+Rde3 R5d7 28. Re5 Rd5 29. R5e2 R5d7 30. Nc6 Rc8 31. Nd4 Rcd8 32. g4 Qc5 33. Rf2
+Qd5 34. h3 Qxf3 35. Rxf3 a6 36. Re2 Kf8 37. g5 Ng8 38. h4 Rd5 39. g6 Re8 40.
+Rfe3 fxg6 41. Nxe6+ Kf7 42. Ng5+ hxg5 43. Rxe8 gxh4 44. Rb8 Rb5 45. b4 g5 46.
+c4 Rf5 47. Rb7+ Kf6 48. fxg5+ Rxg5+ 49. Rg2 1-0
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.22"]
+[Round "2"]
+[White "Bontempi, Piero"]
+[Black "Suppa, Ercole"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2374"]
+[BlackElo "2119"]
+[PlyCount "73"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bd3 c5 6. c3 Nc6 7. Nf3 Be7 8. O-O
+cxd4 9. cxd4 Nb4 10. Be2 O-O 11. a3 Nbd5 12. Ne5 Qc7 13. Nd2 b6 14. Ndf3 Bb7
+15. Bd3 Rac8 16. Bd2 a6 17. Qe2 b5 18. a4 Bb4 19. axb5 axb5 20. Bxb5 Bxd2 21.
+Qxd2 Qb6 22. Qa5 Rc2 23. Nd3 Rb8 24. Qxb6 Nxb6 25. Nfe5 Ne4 26. Rfc1 Rxc1+ 27.
+Rxc1 Nd6 28. Bc6 Nf5 29. Nf3 h6 30. Kf1 Ba6 31. Ke2 Nc4 32. Ra1 Rb6 33. Rxa6
+Rxa6 34. Bb5 Rd6 35. Bxc4 Nxd4+ 36. Nxd4 Rxd4 37. b3 1-0
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.22"]
+[Round "2"]
+[White "Calandri, Fausto"]
+[Black "Kizov, Atanas"]
+[Result "0-1"]
+[ECO "C45"]
+[BlackElo "2426"]
+[PlyCount "68"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 bxc6 6. Bd3 Qh4 7. O-O Nf6
+8. Qf3 O-O 9. Bf4 d6 10. Bg3 Qh5 11. Qxh5 Nxh5 12. Nd2 Nxg3 13. hxg3 a5 14.
+Rfe1 a4 15. Kf1 Bd4 16. Rab1 Be6 17. b3 Bc3 18. Red1 g6 19. Nc4 d5 20. Ne3 Rfd8
+21. Ke2 axb3 22. axb3 Ra2 23. Kf1 Rb8 24. f3 Re8 25. exd5 cxd5 26. b4 c6 27.
+Ng4 Rb8 28. Rb3 d4 29. Rbb1 Rxb4 30. Ne5 c5 31. Rxb4 Bxb4 32. Rb1 Kg7 33. Nc6
+Bc3 34. Ke2 c4 0-1
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.22"]
+[Round "2"]
+[White "Calavalle, Giulio"]
+[Black "Erdos, Viktor"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2231"]
+[BlackElo "2576"]
+[PlyCount "74"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. a3 Bb7 10. Be2 Rc8 11. O-O Qb6 12. Nd1 Be7 13. c3 O-O 14. Nf2 Na5 15. dxc5
+Bxc5 16. Bxc5 Nxc5 17. b4 Ne4 18. bxa5 Nxd2 19. axb6 Nxf1 20. Kxf1 Rxc3 21. a4
+bxa4 22. Rxa4 Rc1+ 23. Ne1 Rb1 24. Nfd3 Rc8 25. Ra5 Rc4 26. g3 Rb5 27. Rxb5
+axb5 28. Nf3 Bc8 29. Nde1 Rc6 30. Bxb5 Rxb6 31. Bd3 Rb2 32. Nc2 Bd7 33. Nfd4 g6
+34. Kf2 h5 35. h3 Kf8 36. g4 hxg4 37. hxg4 Ke7 1/2-1/2
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.22"]
+[Round "2"]
+[White "Calzetta Ruiz, Monica"]
+[Black "Maggi, Fabrizio"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[WhiteElo "2264"]
+[PlyCount "68"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 a6 6. Bxc6+ bxc6 7. O-O Nf6 8.
+e5 Nd7 9. c3 Be7 10. Qa4 Qb6 11. dxc5 Nxc5 12. Qg4 O-O 13. Nb3 f5 14. exf6 Rxf6
+15. Qd4 Qb5 16. Bg5 Nxb3 17. axb3 Rxf3 18. Bxe7 Rf7 19. Bb4 Bd7 20. Ra5 Qe2 21.
+Qb6 Qxb2 22. Rxa6 Re8 23. Ra7 e5 24. Qc5 Qe2 25. Qd6 Qg4 26. f3 Qf5 27. Rfa1 h6
+28. Bc5 e4 29. f4 e3 30. Ra8 e2 31. Rxe8+ Bxe8 32. Re1 Qxf4 33. Qxf4 Rxf4 34.
+Rxe2 Bg6 1/2-1/2
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.22"]
+[Round "2"]
+[White "Caprio, Guido"]
+[Black "Naumkin, Igor"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[WhiteElo "2188"]
+[BlackElo "2502"]
+[PlyCount "120"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. Nf3 a6 8.
+g3 b5 9. Bg2 Bb7 10. Qe2 Nd7 11. O-O h5 12. Rfd1 Kf8 13. c3 Qc8 14. b3 c5 15.
+c4 bxc4 16. Rac1 h4 17. Nxh4 cxd4 18. Rxc4 Qb8 19. Rcxd4 Ne5 20. f4 Nc6 21. Rd7
+Bc8 22. R7d2 f5 23. Ng5 Qb6+ 24. Kh1 Ra7 25. Rc1 Rc7 26. Rdc2 Bd7 27. Ng6+ fxg6
+28. Nxe6+ Bxe6 29. Qxe6 Bd8 30. Bxc6 Kg7 31. Rd2 Re7 32. Rd7 Rhe8 33. Qe5+ Kh7
+34. Qd5 Qe3 35. Rd1 Bb6 36. Qe5 Qxe5 37. fxe5 Kh6 38. R7d6 Rb8 39. e6 Kg7 40.
+Bd7 a5 41. R1d5 Kf6 42. Kg2 Rg7 43. Rc6 Bd8 44. Bc8 Bb6 45. Rb5 Rc7 46. Rbxb6
+Rbxc8 47. Rxc7 Rxc7 48. e7+ Kxe7 49. Rxg6 Rc2+ 50. Kf3 Rxa2 51. h4 Ra3 52. Kf4
+Rxb3 53. Ra6 Ra3 54. h5 Kf7 55. h6 Kg8 56. Ra7 a4 57. Rg7+ Kh8 58. Kxf5 Rf3+
+59. Kg4 Rf6 60. Ra7 Rxh6 1/2-1/2
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.22"]
+[Round "2"]
+[White "Giobbi, Costantino"]
+[Black "Rettore, Ludwig"]
+[Result "0-1"]
+[ECO "C00"]
+[BlackElo "2230"]
+[PlyCount "76"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d3 d5 4. Nbd2 Nc6 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. Re1
+b6 9. a3 Bb7 10. c3 dxe4 11. dxe4 Qc7 12. Qc2 Rad8 13. Nc4 b5 14. Bf4 Qc8 15.
+Nce5 Nd7 16. Nxc6 Qxc6 17. e5 c4 18. Nh4 Qc8 19. Nf3 Nc5 20. Re2 Nd3 21. Nd4
+Bxg2 22. Kxg2 Bc5 23. Re4 Qb7 24. f3 Rd5 25. b4 Bb6 26. a4 a6 27. a5 Bxd4 28.
+Rxd4 Rxd4 29. cxd4 Nxb4 30. Qd2 Nd5 31. Bg5 b4 32. Qe2 c3 33. Qe4 b3 34. h4 c2
+35. Rh1 Rc8 36. h5 b2 37. Bh4 c1=Q 38. Qg4 Ne3+ 0-1
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.22"]
+[Round "2"]
+[White "Maksimovic, Miodrag"]
+[Black "Navarro, Stefano"]
+[Result "0-1"]
+[ECO "C30"]
+[BlackElo "2259"]
+[PlyCount "116"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 Nc6 5. Bb5 Bd7 6. d3 exf4 7. Bxf4 Be7 8.
+O-O a6 9. Ba4 O-O 10. Kh1 b5 11. Bb3 Na5 12. Nd5 Nxd5 13. Bxd5 c6 14. Bb3 Nxb3
+15. axb3 c5 16. Qe1 Bc6 17. Qg3 Kh8 18. Bg5 Bb7 19. Rf2 d5 20. Bxe7 Qxe7 21.
+exd5 Bxd5 22. Re1 Qb7 23. Re5 Rae8 24. Rfe2 Rxe5 25. Rxe5 f6 26. Re3 Qd7 27.
+Qe1 Qd6 28. Kg1 c4 29. dxc4 bxc4 30. bxc4 Bxc4 31. b3 Bf7 32. Rd3 Qc5+ 33. Qf2
+Qc7 34. c4 Re8 35. Qd4 Bg6 36. Rd2 Qb7 37. Rb2 Be4 38. Kf2 Bxf3 39. gxf3 Qc7
+40. Kg2 Rd8 41. Qe3 Qd7 42. Re2 h6 43. Ra2 Re8 44. Qd2 Qb7 45. Rb2 Qf7 46. Qd6
+Qg6+ 47. Kf2 a5 48. c5 Qg5 49. Qd4 Qc1 50. Re2 Rc8 51. Kg2 Qg5+ 52. Kf1 Rxc5
+53. Re8+ Kh7 54. Qd8 Rc1+ 55. Re1 Qb5+ 56. Kf2 Rc2+ 57. Ke3 Qe5+ 58. Kd3 Qc3+
+0-1
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.23"]
+[Round "3"]
+[White "Agrifoglio, Fabio"]
+[Black "Calandri, Fausto"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2017"]
+[PlyCount "108"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. g3 Nf6 2. Bg2 e6 3. d3 d5 4. Nd2 c5 5. e4 Nc6 6. c3 dxe4 7. Nxe4 Nxe4 8.
+dxe4 Qxd1+ 9. Kxd1 Be7 10. Kc2 O-O 11. Be3 Ne5 12. f4 Ng4 13. Re1 e5 14. h3
+Nxe3+ 15. Rxe3 Be6 16. b3 exf4 17. gxf4 Rad8 18. Nf3 f6 19. Ree1 Rd7 20. Rd1
+Rfd8 21. Rxd7 Rxd7 22. c4 Kf8 23. Re1 Rd6 24. a4 Bd8 25. Re2 Bc7 26. Ne1 b6 27.
+Nd3 Rd4 28. a5 Bd7 29. axb6 axb6 30. Kc3 Bc6 31. b4 Bd6 32. e5 Bxg2 33. Rxg2
+fxe5 34. fxe5 Be7 35. bxc5 Bxc5 36. Rg4 Rxg4 37. hxg4 Be3 38. Nb4 Kf7 39. Kd3
+Bc5 40. Nc6 Ke6 41. Ke4 h6 42. Nd8+ Ke7 43. Nc6+ Ke6 44. Nd8+ Kd7 45. Nf7 Ke6
+46. Nh8 g5 47. Ng6 Ba3 48. Nh8 Bf8 49. Ng6 Bg7 50. Kd4 Kf7 51. Nh8+ Bxh8 52.
+Kd5 Ke7 53. Kc6 h5 54. gxh5 g4 0-1
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.23"]
+[Round "3"]
+[White "Buono, Michele"]
+[Black "Rotoni, Matteo"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2194"]
+[BlackElo "2089"]
+[PlyCount "120"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 cxb4 5. a3 Nc6 6. axb4 Bxb4 7. c3 Be7 8. d4
+Bd7 9. Bd3 Rc8 10. O-O Na5 11. Ra2 a6 12. Qe2 Nc4 13. Ne1 Bf8 14. f4 Ne7 15.
+Nf3 g6 16. g4 h5 17. h3 hxg4 18. hxg4 Bb5 19. Ng5 Nc6 20. f5 gxf5 21. gxf5 Be7
+22. Nxf7 Rg8+ 23. Kh1 Qb6 24. Nh6 Rg3 25. Rf3 Rxf3 26. Qxf3 N4xe5 27. dxe5 Nxe5
+28. Qh5+ Kd8 29. f6 Bxf6 30. Bg5 Nd7 31. Bxf6+ Nxf6 32. Qf3 Bxd3 33. Qxd3 Ne4
+34. Kg2 Qc7 35. Qe3 Qg7+ 36. Kh3 Kc7 37. Rg2 Qf6 38. Rg4 Nf2+ 39. Kg3 Nxg4 40.
+Nxg4 Qf5 41. Nd2 Kb8 42. Nf3 Rc4 43. Nfe5 Re4 44. Qc5 Qf4+ 45. Kh3 Qf1+ 46. Kg3
+Qe1+ 47. Kh3 Qf1+ 48. Kg3 Qb5 49. Qd6+ Ka7 50. Nd7 Qd3+ 51. Kh4 Rxg4+ 52. Kxg4
+Qf5+ 53. Kh4 Qh7+ 54. Kg5 Qg8+ 55. Kf6 Qc8 56. Kxe6 Qc6 57. Qxc6 bxc6 58. Kd6
+Kb7 59. Kc5 a5 60. Ne5 a4 1-0
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.23"]
+[Round "3"]
+[White "Dann, Timothy"]
+[Black "Antonelli, Fabrizio"]
+[Result "1-0"]
+[ECO "C29"]
+[WhiteElo "2137"]
+[BlackElo "2035"]
+[PlyCount "73"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nc5 6. d4 Ne6 7. Nf3 Nc6 8. Be3
+Be7 9. Bb5 O-O 10. O-O a6 11. Ba4 Na5 12. Ne2 b5 13. Bb3 Nxb3 14. axb3 Bb7 15.
+Qd2 c5 16. c3 Rc8 17. Ng3 g6 18. Bh6 Re8 19. Rf2 Bf8 20. Raf1 Rc7 21. h4 Bxh6
+22. Qxh6 Rf8 23. Ng5 Nxg5 24. hxg5 Bc8 25. Rf4 cxd4 26. cxd4 Be6 27. Rh4 f5 28.
+gxf6 Qd7 29. Ne2 Rf7 30. Nf4 Bf5 31. e6 Bxe6 32. Nxg6 Qd8 33. Ne5 Rf8 34. Qg5+
+Kh8 35. Ng6+ Kg8 36. Ne7+ Kf7 37. Qh5# 1-0
+
+[Event "Porto San Giorgio op 20th"]
+[Site "Porto San Giorgio"]
+[Date "2008.08.23"]
+[Round "3"]
+[White "Longo, Enrico"]
+[Black "Mrdja, Milan"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "1931"]
+[BlackElo "2409"]
+[PlyCount "90"]
+[EventDate "2008.08.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+

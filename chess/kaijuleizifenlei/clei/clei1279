@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Bc4 d6 5. d4 exd4 6. Qxd4 Nc6 7. Bb5 O-O 8.
+Bxc6 bxc6 9. Qxb4 h5 10. Bg5 a6 11. O-O Bd7 12. Qc4 Qc8 13. Rfe1 Be8 14. e5
+dxe5 15. Nxe5 Ra7 16. Nxc6 Bxc6 17. Qxc6 Re8 18. Bxf6 gxf6 19. Qxf6 Ra8 20.
+Qg5+ Kf8 21. Ne4 Rxe4 22. Rxe4 1-0
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.27"]
+[Round "6"]
+[White "Koukiadakis, Kiriakos"]
+[Black "Varveraki, Argiri"]
+[Result "0-1"]
+[ECO "C02"]
+[PlyCount "84"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 Qb6 5. dxc5 Bxc5 6. Qe2 Nc6 7. Nc3 Nge7 8.
+Be3 Qxb2 9. Qd1 Qxc3+ 10. Bd2 Qa3 11. Be2 Bb4 12. O-O Bxd2 13. Qxd2 O-O 14.
+Rfb1 Ng6 15. Qe3 Qxe3 16. fxe3 Ngxe5 17. Nxe5 Nxe5 18. Rc1 Bd7 19. c4 dxc4 20.
+Bxc4 Nxc4 21. Rxc4 Rac8 22. Rxc8 Rxc8 23. Rd1 Bc6 24. a3 Kf8 25. Rc1 Ke7 26. h4
+Rd8 27. g4 Rd3 28. Kf2 Rxa3 29. Rb1 a6 30. Kg3 b5 31. Kf4 a5 32. g5 a4 33. h5
+Rb3 34. Rg1 a3 35. Rc1 Bd7 36. Ra1 b4 37. h6 g6 38. e4 Rb2 39. Ke5 a2 40. Kd4
+b3 41. Kc3 Rb1 42. Rxb1 axb1=Q 0-1
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.27"]
+[Round "6"]
+[White "Predeftakis, Georgios"]
+[Black "Eleftherakis, Panagiotis"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "107"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bg5 Bd6 6. Nc3 c6 7. Be2 O-O 8. h3
+h6 9. Bh4 Bf5 10. O-O Nbd7 11. Bd3 Bxd3 12. Qxd3 Qc7 13. Bxf6 Nxf6 14. Rfe1
+Rfe8 15. Nh4 Rxe1+ 16. Rxe1 Re8 17. Rxe8+ Nxe8 18. Nf5 Qd7 19. Nd1 Nf6 20. Qf3
+Qe6 21. Nde3 Bf8 22. Qf4 Ne8 23. Qb8 g6 24. Nh4 Bg7 25. Nf3 Qe7 26. Qxa7 Qb4
+27. Nd1 Qc4 28. Qa8 Kf8 29. Qa3+ Kg8 30. Qe3 Nf6 31. Nc3 Ne4 32. Nxe4 dxe4 33.
+Qxe4 Qxa2 34. b3 Qa1+ 35. Kh2 Qa8 36. g3 Kf8 37. Qf4 Qe8 38. Ne5 Bxe5 39. Qxe5
+Qxe5 40. dxe5 Ke7 41. f4 Ke6 42. Kg2 Kd5 43. Kf3 Kd4 44. g4 c5 45. c4 b6 46. h4
+g5 47. fxg5 hxg5 48. hxg5 Kxe5 49. Ke3 Ke6 50. Kf4 Kd7 51. Ke4 Kd6 52. Kf5 Ke7
+53. g6 fxg6+ 54. Kxg6 1-0
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.27"]
+[Round "6"]
+[White "Stefanatos, Athanasios"]
+[Black "Malliotakis, Michail"]
+[Result "0-1"]
+[ECO "C90"]
+[PlyCount "100"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Nf6 5. Re1 a6 6. Ba4 b5 7. Bb3 Be7 8. d3
+h6 9. Nc3 Be6 10. Nd5 O-O 11. Nxe7+ Qxe7 12. Bxe6 fxe6 13. Be3 d5 14. exd5 exd5
+15. h3 Rad8 16. c3 e4 17. Nh4 Qf7 18. Nf5 exd3 19. Bxh6 Ne4 20. Bxg7 Qxf5 21.
+Bxf8 Qxf2+ 22. Kh2 Qf4+ 23. Kg1 Rxf8 24. Qg4+ Qxg4 25. hxg4 Ne5 26. Rad1 d2 27.
+Rxd2 Nxd2 28. Rxe5 c6 29. Re2 Kg7 30. Rxd2 Rf4 31. Kh2 Rxg4 32. Kh3 Ra4 33. a3
+a5 34. Rd4 Rc4 35. Rxc4 bxc4 36. Kg3 Kf6 37. Kf3 Kf5 38. g4+ Kg5 39. Kg3 c5 40.
+a4 d4 41. cxd4 cxd4 42. Kf3 d3 43. Ke3 Kxg4 44. Kd2 Kf3 45. b3 Ke4 46. Kc3 Ke3
+47. bxc4 d2 48. c5 d1=Q 49. c6 Qd6 50. Kc4 Qxc6+ 0-1
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.27"]
+[Round "6"]
+[White "Tsihlis, Hristos"]
+[Black "Hatzaki, Thalia Mikaela"]
+[Result "1-0"]
+[ECO "C44"]
+[PlyCount "39"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Bd6 4. d5 Na5 5. Be3 Nf6 6. Bd3 O-O 7. h3 h6 8. Qd2
+b6 9. b4 Nb7 10. a3 Nh5 11. g3 Qf6 12. Nh4 a5 13. Be2 axb4 14. Bxh5 bxa3 15.
+O-O Qe7 16. Bxh6 gxh6 17. Qxh6 Bc5 18. Nf5 Bxf2+ 19. Rxf2 f6 20. Nxe7# 1-0
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.27"]
+[Round "6"]
+[White "Tsilidis, Alexandros"]
+[Black "Disha, Beshim"]
+[Result "1-0"]
+[ECO "C05"]
+[PlyCount "56"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Ng8 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Nge7 9. O-O Nf5 10. Bxf5 exf5 11. Nf3 Be7 12. Nf4 Be6 13. Nh5 O-O 14. Qd2 Kh8
+15. h4 Rg8 16. g3 Rc8 17. Kg2 Qc7 18. Nf4 Qd7 19. Ng5 Bb4 20. Qd1 g6 21. h5 Kg7
+22. a3 Ba5 23. b4 Bb6 24. Be3 a5 25. Rh1 Rh8 26. Rh3 Ne7 27. Qh1 h6 28. hxg6
+Nxg6 1-0
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.28"]
+[Round "7"]
+[White "Balomenakis, Haralambos"]
+[Black "Makropoulos, Ioannis"]
+[Result "0-1"]
+[ECO "C87"]
+[PlyCount "162"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Nf6 6. Re1 Bg4 7. c3 Be7 8. d3
+O-O 9. Nbd2 d5 10. Qe2 b5 11. Bc2 Bd6 12. h3 Bh5 13. Nf1 h6 14. Ng3 Bg6 15. Nh2
+dxe4 16. dxe4 Qc8 17. Nf3 Nd8 18. Nh4 Re8 19. Nhf5 Bf8 20. Qf3 Nh7 21. h4 Ne6
+22. Qg4 Nf6 23. Qf3 Nh7 24. Ne3 c6 25. h5 Nhg5 26. Qe2 Nf4 27. Qg4 Qxg4 28.
+Nxg4 Nxh5 29. Nf1 Nh7 30. f3 Bc5+ 31. Nf2 Rad8 32. Ne3 N5f6 33. Nd3 Bf8 34. Bd2
+Nd7 35. Rad1 Nb6 36. b3 f6 37. Nf1 Ng5 38. Be3 Nd7 39. Rd2 Ne6 40. Red1 Ndc5
+41. Nb4 Rxd2 42. Rxd2 Rc8 43. Bd1 a5 44. Nc2 Rd8 45. Ng3 Nb7 46. Kf1 Bc5 47.
+Rxd8+ Nbxd8 48. Bd2 Kf7 49. Be2 Nf4 50. Bd1 Nfe6 51. Be2 Nf4 52. Bd1 Ke7 53.
+Ne3 Kf7 54. Ngf5 Nb7 55. g3 Ne6 56. Nh4 Bh7 57. Nhg2 Nd6 58. Ne1 Bb6 59. Nd3
+Nc5 60. Bc2 Ke6 61. Nxc5+ Bxc5 62. b4 Bb6 63. a4 f5 64. axb5 axb4 65. Bb3+ Kd7
+66. bxc6+ Kxc6 67. Nxf5 Nxf5 68. exf5 bxc3 69. Bxc3 Bd4 70. f6 gxf6 71. Bd2 e4
+72. fxe4 Bxe4 73. Bxh6 Kd6 74. Bg7 Ke5 75. g4 Kf4 76. Bd1 Bd3+ 77. Be2 Be4 78.
+Bh6+ Kg3 79. Bg7 Bc3 80. Bxf6 Bg2+ 81. Kg1 Bxf6 0-1
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.28"]
+[Round "7"]
+[White "Hatzaki, Thalia Mikaela"]
+[Black "Kioupakis, Antonios"]
+[Result "1-0"]
+[ECO "C57"]
+[PlyCount "35"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d6 5. Nxf7 Bg4 6. f3 Qd7 7. Nxh8 Nxe4 8.
+d3 Bh5 9. dxe4 Na5 10. Qd3 Qc6 11. Na3 a6 12. Bd2 b6 13. Bd5 Qa4 14. Bxa8 Be7
+15. Qxa6 Qd4 16. Bc6+ Kf8 17. Qa8+ Bd8 18. Qxd8+ 1-0
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.28"]
+[Round "7"]
+[White "Psihogiou, Irini"]
+[Black "Stefanatos, Athanasios"]
+[Result "0-1"]
+[ECO "C68"]
+[PlyCount "18"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. O-O Qxe5 7. d3 Nf6 8.
+c3 Bd6 9. h3 Qh2# 0-1
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Eleftherakis, Panagiotis"]
+[Black "Stefanatos, Athanasios"]
+[Result "1-0"]
+[ECO "C77"]
+[PlyCount "43"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Be7 6. c3 d5 7. Nxe5 b5 8. Nxc6
+Qd6 9. Nxe7 Qxe7 10. Bc2 O-O 11. O-O Bb7 12. Re1 dxe4 13. dxe4 Bxe4 14. Bxe4
+Nxe4 15. f3 Rad8 16. Qe2 Rfe8 17. Nd2 Qc5+ 18. Qe3 Nxd2 19. Qxc5 Rxe1+ 20. Kf2
+Ree8 21. Bxd2 Rxd2+ 22. Kg3 1-0
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Konstantinidis, Kriton"]
+[Black "Spirou, Eleftherios"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[BlackElo "1663"]
+[PlyCount "64"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. h3 Be7 6. d3 O-O 7. Bg5 a6 8. Ba4
+b5 9. Bb3 Na5 10. Bxf6 Bxf6 11. Nd5 Nxb3 12. axb3 Bb7 13. Nxf6+ Qxf6 14. Qd2
+Qe7 15. Qg5 Qxg5 16. Nxg5 h6 17. Nf3 f5 18. Nd2 c5 19. c4 Bc6 20. f3 f4 21. Ke2
+g5 22. Nb1 b4 23. Nd2 Kg7 24. Nf1 Rf6 25. Nh2 h5 26. Rhg1 Kh6 27. Rh1 Bb7 28.
+Rab1 Rff8 29. Ra1 Bc8 30. Rag1 Rf6 31. Kf2 Kg7 32. Ke2 Kf7 1/2-1/2
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Kontaki, Maria"]
+[Black "Hatzaki, Thalia Mikaela"]
+[Result "1-0"]
+[ECO "C30"]
+[PlyCount "50"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. f4 f6 3. fxe5 fxe5 4. Qh5+ g6 5. Qxe5+ Qe7 6. Nf3 Qxe5 7. Nxe5 Nf6
+8. d3 Bb4+ 9. Nc3 Na6 10. Bh6 Rg8 11. Be2 d6 12. Nf3 Nc5 13. O-O Bxc3 14. bxc3
+Na4 15. Nd4 Nxc3 16. Rxf6 Nxe2+ 17. Nxe2 g5 18. Raf1 Rg6 19. Rxg6 hxg6 20. Bxg5
+Bg4 21. Nc3 c5 22. Nd5 Kd7 23. Rf7+ Kc6 24. Rc7+ Kb5 25. c4+ Ka6 1-0
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Markomihelakis, Dimitrios"]
+[Black "Tsihlis, Ioannis"]
+[Result "0-1"]
+[ECO "C50"]
+[PlyCount "76"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Nc3 d6 6. h3 O-O 7. d3 h6 8. Be3
+Bxe3 9. fxe3 Be6 10. Bxe6 fxe6 11. d4 exd4 12. exd4 e5 13. Nd5 Nxe4 14. Qe1 Nf6
+15. Nxf6+ Qxf6 16. Qe2 Qe6 17. Rae1 Qxa2 18. dxe5 Qxb2 19. exd6 Nd4 20. Qc4+
+Kh7 21. Qxd4 Qxd4+ 22. Nxd4 cxd6 23. Nb5 d5 24. Rd1 Rxf1+ 25. Rxf1 a6 26. Nc7
+Rc8 27. Nxd5 Rxc2 28. Rb1 b5 29. Nb4 Rc4 30. Nxa6 g5 31. Rxb5 g4 32. Rb3 h5 33.
+Nb4 Kg6 34. Nd3 Kg5 35. Kh2 Rc2 36. Rb5+ Kh4 37. Ne1 Re2 38. Rc5 g3+ 0-1
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Spirou, Gerasimos"]
+[Black "Varveraki, Argiri"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "65"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Nf3 c6 6. Bd3 Bd6 7. Bg5 O-O 8.
+O-O Bg4 9. Re1 Nbd7 10. h3 Bh5 11. g4 Bg6 12. Ne5 Qc7 13. f4 Bxd3 14. Qxd3 Rfe8
+15. Re2 Ne4 16. Nxd7 Nxc3 17. bxc3 Qxd7 18. Rae1 h6 19. Bh4 Bxf4 20. Qf5 Re6
+21. Rxe6 fxe6 22. Qxf4 g5 23. Bxg5 hxg5 24. Qxg5+ Qg7 25. Qxg7+ Kxg7 26. Rxe6
+Rh8 27. Kg2 Kf7 28. Re5 Kf6 29. Kg3 b6 30. h4 Rd8 31. g5+ Kf7 32. Kg4 c5 33. h5
+1-0
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Tsihlis, Hristos"]
+[Black "Fragiadaki, Irini"]
+[Result "1-0"]
+[ECO "C47"]
+[PlyCount "55"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. f3 O-O 7. Be3 Re8 8.
+Nxc6 bxc6 9. Qd2 d5 10. O-O-O Qe7 11. Bd3 dxe4 12. fxe4 Bg4 13. Rde1 Nxe4 14.
+Bxe4 Bxc3 15. Bxh7+ Kxh7 16. Qxc3 Qd6 17. Qd3+ g6 18. Rhf1 Be6 19. Qe4 Bd5 20.
+Qh4+ Kg8 21. Bd4 Rxe1+ 22. Rxe1 f6 23. Bxf6 Kf7 24. Re7+ Qxe7 25. Bxe7 Kg8 26.
+Qf6 Kh7 27. Bf8 Rxf8 28. Qxf8 1-0
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Chigaev, Maksim"]
+[Black "Mikhalchenko, Petr"]
+[Result "0-1"]
+[ECO "C71"]
+[WhiteElo "2120"]
+[BlackElo "2324"]
+[PlyCount "40"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. h3 Bd7 6. O-O Nge7 7. c3 Ng6 8. d4
+h6 9. Na3 Be7 10. c4 Bg5 11. d5 Nb8 12. b4 a5 13. Bxd7+ Nxd7 14. Nxg5 hxg5 15.
+Qg4 Nf4 16. bxa5 Rh4 17. Qd1 Nf6 18. g3 Qd7 19. Bxf4 Qxh3 20. gxh4 gxf4 0-1
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Pokazanjev, Nikolai"]
+[Black "Volodarsky, Yury"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "2442"]
+[BlackElo "2226"]
+[PlyCount "65"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. Na3 b5 7. c3 Bg4 8.
+Nc2 f6 9. d4 Qd7 10. Ne3 Bh5 11. dxe5 Qxd1 12. Rxd1 Bxf3 13. gxf3 fxe5 14. a4
+Nf6 15. axb5 cxb5 16. c4 bxc4 17. Nxc4 Bc5 18. Ra5 Bd4 19. Be3 O-O 20. Bxd4
+exd4 21. Rxd4 Rab8 22. Rc5 Rb3 23. f4 Ne8 24. f5 g6 25. fxg6 hxg6 26. Rg5 Kh7
+27. Rg3 Rb4 28. Rd7+ Kh6 29. Ne5 Rb6 30. h4 Ng7 31. Rxc7 Re6 32. Nf7+ Kh5 33.
+Ng5 1-0
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.24"]
+[Round "2"]
+[White "Nevostrujev, Vladimir"]
+[Black "Bayev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2477"]
+[BlackElo "2370"]
+[PlyCount "135"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Qe2 c5 7. Nxf6+ Nxf6
+8. dxc5 Bxc5 9. Nf3 Bd7 10. Ne5 Qa5+ 11. Bd2 Qc7 12. O-O-O Bc6 13. Nxc6 bxc6
+14. Bc3 Rd8 15. Qf3 Rd5 16. Bxf6 gxf6 17. Qxf6 Bd4 18. Qf3 Qe5 19. c3 Bxc3 20.
+bxc3 Qxc3+ 21. Bc2 Qa1+ 22. Bb1 Rc5+ 23. Kd2 Ke7 24. Qa3 Qe5 25. Bd3 Rd8 26.
+Rc1 Rxd3+ 27. Kxd3 Qd6+ 28. Ke2 Re5+ 29. Qe3 Rxe3+ 30. fxe3 Qd5 31. Rhf1 Qxg2+
+32. Rf2 Qg4+ 33. Kd3 f5 34. Rc4 Qd1+ 35. Rd2 Qf1+ 36. Kc3 Qf3 37. Rd3 Qh1 38.
+Rd2 h5 39. Kc2 Qf3 40. Rc3 h4 41. Kb2 Qe4 42. Rd4 Qf3 43. Kb3 h3 44. e4 Qf2 45.
+Rdd3 Qb6+ 46. Kc2 Qa5 47. Ra3 Qc5+ 48. Rac3 Qe5 49. exf5 Qxh2+ 50. Rd2 Qh1 51.
+Re3 e5 52. Rxe5+ Kf6 53. Re6+ Kxf5 54. Re3 Kf4 55. Ree2 Qg1 56. Rf2+ Kg3 57.
+Rfe2 Qc5+ 58. Kb2 Qb4+ 59. Kc2 Qc4+ 60. Kb1 Kf3 61. Rf2+ Ke3 62. Rh2 Qb4+ 63.
+Rb2 Qe1+ 64. Kc2 Kd4 65. Rb3 Qa1 66. Ra3 Qf1 67. Rhxh3 Qe2+ 68. Kc1 1/2-1/2
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.24"]
+[Round "2"]
+[White "Rekhovsky, Jury"]
+[Black "Pereboev, Konstantin"]
+[Result "0-1"]
+[ECO "C83"]
+[WhiteElo "2102"]
+[BlackElo "2218"]
+[PlyCount "64"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. h3 O-O 11. Bf4 Kh8 12. Nd4 Na5 13. Bc2 c5 14. Bxe4 dxe4 15.
+Nxe6 fxe6 16. Bg3 e3 17. Na3 exf2+ 18. Rxf2 b4 19. Nc2 Rxf2 20. Bxf2 Nc4 21.
+Qe2 Nxb2 22. Nxb4 cxb4 23. Qxb2 a5 24. Qb3 Qc8 25. cxb4 axb4 26. Qb2 Qc3 27.
+Rb1 Kg8 28. Be1 Qc5+ 29. Kh1 Qd5 30. Ra1 Ra3 31. Kh2 Bc5 32. Bxb4 Bxb4 0-1
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.25"]
+[Round "3"]
+[White "Bayev, Alexander"]
+[Black "Mikhalchenko, Petr"]
+[Result "1/2-1/2"]
+[ECO "C25"]
+[WhiteElo "2370"]
+[BlackElo "2324"]
+[PlyCount "107"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nc3 Bc5 3. g3 a6 4. Bg2 d6 5. Nge2 Nc6 6. h3 Nf6 7. O-O h5 8. Nd5
+Ba7 9. c3 Nxd5 10. exd5 Ne7 11. d4 Bf5 12. Kh2 Qd7 13. Be3 Qb5 14. b3 Nxd5 15.
+dxe5 Nxe3 16. fxe3 Qxe5 17. Bxb7 h4 18. Bg2 Bg4 19. Qd3 Bxe2 20. Qxe2 hxg3+ 21.
+Kh1 Rd8 22. Rf3 f5 23. Qxa6 Bxe3 24. Re1 f4 25. Qa4+ Ke7 26. Qc4 d5 27. Rfxe3
+fxe3 28. Qc5+ Kd7 29. Rxe3 Qd6 30. Qd4 Kc8 31. Qg4+ Qd7 32. Qxg3 Rh6 33. Re5
+Rdh8 34. Kh2 Kb8 35. c4 Rh5 36. Rxd5 Rxd5 37. Bxd5 g5 38. Bf3 Qd2+ 39. Bg2 Re8
+40. Qf3 Qd6+ 41. Qg3 Re2 42. Qxd6 cxd6 43. Kg3 Rxa2 44. b4 Ra4 45. Bd5 Rxb4 46.
+Kg4 Rb3 47. Be6 Re3 48. Bf5 Re5 49. Kxg5 Rc5 50. h4 Rxc4 51. h5 Rc1 52. h6 Rh1
+53. h7 d5 54. Bg6 1/2-1/2
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.25"]
+[Round "4"]
+[White "Nevostrujev, Vladimir"]
+[Black "Pereboev, Konstantin"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2477"]
+[BlackElo "2218"]
+[PlyCount "113"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 Qb6 8. O-O
+cxd4 9. cxd4 Be7 10. Nf3 Nf8 11. a3 Ng6 12. Nc3 Nh4 13. Nxh4 Bxh4 14. Be3 Be7
+15. b4 Bd7 16. Rc1 a6 17. Qg4 g6 18. Na4 Qa7 19. Nc5 Nb8 20. Bg5 Bxg5 21. Qxg5
+b6 22. Nxd7 Nxd7 23. Rc6 O-O 24. Rfc1 b5 25. Qf4 Nb6 26. Rc7 Qb8 27. R1c6 Ra7
+28. Rxa7 Qxa7 29. h4 Qb7 30. Rc5 Nd7 31. Rc1 Rc8 32. Re1 Qc6 33. h5 Qc3 34. Re3
+Qc1+ 35. Kh2 Qc7 36. Rh3 Nf8 37. a4 Qe7 38. axb5 axb5 39. Qd2 Ra8 40. Be2 Ra4
+41. hxg6 fxg6 42. Rb3 Qh4+ 43. Kg1 Ra1+ 44. Bf1 Qe7 45. g3 Qa7 46. Rc3 Rb1 47.
+Rc8 Qa1 48. Qf4 Rxf1+ 49. Kg2 Rg1+ 50. Kh3 Qf1+ 51. Kg4 Qd1+ 52. f3 Rxg3+ 53.
+Kxg3 Qg1+ 54. Kh4 Qe1+ 55. Kg5 h6+ 56. Kf6 g5 57. Qg4 1-0
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.25"]
+[Round "4"]
+[White "Volodarsky, Yury"]
+[Black "Rekhovsky, Jury"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2226"]
+[BlackElo "2102"]
+[PlyCount "107"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Bc5 4. O-O Nf6 5. d4 Bxd4 6. Nxd4 Nxd4 7. f4 d6 8.
+fxe5 dxe5 9. Bg5 Be6 10. Na3 h6 11. Bxf6 gxf6 12. c3 Nc6 13. Bxe6 Qxd1 14.
+Raxd1 fxe6 15. Rxf6 Ke7 16. Rdf1 Raf8 17. Rxf8 Rxf8 18. Rxf8 Kxf8 19. Nb5 Ke7
+20. Nxc7 a6 21. Na8 b5 22. c4 Kd6 23. cxb5 axb5 24. a4 b4 25. g4 Na5 26. h4 Nc4
+27. g5 hxg5 28. hxg5 Nxb2 29. Nb6 Nd3 30. Nc4+ Ke7 31. a5 Nc5 32. Nxe5 b3 33.
+Nc4 Kf7 34. e5 Kg6 35. Kf2 Nd3+ 36. Ke3 b2 37. Nxb2 Nxe5 38. a6 Nc6 39. Kf4 e5+
+40. Kg4 Na7 41. Nc4 Nc6 42. Kh4 e4 43. Kg4 Na7 44. Ne5+ Kg7 45. Kf4 e3 46. Kxe3
+Nb5 47. Kf4 Na7 48. Kf5 Nb5 49. Nc6 Kf7 50. a7 Nc7 51. Nd8+ Kg8 52. Ne6 Na8 53.
+Kf6 Kh8 54. Kf7 1-0
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.26"]
+[Round "5"]
+[White "Bayev, Alexander"]
+[Black "Gontcharov, Vladislav"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2370"]
+[BlackElo "2426"]
+[PlyCount "68"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nc6 5. Bb5 Bd6 6. O-O Nge7 7. c4 dxc4 8.
+Bxc4 O-O 9. h3 h6 10. Nc3 Na5 11. Be2 Be6 12. Ne5 c5 13. Nb5 Bb8 14. Nf3 a6 15.
+Nc3 c4 16. Re1 b5 17. Ne5 Ra7 18. Bf3 Bxe5 19. dxe5 Rd7 20. Qe2 Nac6 21. Bg4
+Nd4 22. Qe4 f5 23. exf6 Rxf6 24. Be3 Bxg4 25. Qxg4 Nf3+ 26. gxf3 Rg6 27. Bc5
+Rxg4+ 28. hxg4 Nd5 29. Ne4 Nf4 30. Be3 Nd3 31. Re2 Qf8 32. Kg2 Ne5 33. f4 Nxg4
+34. Rg1 Nxe3+ 0-1
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.26"]
+[Round "5"]
+[White "Konev, Kirill"]
+[Black "Volodarsky, Yury"]
+[Result "1-0"]
+[ECO "C56"]
+[WhiteElo "2269"]
+[BlackElo "2226"]
+[PlyCount "41"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qh5 9. Nxe4 Be6 10. Bg5 h6 11. Bf6 Qf5 12. Nxd4 Qg6 13. Nxe6 fxe6 14. Qd3
+Qf7 15. Rad1 gxf6 16. Nxf6+ Ke7 17. Nd5+ Kd8 18. Nb6+ Bd6 19. Nxa8 Kc8 20. Qh3
+Nd8 21. Rxd6 1-0
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.26"]
+[Round "5"]
+[White "Pereboev, Konstantin"]
+[Black "Starkov, S."]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[WhiteElo "2218"]
+[BlackElo "2292"]
+[PlyCount "137"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 Bc5 5. exf5 Nge7 6. Bg5 O-O 7. f6 gxf6 8.
+Bh6 Rf7 9. Nc3 d5 10. h3 Nf5 11. Bd2 Nfd4 12. Ba4 Be6 13. Nxd4 Nxd4 14. Ne2 Rg7
+15. Nxd4 Bxd4 16. c3 Bb6 17. Qf3 f5 18. O-O-O Qh4 19. Bb3 e4 20. dxe4 fxe4 21.
+Qf4 Qxf4 22. Bxf4 c6 23. f3 Rf7 24. Bh6 exf3 25. gxf3 Rxf3 26. Rde1 Kf7 27. Bd1
+Rf6 28. Bh5+ Kg8 29. Bg5 Rf5 30. h4 Bf7 31. Bg4 Rf2 32. Re7 Re8 33. Rhe1 Rxe7
+34. Rxe7 h5 35. Bc8 Bg6 36. Be6+ Kf8 37. Rxb7 Be4 38. c4 Rc2+ 39. Kd1 Rxb2 40.
+Bh6+ Ke8 41. Bd7+ Ke7 42. Bg4+ Kd6 43. Bf8+ Ke5 44. Bg7+ Kf4 45. Bxb2 Kxg4 46.
+cxd5 Bxd5 47. Rg7+ Kxh4 48. a4 Bf3+ 49. Ke1 Kh3 50. Be5 Bg4 51. Kf1 h4 52. Rh7
+Bf5 53. Rh6 Bd3+ 54. Ke1 Bc2 55. Bf6 Kg2 56. Bxh4 Bxa4 57. Rg6+ Kf3 58. Rg3+
+Kf4 59. Ra3 Bb5 60. Bf2 c5 61. Kd2 Ke4 62. Kc3 Kd5 63. Ra1 a5 64. Rh1 Bc7 65.
+Rh5+ Be5+ 66. Kc2 Ba4+ 67. Kc1 Be8 68. Rxe5+ Kxe5 69. Bxc5 1/2-1/2
+
+[Event "Kemerovo op"]
+[Site "Kemerovo"]
+[Date "2008.08.27"]
+[Round "6"]
+[White "Konev, Kirill"]
+[Black "Nigametzianov, Mikhail"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "2269"]
+[BlackElo "2372"]

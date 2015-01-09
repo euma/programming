@@ -1,0 +1,600 @@
+[Site "Bayern"]
+[Date "2008.04.13"]
+[Round "4.7"]
+[White "Bastian, Holger"]
+[Black "Kinkelin, Ulrich"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1775"]
+[BlackElo "1912"]
+[PlyCount "54"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Schweinheim"]
+[BlackTeam "Wuerzburg II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. Be2 Bxe2 5. Qxe2 Qxd5 6. Nf3 e6 7. O-O Be7 8.
+c4 Qf5 9. Qe5 Qxe5 10. dxe5 Nfd7 11. Nc3 Nc6 12. Bf4 g5 13. Nxg5 Ncxe5 14. Nb5
+Bd8 15. b3 a6 16. Nc3 Rg8 17. Nge4 Be7 18. Rad1 O-O-O 19. Bg3 h5 20. f4 Ng4 21.
+Rf3 Nc5 22. Nf2 Nxf2 23. Bxf2 Rxd1+ 24. Nxd1 Rd8 25. Nc3 Ne4 26. Be1 Bc5+ 27.
+Kf1 Nxc3 1/2-1/2
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.1"]
+[White "Mikuta, Alexander"]
+[Black "Ruettinger, Johannes"]
+[Result "1-0"]
+[ECO "B28"]
+[WhiteElo "1988"]
+[BlackElo "2174"]
+[PlyCount "85"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bamberg II"]
+[BlackTeam "Bindlach III"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 a6 3. g3 b5 4. Bg2 Bb7 5. d3 g6 6. O-O Bg7 7. Nbd2 d6 8. Re1
+Nd7 9. Nf1 e5 10. a4 Ne7 11. Ne3 O-O 12. Nh4 f5 13. c4 f4 14. Nd5 Nxd5 15. cxd5
+Nf6 16. axb5 axb5 17. Rxa8 Qxa8 18. gxf4 Nh5 19. f5 Qd8 20. Qg4 Bc8 21. Bg5 Qe8
+22. Ra1 Nf4 23. Bxf4 exf4 24. Qxf4 Qe7 25. Nf3 Bxb2 26. Rb1 Qf6 27. Qg3 b4 28.
+fxg6 hxg6 29. d4 Bc3 30. dxc5 dxc5 31. e5 Qf5 32. Rc1 Qg4 33. e6 Qxg3 34. hxg3
+Rf5 35. Nh4 Rf6 36. Be4 g5 37. Nf5 Kf8 38. g4 Ba6 39. Kg2 Ke8 40. Rh1 Be5 41.
+Rh8+ Rf8 42. Rh7 Bc8 43. Bd3 1-0
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.4"]
+[White "Pesch, Werner"]
+[Black "Krug, Stefan"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[WhiteElo "2162"]
+[BlackElo "2083"]
+[PlyCount "30"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bindlach III"]
+[BlackTeam "Bamberg II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. g3 Qd5 7. Nf3 Bf5 8.
+Be3 e6 9. Bg2 Qc4 10. c3 Nd7 11. Qb3 Nb6 12. Nd2 Qxb3 13. axb3 Nd5 14. Bxd5
+cxd5 15. O-O Bd6 1/2-1/2
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.5"]
+[White "Schwalbe, Gerhard"]
+[Black "Voelker, Sebastian"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2000"]
+[BlackElo "2017"]
+[PlyCount "37"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bamberg II"]
+[BlackTeam "Bindlach III"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Be6 7. Ne2 Bd6 8.
+Nf4 Bf5 9. Bd3 Bxd3 10. Qxd3 O-O 11. O-O Re8 12. Bd2 Qc7 13. g3 Nd7 14. Rfe1 g6
+15. Re2 f5 16. Rae1 Rxe2 17. Rxe2 Nf6 18. Ng2 Qd7 19. Bf4 1/2-1/2
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.6"]
+[White "Heimerdinger, Joerg"]
+[Black "Saring, Christoph"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2068"]
+[BlackElo "2001"]
+[PlyCount "91"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bindlach III"]
+[BlackTeam "Bamberg II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nf6 5. Nc3 Bf5 6. Bf4 e6 7. Qa4+ c6 8.
+Nf3 Bd6 9. Be3 O-O 10. Be2 Re8 11. O-O Nbd7 12. Rfd1 a6 13. c5 Bc7 14. b4 Nd5
+15. Nxd5 exd5 16. Bd3 Be4 17. Bxe4 dxe4 18. Ng5 Nf6 19. Qb3 Nd5 20. Nh3 h6 21.
+g3 g5 22. Kg2 f5 23. Re1 Qf6 24. Rad1 f4 25. Bc1 f3+ 26. Kf1 Qf5 27. Ng1 g4 28.
+Re3 Re6 29. Rde1 Rae8 30. Qb1 Nxe3+ 31. Bxe3 Qh5 32. Rd1 Qxh2 33. Ke1 Qxg1+ 34.
+Kd2 Qh2 35. Rh1 Qg2 36. Rg1 Qh3 37. Rh1 Qg2 38. Rg1 Qh2 39. Rh1 Bxg3 40. Rxh2
+Bxh2 41. Qh1 g3 42. fxg3 Bxg3 43. Qh5 Kg7 44. Qg4+ Rg6 45. Qd7+ Kf8 46. Qf5+
+1/2-1/2
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.8"]
+[White "Vojtech, Jaroslav"]
+[Black "Bucka, Reinhard"]
+[Result "1-0"]
+[ECO "B74"]
+[WhiteElo "2112"]
+[BlackElo "1983"]
+[PlyCount "79"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bindlach III"]
+[BlackTeam "Bamberg II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bg7 6. Be3 Nf6 7. Nb3 O-O 8.
+Be2 d6 9. f4 a6 10. O-O b5 11. a3 Bb7 12. Bf3 Na5 13. Nxa5 Qxa5 14. Qe1 Qc7 15.
+Rd1 Rac8 16. Kh1 Ba8 17. Qf2 Qc4 18. Rd4 Qc7 19. Rd2 Qc4 20. Rd4 Qc7 21. Rfd1
+Rfd8 22. R4d2 Re8 23. Bd4 Rf8 24. e5 Ne8 25. Bxa8 Rxa8 26. Nd5 Qb7 27. exd6
+exd6 28. Bxg7 Kxg7 29. f5 f6 30. Nf4 Rf7 31. Ne6+ Kg8 32. fxg6 hxg6 33. Qg3 g5
+34. Qd3 Qe7 35. Re2 Qd7 36. Rde1 Nc7 37. Qg6+ Kh8 38. Nxc7 Qxc7 39. Re8+ Rf8
+40. Qh6+ 1-0
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.6"]
+[White "Haecker, Roland"]
+[Black "Eckert, Leo"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "1763"]
+[BlackElo "1893"]
+[PlyCount "103"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Schweinheim"]
+[BlackTeam "Kitzingen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. c3 Nf6 7. f3 O-O 8. Be2
+d5 9. Nxc6 bxc6 10. e5 Nd7 11. f4 f6 12. exf6 Bxf6 13. O-O e5 14. f5 Qe7 15.
+fxg6 hxg6 16. Na3 Nc5 17. Nc2 a5 18. Qe1 Bf5 19. Qd1 Rab8 20. Bg4 Be4 21. b3
+Ne6 22. Qd2 c5 23. Bxe6+ Qxe6 24. Bxc5 Rfc8 25. Bf2 d4 26. c4 Kg7 27. Bg3 Rd8
+28. Rad1 Rb7 29. Ne1 a4 30. Qe2 Bf5 31. h3 axb3 32. axb3 Rxb3 33. Bh2 d3 34.
+Qa2 Qb6+ 35. Kh1 Rb2 36. Qa3 e4 37. g4 Bc8 38. g5 Bd4 39. Qe7+ Kg8 40. Rf7
+Rxh2+ 41. Kxh2 Qd6+ 42. Qxd6 Rxd6 43. Re7 Bf5 44. Rb1 Kf8 45. Rc7 Rd8 46. Kg2
+d2 47. Rd1 e3 48. Kf3 Re8 49. Ng2 Be4+ 50. Ke2 Bxg2 51. Rd7 Bf1+ 52. Rxf1+ 1-0
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.5"]
+[White "Kuhn, Tobias"]
+[Black "Burgemeister, Wolfgang"]
+[Result "1-0"]
+[ECO "B25"]
+[WhiteElo "1954"]
+[BlackElo "2027"]
+[PlyCount "57"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Klingenberg"]
+[BlackTeam "Nordhalben"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. d3 d6 6. f4 Nf6 7. Nf3 O-O 8. O-O
+Bg4 9. h3 Bxf3 10. Qxf3 Rb8 11. Kh2 Nd7 12. Nd5 f5 13. exf5 gxf5 14. c3 e6 15.
+Ne3 Nf6 16. g4 Ne7 17. Bd2 b5 18. Rae1 d5 19. g5 Ne8 20. Rf2 Nc7 21. Nf1 Ng6
+22. Rfe2 Nh4 23. Qf2 Nxg2 24. Qxg2 Qd6 25. Ng3 d4 26. Nh5 dxc3 27. Bxc3 Bxc3
+28. bxc3 Kh8 29. g6 1-0
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.7"]
+[White "Zoeller, Bernd"]
+[Black "Zimmermann, Frank1"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1904"]
+[BlackElo "1764"]
+[PlyCount "142"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Klingenberg"]
+[BlackTeam "Nordhalben"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Bc4 Nf6 6. Nge2 Bf5 7. Bf4 Qd8 8.
+O-O e6 9. Bd3 Bg6 10. Re1 Nbd7 11. Qd2 Be7 12. Ng3 Qb6 13. Bxg6 hxg6 14. Nce4
+Rd8 15. Nd6+ Kf8 16. c4 c5 17. Nb5 Ne8 18. d5 exd5 19. Qe2 Bf6 20. cxd5 a6 21.
+Nc3 Rh4 22. Qd2 Qb4 23. Be3 Nd6 24. Qc2 Qc4 25. Rad1 Nb5 26. Nge2 Nxc3 27. Nxc3
+Nb6 28. d6 Rh5 29. Qe4 Qxe4 30. Nxe4 Nd7 31. Nxf6 gxf6 32. g4 Re5 33. Re2 g5
+34. Red2 Re4 35. h3 Ne5 36. Rd5 b6 37. Kg2 Nc4 38. Bc1 Re6 39. b3 Nxd6 40. a4
+Ke8 41. a5 Nb7 42. Rxd8+ Nxd8 43. Be3 Nb7 44. axb6 Rxb6 45. Rd3 Ke7 46. f4 gxf4
+47. Bxf4 Na5 48. Re3+ Kd7 49. Rd3+ Ke6 50. Re3+ Kd5 51. h4 Rxb3 52. Re7 Rb7 53.
+Re8 Nc6 54. h5 Ne7 55. Ra8 Rb6 56. Ra7 Re6 57. Kf3 c4 58. Rd7+ Kc6 59. Ra7 Kb5
+60. Ra8 c3 61. h6 Ng6 62. h7 Re1 63. h8=Q Nxh8 64. Rxh8 Rf1+ 65. Ke4 Rg1 66.
+Kf5 Rf1 67. Ke4 Rg1 68. Rc8 Kb4 69. Kd3 Rxg4 70. Bd6+ Kb5 71. Kxc3 Re4 1/2-1/2
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.4"]
+[White "Horther, Heinrich"]
+[Black "Ersoez, Can Hakki"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2006"]
+[BlackElo "1845"]
+[PlyCount "58"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Kronach"]
+[BlackTeam "Wuerzburg II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. c3 e5 3. Nf3 Nc6 4. d4 exd4 5. cxd4 cxd4 6. Nxd4 Bb4+ 7. Bd2 Qe7 8.
+Nxc6 Qxe4+ 9. Be2 bxc6 10. O-O Ne7 11. Re1 Qd4 12. Nc3 d5 13. Qb3 Bd6 14. Rad1
+Rb8 15. Qc2 Bf5 16. Qc1 O-O 17. Bf1 Ng6 18. Be3 Qh4 19. g3 Qh5 20. Be2 Bg4 21.
+Bxg4 Qxg4 22. Rd4 Qh3 23. b3 h5 24. Qd1 Be5 25. Rd3 h4 26. Qh5 Rb4 27. Bc5 Rg4
+28. Rxe5 Nf4 29. Bxf8 Qg2# 0-1
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.3"]
+[White "Elbert, Gebhard"]
+[Black "Oechslein, Rainer"]
+[Result "0-1"]
+[ECO "B72"]
+[WhiteElo "1899"]
+[BlackElo "2161"]
+[PlyCount "54"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Sailauf"]
+[BlackTeam "Schweinfurt"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 g6 2. Nf3 Bg7 3. e4 c5 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be3 d6 7. Qd2 Nf6 8.
+Be2 Ng4 9. Bxg4 Bxg4 10. f3 Bd7 11. O-O-O Ne5 12. h4 h5 13. Bf4 Nc4 14. Qd3 Rc8
+15. Be3 Qb6 16. b3 Nxe3 17. Qxe3 e5 18. Nd5 Qc5 19. Rd2 exd4 20. Qg5 O-O 21. g4
+Rfe8 22. gxh5 Re5 23. Qf4 Rxd5 24. hxg6 fxg6 25. Rg1 Qc3 26. Rdg2 d3 27. exd5
+Qa1+ 0-1
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.4"]
+[White "Rink, Christian"]
+[Black "Lutz, Gerhard1"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2058"]
+[BlackElo "1773"]
+[PlyCount "89"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Schweinfurt"]
+[BlackTeam "Sailauf"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 b6 2. e4 Bb7 3. Bd3 e6 4. Nf3 Nf6 5. Qe2 d5 6. e5 Nfd7 7. Bg5 Be7 8. h4
+h6 9. Bxe7 Qxe7 10. Na3 a6 11. Rh3 c5 12. c3 Nc6 13. Rg3 cxd4 14. cxd4 Nxd4 15.
+Nxd4 Qb4+ 16. Qd2 Qxd4 17. f4 Qg1+ 18. Bf1 Qh2 19. Rh3 Qg1 20. O-O-O Rc8+ 21.
+Kb1 Qc5 22. Rg3 g6 23. h5 gxh5 24. Nc4 Rc6 25. Nd6+ Rxd6 26. exd6 Qxd6 27. Qd4
+Rf8 28. Be2 Ke7 29. Bxh5 Nf6 30. Be2 Ne4 31. Rb3 Nc5 32. Re3 Rd8 33. f5 Bc8 34.
+Qh4+ Ke8 35. Qxh6 Qf8 36. Qf6 Qe7 37. Qh8+ Qf8 38. Qd4 Rd6 39. b4 Na4 40. Rh3
+f6 41. Rc1 Kd8 42. fxe6 Bxe6 43. Bg4 f5 44. Rh8 Bg8 45. Qf4 1-0
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.01.20"]
+[Round "5.6"]
+[White "Lukas, Norbert"]
+[Black "Christ, Rene"]
+[Result "1-0"]
+[ECO "B83"]
+[WhiteElo "1977"]
+[BlackElo "1825"]
+[PlyCount "93"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Schweinfurt"]
+[BlackTeam "Sailauf"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 e6 6. Be2 Be7 7. O-O Nf6 8.
+Kh1 Bd7 9. f4 a6 10. Bf3 Qb6 11. Nb3 O-O 12. Qe2 Qc7 13. Be3 b5 14. g4 Rac8 15.
+Qg2 Nb4 16. Nd4 e5 17. Nf5 Bxf5 18. gxf5 Nxc2 19. Qxc2 b4 20. Rac1 bxc3 21.
+bxc3 Rfd8 22. Rg1 Kh8 23. Qg2 Rg8 24. c4 Qa5 25. Qd2 Qa3 26. Rc3 Qa4 27. Rgc1
+d5 28. exd5 exf4 29. Bxf4 Bb4 30. Qc2 Qa5 31. Rd3 Rgd8 32. a3 Bf8 33. Qd2 Qa4
+34. Rdc3 Qd7 35. Qd3 Bc5 36. Re1 Re8 37. Rcc1 Rxe1+ 38. Rxe1 Re8 39. Rxe8+ Qxe8
+40. Kg2 Qe1 41. Bg3 Qe7 42. a4 Qd7 43. Qc2 h6 44. Bf2 Bb4 45. c5 Ne8 46. d6 Qc8
+47. Qe4 1-0
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.02.17"]
+[Round "6.3"]
+[White "Kraich, Klaus"]
+[Black "Mittag, Ralf"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2059"]
+[BlackElo "2041"]
+[PlyCount "59"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Klingenberg"]
+[BlackTeam "Bamberg II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nd7 5. Nf3 c5 6. Be3 cxd4 7. Bxd4 Ngf6 8. e5
+dxe5 9. fxe5 Nh5 10. Qd2 Nf8 11. Bb5+ Bd7 12. g4 Bxb5 13. Nxb5 Qd7 14. gxh5
+Qxb5 15. h6 Bxh6 16. Qxh6 Ne6 17. O-O-O Rc8 18. Bc3 Qc4 19. a3 Nf4 20. Kb1 Nd5
+21. Rd3 e6 22. Rhd1 b5 23. Nd2 Qg4 24. Kc1 Nf4 25. Rf3 Ne2+ 26. Kb1 Nxc3+ 27.
+bxc3 Ke7 28. Qg7 Rhf8 29. Qf6+ Ke8 30. Nb3 1-0
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.02.17"]
+[Round "6.6"]
+[White "Saring, Christoph"]
+[Black "Link, Klaus"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2001"]
+[BlackElo "1991"]
+[PlyCount "120"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bamberg II"]
+[BlackTeam "Klingenberg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. b3 d6 3. Bb2 Nc6 4. f4 e5 5. Nf3 g6 6. Bb5 Bg7 7. Bxc6+ bxc6 8.
+fxe5 Bxe5 9. Nxe5 Qh4+ 10. Kf1 dxe5 11. Bxe5 f6 12. Bd6 Ba6+ 13. c4 O-O-O 14.
+Bxc5 Qxe4 15. Qf3 Bxc4+ 16. Kf2 Bd5 17. Qxe4 Bxe4 18. Nc3 f5 19. Nxe4 fxe4 20.
+Ke2 Kb7 21. Rhf1 Nh6 22. Rac1 Rd7 23. Rf8 Rxf8 24. Bxf8 Nf5 25. Bc5 Nd4+ 26.
+Ke1 Ne6 27. Be3 Nc7 28. Rc4 Re7 29. Rb4+ Nb5 30. a4 a5 31. Rc4 Nd6 32. Rc5 Nf5
+33. Bg1 e3 34. Rxa5 Nh4 35. dxe3 Nxg2+ 36. Ke2 Nf4+ 37. Kf3 Nh3 38. Bf2 Rf7+
+39. Kg3 Nxf2 40. Re5 Nd3 41. Re4 Nc5 42. Rb4+ Ka6 43. Rc4 Kb6 44. Rb4+ Kc7 45.
+Kg4 Rf2 46. h4 h6 47. Kg3 Rb2 48. Rg4 g5 49. hxg5 hxg5 50. Kf3 Rxb3 51. a5 Ne6
+52. Ra4 Kb7 53. Re4 Nc7 54. Re7 Kc8 55. Rg7 Nd5 56. a6 Rxe3+ 57. Kg4 Ra3 58. a7
+Nc7 59. Rg8+ Kb7 60. Rb8+ Kxa7 0-1
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.02.17"]
+[Round "6.7"]
+[White "Suess, Mirco"]
+[Black "Bizzell, Brandon"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1954"]
+[BlackElo "1915"]
+[PlyCount "74"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Klingenberg"]
+[BlackTeam "Bamberg II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bc4 c6 6. Bd2 Qb6 7. Nge2 Bf5 8.
+Bb3 e6 9. Na4 Qc7 10. Bf4 Qa5+ 11. Bd2 Qc7 12. Bf4 Qa5+ 13. Nac3 Nbd7 14. O-O
+Be7 15. Ng3 Bg6 16. Qf3 O-O 17. Nce4 Nxe4 18. Nxe4 Qf5 19. Ng3 Qa5 20. Ne4 Qf5
+21. Ng3 Qa5 22. Rfd1 Nf6 23. c4 Rfd8 24. Bd2 Qb6 25. Bc3 Rd7 26. Rd2 Rad8 27.
+Rad1 Qc7 28. Ba4 a6 29. b4 b5 30. Bb3 Bd6 31. c5 Bxg3 32. hxg3 Bh5 33. Qf4 Qxf4
+34. gxf4 Bxd1 35. Rxd1 Nd5 36. Bd2 Ne7 37. g4 Rxd4 0-1
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.02.17"]
+[Round "6.3"]
+[White "Oechslein, Rainer"]
+[Black "Spitzl, Bertram"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[WhiteElo "2161"]
+[BlackElo "2110"]
+[PlyCount "52"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Schweinfurt"]
+[BlackTeam "Bindlach III"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be2 Bf5 7. Bf3 Rg8
+8. Ne2 Bg4 9. Bxg4 Rxg4 10. O-O Qd5 11. f3 Rg8 12. Qd3 Rh8 13. Re1 Nd7 14. c4
+Ne5 15. Qb3 Nxc4 16. Qxb7 Nb6 17. Nc3 Qd7 18. Qa6 e6 19. Ne4 Be7 20. Bh6 Rg8
+21. Kh1 Rg6 22. Be3 f5 23. Nc3 Rb8 24. Bf4 Qb7 25. Qe2 Rd8 26. Rad1 Kf8 1/2-1/2
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.02.17"]
+[Round "6.4"]
+[White "Pesch, Werner"]
+[Black "Rink, Christian"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "2162"]
+[BlackElo "2058"]
+[PlyCount "30"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bindlach III"]
+[BlackTeam "Schweinfurt"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 b6 2. e4 Bb7 3. Nc3 e6 4. d4 Bb4 5. Bd3 Nf6 6. Qe2 c5 7. e5 cxd4 8. Nxd4
+Nd5 9. Bd2 Nxc3 10. bxc3 Be7 11. O-O Nc6 12. f4 Nxd4 13. cxd4 g6 14. a4 O-O 15.
+c3 Qc7 1/2-1/2
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.02.17"]
+[Round "6.8"]
+[White "Vojtech, Jaroslav"]
+[Black "Zschunke, Werner"]
+[Result "1/2-1/2"]
+[ECO "B74"]
+[WhiteElo "2112"]
+[BlackElo "1935"]
+[PlyCount "74"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bindlach III"]
+[BlackTeam "Schweinfurt"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be3 d6 7. Be2 Nf6 8.
+Nb3 a6 9. O-O O-O 10. f4 b5 11. a3 Bb7 12. Bf3 Qc7 13. Qe1 Rac8 14. Kh1 Nd7 15.
+Qf2 Na5 16. Nxa5 Qxa5 17. Rad1 Qc7 18. Rd2 Nc5 19. e5 Bxf3 20. Qxf3 dxe5 21.
+Nd5 e4 22. Qf2 Qd6 23. Nb4 Qc7 24. Bxc5 Qxc5 25. Qxc5 Rxc5 26. Nxa6 Rc6 27. Nb4
+Rd6 28. Rxd6 exd6 29. c3 Rc8 30. Rd1 Bf8 31. Kg1 f5 32. Rd5 Rc5 33. Kf2 Kf7 34.
+Ke3 Ke6 35. Rd1 Be7 36. Nc2 Bf6 37. Nd4+ Bxd4+ 1/2-1/2
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.02.17"]
+[Round "6.2"]
+[White "Kuhn, Norbert"]
+[Black "Wunder, Stefan"]
+[Result "0-1"]
+[ECO "B15"]
+[WhiteElo "2124"]
+[BlackElo "2111"]
+[PlyCount "116"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Wuerzburg II"]
+[BlackTeam "Nordhalben"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 g6 2. d4 c6 3. Nf3 Bg7 4. Be2 d5 5. Nc3 dxe4 6. Nxe4 Bf5 7. Ng3 Be6 8.
+O-O Nf6 9. Re1 Bd5 10. c4 Bxf3 11. Bxf3 O-O 12. Bf4 Nbd7 13. Qb3 Nb6 14. Rad1
+e6 15. c5 Nbd5 16. Bd6 Re8 17. Qxb7 Qc8 18. Qxc8 Rexc8 19. a3 a5 20. b3 Nc3 21.
+Rd2 Nb5 22. Be5 a4 23. bxa4 Rxa4 24. Ra1 Nd5 25. Bxg7 Kxg7 26. Ne2 Rca8 27. Rd3
+Rc4 28. Kf1 Raa4 29. Rd2 Kf6 30. Be4 Nxd4 31. Nxd4 Rxd4 32. Rxd4 Rxd4 33. Bxd5
+Rxd5 34. a4 Rd7 35. a5 Ra7 36. a6 Ke5 37. Ke2 Kd5 38. Ra5 Kc4 39. Ke3 Kb4 40.
+Ra2 Kxc5 41. g4 f6 42. h4 Kb5 43. Rb2+ Kxa6 44. g5 fxg5 45. hxg5 Rd7 46. f4 c5
+47. Ke4 Rd5 48. Rh2 c4 49. Rxh7 Kb5 50. Rb7+ Kc6 51. Rb8 Kc5 52. Rc8+ Kb4 53.
+Rb8+ Rb5 54. Rc8 Kb3 55. Rc6 c3 56. Kd3 Rd5+ 57. Ke4 c2 58. Rb6+ Kc4 0-1
+
+[Event "Regionalliga NW 0708"]
+[Site "Bayern"]
+[Date "2008.02.17"]
+[Round "6.8"]
+[White "Reitz, Helmut"]
+[Black "Stumpf, Hilmar"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1845"]
+[BlackElo "1845"]
+[PlyCount "44"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]

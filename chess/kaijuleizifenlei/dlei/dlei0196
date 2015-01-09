@@ -1,0 +1,600 @@
+[ECO "D55"]
+[WhiteElo "2148"]
+[BlackElo "1875"]
+[PlyCount "67"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 b6 7. Bd3 dxc4 8. Bxc4
+Ba6 9. Bxa6 Nxa6 10. O-O c5 11. Qe2 cxd4 12. Nxd4 Nc5 13. Rfd1 Qc7 14. Rac1
+Rac8 15. Ncb5 Qb7 16. Bxf6 gxf6 17. Nc3 Kh8 18. b4 Rg8 19. Nf3 Nd7 20. a3 Ne5
+21. e4 Ng6 22. Qe3 a5 23. bxa5 Bc5 24. Qd2 bxa5 25. Rb1 Qc7 26. Nb5 Qf4 27.
+Qxf4 Nxf4 28. Ne1 Nh3+ 29. Kf1 Nxf2 30. Nd3 Nxe4 31. Nxc5 Rxc5 32. Rb2 Rf5+ 33.
+Kg1 Rb8 34. Rdb1 1/2-1/2
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.12"]
+[Round "2"]
+[White "Fragni, Enrico"]
+[Black "Riccardi, Mauro"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "1731"]
+[PlyCount "102"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b3 c5 7. Be2 Nc6 8. cxd5
+Nxd5 9. Nxd5 Qxd5 10. Bb2 cxd4 11. exd4 Qa5+ 12. Qd2 Qxd2+ 13. Kxd2 Rd8 14. Ke3
+Bh6+ 15. Kd3 Bf5+ 16. Kc3 Rac8 17. Bc4 b5 18. Bxb5 Nxd4+ 19. Kb4 Nc2+ 20. Ka4
+Nxa1 21. Rxa1 Rc2 22. Ba3 Bg7 23. Re1 Rxa2 24. Ne5 Bxe5 25. Rxe5 Rd4+ 26. Bc4
+Bd3 27. Kb4 Bxc4 28. bxc4 Rc2 29. Rc5 h5 30. Rc7 a5+ 31. Kb5 Rd3 32. Bxe7 Rb3+
+33. Kc5 Rb8 34. Ra7 Rxf2 35. Kd4 Re8 36. c5 Rxg2 37. Bd6 Rd2+ 38. Kc4 Rc8 39.
+Kb5 f5 40. Rxa5 g5 41. Ra7 f4 42. Be5 Rd5 43. Rg7+ Kf8 44. Rc7 Rb8+ 45. Kc6
+Rxe5 46. Kd6 Ree8 47. Rh7 f3 48. Rxh5 f2 49. Rh8+ Kg7 50. Rxe8 Rxe8 51. Kd7 Ra8
+0-1
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.12"]
+[Round "2"]
+[White "Molinari, Enzo"]
+[Black "Bergis, Didier"]
+[Result "1-0"]
+[ECO "D37"]
+[BlackElo "1700"]
+[PlyCount "65"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Nbd7 5. c4 Bb4+ 6. Nc3 Ne4 7. Qc2 Ndf6 8.
+Qa4+ b5 9. Qxb5+ Bd7 10. Qxb4 Rb8 11. Qa3 Nxc3 12. bxc3 Ne4 13. cxd5 exd5 14.
+Bd3 g5 15. Bg3 h5 16. h3 Rh6 17. Bxe4 dxe4 18. Ne5 Rhb6 19. O-O Be6 20. Qc5 Qd5
+21. Qxd5 Bxd5 22. c4 Ba8 23. Nxf7 Rf6 24. Nxg5 Kd7 25. d5 Rg8 26. Nxe4 Rfg6 27.
+h4 Bb7 28. Nc5+ Kc8 29. Nxb7 Kxb7 30. Rab1+ Kc8 31. Rb4 Ra6 32. Rfb1 Kd7 33.
+Rb7 1-0
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.12"]
+[Round "2"]
+[White "Solinas, Roberto"]
+[Black "Paoli, Walter"]
+[Result "0-1"]
+[ECO "D04"]
+[WhiteElo "1798"]
+[BlackElo "2059"]
+[PlyCount "92"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. e3 Bg7 5. Bd3 O-O 6. O-O Bg4 7. c4 c6 8. Qc2
+Bxf3 9. Nxf3 Nbd7 10. b3 dxc4 11. bxc4 c5 12. d5 Nxd5 13. Rb1 Nb4 14. Qe2 Nxd3
+15. Qxd3 Qc7 16. e4 Rad8 17. Qc2 b6 18. Bg5 Ne5 19. Nxe5 Qxe5 20. f4 Qd4+ 21.
+Rf2 Rd7 22. f5 h6 23. Bf4 Qd3 24. Kh1 Qxc2 25. Rxc2 Rfd8 26. h3 Rd1+ 27. Rxd1
+Rxd1+ 28. Kh2 Rd4 29. fxg6 fxg6 30. Bb8 Rd7 31. a4 Kf7 32. a5 Ke6 33. axb6 axb6
+34. Re2 Be5+ 35. Bxe5 Kxe5 36. Kg3 Rd3+ 37. Kg4 Rd4 38. Rb2 Rxe4+ 39. Kf3 Rxc4
+40. Rxb6 e6 41. g4 Rc3+ 42. Kg2 Rd3 43. Rb2 c4 44. Re2+ Kd5 45. Rf2 c3 46. Rf6
+c2 0-1
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.12"]
+[Round "3"]
+[White "Bolognesi, Alberto"]
+[Black "Raisi, Michele"]
+[Result "1-0"]
+[ECO "D74"]
+[WhiteElo "1866"]
+[BlackElo "1435"]
+[PlyCount "45"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 g6 4. g3 Bg7 5. Bg2 c6 6. O-O O-O 7. Nc3 Be6 8. cxd5
+Nxd5 9. e4 Nb6 10. b3 Bg4 11. Be3 Re8 12. Qd2 Bxf3 13. Bxf3 e5 14. Rad1 exd4
+15. Bxd4 Qxd4 16. Qxd4 Bxd4 17. Rxd4 N8d7 18. Bg2 Rad8 19. Rfd1 Ne5 20. Rxd8
+Kf8 21. h3 Rxd8 22. Rxd8+ Kg7 23. Rb8 1-0
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.12"]
+[Round "3"]
+[White "Riccardi, Mauro"]
+[Black "Pinna, Ferdinando"]
+[Result "0-1"]
+[ECO "D92"]
+[BlackElo "1635"]
+[PlyCount "84"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 c5 6. dxc5 Qa5 7. Qa4+ Qxa4 8.
+Nxa4 Ne4 9. Be5 f6 10. Bxb8 Rxb8 11. Rc1 Bd7 12. Nc3 Nxc3 13. Rxc3 f5 14. Rc2
+d4 15. e3 dxe3 16. fxe3 e5 17. Be2 Ke7 18. O-O a5 19. b3 Rhc8 20. Rd1 Be6 21.
+Rcd2 Bf6 22. a3 Ra8 23. Rd6 Rc6 24. Rxc6 bxc6 25. b4 axb4 26. axb4 Ra4 27. Rb1
+Kd7 28. Rd1+ Ke7 29. b5 Bxc4 30. Bxc4 Rxc4 31. b6 Rb4 32. Rd6 Rxb6 33. cxb6
+Kxd6 34. Nd2 Kd7 35. Nb3 Kd8 36. b7 Kc7 37. Nc5 Be7 38. b8=Q+ Kxb8 39. Nd7+ Kc7
+40. Nxe5 Kd6 41. Nf3 Kd5 42. Kf2 c5 0-1
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Buriani, Andrea"]
+[Black "Moi, Roberto"]
+[Result "1-0"]
+[ECO "D41"]
+[WhiteElo "2148"]
+[BlackElo "1933"]
+[PlyCount "77"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 Be7 8.
+Be2 O-O 9. O-O Qc7 10. Bb2 Rd8 11. Qd2 Nc6 12. d5 f5 13. Qc2 exd5 14. exd5 Ne5
+15. Nxe5 Qxe5 16. c4 Qd6 17. Bd3 Rf8 18. Rae1 Bf6 19. Re2 Bd7 20. Rfe1 Rf7 21.
+Be5 Bxe5 22. Rxe5 Raf8 23. f4 g6 24. Qb2 b6 25. Qa3 Bc8 26. Bc2 Kg7 27. Ba4 Bd7
+28. Bxd7 Rxd7 29. g3 Rf6 30. Re8 Rf8 31. R8e6 Qc7 32. h4 Rff7 33. Qb2+ Kh6 34.
+h5 Rd6 35. hxg6 hxg6 36. Qh2+ Kg7 37. Re8 g5 38. Qh8+ Kg6 39. R1e6+ 1-0
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Fiorentini, Davide"]
+[Black "Marson, Antonio"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1596"]
+[BlackElo "1809"]
+[PlyCount "42"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 c6 3. c3 Nf6 4. Bf4 h6 5. e3 Bf5 6. Bd3 Bxd3 7. Qxd3 e6 8. Nbd2
+Bd6 9. Bxd6 Qxd6 10. Ne5 Nbd7 11. f4 Qe7 12. O-O-O O-O-O 13. h3 Kb8 14. Qc2 Rc8
+15. Kb1 c5 16. Qb3 Nxe5 17. fxe5 Nd7 18. Rhf1 c4 19. Qc2 f6 20. Rf3 Rhf8 21. e4
+Nb6 1/2-1/2
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Garofalo, Sergio"]
+[Black "Vitiello, Luigi"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1882"]
+[BlackElo "1488"]
+[PlyCount "63"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Nbd2 Nbd7 4. b3 e6 5. a3 b6 6. e3 a6 7. Bb2 Bb7 8. Bd3
+c5 9. Qe2 Bd6 10. Ne5 b5 11. c4 Qc7 12. f4 cxd4 13. exd4 dxc4 14. bxc4 bxc4 15.
+Ndxc4 Nd5 16. Nxd6+ Qxd6 17. O-O O-O 18. Rf2 N7b6 19. Raf1 Na4 20. Ba1 Nf6 21.
+g4 Qd5 22. Rf3 Rfc8 23. g5 Ne4 24. Re1 Nac3 25. Bxc3 Nxc3 26. Bxh7+ Kxh7 27.
+Rh3+ Kg8 28. Rh8+ Kxh8 29. Qh5+ Kg8 30. Qxf7+ Kh7 31. Qh5+ Kg8 32. Qf7+ 1/2-1/2
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Gilevich, Artem"]
+[Black "Marani, Luca"]
+[Result "1-0"]
+[ECO "D58"]
+[WhiteElo "2069"]
+[BlackElo "1875"]
+[PlyCount "79"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 b6 7. cxd5 exd5 8. Rc1
+Nbd7 9. Bd3 h6 10. Bh4 Bb7 11. O-O c5 12. Bf5 Ne4 13. Bxe7 Qxe7 14. dxc5 Nxc3
+15. Rxc3 Nxc5 16. Nd4 Rfe8 17. Qc2 Qg5 18. b4 Ne6 19. Bxe6 fxe6 20. f4 Qf6 21.
+Nf3 Rac8 22. Ne5 Rxc3 23. Qxc3 Rc8 24. Qd2 Qf5 25. Rc1 Rxc1+ 26. Qxc1 Qe4 27.
+Qd2 h5 28. Nf3 Ba6 29. Kf2 Qd3 30. Qxd3 Bxd3 31. Nd4 Bf5 32. Kg3 Kf7 33. Kh4 g6
+34. Nxf5 exf5 35. Kg5 Kg7 36. b5 Kf7 37. Kh6 Kf6 38. h4 Kf7 39. Kh7 Kf6 40. Kg8
+1-0
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Molinari, Enzo"]
+[Black "Caramaschi, Vincenzo"]
+[Result "1-0"]
+[ECO "D31"]
+[BlackElo "1458"]
+[PlyCount "31"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 d5 3. cxd5 exd5 4. Bf4 Bb4+ 5. Nc3 b6 6. e3 Ba6 7. Bxa6 Nxa6 8.
+Qa4+ Qd7 9. Qxa6 Nf6 10. Nge2 Qg4 11. Qb5+ Kd8 12. Qxb4 Qxg2 13. Rg1 Qf3 14.
+Rc1 Ng4 15. Bg3 Re8 16. Nd1 1-0
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Ugolini, Lorenzo"]
+[Black "Riccardi, Mauro"]
+[Result "0-1"]
+[ECO "D86"]
+[WhiteElo "1482"]
+[PlyCount "46"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Qb3 O-O 9. d5 a6 10. Bd2 b5 11. Be2 e6 12. Kd1 c4 13. Qb4 exd5 14. exd5 Bb7 15.
+Bf3 Bxd5 16. Bxd5 Qxd5 17. Nf3 Nc6 18. Qb2 b4 19. Ke1 Rfe8+ 20. Kf1 Qd3+ 21.
+Kg1 bxc3 22. Bxc3 Qxc3 23. Qxc3 Bxc3 0-1
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "5"]
+[White "Bolognesi, Alberto"]
+[Black "Paoli, Walter"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[WhiteElo "1866"]
+[BlackElo "2059"]
+[PlyCount "41"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. g3 c6 5. Bg2 O-O 6. O-O d5 7. cxd5 cxd5 8. Nc3
+Nc6 9. Bg5 Ne4 10. Be3 Nxc3 11. bxc3 b6 12. Ne5 Nxe5 13. dxe5 Bb7 14. f4 Rc8
+15. Qd3 e6 16. a4 Qc7 17. Bd4 Ra8 18. Rfb1 Qc8 19. a5 Ba6 20. Qe3 bxa5 21. Rxa5
+1/2-1/2
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "5"]
+[White "Boni, Gianni"]
+[Black "Dionigi, Riccardo"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "1778"]
+[BlackElo "1554"]
+[PlyCount "65"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. b3 d5 2. Bb2 e6 3. e3 Nd7 4. Nf3 Ngf6 5. d4 c5 6. Nbd2 Qc7 7. Bd3 Bd6 8. c4
+O-O 9. h3 a6 10. O-O Rb8 11. Qc2 h6 12. Rac1 b6 13. cxd5 Nxd5 14. Qb1 Qa7 15.
+Nc4 Bc7 16. dxc5 Nxc5 17. Bh7+ Kh8 18. Nce5 Qb7 19. Ng4 h5 20. Nge5 Nf6 21. Bc2
+Bd7 22. b4 Bb5 23. bxc5 Bxf1 24. c6 Qc8 25. Rxf1 Bd6 26. Rd1 Qc7 27. Nd7 Nxd7
+28. cxd7 Rbd8 29. Rd4 Be7 30. Qd1 Bf6 31. Qd3 g6 32. Rc4 Qxc4 33. Bxf6+ 1-0
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "5"]
+[White "Ferraguti, Francesco"]
+[Black "Ugolini, Lorenzo"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "1455"]
+[BlackElo "1482"]
+[PlyCount "67"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 Nf6 5. Nf3 c6 6. Bg5 Nbd7 7. e3 Be7 8.
+Bd3 O-O 9. O-O h6 10. Bxf6 Nxf6 11. a3 Re8 12. Qe2 Bg4 13. h3 Bh5 14. Rac1 Bd6
+15. Qd1 Qd7 16. Be2 Bg6 17. Bd3 Bh5 18. Be2 Bg6 19. Re1 Ne4 20. Qa4 Nxc3 21.
+Rxc3 Be4 22. Rec1 a6 23. Qd1 Bc7 24. Bd3 Qe7 25. Bxe4 Qxe4 26. Qd3 Qxd3 27.
+Rxd3 Re6 28. Nd2 f5 29. Nb3 Bb6 30. Kf1 Rae8 31. Ke2 f4 32. a4 fxe3 33. fxe3
+Rf8 34. a5 1/2-1/2
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "5"]
+[White "Malfagia, Andrea"]
+[Black "Buriani, Andrea"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2264"]
+[BlackElo "2148"]
+[PlyCount "95"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e5 4. Bxc4 exd4 5. exd4 Bd6 6. Nf3 Nf6 7. h3 O-O 8.
+O-O Bf5 9. Nc3 Nbd7 10. Be3 c6 11. Rc1 Nb6 12. Bb3 Nfd5 13. Bg5 f6 14. Bd2 Qd7
+15. Nxd5 Nxd5 16. Bxd5+ cxd5 17. Qb3 Be6 18. Bb4 Bxb4 19. Qxb4 Rac8 20. Rfe1
+Rc6 21. Rxc6 Qxc6 22. Nd2 Re8 23. Nb1 Bd7 24. Rxe8+ Bxe8 25. Nc3 Qe6 26. Qxb7
+Qe1+ 27. Kh2 Qxf2 28. Qxd5+ Kf8 29. Qd6+ Kf7 30. Qc7+ Kg8 31. Qb8 Kf8 32. d5
+Kf7 33. Qc7+ Kf8 34. Qd6+ Kf7 35. b4 Qe3 36. Qc7+ Kf8 37. Qc5+ Qxc5 38. bxc5 f5
+39. Kg3 g5 40. h4 h6 41. hxg5 hxg5 42. Kf3 Ke7 43. Ke3 Kf6 44. Kd4 a6 45. c6 g4
+46. Ne2 a5 47. g3 a4 48. a3 1-0
+
+[Event "Mirandola op"]
+[Site "Mirandola"]
+[Date "2008.01.13"]
+[Round "5"]
+[White "Molinari, Enzo"]
+[Black "Solinas, Roberto"]
+[Result "0-1"]
+[ECO "D02"]
+[BlackElo "1798"]
+[PlyCount "104"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 c6 3. Bf4 e6 4. e3 Bd6 5. Bg5 Qc7 6. c4 b6 7. cxd5 exd5 8. Nc3
+Ne7 9. Rc1 Qd7 10. Bd3 O-O 11. h3 Ba6 12. O-O Bxd3 13. Qxd3 a5 14. a3 Ra7 15.
+Qc2 b5 16. Ne2 h6 17. Bf4 f6 18. Rfe1 Nf5 19. g4 Ne7 20. e4 dxe4 21. Qxe4 Nd5
+22. Bh2 Bxh2+ 23. Kxh2 Qd6+ 24. Kg1 Re7 25. Qf5 Rfe8 26. Ng3 Rxe1+ 27. Rxe1
+Rxe1+ 28. Nxe1 Nd7 29. Qg6 Nf8 30. Qe8 Qe6 31. Qxe6+ Nxe6 32. Nc2 Ndf4 33. Kh2
+Nd3 34. b4 axb4 35. axb4 Nxf2 36. Nf5 Kf7 37. Kg2 Nd3 38. Kf3 Ng5+ 39. Kg3 Ne6
+40. Kf3 Nc7 41. Ke3 Nc1 42. Ke4 Nd5 43. Nfe3 Nc3+ 44. Kf3 g6 45. h4 Ke6 46. h5
+gxh5 47. Nf5 hxg4+ 48. Kxg4 h5+ 49. Kf4 Nd5+ 50. Ke4 Nc3+ 51. Kf4 N1e2+ 52. Kf3
+Kxf5 0-1
+
+[Event "Prague op-A"]
+[Site "Prague"]
+[Date "2008.01.11"]
+[Round "1"]
+[White "Horak, Karel"]
+[Black "Drabek, Vojtech"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1793"]
+[BlackElo "2147"]
+[PlyCount "112"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d5 5. h3 O-O 6. Bd3 a6 7. Nbd2 Nbd7 8. O-O
+c5 9. c3 Re8 10. Ne5 Nh5 11. Bh2 Nxe5 12. dxe5 Bh6 13. Re1 b5 14. Nf3 Ng7 15.
+Qe2 Qb6 16. Rad1 Bb7 17. Bf4 Bxf4 18. exf4 Rad8 19. Kh2 f5 20. Rg1 Ne6 21. g3
+d4 22. c4 bxc4 23. Bxc4 Bd5 24. b3 Kh8 25. Bxd5 Rxd5 26. Ne1 Qb5 27. Qc4 Qxc4
+28. bxc4 Rdd8 29. Nd3 Rb8 30. Rb1 Kg7 31. Kg2 Kf7 32. Kf3 Rec8 33. Ke2 Ke8 34.
+Kd2 Kd7 35. Kc2 Kc7 36. g4 Rxb1 37. Rxb1 Rb8 38. Rg1 Rf8 39. g5 Rh8 40. Kd2 h6
+41. gxh6 Rxh6 42. Rg3 Kb6 43. Kc2 Nd8 44. Nb2 Nb7 45. Rb3+ Kc6 46. Ra3 a5 47.
+Rg3 Nd8 48. Nd3 Ne6 49. Kd2 Nf8 50. Ke2 Nd7 51. Kd2 Nb6 52. Nb2 a4 53. a3 Kd7
+54. Ke2 Kc6 55. Kd2 e6 56. Ke2 Kc7 1/2-1/2
+
+[Event "Prague op-A"]
+[Site "Prague"]
+[Date "2008.01.11"]
+[Round "1"]
+[White "Klecker, Tadeas"]
+[Black "Sveshnikov, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2075"]
+[BlackElo "2506"]
+[PlyCount "58"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 dxc4 7. a4 b5 8. axb5
+cxb5 9. Nxb5 Qb6 10. Na3 Qxb2 11. Nxc4 Bb4+ 12. Ncd2 Ne4 13. Rc1 O-O 14. e3 g5
+15. Bg3 g4 16. Rc2 Qb3 17. Ne5 Bxd2+ 18. Rxd2 f5 19. Nc4 Qb4 20. Bd3 Nxd2 21.
+Nxd2 Ba6 22. Bxa6 Nxa6 23. O-O Rac8 24. f3 gxf3 25. Rxf3 Qa3 26. Nf1 Kh7 27.
+Bf4 Rg8 28. Rh3 Rg6 29. Qh5 Rc2 1/2-1/2
+
+[Event "Prague op-A"]
+[Site "Prague"]
+[Date "2008.01.11"]
+[Round "1"]
+[White "Vavrak, Peter"]
+[Black "Drzasga, Michael"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2472"]
+[BlackElo "2059"]
+[PlyCount "75"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 Nc6 3. e3 Nf6 4. Nc3 e6 5. Nf3 Be7 6. Bd3 O-O 7. a3 a5 8. O-O b6
+9. b3 Bb7 10. Bb2 Re8 11. Qc2 Bf8 12. Rad1 g6 13. Rfe1 Bg7 14. h3 Rc8 15. e4
+Ne7 16. cxd5 exd5 17. e5 Nd7 18. Ng5 Nf8 19. Bc1 Ne6 20. Nxe6 fxe6 21. Bg5 Rf8
+22. h4 h6 23. Bxe7 Qxe7 24. Re3 c5 25. Bxg6 Rf4 26. g3 cxd4 27. Red3 Rg4 28.
+Bh5 Re4 29. Rxd4 Rxe5 30. Bg4 h5 31. Bh3 Re4 32. Nxd5 exd5 33. Rxe4 dxe4 34.
+Bxc8 e3 35. Bxb7 exf2+ 36. Qxf2 Qxb7 37. Rd8+ Kh7 38. Qf5+ 1-0
+
+[Event "Prague op-A"]
+[Site "Prague"]
+[Date "2008.01.13"]
+[Round "3"]
+[White "Erneker, Josef"]
+[Black "Slechta, Karel"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "2217"]
+[BlackElo "1983"]
+[PlyCount "38"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e5 4. d5 Nf6 5. Bxc4 c6 6. dxc6 Qxd1+ 7. Kxd1 Nxc6 8.
+Nf3 Bg4 9. h3 Bh5 10. g4 Bg6 11. Nc3 O-O-O+ 12. Ke2 Na5 13. Bb5 a6 14. Ba4 b5
+15. Bb3 b4 16. Na4 Bd3+ 17. Ke1 Be4 18. Ke2 Bd3+ 19. Ke1 Be4 1/2-1/2
+
+[Event "Prague op-A"]
+[Site "Prague"]
+[Date "2008.01.13"]
+[Round "3"]
+[White "Richardt, Michael"]
+[Black "Pribyl, Josef"]
+[Result "1/2-1/2"]
+[ECO "D80"]
+[WhiteElo "1938"]
+[BlackElo "2367"]
+[PlyCount "67"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. h4 c6 5. cxd5 cxd5 6. Bf4 Nc6 7. e3 Bg7 8. Be2
+h5 9. Nf3 O-O 10. Rc1 Bg4 11. Ne5 Bxe2 12. Qxe2 Nxe5 13. Bxe5 e6 14. f3 Rc8 15.
+g3 Qe7 16. Bxf6 Bxf6 17. f4 Rc4 18. O-O Rfc8 19. a3 b5 20. Na2 a5 21. Qd2 Qc7
+22. b3 Rc2 23. Rxc2 Qxc2 24. Qxc2 Rxc2 25. Rf2 Rc7 26. Kf1 Be7 27. b4 axb4 28.
+axb4 Kg7 29. Rb2 Kf6 30. Kf2 Kf5 31. Kf3 f6 32. Rb3 g5 33. hxg5 fxg5 34. fxg5
+1/2-1/2
+
+[Event "Prague op-A"]
+[Site "Prague"]
+[Date "2008.01.14"]
+[Round "4"]
+[White "Forthoffer, Patrick"]
+[Black "Braun, Marek"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[WhiteElo "2237"]
+[BlackElo "2067"]
+[PlyCount "56"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Qb6 7. a3 e6 8. e3
+a6 9. Bd3 Qd8 10. O-O Bd6 11. Rc1 h6 12. Bxd6 Qxd6 13. e4 dxe4 14. Nxe4 Nxe4
+15. Bxe4 Bd7 16. d5 exd5 17. Bxd5 O-O-O 18. Qb3 Kb8 19. Rfd1 Be6 20. Bxe6 Qxe6
+21. Qxe6 fxe6 22. Re1 Rhe8 23. Re4 Rd6 24. Kf1 Re7 25. Ke2 Rd5 26. Rc2 Ka7 27.
+Ke1 Kb6 28. Rd2 Kc5 1/2-1/2
+
+[Event "Prague op-A"]
+[Site "Prague"]
+[Date "2008.01.14"]
+[Round "4"]
+[White "Ganaus, Hannes"]
+[Black "Spirin, Oleg"]
+[Result "0-1"]
+[ECO "D05"]
+[WhiteElo "2294"]
+[BlackElo "2404"]
+[PlyCount "66"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O d5 6. b3 Bd6 7. Bb2 O-O 8. Ne5
+c5 9. Nd2 Qe7 10. a3 Nbd7 11. f4 cxd4 12. exd4 Ne4 13. Bxe4 dxe4 14. Qe2 f5 15.
+Nxd7 Qxd7 16. c4 Qc7 17. Qe3 g5 18. fxg5 Bxh2+ 19. Kh1 Qg3 20. Rae1 Qh4 21. Qh3
+Bg3 22. Re3 Qxh3+ 23. gxh3 Bc7 24. Kg2 Rad8 25. h4 Rd7 26. Kh3 Rfd8 27. d5 Rf8
+28. Bf6 exd5 29. Rxf5 d4 30. Rxe4 Bxe4 31. Nxe4 d3 32. Nf2 d2 33. Kg4 Rd3 0-1
+
+[Event "Prague op-A"]
+[Site "Prague"]
+[Date "2008.01.14"]
+[Round "4"]
+[White "Mikusik, Marian"]
+[Black "Gooding, Ian"]
+[Result "0-1"]
+[ECO "D19"]
+[WhiteElo "2145"]
+[BlackElo "1968"]
+[PlyCount "84"]
+[EventDate "2008.01.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]

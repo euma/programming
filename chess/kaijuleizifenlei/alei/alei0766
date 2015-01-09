@@ -1,0 +1,600 @@
+[ECO "A11"]
+[WhiteElo "2278"]
+[BlackElo "2223"]
+[PlyCount "86"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. c4 c6 3. g3 Bg4 4. Ne5 Be6 5. d4 Nd7 6. Nf3 dxc4 7. Bg2 Ngf6 8.
+O-O Nb6 9. Ng5 Bg4 10. h3 Bh5 11. a4 a5 12. g4 Bg6 13. f4 Bxb1 14. Rxb1 e6 15.
+b3 c3 16. Qd3 Bb4 17. f5 Qd7 18. fxe6 fxe6 19. Bf4 O-O-O 20. Be5 h5 21. gxh5
+Rxh5 22. Nf3 Qe8 23. Bh2 Nbd7 24. Qc2 Nf8 25. e3 Qg6 26. Ne1 Qxc2 27. Nxc2 Ng6
+28. Rf2 Nh4 29. Be5 Nd7 30. Bg3 Nxg2 31. Kxg2 Rdh8 32. Rh1 Nf6 33. Be5 Ng4 34.
+Rf7 Nxe5 35. dxe5 Rd8 36. Rhf1 Rd2+ 37. R1f2 Rxe5 38. Rxg7 Rxf2+ 39. Kxf2 Rd5
+40. Rg2 Rd1 41. h4 Rh1 42. Kg3 Be7 43. Rh2 Bd6+ 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Bashkirov, Aleksey"]
+[Black "Kuporosov, Viktor"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "2133"]
+[BlackElo "2448"]
+[PlyCount "72"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. c4 e5 3. Nf3 e4 4. Ng5 f5 5. Nc3 Be7 6. h4 c6 7. Nh3 Na6 8. Bg5 Nf6
+9. e3 Nc7 10. d5 O-O 11. Nf4 c5 12. Be2 Rb8 13. a3 Nfe8 14. b4 Bxg5 15. hxg5
+Qxg5 16. Na4 b6 17. Rb1 Qe7 18. Bh5 Bd7 19. bxc5 dxc5 20. Ng6 hxg6 21. Bxg6 Qg5
+22. Nxc5 Qxg6 23. Nxd7 Nf6 24. Nxb8 Rxb8 25. Kf1 Qe8 26. Qb3 Na6 27. Rd1 Nc5
+28. Qc3 Nd3 29. Ke2 Rc8 30. Qb3 Qg6 31. d6 Qf7 32. Rh4 Qxc4 33. Qxc4+ Rxc4 34.
+Rd2 Rc1 35. Rd1 Rc6 36. Rdh1 Rxd6 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Chernova, Anastasia"]
+[Black "Apsatarov, Ivan"]
+[Result "1-0"]
+[ECO "A39"]
+[WhiteElo "2195"]
+[BlackElo "1984"]
+[PlyCount "85"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c5 6. d4 cxd4 7. Nxd4 Nc6 8.
+Nc3 a6 9. Nxc6 dxc6 10. Qxd8 Rxd8 11. Na4 Ne8 12. Bg5 Bf6 13. Bxf6 Nxf6 14.
+Rfd1 Re8 15. Rd2 e5 16. Rad1 Be6 17. b3 Kf8 18. Nc5 Rab8 19. Nxb7 Rxb7 20. Bxc6
+Ra7 21. Bxe8 Kxe8 22. f3 h5 23. Kf2 a5 24. Ke3 Ke7 25. Kd3 g5 26. Kc3 Rc7 27.
+Rd8 g4 28. Ra8 gxf3 29. exf3 Bd5 30. Rxa5 Bxf3 31. Rxe5+ Kf8 32. Rd8+ Kg7 33.
+a4 Kg6 34. h4 Bg4 35. a5 Nd7 36. Re3 Be6 37. Rg8+ Kh6 38. Rg5 Nb8 39. Ree5 Bg4
+40. Re8 Rc8 41. Rxc8 Bxc8 42. Rg8 Nc6 43. Rxc8 1-0
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Demidov, Vyacheslav"]
+[Black "Vasenev, Sergey"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2172"]
+[BlackElo "2313"]
+[PlyCount "64"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. a3 d5 2. e3 Nf6 3. c4 c5 4. Nf3 Nc6 5. cxd5 Nxd5 6. Be2 e5 7. d3 Be6 8. O-O
+Be7 9. b3 O-O 10. Bb2 f6 11. Nbd2 Nc7 12. Rc1 Bf7 13. Qc2 Ne6 14. Qb1 Qd7 15.
+Rfe1 Rfd8 16. Bf1 Bf8 17. Bc3 b5 18. Qa1 a6 19. Red1 Qd5 20. Be2 Bh5 21. Qa2
+Ra7 22. Ne4 Bf7 23. Rd2 h6 24. Bd1 c4 25. bxc4 bxc4 26. Ng3 cxd3 27. Bb3 Qd7
+28. Ne1 Nc5 29. Bxf7+ Qxf7 30. Qxf7+ Kxf7 31. Bb4 Nxb4 32. axb4 Nb3 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Iljin, Artem"]
+[Black "Bocharov, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "A54"]
+[WhiteElo "2556"]
+[BlackElo "2569"]
+[PlyCount "71"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. Bg5 Be7 6. e3 c6 7. Qc2 O-O 8. Bd3
+Re8 9. dxe5 dxe5 10. Bxf6 Nxf6 11. Nxe5 Bb4 12. Nf3 Bg4 13. Nd2 Qa5 14. h3 Qh5
+15. a3 Bxc3 16. Qxc3 Rad8 17. Rg1 Qh4 18. Bc2 Bh5 19. Bf5 Rd6 20. g3 Qg5 21. g4
+Bg6 22. Bxg6 hxg6 23. Ke2 Qh4 24. Rab1 Rxd2+ 25. Qxd2 Ne4 26. Qe1 Qf6 27. Rd1
+Qxb2+ 28. Kf1 Qc2 29. Qe2 Qxe2+ 30. Kxe2 Nc3+ 31. Kf3 Nxd1 32. Rxd1 Kf8 33. Rd7
+Re7 34. Rd8+ Re8 35. Rd7 Re7 36. Rd8+ 1/2-1/2
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Imamov, Ildar"]
+[Black "Fedotov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "A59"]
+[WhiteElo "2268"]
+[BlackElo "1976"]
+[PlyCount "123"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Qc2 Ng4 13. b3 Qa5 14. Bb2 Rfb8
+15. Nd1 Ngf6 16. Ne3 Qb4 17. Nd2 Nxe4 18. Bxg7 Nxd2 19. Bc3 Qe4+ 20. Qxe4 Nxe4
+21. Rhc1 Nxc3 22. Rxc3 Nf6 23. Rd3 Ne8 24. Nc4 Kf8 25. a4 Ng7 26. g4 Ne8 27.
+Re1 Nf6 28. h3 Ra7 29. Ree3 Kg7 30. Rf3 h5 31. Rf4 Rab7 32. Nd2 hxg4 33. hxg4
+Nd7 34. a5 Ne5 35. Re3 g5 36. Ra4 Ng6 37. a6 Ra7 38. Kf3 Nf4 39. Ke4 Rb6 40.
+Re1 Rbxa6 41. Rea1 Rxa4+ 42. bxa4 e6 43. dxe6 fxe6 44. a5 Kf6 45. Ke3 Nd5+ 46.
+Kd3 Nc7 47. Ne4+ Ke5 48. Nxg5 Kf4 49. Nf7 d5 50. g5 e5 51. g6 Ne6 52. a6 e4+
+53. Kc3 d4+ 54. Kc4 d3 55. Kd5 d2 56. Nd6 Ng7 57. Nxe4 Rxa6 58. Rd1 Rxg6 59.
+Nxc5 Nf5 60. Nd3+ Kg5 61. Rxd2 Rg8 62. Rd1 1/2-1/2
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Iskusnyh, Sergei"]
+[Black "Ibraev, Vasilij"]
+[Result "0-1"]
+[ECO "A70"]
+[WhiteElo "2467"]
+[BlackElo "2277"]
+[PlyCount "100"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg4 8. Qa4+
+Bd7 9. Qc2 Bg7 10. Nd2 O-O 11. Be2 a6 12. a4 Bg4 13. f3 Bc8 14. O-O Nbd7 15.
+Nc4 Ne8 16. f4 Nb6 17. Ne3 Rb8 18. Bd2 Bd7 19. Rab1 a5 20. Kh1 Nc7 21. b3 Nc8
+22. Nc4 Na6 23. Na2 Nb4 24. Nxb4 axb4 25. f5 b5 26. axb5 Bxb5 27. Rf3 Bxc4 28.
+Bxc4 Ra8 29. Rbf1 Ra1 30. Rxa1 Bxa1 31. Bh6 Re8 32. Bb5 Qh4 33. Rf1 Be5 34. g3
+Qh3 35. Qf2 Re7 36. Bd2 gxf5 37. exf5 f6 38. Qf3 Rg7 39. Rg1 Qg4 40. Qd3 Ra7
+41. Bf4 Ra2 42. Qe3 Qxf5 43. Be2 Qc2 44. Re1 Qc3 45. Qf2 Ne7 46. Rf1 Bd4 47.
+Qg2 Qc2 48. Re1 Bc3 49. Qh3 Qe4+ 50. Kg1 Bd4+ 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Naumov, Danila"]
+[Black "Turebaeva, A."]
+[Result "1/2-1/2"]
+[ECO "A41"]
+[WhiteElo "2049"]
+[BlackElo "2219"]
+[PlyCount "145"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. Nf3 Bg4 3. c3 Nd7 4. Qb3 Rb8 5. e4 e6 6. Be3 Ngf6 7. Nbd2 Be7 8.
+Bd3 a6 9. Nc4 d5 10. exd5 Nxd5 11. Qc2 Nxe3 12. fxe3 Bg5 13. Nfe5 Bh5 14. Nxd7
+Qxd7 15. Ne5 Qd6 16. Qf2 O-O 17. Nf3 Bf6 18. O-O c5 19. Nd2 cxd4 20. exd4 Bd8
+21. Ne4 Qe7 22. Rae1 Bc7 23. Re3 f5 24. Nc5 Qd6 25. Qh4 Bf7 26. Bc4 Rfe8 27.
+Nd3 b5 28. Bb3 Bd8 29. Qf2 Bg5 30. Re2 Re7 31. Qf3 a5 32. Ne5 Rbe8 33. Rfe1 g6
+34. Qc6 Qxc6 35. Nxc6 Rc7 36. Ne5 Rce7 37. a3 a4 38. Ba2 Bf6 39. Rc2 g5 40. Kf2
+f4 41. Rce2 Bh5 42. Re4 Bf7 43. Nxf7 Kxf7 44. d5 exd5 45. Bxd5+ Kf8 46. Rxe7
+Bxe7 47. Bc6 Rc8 48. Bxb5 Rb8 49. c4 Bc5+ 50. Kf3 Bd4 51. Re2 Kf7 52. Rd2 Bf6
+53. h4 h6 54. h5 g4+ 55. Kxg4 Rg8+ 56. Kf3 Rg3+ 57. Kxf4 Rb3 58. Kf5 Bxb2 59.
+Rd7+ Kf8 60. Bxa4 Rxa3 61. Bc6 Rg3 62. Bf3 Ke8 63. Rh7 Bc1 64. Ke6 Kd8 65. c5
+Rg8 66. Ra7 Re8+ 67. Kd5 Re7 68. Rxe7 Kxe7 69. Kc6 Be3 70. Kd5 Kd7 71. c6+ Kc7
+72. Ke6 Bg5 73. Be4 1/2-1/2
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Pavlov, Viktor"]
+[Black "Rodchenkov, Sergey D"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2079"]
+[BlackElo "2359"]
+[PlyCount "6"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 1/2-1/2
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Pushkin, Eduard"]
+[Black "Tolstikh, Nikolay"]
+[Result "0-1"]
+[ECO "A22"]
+[WhiteElo "2216"]
+[BlackElo "2381"]
+[PlyCount "126"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 O-O 5. Nd5 Nxd5 6. cxd5 c6 7. Nf3 d6 8.
+dxc6 Nxc6 9. O-O Bf5 10. d4 h6 11. a3 Ba5 12. b4 Bb6 13. dxe5 dxe5 14. Qxd8
+Raxd8 15. Bb2 e4 16. Ne5 Rd2 17. Nc4 Rxe2 18. Nxb6 axb6 19. Bc3 Rc2 20. Rfc1
+Rxc1+ 21. Rxc1 Rd8 22. g4 Bg6 23. Kf1 Ne7 24. Ke1 Ra8 25. Ra1 Nd5 26. Bd2 h5
+27. h3 hxg4 28. hxg4 f6 29. Bf1 Bf7 30. a4 Be6 31. Bc4 Rd8 32. g5 Kf7 33. Bxd5
+Rxd5 34. gxf6 gxf6 35. Be3 b5 36. axb5 Bg4 37. b6 Ke6 38. Rc1 Rd6 39. Bc5 Rd3
+40. Be3 f5 41. Bd2 Rd6 42. Be3 Bf3 43. Ra1 Kf6 44. Rc1 Kg6 45. Bc5 Rd3 46. Be3
+Kf6 47. Bd2 Rd6 48. Be3 Ke5 49. Rc5+ Ke6 50. Rc1 Kf6 51. Bc5 Rd7 52. Be3 Ke5
+53. Rc5+ Ke6 54. Rc1 Rd8 55. Ra1 Kf6 56. Rc1 Kg6 57. Bd2 Rd6 58. Be3 Kh5 59.
+Bc5 Rd3 60. Be3 Kg4 61. Bd2 f4 62. Rc8 e3 63. Rg8+ Kh5 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Zablotsky, Sergei"]
+[Black "Skomorokhin, Roman"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2508"]
+[BlackElo "2378"]
+[PlyCount "40"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. c4 e6 5. Qb3 Nc5 6. Qe3 Nf6 7. d4 Ncd7 8. Ne5
+c6 9. Nxg4 Nxg4 10. Qb3 Qb6 11. O-O Be7 12. Nc3 O-O 13. cxd5 exd5 14. Qd1 Ngf6
+15. Rb1 a5 16. a3 Rfe8 17. Qd3 Bd6 18. Bd2 a4 19. Rfe1 Qb3 20. Bf3 Qb6 1/2-1/2
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.07"]
+[Round "7"]
+[White "Zaynutdinov, Iskander"]
+[Black "Sakharov, Lev"]
+[Result "0-1"]
+[ECO "A15"]
+[BlackElo "2094"]
+[PlyCount "66"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 g6 3. b4 Bg7 4. Bb2 O-O 5. e3 d5 6. Nc3 b6 7. Nxd5 Nxd5 8.
+Bxg7 Kxg7 9. cxd5 Qxd5 10. d4 Bb7 11. Be2 Nd7 12. O-O Nf6 13. Rc1 Qd6 14. Ne5
+Nd5 15. b5 a6 16. a4 axb5 17. axb5 Ra2 18. Bc4 Nxe3 19. Qb3 Ra3 20. Qb2 Nxf1
+21. Bxf1 Ra4 22. Qc3 Qxd4 23. Qxd4 Rxd4 24. Rxc7 Bd5 25. Nd7 Ra8 26. Rc1 Be6
+27. Nxb6 Rb8 28. Nc4 Bxc4 29. Rxc4 Rd1 30. Rc2 Rxb5 31. Rd2 Rxd2 32. Bxb5 Rd1+
+33. Bf1 e5 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Filipenko, Alexander V"]
+[Black "Sadykov, Ramil"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[WhiteElo "2341"]
+[BlackElo "2161"]
+[PlyCount "96"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nge2 Bg7 8. Ng3
+O-O 9. Be2 Re8 10. O-O Na6 11. Be3 Nc7 12. a4 Rb8 13. Qd2 a6 14. Bh6 b5 15.
+Bxg7 Kxg7 16. axb5 Nxb5 17. Nxb5 axb5 18. f3 Nd7 19. Ra7 c4 20. Qd4+ Qf6 21.
+Qxf6+ Kxf6 22. Kf2 Nc5 23. Ke3 Bb7 24. b4 cxb3 25. Bxb5 Ra8 26. Rxb7 Nxb7 27.
+Bxe8 Rxe8 28. Ne2 Ra8 29. Rb1 Nc5 30. h4 Ra2 31. g4 Rc2 32. g5+ Ke7 33. Nd4
+Rc3+ 34. Ke2 f6 35. Rb2 Rc4 36. Nc6+ Kf7 37. Nd8+ Ke8 38. Ne6 fxg5 39. hxg5
+Nxe6 40. dxe6 Rc3 41. f4 Ke7 42. f5 Rg3 43. Rb1 gxf5 44. exf5 d5 45. Rh1 Rxg5
+46. Rxh7+ Ke8 47. Rh8+ Ke7 48. Rh7+ Ke8 1/2-1/2
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Gubajdullin, Alexey"]
+[Black "Voitsekhovsky, Stanislav"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2456"]
+[BlackElo "2511"]
+[PlyCount "90"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 g6 3. b4 Bg7 4. Bb2 O-O 5. e3 d6 6. Be2 e5 7. d3 a5 8. b5 Nbd7
+9. O-O a4 10. a3 Nc5 11. Nc3 Re8 12. d4 exd4 13. Nxd4 Nfe4 14. Nxe4 Nxe4 15.
+Qc2 Nc5 16. Rad1 h5 17. Bc3 Qe7 18. h3 Ne4 19. Bb2 Ng5 20. Rfe1 Bd7 21. Bf1 c5
+22. Ne2 Bf5 23. Qc1 Bxb2 24. Qxb2 Bxh3 25. gxh3 Nf3+ 26. Kh1 Nxe1 27. Rxe1 Qe4+
+28. Bg2 Qxc4 29. Nf4 Re5 30. Bxb7 Rb8 31. Rc1 Qb3 32. Qxb3 axb3 33. Bc6 c4 34.
+Rxc4 b2 35. Rb4 Rc5 36. Rxb2 Rxc6 37. Rb4 Rc5 38. a4 d5 39. Kg2 Kf8 40. Rd4 Rd8
+41. b6 Ke7 42. Nd3 Rc4 43. Nb2 Rc5 44. Nd3 Rc3 45. Nb4 Rc5 1/2-1/2
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Ibraev, Vasilij"]
+[Black "Zablotsky, Sergei"]
+[Result "0-1"]
+[ECO "A55"]
+[WhiteElo "2277"]
+[BlackElo "2508"]
+[PlyCount "32"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 d6 4. e4 c6 5. Be2 Be7 6. O-O O-O 7. d4 Nbd7 8. Qc2
+a6 9. Rd1 Qc7 10. Bg5 h6 11. Bh4 Re8 12. Rac1 Nf8 13. d5 c5 14. Ne1 Nxe4 15.
+Bxe7 Nxc3 16. Bh4 Nxd1 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Kamiljanov, Timerbay"]
+[Black "Demanov, Aleksandr"]
+[Result "1-0"]
+[ECO "A56"]
+[WhiteElo "2206"]
+[BlackElo "2045"]
+[PlyCount "53"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Bd3 Nbd7 7. Nf3 Rb8 8. O-O
+Nf8 9. a3 Ng6 10. b4 b6 11. Bc2 O-O 12. Rb1 Bd7 13. Re1 h6 14. h3 Nh7 15. Ba4
+Ng5 16. Bxg5 hxg5 17. bxc5 Bxa4 18. Qxa4 bxc5 19. Rxb8 Qxb8 20. Rb1 Qa8 21. Qa6
+Rb8 22. Rxb8+ Qxb8 23. Nb5 Kh7 24. Qxa7 Qc8 25. Nxd6 Qf8 26. Nxf7 Qxf7 27.
+Nxg5+ 1-0
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Kamov, Igor"]
+[Black "Sokolov, Sergei"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2252"]
+[BlackElo "2362"]
+[PlyCount "70"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. a4 b4 5. Nd2 g6 6. g3 d6 7. Bg2 Bg7 8. e4 O-O 9.
+Ne2 a5 10. O-O Ra7 11. h3 e5 12. f4 exf4 13. gxf4 Re8 14. Ng3 h5 15. Qc2 h4 16.
+Ne2 Rae7 17. Rf2 Nh5 18. e5 dxe5 19. f5 gxf5 20. Rxf5 Nf4 21. Nxf4 Bxf5 22.
+Qxf5 exf4 23. Nf3 Qd7 24. Qxf4 Re4 25. Qg5 Rxc4 26. b3 Qe7 27. d6 Qxg5 28. Bxg5
+Bxa1 29. bxc4 f6 30. Bf4 b3 31. Nd2 Bd4+ 32. Kf1 b2 33. Bd5+ Kg7 34. d7 Nxd7
+35. Bc6 Bc3 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Kudriashova, Irina"]
+[Black "Talov, Nikita"]
+[Result "0-1"]
+[ECO "A17"]
+[WhiteElo "2197"]
+[BlackElo "2041"]
+[PlyCount "62"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c5 2. g3 Nf6 3. Bg2 e6 4. Nc3 Be7 5. e4 d6 6. Nge2 O-O 7. O-O e5 8. d3
+Nc6 9. f4 Ne8 10. Nd5 f5 11. Nec3 Nc7 12. Be3 Nxd5 13. Nxd5 Bf6 14. Rb1 exf4
+15. Nxf6+ Qxf6 16. Rxf4 Qe5 17. Qh5 g6 18. Qh6 Qg7 19. Rh4 Qxh6 20. Bxh6 Re8
+21. a3 Ne5 22. Rd1 Rb8 23. exf5 Bxf5 24. Bd5+ Be6 25. Bxe6+ Rxe6 26. Re4 g5 27.
+d4 cxd4 28. Rxe5 dxe5 29. Bxg5 h6 30. Bc1 b5 31. cxb5 Rxb5 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Sakharov, Lev"]
+[Black "Pushkin, Eduard"]
+[Result "0-1"]
+[ECO "A55"]
+[WhiteElo "2094"]
+[BlackElo "2216"]
+[PlyCount "78"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 c6 4. Nc3 Nbd7 5. e4 e5 6. Be2 Be7 7. O-O O-O 8. d5
+Nc5 9. Nd2 a5 10. b3 Ne8 11. a3 f5 12. Rb1 Nf6 13. Bf3 f4 14. b4 axb4 15. axb4
+Nd3 16. Qb3 c5 17. bxc5 Nxc5 18. Qc2 g5 19. Nb3 Nxb3 20. Qxb3 g4 21. Be2 Kh8
+22. Ba3 Rg8 23. f3 Rg6 24. Rfd1 gxf3 25. Bxf3 Bg4 26. Ne2 Qc8 27. g3 fxg3 28.
+Nxg3 Bxf3 29. Qxf3 Nxe4 30. Qxe4 Rxa3 31. Rd2 Rg4 32. Qe2 Bh4 33. Qf2 Bxg3 34.
+Qf6+ Rg7 35. hxg3 Raxg3+ 36. Kh1 R3g6 37. Qh4 Qf5 38. Rbb2 Qf1+ 39. Kh2 Qg1+
+0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Stepanov, Nikita"]
+[Black "Terentyev, Vitaly"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "1834"]
+[PlyCount "91"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 g6 2. h4 Nf6 3. e3 Bg7 4. Be2 h5 5. Nf3 d6 6. Nbd2 Bf5 7. c3 c6 8. Ng5 d5
+9. Nf1 Qc7 10. Ng3 e6 11. Nxf5 exf5 12. Bd2 Nbd7 13. Qc2 Bh6 14. Nh3 Ne4 15.
+O-O-O b5 16. Bd3 Ndf6 17. Kb1 O-O-O 18. Bc1 Rde8 19. Rde1 Nd7 20. f3 Ng3 21.
+Rhg1 Re7 22. Qf2 Rg8 23. Nf4 Bxf4 24. exf4 Ne4 25. fxe4 fxe4 26. f5 Nb6 27. Bc2
+Qd7 28. fxg6 fxg6 29. Qe2 Reg7 30. Bd1 Kb7 31. Ref1 a5 32. g4 hxg4 33. Qxg4 Qe7
+34. Bg5 Qe8 35. Rg2 b4 36. cxb4 axb4 37. Rc2 Nc4 38. Be2 Nd6 39. Rfc1 Nf5 40.
+Qg1 Rf7 41. Qe1 Rc7 42. Qxb4+ Kc8 43. Bb5 e3 44. Rxc6 Qe4+ 45. Ka1 Rgg7 46.
+Ba6+ 1-0
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Tokarev, Ilya"]
+[Black "Isajevsky, Anton"]
+[Result "0-1"]
+[ECO "A36"]
+[WhiteElo "2223"]
+[BlackElo "2440"]
+[PlyCount "126"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. a3 e6 6. b4 d6 7. Rb1 Nge7 8. bxc5
+dxc5 9. Na4 b6 10. Nf3 Bd7 11. Bb2 f6 12. O-O Rc8 13. Nc3 O-O 14. d3 Nf5 15. e3
+Qe7 16. Qe2 Rfd8 17. Rfd1 Be8 18. Nb5 Nd6 19. Bc3 Nf7 20. Bb2 Rd7 21. Ne1 Rdd8
+22. Nf3 f5 23. Bxg7 Kxg7 24. Rbc1 Qf6 25. Ne1 Nd6 26. Nc3 Ne7 27. f4 Nc6 28.
+Nf3 Nf7 29. h3 Bd7 30. Qb2 h6 31. h4 Kh7 32. Rc2 Na5 33. Qb1 Bc6 34. Nb5 Rd7
+35. Rcc1 Kg7 36. Nc3 Rcd8 37. Ne1 g5 38. hxg5 hxg5 39. Bxc6 Nxc6 40. Nf3 g4 41.
+Nh4 Nh8 42. Qb5 Ne7 43. Qb1 Nhg6 44. Ng2 Rh8 45. Qb5 Rhd8 46. Qb1 e5 47. Ne2
+Nc6 48. Kf2 Na5 49. Nc3 Qc6 50. Nd5 Rxd5 51. cxd5 Qxd5 52. Kg1 Qf3 53. d4 Qxg3
+54. Qxf5 Qxg2+ 55. Kxg2 Nh4+ 56. Kf2 g3+ 57. Ke2 Nxf5 58. dxe5 Rxd1 59. Rxd1
+Nc4 60. Rd7+ Kf8 61. Kf3 Ncxe3 62. Rd2 g2 63. Kf2 c4 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Tolstikh, Nikolay"]
+[Black "Dimukhametov, Artur"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2381"]
+[BlackElo "2295"]
+[PlyCount "148"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Nxd4
+Bxg2 9. Kxg2 Qc8 10. Qa4 O-O 11. Bg5 Qb7+ 12. f3 h6 13. Bxf6 Bxf6 14. Rfd1 a6
+15. Rd3 Nc6 16. Nxc6 dxc6 17. Rad1 Rfd8 18. Ne4 Be7 19. Nd6 Qc7 20. c5 bxc5 21.
+Nc4 Bf6 22. Rxd8+ Rxd8 23. Rxd8+ Qxd8 24. Qxa6 Qd1 25. Ne3 Qc1 26. Qd3 Qxb2 27.
+Qc2 Qb4 28. Nc4 Qe1 29. e3 h5 30. a4 Bc3 31. Qa2 h4 32. gxh4 Qxh4 33. a5 Qg5+
+34. Kf1 Qh5 35. Kg2 Qg5+ 36. Kh1 Qf5 37. Kg2 Qg5+ 38. Kf1 Qh5 39. Qe2 Qh3+ 40.
+Kg1 Qf5 41. Qd1 Qg5+ 42. Kh1 Bxa5 43. Nxa5 Qxe3 44. Nxc6 Qf2 45. Ne5 f6 46. Ng4
+Qb2 47. Qd8+ Kh7 48. Qd3+ f5 49. Ne3 Qf2 50. Nd1 Qe1+ 51. Kg2 Kg6 52. Nf2 Kf6
+53. Qc2 Qe3 54. Nd3 Qg5+ 55. Kf1 Qh5 56. Kg2 Qg5+ 57. Kf2 Qh4+ 58. Kf1 Qh3+ 59.
+Kf2 Qh4+ 60. Kf1 Qh3+ 61. Qg2 Qxg2+ 62. Kxg2 c4 63. Nb2 c3 64. Nd3 e5 65. Kf2
+e4 66. fxe4 fxe4 67. Nb4 Ke5 68. Nc2 g5 69. Ke3 Kf5 70. Kf2 Kg4 71. Kg2 Kf4 72.
+Kf2 Kg4 73. Kg2 Kf4 74. Kf2 Kg4 1/2-1/2
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Vafin, Ayrat"]
+[Black "Shabalin, Evgeny"]
+[Result "0-1"]
+[ECO "A36"]
+[BlackElo "2247"]
+[PlyCount "79"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 e5 6. Nge2 Nge7 7. O-O d6 8. d3
+Be6 9. Nd5 O-O 10. Nec3 f5 11. f4 Rb8 12. Bd2 Kh8 13. a3 a6 14. Rb1 b5 15. cxb5
+axb5 16. b4 c4 17. dxc4 bxc4 18. Qe2 e4 19. Nxe7 Qxe7 20. b5 Na7 21. a4 d5 22.
+Na2 d4 23. Bb4 Qf7 24. Bxf8 Qxf8 25. exd4 Bxd4+ 26. Kh1 Qa3 27. Qc2 c3 28. Nb4
+Rc8 29. Rfd1 Rc4 30. Nc6 Nxc6 31. bxc6 Qxa4 32. Rb8+ Kg7 33. Qxa4 Rxa4 34. Rb7+
+Kf6 35. Re1 Rc4 36. c7 c2 37. Bf1 Rc5 38. c8=Q Rxc8 39. Rbb1 cxb1=Q 40. Rxb1
+0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.08"]
+[Round "8"]
+[White "Zaynutdinov, Iskander"]
+[Black "Furseev, Evgeniy"]
+[Result "1-0"]
+[ECO "A15"]
+[BlackElo "1710"]
+[PlyCount "101"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]

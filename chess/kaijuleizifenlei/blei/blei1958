@@ -1,0 +1,600 @@
+e4 9. d3 e3 10. Bxe3 Be7 11. Bb3 Qh5 12. Nbd2 O-O 13. Ne4 Nxe4 14. dxe4 Qg6 15.
+Nd2 b5 16. Bd5 Bd7 17. g4 c4 18. a4 a6 19. O-O h5 20. f3 Bd6 21. Qg2 h4 22. f4
+Rad8 23. axb5 axb5 24. Ra6 Ne5 25. Rfa1 Be6 26. Bf2 Nd3 27. e5 Bc5 28. Nf1
+Bxf2+ 0-1
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.07"]
+[Round "5"]
+[White "Khachatourian, Georgy"]
+[Black "Kesjan, Vardan"]
+[Result "1-0"]
+[ECO "B92"]
+[PlyCount "91"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Bf3 Nbd7 10. g4 Nb6 11. g5 Nfd7 12. Nd5 Bxd5 13. exd5 Bxg5 14. Qd3 Bxe3
+15. fxe3 Qh4+ 16. Ke2 Qc4 17. Rhg1 Qxd3+ 18. cxd3 g6 19. a4 Nf6 20. Na5 Rb8 21.
+e4 Ke7 22. Rgc1 Rhc8 23. b3 Kd8 24. Ke3 Rc5 25. Nc4 Nxc4+ 26. bxc4 Ra5 27. Bd1
+Nd7 28. Rab1 Nc5 29. Rb4 Ke7 30. d4 exd4+ 31. Kxd4 f6 32. Rcb1 Kd7 33. R1b2 Kc7
+34. Rf2 Rf8 35. Bc2 Nd7 36. Rb1 Rc5 37. Bd3 Kb8 38. Rfb2 Rc7 39. a5 Nc5 40. Rb6
+Rd7 41. Rxd6 Rxd6 42. Kxc5 Kc7 43. Kd4 g5 44. c5 Rd7 45. d6+ Kb8 46. Kd5 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.07"]
+[Round "5"]
+[White "Looshnikov, Nikolai"]
+[Black "Kruchev, Boris"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2462"]
+[BlackElo "2278"]
+[PlyCount "59"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Be2 b5 12. Bxf6 Nxf6 13. e5 Bb7 14. Qg3 dxe5
+15. fxe5 Nd7 16. Nxe6 fxe6 17. Qg6+ Kd8 18. Qxe6 Re8 19. Kb1 Bf6 20. Rxd7+ Qxd7
+21. Qb6+ Qc7 22. Qd4+ Qd7 23. Qb6+ Kc8 24. exf6 Qc6 25. f7 Rf8 26. Qe3 Rxf7 27.
+Bf3 Qf6 28. Nd5 Bxd5 29. Bxd5 Qf1+ 30. Qc1 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.07"]
+[Round "5"]
+[White "Romanov, Mikhail"]
+[Black "Malinin, Vasily B"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2182"]
+[BlackElo "2331"]
+[PlyCount "35"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Bf4 Ng6 5. Bg3 Nf6 6. Nc3 Bb4 7. Bd3 d5 8.
+exd5 Qxd5 9. Qf3 Bg4 10. Qxd5 Nxd5 11. Kd2 Nxc3 12. bxc3 Be7 13. Re1 O-O-O 14.
+Kc1 Ba3+ 15. Kd2 c5 16. Re4 Rxd3+ 17. Kxd3 Rd8+ 18. Ke3 0-1
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.07"]
+[Round "5"]
+[White "Svinarenko, Pavel"]
+[Black "Demianjuk, Alexander"]
+[Result "0-1"]
+[ECO "B26"]
+[WhiteElo "2153"]
+[BlackElo "2317"]
+[PlyCount "46"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Nge7 8. Bh6
+Bxh6 9. Qxh6 Nd4 10. Qd2 e5 11. Nce2 Be6 12. c3 Nxe2 13. Nxe2 d5 14. d4 cxd4
+15. cxd4 dxe4 16. Bxe4 Bd5 17. Qe3 f5 18. Bxd5 Nxd5 19. Qxe5+ Kf7 20. g4 Re8
+21. Qg3 Qe7 22. O-O-O Qxe2 23. Qb3 Qe4 0-1
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.07"]
+[Round "5"]
+[White "Taysayev, Timur"]
+[Black "Permiakov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B37"]
+[WhiteElo "2164"]
+[BlackElo "2339"]
+[PlyCount "28"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Nc2 Bg7 8. Be2
+Nd7 9. Bd2 a5 10. O-O Nc5 11. b3 O-O 12. f3 f5 13. exf5 Bxf5 14. Ne3 Nd4
+1/2-1/2
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "6"]
+[White "Demianjuk, Alexander"]
+[Black "Shutukov, S."]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[WhiteElo "2317"]
+[BlackElo "2360"]
+[PlyCount "67"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Nd7 7. Nxd7 Bxd7 8.
+O-O g6 9. Re1 Bg7 10. Na3 O-O 11. Bf3 Be6 12. c3 Qd7 13. Bg5 h6 14. Bh4 Rac8
+15. Bg3 b5 16. Nc2 Bf5 17. Ne3 Be6 18. a4 a6 19. axb5 axb5 20. Nxd5 Bxd5 21.
+Be5 Bxf3 22. Qxf3 Bxe5 23. Rxe5 Kg7 24. Rae1 e6 25. h4 Qe7 26. Qg3 Kh8 27. Qf4
+Kg7 28. R1e3 Rfd8 29. h5 g5 30. Qg4 Rd5 31. f4 Rcd8 32. fxg5 hxg5 33. h6+ Kh8
+34. Rf3 1/2-1/2
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "6"]
+[White "Kondratenko, Anatoly"]
+[Black "Li, Sergey"]
+[Result "1-0"]
+[ECO "B26"]
+[WhiteElo "2182"]
+[BlackElo "2117"]
+[PlyCount "65"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. d3 e6 6. Be3 d6 7. Qd2 Qa5 8. Nf3
+Bd7 9. Nh4 Nge7 10. O-O O-O 11. Bh6 Rab8 12. Bxg7 Kxg7 13. f4 f5 14. Rf2 b5 15.
+Qe3 b4 16. Nd1 Nd4 17. Qc1 fxe4 18. dxe4 Qa6 19. Kh1 Bc6 20. c3 bxc3 21. bxc3
+Nb5 22. a4 Nc7 23. c4 Rb4 24. Ne3 Qb7 25. Qd2 d5 26. f5 d4 27. f6+ Rxf6 28.
+Rxf6 Kxf6 29. Rf1+ Kg7 30. Ng4 Ng8 31. Qf4 Ne8 32. Qf8+ Kh8 33. Nh6 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "6"]
+[White "Looshnikov, Nikolai"]
+[Black "Ovetchkin, Roman"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[WhiteElo "2462"]
+[BlackElo "2558"]
+[PlyCount "31"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Na6 9. Bf4 Qa5 10. Nf3 Nb4 11. O-O Nbxd5 12. Be5 Nb6 13. a4 Be6 14. Qa3
+Nbd5 15. Ng5 Bd7 16. Bf3 1/2-1/2
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "6"]
+[White "Svinarenko, Pavel"]
+[Black "Minosians, Artem"]
+[Result "1-0"]
+[ECO "B25"]
+[WhiteElo "2153"]
+[BlackElo "1971"]
+[PlyCount "85"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nf6 7. Nc3 O-O 8. O-O
+e5 9. h3 Nd4 10. Kh2 Rb8 11. Ng1 Ne8 12. Qd2 Kh8 13. f4 f5 14. Nd5 Be6 15. c3
+Nc6 16. Nf3 b6 17. Rae1 Qd7 18. Ng5 Bg8 19. Qd1 h6 20. Nf3 Kh7 21. exf5 Bxd5
+22. Ng5+ hxg5 23. fxg6+ Kxg6 24. f5+ Rxf5 25. Rxf5 Qxf5 26. Bxd5 Nf6 27. Bxc6
+d5 28. g4 Qe6 29. Ba4 Rh8 30. Kg2 d4 31. Bc1 Qd5+ 32. Kg3 e4 33. dxe4 Qe5+ 34.
+Kg2 Rf8 35. Bc2 Ne8 36. cxd4 cxd4 37. Rf1 Rxf1 38. Qxf1 Nd6 39. Qf3 Bf6 40. Bd2
+b5 41. Be1 Kf7 42. Bg3 Qc5 43. e5 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Bronnikov, Konstantin Al"]
+[Black "Barsamian, Eduard"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[WhiteElo "2325"]
+[BlackElo "2137"]
+[PlyCount "34"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Ne2 Nc6 3. c4 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Nxc6 bxc6 7. Bd3 d5 8.
+Nc3 d4 9. Ne2 e5 10. O-O Bd6 11. f4 c5 12. f5 h6 13. h3 Bb7 14. Qc2 Bc6 15. g4
+Rb8 16. Ng3 Be7 17. Qe2 Kf8 1/2-1/2
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Dzyapsha, Ruslan"]
+[Black "Korchmar, Vasiliy"]
+[Result "0-1"]
+[ECO "B01"]
+[BlackElo "2078"]
+[PlyCount "48"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. Bd2 c6 8.
+O-O Qd8 9. Bg5 Be7 10. a3 h6 11. Bh4 O-O 12. Re1 Nbd7 13. Ne5 Bf5 14. Bd3 Bxd3
+15. Qxd3 Nxe5 16. dxe5 Qxd3 17. cxd3 Nd5 18. Bxe7 Nxe7 19. Rad1 Rad8 20. Re3
+Rd4 21. Re4 Rfd8 22. Kf1 Rxd3 23. Rxd3 Rxd3 24. Ke2 Rd7 0-1
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Karapetayn, Albert"]
+[Black "Kvitsihiya, Ushangi"]
+[Result "1-0"]
+[ECO "B33"]
+[BlackElo "2213"]
+[PlyCount "63"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nxc6 bxc6 7. e5 Ng8 8.
+Bc4 e6 9. O-O d5 10. exd6 Bxd6 11. Qf3 Bxh2+ 12. Kxh2 Qh4+ 13. Kg1 Qxc4 14. Ne4
+Ke7 15. Qa3+ c5 16. Nxc5 Ke8 17. b3 Qb5 18. Ne4 Qd5 19. Nd6+ Kd7 20. Bf4 Bb7
+21. Nxb7 Qxb7 22. Rad1+ Ke8 23. Qa4+ Qb5 24. Qd4 Nf6 25. c4 Qc6 26. Bc1 h5 27.
+Rd3 h4 28. Ba3 Qd7 29. Qc5 Qb7 30. Rfd1 Ne4 31. Qa5 Qc8 32. Qa4+ 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Karmov, Mazhmudin"]
+[Black "Demianjuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2235"]
+[BlackElo "2317"]
+[PlyCount "63"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. f4 exf4 11. Rxf4 Nc6 12. Nd5 Bxd5 13. exd5 Ne5 14. Rb4 Qc7
+15. Bb6 Qc8 16. a4 Nfd7 17. Bf2 Qc7 18. a5 Rac8 19. Nd4 g6 20. Ra3 Nc5 21. Nf3
+Bf6 22. h4 Nxf3+ 23. Bxf3 Nd7 24. Bg4 Bg7 25. Bxd7 Qxd7 26. c3 Qe7 27. Raa4
+Rfe8 28. Rb6 Be5 29. Rab4 f5 30. h5 Qg7 31. hxg6 hxg6 32. g3 1/2-1/2
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Khubulava, Vepkhiya"]
+[Black "Bekker, Maxim"]
+[Result "0-1"]
+[ECO "B23"]
+[BlackElo "2180"]
+[PlyCount "62"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. exd5 exd5 5. d4 Be6 6. Nge2 Nf6 7. Qd3 c4 8. Qe3
+Be7 9. Nf4 Bf5 10. Bg2 O-O 11. O-O Nc6 12. Ncxd5 Nxd5 13. Nxd5 Bxc2 14. Nxe7+
+Nxe7 15. Qc3 Bd3 16. Re1 Nd5 17. Bxd5 Qxd5 18. Re5 Qd7 19. Bf4 Rad8 20. d5 f6
+21. Re3 Qxd5 22. Rae1 Bg6 23. Qa3 Bf7 24. Qxa7 Be8 25. Qb6 Bc6 26. f3 g5 27.
+Bc7 g4 28. Bxd8 gxf3 29. Re4 f5 30. Re5 f2+ 31. Kxf2 Qf3+ 0-1
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Shutukov, S."]
+[Black "Valov, Ilya"]
+[Result "1-0"]
+[ECO "B38"]
+[WhiteElo "2360"]
+[BlackElo "2269"]
+[PlyCount "67"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 g6 4. d4 Bg7 5. e4 cxd4 6. Nxd4 d6 7. Be2 O-O 8. Be3
+Nc6 9. O-O Qc7 10. Rc1 Nxd4 11. Bxd4 Be6 12. Qd2 a6 13. f3 Rac8 14. b3 Rfd8 15.
+Rfd1 Nd7 16. Be3 Qa5 17. Rc2 b5 18. Nd5 Qxd2 19. Rcxd2 Bxd5 20. Rxd5 Nf6 21.
+R5d2 bxc4 22. Bxc4 Rc6 23. e5 Ne8 24. Bd5 Rc3 25. Bd4 Rcc8 26. Bb6 Bxe5 27.
+Bxd8 Rxd8 28. Rc2 a5 29. g3 e6 30. Bb7 Kf8 31. f4 Bf6 32. Kf1 Ke7 33. Rc8 Rxc8
+34. Bxc8 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Zukhba, Daur"]
+[Black "Ezhikov, Vitaly"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2118"]
+[BlackElo "2136"]
+[PlyCount "74"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 Bg7 4. e4 d6 5. c3 O-O 6. Bd3 c5 7. O-O a6 8. h3
+Nbd7 9. Re1 b5 10. c4 Qb6 11. d5 Ne5 12. Nxe5 dxe5 13. Nf3 Ne8 14. Bg5 f6 15.
+Be3 b4 16. a3 Nd6 17. axb4 Qxb4 18. b3 Bd7 19. Bd2 Qb6 20. Qc2 Rfc8 21. Reb1 f5
+22. Bc3 fxe4 23. Bxe4 Nxe4 24. Qxe4 Bf5 25. Qe3 Bxb1 26. Rxb1 e4 27. Bxg7 Kxg7
+28. Qxe4 Qf6 29. Re1 Ra7 30. Ne5 Rcc7 31. Nc6 Ra8 32. Nxe7 Rf8 33. f3 Rf7 34.
+Nc6 Rb7 35. Qe3 Qd6 36. Qe8 Rxb3 37. Nb8 Rfxf3 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.11"]
+[Round "8"]
+[White "Arhangelsky, Vladislav"]
+[Black "Karmov, Mazhmudin"]
+[Result "1-0"]
+[ECO "B26"]
+[WhiteElo "2343"]
+[BlackElo "2235"]
+[PlyCount "73"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. Qd2 b5 8. Nge2
+b4 9. Nd1 e5 10. c3 bxc3 11. bxc3 Nge7 12. O-O O-O 13. Bh6 Bxh6 14. Qxh6 Ba6
+15. Qd2 Qb6 16. f4 c4+ 17. d4 exd4 18. cxd4 f5 19. Ndc3 fxe4 20. Bxe4 Qa5 21.
+d5 Nb4 22. f5 Qc5+ 23. Kg2 gxf5 24. Qg5+ Kh8 25. Qxe7 Rbe8 26. Qd7 fxe4 27. Rf7
+Rxf7 28. Qxf7 Qc8 29. Rf1 Qd8 30. Qxa7 Qe7 31. Qb6 Nc2 32. Rc1 Qf6 33. Rxc2
+Qf3+ 34. Kg1 Qd3 35. Rc1 Bc8 36. Qd4+ Kg8 37. Rd1 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.11"]
+[Round "8"]
+[White "Erashchenkov, Denis"]
+[Black "Ovetchkin, Roman"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2402"]
+[BlackElo "2558"]
+[PlyCount "67"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 Nxd5 6. Nf3 Nxc3 7. bxc3 g6
+8. d4 Qc7 9. Bb5+ Bd7 10. Bxd7+ Nxd7 11. O-O Bg7 12. Re1 Nb6 13. Bg5 f6 14. Bh4
+O-O 15. Qb3+ Rf7 16. Bg3 Qc4 17. Nd2 Qxb3 18. axb3 Bh6 19. Nf3 a6 20. c4 Nd7
+21. Re6 Nf8 22. Rb6 e6 23. Bd6 Re8 24. Re1 e5 25. dxe5 Nd7 26. Rb4 Nxe5 27.
+Nxe5 fxe5 28. Rxe5 Rxe5 29. Bxe5 Bf8 30. Ra4 Bc5 31. Ra2 Re7 32. Bc3 Bd4 33.
+Bb4 Bc5 34. Bc3 1/2-1/2
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.11"]
+[Round "8"]
+[White "Kruchev, Boris"]
+[Black "Chashchev, Sergey"]
+[Result "1-0"]
+[ECO "B05"]
+[WhiteElo "2278"]
+[BlackElo "2294"]
+[PlyCount "59"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O Bxf3 7. Bxf3 dxe5 8.
+dxe5 Nc6 9. c4 Nde7 10. Qa4 Qd4 11. Bg5 Rd8 12. Nc3 Qxe5 13. Bh4 Rd7 14. Rad1
+Qa5 15. Qb3 Qb6 16. Nb5 a6 17. Rxd7 Kxd7 18. Rd1+ Kc8 19. Nd6+ Kb8 20. Qxb6
+cxb6 21. Nxf7 Rg8 22. Bg3+ Ka8 23. Ng5 g6 24. Nxe6 Bh6 25. Rd7 Bc1 26. b4 b5
+27. cxb5 axb5 28. Nc7+ Ka7 29. Nxb5+ Ka8 30. Nc7+ 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.11"]
+[Round "8"]
+[White "Svinarenko, Pavel"]
+[Black "Lakerbaya, Timur"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[WhiteElo "2153"]
+[BlackElo "2086"]
+[PlyCount "58"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. Nc3 c5 3. g3 Nc6 4. Bg2 d6 5. d3 Nge7 6. f4 g6 7. Nf3 Bg7 8. O-O
+O-O 9. h3 Rb8 10. Kh2 Nd4 11. Ne2 b5 12. c3 Nxe2 13. Qxe2 b4 14. Qc2 bxc3 15.
+bxc3 Qa5 16. Bd2 Qa3 17. Rab1 Bd7 18. g4 Ba4 19. Qc1 Qxc1 20. Rfxc1 Nc6 21. Ne1
+Rfe8 22. Kg3 Bb5 23. Rb2 Rb6 24. Be3 Reb8 25. e5 Bf8 26. Rxb5 Rxb5 27. Bxc6 Rb2
+28. exd6 Bxd6 29. Rc2 g5 1/2-1/2
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.11"]
+[Round "8"]
+[White "Taysayev, Timur"]
+[Black "Gutkis, Vladimir"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "2164"]
+[BlackElo "2260"]
+[PlyCount "163"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. a4 a5 5. Nf3 d5 6. Bd3 Bg4 7. h3 Bxf3 8. Qxf3
+e6 9. Qg3 c5 10. dxc5 N6d7 11. Be3 Qc7 12. Bb5 Nc6 13. f4 g6 14. Qf2 Nb4 15.
+Na3 Be7 16. c3 Na6 17. Bxd7+ Kxd7 18. Nb5 Qc6 19. Nd6 f6 20. exf6 Bxf6 21. O-O
+b6 22. Bd4 Raf8 23. Bxf6 Rxf6 24. Ne4 dxe4 25. b4 axb4 26. cxb4 Nxb4 27. cxb6
+Nd5 28. Rfd1 Ke7 29. a5 Rxf4 30. Qb2 Qc3 31. Rdb1 Rb8 32. b7 Qxb2 33. Rxb2 Nc7
+34. a6 Nxa6 35. Rxa6 e3 36. Rab6 Kd7 37. R6b3 Re4 38. Kf1 e2+ 39. Ke1 h6 40.
+Rd2+ Ke7 41. Rxe2 Rd4 42. Kf2 Rd7 43. Reb2 Rd6 44. Ke3 Kf6 45. Ke4 Ke7 46. Rb6
+Rd7 47. h4 Rc7 48. g3 Rc4+ 49. Kf3 Rc3+ 50. Kf4 Rc4+ 51. Ke5 Rc5+ 52. Kd4 Rc7
+53. R2b5 Kf6 54. Rb3 Rd8+ 55. Ke4 Rb8 56. R3b4 Ke7 57. g4 Kf6 58. Kd3 Rd8+ 59.
+Ke3 Rc3+ 60. Ke4 Rb8 61. R6b5 Rc7 62. g5+ hxg5 63. hxg5+ Ke7 64. Ke5 Rc1 65.
+Rb6 Rc5+ 66. Kf4 Rf5+ 67. Kg4 Re5 68. R4b5 Re1 69. Rb1 Re4+ 70. Kf3 Re5 71.
+R6b5 Rf5+ 72. Rxf5 gxf5 73. Kf4 Kf7 74. Rb6 Ke7 75. Ke5 Kf7 76. Rb5 Kg6 77.
+Kxe6 f4 78. Kd6 f3 79. Kc7 Rf8 80. b8=Q Rxb8 81. Kxb8 Kh5 82. Rf5 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.12"]
+[Round "9"]
+[White "Bronnikov, Konstantin Al"]
+[Black "Akbaev, Kazbek"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2325"]
+[BlackElo "2416"]
+[PlyCount "53"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bf5 7. Ne5 e6 8.
+Nc4 Qb4 9. a3 Qe7 10. Qf3 c6 11. Bf4 Qd8 12. O-O-O Nd5 13. Be5 Nd7 14. Nxd5
+cxd5 15. Nd6+ Bxd6 16. Bxd6 Qb6 17. Qg3 O-O-O 18. Bd3 Nf6 19. Be7 Rdg8 20. Bxf5
+exf5 21. f3 Kd7 22. Rhe1 Ne8 23. Qf4 Qg6 24. Bc5 Qh6 25. Qxh6 gxh6 26. Re7+ Kc6
+27. Rxf7 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.12"]
+[Round "9"]
+[White "Gavrilov, Andrei"]
+[Black "Kharlamov, Igor"]
+[Result "0-1"]
+[ECO "B26"]
+[WhiteElo "2201"]
+[BlackElo "1964"]
+[PlyCount "34"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. d3 Bg7 5. Be3 d6 6. Qd2 Nd4 7. Nd1 e5 8. Bg2 h5
+9. h3 h4 10. g4 Ne6 11. Ne2 g5 12. Ndc3 Nf4 13. Bxf4 gxf4 14. Nd5 Ne7 15. Nxe7
+Qxe7 16. c3 Bd7 17. O-O-O f3 0-1
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.12"]
+[Round "9"]
+[White "Gutkis, Vladimir"]
+[Black "Korchmar, Arkady"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2260"]
+[BlackElo "2150"]
+[PlyCount "65"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg4 6. Be2 e6 7. h3 Bf5 8. Na3
+cxd4 9. Nb5 O-O-O 10. Nbxd4 Nxd4 11. Qxd4 Qxd4 12. Nxd4 Be4 13. O-O Bc5 14. Be3
+Bb6 15. a4 e5 16. a5 Bxd4 17. cxd4 exd4 18. Rfc1+ Bc6 19. Bf4 Ne7 20. a6 f5 21.
+b4 d3 22. Bf3 Rd4 23. Be3 Rxb4 24. Bc5 d2 25. Rc2 Rd8 26. Bxb4 Nd5 27. Bxd5
+Rxd5 28. axb7+ Kxb7 29. Rxd2 Rb5 30. Bc3 g5 31. Re2 Be4 32. f3 Bd3 33. Re7+ 1-0
+
+[Event "Sukhumi op"]
+[Site "Sukhumi"]
+[Date "2008.08.12"]
+[Round "9"]
+[White "Kondratenko, Anatoly"]
+[Black "Demianjuk, Alexander"]
+[Result "1-0"]
+[ECO "B26"]
+[WhiteElo "2182"]
+[BlackElo "2317"]
+[PlyCount "63"]
+[EventDate "2008.08.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. d3 d6 6. Be3 Rb8 7. f4 b5 8. Qd2 b4

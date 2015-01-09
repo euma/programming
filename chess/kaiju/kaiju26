@@ -1,0 +1,50 @@
+Be7 8.O-O-O O-O 9.f4
+B65	B65	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+Be7 8.O-O-O O-O 9.f4 Nxd4 10.Qxd4
+B66	B66	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+a6
+B67	B67	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Bd7
+B68	B68	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Bd7 9.f4 Be7
+B69	B69	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Bd7 9.f4 Be7 10.Nf3 b5 11.Bxf6
+B70	Dragon Variation, Sicilian; B70	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
+5.Nc3 g6
+B70	Alekhine Variation, Sicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
+5.Nc3 g6 6.Be2 Bg7 7.O-O O-O 8.Nb3
+B70	Fianchetto Variation, Sicilian Dragon	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 g6 6.g3
+B71	Levenfish Variation, Sicilian; B71	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 g6 6.f4
+B72	B72	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3
+B72	Nottingham Variation, Sicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
+5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Nb3
+B72	Amsterdam (Battery) Variation, Sicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Qd2
+B72	Grigoriev Variation, Sicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
+5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Qd2 O-O 9.O-O-O
+B73	B73	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2
+Nc6 8.O-O
+B73	Zollner Gambit, Sicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
+5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.f4 Qb6
+B74	B74	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2
+Nc6 8.O-O O-O 9.Nb3
+B74	Alekhine Line, Sicilian Dragon	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
+5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 a5
+B74	Maroczy Line, Sicilian Dragon	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
+5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 Be6 10.f4 Na5
+B74	Tartakower Line, Sicilian Dragon	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 Be6 10.f4 Qc8
+B75	B75	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3
+B76	Yugoslav Attack, Sicilian Dragon; B76	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O
+B76	Panov Variation, Sicilian Dragon	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.g4
+B77	B77	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3
+O-O 8.Qd2 Nc6 9.Bc4
+B77	Sosonko Variation, Sicilian Dragon	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Nd7
+B77	Czerniak Variation, Sicilian Dragon	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Nxd4 10.Bxe4
+B78	B78	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3

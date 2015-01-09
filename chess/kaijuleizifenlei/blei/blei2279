@@ -1,0 +1,600 @@
+[Black "Stutz, Reno"]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteElo "1531"]
+[BlackElo "2068"]
+[PlyCount "78"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. Be2 Nc6 7. O-O e6
+8. c3 Be7 9. d4 O-O 10. Ne5 Nxe5 11. Bxg4 Nxg4 12. Qxg4 c5 13. Bh6 Bf6 14. dxc5
+Qxc5 15. Rfd1 Rfd8 16. Be3 Qb5 17. Rab1 a6 18. g3 Rxd1+ 19. Qxd1 Rd8 20. Qc2
+Qc4 21. a3 Qg4 22. Kg2 b5 23. Rc1 h5 24. h3 Qc4 25. b3 Qd5+ 26. Kg1 Qf3 27. Re1
+h4 28. Kh2 hxg3+ 29. fxg3 Be5 30. Bf2 Qxc3 31. Qe4 Rd2 32. Qa8+ Kh7 33. Qe4+ g6
+34. Qh4+ Kg7 35. Kg1 Qf3 36. Rf1 Qxb3 37. Qg5 Qb2 38. Qe3 Bd4 39. Qf3 Rxf2 0-1
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "1"]
+[White "Krueger, Alexander"]
+[Black "Joehn, Janis"]
+[Result "1-0"]
+[ECO "B84"]
+[WhiteElo "2055"]
+[BlackElo "1514"]
+[PlyCount "79"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 d6 6. Nc3 Nf6 7. O-O Qc7 8. Kh1
+Be7 9. Bg5 Nbd7 10. f4 O-O 11. f5 e5 12. Nb3 b5 13. Bxf6 Nxf6 14. a3 Bb7 15.
+Bf3 Rfd8 16. Qd2 Rab8 17. Rad1 Ba8 18. Qd3 b4 19. axb4 Rxb4 20. Rfe1 Rb6 21.
+Ra1 Bb7 22. Ra2 Rc8 23. Na5 Ba8 24. Re3 Rcb8 25. b3 Qc8 26. Nc4 Rc6 27. Re1 Bb7
+28. Raa1 Qc7 29. Red1 Rd8 30. Rd2 Rc8 31. Be2 Rd8 32. Qe3 Rb8 33. Rad1 Rd8 34.
+Rd3 Rc8 35. Qd2 Rxc4 36. bxc4 Qxc4 37. Rg3 Nxe4 38. Nxe4 Qxe4 39. Bf3 Rxc2 40.
+Qh6 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "1"]
+[White "Weber, Max"]
+[Black "Birnbaum, Wolf Dieter"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "1614"]
+[BlackElo "2096"]
+[PlyCount "59"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 cxd6 6. Nc3 g6 7. Nf3 Bg7 8. Be3
+O-O 9. Be2 Nc6 10. O-O Bg4 11. b3 d5 12. c5 Nc8 13. Rc1 e6 14. h3 Bxf3 15. Bxf3
+N8e7 16. Ne2 Nf5 17. Bg4 Nxe3 18. fxe3 e5 19. dxe5 Nxe5 20. Nf4 Nxg4 21. Qxg4
+Qa5 22. Nxd5 Qxa2 23. Qc4 Qb2 24. Rc2 Qe5 25. Rcf2 Rad8 26. e4 Qd4 27. Qc2 Rde8
+28. Re1 f5 29. Kh1 Be5 30. Rd2 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "1"]
+[White "Zimmermann, Ulrich"]
+[Black "Kirchner, Holger"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "1818"]
+[BlackElo "1141"]
+[PlyCount "81"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Be3 Ne7 6. g4 Bg6 7. h4 h6 8. Bd3 Bxd3
+9. Qxd3 Nd7 10. Nd2 Qc7 11. O-O-O f6 12. exf6 Nxf6 13. f3 O-O-O 14. Nh3 Rg8 15.
+Bf4 Qd7 16. Rhe1 Re8 17. Nb3 g5 18. hxg5 hxg5 19. Bxg5 Rxg5 20. Nxg5 Bh6 21. f4
+Bxg5 22. fxg5 Nxg4 23. Qg3 e5 24. Nc5 Qf5 25. Rg1 Qxg5+ 26. Rd2 exd4 27. Qxg4+
+Qxg4 28. Rxg4 dxc3 29. bxc3 Kc7 30. Rg7 a6 31. Re2 Kd6 32. Nxb7+ Kd7 33. Nc5+
+Kd6 34. Nxa6 c5 35. Nxc5 Kxc5 36. Rexe7 Rf8 37. Rgf7 Rb8 38. Rc7+ Kd6 39. Rb7
+Re8 40. Kb2 Re2+ 41. Kb3 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Bardosch, Karl"]
+[Black "Hasenberg, Harald"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1183"]
+[BlackElo "1678"]
+[PlyCount "34"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. Bc4 d6 4. Be3 Nf6 5. Nd2 O-O 6. f4 Ng4 7. Qe2 c5 8. Nb3
+Nc6 9. Nf3 Nb4 10. Bd3 Nxe3 11. Qxe3 c4 12. Qd2 Nxd3+ 13. cxd3 cxb3 14. axb3
+Qb6 15. Qc3 Bg4 16. O-O Bxf3 17. Rxf3 Bxd4+ 0-1
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Hamann, Dirk"]
+[Black "Zimmermann, Ulrich"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2088"]
+[BlackElo "1818"]
+[PlyCount "93"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Nxe7 Nxe7 11. Bxf6 gxf6 12. c4 f5 13. cxb5 fxe4 14. bxa6
+Qa5+ 15. Qd2 Qxd2+ 16. Kxd2 Bxa6 17. Bb5+ Bxb5 18. Nxb5 Kd7 19. Rhc1 Rhc8 20.
+Rxc8 Rxc8 21. a4 f5 22. Ra3 Nd5 23. Rh3 Nf6 24. Rh6 Ke7 25. Nc3 Ke6 26. g4 Rg8
+27. gxf5+ Kxf5 28. b4 Rg2 29. Nd1 Kg5 30. Rh3 Kg4 31. Rg3+ Rxg3 32. hxg3 Nd7
+33. Ke3 Kf5 34. Nc3 Nb6 35. a5 Nc4+ 36. Ke2 e3 37. fxe3 Ke6 38. e4 Kd7 39. Na4
+Kc6 40. a6 Na3 41. Kd3 Nb5 42. Nc3 Nd4 43. Kc4 Kb6 44. b5 h5 45. Kd5 Nf3 46.
+Kxd6 Ka7 47. Kc7 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Hingst, Silke"]
+[Black "Jepp, Wolfgang"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1774"]
+[BlackElo "1531"]
+[PlyCount "118"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d6 5. Nc3 g6 6. f4 Bg7 7. e5 dxe5 8. dxe5
+Qxd1+ 9. Nxd1 e6 10. Nf3 Nge7 11. Bd3 O-O 12. O-O Rd8 13. Be4 Nd4 14. Be3 Nxf3+
+15. Bxf3 Nf5 16. Bc5 Bf8 17. Bxf8 Kxf8 18. Nc3 a6 19. Rfd1 Ke7 20. Ne4 Nd4 21.
+Nd6 Nxf3+ 22. gxf3 Bd7 23. Nxb7 Rdb8 24. Nc5 Bc6 25. b3 Bd5 26. Kf2 Rb5 27.
+Rac1 Ra7 28. Ke3 a5 29. Rd4 Rc7 30. Nd3 Rxc1 31. Nxc1 Rc5 32. Nd3 Rc2 33. Ra4
+Rxh2 34. Nf2 h5 35. Rxa5 Rg2 36. Ne4 h4 37. Ng5 Rc2 38. Kd3 Rc7 39. Ke2 f6 40.
+Ne4 Bxe4 41. fxe4 fxe5 42. fxe5 g5 43. Kf3 Rc3+ 44. Kg2 h3+ 45. Kh2 g4 46. Ra7+
+Kf8 47. Rh7 Rc2+ 48. Kg3 Rxa2 49. Kxg4 h2 50. Kg5 Kg8 51. Rh3 Kg7 52. Kh5 Rg2
+53. Rh4 Rg6 54. Rxh2 Rh6+ 55. Kg4 Rxh2 56. Kf4 Rb2 57. Ke3 Rxb3+ 58. Kd4 Rb4+
+59. Kd3 Kg6 0-1
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Joensch, Robert"]
+[Black "Bardosch, Konstantin"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "1577"]
+[BlackElo "1203"]
+[PlyCount "101"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be7 8. Be3
+O-O 9. Be2 Be6 10. Qd2 Nbd7 11. O-O-O Rc8 12. g4 b5 13. g5 Ne8 14. h4 f5 15.
+Nd5 Bxd5 16. Qxd5+ Kh8 17. exf5 Rxf5 18. Bd3 Nc7 19. Qe4 g6 20. Qg4 Nd5 21. Bd2
+Rf7 22. h5 Nf4 23. Bxg6 Nxg6 24. hxg6 Rg7 25. Rxh7+ Rxh7 26. gxh7 Nf8 27. g6
+Bf6 28. Rg1 Bg7 29. Kd1 Qc7 30. c3 d5 31. f4 exf4 32. Bxf4 Qc4 33. Nd2 Qc6 34.
+Be5 Nxg6 35. Qxg6 Qxg6 36. Rxg6 Bxe5 37. Rxa6 Kxh7 38. Rb6 Rb8 39. Rxb8 Bxb8
+40. Ke2 Kg6 41. Kd3 Ba7 42. Nb3 Kf6 43. Nd4 Bxd4 44. Kxd4 Ke6 45. Kc5 Ke5 46.
+Kxb5 Kd6 47. Kb6 Kd7 48. Kc5 Ke6 49. a4 Kd7 50. a5 Kc7 51. Kxd5 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Kirchner, Holger"]
+[Black "Bezkorovainyy, Mykola"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "1141"]
+[BlackElo "1612"]
+[PlyCount "62"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nc3 b6 2. e4 Bb7 3. d4 e6 4. Nf3 Nf6 5. Bd3 Bb4 6. Qe2 O-O 7. O-O Bxc3 8.
+bxc3 d6 9. h3 Nbd7 10. Re1 e5 11. dxe5 dxe5 12. Bg5 Re8 13. Qd1 c5 14. Bb5 Qc7
+15. Bxf6 Nxf6 16. Bxe8 Rxe8 17. Nd2 Rd8 18. f3 Ba6 19. Qc1 Nh5 20. Kf2 Nf4 21.
+Nf1 Qe7 22. Nh2 Qh4+ 23. Kg1 Ne2+ 24. Rxe2 Bxe2 25. Qe1 Qxe1+ 26. Rxe1 Bd1 27.
+Ng4 Bxc2 28. Nxe5 Ba4 29. Ng4 Rd2 30. a3 Ra2 31. Rd1 Bxd1 0-1
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Mueller, Stefan"]
+[Black "Steinhagen, Bernd"]
+[Result "0-1"]
+[ECO "B24"]
+[WhiteElo "1684"]
+[BlackElo "2316"]
+[PlyCount "104"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d6 5. d3 Nf6 6. g3 Be7 7. Bg2 O-O 8. O-O
+Rb8 9. h3 b5 10. Be3 d5 11. exd5 exd5 12. Bf2 b4 13. Ne2 Bb7 14. g4 Qc7 15. Bg3
+Bd6 16. Qe1 Rfe8 17. Qf2 d4 18. Nh4 Ne7 19. f5 Ned5 20. Bxd6 Qxd6 21. Bxd5 Nxd5
+22. Ng3 Ne3 23. Rfe1 Nxc2 24. Rxe8+ Rxe8 25. Rc1 Ne3 26. f6 g6 27. g5 Qe5 28.
+Nf3 Bxf3 29. Qxf3 Qxg5 30. Kh1 Nf5 31. Rg1 Nxg3+ 32. Rxg3 Qe5 33. Rg1 Qe3 34.
+Qg4 h5 35. Qd7 Qe6 36. Rxg6+ Kf8 37. Qxe6 Rxe6 38. Rh6 Ke8 39. Rxh5 Rxf6 40.
+Kg2 Ra6 41. Rxc5 Rxa2 42. Rc2 a5 43. h4 a4 44. h5 Kf8 45. Kf3 Kg7 46. Ke4 a3
+47. h6+ Kh7 48. bxa3 Rxc2 49. axb4 Rb2 50. Kxd4 Rxb4+ 51. Kc5 Rb1 52. d4 Kxh6
+0-1
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Pererva, Viktor"]
+[Black "Kaulich, Philipp Theodor"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1486"]
+[BlackElo "1745"]
+[PlyCount "54"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Bc4 Bg7 5. Nf3 e6 6. O-O Nge7 7. d3 O-O 8. Be3
+d5 9. f5 dxc4 10. Bxc5 exf5 11. exf5 Bxf5 12. Nh4 Be6 13. Qf3 cxd3 14. cxd3 b6
+15. Ba3 Nd4 16. Qe4 Nc2 17. Bxe7 Qxe7 18. Rac1 Nd4 19. Nd5 Qd8 20. Nc7 Rc8 21.
+Nxe6 Nxe6 22. Rxc8 Qd4+ 23. Kh1 Rxc8 24. Qb7 Rc7 25. Qb8+ Qd8 26. Qxd8+ Nxd8
+27. Re1 Ne6 0-1
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Rolle, Eric"]
+[Black "Lehmann, Torsten"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2241"]
+[BlackElo "1970"]
+[PlyCount "69"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 g6 3. h4 h5 4. Nc3 d6 5. Bc4 e6 6. Nf3 f6 7. a4 Nh6 8. Qe2 Nf7
+9. Bb3 Qe7 10. e5 d5 11. exf6 Qxf6 12. Bg5 Nxg5 13. hxg5 Qe7 14. g4 Bg7 15.
+gxh5 gxh5 16. O-O-O Na6 17. Rde1 Bd7 18. Kb1 Nc7 19. Ne5 Bxe5 20. Qxe5 O-O-O
+21. f4 Qf7 22. Rh4 Rdf8 23. Ne2 Ne8 24. c3 Ng7 25. Ng3 Nf5 26. Nxf5 Qxf5+ 27.
+Bc2 Qxe5 28. Rxe5 Rfg8 29. g6 Rg7 30. Rexh5 Rhg8 31. Rh7 Kd8 32. Rxg7 Rxg7 33.
+Rh8+ Kc7 34. Rh7 Rg8 35. f5 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Stutz, Reno"]
+[Black "Szelag, Marcin"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2068"]
+[BlackElo "2474"]
+[PlyCount "98"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 Qxd5 5. Nf3 Nf6 6. Bd3 Nc6 7. O-O Be7 8. Be3
+O-O 9. c4 Qd7 10. Ne5 Nxe5 11. dxe5 Rd8 12. Nc3 Qxd3 13. Qxd3 Rxd3 14. exf6
+gxf6 15. Rad1 Rd7 16. Bh6 f5 17. Rfe1 Bf8 18. Bf4 f6 19. f3 Kf7 20. Kf2 b6 21.
+b3 Be7 22. g3 e5 23. Be3 Rxd1 24. Rxd1 Be6 25. Nb5 a6 26. Nc7 Rc8 27. Nxa6 Ra8
+28. Nc7 Rxa2+ 29. Rd2 Ra1 30. Rb2 h5 31. Ke2 h4 32. Kd3 h3 33. Rf2 Bd8 34. Nb5
+Bd7 35. Nc3 Bc6 36. Kc2 Ke6 37. Kd2 Bc7 38. Kc2 Rg1 39. Kd3 Bd6 40. Ke2 Ra1 41.
+Kd3 f4 42. gxf4 exf4 43. Bd2 Kf5 44. Kc2 Be5 45. Kd3 Bd4 46. Re2 Rf1 47. Nd5
+Rxf3+ 48. Kc2 Bxd5 49. cxd5 Be5 0-1
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Tomczak, Rafal"]
+[Black "Krueger, Alexander"]
+[Result "1-0"]
+[ECO "B95"]
+[WhiteElo "2350"]
+[BlackElo "2055"]
+[PlyCount "59"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bg5 Be7 7. Qd2 a6 8.
+O-O-O Qc7 9. f3 b5 10. Bd3 Nc6 11. Nxc6 Qxc6 12. h4 Bb7 13. Kb1 h6 14. Be3 Nd7
+15. Bd4 b4 16. Ne2 e5 17. Be3 a5 18. Ng3 Nb6 19. Nf5 Rg8 20. Qe2 Qc7 21. Bb5+
+Bc6 22. f4 Bxb5 23. Qxb5+ Nd7 24. fxe5 dxe5 25. Rd2 Bf8 26. Rhd1 O-O-O 27. Qa6+
+Kb8 28. Rd5 Bc5 29. Ne7 Nb6 30. Rxd8+ 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.28"]
+[Round "2"]
+[White "Wilting, Alexander"]
+[Black "Valet, Richard"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "1903"]
+[BlackElo "2071"]
+[PlyCount "47"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. Nd2 Nf6 7. Nf1 O-O 8. Ne3
+Na5 9. Bd5 Nxd5 10. Nexd5 Nc6 11. O-O Bg5 12. f4 exf4 13. Bxf4 Be6 14. Qh5 h6
+15. Rf2 Ne5 16. Ne3 g6 17. Bxg5 Qxg5 18. Qxg5 hxg5 19. Raf1 Rad8 20. Ncd5 Bxd5
+21. Nxd5 Kg7 22. Nf6 Rh8 23. g4 Rh3 24. a4 1/2-1/2
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.29"]
+[Round "3"]
+[White "Boehm, Matthias"]
+[Black "Sura, Christian"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1756"]
+[BlackElo "1405"]
+[PlyCount "75"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. f4 a6 3. Nf3 d6 4. Nc3 Nf6 5. d3 Nc6 6. g3 Bg4 7. Bg2 Nd4 8. O-O g6
+9. h3 Bxf3 10. Bxf3 Nxf3+ 11. Qxf3 Bg7 12. e5 dxe5 13. fxe5 Qd4+ 14. Kg2 Qxe5
+15. Bf4 Qe6 16. Qxb7 Rc8 17. Rae1 Qc6+ 18. Qxc6+ Rxc6 19. b3 Nh5 20. Be5 Bxe5
+21. Rxe5 f6 22. Re2 Kd7 23. Rfe1 Re8 24. Kf3 Ng7 25. Na4 Kd6 26. Nb2 Kd7 27.
+Nc4 Re6 28. c3 Rxe2 29. Rxe2 Ne6 30. Nb6+ Kd6 31. Nc4+ Kd7 32. h4 Nc7 33. Ke4
+Nb5 34. Rc2 Nd6+ 35. Kd5 Nxc4 36. dxc4 Rc8 37. Re2 Rc6 38. Rxe7+ 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.29"]
+[Round "3"]
+[White "Huhnstock, Rico"]
+[Black "Bezkorovainyy, Mykola"]
+[Result "1-0"]
+[ECO "B84"]
+[WhiteElo "1885"]
+[BlackElo "1612"]
+[PlyCount "81"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. Be3
+O-O 9. Qd2 Qc7 10. f4 b5 11. a3 Bb7 12. Bf3 Nbd7 13. f5 e5 14. Nb3 Nb6 15. Bxb6
+Qxb6+ 16. Kh1 Rac8 17. Nd5 Nxd5 18. exd5 Rc7 19. Be4 h6 20. f6 Bxf6 21. Rxf6
+Rc4 22. Re1 a5 23. Rf3 Ra8 24. c3 Bc8 25. h3 Bd7 26. Qf2 Qxf2 27. Rxf2 g6 28.
+Rf6 Kg7 29. Rxd6 Be8 30. Nd2 Rc5 31. Bd3 f6 32. Ne4 Rc7 33. Rxf6 Rb8 34. Ref1
+Rd7 35. Nd6 b4 36. Nxe8+ Rxe8 37. Rxg6+ Kh8 38. Rxh6+ Rh7 39. Rxh7+ Kg8 40. Rh4
+bxc3 41. bxc3 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.29"]
+[Round "3"]
+[White "Jahn, Constanze"]
+[Black "Schulz, Michael"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2150"]
+[BlackElo "2260"]
+[PlyCount "13"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 5. e5 h5 6. Nf3 Nh6 7. Be3 1/2-1/2
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.29"]
+[Round "3"]
+[White "Zimmermann, Ulrich"]
+[Black "Jepp, Wolfgang"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1818"]
+[BlackElo "1531"]
+[PlyCount "75"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 e6 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 d5 8.
+e5 Nge7 9. Bd3 Ng6 10. Nf3 h6 11. O-O f5 12. exf6 Qxf6 13. Rb1 O-O 14. a4 b6
+15. Ba3 Rf7 16. Qc2 Nf4 17. Be2 Nxe2+ 18. Qxe2 Bd7 19. Bd6 Re8 20. Ne5 Nxe5 21.
+Bxe5 Qg6 22. Ra1 Rc8 23. Rfc1 Rc4 24. a5 b5 25. Qb2 a6 26. Qd2 Rf5 27. Rcb1 Bc6
+28. Rb4 Rg5 29. g3 Qf5 30. f4 Rg6 31. Re1 h5 32. Re3 Kf7 33. Kg2 h4 34. Qe2
+hxg3 35. hxg3 Rh6 36. g4 Qh7 37. f5 Rh2+ 38. Bxh2 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.29"]
+[Round "4"]
+[White "Boehm, Matthias"]
+[Black "Porsch, Harald"]
+[Result "1/2-1/2"]
+[ECO "B24"]
+[WhiteElo "1756"]
+[BlackElo "2195"]
+[PlyCount "45"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d6 4. Nc3 a6 5. d3 Nc6 6. g3 Qc7 7. Bg2 Nf6 8. O-O Be7
+9. Kh1 O-O 10. Be3 b5 11. Nh4 Ne8 12. Qh5 b4 13. Ne2 Bb7 14. f5 Nf6 15. Qf3 Ne5
+16. Qf2 Nfg4 17. Qg1 Qd8 18. Nf3 Nxf3 19. Rxf3 d5 20. fxe6 fxe6 21. Rxf8+ Qxf8
+22. Rf1 Qc8 23. exd5 1/2-1/2
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.29"]
+[Round "4"]
+[White "Kirchner, Holger"]
+[Black "Bardosch, Konstantin"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[WhiteElo "1141"]
+[BlackElo "1203"]
+[PlyCount "43"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nc3 c5 2. Nf3 Nc6 3. e4 d6 4. Bb5 Bd7 5. O-O Nf6 6. d4 a6 7. Bxc6 Bxc6 8. d5
+Bd7 9. Bg5 e6 10. Re1 Be7 11. e5 Nxd5 12. Bxe7 Nxc3 13. Bxd8 Nxd1 14. Raxd1
+Rxd8 15. Rxd6 Bc6 16. Rxd8+ Kxd8 17. Ng5 Ke7 18. Ne4 b6 19. f4 Rd8 20. Nd6 f5
+21. Rd1 a5 22. Kf2 1/2-1/2
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.29"]
+[Round "4"]
+[White "Pererva, Viktor"]
+[Black "Hasenberg, Harald"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1486"]
+[BlackElo "1678"]
+[PlyCount "90"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. f4 Nf6 5. Bd3 O-O 6. Nf3 b6 7. Nbd2 Nh5 8. f5
+Nf4 9. Nb3 Nxd3+ 10. Qxd3 d5 11. fxg6 fxg6 12. Bd2 a5 13. Nc1 Ba6 14. Qe3 dxe4
+15. Qxe4 Nd7 16. Ng5 Nf6 17. Qe6+ Kh8 18. Nf7+ Rxf7 19. Qxf7 Qd7 20. Ne2 Qg4
+21. Ng3 h5 22. Rf1 Rf8 23. Qb3 Bxf1 24. Nxf1 Qxg2 25. O-O-O Ne4 26. Ne3 Qxh2
+27. Qe6 Nxd2 28. Rxd2 Qd6 29. Qe4 Bh6 30. Rg2 Kh7 31. Kc2 Bxe3 32. Qxe3 Qf4 33.
+Qxe7+ Rf7 34. Qe2 h4 35. Rg4 Qf5+ 36. Kd2 g5 37. a3 Kg6 38. Re4 Qf2 39. Re6+
+Kg7 40. Qxf2 Rxf2+ 41. Ke3 Rf7 42. Re5 Kg6 43. b4 axb4 44. cxb4 h3 45. Re4 h2
+0-1
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.29"]
+[Round "4"]
+[White "Tomczak, Rafal"]
+[Black "Rolle, Eric"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2350"]
+[BlackElo "2241"]
+[PlyCount "45"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qa3 Nge7 9. Nc3 Rb8 10. Bd3 b5 11. Ne2 O-O 12. Be3 d5 13. exd5 Nxd5 14. Bxh7+
+Kxh7 15. Qxf8 Nxe3 16. fxe3 Qh4+ 17. Ng3 Qc4 18. Qd6 Bf5 19. Nxf5 Rd8 20. Qc7
+Qb4+ 21. c3 Qxb2 22. O-O Rd2 23. Qxc6 1-0
+
+[Event "Rostock op"]
+[Site "Rostock"]
+[Date "2008.08.29"]
+[Round "4"]
+[White "Wilting, Alexander"]
+[Black "Westphal, Wolfgang"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "1903"]
+[BlackElo "2251"]
+[PlyCount "145"]
+[EventDate "2008.08.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 Nf6 6. Nd2 O-O 7. Nf1 d6 8. Ne3
+Be6 9. Ncd5 Bxd5 10. Bxd5 Nxd5 11. Nxd5 Bg5 12. O-O Bxc1 13. Rxc1 a5 14. c3 b5
+15. f4 b4 16. f5 f6 17. g4 Ne7 18. Ne3 Qe8 19. Nc4 Qc6 20. Ne3 bxc3 21. Rxc3 a4
+22. Qc2 Qd7 23. Rb1 Rfb8 24. a3 Nc6 25. b4 Nd4 26. Qa2+ Qf7 27. Nd5 Kh8 28. Kh1
+Nb3 29. Rc4 Qa7 30. Rg1 cxb4 31. Nxb4 Qe3 32. Rg3 Qf4 33. Qg2 Nd4 34. g5 fxg5
+35. Rxg5 Ra7 36. Rg4 Qe3 37. Rg3 Qh6 38. Qh3 Ne2 39. Re3 Qxh3 40. Rxh3 Nf4 41.
+Rf3 h5 42. Rf2 Kh7 43. h4 Ra5 44. Rfc2 d5 45. Rc7 dxe4 46. dxe4 Rb6 47. Rd7 Ra8
+48. Rcc7 Rg8 49. Re7 Rd6 50. Rxe5 Rd1+ 51. Kh2 Ra1 52. Kg3 Ne2+ 53. Kf2 Nf4 54.
+Kf3 Rf1+ 55. Ke3 Ng2+ 56. Ke2 Ra1 57. Nc2 Rb1 58. f6 Nf4+ 59. Ke3 Ng2+ 60. Kf2
+Nf4 61. Ree7 Rb2 62. e5 Ng6 63. Re6 Nxh4 64. Ra6 Nf5 65. e6 Kg6 66. fxg7 Kg5
+67. Rxa4 Rxg7 68. Rxg7+ Nxg7 69. Ra5+ Kf6 70. Rc5 h4 71. Kf3 Nxe6 72. Rc6 Ke5
+73. Kg4 0-1
+
+[Event "Rostock op"]

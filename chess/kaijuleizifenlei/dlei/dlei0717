@@ -1,0 +1,600 @@
+[Site "St Petersburg"]
+[Date "2008.06.28"]
+[Round "8"]
+[White "Serov, Maksim"]
+[Black "Solovyov, Sergey V"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2295"]
+[BlackElo "2072"]
+[PlyCount "120"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Qc2 dxc4 5. Qxc4 e6 6. Bg5 Be7 7. Nbd2 Qa5 8.
+e3 Nbd7 9. Bd3 h6 10. Bxf6 Bxf6 11. O-O O-O 12. b4 Qc7 13. b5 Nb6 14. Qc2 Bd7
+15. Ne4 Rac8 16. a4 Nd5 17. Rfc1 Nb4 18. Qd2 Nxd3 19. Qxd3 Be7 20. Ne5 Rfd8 21.
+bxc6 Bxc6 22. Nxc6 bxc6 23. Rc4 e5 24. Rac1 exd4 25. exd4 Qd7 26. h3 Qd5 27.
+Nc3 Qe6 28. Ne4 Bf8 29. Qc2 Re8 30. Ng3 Ba3 31. Ra1 Be7 32. Rb1 Bf6 33. Nf5 Bg5
+34. h4 Bf6 35. g3 g6 36. Ne3 Bg7 37. Rc1 Qh3 38. Rxc6 Rcd8 39. Qb3 Rb8 40. Qd3
+h5 41. Rc7 Bh6 42. Qf1 Qe6 43. Re1 Qd6 44. Qc4 Re6 45. Rxa7 Rd8 46. Qc5 Qxd4
+47. Qxd4 Rxd4 48. Nc2 Rxe1+ 49. Nxe1 Rd1 50. Kf1 Bf8 51. Ke2 Ra1 52. Nd3 Ra2+
+53. Ke3 Ra3 54. Ra8 Kg7 55. a5 Bc5+ 56. Ke4 Be7 57. Nf4 Bc5 58. Nd3 Be7 59. Nf4
+Bc5 60. Nd3 Be7 1/2-1/2
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.28"]
+[Round "8"]
+[White "Turetsky, Mark"]
+[Black "Makarikhin, Kirill"]
+[Result "0-1"]
+[ECO "D53"]
+[WhiteElo "1684"]
+[BlackElo "2006"]
+[PlyCount "68"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 c6 7. Be2 dxc4 8.
+Bxc4 b5 9. Bd3 O-O 10. a3 a6 11. Qc2 h6 12. Bh4 c5 13. dxc5 Nxc5 14. Rd1 Nxd3+
+15. Qxd3 Bb7 16. Qxd8 Rfxd8 17. Ke2 g5 18. Bg3 g4 19. Rxd8+ Rxd8 20. Ne1 Nd5
+21. Nxd5 Bxd5 22. e4 Bxe4 23. Ke3 Bg6 24. h3 Bf6 25. hxg4 Bxb2 26. Ke2 Bxa3 27.
+Rxh6 Kg7 28. Rh3 b4 29. g5 Bb2 30. Bf4 a5 31. Bc7 Rd5 32. f4 a4 33. Nd3 Bxd3+
+34. Rxd3 a3 0-1
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.28"]
+[Round "8"]
+[White "Vunder, Andrei"]
+[Black "Khakimov, Timur"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2241"]
+[BlackElo "2346"]
+[PlyCount "59"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 c5 2. e3 Nf6 3. d4 e6 4. c4 d5 5. cxd5 exd5 6. Bb5+ Bd7 7. Bxd7+ Nbxd7
+8. dxc5 Nxc5 9. O-O Bd6 10. Nc3 O-O 11. b3 Nce4 12. Nb5 Bb4 13. Bb2 a6 14. Nbd4
+Rc8 15. Ne2 Qe7 16. Rc1 Ba3 17. Bxa3 Qxa3 18. Rc2 a5 19. Qc1 Qxc1 20. Rfxc1 Ra8
+21. a4 b6 22. Nfd4 Nc5 23. Nf4 Rfd8 24. Kf1 Kf8 25. Ke2 Rac8 26. f3 h5 27. Rc3
+g6 28. R1c2 Ke7 29. Nd3 Nfd7 30. b4 1-0
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.28"]
+[Round "8"]
+[White "Zakharov, Yury"]
+[Black "Smirnov, Vladimir"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2085"]
+[BlackElo "2318"]
+[PlyCount "93"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 Nbd7 4. d4 e6 5. O-O Bd6 6. b3 O-O 7. Bb2 Re8 8.
+Nbd2 e5 9. dxe5 Nxe5 10. Nxe5 Bxe5 11. Bxe5 Rxe5 12. Nf3 Re8 13. Re1 c6 14. Ng5
+h6 15. Nh3 Bf5 16. Nf4 Qb6 17. e3 Qc5 18. Nd3 Qc3 19. a4 Rad8 20. Ra2 d4 21.
+exd4 Bxd3 22. Rxe8+ Rxe8 23. Qxd3 Qe1+ 24. Qf1 Qd2 25. Ra1 Qxc2 26. Qc4 Qb2 27.
+Rf1 Rd8 28. Qb4 Rd7 29. Rd1 Ng4 30. Qe1 Nf6 31. Qe3 Qa3 32. Bf3 Qd6 33. Qe5 Kf8
+34. h4 Qxe5 35. dxe5 Rxd1+ 36. Bxd1 Nd7 37. f4 b6 38. Bf3 Nc5 39. Bxc6 Nxb3 40.
+Kf2 Ke7 41. Ke3 f6 42. Ke4 a6 43. h5 f5+ 44. Kd3 Na5 45. Bd5 b5 46. axb5 axb5
+47. Kc3 1-0
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Abramov, Valentin"]
+[Black "Maevsky, Nikolay"]
+[Result "1/2-1/2"]
+[ECO "D16"]
+[WhiteElo "2321"]
+[BlackElo "2143"]
+[PlyCount "177"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. Nxc4 Na6 8.
+Qb3 e6 9. a5 Bg6 10. Ra4 Qc7 11. Ne5 Rd8 12. Bf4 Qc8 13. e3 Nb8 14. Be2 Be7 15.
+O-O O-O 16. Rc1 Nh5 17. Bxh5 Bxh5 18. Ne4 Na6 19. Nc4 Qd7 20. f3 Bg6 21. Ned6
+Bxd6 22. Nxd6 Rb8 23. Rac4 Rfd8 24. e4 Qe7 25. e5 Nc7 26. Bd2 Nd5 27. Bb4 Qd7
+28. g3 h6 29. Qa3 Nc7 30. Bc5 b6 31. Bb4 Nb5 32. Qe3 Nxd6 33. Bxd6 Rbc8 34.
+axb6 axb6 35. Qc3 c5 36. dxc5 bxc5 37. Rxc5 Rxc5 38. Qxc5 Qb7 39. Qc7 Qxc7 40.
+Rxc7 Ra8 41. Rc1 Bd3 42. Kf2 Ba6 43. Ra1 Bb7 44. Rxa8+ Bxa8 45. Ke3 f5 46. f4
+Kf7 47. Kd4 Ke8 48. Kc5 g6 49. Kb6 Kd7 50. Ka7 Bc6 51. Kb8 Bd5 52. b4 Bc6 53.
+Bc5 Kd8 54. Bb6+ Kd7 55. Bc7 Bb5 56. Kb7 Bc6+ 57. Kb6 Be4 58. b5 Bd5 59. Bd6
+Kc8 60. Bb4 Kd7 61. Kc5 Bg2 62. Ba5 Bf3 63. Kb6 Bd5 64. Ka7 Kc8 65. Bb4 Be4 66.
+Bf8 h5 67. Kb6 Kd7 68. Kc5 Bg2 69. Bd6 Bf3 70. Kd4 Be2 71. Kc5 Bf3 72. b6 Bb7
+73. Bf8 Be4 74. Bg7 Bb7 75. Bf6 Bg2 76. Kd4 Kc6 77. Bd8 Kd7 78. Bc7 Bb7 79. Ke3
+Bc6 80. Kf2 Bb7 81. h3 Kc8 82. Bd6 Bd5 83. g4 hxg4 84. hxg4 Bb3 85. Kg3 Bd1 86.
+Kh4 Bxg4 87. Kg5 Bf3 88. Kxg6 Bd5 89. Kf6 1/2-1/2
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Averjanov, Sergey"]
+[Black "Zaitsev, Igor A"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2027"]
+[BlackElo "2437"]
+[PlyCount "88"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nc3 Bf5 3. f3 e6 4. e4 dxe4 5. fxe4 Bg6 6. Nf3 Bb4 7. Bb5+ c6 8.
+Bd3 Ne7 9. O-O O-O 10. a3 Ba5 11. Be3 Nd7 12. Qe1 Bxc3 13. bxc3 b6 14. Qh4 Nc8
+15. Qf4 Nf6 16. Ne5 Ne7 17. g4 Nd7 18. h4 Nxe5 19. Qxe5 f6 20. Qg3 Qb8 21. Bf4
+Qb7 22. h5 Be8 23. Bd6 g5 24. e5 Rf7 25. exf6 Nd5 26. Qe5 h6 27. Bg6 Rd7 28.
+Qxe6+ Bf7 29. Bxf7+ Rxf7 30. c4 Nc7 31. Qe4 Ne8 32. Be7 Qc7 33. Kg2 Ng7 34.
+Rae1 Re8 35. d5 cxd5 36. cxd5 Qd7 37. c4 Rc8 38. Rf3 Qe8 39. fxg7 Rxf3 40. Qxf3
+Kxg7 41. Bf6+ Kf7 42. Rxe8 Rxe8 43. Bxg5+ Kg8 44. Bxh6 Kh7 1-0
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Fedoseev, Sergey"]
+[Black "Timofeev, Andrei"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2175"]
+[BlackElo "2248"]
+[PlyCount "106"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Bg5 c6 3. e3 Nf6 4. Bxf6 gxf6 5. c4 Rg8 6. cxd5 Qxd5 7. Nc3 Qa5 8.
+g3 Bg4 9. Be2 Be6 10. Nf3 Bh3 11. Qb3 Qc7 12. d5 Nd7 13. O-O-O cxd5 14. Qc2 Bg2
+15. Rhg1 Bxf3 16. Bxf3 e6 17. e4 d4 18. Rxd4 O-O-O 19. Rgd1 Be7 20. Nb5 Qxc2+
+21. Kxc2 Ne5 22. Rxd8+ Rxd8 23. Rxd8+ Kxd8 24. Be2 a6 25. Nc3 Bc5 26. f4 Nc6
+27. Bh5 Ke7 28. a3 Ba7 29. Kd3 Bd4 30. Nd1 Bg1 31. Ke2 Na5 32. Kf1 Bd4 33. Be2
+Nb3 34. Bd3 Kd7 35. Bc2 Na5 36. Ke2 b5 37. b3 Nc6 38. Bd3 Bc5 39. b4 Bd4 40.
+Ne3 Kc7 41. Nc2 Bc3 42. h3 h6 43. Ke3 Kb6 44. Be2 Bb2 45. Bh5 Nd8 46. Kd2 Kc6
+47. Kd3 Kd6 48. Ke3 Ke7 49. Bf3 e5 50. f5 Nb7 51. Kd3 Nd6 52. Ne3 Ne8 53. Nd5+
+Kf8 1/2-1/2
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Golovenchits, Boris"]
+[Black "Belenkaya, Dina"]
+[Result "0-1"]
+[ECO "D27"]
+[WhiteElo "2034"]
+[BlackElo "1938"]
+[PlyCount "75"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. Bb3 b5 8. a4 b4
+9. Nbd2 Bb7 10. Re1 Nc6 11. dxc5 Bxc5 12. Bc2 O-O 13. b3 Ne7 14. Bb2 Ned5 15.
+Ne4 Nxe4 16. Bxe4 f5 17. Bd3 Nc3 18. Bxc3 bxc3 19. Bc4 Qe7 20. b4 Bxb4 21. Qb3
+Bd5 22. Bxd5 exd5 23. Qxd5+ Qf7 24. Qd3 Rfd8 25. Qc2 Rac8 26. Red1 Be7 27. a5
+Bf6 28. Rxd8+ Rxd8 29. Kf1 Qc4+ 30. Qe2 Qb3 31. Qa2 Rb8 32. Qxb3+ Rxb3 33. Rc1
+Ra3 34. Nd4 Bd8 35. Nxf5 Bxa5 36. Rc2 Kf7 37. Nd6+ Ke6 38. Ne4 0-1
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Ivanjuk, Alexey"]
+[Black "Gaprindashvili, Nona1"]
+[Result "0-1"]
+[ECO "D44"]
+[WhiteElo "2131"]
+[BlackElo "2046"]
+[PlyCount "94"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. g3 Be7 12. exf6 Bxf6 13. Bxf6 Nxf6 14. Bg2 Qb6
+15. a4 Bb7 16. a5 Qa6 17. Qf3 Ke7 18. O-O Rad8 19. Rfd1 Ba8 20. Qe2 Qc8 21. a6
+Rd6 22. Qe5 Rxh2 23. Ne4 Rxg2+ 24. Kxg2 Nxe4 25. Qxe4 c5 26. d5 Bxd5 27. Rxd5
+Rxd5 28. Qh4+ Kd7 29. Qf6 Qe8 30. Rh1 Rf5 31. Qc3 Ke7 32. g4 Qc6+ 33. f3 Rf4
+34. Rh4 Rd4 35. Qe3 Qd5 36. Kg3 Qd6+ 37. Kh3 Rd2 38. Qg1 Qf4 39. Qxc5+ Kf6 40.
+g5+ Qxg5 41. Qxg5+ Kxg5 42. f4+ Kf6 43. Rh8 Rxb2 44. Ra8 Ra2 45. Rxa7 c3 46.
+Rc7 b4 47. a7 Rxa7 0-1
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Kaganov, Dmitry"]
+[Black "Kopasov, Alexander"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2106"]
+[BlackElo "2041"]
+[PlyCount "52"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 c6 5. Qc2 Bb4+ 6. Bd2 a5 7. a3 Be7 8. Bg2
+O-O 9. O-O b6 10. Re1 Ba6 11. cxd5 cxd5 12. Ne5 Nfd7 13. Nd3 Bf6 14. e4 Qc8 15.
+Nc3 Bxd4 16. exd5 Nc5 17. Nxc5 Qxc5 18. Be3 Bxe3 19. Rxe3 exd5 20. Bxd5 Ra7 21.
+Rae1 Bb7 22. Bxf7+ Rxf7 23. Re8+ Rf8 24. Qb3+ Kh8 25. Qf7 Nd7 26. R1e7 Ra8 1-0
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Khatenever, Feliks"]
+[Black "Orlov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "D04"]
+[WhiteElo "1980"]
+[BlackElo "2061"]
+[PlyCount "20"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. e3 g6 3. Nf3 Bg7 4. Bd3 d5 5. b3 O-O 6. Bb2 Bf5 7. O-O Bxd3 8.
+Qxd3 Ne4 9. Nbd2 Nd6 10. e4 dxe4 1/2-1/2
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Khuseinkhodzhaev, Muhammad"]
+[Black "Rodkin, Felix"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2397"]
+[BlackElo "2157"]
+[PlyCount "83"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 c5 5. cxd5 exd5 6. Nbd2 Nc6 7. dxc5 Bxc5 8.
+e3 O-O 9. Bd3 Be6 10. Bxh7+ Kh8 11. Bb1 Rc8 12. O-O Be7 13. Qa4 Re8 14. Qh4+
+Kg8 15. a3 Qb6 16. b4 a5 17. bxa5 Nxa5 18. Bd3 Rc3 19. Rab1 Qd6 20. Bxf6 Bxf6
+21. Qh7+ Kf8 22. Nd4 g6 23. Nb5 Qc5 24. Nxc3 Qxc3 25. Bb5 Qxd2 26. Bxe8 Kxe8
+27. Qg8+ Ke7 28. Qb8 Qc3 29. Rfc1 Qxa3 30. Rc7+ Bd7 31. Qc8 Qa4 32. Rxd7+ Qxd7
+33. Qc5+ Ke6 34. Qxa5 Bd8 35. Qa2 f5 36. f3 b6 37. e4 fxe4 38. fxe4 Ke5 39.
+Qxd5+ Qxd5 40. exd5 Be7 41. Re1+ Kd6 42. Re6+ 1-0
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Kushka, Alena"]
+[Black "Zykova, Antonina"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2102"]
+[BlackElo "2017"]
+[PlyCount "64"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 c5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Bf4 a6 12. Rc1 Be6 13. Nxc6 bxc6 14. Na4 Rc8
+15. Be3 Nd7 16. a3 Ne5 17. b4 Nc4 18. Qd3 a5 19. Bc5 axb4 20. axb4 Bxc5 21.
+Nxc5 Qb6 22. Rb1 Ra8 23. Rfd1 Ra2 24. Qd4 Rb8 25. Bf1 Na3 26. Rb3 Nc2 27. Qe5
+Re8 28. Bh3 Nxb4 29. Nxe6 fxe6 30. Bxe6+ Kh8 31. Rf3 Ra7 32. Qf5 Qd8 1/2-1/2
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Nikolaev, Vadim S"]
+[Black "Yudin, Maksim"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2163"]
+[BlackElo "2066"]
+[PlyCount "96"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 c6 5. Qc2 Nf6 6. Bg5 Be7 7. Nf3 O-O 8. e3
+Nbd7 9. Bd3 Re8 10. O-O Nf8 11. Rab1 a5 12. a3 Ne4 13. Bf4 Nxc3 14. Qxc3 Ng6
+15. Bg3 Bg4 16. Nd2 Qd7 17. Qc2 Rec8 18. Nb3 b6 19. Qd2 a4 20. Nc1 c5 21. Ne2
+c4 22. Bc2 Bxe2 23. Qxe2 Bd6 24. Qh5 Bxg3 25. hxg3 Qd6 26. Rfd1 Re8 27. Qf3 b5
+28. e4 Rad8 29. e5 Qb6 30. Qc3 f6 31. exf6 Qxf6 32. Re1 Rf8 33. f4 Ne7 34. Rbd1
+Nc6 35. Bb1 Rfe8 36. Re3 g6 37. Qd2 Qxd4 38. Qxd4 Nxd4 39. Rxe8+ Rxe8 40. Kf1
+Re2 41. Rxd4 Rxb2 42. Rd1 d4 43. Be4 d3 44. Bxd3 cxd3 45. Rxd3 b4 46. axb4 Rxb4
+47. Rd8+ Kg7 48. Rd7+ Kg8 1/2-1/2
+
+[Event "St Petersburg op June"]
+[Site "St Petersburg"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Popov, Valerij"]
+[Black "Orlov, Oleg"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2525"]
+[BlackElo "2285"]
+[PlyCount "74"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nbd2 e6 6. b3 c5 7. Bb2 b6 8. cxd5
+exd5 9. Bd3 Bb7 10. O-O Be7 11. dxc5 bxc5 12. Rc1 Nbd7 13. Qc2 O-O 14. Rfd1 Bd6
+15. e4 d4 16. Re1 Re8 17. Nc4 Bf4 18. Rcd1 a5 19. Bc1 Bc7 20. Bg5 h6 21. Bh4
+Qb8 22. Bg3 Bc6 23. Rc1 Nh5 24. Ncd2 Nxg3 25. hxg3 a4 26. Nxd4 cxd4 27. Qxc6
+Ba5 28. Red1 Ne5 29. Qc2 axb3 30. axb3 Bc3 31. Bc4 Rc8 32. Nf3 Nxc4 33. bxc4
+Rxc4 34. Nxd4 Rxd4 35. Qxc3 Rxe4 36. Rd7 Qe8 37. Rcd1 Re7 1/2-1/2
+
+[Event "Wroclaw op 3rd"]
+[Site "Wroclaw"]
+[Date "2008.06.21"]
+[Round "1"]
+[White "Malaniuk, Vladimir P"]
+[Black "Kowalczyk, Pawel"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2498"]
+[BlackElo "2075"]
+[PlyCount "59"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 Nbd7 5. b3 b6 6. Bb2 Bb7 7. Bd3 g5 8. O-O h5
+9. Nc3 Bd6 10. cxd5 exd5 11. Nb5 Ne4 12. Nxd6+ Nxd6 13. Rc1 O-O 14. Ba3 g4 15.
+Ne5 Nf6 16. f3 g3 17. Qe1 gxh2+ 18. Kh1 Re8 19. Qg3+ Kf8 20. Rxc7 Qxc7 21.
+Bxd6+ Qxd6 22. Ng6+ fxg6 23. Qxd6+ Kf7 24. Qc7+ Re7 25. Bxg6+ Kf8 26. Qf4 Kg7
+27. Qg5 Rf8 28. e4 Rc7 29. Bf5+ Kh8 30. Qh6+ 1-0
+
+[Event "Wroclaw op 3rd"]
+[Site "Wroclaw"]
+[Date "2008.06.21"]
+[Round "1.19"]
+[White "Rawicz, Karol"]
+[Black "Wojtaszewski, Piotr"]
+[Result "1-0"]
+[ECO "D73"]
+[WhiteElo "2212"]
+[BlackElo "1938"]
+[PlyCount "73"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 g6 2. Nf3 Bg7 3. c4 Nf6 4. Nc3 c6 5. g3 d5 6. Qb3 O-O 7. Bg2 a6 8. O-O b5
+9. cxd5 cxd5 10. Bg5 e6 11. Ne5 Qb6 12. Bxf6 Bxf6 13. e4 Qxd4 14. Ng4 Bg7 15.
+Rfd1 Qc4 16. Qxc4 dxc4 17. e5 Ra7 18. a4 b4 19. Ne4 Bb7 20. Nef6+ Bxf6 21.
+Nxf6+ Kg7 22. Bf1 Bf3 23. Rd6 Nc6 24. Nd7 Rd8 25. Nb6 Rxd6 26. exd6 c3 27. bxc3
+bxc3 28. Rc1 Rb7 29. a5 Nxa5 30. d7 Nc6 31. Rxc3 Nd8 32. Nc4 Bd5 33. Ne5 f6 34.
+Rc8 fxe5 35. Rxd8 Bc6 36. Rg8+ Kxg8 37. d8=Q+ 1-0
+
+[Event "Wroclaw op 3rd"]
+[Site "Wroclaw"]
+[Date "2008.06.21"]
+[Round "1.22"]
+[White "Radziewicz, Katarzyna"]
+[Black "Gluszko, Tomasz"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "1961"]
+[BlackElo "2202"]
+[PlyCount "62"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 c5 7. O-O Nc6 8. cxd5
+Nxd5 9. Nxd5 Qxd5 10. e4 Qd6 11. dxc5 Qxc5 12. Be3 Qh5 13. Qb3 Bg4 14. Nd2 Rfd8
+15. Bc4 Na5 16. Qb4 Rac8 17. f3 Be5 18. h3 Bxh3 19. gxh3 Bd6 20. Qb5 Rc5 21.
+Bxf7+ Kxf7 22. Qe2 Qxh3 23. Qg2 Qxg2+ 24. Kxg2 Rc2 25. Rf2 Rxb2 26. Bxa7 b6 27.
+Nb3 Rxf2+ 28. Kxf2 Nxb3 29. axb3 Ra8 30. Ra4 b5 31. Ra5 Rxa7 0-1
+
+[Event "Wroclaw op 3rd"]
+[Site "Wroclaw"]
+[Date "2008.06.21"]
+[Round "1.34"]
+[White "Bukwa, Karolina"]
+[Black "Zysko, Jan"]
+[Result "0-1"]
+[ECO "D04"]
+[WhiteElo "1804"]
+[BlackElo "2104"]
+[PlyCount "48"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c6 4. Be2 Bf5 5. O-O Nbd7 6. b3 e6 7. Nbd2 Bd6 8. c4
+O-O 9. Bb2 Qe7 10. Ne5 Ne4 11. Ndf3 Rfd8 12. cxd5 exd5 13. Nxd7 Bxd7 14. Qc2
+Bg4 15. a3 Re8 16. b4 a6 17. Bc3 Qf6 18. Rac1 Qh6 19. Ne5 Bxe2 20. Qxe2 Nxc3
+21. Rxc3 Rxe5 22. dxe5 Bxe5 23. h3 Bxc3 24. Rd1 Qe6 0-1
+
+[Event "Wroclaw op 3rd"]
+[Site "Wroclaw"]
+[Date "2008.06.21"]
+[Round "1.35"]
+[White "Ni, Viktorija"]
+[Black "Efinowicz, Ewa"]
+[Result "1-0"]
+[ECO "D86"]
+[WhiteElo "2132"]
+[BlackElo "1806"]
+[PlyCount "55"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Qa5 9. O-O O-O 10. Qb3 Nc6 11. e5 a6 12. a4 b5 13. Bd5 c4 14. Qc2 Bf5 15.
+Qb2 Rac8 16. axb5 Qxb5 17. Qxb5 axb5 18. Ra6 Bd7 19. Ba3 Rfe8 20. Rb6 e6 21.
+Bf3 Nxe5 22. dxe5 Bxe5 23. Rd1 Rcd8 24. g3 Bc8 25. Rxd8 Rxd8 26. Rxb5 Bxc3 27.
+Nxc3 Rd3 28. Rb8 1-0
+
+[Event "Wroclaw op 3rd"]
+[Site "Wroclaw"]
+[Date "2008.06.22"]
+[Round "2"]
+[White "Dobrowolski, Piotr"]
+[Black "Krzyzanowski, Marcin"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[WhiteElo "2429"]
+[BlackElo "2176"]
+[PlyCount "55"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8. a3
+Nbd7 9. g3 a5 10. b3 Be7 11. Bg2 O-O 12. O-O Qc7 13. Bb2 Rfd8 14. f4 a4 15.
+Nxa4 b5 16. cxb5 cxb5 17. Nc3 Qb7 18. Qd3 b4 19. Nb5 bxa3 20. Bxa3 Bxa3 21.
+Rxa3 Rxa3 22. Nxa3 Rb8 23. Rb1 Qb4 24. Nc2 Qa5 25. Ra1 Qc7 26. Ne1 Qb6 27. Rb1
+Qa5 28. Qc2 1/2-1/2
+
+[Event "Wroclaw op 3rd"]
+[Site "Wroclaw"]
+[Date "2008.06.22"]
+[Round "2"]
+[White "Matuszewski, Michal"]
+[Black "Shkuran, Daniil"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "2189"]
+[BlackElo "2437"]
+[PlyCount "120"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Qc2 Be7 7. b3 O-O 8. Bd3
+Qc7 9. Bb2 b6 10. O-O Bb7 11. Ne5 dxc4 12. Nxd7 cxd3 13. Nxf6+ Bxf6 14. Qxd3
+Rfd8 15. Ne4 Be7 16. Qc3 Bf8 17. Ng3 Rac8 18. Rac1 Qe7 19. e4 Qg5 20. f4 Qh6
+21. f5 c5 22. fxe6 fxe6 23. d5 exd5 24. Nf5 Qg6 25. Nh4 Qg4 26. h3 Qd7 27. exd5
+Bxd5 28. Rcd1 Qb7 29. Nf5 Kh8 30. Nh6 Be6 31. Rde1 Bg8 32. Nf5 Re8 33. Rxe8
+Rxe8 34. h4 Re2 35. Ne3 Qe7 36. Nf5 Qb7 37. Ne3 Qa8 38. h5 h6 39. Rf6 Qe4 40.
+Rxf8 Qxe3+ 41. Qxe3 Rxe3 42. Kf2 Re7 43. Ra8 Kh7 44. g4 c4 45. bxc4 Bxc4 46.
+Bd4 Bd5 47. Rc8 Be6 48. Rc1 Bxg4 49. a4 Bxh5 50. a5 bxa5 51. Rc5 Be2 52. Rxa5
+a6 53. Be3 Bb5 54. Ra1 g5 55. Rd1 Rf7+ 56. Kg2 Kg6 57. Rd6+ Rf6 58. Rxf6+ Kxf6
+59. Bd2 Kf5 60. Kf3 h5 0-1
+
+[Event "Wroclaw op 3rd"]
+[Site "Wroclaw"]
+[Date "2008.06.22"]
+[Round "2"]
+[White "Zurkowski, Andrzej2"]
+[Black "Kravtsiv, Martyn"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2109"]
+[BlackElo "2516"]
+[PlyCount "61"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. cxd5 exd5 8. Ne5
+Bb7 9. Bd3 c5 10. O-O Nc6 11. Nxc6 Bxc6 12. Rc1 c4 13. Bb1 b5 14. h3 Re8 15.
+Ne2 Bb4 16. Bg5 h6 17. Bxf6 Qxf6 18. Ng3 g6 19. Qg4 Kf8 20. Rfd1 h5 21. Qe2 Re7
+22. Nf1 Rae8 23. Nh2 Bd6 24. Nf3 Bd7 25. Ne1 Kg7 26. Qf3 Qg5 27. Kf1 a5 28. Rd2
+b4 29. Re2 Bg4 30. h4 Qxh4 31. g3 0-1
+
+[Event "Wroclaw op 3rd"]
+[Site "Wroclaw"]
+[Date "2008.06.23"]
+[Round "3"]
+[White "Bes, Michal"]
+[Black "Kobus, Sebastian"]
+[Result "0-1"]
+[ECO "D55"]
+[WhiteElo "1951"]
+[BlackElo "1846"]
+[PlyCount "96"]
+[EventDate "2008.06.21"]
+[EventType "swiss"]
+[EventRounds "9"]

@@ -1,0 +1,50 @@
+C07	Open System Tarrasch French; C07	1.e4 e6 2.d4 d5 3.Nd2 c5
+C07	Shaposhnikov Gambit, French	1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Nf6
+C07	Chistiakov Defense, French	1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5
+C08	C08	1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5
+C09	C09	1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nc6
+C10	Normal Variation, French; C10	1.e4 e6 2.d4 d5 3.Nc3
+C10	Marshall Variation, French	1.e4 e6 2.d4 d5 3.Nc3 c5
+C10	Rubinstein Variation, French	1.e4 e6 2.d4 d5 3.Nc3 dxe4
+C10	Fort Knox Variation, French	1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Bd7 5.Nf3
+Bc6
+C10	Rasa-Studier Gambit, French	1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Be3
+C10	Ellis Gambit, French	1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 e5
+C10	Blackburne Defense, French	1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7
+C10	Capablanca Line, French	1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3
+Ngf6 6.Nxf6+ Nxf6 7.Ne5
+C10	Frere; Becker; Katilimov, Maric Var, French	1.e4 e6 2.d4 d5 3.Nc3
+dxe4 4.Nxe4 Qd5
+C10	Svenonius Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5
+C11	Classical Variation, French; C11	1.e4 e6 2.d4 d5 3.Nc3 Nf6
+C11	Swiss Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bd3
+C11	Henneberger Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Be3
+C11	Burn Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4
+C11	Steinitz Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5
+C11	Bradford Attack, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5
+6.dxc5 Bxc5 7.Qg4
+C11	Brodsky-Jones Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7
+5.f4 c5 6.dxc5 Nc6 7.a3 Bxc5 8.Qg4 O-O 9.Nf3 f6
+C11	Boleslavsky Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7
+5.f4 c5 6.Nf3 Nc6 7.Be3
+C11	Gledhill Attack, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Qg4
+C12	C12	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5
+C12	McCutcheon Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4
+C12	Olland (Dutch) Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6
+4.Bg5 Bb4 5.e5 h6 6.Bc1
+C12	Lasker Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4
+5.e5 h6 6.Bd2 Bxc3
+C12	Duras Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6
+6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8 9.Bc1
+C12	Tartakower Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4
+5.e5 h6 6.Bd2 Nfd7
+C12	Janowski Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4
+5.e5 h6 6.Be3
+C12	Bernstein Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4
+5.e5 h6 6.Bh4
+C12	Chigorin Variation, French 	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4
+5.e5 h6 6.exf6
+C12	Grigoriev Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4
+5.e5 h6 6.exf6 hxg5 7.fxg7 Rg8 8.h4 gxh4 9.Qg4
+C12	Wolf Gambit, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.Nge2
+C13	Vistaneckis (Nimzovich) Variation, French	1.e4 e6 2.d4 d5 3.Nc3

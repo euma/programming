@@ -1,0 +1,50 @@
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.Bc2
+C90	Pilnik Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.d3
+C90	Suetin Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.a3
+C90	Lutikov Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.Bd2
+C90	Leonhardt Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 Na5 9.Bc2 c5 10.d4 Qc7 11.h3 Nc6 12.d5 Nd8
+13.Nbd2 g5
+C91	Yates Variation, Ruy; C91	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.d4
+C91	Bogoljubow; Counterthrust Var, Ruy	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.d4 Bg4
+C92	C92	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3
+C92	Keres Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 a5
+C92	Flohr; Zaitsev; Lenzerheide Var, Ruy	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Bb7
+C92	Kholmov Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Be6
+C92	Spanish Benoni, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.d5
+C92	Keres Defense, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nd7
+C92	Zaitsev System, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Re8
+C93	Smyslov Variation, Ruy Lopez; C93	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 h6
+C94	Breyer; Retreat Variation, Ruy Lopez; C94	1.e4 e5 2.Nf3 Nc6
+3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nb8
+C95	C95	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Nb8 10.d4
+C95	Borisenko Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nb8 10.d4 Nbd7
+C95	Arseniev Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nb8 10.d4 Nbd7 11.c4
+C95	Romanishin Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2
+Re8 13.Nf1 Bf8 14.Bg5
+C95	Simagin Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Nb8 10.d4 Nbd7 11.Nh4
+C96	C96	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5
+C96	Borisenko Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Nc6
+C96	Keres Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Nd7
+C97	Chigorin Variation, Ruy Lopez; C97	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6

@@ -1,0 +1,600 @@
+Nd4+ Kf7 47. e6+ Kf6 48. Rxf5+ Ke7 49. Rf7+ Ke8 50. Nf5 Rc1+ 51. Ke2 1-0
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.03"]
+[Round "2"]
+[White "Rublevsky, Sergei"]
+[Black "Efimenko, Zahar"]
+[Result "1-0"]
+[ECO "B86"]
+[WhiteElo "2695"]
+[BlackElo "2660"]
+[PlyCount "81"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Moscow 64"]
+[BlackTeam "Nizhny Tagil Polytechnik"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8.
+Bg5 Qa5 9. Qd2 Be7 10. O-O-O Nc5 11. Rhe1 h6 12. Bxf6 Bxf6 13. Nf5 O-O 14. Nxd6
+Rd8 15. f4 Nxb3+ 16. cxb3 Be7 17. e5 Bxd6 18. exd6 b5 19. Qd4 Rb8 20. b4 Qb6
+21. Qc5 Bd7 22. Re5 Bc6 23. g3 Bf3 24. Rd2 Bg4 25. d7 Qb7 26. Qd6 Bf5 27. b3
+Kh7 28. Kb2 Ra8 29. Qe7 f6 30. Rc5 Qh1 31. Rxf5 exf5 32. Nd5 Kg6 33. Nc7 Rac8
+34. Rc2 Rxc7 35. Rxc7 Qg2+ 36. Rc2 Qa8 37. Re2 a5 38. bxa5 Qxa5 39. g4 fxg4 40.
+Qe8+ Kh7 41. f5 1-0
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.03"]
+[Round "2"]
+[White "Kobalia, Mihail"]
+[Black "Krasenkow, Michal"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2627"]
+[BlackElo "2624"]
+[Annotator "Krasenkow"]
+[PlyCount "92"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Saransk TPS"]
+[BlackTeam "Moscow ShSM"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Nd5 Be7 11. Bxf6 Bxf6 12. c4 {This quiet system is very
+popular nowadays.} b4 13. Nc2 a5 14. Qf3 {A rare move, which suddenly gained
+some popularity after Alexander Morozevich applied it in two blitz games.} (14.
+g3 {is more common.}) 14... Be6 {Fighting against the main "enemy" - the d5
+knight.} (14... Bg5 {is what White expects:} 15. h4 Bh6 16. g4 f6 ({the typical
+} 16... Bf4 17. Nxf4 Qf6 {leads to a pleasant position for White after} 18.
+O-O-O Qxf4+ (18... exf4 19. g5 Qe5 20. Rd5 Qe7 21. Qxf4) 19. Qxf4 exf4 20. Rxd6
+Ne5 21. Nd4 Bxg4 22. Rd5 f6 23. Rg1) 17. Rg1 ({or} 17. g5 fxg5 18. Qh5+ Kf8 19.
+Bh3 g4 20. Bxg4 Qe8 21. Qxe8+ Kxe8 22. f3 Rb8 23. b3 Rf8 24. Ke2 $14 {1-0
+Amonatov,F-Zinchenko,Y/Tashkent UZB 2008/The Week in Chess 699 (58)}) 17... O-O
+18. Qg3 g6 19. g5 fxg5 (19... Bg7 $142 $14) 20. hxg5 {[%cal Gh1h7]} Bg7 21.
+O-O-O a4 22. c5 $1 $16 {1-0 Morozevich,A-Carlsen,M/Moscow 2007/EXT 2008 (41)})
+(14... Be7 $5 15. a3 bxa3 16. Qxa3 O-O 17. Bd3 Rb8 18. O-O Be6 19. Rfd1 Bxd5
+20. cxd5 Nb4 21. Nxb4 Rxb4 22. Rd2 Rd4 23. Rdd1 Rb4 {1/2-1/2 Ponomariov,
+R-Radjabov,T/Dagomys RUS 2008/The Week in Chess 700}) 15. Rd1 Bxd5 (15... Be7
+16. c5 O-O 17. Bb5 Na7 18. Ba4 Bxd5 19. Rxd5 Qc7 20. O-O Rad8 21. Rfd1 Nc6 22.
+Qd3 $16 {1-0 Nepomniachtchi,I-Andriasian,Z/Moscow RUS 2008/The Week in Chess
+693 (45)}) (15... Bg5 16. c5 O-O 17. cxd6 Rb8 18. h4 Bh6 19. b3 Qd7 20. Be2 f5
+21. Nc7 $16 {1-0 Tologontegin,S-Holmirzaev,B/Tashkent UZB 2008/The Week in
+Chess 699 (51)}) 16. Rxd5 (16. cxd5 Na7 {is not dangerous for Black. His
+knight will come out via b5.} ({or} 16... Nb8 17. Bb5+ Nd7 18. Qg4 Ra7 {, e.g.}
+19. Ne3 O-O 20. Bxd7 Rxd7 21. Rc1 Rc7 22. O-O Rxc1 23. Rxc1 Bg5 24. Qe2 f5 25.
+exf5 Bxe3 26. Qxe3 Rxf5 27. g3 Rf8 28. b3 Qf6 29. Rc7 Qf5 30. Kg2 h5 31. h4 {
+1-0 Geller,J-Batsanin,D/Dagomys RUS 2008/The Week in Chess 702 (53)} e4 $1 $11)
+) 16... Ne7 17. Rd1 (17. Rb5 $5) 17... Qb6 (17... Qc7 18. Ne3 Bg5 19. Nf5 Nxf5
+20. exf5 e4 $6 (20... O-O 21. Bd3 $14) 21. Qxe4+ Qe7 22. Bd3 d5 23. cxd5 Rd8
+24. Bb5+ Kf8 25. Qxe7+ Kxe7 26. O-O Kd6 27. Rfe1 $16 {1-0 Iuldachev,
+S-Timoshenko,G/Tashkent UZB 2008/The Week in Chess 699 (64)}) 18. Be2 ({To} 18.
+Ne3 {an intermediate} b3 $1 {is now possible, and after} 19. a3 Bg5 20. Nf5
+Nxf5 21. exf5 O-O 22. Bd3 Rac8 {the white bishop can't get to d5}) (18. h4 $5 {
+, preventing ...Bg5, needs testing.}) 18... Bg5 19. Qd3 Rd8 20. O-O O-O 21. g3
+g6 $11 22. Ne3 {A very aggressive continuation. White is prepared to spoil his
+pawn structure in order to obtain the initiative.} (22. Kg2 {1/2-1/2 Watzka,
+H-Horvath,T/Austria 1993/EXT 1998}) 22... Bxe3 23. Qxe3 Qc7 ({After} 23... Qxe3
+24. fxe3 {Black can't successfully defend his d6 pawn, e.g.} f5 (24... Kg7 25.
+Rd2 Rd7 26. Rfd1 Rfd8 27. c5 d5 28. Bb5 Rc7 29. c6 $1 $16) 25. Bf3 {[%cal
+Yf1f2,Yf2d2]}) (23... Qc5 {doesn't solve problems either as after} 24. Rd2 Nc6
+25. Rd5 $1 {is unpleasant.}) 24. f4 {Not a bad move but with a wrong idea.} (
+24. Rd2 $5 Nc6 (24... f5 25. Rfd1) 25. Rd5 Nd4 26. Rc1 {and the black d4
+knight is quite bearable.}) 24... exf4 25. gxf4 $6 (25. Qxf4 $142 Nc6 26. Rd5
+$13) 25... f5 26. e5 $2 {This pawn now becomes weak but of course, it was not
+easy for White to accept his mistake by playing} (26. Kg2 fxe4 27. Qxe4) 26...
+dxe5 27. fxe5 (27. Qxe5 Qxe5 28. fxe5 Nc6 29. e6 Kg7 $15 {[%csl Re6]}) 27...
+Rxd1 28. Bxd1 (28. Rxd1 f4 29. Qe4 Rf5 30. e6 Qe5 31. Bf3 Qxe4 32. Bxe4 Re5 33.
+Bd5 Kg7 $15 {[%csl Re6]}) 28... Rc8 $1 {As you see from the previous notes,
+the weakness of the e5-pawn becomes obvious in the endgame; therefore, Black
+aims for the queen exchange.} 29. Ba4 Qc5 30. Kf2 (30. Rf3 g5 $5 {[%cal Yf5f4,
+Yg5g4]} 31. Bd7 $140 f4 $1) (30. Re1 f4) 30... f4 31. Qxc5 Rxc5 32. Re1 $6 ({
+It was better to look for counterplay by means of} 32. Rc1 $1 {Here a possible
+continuation is:} g5 (32... Rxe5 $6 33. c5) (32... Kg7 33. Kf3 g5 34. Ke4 Ng6
+35. Kd4 Rxe5 36. c5 Re2 {leads to the main line} (36... f3 37. c6 f2 38. c7 Re1
+39. c8=Q f1=Q 40. Qd7+ Kh6 41. Rxe1 Qxe1 42. Kc5 {with a crazy position})) 33.
+Kf3 Ng6 34. e6 (34. Ke4 Rxe5+ 35. Kd4 f3 $17) 34... Kg7 35. Ke4 Re5+ 36. Kd4
+Rxe6 37. c5 Re2 (37... f3 38. Rf1 $1 Ne5 $140 39. Kd5) 38. c6 f3 39. c7 Ne7 40.
+c8=Q Nxc8 41. Rxc8 f2 42. Rc1 (42. Rc7+ Kg6 43. Rc6+ Kf5 44. Rc7 Rd2+ 45. Kc5
+Rxb2) 42... Re1 43. Rc7+ Kf6 (43... Kh6 $2 44. Bc2 $1) 44. Bb5 f1=Q 45. Bxf1
+Rxf1 46. Rxh7 Ra1 $1 {with good winning chances for Black.}) 32... g5 33. Bd7 (
+33. Kf3 Kg7 {[%cal Rc5c4]} 34. b3 Ng6 35. e6 Kf6 $19) 33... Kf7 34. b3 h5 (
+34... Ng6 35. Bf5 Nxe5 36. Bxh7 Ng4+ 37. Kg1 Ne3 {was also strong but the text
+move creates an unstoppable pawn avalanche.}) 35. e6+ Kf6 36. Re4 Kf5 37. Rd4
+g4 38. Rd2 h4 39. Rd4 Re5 40. Rd2 g3+ 41. Kg2 Kg4 42. h3+ Kg5 43. Rd3 Re2+ 44.
+Kf1 Rxa2 {There are many roads to Rome:} (44... Rh2) (44... Rc2 45. Rf3 Rh2 {
+etc.}) 45. c5 Rc2 46. c6 Rc3 0-1
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.03"]
+[Round "2"]
+[White "Najer, Evgeniy"]
+[Black "Novikov, Stanislav"]
+[Result "0-1"]
+[ECO "B47"]
+[WhiteElo "2627"]
+[BlackElo "2564"]
+[PlyCount "124"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Saransk TPS"]
+[BlackTeam "Moscow ShSM"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. Ndb5 Qb8 8.
+f4 d6 9. Qf3 Be7 10. O-O-O a6 11. Nd4 Nxd4 12. Rxd4 b5 13. a3 e5 14. Rb4 O-O
+15. Bd3 Bd7 16. g4 Bxg4 17. Qg3 exf4 18. Bxf4 Be6 19. Nd5 Bxd5 20. exd5 g6 21.
+Bh6 Re8 22. Rf1 Nd7 23. h4 Ne5 24. h5 Bf8 25. Bf4 Qb7 26. Kb1 Nxd3 27. Qxd3
+Rac8 28. c4 bxc4 29. Qxc4 Qd7 30. Qd3 Rb8 31. Bd2 Rxb4 32. Bxb4 Qg4 33. Qxa6
+Qxh5 34. Qb7 g5 35. Ka2 g4 36. Qc6 Re5 37. Bxd6 Bxd6 38. Qxd6 Rxd5 39. Qb8+ Kg7
+40. a4 Rd4 41. Qb3 Qd5 42. Qxd5 Rxd5 43. b4 h5 44. b5 h4 45. b6 h3 46. b7 Rd8
+47. a5 h2 48. a6 g3 49. a7 g2 50. Rxf7+ Kxf7 51. b8=Q g1=Q 52. Qf4+ Ke6 53.
+Qe4+ Kd6 54. Qd3+ Kc6 55. Qf3+ Kc7 56. Qf7+ Kb6 57. Qf6+ Kxa7 58. Qe7+ Ka6 59.
+Qa3+ Kb6 60. Qb4+ Kc6 61. Qa4+ Kd5 62. Qa5+ Ke6 0-1
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.03"]
+[Round "2"]
+[White "Alekseev, Evgeny"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[WhiteElo "2711"]
+[BlackElo "2732"]
+[PlyCount "43"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Saratov Economist"]
+[BlackTeam "Tomsk 400"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 b5 8. Nd5
+Nbd7 9. Nec3 Bb7 10. Bg2 Nxd5 11. Nxd5 Nb6 12. Bg5 Qxg5 13. Nxb6 Rb8 14. Nd5
+Qd8 15. Qd3 Be7 16. O-O O-O 17. Rfd1 Bg5 18. c3 Bc8 19. Qe2 a5 20. a4 Bd7 21.
+axb5 Bxb5 22. Qc2 1/2-1/2
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.04"]
+[Round "3"]
+[White "Lastin, Alexander"]
+[Black "Kovchan, Alexander"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2621"]
+[BlackElo "2513"]
+[PlyCount "83"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Buryatia Shatar"]
+[BlackTeam "Saratov Economist II"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+h5 9. Qd2 Nbd7 10. a4 Nb6 11. a5 Nc4 12. Bxc4 Bxc4 13. Na4 Nd7 14. Nc1 g6 15.
+b3 Be6 16. O-O f5 17. Bg5 Qc7 18. h4 Qc6 19. Nd3 Qc7 20. c4 f4 21. Rfd1 Be7 22.
+Bxe7 Kxe7 23. Qb4 Kf6 24. Ra2 Rad8 25. Rad2 Nb8 26. Nb6 g5 27. Qc3 Nc6 28. Nb4
+Ne7 29. N4d5+ Bxd5 30. Nxd5+ Nxd5 31. hxg5+ Kxg5 32. Rxd5 h4 33. c5 Rhe8 34.
+Rxd6 Rxd6 35. Rxd6 h3 36. gxh3 Kh5 37. Kf1 Qc8 38. Qc4 Qxh3+ 39. Ke1 Qg3+ 40.
+Kd2 Qxf3 41. Qf7+ Kh4 42. Qh7+ 1-0
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.04"]
+[Round "3"]
+[White "Shaposhnikov, Evgeny"]
+[Black "Shomoev, Anton"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "2552"]
+[BlackElo "2559"]
+[PlyCount "31"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Saratov Economist II"]
+[BlackTeam "Buryatia Shatar"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. e5 dxe5 5. Nxe5 e6 6. g3 Nbd7 7. Nc4 Nb6 8.
+Ne3 Bd7 9. Bg2 Qc7 10. a4 Bc6 11. O-O Be7 12. d3 O-O 13. a5 Nbd7 14. Nc4 b5 15.
+axb6 axb6 16. Bf4 1/2-1/2
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.04"]
+[Round "3"]
+[White "Tkachiev, Vladislav"]
+[Black "Sveshnikov, Evgeny"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2657"]
+[BlackElo "2506"]
+[PlyCount "79"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Moscow Spasio"]
+[BlackTeam "Chelyabinsk Southern Ural"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8. Re1
+Rc8 9. a4 b4 10. d4 cxd4 11. cxd4 d5 12. Nbd2 Na5 13. Ne5 Ng6 14. Nxg6 hxg6 15.
+e5 Qb6 16. Nf3 b3 17. Bd3 Nc4 18. Qe2 Be7 19. Rd1 a5 20. Bg5 Qd8 21. Bxe7 Qxe7
+22. Rdc1 O-O 23. h4 Nb6 24. Bb5 Qb4 25. Qd2 Nc4 26. Qxb4 axb4 27. Ne1 Na5 28.
+Rc5 f6 29. Nd3 fxe5 30. Nxe5 Rxc5 31. dxc5 Rc8 32. Rc1 Nc4 33. c6 Nxe5 34. cxb7
+Rxc1+ 35. Kh2 Kh7 36. b8=Q Ng4+ 37. Kg3 Nf6 38. f3 Nh5+ 39. Kh2 Rc2 40. Qe5 1-0
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.04"]
+[Round "3"]
+[White "Wang Hao"]
+[Black "Kobalia, Mihail"]
+[Result "1-0"]
+[ECO "B85"]
+[WhiteElo "2684"]
+[BlackElo "2627"]
+[PlyCount "97"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Moscow 64"]
+[BlackTeam "Saransk TPS"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 d6 7. O-O Nf6 8. Be3
+Be7 9. f4 Qc7 10. a4 O-O 11. Kh1 Bd7 12. Nb3 b6 13. Bf3 Rab8 14. g4 Bc8 15. g5
+Nd7 16. Bg2 Re8 17. Qd2 Bf8 18. Rad1 b5 19. axb5 axb5 20. Qd3 Qb7 21. Ne2 b4
+22. Ng3 Qc7 23. Ra1 Bb7 24. h4 Red8 25. h5 Nc5 26. Nxc5 dxc5 27. Qc4 Nd4 28.
+Ne2 Nxe2 29. Qxe2 Bc6 30. Rfd1 Qb7 31. e5 Rxd1+ 32. Rxd1 c4 33. Bxc6 Qxc6+ 34.
+Qg2 Qb5 35. Kh2 Bc5 36. Qf2 Bxe3 37. Qxe3 Kf8 38. Kg3 Ke7 39. Qd4 Ke8 40. f5
+Qc6 41. f6 gxf6 42. gxf6 Qc7 43. Qg4 Qxe5+ 44. Kg2 Qc5 45. h6 c3 46. b3 Rc8 47.
+Qg8+ Qf8 48. Qxh7 Rd8 49. Qg7 1-0
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.04"]
+[Round "3"]
+[White "Asrian, Karen"]
+[Black "Zvjaginsev, Vadim"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[WhiteElo "2630"]
+[BlackElo "2674"]
+[PlyCount "49"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Moscow ShSM"]
+[BlackTeam "St Petersburg Finek"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nc6 6. Be2 Nf6 7. Be3 Be7 8.
+O-O O-O 9. Kh1 Bd7 10. Nb3 a6 11. a4 Na5 12. Nd2 Rc8 13. f4 Be8 14. Qe1 Nd7 15.
+Qg3 Bh4 16. Qh3 Bf6 17. Nd1 Nc5 18. Ra3 Nd7 19. Bd3 g6 20. c3 Bg7 21. b4 Nc6
+22. Nf3 Nf6 23. a5 Bd7 24. Bb6 Qe7 25. Qh4 1/2-1/2
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.04"]
+[Round "3"]
+[White "Movsesian, Sergei"]
+[Black "Popov, Ivan1"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2695"]
+[BlackElo "2594"]
+[Annotator "Movsesian"]
+[PlyCount "105"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "St Petersburg Finek"]
+[BlackTeam "Moscow ShSM"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Nd5 Be7 11. Bxf6 Bxf6 12. c4 b4 13. Nc2 a5 14. g3 O-O 15.
+Bg2 Bg5 16. O-O Ne7 17. Nde3 ({In the first round of the competition I played} 
+17. b3 {but after} Nxd5 18. Qxd5 Be6 19. Qd3 Qb6 $11 {Black reached
+comfortable equality in Movsesian-Tregubov, Russia (tch) 2008.}) 17... Bxe3 18.
+Nxe3 Be6 19. Qd3 Qb6 20. Nf5 $5 {This move technically taken is not a novelty.
+According to the database, White offered a draw (which was accepted) in 
+Romanenko-Zhigalko,S, BLR (ch) 2008... I decided to try to play a little bit
+further...} ({Too slow is} 20. Kh1 Rac8 21. b3 Kh8 22. Rac1 Rcd8 23. Nf5 Nc6
+24. Qe3 Qc7 $11 {Fedorov-Radjabov, Kemer 2007}) 20... Bxf5 ({A couple of days
+later after our game Black tried} 20... Nc8 21. Rac1 Ra7 22. h4 g6 23. Ne3 Ne7
+24. Kh2 Rd7 25. f4 exf4 26. gxf4 f5 27. Bh3 Kh8 28. Qd2 $13 {Bezgodov-Filippov,
+Russia (tch-2) 2008}) 21. exf5 Rac8 22. Rad1 Rfd8 23. b3 $14 {White can be
+happy with the results of the opening: Black has just to wait and protect
+eternal weakness on d6, also the white bishop is clearly stronger than the
+black knight,as the exchange of pieces has been in White's favour.} Rc5 24. Be4
+f6 25. Qf3 a4 {Black doesn't want just to sit back and wait, but opening the
+a-file helps White...} 26. Rd3 ({I also considered} 26. Rfe1 $5 axb3 27. axb3
+Nc6 28. Bd5+ Kh8 29. Qh5 $14) 26... axb3 27. axb3 Nc6 28. Bd5+ Kh8 29. Bxc6
+Rxc6 (29... Qxc6 30. Qxc6 Rxc6 31. Ra1 $16) 30. Rfd1 Qc7 31. Rd5 Rb8 32. Qd3
+Rbb6 33. Ra1 $16 h6 34. Ra8+ Rb8 35. Rda5 Rcb6 36. Qd5 Rxa8 37. Rxa8+ Rb8 38.
+Ra6 Rd8 39. Rc6 Qd7 40. g4 $6 ({More accurate was} 40. Rb6 $1 Qxf5 41. c5 Rc8
+42. Rxd6 $16) 40... g6 $1 {Black immediately takes the opportunity to release
+the pressure.} 41. Qe6 Kg7 42. Rb6 h5 $2 {But this is too much...} (42... gxf5
+43. gxf5 Qxe6 44. fxe6 Kf8 $1 ({From some reason I considered only} 44... f5
+45. e7 Re8 46. Rxd6 Rxe7 47. Rb6 $16) 45. Rb7 Ra8 {and Black is out of trouble.
+}) 43. Qd5 $1 {Now the weakened position of the black king becomes critical.}
+Qf7 44. Rb7 Rd7 45. fxg6 Kxg6 46. gxh5+ Kg7 47. h6+ Kg6 48. Qd3+ f5 49. Rxd7
+Qxd7 50. c5 $1 d5 51. Qg3+ ({Even stronger was} 51. Qa6+ $1 Kh7 52. Qf6 $18)
+51... Kxh6 52. Qxe5 Kh5 53. Qf6 1-0
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.04"]
+[Round "3"]
+[White "Novikov, Stanislav"]
+[Black "Makarov, Marat"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2564"]
+[BlackElo "2535"]
+[PlyCount "137"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Moscow ShSM"]
+[BlackTeam "St Petersburg Finek"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Qd3 Be7 11. Nd5 Nd7 12. Rd1 Bxd5 13. Qxd5 Qc7 14. Bc4 O-O
+15. Qd3 Nb6 16. Nd2 Na4 17. Qb3 b5 18. Bd5 Rac8 19. c3 Nb6 20. Nf1 Bg5 21. Ng3
+g6 22. h4 Bf4 23. Ne2 h5 24. O-O Bh6 25. Qb4 Qe7 26. g3 Nxd5 27. Rxd5 Rc4 28.
+Qxd6 Qxd6 29. Rxd6 Rxe4 30. Re1 Ra4 31. a3 Ra8 32. Red1 Rc4 33. R1d5 e4 34. Nd4
+Bc1 35. Rd8+ Rxd8 36. Rxd8+ Kg7 37. Rd6 Bxb2 38. Rxa6 Bxc3 39. Nxb5 Be5 40. Kf1
+Rc2 41. Ra4 e3 42. f4 Bb2 43. Re4 Bc1 44. Nd4 Rf2+ 45. Ke1 Bd2+ 46. Kd1 Kf6 47.
+a4 Rg2 48. Ne2 Rh2 49. Nd4 Rh3 50. Nb3 Rxg3 51. a5 Bxa5 52. Nxa5 Kf5 53. Re7
+Kxf4 54. Rxf7+ Kg4 55. Nc4 Kxh4 56. Ke2 Rg2+ 57. Kxe3 Kg5 58. Ne5 Ra2 59. Nf3+
+Kh6 60. Rb7 Ra3+ 61. Ke4 Ra4+ 62. Nd4 Kg5 63. Rb5+ Kg4 64. Rb1 h4 65. Rg1+ Kh5
+66. Ke5 g5 67. Ne6 h3 68. Nxg5 h2 69. Rh1 1/2-1/2
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.04"]
+[Round "3"]
+[White "Efimenko, Zahar"]
+[Black "Alekseev, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2660"]
+[BlackElo "2711"]
+[PlyCount "88"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Nizhny Tagil Polytechnik"]
+[BlackTeam "Saratov Economist"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Re1 Be6 10. Bf3 a5 11. Be3 a4 12. Nc1 a3 13. b3 Na6 14. Nd3 Qa5 15. Qd2
+Rfc8 16. Nd5 Qxd2 17. Nxe7+ Kf8 18. Bxd2 Rxc2 19. Bb4 Kxe7 20. Bxa3 Nc5 21. Nb4
+Rd2 22. Bc1 Rd4 23. Nc2 Rd3 24. Rb1 Rxf3 25. gxf3 Rxa2 26. Nb4 Ra5 27. Be3 Rb5
+28. Bxc5 dxc5 29. Nd3 Nd7 30. b4 c4 31. Nc1 Nc5 32. Re3 Rb6 33. Kg2 f6 34. h4
+h5 35. Kg3 g5 36. Ra3 Nb3 37. Nxb3 cxb3 38. Raxb3 Bxb3 39. Rxb3 Kf7 40. hxg5
+fxg5 41. Rb1 Kg6 42. Rb2 h4+ 43. Kg2 Kh5 44. Rd2 Rxb4 1/2-1/2
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.04"]
+[Round "3"]
+[White "Galkin, Alexander"]
+[Black "Kokarev, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2606"]
+[BlackElo "2579"]
+[PlyCount "74"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Saratov Economist"]
+[BlackTeam "Nizhny Tagil Polytechnik"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Re1 Be6 10. Bf3 Nbd7 11. a4 Qc7 12. a5 Nc5 13. Nd2 b6 14. axb6 Qxb6 15.
+Nd5 Bxd5 16. exd5 a5 17. Nc4 Qc7 18. Be3 a4 19. Na3 Rfb8 20. Ra2 Nfd7 21. Be2
+Qd8 22. Bb5 Bg5 23. Bc6 Ra6 24. Nb5 Bxe3 25. Rxe3 Nf6 26. c4 Rab6 27. h3 g6 28.
+Rxa4 Nxa4 29. Qxa4 Nh5 30. Qa3 Nf4 31. g3 Nxh3+ 32. Kg2 Ng5 33. Qxd6 Qxd6 34.
+Nxd6 Rxb2 35. Rxe5 f6 36. Re7 Kf8 37. Rc7 R8b3 1/2-1/2
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.05"]
+[Round "4"]
+[White "Amonatov, Farrukh"]
+[Black "Timofeev, Artyom"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2649"]
+[BlackElo "2664"]
+[PlyCount "95"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Buryatia Shatar"]
+[BlackTeam "Tomsk 400"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 O-O 13. g3 Be6 14. Bg2 Rb8
+15. O-O a5 16. b3 Bxd5 17. Qxd5 Qb6 18. Rad1 Rfd8 19. Qd3 a4 20. Qe2 Ra8 21.
+Rd5 Ra5 22. Rb5 Qa7 23. Qd3 axb3 24. axb3 Ra2 25. Nxb4 Nxb4 26. Rxb4 Bg5 27.
+Qd5 Rf8 28. Rb7 Qa3 29. Bh3 h5 30. Qd1 g6 31. Qf3 Rb2 32. Rd1 Qc5 33. Rd5 Qa3
+34. Kg2 Bd2 35. Rxd2 Rxd2 36. Qf6 Qb2 37. Be6 Rxf2+ 38. Qxf2 Qxf2+ 39. Kxf2
+fxe6+ 40. Ke2 Ra8 41. b4 Kf8 42. b5 Ke8 43. Rg7 Ra2+ 44. Kd3 Kd8 45. b6 Kc8 46.
+Rc7+ Kd8 47. Kc3 Ra1 48. Kb4 1-0
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.05"]
+[Round "4"]
+[White "Gashimov, Vugar"]
+[Black "Morozevich, Alexander"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "2679"]
+[BlackElo "2774"]
+[Annotator "Kritz"]
+[PlyCount "108"]
+[EventDate "2008.04.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "Buryatia Shatar"]
+[BlackTeam "Tomsk 400"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 (7. Bd3
+Nf6 8. O-O Nxd4 $5 {Dies ist der am dritthaeufigsten gespielter Zug, aber,
+meiner Meinung nach, der beste.} 9. Bxd4 Bc5 10. Bxc5 Qxc5 11. Kh1 (11. Na4 Qc7
+12. c4 d6 13. Nc3 b6 $132 {Ein Igel bei dem 2 Leichtfiguren getauscht sind,
+gilt normalerweise als gut fuer Weiss, doch aufgrund des schlechten weissen
+Laeufers hat Schwarz genuegendes Gegenspiel.}) 11... e5 12. f4 d6 $132 {
+Schwarz hat keine Schwierigkeiten, weisser Laeufer auf d3 kommt kaum zum Spiel.
+}) (7. Be2 {Ist die alte Hauptvariante, die zuletzt wegen dem Plan mit der
+langen Rochade etwas in den Schatten geraten ist. Trotzdem empfehlenswert!} Nf6
+8. O-O Bb4 9. Na4 $1 {Hier faengt erst die Theorie an, die vorkommenden
+Stellungen sind sehr interessant und gut spielbar fuer beide Seiten.}) (7. g3 {
+Eine eher seltene Fortsetzung.} Nf6 8. Bg2 Bb4 (8... Bc5 $2 9. Nxe6 $1 $18) 9.
+O-O Ne5 (9... Bxc3 10. bxc3 Ne5 11. Bf4 d6 $132) 10. Nde2 O-O 11. a3 Be7 12. h3
+d6 $132) 7... Nf6 8. O-O-O Be7 $5 {Ein seltener Zug. Normalerweise spielt man
+hier 8....Bb4, um frueher oder spaeter den Zug a3 zu erzwingen und damit den
+weissen Koenig zu schwaechen, und erst dann geht der Laeufer zurueck nach e7.}
+(8... Bb4 9. f3 {Das ist die Tabia der Variante mit der langen Rochade.} Ne5 {
+Mit Abstand der populaerste Zug heute.} 10. Nb3 b5 (10... Bxc3 11. Qxc3 Qxc3
+12. bxc3 d5 13. Bd4 Nc6 14. Bxf6 gxf6 15. exd5 exd5 16. Rxd5 $16) 11. Qe1 (11.
+Kb1 {Ist eine Alternative, allerdings ist Schwarz danach in Ordnung.} Nc4 12.
+Bxc4 bxc4 13. Nc1 Rb8 $132) 11... Be7 $13 {Die theoretischen Varianten sind
+hier lang und reichen bis zu dem Endspiel.}) (8... b5 {Ist eine Alternative,
+die allerdings keinen guten Ruf hat, und das zurecht.} 9. Bf4 Qb6 ({Huebsch
+ist die Widerlegung von} 9... e5 10. Nxc6 exf4 (10... dxc6 $2 11. Bxe5 $18) 11.
+e5 $1 {Nur so! Sonst bekommt Schwarz gutes Spiel:} (11. Nd4 Bb4 12. f3 O-O 13.
+Nde2 d5 $1 14. exd5 Bd6 $44) 11... dxc6 12. exf6 Be6 13. Ne4 Bd5 14. c4 $3 Bxe4
+(14... bxc4 15. Bxc4 Bxc4 16. Qc3 $1 g6 17. Qxc4 $18) 15. Qd4 gxf6 (15... Bg6
+16. Re1+ $18) 16. Qxe4+ Be7 17. g3 $16) 10. Nxc6 (10. Nb3 $5 Ng4 11. h3 Nge5 (
+11... Nxf2 12. Be3 $18) 12. Kb1 d6 13. Be3 Qb7 14. Ka1 $1 {Wichtige Profylaxe!}
+(14. f4 Nc4 15. Bxc4 bxc4 16. Nd4 Rb8 $132) 14... Rb8 15. Nd4 Bd7 (15... Nc4
+16. Bxc4 bxc4 17. Rb1 $1 $14 {Es ist wichtig, dass Weiss kein b3 spielt!}) 16.
+f4 Nc4 17. Bxc4 bxc4 18. Rb1 Be7 19. g4 O-O 20. Nde2 $14 {Anand - Oral 
+(Eppingen, 2005)}) 10... dxc6 11. Bd3 {Das ist wohl der sicherste Weg, einen
+sehr stabilen und sicheren Vorteil zu erlangen.} (11. e5 {ist aggressiver, aus
+praktischer Sicht aber nicht staerker} Nd5 12. Ne4 Ra7 13. h4 Rd7 14. Bg3 c5
+15. h5 h6 16. Rh4 c4 17. Nd6+ Bxd6 18. exd6 O-O 19. Rg4 f5 20. Qxh6 fxg4 21.
+Qxe6+ Rdf7 22. Qxd5 $36 {Shirov - Movsesian (Sarajevo, 2005)}) 11... Be7 12. e5
+Nd5 13. Nxd5 cxd5 14. Be3 Qc7 15. f4 b4 16. Rhf1 a5 17. f5 $14 {Navara -
+Movsesian (Prague, 2005)}) 9. f3 O-O (9... b5 10. g4 d6 (10... O-O {->fuehrt
+zur Zugumstellung}) 11. g5 Nd7 12. Nxc6 $1 {Solange Schwarz mit der Dame
+zurucknehmen muss, nutzt Weiss die Gelegenheit, seinen c3 Springer ins Zentrum
+ueberzufuehren.} Qxc6 13. Ne2 Bb7 14. h4 Ne5 15. Nd4 Qc7 16. h5 Rc8 17. Rh3 $1
+$14) 10. g4 b5 {Beide Seiten beschaeftigen sich mit ihren eigenen Plaenen.} ({
+Nach} 10... d6 11. g5 Nd7 {entsteht theoretische Stellung aus Najdorf mit Nc6.}
+12. h4 Nxd4 13. Bxd4 b5 14. Kb1 $14 {Weisse Perspektiven sind etwas besser,
+denn seine Bauern am Koenigsfluegel schon weit vorgedrungen sind.}) 11. g5 Ne8
+12. Nxc6 $6 {In dieser Redaktion scheint mir der Tausch auf c6 ziemlich
+komisch. Man haette einfach weiter am Koenigsfluegel spielen koennen.} (12. h4
+$1 Bb7 13. h5 Nxd4 14. Qxd4 {Das Nehmen mit der Dame ist besser, weil dadurch
+erstens das Feld g7 gefaehrlicher angegriffen wird, und zweitens die Option
+Qb6 und das daraus resultierende Endspiel wieder aktuell wird.} (14. Bxd4 Rc8
+15. Kb1 b4 16. Na4 Bxg5 17. Qg2 h6 18. Bd3 d6 19. Rhg1 e5 $15 {Gelfand -
+Karpov (Tallinn, 2005)}) 14... b4 15. Na4 Rc8 16. Bd3 Qa5 17. Qb6 $1 Qxa4 (
+17... Qxb6 18. Nxb6 Rc7 19. Be2 d6 20. h6 g6 21. Nc4 $16 {/\Na5}) 18. Qxb7 Nc7
+(18... Nd6 19. Qxa6 Qxa6 20. Bxa6 Ra8 21. Bd3 Rxa2 22. h6 g6 23. e5 Nf5 24.
+Bxf5 gxf5 25. Rh4 $14 {Weiss ist besser, weil der schwarze Koenig sehr passiv
+ist.}) 19. Bc4 Qa5 20. Rxd7 Bxg5 21. f4 $18 {Motylev - Korneev (Dresden, 2007)}
+) (12. Bf4 $5 Ne5 13. Bxe5 Qxe5 14. f4 Qc7 15. e5 {Die Idee des weissen
+Unternehmens ist es, gegen den Springer e8 zu spielen. Doch diese Strategie
+ist ziemlich gefaehrlich, denn sollte der Springer das Feld e8 schadenlos
+verlassen, wird sich die Abwesenheit des schwarzfeldrigen Laeufers bemerkbar
+machen.} d6 (15... b4 $5 16. Ne4 Bb7 17. Bg2 d5 18. Ng3 Bc5 19. h4 $14) 16. Bg2
+Bb7 17. Rhe1 (17. Bxb7 Qxb7 18. a3 dxe5 19. fxe5 Nc7 $15) 17... b4 18. Ne4 Kh8
+$1 {Profylaxe gegen Nf6.} (18... Bxe4 $6 19. Bxe4 d5 20. Bf3 Bc5 21. f5 $16)
+19. Nf3 (19. Ng3 dxe5 20. Bxb7 Qxb7 21. fxe5 Nc7 $132) 19... Rd8 20. Qe2 Bd5
+21. Kb1 a5 $15 {Motylev - Morozevich (Lugo, 2007) Man sieht dass die weisse
+Strategie nicht aufgegangen ist.}) 12... dxc6 (12... Qxc6 13. h4 Nd6 14. Bf4 b4
+(14... Nc4 15. Bxc4 Qxc4 16. Bd6 $16) 15. Ne2 (15. Bxd6 bxc3 16. Qxc3 $4 Bxd6
+17. Qxc6 Bf4+ 18. Kb1 dxc6 $19) 15... Nc4 16. Nd4 $1 Qc5 (16... Nxd2 17. Nxc6
+dxc6 18. Rxd2 Bc5 19. Rd3 $1 (19. Bd6 $2 Be3 20. Bxf8 Kxf8 21. Kd1 Bxd2 22.
+Kxd2 e5 23. Bc4 Ke7 $11) 19... a5 20. Bd6 Bxd6 21. Rxd6 $16) 17. Qh2 a5 18. h5
+$40) 13. f4 {Dieser Zug schwaecht das Feld e4. Der Plan mit f5 klappt nicht
+und Weiss wird ausgetrickst.} (13. h4 e5 14. h5 Be6 15. Qh2 Rd8 16. Rxd8 Bxd8
+$11 {und Schwarz kann sich verteidigen.}) 13... Nd6 $1 14. Qd4 (14. Bd3 c5 15.
+e5 Nc4 16. Bxc4 bxc4 17. Qe2 Rb8 (17... Bb7 $2 {Dadurch wird nur die B-Linie
+versperrt.} 18. Rhf1 $14) 18. Qxc4 Rb4 19. Qd3 Bb7 20. Rhf1 Rd8 21. Qe2 Rb8 $44

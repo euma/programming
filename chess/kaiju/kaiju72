@@ -1,0 +1,50 @@
+6.O-O Be7 7.b3 O-O 8.Bb2 cxd4 9.Nxd4
+E15	Fianchetto System, QID; E15	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3
+E15	Nimzovich Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6
+E15	Quiet Line, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3
+E15	Nimzovich Attack, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qa4+
+E15	Timman's Line, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qb3
+E15	Saemisch Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 c5
+E16	Fianchetto Traditional, QID; E16	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3
+Bb7
+E16	Capablanca Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7
+5.Bg2 Bb4+
+E16	Yates Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+
+6.Bd2 a5
+E16	Riumin Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+
+6.Bd2 Be7
+E16	Buerger Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 c5
+6.d5 exd5 7.Ng5
+E16	Rubinstein Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7
+5.Bg2 c5 6.d5 exd5 7.Nh4
+E16	Fine Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Qc8
+6.O-O c5 7.d5
+E17	Traditional Variation, QID; E17	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7
+5.Bg2 Be7
+E17	Anti-Queen's Indian System	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7
+5.Bg2 Be7 6.Nc3
+E17	Opocensky Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7
+5.Bg2 Be7 6.Nc3 Ne4 7.Bd2
+E17	Classical Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7
+5.Bg2 Be7 6.O-O
+E17	Euwe Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7
+6.O-O O-O 7.b3
+E17	Taimanov Gambit, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7
+6.O-O O-O 7.d5 exd5 8.Nd4
+E17	Polugaevsky Gambit, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7
+6.O-O O-O 7.d5 exd5 8.Nh4
+E17	Kramnik Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7
+6.O-O O-O 7.Re1
+E18	E18	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+E18	Tiviakov Defense, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7
+6.O-O O-O 7.Nc3 Na6
+E19	E19	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+Ne4 8.Qc2
+E20	E20	1.d4 Nf6 2.c4 e6 3.Nc3
+E20	Nimzo-Indian Defense	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+E20	Kmoch Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3
+E20	Steiner Variation, Nimzo-Indian; Romanishin Variation	1.d4 Nf6 2.c4
+e6 3.Nc3 Bb4 4.g3
+E20	Romanishin Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.Nf3 c5 5.g3 O-O 6.Bg2
+E20	English Hybrid, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5

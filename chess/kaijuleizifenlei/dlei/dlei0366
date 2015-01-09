@@ -1,0 +1,600 @@
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. d4 c6 3. Ne5 Nd7 4. Nd3 g6 5. g3 Bg7 6. c3 h5 7. Bf4 Ngf6 8. Nd2
+h4 9. gxh4 Rxh4 10. e3 Rh8 11. Be2 Ne4 12. Nxe4 dxe4 13. Ne5 Nxe5 14. dxe5
+Qxd1+ 15. Rxd1 Be6 16. b3 f6 17. Kd2 fxe5 18. Bg3 a5 19. c4 Kf7 20. Kc3 Rhb8
+21. a4 b6 22. h4 Rh8 23. h5 g5 24. h6 Rxh6 25. Rxh6 Bxh6 26. Bxe5 Bg7 27. Kd4
+g4 28. Kxe4 Bxe5 29. Kxe5 Rh8 30. Rd4 Rh5+ 31. Kf4 c5 32. Rd8 Rh2 33. Kg3 Rh3+
+34. Kf4 Rh2 35. Kg3 Rh3+ 36. Kg2 Rh6 37. e4 Rh3 38. f3 Kf6 39. Rb8 Ke5 40. Rxb6
+gxf3+ 41. Bxf3 Kf4 42. Rxe6 Rg3+ 43. Kh2 Rxf3 44. Rxe7 Rxb3 1/2-1/2
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.13"]
+[Round "1"]
+[White "Dzhumagaliev, Yan"]
+[Black "Yudin, Sergei"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2232"]
+[BlackElo "2519"]
+[PlyCount "50"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. g3 dxc4 5. Bg2 b5 6. a4 Bb7 7. O-O Nd7 8. b3
+cxb3 9. Qxb3 a6 10. Nbd2 Ngf6 11. Nc4 Be7 12. Ba3 Bxa3 13. Rxa3 Qc7 14. axb5
+cxb5 15. Na5 Be4 16. Qb4 Nd5 17. Qb2 b4 18. Ra2 O-O 19. Rc1 Nc3 20. Qxb4 Rfc8
+21. Qe7 Nxe2+ 22. Rxe2 Qxc1+ 23. Re1 Bxf3 24. Rxc1 Rxc1+ 25. Bf1 Rb8 0-1
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.13"]
+[Round "1"]
+[White "Suchkov, Evgeniy"]
+[Black "Spirin, Alexandr"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2279"]
+[BlackElo "1909"]
+[PlyCount "87"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 O-O 6. e3 b6 7. cxd5 exd5 8. Qc2
+Be6 9. Bd3 h6 10. Bh4 Nbd7 11. O-O Rc8 12. Ba6 Rb8 13. Nb5 Bd6 14. Nxa7 Qe8 15.
+Nc6 Ra8 16. Bb7 Ne4 17. Bxa8 Qxa8 18. Be7 Re8 19. Bxd6 cxd6 20. Rac1 Bf5 21.
+Qb3 Ndf6 22. Qxb6 Bg4 23. Qa7 Bxf3 24. gxf3 Nd2 25. Ne7+ Kh7 26. Qxa8 Rxa8 27.
+Rfd1 Nxf3+ 28. Kg2 Nh4+ 29. Kg3 g5 30. f3 Rxa2 31. Rc2 Ra7 32. Nc6 Rc7 33. b4
+Nf5+ 34. Kf2 g4 35. Ra1 h5 36. Ra7 Rxa7 37. Nxa7 gxf3 38. Kxf3 Ng4 39. Re2 Kg6
+40. b5 Kg5 41. b6 Nh4+ 42. Kg3 Nf5+ 43. Kf3 h4 44. b7 1-0
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.14"]
+[Round "2"]
+[White "Avdeev, Alexander"]
+[Black "Vekshenkov, Nikolai"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "2277"]
+[BlackElo "2432"]
+[PlyCount "78"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. g3 d5 3. Nf3 c6 4. Bg2 Bf5 5. O-O e6 6. c4 Be7 7. Nc3 Nbd7 8. cxd5
+exd5 9. Bf4 O-O 10. Ne5 Qb6 11. Qd2 Nxe5 12. Bxe5 Ne4 13. Nxe4 Bxe4 14. Bxe4
+dxe4 15. Qc2 Rfe8 16. g4 Rad8 17. e3 Bd6 18. Bxd6 Rxd6 19. Kh1 Qb5 20. b3 h5
+21. Rg1 Rg6 22. gxh5 Qxh5 23. Rxg6 Qxg6 24. Rg1 Qf5 25. Qe2 g6 26. Rg4 a6 27.
+Rf4 Qd5 28. Rg4 c5 29. dxc5 Qxc5 30. Rg1 Qe5 31. Rc1 Kg7 32. h3 Rh8 33. Kg2 Rh5
+34. b4 Rg5+ 35. Kh1 Qf5 36. Kh2 Qe5+ 37. Kh1 Qe6 38. Qb2+ Kh7 39. Kh2 Rh5 0-1
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.14"]
+[Round "2"]
+[White "Kaluga, Sergey"]
+[Black "Dolsonov, Ayusha"]
+[Result "0-1"]
+[ECO "D28"]
+[WhiteElo "2227"]
+[BlackElo "2095"]
+[PlyCount "76"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. Nc3 Nc6 8. Qe2
+b5 9. Bb3 cxd4 10. Rd1 Bb7 11. exd4 Nb4 12. Ne5 Bd5 13. Nxd5 Nbxd5 14. a4 b4
+15. Bg5 Be7 16. Nc6 Qd6 17. Nxe7 Kxe7 18. Rac1 Rhc8 19. Qe5 h6 20. Bxd5 Qxd5
+21. Bxf6+ gxf6 22. Qf4 b3 23. Rc7+ Rxc7 24. Qxc7+ Qd7 25. Qb6 Qd5 26. Qb4+ Kd7
+27. Rd3 Rc8 28. h3 Rc1+ 29. Kh2 Qe4 30. Rf3 f5 31. Qxb3 h5 32. d5 Qe5+ 33. g3
+Qe1 34. dxe6+ fxe6 35. Rd3+ Ke7 36. Qb7+ Kf6 37. h4 Qg1+ 38. Kh3 Qf1+ 0-1
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.14"]
+[Round "2"]
+[White "Pereboev, Konstantin"]
+[Black "Kiyanovsky, Vladimir"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "2217"]
+[BlackElo "2052"]
+[PlyCount "69"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 c5 2. c4 e6 3. g3 d5 4. Bg2 Nf6 5. O-O Be7 6. cxd5 exd5 7. d4 c4 8. Nc3
+Nc6 9. Ne5 O-O 10. e4 Nxe5 11. dxe5 Nxe4 12. Nxe4 dxe4 13. Bxe4 Qxd1 14. Rxd1
+Rb8 15. Be3 b6 16. Rac1 Be6 17. Bd5 Bxd5 18. Rxd5 Rfd8 19. Rxd8+ Rxd8 20. Rxc4
+Rd7 21. Rc8+ Bf8 22. Kg2 h6 23. a4 g5 24. h4 Kg7 25. hxg5 hxg5 26. Bxg5 Bc5 27.
+a5 Bd4 28. Bf6+ Kg6 29. axb6 Bxb6 30. Rc2 Kf5 31. f3 Bc7 32. g4+ Kg6 33. f4 Bb6
+34. f5+ Kh6 35. Rc8 1-0
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.14"]
+[Round "2"]
+[White "Sinitsin, Roman"]
+[Black "Voinov, Alexandr"]
+[Result "0-1"]
+[ECO "D90"]
+[WhiteElo "2279"]
+[BlackElo "2436"]
+[PlyCount "68"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nxc3 7. Bxc3 O-O 8.
+Nf3 Nd7 9. Be2 b6 10. O-O Bb7 11. Nd2 e6 12. f3 c5 13. Nc4 Qe7 14. e5 Rad8 15.
+Nd6 Bd5 16. f4 cxd4 17. Bxd4 f6 18. exf6 Nxf6 19. Nb5 Qb7 20. Rc1 Rd7 21. Bf3
+a6 22. Bxf6 Bxf6 23. Nc3 Bxf3 24. Qxf3 Qxf3 25. Rxf3 Rd2 26. Re1 Rxb2 27. Rxe6
+Bd4+ 28. Kf1 Bxc3 29. Rxc3 Rxf4+ 30. Ke1 Rxg2 31. Rxb6 Rxa2 32. Rc7 Rf7 33.
+Rcc6 Rxh2 34. Rxa6 Rb7 0-1
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.15"]
+[Round "3"]
+[White "Andreev, Afrikan"]
+[Black "Iskusnyh, Sergei"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "2295"]
+[BlackElo "2478"]
+[PlyCount "175"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nf3 Nf6 5. Nc3 Nc6 6. Bf4 e6 7. e3 Nh5 8. Be5
+Be7 9. Bd3 O-O 10. g4 Nf6 11. Bf4 Nxg4 12. h3 Nf6 13. Rg1 Ne8 14. Ne5 f5 15.
+Qh5 Nxe5 16. Bxe5 Bf6 17. Bxf6 Nxf6 18. Qg5 Rf7 19. O-O-O Bd7 20. f3 Rc8 21.
+Kb1 Qb6 22. Rc1 Re8 23. Qf4 Ne4 24. Rc2 Nxc3+ 25. Rxc3 Bc6 26. Rc2 Qd8 27. Rcg2
+Ree7 28. h4 Qc7 29. Qg5 Re8 30. h5 Qe7 31. f4 Qxg5 32. Rxg5 Kf8 33. Kc2 h6 34.
+R5g2 Rc8 35. Kd2 Be8 36. Rh2 Rfc7 37. Rgh1 Rc6 38. Ke2 a5 39. Kf3 Rc1 40. Rxc1
+Rxc1 41. Kg3 Ke7 42. Be2 Re1 43. Rg2 Kf6 44. Rh2 b5 45. a3 b4 46. axb4 axb4 47.
+Rg2 Ba4 48. Kf3 Be8 49. Rh2 Ke7 50. Ba6 Rc1 51. Bd3 Kf7 52. Ke2 Kf6 53. Kd2 Rg1
+54. b3 Ra1 55. Rh3 Ra3 56. Bc2 Ra1 57. Bd3 Rg1 58. Rh2 Kf7 59. Kc2 Ra1 60. Kd2
+Ra2+ 61. Bc2 Bb5 62. Rf2 Kf6 63. Ke1 Ra1+ 64. Bd1 Bd3 65. Kd2 Ra2+ 66. Ke1 Ra1
+67. Kd2 Be4 68. Ke1 Rb1 69. Kd2 g6 70. hxg6 Kxg6 71. Rf1 Kf6 72. Re1 Rb2+ 73.
+Kc1 Rb1+ 74. Kd2 Rb2+ 75. Kc1 Rh2 76. Rg1 h5 77. Rg8 h4 78. Rb8 h3 79. Rh8 Kg7
+80. Rh4 Bd3 81. Bf3 Rc2+ 82. Kd1 h2 83. Ke1 Rb2 84. Rh3 Be4 85. Bxe4 fxe4 86.
+Kf1 Kg6 87. Rh8 Kf5 88. Rh4 0-1
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.15"]
+[Round "3"]
+[White "Dashibalov, Erdem"]
+[Black "Volodarsky, Yury"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2408"]
+[BlackElo "2261"]
+[PlyCount "28"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Nc6 6. O-O Be6 7. Bb5 Bc5 8.
+Nbd2 Nge7 9. Ng5 Qd6 10. f4 h6 11. e5 Qd7 12. Nxe6 Qxe6 13. Bc4 Qd7 14. e6 Qd8
+1-0
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.15"]
+[Round "3"]
+[White "Dashiev, Kim"]
+[Black "Sinitsin, Roman"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "2148"]
+[BlackElo "2279"]
+[PlyCount "46"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+Qe7 9. h3 Re8 10. Bd2 dxc4 11. Bxc4 h6 12. Bb3 e5 13. Nh4 Nf8 14. dxe5 Qxe5 15.
+Nf3 Qh5 16. Ne2 Bxh3 17. gxh3 Qxf3 18. Nd4 Qxh3 19. f4 Ng4 20. Rf3 Qh2+ 21. Kf1
+Qh1+ 22. Ke2 Qxa1 23. Rf1 Rxe3+ 0-1
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.15"]
+[Round "3"]
+[White "Kaluga, Sergey"]
+[Black "Nuzhdov, Vasiliy"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2227"]
+[BlackElo "2080"]
+[PlyCount "131"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 Be7 6. e3 Nbd7 7. cxd5 exd5 8.
+Bd3 O-O 9. O-O Re8 10. Qc2 Nf8 11. Rab1 Bg4 12. Ne5 Bh5 13. b4 a6 14. a4 N6d7
+15. Bxe7 Qxe7 16. Nxd7 Qxd7 17. b5 axb5 18. axb5 Bg6 19. Bxg6 Nxg6 20. Na4 Qe6
+21. Nc5 Qe7 22. Qf5 Rad8 23. bxc6 bxc6 24. Rb7 Qf6 25. Qxf6 gxf6 26. g3 Rb8 27.
+Rxb8 Rxb8 28. Nd7 Rb7 29. Nxf6+ Kg7 30. Ne8+ Kf8 31. Nd6 Rd7 32. Nf5 Ne7 33.
+Nh4 Rc7 34. Rc1 f6 35. Ng2 Kf7 36. Nf4 Rd7 37. Kg2 Rd6 38. Rb1 f5 39. Rb7 h6
+40. Nd3 h5 41. h4 Rh6 42. Ne5+ Kf8 43. Rc7 Re6 44. Kf3 Ke8 45. Ra7 Kd8 46. Kf4
+Kc8 47. Ra8+ Kc7 48. Rh8 Rxe5 49. Kxe5 Ng6+ 50. Kxf5 Nxh8 51. Kf6 Kd7 52. Kg7
+Ke6 53. Kxh8 Kf5 54. Kg7 Kg4 55. f4 Kxg3 56. f5 Kf3 57. f6 Kxe3 58. f7 Kxd4 59.
+f8=Q c5 60. Qf4+ Kd3 61. Qf3+ Kc4 62. Qe2+ Kc3 63. Qe1+ Kd3 64. Qd1+ Kc4 65.
+Kf6 d4 66. Ke5 1-0
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.15"]
+[Round "3"]
+[White "Karpov, Igor"]
+[Black "Medvedev, Emelian"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2277"]
+[BlackElo "2013"]
+[PlyCount "108"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 c6 3. c4 e6 4. Nc3 dxc4 5. a4 Bb4 6. e3 b5 7. Bd2 Bb7 8. axb5
+Bxc3 9. Bxc3 cxb5 10. b3 a5 11. bxc4 b4 12. Bd2 Nf6 13. Bd3 Nbd7 14. Qc2 Qc7
+15. O-O O-O 16. Rfc1 Rfb8 17. Rab1 e5 18. Ne1 h6 19. c5 Bc6 20. Qa2 exd4 21.
+exd4 Nd5 22. Bc4 N7f6 23. Nd3 Qb7 24. f3 Bb5 25. Ne5 Bc6 26. g4 a4 27. Bxb4
+Nxb4 28. Bxf7+ Kh8 29. Rxb4 Qxb4 30. Nxc6 Qb2 31. Qxb2 Rxb2 32. Ne5 a3 33. c6
+a2 34. Bxa2 Rbxa2 35. c7 Rc8 36. Ng6+ Kh7 37. Ne7 Raa8 38. d5 Ne8 39. Nxc8 Rxc8
+40. Rc6 Rxc7 41. Rxc7 Nxc7 42. d6 Ne6 43. h4 g6 44. Kf2 Kg7 45. Ke3 Kf6 46. Ke4
+Nd8 47. Kd5 Nf7 48. f4 h5 49. g5+ Kf5 50. d7 Nd8 51. Kd6 Kxf4 52. Ke7 Nc6+ 53.
+Kf6 Kg4 54. Ke6 Kxh4 0-1
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.15"]
+[Round "3"]
+[White "Kljucharev, Sergey"]
+[Black "Sitnikov, Dmitrij"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2367"]
+[BlackElo "2415"]
+[PlyCount "91"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. d4 c6 3. c4 Nf6 4. Nc3 e6 5. cxd5 exd5 6. Bg5 Be7 7. Qc2 g6 8. e4
+dxe4 9. Bxf6 Bxf6 10. Qxe4+ Kf8 11. Bc4 Bf5 12. Qf4 Qe7+ 13. Kf1 h5 14. Ne5
+Bxe5 15. Qxe5 Qxe5 16. dxe5 Nd7 17. f4 Nc5 18. b4 Nd3 19. Bxd3 Bxd3+ 20. Kf2
+Ke7 21. Rad1 Rhd8 22. Ke3 Bc2 23. Rd2 Rxd2 24. Kxd2 Bf5 25. Rd1 a5 26. b5 Rd8+
+27. Kc1 Rxd1+ 28. Kxd1 cxb5 29. Nxb5 Be4 30. g3 Ke6 31. Kd2 Bc6 32. Nd6 f6 33.
+Ke3 fxe5 34. fxe5 Kxe5 35. Nc4+ Kf5 36. Nxa5 Bd5 37. Kd4 Bg2 38. Nc4 Kg4 39.
+Ke5 Kh3 40. Kf6 Be4 41. Nd6 Bb1 42. Kg5 Kxh2 43. g4 hxg4 44. Kxg4 b6 45. a4 Bd3
+46. Kg5 1/2-1/2
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.15"]
+[Round "3"]
+[White "Verzhansky, Alexander"]
+[Black "Yudin, Sergei"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2357"]
+[BlackElo "2519"]
+[PlyCount "28"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nbd2 Nf6 5. e3 a6 6. Bd3 c5 7. b3 Nc6 8. Bb2
+dxc4 9. bxc4 cxd4 10. exd4 Bc5 11. Nb3 Bb4+ 12. Nbd2 Bc5 13. Nb3 Bb4+ 14. Nbd2
+Bc5 1/2-1/2
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.15"]
+[Round "3"]
+[White "Voinov, Alexandr"]
+[Black "Pushkarev, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "D48"]
+[WhiteElo "2436"]
+[BlackElo "2363"]
+[PlyCount "45"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 e6 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+c5 9. a4 b4 10. Ne4 Nbd7 11. Nxf6+ Nxf6 12. O-O Bb7 13. Qe2 Qd5 14. Rd1 cxd4
+15. Bc4 Qc6 16. exd4 Be7 17. Bg5 Qe4 18. Qxe4 Bxe4 19. Ne5 O-O 20. Nd7 Nxd7 21.
+Bxe7 Rfc8 22. Rdc1 Nb6 23. Bb3 1/2-1/2
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.16"]
+[Round "4"]
+[White "Dzhumagaliev, Yan"]
+[Black "Popov, Roman2"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2232"]
+[BlackElo "2338"]
+[PlyCount "92"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg4 7. Qb3 Qc7 8. h3
+Bh5 9. g4 Bg6 10. Nxg6 hxg6 11. Bg2 Nbd7 12. e4 dxe4 13. Nxe4 Nxe4 14. Bxe4 e5
+15. Bg5 Nf6 16. Bxf6 gxf6 17. O-O-O exd4 18. Rxd4 Bc5 19. Rd2 Rd8 20. Rxd8+
+Kxd8 21. Qf3 Qe5 22. Rd1+ Kc7 23. Qd3 Bxf2 24. Qd7+ Kb8 25. Qd6+ Qxd6 26. Rxd6
+Be3+ 27. Kc2 Bg5 28. Rd7 Rf8 29. b4 Kc8 30. Rd3 Re8 31. Bf3 Kc7 32. a4 a5 33.
+b5 Re5 34. Bd1 f5 35. gxf5 Rxf5 36. Rf3 Bf4 37. Kb3 g5 38. Bc2 Rf6 39. c5 cxb5
+40. axb5 b6 41. c6 Be5 42. Re3 Kd6 43. Rxe5 Rf3+ 44. Kc4 a4 45. Rd5+ Kc7 46.
+Be4 Rxh3 1-0
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.16"]
+[Round "4"]
+[White "Iskusnyh, Sergei"]
+[Black "Belozerov, Andrei"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2478"]
+[BlackElo "2538"]
+[PlyCount "55"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Bb3 Nc6 8. Qe2
+cxd4 9. Rd1 d3 10. Rxd3 Qc7 11. Nc3 Bc5 12. Rd1 O-O 13. Bd2 Bd7 14. Rac1 Ba7
+15. Qc4 Rfd8 16. Ne4 Nd5 17. Ng3 Be8 18. Nh5 Rac8 19. Nxg7 Kxg7 20. Qg4+ Kf8
+21. e4 Nf6 22. Bh6+ Ke7 23. Qg7 Bxf2+ 24. Kh1 Rd6 25. e5 Rxd1+ 26. Rxd1 Nd5 27.
+Bxd5 exd5 28. Qf6+ 1-0
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.16"]
+[Round "4"]
+[White "Kiriakov, Petr"]
+[Black "Dashibalov, Erdem"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[WhiteElo "2545"]
+[BlackElo "2408"]
+[PlyCount "40"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. a3 Nbd7 6. Bd3 dxc4 7. Bxc4 Bd6 8. Nf3
+O-O 9. O-O b5 10. Bd3 Bb7 11. Bd2 a5 12. Rc1 Qb6 13. Qb3 c5 14. Nxb5 Bxf3 15.
+gxf3 cxd4 16. Nxd4 Qxb3 17. Nxb3 Rfb8 18. Nxa5 Ne5 19. Be2 Rxb2 20. Rcd1 Bxa3
+1/2-1/2
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.16"]
+[Round "4"]
+[White "Nuzhdov, Vasiliy"]
+[Black "Rogov, Igor"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2080"]
+[BlackElo "2006"]
+[PlyCount "82"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Bf5 3. Nbd2 Nc6 4. c3 Nf6 5. e3 a6 6. Be2 Qd6 7. Nh4 Bg6 8. f4
+e6 9. Nhf3 Be7 10. Ne5 Nd7 11. O-O f6 12. Nef3 e5 13. fxe5 fxe5 14. Nb3 e4 15.
+Ne1 O-O-O 16. Bg4 h5 17. Bh3 Kb8 18. Bd2 Nf6 19. Qe2 h4 20. Qf2 Rdf8 21. Qf4
+Qd8 22. Nc2 Bh5 23. Qf2 Bd6 24. Qe1 g5 25. Bf5 Bg4 26. Nc5 Bxf5 27. Rxf5 Bxh2+
+28. Kh1 Bg3 29. Qf1 Qe7 30. Rxf6 Rfg8 31. Qf5 g4 32. Rf1 h3 33. Be1 Bd6 34. g3
+h2 35. Ne6 Nd8 36. Nf4 Qe8 37. Ng6 Rh3 38. Nf4 Qb5 39. Rf2 Rhh8 40. b3 Bxf4 41.
+Qxf4 Qd3 1-0
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.16"]
+[Round "4"]
+[White "Oganisjan, Roman"]
+[Black "Dolsonov, Ayusha"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2306"]
+[BlackElo "2095"]
+[PlyCount "86"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. Bb3 Nc6 8. Nc3
+Be7 9. dxc5 Qxd1 10. Rxd1 Bxc5 11. Bd2 Bd7 12. Rac1 Ba7 13. Be1 Ke7 14. e4 Ng4
+15. Na4 Rhd8 16. h3 Nge5 17. Nxe5 Nxe5 18. Rc7 b5 19. Bb4+ Ke8 20. Nc3 Rdc8 21.
+Rb7 Rcb8 22. Rxa7 Rxa7 23. Bd6 Nc6 24. Bxb8 Nxb8 25. f4 a5 26. Kf2 a4 27. Bc2
+a3 28. Rb1 Rc7 29. Bd3 b4 30. Nb5 Rc5 31. Nd6+ Ke7 32. e5 Nc6 33. Ke3 Nxe5 34.
+fxe5 Rxe5+ 35. Ne4 f5 36. Kf4 fxe4 37. Kxe5 exd3 38. Kf4 e5+ 39. Ke3 Be6 40.
+bxa3 bxa3 41. Rb5 Kf6 42. Ra5 Bxa2 43. Rxa3 Bd5 1/2-1/2
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.16"]
+[Round "4"]
+[White "Saveliev, Alexandr"]
+[Black "Nevostrujev, Vladimir"]
+[Result "0-1"]
+[ECO "D71"]
+[WhiteElo "2284"]
+[BlackElo "2469"]
+[PlyCount "102"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Bg7 6. g3 c5 7. Bg2 Nc6 8. e3
+Nxc3 9. bxc3 Qa5 10. Bd2 Qa6 11. Qe2 Qxe2+ 12. Kxe2 O-O 13. dxc5 Be6 14. Nd4
+Bc4+ 15. Kd1 Rfd8 16. Kc2 e5 17. Nb3 a5 18. Nc1 Rd7 19. e4 Rad8 20. Bg5 f6 21.
+Be3 f5 22. Bf1 Be6 23. Be2 fxe4 24. Rb1 Nd4+ 25. cxd4 exd4 26. Bg5 d3+ 27. Bxd3
+exd3+ 28. Kd2 Rc8 29. Be3 Bf8 30. Nb3 a4 31. Na5 Bxc5 32. Rxb7 Bxe3+ 33. Kxe3
+Rxb7 34. Nxb7 Bxa2 35. Ra1 Bd5 36. Nd6 Rd8 37. Nb5 d2 38. Nc3 Bb3 39. Ke2 Bc4+
+40. Kd1 Bb3+ 41. Ke2 d1=Q+ 42. Nxd1 Bxd1+ 43. Rxd1 Rxd1 44. Kxd1 Kf7 45. Kd2
+Ke6 46. Kc3 Ke5 47. f3 a3 48. Kb3 Kd4 49. Kxa3 Ke3 50. f4 Kf3 51. Kb3 h5 0-1
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.17"]
+[Round "5"]
+[White "Agafonov, Alexey"]
+[Black "Morokov, Anatoliy"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2160"]
+[BlackElo "1806"]
+[PlyCount "85"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 Bg4 4. Ne5 Bh5 5. Qb3 b6 6. Qb5+ c6 7. Nxc6 Qd7 8.
+Ne5 Qxb5 9. cxb5 Nbd7 10. Bf4 Nxe5 11. Bxe5 Ng4 12. Bf4 e5 13. dxe5 Bb4+ 14.
+Nd2 f6 15. exf6 Nxf6 16. a3 Bc5 17. e3 O-O 18. b4 Bxe3 19. fxe3 Rae8 20. Nb3 g5
+21. Bxg5 Ne4 22. Bf4 Rxf4 23. exf4 Ng3+ 24. Kf2 Nxh1+ 25. Kg1 Re3 26. Nd2 Ng3
+27. hxg3 d4 28. Kf2 Rc3 29. Nf3 d3 30. Rd1 Bg6 31. Ne5 Rxa3 32. Nxg6 hxg6 33.
+Rxd3 Ra2+ 34. Kf3 Ra4 35. Rd7 Ra1 36. Bc4+ Kf8 37. Kg4 Rb1 38. Rxa7 Rxb4 39.
+Rc7 Rb2 40. Kg5 Rxg2 41. Kf6 Ke8 42. Rc8+ Kd7 43. Be6+ 1-0
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.17"]
+[Round "5"]
+[White "Domarowsky, Vasily"]
+[Black "Buldaev, Nikolay"]
+[Result "0-1"]
+[ECO "D58"]
+[WhiteElo "2112"]
+[BlackElo "2206"]
+[PlyCount "98"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. Be2
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 c6 12. O-O Qd6 13. Qb3 Re8 14. a4 Nd7 15.
+Rfe1 g6 16. Bd3 Bg7 17. h3 Nf8 18. a5 Ne6 19. Ra2 b5 20. Ne2 Re7 21. Nc1 Rae8
+22. Rd1 Bc8 23. Bb1 f5 24. Nd3 f4 25. Nde5 fxe3 26. fxe3 Ng5 27. e4 Nxf3+ 28.
+Nxf3 Qg3 29. Kh1 Rxe4 30. Bxe4 Rxe4 31. Qc3 Kh7 32. Rc2 Bf5 33. Ng1 Re3 34.
+Qxc6 Bxc2 35. Qxc2 Rc3 36. Qd2 Rc4 37. Nf3 Qd6 38. Rb1 Qc7 39. Qe3 Rc3 40. Qe6
+Qc6 41. Qf7 a6 42. Ne5 Qd6 43. Rf1 Rc7 44. Qe8 Re7 45. Qa8 Bxe5 46. dxe5 Qxe5
+47. Qxa6 d4 48. Rd1 Qe2 49. Rc1 d3 0-1
+
+[Event "Sibiria Region-ch"]
+[Site "Novokuznetsk"]
+[Date "2008.03.17"]
+[Round "5"]
+[White "Shkurikhin, Ilia"]
+[Black "Tuzhik, Artem"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2371"]
+[BlackElo "2313"]
+[PlyCount "54"]
+[EventDate "2008.03.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 Nxg4 8. Rg1
+h5 9. h3 Nh6 10. Bd2 Qf6 11. Ng5 Nf5 12. O-O-O g6 13. Bd3 Qe7 14. Rde1 Nf6 15.
+Qd1 Qc7 16. e4 dxe4 17. Ncxe4 Nxe4 18. Nxe4 Bf4 19. Kb1 Nxd4 20. c5 Nf5 21. Bc3
+e5 22. Bc4 Ke7 23. Qf3 Rd8 24. Ng5 Kf8 25. Nh7+ Kg7 26. Qxf4 Kxh7 27. Rxe5 Re8
+1-0

@@ -1,0 +1,600 @@
+[SourceDate "2008.11.26"]
+[WhiteTeam "Katernberg III"]
+[BlackTeam "Ickern"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bf5 6. Bc4 e6 7. O-O c6 8.
+Re1 Be7 9. Bg5 O-O 10. Qe2 Nbd7 11. Rad1 Nb6 12. Bb3 Bg4 13. h3 Bh5 14. g4 Bg6
+15. Ne5 Nfd5 16. Bxe7 Qxe7 17. Nxd5 cxd5 18. Nxg6 hxg6 19. Qe5 Qh4 20. Kg2 Rac8
+21. Re2 Rc6 22. Qg3 1/2-1/2
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.1"]
+[White "Laake, Reinhard"]
+[Black "Nalepa, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2029"]
+[BlackElo "1985"]
+[PlyCount "62"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Horst Emscher II"]
+[BlackTeam "Altenessen II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qb6 6. Nb3 e6 7. Be3 Qc7 8.
+a3 a6 9. Bd3 Bd6 10. h3 Be5 11. Qd2 d5 12. exd5 Nxd5 13. Nxd5 exd5 14. c3 O-O
+15. O-O f5 16. f4 Bf6 17. Bc2 Re8 18. Rae1 g6 19. Bf2 Be6 20. Re2 Bf7 21. Rfe1
+Re4 22. Bxe4 dxe4 23. Nd4 Bc4 24. Re3 Rd8 25. Rd1 Qxf4 26. Qc2 Nxd4 27. cxd4 b5
+28. Rc3 Bd3 29. Qb3+ Bc4 30. Qc2 Bd3 31. Qb3+ Bc4 1/2-1/2
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.2"]
+[White "Fuchs, Bernhard"]
+[Black "Tobczewski, Peter"]
+[Result "1-0"]
+[ECO "B29"]
+[WhiteElo "1846"]
+[BlackElo "2008"]
+[PlyCount "81"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Altenessen II"]
+[BlackTeam "Horst Emscher II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4
+8. Nxd4 e5 9. Nb5 Qd8 10. Qxd8+ Kxd8 11. O-O-O+ Bd7 12. Bc4 f5 13. Be6 Nb8 14.
+Bxf5 a6 15. Bb6+ Kc8 16. Nc7 Bxf5 17. Nxa8 Be7 18. Be3 Nc6 19. Nb6+ Kb8 20. c3
+Re8 21. Rd2 Na5 22. b3 Bf8 23. Kb2 Kc7 24. Rhd1 Nc6 25. a4 a5 26. Nc4 Be6 27.
+Bb6+ Kc8 28. Nxa5 Be7 29. Nxc6 bxc6 30. a5 Kb7 31. Re2 Bf6 32. h3 Bd5 33. f3
+Rf8 34. Kc2 h6 35. c4 Be6 36. Red2 Bg5 37. Rd7+ Bxd7 38. Rxd7+ Kb8 39. Rxg7 e4
+40. fxe4 Re8 41. e5 1-0
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.3"]
+[White "Rydzewski, Klaus"]
+[Black "Fuchs, Karl Heinz"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2020"]
+[BlackElo "1799"]
+[PlyCount "110"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Horst Emscher II"]
+[BlackTeam "Altenessen II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. c3 Be7 5. Ne2 Nbd7 6. O-O d5 7. exd5 Nxd5 8.
+Qb3 c6 9. Nd2 exd4 10. cxd4 O-O 11. Nc4 b5 12. Ne3 N7f6 13. Bd2 Be6 14. Qd1 Bd6
+15. Rc1 Ne7 16. a3 a5 17. Bb1 Qd7 18. b4 a4 19. Nc3 Bb3 20. Qf3 Be6 21. Ne4
+Nxe4 22. Bxe4 Rac8 23. Rfe1 f5 24. Bb1 Rf6 25. Rc2 g5 26. Ba2 Bxa2 27. Rxa2
+Rcf8 28. h3 Bf4 29. Nf1 Qd5 30. Bxf4 Qxa2 31. Bxg5 Re6 32. Rxe6 Qxe6 33. Bxe7
+Qxe7 34. Qxc6 Qe8 35. Qd5+ Rf7 36. Ne3 Qd7 37. Qxd7 Rxd7 38. Nxf5 Kf7 39. g4 h5
+40. f3 Kf6 41. Kf2 hxg4 42. hxg4 Ke6 43. Ke3 Rc7 44. Ke4 Rc3 45. d5+ Kd7 46.
+Nd4 Rxa3 47. g5 Rc3 48. Nxb5 Rc4+ 49. Ke5 Rxb4 50. Nd4 a3 51. Nc2 a2 52. g6 Rb2
+53. Na1 Rb1 54. Nc2 Rc1 55. g7 Rxc2 0-1
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.1"]
+[White "Schulz, Hartmut"]
+[Black "Grofig, Patrick"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2070"]
+[BlackElo "2137"]
+[PlyCount "49"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Brambauer II"]
+[BlackTeam "Unna"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 c5 5. c3 Nc6 6. Nbd2 cxd4 7. exd4 Be7 8.
+Bd3 a6 9. O-O b5 10. a3 Bd7 11. Ne5 Qb6 12. Qe2 Na5 13. Ndf3 Nc4 14. Rfe1 O-O
+15. Bg5 Ra7 16. Rad1 Rc8 17. Bb1 Be8 18. Bxf6 Bxf6 19. Nd3 a5 20. Nf4 g6 21.
+Ne5 Rac7 22. Nfd3 b4 23. axb4 axb4 24. Nxc4 Rxc4 25. Nxb4 1/2-1/2
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.2"]
+[White "Helmert, Jochen"]
+[Black "Bauch, Ralf"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1946"]
+[BlackElo "2103"]
+[PlyCount "81"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Unna"]
+[BlackTeam "Brambauer II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. Bc4 Nc6 7. h3 Bxf3 8.
+Qxf3 O-O-O 9. Be3 e5 10. Qf5+ Kb8 11. dxe5 Nxe5 12. Be2 Bb4 13. O-O Bxc3 14.
+bxc3 Qxc3 15. Rad1 Rhe8 16. Bb5 c6 17. Rxd8+ Rxd8 18. Bf4 Re8 19. Rd1 Kc7 20.
+Bf1 Re7 21. Rd3 Qa1 22. Re3 Nfd7 23. Qxh7 Kd8 24. Qh8+ Re8 25. Qh4+ f6 26. Qh7
+Qxa2 27. Qxg7 Rg8 28. Qh7 Qf7 29. Qe4 Re8 30. Qa4 a6 31. Qa5+ Kc8 32. Bd3 Qd5
+33. Qxd5 cxd5 34. Bf5 Kc7 35. h4 Kd6 36. h5 Rh8 37. g4 Nc5 38. h6 d4 39. Rh3
+Ke7 40. Bxe5 fxe5 41. g5 1-0
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.3"]
+[White "Lange, Andreas"]
+[Black "Grube, Frank"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "1998"]
+[BlackElo "2050"]
+[PlyCount "38"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Brambauer II"]
+[BlackTeam "Unna"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. a3 e6 3. b4 cxb4 4. axb4 d5 5. exd5 exd5 6. Bb2 Nf6 7. Qe2+ Qe7 8.
+Bxf6 gxf6 9. Qxe7+ Bxe7 10. Nc3 Be6 11. Nb5 Kd8 12. c3 Nc6 13. Nf3 Kd7 14. Be2
+Rhg8 15. g3 f5 16. O-O f4 17. Nbd4 fxg3 18. fxg3 h5 19. Nxc6 bxc6 1/2-1/2
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.4"]
+[White "Solberg, Kirsten"]
+[Black "Zimmermann, Dirk"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2024"]
+[BlackElo "2111"]
+[PlyCount "54"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Unna"]
+[BlackTeam "Brambauer II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 Be6 9. Nc4 Rc8 10. Ne3 Be7 11. Bxf6 Bxf6 12. Be2 O-O 13. Ncd5 Bg5 14. Bg4
+Ne7 15. c3 Rc5 16. h4 Bh6 17. g3 Bxd5 18. Nxd5 Nxd5 19. exd5 f5 20. Be2 Qf6 21.
+O-O Kh8 22. c4 Rc7 23. Qe1 g5 24. hxg5 Bxg5 25. f3 Rg7 26. Qd1 Qh6 27. Kg2 Bf4
+0-1
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.5"]
+[White "Koth, Stefan"]
+[Black "Jurga, David"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2153"]
+[BlackElo "1873"]
+[PlyCount "49"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Brambauer II"]
+[BlackTeam "Unna"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 c5 2. Nc3 Nf6 3. e4 Nc6 4. Nf3 e5 5. d3 d6 6. Be2 Be7 7. O-O O-O 8. a3 a5
+9. Bg5 Be6 10. Rb1 Nd7 11. Qd2 f6 12. Bh4 g5 13. Bg3 h5 14. h3 Qe8 15. Nb5 Rc8
+16. Ne1 Qg6 17. Qd1 Bf7 18. Nc2 a4 19. Ne3 Nb6 20. Nf5 Rfd8 21. b3 axb3 22.
+Rxb3 Na8 23. Nc3 b6 24. Nd5 Bf8 25. Bxh5 1-0
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.7"]
+[White "Thormann, Olaf"]
+[Black "Kirsch, Frank"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1982"]
+[BlackElo "2178"]
+[PlyCount "87"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Brambauer II"]
+[BlackTeam "Unna"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 d6 4. d3 Nf6 5. f4 g6 6. Nf3 Bg7 7. O-O O-O 8. h3 e6
+9. Bb3 a6 10. a4 Nd4 11. Nxd4 cxd4 12. Ne2 Nd7 13. Qe1 Nc5 14. Bc4 Bd7 15. a5
+b5 16. axb6 Qxb6 17. f5 Nxe4 18. fxg6 d5 19. gxf7+ Kh8 20. Qa5 Qxa5 21. Rxa5
+dxc4 22. dxe4 e5 23. Rc5 Rac8 24. Rxc8 Bxc8 25. Ng3 Be6 26. Nf5 Rxf7 27. g4 Rd7
+28. Bd2 Rb7 29. Ra1 Rb6 30. Kf1 Bc8 31. Ra5 Rxb2 32. Rc5 Bxf5 33. exf5 Bf6 34.
+Rxc4 e4 35. Bh6 Rb8 36. Bf4 Rb1+ 37. Ke2 Rg1 38. Kf2 Rh1 39. g5 Rxh3 40. gxf6
+Kg8 41. Be5 Rf3+ 42. Ke2 Rxf5 43. Bxd4 h5 44. Ke3 1-0
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.06"]
+[Round "5.3"]
+[White "Mueller, Martin"]
+[Black "Hackbusch, Joern"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "1960"]
+[BlackElo "1998"]
+[PlyCount "219"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Laufer Wanne"]
+[BlackTeam "Dortmund Hansa III"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. b3 Bg7 8. Be3
+Nc6 9. Rc1 O-O 10. Nf3 f5 11. d5 Ne5 12. Nxe5 Bxe5 13. f4 Bg7 14. Bd4 e6 15.
+dxe6 Bxe6 16. Bxg7 Kxg7 17. Be2 d5 18. c5 Nc8 19. O-O Ne7 20. Bf3 Qd7 21. Re1
+Bf7 22. Nb5 Bg8 23. Nd6 b6 24. b4 Rad8 25. Rc2 bxc5 26. bxc5 Nc8 27. Qd4+ Kh6
+28. Rc3 Qg7 29. Re5 Nxd6 30. cxd6 Rxd6 31. Bxd5 Qf6 32. Rh3+ Kg7 33. Qxa7+ Bf7
+34. Bb3 Ra6 35. Qe7 h5 36. Rc3 Qxe7 37. Rxe7 Kf6 38. Rec7 Bxb3 39. axb3 Rb8 40.
+R7c6+ Rxc6 41. Rxc6+ Kf7 42. Rc3 Rb4 43. g3 h4 44. Kg2 hxg3 45. hxg3 g5 46.
+fxg5 Kg6 47. Kf3 Kxg5 48. Kf2 Kh5 49. Ke2 Kg5 50. Kd2 Kg4 51. Rd3 Rb8 52. Kc3
+Rc8+ 53. Kb2 Rb8 54. Ka3 Ra8+ 55. Kb4 Rb8+ 56. Ka5 Ra8+ 57. Kb6 Rb8+ 58. Ka6
+Kh3 59. Rc3 Kg4 60. Ka5 Ra8+ 61. Kb6 Rb8+ 62. Kc7 Rb4 63. Kd6 Rb8 64. Ke5 Re8+
+65. Kf6 Rf8+ 66. Ke7 Rb8 67. Rd3 Rb4 68. Kd6 Rb8 69. Kc5 Rc8+ 70. Kb4 Rb8+ 71.
+Ka3 Rb6 72. Kb2 Rb8 73. Kc2 Rc8+ 74. Kd2 Rb8 75. Ke2 Re8+ 76. Kf2 Rb8 77. Rd4+
+Kg5 78. b4 Kf6 79. Ke3 Ke5 80. Rc4 Rg8 81. Rc5+ Kd6 82. Kf3 Rg4 83. Rxf5 Rxb4
+84. g4 Ke6 85. Kg3 Rb3+ 86. Kh4 Rb4 87. Rf1 Rc4 88. Kh5 Rc2 89. g5 Rg2 90. g6
+Rh2+ 91. Kg5 Rg2+ 92. Kh6 Rh2+ 93. Kg7 Ke7 94. Re1+ Kd7 95. Kg8 Rg2 96. g7 Rg3
+97. Re4 Rg2 98. Kf7 Rf2+ 99. Kg6 Rg2+ 100. Kf6 Rf2+ 101. Kg5 Kd6 102. g8=Q Rg2+
+103. Rg4 Rxg4+ 104. Kxg4 Ke5 105. Qe8+ Kf6 106. Qb5 Ke6 107. Qc5 Kd7 108. Kf5
+Ke8 109. Qc7 Kf8 110. Kf6 1-0
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.06"]
+[Round "5.5"]
+[White "Nowicki, Heiko"]
+[Black "Zelt, Jens"]
+[Result "0-1"]
+[ECO "B50"]
+[WhiteElo "1910"]
+[BlackElo "1982"]
+[PlyCount "100"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Laufer Wanne"]
+[BlackTeam "Dortmund Hansa III"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d3 e5 4. g3 Be7 5. Bg2 Nf6 6. Nbd2 O-O 7. O-O Nc6 8. a4
+Ne8 9. Nc4 f5 10. Ne3 f4 11. gxf4 exf4 12. Nd5 g5 13. h3 Ng7 14. Re1 Bf6 15. c3
+Ne5 16. d4 Nxf3+ 17. Bxf3 cxd4 18. cxd4 Kh8 19. e5 dxe5 20. dxe5 Be7 21. b4
+Bxh3 22. Bb2 Be6 23. b5 Rf7 24. Nf6 Qxd1 25. Raxd1 Bb4 26. Re4 Bc5 27. Ree1
+Raf8 28. Kg2 h5 29. Rh1 h4 30. Ng4 Rc7 31. Nf6 Rfc8 32. Ne4 h3+ 33. Rxh3+ Bxh3+
+34. Kxh3 Be7 35. Kg4 Rd8 36. Rh1+ Kg8 37. Nf6+ Bxf6 38. exf6 Ne6 39. Be5 Rc5
+40. Ba1 Rd2 41. Be4 Nf8 42. Rh3 Kf7 43. Bxb7 Rd1 44. Ra3 Ne6 45. Kf3 Rg1 46.
+Bc3 g4+ 47. Ke4 Rc1 48. Bb2 R1c2 49. Rb3 Rxf2 50. a5 Re2+ 0-1
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.06"]
+[Round "5.6"]
+[White "Brockmann, Fabian"]
+[Black "Singbeil, Holger"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[WhiteElo "1949"]
+[BlackElo "1892"]
+[PlyCount "116"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Dortmund Hansa III"]
+[BlackTeam "Laufer Wanne"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O d6 6. Re1 e5 7. b4 cxb4 8. a3
+bxa3 9. d4 f6 10. Bxa3 Nh6 11. Nbd2 Nf7 12. c4 Be7 13. c5 Bg4 14. Qa4 O-O 15.
+cxd6 Bxd6 16. Qxc6 exd4 17. Bxd6 Qxd6 18. Qxd6 Nxd6 19. Nxd4 Rfc8 20. h3 Bd7
+21. Ra6 Nc4 22. N2f3 Kg7 23. Rea1 Rc7 24. Ne1 Bc8 25. R6a4 Bd7 26. Ra6 Bc8 27.
+Nb5 Re7 28. Rxa7 Raxa7 29. Rxa7 Rxa7 30. Nxa7 Bb7 31. f3 f5 32. exf5 gxf5 33.
+Nb5 Kf6 34. f4 Nd2 35. Kf2 Ne4+ 36. Ke3 Ng3 37. Nd6 Bc6 38. Nc4 Bd5 39. Kd4 Be4
+40. Nd2 Bb7 41. Ke3 Bd5 42. Kf2 Nh1+ 43. Ke3 Ng3 44. Ndf3 h6 45. Nd4 Ne4 46.
+Ne2 Bb7 47. Nd3 Nd6 48. g3 Bg2 49. Nf2 Nc4+ 50. Kd3 Nd6 51. Kd4 Nb7 52. Nc3 Ke6
+53. Ncd1 Nd6 54. Ne3 Bf3 55. Kc5 Ne8 56. Nc2 Kf6 57. Nd4 Bg2 58. Nb5 Ng7
+1/2-1/2
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.1"]
+[White "Pauling, Markus"]
+[Black "Wolf, Ulrich"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "2237"]
+[BlackElo "2118"]
+[PlyCount "37"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Mengede"]
+[BlackTeam "Wattenscheid IV"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. b4 b6 3. bxc5 bxc5 4. Nf3 d6 5. Bc4 e6 6. O-O Nc6 7. c3 Nf6 8. d4
+d5 9. exd5 Nxd5 10. Bb5 Bd7 11. c4 Nc7 12. d5 exd5 13. Bxc6 Bxc6 14. Ne5 Qd6
+15. Re1 Be7 16. Bf4 d4 17. Bg3 Qf6 18. Ng4 Qg6 19. Ne5 1/2-1/2
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.3"]
+[White "Schneider, Markus"]
+[Black "Pustelny Conrad, Dieter"]
+[Result "0-1"]
+[ECO "B26"]
+[WhiteElo "1960"]
+[BlackElo "2020"]
+[PlyCount "98"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Mengede"]
+[BlackTeam "Wattenscheid IV"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 d6 4. Bg2 g6 5. d3 Bg7 6. Be3 e6 7. Qd2 Nge7 8. Bh6
+O-O 9. h4 f6 10. Bxg7 Kxg7 11. h5 g5 12. f4 h6 13. Nf3 e5 14. O-O-O Ng8 15. Nd5
+Be6 16. Rdf1 Bxd5 17. exd5 Nd4 18. Ne1 exf4 19. gxf4 Qe7 20. Bf3 Rae8 21. Ng2
+Nxf3 22. Rxf3 Qe2 23. Re3 Rxe3 24. Nxe3 Qxd2+ 25. Kxd2 f5 26. Nc4 Rd8 27. Re1
+b5 28. Na5 Rd7 29. Nc6 Kf7 30. Re6 Nf6 31. c4 bxc4 32. dxc4 g4 33. Ke3 Nxh5 34.
+Rxh6 Nf6 35. Rh8 Kg7 36. Rb8 Kg6 37. a4 Rh7 38. a5 Rh3+ 39. Ke2 Rh2+ 40. Kf1
+Ne4 41. a6 g3 42. Kg1 Kf7 43. Rb7+ Kf6 44. Rb3 Rh7 45. Rb7 Rh8 46. Rxa7 Rh2 47.
+Ra8 Nd2 48. Rg8 Nf3+ 49. Kf1 Rf2# 0-1
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.7"]
+[White "Salzmann, Juergen"]
+[Black "Zwielich, Frank"]
+[Result "1-0"]
+[ECO "B85"]
+[WhiteElo "2130"]
+[BlackElo "1946"]
+[PlyCount "43"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Mengede"]
+[BlackTeam "Wattenscheid IV"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e6 7. Be2 Qc7 8. O-O
+Be7 9. Be3 Nc6 10. Nb3 b6 11. f4 Bb7 12. Bf3 O-O 13. Qe2 Rfe8 14. Qf2 Nd7 15.
+Rad1 Nc5 16. Kh1 Bf6 17. e5 dxe5 18. Bxc5 bxc5 19. Nxc5 Red8 20. Nxb7 Qxb7 21.
+fxe5 Bxe5 22. Bxc6 1-0
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.8"]
+[White "Kraus, Tanja"]
+[Black "Wiktor, Reinhard"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "1973"]
+[BlackElo "1852"]
+[PlyCount "47"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Wattenscheid IV"]
+[BlackTeam "Mengede"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 Nf6 5. Qd2 h5 6. f3 a6 7. Nge2 Nc6 8. h3
+Rb8 9. d5 Ne5 10. Nd4 c5 11. dxc6 Nxc6 12. Be2 Bd7 13. O-O Qc8 14. f4 Bh6 15.
+Nxc6 Qxc6 16. Bf3 Qc7 17. e5 dxe5 18. fxe5 Bxe3+ 19. Qxe3 Nh7 20. Rae1 e6 21.
+Kh1 Nf8 22. Qf4 Rh7 23. Ne4 Kd8 24. Qf6+ 1-0
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.4"]
+[White "Nowicki, Heiko"]
+[Black "Drawe, Thomas"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2064"]
+[BlackElo "2058"]
+[PlyCount "69"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Laufer Wanne"]
+[BlackTeam "Altenessen II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. e5 Ne4 6. Bd3 Nxc3 7. Qd2 Qd5 8. bxc3
+Bg4 9. Qf2 c5 10. Nf3 c4 11. Be2 Bf5 12. O-O Qa5 13. Qe3 d5 14. Nh4 Bxc2 15. f5
+Nc6 16. e6 f6 17. Bh5+ g6 18. fxg6 O-O-O 19. Nf5 Bxf5 20. Rxf5 hxg6 21. Bxg6
+Bh6 22. Qf3 Bxc1 23. Rxc1 Qxa2 24. Rxd5 Rxd5 25. Qxd5 Qd2 26. Qd7+ Kb8 27. Rb1
+Na5 28. Be8 a6 29. Qd8+ Ka7 30. Qb6+ Kb8 31. Qd8+ Ka7 32. Qxa5 Qe3+ 33. Kh1
+Rxh2+ 34. Kxh2 Qf4+ 35. Kh1 1-0
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.6"]
+[White "Stoppel, Harald"]
+[Black "Prasser, Peter"]
+[Result "1-0"]
+[ECO "B27"]
+[WhiteElo "1923"]
+[BlackElo "1718"]
+[PlyCount "113"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Laufer Wanne"]
+[BlackTeam "Altenessen II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. dxc5 Qa5+ 5. Nc3 Qxc5 6. Nd5 e6 7. Be3 Qa5+ 8.
+Bd2 Qd8 9. Bc3 Nf6 10. Nxf6+ Bxf6 11. e5 Be7 12. Be2 b6 13. Nd2 Nc6 14. a3 Qc7
+15. Nc4 O-O 16. h4 f5 17. Nd6 Kg7 18. f4 Nd8 19. Qd2 Bb7 20. h5 Bxg2 21. Rg1
+Bh4+ 22. Kd1 Qc6 23. Qe3 Qd5+ 24. Kc1 Qc6 25. hxg6 hxg6 26. Bb5 Qf3 27. Qxf3
+Bxf3 28. Bxd7 Bc6 29. Bxc6 Nxc6 30. Kd2 Rh8 31. Rg2 Rh6 32. Rag1 Ne7 33. Bd4
+Nd5 34. Rf1 Be7 35. c4 Nc7 36. Rf3 Rd8 37. b4 Kh7 38. c5 b5 39. Kd3 a6 40. Nf7
+Rh5 41. Nxd8 Bxd8 42. c6 Nd5 43. Be3 Bc7 44. Rgg3 Kg7 45. Rh3 Rh7 46. Rxh7+
+Kxh7 47. Rh3+ Kg7 48. Rg3 Kf7 49. Kc2 Kg7 50. Kb3 Kf7 51. a4 bxa4+ 52. Kxa4
+Nc3+ 53. Kb3 Nd5 54. Bd2 Kg7 55. Kc2 Ne7 56. Ra3 Nxc6 57. Rxa6 1-0
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.1"]
+[White "Wolf, Ulrich"]
+[Black "Bauch, Ralf"]
+[Result "1/2-1/2"]
+[ECO "B38"]
+[WhiteElo "2118"]
+[BlackElo "2103"]
+[PlyCount "72"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Wattenscheid IV"]
+[BlackTeam "Brambauer II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. e4 d6 7. Be2 Bg7 8. Be3
+O-O 9. O-O Bd7 10. Rc1 Nxd4 11. Bxd4 Bc6 12. f3 Nd7 13. Be3 b6 14. Qd2 Rc8 15.
+Rfd1 Re8 16. b3 Qc7 17. Rc2 Nc5 18. Nd5 Qb7 19. Rdc1 Ne6 20. Bf1 Nc7 21. g3 Bd7
+22. Bg2 Nxd5 23. Qxd5 Qxd5 24. cxd5 Rxc2 25. Rxc2 Rc8 26. Rxc8+ Bxc8 27. Bf1
+Bc3 28. Bb5 Bb4 29. Kf1 f6 30. Ke2 Kf7 31. Bd4 e6 32. dxe6+ Bxe6 33. Kd3 Ke7
+34. Bc4 Bd7 35. Ke3 Bc5 36. Bd5 Ba3 1/2-1/2
+
+[Event "Ruhrgebiet VK2 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.4"]
+[White "Zimmermann, Dirk"]
+[Black "Sicars, Thorsten"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2111"]
+[BlackElo "1901"]
+[PlyCount "49"]
+[EventDate "2007.09.16"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Brambauer II"]
+[BlackTeam "Wattenscheid IV"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 Nb6 8. Bb5
+dxe5 9. Nxe5 Bd7 10. Nc3 Nxe5 11. dxe5 Bxb5 12. Nxb5 Qxd1+ 13. Kxd1 Nd5 14. Ke2
+a6 15. Rd1 O-O-O 16. Nd4 e6 17. Bg5 Be7 18. Bxe7 Nxe7 19. Rac1+ Kb8 20. f4 Rd5

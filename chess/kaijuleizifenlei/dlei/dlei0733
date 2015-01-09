@@ -1,0 +1,600 @@
+[BlackElo "2160"]
+[PlyCount "69"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. Nf3 b6 3. Bf4 Bb7 4. Nbd2 Nf6 5. e3 Be7 6. Bd3 d5 7. O-O Nbd7 8. c3
+Nh5 9. Bg3 Nxg3 10. hxg3 O-O 11. Qe2 g6 12. e4 dxe4 13. Nxe4 c5 14. dxc5 Nxc5
+15. Nxc5 Bxc5 16. Rad1 Qc7 17. Be4 Rfd8 18. Bxb7 Qxb7 19. Rd3 Rd5 20. c4 Rxd3
+21. Qxd3 Be7 22. Rd1 Rd8 23. Qc2 Qc7 24. b3 Bc5 25. Rxd8+ Qxd8 26. Kf1 Qf6 27.
+Qd2 Kg7 28. Qe1 Qe7 29. Qd2 e5 30. Qd5 f6 31. a4 a5 32. Qe4 Qd7 33. Qd5 Qxd5
+34. cxd5 Kf7 35. Nd2 1/2-1/2
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "4"]
+[White "Mareco, Sandro"]
+[Black "Rodriques, Edgar"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2470"]
+[BlackElo "2157"]
+[PlyCount "147"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Be2 dxc4 8.
+Bxc4 O-O 9. O-O e5 10. a3 Re8 11. Ba2 Qe7 12. h3 h6 13. Nh4 Nf8 14. Nf5 Bxf5
+15. Qxf5 Rad8 16. Bd2 Bc7 17. Ne2 g6 18. Qc2 exd4 19. Nxd4 Ne4 20. Rfd1 Qd6 21.
+Nf3 Ng5 22. Kf1 Nxf3 23. gxf3 Qh2 24. Ke2 Ne6 25. Bxe6 Rxe6 26. Rh1 Qe5 27. Qb3
+Qf5 28. Rad1 b5 29. Bc3 Rde8 30. Rd3 Bb6 31. a4 Qg5 32. Bd2 Qg2 33. Rf1 a6 34.
+h4 Qh2 35. axb5 axb5 36. Qb4 Bd8 37. Rd4 c5 38. Qxc5 Bb6 39. Qd5 Bxd4 40. Qxd4
+Qd6 41. Bc3 Qxd4 42. Bxd4 Rc6 43. f4 Ra8 44. Kf3 h5 45. Rg1 f5 46. Rd1 Kf7 47.
+Be5 Ke6 48. Rg1 Ke7 49. Rd1 Rd8 50. Ra1 Rd7 51. Ra5 Rb7 52. Ra8 Ke6 53. Rd8
+Rcb6 54. e4 fxe4+ 55. Kxe4 Rc6 56. Rg8 Rc4+ 57. Kf3 Rh7 58. Rxg6+ Kd5 59. Rg5
+Rc1 60. Bg7+ Ke6 61. f5+ Kf7 62. f6 b4 63. Re5 Rc2 64. Re7+ Kg6 65. b3 Rc3+ 66.
+Re3 Rc1 67. Ke2 Rc2+ 68. Kf3 Rc1 69. Rd3 Rc5 70. Ke4 Rc2 71. f4 Rc7 72. f5+ Kf7
+73. Rd4 Rb7 74. Kf4 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "4"]
+[White "Reis, Anton"]
+[Black "Arni, Julian Kirsten"]
+[Result "0-1"]
+[ECO "D18"]
+[WhiteElo "1983"]
+[BlackElo "2179"]
+[PlyCount "58"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. a4 Nf6 5. Nf3 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg6 10. e4 Bxc3 11. bxc3 Nxe4 12. Ba3 Nb6 13. Bb3 Qf6 14. c4 Nd7
+15. Qe3 c5 16. Rad1 O-O 17. dxc5 Qe7 18. Rxd7 Qxd7 19. Ne5 Qd2 20. c6 Qxe3 21.
+fxe3 bxc6 22. Bxf8 Kxf8 23. Rd1 Nc5 24. Ba2 Ne4 25. Nxc6 Nc3 26. Rd2 Be4 27.
+Na5 Rc8 28. Nb3 Rxc4 29. Nd4 Rb4 0-1
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "4"]
+[White "Sampaio, Anibal"]
+[Black "Silva, Diogo Angeli"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[BlackElo "1771"]
+[PlyCount "43"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 c6 6. e3 O-O 7. Qc2 Nbd7 8. Bd3
+h6 9. Bh4 Nh5 10. Bxe7 Qxe7 11. O-O dxc4 12. Bxc4 e5 13. Rac1 exd4 14. exd4 Nb6
+15. Bb3 Qf6 16. Qe4 Bf5 17. Qh4 Qxh4 18. Nxh4 Bd3 19. Rfe1 Rfe8 20. Nf3 Bc4 21.
+Bxc4 Nxc4 22. b3 1/2-1/2
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "5"]
+[White "Bispo, Leonardo"]
+[Black "Conti, Bruno Henrique"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2154"]
+[BlackElo "1979"]
+[PlyCount "83"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. g3 Bd6 5. Bg2 Nf6 6. O-O Nbd7 7. Nc3 O-O 8. Qb3
+Re8 9. Rd1 Qe7 10. a4 Rb8 11. a5 Nf8 12. Bg5 h6 13. Bxf6 Qxf6 14. e4 dxe4 15.
+Nxe4 Qe7 16. Nxd6 Qxd6 17. Qe3 Qb4 18. b3 Ng6 19. Ne5 Ne7 20. g4 f6 21. Ra4 Qd6
+22. c5 Qd8 23. Nc4 Nd5 24. Qg3 Bd7 25. h4 b5 26. axb6 axb6 27. Nd6 Re7 28. g5
+hxg5 29. hxg5 f5 30. Ra7 Qf8 31. g6 Nf6 32. Nf7 Rd8 33. cxb6 Rxf7 34. gxf7+
+Qxf7 35. Bxc6 f4 36. Qg5 e5 37. dxe5 Qxb3 38. Bd5+ Nxd5 39. Qxd8+ Kh7 40. Rxd5
+Qc3 41. Qh4+ Kg6 42. Rdxd7 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "5"]
+[White "Cirilo, Guilherme de Araujo"]
+[Black "Leite, Fabio1"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "1800"]
+[PlyCount "53"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. Nf3 d5 3. c4 Nf6 4. Nc3 Nc6 5. Bg5 Bb4 6. e3 Qd6 7. Bf4 Qe7 8. Bd3
+O-O 9. Qc2 Re8 10. O-O Bd6 11. Bxd6 cxd6 12. a3 dxc4 13. Bxc4 d5 14. Bd3 e5 15.
+dxe5 Nxe5 16. Nxe5 Qxe5 17. h3 Qg5 18. Rad1 Bxh3 19. f4 Qh4 20. gxh3 Qxh3 21.
+Qh2 Qxh2+ 22. Kxh2 Ng4+ 23. Kg3 Nxe3 24. Nxd5 Nxf1+ 25. Bxf1 Rad8 26. Bb5 Re3+
+27. Nxe3 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "5"]
+[White "Domingos, Raul"]
+[Black "De Albuquerque, Antonio Lucio Ri"]
+[Result "1-0"]
+[ECO "D52"]
+[BlackElo "1796"]
+[PlyCount "105"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 Nf6 5. Bg5 Nbd7 6. e3 Bd6 7. Rc1 O-O 8. Bd3
+h6 9. Bh4 Qa5 10. c5 Bb8 11. O-O Qc7 12. Bg3 Qd8 13. Bxb8 Rxb8 14. b4 Re8 15.
+Ne5 Nf8 16. f4 N6d7 17. Qg4 Nxe5 18. fxe5 Qg5 19. Rf4 Qxg4 20. Rxg4 Nh7 21. Rf1
+Rf8 22. Ne2 f5 23. exf6 Nxf6 24. Rg3 Bd7 25. Nf4 Ne4 26. Rg6 Rf6 27. Rxf6 gxf6
+28. Bxe4 dxe4 29. Nh5 Kf7 30. Nxf6 Ke7 31. Nxd7 Kxd7 32. Rf7+ Ke8 33. Rh7 Rd8
+34. Rxh6 Ke7 35. Rh7+ Kf6 36. Rxb7 e5 37. dxe5+ Kxe5 38. Rxa7 Kd5 39. Kf2 Kc4
+40. a3 Rf8+ 41. Ke2 Rg8 42. g3 Rh8 43. h4 Rg8 44. Kf2 Rf8+ 45. Kg2 Kd3 46. Rc7
+Rf6 47. Rd7+ Kxe3 48. Rd6 Rf2+ 49. Kh3 Ke2 50. Rxc6 e3 51. Re6 Kd3 52. c6 Rf8
+53. b5 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "5"]
+[White "Pires, Marcos Vinicius Tor"]
+[Black "Ferreira, Thiago Alessandro"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2098"]
+[BlackElo "1924"]
+[PlyCount "74"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. cxd5 exd5 6. Qc2 g6 7. Bg5 Bg7 8. e3
+Bf5 9. Bd3 Bxd3 10. Qxd3 Nbd7 11. O-O O-O 12. Rab1 a5 13. Qc2 Re8 14. Bxf6 Nxf6
+15. a3 Nd7 16. Na4 Bf8 17. b4 axb4 18. axb4 b5 19. Nb2 Qf6 20. Rfc1 Rec8 21.
+Nd3 Nb6 22. Ra1 Nc4 23. Ra2 Qe7 24. Nc5 Nxe3 25. Qb3 Nc4 26. Re1 Qb7 27. Rae2
+Bd6 28. Qb1 Kf8 29. Ng5 Bxc5 30. dxc5 h6 31. Re7 Qxe7 32. Nh7+ Ke8 33. Rxe7+
+Kxe7 34. Qe1+ Kd8 35. Nf6 Ra7 36. Qe8+ Kc7 37. Qe1 Kd8 1/2-1/2
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "5"]
+[White "Ponce, Elbert Gallo"]
+[Black "Choma, Ernani Francisco"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "2202"]
+[BlackElo "2270"]
+[PlyCount "91"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 e6 5. Bg2 d5 6. cxd5 exd5 7. d4 Be7 8. O-O
+O-O 9. b3 Ne4 10. Bb2 Bf6 11. e3 cxd4 12. Nxe4 dxe4 13. Nxd4 Nxd4 14. Bxd4 Bxd4
+15. Qxd4 Qxd4 16. exd4 Re8 17. Rac1 Re7 18. Rfe1 Bf5 19. Rc5 g6 20. h3 h5 21.
+g4 hxg4 22. hxg4 Bxg4 23. Rxe4 Rxe4 24. Bxe4 Rd8 25. Bxb7 Rxd4 26. Ra5 Kg7 27.
+Rxa7 Kh6 28. Ra4 Rd1+ 29. Kg2 Bd7 30. Rb4 Be6 31. a4 Ra1 32. Ba6 Rb1 33. Bd3
+Bd5+ 34. Kg3 Rb2 35. a5 f5 36. a6 Kg5 37. f4+ Kh5 38. a7 Rg2+ 39. Kh3 Rf2 40.
+Bc4 Be4 41. Bf7 Bh1 42. Rb6 Ra2 43. Bxg6+ Kh6 44. Be8+ Kg7 45. Ba4 Kf7 46. Rb8
+1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "5"]
+[White "Rodrigo, Edson"]
+[Black "Do Prado, Fabio"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2021"]
+[PlyCount "61"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 Bg4 5. f3 Bc8 6. e4 dxe4 7. fxe4 Bg4 8. Be2
+Bxe2 9. Ngxe2 h5 10. h3 Qa5 11. e5 Ne4 12. O-O Nxc3 13. Nxc3 Qb4 14. Qd3 Nd7
+15. e6 Nf6 16. exf7+ Kxf7 17. Ne4 g6 18. Bd2 Qb6 19. c5 Qb5 20. Ng5+ Kg7 21.
+Qe3 Qc4 22. b3 Qd5 23. Ne6+ Kf7 24. Nc7 Qd8 25. Qe6+ Kg7 26. Qe5 Kf7 27. Qe6+
+Kg7 28. Nxa8 Qxa8 29. Bf4 Qd8 30. Be5 Kh7 31. Rxf6 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.29"]
+[Round "6"]
+[White "Aoyama, Edmundo"]
+[Black "Domingos, Raul"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1866"]
+[PlyCount "95"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Nbd7 5. O-O Bd6 6. c3 O-O 7. Nbd2 Rb8 8. e4
+dxe4 9. Ng5 b6 10. Ngxe4 Be7 11. Qc2 Bb7 12. b3 c5 13. dxc5 Nxc5 14. Nxc5 Bxc5
+15. Ne4 Nxe4 16. Bxe4 Bxe4 17. Qxe4 Qe7 18. Bf4 Bd6 19. Bxd6 Qxd6 20. Rfd1 Qe7
+21. Rd4 Rfd8 22. Rad1 Rxd4 23. Qxd4 g6 24. c4 Qa3 25. Rd2 Qe7 26. Qd7 Kf8 27.
+Kg2 Rb7 28. Qc8+ Kg7 29. Rd8 Rc7 30. Qb8 Rb7 31. Qe5+ f6 32. Qd4 e5 33. Qd2 Qe6
+34. Rd6 Qe7 35. h4 h6 36. Qd3 Rc7 37. Rd8 Rb7 38. Rd5 Qe6 39. f3 Qe7 40. g4 Qe6
+41. g5 fxg5 42. hxg5 hxg5 43. Qe3 Re7 44. Qxg5 e4 45. f4 Qf6 46. Qxf6+ Kxf6 47.
+Kf2 Rh7 48. Ke3 1/2-1/2
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.29"]
+[Round "6"]
+[White "Conti, Bruno Henrique"]
+[Black "Jonas, Joao Gabriel S"]
+[Result "1-0"]
+[ECO "D90"]
+[WhiteElo "1979"]
+[PlyCount "37"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 b6 5. Bf4 c6 6. e3 Nbd7 7. Rc1 Nh5 8. cxd5
+c5 9. Be5 f6 10. Bg3 Bg7 11. Bc4 Nxg3 12. hxg3 a6 13. dxc5 Nxc5 14. Nd4 Bd7 15.
+b4 Nb7 16. Qd3 b5 17. Bb3 Nd6 18. Rxh7 Kf8 19. Ne6+ 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.29"]
+[Round "6"]
+[White "Costa, Giovanni"]
+[Black "Costa, Romualdo"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "2007"]
+[BlackElo "1979"]
+[PlyCount "71"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c3 e6 4. Bg5 Be7 5. Nbd2 O-O 6. e3 Nbd7 7. Bd3 c5 8. Ne5
+Nxe5 9. dxe5 Nd7 10. Bf4 f5 11. g4 c4 12. Bc2 Nc5 13. gxf5 exf5 14. Rg1 Rf7 15.
+Nf3 Ne4 16. Nd4 Qb6 17. Rb1 Be6 18. f3 Bh4+ 19. Bg3 Nxg3 20. hxg3 Be7 21. f4
+Kh8 22. Qh5 g6 23. Qh1 Qa6 24. g4 Qb6 25. gxf5 gxf5 26. Kd2 Bc5 27. Rg6 Bxd4
+28. exd4 Rg8 29. Rxg8+ Kxg8 30. Rg1+ Kf8 31. Qh6+ Ke8 32. Rg8+ Kd7 33. Kc1 Re7
+34. Rh8 a6 35. Ba4+ Kc7 36. Qf8 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.29"]
+[Round "6"]
+[White "Do Prado, Fabio"]
+[Black "Awoki, Daniel Teidi"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[BlackElo "1853"]
+[PlyCount "142"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. d5 c6 5. Bxc4 Nf6 6. Bg5 cxd5 7. exd5 Qa5+ 8.
+Nc3 Ne4 9. Bd2 Nxf2 10. Kxf2 Qc5+ 11. Be3 Qxc4 12. Qh5 Bd6 13. Nf3 Qg4 14. Qxg4
+Bxg4 15. Nb5 Ke7 16. Nxa7 Bxf3 17. Kxf3 Nd7 18. Rhc1 Nf6 19. Rd1 e4+ 20. Ke2
+Bxh2 21. Nb5 Bd6 22. Nd4 Rhg8 23. Nf5+ Kd7 24. Bd4 Rac8 25. Bc3 Nh5 26. g4 Ng3+
+27. Nxg3 Bxg3 28. Ke3 Bd6 29. Kxe4 Rc4+ 30. Rd4 Re8+ 31. Kf3 Rxd4 32. Bxd4 Be5
+33. Rd1 Kd6 34. Be3 Ra8 35. b4 Rxa2 36. Bc5+ Kd7 37. Re1 Ra3+ 38. Ke4 Bd6 39.
+g5 Bxc5 40. bxc5 Rc3 41. Rh1 Rc4+ 42. Ke5 Rg4 43. Kf5 Rg2 44. Rxh7 Rf2+ 45. Ke4
+g6 46. Rh4 Rc2 47. Ke5 Rxc5 48. Rb4 b5 49. Rf4 Ke7 50. Rf6 Ke8 51. Rb6 Kd7 52.
+Rb7+ Ke8 53. Kd6 Rc8 54. Rxb5 Rd8+ 55. Ke5 Kf8 56. Rb7 Re8+ 57. Kf6 Rd8 58.
+Rxf7+ Ke8 59. Re7+ Kf8 60. Re6 Rxd5 61. Kxg6 Rd7 62. Ra6 Rd8 63. Kh6 Kg8 64.
+Ra7 Rb8 65. Re7 Rd8 66. Kg6 Rd6+ 67. Kh5 Rd8 68. g6 Rd5+ 69. Kg4 Kf8 70. Ra7
+Kg8 71. Rf7 Kh8 1/2-1/2
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.29"]
+[Round "6"]
+[White "Gotz, Klaus"]
+[Black "Cirilo, Guilherme de Araujo"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[BlackElo "1800"]
+[PlyCount "66"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. a3 Bd6 6. Bg5 Nbd7 7. e3 O-O 8. Be2
+dxc4 9. Bxc4 Qa5 10. O-O h6 11. Bh4 Re8 12. Qc2 Qd8 13. Ba2 c5 14. Ne4 Be7 15.
+Nxc5 b6 16. Nxd7 Qxd7 17. Rac1 Ba6 18. Bc4 Bb7 19. Bxf6 Bxf6 20. Qe2 a6 21. Rc2
+b5 22. Bd3 Rac8 23. Rfc1 Rxc2 24. Rxc2 Rc8 25. Rxc8+ Qxc8 26. Qc2 Qxc2 27. Bxc2
+Bxf3 28. gxf3 a5 29. b4 axb4 30. axb4 Be7 31. Bd3 Bxb4 32. Bxb5 Kf8 33. e4 Ke7
+1/2-1/2
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.29"]
+[Round "6"]
+[White "Leal, Paulo Tarcisio"]
+[Black "Santos, Caio Henrique"]
+[Result "1-0"]
+[ECO "D13"]
+[WhiteElo "2211"]
+[BlackElo "1861"]
+[PlyCount "47"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. cxd5 cxd5 5. Nc3 e6 6. Bf4 Nbd7 7. Qa4 Be7 8.
+Nb5 O-O 9. Bc7 Qe8 10. Nd6 Nb6 11. Nxe8 Nxa4 12. Nxf6+ gxf6 13. O-O-O Ba3 14.
+bxa3 Bd7 15. Kd2 Rfc8 16. Rc1 Nb2 17. e3 b5 18. Rc2 Nc4+ 19. Bxc4 bxc4 20. Bg3
+Ba4 21. Rcc1 Rc6 22. Rc3 Rb6 23. Ra1 a6 24. Kc1 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.29"]
+[Round "6"]
+[White "Name, Gabriel Ricardo"]
+[Black "Arni, Julian Kirsten"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2243"]
+[BlackElo "2179"]
+[PlyCount "39"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 dxc4 4. e4 b5 5. a4 Nf6 6. e5 Nd5 7. axb5 cxb5 8. b3
+Bf5 9. bxc4 Bxb1 10. cxd5 Qxd5 11. Rxb1 a6 12. Bd3 Nc6 13. O-O e6 14. Re1 Rb8
+15. Bg5 Rc8 16. Be4 Qd7 17. d5 Nb4 18. d6 Na2 19. Bd2 f5 20. exf6 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.29"]
+[Round "6"]
+[White "Reis, Anton"]
+[Black "Ferreira, Jonas de Vargas"]
+[Result "1-0"]
+[ECO "D60"]
+[WhiteElo "1983"]
+[PlyCount "59"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 O-O 7. Be2 a6 8. c5
+c6 9. O-O Re8 10. Qc2 Nf8 11. b4 N6d7 12. Bxe7 Qxe7 13. e4 dxe4 14. Nxe4 Nf6
+15. Nd6 Rd8 16. Ne5 Rxd6 17. cxd6 Qxd6 18. Qc5 Qc7 19. a4 N8d7 20. Qc3 Nd5 21.
+Qb2 f6 22. Nd3 e5 23. Bf3 exd4 24. Qxd4 Ne5 25. Bxd5+ cxd5 26. Qxd5+ Nf7 27.
+Rfe1 Qd7 28. Nc5 Qd8 29. Qxd8+ Nxd8 30. Re8+ 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.29"]
+[Round "6"]
+[White "Valente, Rodrigo"]
+[Black "Cordeiro, Felipe"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2114"]
+[PlyCount "61"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 e6 4. Bd3 b6 5. Qe2 d5 6. c3 Be7 7. Nbd2 Bb7 8. O-O
+O-O 9. Ne5 Nbd7 10. Ndf3 g6 11. Bd2 Ne8 12. Rad1 Bf6 13. Nxd7 Qxd7 14. dxc5
+bxc5 15. e4 Bg7 16. Bg5 Nd6 17. exd5 exd5 18. Qe7 Bc6 19. Qxd7 Bxd7 20. Be7 Nb7
+21. Bxf8 Kxf8 22. Bc4 d4 23. cxd4 Bg4 24. Bd5 Rb8 25. Bxb7 Rxb7 26. dxc5 Bxb2
+27. Rd2 Ba3 28. c6 Rc7 29. Ne5 Be6 30. Rb1 f6 31. Rb8+ 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "7"]
+[White "Bispo, Leonardo"]
+[Black "Rodrigo, Edson"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "2154"]
+[BlackElo "2021"]
+[PlyCount "82"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 b5 6. a4 Bb7 7. Ne5 Nd5 8. e4
+Nf6 9. Nc3 a6 10. O-O e6 11. f4 Be7 12. g4 b4 13. Ne2 c5 14. g5 Nfd7 15. Nxf7
+Kxf7 16. f5 Rf8 17. fxe6+ Kg8 18. exd7 Nxd7 19. Nf4 cxd4 20. g6 h6 21. Ne6 Qb6
+22. Nxf8 d3+ 23. Kh1 Rxf8 24. Rf7 Rxf7 25. gxf7+ Kxf7 26. Qf1+ Qf6 27. Bf4 g5
+28. Bd2 a5 29. Qg1 Bc5 30. Qd1 Kg7 31. Qg4 Ne5 32. Qg3 Bf2 33. Qh3 Qg6 34. Qf5
+Qxf5 35. exf5 Bxg2+ 36. Kxg2 Bd4 37. Rb1 Kf6 38. h4 c3 39. hxg5+ hxg5 40. Rf1
+cxd2 41. b3 Ng4 0-1
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "7"]
+[White "Choma, Ernani Francisco"]
+[Black "Barbosa, Fernando"]
+[Result "1-0"]
+[ECO "D06"]
+[WhiteElo "2270"]
+[BlackElo "2028"]
+[PlyCount "37"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. c4 Nf6 3. cxd5 Nxd5 4. d4 e6 5. e4 Nf6 6. Nc3 Be7 7. Bd3 Nbd7 8.
+Bf4 c6 9. O-O O-O 10. Qc2 Nh5 11. Be3 f5 12. exf5 exf5 13. Bxf5 Ndf6 14. Ne5
+Bxf5 15. Qxf5 Kh8 16. Qe6 Bd6 17. g4 Bxe5 18. dxe5 Re8 19. Qf5 1-0
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "7"]
+[White "Costa, Romualdo"]
+[Black "Salles, Sergio"]
+[Result "0-1"]
+[ECO "D48"]
+[WhiteElo "1979"]
+[BlackElo "1776"]
+[PlyCount "56"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. b3 Be7 11. Bb2 O-O 12. Rc1 Rc8 13. Ne4 Nxe4 14. Bxe4 Qb6 15.
+Qe2 c5 16. Bxb7 Qxb7 17. dxc5 Nxc5 18. Rfd1 Rfd8 19. Rxd8+ Rxd8 20. Nd4 Qe4 21.
+Kf1 Nd3 22. Qc2 e5 23. f3 Qxe3 24. Nf5 Qg5 25. Nxe7+ Qxe7 26. Rd1 Nxb2 27.
+Rxd8+ Qxd8 28. Qxb2 Qd3+ 0-1
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "7"]
+[White "Domingos, Raul"]
+[Black "Cirilo, Guilherme de Araujo"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[BlackElo "1800"]
+[PlyCount "18"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. Bxf6 Nxf6 8.
+Nd2 Bb4 9. Qc2 O-O 1/2-1/2
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "7"]
+[White "Reis, Anton"]
+[Black "Deus Filho, Joaquim"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "1983"]
+[BlackElo "2067"]
+[PlyCount "62"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. cxd5 exd5 5. Qb3 Nc6 6. Nf3 Bb4 7. a3 Bxc3+ 8.
+bxc3 Na5 9. Qa4+ c6 10. Bg5 f6 11. Bc1 Qb6 12. Nd2 Nh6 13. f3 O-O 14. e4 Rfe8
+15. Bd3 dxe4 16. fxe4 Bxe4 17. Nxe4 f5 18. Bxh6 gxh6 19. O-O fxe4 20. Bc4+ Kh8
+21. Bf7 Re7 22. Qd1 Qb5 23. d5 Qc5+ 24. Kh1 cxd5 25. Qh5 Qxc3 26. Rac1 Qe5 27.
+Qxh6 Qg7 28. Qh5 Re5 29. Rf5 Rxf5 30. Qxf5 Rf8 31. Rc8 Qa1+ 0-1
+
+[Event "Paulista-ch final"]
+[Site "Santos"]
+[Date "2008.06.28"]
+[Round "7"]
+[White "Rossi, Pedro"]
+[Black "Santiago, Yago De Moura"]
+[Result "0-1"]
+[ECO "D44"]
+[WhiteElo "2127"]
+[BlackElo "2223"]
+[PlyCount "86"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. Bg5 dxc4 6. a4 Bb4 7. Bxf6 gxf6 8.
+Qc2 Nd7 9. e3 b5 10. Be2 Bb7 11. O-O a6 12. Rfd1 Qb6 13. b3 cxb3 14. Qxb3 Be7
+15. axb5 cxb5 16. d5 Nc5 17. Qb2 O-O 18. Nd4 Rad8 19. Bf3 f5 20. dxe6 fxe6 21.
+Bxb7 Qxb7 22. Qa2 Rf6 23. Nce2 Kh8 24. Nf3 Rg8 25. Ng3 h6 26. Ne5 Kh7 27. Rac1
+Rg7 28. f4 b4 29. Nh5 b3 30. Qe2 Rff7 31. Nxf7 Rxf7 32. Qd2 Ne4 33. Qd7 Qb6 34.

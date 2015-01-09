@@ -1,0 +1,600 @@
+[ECO "D47"]
+[WhiteElo "2166"]
+[BlackElo "2252"]
+[PlyCount "90"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O b4 10. Ne4 c5 11. dxc5 Bxc5 12. Nxc5 Nxc5 13. Bb5+ Ke7 14. Bd2 a5
+15. a3 Nce4 16. Rc1 Nxd2 17. Qxd2 Bxf3 18. Qxd8+ Rhxd8 19. gxf3 Rac8 20. axb4
+axb4 21. Rxc8 Rxc8 22. Ra1 Kd6 23. Kf1 Nd5 24. Bd3 g6 25. Ke2 Nb6 26. Ra6 Kc5
+27. Ra5+ Kd6 28. Rb5 Nd5 29. e4 Nf4+ 30. Kd2 Nxd3 31. Kxd3 Rc1 32. e5+ Kc6 33.
+Rxb4 Re1 34. Re4 Rh1 35. h4 Kd5 36. b4 h6 37. Kd2 Rb1 38. Ke2 Rb3 39. Rf4 Kxe5
+40. Rxf7 Rxb4 41. h5 gxh5 42. Rh7 Kf4 43. Rxh6 Rb2+ 44. Kf1 Kxf3 45. Rf6+ Kg4
+1/2-1/2
+
+[Event "Hamburg-ch int 11th"]
+[Site "Hamburg"]
+[Date "2008.05.15"]
+[Round "7"]
+[White "Colpe, Malte"]
+[Black "Jacoby, Gisbert"]
+[Result "1-0"]
+[ECO "D23"]
+[WhiteElo "2089"]
+[BlackElo "2225"]
+[PlyCount "57"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Qa4+ Nfd7 5. e4 Nc6 6. Bxc4 Nb6 7. Qb3 Nxc4
+8. Qxc4 Bg4 9. Nbd2 Qd6 10. d5 Bxf3 11. dxc6 b5 12. Qf1 Bg4 13. Qxb5 g6 14. O-O
+Bg7 15. Nc4 Qf6 16. Bg5 Qd4 17. Ne3 Be6 18. Nd5 Bxd5 19. exd5 Qxb2 20. Qxb2
+Bxb2 21. Rab1 Bd4 22. Rb7 Kd8 23. Rfb1 Bb6 24. d6 f6 25. dxc7+ Bxc7 26. Rd1+
+Kc8 27. Rd7 Be5 28. Bd2 Rd8 29. Ba5 1-0
+
+[Event "Hamburg-ch int 11th"]
+[Site "Hamburg"]
+[Date "2008.05.15"]
+[Round "7"]
+[White "Foerster, Andreas"]
+[Black "Nedic, Dusan"]
+[Result "0-1"]
+[ECO "D10"]
+[WhiteElo "2232"]
+[BlackElo "2260"]
+[PlyCount "90"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bg5 Ne4 6. Nxe4 dxe4 7. Bf4 e6 8.
+a3 Nc6 9. Be3 Be7 10. g3 O-O 11. Bg2 f5 12. Qd2 Na5 13. Rd1 Bd7 14. b4 Nc4 15.
+Qa2 Nxe3 16. fxe3 a5 17. b5 Qb6 18. a4 Bb4+ 19. Kf2 Rac8 20. Nh3 Rc3 21. Rc1
+Rfc8 22. Rxc3 Rxc3 23. Nf4 g5 24. Nh5 Kf7 25. Rf1 Qd6 26. g4 Qd5 27. Qb1 Ke7
+28. Ng3 Bd6 29. Rc1 Qb3 30. Qxb3 Rxb3 31. Ra1 Rc3 32. Bh3 Bxg3+ 33. hxg3 Kd6
+34. Bg2 Be8 35. d5 exd5 36. gxf5 g4 37. Rh1 h5 38. Rd1 Ke5 39. Rd2 Bf7 40. Rd1
+Rc4 41. Ra1 Rc3 42. Ra2 Rc1 43. Ra3 Kxf5 44. Ra2 Ke5 45. Bf1 Kd6 0-1
+
+[Event "Hamburg-ch int 11th"]
+[Site "Hamburg"]
+[Date "2008.05.15"]
+[Round "7"]
+[White "Reddmann, Hauke"]
+[Black "Kroencke, Manfred"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2351"]
+[BlackElo "2174"]
+[PlyCount "65"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c6 4. Bd3 Bg4 5. Ne2 e6 6. c4 dxc4 7. Bxc4 Bb4+ 8.
+Kf1 Nbd7 9. Qb3 Qb6 10. f3 Bh5 11. Nbc3 Bxc3 12. bxc3 Nd5 13. Kf2 Qxb3 14. Bxb3
+Nxf4 15. Nxf4 Bg6 16. Rad1 e5 17. Nxg6 hxg6 18. h3 g5 19. dxe5 Nxe5 20. Rd4 O-O
+21. h4 gxh4 22. Rdxh4 g6 23. f4 Nd3+ 24. Ke2 Nc5 25. Rh8+ Kg7 26. R1h7+ Kf6 27.
+Rxf7+ Rxf7 28. Rxa8 Re7 29. Bc2 Ne6 30. Kf3 a6 31. Rb8 Rd7 32. g4 Rd2 33. g5+
+1-0
+
+[Event "Hamburg-ch int 11th"]
+[Site "Hamburg"]
+[Date "2008.05.15"]
+[Round "7"]
+[White "Zierke, Oliver"]
+[Black "Pajeken, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[WhiteElo "2313"]
+[BlackElo "2345"]
+[PlyCount "54"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. Nf3 c5 3. e3 Nf6 4. c4 d5 5. Nc3 cxd4 6. exd4 Be7 7. Bd3 dxc4 8.
+Bxc4 O-O 9. O-O Nc6 10. a3 b6 11. Be3 Bb7 12. Qe2 Rc8 13. Ba2 Nb8 14. Rfd1 Nd5
+15. Bxd5 Bxd5 16. Ne5 Bb7 17. Bf4 Bf6 18. Ng4 Be7 19. Ne3 Bd6 20. Bxd6 Qxd6 21.
+Nb5 Qd7 22. Nc3 Na6 23. Qg4 Rfd8 24. d5 exd5 25. Nf5 g6 26. Nxd5 Bxd5 27. Rxd5
+Qc7 1/2-1/2
+
+[Event "Hamburg-ch int 11th"]
+[Site "Hamburg"]
+[Date "2008.05.16"]
+[Round "8"]
+[White "Nedic, Dusan"]
+[Black "Borges, Guilherme Deola"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2260"]
+[BlackElo "2166"]
+[PlyCount "59"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Qa4+ Nc6 5. Nf3 Nge7 6. e3 O-O 7. Bd3 dxc4 8.
+Bxc4 Nd5 9. Qc2 Re8 10. O-O Bf8 11. a3 Nxc3 12. Qxc3 a5 13. e4 a4 14. Bg5 Be7
+15. Be3 Na5 16. Ba2 b6 17. Rfd1 c6 18. Ne5 Bb7 19. Qc2 Rc8 20. Qxa4 b5 21. Qc2
+b4 22. axb4 Bxb4 23. Nd3 c5 24. dxc5 Bxe4 25. Qa4 Bxd3 26. Qxb4 Re7 27. Bb1 Rd7
+28. Qxa5 Bxb1 29. Qxd8+ Rcxd8 30. Rxd7 1-0
+
+[Event "Hamburg-ch int 11th"]
+[Site "Hamburg"]
+[Date "2008.05.17"]
+[Round "9"]
+[White "Beikert, Guenther"]
+[Black "Rogozenco, Dorian"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2449"]
+[BlackElo "2523"]
+[PlyCount "19"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 Bf5 6. Bf4 Nbd7 7. e3 e6 8. Bd3
+Be7 9. O-O O-O 10. Qc2 1/2-1/2
+
+[Event "Hamburg-ch int 11th"]
+[Site "Hamburg"]
+[Date "2008.05.17"]
+[Round "9"]
+[White "Colpe, Malte"]
+[Black "Iotov, Valentin"]
+[Result "0-1"]
+[ECO "D38"]
+[WhiteElo "2089"]
+[BlackElo "2531"]
+[PlyCount "100"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Bg5 Bb4+ 5. Nc3 Nbd7 6. cxd5 exd5 7. e3 c5 8.
+Be2 Qa5 9. O-O Bxc3 10. Bxf6 Nxf6 11. bxc3 c4 12. Qc2 O-O 13. Ne5 Re8 14. Bf3
+Qc7 15. a4 Ne4 16. Be2 f6 17. Nf3 Bf5 18. Qb2 Qa5 19. Ra3 Rab8 20. Rfa1 Re6 21.
+Nd2 Nd6 22. Bf3 Bd3 23. g3 Ne4 24. Nxe4 dxe4 25. Be2 Rc6 26. Qa2 Rbc8 27. Bxd3
+exd3 28. e4 h5 29. f4 h4 30. g4 Re6 31. Re1 h3 32. f5 Re7 33. Kf2 Qc7 34. Kf3
+Rce8 35. Qd2 Rxe4 36. Rxe4 Rxe4 37. Kxe4 Qe7+ 38. Kd5 Qf7+ 39. Ke4 Qe7+ 40. Kd5
+Qxa3 41. Kxc4 Qxa4+ 42. Kxd3 b5 43. Qe1 Qc4+ 44. Kd2 Qa2+ 45. Kd3 Kf7 46. Qg3
+Qc4+ 47. Kd2 b4 48. cxb4 Qxb4+ 49. Kc2 Qc4+ 50. Kb1 Qf1+ 0-1
+
+[Event "Hamburg-ch int 11th"]
+[Site "Hamburg"]
+[Date "2008.05.17"]
+[Round "9"]
+[White "Foerster, Andreas"]
+[Black "Maahs, Erich"]
+[Result "1-0"]
+[ECO "D08"]
+[WhiteElo "2232"]
+[BlackElo "2163"]
+[PlyCount "93"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 Nc6 3. e3 e5 4. dxe5 d4 5. a3 a5 6. Nf3 Bc5 7. exd4 Bxd4 8. Be2
+Bxe5 9. Qxd8+ Kxd8 10. Nxe5 Nxe5 11. O-O Be6 12. f4 Nc6 13. Rd1+ Kc8 14. Nc3
+Nge7 15. Be3 h5 16. b3 g6 17. h3 Nf5 18. Bf2 h4 19. Ne4 Nb8 20. b4 Rd8 21. b5
+Nd7 22. Rac1 Nb6 23. Rxd8+ Kxd8 24. Nc5 Kc8 25. Bd3 Ng3 26. Bxg3 hxg3 27. Nxe6
+fxe6 28. Bxg6 Kd7 29. f5 exf5 30. Bxf5+ Ke7 31. Be4 Rb8 32. Rc3 Ke6 33. Rxg3
+Nxc4 34. Rc3 Nd6 35. Bd3 Kd7 36. g4 Re8 37. Kf2 Ne4+ 38. Bxe4 Rxe4 39. Rd3+ Kc8
+40. Kf3 Re1 41. h4 Rb1 42. g5 Rxb5 43. g6 Rb1 44. Kg4 Re1 45. g7 Re8 46. Rf3
+Rg8 47. Rf8+ 1-0
+
+[Event "Hamburg-ch int 11th"]
+[Site "Hamburg"]
+[Date "2008.05.17"]
+[Round "9"]
+[White "Mueller, Joerg"]
+[Black "Schmidt Brauns, Rainer"]
+[Result "0-1"]
+[ECO "D78"]
+[WhiteElo "2116"]
+[BlackElo "2062"]
+[PlyCount "138"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. g3 Nf6 2. Bg2 d5 3. Nf3 g6 4. O-O Bg7 5. d4 O-O 6. Nbd2 c6 7. c4 Bf5 8. Nh4
+Be6 9. cxd5 cxd5 10. Nb3 Nc6 11. Nc5 Bc8 12. h3 b6 13. Nb3 e6 14. e3 Ba6 15.
+Re1 Rc8 16. a3 Qe7 17. Nf3 Ne4 18. Nbd2 f5 19. h4 h6 20. Bf1 Bxf1 21. Rxf1 g5
+22. Kg2 g4 23. Ne1 e5 24. Nxe4 dxe4 25. Bd2 Rfd8 26. dxe5 Nxe5 27. Qb3+ Qf7 28.
+Qxf7+ Kxf7 29. Bc3 Nc4 30. Bxg7 Kxg7 31. Nc2 Rd2 32. Rfc1 Nxb2 33. Nd4 Rxf2+
+34. Kg1 Rxc1+ 35. Rxc1 Nd3 36. Rc7+ Kf6 37. Rc6+ Kg7 38. Rc7+ Kf6 39. Rxa7 Rb2
+40. Rc7 Ne5 41. Kf1 Ra2 42. Rh7 Kg6 43. Rb7 Nc4 44. Kg1 Rxa3 45. Ne6 Kf6 46.
+Nf4 Rb3 47. Rh7 Nxe3 48. Rxh6+ Ke5 49. Re6+ Kd4 50. h5 Rb1+ 51. Kf2 Nc4 52. Re7
+e3+ 53. Ke2 Rb2+ 54. Ke1 Rh2 55. Ne2+ Kc5 56. Nf4 b5 57. Rf7 Nd6 58. Rf6 Ne4
+59. Rxf5+ Kc4 60. Re5 Rh1+ 61. Ke2 Nxg3+ 62. Kxe3 Re1+ 63. Kf2 Rxe5 64. Kxg3
+Rg5 65. h6 Rg8 66. Kh4 g3 67. Ng2 b4 68. Kh5 b3 69. h7 Rh8 0-1
+
+[Event "Hamburg-ch int 11th"]
+[Site "Hamburg"]
+[Date "2008.05.17"]
+[Round "9"]
+[White "Strobel, Holger"]
+[Black "Saltaev, Mihail"]
+[Result "0-1"]
+[ECO "D16"]
+[WhiteElo "2241"]
+[BlackElo "2500"]
+[PlyCount "92"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8. O-O
+cxd4 9. exd4 Be7 10. d5 exd5 11. Nxd5 Nxd5 12. Bxd5 Nb4 13. Bb3 O-O 14. Be3 Bf5
+15. Qd4 Nc2 16. Bxc2 Bxc2 17. Qg4 Bf6 18. Rac1 Rc8 19. Bd4 Rc6 20. Rfe1 Bb3 21.
+Rxc6 bxc6 22. Bxa7 Qa5 23. Qd7 Be6 24. Qb7 Qxa4 25. Bc5 Ra8 26. h3 Bd5 27. Re3
+h6 28. b4 Qa2 29. Ba7 c5 30. Qd7 Be6 31. Rxe6 Qxe6 32. Qb7 Qc8 33. Qxc8+ Rxc8
+34. Bxc5 Rc7 35. Be3 Bc3 36. b5 Rb7 37. Nd4 Bxd4 38. Bxd4 Rxb5 39. g4 h5 40.
+gxh5 Rxh5 41. Kg2 Rd5 42. Be3 Kh7 43. Bf4 Kg6 44. Bc7 Kf5 45. Bb8 Ke4 46. Bc7
+Rg5+ 0-1
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "1"]
+[White "Berend, Fred"]
+[Black "Urbaniak, Patrick"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2350"]
+[BlackElo "2005"]
+[PlyCount "73"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 c6 6. e3 O-O 7. Qc2 Nbd7 8. Rc1
+Re8 9. h3 Qa5 10. a3 dxc4 11. Bxc4 Nd5 12. Bd3 Nxf4 13. Bxh7+ Kh8 14. exf4 Nf6
+15. Bd3 Nd5 16. Qd2 g6 17. O-O Kg7 18. Rfe1 a6 19. Ne5 Bd6 20. g3 Qd8 21. Ne4
+Be7 22. Bb1 f6 23. Nf3 e5 24. dxe5 Bxh3 25. exf6+ Bxf6 26. Nfg5 Bg4 27. Ba2
+Bxg5 28. Nxg5 Qd7 29. Bxd5 cxd5 30. Qd4+ Kg8 31. Kg2 Rad8 32. Rh1 Bh5 33. Rce1
+Qc6 34. Nf3 Qc4 35. Rxe8+ Rxe8 36. Qxc4 dxc4 37. Ne5 1-0
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "1"]
+[White "Brittner, Serge"]
+[Black "Negi, Parimarjan"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2250"]
+[BlackElo "2514"]
+[PlyCount "68"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Qd2 Qa5 9. Nf3 Nc6 10. Rb1 O-O 11. Rb5 cxd4 12. Rxa5 dxe3 13. Qxe3 Nxa5 14. Nd4
+Bd7 15. Be2 Rfc8 16. O-O Nc4 17. Bxc4 Rxc4 18. e5 Rac8 19. f4 Rxc3 20. Qd2 Ba4
+21. h3 e6 22. Rf3 R3c4 23. Rd3 Bf8 24. Kh2 Bb4 25. Qb2 Rd8 26. a3 Bc5 27. Nxe6
+Rxd3 28. Nxc5 Rxc5 29. Qb4 Rc2 30. Qxa4 Rdd2 31. e6 Rxg2+ 32. Kh1 Rgd2 33.
+exf7+ Kxf7 34. Qb3+ Kf6 0-1
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "1"]
+[White "D'Costa, Lorin"]
+[Black "Baskewitsch, Pierre"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2410"]
+[BlackElo "2068"]
+[PlyCount "93"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 Bf5 5. Nf3 e6 6. Bd3 Bg6 7. Ne5 Nbd7 8. Nxg6
+hxg6 9. Bd2 dxc4 10. Bxc4 Qc7 11. h3 Bb4 12. Qb3 Bxc3 13. Bxc3 Nd5 14. Bd2 N7f6
+15. O-O-O Ne4 16. Be1 O-O-O 17. Kb1 g5 18. Be2 f5 19. g4 g6 20. Bf3 Nef6 21.
+Qa4 fxg4 22. hxg4 Rxh1 23. Bxh1 Kb8 24. Bf3 Nb6 25. Qc2 Rg8 26. Ba5 Nfd5 27.
+Be4 Qf7 28. Rh1 Nf6 29. Bf3 Nfd5 30. Rh3 Rf8 31. Be1 Nf6 32. Qc5 Nfd5 33. Qd6+
+Kc8 34. Be4 Nc4 35. Qc5 Ncb6 36. Rf3 Nf6 37. Bd3 Rh8 38. Qxg5 Nbd5 39. Bd2 Rh1+
+40. Kc2 Qe7 41. e4 Nb4+ 42. Bxb4 Qxb4 43. Rxf6 Qa4+ 44. Kc3 b5 45. Rf8+ Kb7 46.
+Qe7+ Kb6 47. Rb8+ 1-0
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "1"]
+[White "De Lagontrie, Jean"]
+[Black "Degtiarev, Evgeny"]
+[Result "0-1"]
+[ECO "D86"]
+[WhiteElo "1987"]
+[BlackElo "2350"]
+[PlyCount "88"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 Nc6 9. Be3 e5 10. O-O exd4 11. cxd4 Na5 12. Bd3 c5 13. d5 b6 14. Rc1 f5 15.
+f3 fxe4 16. fxe4 Rxf1+ 17. Qxf1 Qe7 18. Qe1 Bg4 19. Nc3 Be5 20. Bf2 c4 21. Bb1
+Rf8 22. Bg3 Nb7 23. Bxe5 Qxe5 24. Qe3 Nd6 25. Re1 Re8 26. Qg3 Qxg3 27. hxg3 Re5
+28. Rf1 Kg7 29. a4 a6 30. Rf2 b5 31. Rb2 Bd7 32. axb5 axb5 33. Ra2 b4 34. Ne2
+Nxe4 35. Bxe4 Rxe4 36. Kf2 Bg4 37. Ra7+ Kf6 38. Nf4 g5 39. Ra6+ Ke5 40. Nh3
+Bxh3 41. gxh3 Kxd5 42. Ra5+ Kd4 43. Rxg5 c3 44. Rg7 c2 0-1
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "1"]
+[White "Iglesias, Joachim"]
+[Black "Wirig, Anthony"]
+[Result "1-0"]
+[ECO "D91"]
+[WhiteElo "2166"]
+[BlackElo "2477"]
+[PlyCount "139"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Qd2 exd5 9. Qe3+ Kf8 10. Qf4 Bf6 11. h4 h6 12. Nf3 Kg7 13. g4 Be6 14. O-O-O Nd7
+15. e4 dxe4 16. Nxe4 Bd5 17. Bd3 Bxe4 18. Bxe4 c5 19. dxc5 Qe7 20. g5 hxg5 21.
+hxg5 Qxc5+ 22. Kb1 Be5 23. Nxe5 Qxe5 24. Qxe5+ Nxe5 25. Bxb7 Rxh1 26. Bxh1 Rh8
+27. Be4 Rh2 28. f4 Nc4 29. Bc2 Ne3 30. Rc1 Rf2 31. Bb3 Rxf4 32. a3 a5 33. Re1
+Nf5 34. Bc2 Nd4 35. Bd3 Rf3 36. Bc4 Rf5 37. Rf1 Nf3 38. Ka2 Nxg5 39. Rxf5 gxf5
+40. Kb3 Kf6 41. Ka4 Ne4 42. Kxa5 f4 43. Kb6 f3 44. a4 Ke5 45. a5 Kd4 46. Bf1
+Nd2 47. Bh3 Nc4+ 48. Kb5 Kd5 49. a6 Nd6+ 50. Kb6 f2 51. a7 Nc8+ 52. Bxc8 f1=Q
+53. a8=Q+ Ke5 54. Qa5+ Kf6 55. Qc3+ Kg6 56. b4 Qf4 57. b5 Qb8+ 58. Bb7 f5 59.
+Qc7 Qf8 60. Qg3+ Kf6 61. Ka6 Qb4 62. Bc6 f4 63. Qh4+ Kf5 64. Qh5+ Kf6 65. Qd5
+Qa3+ 66. Kb7 Qe7+ 67. Bd7 Qe3 68. Qf5+ Ke7 69. Bc6 Qd2 70. b6 1-0
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "1"]
+[White "Maes, Valeer"]
+[Black "Papadopoulos, Ioannis"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2161"]
+[BlackElo "2471"]
+[PlyCount "92"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 b6 5. Nbd2 Bb7 6. Bd3 Be7 7. h3 O-O 8. O-O
+d5 9. c3 Ne4 10. Be2 Nd7 11. Nxe4 dxe4 12. Ne5 Nf6 13. dxc5 Bxc5 14. Bg5 Be7
+15. Qxd8 Rfxd8 16. Rad1 h6 17. Bh4 g5 18. Bg3 Kg7 19. Rxd8 Rxd8 20. Rd1 Rxd1+
+21. Bxd1 Nd5 22. c4 Nb4 23. a3 Nd3 24. Nxd3 exd3 25. Be5+ f6 26. Bb8 a6 27. f3
+f5 28. Kf2 Bf6 29. b3 Bc6 30. g4 b5 31. cxb5 Bxb5 32. a4 Bc6 33. Ba7 Kf7 34. b4
+h5 35. gxf5 exf5 36. Bb3+ Kg6 37. Bc4 d2 38. Ke2 Bc3 39. Bb3 Bxb4 40. Bc2 Kf7
+41. e4 fxe4 42. fxe4 Bd7 43. Be3 g4 44. Bb3+ Kf6 45. h4 g3 46. Bd4+ Kg6 0-1
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "1"]
+[White "Marzolo, Cyril"]
+[Black "Jaenig, Reinhard"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2476"]
+[BlackElo "2162"]
+[PlyCount "57"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 c6 3. Bf4 Bf5 4. e3 Nd7 5. c4 e6 6. Qb3 Qb6 7. c5 Qxb3 8. axb3
+a6 9. Nc3 Ngf6 10. h3 h6 11. b4 Rc8 12. Nd2 Be7 13. Nb3 Bd8 14. f3 Bc7 15. Bxc7
+Rxc7 16. b5 O-O 17. b6 Rcc8 18. Na5 Rb8 19. Kd2 e5 20. b4 Rfe8 21. Bxa6 exd4
+22. exd4 bxa6 23. Nxc6 Rbc8 24. Na7 Ra8 25. Rxa6 Nf8 26. b7 Rab8 27. c6 Ne6 28.
+Nab5 Re7 29. Ra8 1-0
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "1"]
+[White "Nebolsina, Vera"]
+[Black "Boyarchenko, Alex"]
+[Result "1-0"]
+[ECO "D52"]
+[WhiteElo "2345"]
+[BlackElo "1964"]
+[PlyCount "101"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 Bb4 8. Qc2
+dxc4 9. Bxf6 Nxf6 10. Bxc4 Nd5 11. Rc1 O-O 12. O-O Re8 13. Bd3 Kh8 14. Nc4 Qd8
+15. Ne5 Re7 16. Qe2 Kg8 17. Qh5 Nf6 18. Qh4 Re8 19. g4 g6 20. g5 Nh5 21. Ne4
+Be7 22. Ng4 Kg7 23. Be2 f5 24. gxf6+ Bxf6 25. Nexf6 Nxf6 26. Qh6+ Kg8 27. Ne5
+Qe7 28. f4 Nd7 29. Kh1 Nxe5 30. fxe5 b6 31. Rf6 Bb7 32. Bg4 c5+ 33. Kg1 Bd5 34.
+e4 Bxa2 35. d5 exd5 36. Be6+ Qxe6 37. Rxe6 Rxe6 38. Ra1 Bc4 39. exd5 Bxd5 40.
+Qg5 Be4 41. Rd1 Rf8 42. Rd7 Rf7 43. Qd8+ Rf8 44. Qc7 g5 45. Rg7+ Kh8 46. Rxg5
+Bg6 47. h4 Rfe8 48. h5 R6e7 49. Qc6 Re6 50. Qf3 Bb1 51. Qf7 1-0
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "1"]
+[White "Schlosser, Philipp"]
+[Black "Grover, Sahaj"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2563"]
+[BlackElo "2300"]
+[PlyCount "81"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Be7 7. e3 O-O 8. Bd3
+Nbd7 9. Nf3 Re8 10. O-O Nf8 11. h3 Be6 12. Rfc1 a5 13. a3 N6d7 14. Bxe7 Qxe7
+15. Na4 Rec8 16. b3 b6 17. Qb2 f6 18. Rc3 Bf7 19. Rac1 Qd6 20. Nh4 g6 21. R3c2
+Ne6 22. Nf3 Kg7 23. Nc3 Rc7 24. Bf1 b5 25. Ne1 Nb6 26. Nd3 g5 27. Nc5 Rcc8 28.
+a4 b4 29. Ne2 Nd7 30. Ng3 Bg6 31. Nxd7 Qxd7 32. Rd2 Qf7 33. Bd3 f5 34. Qb1 f4
+35. Nf5+ Bxf5 36. Bxf5 fxe3 37. fxe3 h6 38. Bg4 Rc7 39. Rf2 Qe7 40. Bh5 Nf8 41.
+Rf7+ 1-0
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "1"]
+[White "Siebrecht, Sebastian"]
+[Black "Maleki, Manuel"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2490"]
+[BlackElo "2197"]
+[PlyCount "65"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Nc3 Nf6 7. a3 Be7 8. Nf3
+O-O 9. g3 c5 10. Bg2 Nc6 11. d5 exd5 12. cxd5 Na5 13. O-O Nc4 14. Re1 Re8 15.
+Bf4 Bf5 16. Nh4 Bg4 17. Qc2 Nd6 18. h3 Bh5 19. g4 Bg6 20. Nxg6 hxg6 21. Re2 Qd7
+22. Rae1 Bf8 23. Be3 b6 24. a4 Re7 25. a5 Rae8 26. Na4 Qb5 27. Bf1 Nxd5 28.
+Bxc5 Rxe2 29. Bxe2 Qxa5 30. Rd1 Nb7 31. Bxb6 Qxb6 32. Bf3 Rc8 33. Nxb6 1-0
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "2"]
+[White "Degtiarev, Evgeny"]
+[Black "Henrichs, Thomas"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2350"]
+[BlackElo "2497"]
+[PlyCount "30"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+Qe7 9. O-O Re8 10. Bb2 b6 11. Rfe1 Bb7 12. Rad1 Rad8 13. Bd3 dxc4 14. Bxc4 c5
+15. Qe2 h6 1/2-1/2
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "2"]
+[White "Feller, Sebastien"]
+[Black "D'Costa, Lorin"]
+[Result "1/2-1/2"]
+[ECO "D23"]
+[WhiteElo "2540"]
+[BlackElo "2410"]
+[PlyCount "35"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. Qa4+ c6 5. Qxc4 Bf5 6. g3 e6 7. Bg2 Be7 8.
+O-O O-O 9. Nbd2 Nbd7 10. Qb3 Qb6 11. Nc4 Qxb3 12. axb3 Be4 13. Bf4 Rfc8 14. Nd6
+Bxd6 15. Bxd6 Ne8 16. Bf4 Nc7 17. Bxc7 Rxc7 18. Rfc1 1/2-1/2
+
+[Event "Kaupthing op"]
+[Site "Differdange"]
+[Date "2008.05.10"]
+[Round "2"]
+[White "Tania, Sachdev"]
+[Black "Gupta, Abhijeet"]
+[Result "1/2-1/2"]
+[ECO "D72"]
+[WhiteElo "2423"]
+[BlackElo "2521"]
+[PlyCount "59"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LUX"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb4 7. d5 c6 8. a3
+N4a6 9. Ne2 cxd5 10. exd5 O-O 11. O-O Nd7 12. Nbc3 Ne5 13. h3 Nc4 14. b3 Nd6
+15. Bb2 Nc5 16. b4 Nce4 17. Na4 Bxb2 18. Nxb2 a5 19. Nd4 Nf6 20. Nd3 Bd7 21. g4

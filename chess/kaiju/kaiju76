@@ -1,0 +1,50 @@
+4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6
+E57	E57	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O
+Nc6 8.a3 dxc4 9.Bxc4 cxd4
+E58	E58	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O
+Nc6 8.a3 Bxc3 9.bxc3
+E59	E59	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O
+Nc6 8.a3 Bxc3 9.bxc3 dxc4 10.Bxc4
+E60	King's Indian Defense; West Indian Defense; E60	1.d4 Nf6 2.c4 g6
+E60	Fianchetto Variation, KID	1.d4 Nf6 2.c4 g6 3.g3
+E60	Counterthrust Variation	1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d5
+E60	Kemeri Variation	1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d5 5.cxd5 Nxd5
+6.Nf3 O-O 7.O-O c5
+E60	Yugoslav Variation	1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d6 5.Nf3 O-O
+6.Nc3 c5
+E60	Bronstein Variation	1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d6 5.Nf3 O-O
+6.Nc3 c6 7.O-O Qa5
+E60	Panno Variation	1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d6 5.Nf3 O-O 6.Nc3 Nc6
+7.O-O a6 8.h3 Rb8
+E60	Spassky Variation	1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d6 5.Nf3 O-O
+6.Nc3 Nc6 7.O-O Bf5
+E60	Simagin Variation	1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d6 5.Nf3 O-O
+6.Nc3 Nc6 7.O-O Bg4
+E60	Szabo Variation	1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d6 5.Nf3 O-O 6.Nc3 Nc6
+7.O-O e5
+E60	Panno System	1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d6 5.Nf3 O-O 6.O-O Nc6
+7.d5 Na5
+E60	Pomar Variation, KID	1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nge2
+E60	King's Knight Variation, KID	1.d4 Nf6 2.c4 g6 3.Nf3
+E60	Santassiere Variation, KID	1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.b4
+E61	E61	1.d4 Nf6 2.c4 g6 3.Nc3
+E61	Smyslov Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Bg5
+E61	Smyslov Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.Bg5
+E62	Delayed Fianchetto, KID; E62	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6
+5.g3
+E62	Larsen Defense, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O
+6.Bg2 c6 7.O-O Bf5
+E62	Kavalek Defense, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O
+6.Bg2 c6 7.O-O Qa5
+E62	Benjamin Defense, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O
+6.Bg2 c6 7.O-O Qb6
+E62	Carlsbad Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O
+6.Bg2 Nc6
+E62	Lesser Simagin (Spassky) Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7
+4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O Bf5
+E62	Simagin Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O
+6.Bg2 Nc6 7.O-O Bg4
+E62	Uhlmann-Szabo System, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6
+5.g3 O-O 6.Bg2 Nc6 7.O-O e5
+E63	Panno Variation, KID; E63	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6
+5.g3 O-O 6.Bg2 Nc6 7.O-O a6

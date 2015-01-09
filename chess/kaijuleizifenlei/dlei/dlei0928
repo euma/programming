@@ -1,0 +1,600 @@
+[Result "1-0"]
+[ECO "D47"]
+[WhiteElo "2737"]
+[BlackElo "2728"]
+[Annotator "Aronian"]
+[PlyCount "83"]
+[EventDate "2008.07.31"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 {This game was played in the last round. Being half a point clear of the
+field, I was feeling in an excellent mood. Adding in the fact that I have in
+recent times had an excellent score with white against Grischuk, I did not
+fear any sort of reverse.} d5 {Really, a Slav? Having spent a whole
+pre-tournament training session on the Slav, I had been counting on my
+opponent being cunning enough to chosee some other line.} 2. c4 c6 {Yes!} 3.
+Nc3 Nf6 4. e3 {Given that after 4.Nf3, Sasha plays 4...dxc4, whereas I had
+decided on playing a Meran, the text is the most accurate move-order.} e6 5.
+Nf3 Nbd7 6. Bd3 {Sasha admitted after the game that he had not expected such
+treachery. Previously, I have always played 6.Qc2.} dxc4 7. Bxc4 b5 8. Bd3 Bb7
+9. O-O b4 {A rare move. The usual choice is 9...a6, but it turned out that
+Sasha had showed this to my friend Vova Potkin, something about which he was
+now not so happy.} 10. Ne4 Nxe4 11. Bxe4 Bd6 12. a3 {Not having looked at this
+line at all, I decided to transpose to the line 9.a3.} bxa3 13. b3 {Given that
+the greatest theretician of our galaxy, Kramnik, recently played 13.Nd2 here,
+the text must be considered old-fashioned.} Nf6 14. Nd2 Qc7 {This is what
+Kramnik played against Topalov at Elista.} ({As I anticipated, an active
+player such as my opponent did not go for the line} 14... Nxe4 15. Nxe4 Bxh2+
+16. Kxh2 Qh4+ 17. Kg1 Qxe4 18. f3) 15. Bf3 {It is always nice to play such an
+unhurried move.} Bxh2+ 16. Kh1 Bd6 17. Nc4 Be7 18. Bxa3 O-O {During the game,
+I was convinced that Kramnik had first taken on a3 and only then castled and
+played Qe7. Without thinking too long, I decided to take advantage of my
+opponent's originality. Great was my surprise when, some time later, I
+discovered that it had been I who had first deviated from theory.} 19. Bc5 {
+This excellent move gives Black some problems.} Rfd8 {While my opponent had a
+long think, I realised the advantage of not having a pawn on h2 - one does not
+need to waste a tempo making luft for the king!} 20. b4 {Here I had a choice:
+the simple 20.Qc2 was probably better than the move played in the game, but I
+wanted to regain the pawn.} Bxc5 {In this way, Black activates the Bb7. Other
+continuations are more passive.} 21. bxc5 a5 22. Re1 ({I did not like} 22. Qc1
+{because of the possibility} Ba6 23. Rxa5 Bxc4 24. Rxa8 Rxa8 25. Qxc4 g5 {with
+good play for Black.}) 22... Ba6 {The only move. Black faced the threat of e4,
+and the establishment of the knight on d6.} 23. Nb6 Rab8 {A strange move.} ({
+I considered the correct move to be} 23... Ra7 24. Rxa5 Bb5 25. Rxa7 Qxa7 26.
+Qa1 {with a slightly worse, but very solid position for Black.}) 24. Rxa5 Bb5
+25. Qa1 Nd5 {This is all very natural of course.} 26. Ra7 Rb7 27. Rxb7 Qxb7 28.
+Qa5 {I was pleased with this nice tactic. Now on 28...Nxb6 there is 29.Qxb5.}
+Qe7 (28... Nxb6 29. Qxb5) 29. Ra1 Qg5 {A trappy, but poor move. Black
+threatens the e3-pawn, but this is completely unimportant.} ({A bad endgame
+resulted from} 29... Nc7 30. Qa7 e5 31. d5 cxd5 32. Nxd5 Nxd5 33. Bxd5) ({,
+but after} 29... g6 {it is not easy for White to break through, since the
+ending after} 30. Qa7 Qxa7 31. Rxa7 Nxb6 32. cxb6 Rb8 33. b7 Kg7 {is not
+dangerous.}) 30. Nxd5 {The product of laziness. Ideally, I should have brought
+the queen back first, and only then thought about exchanges, but I did not
+want to have to calculate too many variations.} exd5 31. Qc7 g6 {A decisive
+mistake, which I failed to exploit. The only way to continue the fight was by
+31...Rf8.} 32. Ra7 {Played mechanically and weakly.} (32. Bg4 {with similar
+ideas to the game, wins.}) 32... Qf6 {Mutual blindness.} ({After} 32... Rf8 {
+I would have been forced to find more complicated ways to strengthen the
+position.}) 33. Bg4 {At last. It is hard to stop Bd7, winning a pawn.} Re8 34.
+Kg1 ({Of course not} 34. Bd7 {because} Qxf2 {with perpetual check.}) 34... Kg7
+35. Bd7 Re7 ({More stubborn was} 35... Rf8 {, but after} 36. Qe5 Qxe5 37. dxe5
+{his passivity should prove fatal to Black.}) 36. Qd8 {The rest is easy.} h5 ({
+On} 36... Re4 {White of course plays} 37. Qb8 {and then Ra8.}) 37. Ra8 {The
+rest does not require any commentary.} Kh6 38. Rc8 Kh7 39. Bxc6 Bxc6 40. Rxc6
+Qxc6 41. Qxe7 Kg7 42. Kh2 (42. Kh2 {On} Kg8 {the simplest is} 43. Qd8+ Kg7 44.
+Qb6 {and a new queen soon appears.}) 1-0
+
+[Event "Sochi FIDE GP"]
+[Site "Sochi"]
+[Date "2008.08.14"]
+[Round "13"]
+[White "Navara, David"]
+[Black "Kamsky, Gata"]
+[Result "0-1"]
+[ECO "D87"]
+[WhiteElo "2646"]
+[BlackElo "2723"]
+[PlyCount "80"]
+[EventDate "2008.07.31"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 Na5 11. Bd3 b6 12. Qd2 e5 13. dxe5 Be6 14. Rad1 Nc4
+15. Bxc4 Bxc4 16. f4 Qe7 17. Qc2 Rad8 18. Rfe1 h5 19. Nc1 Qe6 20. Rd2 Bb5 21.
+Nb3 Qc4 22. Bf2 g5 23. Bg3 gxf4 24. Bxf4 Qe6 25. Rd6 Rxd6 26. exd6 Qf6 27. Qf2
+Qxc3 28. e5 Re8 29. Nd2 Bc6 30. h3 Qd3 31. Re3 Qd4 32. Nf1 h4 33. Nh2 Bxe5 34.
+Rxe5 Qa1+ 35. Qf1 Qd4+ 36. Be3 Qxe5 37. Ng4 Qc3 38. Nh6+ Kh8 39. Nxf7+ Kg7 40.
+Bh6+ Kg6 0-1
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "1"]
+[White "David, Vincent"]
+[Black "Algaba, Pedro"]
+[Result "1-0"]
+[ECO "D90"]
+[WhiteElo "2403"]
+[BlackElo "1935"]
+[PlyCount "71"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. Nf3 g6 5. e4 Nf6 6. Nc3 Bg7 7. h3 O-O 8. Be3
+b6 9. Qc2 Ba6 10. O-O-O Bxf1 11. Rhxf1 Nc6 12. d5 Nb4 13. Qa4 a5 14. a3 Na6 15.
+e5 Nd7 16. Bf4 Ndc5 17. Qc2 Qd7 18. Nd4 a4 19. Rfe1 Nb3+ 20. Nxb3 axb3 21. Qxb3
+Qf5 22. Rd4 g5 23. Bg3 Rfc8 24. Qc2 Qd7 25. h4 c5 26. e6 fxe6 27. Rg4 exd5 28.
+Rxg5 Rf8 29. Nxd5 Nb4 30. axb4 Ra1+ 31. Kd2 Rxe1 32. Kxe1 Qe6+ 33. Qe2 Qxe2+
+34. Kxe2 e6 35. Be5 Rf7 36. Nxb6 1-0
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "1"]
+[White "Demuth, Adrien"]
+[Black "Chilin, Dominique"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2315"]
+[BlackElo "1916"]
+[PlyCount "63"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 c6 6. e3 O-O 7. Qc2 Nbd7 8. cxd5
+exd5 9. Bd3 Re8 10. O-O Nf8 11. h3 Ng6 12. Rab1 Nd7 13. Bxe7 Qxe7 14. b4 Ndf8
+15. b5 Nh4 16. Nxh4 Qxh4 17. bxc6 bxc6 18. Ne2 Qg5 19. Nf4 Qh6 20. Bf5 Bxf5 21.
+Qxf5 Re7 22. Rfc1 Qd6 23. Nd3 Rc7 24. Rc3 g6 25. Qe5 Qxe5 26. Nxe5 c5 27. Rxc5
+Rxc5 28. dxc5 f6 29. Nc6 Kf7 30. Rb7+ Ke6 31. Nd4+ Ke5 32. Re7+ 1-0
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "1"]
+[White "Lege, Frederic"]
+[Black "Prodhomme, Boris"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1890"]
+[BlackElo "2151"]
+[PlyCount "65"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. a3 Bd6 5. Bg3 Ne4 6. Bxd6 Nxd6 7. Nbd2 Nd7 8.
+e3 b6 9. Bd3 Bb7 10. c4 O-O 11. O-O Ne4 12. Qc2 Ndf6 13. Ne5 Nxd2 14. Qxd2 c5
+15. dxc5 dxc4 16. Nxc4 Qd5 17. f3 Qxc5 18. b4 Qe7 19. e4 e5 20. Ne3 g6 21. Rfd1
+Rfd8 22. Qe2 Nh5 23. Bc4 Nf4 24. Qf2 Qg5 25. Kh1 Rac8 26. Rxd8+ Rxd8 27. Rd1
+Rxd1+ 28. Nxd1 Qd8 29. Qc2 Qd4 30. g3 Nh3 31. Kg2 Ng5 32. Qd3 Ne6 33. Bxe6 0-1
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "2"]
+[White "Grundman, Norbert"]
+[Black "David, Vincent"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "1962"]
+[BlackElo "2403"]
+[PlyCount "81"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e5 4. d5 Nf6 5. e4 Bd6 6. Bxc4 O-O 7. Nge2 a6 8. a4
+Nbd7 9. O-O Re8 10. Ng3 Nf8 11. Be2 Ng6 12. Be3 Nf4 13. a5 g6 14. Bf3 h5 15.
+Nge2 Ng4 16. Bxg4 hxg4 17. Nxf4 exf4 18. Bd4 Qg5 19. Qd2 f6 20. Rae1 Kf7 21. g3
+Qh5 22. gxf4 Rh8 23. f3 gxf3 24. Rf2 Bh3 25. e5 Qg4+ 26. Kh1 Bg2+ 27. Rxg2
+fxg2+ 28. Qxg2 Qxg2+ 29. Kxg2 Rae8 30. Re3 Bb4 31. Ne4 fxe5 32. fxe5 Ke7 33.
+Rb3 Bxa5 34. Rxb7 Rh4 35. Bc5+ Kd7 36. Nf6+ Kc8 37. Ra7 Rxe5 38. Ra8+ Kb7 39.
+Ra7+ Kc8 40. Ra8+ Kb7 41. Ra7+ 1/2-1/2
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "2"]
+[White "Saucey, Michel"]
+[Black "Chilin, Kevin"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2348"]
+[BlackElo "1964"]
+[PlyCount "71"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bf4 c6 7. e3 Be7 8.
+Bd3 O-O 9. Qc2 Re8 10. O-O Nf8 11. Rab1 Ng6 12. Bg3 Nh5 13. b4 Nxg3 14. hxg3 a6
+15. Rfc1 Bd6 16. Na4 Bg4 17. Nh2 Qg5 18. Nc5 Rab8 19. e4 Bxc5 20. Qxc5 Be6 21.
+e5 Bf5 22. Nf3 Qg4 23. Qc2 Bxd3 24. Qxd3 Ne7 25. a4 Qf5 26. Qd2 f6 27. Nh4 Qg5
+28. Qxg5 fxg5 29. Nf3 Nf5 30. g4 Nh6 31. Nh2 Rbc8 32. f3 Nf7 33. Nf1 Nd8 34.
+Ne3 g6 35. Nxd5 Kf7 36. Nf6 1-0
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "3"]
+[White "Andrieu, Philippe"]
+[Black "Algaba, Solene"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1944"]
+[BlackElo "1964"]
+[PlyCount "79"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. Bd3 Bg6 5. Nf3 e6 6. O-O Bd6 7. Bxd6 cxd6 8.
+Re1 O-O 9. Bxg6 hxg6 10. Nbd2 Nc6 11. c3 b5 12. Qe2 Qb6 13. Ng5 b4 14. cxb4
+Nxb4 15. Rec1 Rfc8 16. a3 Nc6 17. b4 Rab8 18. Rab1 a6 19. Rc2 Na7 20. Rbc1 Rxc2
+21. Rxc2 Nb5 22. Qd3 a5 23. a4 Na7 24. b5 Qd8 25. h4 Nd7 26. Nb3 Nb6 27. Nxa5
+Nxa4 28. Nc6 Nxc6 29. Rxc6 Rb6 30. Qc2 Rxc6 31. bxc6 Nb6 32. c7 Qd7 33. g3 Nc4
+34. Qa4 Qc8 35. Qa7 Kf8 36. Qb8 Nb6 37. Qxb6 Ke7 38. Qb8 Kd7 39. Qxc8+ Kxc8 40.
+Nxf7 1-0
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "3"]
+[White "Grundman, Anatole"]
+[Black "Stephan, Jean Marie"]
+[Result "0-1"]
+[ECO "D86"]
+[WhiteElo "1773"]
+[BlackElo "2209"]
+[PlyCount "100"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 cxd4 10. cxd4 Qa5+ 11. Bd2 Qh5 12. Qb3 O-O 13. Bc3 Qg4 14. O-O
+Qxe4 15. Rad1 Qg4 16. Rfe1 b6 17. Bd5 Bb7 18. Bf3 Qd7 19. Qb2 Na5 20. Bxb7 Nxb7
+21. d5 Bxc3 22. Qxc3 Rac8 23. Qg3 Rc5 24. Nf4 Nd6 25. h4 Nf5 26. Qg4 Qd6 27. h5
+Rc4 28. g3 Qf6 29. hxg6 hxg6 30. Kg2 Nh6 31. Qh3 Kg7 32. d6 exd6 33. Nd5 Qf5
+34. Qxf5 Nxf5 35. Ne3 Nxe3+ 36. Rxe3 Rc6 37. Re7 a5 38. Kf3 Rb8 39. Ke4 Rc2 40.
+Kf3 Rxa2 41. Rxd6 b5 42. Rdd7 Rf8 43. Rb7 b4 44. Rb5 Kf6 45. Reb7 Rc8 46. R7b6+
+Kg7 47. Rb7 Rcc2 48. Ra7 Rxf2+ 49. Kg4 Rf5 50. Rbb7 Ra3 0-1
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "3"]
+[White "Le Goff, Ronan"]
+[Black "Franca, Ricardo Bedin"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "1882"]
+[BlackElo "2287"]
+[PlyCount "100"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. e3 b5 6. b3 Bg4 7. Be2 e6 8. h3 Bf5
+9. O-O h6 10. Bd3 Bb4 11. Bb2 O-O 12. Ne5 Bxd3 13. Qxd3 Nfd7 14. Qe2 Nxe5 15.
+dxe5 Nd7 16. a3 Ba5 17. Na2 bxc4 18. bxc4 Qe7 19. e4 Nb6 20. exd5 cxd5 21. cxd5
+Nxd5 22. Nb4 Bxb4 23. axb4 Qb7 24. Qg4 Qxb4 25. Qxb4 Nxb4 26. Ba3 Rfb8 27. Bxb4
+Rxb4 28. Ra5 Rb5 29. Rfa1 Rxa5 30. Rxa5 Kf8 31. f4 Ke8 32. Kf2 Kd7 33. Ke3 Kc6
+34. Ke4 Kb6 35. Ra2 a5 36. Kd4 Rc8 37. Rb2+ Ka6 38. g4 a4 39. f5 Rc7 40. h4 Rb7
+41. Rg2 Ka5 42. h5 a3 43. Kc3 Ka4 44. f6 gxf6 45. exf6 Rb3+ 46. Kc4 Rb2 47. Rg1
+a2 48. Ra1 Ka3 49. Rd1 Rb1 50. Rd3+ Ka4 0-1
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "4"]
+[White "Grundman, Norbert"]
+[Black "Andrieu, Philippe"]
+[Result "0-1"]
+[ECO "D10"]
+[WhiteElo "1962"]
+[BlackElo "1944"]
+[PlyCount "70"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 c6 4. a4 Bg4 5. f3 Bh5 6. e4 e6 7. Bxc4 Bb4 8. Nge2
+Ne7 9. O-O O-O 10. Bg5 Nd7 11. Ng3 Bg6 12. f4 h6 13. Bh4 Qc7 14. f5 exf5 15.
+exf5 Bh7 16. Qg4 Kh8 17. Nce4 f6 18. Be6 Nd5 19. Nh5 N7b6 20. Rf3 Rae8 21. Bg3
+Qe7 22. Nc5 Bxc5 23. dxc5 Qxc5+ 24. Kh1 Re7 25. Bf2 Qc2 26. Bd4 Nd7 27. Raf1
+Qxa4 28. Ra3 Qc4 29. Qd1 a6 30. Rg3 Ne5 31. Bxe5 fxe5 32. Rg4 Qb5 33. Bxd5 cxd5
+34. f6 gxf6 35. Re1 Rc7 0-1
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "4"]
+[White "Poulain, Yves"]
+[Black "Bosio, Frederic"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "1879"]
+[BlackElo "2099"]
+[PlyCount "74"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 O-O 8.
+Rb1 c5 9. Be2 Nc6 10. d5 Ne5 11. Nd2 f5 12. O-O fxe4 13. Nxe4 Bf5 14. f3 b6 15.
+c4 Qc7 16. Bg5 Ng4 17. fxg4 Bxe4 18. Rb3 Rxf1+ 19. Qxf1 Rf8 20. Qd1 Qe5 21. Be3
+Rd8 22. Bf3 Bxf3 23. gxf3 e6 24. Rd3 exd5 25. cxd5 c4 26. Ra3 Rxd5 27. Qc1 b5
+28. Rxa7 Rd1+ 29. Qxd1 Qxe3+ 30. Kg2 Qxa7 31. Qd8+ Bf8 32. Qd5+ Qf7 33. Qxb5 c3
+34. a4 Qa2+ 35. Kg3 c2 36. Qc6 Qa3 37. Qe6+ Kh8 0-1
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "4"]
+[White "Prodhomme, Boris"]
+[Black "David, Vincent"]
+[Result "1/2-1/2"]
+[ECO "D21"]
+[WhiteElo "2151"]
+[BlackElo "2403"]
+[PlyCount "76"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. e3 cxd4 5. exd4 Be6 6. Nc3 Nf6 7. Ne5 Nc6 8.
+Nxc6 bxc6 9. Qa4 Qd7 10. Bxc4 Bxc4 11. Qxc4 e6 12. Bf4 Be7 13. O-O O-O 14. Rad1
+Qb7 15. Qe2 a5 16. Be5 Rfd8 17. Rd3 Nd7 18. Rh3 Nxe5 19. dxe5 Rab8 20. Qh5 h6
+21. Rg3 Bf8 22. Qxh6 Rd3 23. Qf4 Rxg3 24. fxg3 Qa7+ 25. Kh1 Rxb2 26. Ne4 Rb4
+27. a3 Rd4 28. Qg4 Be7 29. Qf3 Bd8 30. Nd6 f5 31. Qxc6 Qe7 32. h3 Kh7 33. Rb1
+Rd3 34. Qc4 Rxg3 35. Rb7 Qg5 36. Qxe6 Rxg2 37. Qxf5+ Qxf5 38. Nxf5 Rg5 1/2-1/2
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "4"]
+[White "Reed, John"]
+[Black "Le Goff, Ronan"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2020"]
+[BlackElo "1882"]
+[PlyCount "67"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 Be7 7. Bd3 O-O 8.
+Qc2 Re8 9. Nge2 c5 10. O-O b6 11. Bb5 a6 12. Bc6 Rb8 13. Bf4 Rf8 14. Nxd5 Nxd5
+15. Bxd5 Nf6 16. Bxb8 Nxd5 17. Bg3 Nb4 18. Qd2 c4 19. e4 Nd3 20. d5 Bb4 21. Qc2
+b5 22. b3 f5 23. bxc4 fxe4 24. Nd4 Bd7 25. cxb5 axb5 26. Nc6 Qe8 27. Nxb4 Nxb4
+28. Qb3 Nd3 29. f3 Bf5 30. d6+ Kh8 31. fxe4 Qxe4 32. Rad1 Nc5 33. Qd5 Qc2 34.
+d7 1-0
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "4"]
+[White "Saucey, Michel"]
+[Black "Do, Huu Thi"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2348"]
+[BlackElo "2166"]
+[PlyCount "82"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 a6 5. Bd3 g6 6. O-O Bf5 7. Bxf5 gxf5 8. Qb3
+Ra7 9. Nc3 e6 10. c5 Nbd7 11. Bd2 Qc7 12. Qc2 Bg7 13. b4 O-O 14. a4 Ne4 15.
+Rab1 Raa8 16. Rb3 Rfc8 17. Rfb1 Qd8 18. Be1 Qf6 19. Ne2 Bh6 20. Nd2 Qg6 21. f3
+Nxd2 22. Qxd2 Re8 23. f4 b5 24. Ra3 Rac8 25. Bh4 Rc7 26. e4 Qh5 27. Rh3 Bg7 28.
+Bd8 Qxh3 29. gxh3 Rxd8 30. axb5 dxe4 31. b6 Rb7 32. Qa2 Nb8 33. Kf2 Bf6 34. Ke3
+Rbd7 35. Qc4 h6 36. Rg1+ Kf8 37. Ra1 Kg8 38. Qc3 Rc8 39. Qe1 Kh7 40. Rd1 Rcd8
+41. Qc3 Rc8 1/2-1/2
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "5"]
+[White "Bosio, Frederic"]
+[Black "Stephan, Jean Marie"]
+[Result "1/2-1/2"]
+[ECO "D87"]
+[WhiteElo "2099"]
+[BlackElo "2209"]
+[PlyCount "69"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Bc4 Nc6 9. Ne2 O-O 10. O-O Bd7 11. Qd2 Rc8 12. Rfd1 cxd4 13. cxd4 Qa5 14. Rab1
+Qxd2 15. Rxd2 Na5 16. Bd5 b6 17. e5 Nc4 18. Rdd1 e6 19. Bxc4 Rxc4 20. Rdc1 Rfc8
+21. Rxc4 Rxc4 22. Rc1 Rxc1+ 23. Bxc1 Bf8 24. Nc3 Bc6 25. f3 f6 26. exf6 Kf7 27.
+Ne4 Bxe4 28. fxe4 Kxf6 29. g4 Bb4 30. Kf2 b5 31. h4 Ke7 32. Ke2 h5 33. gxh5
+gxh5 34. Bg5+ Kf7 35. Kd3 1/2-1/2
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "5"]
+[White "Demuth, Adrien"]
+[Black "Prodhomme, Boris"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2315"]
+[BlackElo "2151"]
+[PlyCount "67"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. e3 g6 8. Be2
+Bg7 9. O-O O-O 10. h3 Nxf4 11. exf4 b6 12. cxb6 Qxb6 13. Rc1 Bh6 14. Na4 Qc7
+15. g3 f6 16. Kg2 Qd6 17. Qc2 Bb7 18. Rce1 e6 19. b4 Rae8 20. Nc5 Nxc5 21. bxc5
+Qc7 22. Rb1 Bc8 23. Rb6 Bg7 24. Bxa6 e5 25. Bxc8 Rxc8 26. fxe5 fxe5 27. dxe5
+Bxe5 28. Qe2 Bg7 29. Re1 Bc3 30. Qe6+ Kh8 31. Re3 Rfe8 32. Qxe8+ Rxe8 33. Rxe8+
+Kg7 34. Re6 1-0
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "6"]
+[White "Daniel, Jean Claude"]
+[Black "Chilin, Kevin"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "1883"]
+[BlackElo "1964"]
+[PlyCount "116"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 e6 4. f4 Bd6 5. Nf3 Nbd7 6. O-O O-O 7. Ne5 Ne4 8.
+Bxe4 dxe4 9. Nd2 f5 10. Ndc4 Nxe5 11. Nxe5 b6 12. c4 Bb7 13. b3 Rf6 14. d5 exd5
+15. cxd5 Rh6 16. Rf2 Bc5 17. g4 fxg4 18. Qxg4 Bc8 19. Qd1 Be6 20. b4 Bf8 21.
+Rd2 Bf7 22. Nxf7 Kxf7 23. Qb3 Bd6 24. Bb2 Qh4 25. Rf1 Rg6+ 26. Kh1 Qh3 27. Rdf2
+Kg8 28. Be5 Rf8 29. Bxd6 Rxd6 30. Rg1 Rff6 31. Rg3 Qd7 32. Rfg2 g6 33. Qc3 Rf5
+34. Qd4 Rdxd5 35. Qxe4 Rd1+ 36. Rg1 Qd5 37. Qxd5+ Rfxd5 38. e4 Rxg1+ 39. Rxg1
+Rd4 40. Rc1 Rxe4 41. Rxc7 Re1+ 42. Kg2 Re2+ 43. Kg3 Rxa2 44. h4 a5 45. bxa5
+bxa5 46. Kg4 h6 47. Rc8+ Kf7 48. Rc7+ Ke6 49. Rc6+ Kd5 50. Rxg6 Rg2+ 51. Kf5
+Rxg6 52. Kxg6 a4 53. f5 a3 54. f6 a2 55. f7 a1=Q 56. f8=Q Qa6+ 57. Qf6 Qxf6+
+58. Kxf6 h5 1/2-1/2
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "6"]
+[White "Franca, Ricardo Bedin"]
+[Black "David, Vincent"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2287"]
+[BlackElo "2403"]
+[PlyCount "37"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nf3 Qb6 6. Qb3 c4 7. Qc2 Bf5 8. Qc1
+Nh5 9. Bg3 Nxg3 10. hxg3 h6 11. Nbd2 e6 12. Be2 Qa5 13. O-O Be7 14. Re1 O-O 15.
+Bd1 b5 16. a4 Qc7 17. e4 dxe4 18. Nxe4 Rfd8 19. Bc2 1/2-1/2
+
+[Event "Pornic op"]
+[Site "Pornic"]
+[Date "2008.08.??"]
+[Round "6"]
+[White "Prodhomme, Boris"]
+[Black "Andrieu, Philippe"]
+[Result "1-0"]
+[ECO "D25"]
+[WhiteElo "2151"]
+[BlackElo "1944"]
+[PlyCount "101"]
+[EventDate "2008.08.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4 5. Bxc4 e6 6. Nbd2 Bb4 7. Qa4+ Nc6 8.
+Ne5 Bxd2+ 9. Bxd2 O-O 10. Nxc6 bxc6 11. Qxc6 Bf5 12. f3 Rb8 13. b3 Rb6 14. Qa4
+e5 15. dxe5 Nd7 16. e4 Nc5 17. Qa5 Nxe4 18. fxe4 Qh4+ 19. Kd1 Qxe4 20. Qc3 Qxg2
+21. Re1 Rd8 22. Kc1 Rc6 23. Re2 Qg6 24. Qg3 Qh5 25. Qg5 Qxg5 26. Bxg5 Rd4 27.
+Rd2 Rxd2 28. Kxd2 h6 29. Be3 a5 30. Rf1 Bg6 31. Bd5 Rc2+ 32. Kd1 Rxa2 33. Rf2
+Ra1+ 34. Kd2 Bh5 35. Kc3 Re1 36. Bd4 Rc1+ 37. Rc2 Re1 38. Kc4 Bg6 39. Ra2 Rc1+
+40. Bc3 Bh5 41. Rxa5 Rd1 42. Ra8+ Kh7 43. Be4+ Bg6 44. Bxg6+ Kxg6 45. Ra2 Kf5
+46. Rg2 g5 47. Rf2+ Kg4 48. Rxf7 Rd8 49. e6 Kh5 50. e7 Re8 51. Bb4 1-0
+
+[Event "BUL-ROM (Women)"]
+[Site "Kozloduy"]
+[Date "2008.08.02"]
+[Round "2"]
+[White "Craciun, Paula"]
+[Black "Vladimirova, Maria"]
+[Result "1-0"]
+[ECO "D42"]
+[WhiteElo "2151"]
+[BlackElo "2009"]
+[PlyCount "65"]
+[EventDate "2008.08.01"]
+[EventType "schev"]
+[EventRounds "4"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Nc6 7. cxd5 Nxd5 8.
+Bd3 Be7 9. O-O O-O 10. Re1 Nxc3 11. bxc3 Bf6 12. Qe2 g6 13. h4 Bxh4 14. Bh6 Re8
+15. Nxh4 Qxh4 16. Qd2 Qd8 17. Qf4 f6 18. Re3 Qe7 19. Rae1 Qf7 20. Bc4 Na5 21.
+Bb5 Rd8 22. Rf3 a6 23. Bd3 f5 24. g4 Bd7 25. Qg5 Re8 26. Rfe3 Rac8 27. gxf5
+exf5 28. Re7 Rxe7 29. Rxe7 Re8 30. Rxf7 Re1+ 31. Kh2 Kxf7 32. Qd8 Bc6 33. d5
+1-0
+
+[Event "Badalona op 34th"]
+[Site "Badalona"]
+[Date "2008.08.01"]
+[Round "1"]
+[White "Albero Figueras, Emilio"]
+[Black "Cuartas, Jaime Alexander"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2089"]
+[BlackElo "2495"]
+[PlyCount "62"]
+[EventDate "2008.08.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+

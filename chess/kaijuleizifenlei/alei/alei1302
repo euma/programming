@@ -1,0 +1,600 @@
+[BlackElo "1996"]
+[PlyCount "65"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 c5 4. g3 Bg7 5. Bg2 O-O 6. O-O Nc6 7. d4 cxd4 8.
+Nxd4 Nxd4 9. Qxd4 d6 10. Qd3 Bf5 11. e4 Be6 12. b3 Nd7 13. Bb2 a5 14. f4 Nc5
+15. Qd2 Qd7 16. Rae1 a4 17. f5 gxf5 18. exf5 Bxf5 19. Nd5 Be6 20. Nb6 Qd8 21.
+Nxa8 Bxb2 22. Qxb2 Nd3 23. Qd2 Nxe1 24. Bxb7 Qb8 25. Be4 Qa7+ 26. Kh1 Rxa8 27.
+Rxe1 Rc8 28. Qh6 Qd4 29. Bxh7+ Kh8 30. Rxe6 Qa1+ 31. Kg2 Qb2+ 32. Kh3 Qg7 33.
+Bf5+ 1-0
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Basagic, Zlatko"]
+[Black "Narayanan, Srinath"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2337"]
+[BlackElo "2220"]
+[PlyCount "47"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 e6 6. Nge2 Nge7 7. Nf4 Rb8 8. O-O
+O-O 9. a3 a6 10. Rb1 b5 11. cxb5 axb5 12. b4 cxb4 13. axb4 d5 14. d4 Nf5 15.
+Nd3 Nd6 16. Ra1 h5 17. Qb3 Nc4 18. Rd1 Qb6 19. Nc5 Rd8 20. Bb2 Bb7 21. Ne2 Ra8
+22. Nf4 Rxa1 23. Rxa1 Ra8 24. Rxa8+ 1/2-1/2
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Capaliku, Aleks"]
+[Black "Heikkila, Antti"]
+[Result "1-0"]
+[ECO "A02"]
+[WhiteElo "2114"]
+[BlackElo "1993"]
+[PlyCount "52"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. f4 b6 2. Nf3 Bb7 3. e3 Nf6 4. b3 e6 5. Bb2 Be7 6. d4 O-O 7. Bd3 Nd5 8. Qe2
+Nb4 9. O-O Nxd3 10. Qxd3 f5 11. Nbd2 d6 12. c4 Nd7 13. g3 Nf6 14. d5 exd5 15.
+Qxf5 Ne4 16. Qe6+ Kh8 17. cxd5 Nc5 18. Qg4 Bf6 19. Bxf6 Qxf6 20. e4 Qc3 21. Qh4
+Nd3 22. Ng5 h6 23. Ndf3 Rf6 24. e5 dxe5 25. fxe5 Rxf3 26. Nxf3 Nxe5 1-0
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Mufic, Goran"]
+[Black "Sikanjic, Bojan"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[WhiteElo "2298"]
+[BlackElo "2177"]
+[PlyCount "20"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. b3 c5 2. Bb2 Nc6 3. f4 d5 4. e3 a6 5. Nf3 Nf6 6. Ne5 Qc7 7. Be2 e6 8. O-O
+Be7 9. d3 O-O 10. Nd2 Nd7 1/2-1/2
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Rukavina, Josip"]
+[Black "De Val, Daniele"]
+[Result "1/2-1/2"]
+[ECO "A42"]
+[WhiteElo "2414"]
+[BlackElo "2233"]
+[PlyCount "120"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 g6 2. e4 Bg7 3. d4 d6 4. Nc3 e5 5. Nge2 Nc6 6. Be3 Nh6 7. d5 Ne7 8. f3 f5
+9. Qd2 f4 10. Bf2 g5 11. c5 g4 12. O-O-O Nf7 13. Kb1 Ng5 14. Qd3 h5 15. Rc1 Bd7
+16. Rc2 h4 17. fxg4 Bxg4 18. h3 Bd7 19. Nc1 dxc5 20. Bxc5 O-O 21. d6 cxd6 22.
+Qxd6 Nc6 23. Bc4+ Kh7 24. Nb3 Rf6 25. Qd1 Be6 26. Rd2 Qe8 27. Bxe6 Nxe6 28. Qg4
+Rh6 29. Nb5 Qg6 30. Nd6 Nxc5 31. Nxc5 Qxg4 32. hxg4 Bf8 33. Ncxb7 Rb8 34. Rc1
+Nd4 35. Rc7+ Kg8 36. Rd7 Rh7 37. Rxh7 Kxh7 38. Rd3 Kg6 39. Rc3 Ne6 40. Rc6 Nd4
+41. Ra6 f3 42. gxf3 Nxf3 43. Nf5+ Kg5 44. Nbd6 Kxg4 45. Nc4 Kf4 46. Rg6 h3 47.
+Rg3 h2 48. Rh3 Kxe4 49. Nh4 Nxh4 50. Rxh4+ Kf3 51. Rxh2 e4 52. Rh5 Bg7 53. Kc2
+Rh8 54. Rf5+ Ke2 55. Rg5 Bd4 56. Rd5 Be3 57. b4 Bf2 58. a4 Rc8 59. Kb3 e3 60.
+b5 Kf1 1/2-1/2
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Samuelli, Daniele"]
+[Black "Raykhman, Alexander"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "1931"]
+[BlackElo "2267"]
+[PlyCount "176"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d6 2. e4 c5 3. g3 Nc6 4. Bg2 Nf6 5. d3 g6 6. O-O Bg7 7. Re1 O-O 8. c3 e5
+9. d4 cxd4 10. cxd4 Bg4 11. d5 Nd4 12. h3 Nxf3+ 13. Bxf3 Bxh3 14. Bg5 h6 15.
+Kh2 Bd7 16. Bxf6 Bxf6 17. Kg2 Rc8 18. Bg4 Bxg4 19. Qxg4 Rc2 20. Na3 Rxb2 21.
+Nc4 Rc2 22. Ne3 Rc7 23. Rh1 Bg7 24. Rh2 Qd7 25. Qh4 Rfc8 26. Rah1 Rc3 27. Ng4
+h5 28. Ne3 Qa4 29. Kf3 Qd7 30. Kg2 Qa4 31. Kf3 Bh6 32. Re1 Qd7 33. g4 Bxe3 34.
+fxe3 Qxg4+ 35. Qxg4 hxg4+ 36. Kxg4 Rc2 37. Rh6 Rxa2 38. Reh1 Rcc2 39. Kg5 Kf8
+40. R6h3 b6 41. Kh6 a5 42. Kh7 a4 43. Kh8 b5 44. Rh7 Ke7 45. Rf1 Rc8+ 46. Kg7
+Re8 47. Rc1 Kd7 48. Rb1 Re7 49. Kf8 Rc2 50. Rxb5 Rc8+ 51. Kg7 f5+ 52. Kxg6 Rxh7
+53. Kxh7 fxe4 54. Ra5 Rc5 55. Ra7+ Ke8 56. Kg6 Rxd5 57. Kf5 Rd3 58. Ke6 Kd8 59.
+Rxa4 Kc7 60. Rxe4 Rc3 61. Kd5 Kd7 62. Ra4 Ke7 63. Ra7+ Kf6 64. Kxd6 Rd3+ 65.
+Kc5 Kf5 66. Kc4 Ke4 67. Rh7 Rd8 68. Re7 Rc8+ 69. Kb4 Rc1 70. Re8 Rc2 71. Kb3
+Rc7 72. Kb4 Rc6 73. Kb5 Rc3 74. Kb4 Rxe3 75. Kc4 Ra3 76. Rf8 Ke3 77. Re8 e4 78.
+Re7 Ra1 79. Re8 Ra7 80. Kc3 Rc7+ 81. Kb2 Kf3 82. Rf8+ Ke2 83. Re8 e3 84. Kb3
+Kd2 85. Rd8+ Ke1 86. Re8 e2 87. Kb2 Rf7 88. Kc2 Kf1 0-1
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Stantic, Severino"]
+[Black "Suc, Timothy"]
+[Result "1-0"]
+[ECO "A90"]
+[WhiteElo "2024"]
+[BlackElo "1833"]
+[PlyCount "67"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 d5 5. d4 c6 6. b3 Bd6 7. O-O Qe7 8. Bb2 O-O
+9. Qc1 b6 10. Ba3 Bb7 11. Bxd6 Qxd6 12. Qb2 c5 13. dxc5 bxc5 14. cxd5 exd5 15.
+e3 Nc6 16. Nc3 Rad8 17. Rfd1 Ne5 18. Ne1 Rfe8 19. Rac1 Rc8 20. Qa3 a6 21. Na4
+Nfd7 22. Rc2 Rc7 23. Rcd2 Nf6 24. Nc3 Rd8 25. Nd3 Nc6 26. Qxc5 Qd7 27. Nxd5
+Nxd5 28. Nf4 Nce7 29. Qa5 Rf8 30. Nxd5 Nxd5 31. Bxd5+ Bxd5 32. Rxd5 Qc8 33. Rd6
+Rc6 34. Qd5+ 1-0
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Zucchelli, Massimo"]
+[Black "Cherin, Diego"]
+[Result "0-1"]
+[ECO "A81"]
+[WhiteElo "2150"]
+[BlackElo "2287"]
+[PlyCount "74"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c3 Bg7 5. Qb3 c6 6. Nh3 e6 7. Nd2 O-O 8. O-O
+Kh8 9. e4 d5 10. exf5 exf5 11. Nf3 Ne4 12. Nf4 b6 13. h4 Bf6 14. Re1 a5 15. Nd3
+a4 16. Qc2 c5 17. Bh6 Re8 18. Nde5 Be6 19. Qd3 Qc8 20. a3 Ra7 21. Bf1 Qd8 22.
+Qe3 c4 23. Bg2 Bg8 24. Qf4 Be6 25. Ng5 Bg7 26. Bxg7+ Kxg7 27. f3 Nxg5 28. hxg5
+Rae7 29. Qh4 Kg8 30. f4 Qd6 31. Kf2 Nd7 32. Nxg6 hxg6 33. Rh1 Rg7 34. Rae1 Kf7
+35. Re3 Nf8 36. Rhe1 Rh7 37. Rxe6 Rxe6 0-1
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.02"]
+[Round "4"]
+[White "De Val, Daniele"]
+[Black "Palac, Mladen"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2233"]
+[BlackElo "2587"]
+[PlyCount "102"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 Qb6 5. Qc1 f5 6. g3 Bg7 7. c3 Na6 8. Bg2
+Nc7 9. Nd2 d6 10. Nh3 Bd7 11. Nf4 Bh6 12. Qc2 Qa6 13. Qd3 Bxf4 14. gxf4 Qxd3
+15. exd3 Rg8 16. Bf3 e6 17. Nc4 exd5 18. Nxd6+ Ke7 19. Nxb7 Rab8 20. Nxc5 Rxb2
+21. Kf1 Rc2 22. Re1+ Be6 23. d4 Rxc3 24. Re3 Rc1+ 25. Re1 Rc3 26. Re3 Rc1+ 27.
+Re1 Rxe1+ 28. Kxe1 Rb8 29. Nb3 Bd7 30. Kd2 Kd6 31. Bh5 Ba4 32. Kc3 Bxb3 33.
+axb3 Nb5+ 34. Kd3 Rc8 35. Bxf7 Rc3+ 36. Kd2 Rxb3 37. Ra1 Rb4 38. Ra6+ Ke7 39.
+Bg8 Rxd4+ 40. Ke3 Kf8 41. Bxh7 Re4+ 42. Kf3 Nd4+ 43. Kg3 Re1 44. Rxa7 Rg1+ 45.
+Kh3 Rg7 46. Ra8+ Kf7 47. Rh8 Rg1 48. Rd8 Ne6 49. Rd7+ Ke8 50. Ra7 Nxf4+ 51. Kh4
+Rg4# 0-1
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.02"]
+[Round "4"]
+[White "Milazzo, Mario"]
+[Black "Basagic, Zlatko"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "2010"]
+[BlackElo "2337"]
+[PlyCount "100"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e5 5. e3 f5 6. Nge2 Nc6 7. d4 Nf6 8. d5 Ne7
+9. Rb1 h5 10. h4 O-O 11. b4 a5 12. a3 axb4 13. axb4 Ng4 14. Qb3 Bh6 15. f4 e4
+16. Bh3 Bg7 17. Bxg4 fxg4 18. Bb2 Nf5 19. Kf2 Re8 20. Nb5 Bd7 21. Bxg7 Nxg7 22.
+Nbd4 Kh7 23. Ra1 Qf6 24. Qc3 Qf7 25. b5 b6 26. Ra3 Rac8 27. Ra7 Rf8 28. Rha1
+Qe7 29. Kg2 Qd8 30. Rb7 Rb8 31. Rxb8 Qxb8 32. Qa3 Qd8 33. Qa7 Ne8 34. Qb7 Qf6
+35. Ra8 Kg8 36. Qb8 Ng7 37. Qxf8+ Qxf8 38. Rxf8+ Kxf8 39. Nc3 Bf5 40. Nb3 Ne8
+41. Nd2 Nf6 42. Kf2 Ke7 43. Ke2 Ke8 44. Kd1 Ke7 45. Kc2 Nd7 46. Nb3 Nc5 47.
+Nxc5 dxc5 48. Ne2 Kf6 49. Kc3 Ke7 50. Kb3 Kd6 1/2-1/2
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.02"]
+[Round "4"]
+[White "Scalcione, Michelangelo"]
+[Black "Srebrnic, Vojko"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2398"]
+[BlackElo "2214"]
+[PlyCount "61"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. b3 Nf6 3. Bb2 Nc6 4. e3 e6 5. Bb5 Qc7 6. O-O Be7 7. a4 O-O 8. Nc3
+b6 9. Bxc6 Qxc6 10. Ne5 Qb7 11. d3 d6 12. Nc4 Bd7 13. Nb5 Ne8 14. Qg4 e5 15.
+Qg3 a6 16. Nc3 f6 17. e4 Nc7 18. Ne3 Rfd8 19. f4 Be6 20. Rae1 b5 21. fxe5 dxe5
+22. Ncd5 Nxd5 23. exd5 Bxd5 24. Nf5 Bf8 25. Bc3 Kh8 26. h4 Be6 27. h5 Bxf5 28.
+Rxf5 Qd7 29. Qg4 h6 30. Rexe5 fxe5 31. Rxf8+ 1-0
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.02"]
+[Round "4"]
+[White "Sikanjic, Bojan"]
+[Black "Rukavina, Josip"]
+[Result "0-1"]
+[ECO "A28"]
+[WhiteElo "2177"]
+[BlackElo "2414"]
+[PlyCount "38"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 d5 5. cxd5 Nxd5 6. Qc2 Be7 7. a3 O-O 8.
+Bb5 Nxc3 9. bxc3 Qd5 10. c4 Qe6 11. d3 Qg6 12. Kf1 Bd7 13. Bb2 f6 14. c5 Kh8
+15. Rd1 Rad8 16. h4 Nb4 17. Qc4 Bxb5 18. Qxb5 Nxd3 19. h5 Qe8 0-1
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Bosiocic, Marin"]
+[Black "Tiviakov, Sergei"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2540"]
+[BlackElo "2645"]
+[PlyCount "96"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. g3 Nf6 4. d3 g6 5. Bg2 Nc6 6. O-O Bg7 7. Nbd2 O-O 8. a4
+e5 9. Nc4 h6 10. b3 Be6 11. Bb2 Qc7 12. Re1 Rad8 13. Re2 Rfe8 14. Qf1 a6 15.
+Bh3 Bxh3 16. Qxh3 b5 17. axb5 axb5 18. Na3 Qb7 19. c4 bxc4 20. bxc4 Qb3 21. Ne1
+Ra8 22. Qf1 Nd4 23. Bxd4 exd4 24. Nac2 Rxa1 25. Nxa1 Qd1 26. Ra2 d5 27. cxd5
+Nxd5 28. Ng2 Qxf1+ 29. Kxf1 Nc3 30. Rb2 Ra8 31. Nc2 Nxe4 32. Rb5 c4 33. dxe4 d3
+34. Nge3 dxc2 35. Nxc2 Ra2 36. Ne3 Bd4 37. Rb8+ Kg7 38. Rc8 c3 39. Ke1 Bxe3 40.
+fxe3 Rxh2 41. Rxc3 Rg2 42. Kf1 Rxg3 43. Kf2 Rg5 44. Kf3 h5 45. Kf4 Rg1 46. e5
+h4 47. Rc2 g5+ 48. Kf5 h3 0-1
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Capaliku, Aleks"]
+[Black "Samuelli, Daniele"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "2114"]
+[BlackElo "1931"]
+[PlyCount "62"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. f4 Nf6 2. Nf3 d5 3. e3 Bg4 4. b3 e6 5. Bb2 Nbd7 6. h3 Bh5 7. Be2 Ne4 8. O-O
+Ng3 9. Rf2 Nf6 10. Nd4 Nxe2+ 11. Nxe2 Ne4 12. g4 Nxf2 13. Kxf2 Qh4+ 14. Kg2 Bg6
+15. Ng3 h5 16. g5 f6 17. gxf6 gxf6 18. Nc3 O-O-O 19. Nce2 Rg8 20. Qe1 Bf5 21.
+Ng1 e5 22. Kh2 Be4 23. d3 exf4 24. exf4 Bh7 25. Qe6+ Kb8 26. N1e2 Bg7 27. Rf1
+Bh8 28. Rf3 Rge8 29. Qf7 Bf5 30. Ng1 Bg4 31. Rf1 Re3 0-1
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Kragelj, Igor"]
+[Black "Milazzo, Mario"]
+[Result "1/2-1/2"]
+[ECO "A87"]
+[WhiteElo "2228"]
+[BlackElo "2010"]
+[PlyCount "51"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O d6 6. c4 O-O 7. Nc3 Qe8 8. d5 a5
+9. Rb1 Na6 10. b3 Bd7 11. Bb2 c6 12. a3 Nc7 13. dxc6 bxc6 14. c5 d5 15. Na4 Bc8
+16. Ne5 Bb7 17. e3 e6 18. f4 Ra7 19. Nb6 Qe7 20. Qc2 Ng4 21. Nxg4 fxg4 22. Rfe1
+Bc8 23. e4 Bxb2 24. Rxb2 Qf6 25. e5 Qe7 26. Bf1 1/2-1/2
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Mufic, Goran"]
+[Black "Scalcione, Michelangelo"]
+[Result "1/2-1/2"]
+[ECO "A41"]
+[WhiteElo "2298"]
+[BlackElo "2398"]
+[PlyCount "134"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d6 2. d4 Bg4 3. c3 e6 4. Bg5 Be7 5. Bxe7 Qxe7 6. e4 Nf6 7. Nbd2 O-O 8.
+Qc2 e5 9. dxe5 dxe5 10. Be2 Nbd7 11. O-O a5 12. Rfe1 Nc5 13. Bf1 Rfd8 14. h3
+Bh5 15. Nh4 Rxd2 16. Qxd2 Nfxe4 17. Qe3 Qxh4 18. b4 axb4 19. cxb4 Ne6 20. Qxe4
+Qxe4 21. Rxe4 f6 22. a4 Bf7 23. Re3 Nd4 24. Rc3 c6 25. a5 Kf8 26. f4 Ke7 27. b5
+Kd6 28. fxe5+ fxe5 29. b6 Bd5 30. a6 bxa6 31. Rxa6 Rb8 32. Kf2 Ne6 33. Rc1 Nc5
+34. Ra7 Nd7 35. Rb1 g5 36. Be2 h6 37. Kg3 Nf6 38. Rg7 Ne4+ 39. Kh2 Nc3 40. Rb2
+Nxe2 41. Rxe2 Rxb6 42. Rg6+ Kc5 43. Rxh6 Kd4 44. Rd2+ Kc4 45. Kg3 e4 46. Kf2
+Rb3 47. Rc2+ Kd3 48. Re2 Kd4 49. Rd2+ Rd3 50. Ke2 Kc3 51. Rd1 Kc2 52. Ra1 Rd2+
+53. Ke3 Rd3+ 54. Ke2 Rg3 55. Kf2 Rc3 56. Re1 Rd3 57. Re2+ Kc3 58. Re1 Kd4 59.
+Ke2 Re3+ 60. Kf2 Ra3 61. Rd1+ Rd3 62. Ke2 c5 63. Rg6 Bb3 64. Rd6+ Bd5 65. Rxd5+
+Kxd5 66. Rxd3+ exd3+ 67. Kxd3 c4+ 1/2-1/2
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Rukavina, Josip"]
+[Black "Narayanan, Srinath"]
+[Result "0-1"]
+[ECO "A13"]
+[WhiteElo "2414"]
+[BlackElo "2220"]
+[PlyCount "68"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. b3 d4 5. Bg2 Nc6 6. O-O e5 7. d3 Bc5 8. b4 Nxb4
+9. Nxe5 O-O 10. a3 Na6 11. Nd2 Re8 12. Nef3 Bd7 13. Bb2 Bc6 14. Ra2 Qd6 15. Re1
+Bb6 16. Qa1 Nc5 17. Kf1 Ng4 18. Kg1 Ba5 19. Bxd4 Bxf3 20. exf3 Rxe1+ 21. Qxe1
+Nxd3 22. Qa1 Ngxf2 23. Nb3 Re8 24. Bxf2 Nxf2 25. Nxa5 Nd3 26. Bf1 Qc5+ 27. Kg2
+Ne1+ 28. Kh1 Nxf3 29. Be2 Qf2 30. Bxf3 Re1+ 31. Qxe1 Qxe1+ 32. Kg2 Qxa5 33.
+Bxb7 Qc5 34. Rd2 Kf8 0-1
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Stantic, Severino"]
+[Black "Sikanjic, Bojan"]
+[Result "0-1"]
+[ECO "A16"]
+[WhiteElo "2024"]
+[BlackElo "2177"]
+[PlyCount "64"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 c6 6. O-O d6 7. Qc2 e5 8. b4
+Re8 9. Rb1 d5 10. d3 h6 11. Nd2 Be6 12. Bb2 Nh5 13. Na4 a5 14. a3 axb4 15. axb4
+Bg4 16. Rfe1 dxc4 17. Nc5 b6 18. Nce4 Bxe2 19. Ra1 Bxd3 20. Qc1 Rxa1 21. Bxa1
+f5 22. Nc3 b5 23. Nd1 Qd6 24. Bc3 Nd7 25. Qa3 Nb6 26. Qa7 Nd5 27. Bd4 Qe7 28.
+Bxd5+ cxd5 29. Qxe7 Rxe7 30. Bc5 Rd7 31. Nc3 d4 32. Nxb5 c3 0-1
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Vitri, Sergio"]
+[Black "Heikkila, Antti"]
+[Result "0-1"]
+[ECO "A74"]
+[WhiteElo "2132"]
+[BlackElo "1993"]
+[PlyCount "66"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c5 2. d5 g6 3. c4 Bg7 4. Nc3 Nf6 5. Nf3 O-O 6. e4 d6 7. Be2 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Nbd7 11. Bg5 h6 12. Bh4 Re8 13. Nd2 Rb8 14. Qc2 g5 15.
+Bg3 Ne5 16. Bxe5 Rxe5 17. Nc4 Re8 18. a5 Qe7 19. Rfe1 Nh7 20. Bd3 Nf8 21. Na4
+Ng6 22. Nab6 Bd4 23. Ne3 Ne5 24. Nxc8 Rbxc8 25. Nf5 Qf6 26. Rab1 c4 27. Bf1 Bc5
+28. b4 Ba7 29. b5 axb5 30. Rxb5 Nd3 31. Re2 Nf4 32. Rxb7 Nxe2+ 33. Qxe2 Qxf5
+0-1
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Zucchelli, Massimo"]
+[Black "Suc, Timothy"]
+[Result "1/2-1/2"]
+[ECO "A81"]
+[WhiteElo "2150"]
+[BlackElo "1833"]
+[PlyCount "42"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nh3 d5 5. O-O c6 6. Nd2 Bd6 7. Nf3 O-O 8. Nf4
+b6 9. Nd3 Bb7 10. Bf4 c5 11. e3 Nc6 12. c3 Ne4 13. Bxd6 Qxd6 14. Nfe5 Nxe5 15.
+Nxe5 Ng5 16. f4 Nf7 17. Nxf7 Rxf7 18. h4 a5 19. Rf2 Ba6 20. Rc1 Rc7 21. Qd2 Rb8
+1/2-1/2
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.04"]
+[Round "6"]
+[White "Cherin, Diego"]
+[Black "Fercec, Nenad"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "2287"]
+[BlackElo "2486"]
+[PlyCount "155"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+O-O Nc6 9. a4 Na5 10. Ba2 c5 11. d4 Qc7 12. Be3 b6 13. Qe2 Bb7 14. e5 e6 15.
+Nd2 Rac8 16. dxc5 Qxe5 17. cxb6 axb6 18. Rab1 Rxc3 19. Rxb6 Bc6 20. Rb4 Qd6 21.
+Rb6 Qe5 22. Rb4 Rd8 23. Nf3 Qh5 24. Rfb1 Be5 25. Rh4 Bxf3 26. Rxh5 Bxe2 27.
+Rxe5 Nc6 28. Rc5 Ra3 29. Rxc6 Rxa2 30. Bb6 Rb8 31. Rbc1 Rxa4 32. Rc8+ Rxc8 33.
+Rxc8+ Kg7 34. h3 g5 35. Rd8 e5 36. Rd6 h6 37. Bd8 Rf4 38. Rd5 f6 39. Rd6 Kf7
+40. f3 Bc4 41. Rd7+ Ke6 42. Rh7 Rh4 43. Kh2 Kf5 44. Bb6 Kg6 45. Rc7 Bf1 46. Rc6
+Rb4 47. Kg1 Rb1 48. Kf2 Bb5 49. Rd6 Rb2+ 50. Kg1 Rb4 51. Bd8 Rf4 52. Rb6 Bc4
+53. Rb4 Rd4 54. Bc7 Rd1+ 55. Kh2 Bd5 56. Rb6 Kf7 57. Bd8 Be6 58. Rb7+ Kg6 59.
+Be7 Rd2 60. Kg1 Bd5 61. Rb6 Kf7 62. Bxf6 e4 63. fxe4 Bxe4 64. g4 Rg2+ 65. Kf1
+Rg3 66. Bd4 Rxh3 67. Rf6+ Ke7 68. Rb6 Bf3 69. Bg7 h5 70. gxh5 g4 71. Kf2 Rxh5
+72. Bf6+ Kf7 73. Bd4 Rh2+ 74. Kg3 Rg2+ 75. Kf4 Re2 76. Kg3 Rg2+ 77. Kf4 Bd5 78.
+Rb2 1/2-1/2
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.04"]
+[Round "6"]
+[White "De Val, Daniele"]
+[Black "Vrhovnik, Damir"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2233"]
+[BlackElo "1996"]
+[PlyCount "59"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Bg5 d6 3. Bxf6 exf6 4. e3 Be7 5. g3 O-O 6. Bg2 Nc6 7. Ne2 Re8 8.
+O-O Bf5 9. c4 Qd7 10. Nf4 Bf8 11. Nc3 Rab8 12. Qa4 a6 13. b4 Ne7 14. Qb3 Ng6
+15. Nxg6 hxg6 16. Rfc1 g5 17. c5 Bh3 18. Bh1 f5 19. Qc4 f4 20. exf4 gxf4 21. c6
+bxc6 22. Bxc6 Qg4 23. Nd5 fxg3 24. hxg3 Re6 25. Bd7 c6 26. Bxe6 fxe6 27. Nf4 d5
+28. Qxc6 Rxb4 29. Re1 Rxd4 30. Nxh3 1-0
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.04"]
+[Round "6"]
+[White "Kragelj, Igor"]
+[Black "Basagic, Zlatko"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "2228"]
+[BlackElo "2337"]
+[PlyCount "40"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 g6 2. c4 Bg7 3. e4 e6 4. Nc3 Ne7 5. Nf3 O-O 6. Be2 d5 7. cxd5 exd5 8. e5
+Bg4 9. O-O Nbc6 10. Ng5 Bxe2 11. Nxe2 h6 12. Nf3 Qd7 13. Bd2 f6 14. exf6 Rxf6
+15. Qb3 Raf8 16. Rab1 Rxf3 17. gxf3 Nf5 18. Kh1 Nfxd4 19. Nxd4 Nxd4 20. Qd3
+Nxf3 0-1
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]
+[Date "2008.09.04"]
+[Round "6"]
+[White "Milazzo, Mario"]
+[Black "Znidarcic, Andrej"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2010"]
+[BlackElo "2218"]
+[PlyCount "37"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e6 2. Nf3 d5 3. b3 Nf6 4. Bb2 Be7 5. g3 O-O 6. Bg2 Nbd7 7. O-O b6 8. Nc3
+Bb7 9. e3 Ne4 10. Qe2 Bf6 11. Rac1 Nxc3 12. Bxc3 Bxc3 13. Rxc3 dxc4 14. bxc4 c5
+15. d4 Qc7 16. Nh4 Bxg2 17. Nxg2 Nf6 18. Qf3 Rad8 19. Rd1 1/2-1/2
+
+[Event "Trieste op 50th"]
+[Site "Trieste"]

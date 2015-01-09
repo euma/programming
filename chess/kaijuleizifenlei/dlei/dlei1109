@@ -1,0 +1,600 @@
+[WhiteElo "2579"]
+[BlackElo "2552"]
+[PlyCount "107"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Nbd7 5. Bg5 c6 6. e3 Qa5 7. Nd2 dxc4 8.
+Bxf6 Nxf6 9. Nxc4 Qc7 10. Rc1 Be7 11. a3 O-O 12. Be2 Rd8 13. b4 Bd7 14. O-O Be8
+15. Qb3 Rac8 16. Rfd1 b6 17. Bf3 c5 18. dxc5 bxc5 19. b5 Nd7 20. Bc6 Rb8 21.
+Rb1 Nb6 22. Rxd8 Rxd8 23. Bxe8 Rxe8 24. g3 Rd8 25. Ne4 h5 26. h4 Qb7 27. Qc2
+Qd5 28. Ned2 g5 29. hxg5 Bxg5 30. Nxb6 axb6 31. Nc4 h4 32. f4 Bf6 33. g4 Qf3
+34. g5 Bg7 35. Rf1 Qb7 36. Kh2 Rd5 37. Kh3 Qc7 38. Qe4 Qd8 39. g6 Rd1 40. Rxd1
+Qxd1 41. Qa8+ Bf8 42. gxf7+ Kxf7 43. Ne5+ Kg8 44. Qc8 Qh1+ 45. Kg4 Qg2+ 46.
+Kxh4 Qh2+ 47. Kg5 Qh6+ 48. Kg4 Qf6 49. Kg3 Kh7 50. a4 Qg7+ 51. Kf3 Qh6 52. Kg2
+Qg7+ 53. Kf2 Qh6 54. Nf3 1-0
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Mohr, Georg"]
+[Black "Fahrner, Kurt"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2494"]
+[BlackElo "2285"]
+[PlyCount "49"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 Bf5 4. c4 c6 5. Nc3 e6 6. Nh4 Bg4 7. Qb3 Nbd7 8. h3
+Bh5 9. g4 Ne4 10. Nxe4 Qxh4 11. Nc3 Bxg4 12. Qxb7 Rd8 13. Rg1 Bf5 14. cxd5 cxd5
+15. e4 Rb8 16. Qc7 Bb4 17. exf5 O-O 18. a3 Bxc3+ 19. bxc3 Qe4+ 20. Be2 Rb1 21.
+Qg3 g6 22. fxg6 hxg6 23. f3 Rxc1+ 24. Rxc1 Qe3 25. Qg5 1-0
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Pilaj, Herwig"]
+[Black "Stanec, Nikolaus"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2389"]
+[BlackElo "2538"]
+[PlyCount "62"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. cxd5 Nxd5 8.
+Nxd5 exd5 9. Bd3 c5 10. O-O c4 11. Bc2 Nc6 12. b3 Ba6 13. bxc4 Bxc4 14. Bd3 Na5
+15. Ne5 Bxd3 16. Nxd3 Rc8 17. Qa4 Rc3 18. Qb5 Qe8 19. Qxe8 Rxe8 20. Rfd1 Ba3
+21. Bg3 Nc4 22. Rab1 a6 23. Bc7 Rc8 24. Bg3 Rc2 25. Ra1 b5 26. Nc5 a5 27. Rab1
+Bxc5 28. dxc5 Rxc5 29. e4 Nd2 30. Bd6 Nxb1 31. Bxc5 Nc3 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Radicevic, Mirko"]
+[Black "Pachta, Paul"]
+[Result "0-1"]
+[ECO "D41"]
+[WhiteElo "2022"]
+[BlackElo "2312"]
+[PlyCount "63"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. e3 d5 5. Nf3 Nc6 6. a3 cxd4 7. exd4 Be7 8. cxd5
+Nxd5 9. Bc4 O-O 10. O-O a6 11. Qd3 b5 12. Nxd5 exd5 13. Ba2 Bf6 14. h3 g6 15.
+Bh6 Re8 16. Rfe1 Bf5 17. Rxe8+ Qxe8 18. Qe3 Be4 19. Rc1 Qd7 20. Bg5 Bg7 21. Re1
+Re8 22. b4 Re6 23. Rf1 h6 24. Bf4 Bxf3 25. Qxf3 Nxd4 26. Qg4 f5 27. Qh4 Ne2+
+28. Kh1 Re4 29. Rd1 Nxf4 30. Qxf4 Rxf4 31. Rxd5 Qxd5 32. Bxd5+ 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Schriebl, Alexander"]
+[Black "Buzeti, Jernej"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2088"]
+[BlackElo "2175"]
+[PlyCount "74"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. e3 Nbd7 8. Nxc4
+Bb4 9. Bd3 Bg6 10. O-O a5 11. f3 c5 12. Nd6+ Kf8 13. Ncb5 cxd4 14. exd4 Bxd6
+15. Nxd6 Qb6 16. Nb5 Ne5 17. Bxg6 hxg6 18. Bf4 Ned7 19. Bd6+ Kg8 20. Rc1 Nd5
+21. Re1 N7f6 22. Qd2 Rd8 23. Be5 Ne8 24. Bg3 Nef6 25. Rc4 Qa6 26. Rec1 Nb6 27.
+Rc5 Nxa4 28. Nc7 Qb6 29. Qxa5 Rxd4 30. Qxb6 Nxb6 31. Rb5 Nbd7 32. Rxb7 Kh7 33.
+Bf2 Rd6 34. b4 Rc8 35. Bc5 Rc6 36. Be3 Rxc1+ 37. Bxc1 Nd5 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Zoebisch, Herbert"]
+[Black "Kreisl, Robert"]
+[Result "0-1"]
+[ECO "D47"]
+[WhiteElo "2133"]
+[BlackElo "2337"]
+[PlyCount "76"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bd6 9. Ne4 Nxe4 10. Bxe4 Bb7 11. O-O a6 12. b3 Nf6 13. Bd3 c5 14. Bb2 Rc8 15.
+Rc1 O-O 16. Qe2 cxd4 17. Nxd4 Rxc1 18. Rxc1 Qa8 19. f3 Rc8 20. Rxc8+ Qxc8 21.
+Qc2 Qb8 22. f4 h6 23. Nc6 Qc7 24. Ne5 Qxc2 25. Bxc2 Bc5 26. Bd4 Bxd4 27. exd4
+Be4 28. Bxe4 Nxe4 29. Nd3 Nc3 30. Nb4 a5 31. Nc6 a4 32. bxa4 bxa4 33. Nb4 Ne2+
+34. Kf2 Nxf4 35. g3 Nd5 36. Nxd5 exd5 37. Ke3 g5 38. g4 Kg7 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.04"]
+[Round "6"]
+[White "Matosec, Thomas"]
+[Black "Schrey, Stefan"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2038"]
+[BlackElo "2165"]
+[PlyCount "78"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. d4 c5 3. c4 e6 4. g3 Nc6 5. cxd5 exd5 6. Bg2 Nf6 7. O-O Be7 8. Nc3
+O-O 9. dxc5 d4 10. Na4 Bf5 11. Bf4 Be4 12. Rc1 Qd5 13. Qb3 Qxb3 14. axb3 Rad8
+15. Rfd1 Bd5 16. Nd2 Bxg2 17. Kxg2 Nd5 18. Nc4 Nxf4+ 19. gxf4 g5 20. f5 Kg7 21.
+e3 Kf6 22. Nd6 Bxd6 23. cxd6 Kxf5 24. Nc5 Rxd6 25. Nxb7 Rd7 26. Rc5+ Ne5 27.
+Na5 d3 28. Nc6 f6 29. Nd4+ Kg6 30. b4 g4 31. b5 h5 32. h4 Re8 33. Kg3 Kf7 34.
+Rc3 Kg6 35. Nc6 Kf5 36. Rc5 Kg6 37. Rc3 Kf5 38. Rc5 Kg6 39. Rc3 Kf5 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.04"]
+[Round "6"]
+[White "Thalmeier, Bernd"]
+[Black "Westermayer, Johann2"]
+[Result "1-0"]
+[ECO "D76"]
+[WhiteElo "2065"]
+[BlackElo "1815"]
+[PlyCount "46"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. g3 d5 3. c4 g6 4. Bg2 Bg7 5. d4 O-O 6. cxd5 Nxd5 7. O-O Nc6 8.
+Nc3 Nb6 9. e3 Re8 10. b3 e5 11. dxe5 Nxe5 12. Nxe5 Bxe5 13. Bb2 c6 14. Qe2 Qe7
+15. Rfd1 Bg7 16. Ne4 Nd5 17. Bxg7 Kxg7 18. Qb2+ Kg8 19. Rxd5 f5 20. Nf6+ Kf7
+21. Nxe8 cxd5 22. Qh8 Qxe8 23. Bxd5+ Be6 1-0
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.04"]
+[Round "6"]
+[White "Wiedermann, Daniel"]
+[Black "Hess, Christian Mathias"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[WhiteElo "2156"]
+[BlackElo "2235"]
+[PlyCount "77"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 a6 7. e3 Bg4 8. Be2
+e6 9. Rc1 Be7 10. O-O O-O 11. h3 Bh5 12. a3 Rc8 13. b4 a5 14. b5 Nb8 15. g4 Bg6
+16. Qb3 Nbd7 17. Na4 Ne4 18. Rfd1 Bh4 19. Rf1 Bxf2+ 20. Kg2 Qe7 21. b6 f5 22.
+g5 h6 23. h4 hxg5 24. hxg5 Bh5 25. Rxc8 Rxc8 26. Rxf2 Nxf2 27. Kxf2 Rc1 28. Qb2
+Rc8 29. Bb5 Bxf3 30. Kxf3 e5 31. Bxd7 exf4 32. Bxc8 Qxe3+ 33. Kg2 Qg3+ 34. Kf1
+Qf3+ 35. Ke1 Qh1+ 36. Kf2 Qh2+ 37. Kf1 Qh1+ 38. Kf2 Qh2+ 39. Kf1 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.05"]
+[Round "7"]
+[White "Ebner, Hubert"]
+[Black "Cojhter, Karel"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2251"]
+[BlackElo "2095"]
+[PlyCount "81"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c6 4. e3 Be6 5. a4 Nf6 6. Na3 g6 7. Nxc4 Bg7 8. Be2
+c5 9. O-O Nc6 10. dxc5 Qxd1 11. Rxd1 Ne4 12. Nd4 Bxc4 13. Bxc4 O-O-O 14. Bd2
+Nxd4 15. exd4 Rxd4 16. Bc3 Rxd1+ 17. Rxd1 Nxc3 18. bxc3 e6 19. Bb5 a6 20. Be2
+Kc7 21. Rd3 Re8 22. g4 h6 23. Rf3 Re7 24. Rf4 Kc6 25. Rc4 Kd5 26. Rb4 Kxc5 27.
+Bf3 b5 28. axb5 Bxc3 29. Rb3 Kc4 30. Rb1 axb5 31. Be2+ Kd4 32. Rxb5 Ke4 33. Kg2
+Rd7 34. Rb3 Rc7 35. h3 Kf4 36. Bf3 Bd4 37. Rb7 Rxb7 38. Bxb7 e5 39. Bd5 f5 40.
+gxf5 Kxf5 41. f3 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.05"]
+[Round "7"]
+[White "Gross, Michael"]
+[Black "Kunschek, Horst"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2083"]
+[BlackElo "2023"]
+[PlyCount "71"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. c4 c6 5. Nc3 e6 6. Qb3 Qc8 7. Nf3 Be7 8. h3
+O-O 9. Rc1 Nbd7 10. Be2 dxc4 11. Bxc4 Nb6 12. Be2 Ne4 13. Nxe4 Bxe4 14. O-O Qd8
+15. a3 Rc8 16. Rfd1 Bd6 17. Bxd6 Qxd6 18. Ng5 Bg6 19. Bf3 h6 20. Ne4 Qe7 21.
+Nc5 Rb8 22. Nd3 Nd7 23. Qc3 Nf6 24. Qc5 Qxc5 25. Nxc5 Rfd8 26. b4 Nd7 27. Nxd7
+Rxd7 28. Rc5 Rbd8 29. Rdc1 Kf8 30. g3 Bd3 31. a4 Ke7 32. Bg2 Bg6 33. f4 f6 34.
+Kf2 Be8 35. Be4 Rd6 36. a5 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.05"]
+[Round "7"]
+[White "Krumpacnik, Domen"]
+[Black "Kreisl, Robert"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2376"]
+[BlackElo "2337"]
+[PlyCount "81"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 c6 3. Bf4 Nf6 4. e3 Bf5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nbd7 8.
+O-O Be7 9. h3 O-O 10. Nh4 Be4 11. Nxe4 Nxe4 12. Nf3 Bd6 13. Ne5 Qc7 14. Qc2
+Nef6 15. Nxd7 Nxd7 16. Bxd6 Qxd6 17. Rfd1 Rfd8 18. Qb3 Nb6 19. Be2 e5 20. Bf3
+exd4 21. Rxd4 Qe7 22. Rb4 Rab8 23. Rc1 g6 24. a4 Rd3 25. Rc3 Rxc3 26. bxc3 Qc5
+27. Rf4 Nd5 28. Bxd5 Qxd5 29. c4 Qe6 30. Qd3 Re8 31. Rd4 Re7 32. Rd8+ Re8 33.
+Qd4 Rxd8 34. Qxd8+ Kg7 35. Qd4+ Kg8 36. e4 b6 37. f4 c5 38. Qd5 Qe8 39. f5 gxf5
+40. exf5 Kg7 41. Kh2 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.05"]
+[Round "7"]
+[White "Polansek, Justin"]
+[Black "Wallner, Dieter"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "2081"]
+[BlackElo "2128"]
+[PlyCount "185"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. g3 Nf6 5. Bg2 Nc6 6. Nf3 e6 7. O-O Bd6 8. Bg5
+h6 9. Bxf6 Qxf6 10. Nc3 Qd8 11. Re1 f5 12. e3 O-O 13. Nd2 Bd7 14. a3 Rc8 15.
+Qf3 Ne7 16. Rec1 a5 17. Qd1 b5 18. Bf1 Rb8 19. b3 b4 20. axb4 Bxb4 21. Ra2 Nc8
+22. Na4 Nd6 23. Nc5 Rc8 24. Rac2 Qe8 25. Nf3 Bb5 26. Ne5 Bxf1 27. Qxf1 Ba3 28.
+Ra1 Bb4 29. Qa6 Ne4 30. Qb6 Bc3 31. Rac1 Rxc5 32. dxc5 Bxe5 33. f4 Bf6 34. c6
+Qb8 35. Qb7 Qc8 36. Ra2 Nc3 37. Rd2 Qxb7 38. cxb7 Rb8 39. Rdc2 Rxb7 40. Rxc3
+Bxc3 41. Rxc3 Kf7 42. h3 Kf6 43. Kf2 Rb6 44. Rd3 Rc6 45. Kf3 Rc2 46. g4 g6 47.
+Kg3 g5 48. Kf3 Rc5 49. Kg3 e5 50. fxe5+ Kxe5 51. gxf5 Kxf5 52. Kf3 h5 53. Rd4
+Ke5 54. Ra4 Rb5 55. Ra3 d4 56. Ke2 Kd5 57. exd4 Kxd4 58. Kd2 Kc5 59. Kc3 Kb6
+60. Ra1 Rf5 61. Rg1 h4 62. Kb2 Kb5 63. Ka3 Kc5 64. Rg4 Kb5 65. Re4 Rd5 66. Rg4
+Kc6 67. Kb2 Kd6 68. Re4 Re5 69. Ra4 Ke6 70. Kc2 Rd5 71. Re4+ Kf5 72. Rg4 Re5
+73. Ra4 Rd5 74. Rg4 Rb5 75. Ra4 Kg6 76. Rc4 Rb4 77. Rc6+ Kh5 78. Ra6 Rb5 79.
+Ra8 Kg6 80. Rd8 Kf5 81. Rd4 Re5 82. Ra4 Kf6 83. Kd3 Rb5 84. Kc3 Rf5 85. Kc2
+Rf2+ 86. Kc1 Rf3 87. Kc2 Rxh3 88. Rxa5 Re3 89. b4 g4 90. Rh5 h3 91. b5 Re5 92.
+Rh6+ Kg5 93. Rb6 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.05"]
+[Round "7"]
+[White "Radicevic, Mirko"]
+[Black "Westermayer, Johann2"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "2022"]
+[BlackElo "1815"]
+[PlyCount "48"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Bc4 Nb6 8.
+Bd3 N8d7 9. Qc2 e5 10. dxe5 Nxe5 11. Nxe5 Bxe5 12. b3 Nd5 13. Bb2 Nxc3 14. Bxc3
+Bxc3+ 15. Qxc3 Qe7 16. O-O Be6 17. Rac1 c6 18. f3 f5 19. Rfe1 Qg7 20. Qc5 Rfd8
+21. Bb1 Rd5 22. Qa3 a6 23. e4 Rd2 24. Qb4 Qb2 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.05"]
+[Round "7"]
+[White "Schachinger, Mario"]
+[Black "Fauland, Peter"]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[WhiteElo "2314"]
+[BlackElo "2229"]
+[PlyCount "18"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 Nbd7 6. e3 Be7 7. Bd3 h6 8. Bh4
+O-O 9. O-O dxc4 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.05"]
+[Round "7"]
+[White "Schnider, Gert"]
+[Black "Pilaj, Herwig"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[WhiteElo "2286"]
+[BlackElo "2389"]
+[PlyCount "38"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg6 10. e4 O-O 11. e5 Nd5 12. Nxd5 cxd5 13. Bd3 Rc8 14. Ng5 Be7 15.
+h4 Qb6 16. Bb5 Nb8 17. Be3 Bxg5 18. a5 Qc7 19. Bxg5 Qc2 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.05"]
+[Round "7"]
+[White "Schriebl, Alexander"]
+[Black "Zoebisch, Herbert"]
+[Result "1/2-1/2"]
+[ECO "D24"]
+[WhiteElo "2088"]
+[BlackElo "2133"]
+[PlyCount "37"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 e6 8. axb5
+Bb4 9. Qc2 Nb6 10. Qe4 Qd5 11. Qg4 axb5 12. Rxa8 Qxa8 13. Qxg7 Qa1 14. Qxh8+
+Kd7 15. Kd1 Bxc3 16. bxc3 Qa4+ 17. Ke1 Qa1 18. Kd1 Qa4+ 19. Ke1 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.06"]
+[Round "8"]
+[White "Boehmer, Ernst"]
+[Black "Frosch, Ronald"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2171"]
+[BlackElo "2220"]
+[PlyCount "78"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 g6 4. e3 Bg7 5. Nbd2 O-O 6. Bd3 c5 7. c3 Nc6 8. O-O
+Nh5 9. Bg5 Qc7 10. dxc5 e5 11. e4 dxe4 12. Bxe4 h6 13. Bh4 f5 14. Bd5+ Kh7 15.
+Nc4 e4 16. Nd4 Ne5 17. Bg3 Nxg3 18. hxg3 Qxc5 19. Nb3 Qe7 20. Nxe5 Bxe5 21. Qe2
+Be6 22. Rfd1 Rad8 23. Bxe6 Qxe6 24. Nc5 Qc6 25. Nb3 h5 26. Rac1 Qb6 27. Nd4
+Bxd4 28. Rxd4 Rxd4 29. cxd4 Rd8 30. Qd2 Rxd4 31. Qf4 Rd7 32. Qe5 Qd6 33. Qe8
+Qe7 34. Qb8 e3 35. Rc8 e2 36. Rh8+ Kg7 37. Rg8+ Kf7 38. Rh8 e1=Q+ 39. Kh2 Qe8
+0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.06"]
+[Round "8"]
+[White "Diermair, Andreas"]
+[Black "Meglitsch, Konstantin"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2388"]
+[BlackElo "1964"]
+[PlyCount "43"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Bd3
+g6 9. O-O dxc4 10. Bxc4 Qe7 11. Rc1 Bg7 12. Ne4 O-O 13. Bb3 Rd8 14. Qc2 Rb8 15.
+Rfd1 Re8 16. h3 Rd8 17. Qd2 Kh7 18. Qa5 Ra8 19. Qc7 Bf8 20. Nd6 Rb8 21. Nxf7
+Re8 22. Bxe6 1-0
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.06"]
+[Round "8"]
+[White "Gross, Michael"]
+[Black "Vilits, Andreas"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "2083"]
+[BlackElo "2037"]
+[PlyCount "62"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c6 4. c4 e6 5. Nc3 Bd6 6. Bxd6 Qxd6 7. Nf3 Nbd7 8.
+cxd5 exd5 9. Bd3 O-O 10. O-O Re8 11. Qc2 Nf8 12. Rab1 Ng6 13. h3 Nh5 14. Bf5
+Nf6 15. b4 Be6 16. b5 Rec8 17. Ng5 cxb5 18. Nxe6 fxe6 19. Bxg6 hxg6 20. Rxb5 b6
+21. Qd3 Qa3 22. Rb3 Qa5 23. Rc1 Kf7 24. f3 Rc6 25. Rb2 Rac8 26. Rbc2 Qa3 27.
+Kf2 a6 28. Ke2 b5 29. Nb1 Qxc1 30. Rxc1 Rxc1 31. Nd2 R8c3 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.06"]
+[Round "8"]
+[White "Krumpacnik, Domen"]
+[Black "Kozul, Zdenko"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "2376"]
+[BlackElo "2579"]
+[PlyCount "30"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 c5 7. c3 Qb6 8. Rb1
+Nc6 9. O-O Re8 10. b4 cxb4 11. cxb4 a5 12. bxa5 Qxa5 13. Nb3 Qa3 14. Nc5 Qxa2
+15. Bxf6 Bxf6 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.06"]
+[Round "8"]
+[White "Matosec, Thomas"]
+[Black "Zoebisch, Herbert"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2038"]
+[BlackElo "2133"]
+[PlyCount "99"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. g3 c6 5. Bg2 Nbd7 6. a4 a5 7. O-O Nb6 8. Ne5
+e6 9. Na3 Bxa3 10. Rxa3 Nfd5 11. e4 Nb4 12. Qh5 O-O 13. g4 Nd3 14. Nxd3 cxd3
+15. Rxd3 g6 16. Qh6 f6 17. f4 f5 18. b3 Rf7 19. gxf5 exf5 20. Rg3 Qf8 21. Qg5
+fxe4 22. Bxe4 Bf5 23. Ba3 Qg7 24. Bxf5 Rxf5 25. Qxf5 gxf5 26. Re1 Nd5 27. Re5
+Nxf4 28. Rxg7+ Kxg7 29. Rxf5 Nd5 30. Kf2 Re8 31. Re5 Rxe5 32. dxe5 Kg6 33. Ke2
+Kf5 34. Bd6 b5 35. b4 bxa4 36. bxa5 a3 37. Bxa3 Kxe5 38. Kd3 Nc7 39. Kc4 Na6
+40. Bb2+ Ke4 41. Bf6 h5 42. h4 Kf5 43. Bd8 Ke4 44. Bb6 Ke5 45. Bd4+ Ke4 46. Bc3
+Ke3 47. Bb4 Ke4 48. Bd6 Ke3 49. Be5 Ke4 50. Bd4 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.06"]
+[Round "8"]
+[White "Westermayer, Johann2"]
+[Black "Neubauer, Anton"]
+[Result "0-1"]
+[ECO "D01"]
+[WhiteElo "1815"]
+[BlackElo "1997"]
+[PlyCount "46"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 c6 4. Nf3 h6 5. Bh4 Bf5 6. e3 Nbd7 7. Bd3 Bxd3 8.
+cxd3 e6 9. O-O Be7 10. e4 g5 11. Bg3 Nh5 12. e5 Qb6 13. Rb1 Ng7 14. Ne2 Nf5 15.
+h3 Nf8 16. Bh2 Ng6 17. g4 Ng7 18. Nd2 h5 19. Kg2 Nh4+ 20. Kg1 hxg4 21. hxg4
+O-O-O 22. Bg3 Qa5 23. a3 Qxd2 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.06"]
+[Round "8"]
+[White "Wiedermann, Daniel"]
+[Black "Teuschler, Hugo"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2156"]
+[BlackElo "2088"]
+[PlyCount "43"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2 dxc4 8.
+Bxc4 b5 9. Bd3 Bb7 10. e4 e5 11. O-O O-O 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. h3 a6
+15. Be3 Re8 16. Ne2 c5 17. Bxc5 Bxe4 18. Rad1 Qc7 19. b4 Rad8 20. Bxe4 Nxe4 21.
+Rxd8 Qxd8 22. Rd1 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.07"]
+[Round "9"]
+[White "Frosch, Ronald"]
+[Black "Zupe, Miran"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "2220"]
+[BlackElo "2346"]
+[PlyCount "140"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 g6 4. c4 Bg7 5. Nc3 O-O 6. cxd5 Nxd5 7. Be2 c5 8. e4

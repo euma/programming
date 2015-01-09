@@ -1,0 +1,600 @@
+[ECO "B30"]
+[WhiteElo "2101"]
+[BlackElo "2323"]
+[PlyCount "169"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. Bb5 Nge7 5. O-O a6 6. Bxc6 Nxc6 7. d3 Be7 8.
+Be3 b5 9. e5 Qc7 10. Bf4 h6 11. Ne4 Bb7 12. Bg3 Nd4 13. Nxd4 cxd4 14. Qe2 Qc6
+15. f4 Rc8 16. Rac1 Qd5 17. a3 f5 18. exf6 gxf6 19. f5 e5 20. Bh4 Rc6 21. Rf3
+Qf7 22. Rg3 d5 23. Nd2 Bc8 24. Qf3 h5 25. Rg6 Bf8 26. Nb3 Rh6 27. Na5 Rd6 28.
+Rg3 Qh7 29. Rf1 Qc7 30. b4 Rh7 31. Qe2 Kf7 32. Rh3 Kg8 33. Be1 Qf7 34. Kh1 Rd7
+35. Rff3 Qe8 36. Nb3 Rde7 37. Bh4 Rh6 38. Rf1 Qc6 39. Rg3+ Rg7 40. Rxg7+ Kxg7
+41. Be1 Kf7 42. Rf3 Bd7 43. Rh3 Bxf5 44. Rxh5 Rxh5 45. Qxh5+ Bg6 46. Qe2 Bd6
+47. g4 f5 48. gxf5 Bxf5 49. Bg3 Kf6 50. Bh4+ Kg6 51. Bg3 Bc7 52. Qg2 Kh7 53.
+Qe2 Bg6 54. Nxd4 Qf6 55. Nb3 Qf5 56. Nd2 Bh5 57. Qe3 Qg4 58. Kg2 Qd1 59. c3 Bb6
+60. d4 exd4 61. cxd4 Qe2+ 62. Qxe2 Bxe2 63. Be5 Kg6 64. Kf2 Bd1 65. Ke3 Bd8 66.
+Nb1 Bg5+ 67. Bf4 Bd8 68. Nc3 Bb3 69. Ne2 Bc4 70. Ng3 a5 71. bxa5 Bxa5 72. Bd6
+Bc3 73. Bc5 Kg5 74. Ne2 Ba5 75. Nf4 Kg4 76. Ne6 Bc3 77. Bd6 Bb2 78. Bc5 Bc1+
+79. Kf2 Kf5 80. Nd8 Bf4 81. h3 Bc7 82. Nb7 Ke6 83. Bb4 Bd3 84. Na5 Bf5 85. h4
+0-1
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.28"]
+[Round "6"]
+[White "Namyslo, Holger"]
+[Black "Guski, Dietmar"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2309"]
+[BlackElo "2123"]
+[PlyCount "103"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. c3 f5 12. exf5 Bxf5 13. Nc2 O-O 14. Nce3
+Be6 15. Bd3 f5 16. Bc2 Ne7 17. Nxe7+ Qxe7 18. Bxf5 Bxf5 19. Nxf5 Qf6 20. g4
+Rad8 21. Qd5+ Kh8 22. h3 Bh6 23. Rd1 Bf4 24. Qe4 d5 25. Rxd5 Rxd5 26. Qxd5 Rd8
+27. Qe4 Bc1 28. Qc2 Bd2+ 29. Ke2 Qc6 30. f3 Qc4+ 31. Kf2 Rd3 32. Kg2 Qd5 33.
+Nd4 e4 34. Rf1 Be3 35. Kh1 exf3 36. Nxf3 Bh6 37. Qg2 Bg7 38. Ng1 Qxg2+ 39. Kxg2
+Rd2+ 40. Rf2 Rd1 41. Nf3 a5 42. Rd2 Rxd2+ 43. Nxd2 Be5 44. Kf3 b4 45. cxb4 axb4
+46. Nc4 Bf6 47. Ke4 Kg7 48. a4 bxa3 49. bxa3 Kg6 50. a4 Kg5 51. a5 Be7 52. Kd5
+1-0
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.28"]
+[Round "6"]
+[White "Rupp, Michael"]
+[Black "Reuss, Andreas"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2277"]
+[BlackElo "2340"]
+[PlyCount "104"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Bf4 e6 6. Nd2 Nge7 7. Ngf3 Ng6 8. Bg3
+Bxc5 9. Bd3 f6 10. Nb3 Bb6 11. c3 Ngxe5 12. Nxe5 Nxe5 13. Bxe5 fxe5 14. Qh5+ g6
+15. Bxg6+ Kd7 16. Bd3 Qf6 17. O-O-O Kc7 18. f3 Bd7 19. Rhe1 Rag8 20. Bf1 Rg5
+21. Qh4 Qf4+ 22. Qxf4 exf4 23. Kb1 Re8 24. Nc1 Bf2 25. Re2 Bg1 26. h3 a5 27.
+Rc2 Ba4 28. b3 Bc6 29. c4 dxc4 30. Bxc4 Be3 31. Bf1 Rd8 32. Rxd8 Kxd8 33. Bd3
+h5 34. Bc4 e5 35. Bd3 h4 36. Re2 Rg7 37. Be4 Bxe4+ 38. fxe4 Rd7 39. Kb2 Rd4 40.
+Kc2 Ke7 41. Nd3 Rxe4 42. Nf2 Rd4 43. Ng4 Ke6 44. Nxe3 Re4 45. Kd2 Rxe3 46. Rf2
+Kf5 47. Rf1 Rg3 48. Rf2 e4 49. Kc2 e3 50. Re2 Ke4 51. a3 Rxh3 52. gxh3 f3 0-1
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.29"]
+[Round "7"]
+[White "Guski, Dietmar"]
+[Black "Kabisch, Thilo"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[WhiteElo "2123"]
+[BlackElo "2245"]
+[PlyCount "154"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+f5 9. exf5 Bxf5 10. Bd3 Be6 11. O-O Nf6 12. Nc2 O-O 13. Ne3 Rc8 14. Bf5 Bxf5
+15. Nxf5 Qd7 16. Nxe7+ Nxe7 17. Qd3 Qc6 18. Bg5 h6 19. Bxf6 Rxf6 20. b3 b5 21.
+Ne4 Rg6 22. Rfd1 bxc4 23. bxc4 Nf5 24. Ng3 Nh4 25. Qd5+ Qxd5 26. cxd5 Rg4 27.
+Rab1 Rc2 28. Rb6 Rd4 29. Rf1 e4 30. Rxd6 e3 31. Re6 Rxa2 32. Rxe3 Rxd5 33. Rfe1
+Rdd2 34. R3e2 a5 35. Rxd2 Rxd2 36. Ra1 Rd5 37. Kf1 Re5 38. Ra4 g5 39. Ne4 Kf7
+40. Nd6+ Ke6 41. Nb7 Rb5 42. Nxa5 Rb1+ 43. Ke2 Nxg2 44. Nc4 Re1+ 45. Kd2 Re4
+46. Ra6+ Ke7 47. Kd3 Rh4 48. Ne5 Nf4+ 49. Kd2 Rh3 50. Ng6+ Nxg6 51. Rxg6 Kf7
+52. Ra6 g4 53. Ke2 h5 54. Kf1 Rxh2 55. Kg1 Rh3 56. Kg2 Kg7 57. Ra7+ Kg6 58.
+Ra6+ Kg5 59. Ra5+ Kh4 60. Rb5 Rf3 61. Ra5 Rf7 62. Rb5 Rg7 63. Ra5 Rg8 64. Rb5
+Rg5 65. Rb8 Ra5 66. Rg8 Ra2 67. Rg7 Ra3 68. Rg8 Ra5 69. Rg7 Rg5 70. Ra7 Rg8 71.
+Ra5 Rd8 72. Rb5 Rd6 73. Ra5 Rd8 74. Rb5 Rg8 75. Ra5 Rg5 76. Ra8 Rc5 77. Rg8 Rc3
+1/2-1/2
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.29"]
+[Round "7"]
+[White "Hirneise, Jens"]
+[Black "Reuss, Andreas"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2251"]
+[BlackElo "2340"]
+[PlyCount "53"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 Qb6 5. Ngf3 e6 6. Be2 c5 7. c3 cxd4 8. Nxd4
+Bg6 9. Qa4+ Nd7 10. N2b3 a6 11. Be3 Qd8 12. f4 Be4 13. O-O Ne7 14. Nd2 Nf5 15.
+Nxf5 exf5 16. Nxe4 dxe4 17. g4 g6 18. Rad1 Qc7 19. gxf5 gxf5 20. e6 fxe6 21.
+Bh5+ Kd8 22. Kh1 Qc6 23. Qxc6 bxc6 24. Bd4 Rg8 25. Bf7 c5 26. Be5 Ke7 27. Rxd7+
+1-0
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.29"]
+[Round "7"]
+[White "Schmidt, Olaf"]
+[Black "Rupp, Michael"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2181"]
+[BlackElo "2277"]
+[PlyCount "50"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. h4 d6 7. h5 e5 8. a3 a5
+9. a4 Ng8 10. Bg5 Be7 11. Bxe7 Qxe7 12. Qd2 Nh6 13. Na3 O-O 14. Nc4 Qc7 15.
+O-O-O f6 16. Ne3 Be6 17. Nh4 Qd7 18. Rdf1 d5 19. f4 d4 20. Nc4 Bxc4 21. dxc4
+Ng4 22. Nf5 exf4 23. Qxf4 Ne5 24. Rh3 Kh8 25. Rg3 Rf7 1/2-1/2
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.30"]
+[Round "8"]
+[White "Guski, Dietmar"]
+[Black "Kracke, Moritz"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2123"]
+[BlackElo "2082"]
+[PlyCount "115"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. g3 fxe4 12. Bg2 Bg7 13. Bxe4 O-O 14. Ne3 Qd7
+15. Nf5 Nd4 16. Nxd4 d5 17. Bf5 Qe8 18. Bxh7+ Kxh7 19. Qh5+ Kg8 20. Nf5 Bxf5
+21. Qxf5 b4 22. Nb1 Qe6 23. Qxe6 fxe6 24. O-O e4 25. c3 Rab8 26. a3 bxc3 27.
+Nxc3 Rxb2 28. Rac1 Rc8 29. Na4 Rxc1 30. Rxc1 Rd2 31. Nc5 Bd4 32. Nxe6 Bxf2+ 33.
+Kf1 Be3 34. Rc7 Rf2+ 35. Ke1 d4 36. Rc8+ Kf7 37. Rf8+ Kxe6 38. Rxf2 Bxf2+ 39.
+Kxf2 Kf5 40. h3 a5 41. a4 Ke5 42. Ke2 e3 43. Kf3 Kd5 44. h4 Kc4 45. h5 Kd3 46.
+h6 e2 47. h7 e1=Q 48. h8=Q Qe4+ 49. Kf2 Kd2 50. Qg8 Qe2+ 51. Kg1 d3 52. g4 Ke1
+53. Qb3 Qxg4+ 54. Kh1 d2 55. Qe3+ Qe2 56. Qg3+ Qf2 57. Qe5+ Kf1 58. Qe2+
+1/2-1/2
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.30"]
+[Round "8"]
+[White "Kabisch, Thilo"]
+[Black "Rupp, Michael"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2245"]
+[BlackElo "2277"]
+[PlyCount "150"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. c4 a6 10. Nc3 Be7 11. Be2 O-O 12. O-O Nd7 13. Be3 f5 14. f3 f4 15.
+Bf2 Rf6 16. Ne4 Rh6 17. c5 Nxc5 18. Bxc5 dxc5 19. d6 Bf8 20. Rf2 Be6 21. Nxc5
+Qh4 22. h3 Bxh3 23. gxh3 Qxh3 24. Bc4+ Kh8 25. Rg2 Rxd6 26. Qf1 Rd1 27. Ne4
+Rxf1+ 28. Rxf1 Be7 29. Rh2 Qd7 30. Rd2 Qc6 31. Bd5 Qb6+ 32. Kh1 Rf8 33. Rc1 Qe3
+34. Kg2 Rd8 35. Rc3 Qb6 36. Rcd3 g6 37. a3 Rd7 38. Rc2 Rc7 39. Rcd2 Qa7 40. Bb3
+Qb6 41. Ba2 a5 42. Nc3 Qf6 43. Ne4 Qh4 44. Rc3 Rxc3 45. bxc3 Qe1 46. Bc4 b6 47.
+a4 Bc5 48. Bf1 h5 49. Re2 Qh4 50. Rd2 Qe7 51. Bb5 Qh4 52. Rd1 Kg7 53. Bc4 Kf8
+54. Bb5 Qe7 55. Rd7 Qe6 56. Ng5 Qa2+ 57. Kh3 Be7 58. Nh7+ Kf7 59. Ng5+ Kf6 60.
+Ne4+ Ke6 61. Rc7 Bc5 62. Ng5+ Kf5 63. Ne4 g5 64. Bd7+ Kg6 65. Be8+ Kh6 66. Rc6+
+Kg7 67. Bxh5 Bg1 68. Nxg5 Qxa4 69. Rg6+ Kf8 70. Nh7+ Ke7 71. Rxg1 Qc2 72. Rg7+
+Kd6 73. Nf6 a4 74. Ne4+ Kc6 75. Be8+ Kd5 1-0
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.30"]
+[Round "8"]
+[White "Meschke, Andreas"]
+[Black "Hirneise, Jens"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "2101"]
+[BlackElo "2251"]
+[PlyCount "80"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+Nxd4 Qc7 9. Bg5 d6 10. Qd2 e5 11. Nc2 a6 12. Bf1 Be6 13. c4 Ne7 14. Nc3 Ne8 15.
+Ne3 f6 16. Bh4 Nc6 17. Ned5 Qf7 18. Rad1 h5 19. f3 Kh7 20. b4 Bh6 21. Qb2 Rg8
+22. Nb6 Rd8 23. b5 Nd4 24. Bf2 f5 25. Ncd5 Bg7 26. Bh4 Rb8 27. Bd3 f4 28. Qa3
+g5 29. Bxg5 Bh6 30. h4 Bxg5 31. hxg5 Rxg5 32. Kf2 h4 33. Rh1 h3 34. Rdg1 Qh5
+35. Nxf4 exf4 36. e5+ Kh8 37. Rxh3 Bxh3 38. Be2 Qh4+ 39. Kf1 Bxg2+ 40. Rxg2
+Qh1+ 0-1
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.30"]
+[Round "8"]
+[White "Namyslo, Holger"]
+[Black "Latzke, Boris Alexander"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2309"]
+[BlackElo "2264"]
+[PlyCount "137"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. Bc4 Nb6 7. Bb3 Nc6 8. O-O
+d6 9. exd6 Bxd6 10. cxd4 O-O 11. Nc3 e5 12. Bg5 Qd7 13. dxe5 Nxe5 14. Ne4 Nxf3+
+15. Qxf3 Be5 16. Rad1 Qf5 17. Qxf5 Bxf5 18. Nd6 Bg6 19. h3 h6 20. Be7 Bxd6 21.
+Bxd6 Rfe8 22. Rfe1 Be4 23. Bc7 Bc6 24. Bxb6 axb6 25. f3 Kf8 26. Kf2 Rxe1 27.
+Rxe1 Rd8 28. Rd1 Rxd1 29. Bxd1 Bd5 30. a3 Ke7 31. Ke3 Kd6 32. Kd4 g5 33. Be2 f6
+34. Bd3 Be6 35. Be4 h5 36. Bxb7 h4 37. Ba6 Bd5 38. Bd3 Bc6 39. b4 Bd7 40. Ke4
+Ke6 41. Bc4+ Kd6 42. Kd4 Bc6 43. Bd3 Bd7 44. Be2 Bc6 45. Bd1 Bb5 46. f4 gxf4
+47. Ke4 Bc6+ 48. Kxf4 Bxg2 49. Kg4 Ke5 50. a4 Bc6 51. a5 bxa5 52. bxa5 Bb5 53.
+Bf3 Ba6 54. Kxh4 Kf4 55. Bc6 f5 56. Bd7 Ke5 57. Kg5 f4 58. h4 f3 59. h5 f2 60.
+Bh3 Kd6 61. h6 Bd3 62. Kf4 Kc7 63. Ke3 Bh7 64. Kxf2 Kb7 65. Ke3 Ka6 66. Kf4
+Kxa5 67. Bf5 Bg8 68. Ke5 Kb6 69. Kf6 1-0
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.31"]
+[Round "9"]
+[White "Kracke, Moritz"]
+[Black "Schwerteck, Michael"]
+[Result "1/2-1/2"]
+[ECO "B78"]
+[WhiteElo "2082"]
+[BlackElo "2157"]
+[PlyCount "82"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O 8. f3
+Nc6 9. Qd2 Bd7 10. Bb3 Rc8 11. O-O-O Ne5 12. h4 h5 13. Bg5 Rc5 14. Rhe1 Qa5 15.
+Nd5 Qxd2+ 16. Rxd2 Nxd5 17. exd5 Re8 18. c3 Kf8 19. Rde2 Nd3+ 20. Kd1 Nxe1 21.
+Rxe1 Bxd4 22. cxd4 Rc7 23. Rg1 f6 24. Bd2 Kg7 25. g4 hxg4 26. fxg4 Bb5 27. h5
+g5 28. Bc3 Bc4 29. Kd2 Bxb3 30. axb3 e6 31. dxe6 d5 32. Rf1 Rxe6 33. Rf5 Rd7
+34. Kd3 Re4 35. Rxd5 Rde7 36. Rf5 Rxg4 37. d5 Rf7 38. d6 Rg1 39. Ke2 Rg2+ 40.
+Ke1 Rg1+ 41. Ke2 Rg2+ 1/2-1/2
+
+[Event "Obersulm op"]
+[Site "Obersulm"]
+[Date "2008.08.31"]
+[Round "9"]
+[White "Latzke, Boris Alexander"]
+[Black "Schmidt, Olaf"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2264"]
+[BlackElo "2181"]
+[PlyCount "96"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O a6 7. a4 Nc6 8. h3 e6
+9. Bg5 h6 10. Be3 b6 11. Qd2 Kh7 12. Rad1 Ne7 13. Nh2 d5 14. e5 Nd7 15. f4 c5
+16. Nf3 Qc7 17. Bf2 Nc6 18. Rde1 Rg8 19. Bd1 Bf8 20. Ne2 cxd4 21. Nexd4 Nc5 22.
+c3 Na5 23. Bc2 Bd7 24. Qd1 Nc4 25. Qc1 Nb7 26. Kh1 b5 27. axb5 axb5 28. g4 Ra2
+29. Bb3 Ra6 30. f5 Nc5 31. fxg6+ fxg6 32. Bc2 Ra2 33. Re2 Kh8 34. Bb1 Ra1 35.
+Bh4 Ne4 36. Nb3 Ra4 37. Nfd4 g5 38. Be1 Qxe5 39. Bxe4 dxe4 40. Qc2 Qd5 41. Qxe4
+Qxe4+ 42. Rxe4 e5 43. Nf3 Bc6 44. Re2 Bd6 45. Kg1 Rf8 46. Nbd2 Bc5+ 47. Bf2
+Nxd2 48. Nxd2 Rxf2 1/2-1/2
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Beil, Martin"]
+[Black "Straka, Vojtech"]
+[Result "0-1"]
+[ECO "B35"]
+[WhiteElo "2208"]
+[BlackElo "1978"]
+[PlyCount "98"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+f3 Qb6 9. Ncb5 a6 10. Nf5 Qd8 11. Nh6+ Bxh6 12. Bxh6 axb5 13. Bxf8 Kxf8 14. Bd5
+Qb6 15. Qd2 d6 16. g4 Ne5 17. Qf2 Nxd5 18. exd5 Qxf2+ 19. Kxf2 Ra4 20. Kg3 Rc4
+21. Rac1 b6 22. c3 Rc5 23. Rhd1 Bb7 24. f4 Nd7 25. f5 Rxd5 26. fxg6 hxg6 27. h4
+Ne5 28. Rd4 Nd3 29. Rd1 Rxd4 30. cxd4 Nxb2 31. Rb1 Nc4 32. Rxb5 d5 33. Kf4 f6
+34. Rb1 e5+ 35. dxe5 fxe5+ 36. Kg5 d4 37. Kf6 d3 38. h5 gxh5 39. gxh5 d2 40.
+Rg1 Be4 41. h6 Bh7 42. Rf1 Ne3 43. Rg1 d1=Q 44. Rxd1 Nxd1 45. Kxe5 Bc2 46. Kd4
+Ba4 47. Kc4 Kg8 48. Kb4 b5 49. h7+ Kxh7 0-1
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Boucek, Vlastimil"]
+[Black "Zima, Tomas"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2017"]
+[BlackElo "1822"]
+[PlyCount "67"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. f4 d5 3. e5 d4 4. h3 Be6 5. Nf3 f6 6. Qe2 Bf5 7. d3 h5 8. Nh4 Qd7
+9. g4 Bh7 10. e6 Qd6 11. Na3 Na6 12. Nc4 Qc7 13. g5 g6 14. Rg1 O-O-O 15. f5
+fxg5 16. Nxg6 Bxg6 17. fxg6 g4 18. Ne5 Bg7 19. Nf7 Rd5 20. Bd2 Nf6 21. O-O-O
+Rg8 22. Bg2 Rc5 23. Rdf1 Nd5 24. Bxd5 cxd5 25. Bf4 Qb6 26. Kb1 Rc3 27. Bd2 Nb4
+28. a3 Na6 29. Kc1 Kb8 30. Bxc3 dxc3 31. b3 Qa5 32. Qh2+ Ka8 33. Kd1 Qxa3 34.
+Ke2 1-0
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Drabek, Vojtech"]
+[Black "Lacina, Filip"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[WhiteElo "2157"]
+[BlackElo "1949"]
+[PlyCount "80"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O Be7 10. Bd3 b5 11. Rhe1 Bb7 12. Qh3 b4 13. Na4 h6 14. Kb1 Nc5 15.
+Nxc5 dxc5 16. Bxf6 gxf6 17. Nf3 c4 18. Bf1 c3 19. f5 e5 20. Qg3 Rc8 21. Qg7 Rf8
+22. Qxh6 cxb2 23. Qd2 Rd8 24. Qe3 Rc8 25. Qb3 Qc3 26. Rd3 Qxb3 27. axb3 Bc5 28.
+Kxb2 Ke7 29. Rd2 Rh8 30. g4 Rhg8 31. h3 a5 32. Bc4 Rgd8 33. Bd5 Ba6 34. g5 Bd6
+35. Bc4 Bxc4 36. gxf6+ Kxf6 37. Rxd6+ Ke7 38. Rd2 Bb5 39. Nxe5 a4 40. bxa4 Bxa4
+1/2-1/2
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Framberk, Jan"]
+[Black "Kyselka, Daniel"]
+[Result "1-0"]
+[ECO "B85"]
+[WhiteElo "2054"]
+[BlackElo "1802"]
+[PlyCount "29"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+Qc7 9. a4 O-O 10. Kh1 Nc6 11. Be3 Bd7 12. Nb3 b6 13. g4 Bc8 14. Bf3 Bb7 15. Qe2
+1-0
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Galandauer, Jan"]
+[Black "Petrun, M."]
+[Result "0-1"]
+[ECO "B45"]
+[WhiteElo "2123"]
+[BlackElo "1923"]
+[PlyCount "42"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Bb4 7. Qd3 d5 8.
+Nxc6 bxc6 9. exd5 exd5 10. O-O O-O 11. Bg5 Re8 12. Bf3 h6 13. Bh4 Bd6 14. Rfe1
+Rb8 15. Bxd5 cxd5 16. Nxd5 Bxh2+ 17. Kxh2 Ng4+ 18. Kg3 g5 19. Rab1 Qd6+ 20. f4
+Re3+ 21. Nxe3 Qxf4+ 0-1
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Herejk, Petr"]
+[Black "Havrlik, Pavel"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2197"]
+[BlackElo "1965"]
+[PlyCount "41"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. c3 Qd7 5. Nf3 h5 6. Bd3 h4 7. h3 f6 8. Qc2 Bxd3
+9. Qxd3 O-O-O 10. O-O g5 11. Re1 Nh6 12. e6 Qe8 13. Nbd2 g4 14. Nxh4 Qh5 15.
+Ng6 gxh3 16. Nxh8 hxg2 17. Kxg2 Nf5 18. Nf7 Qg6+ 19. Kf1 Bh6 20. Nxh6 Rh8 21.
+Nxf5 1-0
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Hlavnicka, Jan"]
+[Black "Fojtu, Petr"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "1954"]
+[BlackElo "2176"]
+[PlyCount "82"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bg5 Be7 7. Qf3 Nbd7 8.
+Bb5 O-O 9. O-O-O a6 10. Ba4 Ne5 11. Qh3 Qc7 12. f4 Nc4 13. g4 b5 14. Bb3 Na5
+15. Qg3 Nxb3+ 16. axb3 b4 17. Bxf6 Bxf6 18. Nce2 Bb7 19. Qd3 Rac8 20. g5 Be7
+21. Rhg1 Rfd8 22. f5 e5 23. f6 exd4 24. fxe7 Qxe7 25. Nxd4 Qxe4 26. Qxe4 Bxe4
+27. Rde1 d5 28. Kd2 Rd6 29. Ra1 h6 30. Ra4 hxg5 31. Rxg5 Rh6 32. Rxb4 Rxh2+ 33.
+Ke3 f6 34. Rg1 Bxc2 35. Rb7 Re8+ 36. Kf3 Be4+ 37. Kg3 Rxb2 38. Kh3 g5 39. Rb6
+Kf7 40. Rxa6 Rd2 41. Ra7+ Kg6 0-1
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Hosticka, Frantisek"]
+[Black "Hronik, Petr"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2172"]
+[BlackElo "1954"]
+[PlyCount "83"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. d4 Bg4 5. Be2 e6 6. O-O Be7 7. c4 Nf6 8.
+Qb3 b6 9. Be3 O-O 10. Rd1 Nbd7 11. Nc3 c6 12. Rd2 Qc7 13. Rad1 Rfd8 14. a3 a6
+15. h3 Bf5 16. Nh4 Bg6 17. Nxg6 hxg6 18. Qc2 c5 19. d5 exd5 20. Nxd5 Nxd5 21.
+Rxd5 Nf6 22. Rxd8+ Rxd8 23. Rxd8+ Bxd8 24. Qa4 a5 25. Qb5 Qd6 26. Qa6 Be7 27.
+g3 Qe6 28. Kg2 Ne4 29. Bf3 Nd6 30. Qa8+ Kh7 31. Bd5 Qf6 32. Qc6 Bd8 33. Bf4 Nf5
+34. Qd7 Qe7 35. Qxe7 Bxe7 36. Bc7 Bf6 37. Bxb6 Bxb2 38. a4 Bc3 39. Bxc5 Bb4 40.
+Bxb4 axb4 41. c5 Ne7 42. Bxf7 1-0
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Lizner, Milan"]
+[Black "Skokan, Frantisek"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2050"]
+[BlackElo "1747"]
+[PlyCount "33"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e5 4. d4 exd4 5. cxd4 cxd4 6. Nxd4 Bb4+ 7. Nc3 Nf6 8.
+f3 O-O 9. Be2 d5 10. Nxc6 bxc6 11. Bd2 dxe4 12. fxe4 Qd4 13. Bf3 Bc5 14. Qe2 a5
+15. O-O-O Ba6 16. Qe1 Rfd8 17. Qg3 1/2-1/2
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Moravec, Vit"]
+[Black "Cerny, Martin"]
+[Result "0-1"]
+[ECO "B24"]
+[WhiteElo "1966"]
+[BlackElo "2203"]
+[PlyCount "98"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 e6 3. g3 Nc6 4. Bg2 Nge7 5. f4 d5 6. d3 dxe4 7. dxe4 Qxd1+ 8.
+Nxd1 b6 9. Ne3 Ba6 10. Bd2 O-O-O 11. O-O-O g6 12. Nf3 Bg7 13. Ng5 Rdf8 14. Bh3
+Nd8 15. e5 Bb7 16. Bg2 Bxg2 17. Nxg2 Nb7 18. Ne3 Nf5 19. Nxf5 gxf5 20. c4 Bh6
+21. Nf3 Rd8 22. Bc3 Rhg8 23. Rxd8+ Nxd8 24. Rd1 Bf8 25. Kd2 Be7 26. Ke2 Nc6 27.
+b3 Kc7 28. Rd3 h6 29. Kd2 a6 30. a4 h5 31. Kc2 h4 32. Be1 hxg3 33. hxg3 Rh8 34.
+Rd2 Rh1 35. Rh2 Nd4+ 36. Kb2 Rf1 37. Nxd4 cxd4 38. Bd2 Rg1 39. Rh7 Rg2 40. Rxf7
+Kd8 41. Kc1 d3 42. b4 a5 43. c5 bxc5 44. b5 c4 45. Bxa5+ Ke8 46. Rxe7+ Kxe7 47.
+b6 c3 48. Bxc3 Rc2+ 49. Kd1 Rxc3 0-1
+
+[Event "Ricany op-A"]
+[Site "Ricany"]
+[Date "2008.08.23"]
+[Round "1"]
+[White "Musil, Vitezslav"]
+[Black "Vorackova, Jarmila"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2039"]
+[BlackElo "1905"]
+[PlyCount "68"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Nc6 5. Nf3 Bg4 6. Qb3 Qd7 7. Be2 Bxf3 8.
+Bxf3 e6 9. Bf4 Nf6 10. O-O Be7 11. Nd2 O-O 12. Rfe1 Na5 13. Qd1 b5 14. a4 a6
+15. b4 Nb7 16. Nb3 Nd6 17. Nc5 Qc6 18. Bxd6 Bxd6 19. axb5 axb5 20. Qd3 h6 21.
+g3 Rxa1 22. Rxa1 Ra8 23. Rxa8+ Qxa8 24. Kg2 Qa3 25. Bd1 e5 26. Nb3 Qb2 27. Qc2
+Qa3 28. dxe5 Bxe5 29. f4 Bc7 30. Nd4 Bb6 31. Nxb5 Qa6 32. Be2 Qa1 33. Bd1 Ne4
+34. Qa4 Qb2+ 0-1

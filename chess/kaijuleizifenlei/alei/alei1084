@@ -1,0 +1,600 @@
+[BlackElo "2583"]
+[PlyCount "113"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 c6 5. Nf3 d5 6. O-O Bd6 7. b3 Qe7 8. Ne5 O-O
+9. Nd2 b6 10. Ndf3 Bb7 11. Bf4 Na6 12. e3 Rac8 13. Qe2 Ne4 14. h4 c5 15. Rac1
+Nb4 16. Rfd1 Rc7 17. Ng5 Nf6 18. dxc5 bxc5 19. a3 Na6 20. Rc2 Rcc8 21. cxd5
+exd5 22. Nd3 Rfd8 23. Bxd6 Rxd6 24. b4 c4 25. Nf4 Ne4 26. Nxe4 fxe4 27. Bh3
+Rcd8 28. Qd2 Bc6 29. Rdc1 Nc7 30. Ne2 Bd7 31. Bg2 Ne8 32. Qd4 Bc8 33. Rd2 Nf6
+34. Nf4 h6 35. Qc5 Kf7 36. h5 Bf5 37. Bf1 a6 38. Qa5 Bg4 39. Be2 Bxe2 40. Rxe2
+Ng4 41. Rd2 Qb7 42. Rcd1 Nf6 43. Qc5 Kg8 44. Rc2 Qd7 45. Rd4 Ng4 46. Ng6 Kh7
+47. Rcd2 Qf5 48. Nf4 c3 49. Rc2 Ne5 50. Kf1 Nf3 51. Rxc3 Nxd4 52. Qxd4 Rc8 53.
+Rxc8 Qxc8 54. Qe5 Qd7 55. Kg2 Qd8 56. Ne6 Qf6 57. Qxd6 1/2-1/2
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Malakhatko, Vadim"]
+[Black "Westerinen, Heikki MJ"]
+[Result "1-0"]
+[ECO "A55"]
+[WhiteElo "2612"]
+[BlackElo "2376"]
+[PlyCount "85"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. e4 Be7 6. Be2 O-O 7. O-O c6 8. Re1
+a6 9. d5 Nc5 10. Nd2 a5 11. b3 Ne8 12. Ba3 g6 13. Bxc5 dxc5 14. Qc2 Bd7 15.
+Rad1 Nc7 16. Nf3 Bf6 17. h3 Bg7 18. Bf1 cxd5 19. cxd5 Re8 20. Nd2 Bf8 21. a4 b6
+22. Nc4 Rb8 23. Na3 Qg5 24. Kh1 Red8 25. Bb5 Nxb5 26. Ncxb5 Qh5 27. Qd3 Bg4 28.
+Ra1 c4 29. Nxc4 Bb4 30. Rec1 Be2 31. Qg3 f6 32. Na7 f5 33. f3 fxe4 34. fxe4 Rf8
+35. Nc6 Rbe8 36. Nxb4 axb4 37. Nxb6 Rf4 38. d6 Ref8 39. Rc8 Rxc8 40. Nxc8 Rxe4
+41. Nb6 Rd4 42. d7 Bg4 43. Qxg4 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Narvoy, Tore"]
+[Black "Marks, Ian A"]
+[Result "0-1"]
+[ECO "A85"]
+[WhiteElo "1757"]
+[BlackElo "1934"]
+[PlyCount "50"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Bb4 5. Qb3 Qe7 6. a3 Bxc3+ 7. Qxc3 Ne4 8.
+Qc2 b6 9. e3 Bb7 10. Be2 O-O 11. O-O d6 12. Nd2 Nd7 13. f3 Ng5 14. b4 Rad8 15.
+Bb2 c5 16. Qc3 e5 17. d5 Rf6 18. b5 Re8 19. Rae1 Ref8 20. Qc2 Rh6 21. f4 exf4
+22. exf4 Qe3+ 23. Kh1 Qg3 24. h3 Nxh3 25. Nf3 Nf2+ 0-1
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Pettersson, Tobias"]
+[Black "Sowray, Peter J"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "2147"]
+[BlackElo "2327"]
+[PlyCount "48"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 g6 2. c4 f5 3. g3 Nf6 4. b4 d6 5. Bb2 e5 6. d3 Bg7 7. Bg2 O-O 8. O-O h6
+9. e4 f4 10. d4 Nc6 11. dxe5 Ng4 12. gxf4 Rxf4 13. Qb3 Ncxe5 14. Nd4 Qh4 15.
+c5+ Kh7 16. Qg3 Qxg3 17. hxg3 Rxf2 18. Rxf2 Nxf2 19. Kxf2 Nd3+ 20. Ke3 Nxb2 21.
+Nd2 dxc5 22. bxc5 Bg4 23. Bf3 Rd8 24. N2b3 Bxf3 0-1
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Sjol, Henrik"]
+[Black "Forsaa, Elise"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "1860"]
+[PlyCount "53"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. c4 Nf6 3. g3 c6 4. Bg2 dxc4 5. Na3 e6 6. Nxc4 Nbd7 7. O-O Qc7 8.
+d4 c5 9. Bf4 Qd8 10. dxc5 Bxc5 11. Nd6+ Bxd6 12. Bxd6 Nb6 13. Rc1 Nbd5 14. Ba3
+a5 15. Ne5 Bd7 16. Nc4 Ne7 17. Nd6+ Kf8 18. Nxb7 Qb6 19. Nc5 Rd8 20. Nxd7+ Nxd7
+21. Rc6 Qb8 22. Qd6 Qxd6 23. Rxd6 Ke8 24. Rfd1 h5 25. Ra6 h4 26. Bxe7 Kxe7 27.
+Ra7 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Taube, Gregor"]
+[Black "Prohl, Frank"]
+[Result "1-0"]
+[ECO "A04"]
+[PlyCount "59"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 c5 2. c3 Nc6 3. d4 b6 4. d5 Nb8 5. c4 d6 6. Nc3 g6 7. e4 Bg4 8. Be2 Bxf3
+9. Bxf3 Bg7 10. Be3 a6 11. a4 a5 12. Qb3 Nf6 13. O-O O-O 14. Rad1 Nfd7 15. Bf4
+Ne5 16. Bxe5 Bxe5 17. Bg4 e6 18. dxe6 Qh4 19. h3 f5 20. exf5 Bd4 21. Rxd4 cxd4
+22. c5 dxc3 23. e7+ Kg7 24. Qxc3+ Kf7 25. exf8=R+ Kxf8 26. Qh8+ Kf7 27. fxg6+
+Kxg6 28. Qg8+ Kh6 29. Re1 Nd7 30. Qxa8 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.09"]
+[Round "8"]
+[White "Brasoy, Aksel"]
+[Black "Kvisla, Johannes Luangtep"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2004"]
+[BlackElo "2180"]
+[PlyCount "176"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 e6 2. c4 Nf6 3. g3 d5 4. cxd5 exd5 5. Bg2 Be7 6. O-O O-O 7. d4 a5 8. Nc3
+h6 9. Ne5 Be6 10. Qb3 Ra7 11. Bf4 c6 12. Rfd1 Nbd7 13. Nxd7 Nxd7 14. Rac1 Qa8
+15. a4 Qd8 16. h3 Nb6 17. Qc2 Qd7 18. Kh2 f5 19. b3 Nc8 20. Be5 Ra8 21. e3 Nd6
+22. f4 Rac8 23. Bf3 Ne8 24. Qg2 Nf6 25. Be2 Kf7 26. Bd3 Rh8 27. Be2 Rcg8 28.
+Rg1 g5 29. Qf2 Ke8 30. Rg2 Rh7 31. Rgg1 h5 32. Bxf6 Bxf6 33. Nb1 Qd6 34. Nd2 h4
+35. gxh4 g4 36. Bf1 Bxh4 37. Qe2 Rgh8 38. Bg2 Qe7 39. Rh1 gxh3 40. Bf1 Bf7 41.
+Rg1 Bf6 42. Qd3 Qe6 43. Be2 Kd7 44. Nf3 Qe4 45. Qxe4 dxe4 46. Nd2 Bh4 47. Rcf1
+b6 48. Nc4 Kc7 49. Bd1 Rb8 50. Ne5 b5 51. Nxf7 Rxf7 52. Bh5 Rh7 53. Bg6 Rh6 54.
+Bxf5 bxa4 55. bxa4 Rb2+ 56. Kh1 Bf2 57. Rg7+ Kd8 58. Bxe4 Bxe3 59. Bf5 Bf2 60.
+Rd1 Rd6 61. Rh7 Bxd4 62. Bxh3 c5 63. Bf1 Rf6 64. Bb5 Re6 65. f5 Re3 66. Rg1 Re8
+67. Bxe8 Bxg1 68. Kxg1 Kxe8 69. Ra7 c4 70. Kf1 Rh2 71. Ke1 c3 72. Kd1 Rd2+ 73.
+Kc1 Rd5 74. Kc2 Rc5 75. f6 Kf8 76. Rb7 Rc4 77. Ra7 Rxa4 78. Kxc3 Ra1 79. Kb2
+Ra4 80. Kb3 Rb4+ 81. Ka3 Rb5 82. Ka4 Rf5 83. f7 Re5 84. Rxa5 Re4+ 85. Kb3 Kxf7
+86. Kc3 Kf6 87. Kd3 Re5 88. Rxe5 Kxe5 1/2-1/2
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.09"]
+[Round "8"]
+[White "Brokvam, Roy"]
+[Black "Johansson, Anders"]
+[Result "1-0"]
+[ECO "A52"]
+[PlyCount "91"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nc3 d6 7. exd6 Qf6 8.
+Bd2 Bxd6 9. a3 O-O 10. e3 Nce5 11. Ne4 Qg6 12. Nxd6 Qxd6 13. Bb4 Qxd1+ 14. Rxd1
+Re8 15. h3 Nxf3+ 16. gxf3 Ne5 17. Be2 b6 18. h4 Ba6 19. b3 Rad8 20. Bc3 Rxd1+
+21. Kxd1 Rd8+ 22. Kc2 Nc6 23. h5 Bc8 24. Bd3 f6 25. h6 g6 26. Bxf6 Rf8 27. Bg7
+Rxf3 28. Rh2 Rh3 29. Rxh3 Bxh3 30. Kc3 Nd8 31. Be4 Ne6 32. Be5 c5 33. Bd5 Kf7
+34. f4 g5 35. a4 Kg6 36. fxg5 Nxg5 37. Bb8 Be6 38. e4 a6 39. Kd3 Bd7 40. Bb7 b5
+41. cxb5 axb5 42. a5 c4+ 43. bxc4 bxc4+ 44. Kxc4 Nxe4 45. Bxe4+ Kxh6 46. a6 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.09"]
+[Round "8"]
+[White "Gandrud, Vegar Koi"]
+[Black "Pettersson, Tobias"]
+[Result "1-0"]
+[ECO "A52"]
+[WhiteElo "2002"]
+[BlackElo "2147"]
+[PlyCount "75"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Bb4+ 5. Nd2 d6 6. exd6 Qf6 7. e3 Bxd6 8.
+Be2 h5 9. h3 Bxf4 10. hxg4 Be5 11. Ne4 Qc6 12. Qd5 Bxb2 13. Rd1 Qxd5 14. Rxd5
+f5 15. gxf5 c6 16. Nd6+ Kf8 17. Rd3 Na6 18. Rb3 Be5 19. Nxc8 Nc5 20. Nf3 Bc7
+21. Rb1 Rxc8 22. Nh4 Kf7 23. Ng6 Rhd8 24. Rxh5 Ba5+ 25. Kf1 Rd2 26. Ne5+ Kf6
+27. Ng4+ Kf7 28. f6 b6 29. Rh7 Rg8 30. Nh6+ Kf8 31. Nxg8 Kxg8 32. Rxg7+ Kf8 33.
+Rxa7 Ne4 34. Rd1 Rxd1+ 35. Bxd1 Nd2+ 36. Kg1 Nxc4 37. Bb3 Ne5 38. Ra8# 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.09"]
+[Round "8"]
+[White "Hagen, Anders Gjerdum"]
+[Black "Standal, Egil Arne"]
+[Result "1-0"]
+[ECO "A87"]
+[WhiteElo "2084"]
+[BlackElo "1864"]
+[PlyCount "137"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 d6 6. O-O O-O 7. Nc3 Qe8 8. d5 a5
+9. Rb1 Na6 10. a3 e5 11. dxe6 Bxe6 12. Nd5 c6 13. Nxf6+ Bxf6 14. Bh6 Rf7 15. b3
+d5 16. Ng5 Bxg5 17. Bxg5 dxc4 18. bxc4 Bxc4 19. Re1 Rd7 20. Qa4 Bf7 21. Qxa5
+Nc7 22. Qb4 Ne6 23. Bc1 Qe7 24. Qc3 Qc5 25. Qa1 Nd4 26. Be3 Rxa3 27. Qb2 Ra2
+28. Bxd4 Qxd4 29. Qxd4 Rxd4 30. Rxb7 Bd5 31. Bxd5+ Rxd5 32. Rc1 c5 33. e3 Rad2
+34. Kg2 Ra2 35. Kg1 Rad2 36. Kg2 Ra2 37. Kh3 g5 38. Kg2 g4 39. h3 gxh3+ 40.
+Kxh3 Rad2 41. Rc7 Rd7 42. Rxd7 Rxd7 43. Rxc5 Rf7 44. Kg2 Kg7 45. Kf3 Kg6 46.
+Kf4 h6 47. Rc6+ Kh5 48. f3 Rf8 49. Ke5 Rg8 50. Kxf5 Rxg3 51. Kf4 Rg8 52. Rf6
+Re8 53. e4 Ra8 54. Kf5 Ra3 55. f4 Ra5+ 56. e5 Rb5 57. Ke4 Rb4+ 58. Kd5 Kg4 59.
+Rxh6 Rxf4 60. Rg6+ Kh5 61. Rg1 Ra4 62. e6 Ra5+ 63. Kd6 Ra6+ 64. Ke7 Ra7+ 65.
+Kf8 Ra8+ 66. Kf7 Ra2 67. e7 Rf2+ 68. Ke8 Kh6 69. Rd1 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.09"]
+[Round "8"]
+[White "Kunin, Vitaly L"]
+[Black "Malakhatko, Vadim"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2532"]
+[BlackElo "2612"]
+[PlyCount "185"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. d4 e6 5. O-O Bd6 6. Nbd2 c6 7. e4 Ne7 8. Re1
+O-O 9. c3 Bh5 10. Qb3 Rb8 11. c4 a5 12. h3 Bc7 13. Qe3 Re8 14. b3 h6 15. Ba3
+Bxf3 16. Nxf3 Nf6 17. e5 Nf5 18. Qd3 Nd7 19. Rac1 Ne7 20. Bd6 Bxd6 21. exd6 Ng6
+22. h4 Nf6 23. c5 Nd7 24. a3 b5 25. Bh3 Ngf8 26. Re3 h5 27. Rce1 Nh7 28. Kh1
+Qf6 29. Qd2 Ra8 30. Qe2 g6 31. Rd1 Kg7 32. Ne1 Nhf8 33. Nf3 Nh7 34. Rd2 a4 35.
+b4 Kg8 36. Kg1 Kg7 37. Kh1 Kg8 38. Kg2 Kg7 39. Rd1 Rab8 40. Rh1 Ra8 41. Kf1
+Rab8 42. Rg1 Kh8 43. Qd2 Qg7 44. Qe2 Qf6 45. Ke1 Ra8 46. Kd2 Rab8 47. Rc1 Ra8
+48. Rd1 Rab8 49. Kc3 Kg7 50. Ne1 Kh8 51. Nd3 Qg7 52. Re1 Nhf6 53. f3 Rg8 54.
+Qd2 Rbe8 55. Nf4 g5 56. hxg5 Qxg5 57. Ne2 Rg7 58. Kb2 Reg8 59. Rh1 Rh7 60. Qc3
+Qg7 61. Bf1 Nf8 62. Rh3 Ng6 63. Nc1 Nd7 64. Bd3 Qf6 65. Ne2 Rh6 66. Bc2 Ngf8
+67. f4 Qg7 68. f5 Nf6 69. Nf4 Ng4 70. Re2 Qg5 71. Qd2 exf5 72. Re7 Rh7 73. Rc7
+Ne6 74. Rxc6 h4 75. Rxh4 Rxh4 76. gxh4 Qxf4 77. Qxf4 Nxf4 78. d7 Ne6 79. Rc8
+Nf6 80. c6 Nxd7 81. cxd7 f4 82. Rxg8+ Kxg8 83. Bf5 Nd8 84. Kc3 Kg7 85. Bd3 Kf6
+86. Bxb5 Ke7 87. Bxa4 f3 88. Kd2 Ne6 89. Ke3 f2 90. Kxf2 Nxd4 91. h5 Nf5 92.
+Kf3 d4 93. Bb5 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.09"]
+[Round "8"]
+[White "Prohl, Frank"]
+[Black "Walther, Joachim"]
+[Result "1-0"]
+[ECO "A45"]
+[PlyCount "80"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. e4 cxd4 7. b4 Qb6 8.
+Qxd4 Qxd4 9. cxd4 Nc6 10. a3 Nxd4 11. Ra2 d6 12. Nc3 Bd7 13. Nce2 Ne6 14. Nh3
+a5 15. Bd2 axb4 16. Bxb4 Bb5 17. Nef4 Bxf1 18. Nxe6 fxe6 19. Rxf1 e5 20. Rc2
+Kd7 21. Ke2 h6 22. Rfc1 Ne8 23. Nf2 g5 24. Nd1 Ra6 25. Ne3 e6 26. Nc4 b5 27.
+Na5 Ke7 28. Nc6+ Kf6 29. Nb8 Ra7 30. Rc8 Bg7 31. Rd8 Kg6 32. Rcc8 Rc7 33. Rxc7
+Nxc7 34. Rxh8 Bxh8 35. Bxd6 Ne8 36. Bb4 Nf6 37. Nc6 Nd7 38. Na7 Bf6 39. Nxb5 h5
+40. Na7 h4 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.09"]
+[Round "8"]
+[White "Ronning, Are"]
+[Black "Bjerke, Richard"]
+[Result "0-1"]
+[ECO "A93"]
+[BlackElo "2212"]
+[PlyCount "56"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. b3 Ne4 7. c4 c6 8. Nfd2
+f5 9. Bb2 Nd7 10. Nxe4 fxe4 11. f3 exf3 12. Bxf3 Qe8 13. Nd2 Qg6 14. e4 Nf6 15.
+e5 Ne8 16. Qe2 Bd7 17. Bh5 Qc2 18. Rxf8+ Bxf8 19. Rf1 g6 20. Rxf8+ Kxf8 21.
+Ba3+ Kg8 22. Bg4 Ng7 23. Qe3 Nf5 24. Qg5 Qd3 25. Nf3 Qe3+ 26. Qxe3 Nxe3 27. Bh3
+dxc4 28. Kf2 Nc2 0-1
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.09"]
+[Round "8"]
+[White "Soraas, Torben"]
+[Black "Kasparov, Sergey"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2178"]
+[BlackElo "2486"]
+[PlyCount "75"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Nd7 4. Nf3 Ngf6 5. Ng3 c5 6. a4 e6 7. a5 a6 8. Bc4
+Bd6 9. d3 O-O 10. O-O Ne5 11. Nxe5 Bxe5 12. Re1 Bd6 13. Bg5 h6 14. Bxf6 Qxf6
+15. Ne4 Qe5 16. Nxd6 Qxd6 17. Qh5 Bd7 18. Re3 Bb5 19. Rg3 Bxc4 20. Ra4 Qd5 21.
+Qe2 Bb5 22. Rag4 g6 23. c4 Qf5 24. cxb5 axb5 25. Qd2 Kg7 26. h4 Rfd8 27. Qc3+
+Rd4 28. Rxd4 cxd4 29. Qxd4+ Qf6 30. Qd7 Rxa5 31. Rg4 Ra1+ 32. Kh2 h5 33. Re4
+Qxf2 34. Qc7 Ra4 35. Qxb7 Rxe4 36. Qxe4 Qxb2 37. d4 Qf2 38. Kh3 0-1
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.09"]
+[Round "8"]
+[White "Sowray, Peter J"]
+[Black "Arvola, Benjamin"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2327"]
+[BlackElo "2105"]
+[PlyCount "65"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Bg5 e6 3. e3 h6 4. Bh4 c5 5. Nd2 Nc6 6. c3 b6 7. h3 Be7 8. Ngf3
+Bb7 9. a3 d6 10. Bg3 O-O 11. Bd3 Re8 12. O-O Bf8 13. e4 cxd4 14. cxd4 e5 15. d5
+Nb8 16. b4 Nh5 17. Bb5 Nxg3 18. fxg3 Nd7 19. Qa4 Re7 20. Bc6 Nf6 21. Rac1 a6
+22. Bxb7 b5 23. Qc2 Rxb7 24. Nb3 Raa7 25. Na5 Qb6+ 26. Kh2 Rc7 27. Nc6 Nd7 28.
+Qd3 Ra8 29. Nd2 Nb8 30. Nb3 Nxc6 31. dxc6 Rxc6 32. Qd5 Rac8 33. Rxf7 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.10"]
+[Round "9"]
+[White "Carlsen, Henrik"]
+[Black "Soraas, Torben"]
+[Result "1-0"]
+[ECO "A39"]
+[WhiteElo "2067"]
+[BlackElo "2178"]
+[PlyCount "64"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nf3 Bg7 5. Nc3 Nf6 6. d4 Nxd4 7. Nxd4 cxd4 8.
+Qxd4 O-O 9. O-O d6 10. Qh4 Be6 11. Bxb7 Rb8 12. Bd5 Bxd5 13. Nxd5 Nxd5 14. cxd5
+Bxb2 15. Bg5 f6 16. Bh6 Bxa1 17. Bxf8 Be5 18. Bh6 Qa5 19. Qc4 Kf7 20. Rd1 g5
+21. Qe4 Rh8 22. Kh1 Qxa2 23. f4 gxf4 24. gxf4 Qb3 25. Rg1 Qh3 26. Rg7+ Ke8 27.
+Qa4+ Kf8 28. Rxh7+ Kg8 29. Rg7+ Kf8 30. Qxa7 Qxh2+ 31. Kxh2 Rxh6+ 32. Kg3 Kxg7
+1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.10"]
+[Round "9"]
+[White "Lahlum, Ida"]
+[Black "Eriksen, Magnus"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "1828"]
+[PlyCount "82"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 e6 6. dxe6 fxe6 7. a4 Qxb6 8. Nf3
+d5 9. e3 Bd6 10. Nc3 O-O 11. Be2 Nbd7 12. O-O Bb7 13. a5 Qc7 14. h3 e5 15. Ng5
+Rae8 16. e4 h6 17. Nf3 d4 18. Bc4+ Kh7 19. Nd5 Bxd5 20. exd5 e4 21. Nh4 Qb7 22.
+Nf5 Bb8 23. Ra3 Re5 24. Ng3 Nxd5 25. Rb3 Qc7 26. f4 exf3 27. Rbxf3 N7f6 28.
+Qd3+ Kh8 29. Bxd5 Rxd5 30. Bxh6 gxh6 31. Rxf6 Rxf6 32. Rxf6 Qg7 33. Qf3 Qxg3
+34. Rxh6+ Kg8 35. Qxd5+ Kg7 36. Re6 Qh2+ 37. Kf1 Qf4+ 38. Qf3 Qc1+ 39. Re1 Qc4+
+40. Kg1 Bd6 41. Qg4+ Kh8 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.10"]
+[Round "9"]
+[White "Likavsky, Tomas"]
+[Black "Kovachev, Daniel Jakobsen"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "2485"]
+[BlackElo "2202"]
+[PlyCount "67"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. Nf3 d6 5. d4 cxd4 6. Nxd4 Be7 7. Be2 a6 8. O-O
+b6 9. Be3 Bb7 10. f3 Nbd7 11. a4 O-O 12. a5 Rc8 13. Qb3 Rb8 14. axb6 Qxb6 15.
+Qxb6 Nxb6 16. Nxe6 fxe6 17. Bxb6 Bxe4 18. Rxa6 Bg6 19. Nb5 Rfc8 20. Na7 Re8 21.
+Nc6 Rb7 22. Nxe7+ Rexe7 23. b4 Kf7 24. Rd1 Red7 25. Ba5 Ke7 26. b5 e5 27. Bb4
+Ne8 28. c5 dxc5 29. Bxc5+ Kd8 30. Ra8+ Kc7 31. b6+ Kc6 32. Rc8+ Nc7 33. Rxd7
+Kxd7 34. Rxc7+ 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.10"]
+[Round "9"]
+[White "Malakhatko, Vadim"]
+[Black "Sowray, Peter J"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "2612"]
+[BlackElo "2327"]
+[PlyCount "141"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. Nc3 Nf6 3. Bg5 d5 4. Bxf6 exf6 5. e3 Be6 6. Qf3 Nc6 7. Bb5 Qd6 8.
+Nge2 a6 9. Ba4 O-O-O 10. Nf4 Na5 11. Nxe6 Qxe6 12. Ne2 Nc4 13. Bb3 Bd6 14.
+O-O-O Nb6 15. c3 c6 16. Bc2 g6 17. h3 h5 18. Nf4 Bxf4 19. Qxf4 Nc4 20. g4 hxg4
+21. hxg4 fxg4 22. Bxg6 Nd6 23. Bh7 Qd7 24. Bd3 Qe6 25. Rh6 Rxh6 26. Qxh6 Ne4
+27. Bxe4 dxe4 28. b3 Qf5 29. Rd2 Rg8 30. Kb2 Qg5 31. Qh7 Re8 32. Qf7 Rh8 33.
+Qe6+ Kb8 34. Qxe4 Rh2 35. Rc2 g3 36. fxg3 Qxg3 37. Rxh2 Qxh2+ 38. Qc2 Qg1 39.
+e4 Qe3 40. b4 b5 41. a4 Kb7 42. a5 Kc8 43. Qg2 Kc7 44. Kc2 Kd7 45. d5 cxd5 46.
+Qg7+ Kc8 47. Qg8+ Kc7 48. Qf7+ Kb8 49. Qe8+ Kc7 50. Qe7+ Kb8 51. Qd8+ Ka7 52.
+Qc7+ Ka8 53. Qc6+ Ka7 54. Qxd5 Qe2+ 55. Kb3 Qf1 56. Qc5+ Kb7 57. Qb6+ Kc8 58.
+Qxa6+ Kd7 59. Qb7+ Ke8 60. Qc6+ Ke7 61. Qc5+ Ke8 62. Qh5+ Ke7 63. Kc2 Qg2+ 64.
+Kd3 Qf1+ 65. Qe2 Qg1 66. Kc2 Qh1 67. Qd3 Qg2+ 68. Kb3 Qg1 69. a6 Qb6 70. a7 Qa6
+71. e5 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.10"]
+[Round "9"]
+[White "Pettersson, Tobias"]
+[Black "Ronning, Are"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "2147"]
+[PlyCount "89"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Nbd7 5. b3 e5 6. cxd5 cxd5 7. Bb2 Bd6 8.
+Nc3 O-O 9. O-O a6 10. Rc1 b5 11. Qc2 Bb7 12. Nh4 Re8 13. Qb1 g6 14. d3 b4 15.
+Na4 Ng4 16. h3 Nh6 17. Qc2 Ra7 18. Qd2 Nf5 19. Nxf5 gxf5 20. f4 exf4 21. Rxf4
+Bxf4 22. Qxf4 Rxe2 23. Bd4 Rxg2+ 24. Kxg2 Ra8 25. Rc7 Bc8 26. h4 Rb8 27. Rc6
+Qe7 28. Kf2 Bb7 29. Bf6 Nxf6 30. Qxb8+ Kg7 31. Rxf6 Kxf6 32. Qh8+ Ke6 33. d4
+Kd7 34. Qxh7 Qf6 35. Ke3 Bc6 36. Nc5+ Kd6 37. Qg8 Bb5 38. Qb8+ Ke7 39. Qe5+
+Qxe5+ 40. dxe5 f6 41. Kd4 fxe5+ 42. Kxe5 d4 43. Kxd4 Kf6 44. Nd3 a5 45. Nf4 1-0
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.10"]
+[Round "9"]
+[White "Poobalasingam, Peter"]
+[Black "Zozulia, Anna"]
+[Result "1/2-1/2"]
+[ECO "A21"]
+[WhiteElo "2203"]
+[BlackElo "2346"]
+[PlyCount "74"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d6 2. c4 e5 3. Nc3 exd4 4. Qxd4 Nc6 5. Qd2 Nf6 6. b3 Be6 7. e4 g6 8. g3
+Bg7 9. Bg2 O-O 10. Nge2 Qd7 11. Nf4 a5 12. O-O a4 13. Rb1 axb3 14. axb3 Ne5 15.
+Nxe6 fxe6 16. f4 Nc6 17. Bh3 Qe7 18. g4 Nd7 19. Nb5 Nc5 20. Bg2 Rf7 21. b4 Na4
+22. Qd3 g5 23. e5 gxf4 24. exd6 cxd6 25. Bxf4 Ne5 26. Qxd6 Nxc4 27. Qd3 Nab2
+28. Qe4 Qxb4 29. Nd6 Qc5+ 30. Kh1 Nxd6 31. Qxe6 Nbc4 32. Bxd6 Nxd6 33. Rxb7
+Raf8 34. Bd5 Nxb7 35. Rxf7 Kh8 36. Qf5 Rxf7 37. Qxf7 Qf8 1/2-1/2
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromsoe"]
+[Date "2008.08.10"]
+[Round "9"]
+[White "Taube, Gregor"]
+[Black "Standal, Egil Arne"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[BlackElo "1864"]
+[PlyCount "138"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 c6 2. d4 f5 3. c4 Nf6 4. Bg5 d5 5. Bxf6 exf6 6. e3 Be6 7. Qb3 Qd7 8. Nc3
+Be7 9. Rc1 O-O 10. cxd5 cxd5 11. Bb5 Nc6 12. O-O Rac8 13. Ne2 Bf7 14. Ng3 g6
+15. Qa4 Rc7 16. Rc2 Rfc8 17. Rfc1 Bd6 18. Nd2 Be8 19. Nb3 a6 20. Bxc6 Rxc6 21.
+Rxc6 Rxc6 22. Rxc6 Qxc6 23. Qa5 Bc7 24. Qc5 b6 25. Qe7 Bf7 26. Qa3 a5 27. Nd2
+f4 28. Ne2 fxe3 29. fxe3 Qc2 30. Qc3 Qxc3 31. Nxc3 Kf8 32. Kf2 Ke7 33. h3 Kd7
+34. e4 dxe4 35. Ndxe4 Bd8 36. Ke3 Kc6 37. Kd3 Be7 38. a3 b5 39. Nd2 f5 40. Nf3
+b4 41. axb4 axb4 42. Ne5+ Kb7 43. Nxf7 bxc3 44. bxc3 Kc6 45. Ne5+ Kd6 46. Nc4+
+Ke6 47. Ne3 h6 48. c4 g5 49. c5 h5 50. Kc4 f4 51. Nd5 Bd8 52. h4 Kf5 53. hxg5
+Bxg5 54. c6 Bd8 55. c7 Bxc7 56. Nxc7 f3 57. gxf3 h4 58. d5 h3 59. d6 h2 60. d7
+h1=Q 61. d8=Q Qxf3 62. Qd7+ Kf4 63. Nd5+ Kg3 64. Qd6+ Kf2 65. Nc3 Qf7+ 66. Kd3
+Qf3+ 67. Kc2 Qf5+ 68. Kd2 Qg5+ 69. Kd3 Qg3+ 1/2-1/2
+
+[Event "Budapest FS08 FM-A"]
+[Site "Budapest"]
+[Date "2008.08.02"]
+[Round "1"]
+[White "Daamen, Ferry"]
+[Black "Kovacs, Zoltan"]
+[Result "1-0"]
+[ECO "A58"]
+[WhiteElo "2042"]
+[BlackElo "2146"]
+[PlyCount "77"]
+[EventDate "2008.08.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. b3 Bg7 7. Bb2 O-O 8. g3 d6
+9. Bg2 Bxa6 10. Nh3 Nbd7 11. O-O Qb6 12. Qc2 Rfb8 13. Bc3 Bb7 14. e4 Ra6 15.
+Nd2 Qa7 16. Nc4 Ra8 17. a4 Nb6 18. Nxb6 Qxb6 19. Rfd1 Nd7 20. Bxg7 Kxg7 21. Bf1
+R6a7 22. Nf4 Ne5 23. Kg2 Qb4 24. Ne2 Ba6 25. f3 Bxe2 26. Bxe2 f6 27. Bb5 Rf8
+28. Rac1 g5 29. Qc3 Qxc3 30. Rxc3 g4 31. f4 Nf3 32. Rxf3 gxf3+ 33. Kxf3 Rb8 34.
+Rd3 Kf7 35. Kg4 Ra5 36. Kf5 Rg8 37. Bd7 Rg7 38. g4 Ra7 39. Bb5 1-0
+
+[Event "Budapest FS08 FM-A"]
+[Site "Budapest"]
+[Date "2008.08.02"]
+[Round "1"]
+[White "Teglas, Balazs"]
+[Black "Ruzicic, Sinisa"]
+[Result "1-0"]
+[ECO "A70"]
+[WhiteElo "2153"]
+[BlackElo "2045"]
+[PlyCount "95"]
+[EventDate "2008.08.02"]

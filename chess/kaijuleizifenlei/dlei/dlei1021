@@ -1,0 +1,600 @@
+[WhiteElo "2001"]
+[BlackElo "2078"]
+[PlyCount "63"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Bg5 c6 3. e3 Nf6 4. Bd3 Qb6 5. b3 e6 6. c3 Nbd7 7. Nd2 e5 8. Bxf6
+gxf6 9. f3 Bh6 10. Kf2 Nf8 11. Ne2 f5 12. a4 e4 13. Bc2 exf3 14. Nxf3 Ng6 15.
+g3 Bd7 16. Qb1 O-O-O 17. Bxf5 Rhe8 18. Nf4 Kb8 19. Bxd7 Rxd7 20. Re1 Rde7 21.
+Ra2 Qc7 22. Qf5 Ka8 23. Rae2 Qd6 24. h4 Kb8 25. h5 Nxf4 26. exf4 Rxe2+ 27. Rxe2
+Rxe2+ 28. Kxe2 Qe7+ 29. Qe5+ Qxe5+ 30. Nxe5 f5 31. Nd7+ Kc7 32. Nf6 1-0
+
+[Event "Vladimir op-B"]
+[Site "Vladimir"]
+[Date "2008.08.21"]
+[Round "9"]
+[White "Rodionov, Alexei"]
+[Black "Kalinin, Ivan"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[PlyCount "101"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Bg5 c6 3. e3 Nf6 4. Bxf6 exf6 5. Bd3 g6 6. Nf3 Bg7 7. c3 f5 8. Nbd2
+O-O 9. O-O Nd7 10. b3 Nf6 11. c4 Be6 12. c5 Ne4 13. b4 a6 14. a4 g5 15. g3 Bf6
+16. Ne1 f4 17. Nxe4 dxe4 18. Bxe4 Bg7 19. Nd3 f5 20. Bg2 fxg3 21. hxg3 Bd5 22.
+Rb1 Bxg2 23. Kxg2 Qd5+ 24. Qf3 Qc4 25. Qd1 Qd5+ 26. Kg1 Rf6 27. f4 g4 28. Rf2
+Re8 29. Ne5 Rh6 30. Rh2 Ree6 31. Rbb2 Rxh2 32. Rxh2 Bxe5 33. fxe5 Rxe5 34. Qd2
+Re7 35. Rf2 Qe4 36. Re2 Kg7 37. Re1 Kg6 38. Qg2 Qxg2+ 39. Kxg2 h5 40. Kf2 Kg5
+41. Rh1 Rh7 42. Kg2 Kf6 43. b5 axb5 44. axb5 Ke6 45. bxc6 bxc6 46. Rf1 Rh6 47.
+Ra1 Kd5 48. Ra8 Kc4 49. Rf8 Kd3 50. Kf2 Re6 51. Rxf5 1/2-1/2
+
+[Event "Vladimir op-B"]
+[Site "Vladimir"]
+[Date "2008.08.21"]
+[Round "9"]
+[White "Sanoyan, Gayane"]
+[Black "Kazennov, Ivan"]
+[Result "0-1"]
+[ECO "D37"]
+[BlackElo "1825"]
+[PlyCount "38"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. e3 Nbd7 6. cxd5 exd5 7. Be2 O-O 8.
+O-O Nb6 9. Bd2 Bg4 10. b3 c6 11. Rc1 Ba3 12. Qc2 Bxc1 13. Rxc1 Re8 14. a4 Nc8
+15. Ne5 Bxe2 16. Nxe2 Nd6 17. f3 Nd7 18. Ng4 f5 19. Nf2 Qf6 0-1
+
+[Event "Vladimir op-B"]
+[Site "Vladimir"]
+[Date "2008.08.21"]
+[Round "9"]
+[White "Savosto, Petr"]
+[Black "Kalmykova, Anastasia"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2226"]
+[BlackElo "2093"]
+[PlyCount "93"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Nd2 c5 5. c3 Nc6 6. Bd3 Bd6 7. Bxd6 Qxd6 8. f4
+cxd4 9. cxd4 Qb4 10. Rb1 Ne4 11. Ngf3 f5 12. a3 Qe7 13. O-O O-O 14. Bxe4 fxe4
+15. Ne5 Nxe5 16. dxe5 Bd7 17. Qb3 Qc5 18. Rfc1 Qa5 19. Qc3 Qxc3 20. Rxc3 Rfc8
+21. Rbc1 Rxc3 22. Rxc3 Rc8 23. Rxc8+ Bxc8 24. Nb3 Kf7 25. Kf2 h5 26. Kg3 Bd7
+27. Kh4 Kg6 28. Nd4 a6 29. h3 b6 30. g4 hxg4 31. hxg4 Kf7 32. f5 exf5 33. gxf5
+Bxf5 34. Nxf5 Ke6 35. Kg5 Kxe5 36. Nd4 Kd6 37. b4 Ke7 38. Kf5 a5 39. Ke5 axb4
+40. axb4 Kd7 41. Kxd5 g5 42. Nf5 g4 43. b5 Ke8 44. Kxe4 Kf7 45. Kf4 Ke6 46. e4
+Kf6 47. Kxg4 1-0
+
+[Event "Vladimir op-B"]
+[Site "Vladimir"]
+[Date "2008.08.21"]
+[Round "9"]
+[White "Shustov, Igor"]
+[Black "Frolova, Ekaterina"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2050"]
+[BlackElo "1925"]
+[PlyCount "43"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nf3 e6 5. Nc3 Nbd7 6. Ne5 Bb4 7. cxd5 exd5 8.
+Bd3 Qe7 9. f4 Nxe5 10. fxe5 Nd7 11. O-O O-O 12. e4 Bxc3 13. bxc3 Rd8 14. exd5
+cxd5 15. Qh5 g6 16. Qh6 Re8 17. Bg5 Qf8 18. Qh4 Nb6 19. Bxg6 fxg6 20. Rxf8+
+Rxf8 21. Bh6 Bf5 22. Bxf8 1-0
+
+[Event "Vladimir op-B"]
+[Site "Vladimir"]
+[Date "2008.08.21"]
+[Round "9"]
+[White "Tsybulnik, Andrei"]
+[Black "Ivanova, Anna"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2283"]
+[BlackElo "2157"]
+[PlyCount "41"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. Nc3
+O-O 9. Bg5 c4 10. Ne5 Be6 11. Nxc6 bxc6 12. b3 h6 13. Bxf6 Bxf6 14. Na4 Qa5 15.
+e3 Be7 16. Qc2 Rab8 17. bxc4 Rb4 18. cxd5 cxd5 19. Nc5 Rc8 20. Qd2 Bxc5 21.
+dxc5 1/2-1/2
+
+[Event "Vladimir op-B"]
+[Site "Vladimir"]
+[Date "2008.08.21"]
+[Round "9"]
+[White "Volkov, Anton"]
+[Black "Gutkin, Boris2"]
+[Result "0-1"]
+[ECO "D10"]
+[WhiteElo "2195"]
+[BlackElo "2202"]
+[PlyCount "80"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. c4 c6 5. Qb3 Qb6 6. Nc3 e6 7. c5 Qxb3 8. axb3
+Nbd7 9. b4 Nh5 10. Nf3 Nxf4 11. exf4 Be7 12. b5 O-O 13. Be2 cxb5 14. Nxb5 a6
+15. Nc3 Nb8 16. h3 Nc6 17. O-O Be4 18. Rfd1 Bxf3 19. Bxf3 Bf6 20. Ne2 Rfb8 21.
+f5 b6 22. fxe6 fxe6 23. Bg4 Kf7 24. Nf4 Nxd4 25. Rxd4 Bxd4 26. Bxe6+ Kf6 27.
+Bxd5 bxc5 28. Bxa8 Rxa8 29. Nd5+ Ke6 30. Nc3 Rb8 31. Nd1 Rb6 32. Kf1 Kd5 33.
+Ra4 Bxb2 34. Ne3+ Kc6 35. Nc4 Rb8 36. Nxb2 Rxb2 37. Rxa6+ Kd5 38. Ra7 c4 39.
+Rxg7 c3 40. Ke1 Rb1+ 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Aranaz Portugues, Jose Carlos"]
+[Black "Gonzalez Somoza, Oliver"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "2146"]
+[BlackElo "2357"]
+[PlyCount "95"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Nf6 8.
+c4 Qe4 9. d5 Nd4 10. Rc1 Nf5 11. Qf3 Qxf3 12. Nxf3 e4 13. Nd4 Nxd4 14. exd4 Bf5
+15. h3 h5 16. Be2 Bg6 17. Bf4 Rc8 18. O-O O-O 19. Rc3 b5 20. Ra3 bxc4 21. Bxc4
+Rfd8 22. Ba6 Nxd5 23. Bg5 f6 24. Bxc8 Rxc8 25. Bd2 Rb8 26. Rb3 Nb6 27. Rg3 Bf7
+28. Rc1 Nc4 29. Bf4 Rb2 30. Rgc3 Nb6 31. Ra3 Nd5 32. Bxc7 e3 33. fxe3 Bg6 34.
+Bg3 Be4 35. Bf2 Kh7 36. Rxa7 Kh6 37. a3 f5 38. Ra6+ Kh7 39. Re6 Nf6 40. Re5 Ra2
+41. Re7 Kh6 42. Ra7 Nd5 43. Ra5 f4 44. Re1 f3 45. gxf3 Bxf3 46. e4 Nf6 47. Rf5
+Rxa3 48. Be3+ 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Barrero Garcia, Carlos"]
+[Black "Campayo Hernandez, Juan"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2339"]
+[BlackElo "2123"]
+[PlyCount "77"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Qc2 a6 7. Bd2 Bd6 8. g4 h6
+9. Rg1 Qe7 10. h4 Bb4 11. O-O-O dxc4 12. e4 Bxc3 13. Bxc3 b5 14. g5 hxg5 15.
+hxg5 Nh5 16. d5 c5 17. g6 fxg6 18. dxe6 Nf8 19. Bxc4 Bxe6 20. Bd5 O-O-O 21. Ne5
+Bxd5 22. exd5 Qc7 23. d6 Rxd6 24. Qe4 Kb8 25. Rxd6 Qxd6 26. Nf7 Qf4+ 27. Qxf4+
+Nxf4 28. Be5+ Kc8 29. Bxf4 Rh5 30. Bd6 Nd7 31. f4 Nf6 32. Be5 Nd5 33. Rxg6 Nb4
+34. Rxg7 Nd3+ 35. Kd2 Nxe5 36. fxe5 Kd7 37. Ng5+ Ke8 38. Nf3 Rh6 39. Ke3 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Cruz Ravina, Francisco Javier"]
+[Black "Garcia Vidal, Francisco Jose"]
+[Result "1-0"]
+[ECO "D40"]
+[WhiteElo "2337"]
+[BlackElo "2026"]
+[PlyCount "37"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bd3 O-O 8. O-O
+Nc6 9. a3 dxc4 10. Bxc4 a6 11. d5 exd5 12. Nxd5 Nxd5 13. Bxd5 Bf6 14. Qb3 Qc7
+15. Be3 b5 16. Rac1 Bb7 17. Bg5 Qd6 18. Bxc6 Bxg5 19. Bxb7 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Garcia Molla, Victor Manuel"]
+[Black "Borisek, Jure"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "2301"]
+[BlackElo "2537"]
+[PlyCount "90"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Bc4 Nxc3 8.
+bxc3 c5 9. O-O Qc7 10. Qe2 Bg4 11. Ba3 Nd7 12. Rac1 Nb6 13. Bd3 c4 14. Be4 f5
+15. Bb1 Nd5 16. h3 Bh5 17. Qb2 Bxf3 18. gxf3 Rf6 19. Qe2 Rc8 20. Rc2 e5 21. Bc5
+exd4 22. Bxd4 Re6 23. Qd2 Rd8 24. Rd1 Ne7 25. a4 a6 26. Ba2 b5 27. axb5 axb5
+28. Rb2 Qa5 29. Rdb1 Ra6 30. Ra1 Kf8 31. Rbb1 Qb6 32. Rxb5 Qxb5 33. Bxg7+ Ke8
+34. Qe2 Rda8 35. Kg2 Qc5 36. Bd4 Qc7 37. e4 f4 38. Qb2 Rb8 39. Qe2 Rba8 40. Qb2
+Qc6 41. Qe2 Kf8 42. Qb2 Ra5 43. Qb4 Rb5 44. Qxc4 Qxc4 45. Bxc4 Rg5+ 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Hernandez Leon, Alberto"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "D91"]
+[WhiteElo "2236"]
+[BlackElo "2485"]
+[PlyCount "68"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 dxc4 6. e3 Be6 7. Ne5 Nd5 8.
+Nxc4 O-O 9. Be2 c5 10. O-O cxd4 11. exd4 Nc6 12. Be3 Rc8 13. Na3 Qb6 14. Na4
+Qb4 15. Nc5 Nxe3 16. fxe3 Nxd4 17. Nd3 Nxe2+ 18. Qxe2 Qb6 19. Rf2 Rfd8 20. Nf4
+Rd6 21. Kh1 Qc6 22. Nb5 Bc4 23. Nxd6 Bxe2 24. Nxc8 Qxc8 25. Rxe2 Be5 26. Rf1
+Qc4 27. b3 Qe4 28. Kg1 g5 29. Nh3 Qh4 30. Rf5 f6 31. Ref2 e6 32. Rxf6 Bxf6 33.
+Rxf6 g4 34. Rf4 e5 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Medina Carrasco, Antonio"]
+[Black "Capel Fernandez, Manuel"]
+[Result "1-0"]
+[ECO "D13"]
+[WhiteElo "2117"]
+[BlackElo "2025"]
+[PlyCount "76"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. cxd5 cxd5 6. Bg5 Be7 7. e3 a6 8. Bd3
+Bd7 9. O-O O-O 10. Rc1 Nc6 11. a3 Rc8 12. Na4 Nb8 13. Rxc8 Bxc8 14. Qc2 h6 15.
+Bxf6 Bxf6 16. Rc1 Nd7 17. Nc5 Nxc5 18. dxc5 Bd7 19. b4 Qe8 20. e4 dxe4 21. Bxe4
+Bc6 22. Nd2 Bg5 23. Bxc6 Qxc6 24. Rd1 Bxd2 25. Rxd2 Rc8 26. Rd4 a5 27. Qd3 axb4
+28. axb4 Qa4 29. h3 Qa1+ 30. Kh2 Qe1 31. Kg3 Qe5+ 32. f4 Qe1+ 33. Kh2 g6 34.
+Re4 Qf2 35. Rd4 Kh7 36. Qe4 Re8 37. Rd7 Kg8 38. Qe5 Rf8 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Ortiz Aviles, Javier"]
+[Black "Jimenez Minon, Jose Daniel"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "1885"]
+[BlackElo "2083"]
+[PlyCount "148"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c3 d5 2. d4 Nf6 3. Nf3 e6 4. Bg5 Be7 5. Nbd2 Nbd7 6. e3 O-O 7. Bd3 c5 8. O-O
+Re8 9. Re1 c4 10. Bc2 b5 11. e4 dxe4 12. Nxe4 Bb7 13. Nxf6+ Bxf6 14. Bxf6 Qxf6
+15. Ne5 Nxe5 16. Rxe5 a6 17. Qg4 Bd5 18. Rae1 Rf8 19. f4 Kh8 20. f5 Rad8 21.
+Rf1 Qh6 22. fxe6 fxe6 23. Qg5 Rxf1+ 24. Kxf1 Qxg5 25. Rxg5 a5 26. Rh5 h6 27.
+Re5 b4 28. Be4 Kg8 29. Bxd5 exd5 30. Re7 bxc3 31. bxc3 Rb8 32. a4 Rb1+ 33. Ke2
+Rb2+ 34. Kf1 Ra2 35. Re5 Rxa4 36. Rxd5 Kf7 37. Rc5 Kf6 38. Kf2 Ra2+ 39. Kf3 a4
+40. Rxc4 a3 41. Ra4 Ke6 42. Ra5 Ra1 43. Kg4 a2 44. Kh5 Kf6 45. h3 Kf7 46. Rf5+
+Ke6 47. Re5+ Kf6 48. Re2 Rc1 49. Rxa2 Rxc3 50. Re2 Rd3 51. Re4 Ra3 52. Rf4+ Ke6
+53. Kg6 Ra7 54. d5+ Kxd5 55. Rf7 Ra2 56. g4 Ra3 57. h4 Ra4 58. Kh5 g6+ 59. Kxg6
+Rxg4+ 60. Kh5 Ra4 61. Re7 Kd6 62. Re2 Kd7 63. Rh2 Ra6 64. Re2 Rb6 65. Re5 Rb4
+66. Ra5 Ke7 67. Ra6 Kf7 68. Rxh6 Rb5+ 69. Kg4 Rb4+ 70. Kg3 Rb3+ 71. Kf2 Kg7 72.
+Rh5 Kg6 73. Rh8 Rh3 74. Rg8+ Kh5 1/2-1/2
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Padial Garcia, Esteban"]
+[Black "Torres Moreno, Juan"]
+[Result "0-1"]
+[ECO "D83"]
+[BlackElo "2138"]
+[PlyCount "90"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Bd3 c5 7. Nf3 Nc6 8. dxc5
+dxc4 9. Bxc4 Qa5 10. O-O Qxc5 11. Bb3 Bf5 12. Qe2 Rad8 13. Rfd1 Rxd1+ 14. Rxd1
+e5 15. Bg3 e4 16. Nh4 Bg4 17. f3 exf3 18. gxf3 Bh3 19. Kh1 Re8 20. Bf2 Qh5 21.
+Ng2 g5 22. Nb5 Ne5 23. Nd4 Bh6 24. Bg3 Bf8 25. Rg1 Kh8 26. Bxe5 Rxe5 27. f4 Bg4
+28. Qc4 Ne4 29. Re1 Nf2+ 30. Kg1 Nh3+ 31. Kf1 gxf4 32. Qxf7 Qxf7 33. Bxf7 f3
+34. Nf4 Nxf4 35. exf4 Rxe1+ 36. Kxe1 Bc5 37. Be6 f2+ 38. Kf1 Bd1 39. Ne2 Bc2
+40. f5 Kg7 41. Ng3 Bd3+ 42. Kg2 Kf6 43. Bd5 b6 44. Ne4+ Ke5 45. Nxc5 f1=Q+ 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Pena Riasco, Alexander"]
+[Black "Alvarez Abejon, Amilcar"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2256"]
+[BlackElo "2114"]
+[PlyCount "73"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. a4 e5 5. dxe5 Qxd1+ 6. Kxd1 Be6 7. e4 Na6 8.
+f4 O-O-O+ 9. Ke2 Bg4+ 10. Nf3 Nb4 11. h3 Nc2 12. Rb1 Nd4+ 13. Kf2 Bxf3 14. gxf3
+Bc5 15. Bxc4 Nf5+ 16. Kg2 Ne3+ 17. Bxe3 Bxe3 18. Kg3 Rd2 19. Rhd1 Nh6 20. Rxd2
+Bxd2 21. Rd1 Rd8 22. e6 fxe6 23. Bxe6+ Kc7 24. Bb3 Bxc3 25. bxc3 Rxd1 26. Bxd1
+b5 27. f5 Kd6 28. f4 a5 29. Kf3 Kc5 30. Ke3 Kc4 31. Kd2 b4 32. cxb4 Kxb4 33.
+Bc2 Kc5 34. e5 Nf7 35. f6 gxf6 36. exf6 Kd5 37. Bb3+ 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.13"]
+[Round "1"]
+[White "Rabadan, Velasco Raul"]
+[Black "Torres Ventosa, Pedro Eugenio"]
+[Result "1-0"]
+[ECO "D90"]
+[WhiteElo "2323"]
+[BlackElo "2135"]
+[PlyCount "141"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qa4+ c6 5. Nf3 Bg7 6. cxd5 Nxd5 7. e4 Nxc3 8.
+bxc3 O-O 9. Be3 c5 10. Rc1 Qc7 11. Be2 Bd7 12. Qa3 b6 13. O-O Bc6 14. Nd2 e6
+15. f3 Bb7 16. dxc5 Nd7 17. Nb3 Rfc8 18. Bb5 Bf8 19. Bxd7 Qxd7 20. Rfd1 Qc7 21.
+Rb1 bxc5 22. Na5 Ba6 23. Qa4 Rab8 24. Nc4 Bxc4 25. Qxc4 Qa5 26. a4 Rd8 27. Rxb8
+Rxd1+ 28. Kf2 Qc7 29. Qb3 Rd8 30. Rxd8 Qxd8 31. Ke2 Qh4 32. Qb8 Qh5 33. g4 Qh3
+34. Bxc5 Qg2+ 35. Bf2 a6 36. Qg3 Qh1 37. Qg1 Qxg1 38. Bxg1 Bg7 39. Bd4 e5 40.
+Bc5 f6 41. Kd3 Kf7 42. Kc4 Ke6 43. Bb4 f5 44. h4 Bf6 45. h5 fxg4 46. fxg4 gxh5
+47. gxh5 Bd8 48. Bc5 Bg5 49. Kd3 Kd7 50. Be3 Be7 51. Ke2 Ba3 52. Kf3 Be7 53.
+Kg4 Ke6 54. c4 Bd8 55. Bc5 Ba5 56. Bf8 Bd2 57. Ba3 Ba5 58. Bc1 Bd8 59. Ba3 Ba5
+60. c5 Bd2 61. c6 Bc3 62. Bc5 Bb2 63. Kf3 Bc3 64. Ke2 Ba5 65. Kd3 Bc7 66. Kc4
+Ba5 67. Bf8 Bc7 68. Kc5 Ba5 69. Bd6 Bc3 70. c7 Kd7 71. Kd5 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.14"]
+[Round "2"]
+[White "Alvarez Abejon, Amilcar"]
+[Black "Padial Garcia, Esteban"]
+[Result "1/2-1/2"]
+[ECO "D56"]
+[WhiteElo "2114"]
+[PlyCount "56"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 O-O 6. e3 Nc6 7. Rc1 h6 8. Bh4
+Ne4 9. Bxe7 Nxc3 10. Bxd8 Nxd1 11. Bxc7 Nxb2 12. cxd5 exd5 13. Bd6 Rd8 14. Ba3
+Na4 15. Bb5 Nb6 16. Bxc6 bxc6 17. Ne5 Bb7 18. Nxc6 Bxc6 19. Rxc6 Nc4 20. Ra6
+Rdc8 21. O-O Nd2 22. Rc1 Rxc1+ 23. Bxc1 Rb8 24. Ra3 Rb1 25. Rc3 Ra1 26. h4 Nb1
+27. Rc2 Na3 28. Rc3 Nb1 1/2-1/2
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.14"]
+[Round "2"]
+[White "Aranaz Portugues, Jose Carlos"]
+[Black "Ortiz Aviles, Javier"]
+[Result "0-1"]
+[ECO "D47"]
+[WhiteElo "2146"]
+[BlackElo "1885"]
+[PlyCount "64"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+b4 9. Ne2 Bb7 10. O-O Be7 11. e4 O-O 12. Ng3 c5 13. e5 Nd5 14. Qc2 h6 15. Qe2
+N5b6 16. Rd1 Bd5 17. b3 a5 18. Bf4 a4 19. Nd2 cxd4 20. Qg4 Bg5 21. Nde4 Bxf4
+22. Qxf4 g5 23. Qg4 Nxe5 24. Qh5 f5 25. Qxh6 fxe4 26. Bxe4 Ra7 27. Bxd5 Qxd5
+28. Nh5 Ng4 29. Qg6+ Kh8 30. h3 Rxf2 31. Qe8+ Kh7 32. Nf6+ Nxf6 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.14"]
+[Round "2"]
+[White "Calvo Alfonso, Vicent"]
+[Black "Hernandez Leon, Alberto"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2185"]
+[BlackElo "2236"]
+[PlyCount "63"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Be7 5. Nbd2 O-O 6. Bd3 Nbd7 7. c3 b6 8. Ne5
+Bb7 9. Qf3 c5 10. Qh3 g6 11. Ndf3 Nxe5 12. Nxe5 Nh5 13. Bh6 Ng7 14. f4 a6 15.
+O-O b5 16. g4 f5 17. g5 Qe8 18. Rf3 Rf7 19. Nxf7 Qxf7 20. Bxg7 Qxg7 21. Qg2 b4
+22. h4 Bc6 23. Rh3 a5 24. a3 Rb8 25. h5 gxh5 26. axb4 axb4 27. Rxh5 Be8 28. Rh1
+Bd6 29. Bxf5 Bf7 30. Rxh7 Qxh7 31. Bxh7+ Kxh7 32. Ra7 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.14"]
+[Round "2"]
+[White "Casanova Mena, Pedro"]
+[Black "Escobar Felix, Eduardo"]
+[Result "1-0"]
+[ECO "D46"]
+[BlackElo "2153"]
+[PlyCount "115"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 Nf6 5. e3 Nbd7 6. Bd3 Bd6 7. O-O O-O 8. Qe2
+dxc4 9. Bxc4 e5 10. e4 h6 11. Rd1 Qc7 12. h3 Re8 13. d5 Nb6 14. dxc6 bxc6 15.
+Be3 Nxc4 16. Qxc4 Be6 17. Qa4 Nd7 18. Rac1 Nb6 19. Qc2 Nc4 20. Rd3 Nxe3 21.
+Rxe3 Rac8 22. Qa4 Qb6 23. Re2 Red8 24. Rec2 Bb8 25. Nd1 Bd7 26. Ne3 Qb5 27. Qa3
+g6 28. Qe7 Be6 29. a3 Bd6 30. Qf6 Re8 31. Qh4 Bf8 32. Ng4 Bxg4 33. Qxg4 Qb3 34.
+Qd7 c5 35. Qxa7 c4 36. Nd2 Qd3 37. Nxc4 Bc5 38. Qb7 Rb8 39. Nxe5 Rxb7 40. Nxd3
+Bd4 41. b4 Rxe4 42. Nc5 Bxc5 43. Rxc5 Re2 44. R5c2 Re6 45. Kf1 Ra6 46. Rc3 Rba7
+47. Ra1 Rd7 48. b5 Ra5 49. a4 Rd4 50. b6 Rb4 51. Rc6 Kg7 52. Ke2 Raxa4 53. Rxa4
+Rxa4 54. Kd3 Ra1 55. Kc4 Ra2 56. Kc5 Rxf2 57. b7 Rc2+ 58. Kd6 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.14"]
+[Round "2"]
+[White "Cramling, Pia"]
+[Black "Almagro Llanas, Pablo"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2544"]
+[BlackElo "2492"]
+[PlyCount "62"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Qc2 a6 5. Bf4 g6 6. e3 Bf5 7. Qb3 b5 8. cxd5
+Nxd5 9. Be5 f6 10. Bxb8 Rxb8 11. Nbd2 Qa5 12. Be2 Bh6 13. O-O Be6 14. Qc2 O-O
+15. Nb3 Qc7 16. Nc5 Bc8 17. Rfe1 Rd8 18. Bf1 e6 19. g3 Bf8 20. Red1 Nb6 21.
+Rac1 Qf7 22. Qb3 e5 23. Be2 Qxb3 24. Nxb3 Na4 25. Rxc6 Nxb2 26. Rb1 Nc4 27. Nc5
+exd4 28. Bxc4+ Kh8 29. Nxd4 Rd6 30. Ne4 Bf5 31. Nxd6 Bxb1 1-0
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.14"]
+[Round "2"]
+[White "Garcia Avila, Jose Francisco"]
+[Black "Martin Prieto, Oscar"]
+[Result "0-1"]
+[ECO "D04"]
+[BlackElo "2097"]
+[PlyCount "75"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 d5 4. b3 g6 5. Bb2 Bg7 6. Bd3 O-O 7. Nbd2 b6 8. O-O
+Nc6 9. a3 Bb7 10. Ne5 Nd7 11. f4 Ndxe5 12. dxe5 e6 13. Qg4 Ne7 14. Nf3 Nf5 15.
+Bxf5 exf5 16. Qh3 Qe7 17. Rab1 Rfd8 18. Ng5 h6 19. Nf3 Qe6 20. Rfd1 Rd7 21. Qg3
+a5 22. a4 Bc6 23. Ne1 Bf8 24. Ba3 Rad8 25. Qf2 d4 26. exd4 Rxd4 27. Rxd4 Rxd4
+28. Bb2 Rd8 29. c4 Qd7 30. Bc3 Be7 31. Rb2 Qd1 32. Qe2 Qc1 33. Rc2 Qxf4 34. Nf3
+Qe4 35. Qf2 Rd1+ 36. Be1 Bh4 37. Qe2 Qxe2 38. Rxe2 0-1
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.14"]
+[Round "2"]
+[White "Majul Martinez, Isolina"]
+[Black "Martinez Villar, Jesus"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[WhiteElo "2150"]
+[BlackElo "2142"]
+[PlyCount "85"]
+[EventDate "2008.08.13"]
+[EventType "team"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. Qc2 d5 6. cxd5 exd5 7. Bg5 Be7 8. e3
+O-O 9. Bd3 h6 10. Bxf6 Bxf6 11. O-O-O Nc6 12. a3 Na5 13. g4 c5 14. h4 cxd4 15.
+exd4 Be7 16. g5 h5 17. Ne5 Bd6 18. Qe2 Bxe5 19. dxe5 g6 20. Be4 Qc7 21. Bxd5
+Bxd5 22. Rxd5 Nc4 23. Rh3 Rad8 24. f4 Qc6 25. Qe4 Qe6 26. Rhd3 Rc8 27. Kb1 a6
+28. Ka2 b5 29. b3 Na5 30. Qb4 Nb7 31. Rd2 Rc7 32. Kb2 Rfc8 33. R5d3 Qc6 34. Qe4
+Nc5 35. Rd8+ Kg7 36. Qxc6 Rxc6 37. Rxc8 Rxc8 38. Rd6 Ne6 39. Rxa6 Nxf4 40. b4
+Nd3+ 41. Kb3 Nc1+ 42. Kb2 Nd3+ 43. Kb3 1/2-1/2
+
+[Event "ESP-chT Gp1"]
+[Site "Burguillos"]
+[Date "2008.08.14"]
+[Round "2"]
+[White "Perez Pardo, Juan Carlos"]
+[Black "Rabadan, Velasco Raul"]

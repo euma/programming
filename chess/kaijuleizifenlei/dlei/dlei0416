@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c6 4. c3 Bg4 5. Qb3 Qb6 6. Qxb6 axb6 7. Bd3 e6 8. h3
+Bh5 9. Nd2 b5 10. a3 Nbd7 11. Ngf3 Be7 12. O-O O-O 13. Ne5 Nxe5 14. Bxe5 Nd7
+15. Bh2 Nb6 16. f3 Nc4 17. Nxc4 bxc4 18. Bc2 Bg6 19. Bxg6 hxg6 20. e4 Ra5 21.
+Rae1 Rfa8 22. Bf4 Rb5 23. Bc1 Bf8 24. Re2 Ra6 25. exd5 Rxd5 26. Rfe1 c5 27. Be3
+Ra5 28. dxc5 Bxc5 29. Bxc5 Raxc5 30. Re4 Rd2 31. R1e2 Rxe2 32. Rxe2 g5 33. Kf2
+Kf8 34. Re4 Ke7 35. Ke1 f5 36. Re2 Rd5 37. Kf2 e5 38. Rc2 Kd6 39. Ke3 Kc5 40.
+Kf2 Kb5 41. Re2 Ka4 42. Ke1 Kb3 43. Kf1 Rd1+ 44. Kf2 Rb1 45. Rxe5 Rxb2+ 46. Kf1
+Kxc3 47. Rxf5 Kb3 48. Rxg5 c3 49. Rxg7 Ka2 50. Rc7 c2 51. g4 Rb1+ 52. Kg2 c1=Q
+53. Rxc1 Rxc1 54. g5 Kxa3 55. g6 Rc6 0-1
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.28"]
+[Round "5"]
+[White "Ibarretxe Campo, Lander"]
+[Black "Perez de Miguel, Alvaro"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "2113"]
+[BlackElo "2123"]
+[PlyCount "54"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 e6 5. e3 Nbd7 6. Nc3 a6 7. Bd3 dxc4 8. Bxc4
+b5 9. Be2 c5 10. dxc5 Nxc5 11. b4 Ncd7 12. a3 Bb7 13. O-O Rc8 14. Bb2 Be7 15.
+Rac1 O-O 16. Rfd1 Qb6 17. Qb1 Rfd8 18. h3 Qa7 19. Rd2 Nb6 20. Rxd8+ Rxd8 21.
+Rd1 Rc8 22. Ne5 Qb8 23. Na2 Bd6 24. Ng4 Nxg4 25. hxg4 Nc4 26. Qa1 Bh2+ 27. Kh1
+Nxe3 0-1
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.28"]
+[Round "5"]
+[White "Prieto Aranguren, Alain"]
+[Black "Cruz Artanduaga, Fernando"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2177"]
+[PlyCount "47"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. Qc2 Bd6 6. Nf3 Nbd7 7. b3 O-O 8. Bd3
+h6 9. e4 dxe4 10. Nxe4 Nxe4 11. Bxe4 Qa5+ 12. Bd2 Qh5 13. O-O-O f5 14. Bd3 e5
+15. dxe5 Nxe5 16. Nxe5 Bxe5 17. Bc3 Bxc3 18. Qxc3 Be6 19. Rhe1 Rfe8 20. h3 Qf7
+21. Re5 a6 22. c5 g6 23. Rde1 a5 24. Rxe6 1-0
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.29"]
+[Round "6"]
+[White "Argandona Riveiro, Inigo"]
+[Black "Martin Alvarez, Inigo"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2404"]
+[BlackElo "2189"]
+[PlyCount "71"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. c5 Bg4 7. h3 Bh5 8. g4 Bg6
+9. Ne5 Nfd7 10. Nxg6 hxg6 11. f4 e6 12. Qf3 a5 13. a4 b4 14. Nb1 Qh4+ 15. Qf2
+Qxf2+ 16. Kxf2 Be7 17. Bg2 f5 18. g5 Na6 19. Nd2 Kf7 20. h4 Bd8 21. Nb3 Bc7 22.
+Bd2 Rae8 23. Rh3 Rh7 24. Rah1 Reh8 25. Bf3 Ndb8 26. Be2 Bd8 27. Kg2 Bc7 28. Be1
+Bd8 29. Bf2 Bc7 30. Nd2 Bd8 31. Nf3 Bc7 32. b3 Ke7 33. h5 gxh5 34. g6 Rh6 35.
+Bh4+ Kd7 36. Bg5 1-0
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.29"]
+[Round "6"]
+[White "Axpe Balenciaga, Inigo"]
+[Black "Villalta Bustillo, Igor"]
+[Result "0-1"]
+[ECO "D53"]
+[WhiteElo "2167"]
+[BlackElo "2119"]
+[PlyCount "62"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 h6 6. Bf4 c6 7. e3 Nbd7 8. Rc1
+a6 9. Bd3 dxc4 10. Bxc4 b5 11. Bb3 Bb7 12. O-O O-O 13. a4 b4 14. Ne2 c5 15. Ne5
+Nxe5 16. Bxe5 Rc8 17. Nf4 Qb6 18. Qd3 Rfd8 19. Rfd1 Be4 20. Qe2 Nd7 21. dxc5
+Bxc5 22. a5 Qb7 23. f3 Bf5 24. g4 Nxe5 25. Rxd8+ Rxd8 26. Kf2 Nd3+ 27. Nxd3
+Bxd3 28. Qd2 Be7 29. e4 Bg5 30. f4 Bh4+ 31. Kg1 Qa7+ 0-1
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.29"]
+[Round "6"]
+[White "Franco Alonso, Alejandro"]
+[Black "Huerga Leache, Mikel"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2445"]
+[BlackElo "2440"]
+[PlyCount "95"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 a6 5. Qc2 e6 6. Nf3 c5 7. cxd5 exd5 8. Be2
+Nc6 9. O-O Be6 10. dxc5 Bxc5 11. Nb5 Bb6 12. Nbd4 Nxd4 13. Nxd4 O-O 14. Qd3 Qd6
+15. Bd2 Bg4 16. Bc3 Bxe2 17. Nxe2 Rad8 18. Bxf6 Qxf6 19. Rfd1 Rfe8 20. Rd2 Re5
+21. Rad1 h5 22. Nd4 h4 23. Qe2 Qg6 24. Qf3 Rde8 25. Qh3 Re4 26. Qf5 Bxd4 27.
+Qxg6 fxg6 28. Rxd4 Rxd4 29. Rxd4 Rc8 30. h3 Rc1+ 31. Kh2 Rc2 32. Rb4 b5 33. Kg1
+Rc1+ 34. Kh2 Rc2 35. Kg1 Rc1+ 36. Kh2 g5 37. g3 Rc4 38. Rb3 Kf7 39. Ra3 Rc2 40.
+Kg2 Rc6 41. Ra5 Ke6 42. b4 Ke5 43. a4 bxa4 44. Rxa4 Rb6 45. Kf3 Rf6+ 46. Kg2
+Rb6 47. Kf3 Rf6+ 48. Kg2 1/2-1/2
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.29"]
+[Round "6"]
+[White "Gomez Esteban, Juan Mario"]
+[Black "Gonzalez de la Torre, Santiago"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2496"]
+[BlackElo "2389"]
+[PlyCount "67"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+a6 9. Bb2 e5 10. cxd5 cxd5 11. dxe5 Nxe5 12. O-O Be6 13. Nxe5 Bxe5 14. Na4 Rc8
+15. Qd3 Bb8 16. Bd4 b5 17. Nc3 b4 18. Na4 Rc6 19. f4 Ne4 20. Bf3 Bf5 21. Rfc1
+Qh4 22. Rxc6 Qf2+ 23. Kh1 Ng3+ 24. hxg3 Bxd3 25. Rac1 Bf5 26. Nb6 Qxg3 27. Nxd5
+Bd7 28. Rxa6 Re8 29. Kg1 h5 30. Rh6 f6 31. Bxh5 Re6 32. Rg6 Qh4 33. Nxf6+ Kh8
+34. Nxd7 1-0
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.30"]
+[Round "7"]
+[White "Burguete Archel, Eduardo"]
+[Black "Prieto Aranguren, Alain"]
+[Result "0-1"]
+[ECO "D42"]
+[WhiteElo "2173"]
+[BlackElo "2177"]
+[PlyCount "90"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bd3 O-O 9. O-O Nc6 10. Re1 Bf6 11. Be4 Nce7 12. Qe2 Bd7 13. Bd3 Bc6 14. Ne4 Nf5
+15. Nxf6+ Qxf6 16. Rd1 Nb4 17. Bb1 Bd5 18. Ne5 Nc6 19. Qg4 Nxe5 20. dxe5 Qxe5
+21. Bf4 Qxb2 22. Bxf5 exf5 23. Qg3 Qb5 24. Bh6 Qb2 25. Be3 f6 26. Bc5 Rf7 27.
+Ba3 Qb5 28. Rac1 Bc6 29. Rc5 Qa4 30. Rdc1 f4 31. Qc3 Qe4 32. Qh3 Re8 33. Rf1 f3
+34. g3 Qd3 35. Bb4 Bb5 36. Rfc1 Rd7 37. Rc8 Rdd8 38. Rxd8 Rxd8 39. Qe6+ Kh8 40.
+h4 Re8 41. Qf7 Qd7 42. Qh5 Qh3 43. Qxf3 Bc6 44. Rxc6 bxc6 45. Qxc6 Rc8 0-1
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.30"]
+[Round "7"]
+[White "Hernandez Perez, Jesus"]
+[Black "Ibarretxe Campo, Lander"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2043"]
+[BlackElo "2113"]
+[PlyCount "105"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Bd6 5. Bg3 Ne4 6. Bd3 Nd7 7. Bxd6 cxd6 8.
+c4 Nef6 9. Nc3 dxc4 10. Bxc4 O-O 11. O-O a6 12. Rc1 b5 13. Bd3 Bb7 14. a3 Qb6
+15. Qe2 e5 16. dxe5 dxe5 17. Bf5 Rfe8 18. Rfd1 Rad8 19. b4 g6 20. Bc2 e4 21.
+Nd4 Ne5 22. Nb3 Rxd1+ 23. Rxd1 Nc4 24. a4 Bc8 25. axb5 axb5 26. h3 Bf5 27. Nc5
+h5 28. Bb3 Nd6 29. Rd4 Rc8 30. Bd5 Rxc5 31. bxc5 Qxc5 32. Qd2 Kg7 33. Bb3 Nb7
+34. Nd5 Nd7 35. Qc3 Qxc3 36. Nxc3 Na5 37. Bc2 Nc6 38. Rd6 Nb4 39. Bxe4 Be6 40.
+Nxb5 Nc5 41. Bf3 Nbd3 42. Nd4 Ne5 43. Nxe6+ Nxe6 44. Be2 Kf8 45. Ra6 Ke7 46.
+Ra7+ Kf6 47. Ra6 Kg7 48. f4 Nd7 49. Bc4 Nec5 50. Rc6 Kf8 51. Rc7 Ke7 52. Bb5
+Kd6 53. Ra7 1-0
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.30"]
+[Round "7"]
+[White "Huerga Leache, Mikel"]
+[Black "Astasio Lopez, David"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2440"]
+[BlackElo "2192"]
+[PlyCount "69"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 c6 4. Bg2 Bf5 5. O-O h6 6. c4 e6 7. Nc3 Nbd7 8. b3
+Bd6 9. Bb2 O-O 10. c5 Bc7 11. b4 a6 12. a4 e5 13. b5 Bg4 14. dxe5 Nxe5 15. b6
+Bb8 16. Nxd5 Bxf3 17. Nxf6+ Qxf6 18. exf3 Nxf3+ 19. Bxf3 Qxb2 20. Qd7 Qf6 21.
+Qxb7 Be5 22. Ra3 Rfc8 23. Rd3 a5 24. Rfd1 Bc3 25. Be4 Rab8 26. Qa7 g6 27. Rf3
+Qg7 28. Bxc6 Rd8 29. Rd7 Bf6 30. Bd5 Rxd7 31. Qxd7 Rd8 32. Qc6 g5 33. Qxf6 Rxd5
+34. Qxg7+ Kxg7 35. b7 1-0
+
+[Event "Euskadi-ch"]
+[Site "Zornotza"]
+[Date "2008.03.30"]
+[Round "7"]
+[White "Perez de Miguel, Alvaro"]
+[Black "Perez Fernandez, Modesto C"]
+[Result "0-1"]
+[ECO "D48"]
+[WhiteElo "2123"]
+[BlackElo "2109"]
+[PlyCount "78"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 Bb7 10. O-O c5 11. d5 c4 12. dxe6 fxe6 13. Bc2 Qc7 14. Qe2 e5 15. Ng5
+Qc6 16. Nd5 h6 17. Ne6 Rc8 18. Nxf8 Rxf8 19. Rd1 Qe6 20. a4 Kf7 21. axb5 axb5
+22. Ra7 Rb8 23. b3 Rbc8 24. Qf3 Kg8 25. bxc4 bxc4 26. Ba3 Bxd5 27. exd5 Qb6 28.
+Qe3 Ra8 29. Rxa8 Rxa8 30. Qf3 e4 31. Qc3 Ng4 32. Rd2 e3 33. fxe3 Nxe3 34. Kh1
+Nf6 35. d6 Nfd5 36. Rxd5 Nxd5 37. Qxc4 Qa5 38. Qe4 Nf6 39. Qe6+ Kh8 0-1
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.24"]
+[Round "1"]
+[White "Dobrov, Vladimir"]
+[Black "Prasenjit, Datta"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2501"]
+[BlackElo "2296"]
+[PlyCount "55"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+
+8. Be2 Na6 9. Bd6 Bd7 10. Nf3 O-O-O 11. O-O Be8 12. Bd3 Qg4 13. c5 Nc7 14. h3
+Qh5 15. Qa4 Kb8 16. Rad1 Rxd6 17. cxd6 Nd5 18. Be4 Ngf6 19. Bxd5 Nxd5 20. Rfe1
+f6 21. Rxe6 Bd7 22. Re7 Nb6 23. Qe4 g5 24. a4 f5 25. Qd4 Rg8 26. Ne5 g4 27.
+hxg4 fxg4 28. Qc5 1-0
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.24"]
+[Round "1"]
+[White "Lputian, Smbat G"]
+[Black "Gokhale, Chandrashekhar"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2616"]
+[BlackElo "2323"]
+[PlyCount "64"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 a6 7. c5 Nh5 8. Bd3
+Nxf4 9. exf4 Nc6 10. a3 a5 11. O-O b6 12. cxb6 cxb6 13. Qc2 f5 14. Rac1 Bd7 15.
+Bb5 Bd6 16. g3 Rc8 17. Qa4 Nb8 18. Rfe1 Re8 19. Qb3 Bxb5 20. Qxb5 h6 21. h4 Rc6
+22. Na4 Rxc1 23. Rxc1 Nd7 24. Rc6 Bc7 25. Ne5 Nxe5 26. fxe5 Re7 27. Nxb6 f4 28.
+Na4 fxg3 29. fxg3 Qe8 30. Nc3 Qg6 31. Kg2 Rf7 32. Qe2 Kh7 1-0
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.24"]
+[Round "1"]
+[White "Ramakrishna, J."]
+[Black "Abdulla, Al Rakib"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "2296"]
+[BlackElo "2506"]
+[PlyCount "124"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 c6 4. Bg2 Bg4 5. O-O Nbd7 6. b3 e6 7. c4 Be7 8. Bb2
+O-O 9. Nbd2 a5 10. a3 Qb6 11. Ne5 Nxe5 12. dxe5 Nd7 13. h3 Bh5 14. Kh1 f6 15.
+cxd5 cxd5 16. exf6 Bxf6 17. Bxf6 Rxf6 18. f4 Qe3 19. Nf3 Rc8 20. b4 axb4 21.
+axb4 Rc4 22. Qd3 Qxd3 23. exd3 Rxb4 24. Rfb1 Rxb1+ 25. Rxb1 Bxf3 26. Bxf3 b6
+27. Kg2 Kf8 28. d4 Ke7 29. Bd1 Rf8 30. Bc2 h6 31. Ba4 Rb8 32. Bb5 Nf6 33. Rc1
+Rb7 34. Rc8 Ne4 35. Re8+ Kf7 36. Rd8 Ra7 37. Rd7+ Rxd7 38. Bxd7 Ke7 39. Bc6 Nd6
+40. g4 Kd8 41. Kf3 Kc7 42. Ba4 b5 43. Bb3 Nc4 44. Ke2 Kb6 45. Bc2 Ka5 46. Bg6
+Kb4 47. Bf7 Kc3 48. Bxe6 Kxd4 49. Bf5 b4 50. Bd3 b3 51. h4 Ne3 52. g5 Ng2 53.
+f5 Nf4+ 54. Kd2 hxg5 55. hxg5 Nxd3 56. f6 gxf6 57. g6 Nb4 58. g7 b2 59. g8=Q
+b1=Q 60. Qg4+ Qe4 61. Qg1+ Kc4 62. Qc1+ Qc2+ 0-1
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.25"]
+[Round "2"]
+[White "Abdulla, Al Rakib"]
+[Black "Thejkumar, MS."]
+[Result "0-1"]
+[ECO "D53"]
+[WhiteElo "2506"]
+[BlackElo "2382"]
+[PlyCount "84"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. Qc2 c5 7. dxc5 d4 8.
+O-O-O Nc6 9. e3 e5 10. Bxf6 Bxf6 11. Nd5 Be6 12. Kb1 Bxd5 13. cxd5 Qxd5 14. Bc4
+Qd8 15. h4 Rc8 16. Ng5 g6 17. Ne4 b6 18. h5 Kg7 19. Rh3 Na5 20. Ba6 Rc7 21.
+exd4 exd4 22. Qd2 Kg8 23. Qf4 Bg7 24. b4 bxc5 25. Nxc5 Qb8 26. Nb3 Nxb3 27.
+Rxb3 Qb6 28. Bd3 Rc3 29. Rxc3 dxc3 30. Kc2 Qc6 31. Bc4 g5 32. Qg4 Kh8 33. Bb3
+f5 34. Qf3 Qb6 35. a3 a5 36. Qe3 Qc6 37. bxa5 Re8 38. Rd6 Qb5 39. a4 Qb8 40.
+Qd3 Qa7 41. Qxf5 Rf8 42. Qd3 Qxf2+ 0-1
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.25"]
+[Round "2"]
+[White "Koneru, Humpy"]
+[Black "Satyapragyan, Swayangsu"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2612"]
+[BlackElo "2406"]
+[PlyCount "118"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. Rc1 c6 8.
+a3 Be7 9. e3 Ne4 10. Bxe7 Qxe7 11. Bd3 Ndf6 12. Ne5 Nd6 13. Qc2 O-O 14. O-O g6
+15. f3 Nd7 16. f4 f6 17. Nxd7 Bxd7 18. e4 dxe4 19. Nxe4 Nxe4 20. Bxe4 Kg7 21.
+d5 Rac8 22. dxc6 Bxc6 23. Bxc6 Rxc6 24. Qf2 Rxc1 25. Rxc1 b6 26. f5 Rf7 27. h4
+Qe5 28. fxg6 hxg6 29. Re1 Qc5 30. Qxc5 bxc5 31. Rc1 Rb7 32. Rxc5 Rxb2 33. Rc7+
+Kh6 34. Kh2 Rb3 35. Rxa7 Kh5 36. g3 Kg4 37. Ra4+ Kh5 38. Kh3 f5 39. Ra8 Kh6 40.
+Kg2 Kh5 41. Ra5 Rc3 42. Ra4 Rb3 43. Ra6 Rc3 44. a4 Ra3 45. Kf2 g5 46. hxg5 Kxg5
+47. Ra8 f4 48. Rg8+ Kh6 49. gxf4 Rxa4 50. Kf3 Ra3+ 51. Kg4 Ra4 52. Rg5 Rb4 53.
+Kf5 Rb5+ 54. Kf6 Rb6+ 55. Kf5 Rb5+ 56. Kg4 Rxg5+ 57. fxg5+ Kg6 58. Kf4 Kg7 59.
+Kf5 Kf7 1/2-1/2
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.25"]
+[Round "2"]
+[White "Lodhi, Mahmood"]
+[Black "Dobrov, Vladimir"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2397"]
+[BlackElo "2501"]
+[PlyCount "86"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 d5 3. g3 c6 4. Bg2 Bg4 5. Ne5 Bf5 6. O-O Nbd7 7. c4 e6 8. cxd5
+exd5 9. f4 h5 10. Qb3 Qb6 11. Qxb6 axb6 12. Nc3 b5 13. Bd2 Nb6 14. a3 Ne4 15.
+Be1 Bd6 16. Nd1 f6 17. Ne3 Bh7 18. Nd3 Nc4 19. Nxc4 bxc4 20. Bxe4 dxe4 21. Nf2
+e3 22. Nd1 O-O-O 23. Nxe3 Rhe8 24. Nxc4 Bc7 25. Bf2 b5 26. Ne3 Rxd4 27. Rac1
+Kb7 28. Nc2 Rd2 29. Nd4 Bb6 30. e3 Be4 31. b4 Rb2 32. Rc3 g5 33. Nb3 Rd8 34.
+fxg5 fxg5 35. Nc5+ Bxc5 36. Rxc5 Rf8 37. Rxg5 Rf7 38. Rc5 Rd2 39. Rcc1 h4 40.
+g4 h3 41. a4 bxa4 42. b5 cxb5 43. Rc5 Bd3 0-1
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.25"]
+[Round "2"]
+[White "Prakash, GB."]
+[Black "Sriram, Jha"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[WhiteElo "2341"]
+[BlackElo "2457"]
+[PlyCount "63"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 Nbd7 8. O-O
+Be7 9. g3 Qc7 10. Bd2 Ne4 11. Nxg6 Nxc3 12. bxc3 hxg6 13. Qb3 O-O 14. cxd5 exd5
+15. c4 dxc4 16. Bxc4 Rab8 17. a4 c5 18. Rfc1 Qd6 19. Bc3 Bf6 20. Rd1 Qe7 21.
+Bb5 Rfd8 22. Qa3 Rbc8 23. Rac1 Nf8 24. dxc5 Rxd1+ 25. Rxd1 Bxc3 26. Qxc3 Rxc5
+27. Qb4 Qc7 28. Kg2 b6 29. Qe4 Qc8 30. h4 Qf5 31. Qxf5 gxf5 32. h5 1/2-1/2
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.25"]
+[Round "2"]
+[White "Sasikiran, Krishnan"]
+[Black "Barbosa, Oliver2"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2677"]
+[BlackElo "2410"]
+[PlyCount "126"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
+Ne5 a5 9. g3 e6 10. Bg2 Bb4 11. O-O O-O 12. e3 h6 13. Qe2 Bh7 14. Rd1 Nfd7 15.
+Nd3 Qe7 16. e4 e5 17. d5 Bd6 18. b3 Rac8 19. dxc6 bxc6 20. Be3 Kh8 21. Rac1 f6
+22. Nb1 Bg8 23. Nd2 Be6 24. Rc2 Qf7 25. Bf3 Kh7 26. Bg4 Ba3 27. Nb2 Qe7 28.
+Nbc4 Nxc4 29. Nxc4 Bb4 30. Bxe6 Qxe6 31. Bd2 Nc5 32. Bxb4 axb4 33. Qe3 Qe7 34.
+Nd6 Ne6 35. Nxc8 Rxc8 36. Rcd2 Rc7 37. Rc1 c5 38. Rd5 Nd4 39. Kg2 Qf8 40. Qd3
+Qc8 41. h3 h5 42. h4 Qf8 43. Qd1 Kg6 44. f4 Qe7 45. Rc4 Rc8 46. a5 Kh6 47. a6
+Rc6 48. fxe5 fxe5 49. Rdxc5 Rxc5 50. Qc1+ Kh7 51. Rxc5 Qf8 52. Rc2 Qa8 53. Rf2
+Qxe4+ 54. Kh3 Ne2 55. Rxe2 Qg4+ 56. Kh2 Qxe2+ 57. Kg1 Qxa6 58. Qg5 Qb6+ 59. Kg2
+Qc6+ 60. Kh2 Qc2+ 61. Kh3 Qc8+ 62. Kh2 Qc2+ 63. Kh3 Qc8+ 1/2-1/2
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.26"]
+[Round "3"]
+[White "Lputian, Smbat G"]
+[Black "Bakre, Tejas"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2616"]
+[BlackElo "2459"]
+[PlyCount "49"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 c5 8.
+cxd5 exd5 9. e3 O-O 10. dxc5 Bxc3+ 11. Qxc3 Qxc3+ 12. bxc3 Be6 13. Nd4 Rc8 14.
+Rb1 Nd7 15. c4 Nxc5 16. Nxe6 fxe6 17. cxd5 exd5 18. Be2 Ne4 19. Bf3 Rc2 20. O-O
+b6 21. a4 Rac8 22. Rb5 Nd2 23. Rd1 Nxf3+ 24. gxf3 Ra2 25. a5 1/2-1/2
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.26"]
+[Round "3"]
+[White "Neelotpal, Das"]
+[Black "Nolte, Rolando"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2486"]
+[BlackElo "2412"]
+[PlyCount "41"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. b4 Bg7 5. e3 O-O 6. Be2 b6 7. Bb2 Nbd7 8. b5
+Bb7 9. c4 dxc4 10. Nxc4 a6 11. a4 axb5 12. axb5 Ne4 13. O-O Nd6 14. Nce5 Nxe5
+15. dxe5 Ne4 16. Bd4 Nc5 17. Bxc5 bxc5 18. Qc2 Bxf3 19. Bxf3 Bxe5 20. Qxc5 Qd6
+21. Qxd6 1/2-1/2
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.26"]
+[Round "3"]
+[White "Rahman, Ziaur"]
+[Black "Frhat, Ali"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2492"]
+[BlackElo "2379"]
+[PlyCount "119"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg4 7. Qb3 Qc7 8. h3
+Bh5 9. g4 Bg6 10. Nxg6 hxg6 11. Bg2 Nbd7 12. Bd2 Nb6 13. cxd5 exd5 14. O-O-O a5
+15. Kb1 a4 16. Qc2 Nc4 17. g5 Nd7 18. e4 Qb6 19. Ka1 a3 20. b3 Nxd2 21. Rxd2
+Bb4 22. exd5 O-O 23. dxc6 bxc6 24. h4 Rad8 25. Rd3 Rfe8 26. Na4 Qa5 27. Re3
+Rxe3 28. fxe3 c5 29. h5 gxh5 30. g6 cxd4 31. exd4 Nf6 32. Qc4 Bd6 33. gxf7+ Kf8
+34. Rd1 Qg5 35. Bc6 Qg4 36. Rc1 Rc8 37. Re1 Bg3 38. Rc1 h4 39. b4 Rxc6 40. Qxc6
+Qxd4+ 41. Qc3 Qxc3+ 42. Nxc3 h3 43. Kb1 Bf4 44. Rh1 h2 45. Kc2 Kxf7 46. Kd3 Ke6
+47. Ke2 Be5 48. Nb1 g5 49. Kf3 g4+ 50. Kg2 g3 51. Nxa3 Nd5 52. Nc4 Bb8 53. Re1+
+Kf6 54. Rd1 Nxb4 55. Rb1 Nc2 56. Rxb8 Ne1+ 57. Kh1 Nd3 58. Rh8 Kf5 59. Kg2 Kf4
+60. Rh4+ 1-0
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.26"]
+[Round "3"]
+[White "Singh, DP."]
+[Black "Suvrajit, Saha"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2326"]
+[BlackElo "2363"]
+[PlyCount "93"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. e3 Be7 5. b3 Ne4 6. Bd3 f5 7. O-O Nd7 8. Bb2
+O-O 9. Nc3 c6 10. Ne2 Bd6 11. Ne5 Qe7 12. Rc1 a5 13. f3 Ng5 14. Kh1 Nf7 15. f4
+Nf6 16. Kg1 Ne4 17. c5 Bc7 18. a3 Nxe5 19. fxe5 Bd7 20. Bxe4 dxe4 21. Bc3 Be8
+22. Qc2 g5 23. g4 Bg6 24. Ng3 fxg4 25. Nxe4 Rxf1+ 26. Rxf1 Rf8 27. Qg2 Rxf1+
+28. Kxf1 Bxe4 29. Qxe4 Qf7+ 30. Ke2 Qh5 31. Kd3 Qh3 32. Be1 Kg7 33. Qh1 h5 34.
+Qg1 Qf3 35. Qf2 Qd1+ 36. Kc4 Qc1+ 37. Kd3 Qb1+ 38. Kc4 Qf5 39. e4 Qf4 40. Qxf4
+gxf4 41. Bh4 Kf7 42. Kd3 b6 43. b4 bxc5 44. bxc5 Ke8 45. Bg5 f3 46. a4 Bd8 47.
+Bf6 1/2-1/2
+
+[Event "Kolkata op 3rd"]
+[Site "Kolkata"]
+[Date "2008.03.26"]
+[Round "3"]
+[White "Sriram, Jha"]
+[Black "Babu, N Sudhakar"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "2457"]
+[BlackElo "2333"]
+[PlyCount "113"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Na6 7. a3 Nc7 8. e3
+Be7 9. Bd3 Ne6 10. Bh4 g6 11. Nge2 Ng7 12. f3 Bf5 13. O-O Ng4 14. fxg4 Bxd3 15.
+Qxd3 Bxh4 16. e4 dxe4 17. Qxe4+ Qe7 18. d5 Qxe4 19. Nxe4 cxd5 20. Nd6+ Ke7 21.
+Rxf7+ Kxd6 22. Rxg7 b6 23. Rf1 Raf8 24. g3 Rxf1+ 25. Kxf1 Bf6 26. Rxa7 Bxb2 27.
+Nf4 Bd4 28. Ke2 g5 29. Nh5 Re8+ 30. Kd3 Bc5 31. a4 Re3+ 32. Kd2 d4 33. Ng7 Bb4+

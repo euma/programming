@@ -1,0 +1,600 @@
+[Result "1-0"]
+[ECO "E04"]
+[WhiteElo "2740"]
+[BlackElo "2711"]
+[Annotator "Marin,M"]
+[PlyCount "105"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 Bb4+ 6. Bd2 a5 7. O-O $5 {
+Possibly, a new trend.} ({Since the Kramnik-Topalov match, there has been some
+theoretical discussion in the variation} 7. Qc2 Bxd2+ (7... Ra6 $5 $146 {Marin,
+M (2551)-Kortschnoj,V (2611)/Reggio Emilia 2008/CBM 122/[Marin,M] (1/2-1/2, 58)
+}) 8. Qxd2 c6 9. a4 b5 10. axb5 cxb5 11. Qg5 O-O 12. Qxb5 Ba6 13. Qa4 Qb6 14.
+O-O Qxb2 15. Nbd2 Bb5 16. Nxc4 Bxa4 17. Nxb2 Bb5 18. Ne5 Ra7 19. Nbd3 $1 {
+Gleizerov,E (2552)-Luther,T (2534)/Predeal Romanian team championship 2007 
+(1-0, 53)} (19. Bf3 {Kramnik,V (2743)-Topalov,V (2813)/Elista 2006/CBM 115/
+[Marin,M] (1-0, 75)})) 7... O-O 8. Bg5 {Still refraining from moving the queen,
+in complete accordance with classical principles (The lady must be the last to
+be developed)} (8. Qc2 {Karpov,A (2710)-Piket,J (2615)/Monte Carlo 1999/CBM
+070/[Piket] (1/2-1/2, 43)}) 8... b5 ({There is an important deviation here:} 
+8... Nc6 {In practice, Black has been doing fine, but White seems to be able
+to improve.} 9. Nc3 (9. e3 h6 10. Bxf6 Qxf6 11. a3 Bd6 12. Nc3 e5 13. d5 Na7
+14. Nd2 b5 15. a4 Bd7 16. Qc2 Bb4 17. axb5 Nxb5 18. Nxb5 Bxb5 19. Nxc4 a4 20.
+Rfc1 $14 {/= Markus,R (2585)-Beliavsky,A (2622)/Turin 2006/CBM 113 (1/2-1/2,
+27)}) 9... Rb8 10. e3 e5 $6 (10... b5 11. Nd2 Bd7 12. a4 $14) (10... h6 $5 11.
+Bxf6 Qxf6 12. Nd2 Bd7 13. Nxc4 b5 $132) 11. Nxe5 Nxe5 12. dxe5 Qxd1 13. Rfxd1
+Nd7 14. Nd5 (14. Ne4 Nxe5 15. a3 f6 16. axb4 fxg5 17. Rxa5 $16) 14... Nxe5 15.
+Nxb4 axb4 16. Be7 Re8 17. Bxb4 Bg4 $132 {Huzman,A (2565)-Korneev,O (2601)/
+Bastia 2005 (1/2-1/2, 26)}) 9. a4 {White is supposed to play a4, Nc3 and Ne5,
+but the move order can make a difference.} ({In a recent game, Kramnik himself
+deviated from his first experience against this variation with} 9. Ne5 Ra6 (
+9... Ra7 {is slightly unnatural, but is not entirely pointless. Black leaves
+the a6-square available for the bishop. Now,} 10. a4 bxa4 {would transpose to
+Kekelidze,M (2445)-Moradiabadi,E (2540)/Abu Dhabi 2007/CBM 119 ext (0-1, 26)
+below.}) 10. a4 bxa4 (10... c6 11. Nc3 {would transpose to Buhmann,R (2583)
+-Bartel,M (2609)/Polanica Zdroj 2007/CBM 120 (1/2-1/2, 54), below}) 11. Nxc4
+Nbd7 12. Nc3 c5 13. Nxa4 h6 14. Bd2 $14 {White is better developed. His
+knights occupy very active positions, targetting the numerous weaknesses in
+Black's camp. The following display of dynamism is impressive.} Qc7 15. Bf4 Qa7
+16. Nd6 Nd5 17. Nb5 Qb7 18. Nc7 Ra7 19. Nxd5 exd5 20. Bd6 $16 {Kramnik,V (2788)
+-Navara,D (2672)/Prague 2008 (1-0, 33)}) 9... c6 {The natural answer, aiming
+to consolidate the extra-pawn.} ({For dynamic reasons,} 9... bxa4 $5 {may be
+worth investigating:} 10. Ne5 (10. Nbd2 c3) 10... Ra7 11. Nxc4 (11. Rxa4 $5)
+11... Ba6 12. Nba3 h6 13. Be3 Nd5 $132 {Kekelidze,M (2445)-Moradiabadi,E (2540)
+/Abu Dhabi 2007/CBM 119 ext (0-1, 26)}) 10. Nc3 $146 {Still in accordance with
+classical rules. Before moving with the other knight to the centre, Ivanchuk
+looks after his last undeveloped queenside piece. (The rook is relatively
+active on a1 already).} (10. Ne5 {looks active, but has the drawback that in
+case of an eventual exchange on f6 (...gxf6) the knight would lose stability
+in the centre. Still, White seems to have good play here, too.} Ra6 11. Nc3 h6
+12. Bxf6 gxf6 13. Ng4 e5 14. e3 Kg7 15. h3 $44 {Buhmann,R (2583)-Bartel,M 
+(2609)/Polanica Zdroj 2007/CBM 120 (1/2-1/2, 54)}) 10... Qb6 {For Black, the
+process of development is not so simple and he has to move with his queen
+while the whole queenside is undeveloped.[%csl Gb5]} (10... Ra7 11. axb5 Bxc3
+12. b6 $1 Qxb6 13. bxc3 $16) (10... Ba6 11. axb5 cxb5 12. Ne5 Ra7 13. d5 Bxc3
+14. bxc3 exd5 15. Qd4 $36) (10... h6 11. Bxf6 (11. Bh4 $5 g5 $140 12. Nxg5 hxg5
+13. Bxg5 $44) 11... Qxf6 12. axb5 Bxc3 13. bxc3 cxb5 14. Qb1 Bd7 15. Ne5 Ra7
+16. Nxd7 Nxd7 17. Qxb5 $16) 11. Bxf6 gxf6 12. axb5 cxb5 13. d5 {A typical pawn
+break, underlining the weakness of the double pawns and that of the f5-square.}
+Rd8 $2 {Obviously missing the next move.} ({Black should have tried to build
+up his defence by somewhat unnatural means with} 13... a4 $5 14. Nd4 (14. Qd4
+$6 Qxd4 15. Nxd4 Bxc3 16. bxc3 Ra5 17. Rfb1 Bd7 {[%cal Gb8a6,Ga6c5]}) 14... Ra5
+{White would have needed a big creative effort to find a way to deliver a
+kingside attack (although reaching a draw by perpetual should not be a problem)
+.[%cal Ga4a3,Gc8d7,Gb8a6]}) 14. Qd4 $1 {Splendid! The time has come for the
+queen to be developed and this causes Black great problems!} Qxd4 (14... Nd7
+15. dxe6 Qxe6 (15... fxe6 16. Qg4+ Kh8 17. Ng5 $16) 16. Ng5 fxg5 17. Bxa8 $16)
+15. Nxd4 $14 {/+/- White will reestablish the material equality, maintaining
+the better development and the better structure.} Ra6 (15... Bxc3 16. bxc3 exd5
+17. Rfb1 $16 {would retrieve both sacrificed pawns soon, with an obvious
+advantage.}) 16. Ndxb5 Rb6 17. Rfd1 e5 {[%csl Gf5]} 18. Na3 Ba6 19. Na4 Rb7 20.
+Rdc1 Rc7 21. e4 f5 (21... Nd7 22. Nc2 {[%csl Gf5][%cal Gc2e3]}) 22. exf5 Nd7
+23. Bf1 (23. Nc2) 23... Rdc8 24. Nc2 Bf8 25. Ne3 e4 26. Nc3 Nc5 27. Rd1 Nb3 28.
+Ra4 Bb4 29. d6 Rb7 30. Ncd5 Kf8 31. Nxb4 Bb5 32. Ra2 axb4 33. Bxc4 $1 Bxc4 34.
+Nxc4 Kg7 (34... Rxc4 35. d7 $18) 35. Ne3 Rd8 36. Rd5 Rb6 37. Ra4 Nc1 38. Nc4
+Rb7 39. Rc5 Nd3 40. Rc7 Rb5 41. g4 Rd5 42. Raa7 Rf8 43. h4 h5 44. g5 Ne1 45.
+f6+ Kg6 46. Kh2 Rf5 47. Ra5 Rxf2+ 48. Kg1 e3 49. Ne5+ Kh7 50. Rxf7+ Rxf7 51.
+g6+ Kh6 52. gxf7 Rxf6 53. d7 1-0
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.09"]
+[Round "2"]
+[White "Shirov, Alexei"]
+[Black "Jakovenko, Dmitrij"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2740"]
+[BlackElo "2711"]
+[PlyCount "91"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 c5 6. d5 exd5 7. cxd5 Bb7 8. Bg2
+Nxd5 9. O-O Be7 10. Qe4 Bc6 11. Ne5 Nc7 12. Nxc6 dxc6 13. Nc3 O-O 14. Rd1 Qe8
+15. Bf4 Ne6 16. Nb5 Qc8 17. Bxb8 Qxb8 18. Qxc6 Qe5 19. Qd7 Rae8 20. Nc3 Qb8 21.
+Nd5 Bd8 22. e3 Nc7 23. Rd2 Nxd5 24. Bxd5 Bf6 25. Rad1 g6 26. Bc4 Kg7 27. b3 Re7
+28. Qb5 h5 29. a4 h4 30. Qc6 hxg3 31. hxg3 Rc8 32. Qf3 Qe5 33. Rd5 Qc7 34. g4
+Rh8 35. g5 Bb2 36. Kf1 Qb7 37. Ke2 Qc7 38. Qg4 Bd4 39. Kd3 Be5 40. f4 Bd6 41.
+Qg2 a6 42. Qb2+ Kg8 43. Kc2 Rh2+ 44. R5d2 Rxd2+ 45. Rxd2 b5 46. Qf6 1-0
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.09"]
+[Round "2"]
+[White "Svidler, Peter"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2746"]
+[BlackElo "2765"]
+[PlyCount "43"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8. cxd5
+Nxd5 9. O-O Be7 10. Rd1 Qc8 11. Qf5 Nf6 12. Bg5 Nc6 13. Nc3 d5 14. Qf4 d4 15.
+Bxf6 Bxf6 16. Nd5 Bd8 17. e3 Ne7 18. Nxe7 Bxe7 19. exd4 O-O 20. dxc5 bxc5 21.
+Rac1 a5 22. b3 1/2-1/2
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.09"]
+[Round "2"]
+[White "Volokitin, Andrei"]
+[Black "Onischuk, Alexander"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2684"]
+[BlackElo "2664"]
+[Annotator "Marin,M"]
+[PlyCount "61"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Bd6 {After having been introduced by Anand into top
+level practice, this move has rapidly become one of the main trends in the
+Catalan.} 11. Re1 (11. Rd1 Nbd7 12. Ba5 Qb8 13. b4 e5 14. Nbd2 exd4 {Gelfand,B
+(2733)-Anand,V (2792)/Mexico City 2007/CBM 120/[Marin,M] (1/2-1/2, 20)} (14...
+Re8 {Georgiev,K (2649)-Onischuk,A (2674)/Kemer 2007/CBM 121/[Marin,M] (1-0, 71)
+})) (11. Bg5 {Bauer,C (2571)-Bologan,V (2652)/Belfort 2002/CBM 090 (0-1, 40)})
+11... Be4 12. Qc1 Nbd7 $6 {Leaving the bishop on the vulnerable e4-square
+seems to be the main cause for Black's future problems.} ({In a recent game,
+Anand preferred} 12... Bb7 13. Bg5 Nbd7 14. Nbd2 {deserves testing.} ({In
+practice,} 14. e4 Be7 {was OK for Black so far} 15. Nbd2 c5 16. e5 Nd5 17. Ne4
+cxd4 18. Qd2 ({Just days after the game Volokitin-Onishcuk, the following game
+was played:} 18. Bxe7 Qxe7 19. Qd2 Ne3 {Same trick as in Gelfand-Anand.} 20.
+fxe3 Bxe4 21. exd4 Bd5 $15 {Delchev,A (2618)-Ubilava,E (2525)/Benasque 2008 (1/
+2-1/2, 45)}) 18... Bxg5 19. Nexg5 h6 20. Ne4 {Apparently, White is doing fine,
+because of the control over the d6-square. Black's extra pawn is obviously
+doomed, but, while alive, it can help to change the course of the game...} Ne3
+$1 21. fxe3 Bxe4 22. exd4 Bd5 23. Nh4 Nb6 24. Be4 Rc8 25. Ng2 Bxe4 {1/2-1/2
+Gelfand,B (2737)-Anand,V (2799)/Wijk aan Zee 2008/CBM 122. Only Black can be
+better here.}) 14... c5 (14... Rc8 15. e4 $14) (14... Be7 15. Nb3 $14) 15. Bxf6
+gxf6 (15... Nxf6 $2 16. dxc5 $16) (15... Qxf6 $2 16. Ne5 $1 $16) 16. Qc3 Rc8
+17. Qe3 {Objectively speaking, the position may be equal. However, players
+with high technique (such as Andersson and Kramnik; see for instance the games
+Andersson-Ivanov 2000 and Kramnik-Deep Fritz 10, m/1 2006) may enjoy the
+perspective of a better ending because of Black's weaknesses on both wings.})
+13. Ba5 Qe7 (13... Rc8 14. Nc3 Bb7 15. e4 $14 b4 $2 16. e5 bxc3 17. exd6 $16)
+14. Nbd2 {This natural move offers White an advantage without any risk.} ({
+Therefore, it makes little sense to embark on unclear complications with} 14.
+Bxc7 Rac8 15. Bxd6 Qxd6 16. Qe3 (16. Nc3 $2 Bxf3 $1 17. Bxf3 b4 $19) (16. Qd1
+Nd5) 16... Bxf3 $5 17. Bxf3 Qb4 $32) 14... Bxf3 {An obvious positional
+concession, but Black had problems anyway.} (14... Bb7 15. Bxc7 $14 (15. e4 $5
+$14)) 15. Nxf3 $14 (15. Bxf3 Rac8 16. Bb7 Rb8 17. Bc6 e5 18. dxe5 Nxe5 19. Nf3
+Nfg4 $132) 15... Rac8 (15... c5 16. Ne5 (16. e4 e5 17. d5 c4 $132 {[%cal Gd7c5,
+Gc5d3]}) 16... Rac8 17. Nc6 Qe8 18. Qd2 $5 $14 c4 $6 19. Bb4 Bxb4 20. Qxb4 Kh8
+21. a4 $16) 16. e4 e5 17. Nh4 {This move leads to interesting complications.} (
+{The more solid} 17. Bh3 $5 {was probably not worse.} c5 (17... Rfe8 18. Qc2
+Rcd8 19. d5 $14) 18. dxe5 Bxe5 19. Qc2 c4 20. Rad1 $14 {[%csl Ga5,Gh3][%cal
+Ga5d8,Gh3c8]}) 17... g6 (17... exd4 18. Nf5 Qe5 $6 (18... Qe6 $142 19. Nxd4 Qe5
+20. Bc3 $16) 19. Qg5 Ne8 20. f4 Qe6 (20... Qf6 21. e5 Qxg5 22. fxg5 Nxe5 23.
+Rxe5 Bxe5 24. Ne7+ Kh8 25. Nxc8 $18) 21. Bh3 $40) 18. f4 exf4 19. e5 Nxe5 20.
+dxe5 Bc5+ 21. Kf1 (21. Kh1 Ng4 $132) 21... Ng4 $6 {Probably underestimating
+White's answer.} (21... Nh5 $5 {may have offered better chances to keep the
+position complicated. Here is a possible white try to stabilize the position:}
+22. g4 Bb6 23. gxh5 Qxh4 24. Bxb6 cxb6 25. Qd1 Qxh2 26. hxg6 hxg6 27. Qb3 $14)
+22. Qxf4 $1 Nxh2+ 23. Ke2 $16 f6 (23... g5 24. Qf5 gxh4 25. Be4 f6 26. exf6
+Qxe4+ (26... Rxf6 27. Qxc8+) (26... Qf7 27. Qxc5) 27. Qxe4 Rce8 (27... Rfe8 $5)
+28. Qxe8 $1 (28. Kd3 $6 Rxe4 29. Rxe4 hxg3 30. Bxc7 Rxf6 $1 $44 (30... Bf2 $2
+31. Bxg3 $1 Bxg3 32. Rg1 $16)) 28... Rxe8+ 29. Kd3 Rd8+ {White's king seems to
+have problems avoiding perpetual, but after} 30. Ke4 (30. Kc2 hxg3 31. Bxc7 Rc8
+32. Bxg3 Bf2+ $11) 30... Rd4+ 31. Kf5 Rd5+ 32. Ke6 Rd6+ 33. Ke7 Rd3+ 34. Ke8
+$16 {it appears that Black has only helped him get to a very active square,
+sustaining the f6-pawn.}) 24. Bd5+ Kg7 25. Bc3 b4 26. Bd2 Qxe5+ (26... fxe5 $2
+27. Qh6+ Kh8 28. Nxg6#) 27. Qxe5 fxe5 28. Rac1 Bd6 $6 (28... Rf2+ 29. Kd3 Bd6
+30. Re2 $16) (28... Bf2 29. Be6 $5 Bxe1 30. Bxe1 Rb8 31. Rxc7+ Kf6 32. Rc6 $16)
+29. Rh1 $1 $18 Ng4 30. Be6 Nf2 31. Nf5+ (31. Nf5+ gxf5 32. Kxf2 Rce8 33. Bh6+
+$18) 1-0
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.10"]
+[Round "3"]
+[White "Jakovenko, Dmitrij"]
+[Black "Volokitin, Andrei"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2711"]
+[BlackElo "2684"]
+[Annotator "Ftacnik"]
+[PlyCount "103"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O exd4 8. Nxd4
+Re8 9. f3 Nc6 10. Be3 Nh5 11. Qd2 {This modest move preparing to call up the
+last reserve from the square a1 represents currently the main line. The modern
+method with 10...Nh5 is trying to undermine the white centre even at the cost
+of few tempi.} (11. f4 Nf6 12. Bf3 $13) 11... Nxd4 12. Bxd4 Nf4 13. Rfd1 Bxd4+
+14. Qxd4 Nxe2+ 15. Nxe2 b6 {The discovery of recent years; Black is building a
+very solid position in the centre and will try to generate enough counterplay.}
+16. Nc3 Bb7 17. Nd5 (17. Rac1 Qg5 18. Qd2 (18. b3 a5 19. Qd2 Qxd2 20. Rxd2 f5
+21. exf5 gxf5 22. Kf2 Re7 23. Re2 Rae8 24. Rce1 Re5 {1/2 Nielsen,P (2628)-Glek,
+I (2571)/playchess.com INT 2004 (41)}) 18... Qh5 19. b4 Re7 20. Ne2 Qe5 21. c5
+dxc5 22. bxc5 bxc5 23. Qe3 Qe6 24. Nf4 Qa6 25. Rxc5 Qxa2 26. Qc3 $18 {0-1
+Malakhatko,V (2600)-Jones,G (2562)/Canberra 2008 (108)}) 17... Bxd5 18. cxd5
+Qg5 19. Rac1 Re7 20. Qd2 (20. Rc3 f5 21. exf5 Qxf5 22. h3 Rf8 23. b4 Qg5 24.
+Qg4 Qe5 25. Rc4 Qe3+ 26. Kh2 Qe2 {1/2 Topalov,V (2780)-Mamedyarov,S (2760)/
+Nice 2008 (31)}) 20... Qh5 {Volokitin has no interest in exchanging queens,
+since his backward c7-pawn would become an ideal target for the white rooks.} (
+20... Qh4 21. Qf2 Qh5 22. Rc4 f5 23. exf5 Qxf5 24. Qc2 Qf7 25. Re4 {1/2
+Vitiugov,N (2573)-Khairullin,I (2533)/Cheboksary 2006}) (20... Qe5 21. Rc4 Rd8
+22. Qc3 Qxc3 23. Rxc3 a5 24. Rdc1 Rdd7 25. Kf2 $14 {1/2 Ivanov,S (2534)
+-Kalegin,E (2458)/Moscow 2006 (44)}) (20... Qxd2 $6 21. Rxd2 $14) 21. g4 (21.
+Rc4 f5 22. e5 Rxe5 23. Rxc7 Qh4 $14) 21... Qh4 22. Qf2 Qg5 23. Qd2 Qh4 24. Kh1
+$1 {Jakovenko has decided to try realizing his modest advantage.} Rf8 (24... f5
+$2 25. gxf5 gxf5 26. exf5 Qf6 27. Re1 $16) 25. Rg1 h5 (25... f6 26. Rc6 Qg5 27.
+Qc1 $14) 26. Rc3 {The other attempts by White to get more from this position
+have shown little hope of success.} (26. g5 f5 27. gxf6 Qxf6 28. Rc3 Kh7 $11) (
+26. Qh6 Qf6 27. gxh5 Qxf3+ 28. Rg2 Qxe4 29. Rf1 Rfe8 30. hxg6 fxg6 31. Qxg6+
+Qxg6 32. Rxg6+ Rg7 $11) 26... hxg4 27. Rxg4 Qh3 (27... Qh5 28. Kg1 $14) 28. Rg3
+Qf1+ 29. Rg1 Qh3 30. Rg3 Qf1+ 31. Rg1 Qh3 32. Qg5 {White is thus avoiding the
+threefold repetition with the immediate draw.} Rfe8 (32... Re5 33. Qg2 Qxg2+
+34. Rxg2 Rc8 35. Rgc2 Re7 36. Rc6 Rd7 37. Kg2 $14) 33. f4 Qh8 $1 34. f5 (34. e5
+dxe5 35. f5 e4 36. fxg6 f6 $11) 34... Qd4 35. Re3 (35. fxg6 Qxe4+ 36. Rg2 f5 $1
+$15) 35... Rxe4 $2 {In the impending time trouble the defender could not find
+enough energy to calculate the equalising continuation with the pinning of the
+f-pawn.} (35... Re5 36. Qh6 Rxf5 37. Rxg6+ fxg6 38. Qxg6+ Kf8 39. Qxf5+ Ke7 $11
+) 36. fxg6 $1 f5 (36... Rxe3 37. gxf7+ Kxf7 38. Rf1+ $18) 37. Qxf5 $1 R4e7 (
+37... Rxe3 38. Qf7+ Kh8 39. Qh7#) 38. Rf3 $6 {The clock can become an enemy
+for both human players. The exact and consequent doubling of the rooks on the
+e-file would have decided the game within a few moves.} (38. Rge1 $1 Rf8 39.
+Qh5 Rg7 40. Rf3 Rxf3 41. Qxf3 Qa4 42. Qf6 $18) 38... Qe4 $1 39. Qxe4 {Curious
+secrets are being revealed by computers trying to solve similar situations.
+The very desirable advance 39.h4!? is not winning due to the fascinating
+sacrifice of black queen on move 41.} (39. Qf7+ Rxf7 40. gxf7+ Kh7 41. fxe8=Q
+Qxf3+ 42. Rg2 Qd1+ $11) (39. h4 $5 Qxh4+ 40. Rh3 Qd4 (40... Qe4+ 41. Qxe4 Rxe4
+42. g7 $18) 41. g7 Qxg1+ $1 42. Kxg1 Re1+ 43. Kg2 R8e2+ 44. Kg3 Re3+ 45. Kh4
+Re4+ 46. Kg5 Re5 47. Rh8+ Kxg7 48. Rh7+ Kg8 49. Rxc7 Rxf5+ 50. Kxf5 Re5+ 51.
+Kg6 Kf8 $14) 39... Rxe4 40. Rf7 R8e7 41. Rgf1 Rxf7 42. Rxf7 Re2 {The tempest
+is over and the rook endgame turnas out to be hopeless for Black. Jakovenko's
+main task is to activate the white king.} (42... Rc4 43. b3 Rc5 44. h4 Rxd5 45.
+Kg2 c5 46. Kg3 $18) (42... Rg4 43. Rxc7 Rxg6 44. Rxa7 Rg5 45. Rb7 Rxd5 46. Rxb6
+) 43. h4 Rxb2 44. h5 Rb4 45. Kg2 $1 Rh4 46. Rh7 Rd4 47. Kg3 Rxd5 48. Kg4 Ra5
+49. Rxc7 Rxa2 50. Kg5 {Black could already have resigned without any remorse.}
+Ra5+ (50... Kf8 51. Kh6 Rg2 52. Rxa7 $18) 51. Kf6 Rc5 52. Rxc5 (52. Rxc5 dxc5
+53. h6 $18) 1-0
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.11"]
+[Round "4"]
+[White "Eljanov, Pavel"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "E05"]
+[WhiteElo "2687"]
+[BlackElo "2765"]
+[Annotator "Marin,M"]
+[PlyCount "164"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Ng5 $5 $146 {By exchanging the light-squared
+bishops, White unblocks the e4-square, preparing to win space in the centre.
+On the other hand, White slightly neglects his development, but didn't Black
+do the same by moving with his dark-squared bishop twice?} Bxg2 12. Kxg2 Nbd7
+13. e4 e5 {The logical reaction in the centre.} 14. dxe5 ({White is not
+prepared for the method employed by Volokitin against Onischuk in the same
+tournament:} 14. f4 $6 exd4 15. e5 Bxe5 16. fxe5 Nxe5 $15 17. Rxf6 $2 d3 $1 $17
+) 14... Nxe5 15. f4 Nc4 16. b3 $1 (16. e5 $6 h6 17. exf6 (17. Nf3 $2 Ng4) 17...
+hxg5 18. fxg7 Re8 $32) 16... Nxd2 {Exchanging a piece that has jumped around
+so many times helps White catch up with Black in development, but there was no
+other possibility.} (16... Nb6 $2 17. e5 $18) (16... h6 $2 17. bxc4 hxg5 18. e5
+$16) 17. Nxd2 h6 18. Ngf3 Bb4 {So far, Carlsen played in blitz mode, which
+makes us think that the novelty did not come as a surprise to him. However, I
+am not sure that Black can be that happy with the outcome of the opening.
+White is better developed and enjoys an advantage of space in the right half
+of the board. He only has to work out some concrete details in order to avoid
+problems connected with the undefended squares behind the advanced pawns.} 19.
+Rfd1 $6 {Obviously, this is not the way to place rooks in this position, but
+Eljanov may have been concerned about the threat ...Ng4-e3.} ({Indeed,} 19.
+Rad1 $6 {was not better:} Qe7 (19... Ng4 20. Rfe1 Qe7 21. Re2 Rad8 22. e5 $5
+$14) 20. Nd4 (20. Rfe1 Rad8 21. Ne5 Qe6 22. Re2) (20. Ne5 c5 21. Ndf3) 20...
+Bxd2 (20... Ng4 21. Qd3 Rad8 22. N2f3 $14 c5 $2 23. Nc6 $18) 21. e5 c5 $1 (
+21... Ng4 22. Qxd2 $16) (21... Bb4 22. Nc6 Qc5 23. Qxc5 Bxc5 24. exf6 $44) 22.
+exf6 Qxf6 23. Qxc5 Be3 $15) ({Since White's plan is to advance his kingside
+pawns, it would have made sense to concentrate rooks on this area of the board
+with} 19. Rae1 $5 c5 (19... Qe7 $6 {Playing as in the game makes little sense
+for Black now.} 20. Re2 Rad8 21. e5 Nd5 (21... Rfe8 22. Ne4 Nxe4 23. Qxe4 $14 {
+[%cal Gf4f5]}) 22. Ne4 $36 {[%cal Gf4f5,Gf3d4]}) 20. Re2 Qb6 {This is a better
+way to strive for counterplay.} 21. e5 Nd5 22. Ne4 {[%csl Rd6,Rf6,Rg7][%cal
+Gf3h4,Gh4f5]} c4 $5 23. bxc4 $1 Ne3+ 24. Rxe3 Qxe3 25. Rb1 Qa3 (25... Be7 26.
+c5 {[%csl Re3][%cal Gb1b3]} Rfc8 27. Rb3 Rxc5 28. Nxc5 Qxc5 29. Qxc5 Bxc5 30.
+Rc3 Bb6 31. Rc6 Rb8 32. Kf1 a5 33. Ke2 b4 34. Kd3 $14) 26. c5 Rac8 27. Rb3 Qa4
+28. Kh3 $1 $44 {[%cal Gf4f5,Gc5c6,Ge4d6]} (28. c6 $2 Rxc6 $1) (28. f5 $2 Bxc5
+$1)) 19... Qe7 20. e5 Nd5 21. Nf1 $11 {Quite sadly, the knight which seemed
+designed for the central e4-square has to occupy a defensive position.} Rad8
+22. a3 $5 (22. Nd4 c5 23. Nf5 Qb7 $36) 22... Bc5 (22... Bxa3 23. Nd4 c5 24. Nf5
+Qb7 25. Kf2 Bb4 26. Qe4 $44) 23. b4 Bb6 24. Rd2 Qd7 25. f5 {This looks less
+threatening now without the support of all the pieces.} Rfe8 26. Rad1 c6 $11 {
+/~~  Black is well developed and enjoys stability in the centre. White's
+attacking prospects are not too realistic.} 27. Rc1 Be3 $5 {An interesting way
+of striving for active counterplay.} (27... Rc8 $11) 28. Rxd5 $8 cxd5 29. Nxe3
+d4 30. Nf1 $6 {On general grounds, the player with two knights for a rook
+should avoid the exchange of the additional pair of rooks.} (30. Rd1 {should
+probably have been preferred.} Qb7 31. Nf1 Rxe5 32. Kf2 Red5 $13) 30... Rc8 31.
+Qd1 Rxc1 32. Qxc1 Qxf5 $44 {/=/+  Black's play is easier now. White's display
+of activity will only bring him trouble.} 33. Qc6 Rc8 34. Qxa6 Rc2+ 35. N1d2 g5
+36. Qxh6 g4 37. Nh4 Qxe5 38. Kf2 Ra2 39. h3 d3 40. Qe3 Qxe3+ 41. Kxe3 gxh3 42.
+Nhf3 Rxa3 43. Kf2 Ra4 44. Kg1 Rxb4 45. Kh2 Ra4 46. Kxh3 Ra8 47. Nd4 b4 48. Kg4
+Re8 49. Kf5 Re2 50. N4b3 Kf8 51. Ne4 Ke7 52. Ke5 Rg2 53. Kf4 Ke6 54. Kf3 Re2
+55. Nec5+ Kd5 56. Nxd3 Re8 57. Na5 Rb8 58. Nc1 Kc5 59. Nd3+ Kd5 60. Nc1 Rc8 61.
+Ncb3 Ke5 62. Ke2 Rc2+ 63. Kf3 Rc3+ 64. Kg4 Ke4 65. Nb7 Kd3 66. N3a5 Kd4 67. Kf4
+Kd5 68. Nd8 Rc8 69. Ndb7 Rc3 70. Nd8 Ra3 71. Ndc6 b3 72. Nxb3 Rxb3 73. Ne5 Rb1
+74. g4 Rf1+ 75. Nf3 Ke6 76. Kg3 Ra1 77. Kf4 Ra4+ 78. Kg3 Kd5 79. Nh4 Ke4 80. g5
+Ke5 81. Kh3 Kf4 82. g6 Kg5 0-1
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.12"]
+[Round "5"]
+[White "Volokitin, Andrei"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[ECO "E37"]
+[WhiteElo "2684"]
+[BlackElo "2732"]
+[PlyCount "87"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. e3 Qa5+ 10. Bd2 Nxd2 11. Qxd2 dxc4 12. Qxa5 Nxa5 13. Rc1 b5 14.
+cxb6 Bb7 15. bxa7 Ke7 16. Ne2 Rxa7 17. Nc3 Bc6 18. Na2 Rd7 19. Nb4 Ba4 20. Be2
+Bb3 21. Bf3 f5 22. e4 f4 23. g3 Rf8 24. gxf4 Rxf4 25. Ke2 Kd6 26. h4 Rdf7 27.
+Rh3 g6 28. Ke3 Nb7 29. Bd1 Rxf2 30. e5+ Kd7 31. Bf3 Rxb2 32. Bxb7 Rf5 33. Bc6+
+Kc7 34. Be4 Rxe5 35. Nd3 Rc2 36. Nxe5 Rxc1 37. Rh1 Rc3+ 38. Kd4 Rg3 39. Rf1 c3
+40. Rf7+ Kc8 41. Kc5 c2 42. Kd6 Bd5 43. Bxd5 exd5 44. Nc6 1-0
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.13"]
+[Round "6"]
+[White "Carlsen, Magnus"]
+[Black "Alekseev, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[WhiteElo "2765"]
+[BlackElo "2711"]
+[PlyCount "36"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 d5 8. cxd5
+exd5 9. O-O O-O 10. Rc1 Nd7 11. Bf4 Nxc3 12. Rxc3 c5 13. dxc5 bxc5 14. b4 cxb4
+15. Rc7 Nc5 16. Nd4 Rc8 17. Rxc8 Qxc8 18. Qb1 a5 1/2-1/2
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.13"]
+[Round "6"]
+[White "Eljanov, Pavel"]
+[Black "Nisipeanu, Liviu Dieter"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[WhiteElo "2687"]
+[BlackElo "2684"]
+[PlyCount "34"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. Bg2 O-O 7. e4 d6 8. Ne2
+e5 9. Nd2 Nc6 10. O-O Qb6 11. Nb3 a5 12. Rc1 a4 13. c5 Qd8 14. Nd2 dxc5 15. d5
+Na5 16. Rxc5 Qb6 17. Rc1 Bd7 1/2-1/2
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.15"]
+[Round "7"]
+[White "Onischuk, Alexander"]
+[Black "Eljanov, Pavel"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2664"]
+[BlackElo "2687"]
+[PlyCount "80"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
+Be7 9. Nc3 O-O 10. Rd1 d6 11. Bf4 Qb6 12. Rd2 h6 13. Rad1 e5 14. Be3 Nc6 15.
+Qb5 Qc7 16. Qb3 a6 17. Nh4 Rfb8 18. Bxc6 Qxc6 19. f3 e4 20. Qc2 Re8 21. fxe4
+Qc8 22. Nf3 Qh3 23. Kh1 Bf8 24. Rd5 Bxd5 25. cxd5 Ng4 26. Bg1 g6 27. e5 Nxe5
+28. Ne4 Ng4 29. Nh4 Rab8 30. Ng2 Rxe4 31. Qxe4 Qxh2+ 32. Bxh2 Nf2+ 33. Kg1 Nxe4
+34. b3 h5 35. Rc1 Bg7 36. Rc2 g5 37. Ne1 Re8 38. Kf1 Nc3 39. Rd2 g4 40. Ng2 Bh6
+0-1
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.16"]
+[Round "8"]
+[White "Carlsen, Magnus"]
+[Black "Onischuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E05"]
+[WhiteElo "2765"]
+[BlackElo "2664"]
+[PlyCount "57"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Be3 Nbd7 12. Nbd2 Qe7 13. Nb3 Be4 14. Qc1 e5 15.
+dxe5 Nxe5 16. Nxe5 Bxg2 17. Nc6 Bxc6 18. Qxc6 Ng4 19. Bd4 Qxe2 20. Rfe1 Qd3 21.
+h3 Nh6 22. Be5 Bxe5 23. Rxe5 Nf5 24. Rae1 g6 25. Rd5 Qc4 26. Rc5 Qd3 27. Rd5
+Qc4 28. Rc5 Qd3 29. Rd5 1/2-1/2
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.16"]
+[Round "8"]
+[White "Svidler, Peter"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2746"]
+[BlackElo "2732"]
+[PlyCount "79"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 Nxc3 8.
+bxc3 Be7 9. e4 Nd7 10. Bd3 c5 11. O-O Qc7 12. Qe2 O-O 13. Bb2 Rfd8 14. Rfd1
+Rac8 15. Nd2 Nb8 16. Nc4 Ba6 17. d5 b5 18. Ne3 c4 19. Bc2 Nd7 20. a4 b4 21.
+dxe6 fxe6 22. cxb4 Bxb4 23. Qg4 Nf8 24. Bf6 Rd2 25. Rab1 Ba5 26. Rxd2 Bxd2 27.
+h3 Qf7 28. Be5 Ng6 29. Bd6 Qf6 30. Qe2 Ba5 31. Ng4 Qc3 32. e5 Bb6 33. Bb4 Qd4
+34. a5 Bc5 35. Rd1 Nf4 36. Nh6+ Kh8 37. Nf7+ Kg8 38. Nh6+ Kh8 39. Nf7+ Kg8 40.
+Nh6+ 1/2-1/2
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.17"]
+[Round "9"]
+[White "Onischuk, Alexander"]
+[Black "Alekseev, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[WhiteElo "2664"]
+[BlackElo "2711"]
+[PlyCount "34"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 d5 8. cxd5
+exd5 9. O-O O-O 10. Rc1 Nd7 11. Nxe4 dxe4 12. Ne5 Nxe5 13. dxe5 c5 14. Bc3 Qxd1
+15. Rfxd1 Rad8 16. f3 exf3 17. exf3 f5 1/2-1/2
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.18"]
+[Round "10"]
+[White "Alekseev, Evgeny"]
+[Black "Jakovenko, Dmitrij"]
+[Result "1/2-1/2"]
+[ECO "E26"]
+[WhiteElo "2711"]
+[BlackElo "2711"]
+[PlyCount "90"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 c5 7. Ne2 b6 8. Ng3
+Nc6 9. e4 Ne8 10. Be3 d6 11. Bd3 Ba6 12. O-O Na5 13. Qe2 Qd7 14. f4 f5 15. d5
+exd5 16. cxd5 Bxd3 17. Qxd3 fxe4 18. Nxe4 Qf5 19. Rad1 Nf6 20. Nxf6+ Rxf6 21.
+Qxf5 Rxf5 22. g4 Rf7 23. f5 Nc4 24. Bf4 g6 25. Rfe1 gxf5 26. g5 Rd8 27. Re6
+Nxa3 28. Kf2 Nc4 29. h4 a5 30. h5 a4 31. g6 hxg6 32. hxg6 Rfd7 33. Bg5 Ra8 34.
+Bf6 Ne5 35. Bxe5 dxe5 36. Rxb6 a3 37. c4 Ra4 38. Ra1 Kg7 39. Rc6 Rb7 40. Rh1
+Rb2+ 41. Ke3 Rb8 42. Rh7+ Kg8 43. Rcc7 a2 44. Rhg7+ Kh8 45. Rh7+ Kg8 1/2-1/2
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.19"]
+[Round "11"]
+[White "Jakovenko, Dmitrij"]
+[Black "Nisipeanu, Liviu Dieter"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2711"]
+[BlackElo "2684"]
+[PlyCount "36"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d5 5. Qa4+ Nc6 6. a3 Be7 7. e3 a5 8. b4
+O-O 9. c5 Nb8 10. Bd3 c6 11. Bb2 b6 12. Ne5 Nfd7 13. Nxd7 Nxd7 14. O-O Qc7 15.
+Qc2 g6 16. e4 Ba6 17. e5 Bxd3 18. Qxd3 Qb7 1/2-1/2
+
+[Event "GER-ch Net qual3 U14"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "1"]
+[White "Funk, Moritz"]
+[Black "Titgemeyer, Sven"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[BlackElo "1938"]
+[PlyCount "139"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]

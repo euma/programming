@@ -1,0 +1,50 @@
+C51	Evans Gambit; C51	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4
+C51	Lange Variation, Evans Gambit	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6
+5.b5 Na5 6.Nxe5 Nh6
+C51	Evans Gambit Accepted	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+C51	Normal Position, Evans Gambit	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6
+C51	Ulvestad Variation, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.d5 Na5 10.Bb2
+C51	Paulsen Variation, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.d5 Na5 10.Bb2 Ne7
+C51	Morphy Attack, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5
+6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3  
+C51	Fraser Attack; Mortimer, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Bg4 10.Qa4
+C51	Goering Attack, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5
+6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Na5 10.Bg5
+C51	Stone-Ware Defense, Evans Gambit	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5
+4.b4 Bxb4 5.c3 Bd6
+C51	Anderssen Variation, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Be7
+C51	Cordel Line, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Be7
+6.d4 Na5
+C51	Hein Countergambit, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 d5
+C52	Main Line, Evans Gambit; C52	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Ba5
+C52	Leonhardt Variation, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Ba5 6.d4 b5
+C52	Sokolsky Variation, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Ba5 6.d4 d6 7.Bg5
+C52	Lasker Defense, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5
+6.d4 d6 7.O-O Bb6
+C52	Tartakower Attack, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Ba5 6.d4 d6 7.Qb3
+C52	Pierce Defense, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5
+6.d4 exd4
+C52	Schulen Defense, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5
+6.d4 exd4 7.O-O b5
+C52	Waller Attack, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5
+6.d4 exd4 7.O-O d6 8.Qb3
+C52	Compromised Defense, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Ba5 6.d4 exd4 7.O-O dxc3
+C52	Mieses Defense, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5
+6.d4 exd4 7.O-O Nge7
+C52	Slow Variation, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5
+6.O-O
+C52	Richardson Attack, Evans	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Ba5 6.O-O Nf6 7.d4 O-O 8.Nxe5
+C53	Classical Variation, Italian; C53	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5
+4.c3
+C53	Labourdonnais Variation, Italian	1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5

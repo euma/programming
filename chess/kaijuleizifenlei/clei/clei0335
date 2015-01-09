@@ -1,0 +1,600 @@
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2309"]
+[BlackElo "2396"]
+[PlyCount "62"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 Nf6 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. Nc3 O-O 10. Be3 Bg4 11. Bxc6 bxc6 12. Qa4 Qe8 13. Nxe4 dxe4 14. Nd2 f6
+15. exf6 gxf6 16. h3 Bd7 17. g4 Qe6 18. Qc4 Rad8 19. Rc1 Kh8 20. Nb3 Qe7 21.
+Nc5 Be8 22. Qc2 Rd5 23. Qa4 Rg8 24. Qa6 Bd7 25. Nxd7 Qxd7 26. Ke2 Rb5 27. Rc2
+c5 28. Rd1 cxd4 29. Bxd4 Bxd4 30. Rxd4 Qxd4 31. Qxb5 Rd8 0-1
+
+[Event "Bled op-A 25th"]
+[Site "Bled"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Gombac, Jan"]
+[Black "Fucak, Emilijo"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2293"]
+[BlackElo "2296"]
+[PlyCount "91"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. g3 Bc5 6. Bg2 dxe4 7. dxe4 e5 8.
+O-O O-O 9. c3 a5 10. Qc2 b6 11. Nc4 Ba6 12. Rd1 Qe8 13. Ne3 Rd8 14. Nd5 Nxd5
+15. exd5 e4 16. dxc6 exf3 17. Bxf3 Rxd1+ 18. Qxd1 Bb5 19. Bf4 Bxc6 20. Bxc7 Qa8
+21. Bxc6 Qxc6 22. Be5 Qb5 23. Qd2 Bxf2+ 24. Qxf2 Qxe5 25. Qxb6 Rb8 26. Qf2 h6
+27. Rd1 a4 28. a3 Qe6 29. Rd2 Rb5 30. Re2 Qg6 31. c4 Rf5 32. Qe3 Qd6 33. Kg2
+Qc6+ 34. Qe4 Qc5 35. Qa8+ Kh7 36. Qxa4 g6 37. Qc2 h5 38. Qe4 Rf6 39. b4 Qa7 40.
+c5 Qxa3 41. Rc2 Qa6 42. Rf2 Re6 43. Qd5 Kg7 44. Qd7 Qa8+ 45. Kh3 Qf8 46. Qxe6
+1-0
+
+[Event "Bled op-A 25th"]
+[Site "Bled"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Kizilkaya, Mehmet"]
+[Black "Praznik, Anton"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[WhiteElo "2240"]
+[BlackElo "2289"]
+[PlyCount "85"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O cxd4 8.
+Re1+ Nge7 9. Nxd4 O-O 10. N2f3 a6 11. Be2 Bg4 12. h3 Bh5 13. c3 Qb6 14. Qb3 Qc7
+15. Be3 Na5 16. Qc2 Bg6 17. Bd3 Nc4 18. Rad1 Rfe8 19. Bg5 Nc6 20. Bxg6 hxg6 21.
+Ne2 f6 22. Bc1 Qf7 23. Nh4 Re4 24. g3 Rae8 25. b3 N4e5 26. Kg2 Nd7 27. Be3 Bc5
+28. Bxc5 Nxc5 29. Qd2 g5 30. Nf5 Qe6 31. Qxd5 Qxd5 32. Rxd5 Rxe2 33. Rxe2 Rxe2
+34. Rxc5 Rxa2 35. Nd6 Ne5 36. Nxb7 Nd3 37. Rf5 Kf7 38. Ra5 Rxf2+ 39. Kg1 Rf3
+40. Nd6+ Kg6 41. Kh2 Rf2+ 42. Kg1 Rf3 43. Kh2 1/2-1/2
+
+[Event "Bled op-A 25th"]
+[Site "Bled"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Klenburg, Mikhail"]
+[Black "Romanishin, Oleg M"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2428"]
+[BlackElo "2528"]
+[PlyCount "106"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8. Nf1
+Bd7 9. Bg5 Qc8 10. Ne3 Nd8 11. Bxf6 Bxf6 12. Bxd7+ Qxd7 13. Qb3 Bg7 14. O-O O-O
+15. Rad1 Re8 16. Rfe1 b5 17. Qc2 Qc6 18. Qb1 Qb7 19. d4 Ne6 20. d5 Nc5 21. b4
+Nd7 22. Nd2 Bh6 23. Nb3 Nb6 24. Na5 Qc8 25. Qd3 Qd7 26. Re2 Rf8 27. c4 Bxe3 28.
+Rxe3 bxc4 29. Nxc4 Qb5 30. Na5 Qxb4 31. Nc6 Qa4 32. Rc1 Rae8 33. Rg3 f5 34.
+exf5 Qf4 35. Rd1 e4 36. Qe2 Qxf5 37. h4 Rf7 38. Rg5 Qf6 39. Rd4 Nd7 40. Rg4 Nc5
+41. f3 e3 42. f4 Qf5 43. Rg3 Qb1+ 44. Rd1 Qb5 45. Qc2 Re4 46. h5 e2 47. Re1
+Rfxf4 48. Rf3 Rxf3 49. gxf3 Re8 50. hxg6 Qd3 51. gxh7+ Kxh7 52. Qc1 Qg6+ 53.
+Kh2 Qh5+ 0-1
+
+[Event "Bled op-A 25th"]
+[Site "Bled"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Srebrnic, Marko"]
+[Black "Pavasovic, Dusko"]
+[Result "0-1"]
+[ECO "C28"]
+[WhiteElo "2321"]
+[BlackElo "2601"]
+[PlyCount "90"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Na5 5. Qf3 c6 6. Nge2 d6 7. h3 Be7 8. O-O
+O-O 9. Ng3 Ne8 10. a3 Nxc4 11. dxc4 g6 12. Bh6 Ng7 13. Qd3 Be6 14. Rad1 Qa5 15.
+Kh1 Rad8 16. f4 exf4 17. Bxf4 Nh5 18. Nxh5 Qxh5 19. b3 a6 20. Qg3 Rd7 21. Nd5
+Bh4 22. Qh2 cxd5 23. cxd5 Re8 24. dxe6 Rxe6 25. e5 Qe2 26. g3 Qxh2+ 27. Kxh2
+Bd8 28. g4 d5 29. c4 d4 30. Rd3 Bc7 31. Rfd1 Bxe5 32. Bxe5 Rxe5 33. Rxd4 Re2+
+34. Kg1 Rxd4 35. Rxd4 Re3 36. b4 Rxa3 37. Kg2 Ra4 38. c5 Kg7 39. Rc4 a5 40. c6
+bxc6 41. Rxc6 Rxb4 42. Ra6 a4 43. Ra7 h6 44. Kh2 Kf6 45. Kg2 Rb2+ 0-1
+
+[Event "Bled op-A 25th"]
+[Site "Bled"]
+[Date "2008.02.29"]
+[Round "8"]
+[White "Zorko, Jure"]
+[Black "Khmelniker, Ilya"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2333"]
+[BlackElo "2469"]
+[PlyCount "71"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nc3 a5 10. f4 Ba6 11. b3 a4 12. Bd2 Qa3 13. Rb1 axb3 14. axb3 Bb4 15.
+Qf3 d5 16. Bd3 O-O-O 17. O-O dxc4 18. Bf5+ Kb7 19. Ra1 Qb2 20. Ra2 Qxb3 21. Rb1
+Bxc3 22. Rxb3 cxb3 23. Rxa6 Bxd2 24. Ra3 Rd4 25. g3 g5 26. Be4 gxf4 27. Bxc6+
+Kb8 28. Qxb3 Rb4 29. Qa2 Be3+ 30. Kg2 Kc8 31. Ra8+ Nxa8 32. Qxa8+ Rb8 33. Qa6+
+Kd8 34. Qd3+ Ke7 35. Qd7+ Kf8 36. Bd5 1-0
+
+[Event "Bled op-A 25th"]
+[Site "Bled"]
+[Date "2008.02.29"]
+[Round "9"]
+[White "Mlacnik, Franc"]
+[Black "Kosmac, Blaz"]
+[Result "1/2-1/2"]
+[ECO "C25"]
+[WhiteElo "2161"]
+[BlackElo "2179"]
+[PlyCount "12"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nf6 1/2-1/2
+
+[Event "Bled op-A 25th"]
+[Site "Bled"]
+[Date "2008.02.29"]
+[Round "9"]
+[White "Pavasovic, Dusko"]
+[Black "Praznik, Niko"]
+[Result "1-0"]
+[ECO "C04"]
+[WhiteElo "2601"]
+[BlackElo "2369"]
+[PlyCount "57"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. c3 dxe4 5. Nxe4 Qd5 6. Bd3 e5 7. Qe2 Be6 8. Nf3
+exd4 9. O-O O-O-O 10. Nxd4 Nxd4 11. cxd4 Nf6 12. Bf4 Be7 13. Rfc1 Rd7 14. Be5
+Rhd8 15. Nc3 Qa5 16. a3 a6 17. b4 Qb6 18. Na4 Qa7 19. b5 b6 20. bxa6 Bd6 21.
+Nc3 Ne8 22. Nb5 Qa8 23. Be4 Bd5 24. Bxd5 Qxd5 25. Na7+ Kb8 26. Nc6+ Ka8 27.
+Bxd6 Qxd6 28. Nxd8 Rxd8 29. a4 1-0
+
+[Event "Bled op-A 25th"]
+[Site "Bled"]
+[Date "2008.02.29"]
+[Round "9"]
+[White "Praznik, Anton"]
+[Black "Jokovic, Dusan"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2289"]
+[BlackElo "2171"]
+[PlyCount "101"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 exd4 5. e5 Ne4 6. Qe2 Nc5 7. cxd4 Ne6 8.
+Qe4 Bb4+ 9. Nc3 O-O 10. Bd3 g6 11. Bh6 Re8 12. O-O d6 13. Bc4 Bxc3 14. bxc3 Ng7
+15. Bg5 Qd7 16. Rfe1 dxe5 17. dxe5 Qg4 18. h3 Qxe4 19. Rxe4 Bf5 20. Ree1 Na5
+21. Bb5 c6 22. Bf1 Be6 23. Nd2 b5 24. Ne4 Rec8 25. Rad1 a6 26. Nd6 Rc7 27. Ne4
+Nb7 28. Rd2 Nf5 29. g4 Ne7 30. Bxe7 Rxe7 31. Nf6+ Kg7 32. f4 Rc8 33. Red1 a5
+34. a3 Rec7 35. Bg2 Bb3 36. Rb1 a4 37. Kf2 h6 38. h4 Na5 39. Bf1 Kf8 40. Rd4
+Ke7 41. Rb2 Be6 42. Bd3 Nb3 43. Rd6 Rd8 44. f5 gxf5 45. gxf5 Bc8 46. Bb1 Bb7
+47. Ba2 Rcc8 48. Ne4 Nc1 49. Ke3 Nxa2 50. f6+ Ke8 51. Rxa2 1-0
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.23"]
+[Round "1"]
+[White "Logar, Metod"]
+[Black "Vohl, Gregor"]
+[Result "1-0"]
+[ECO "C71"]
+[WhiteElo "1994"]
+[BlackElo "1706"]
+[PlyCount "49"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 b5 6. Bb3 Nxd4 7. Nxd4 exd4 8. c3
+dxc3 9. O-O Be6 10. Bxe6 fxe6 11. Nxc3 g6 12. f4 Ne7 13. f5 gxf5 14. exf5 Nxf5
+15. Rxf5 exf5 16. Qh5+ Kd7 17. Qxf5+ Kc6 18. Qd5+ Kd7 19. Bg5 Be7 20. Ne4 Bxg5
+21. Nc5+ Ke8 22. Re1+ Be7 23. Qh5+ Kf8 24. Ne6+ Kg8 25. Re4 1-0
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.23"]
+[Round "1"]
+[White "Pecnik, Primoz"]
+[Black "Jovan, Romuald"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[WhiteElo "1803"]
+[BlackElo "2046"]
+[PlyCount "160"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 c6 5. dxc6 Nxc6 6. d4 Bd6 7. Bc4 Nf6 8.
+Qe2+ Ne7 9. O-O O-O 10. Ne5 Nc6 11. Nxc6 bxc6 12. c3 Re8 13. Qc2 Qc7 14. Nd2
+Bg4 15. Nf3 Re7 16. Ne5 Bxe5 17. dxe5 Qxe5 18. Rxf4 Qc5+ 19. Qf2 Re1+ 20. Bf1
+Qxf2+ 21. Kxf2 Rae8 22. b3 Bh5 23. Bb2 R1e2+ 24. Bxe2 Rxe2+ 25. Kf1 Rxb2 26.
+Rf2 Rxf2+ 27. Kxf2 Ne4+ 28. Kf1 Nxc3 29. Rc1 Nxa2 30. Rxc6 h6 31. Rc2 Nb4 32.
+Rc4 Nd3 33. Ra4 Kf8 34. Rxa7 Ke8 35. Ra4 Bg6 36. Ra7 Kd8 37. g4 Ne5 38. h3 Nc6
+39. Ra8+ Ke7 40. Kf2 Be4 41. Rg8 Kf6 42. Re8 Bd5 43. Rc8 g6 44. Kg3 Ke7 45. Rh8
+Bxb3 46. Rxh6 Be6 47. Rh8 Nd8 48. h4 f6 49. Kf4 Bf7 50. Ke4 Be8 51. Kf3 Nf7 52.
+Rg8 Nd6 53. h5 gxh5 54. gxh5 Bxh5+ 55. Kf4 Be8 56. Rg7+ Bf7 57. Rg1 Ne8 58.
+Re1+ Be6 59. Ra1 Ng7 60. Ra7+ Bd7 61. Ra6 Ne6+ 62. Ke3 Nc7 63. Ra5 f5 64. Ra7
+Kd6 65. Ra5 Ke6 66. Ra7 Nb5 67. Ra6+ Ke5 68. Ra8 f4+ 69. Kf2 Bc6 70. Rf8 Nd6
+71. Ke2 Nf5 72. Rc8 Ke4 73. Rb8 f3+ 74. Kf2 Nd4 75. Rf8 Nf5 76. Rb8 Kf4 77.
+Rb4+ Be4 78. Rb3 Nh6 79. Ke1 Ng4 80. Rxf3+ Kxf3 1/2-1/2
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.23"]
+[Round "2"]
+[White "Bogachov, Oleksiy"]
+[Black "Logar, Metod"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "2100"]
+[BlackElo "1994"]
+[PlyCount "40"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nd2 d6 10. f4 g6 11. b3 dxe5 12. fxe5 Bg7 13. Bb2 O-O 14. O-O-O a5
+15. a4 Rb8 16. g4 Re8 17. Re1 Qb4 18. Bg2 Nxa4 19. Bxc6 Nxb2 20. Kxb2 Rxe5 0-1
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.23"]
+[Round "2"]
+[White "Buha, Drago"]
+[Black "Varini, Massimo"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2014"]
+[BlackElo "2030"]
+[PlyCount "134"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bd6 5. Bd3 Bg4 6. h3 Bh5 7. O-O Nc6 8. c3
+Nge7 9. Be3 Qd7 10. Nbd2 O-O-O 11. Qc2 Bg6 12. Nh4 Bxd3 13. Qxd3 f6 14. f4 Rde8
+15. Rae1 Ng6 16. Nxg6 hxg6 17. Qxg6 Ne7 18. Qg4 Nf5 19. Bf2 Reg8 20. Nf3 g6 21.
+Re2 Kb8 22. Rfe1 c6 23. Nh4 Qh7 24. Nf3 Qc7 25. g3 a6 26. Kg2 Ka7 27. Ne5 Qh7
+28. h4 Bf8 29. Nf3 Nd6 30. Qe6 Qg7 31. b3 Nf5 32. c4 Bb4 33. Rd1 Re8 34. Qxe8
+Rxe8 35. Rxe8 Nd6 36. Re2 Ne4 37. Re3 Qd7 38. Rh1 Qg4 39. Nh2 Qf5 40. Nf3 Be7
+41. Rhe1 g5 42. fxg5 fxg5 43. hxg5 Bxg5 44. R3e2 Bd8 45. Nd2 Ng5 46. Rh1 Bc7
+47. a4 Qd3 48. Kf1 Ba5 49. Be3 Bxd2 50. Bxd2 Ne4 51. Rhh2 Nxd2+ 52. Kf2 Qxd4+
+53. Kg2 Nxb3 54. Rh7 Qxc4 55. Ree7 Nc5 56. a5 Qa2+ 57. Kh3 Qxa5 58. g4 Qa1 59.
+g5 Qg1 60. Kh4 Kb6 61. Kh5 Ne4 62. Rxb7+ Kc5 63. Rhg7 d4 64. Rbe7 Qd1+ 65. Kh6
+Qh1+ 66. Kg6 d3 67. Kf5 Qf3+ 0-1
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.23"]
+[Round "2"]
+[White "Kocevar, Tugomir"]
+[Black "Hrenic, Misa"]
+[Result "0-1"]
+[ECO "C33"]
+[WhiteElo "1597"]
+[BlackElo "1979"]
+[PlyCount "62"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Ne7 4. Nc3 Ng6 5. Nf3 Be7 6. O-O O-O 7. d4 c5 8. Nd5
+cxd4 9. Nxd4 Bc5 10. c3 Nc6 11. Bxf4 d6 12. b4 Bxd4+ 13. cxd4 Be6 14. b5 Nce7
+15. Qb3 Nxf4 16. Rxf4 Nxd5 17. Bxd5 Qg5 18. Raf1 Bxd5 19. exd5 Qe7 20. h4 Rac8
+21. Qg3 Kh8 22. h5 h6 23. a4 Rce8 24. Kh2 Qd7 25. Rg4 Rg8 26. Qf4 Re7 27. Rf3
+Kh7 28. Qg3 Ree8 29. Rgf4 Rgf8 30. Rxf7 Rxf7 31. Qg6+ Kg8 0-1
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.23"]
+[Round "2"]
+[White "Turuncic, Bojan"]
+[Black "Muri, Emil"]
+[Result "0-1"]
+[ECO "C63"]
+[WhiteElo "1910"]
+[BlackElo "2024"]
+[PlyCount "76"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Ba4 Bc5 6. exf5 Nf6 7. Nxd4 Bxd4 8.
+O-O O-O 9. Ne2 Bb6 10. Ng3 d5 11. d3 c6 12. c3 Qe8 13. Re1 h5 14. Bg5 Ng4 15.
+d4 Bxf5 16. f3 Nh6 17. Bxh6 gxh6 18. Nxf5 Rxf5 19. Bc2 Rg5 20. h4 Rg7 21. Qd2
+Qe6 22. Re4 Qf6 23. Re3 exd4 24. cxd4 Bxd4 25. Kf1 Bxe3 26. Qxe3 Kh8 27. Re1
+Rag8 28. Re2 Rg3 29. Qd2 Qg7 30. Re7 Rxf3+ 31. gxf3 Qg1+ 32. Ke2 Rg2+ 33. Kd3
+Rxd2+ 34. Kxd2 Qf2+ 35. Kc1 Qxh4 36. Rxb7 Qf4+ 37. Kd1 h4 38. Ke2 h3 0-1
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.24"]
+[Round "3"]
+[White "Engelman, Tomaz"]
+[Black "Marinc, Damir"]
+[Result "1/2-1/2"]
+[ECO "C40"]
+[WhiteElo "1828"]
+[BlackElo "2035"]
+[PlyCount "120"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Qe7 3. Nc3 Nf6 4. Bc4 h6 5. d3 d6 6. Be3 c6 7. h3 b5 8. Bb3 a5
+9. a3 Na6 10. O-O g5 11. Nh2 Nc5 12. Ba2 Ne6 13. Bxe6 Qxe6 14. Ne2 Nh5 15. Ng3
+Nf4 16. Nf5 Qg6 17. Ng3 h5 18. f3 Be7 19. d4 O-O 20. dxe5 dxe5 21. Qe1 Be6 22.
+Kh1 Kg7 23. Rf2 Rh8 24. Rd1 b4 25. axb4 axb4 26. b3 Ra2 27. Ra1 Rha8 28. Rxa2
+Rxa2 29. Rd2 Ra8 30. Qd1 Ra3 31. Rf2 c5 32. Rd2 c4 33. Bxf4 exf4 34. Nf5+ Bxf5
+35. exf5 Qf6 36. Qe1 cxb3 37. cxb3 Rxb3 38. Nf1 Ra3 39. Rd1 b3 40. Rb1 Bc5 41.
+Qe4 Ra1 42. Nd2 Rxb1+ 43. Qxb1 Be3 44. Nxb3 g4 45. Qa1 gxh3 46. gxh3 Qxa1+ 47.
+Nxa1 Kf6 48. Kg2 Kxf5 49. Nc2 Ke5 50. Kf1 Kd5 51. Ke2 Bc5 52. Kd3 Ke5 53. Kc4
+Bf2 54. Kd3 Kd5 55. Ke2 Bb6 56. Kd3 Ke5 57. Ke2 f6 58. Kd2 Ba5+ 59. Ke2 Kd6 60.
+Nd4 Bd8 1/2-1/2
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.24"]
+[Round "3"]
+[White "Muri, Emil"]
+[Black "Hrenic, Misa"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[WhiteElo "2024"]
+[BlackElo "1979"]
+[PlyCount "34"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O 8. e5
+Nd5 9. c3 d6 10. cxd4 b5 11. Bb3 Nb6 12. h3 Bf5 13. a3 dxe5 14. dxe5 Qxd1 15.
+Bxd1 Rad8 16. Bf4 Nd5 17. Bg3 Bc5 1/2-1/2
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.24"]
+[Round "3"]
+[White "Pecnik, Primoz"]
+[Black "Buha, Drago"]
+[Result "0-1"]
+[ECO "C34"]
+[WhiteElo "1803"]
+[BlackElo "2014"]
+[PlyCount "42"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Ne7 4. Bc4 Ng6 5. d4 Be7 6. O-O O-O 7. Nc3 c6 8. d5
+d6 9. Nd4 Bg5 10. Qh5 Nd7 11. Kh1 Nde5 12. Qe2 Bg4 13. Nf3 Bh6 14. Bb3 c5 15.
+a4 a6 16. Bd2 Rc8 17. Bc4 Nh4 18. a5 Nhxf3 19. gxf3 Bh5 20. Na4 Qh4 21. Be1 Qh3
+0-1
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.24"]
+[Round "3"]
+[White "Varini, Massimo"]
+[Black "Logar, Metod"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2030"]
+[BlackElo "1994"]
+[PlyCount "81"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. h3 Bb6 7. Bb3 Qe7 8. Nbd2
+Be6 9. O-O h6 10. Nc4 Bxc4 11. Bxc4 g5 12. Nh2 Nd8 13. Be3 Ne6 14. a4 c6 15. a5
+Bd8 16. g3 d5 17. exd5 cxd5 18. Bb5+ Kf8 19. a6 b6 20. Ng4 Bc7 21. Qf3 Nxg4 22.
+hxg4 Rd8 23. Rfe1 Kg7 24. Bc6 Qd6 25. Bb7 Bb8 26. Kg2 Rd7 27. c4 d4 28. Bd2 Nc5
+29. Bb4 Qf6 30. Bxc5 Qxf3+ 31. Bxf3 bxc5 32. Ra5 Bd6 33. Rb5 Rc8 34. Ra1 Rcc7
+35. Rb8 Re7 36. Ra5 Re6 37. Bd5 Rf6 38. Rb7 Re7 39. f3 Kf8 40. Rab5 Kg7 41.
+Rxe7 1-0
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.25"]
+[Round "4"]
+[White "Hrenic, Misa"]
+[Black "Jovan, Romuald"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "1979"]
+[BlackElo "2046"]
+[PlyCount "47"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Nb4 9. cxd5 Nxd3 10. Qxd3 Qxd5 11. Re1 Bf5 12. Nc3 Nxc3 13. Qxc3 Be6 14. Re5
+Qd7 15. d5 Bxd5 16. Rxe7+ Qxe7 17. Bg5 f6 18. Re1 Be6 19. Nd4 Rd8 20. Nxe6 Qd6
+21. Nxd8+ Kxd8 22. Be3 Re8 23. h3 b6 24. Qc2 1-0
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.25"]
+[Round "4"]
+[White "Petrovic, Marko"]
+[Black "Golja, Milan"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[WhiteElo "1983"]
+[BlackElo "2010"]
+[PlyCount "111"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Nf6 6. O-O Be7 7. Re1 b5 8. Bb3
+Na5 9. Bc2 c5 10. h3 Qc7 11. d3 O-O 12. Nbd2 Nc6 13. Nf1 Bb7 14. Ng3 Rfe8 15.
+Nf5 Bf8 16. Bg5 Nd7 17. Nh2 Ne7 18. Bxe7 Bxe7 19. Qg4 g6 20. Nxe7+ Rxe7 21. Qg5
+f6 22. Qd2 Nb6 23. Rad1 Rc8 24. Ng4 Rf8 25. d4 c4 26. d5 Bc8 27. Re3 Bxg4 28.
+hxg4 Nd7 29. Rh3 Nc5 30. Kh2 Nb7 31. Rh1 Nd8 32. Kg1 Rg7 33. g3 Qd7 34. Qe2 Nf7
+35. Kf1 Nd8 36. Ke1 Nb7 37. Kd1 Nc5 38. Kc1 Qc7 39. Qe3 a5 40. Kd2 a4 41. a3
+Rc8 42. Rc1 Rf8 43. Rf1 Qe7 44. Kc1 Rff7 45. Rh2 Rf8 46. Kb1 Rc8 47. f4 Rf8 48.
+Rhf2 Rgf7 49. f5 g5 50. Rh2 Rg7 51. Rfh1 Rff7 52. Rh6 Kf8 53. Qf2 Ke8 54. Qh2
+Kd7 55. Qe2 Ke8 56. Qg2 1/2-1/2
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.26"]
+[Round "5"]
+[White "Sorl, Simon"]
+[Black "Ravnik, Franc"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "1801"]
+[BlackElo "2000"]
+[PlyCount "62"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 d6 4. d4 exd4 5. Nxd4 Be7 6. Be2 c6 7. O-O O-O 8.
+Be3 Re8 9. f4 Bf8 10. Bf3 c5 11. Nb3 Nc6 12. Qe2 a6 13. Rad1 Qc7 14. a4 Bd7 15.
+g4 Kh8 16. g5 Ng8 17. Nd5 Qd8 18. Bg2 f5 19. Qd3 Nge7 20. Nxe7 Qxe7 21. e5 Nb4
+22. Qd2 Bc6 23. c3 Bxg2 24. Qxg2 Qf7 25. Nxc5 dxc5 26. cxb4 cxb4 27. Rd3 Rac8
+28. Rfd1 b3 29. Qd5 Qh5 30. Rxb3 Rc2 31. Bd2 Qxd1+ 0-1
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.27"]
+[Round "6"]
+[White "Hrenic, Misa"]
+[Black "Vidic, Miha"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "1979"]
+[BlackElo "1800"]
+[PlyCount "57"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Qb6 9. Nf3 Bb4+ 10. Kf1 O-O 11. Nf4 Be7 12. h4 h6 13. Bb1 Re8 14. g4 Nf8 15. g5
+hxg5 16. hxg5 g6 17. Kg2 Nd7 18. Nxg6 fxg6 19. Bxg6 Rf8 20. Rh8+ Kg7 21. Rh7+
+Kxg6 22. Qh1 Nxd4 23. Qh5+ Kf5 24. Qh3+ Kg6 25. Nh4+ Kxh7 26. g6+ Kg8 27. Nf5
+Rxf5 28. Qh7+ Kf8 29. Qh8# 1-0
+
+[Event "Bled op-B 25th"]
+[Site "Bled"]
+[Date "2008.02.27"]
+[Round "6"]
+[White "Logar, Metod"]
+[Black "Sivic, Jernej"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "1994"]
+[BlackElo "1936"]
+[PlyCount "48"]
+[EventDate "2008.02.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. Bg5 h6 14. Bh4 Qxb2 15.
+Nb5 Bb8 16. a3 a6 17. Rb1 Qa2 18. Qa4 Nd7 19. Nc3 b5 20. Bxb5 axb5 21. Qxa8 Qc4
+22. Nxb5 Nb6 23. Rfc1 Nxa8 24. Rxc4 dxc4 0-1
+
+[Event "Bled op-B 25th"]

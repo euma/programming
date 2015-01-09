@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. g3 g6 3. c4 Bg7 4. Nc3 d6 5. Bg2 e5 6. O-O O-O 7. a3 c6 8. b4 Be6
+9. d3 e4 10. Nd4 Qe7 11. Nxe6 Qxe6 12. Rb1 exd3 13. exd3 Na6 14. b5 Nb8 15.
+bxc6 bxc6 16. Re1 Qd7 17. Qa4 Qc7 18. d4 Nfd7 19. Be3 Nb6 20. Qb3 N8d7 21. c5
+dxc5 22. dxc5 Qe5 23. cxb6 Qxc3 24. Qxc3 Bxc3 25. Rec1 1-0
+
+[Event "Gorges op"]
+[Site "Gorges"]
+[Date "2008.07.??"]
+[Round "6"]
+[White "Lebreton, Flavien"]
+[Black "Chabradze, Boris"]
+[Result "1/2-1/2"]
+[ECO "A53"]
+[WhiteElo "1915"]
+[BlackElo "2192"]
+[PlyCount "44"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. g3 Ne4 5. Bg2 Nxc3 6. bxc3 Nc6 7. e4 Bd7 8.
+Be3 Na5 9. Qd3 c5 10. Nf3 e5 11. O-O Be6 12. d5 Bd7 13. Nd2 Be7 14. f4 O-O 15.
+Nf3 f6 16. Rf2 a6 17. a4 Qc7 18. Rfa2 Rfb8 19. Nd2 Qd8 20. Qc2 Qe8 21. Bf1 Bd8
+22. f5 g5 1/2-1/2
+
+[Event "Gorges op"]
+[Site "Gorges"]
+[Date "2008.07.??"]
+[Round "6"]
+[White "Mercier, Jean Loup"]
+[Black "Grill, Marc"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[WhiteElo "1947"]
+[BlackElo "2168"]
+[PlyCount "73"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Nf3 e4 5. Nd4 Nxd4 6. Bxd4 d5 7. Be2 Bd6 8. f4
+O-O 9. O-O c5 10. Bb2 Bc7 11. Qe1 Re8 12. Qh4 d4 13. Rd1 Nd5 14. Qg3 Nb4 15.
+Na3 a6 16. c3 Nc6 17. cxd4 cxd4 18. Rf1 f6 19. Rac1 Be6 20. Bc4 Bxc4 21. Nxc4
+Rc8 22. Na3 Qd7 23. Nc2 Bb6 24. Na3 Nb4 25. Rxc8 Rxc8 26. Nc4 Ba7 27. a3 Nd3
+28. Bxd4 Bxd4 29. exd4 b5 30. Ne3 Qxd4 31. Qg4 Rc6 32. h3 g6 33. Kh2 Kf7 34.
+Qh4 Kg7 35. Qg4 Kf7 36. Qh4 Kg7 37. Qg4 1/2-1/2
+
+[Event "Gorges op"]
+[Site "Gorges"]
+[Date "2008.07.??"]
+[Round "6"]
+[White "Peric, Slavisa"]
+[Black "Templier, Benoit"]
+[Result "1-0"]
+[ECO "A84"]
+[WhiteElo "2251"]
+[BlackElo "1697"]
+[PlyCount "95"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 e6 3. c4 f5 4. Nc3 c6 5. Qc2 Nf6 6. Bf4 Be7 7. e3 O-O 8. h3 Ne4
+9. Bd3 Nd7 10. Ne5 Nxe5 11. Bxe5 Bd6 12. Bxd6 Qxd6 13. O-O-O Bd7 14. Kb1 a5 15.
+f3 Nxc3+ 16. Qxc3 a4 17. f4 b5 18. cxb5 cxb5 19. a3 b4 20. axb4 Rfb8 21. Qc5
+Qb6 22. Ka2 Qxb4 23. Qxb4 Rxb4 24. Rd2 Rc8 25. Re1 Kf7 26. Rc2 Rbb8 27. Rxc8
+Rxc8 28. Ra1 Ke7 29. Kb1 Rb8 30. Bc2 Rb4 31. Ra3 Kd6 32. Ka2 Kc7 33. Rc3+ Kb6
+34. Ka3 Rb5 35. Bxa4 Ra5 36. b3 Ra8 37. Kb4 Bxa4 38. bxa4 h6 39. Rc5 g5 40.
+fxg5 hxg5 41. a5+ Kb7 42. Kb5 Ra7 43. g3 Ra8 44. h4 g4 45. Rc2 Ra7 46. h5 Ra8
+47. a6+ Rxa6 48. Rc7+ 1-0
+
+[Event "Gorges op"]
+[Site "Gorges"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Bethys, Fred"]
+[Black "Lagarde, Marc"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "1660"]
+[BlackElo "1799"]
+[PlyCount "43"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. f4 d5 2. Nf3 Nc6 3. e3 Nf6 4. Bb5 Bd7 5. Bxc6 Bxc6 6. b3 e6 7. Bb2 Bd6 8.
+O-O Qe7 9. Qe1 h5 10. d3 O-O-O 11. Nbd2 Rdg8 12. Ne5 Bb5 13. a4 Ba6 14. Ndf3
+Ng4 15. Bc3 Rh6 16. b4 c6 17. b5 cxb5 18. axb5 Bxb5 19. Rxa7 Kb8 20. Qa1 Ba6
+21. Nc6+ Kc7 22. Qxa6 1-0
+
+[Event "Gorges op"]
+[Site "Gorges"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Colin, Vincent"]
+[Black "Crouan, Stephane"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2408"]
+[BlackElo "2205"]
+[PlyCount "87"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. h3 c6 7. O-O Nfd7 8. Bh2
+Re8 9. Nbd2 Nf8 10. a4 a5 11. c3 Nbd7 12. Re1 h6 13. e4 e5 14. Nc4 Qe7 15. Qb3
+Ne6 16. Rad1 Nf4 17. Bf1 g5 18. Qa3 Bf8 19. dxe5 dxe5 20. Qxe7 Rxe7 21. Rd2 Re8
+22. Red1 Nc5 23. Ncxe5 Nxe4 24. Rd4 f5 25. Bxf4 gxf4 26. Bc4+ Be6 27. Bxe6+
+Rxe6 28. Rd8 Rxd8 29. Rxd8 Kg7 30. Nd3 Rd6 31. Nd4 Rxd8 32. Ne6+ Kf6 33. Nxd8
+b5 34. Nxc6 bxa4 35. Nxa5 a3 36. bxa3 Nxc3 37. Nc4 f3 38. gxf3 Nb5 39. a4 Nd4
+40. a5 Nxf3+ 41. Kg2 Nd4 42. a6 Nb5 43. Kg3 Ke6 44. Kf4 1-0
+
+[Event "Gorges op"]
+[Site "Gorges"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Primel, Dominique"]
+[Black "Pirotais, Jerome"]
+[Result "0-1"]
+[ECO "A13"]
+[WhiteElo "1989"]
+[BlackElo "1981"]
+[PlyCount "70"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 a6 4. Bg2 b5 5. b3 c5 6. O-O Bb7 7. Nc3 Qa5 8. Re1
+Be7 9. Bb2 O-O 10. d3 d5 11. cxd5 exd5 12. Nh4 Rd8 13. Nf5 Bf8 14. Qc1 Qb6 15.
+Qg5 Kh8 16. e4 d4 17. Ne2 Nc6 18. Rad1 Ne7 19. e5 Nxf5 20. exf6 Bxg2 21. fxg7+
+Nxg7 22. Kxg2 Qc6+ 23. Kg1 Rd5 24. Qc1 Ne6 25. b4 Bg7 26. bxc5 Rxc5 27. Qa1 Rd8
+28. h4 Qf3 29. Rd2 Rf5 30. Rf1 Qg4 31. Qd1 Rf3 32. Kg2 Be5 33. Rh1 Rg8 34. Kf1
+Bxg3 35. Nxg3 Qxg3 0-1
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "1"]
+[White "Guo Qi"]
+[Black "Muzychuk, Mariya"]
+[Result "1-0"]
+[ECO "A87"]
+[WhiteElo "2048"]
+[BlackElo "2413"]
+[PlyCount "115"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nf3 d6 7. O-O Qe8 8. d5 a5
+9. Nd4 Na6 10. e4 fxe4 11. Nxe4 Nxe4 12. Bxe4 Nc5 13. Bg2 Bd7 14. Be3 c6 15.
+Qd2 e5 16. Nb3 Nxb3 17. axb3 e4 18. Rxa5 Rxa5 19. Qxa5 Bxb2 20. Qc7 cxd5 21.
+cxd5 Bb5 22. Rb1 Qe5 23. Bf4 Qd4 24. Qxd6 Bd3 25. Rd1 Qf6 26. Qxf6 Bxf6 27. Rc1
+g5 28. Be3 h5 29. Bf1 Rd8 30. f3 Bb2 31. Rd1 Bc2 32. Rd2 Bc1 33. Rxc2 Bxe3+ 34.
+Kg2 exf3+ 35. Kxf3 Bb6 36. Ke4 Re8+ 37. Kd3 Kf7 38. Bg2 Kf6 39. Be4 Ke5 40. Rc4
+Rf8 41. Rb4 Rf6 42. Rb5 Rd6 43. Bf3 h4 44. gxh4 gxh4 45. h3 Rg6 46. d6+ Kf4 47.
+Rxb6 Kxf3 48. d7 Rxb6 49. d8=Q Rxb3+ 50. Kc4 Re3 51. Qf6+ Kg3 52. Qg5+ Kf3 53.
+Qg4+ Kf2 54. Qxh4+ Kf3 55. Qg4+ Kf2 56. h4 Rf3 57. h5 Rf7 58. h6 1-0
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "2"]
+[White "Sieciechowicz, Marcin"]
+[Black "Graf, Felix"]
+[Result "0-1"]
+[ECO "A43"]
+[WhiteElo "2311"]
+[BlackElo "2256"]
+[PlyCount "170"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 c5 2. d5 f5 3. c4 Nf6 4. Nc3 d6 5. g3 g6 6. Bg2 Bg7 7. Nh3 Na6 8. Nf4 Nc7
+9. h4 O-O 10. h5 Qe8 11. Bd2 Rb8 12. Qc2 a6 13. a4 e5 14. dxe6 Nxe6 15. hxg6
+hxg6 16. Ncd5 Ne4 17. Nxg6 Rf7 18. a5 Nd4 19. Qd3 Be6 20. Nb6 Rf6 21. Nf4 Bf7
+22. Be3 Nc6 23. Nbd5 Ne5 24. Qc2 Ng4 25. Bxe4 Nxe3 26. fxe3 fxe4 27. Nxf6+ Bxf6
+28. Kf2 b5 29. Rad1 bxc4 30. Rxd6 Rxb2 31. Qd1 Qe5 32. Rd8+ Bxd8 33. Qxd8+ Be8
+34. Rh5 Rb8 35. Rxe5 Rxd8 36. Rxc5 Bf7 37. g4 Kf8 38. g5 Ke7 39. g6 Bg8 40. Rc6
+Rd6 41. Rc5 Rd8 42. Ke1 Kd6 43. Rh5 c3 44. Kd1 Bb3+ 45. Kc1 Kc6 46. Rh1 Rd2 47.
+g7 Ra2 48. Rh6+ Kc5 49. Rh5+ Kb4 50. Nd5+ Ka3 51. Nxc3 Rc2+ 52. Kb1 Rxc3 53.
+Rh1 Ba2+ 54. Ka1 Bg8 55. Kb1 Rc7 56. Rg1 Kb3 57. Rg6 Ka3 58. Rg1 Rc5 59. Rh1
+Rg5 60. Kc2 Kb4 61. Rb1+ Kc5 62. Rb7 Rg2 63. Kc3 Rg3 64. Kd2 Bd5 65. Ra7 Kb5
+66. Rd7 Bc4 67. Rd4 Rxg7 68. Rxe4 Rc7 69. Re5+ Kb4 70. e4 Bb5 71. Rh5 Kxa5 72.
+e5 Re7 73. Kc3 Bxe2 74. Rg5 Kb6 75. Kd4 a5 76. Kd5 a4 77. Kd6 Re8 78. Rg2 Bb5
+79. e6 a3 80. e7 Ra8 81. Ra2 Be8 82. Ke6 Kc5 83. Ra1 a2 84. Kf6 Kb4 85. Kg7 Kb3
+0-1
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "2"]
+[White "Tamazyan, Haik G"]
+[Black "Moussard, Jules"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2139"]
+[BlackElo "2255"]
+[PlyCount "115"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. b3 e6 3. Bb2 d5 4. e3 Bd6 5. d3 O-O 6. g3 Nbd7 7. Nbd2 e5 8. Bg2
+Re8 9. e4 c6 10. O-O Nf8 11. Re1 Ng6 12. Nf1 Bc7 13. exd5 cxd5 14. d4 e4 15.
+N3d2 Bg4 16. Qc1 Qd7 17. Ne3 Bh3 18. Bh1 Ng4 19. c4 Nxe3 20. Rxe3 Rac8 21. Qc2
+f5 22. f4 exf3 23. Rxe8+ Rxe8 24. Bxf3 f4 25. Bxd5+ Kh8 26. Ne4 fxg3 27. Ng5
+Rf8 28. Re1 Rf2 29. Qe4 Rf8 30. Ba3 gxh2+ 31. Kh1 Bf5 32. Qe3 Bf4 33. Bxf8 Bxe3
+34. Nf7+ Kg8 35. Ne5+ Qxd5+ 36. cxd5 Bf4 37. Bd6 Nh4 38. Nc4 g5 39. Bxf4 gxf4
+40. Rf1 f3 41. Kxh2 Be4 42. d6 Bc6 43. Ne5 Kf8 44. Nxc6 bxc6 45. Kg3 Nf5+ 46.
+Kxf3 Nxd6 47. Rc1 Nf5 48. Ke4 Ne7 49. Ke5 Kf7 50. Rf1+ Kg6 51. Ke6 Nd5 52. Rg1+
+Kh5 53. Kd6 Nb4 54. Kc5 a5 55. a3 Nc2 56. Rc1 Nxa3 57. Kxc6 Kg6 58. d5 1-0
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "2"]
+[White "Zeng, Chongsheng"]
+[Black "Sivuk, Vitaly"]
+[Result "1-0"]
+[ECO "A87"]
+[WhiteElo "2297"]
+[BlackElo "2324"]
+[PlyCount "157"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 d6 4. g3 g6 5. Bg2 Bg7 6. Nf3 O-O 7. O-O Qe8 8. Re1
+Qf7 9. d5 Ne4 10. Nd4 Nxc3 11. bxc3 Na6 12. Rb1 Nc5 13. Ba3 Ne4 14. Qd3 b6 15.
+Rf1 e5 16. Ne6 Bxe6 17. dxe6 Qxe6 18. Bxe4 fxe4 19. Qxe4 Rae8 20. Rbd1 Rf5 21.
+Bc1 a5 22. Kg2 Ref8 23. Be3 h5 24. h3 R5f7 25. Rh1 Qf5 26. f3 Kh7 27. g4 Qxe4
+28. fxe4 Bh6 29. g5 Bg7 30. Rhf1 Kg8 31. Rf3 Rxf3 32. exf3 a4 33. Kf2 Kf7 34.
+c5 bxc5 35. Rb1 Ke6 36. Rb7 Kd7 37. Ra7 Rb8 38. Rxa4 Kc6 39. Ra7 Bf8 40. Ke2
+Be7 41. h4 c4 42. Ra6+ Kb5 43. Ra7 Kc6 44. Ra4 Rb2+ 45. Bd2 Kd7 46. Kd1 Rb8 47.
+Bc1 Rb5 48. Kc2 Rc5 49. Be3 Rc6 50. Ra8 Ke6 51. a4 d5 52. exd5+ Kxd5 53. a5 Bc5
+54. Kd2 Rd6 55. Ke2 Kc6 56. Re8 Bxe3 57. Kxe3 Rd3+ 58. Ke4 Rxc3 59. a6 Ra3 60.
+Re6+ Kb5 61. Rxg6 c3 62. Kd3 Kb4 63. Rc6 Ra1 64. Rxc7 Rd1+ 65. Ke4 Rd4+ 66.
+Kxe5 Rd1 67. a7 Ra1 68. g6 c2 69. Rxc2 Rxa7 70. Kf6 Ra6+ 71. Kg5 Ra5+ 72. Kh6
+Ra6 73. Kxh5 Rf6 74. g7 Rxf3 75. g8=Q Kb5 76. Qb8+ Ka4 77. Ra2+ Ra3 78. Rxa3+
+Kxa3 79. Kg5 1-0
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "3"]
+[White "Sieciechowicz, Marcin"]
+[Black "Sivuk, Vitaly"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2311"]
+[BlackElo "2324"]
+[PlyCount "142"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 Be7 8. O-O
+O-O 9. Bc3 d5 10. cxd5 Nxd5 11. Bb2 Nf6 12. Nbd2 Nbd7 13. Nc4 Rc8 14. Qd2 c5
+15. Rfd1 Bd5 16. Ne3 Be4 17. Rac1 Qe8 18. Ne1 Bxg2 19. N1xg2 cxd4 20. Qxd4 Rxc1
+21. Rxc1 Qb8 22. b4 Rc8 23. Rxc8+ Qxc8 24. a3 Qc6 25. Ne1 h6 26. Nd3 Kf8 27. f3
+a6 28. Nc4 b5 29. Na5 Qb6 30. Nb3 Qxd4+ 31. Bxd4 Nd5 32. Kf2 N5b6 33. Bxb6 Nxb6
+34. Nbc5 Nc4 35. Nxa6 Nxa3 36. Ke3 Ke8 37. Kd4 Kd8 38. f4 Nc2+ 39. Kc3 Ne3 40.
+h3 h5 41. Ne5 Bf6 42. Kd3 Bxe5 43. Kxe3 Bd6 44. h4 Kd7 45. Kd4 Kc6 46. e4 Kb6
+47. e5 Be7 48. Nb8 Bxb4 49. Nd7+ Kc6 50. Nb8+ Kb7 51. Nd7 Be1 52. Nc5+ Kc6 53.
+Ne4 b4 54. Kc4 Kd7 55. Kb3 Ke7 56. Kc2 f5 57. exf6+ gxf6 58. Kd1 Bc3 59. Nxc3
+bxc3 60. Kc2 Kf7 61. Kxc3 Kg6 62. Kd3 Kf5 63. Ke3 Kg4 64. Kf2 e5 65. fxe5 fxe5
+66. Kg2 e4 67. Kf2 Kf5 68. Ke2 Ke5 69. Ke3 Kf5 70. Kd4 Kg4 71. Kxe4 Kxg3
+1/2-1/2
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "3"]
+[White "Swiercz, Dariusz"]
+[Black "Zherebukh, Yaroslav"]
+[Result "0-1"]
+[ECO "A33"]
+[WhiteElo "2456"]
+[BlackElo "2432"]
+[PlyCount "60"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 c5 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 e6 6. a3 Be7 7. e4 d6 8. Be2
+O-O 9. Be3 a6 10. O-O Bd7 11. f3 Rc8 12. Nxc6 Bxc6 13. Rc1 b6 14. b4 Nd7 15.
+Qb3 Bb7 16. Rfd1 Qc7 17. Na4 Rb8 18. Bf4 Ba8 19. Qe3 e5 20. Bg3 Nf6 21. Bf2 Nd7
+22. Qd2 Rfd8 23. Nc3 Rbc8 24. Be3 Qb8 25. Rc2 Rc7 26. Rdc1 Rdc8 27. Bf1 Nf6 28.
+Qf2 Rb7 29. Nd5 Bd8 30. Nc3 Re7 0-1
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "4"]
+[White "Kulon, Klaudia"]
+[Black "Muzychuk, Mariya"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "2217"]
+[BlackElo "2413"]
+[PlyCount "82"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 f5 6. Nge2 Nf6 7. d3 O-O 8. O-O
+d6 9. Rb1 a5 10. a3 Be6 11. Nd5 Qd7 12. Nec3 Qf7 13. b4 axb4 14. axb4 Nd8 15.
+b5 c6 16. Nb4 d5 17. cxd5 cxd5 18. d4 exd4 19. exd4 Ne4 20. Nxe4 fxe4 21. f3
+Qd7 22. fxe4 Rxf1+ 23. Bxf1 dxe4 24. Be3 Ra3 25. Nc2 Rb3 26. Bf2 Nf7 27. Ra1
+Ng5 28. Ra8+ Kf7 29. Qc1 Bf6 30. Kh1 Qc7 31. Qd2 Rb1 32. Ne1 Qc1 33. Qxc1 Rxc1
+34. Ra3 Bxd4 35. Bxd4 Rxe1 36. h4 Rxf1+ 37. Kg2 Bh3+ 38. Kh2 Nf3+ 39. Kxh3 Nxd4
+40. Re3 Nxb5 41. Rxe4 Nd6 0-1
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "4"]
+[White "Tamazyan, Haik G"]
+[Black "Jorczik, Julian"]
+[Result "0-1"]
+[ECO "A49"]
+[WhiteElo "2139"]
+[BlackElo "2359"]
+[PlyCount "80"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. b3 d6 3. d4 g6 4. Bb2 Bg7 5. g3 O-O 6. Bg2 c6 7. O-O a5 8. a4 b5
+9. axb5 cxb5 10. c4 bxc4 11. bxc4 Bb7 12. Qb3 Qc7 13. Nc3 Rc8 14. Nd2 Bxg2 15.
+Kxg2 Nbd7 16. Nb5 Qb7+ 17. f3 Bh6 18. e3 d5 19. Rfc1 Ng4 20. c5 Nxe3+ 21. Kf2
+Nf6 22. Rcb1 Rc6 23. Bc3 Qd7 24. Rxa5 Rxa5 25. Bxa5 Qh3 26. Ke2 Qxh2+ 27. Kd3
+Ra6 28. Ra1 Nf5 29. Qc3 Nxg3 30. Re1 Qf2 31. Rxe7 Bxd2 32. Qxd2 Qf1+ 33. Kc2
+Qxb5 34. Qb4 Rxa5 35. Qxb5 Rxb5 36. c6 Rb6 37. Rc7 Kg7 38. Rc8 Nf5 39. c7 Rc6+
+40. Kb3 Ne7 0-1
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "5"]
+[White "Guo Qi"]
+[Black "Homiakova, Elena"]
+[Result "1/2-1/2"]
+[ECO "A59"]
+[WhiteElo "2048"]
+[BlackElo "2078"]
+[PlyCount "84"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8.
+Kxf1 g6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Qa5 13. Re1 Rfb8 14. e5 dxe5
+15. Nxe5 Nxe5 16. Rxe5 Qd8 17. Re2 Ra7 18. Bf4 Rb4 19. Be5 Rd7 20. Rd2 Bh6 21.
+f4 Bg7 22. a3 Rbb7 23. Qf3 Rb3 24. Rad1 Qb6 25. Qf2 Qb7 26. Kg1 Rxc3 27. Bxf6
+Rb3 28. Bxg7 Kxg7 29. Kh2 Rb5 30. Qe2 Kg8 31. Qe5 c4 32. f5 Rd6 33. h4 Qd7 34.
+fxg6 Rxg6 35. Rf1 Qd6 36. Qxd6 Rxd6 37. Rfd1 Rdb6 38. Kh3 Rxb2 39. Rxb2 Rxb2
+40. Rc1 Rb3 41. Rxc4 Rxa3 42. Rc7 Rd3 1/2-1/2
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "6"]
+[White "Bluebaum, Johanna"]
+[Black "Lefevre, Margaux"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "1905"]
+[BlackElo "1968"]
+[PlyCount "77"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 g6 7. e4 d6 8. Be2 Bg7
+9. Nf3 O-O 10. Nd2 Nbd7 11. Nc4 Qc7 12. a4 Nb6 13. Ne3 Ne8 14. a5 Nd7 15. O-O
+Qb7 16. Nc4 Nc7 17. Na4 Rb8 18. Nab6 Nb5 19. Kh1 Nxb6 20. Nxb6 Nd4 21. Qd3 Nxe2
+22. Qxe2 e6 23. Bf4 Rd8 24. Rfd1 Bd4 25. Rab1 exd5 26. Nxd5 f5 27. Bg5 Re8 28.
+Rxd4 cxd4 29. Nf6+ Kf7 30. Nxe8 Kxe8 31. exf5+ Kf7 32. fxg6+ hxg6 33. Qc4+ d5
+34. Qxd4 Bf5 35. Re1 Qxb2 36. Qxd5+ Kg7 37. Bf4 Re8 38. Be5+ Kh7 39. Qf7+ 1-0
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "6"]
+[White "Jorczik, Julian"]
+[Black "Moussard, Jules"]
+[Result "0-1"]
+[ECO "A67"]
+[WhiteElo "2359"]
+[BlackElo "2255"]
+[PlyCount "128"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nb4 12. Re1 a6 13. Bf1 Re8 14. h3 f5 15. e5
+dxe5 16. d6 e4 17. Bc4+ Kh8 18. Ng5 Bd4+ 19. Kh1 Qf6 20. g4 Kg7 21. gxf5 Qxf5
+22. Rxe4 Rxe4 23. Ncxe4 Nb6 24. Ng3 Qc2 25. Qe1 Bf6 26. Bf1 Bd7 27. Ra3 Re8 28.
+Qd2 Bc6+ 29. Kh2 Qxd2+ 30. Bxd2 h6 31. a5 Nd7 32. N5e4 Rxe4 33. Nxe4 Bxe4 34.
+Bxb4 cxb4 35. Rb3 g5 36. Rxb4 Bc6 37. Bg2 Kf7 38. Bxc6 bxc6 39. fxg5 hxg5 40.
+Rb7 Ke6 41. Ra7 Bxb2 42. Rxa6 Kxd6 43. Kg3 Bd4 44. Kg4 Be3 45. Kf5 Kd5 46. Ra8
+Kd6 47. a6 Kc7 48. a7 Kb7 49. Rd8 Nb6 50. Rd3 Nd5 51. Ra3 Bxa7 52. Kxg5 c5 53.
+h4 c4 54. Ra4 c3 55. Rc4 Be3+ 56. Kg6 Bd2 57. h5 Nb6 58. Rc5 Nd7 59. Rb5+ Kc6
+60. Rb4 Ne5+ 61. Kf5 c2 62. Rb8 Nc4 63. Rc8+ Kd5 64. Rd8+ Nd6+ 0-1
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "6"]
+[White "Yaksin, Oleg"]
+[Black "Kanarek, Marcel"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2307"]
+[BlackElo "2349"]
+[PlyCount "104"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e4 d6 6. c3 Nbd7 7. Be2 e5 8.
+dxe5 Nxe5 9. Nxe5 dxe5 10. O-O Be6 11. Qc2 Qe8 12. b4 Nd7 13. Be3 Kh8 14. Bc4
+f5 15. f3 Nf6 16. Rad1 b6 17. Bg5 Bd7 18. Nb3 h6 19. Bxf6 Rxf6 20. Rd2 h5 21.
+Rfd1 Bc6 22. Bd5 Rd8 23. c4 Bd7 24. b5 Bc8 25. Bc6 Rxd2 26. Qxd2 Qe7 27. Qd8+
+Qxd8 28. Rxd8+ Rf8 29. Rxf8+ Bxf8 30. Kf2 Kg7 31. Ke3 Kf6 32. Bd5 Bh6+ 33. Kd3
+Bf4 34. g3 Bh6 35. c5 f4 36. Ke2 fxg3 37. hxg3 g5 38. Kf2 Bf8 39. c6 Bb4 40. a4
+a6 41. Nc1 axb5 42. axb5 h4 43. g4 Bc5+ 44. Kg2 Ke7 45. Nd3 Kd6 46. Bf7 Bd4 47.
+Kh3 Bc3 48. Bc4 Be6 49. Bxe6 Kxe6 50. Kg2 Kd6 51. Kh2 Ke6 52. Kh3 Kd6 1/2-1/2
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Graf, Felix"]
+[Black "Sivuk, Vitaly"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "2256"]
+[BlackElo "2324"]
+[PlyCount "83"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. Nc3 d5 3. Bf4 c6 4. f3 e6 5. Qd2 Nf6 6. O-O-O Bb4 7. e3 Nbd7 8. Bd3
+Qe7 9. Nge2 O-O 10. a3 Ba5 11. Kb1 Bxc3 12. Qxc3 Re8 13. Be5 Nxe5 14. dxe5 Nd7
+15. g4 fxg4 16. f4 c5 17. h3 g3 18. Bb5 a6 19. Bxd7 Bxd7 20. Nxg3 Rf8 21. Rhg1
+Be8 22. f5 exf5 23. Rxd5 Bg6 24. h4 Qxh4 25. e6 Qf6 26. Qxc5 Qxe6 27. Rd6 Qf7
+28. Ne2 Rac8 29. Qd4 Rc4 30. Qb6 f4 31. Nxf4 Bxc2+ 32. Ka1 Bf5 33. Rd8 Rc8 34.
+Rd5 Rc6 35. Qd4 Rfc8 36. Rd8+ Rxd8 37. Qxd8+ Qf8 38. Qd5+ Kh8 39. e4 Bc8 40. e5
+Rc5 41. Ng6+ hxg6 42. Rh1+ 1-0
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Guo Qi"]
+[Black "Lefevre, Margaux"]
+[Result "1-0"]
+[ECO "A59"]
+[WhiteElo "2048"]
+[BlackElo "1968"]
+[PlyCount "99"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Ra6 13. Re1 Qa8 14. Re2 Rb8
+15. Qc2 e6 16. dxe6 fxe6 17. Bg5 d5 18. exd5 exd5 19. Bf4 Rb4 20. a3 Rbb6 21.
+Rae1 d4 22. Ne4 Qd5 23. Nxf6+ Bxf6 24. Re8+ Kf7 25. Qe2 Re6 26. Qxe6+ Rxe6 27.
+R8xe6 Qxe6 28. Rxe6 Kxe6 29. Nd2 Kd5 30. b3 g5 31. Bc7 Kc6 32. Ba5 Ne5 33. f4
+gxf4 34. gxf4 Nd3 35. Kf3 Kd5 36. Nc4 h5 37. Bd2 Be7 38. a4 Bh4 39. Ke2 Nb4 40.
+Bxb4 cxb4 41. Kd3 Be7 42. a5 Bc5 43. Nb6+ Kc6 44. Kc4 Bd6 45. f5 Bc5 46. f6 Kd6
+47. f7 Kc6 48. Nd7 d3 49. Nxc5 d2 50. f8=Q 1-0
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Bluebaum, Johanna"]
+[Black "Muzychuk, Mariya"]
+[Result "0-1"]
+[ECO "A53"]
+[WhiteElo "1905"]
+[BlackElo "2413"]
+[PlyCount "96"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Bf5 4. Qb3 Qc8 5. Nc3 g6 6. Bg5 Bg7 7. e3 O-O 8. Be2
+Re8 9. O-O e5 10. dxe5 dxe5 11. Rfd1 Nbd7 12. Qb5 c6 13. Qa4 a5 14. Rd6 Qc7 15.
+Qd1 Rad8 16. Qd2 h6 17. Bh4 g5 18. Bg3 Bf8 19. Rd1 Bxd6 20. Qxd6 Qxd6 21. Rxd6
+Bg4 22. h3 Bxf3 23. Bxf3 Kg7 24. Na4 e4 25. Be2 Nf8 26. c5 Nd5 27. a3 Rxd6 28.
+Bxd6 Ng6 29. Bc4 Ne5 30. Bxd5 cxd5 31. Nc3 Nc4 32. Bc7 Nxb2 33. Nxd5 Nc4 34. a4
+Re6 35. Nb6 Nxb6 36. Bxb6 Rc6 37. Kf1 Kf6 38. Ke2 Ke6 39. f3 f5 40. g4 fxg4 41.
+hxg4 Ke5 42. Kf2 Rf6 43. Bxa5 Rxf3+ 44. Ke2 Kd5 45. Bc7 Kxc5 46. Be5 Kb4 47.
+Bg7 Rh3 48. Kf2 Kxa4 0-1
+
+[Event "Moscow Dvorkovich Cup 3rd"]
+[Site "Moscow"]
+[Date "2008.07.??"]
+[Round "10"]
+[White "Guo Qi"]
+[Black "Kulon, Klaudia"]
+[Result "0-1"]
+[ECO "A85"]
+[WhiteElo "2048"]
+[BlackElo "2217"]
+[PlyCount "102"]
+[EventDate "2008.07.??"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Bd6 5. Nf3 f5 6. Qc2 Nf6 7. Bd3 O-O 8. h3 Ne4
+9. Bd2 Bd7 10. O-O-O Nxf2 11. g4 Na6 12. a3 Nc7 13. c5 Be7 14. h4 Ne8 15. Rhg1
+Nxd1 16. Nxd1 Nf6 17. gxf5 exf5 18. Bxf5 Bxf5 19. Qxf5 Qd7 20. Qg5 Bd8 21. Ne5
+Qe7 22. Nc3 Ne8 23. Qg4 Bc7 24. Nd3 Nf6 25. Qg5 Rae8 26. Nf2 Nd7 27. Qg2 Nf6
+28. Nh3 b6 29. cxb6 axb6 30. Ng5 Qd7 31. Kb1 h5 32. Qe2 Qf5+ 33. Ka1 Ng4 34. e4
+Qg6 35. Be1 Bd8 36. Nf3 Qf7 37. Ne5 Nxe5 38. dxe5 d4 39. Nd1 Rxe5 40. Bg3 Ree8
+41. Nf2 c5 42. e5 c4 43. Qe4 d3 44. Nd1 b5 45. Nc3 Bb6 46. Rd1 Qd7 47. Bf4 Qd4
+48. Qd5+ Qxd5 49. Nxd5 Bd4 50. Nc7 Re7 51. Nxb5 Rxf4 0-1
+
+[Event "Moscow Dvorkovich Cup 3rd"]

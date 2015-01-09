@@ -1,0 +1,600 @@
+[WhiteElo "2319"]
+[BlackElo "2509"]
+[PlyCount "85"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Copenhagen Bronshoj"]
+[BlackTeam "Vilnius"]
+[WhiteTeamCountry "DEN"]
+[BlackTeamCountry "LTU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qc2 c5 6. d5 exd5 7. cxd5 g6 8. Nc3
+d6 9. h4 Bg7 10. Bf4 O-O 11. h5 Re8 12. h6 Bh8 13. e3 Bxf1 14. Kxf1 Na6 15. Rd1
+Nc7 16. Qa4 b5 17. Qa5 Ne4 18. Nxe4 Rxe4 19. Ng5 Ra4 20. Qd2 Ne8 21. Rh3 Bf6
+22. Rg3 b4 23. Qc2 Qd7 24. Ne4 Bh8 25. Nxd6 bxa3 26. bxa3 Rxf4 27. exf4 Nxd6
+28. Rb3 c4 29. Rb4 Rc8 30. Rdb1 Qc7 31. f5 Bf6 32. g4 Bg5 33. Qc3 Bxh6 34. Kg2
+Bf8 35. Rh1 Ne4 36. Qh3 Ng5 37. Qe3 Bxb4 38. Qxg5 Bf8 39. Qh4 h6 40. g5 Qd8 41.
+fxg6 Qxg5+ 42. Qxg5 hxg5 43. gxf7+ 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Kveinys, Aloyzas"]
+[Black "Pilgaard, Kim"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2533"]
+[BlackElo "2438"]
+[PlyCount "83"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Vilnius"]
+[BlackTeam "Copenhagen Bronshoj"]
+[WhiteTeamCountry "LTU"]
+[BlackTeamCountry "DEN"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 a6 6. Ne5 c5 7. Na3 cxd4 8.
+Naxc4 Bc5 9. Bd2 Nd5 10. Rc1 O-O 11. O-O b6 12. Qb3 Nd7 13. Rfd1 Qc7 14. Nf3
+Bb7 15. Qd3 Rad8 16. b4 Nxb4 17. Bxb4 Bxb4 18. Ng5 Nf6 19. Na5 Qe5 20. Nxb7
+Qxg5 21. Nxd8 Rxd8 22. Qxa6 Bc5 23. Qd3 e5 24. a4 Re8 25. Be4 Nxe4 26. Qxe4 Qe7
+27. Rc4 Qd7 28. Qc2 Ra8 29. Rc1 Qd5 30. Qb3 h5 31. Qb5 e4 32. Rxc5 bxc5 33.
+Rxc5 Qa2 34. Qc6 Qxa4 35. Qxe4 g6 36. Rc7 Re8 37. Qd5 Qa1+ 38. Kg2 Qa8 39. Rb7
+Re7 40. Rd7 Qxd5+ 41. Rxd5 Rxe2 42. Rxd4 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Dambacher, Martyn"]
+[Black "Stocek, Jiri"]
+[Result "0-1"]
+[ECO "E11"]
+[WhiteElo "2485"]
+[BlackElo "2578"]
+[PlyCount "82"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Eynatten"]
+[BlackTeam "Novoborsky CC"]
+[WhiteTeamCountry "BEL"]
+[BlackTeamCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d5 5. e3 O-O 6. Bd3 Nbd7 7. a3 Be7 8. b4
+a5 9. Rb1 b6 10. O-O c5 11. bxc5 bxc5 12. Qe2 Ba6 13. Bb2 cxd4 14. exd4 dxc4
+15. Bxc4 Bxc4 16. Nxc4 Nd5 17. a4 N7b6 18. Nxb6 Qxb6 19. Ne5 Qb3 20. Qd1 Qxd1
+21. Rfxd1 Rfc8 22. Rdc1 h5 23. Kf1 Bg5 24. Rc5 Bf4 25. Nc6 Ra6 26. Rxd5 Rcxc6
+27. Rxh5 Rc4 28. g3 Bd2 29. Ke2 Bh6 30. Kd3 Rxa4 31. Rb5 Ra2 32. Rb3 Bg5 33.
+Ra3 Rxa3+ 34. Bxa3 Ra8 35. Kc4 Bf6 36. Rb7 g5 37. h3 Kg7 38. g4 a4 39. Bd6 a3
+40. Rb1 a2 41. Ra1 Ra4+ 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Hammes, Michael"]
+[Black "Haba, Petr"]
+[Result "0-1"]
+[ECO "E11"]
+[WhiteElo "2399"]
+[BlackElo "2546"]
+[PlyCount "66"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Eynatten"]
+[BlackTeam "Novoborsky CC"]
+[WhiteTeamCountry "BEL"]
+[BlackTeamCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Nc3 Bxc3 7. Bxc3 Ne4 8.
+Rc1 O-O 9. Bg2 d6 10. d5 Nxc3 11. Rxc3 Nd8 12. O-O Bd7 13. Qd2 a5 14. Nd4 Rc8
+15. b3 c5 16. dxc6 bxc6 17. Rd1 Nb7 18. Nc2 Rfd8 19. a3 d5 20. b4 axb4 21. axb4
+Nd6 22. Na3 Nf5 23. Rd3 c5 24. bxc5 Ba4 25. Rb1 d4 26. Qa5 Be8 27. g4 Nh4 28.
+Qd2 Nxg2 29. Kxg2 e5 30. Nb5 Qxc5 31. e3 Qxc4 32. Na7 Ra8 33. Ra3 dxe3 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Cheparinov, Ivan"]
+[Black "Yemelin, Vasily"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2696"]
+[BlackElo "2573"]
+[PlyCount "120"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Linex Magic"]
+[BlackTeam "FINEK Gazprombank"]
+[WhiteTeamCountry "ESP"]
+[BlackTeamCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. Bg5 Re8 8.
+Nf3 Qe7 9. Nd2 h6 10. Bh4 e5 11. f3 exd4 12. Qxd4 Nc6 13. Qd3 Ne5 14. Qc2 Ng6
+15. Bf2 c6 16. e3 d5 17. cxd5 cxd5 18. Nb3 Qe5 19. Qd2 Nh4 20. Qd4 Qxd4 21.
+Nxd4 Nf5 22. Kd2 Nxd4 23. exd4 Bf5 24. Bb5 Re6 25. Be2 Rb6 26. b4 Rc8 27. Rhc1
+Rcc6 28. Rxc6 Rxc6 29. Bd1 Nd7 30. g4 Be6 31. b5 Rc8 32. Rc1 Rxc1 33. Kxc1 Nb6
+34. a4 a6 35. bxa6 bxa6 36. Be1 Bd7 37. a5 Nc4 38. f4 g6 39. Bf3 Bc6 40. Kc2
+Nd6 41. Bb4 Ne4 42. Be2 Bb7 43. f5 g5 44. Kb3 f6 45. Be1 Kf7 46. h4 Ke8 47. h5
+Kd7 48. Bb4 Ke8 49. Ba3 Nd2+ 50. Kb4 Ne4 51. Bc1 Kd7 52. Be3 Kc6 53. Bg1 Kd6
+54. Be3 Kc6 55. Bc1 Kd6 56. Bb2 Kc6 57. Ba3 Kd7 58. Kb3 Ke8 59. Bb4 Kf7 60. Kc2
+Ke8 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Klimov, Sergey"]
+[Black "Cabezas Ayala, Ivan"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2521"]
+[BlackElo "2374"]
+[PlyCount "99"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "FINEK Gazprombank"]
+[BlackTeam "Linex Magic"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "ESP"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Be3
+Ng4 9. Bg5 f6 10. Bd2 Nh6 11. Qc2 Nf7 12. Rad1 c6 13. Be3 Qe7 14. b4 Re8 15. d5
+Bh6 16. Bxh6 Nxh6 17. dxc6 bxc6 18. c5 dxc5 19. b5 Nb8 20. bxc6 Nxc6 21. Qa4
+Bb7 22. Nd5 Qg7 23. Ba6 Kh8 24. Nxf6 Red8 25. Nd7 Bxa6 26. Qxa6 Nd4 27. Ndxe5
+Re8 28. Nxd4 cxd4 29. f4 Rad8 30. Qc6 Rc8 31. Qa4 g5 32. Qxd4 gxf4 33. Nc4 Rf8
+34. h3 Rc6 35. Qxg7+ Kxg7 36. Ne5 Re6 37. Rd5 Nf7 38. Nd7 Rfe8 39. Rxf4 Rxe4
+40. Rf3 Ne5 41. Ra3 Ng6 42. Rxa7 R8e7 43. Rda5 Re2 44. Nc5 Rxa7 45. Rxa7+ Kh6
+46. Kf1 Rc2 47. Ne6 Nh4 48. g4 Nf3 49. Rf7 Nh2+ 50. Kg1 1-0
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Vitiugov, Nikita"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[ECO "E50"]
+[WhiteElo "2638"]
+[BlackElo "2719"]
+[PlyCount "38"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "FINEK Gazprombank"]
+[BlackTeam "Linex Magic"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6 7. d5 Ne7 8. e4 d6
+9. Bd2 exd5 10. exd5 Ng6 11. O-O Bg4 12. Bxg6 hxg6 13. h3 Bf5 14. Ne2 Bxd2 15.
+Qxd2 b5 16. cxb5 Be4 17. Qf4 Bxd5 18. Rfd1 Bxf3 19. Qxf3 a6 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Zickus, Simonas"]
+[Black "Gretarsson, Hjorvar Stein"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[WhiteElo "2315"]
+[BlackElo "2284"]
+[PlyCount "52"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Panevezys"]
+[BlackTeam "Hellir"]
+[WhiteTeamCountry "LTU"]
+[BlackTeamCountry "ISL"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 b6 7. cxd5 exd5 8. d4
+Bb7 9. Nc3 Nbd7 10. Bb2 Re8 11. Rc1 a6 12. Ne5 Bd6 13. Nc4 Bf8 14. Ne3 c6 15.
+Nc2 g6 16. Ba3 Bg7 17. Ne1 a5 18. Nd3 Ne4 19. Nf4 b5 20. Bb2 Nd6 21. e3 f5 22.
+Nd3 Qe7 23. Qc2 Ne4 24. Nb1 Rac8 25. Rfd1 Qf7 26. Nd2 Nxd2 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Beliavsky, Alexander G"]
+[Black "Roskar, Robert"]
+[Result "1-0"]
+[ECO "E16"]
+[WhiteElo "2619"]
+[BlackElo "2269"]
+[PlyCount "63"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Kiev Chess"]
+[BlackTeam "Ptuj Veplas Velenje"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Qe7 6. Bg2 Bb7 7. O-O Bxd2 8.
+Qxd2 O-O 9. Nc3 d6 10. d5 e5 11. e4 a5 12. Nh4 Bc8 13. Rae1 Na6 14. f4 Ne8 15.
+Nf5 Bxf5 16. exf5 Rb8 17. Nb5 Qf6 18. Na7 exf4 19. Rxf4 Qg5 20. Nc6 Ra8 21. h4
+Qh6 22. Qf2 Nc5 23. Re3 Kh8 24. g4 g5 25. fxg6 hxg6 26. g5 Qg7 27. h5 gxh5 28.
+Rh3 Qxg5 29. Rf5 Qc1+ 30. Kh2 Ng7 31. Rfxh5+ Nxh5 32. Qf6+ 1-0
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Podkriznik, Gregor"]
+[Black "Baklan, Vladimir"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2372"]
+[BlackElo "2625"]
+[PlyCount "82"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Ptuj Veplas Velenje"]
+[BlackTeam "Kiev Chess"]
+[WhiteTeamCountry "SLO"]
+[BlackTeamCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qc2 Bb7 6. Nc3 c5 7. e4 cxd4 8. Nxd4
+Bc5 9. Nb3 Nc6 10. Bg5 Nd4 11. Nxd4 Bxd4 12. Nb5 Be5 13. f4 Bb8 14. e5 h6 15.
+Bxf6 gxf6 16. Nd6+ Bxd6 17. exd6 f5 18. O-O-O Qf6 19. Rg1 Rc8 20. Kb1 Be4 21.
+Bd3 Qd4 22. Bxe4 Qxe4 23. Qxe4 fxe4 24. b3 f5 25. g4 Kf7 26. h3 Rhg8 27. Kc2 b5
+28. Kc3 bxc4 29. bxc4 Rc6 30. gxf5 Rxg1 31. fxe6+ Kxe6 32. Rxg1 Kf5 33. Rd1
+Kxf4 34. Rd5 Ra6 35. Kd4 Rxa3 36. c5 e3 37. Re5 Rd3+ 38. Kxd3 Kxe5 39. c6 Kxd6
+40. cxd7 Kxd7 41. Kxe3 Ke6 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Galopoulos, Nikolaos"]
+[Black "Heimann, Andreas"]
+[Result "0-1"]
+[ECO "E92"]
+[WhiteElo "2262"]
+[BlackElo "2428"]
+[PlyCount "76"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Thessaloniki Galaxias"]
+[BlackTeam "Reichenstein"]
+[WhiteTeamCountry "GRE"]
+[BlackTeamCountry "SUI"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Nc6 8. d5
+Ne7 9. Nd2 Nd7 10. b4 f5 11. f3 Nf6 12. c5 Nh5 13. g3 fxe4 14. fxe4 Nf4 15. O-O
+Bh3 16. Rf2 Nxe2+ 17. Qxe2 Qd7 18. Rxf8+ Bxf8 19. Nc4 Bg7 20. a4 Rf8 21. Na5 b6
+22. c6 Qc8 23. Nc4 Bg4 24. Qd3 Rf3 25. Rf1 Rxf1+ 26. Qxf1 Bh3 27. Qf2 Qg4 28.
+Bd2 h5 29. a5 Qc8 30. Bg5 Qe8 31. Qe2 Kh7 32. Nb5 Nxc6 33. dxc6 Qxc6 34. Nba3
+b5 35. Nb2 a6 36. Qc2 Qd7 37. Nd3 Qg4 38. Nxb5 Qf3 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Lampen, Timo"]
+[Black "Zivkovic, Vjekoslav"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[WhiteElo "2337"]
+[BlackElo "2429"]
+[PlyCount "52"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Tampere"]
+[BlackTeam "Siroki Brijeg Hering"]
+[WhiteTeamCountry "FIN"]
+[BlackTeamCountry "BIH"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+fxe6 9. Bd3 Nc6 10. O-O e5 11. f5 Nd4 12. Ng5 h6 13. Nh3 gxf5 14. exf5 e4 15.
+Nxe4 Bxf5 16. Nxf6+ Qxf6 17. Bxf5 Nxf5 18. Qd5+ Rf7 19. Bf4 Qd4+ 20. Qxd4 Bxd4+
+21. Kh1 Bxb2 22. Rad1 Bd4 23. g4 Ne3 24. Bxe3 Bxe3 25. Rfe1 Re8 26. Kg2 Re5
+1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.21"]
+[Round "5"]
+[White "Fish, Gennadij"]
+[Black "Shavtvaladze, Nikoloz"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[WhiteElo "2531"]
+[BlackElo "2442"]
+[PlyCount "34"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Werder Bremen"]
+[BlackTeam "Thessaloniki ESTH"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GRE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nge2 cxd4 7. exd4 dxc4 8.
+Bxc4 O-O 9. O-O Nbd7 10. Bg5 Nb6 11. Bd3 Be7 12. Rc1 Bd7 13. Bb1 Bc6 14. Qd3 g6
+15. Qh3 Nbd5 16. Rfd1 Rc8 17. Qh4 Nh5 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.22"]
+[Round "6"]
+[White "Inarkiev, Ernesto"]
+[Black "Greenfeld, Alon"]
+[Result "1-0"]
+[ECO "E68"]
+[WhiteElo "2669"]
+[BlackElo "2560"]
+[Annotator "Inarkiev"]
+[PlyCount "71"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Alkaloid"]
+[BlackTeam "Beer Sheva"]
+[WhiteTeamCountry "FRM"]
+[BlackTeamCountry "ISR"]
+
+{This is the kind of game which changes your mind. The critical moments of
+this game were around an idea, which both players didn't consider as a serious
+one... not a very typical situation for a grandmaster game.} 1. d4 Nf6 2. c4 g6
+{Alon Greenfeld has a lot of opening weapons in his bag; the King's Indian is
+one of them.} 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4 exd4
+9. Nxd4 Re8 10. b3 $5 {A rare move; h2-h3 and b2-b3 are typical, useful moves
+in this variation.} c6 11. Bb2 $6 {This quite natural move allows Black to
+start dangerous counterplay.} ({Better is} 11. h3 $5) 11... Nc5 $1 12. Qc2 a5
+$1 {Now Black has the idea Qb6 and a5-a4. It's not easy for White both to 
+prevent this idea and also to continue normal development. Now we can see,
+that if there were no bishop on b2, then on Qb6 White could simply reply Rb1,
+preventing a5-a4.} 13. Rad1 Qb6 $1 14. a3 $2 {With the idea to meet ...a5-a4
+with b3-b4. Intuitively I didn't like this move, but I didn't want to give
+Black the chance to open the a-file either.} ({If White ignores Black's idea,
+then Black will have easy play} 14. h3 $6 a4 15. Rfe1 axb3 16. axb3 Nfd7 $15) (
+{I declined} 14. Ba3 $6 {because of} Bg4 $1 15. f3 ({Worse is} 15. Rd2 $6 Bh6
+$1 16. f4 Bg7 $1 $17) 15... Nfxe4 $1 {The position is complicated, but Black
+has a strong initiative.} {For example:} 16. Nce2 ({worse is} 16. fxg4 $2 Nxc3
+17. Qxc3 Ne6 18. Bb2 Nxd4 19. Rxd4 Re2 20. Rfd1 Rae8 $17) {Here Black can
+choose from different promising opportunities; maybe the simplest is} 16... Ne6
+$5 (16... a4 $5) (16... Nf6 17. fxg4 Nxg4 18. Bc1 a4) 17. Bb2 Nf6 18. fxg4 Nxg4
+19. Qd3 a4 {Two pawns, and a lot of threats are more then enough compensation
+for the piece.} {For example:} 20. Kh1 ({if} 20. h3 {then} Nc5 21. Qf3 Ne5 22.
+Qc3 Ned3 $17) 20... Nc5 21. Qf3 Ne5 22. Qf4 axb3 23. axb3 Ncd3 24. Rxd3 Nxd3
+25. Qxf7+ Kh8 26. Bc3 Rf8 $17) ({Probably, it is time to start the defence} 14.
+Nde2 $5 a4 15. Nc1 {Black is better here also, but White's position is more
+flexible.}) {The critical moment of the game. The obvious minus of White's
+setup is the weakness of the b3-pawn, the obvious, and the only one. If Black
+does not find a way to exploit it, then White's position will be simply good.}
+14... Bd7 $2 ({It is the same story after} 14... Bg4 $2 15. f3 $1 Bd7 (15...
+Nfxe4 $2 {doesn't work here:} 16. fxg4 Nxc3 17. Bxc3 Nxb3 18. Qf2 $18) 16. Kh1)
+({To attack the b3-pawn, we should remove the defender - the knight on d4.
+There are two possibilities to attack the d4-knight.} 14... Ng4 $6 {This move
+is good enough, but here White has the defence} 15. Nb1 $1 {and if} Nxb3 {then}
+16. Nxb3 Bxb2 17. Qxb2 a4 18. Qd4 $1 Qxb3 19. Rd3 c5 ({or} 19... Qa2 20. Rd2
+Qb3 21. Rb2 $5 (21. Rd3 $11) 21... c5 22. Rxb3 {- 19...c5 20.Rb3.}) 20. Rxb3
+cxd4 21. Rd3 {with an equal endgame} Be6 22. Nd2 Rac8 23. Rxd4 Ne5 $11) ({The
+best is} 14... Nfd7 $1 {The threat is simple - take on d4, and then on b3!
+During the game I did, of course, consider this possibility, but thought that
+the pawn on d6 was hanging, and that even if White did lose his b3-pawn, there
+would be good compensation because of the strong dark-squared bishop. This is
+a typical evalution for most King's Indian positions: the dark-squared bishop
+is more important than material. Probably, my opponent thought the same way,
+but here it is a hard task for White to find even equality.} 15. Nce2 {In
+order to protect the pawn.} ({Another way to do it just bad} 15. Na4 $6 Nxa4
+16. bxa4 Nc5 $17) ({Let us see what will happen, if White simply sacrifices
+the pawn} 15. h3 Bxd4 16. Rxd4 Qxb3 17. Qe2 ({The exchange of queens obviously
+is in Black's favour} 17. Qxb3 $2 Nxb3 18. Rxd6 Ne5 $17) 17... Ne5 $17 {The
+problem is not only in the b-pawn, but also is that White can't protect the
+c-pawn. Such play is possible because Black has very active pieces; if Black
+did not have initiative, he would simply be mated.} {To see how dangerous the
+position is, let's check} 18. f4 $5 Be6 $1 {Other moves, leads to very unclear
+play} ({If} 18... Ned3 $6 19. Ba1 Be6 {then} 20. Rb1 $1 Qxa3 21. Qd1 $13 {and
+if} Nb4 {then} 22. f5 $1 Bd7 23. Rxd6 $16) ({Or} 18... Ne6 $6 19. fxe5 $1 Nxd4
+20. Qf2 Be6 21. exd6 $36 {and White has a strong initiative. For example:} c5 (
+{If} 21... Nc2 {then} 22. Na4 $16) ({or} 21... Ne2+ 22. Qxe2 Bxc4 23. Qf2 Bxf1
+24. Bxf1 $16) 22. Nb5 Nxb5 23. cxb5 h5 24. Qf6 Qe3+ 25. Kh2 Qh6 26. Qf2 $14 {
+(/\Bf6, e4-e5). Here we see, that the dark-squared bishop is stronger than the
+rook.}) 19. fxe5 dxe5 20. Rd2 Bxc4 $19 {All this moves were played in Karlsson
+Lars 2460 - Rantanen Yrjo A 2465 , Helsinki 1981 It (22), but finally the game
+was drawn.}) {Now Black has a blow} 15... Nxb3 $1 16. Nb5 $1 {The best chance.}
+(16. Nxb3 {is worse} Bxb2 17. Qxb2 a4 18. Rxd6 axb3 $17) 16... cxb5 17. Bxg7
+Kxg7 ({Also strong is} 17... bxc4 $5 18. Bc3 Ne5 19. Nf4 Be6 $17) 18. Qxb3 bxc4
+$17 {This position arose in the game Gulko Boris F (USA) 2585 - Kalinitschew
+Sergey (GER) 2503, Moscow (Russia) 1982, and after} 19. Qxc4 Ne5 20. Qd4 Ra6 $6
+({Black could save the advantage after} 20... Qxd4 21. Nxd4 Bd7 22. Rb1 Rab8
+23. Nb5 Nc4 $17) 21. Rb1 Qxd4 22. Nxd4 Nc4 23. Rfc1 Rb6 24. Rb5 Bd7 {a draw
+was agreed.}) 15. Kh1 $5 {White starts an interesting plan. First of all,
+White wants to protect the e-pawn by f2-f3.} Re7 $6 $146 {Only this move is a
+novelty.} ({In the game Stein Bernd 2340 - Vogt Lothar 2475 , Copenhagen 1989
+It (open) "Obro" Black chose} 15... Rad8 {and suddenly the game was drawn} 16.
+Rd2 (16. f3 $5) 16... Bh6 17. Rdd1 Bg7 18. Rd2 Bh6 {1/2-1/2}) ({Here is
+already not a good moment to attack the b3-pawn} 15... Ng4 $6 {after} 16. h3
+Bxd4 $6 (16... Nf6 $142) 17. Rxd4 Qxb3 18. Qxb3 $1 Nxb3 19. Rxd6 Ne5 20. Nd1 $1
+{White has advantage} Nc5 21. Bd4 $14) 16. f3 $1 $14 {The position has
+stabilised, and despite the fact, that Black has placed his pieces well, the
+space advantage gives White a comfortable edge.} Rae8 {Black finishes his plan,
+but with the pawn on f3 this attack is not effective.} 17. Bc1 $1 {The bishop
+hadn't any work to do on b2, and it's a good moment to redeploy it.} Bc8 {
+Black has good pieces, but hasn't a good plan, and he has to concentrate on
+resistance to White's ideas.} 18. Be3 ({Another interesting idea is} 18. Bf4 $5
+Rd8 19. Rf2 $1 {(/\Rfd2).}) 18... Nfd7 ({Just bad} 18... d5 $2 19. cxd5 Nxd5 ({
+worse is} 19... cxd5 20. Ndb5 $18) 20. Nxd5 cxd5 {Here White has a pleasant
+choice} 21. b4 ({also good is} 21. Nf5 Bxf5 22. Bxc5 Qc7 23. Qc1 dxe4 24. Bxe7
+Qxe7 25. fxe4 Be6 26. Rd3 $16) 21... axb4 22. axb4 Qxb4 23. Nc6 bxc6 24. Bxc5
+Qb7 25. Bxe7 Qxe7 26. exd5 $16) 19. Bg1 $6 {Right plan, but wrong move!} ({The
+accurate move order would be} 19. Rb1 $1 Ne5 20. Rfd1 {with play similar to
+the game.}) 19... Nb8 $2 {Black don't seize his chance.} ({Again Black should
+exchange the dark-squared bishop} 19... Bxd4 $1 {and again, the main point is
+that White is not ready for the play on the queenside.} 20. Rxd4 Qxb3 21. Qxb3
+({It's hard to imagine, that with bishop on g1 White will create real threats
+to the black king; otherwise there's no point in saving the queens.} 21. Qc1 $6
+Ne5 22. Rxd6 Ncd3 23. Qa1 Nb2 24. c5 Nec4 $17) 21... Nxb3 22. Rxd6 Ne5 23. c5
+Nc4 $1 {Black has to be accurate} (23... Rd7 $2 {is wrong:} 24. Rb1 $1 Nd2 25.
+Rd1 Nec4 26. Rxd7 Bxd7 27. Nb1 Nxb1 28. Rxd7 {with advantage for White} Nbxa3 (
+{or} 28... Rb8 29. a4 Nc3 30. Bf1 $16) 29. Rxb7 Ra8 30. Bf1 $16) 24. Rd3 ({
+Also possible is} 24. Rb1 $5 Nxc5 $1 (24... Nbd2 $2 {leads to the position
+from the variation - 23...Rd7 24.Rb1 Nd2 25.Rbd1 Nec4.} 25. Rd1 Rd7 ({if} 25...
+Nb3 {then} 26. Na4 $1 Be6 27. Nb6 $16)) 25. Bxc5 Re5 $1 26. Bd4 $5 ({A
+position which is close to draw, but with some initiative for Black will occur
+after} 26. Nd5 cxd5 27. Rxd5 Rxd5 28. exd5 b6 29. Bg1 Bb7 $5) 26... Nxd6 27.
+Bxe5 Rxe5 28. Rd1 Re6 $13 {White has some initiative, but at same time, it is
+White who has to show the way to equality.} {For example:} 29. Na4 b5 30. Nb6
+Ba6 31. Nd7 Nb7 32. Nb8 Nc5 33. Rd8+ Kg7 34. Bh3) ({Interesting is} 24. Rfd1 $5
+Be6 ({After} 24... Nxd6 25. cxd6 Rd7 26. Na4 Re6 27. e5 Rxe5 28. Nb6 Re8 29.
+Bf1 a4 30. Kg2 $44 {at one moment White will take the rook, and with the pair
+of bishops and a pawn on d6, he shoudn't be in any danger.}) 25. Na4 Nxd6 26.
+cxd6 Rd7 27. Nb6 $44 {The position is interesting; it seems that the
+compensation is enough. For example:} Rdd8 28. Be3 f6 29. Bf1 g5 30. Kg1 Kg7
+31. Kf2) 24... Nb2 ({Black can try} 24... Rd7 $5 25. Rxd7 Bxd7 26. Rb1 Ncd2 27.
+Rd1 Be6 {and Black's pieces are very active.}) 25. Rd6 Nc4 $11) 20. Rb1 $1 {
+Finally White has found right places for his pieces. Now b3-b4 is a threat.}
+Nba6 ({If} 20... Qc7 {White has no need to hurry} 21. Rfd1) 21. Rfd1 {Now all
+the white pieces are on their places, and Black has to be ready to hold both
+problems - the weakness of d-pawn and the threat of b3-b4, putting  more
+stress on Black's position.} f5 $2 $138 {Here Black had less then 5 minutes,
+and time trouble of course is the father of this and further mistakes; but the
+bad position is their mother.} ({Black has to show patience and wait for a new
+chance} 21... Qc7 {but of course, White has the advantage} 22. Qd2 $5 $16 {
+(xd6, /\b3-b4).}) 22. b4 $1 {Winning the piece} ({Good enough is} 22. exf5 $1
+Bxd4 $5 ({Just bad is} 22... Bxf5 23. Nxf5 gxf5 24. Bh3 $5 f4 25. Ne4 $18) ({Or
+} 22... gxf5 23. Bh3 $1 {and Black can't defend the position, for example:} Rf7
+({If} 23... f4 {then} 24. Bxc8 Rxc8 25. Nf5 $18) ({Or} 23... Rf8 24. b4 axb4
+25. axb4 Nxb4 26. Qb2 $18) 24. Bxf5 Bxd4 (24... Bxf5 {is no better:} 25. Nxf5
+Rxf5 26. Qxf5 Bxc3 27. b4 axb4 28. axb4 Nxb4 29. Rxd6 $18) 25. Bxh7+ $1 Rxh7
+26. Qg6+ $18) 23. Rxd4 Bxf5 24. Ne4 $16 {Some resistance of course is still
+possible, but the position looks horrible.} Bxe4 25. fxe4 Qc7 26. Rbd1) {The
+next moves are forced:} 22... axb4 23. axb4 Nxb4 24. Qb2 fxe4 25. Qxb4 Qxb4 26.
+Rxb4 $16 {Two pawns, and activity of the pieces could be enough compensation
+for the piece, but here one white pawn controls three black, and Black hasn't
+any direct threats. That is why White has a big advantage.} exf3 ({Or} 26... e3
+27. Nce2 $16) ({If} 26... Nd3 {then} 27. Rb6 $5 exf3 28. Rxd3 fxg2+ 29. Kxg2
+$16) 27. Bxf3 Re3 $2 {The exchange of pieces is in White's favour. Black
+should try to play with all the pieces on the board, but White has the
+advantage anyway.} ({For example} 27... Bh3 $5 28. Rbb1 $16) ({or} 27... Be6 $5
+28. Kg2 $16) ({Interesting is} 27... Nd7 $5 28. Rb3 Ne5 29. Be2 Ng4 30. Bf1 Ne3
+31. Bxe3 Rxe3 32. Kg2 $16) 28. Bxe3 Rxe3 29. Nce2 $1 (29. Bxc6 $6 {would be
+less accurate,} {because of} Bg4 $1 30. Bd5+ Kh8 31. Nce2 Bxe2 32. Nxe2 Rxe2
+33. Bf3 Rf2 34. Bxb7 Be5 $16 {with such activity, and opposite coloured
+bishops on the board, Black has a real chance to save the game.}) 29... Nd3 30.
+Rbb1 Ne5 $2 {The last mistake} ({He had to play} 30... Nf2+ 31. Kg2 Nxd1 32.
+Rxd1) 31. Ng1 $1 {This is the forced win, but here there are already a few
+moves which lead to the goal.} Nd3 32. Rxd3 $1 Rxd3 33. Nxc6 $1 $18 {Now it's
+over.} bxc6 34. Rb8 Bd4 35. Rxc8+ Kg7 36. Ne2 $1 {A final accurate move. Black
+resigned.} 1-0
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.22"]
+[Round "6"]
+[White "Khmelniker, Ilya"]
+[Black "Kozul, Zdenko"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2443"]
+[BlackElo "2593"]
+[PlyCount "87"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Beer Sheva"]
+[BlackTeam "Alkaloid"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "FRM"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O 8. Qc2
+c6 9. d5 c5 10. Bg5 Qc7 11. Ne1 Kh8 12. Nd3 Ng8 13. Bd2 f5 14. b4 b6 15. Rab1
+Ndf6 16. f3 Bh6 17. bxc5 bxc5 18. Bxh6 Nxh6 19. Qd2 f4 20. Nxf4 exf4 21. Qxf4
+Kg7 22. Nb5 Qa5 23. Qxd6 Qxa2 24. Rfe1 Bd7 25. e5 Bxb5 26. exf6+ Rxf6 27. Qe7+
+Nf7 28. Rxb5 a5 29. Qxc5 Qd2 30. Qf2 Nd6 31. Rd1 Qc3 32. Rbb1 Ne4 33. Rb7+ Kf8
+34. Qh4 Qe3+ 35. Kf1 g5 36. Qe1 a4 37. Bd3 Qxe1+ 38. Kxe1 Nc5 39. Rxh7 Ra5 40.
+Bb1 a3 41. d6 Re6+ 42. Kf1 a2 43. Bxa2 Rxa2 44. d7 1-0
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.22"]
+[Round "6"]
+[White "Eljanov, Pavel"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2720"]
+[BlackElo "2729"]
+[Annotator "Eljanov"]
+[PlyCount "105"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Ashdod Illit "]
+[BlackTeam "Ural Sverdlovskaya"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "RUS"]
+
+1. Nf3 Nf6 2. c4 b6 {It was rather unexpected to see this move. For some
+reason Gata didn`t want to play the Grünfeld against me again.} 3. d4 e6 4. g3
+Ba6 5. Qb3 c6 6. Bg5 $5 {After some thinking my mind came up with this rare
+idea.} ({The main move is} 6. Bf4 {but after} Be7 7. Nc3 O-O 8. e4 d5 {White
+has almost nothing}) 6... h6 $6 {A strange move, as my idea is to take Black's
+knight at some point, even without this invitation.} ({For example} 6... d5 7.
+cxd5 cxd5 8. Bxf6 $5 (8. e3 Bxf1 9. Kxf1 Be7 10. Kg2 Nc6 (10... O-O 11. Nc3 Nc6
+12. Rhc1 Qd7 13. Qa4 Rfc8 14. Ne5 Nxe5 15. dxe5 Rxc3 16. Qxd7 Nxd7 17. Bxe7
+Rxc1 18. Rxc1 Nxe5 19. Rc7 h5 20. b3 a6 21. h3 b5 22. Bc5 Nd3 23. Bd4 e5 24.
+Bc3 a5 25. f4 d4 26. Bd2 dxe3 27. Bxe3 exf4 28. gxf4 Nb4 29. Rb7 Nd5 30. Kf3 b4

@@ -1,0 +1,600 @@
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Bg5 O-O 5. Nc3 d6 6. e4 c5 7. Qd2 Bg4 8. Be2
+Bxf3 9. Bxf3 cxd4 10. Qxd4 Nc6 11. Qe3 Nd7 12. O-O Nde5 13. Be2 Qc7 14. Bh6 Nd4
+15. Bxg7 Nxe2+ 16. Qxe2 Kxg7 17. b3 Nc6 18. Kh1 Qa5 19. Qb2 f6 20. Nd5 e6 21.
+Ne3 Qe5 22. Qxe5 dxe5 23. Nc2 Nd4 24. Nxd4 exd4 25. Rfd1 e5 26. Rac1 f5 27. Kg1
+fxe4 28. Re1 e3 29. fxe3 d3 30. Rcd1 e4 31. Rf1 Rad8 32. h3 h5 33. Rxf8 Rxf8
+34. Rd2 g5 35. Kh2 Rf1 36. Kg3 Kg6 37. Kh2 Re1 38. Kg3 Rf1 39. Kh2 h4 0-1
+
+[Event "NED-ch U15"]
+[Site "Venlo"]
+[Date "2008.05.03"]
+[Round "9"]
+[White "Ratsma, Midas"]
+[Black "Loots, Jeroen"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[BlackElo "1658"]
+[PlyCount "61"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bg5 Be7 5. Nc3 Bb7 6. e3 h6 7. Bh4 O-O 8. Bd3
+d6 9. Rc1 Nbd7 10. O-O Re8 11. Bb1 e5 12. Re1 Nh7 13. Qc2 Nhf8 14. Bg3 Bxf3 15.
+gxf3 Bf6 16. d5 a5 17. Nb5 Nc5 18. a3 e4 19. fxe4 Nxe4 20. b3 Qd7 21. Qe2 Nxg3
+22. hxg3 Re7 23. Qf3 Ng6 24. a4 Qh3 25. Bf5 Nh4 26. Bxh3 Nxf3+ 27. Kg2 Nxe1+
+28. Rxe1 g6 29. e4 Bg7 30. f3 Kh7 31. Kf2 1/2-1/2
+
+[Event "NED-ch U15 Girls"]
+[Site "Venlo"]
+[Date "2008.04.29"]
+[Round "2"]
+[White "Vlaar, Tiffany"]
+[Black "Snikkers, Tabitha"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "1507"]
+[BlackElo "1503"]
+[PlyCount "80"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 O-O 5. Bf4 d6 6. e3 c6 7. h3 Nbd7 8. Bd3
+Nh5 9. Bh2 e5 10. O-O f5 11. Be2 f4 12. Ne4 exd4 13. exd4 Qe7 14. Nc3 c5 15.
+Re1 cxd4 16. Nd5 Qd8 17. Nxd4 Ndf6 18. Bf3 Nxd5 19. Bxd5+ Kh8 20. Rb1 Nf6 21.
+Bf3 Ne8 22. Re4 Be5 23. Qd2 Qg5 24. Kh1 Bf5 25. Nxf5 Qxf5 26. Rc1 g5 27. Rce1
+Ng7 28. c5 Rad8 29. Qc1 Rb8 30. Qd2 Rfd8 31. Qc1 Qf6 32. R1e2 Rbc8 33. b4 b6
+34. Rc4 dxc5 35. bxc5 bxc5 36. Rxc5 Rxc5 37. Qxc5 Bb8 38. Qe7 Qd4 39. Bg1 h6
+40. Qf7 Qd6 1/2-1/2
+
+[Event "Split op"]
+[Site "Split"]
+[Date "2008.04.28"]
+[Round "1"]
+[White "Milosavljevic, Jovan"]
+[Black "Klaric, Ante"]
+[Result "1-0"]
+[ECO "E24"]
+[WhiteElo "2086"]
+[BlackElo "1874"]
+[PlyCount "61"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. a3 Bxc3+ 6. bxc3 h6 7. e4 d6 8. Bd3
+Nbd7 9. Ne2 e5 10. O-O O-O 11. f3 Re8 12. Be3 b6 13. Rfd1 Qe7 14. a4 Nf8 15. a5
+bxa5 16. Rxa5 Ne6 17. dxe5 dxe5 18. Ng3 Qc7 19. Rda1 Bd7 20. Qf2 Rec8 21. Bf1
+Be8 22. Nf5 Nd7 23. Ne7+ Kf8 24. Nxc8 Qxc8 25. Rxa7 Rb8 26. Qd2 Kg8 27. g3 Qc6
+28. Qd5 Nd8 29. Bh3 Nb6 30. Qxe5 Rc8 31. Bxc8 1-0
+
+[Event "Split op"]
+[Site "Split"]
+[Date "2008.04.28"]
+[Round "1"]
+[White "Simovic, Mladen"]
+[Black "Marcic, Ivica"]
+[Result "0-1"]
+[ECO "E43"]
+[WhiteElo "1855"]
+[BlackElo "2081"]
+[PlyCount "66"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. Nf3 O-O 7. e3 b6 8. Bd3
+Bb7 9. O-O d6 10. Re1 Nc6 11. e4 e5 12. d5 Ne7 13. Nh4 h6 14. f4 Ne8 15. fxe5
+dxe5 16. Nf5 Kh7 17. Re3 Nxf5 18. exf5 Qf6 19. Qe2 Nd6 20. Rxe5 b5 21. Bf4 Kh8
+22. Re1 bxc4 23. Bxc4 Nxf5 24. Qg4 Nd6 25. Bd3 c4 26. Bc2 Bc8 27. Qg3 Bf5 28.
+Bxf5 Nxf5 29. Qg4 g6 30. Qf3 h5 31. Qe2 Qh4 32. Qf2 Qf6 33. Qc5 Rfc8 0-1
+
+[Event "Split op"]
+[Site "Split"]
+[Date "2008.04.30"]
+[Round "3"]
+[White "Ivic, Miroslav"]
+[Black "Marcic, Ivica"]
+[Result "0-1"]
+[ECO "E00"]
+[WhiteElo "1469"]
+[BlackElo "2081"]
+[PlyCount "70"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Bg5 c5 4. Bxf6 Qxf6 5. Nf3 Nc6 6. e3 cxd4 7. exd4 Bb4+ 8.
+Nc3 O-O 9. Be2 d5 10. O-O Rd8 11. cxd5 exd5 12. Qb3 Qd6 13. Nb5 Qe7 14. Bd3 a6
+15. Nc3 Qd6 16. h4 g6 17. Qc2 Bg4 18. Nh2 Bd7 19. Nf3 Ba5 20. h5 Bc7 21. hxg6
+hxg6 22. g3 Kg7 23. Kg2 Rh8 24. Rh1 Bg4 25. Nh2 Bh3+ 26. Kg1 Nxd4 27. Qd2 Bb6
+28. Bf1 Bxf1 29. Kxf1 Rad8 30. Kg2 Nf5 31. Ng4 d4 32. Ne4 Qc6 33. Qg5 Qxe4+ 34.
+f3 Qe2+ 35. Nf2 Ne3+ 0-1
+
+[Event "Split op"]
+[Site "Split"]
+[Date "2008.05.01"]
+[Round "4"]
+[White "Simovic, Mladen"]
+[Black "Basic, Igor"]
+[Result "0-1"]
+[ECO "E76"]
+[WhiteElo "1855"]
+[BlackElo "1976"]
+[PlyCount "92"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. e4 Bg7 5. f4 O-O 6. Nf3 c5 7. d5 Re8 8. Be2 Na6
+9. O-O Nc7 10. h3 Nh5 11. Kh2 e5 12. fxe5 dxe5 13. Be3 Qd6 14. b4 b6 15. bxc5
+bxc5 16. Nb5 Nxb5 17. cxb5 f5 18. Nd2 Nf4 19. Bf3 Rb8 20. a4 a6 21. Nc4 Qd8 22.
+Rb1 axb5 23. axb5 Bb7 24. Qd2 g5 25. g3 Nxh3 26. Kxh3 g4+ 27. Bxg4 fxg4+ 28.
+Kg2 Ra8 29. Bg5 Qc7 30. Ra1 Rxa1 31. Rxa1 Qf7 32. Rf1 Qg6 33. Qe3 Ra8 34. Rf2
+Ra1 35. Nd2 Qh5 36. Bh4 Bh6 37. Qc3 Ra4 38. Nc4 Bf4 39. Nd6 Qg6 40. gxf4 Qxd6
+41. fxe5 Qg6 42. Rf5 h6 43. Qxc5 Ra8 44. Qe7 Bxd5 45. Rf6 Qxe4+ 46. Kg3 Qg2+
+0-1
+
+[Event "Split op"]
+[Site "Split"]
+[Date "2008.05.03"]
+[Round "7"]
+[White "Curic, Drazen"]
+[Black "Susovic, Hrvoje"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2204"]
+[BlackElo "1991"]
+[PlyCount "94"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bc1 Nc6 10. d5 Ne7 11. O-O Nh6 12. b4 a5 13. bxa5 Nf7 14. Bd2 Rxa5 15.
+Nb5 Ra8 16. Bb4 f5 17. Nd2 c6 18. Nxd6 Nxd6 19. Bxd6 Qxd6 20. c5 Qxc5 21. Rc1
+Qb4 22. Rb1 Qd4 23. Qb3 Qxd2 24. d6+ Nd5 25. exd5 cxd5 26. Rb2 Qa5 27. Rc2 Bd7
+28. Qxb7 Ra7 29. Qb1 Rf6 30. Qb8+ Rf8 31. Qb1 e4 32. Rfc1 Bd4 33. Rd1 Qb6 34.
+Qxb6 Bxb6 35. Rxd5 Kf7 36. Rb2 Bd8 37. Rc5 Be6 38. a4 Bf6 39. Rb4 Rd8 40. Rc7+
+Rd7 41. Rxd7+ Bxd7 42. Bc4+ Be6 43. Be2 Be5 44. Rb6 Rxa4 45. Rb7+ Kf6 46. g4
+Bxd6 47. h4 fxg4 0-1
+
+[Event "Split op"]
+[Site "Split"]
+[Date "2008.05.03"]
+[Round "7"]
+[White "Mihalj, M Miroslav"]
+[Black "Tomic Potrebujes, Zlatko"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[WhiteElo "2346"]
+[BlackElo "2009"]
+[PlyCount "39"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. g3 e6 3. Bg2 d5 4. c4 Bb4+ 5. Bd2 Qe7 6. a3 Bxd2+ 7. Nxd2 O-O 8.
+Ngf3 Nbd7 9. O-O c6 10. Qc2 e5 11. cxd5 Nxd5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14.
+Nc4 Qe7 15. e4 Nb6 16. Ne3 Be6 17. f4 f6 18. h3 Rad8 19. Rfd1 Rxd1+ 20. Rxd1
+1/2-1/2
+
+[Event "Split op"]
+[Site "Split"]
+[Date "2008.05.03"]
+[Round "7"]
+[White "Milosavljevic, Jovan"]
+[Black "Basic, Igor"]
+[Result "0-1"]
+[ECO "E70"]
+[WhiteElo "2086"]
+[BlackElo "1976"]
+[PlyCount "80"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 h6 6. Bf4 Nc6 7. d5 e5 8. Be3 Ne7
+9. h3 c6 10. Qd2 cxd5 11. cxd5 a6 12. Bd3 g5 13. Nge2 Nh5 14. g3 Bd7 15. a4 b6
+16. b4 Ng6 17. Rc1 O-O 18. f3 Kh8 19. Kf2 Qf6 20. Bxb6 Ngf4 21. Ng1 Nxd3+ 22.
+Qxd3 Nxg3 23. Kxg3 Qf4+ 24. Kg2 Qxc1 25. Nge2 Qa3 26. Rb1 Bxa4 27. Bc7 Bb5 28.
+Qd2 f5 29. Nc1 Bc4 30. Bxd6 fxe4 31. fxe4 Rf4 32. Bc5 Rc8 33. d6 Rcf8 34. d7
+Rd8 35. Bb6 Rxd7 36. Qxd7 Qxc3 37. Qd1 Bf1+ 38. Qxf1 Rxf1 39. Kxf1 Qc2 40. Ra1
+Qb2 0-1
+
+[Event "Split op"]
+[Site "Split"]
+[Date "2008.05.05"]
+[Round "9"]
+[White "Milosavljevic, Jovan"]
+[Black "Tomic Potrebujes, Zlatko"]
+[Result "0-1"]
+[ECO "E38"]
+[WhiteElo "2086"]
+[BlackElo "2009"]
+[PlyCount "76"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[TimeControl "5400"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. a3 Qa5 6. e3 cxd4 7. exd4 Nc6 8. Be3
+Ne4 9. Nge2 Bxc3+ 10. bxc3 f5 11. f3 Nf6 12. Nc1 O-O 13. Bd3 d5 14. c5 e5 15.
+dxe5 Nxe5 16. O-O Nxd3 17. Nxd3 Bd7 18. a4 Bc6 19. Bd4 Nd7 20. Qf2 Qc7 21. Rfb1
+Rae8 22. a5 a6 23. Re1 Bb5 24. Nb4 Bc4 25. f4 Re4 26. Rxe4 fxe4 27. g3 Rc8 28.
+f5 Nxc5 29. g4 Nb3 30. Rd1 Nxd4 31. Rxd4 Qe5 32. Qe3 Rf8 33. Kg2 g6 34. fxg6
+hxg6 35. Rd1 Rf3 36. Qb6 Rf6 37. Qe3 Rf4 38. h3 Rf3 0-1
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.04.28"]
+[Round "1"]
+[White "Stolarczyk, Anna"]
+[Black "Dobrowolski, Piotr"]
+[Result "0-1"]
+[ECO "E33"]
+[WhiteElo "2008"]
+[BlackElo "2429"]
+[PlyCount "64"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. e4 e5 8. dxe5
+dxe5 9. a3 Bxc3 10. Bxc3 Qe7 11. Be2 a5 12. b3 Bg4 13. O-O Nd7 14. h3 Bxf3 15.
+Bxf3 Nc5 16. Bg4 a4 17. b4 Nb3 18. Rad1 Ncd4 19. Qb2 c5 20. f4 Rfd8 21. Qf2 f6
+22. fxe5 fxe5 23. bxc5 Rf8 24. Qb2 Rxf1+ 25. Rxf1 Rf8 26. Rxf8+ Qxf8 27. Bb4
+Nxc5 28. Bd1 b6 29. Qf2 Qxf2+ 30. Kxf2 Nd3+ 31. Ke3 Nxb4 32. Bxa4 Na6 0-1
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.04.30"]
+[Round "3"]
+[White "Hudziak, Pawel"]
+[Black "Dobrowolski, Piotr"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2211"]
+[BlackElo "2429"]
+[PlyCount "86"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 c6 5. d4 Bb4+ 6. Bd2 Be7 7. O-O dxc4 8. a4
+a5 9. Na3 Na6 10. Nxc4 Nb4 11. Bc3 O-O 12. Nfe5 Qc7 13. Qb3 Nbd5 14. Bd2 b6 15.
+Rfc1 Bb7 16. e4 Nb4 17. Bf4 Qd8 18. Rd1 b5 19. Na3 Qe8 20. Rac1 bxa4 21. Qxa4
+c5 22. Qxe8 Rfxe8 23. dxc5 Bxe4 24. c6 Bxg2 25. Kxg2 Nfd5 26. Nb5 Rec8 27. c7
+Ra6 28. Nd7 f6 29. Nb8 Ra8 30. Nc6 Nxc6 31. Rxc6 Kf7 32. Be3 a4 33. Rdc1 Ra5
+34. Nd6+ Bxd6 35. Rxd6 Nxe3+ 36. fxe3 Rd5 37. Rxd5 exd5 38. Rc6 Ke7 39. Kf3 Kd7
+40. Ra6 Rxc7 41. Rxa4 Rb7 42. Rh4 h6 43. b4 Kc6 1/2-1/2
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.05.01"]
+[Round "4"]
+[White "Budrewicz, Krzysztof"]
+[Black "Hudziak, Pawel"]
+[Result "1-0"]
+[ECO "E17"]
+[WhiteElo "2307"]
+[BlackElo "2211"]
+[PlyCount "155"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d5 exd5 8. Nh4
+c6 9. cxd5 Nxd5 10. Nf5 Na6 11. e4 Nf6 12. Nc3 d5 13. Bg5 h6 14. exd5 cxd5 15.
+Nxe7+ Qxe7 16. Re1 Qd8 17. Bf4 Nc5 18. Nb5 Nce4 19. f3 Nc5 20. b4 Ne6 21. Bd6
+Re8 22. Be5 Re7 23. Nd6 Rd7 24. Nxb7 Rxb7 25. Qd2 Rd7 26. Rad1 d4 27. f4 Ng4
+28. Bxa8 Qxa8 29. Qg2 Qd8 30. Qe4 Nxe5 31. Qxe5 d3 32. f5 Rd5 33. Qe4 d2 34.
+Re2 Rd4 35. Qe3 Rd3 36. Qe4 Rd4 37. Qg2 Nf8 38. Rexd2 Rxd2 39. Qxd2 Qf6 40. Qd5
+h5 41. Rd4 Qg5 42. Kg2 Qf6 43. h4 Qh6 44. Rf4 Qf6 45. Qd4 Qc6+ 46. Qe4 Qd7 47.
+Rf2 Nh7 48. Qa8+ Nf8 49. Qf3 Qd6 50. a3 a5 51. bxa5 bxa5 52. Re2 Qc5 53. Kh2
+Qd6 54. Qc3 Qd1 55. Qc2 Qf1 56. a4 Kh7 57. Rf2 Qa6 58. Qe2 Qh6 59. Qd2 Qb6 60.
+Re2 Qc5 61. f6 g6 62. Qa2 Ne6 63. Qc2 Qd4 64. Qb2 Qc4 65. Qb5 Qg4 66. Rf2 Qd4
+67. Qe2 Qd5 68. Qf3 Qd4 69. Re2 Qc4 70. Qe4 Qa6 71. Rf2 Qb6 72. Kg2 Qb3 73. Qc6
+Qd3 74. Qb7 Nd8 75. Qa8 Ne6 76. Qe8 Qd5+ 77. Kh2 Qb7 78. Qxe6 1-0
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.05.01"]
+[Round "4"]
+[White "Moranda, Wojciech"]
+[Black "Kolago, Marcin"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2533"]
+[BlackElo "2325"]
+[PlyCount "83"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Na6 8. O-O
+Ng4 9. Bg5 f6 10. Bh4 Qe8 11. Re1 Qf7 12. h3 Nh6 13. Bf1 Kh8 14. Qd2 Be6 15.
+Nd5 Ng8 16. b4 Bh6 17. Qc3 c6 18. Ne3 exd4 19. Nxd4 c5 20. bxc5 Nxc5 21. Nd5
+Bg7 22. Nxe6 Nxe6 23. Qa3 Nc5 24. Bg3 Qd7 25. Rad1 Rfd8 26. f4 Ne7 27. e5 fxe5
+28. fxe5 Nf5 29. Bf2 b6 30. g4 Nh6 31. Bh4 Rf8 32. Nf6 Qc8 33. Rxd6 Nf7 34. Rd5
+g5 35. Bg3 Nxe5 36. Bxe5 Bxf6 37. Bxf6+ Rxf6 38. Qc3 Qc6 39. Bg2 Na4 40. Qd4
+Raf8 41. Rf5 Qd6 42. Qxd6 1-0
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.05.02"]
+[Round "5"]
+[White "Dobrowolski, Piotr"]
+[Black "Moranda, Wojciech"]
+[Result "1/2-1/2"]
+[ECO "E43"]
+[WhiteElo "2429"]
+[BlackElo "2533"]
+[PlyCount "40"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. a3 Bxc3+ 6. bxc3 Ba6 7. Bd3 Nc6 8. e4
+Na5 9. e5 Ng8 10. Qg4 Kf8 11. Bg5 Ne7 12. Nh3 Bxc4 13. Bxc4 Nxc4 14. Nf4 h6 15.
+Bxe7+ Qxe7 16. Qf3 Qe8 17. Ng6+ Kg8 18. Nxh8 Kxh8 19. Qe2 d5 20. a4 a5 1/2-1/2
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.05.03"]
+[Round "6"]
+[White "Moranda, Wojciech"]
+[Black "Budrewicz, Krzysztof"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2533"]
+[BlackElo "2307"]
+[PlyCount "93"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 g5 10. Bg3 Nh6 11. d5 f5 12. exf5 Bxf5 13. h4 g4 14. Ng5 Nd7 15. Nce4
+Nf6 16. Bd3 Qe7 17. Qc2 c6 18. dxc6 bxc6 19. Nxd6 e4 20. Be2 Nh5 21. c5 Nxg3
+22. fxg3 Qe5 23. Qc4+ Kh8 24. O-O Qxg3 25. Rxf5 Qxh4 26. Raf1 g3 27. Rxf8+ Rxf8
+28. Rxf8+ Bxf8 29. Qd4+ Bg7 30. Ndf7+ Nxf7 31. Nxf7+ Kg8 32. Qd8+ Qxd8 33. Nxd8
+Bxb2 34. Nxc6 Ba3 35. Ne7+ Kf7 36. Nf5 Bxc5+ 37. Kf1 Kf6 38. Nxg3 Ke5 39. Ba6
+Kf4 40. Ne2+ Ke5 41. Bb7 Bb4 42. Ng3 e3 43. Ke2 Bc5 44. Nf1 h5 45. Nxe3 Kf4 46.
+Nf1 h4 47. Bc8 1-0
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.05.03"]
+[Round "6"]
+[White "Pankiewicz, Tomasz"]
+[Black "Dobrowolski, Piotr"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2239"]
+[BlackElo "2429"]
+[PlyCount "29"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 d6 6. e3 c5 7. Be2 h6 8. Bh4 g5
+9. Bg3 Nh5 10. dxc5 Nxg3 11. hxg3 dxc5 12. Qc2 e6 13. Nd2 Nc6 14. O-O-O Qe7 15.
+g4 1/2-1/2
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.05.04"]
+[Round "7"]
+[White "Budrewicz, Krzysztof"]
+[Black "Kolago, Marcin"]
+[Result "1-0"]
+[ECO "E73"]
+[WhiteElo "2307"]
+[BlackElo "2325"]
+[PlyCount "115"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 e5 6. d5 a5 7. h3 Na6 8. g4 h5 9.
+g5 Nd7 10. Be3 Ndc5 11. Nf3 Bd7 12. Qd2 Qc8 13. h4 Nb4 14. Nh2 O-O 15. Nf1 f5
+16. gxf6 Bxf6 17. Rg1 Kh7 18. Nh2 Bxh4 19. Nf3 Bf6 20. Ng5+ Bxg5 21. Rxg5 Be8
+22. Bxc5 dxc5 23. a3 Na6 24. Rxe5 Qd8 25. Rg5 Qf6 26. O-O-O Qf4 27. f3 Nb8 28.
+e5 Nd7 29. Qxf4 Rxf4 30. Ne4 Kh6 31. Rdg1 b5 32. cxb5 h4 33. Kd2 h3 34. R5g3
+Rh4 35. e6 Nb6 36. d6 cxd6 37. Rh1 d5 38. Rgxh3 Rxh3 39. Rxh3+ Kg7 40. Nxc5 Rc8
+41. Nb7 Kf6 42. Nxa5 Kxe6 43. Rh8 d4 44. b3 Nd7 45. Nc6 Nf6 46. Bc4+ Kd6 47.
+Nxd4 Rc7 48. Rf8 Ke7 49. Rh8 Bd7 50. a4 Kd6 51. Rf8 Nd5 52. Bxd5 Kxd5 53. Nc2
+Bf5 54. Ne3+ Kc5 55. Nxf5 gxf5 56. Rxf5+ Kb4 57. b6 Rd7+ 58. Kc2 1-0
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.05.04"]
+[Round "7"]
+[White "Dobrowolski, Piotr"]
+[Black "Galazewski, Tomasz"]
+[Result "1-0"]
+[ECO "E28"]
+[WhiteElo "2429"]
+[BlackElo "2281"]
+[PlyCount "35"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 b6 7. Bd3 Bb7 8. f3
+d6 9. Ne2 Nbd7 10. e4 c5 11. O-O Rc8 12. Bg5 Qc7 13. Ng3 h6 14. Be3 d5 15. cxd5
+exd5 16. e5 Ne8 17. Nf5 Qd8 18. f4 1-0
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.05.04"]
+[Round "7"]
+[White "Malaniuk, Vladimir P"]
+[Black "Moranda, Wojciech"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "2498"]
+[BlackElo "2533"]
+[PlyCount "21"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O c5 6. c4 d6 7. Nc3 Nbd7 8. b3 g6
+9. Bb2 Bg7 10. dxc5 dxc5 11. Bc2 1/2-1/2
+
+[Event "Wroclaw op"]
+[Site "Wroclaw"]
+[Date "2008.05.05"]
+[Round "8"]
+[White "Budrewicz, Krzysztof"]
+[Black "Dobrowolski, Piotr"]
+[Result "0-1"]
+[ECO "E63"]
+[WhiteElo "2307"]
+[BlackElo "2429"]
+[PlyCount "102"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 a6 8. h3
+Bd7 9. e4 e5 10. d5 Nd4 11. Nxd4 exd4 12. Qxd4 Qc8 13. e5 dxe5 14. Qh4 Nh5 15.
+Ne2 Bf6 16. Qe4 Bf5 17. Qf3 Bxh3 18. Bxh3 Qxh3 19. Nc3 Bg7 20. Ne4 h6 21. Qg2
+Qxg2+ 22. Kxg2 b6 23. g4 Nf4+ 24. Bxf4 exf4 25. Rab1 f5 26. gxf5 Rxf5 27. Kf3
+Kh7 28. b3 g5 29. Kg4 Kg6 30. f3 h5+ 31. Kh3 Re5 32. Rbd1 Rae8 33. d6 cxd6 34.
+Rxd6+ R8e6 35. Rxe6+ Rxe6 36. Kg2 g4 37. Rd1 h4 38. Nf2 h3+ 39. Kf1 gxf3 40.
+Nxh3 Kf5 41. Kf2 Re2+ 42. Kxf3 Re3+ 43. Kg2 Rg3+ 44. Kh2 Be5 45. Rd5 Rc3 46.
+Kg2 Rg3+ 47. Kh2 Rc3 48. Kg2 b5 49. cxb5 Ke4 50. Nxf4 Bxf4 51. Rh5 Rc2+ 0-1
+
+[Event "Chalkidiki op"]
+[Site "Chalkidiki"]
+[Date "2008.04.29"]
+[Round "1"]
+[White "Kirgeridis, Panayiotis"]
+[Black "Sandalakis, Angelos"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "1953"]
+[BlackElo "2346"]
+[PlyCount "70"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 O-O 5. Bg2 c5 6. Nf3 cxd4 7. Nxd4 d5 8.
+cxd5 Nxd5 9. Bd2 Bxc3 10. bxc3 e5 11. Nb3 Nc6 12. O-O Nde7 13. Nc5 Qc7 14. Nd3
+Bf5 15. Nb4 Rad8 16. Nxc6 Nxc6 17. Qc1 Na5 18. Rd1 Nc4 19. Be1 h6 20. Bd5 b6
+21. Bxc4 Qxc4 22. Qe3 f6 23. Rd2 Rxd2 24. Qxd2 Rf7 25. a4 Rd7 26. Qb2 Be6 27.
+Qc2 Bf7 28. Rb1 Rd5 29. Rb4 Qc6 30. Qe4 Qd7 31. Qc2 Rd1 32. Rb1 Rxb1 33. Qxb1
+Qxa4 34. Bd2 Qc4 35. Qe1 Qd5 0-1
+
+[Event "Chalkidiki op"]
+[Site "Chalkidiki"]
+[Date "2008.04.30"]
+[Round "3"]
+[White "Miljkovic, Miroslav"]
+[Black "Ataman, Alper Efe"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2418"]
+[BlackElo "2231"]
+[PlyCount "107"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b5 7. cxb5 c6 8.
+Bg5 h6 9. Bxf6 Qxf6 10. g3 cxb5 11. Bg2 Nc6 12. Bxc6 dxc6 13. Nf3 Bb7 14. Rc1
+a5 15. O-O b4 16. Qe3 Rfd8 17. Rc5 Rd5 18. Rfc1 Rad8 19. Qe4 Rxc5 20. Rxc5 Rd5
+21. axb4 axb4 22. Rxd5 cxd5 23. Qd3 Qe7 24. Qb5 Qc7 25. Ne5 Qc8 26. Qc5 Qd8 27.
+Qxb4 Ba6 28. Kf1 f6 29. Nc6 Qc7 30. Qc5 Qb7 31. b4 Bb5 32. Na7 Bd7 33. b5 Kh7
+34. b6 Qa6 35. Qc2+ f5 36. Qb2 Qb7 37. Qb4 Be8 38. Qd6 f4 39. gxf4 Bg6 40. f3
+Bf5 41. Qb4 h5 42. Nc6 Bh3+ 43. Kf2 Qxc6 44. b7 Qc1 45. b8=Q Qf1+ 46. Ke3 Qc1+
+47. Qd2 Qg1+ 48. Kd3 Bf5+ 49. Kc3 Qa1+ 50. Qbb2 Qa4 51. Qa2 Qb5 52. Qdb2 Qc6+
+53. Kd2 h4 54. Qa7 1-0
+
+[Event "Chalkidiki op"]
+[Site "Chalkidiki"]
+[Date "2008.04.30"]
+[Round "3"]
+[White "Vragoteris, Antonios"]
+[Black "Pavlidis, Antonios"]
+[Result "0-1"]

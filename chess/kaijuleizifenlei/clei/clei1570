@@ -1,0 +1,600 @@
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd8 7. O-O Nc6 8.
+Nb3 a6 9. Nbxd4 Nxd4 10. Nxd4 Qc7 11. Bb3 Bd6 12. Re1 Bxh2+ 13. Kh1 Bd6 14. Nf5
+Be5 15. f4 Bf6 16. Nd6+ Ke7 17. Ne4 Kf8 18. f5 Bd7 19. Nd6 Rd8 20. Bf4 e5 21.
+Nxf7 exf4 22. Nxh8 Bxf5 23. Qe2 Nh6 24. Rad1 g6 25. Rxd8+ Qxd8 26. Qc4 Kg7 27.
+Nf7 b5 28. Nxd8 bxc4 29. Ne6+ Bxe6 30. Rxe6 cxb3 31. cxb3 g5 32. Rxa6 Nf5 33.
+b4 g4 34. b5 Bd4 35. b6 f3 36. gxf3 gxf3 37. Ra3 Ne3 38. Rxe3 Bxe3 39. b7 Ba7
+40. Kh2 Bb8+ 41. Kg1 1/2-1/2
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.29"]
+[Round "10"]
+[White "Calangi, Joviniano Valentino"]
+[Black "Solo, Muzenda"]
+[Result "0-1"]
+[ECO "C41"]
+[PlyCount "66"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 d6 3. Bb5+ c6 4. Ba4 Nd7 5. O-O Qf6 6. d4 h6 7. Be3 a5 8. d5 c5
+9. c4 Qd8 10. Nc3 g5 11. h3 Ne7 12. Nb5 Ng6 13. g3 Be7 14. Qd2 Kf8 15. a3 Nb6
+16. Qc2 Bxh3 17. Rfc1 Kg7 18. b4 Nxa4 19. Qxa4 axb4 20. Qb3 bxa3 21. Rxa3 Rxa3
+22. Qxa3 Qd7 23. Kh2 g4 24. Ng1 h5 25. Ra1 h4 26. Bc1 hxg3+ 27. Kxg3 Bh4+ 28.
+Kh2 Bxf2 29. Nxh3 Rxh3+ 30. Qxh3 gxh3 31. Nc3 Qg4 32. Bh6+ Kxh6 33. Ne2 Qg2#
+0-1
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.29"]
+[Round "10"]
+[White "Ludwig, Daniel"]
+[Black "Howell, David"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[WhiteElo "2400"]
+[BlackElo "2593"]
+[PlyCount "86"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bd7 14. Nf1 Rac8 15.
+Re2 Nc6 16. Ng3 exd4 17. Nxd4 Nxd4 18. Qxd4 Be6 19. Bf4 Nd7 20. Nf5 Bxf5 21.
+exf5 Ne5 22. Bb3 Bf6 23. Qd5 Rfd8 24. Rd1 Nc4 25. Rc2 Qc6 26. a4 Qc5 27. axb5
+axb5 28. Qxc5 Rxc5 29. Rxd6 Rdc8 30. Bxc4 Rxc4 31. Rxc4 Rxc4 32. Rb6 h5 33. Bd6
+Rc1+ 34. Kh2 Rd1 35. Bb4 Rd5 36. Bc3 Bxc3 37. bxc3 Rxf5 38. f3 Rc5 39. Kg3 Kf8
+40. Rb7 Ke8 41. h4 Rf5 42. c4 bxc4 43. Rc7 Kd8 1/2-1/2
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.29"]
+[Round "10"]
+[White "Mendes, Mikael"]
+[Black "Nestor, Kaarel"]
+[Result "0-1"]
+[ECO "C01"]
+[BlackElo "2087"]
+[PlyCount "108"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 c5 6. Ne2 cxd4 7. Qxd4 Qc7 8.
+Nbc3 Bc5 9. Qh4 Nc6 10. Qg5 Bf8 11. Bf4 Qe7 12. Rd1 h6 13. Qb5 Qc5 14. Be3 Qxb5
+15. Nxb5 Bb4+ 16. c3 Ba5 17. Nd6+ Kf8 18. b4 Bb6 19. Bxb6 axb6 20. Nxc8 Rxc8
+21. b5 Na5 22. O-O Ke7 23. Rc1 Rhd8 24. Nd4 Nd5 25. Nb3 Nxb3 26. axb3 Rxc3 27.
+Bxd5 Rxc1 28. Rxc1 Rxd5 29. h3 Rxb5 30. Rc7+ Kf6 31. Rxb7 Rxb3 32. Kf1 Rb2 33.
+g3 h5 34. Kg2 Rb3 35. Kf1 e5 36. Ke2 g5 37. Rb8 h4 38. gxh4 gxh4 39. f3 Kf5 40.
+Rb7 f6 41. Rh7 Rb4 42. Ke3 b5 43. Rh8 Rc4 44. Rb8 b4 45. Kd3 Rc3+ 46. Ke2 Rc4
+47. Ke3 Rf4 48. Rb7 Ke6 49. Rb8 Kd5 50. Rc8 b3 51. Rc7 Rb4 52. Rc1 b2 53. Rb1
+Kc4 54. Kd2 Kb3 0-1
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.29"]
+[Round "10"]
+[White "Paichadze, Luka"]
+[Black "Delorme, Axel"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2437"]
+[BlackElo "2415"]
+[PlyCount "61"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. b3 d5 3. Bb2 dxe4 4. Nc3 Nf6 5. Qe2 Nc6 6. Nxe4 Nxe4 7. Qxe4 Qd5 8.
+Qxd5 exd5 9. O-O-O f6 10. g3 Bg4 11. Re1+ Kf7 12. Bg2 Rd8 13. Ne2 Ne7 14. h3
+Bd7 15. f4 b6 16. g4 Ng6 17. Rhf1 h5 18. f5 Nh4 19. Bh1 Bd6 20. c4 dxc4 21.
+bxc4 hxg4 22. hxg4 Rde8 23. Nc3 Rxe1+ 24. Rxe1 g6 25. Ne4 Be5 26. Ng5+ Ke7 27.
+Rxe5+ fxe5 28. Bxe5 Rf8 29. Nh7 Rf7 30. Ng5 Rf8 31. Nh7 1/2-1/2
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.29"]
+[Round "10"]
+[White "Rabbitte, Liam F"]
+[Black "Dang The Nam"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "2012"]
+[BlackElo "2142"]
+[PlyCount "70"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. d4 Ngf6 6. Nxf6+ Nxf6 7. c3 Be7
+8. Qa4+ c6 9. Qb3 O-O 10. Bd3 b6 11. Qc2 Bb7 12. Bg5 h6 13. h4 Qc7 14. Rh3 Kh8
+15. O-O-O c5 16. dxc5 Qxc5 17. Be3 Qc7 18. Bd4 Bxf3 19. Rxf3 e5 20. Be3 Rad8
+21. Rh3 e4 22. Be2 Rxd1+ 23. Qxd1 Rd8 24. Qb3 Nd5 25. Kb1 f5 26. Bd4 Nf4 27.
+Qf7 Rxd4 28. Rg3 g5 29. hxg5 Nxe2 30. Qe8+ Kg7 31. gxh6+ Kf6 32. h7 Rd1+ 33.
+Kc2 Rc1+ 34. Kb3 Nd4+ 35. Ka4 Qc4+ 0-1
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.29"]
+[Round "10"]
+[White "Rasulov, Vugar"]
+[Black "Saravana, Krishnan P"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2384"]
+[BlackElo "2262"]
+[PlyCount "81"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. e5 Ne4 8. Re1
+Nc5 9. Bxc6 dxc6 10. Nxd4 O-O 11. Nc3 Qd7 12. Be3 Rd8 13. Qe2 Qg4 14. Qxg4 Bxg4
+15. f3 Bd7 16. Red1 a5 17. a3 Bf8 18. Kf2 Re8 19. f4 Rad8 20. Rd2 b5 21. Kf3 b4
+22. axb4 axb4 23. Nce2 Ra8 24. Rxa8 Rxa8 25. Nb3 Nxb3 26. Rxd7 Na1 27. Nd4 c5
+28. Nb3 Nxc2 29. Bxc5 g6 30. g4 c6 31. Bd6 Ne1+ 32. Ke4 Ng2 33. f5 Re8 34. Bxf8
+Kxf8 35. Nd4 Nh4 36. Nxc6 h5 37. h3 hxg4 38. hxg4 gxf5+ 39. gxf5 Kg7 40. e6
+Nxf5 41. Rxf7+ 1-0
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.30"]
+[Round "11"]
+[White "Aitbayev, Aslan"]
+[Black "Karthikeyan, Pandian"]
+[Result "0-1"]
+[ECO "C60"]
+[WhiteElo "2296"]
+[BlackElo "2426"]
+[PlyCount "120"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 Nge7 4. c3 d6 5. d4 Bd7 6. Nbd2 g6 7. Nf1 Bg7 8. Ng3
+O-O 9. O-O Bg4 10. d5 Nb8 11. h3 Bc8 12. Bd3 f5 13. exf5 gxf5 14. Bc2 Qe8 15.
+Re1 f4 16. Qd3 Ng6 17. Ne4 Bh6 18. c4 Qe7 19. Bd2 a5 20. c5 Bf5 21. cxd6 cxd6
+22. a3 Na6 23. b4 axb4 24. axb4 Rad8 25. g4 Bc8 26. Bc3 Nc7 27. Ned2 Bg7 28.
+Nc4 Bf6 29. Nb6 Qg7 30. Qe4 Qh6 31. Kg2 Nh4+ 32. Nxh4 Bxh4 33. Qf3 Rf7 34. Rac1
+Bd7 35. Nxd7 Rfxd7 36. b5 Rf8 37. b6 Na6 38. Be4 Rg7 39. Bd2 Qg5 40. Kf1 Qd8
+41. Rb1 Qd7 42. Rec1 Bd8 43. Rc4 Nc5 44. Bc2 Re7 45. Bc3 Rf6 46. Rbb4 Qe8 47.
+Bb2 Rg7 48. Bf5 h5 49. Rxc5 dxc5 50. Re4 Qb5+ 51. Re2 hxg4 52. hxg4 Rxf5 53.
+gxf5 Bf6 54. Qe4 Qb3 55. Bxe5 Qh3+ 56. Ke1 Re7 57. d6 Rxe5 58. Qc4+ Kg7 59.
+Rxe5 Bxe5 60. Qe6 Qc3+ 0-1
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.30"]
+[Round "11"]
+[White "Howell, David"]
+[Black "Pavlidis, Anastasios"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2593"]
+[BlackElo "2322"]
+[PlyCount "69"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Kh8 8. h3
+Ng8 9. a5 a6 10. Nc3 f5 11. Nd5 fxe4 12. dxe4 Nf6 13. Ra3 Nxd5 14. exd5 Nb8 15.
+Bd3 Nd7 16. c4 Nc5 17. Bc2 Bf5 18. Be3 Nd7 19. Rb3 Rb8 20. Bxf5 Rxf5 21. Ba7
+Ra8 22. Rxb7 Qc8 23. Qb3 Rxa7 24. Rxa7 Nc5 25. Qc2 Rf8 26. b4 Qb8 27. bxc5 Qxa7
+28. cxd6 cxd6 29. c5 dxc5 30. Nxe5 Qb7 31. Qe4 Bg5 32. d6 Qxe4 33. Rxe4 Kg8 34.
+d7 Rd8 35. Nf3 1-0
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.30"]
+[Round "11"]
+[White "Kaisar, Jenius Hakiki"]
+[Black "Schon, Eugene"]
+[Result "1-0"]
+[ECO "C90"]
+[WhiteElo "2189"]
+[BlackElo "2066"]
+[PlyCount "61"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. O-O Be7 7. c3 O-O 8. Re1
+b5 9. Bb3 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. a4 Be6 13. Nf1 Qc7 14. Qe2 Rfe8 15.
+Bg5 h6 16. Bc1 Bf8 17. h3 g6 18. g4 Qd7 19. Ng3 Bg7 20. Nh4 Kh7 21. Be3 Ng8 22.
+Kh2 b4 23. Rg1 Qd8 24. Nhf5 gxf5 25. gxf5 Bd7 26. Nh5 Bh8 27. Bb3 Rf8 28. Qg4
+Nce7 29. Bxf7 Bf6 30. Nxf6+ Nxf6 31. Qg7# 1-0
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.30"]
+[Round "11"]
+[White "Kharchenko, Boris"]
+[Black "Parry, Matthew"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2443"]
+[BlackElo "2261"]
+[PlyCount "117"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. Bxc6 dxc6 7. Nxe5 Nxe4
+8. Qe2 Qd5 9. d3 Qxe5 10. Qxe4 Qxe4 11. dxe4 Bg4 12. Nd2 O-O-O 13. Nb3 Bb6 14.
+Re1 Rhe8 15. Bd2 f6 16. Rac1 Rd7 17. Bb4 Re5 18. Bc3 Re8 19. Bb4 Be6 20. Nc5
+Rd4 21. Ba3 Bg4 22. Kf1 Bh5 23. f3 Bf7 24. b3 Red8 25. Nd3 Ba5 26. Red1 Bc3 27.
+Be7 Re8 28. Bc5 Rd7 29. Bf2 b6 30. Be1 Bxe1 31. Nxe1 Red8 32. Ke2 Rxd1 33. Rxd1
+Rxd1 34. Kxd1 c5 35. a3 c4 36. b4 Kb7 37. c3 a5 38. Nc2 Ka6 39. Nd4 c5 40. bxc5
+bxc5 41. Nf5 g6 42. Nd6 Be6 43. Ne8 Kb6 44. Nxf6 h5 45. Nd5+ Kb7 46. h4 Bf7 47.
+Kd2 Kc6 48. g4 hxg4 49. fxg4 Kb5 50. g5 Ka4 51. Nc7 Kxa3 52. Kc2 Ka2 53. e5 a4
+54. e6 Bxe6 55. Nxe6 a3 56. Nc7 Ka1 57. Nb5 a2 58. h5 gxh5 59. Kc1 1-0
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.30"]
+[Round "11"]
+[White "Klimov, Anton"]
+[Black "Bao Khoa"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2451"]
+[BlackElo "2142"]
+[PlyCount "131"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. a3 Nh6 7. b4 cxd4 8. cxd4
+Nf5 9. Bb2 Bd7 10. g4 Nfe7 11. Nc3 h5 12. Na4 Qc7 13. g5 Nf5 14. Rc1 Qd8 15.
+Nc5 Bxc5 16. Rxc5 a6 17. Bd3 Nce7 18. O-O O-O 19. Qb3 Qe8 20. Rfc1 h4 21. Kh1
+Ba4 22. Qc3 Bc6 23. Qc2 Rc8 24. Qd2 Qd7 25. Qf4 Ng6 26. Qg4 Bb5 27. Bxf5 exf5
+28. Qh3 b6 29. R5c3 Rxc3 30. Rxc3 Rc8 31. Nxh4 Rxc3 32. Bxc3 Nxh4 33. Qxh4 Bd3
+34. Qf4 Qc6 35. Qd2 Be4+ 36. Kg1 f4 37. Bb2 Qc8 38. Qxf4 Qh3 39. Qg3 Qh5 40. f3
+Bxf3 41. h3 Be4 42. Qg4 Qg6 43. e6 fxe6 44. h4 Bf5 45. h5 Qe8 46. Qd1 Be4 47.
+g6 Qf8 48. Qg4 Qf5 49. Qh4 Bd3 50. Qd8+ Qf8 51. Qxf8+ Kxf8 52. Kf2 Ke7 53. Kg3
+Kf6 54. Kh4 a5 55. bxa5 bxa5 56. Bc3 a4 57. Bd2 Ke7 58. Bb4+ Ke8 59. Bd6 Be2
+60. Kg5 Bf3 61. Be5 Kf8 62. Bxg7+ Kxg7 63. h6+ Kg8 64. Kf6 e5 65. h7+ Kh8 66.
+g7+ 1-0
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.30"]
+[Round "11"]
+[White "Potapov, Pavel"]
+[Black "Ochoa, Carl Victor"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2442"]
+[BlackElo "2272"]
+[PlyCount "80"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Be7 12. h3 Be6 13. Rae1 Nd7 14. Bxe7
+Qxe7 15. Ne2 c5 16. Nf4 Qf6 17. b3 g6 18. Qg3 Rfd8 19. h4 Nf8 20. h5 Rab8 21.
+hxg6 hxg6 22. Re3 Rb4 23. Rf3 Qe5 24. a3 Rb6 25. Re3 Qg7 26. Rfe1 Rd7 27. Re5
+Rdd6 28. Nh5 Qh8 29. Nf4 Qg7 30. R5e3 a6 31. Re5 Qf6 32. Rg5 Qc3 33. Kf1 c4 34.
+bxc4 dxc4 35. Be4 Qxg3 36. Rxg3 Rd4 37. Rge3 Nd7 38. g3 Rbd6 39. Rc3 g5 40. Ng2
+Bh3 1/2-1/2
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.30"]
+[Round "11"]
+[White "Solo, Muzenda"]
+[Black "Mwangi, Dennis"]
+[Result "1-0"]
+[ECO "C41"]
+[PlyCount "57"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 Kxf7 7. Qf3+ Ke6
+8. Nc3 c6 9. O-O Bc5 10. Ne4 Be7 11. d4 Nd7 12. Qg3 Qf8 13. f4 exd4 14. Ng5+
+Kf6 15. Qh4 N7b6 16. Bd3 h6 17. Nh7+ Ke6 18. Qe1+ Kd6 19. Nxf8 Rxf8 20. Qe5+
+Kd7 21. Qxg7 Kc7 22. f5 Bd7 23. Qxd4 Rae8 24. c4 Na4 25. Bf4+ Kc8 26. Kh1 b6
+27. cxd5 Nc5 28. Qe5 Bd8 29. Qb8# 1-0
+
+[Event "Wch U18"]
+[Site "Vung Tau"]
+[Date "2008.10.30"]
+[Round "11"]
+[White "Ye, Ling Feng"]
+[Black "Herath, Nishendra"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2188"]
+[BlackElo "2012"]
+[PlyCount "51"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O 12. Bf4 Bxf4 13. Nxf4 Ne4 14. Ne2 Rxf3
+15. gxf3 Ng5 16. Kh1 e5 17. dxe5 Nxf3 18. Bxh7+ Kh8 19. Ng1 Ncd4 20. Bd3 Bg4
+21. Qc1 Nxg1 22. Qf4 Be2 23. Rxg1 Bxd3 24. Qxd4 Be4+ 25. Rg2 Qg5 26. Qxe4 1-0
+
+[Event "Wch U18 Girls"]
+[Site "Vung Tau"]
+[Date "2008.10.20"]
+[Round "1"]
+[White "Agrest, Inna"]
+[Black "Jorgensen, Line Jin"]
+[Result "0-1"]
+[ECO "C97"]
+[WhiteElo "2215"]
+[BlackElo "1946"]
+[PlyCount "92"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O a6 5. Ba4 b5 6. Bb3 Be7 7. Re1 d6 8. c3
+Na5 9. Bc2 c5 10. h3 O-O 11. d4 Qc7 12. Nbd2 Bb7 13. Nf1 Rac8 14. d5 Rfe8 15.
+a4 Ba8 16. Qe2 Rb8 17. Ne3 g6 18. Nd2 c4 19. axb5 axb5 20. g3 Nb7 21. b3 cxb3
+22. Nxb3 Qxc3 23. Bd2 Qc8 24. Kh2 Nc5 25. Rec1 Qd7 26. Nd1 Nfxe4 27. Nxc5 Nxc5
+28. Ne3 f5 29. Qf3 Rf8 30. Qg2 b4 31. Rg1 e4 32. f3 b3 33. Bb1 Bf6 34. Ra5 b2
+35. fxe4 Nxe4 36. Bxe4 fxe4 37. Qxe4 Bd8 38. Ng4 Bxa5 39. Bxa5 Qg7 40. Bd2 Rbe8
+41. Qd3 h5 42. Ne3 Rf3 43. h4 Qf7 44. Rb1 Bxd5 45. Rxb2 Rf2+ 46. Kg1 Rxe3 0-1
+
+[Event "Wch U18 Girls"]
+[Site "Vung Tau"]
+[Date "2008.10.20"]
+[Round "1"]
+[White "Gosciniak, Maria"]
+[Black "Anandajeyarajah, Thilagini"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2161"]
+[BlackElo "1735"]
+[PlyCount "79"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Qb1
+c4 9. Nh3 Nc6 10. Nf4 f6 11. exf6 Nxf6 12. g3 Bd7 13. Bg2 O-O-O 14. O-O g5 15.
+Ne2 h6 16. Qb2 b6 17. Rae1 Rde8 18. Kh1 Rhf8 19. f4 g4 20. f5 exf5 21. Bxh6 Rh8
+22. Bg7 Ne4 23. Bxh8 Rxh8 24. Kg1 Nd8 25. Bxe4 dxe4 26. Nf4 Qc6 27. Qb4 Qh6 28.
+Qxc4+ Kb8 29. Rf2 Ne6 30. Nxe6 Bxe6 31. Qe2 Qh3 32. Qe3 Kb7 33. a4 a6 34. a5
+bxa5 35. Rb1+ Kc7 36. d5 Bxd5 37. Qa7+ Kd6 38. Rb6+ Bc6 39. Rd2+ Kc5 40. Rb4#
+1-0
+
+[Event "Wch U18 Girls"]
+[Site "Vung Tau"]
+[Date "2008.10.20"]
+[Round "1"]
+[White "Huynh Thi Hong, Suong"]
+[Black "Esonboeva, Gulruhsor"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "2008"]
+[PlyCount "34"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 h6 5. h3 d6 6. Be3 Bb6 7. Nbd2 Nge7 8. c3
+O-O 9. O-O d5 10. Bb3 Kh8 11. d4 f5 12. exf5 Nxf5 13. Nb1 e4 14. Nh2 Be6 15.
+Qd2 Qf6 16. f3 Nxe3 17. Qxe3 Nxd4 0-1
+
+[Event "Wch U18 Girls"]
+[Site "Vung Tau"]
+[Date "2008.10.20"]
+[Round "1"]
+[White "Mnatsakanyan, Diana"]
+[Black "Golubenko, Valentina"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1971"]
+[BlackElo "2273"]
+[PlyCount "44"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. exd5 exd5 6. Qe2+ Be6 7. Qb5+ Nc6 8.
+Bxf6 gxf6 9. Qxb7 Nxd4 10. Bb5+ Kf8 11. Ba4 c5 12. O-O-O Kg7 13. Nge2 Qa5 14.
+Rd3 Rhb8 15. Qe7 Nf5 16. Rg3+ Nxg3 17. Nf4 Bxc3 18. Nxe6+ Kg8 19. hxg3 Bxb2+
+20. Kd1 Qxa4 21. Rh4 Qe8 22. Rg4+ Kh8 0-1
+
+[Event "Wch U18 Girls"]
+[Site "Vung Tau"]
+[Date "2008.10.20"]
+[Round "1"]
+[White "Rysbayeva, Aigerim"]
+[Black "Rahimi, Tara"]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "2180"]
+[BlackElo "1862"]
+[PlyCount "62"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Rb8 9. d3 d6 10. Nbd2 Kh8 11. Nf1 Ng8 12. axb5 axb5 13. Ng3 g6 14. c3 f5 15.
+exf5 gxf5 16. Nf1 Bf6 17. Ne3 Nce7 18. Nd5 Nxd5 19. Bxd5 Ne7 20. Bb3 f4 21. d4
+Bg4 22. dxe5 Bxe5 23. Qd3 Ng6 24. h3 Bxf3 25. Qxf3 Nh4 26. Qg4 Qf6 27. Ra7 Rg8
+28. Bxg8 Rxg8 29. Qh5 Nxg2 30. Re4 Ne3+ 31. Kh2 Qg7 0-1
+
+[Event "Wch U18 Girls"]
+[Site "Vung Tau"]
+[Date "2008.10.21"]
+[Round "2"]
+[White "Anandajeyarajah, Thilagini"]
+[Black "Agrest, Inna"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "1735"]
+[BlackElo "2215"]
+[PlyCount "168"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Be7 12. Rfe1 Re8 13. h3 Be6 14. Ne2 Rb8
+15. b3 h6 16. Bf4 Rb6 17. Nd4 Qd7 18. Be5 c5 19. Nxe6 fxe6 20. Rad1 Rf8 21. Qg3
+Bd6 22. Bg6 Bxe5 23. Rxe5 Qe7 24. Rde1 Qd7 25. c3 a5 26. Qd3 d4 27. cxd4 cxd4
+28. Qe2 Nd5 29. g3 Rf6 30. Qh5 Rb8 31. Be4 Nc3 32. Bd3 Qf7 33. Qxf7+ Kxf7 34.
+Rxa5 Rd8 35. Kg2 Rd7 36. f4 Nd5 37. a3 Rc7 38. Ra4 Ne3+ 39. Kf3 e5 40. Ke4 exf4
+41. gxf4 Nf5 42. Kf3 Rc3 43. Rd1 Re6 44. Kf2 Ne3 45. Rd2 Rxb3 46. Rxd4 Rxa3 47.
+Re2 Nd1+ 48. Ke1 Rxe2+ 49. Kxe2 Nb2 50. Bf5 Na4 51. Rd6 Nc3+ 52. Kd2 Nb5 53.
+Bg6+ Ke7 54. Rb6 Nd6 55. Bd3 Ra2+ 56. Kc3 Rh2 57. Bf1 Rf2 58. Bd3 Rxf4 59. Rb4
+Rxb4 60. Kxb4 Ke6 61. Kc5 Ke5 62. Bg6 Ne4+ 63. Kc6 Ng5 64. h4 Nf3 65. h5 Kf6
+66. Kd6 Nh4 67. Be8 Nf5+ 68. Kd5 Ng3 69. Kd4 Kg5 70. Ke3 Nxh5 71. Kf3 Nf6 72.
+Bc6 h5 73. Kg3 Kf5 74. Kh3 Kf4 75. Kg2 g5 76. Kh2 g4 77. Bg2 h4 78. Bf1 Nd5 79.
+Bg2 Ne3 80. Ba8 Nf1+ 81. Kg2 Nd2 82. Kh2 Nf3+ 83. Kg2 h3+ 84. Kh1 g3 0-1
+
+[Event "Wch U18 Girls"]
+[Site "Vung Tau"]
+[Date "2008.10.21"]
+[Round "2"]
+[White "Kozarski, Lara"]
+[Black "Rysbayeva, Aigerim"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "1714"]
+[BlackElo "2180"]
+[PlyCount "147"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. Be3 O-O 8. O-O
+d6 9. Nbd2 Ne7 10. Nh4 Kh8 11. Bxa7 Rxa7 12. Qe1 Nh5 13. g3 f5 14. exf5 Nxf5
+15. Nxf5 Bxf5 16. Qe3 Ra8 17. Bd5 c6 18. Be4 Bd7 19. Bg2 Nf6 20. f3 Nd5 21. Qf2
+Qg5 22. Ne4 Qh6 23. Rfe1 Rae8 24. Qd2 Qxd2 25. Nxd2 Bf5 26. Ne4 Rd8 27. Rad1
+Nb6 28. Re2 h6 29. Red2 Rfe8 30. Re2 Re7 31. Red2 Kg8 32. Rf2 Nd5 33. Re2 Nb6
+34. Rf2 Bg6 35. c4 d5 36. cxd5 Nxd5 37. a3 Ne3 38. Rdd2 Nxg2 39. Kxg2 Rd5 40.
+Rfe2 Red7 41. Nc3 Rxd3 42. Rxd3 Rxd3 43. Rxe5 Kf8 44. Kf2 Bf7 45. Re4 c5 46.
+Re3 Rd6 47. Ne4 Rb6 48. Re2 c4 49. Nc3 Rd6 50. Ne4 Rc6 51. Nc3 b5 52. Re5 Bg6
+53. Ke2 Rd6 54. Rd5 Re6+ 55. Kf2 Bd3 56. Rc5 Kf7 57. Rd5 Ke7 58. Rd4 Rd6 59.
+Rxd6 Kxd6 60. Ke3 Kc5 61. b4+ Kc6 62. Kd4 Kd6 63. Na2 Be2 64. f4 Bg4 65. Nc3
+Bf5 66. Ke3 h5 67. Kd4 g6 68. Nd1 Bc8 69. h4 Ke6 70. Ne3 Bb7 71. Kc3 Be4 72.
+Kd4 Bb7 73. Kc3 Bc8 74. Kd4 1/2-1/2
+
+[Event "Wch U18 Girls"]
+[Site "Vung Tau"]
+[Date "2008.10.21"]
+[Round "2"]
+[White "Nguyen Thi Diem, Huong"]
+[Black "Corke, Anya Sun"]
+[Result "0-1"]
+[ECO "C10"]
+[BlackElo "2301"]
+[PlyCount "90"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 f6 5. exf6 Nxf6 6. Nf3 Bd6 7. Bg5 O-O 8. Bd3
+Qe8 9. Bxf6 Rxf6 10. Ng5 g6 11. h4 Nb4 12. h5 Nxd3+ 13. Qxd3 h6 14. hxg6 Qxg6
+15. Qxg6+ Rxg6 16. Nf3 c5 17. dxc5 Bxc5 18. g3 Rf6 19. Na4 Bb4+ 20. c3 Bd6 21.
+Nd4 Bd7 22. b3 b5 23. Nb2 Rc8 24. Ne2 e5 25. Rd1 Bc6 26. O-O Rf3 27. Nd3 Bb7
+28. Ne1 Rf6 29. b4 Rcf8 30. Ng2 Bc7 31. Ne3 Bb6 32. Ng4 Re6 33. Nh2 h5 34. Nc1
+Rg6 35. Ne2 Rgf6 36. Nd4 exd4 37. cxd4 Re8 38. Rd3 Bc8 39. Rc1 Bf5 40. Rf3 Kg7
+41. Nf1 Be4 42. Rxf6 Kxf6 43. Rc6+ Re6 44. Rc8 Bxd4 45. Rf8+ Kg7 0-1
+
+[Event "Wch U18 Girls"]
+[Site "Vung Tau"]
+[Date "2008.10.21"]
+[Round "2"]
+[White "Preethi, Rajkumar"]
+[Black "Jorgensen, Line Jin"]
+[Result "1-0"]
+[ECO "C57"]
+[WhiteElo "2156"]
+[BlackElo "1946"]
+[PlyCount "85"]
+[EventDate "2008.10.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 Kxf7 7. Qf3+ Qf6
+8. Bxd5+ Ke8 9. Bxc6+ bxc6 10. Qxf6 gxf6 11. d3 Rg8 12. g3 Bd6 13. Nd2 Kf7 14.
+Nc4 Be6 15. Be3 Bd5 16. Rg1 h5 17. O-O-O a6 18. b3 Bb4 19. f4 Bf3 20. Rdf1 e4
+21. Rf2 h4 22. Kb2 Rad8 23. a3 hxg3 24. hxg3 Be7 25. Nd2 f5 26. Nxf3 exf3 27.
+Rxf3 Bf6+ 28. Kc1 Rg7 29. Kd2 Rdg8 30. Bf2 Bh4 31. d4 Be7 32. b4 Rd8 33. Rd3
+Rh7 34. Ke2 Rh2 35. Kf3 Bf6 36. Rgd1 Ke6 37. c4 Rb8 38. d5+ cxd5 39. Re1+ Kf7
+40. Rxd5 Kg6 41. Re6 Ra8 42. Bd4 Rf8 43. Rxa6 1-0
+

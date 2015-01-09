@@ -1,0 +1,600 @@
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2516"]
+[BlackElo "2394"]
+[PlyCount "87"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. b3 b5 7. Ne5 c6 8. Bb2
+Bb7 9. Nd2 d6 10. Nd3 Nbd7 11. Nf4 Qc8 12. Ne6 Rf7 13. Nxg7 Rxg7 14. e4 e6 15.
+Re1 d5 16. exf5 exf5 17. Nf3 Qf8 18. Ne5 a5 19. c4 Qd6 20. cxb5 cxb5 21. Rc1
+Re7 22. Re2 Rae8 23. Bf1 b4 24. Rec2 Nf8 25. Rc6 Bxc6 26. Rxc6 Qd8 27. Rxf6 Rc7
+28. Rc6 Rxc6 29. Nxc6 Qc7 30. Ne5 Rc8 31. Qf3 Qd6 32. Bg2 Rc2 33. Qxd5+ Qxd5
+34. Bxd5+ Kg7 35. Nc4 Nd7 36. Bf3 Nb6 37. d5+ Kf8 38. Nxb6 Rxb2 39. d6 Rxa2 40.
+Bc6 Rc2 41. Ba4 Rd2 42. Nc4 Rd4 43. d7 Ke7 44. Nxa5 1-0
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.25"]
+[Round "3"]
+[White "Popchev, Milko"]
+[Black "Popov, Luben"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[WhiteElo "2410"]
+[BlackElo "2300"]
+[PlyCount "30"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. c4 e5 6. Nc3 Nge7 7. a3 a5 8. Ne1
+d6 9. Nc2 O-O 10. Ne3 Rb8 11. d3 b6 12. Rb1 Bb7 13. Ned5 Nxd5 14. Nxd5 Ne7 15.
+Nxe7+ Qxe7 1/2-1/2
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.25"]
+[Round "4"]
+[White "Matovic, Petar"]
+[Black "Tosic, Miroslav"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "2227"]
+[BlackElo "2422"]
+[PlyCount "154"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. Nf3 c5 3. c3 Nf6 4. Bf4 Qb6 5. Qc1 cxd4 6. Bxb8 Rxb8 7. cxd4 d5 8.
+e3 Bd7 9. Bd3 Rc8 10. Nc3 Bb4 11. Nd2 Qa5 12. Ndb1 b5 13. Qd2 Qb6 14. O-O Bd6
+15. Qd1 b4 16. Ne2 a5 17. Nd2 e5 18. dxe5 Bxe5 19. Rb1 O-O 20. Nf3 Bd6 21. h3
+g6 22. Ned4 a4 23. Qe2 Rc5 24. Rfd1 Rfc8 25. Qe1 Bf8 26. Ne5 Be8 27. Be2 Bd6
+28. Nd3 R5c7 29. Rbc1 Rxc1 30. Rxc1 Rxc1 31. Qxc1 Bd7 32. Ne1 a3 33. Bd3 Ne4
+34. Qc2 Nc5 35. b3 Be5 36. Nef3 Bf6 37. Kf1 Kg7 38. Ke1 Ne6 39. Ne2 h5 40. Kf1
+Bb2 41. Ke1 Bc6 42. Kf1 Bb7 43. Nd2 Nc5 44. Ke1 Ne6 45. Kf1 Bc6 46. Ke1 Nc5 47.
+Nf4 Be5 48. Ne2 Nxd3+ 49. Qxd3 Bb2 50. Nf3 Bb7 51. Kd1 Qc5 52. Nfd4 Qb6 53. Qb5
+Qxb5 54. Nxb5 d4 55. Nbxd4 Bxg2 56. h4 Be4 57. Kd2 Bb1 58. Nc6 Bf6 59. Nxb4
+Bxh4 60. Nc3 Bf5 61. e4 Be6 62. Ke3 g5 63. Nc2 g4 64. Nd4 Bg5+ 65. f4 gxf3+ 66.
+Kxf3 Bg4+ 67. Kg3 Bf6 68. Ncb5 Be5+ 69. Kh4 Kg6 70. b4 Bd7 71. Nxa3 Bxd4 72.
+Kg3 Kg5 73. Nc4 h4+ 74. Kf3 Be6 75. Ne3 Bxa2 76. Nf5 Bb6 77. Nd6 Be6 0-1
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.26"]
+[Round "5"]
+[White "Abramovic, Bosko"]
+[Black "Vujacic, Borivoje"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2488"]
+[BlackElo "2319"]
+[PlyCount "56"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Be2 c5 7. c3 Qb6 8. Qc1
+Nc6 9. Nbd2 cxd4 10. exd4 Be6 11. O-O Rac8 12. Be3 Qc7 13. Nb3 Rfe8 14. Bh6 Na5
+15. Bxg7 Kxg7 16. Nxa5 Qxa5 17. Re1 Bd5 18. Qe3 e5 19. dxe5 dxe5 20. Nd2 a6 21.
+a3 Qc5 22. Qxc5 Rxc5 23. c4 Be6 24. b4 Rc7 25. c5 Rd8 26. Nc4 Bxc4 27. Bxc4 Rd4
+28. Bf1 a5 1/2-1/2
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.26"]
+[Round "5"]
+[White "Popchev, Milko"]
+[Black "Manik, Mikulas"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2410"]
+[BlackElo "2453"]
+[PlyCount "14"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bg4 5. b3 Qd7 6. Bb2 e6 7. c4 Be7 1/2-1/2
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.28"]
+[Round "7"]
+[White "Kosanovic, Goran A"]
+[Black "Popov, Luben"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2393"]
+[BlackElo "2300"]
+[PlyCount "23"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. e3 e6 5. Nd2 Nxd2 6. Qxd2 c5 7. Bxb8 Rxb8 8.
+Bb5+ Bd7 9. Bxd7+ Qxd7 10. c3 cxd4 11. cxd4 Bd6 12. Nf3 1/2-1/2
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.28"]
+[Round "7"]
+[White "Kosic, Dragan"]
+[Black "Nestorovic, Nikola"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2516"]
+[BlackElo "2422"]
+[PlyCount "22"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. dxc5 Qa5+ 5. Nbd2 Qxc5 6. a3 Bg7 7. b4 Qc7 8.
+Bb2 O-O 9. c4 d6 10. Be2 b6 11. O-O Bb7 1/2-1/2
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.28"]
+[Round "7"]
+[White "Sertic, Rudolf"]
+[Black "Matovic, Petar"]
+[Result "0-1"]
+[ECO "A53"]
+[WhiteElo "2405"]
+[BlackElo "2227"]
+[PlyCount "156"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Bf5 4. Nc3 c6 5. e3 Nbd7 6. Nh4 Be4 7. Be2 h6 8. Nxe4
+Nxe4 9. O-O e5 10. Nf3 Be7 11. Qc2 Ng5 12. Nxg5 hxg5 13. b4 Bf6 14. Bb2 Qc7 15.
+h3 g6 16. dxe5 Bxe5 17. f4 gxf4 18. exf4 Bxb2 19. Qxb2 O-O-O 20. a4 Rhe8 21.
+Bf3 Qb6+ 22. Kh1 a5 23. b5 Kc7 24. Qg7 Re7 25. c5 Nxc5 26. Rab1 cxb5 27. Rxb5
+Qa7 28. Qc3 b6 29. Rfb1 Rb8 30. Qf6 Kd7 31. Bg4+ Ne6 32. Rd5 Qc7 33. Rbd1 Rd8
+34. Qb2 Ke8 35. Be2 f5 36. Qf6 Kd7 37. Qxg6 Kc8 38. Qxf5 Kb8 39. Bf3 Nc5 40.
+Qb1 Ka7 41. Qc2 Re3 42. Rh5 d5 43. Rd4 Rd7 44. Rhxd5 Rxd5 45. Bxd5 Qg7 46. Rd1
+Qe7 47. Qf2 Nd3 48. Qf1 Qh4 49. Kg1 Nxf4 50. Bf3 Nd3 51. Be2 Nf4 52. Bf3 Nd3
+53. Bg4 Ne5 54. Bc8 Kb8 55. Be6 Nf3+ 56. Kh1 Rxe6 57. Qxf3 Re1+ 58. Rxe1 Qxe1+
+59. Kh2 Qe5+ 60. Kh1 Qa1+ 61. Kh2 Qe5+ 62. g3 Qb2+ 63. Kg1 Qd4+ 64. Kf1 Qxa4
+65. h4 Qc4+ 66. Ke1 Qc1+ 67. Ke2 Qc2+ 68. Kf1 a4 69. h5 Qc1+ 70. Ke2 a3 71.
+Qf8+ Kb7 72. h6 Qb2+ 73. Kf3 a2 74. Qg7+ Qxg7 75. hxg7 a1=Q 76. g8=Q Qf1+ 77.
+Kg4 b5 78. Kh5 Qh3+ 0-1
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.28"]
+[Round "8"]
+[White "Popov, Luben"]
+[Black "Sertic, Rudolf"]
+[Result "1/2-1/2"]
+[ECO "A57"]
+[WhiteElo "2300"]
+[BlackElo "2405"]
+[PlyCount "87"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. a4 b4 5. Nd2 e5 6. e4 d6 7. b3 g6 8. Bb2 Bg7 9.
+Ngf3 O-O 10. g3 Nh5 11. Bg2 f5 12. Qe2 f4 13. O-O-O Bh6 14. Ne1 Nf6 15. Nd3
+Nfd7 16. Bh3 Nb6 17. Bxc8 Qxc8 18. Kb1 a5 19. Bc1 Qd7 20. Nb2 Na6 21. f3 fxg3
+22. hxg3 Bg5 23. Nf1 Bxc1 24. Rxc1 Rf7 25. Qe3 Raf8 26. Nd2 Nc7 27. Rcg1 Ne8
+28. Kc2 Ng7 29. Kd1 Nh5 30. Kc2 Rf6 31. Kd1 Qg7 32. Kc2 R6f7 33. Nd1 Rb7 34.
+Nf2 Kh8 35. Rh4 Rff7 36. Rgh1 Qf8 37. R1h2 Rf6 38. Kc1 Rff7 39. Rg2 Rg7 40.
+Rgh2 Nc8 41. Nd3 Ne7 42. Ne1 Ng8 43. Kc2 Rbe7 44. Kc1 1/2-1/2
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.29"]
+[Round "9"]
+[White "Sertic, Rudolf"]
+[Black "Nestorovic, Nikola"]
+[Result "1-0"]
+[ECO "A58"]
+[WhiteElo "2405"]
+[BlackElo "2422"]
+[PlyCount "77"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. g3 Bxa6 7. Bg2 d6 8. b3
+Bg7 9. Bb2 O-O 10. Nh3 Nbd7 11. O-O Qb6 12. Bc3 Ra7 13. Nf4 Rfa8 14. h4 h5 15.
+Qc2 Ne5 16. Nd2 Nfg4 17. Ne4 Bc8 18. Ng5 Ra3 19. Be4 f5 20. Nxg6 Nxg6 21. Bxf5
+Bxc3 22. Bxc8 Kg7 23. Qxc3+ Nf6 24. Bf5 Rxa2 25. Rxa2 Rxa2 26. Bxg6 Kxg6 27.
+Qe3 Qb7 28. Rd1 Ra8 29. Kg2 Kg7 30. Qe6 Rf8 31. Rd3 Ng8 32. Qe4 Nf6 33. Ne6+
+Kf7 34. Rf3 Rh8 35. Ng5+ Kg7 36. Qe6 Rf8 37. Rf5 Kg6 38. Nh3 Kg7 39. Nf4 1-0
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.30"]
+[Round "10"]
+[White "Abramovic, Bosko"]
+[Black "Kosanovic, Goran A"]
+[Result "1-0"]
+[ECO "A44"]
+[WhiteElo "2488"]
+[BlackElo "2393"]
+[PlyCount "101"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 c5 2. d5 e5 3. c4 d6 4. e4 Be7 5. Nf3 Bg4 6. Nbd2 Nd7 7. Be2 Ngf6 8. O-O
+O-O 9. Ne1 Bxe2 10. Qxe2 g6 11. Nd3 Nh5 12. g3 Ng7 13. f4 f6 14. Nf3 Rf7 15. g4
+Qc7 16. Bd2 exf4 17. Nxf4 Ne5 18. h3 Qd7 19. Rf2 Raf8 20. Bc3 a6 21. Raf1 b5
+22. b3 Bd8 23. Ng2 Qe8 24. Nd2 bxc4 25. Bxe5 Qxe5 26. Nxc4 Qe7 27. Qd3 Re8 28.
+Re1 Qd7 29. Ree2 Bc7 30. Nf4 Rfe7 31. Qf3 Rf7 32. h4 Rff8 33. h5 g5 34. Ng2 h6
+35. Nge3 a5 36. Nf5 Kh7 37. Qd3 Nxf5 38. exf5 a4 39. Re6 axb3 40. axb3 Rb8 41.
+Rfe2 Rf7 42. Qe3 Qb5 43. Re7 Rbf8 44. Qc3 Kg8 45. R2e6 Bb8 46. Qe3 Qa6 47. Rxf7
+Kxf7 48. Re7+ Kg8 49. Qe6+ Kh8 50. Qd7 Qa1+ 51. Kg2 1-0
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.31"]
+[Round "11"]
+[White "Mrkonjic, Nenad"]
+[Black "Manik, Mikulas"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2394"]
+[BlackElo "2453"]
+[PlyCount "42"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 b6 4. h3 Bb7 5. e3 Be7 6. Be2 O-O 7. O-O d6 8. c4 c5
+9. Bh2 d5 10. Nc3 Nc6 11. cxd5 Nxd5 12. dxc5 Nxc3 13. bxc3 Bxc5 14. Nd4 Na5 15.
+Bf3 Bxd4 16. cxd4 Bxf3 17. Qxf3 Qd5 18. Qe2 Rfc8 19. Rfc1 Rc6 20. Rxc6 Qxc6 21.
+Be5 f6 1/2-1/2
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.07.31"]
+[Round "11"]
+[White "Sertic, Rudolf"]
+[Black "Abramovic, Bosko"]
+[Result "1-0"]
+[ECO "A15"]
+[WhiteElo "2405"]
+[BlackElo "2488"]
+[PlyCount "75"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 e5 5. O-O d6 6. Nc3 Be7 7. e3 O-O 8. d4
+Nbd7 9. Qc2 a6 10. Rd1 Qb8 11. b3 b5 12. a3 Rc8 13. Rb1 Bf8 14. Bb2 g6 15. dxe5
+dxe5 16. Nd5 Nxd5 17. cxd5 f6 18. Bh3 Rd8 19. Be6+ Kg7 20. b4 Bd6 21. e4 Nf8
+22. Bh3 Bc8 23. Bg2 Nd7 24. Nd2 Nb6 25. Rf1 a5 26. bxa5 Rxa5 27. f4 Qa7 28. Kh1
+Bd7 29. fxe5 fxe5 30. Nb3 Ra4 31. Qd2 Nc4 32. Qg5 Qb8 33. Qf6+ Kg8 34. Qf7+ Kh8
+35. Rf4 Nxb2 36. Rh4 h5 37. Qxg6 Bg4 38. Qxg4 1-0
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.08.02"]
+[Round "13"]
+[White "Kosic, Dragan"]
+[Black "Vujacic, Borivoje"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2516"]
+[BlackElo "2319"]
+[PlyCount "59"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. e3 b6 6. c3 Bb7 7. Be2 O-O 8. O-O
+d6 9. a4 Nc6 10. Re1 h6 11. Bh4 Qc7 12. h3 Rfe8 13. Bb5 a6 14. Bf1 Rab8 15. Qb3
+cxd4 16. cxd4 Rec8 17. Rac1 Qd8 18. Bg3 Na5 19. Qa3 Rxc1 20. Rxc1 Rc8 21. b4
+Nc6 22. Rb1 Nb8 23. Bd3 Qc7 24. Nc4 Ne4 25. Bf4 Nd7 26. Nfd2 Nxd2 27. Nxd2 Qc3
+28. Qxc3 Rxc3 29. Bf1 Bf8 30. Bg3 1/2-1/2
+
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "2008.08.02"]
+[Round "13"]
+[White "Matovic, Petar"]
+[Black "Manik, Mikulas"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2227"]
+[BlackElo "2453"]
+[PlyCount "7"]
+[EventDate "2008.07.23"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d6 2. Nf3 Nf6 3. Bg5 Nbd7 4. Nbd2 1/2-1/2
+
+[Event "WchT Schools 4th"]
+[Site "Singapore"]
+[Date "2008.07.23"]
+[Round "1.1"]
+[White "Gara, Tinotenda"]
+[Black "Cori Tello, Jorge"]
+[Result "0-1"]
+[ECO "A05"]
+[BlackElo "2381"]
+[PlyCount "35"]
+[EventDate "2008.07.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. e3 d6 6. Ng5 h6 7. Nf3 e5 8. d3
+Nc6 9. e4 Be6 10. Nc3 Nd7 11. Bd2 Bg4 12. a4 Nd4 13. b4 a5 14. h3 Bxf3 15. Bxf3
+axb4 16. Ne2 Nxf3+ 17. Kg2 Nxd2 18. Qxd2 0-1
+
+[Event "WchT Schools 4th"]
+[Site "Singapore"]
+[Date "2008.07.23"]
+[Round "1.1"]
+[White "Rezon, Yanuar"]
+[Black "Chan, Yi Ren Daniel"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[BlackElo "2245"]
+[PlyCount "54"]
+[EventDate "2008.07.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c3 Bg7 4. Bg5 O-O 5. Nbd2 d6 6. e4 Qe8 7. Be2 e5 8. Qc2
+h6 9. Bh4 Nh5 10. Bg3 Nc6 11. dxe5 dxe5 12. Nc4 Be6 13. Nfd2 Nxg3 14. hxg3 a6
+15. Ne3 b5 16. Bg4 b4 17. Bxe6 Qxe6 18. Nd5 bxc3 19. bxc3 Rac8 20. Qa4 Nd8 21.
+Qc4 Re8 22. Rb1 f5 23. exf5 gxf5 24. Ne3 Rf8 25. g4 fxg4 26. Nxg4 Kh7 27. Qxe6
+Nxe6 1/2-1/2
+
+[Event "WchT Schools 4th"]
+[Site "Singapore"]
+[Date "2008.07.23"]
+[Round "1.2"]
+[White "Chua Xing Jian, Graham"]
+[Black "Iskandar, Bin Abdullah"]
+[Result "1-0"]
+[ECO "A24"]
+[WhiteElo "2276"]
+[PlyCount "73"]
+[EventDate "2008.07.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 d6 5. d3 Nbd7 6. e4 e5 7. Nge2 O-O 8. O-O
+c6 9. Kh1 a6 10. f4 b5 11. Be3 Ng4 12. Bg1 b4 13. Na4 c5 14. h3 Ngf6 15. g4 Rb8
+16. f5 g5 17. Qd2 h6 18. Bf3 Nb6 19. Nxb6 Rxb6 20. Be3 Rb8 21. Kg2 Bb7 22. Rh1
+Nh7 23. Ng3 f6 24. h4 Kf7 25. Bd1 Bc6 26. Nh5 Rh8 27. Bf3 Qe7 28. Rh2 Ra8 29.
+Rah1 Rab8 30. Rh3 Ra8 31. Kf1 Raf8 32. Qh2 Qd8 33. Nxg7 Kxg7 34. hxg5 fxg5 35.
+Rxh6 Nf6 36. Bxg5 Rxh6 37. Qxh6+ 1-0
+
+[Event "WchT Schools 4th"]
+[Site "Singapore"]
+[Date "2008.07.23"]
+[Round "1.4"]
+[White "Anand Reddy, KS."]
+[Black "Chillakanti, Mukund"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2057"]
+[PlyCount "97"]
+[EventDate "2008.07.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. d3 Be7 6. Nbd2 O-O 7. e4 d6 8. a4
+a6 9. Nc4 Nbd7 10. Qe2 c5 11. Bf4 Ne8 12. Bd2 Bf6 13. Rfe1 d5 14. exd5 Bxd5 15.
+c3 Be7 16. h4 Nd6 17. Nxd6 Bxd6 18. Ng5 Bxg2 19. Kxg2 Nf6 20. Be3 Qc7 21. Ne4
+Qc6 22. Qf3 Nxe4 23. Qxe4 Qxe4+ 24. dxe4 Rfd8 25. Red1 Be7 26. Kf3 Rxd1 27.
+Rxd1 Rd8 28. Rxd8+ Bxd8 29. a5 b5 30. Bxc5 Bxa5 31. Ke3 f6 32. Kd4 Kf7 33. Ba7
+Ke7 34. Kc5 Bc7 35. Kc6 Be5 36. f4 Bd6 37. Bc5 Bxc5 38. Kxc5 Kd7 39. Kb6 Kd6
+40. Kxa6 Kc5 41. b4+ Kc4 42. Kb6 e5 43. Kc6 g6 44. Kb6 h6 45. Kc6 exf4 46. gxf4
+g5 47. hxg5 hxg5 48. fxg5 fxg5 49. e5 1-0
+
+[Event "WchT Schools 4th"]
+[Site "Singapore"]
+[Date "2008.07.23"]
+[Round "1.5"]
+[White "Matika, Tafadzwa"]
+[Black "Tan, Weiliang"]
+[Result "0-1"]
+[ECO "A26"]
+[BlackElo "2038"]
+[PlyCount "46"]
+[EventDate "2008.07.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. g3 Bg7 5. Bg2 d6 6. d3 Nge7 7. O-O O-O 8. Bd2
+h6 9. Rb1 a5 10. a3 Be6 11. Qc1 Kh7 12. b4 axb4 13. axb4 Qd7 14. b5 Nd8 15. Ne4
+f5 16. Nc3 g5 17. e3 g4 18. Nh4 Bf6 19. Nxf5 Nxf5 20. e4 Nd4 21. Bxh6 Kg8 22.
+Be3 Nf3+ 23. Kh1 Qf7 0-1
+
+[Event "WchT Schools 4th"]
+[Site "Singapore"]
+[Date "2008.07.23"]
+[Round "1.5"]
+[White "Mazarura, Grace"]
+[Black "Fam, Jia En Victoria"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "60"]
+[EventDate "2008.07.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e3 e5 2. Qf3 d5 3. Be2 Nf6 4. Bb5+ c6 5. Bf1 Bg4 6. Qg3 Bd6 7. Ne2 e4 8. Qh4
+O-O 9. h3 Be6 10. f3 exf3 11. gxf3 Nbd7 12. Qf2 Re8 13. h4 g6 14. d4 Bf5 15.
+Ng3 Be6 16. h5 Qc7 17. hxg6 Bxg3 18. gxh7+ Nxh7 19. Bd3 Bxf2+ 20. Kxf2 f5 21.
+f4 Ndf6 22. Bd2 Ng4+ 23. Ke2 Bf7 24. Na3 Qxf4 25. Rh3 Qf2+ 26. Kd1 Qg1+ 27. Be1
+Nf2+ 28. Ke2 Nxh3 29. Rb1 Qxe3+ 30. Kf1 Qg1# 0-1
+
+[Event "WchT Schools 4th"]
+[Site "Singapore"]
+[Date "2008.07.23"]
+[Round "1.6"]
+[White "Choi, Dennis Heok"]
+[Black "Sim Zun, De Kai"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "21"]
+[EventDate "2008.07.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e3 c5 2. Bd3 d6 3. Nf3 Nc6 4. O-O Nf6 5. Nc3 b6 6. e4 Bb7 7. Nd5 Nxd5 8.
+exd5 Nb4 9. c4 Nxd3 10. Re1 Nxe1 11. Qxe1 0-1
+
+[Event "WchT Schools 4th"]
+[Site "Singapore"]
+[Date "2008.07.23"]
+[Round "1.7"]
+[White "Lee, Hai Wen"]
+[Black "Supriya, Joshi"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[BlackElo "1765"]
+[PlyCount "49"]
+[EventDate "2008.07.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. e3 g6 3. Bd3 Bg7 4. f4 d6 5. Nf3 Nbd7 6. c3 O-O 7. O-O Qe8 8. Re1
+e5 9. e4 exf4 10. Bxf4 Nh5 11. Qc1 b6 12. Bh6 Bb7 13. Bxg7 Kxg7 14. Qe3 Qe7 15.
+Nbd2 Rae8 16. Qg5 h6 17. Qb5 a6 18. Qa4 Nf4 19. Bf1 c5 20. e5 b5 21. Qb3 c4 22.
+Qc2 d5 23. Re3 Bc8 24. g3 Nh5 25. Bh3 1/2-1/2
+
+[Event "WchT Schools 4th"]
+[Site "Singapore"]
+[Date "2008.07.23"]
+[Round "1.7"]
+[White "Nicolas, Rahman"]
+[Black "Al Marzouqi, Abdulla M"]
+[Result "1-0"]
+[ECO "A45"]
+[BlackElo "1950"]
+[PlyCount "119"]
+[EventDate "2008.07.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bg5 g6 3. e3 Bg7 4. Bd3 O-O 5. f4 d6 6. Nf3 c5 7. c3 Nc6 8. O-O
+Re8 9. Nbd2 Bg4 10. h3 Bxf3 11. Nxf3 e5 12. fxe5 dxe5 13. Bb5 exd4 14. exd4 Qd5
+15. c4 Qf5 16. d5 Red8 17. g4 Nxg4 18. Bxd8 Ne3 19. Qe2 Nxf1 20. Rxf1 Nxd8 21.
+Qe8+ Bf8 22. Ne5 Qxh3 23. Rf3 Qh5 24. Kf2 Qh4+ 25. Kg2 Qe7 26. Nxf7 Qxe8 27.
+Bxe8 Bg7 28. d6 Nxf7 29. Bxf7+ Kh8 30. d7 Rd8 31. Re3 Rxd7 32. Re8+ Bf8 33.
+Rxf8+ Kg7 34. Be6 Re7 35. Rg8+ Kf6 36. Bd5 Re2+ 37. Kf3 Rxb2 38. a4 Rb3+ 39.
+Kf4 Rb4 40. Rf8+ Kg7 41. Rf7+ Kh6 42. Rxb7 g5+ 43. Kg4 Rxb7 44. Bxb7 Kg6 45.
+Be4+ Kf6 46. Bxh7 Ke5 47. Kxg5 Kd4 48. Bg8 Kc3 49. Kf5 Kb4 50. Ke5 Kxa4 51. Kd5
+Kb4 52. Bh7 Kb3 53. Kxc5 a5 54. Kb5 a4 55. c5 a3 56. c6 Kb2 57. Bg8 Kb1 58. c7
+Kb2 59. c8=Q Kb1 60. Bh7+ 1-0
+
+[Event "WchT Schools 4th"]
+[Site "Singapore"]
+[Date "2008.07.23"]
+[Round "1.8"]
+[White "Devansh, Doshi"]
+[Black "Wang, Quanli"]
+[Result "1-0"]
+[ECO "A20"]
+[PlyCount "33"]
+[EventDate "2008.07.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. e3 Nf6 3. a3 Nc6 4. Qc2 Bc5 5. d3 O-O 6. b4 d6 7. bxc5 dxc5 8. Bb2

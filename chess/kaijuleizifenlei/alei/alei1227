@@ -1,0 +1,600 @@
+[WhiteElo "2147"]
+[BlackElo "2349"]
+[PlyCount "68"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 Nc6 5. d3 e5 6. Rb1 a5 7. a3 Nf6 8. b4 axb4
+9. axb4 O-O 10. b5 Ne7 11. Nf3 Bg4 12. h3 Bd7 13. O-O Nh5 14. e4 Qe8 15. Qb3
+Kh8 16. Nd5 Nxd5 17. cxd5 Ra5 18. b6 Rb5 19. Qc2 Rxb1 20. Qxb1 c5 21. dxc6 Bxc6
+22. Ba3 Qd7 23. Qb4 Rd8 24. Bb2 f5 25. Kh2 Bf6 26. h4 Bg7 27. Ng5 h6 28. Nf3
+Nf6 29. Nd2 d5 30. exf5 gxf5 31. Bh3 Ng4+ 32. Kg1 Bf6 33. Re1 d4 34. Nc4 Qd5
+0-1
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.19"]
+[Round "1"]
+[White "Mazalon, Mariusz"]
+[Black "Leniart, Arkadiusz"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2148"]
+[BlackElo "2391"]
+[PlyCount "0"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+ 0-1
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.19"]
+[Round "1"]
+[White "Panocki, Adrian"]
+[Black "Lukasiewicz, Anna"]
+[Result "1-0"]
+[ECO "A26"]
+[WhiteElo "2338"]
+[BlackElo "2129"]
+[PlyCount "79"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 e5 7. d3 Nc6 8. Rb1
+Be6 9. b4 Qc8 10. b5 Ne7 11. Re1 h6 12. a4 Nd7 13. Nd2 Nc5 14. Ba3 Bh3 15. Bh1
+Nf5 16. Bxc5 dxc5 17. Nb3 b6 18. Bxa8 Qxa8 19. Nd5 Qd8 20. a5 Nd6 21. e4 f5 22.
+axb6 axb6 23. Nd2 Qd7 24. Ra1 Qf7 25. f3 fxe4 26. dxe4 Be6 27. Ra7 Bxd5 28.
+exd5 e4 29. fxe4 Nxe4 30. Nxe4 Qd7 31. d6 Qh3 32. Rxc7 Bd4+ 33. Kh1 Qe6 34. Qe2
+Ra8 35. Kg2 Ra1 36. Nf6+ Qxf6 37. Qe8+ Qf8 38. d7 Ra2+ 39. Kh3 Bf6 40. d8=Q 1-0
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.19"]
+[Round "1"]
+[White "Praszak, Michal"]
+[Black "Golek, Jagoda"]
+[Result "0-1"]
+[ECO "A90"]
+[WhiteElo "2235"]
+[BlackElo "2023"]
+[PlyCount "47"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 5. Nh3 c6 6. Nd2 Bd6 7. O-O O-O 8. Qc2
+Qe8 9. Nf3 Ne4 10. Bf4 Nd7 11. Bxd6 Nxd6 12. Nf4 Nxc4 13. Nd3 Nf6 14. b3 Nd6
+15. Nfe5 Qe7 16. f3 Bd7 17. a4 Be8 18. Qc5 Qc7 19. Rac1 Bd7 20. e3 Rac8 21. Rf2
+Be8 22. Qb4 a5 23. Qa3 Rd8 24. h3 0-1
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.19"]
+[Round "1"]
+[White "Swiech, Przemyslaw"]
+[Black "Tokarski, Lukasz"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2027"]
+[BlackElo "2238"]
+[PlyCount "64"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nd2 bxc4 5. e4 c3 6. bxc3 g6 7. c4 d6 8. Bb2 Bg7
+9. f4 O-O 10. Ngf3 Qa5 11. e5 Ng4 12. Bd3 dxe5 13. Nxe5 Nxe5 14. fxe5 Nd7 15.
+Qe2 Rb8 16. Rb1 Rxb2 17. Rxb2 Nxe5 18. Rb5 Qc3 19. Be4 Bg4 20. Bf3 Nd3+ 21. Kf1
+Qc1+ 22. Qd1 Qxd1+ 23. Bxd1 Bxd1 24. g3 Bh6 25. Kg2 Bg4 26. Nb3 Bf5 27. Rf1
+Be4+ 28. Kh3 Be3 29. g4 f5 30. gxf5 gxf5 31. Rb7 Rf6 32. Rxe7 Nf4+ 0-1
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.20"]
+[Round "2"]
+[White "Bebel, Arkadiusz"]
+[Black "Sieciechowicz, Marcin"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2187"]
+[BlackElo "2311"]
+[PlyCount "63"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bf5 5. d3 e6 6. Nbd2 Be7 7. c4 O-O 8. b3
+a5 9. a3 Nbd7 10. Bb2 Bg6 11. Rc1 Rc8 12. h3 b5 13. cxb5 cxb5 14. Rxc8 Qxc8 15.
+Qa1 Qb7 16. Rc1 Rc8 17. Rxc8+ Qxc8 18. Qc1 Qb7 19. Nh4 Nc5 20. Qc3 b4 21. axb4
+axb4 22. Qc1 Nfd7 23. Nxg6 hxg6 24. Qc2 Nb6 25. Bd4 Ncd7 26. Bxb6 Nxb6 27. d4
+Bf6 28. Nf3 Nc8 29. e3 Nd6 30. Bf1 Ne4 31. Nd2 Nc3 32. Nb1 1/2-1/2
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.20"]
+[Round "2"]
+[White "Labedz, Patrycja"]
+[Black "Mazalon, Mariusz"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1949"]
+[BlackElo "2148"]
+[PlyCount "0"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+ 1-0
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.20"]
+[Round "2"]
+[White "Markowski, Piotr"]
+[Black "Barburzynska, Magdalena"]
+[Result "1-0"]
+[ECO "A27"]
+[WhiteElo "2119"]
+[BlackElo "1887"]
+[PlyCount "99"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 f6 7. Bf4 d6 8. Nxd4
+Nge7 9. Nb5 Nxd5 10. cxd5 a6 11. e3 Ne5 12. Nd4 O-O 13. Be2 Bd7 14. O-O Kh8 15.
+Rc1 b6 16. Qc2 Ra7 17. Bg3 Qa8 18. Qb3 Re8 19. Rc2 b5 20. Rfc1 Qb8 21. Bxe5
+Rxe5 22. Nc6 Bxc6 23. Rxc6 Qd8 24. Bf3 f5 25. Qa3 a5 26. h3 h6 27. b4 a4 28.
+Qd3 Qb8 29. Be2 Re4 30. a3 Rb7 31. R1c2 Qd8 32. Bf3 Re8 33. Ra6 Qf6 34. Qd1 Qe5
+35. Rac6 Rc8 36. Qc1 Qe7 37. e4 Kh7 38. Re2 Be5 39. exf5 gxf5 40. Qc2 Qf6 41.
+Bg4 Qg6 42. f4 Bd4+ 43. Kh1 Kg7 44. Re6 Qf7 45. Bxf5 Re8 46. Rg6+ Kf8 47. Be6
+Qxf4 48. Rg8+ Ke7 49. Qh7+ Kd8 50. Qd7# 1-0
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.20"]
+[Round "2"]
+[White "Nowak, Malgorzata"]
+[Black "Praszak, Michal"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2052"]
+[BlackElo "2235"]
+[PlyCount "108"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c6 2. c4 b5 3. cxb5 cxb5 4. e4 Bb7 5. Nd2 Qb6 6. Ngf3 Nf6 7. Bd3 e6 8.
+Qe2 a6 9. a3 Be7 10. O-O d6 11. b4 Nbd7 12. Nb3 O-O 13. Na5 Rac8 14. Nxb7 Qxb7
+15. a4 d5 16. exd5 Nxd5 17. axb5 axb5 18. Bd2 Bxb4 19. Rab1 Bxd2 20. Rxb5 Qc7
+21. Qxd2 Qc3 22. Qxc3 Rxc3 23. Rd1 Rfc8 24. g3 g6 25. Kg2 R8c7 26. Ne5 Nxe5 27.
+dxe5 R3c5 28. Rd2 Kg7 29. Rbb2 Nc3 30. Rbc2 Ra5 31. f4 Ra3 32. Be2 Rca7 33. Bf3
+Nb1 34. Re2 Rd7 35. Rb2 Nc3 36. Red2 Rc7 37. Rb7 Ra7 38. Rxc7 Rxc7 39. Rc2 Kf8
+40. Kf2 Ke7 41. Ke1 Kd7 42. Kd2 Nb5 43. Rxc7+ Kxc7 44. Kd3 Kb6 45. Kc4 Na3+ 46.
+Kb3 Nb5 47. Kc4 Nc7 48. Be4 h5 49. Bf3 Nb5 50. Be4 Na3+ 51. Kb4 Nb5 52. Kc4
+Na3+ 53. Kb4 Nb5 54. Kc4 Na3+ 1/2-1/2
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.20"]
+[Round "2"]
+[White "Przezdziecka, Ewa"]
+[Black "Raszkiewicz, Agnieszka"]
+[Result "1-0"]
+[ECO "A44"]
+[WhiteElo "2096"]
+[BlackElo "1827"]
+[PlyCount "99"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Bb5+ Nd7 5. a4 a6 6. Bd3 Be7 7. Nf3 b6 8. Nc3
+Ngf6 9. O-O O-O 10. Be3 Re8 11. Nd2 Nf8 12. h3 N6d7 13. Nc4 Ng6 14. g3 Rb8 15.
+Kh2 Ndf8 16. Na3 Qd7 17. Qg4 Qd8 18. Qh5 Nd7 19. Qe2 Ndf8 20. Bxa6 Bxa6 21.
+Qxa6 h6 22. Qe2 Nh7 23. Nc4 Qd7 24. Qg4 Qb7 25. h4 Nf6 26. Qf5 Qc8 27. Qxc8
+Rexc8 28. f3 Rf8 29. Nb5 Ne8 30. h5 Nh8 31. g4 f6 32. Na7 Kf7 33. Rfb1 Nc7 34.
+Nb5 Na6 35. Ncxd6+ Bxd6 36. Nxd6+ Kg8 37. c3 Nf7 38. Nf5 Rb7 39. Rd1 Rd8 40. b3
+Nd6 41. Nxd6 Rxd6 42. Kg3 Kf7 43. Ra2 Ke7 44. f4 Kd7 45. fxe5 fxe5 46. Rf2 Rf6
+47. Rxf6 gxf6 48. Bxh6 Kd6 49. Bf8+ Kd7 50. h6 1-0
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.20"]
+[Round "2"]
+[White "Zysko, Jan"]
+[Black "Duda, Jan Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "A18"]
+[WhiteElo "2148"]
+[BlackElo "1939"]
+[PlyCount "107"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e6 2. Nc3 Nf6 3. e4 d5 4. e5 Nfd7 5. d4 dxc4 6. Bxc4 c5 7. Nf3 cxd4 8.
+Qxd4 Nc6 9. Qe4 Qa5 10. Bf4 Bb4 11. O-O Bxc3 12. bxc3 Qxc3 13. Bd2 Qa3 14. Qg4
+Qf8 15. Bb5 h5 16. Qa4 Ndb8 17. Bb4 Qg8 18. Rfd1 f6 19. exf6 gxf6 20. Bc3 Qg7
+21. Qf4 O-O 22. Qh4 Qg6 23. Rd3 Kf7 24. Rad1 Ne7 25. Nd4 Qg4 26. Qxg4 hxg4 27.
+h3 gxh3 28. Rxh3 Rg8 29. Re1 Nd5 30. Bb2 Rxg2+ 31. Kxg2 Nf4+ 32. Kg3 Nxh3 33.
+Rc1 Nc6 34. Bxc6 bxc6 35. Kxh3 e5+ 36. Kg3 exd4 37. Bxd4 Bd7 38. Rh1 Rg8+ 39.
+Kf4 Rg4+ 40. Ke3 a6 41. Rh7+ Ke6 42. Rh6 Kd5 43. Bxf6 Ra4 44. Rh5+ Ke6 45. Bc3
+Rxa2 46. Ra5 Rxa5 47. Bxa5 Kd5 48. Kd3 Bf5+ 49. Ke3 Kc5 50. Bd8 Kb5 51. Be7 Be6
+52. f4 c5 53. f5 Bxf5 54. Bxc5 1/2-1/2
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.21"]
+[Round "3"]
+[White "Betkowski, Andrzej"]
+[Black "Weichhold, Pawel"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2201"]
+[BlackElo "2022"]
+[PlyCount "49"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. d5 d6 5. f3 Nf6 6. e4 g6 7. Nc3 Bg7 8. Qd2
+O-O 9. Nge2 Re8 10. h4 e6 11. dxe6 Bxe6 12. Bxd6 Nc6 13. e5 Nd7 14. f4 f6 15.
+h5 fxe5 16. hxg6 hxg6 17. f5 Bxf5 18. Ng3 Nd4 19. Nce4 Nf6 20. Nxf5 Nxe4 21.
+Qxd4 Nxd6 22. Qxd6 Qxd6 23. Nxd6 Red8 24. Bc4+ Kf8 25. O-O-O 1-0
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.21"]
+[Round "3"]
+[White "Czaja, Wojciech"]
+[Black "Jaroch, Pawel"]
+[Result "0-1"]
+[ECO "A54"]
+[WhiteElo "2103"]
+[BlackElo "2255"]
+[PlyCount "102"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d6 2. c4 e5 3. e3 c6 4. Nc3 Nd7 5. Nf3 Ngf6 6. Bd3 g6 7. O-O Bg7 8. c5
+dxc5 9. Nxe5 cxd4 10. exd4 O-O 11. h3 Nb6 12. Ne2 Nbd5 13. a4 a5 14. Qb3 Qb6
+15. Bc4 Qxb3 16. Bxb3 Be6 17. Bc4 Nc7 18. b3 Rfd8 19. Bb2 Nd7 20. f4 f5 21.
+Rfe1 Nb6 22. Bxe6+ Nxe6 23. Rad1 Nd5 24. g3 Bxe5 25. dxe5 Ne3 26. Rd6 Rxd6 27.
+exd6 Kf7 28. Nd4 Nxd4 29. Bxd4 Nd5 30. Be5 Ke6 31. Kf2 Kd7 32. Kf3 Re8 33. Rd1
+g5 34. Rd3 h5 35. g4 hxg4+ 36. hxg4 fxg4+ 37. Kxg4 gxf4 38. Bxf4 Re4 39. Rf3
+Rxf4+ 40. Rxf4 Nxf4 41. Kxf4 Kxd6 42. Ke4 Kc5 43. Kd3 Kb4 44. Kc2 c5 45. Kb2 b6
+46. Ka2 c4 47. bxc4 Kxa4 48. c5 bxc5 49. Kb2 Kb4 50. Ka2 Kc3 51. Ka3 c4 0-1
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.21"]
+[Round "3"]
+[White "Gralka, Julian"]
+[Black "Heberla, Bartlomiej"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[WhiteElo "2268"]
+[BlackElo "2510"]
+[PlyCount "81"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 g6 2. c4 Bg7 3. e4 c5 4. d5 d6 5. Nf3 e6 6. Nc3 Ne7 7. Be2 O-O 8. O-O
+exd5 9. cxd5 Bg4 10. a4 Nd7 11. Nd2 Bxe2 12. Qxe2 f5 13. Nc4 Nb6 14. Bd2 Nxc4
+15. Qxc4 f4 16. f3 g5 17. g4 Ng6 18. Nd1 a6 19. Bc3 Ne5 20. Qe2 Qd7 21. Bxe5
+Bxe5 22. Nc3 b6 23. Kg2 Kg7 24. Ra3 h5 25. h3 hxg4 26. hxg4 Rh8 27. Raa1 Rh4
+28. Rh1 Rah8 29. Rxh4 Rxh4 30. Rh1 Rxh1 31. Kxh1 Qc8 32. Kg2 Kg6 33. Qf1 c4 34.
+Qh1 Qh8 35. Qxh8 Bxh8 36. Kf2 Bd4+ 37. Ke2 Kf6 38. Kd2 Ke5 39. Kc2 Bf2 40. Ne2
+Be1 41. b3 1/2-1/2
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.21"]
+[Round "3"]
+[White "Kocwin, Bartosz"]
+[Black "Owczarzak, Jerzy"]
+[Result "0-1"]
+[ECO "A12"]
+[WhiteElo "2245"]
+[BlackElo "2343"]
+[PlyCount "58"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 g6 4. e3 Bg7 5. c4 c6 6. Be2 O-O 7. O-O Nbd7 8. d4
+Ne4 9. Nc3 Nxc3 10. Bxc3 Nf6 11. Ne5 Ne4 12. Bb2 f6 13. Nd3 Re8 14. cxd5 cxd5
+15. Nf4 e6 16. Bd3 Bd7 17. f3 Nd6 18. e4 Bc6 19. Qe1 Bh6 20. exd5 exd5 21. Qg3
+f5 22. h4 Kf7 23. Rae1 Rxe1 24. Rxe1 Qa5 25. Re5 Qd2 26. Nxd5 Bxd5 27. Rxd5 Bf4
+28. Bc3 Qd1+ 29. Qe1 Qxd3 0-1
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.21"]
+[Round "3"]
+[White "Labedz, Patrycja"]
+[Black "Mucha, Roman"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[WhiteElo "1949"]
+[BlackElo "2160"]
+[PlyCount "103"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 g6 2. Nf3 Bg7 3. Bf4 f5 4. e3 Nf6 5. Bd3 O-O 6. Nbd2 b6 7. h3 Bb7 8. O-O
+Kh8 9. c3 d6 10. Qc2 e6 11. Bh2 d5 12. c4 c6 13. Ne5 Nfd7 14. Ndf3 Nxe5 15.
+Bxe5 Nd7 16. Bxg7+ Kxg7 17. Ne5 Nxe5 18. dxe5 Rc8 19. c5 Qc7 20. f4 Rcd8 21.
+Qc3 Qe7 22. b4 d4 23. exd4 Qd7 24. Bc4 Qxd4+ 25. Qxd4 Rxd4 26. Bxe6 Rfd8 27.
+cxb6 axb6 28. a3 c5 29. bxc5 bxc5 30. Rac1 Ba6 31. Rf2 c4 32. Rfc2 Rd1+ 33.
+Rxd1 Rxd1+ 34. Kf2 Rd4 35. g3 Kf8 36. Kg2 h6 37. Kf2 Ke7 38. Bg8 g5 39. Bh7 Bc8
+40. Kf3 Bb7+ 41. Ke3 Rd3+ 42. Kf2 Rf3+ 43. Ke1 Be4 44. Rxc4 Rxg3 45. Rc7+ Kd8
+46. Rf7 Re3+ 47. Kd2 gxf4 48. Bxf5 Bxf5 49. Rxf5 Rxa3 50. Rxf4 Rxh3 51. Rf7 Rh5
+52. Rh7 1/2-1/2
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.21"]
+[Round "3"]
+[White "Mickiewicz, Piotr"]
+[Black "Tokarski, Bartosz"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2347"]
+[BlackElo "2157"]
+[PlyCount "125"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 Nge7 8.
+Nc3 a6 9. Bxc6+ bxc6 10. e4 d4 11. Na4 O-O 12. c4 Ng6 13. c5 Be7 14. g3 Qd7 15.
+Qf5 Rad8 16. d3 Bf6 17. Qxd7 Rxd7 18. Ke2 Be7 19. h4 h5 20. Rac1 f5 21. Rc4
+fxe4 22. dxe4 Rb8 23. Bc1 Rb5 24. Bd2 Nf8 25. Nb2 Rd8 26. Nd3 Nd7 27. b4 Bf6
+28. f4 Re8 29. f5 Reb8 30. Kf3 Kf7 31. g4 hxg4+ 32. Kxg4 Rh8 33. Rcc1 Be7 34.
+Rh3 Rbb8 35. Rch1 Bf6 36. h5 Rhg8 37. Kf3 Rb5 38. h6 gxh6 39. Rxh6 a5 40. a3
+axb4 41. Bxb4 Rbb8 42. Rh7+ Rg7 43. Ke2 Rxh7 44. Rxh7+ Bg7 45. Rh1 Bf6 46. Rh7+
+Bg7 47. Kf3 Kg8 48. Rh1 Kf7 49. a4 Rb7 50. Ke2 Nb8 51. Bd2 Na6 52. Bg5 Rb3 53.
+f6 Bf8 54. Nxe5+ Ke6 55. Rh8 Kxe5 56. Rxf8 d3+ 57. Kd2 Nxc5 58. Re8+ Ne6 59. f7
+Rb2+ 60. Ke3 d2 61. Rxe6+ Kxe6 62. f8=Q d1=N+ 63. Kd4 1-0
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.21"]
+[Round "3"]
+[White "Przezdziecka, Ewa"]
+[Black "Kulon, Klaudia"]
+[Result "0-1"]
+[ECO "A84"]
+[WhiteElo "2096"]
+[BlackElo "2217"]
+[PlyCount "124"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 c6 3. c4 e6 4. e3 f5 5. Bd3 Nf6 6. O-O Bd6 7. b3 Qe7 8. a4 a5
+9. Ba3 b6 10. Bxd6 Qxd6 11. Na3 O-O 12. Qd2 Ne4 13. Qb2 Na6 14. Rac1 Nb4 15.
+Bb1 Ba6 16. Rfd1 Rac8 17. Ne5 Qe7 18. Nc2 Nxc2 19. Rxc2 Qb7 20. Rdc1 c5 21.
+cxd5 exd5 22. f3 Nd6 23. dxc5 bxc5 24. Rxc5 Nc4 25. Qd4 Rxc5 26. bxc4 Rc7 27.
+c5 Qb3 28. c6 Bc4 29. Nxc4 dxc4 30. Bc2 Qa3 31. Qxc4+ Kh8 32. Bd3 Rd8 33. Rc3
+Qa1+ 34. Kf2 Qd1 35. Bxf5 Rd2+ 36. Kg3 Qg1 37. Bh3 Qe1+ 38. Kg4 Rd6 39. f4 Qf2
+40. Qb5 Rg6+ 41. Kf5 Rf6+ 42. Ke4 Re7+ 43. Kd5 Rf8 44. Qb3 Rd8+ 45. Bd7 Qxg2+
+46. Kd6 Qg6+ 47. Kc7 Qe8 48. Qd5 Rc8+ 49. Kd6 Qd8 50. Qg5 Rxc6+ 51. Rxc6 Qxd7+
+52. Kc5 Rxe3 53. Rd6 Qc7+ 54. Kd4 Qc3+ 55. Kd5 Rd3+ 56. Ke6 Qc8+ 57. Kf7 Qg8+
+58. Ke7 Re3+ 59. Kd7 Qe8+ 60. Kc7 Rc3+ 61. Kb6 Qb8+ 62. Kxa5 Qxd6 0-1
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.21"]
+[Round "3"]
+[White "Scibior, Adam"]
+[Black "Majdan, Joanna"]
+[Result "1/2-1/2"]
+[ECO "A87"]
+[WhiteElo "2157"]
+[BlackElo "2323"]
+[PlyCount "138"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 f5 4. g3 Nf6 5. Bg2 O-O 6. O-O d6 7. Nc3 e6 8. Qc2
+Nc6 9. e4 fxe4 10. Nxe4 Nxe4 11. Qxe4 e5 12. dxe5 dxe5 13. Ng5 Qe7 14. Be3 Kh8
+15. Qh4 h6 16. Nf3 Qxh4 17. Nxh4 Rf6 18. Be4 g5 19. Ng6+ Kg8 20. Bxc6 Rxg6 21.
+Be4 Rd6 22. c5 Rf6 23. Rfd1 c6 24. b4 a5 25. a3 Bg4 26. Rdb1 Be2 27. bxa5 Rf7
+28. Rb2 Bb5 29. a4 Ba6 30. Rd1 Bf8 31. Rbd2 Bc4 32. Rd7 Rxa5 33. Rxf7 Kxf7 34.
+Rd7+ Ke6 35. Rxb7 Rxa4 36. Bxc6 Ra1+ 37. Kg2 g4 38. Bd7+ Kd5 39. Bb5 Ba2 40.
+Bd3 Ke6 41. Rb6+ Kf7 42. Bg6+ Ke7 43. Be4 Bc4 44. Rb1 Rxb1 45. Bxb1 Bd5+ 46.
+Kf1 Ke6 47. Bd3 Be7 48. Ba6 Kd7 49. Bb5+ Kc7 50. Ke2 Bf3+ 51. Kd3 h5 52. Be8 h4
+53. gxh4 Bxh4 54. Kc4 Be7 55. Kb4 Bd5 56. Kb5 Be4 57. c6 Bd3+ 58. Ka5 Bf5 59.
+Bb6+ Kc8 60. Bf7 Bd6 61. Bc4 e4 62. Ba6+ Kb8 63. Bd8 Be5 64. Kb6 Bd4+ 65. Kb5
+Bxf2 66. c7+ Ka7 67. c8=Q Bxc8 68. Bxc8 g3 69. hxg3 Bxg3 1/2-1/2
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.21"]
+[Round "3"]
+[White "Szwed, Jacek"]
+[Black "Bebel, Arkadiusz"]
+[Result "0-1"]
+[ECO "A53"]
+[WhiteElo "2319"]
+[BlackElo "2187"]
+[PlyCount "76"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d4 Nf6 3. f3 e5 4. Ne2 Be7 5. c4 c6 6. Nbc3 Nbd7 7. Be3 a6 8. d5 h5
+9. h4 cxd5 10. cxd5 g6 11. Qd2 Nh7 12. g3 b5 13. Nc1 f5 14. Nd3 O-O 15. Be2
+fxe4 16. Nxe4 Ndf6 17. Nxf6+ Nxf6 18. Nb4 Bb7 19. Rc1 Rc8 20. O-O Qd7 21. Kg2
+Bd8 22. Bg5 Bb6 23. Kh2 Kh7 24. Bd3 Rxc1 25. Rxc1 e4 26. Be2 Bc8 27. Bf1 a5 28.
+Nc6 exf3 29. Bxf6 Rxf6 30. Qc3 Rf8 31. Re1 Rf7 32. Re6 Bb7 33. Qd3 Rg7 34. Qxb5
+Bxc6 35. Qxc6 Qa7 36. Qxd6 Bc7 37. Qa6 Qf2+ 38. Kh1 Bxg3 0-1
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.21"]
+[Round "3"]
+[White "Wcislo, Damian"]
+[Black "Bartel, Michal"]
+[Result "1-0"]
+[ECO "A63"]
+[WhiteElo "2216"]
+[BlackElo "2266"]
+[PlyCount "81"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. g3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O a6 10. a4 Nbd7 11. Bf4 Qe7 12. h3 Rb8 13. e4 Nh5 14. Bg5 Bf6 15.
+Bxf6 Nhxf6 16. Re1 Re8 17. Bf1 Ne5 18. Nd2 g5 19. f4 gxf4 20. gxf4 Ng6 21. Qf3
+Kh8 22. Kh2 Rg8 23. Nc4 Nh4 24. Qf2 Nh5 25. e5 Rg3 26. Re3 Rxe3 27. Qxe3 Nf5
+28. Qf2 dxe5 29. d6 Nxd6 30. Qxc5 Nf5 31. Qa7 Qh4 32. Qxb8 Qxf4+ 33. Kg1 Qd4+
+34. Kh1 Qf2 35. Qxc8+ Kg7 36. Bg2 Nf4 37. Qxb7 e4 38. Ne3 Qxe3 39. Rg1 Kh6 40.
+Qc6+ Kh5 41. Nd5 1-0
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.22"]
+[Round "4"]
+[White "Golek, Jagoda"]
+[Black "Zakoscielna, Kinga"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[WhiteElo "2023"]
+[BlackElo "2125"]
+[PlyCount "52"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. c4 e5 4. Nc3 d6 5. d3 g6 6. g3 Bg7 7. Bg2 Nge7 8. O-O
+O-O 9. Nh4 f5 10. f4 Rb8 11. Be3 a6 12. Rc1 Be6 13. Qd2 b5 14. b3 Qd7 15. Nf3
+fxe4 16. Nxe4 Nf5 17. fxe5 Nxe3 18. Qxe3 Nxe5 19. Nxe5 Rxf1+ 20. Rxf1 Bxe5 21.
+Nxc5 Qa7 22. Re1 Bf5 23. Bd5+ Kh8 24. Kg2 Qxc5 25. Qxc5 dxc5 26. Rxe5 Bxd3
+1/2-1/2
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.22"]
+[Round "4"]
+[White "Heberla, Bartlomiej"]
+[Black "Wcislo, Damian"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "2510"]
+[BlackElo "2216"]
+[PlyCount "69"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 f5 4. Nc3 Nf6 5. d3 Bb4 6. Bd2 O-O 7. a3 Bxc3 8. Bxc3
+d6 9. b4 Kh8 10. Nf3 Qe8 11. Bb2 Qh5 12. d4 exd4 13. Nxd4 Ne5 14. Nb5 Qf7 15.
+c5 Nc4 16. Bxf6 Qxf6 17. Rc1 c6 18. Nc7 d5 19. Nxa8 Qe5 20. Qa4 Qb8 21. b5 Qxa8
+22. Rxc4 cxb5 23. Qxb5 dxc4 24. Qxc4 Qb8 25. O-O f4 26. gxf4 Qxf4 27. Qxf4 Rxf4
+28. Rb1 Rf7 29. c6 b6 30. Rd1 Rf8 31. c7 g6 32. Rd8 Kg7 33. h4 Kf7 34. Kh2 Ke7
+35. Rxf8 1-0
+
+[Event "Rubinstein Memorial op-A 40th"]
+[Site "Polanica Zdroj"]
+[Date "2008.08.22"]
+[Round "4"]
+[White "Markowski, Piotr"]
+[Black "Kania, Piotr"]
+[Result "0-1"]
+[ECO "A27"]
+[WhiteElo "2119"]
+[BlackElo "2242"]
+[PlyCount "72"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 f6 7. Bh4 Nh6 8.
+Nxd4 Nxd4 9. Qxd4 O-O 10. g4 c6 11. Nc3 Qa5 12. c5 b5 13. h3 f5 14. Qd3 b4 15.
+Nd1 Qxc5 16. e3 d5 17. Qd2 Bd7 18. Rc1 Qd6 19. Bg3 Qe7 20. g5 Nf7 21. h4 Be5

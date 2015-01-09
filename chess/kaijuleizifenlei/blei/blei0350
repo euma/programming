@@ -1,0 +1,600 @@
+[BlackElo "2523"]
+[Annotator "Ftacnik"]
+[PlyCount "63"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2
+Nbd7 9. g4 h6 10. O-O-O Bb7 11. h4 b4 12. Na4 Qa5 13. b3 Nc5 14. a3 Nxa4 15.
+axb4 Qc7 16. bxa4 Nd7 (16... d5 17. e5 Nd7 18. f4 Nb6 $13) 17. a5 (17. Kb2 d5
+18. exd5 Bxd5 19. c4 Bxb4 20. Qxb4 Bxf3 21. Bd3 Bxd1 22. Rxd1 Rb8 23. Nb5 Qe5+
+24. Kc2 axb5 25. Ba7 bxc4 26. Bxb8 cxd3+ {0-1 Kadziolka,B (2295)-Parligras,M 
+(2553)/Bad Wiessee 2007}) 17... Ne5 $5 {Kanep comes up with a fresh idea in a
+much discussed position.} (17... d5 18. Bf4 e5 19. Bg3 dxe4 20. Nf5 g6 (20...
+exf3 21. Bc4 Rd8 22. Rhe1 Be7 23. Qc3 Kf8 24. Nxe7 Kxe7 25. Bxe5 Nxe5 26. Qxe5+
+Qxe5 27. Rxe5+ Kf6 28. Rf5+ Kg6 29. Bd3 h5 30. Rd5+ {1-0 Kulaots,K (2514)
+-Hracek,Z (2584)/Istanbul 2003}) 21. Ne3 exf3 22. Bc4 Nf6 23. Rhe1 f2 24. Qxf2
+Ne4 25. Bxe5 Nxf2 26. Bxc7 Nxd1 27. Nd5+ Kd7 {1/2 Kovchan,A (2536)-Kulaots,K 
+(2513)/Kharkov 2003 (51)}) 18. b5 (18. Bf4 $5) 18... d5 (18... axb5 19. Bf4 $1
+(19. Bxb5+ Ke7 20. Bf4 Rxa5 $14) 19... Qxa5 (19... Rxa5 $2 20. Nxb5 Qb6 21.
+Bxe5 Rxb5 22. Bxb5+ Qxb5 23. Bxd6 $18) 20. Qxa5 Rxa5 21. Bxb5+ Ke7 22. Kb2 Nxf3
+23. Bxd6+ Kxd6 24. Nb3+ Ke5 25. Nxa5 Bxe4 $13) 19. b6 Ba3+ $2 {A terrible
+mistake typical of players fighting with their emotions. The bishop will be
+exposed on a3 and the white king feels safer on the b1-square.} (19... Qd7 $1
+20. exd5 (20. Bf4 Qa4 21. Kb1 Bb4 22. Qe3 Nc4 $13) 20... Qa4 (20... Bxd5 21.
+Kb2 Qa4 22. Ra1 Nc4+ 23. Bxc4 Qxc4 24. Rhe1 $14) 21. Nb3 Nxf3 22. Qf2 Qa2 23.
+Qxf3 Rc8 24. Bd3 Bxd5 25. b7 Ba3+ 26. Kd2 Bb4+ 27. Kc1 Ba3+ $11) 20. Kb1 Qe7
+21. Bf4 Ng6 (21... f6 22. exd5 Bxd5 23. Nf5 Qb7 24. Qd4 Bxf3 25. Qa4+ $16) 22.
+Bc7 $1 Nxh4 {Black did not want to provoke his dangerous opponent, but was
+rather choosing between depressing options.} (22... dxe4 23. fxe4 Nxh4 (23...
+Bxe4 24. Rh3 O-O 25. h5 $16) 24. Qc3 Ng6 25. Bxa6 $1 Rxa6 26. Nc6 $18) (22...
+O-O 23. h5 Nh8 24. exd5 Bxd5 25. c4 Bb7 26. Bd3 $16) (22... Bb4 23. c3 Bxa5 24.
+Nb3 Qa3 25. Qb2 $18) 23. Qc3 Bb4 (23... Ng6 24. exd5 Bxd5 25. Nf5 Qc5 26. Qxc5
+Bxc5 27. Rxd5 exd5 28. b7 $18) 24. Qb3 Bc5 25. exd5 Bxd5 (25... O-O 26. Bc4 $16
+) 26. Bc4 {The opening of the position comes at a truly unsuitable moment; the
+defender is ill prepared for any clash.} Bb7 (26... Bxc4 27. Qxc4 O-O 28. Nc6
+Qg5 29. f4 Qxg4 30. Qxc5 $18) 27. Nxe6 (27. Qa4+ Kf8 28. Nb3 $18) 27... fxe6
+28. Rhe1 {Yemelin did not have to think twice about breaking through. Black's
+opening concept has failed spectaculary..} Kf8 (28... Bc8 29. Bxe6 Bxe6 30.
+Rxe6 $18) 29. Rxe6 Qg5 30. Re5 Nxf3 31. Rxg5 hxg5 32. Bd5 (32. Qd3 Rh6 33. Qf5+
+$18) 1-0
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.06"]
+[Round "1"]
+[White "Korchagina, Victoria"]
+[Black "Khukhashvili, Sopiko"]
+[Result "0-1"]
+[ECO "B89"]
+[WhiteElo "2182"]
+[BlackElo "2387"]
+[PlyCount "72"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Bb3
+Qc7 9. Qe2 Na5 10. O-O-O b5 11. Kb1 Nxb3 12. axb3 b4 13. Na2 Rb8 14. f3 Be7 15.
+g4 Nd7 16. h4 Nc5 17. g5 g6 18. Qd2 a5 19. h5 Bd7 20. hxg6 fxg6 21. Ne2 a4 22.
+Nxb4 axb3 23. Qc3 bxc2+ 24. Nxc2 Rf8 25. Rxh7 Ba4 26. Bxc5 Qxc5 27. Qxc5 dxc5
+28. f4 Bc6 29. Re1 Rb7 30. Rg7 Bxe4 31. Ng3 Bd3 32. Ne4 Rb6 33. Nc3 Rd6 34. Ne4
+Ra6 35. Re3 Rxf4 36. Rxd3 Rf1+ 0-1
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.07"]
+[Round "2"]
+[White "Daulyte, Deimante"]
+[Black "Skinke, Katrina"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2251"]
+[BlackElo "2180"]
+[PlyCount "49"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Nbd7 5. h3 Bg7 6. Qd2 c6 7. f4 Qa5 8. Nf3
+b5 9. Bd3 Bb7 10. O-O O-O 11. a3 Qc7 12. e5 Ne8 13. e6 fxe6 14. Ng5 Qc8 15.
+Nxe6 Rf6 16. f5 Rxe6 17. fxe6 Ndf6 18. Rad1 Nc7 19. Bh6 Bh8 20. Qg5 Qe8 21. h4
+Bc8 22. h5 Nxh5 23. Rf8+ Qxf8 24. Bxf8 Bxd4+ 25. Kh1 1-0
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.08"]
+[Round "3"]
+[White "Korchagina, Victoria"]
+[Black "Daulyte, Deimante"]
+[Result "1-0"]
+[ECO "B78"]
+[WhiteElo "2182"]
+[BlackElo "2251"]
+[PlyCount "75"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Nxd4 12. Bxd4 b5 13. Nd5 Nxd5 14. Bxg7
+Kxg7 15. Qxd5 a5 16. a3 Kg8 17. Qd4 Be6 18. Bxe6 fxe6 19. h4 Rc4 20. Qd3 Qc7
+21. h5 Rc8 22. hxg6 Rxc2+ 23. Kb1 Qc5 24. f4 h5 25. Qh3 Qc4 26. Ka1 Rc5 27. e5
+Rxb2 28. Kxb2 b4 29. Qb3 Qe2+ 30. Ka1 d5 31. Rc1 Rc4 32. Rhe1 Qd2 33. Qb2 Qd3
+34. Red1 Qe3 35. Rxc4 dxc4 36. axb4 c3 37. Qb3 Kg7 38. Qxe6 1-0
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.08"]
+[Round "3"]
+[White "Skinke, Katrina"]
+[Black "Gaponenko, Inna"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[WhiteElo "2180"]
+[BlackElo "2422"]
+[PlyCount "22"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. f3 Nxd4 10. Bxd4 Be6 11. O-O Bxb3 1/2-1/2
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.09"]
+[Round "4"]
+[White "Daulyte, Deimante"]
+[Black "Khukhashvili, Sopiko"]
+[Result "0-1"]
+[ECO "B89"]
+[WhiteElo "2251"]
+[BlackElo "2387"]
+[PlyCount "82"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Bb3
+Qc7 9. Qe2 Na5 10. g4 Nxb3 11. axb3 Nd7 12. f4 Rb8 13. g5 b5 14. f5 Ne5 15.
+fxe6 fxe6 16. Rf1 Be7 17. Qh5+ Ng6 18. O-O-O Bd7 19. Nce2 Qb7 20. Ng3 a5 21.
+Rf2 a4 22. Rdf1 axb3 23. Nxb3 Rc8 24. Rf7 Qc7 25. R1f2 Bf8 26. Qf3 Qc4 27. Kb1
+e5 28. Na5 Qa4 29. Rxd7 Kxd7 30. Bb6 Nf4 31. Nh5 Ne6 32. Qg4 Rg8 33. g6 hxg6
+34. Qxg6 Be7 35. Qg4 g6 36. Ng3 Rb8 37. Rf7 Rxb6 38. Qh4 Re8 39. Nb3 Ra6 40.
+Qh7 Nd4 41. Qxg6 Nxb3 0-1
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.09"]
+[Round "4"]
+[White "Gaponenko, Inna"]
+[Black "Korchagina, Victoria"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "2422"]
+[BlackElo "2182"]
+[PlyCount "65"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Ne2 d6 3. g3 g6 4. Bg2 Bg7 5. c3 Nc6 6. d4 cxd4 7. cxd4 Nf6 8. Nbc3
+O-O 9. h3 Bd7 10. O-O Rc8 11. Be3 Na5 12. b3 b5 13. e5 Ne8 14. f4 dxe5 15. dxe5
+b4 16. Nd5 Nc6 17. Qd2 Bf5 18. g4 Be6 19. Nxb4 Nxb4 20. Qxb4 Qd3 21. Qd2 Qxd2
+22. Bxd2 Nc7 23. Be3 a6 24. Rfd1 Rfd8 25. Bb6 Rd7 26. Rac1 Rxd1+ 27. Rxd1 f6
+28. Nd4 Bd5 29. Rc1 Bxg2 30. Kxg2 fxe5 31. Nf3 e4 32. Ng5 e5 33. Rxc7 1-0
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.10"]
+[Round "5"]
+[White "Khukhashvili, Sopiko"]
+[Black "Gaponenko, Inna"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2387"]
+[BlackElo "2422"]
+[PlyCount "122"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. b3 e6 3. Bb2 a6 4. g3 b5 5. Bg2 Bb7 6. Ne2 Nf6 7. d3 d5 8. e5 Nfd7
+9. c4 Qc7 10. cxd5 Nxe5 11. Nf4 Bd6 12. O-O O-O 13. Nc3 Ned7 14. dxe6 Bxf4 15.
+Nd5 Qd6 16. Nxf4 Bxg2 17. Kxg2 fxe6 18. Qg4 e5 19. Ne6 Rf7 20. Ng5 Re7 21. Nxh7
+Qxd3 22. Ng5 Qd5+ 23. Kg1 Nf6 24. Qd1 Nbd7 25. Qxd5+ Nxd5 26. Rad1 Nb4 27. a3
+Nc2 28. Rd5 Nd4 29. Rd1 a5 30. Ne4 Rc8 31. Nd6 Rb8 32. b4 axb4 33. axb4 Nf6 34.
+Rxc5 Rd7 35. Kg2 Rxd6 36. f4 Nf5 37. Rxd6 Nxd6 38. fxe5 Nc4 39. exf6 Nxb2 40.
+Rg5 g6 41. Rxg6+ Kf7 42. Rh6 Nd3 43. g4 Nxb4 44. g5 Nd5 45. Rh7+ Ke6 46. Kg3 b4
+47. f7 Ne7 48. f8=Q Rxf8 49. Rh6+ Kd7 50. Ra6 Rb8 51. Ra2 b3 52. Rb2 Ke6 53. h4
+Kd5 54. Kg4 Kc4 55. h5 Kc3 56. Rb1 b2 57. Kf4 Rf8+ 58. Kg4 Kc2 59. Rxb2+ Kxb2
+60. g6 Rf1 61. Kg5 Ng8 0-1
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.10"]
+[Round "5"]
+[White "Korchagina, Victoria"]
+[Black "Shumiakina, Tatiana"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2182"]
+[BlackElo "2352"]
+[PlyCount "50"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. c3 Bg7 12. exf5 Bxf5 13. Nc2 Be6 14. g3 O-O
+15. Bg2 a5 16. O-O f5 17. Nf4 exf4 18. Bxc6 fxg3 19. fxg3 Qb6+ 20. Nd4 Bxd4+
+21. Qxd4 Qxc6 22. Rfe1 Rae8 23. a3 Bb3 24. Re3 Re4 25. Rxe4 Qxe4 0-1
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.10"]
+[Round "5"]
+[White "Skinke, Katrina"]
+[Black "Tsiganova, Monika"]
+[Result "1-0"]
+[ECO "B17"]
+[WhiteElo "2180"]
+[BlackElo "2221"]
+[PlyCount "71"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Ng5 e6 7. N1f3 Bd6 8.
+Qe2 h6 9. Ne4 Nxe4 10. Qxe4 c5 11. O-O a6 12. Qg4 Kf8 13. Qe4 Qc7 14. c3 Rb8
+15. Re1 b5 16. Ne5 Bb7 17. Qf4 Nf6 18. Qh4 Rd8 19. Bf4 c4 20. Bc2 Ke7 21. Qh3
+Bd5 22. Bg3 Qb7 23. f4 g5 24. Re2 Be4 25. Bxe4 Nxe4 26. Rae1 Nxg3 27. Qxg3 Rdg8
+28. f5 h5 29. Qf2 Rh6 30. fxe6 Rf6 31. Qe3 Rxe6 32. Qh3 h4 33. Nc6+ Kf8 34.
+Rxe6 fxe6 35. Qxe6 Qc7 36. Qf6+ 1-0
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.12"]
+[Round "7"]
+[White "Daulyte, Deimante"]
+[Black "Gaponenko, Inna"]
+[Result "1-0"]
+[ECO "B88"]
+[WhiteElo "2251"]
+[BlackElo "2422"]
+[PlyCount "67"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8.
+Bb3 O-O 9. Qe2 Na5 10. O-O-O Nxb3+ 11. axb3 Qa5 12. Kb1 Bd7 13. g4 Rfb8 14. g5
+Ne8 15. h4 b5 16. Qg4 Qc7 17. f4 b4 18. Na4 Rc8 19. Qg2 Qb7 20. Rdg1 Bf8 21. h5
+Rc7 22. f5 e5 23. Ne2 Rac8 24. f6 Rxc2 25. fxg7 Bxg7 26. g6 fxg6 27. hxg6 Rxe2
+28. gxh7+ Kh8 29. Qxe2 Qxe4+ 30. Ka1 Bxa4 31. bxa4 b3 32. Qb5 Qxe3 33. Qd5 Nf6
+34. Qb7 1-0
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.12"]
+[Round "7"]
+[White "Korchagina, Victoria"]
+[Black "Fomina, Tatyana"]
+[Result "0-1"]
+[ECO "B47"]
+[WhiteElo "2182"]
+[BlackElo "2254"]
+[PlyCount "214"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 d6 7. Bg2 Bd7 8. O-O
+Rd8 9. Re1 Be7 10. Be3 Nf6 11. Qe2 Nxd4 12. Bxd4 e5 13. Be3 O-O 14. Rad1 Qa5
+15. a3 b5 16. Bg5 Bg4 17. f3 Be6 18. Bxf6 Bxf6 19. Nd5 Bxd5 20. Rxd5 a6 21. Kh1
+Rc8 22. Red1 Qa4 23. c3 Be7 24. f4 exf4 25. gxf4 Qc4 26. Qg4 Rc5 27. R5d4 Qe6
+28. Qg3 Rh5 29. Bf3 Rh3 30. Qg2 Rh4 31. Rg1 Qh6 32. e5 dxe5 33. fxe5 g6 34.
+Rxh4 Qxh4 35. Bb7 a5 36. Bd5 Qf4 37. Qe2 Bc5 38. Rf1 Qe3 39. Qxb5 Bb6 40. Qd7
+Qc5 41. e6 fxe6 42. Qxe6+ Kg7 43. Re1 Rf5 44. Qd7+ Kh6 45. Bg8 Qf2 46. Qxh7+
+Kg5 47. Qe7+ Kg4 48. Qe4+ Kh3 49. Qd3+ Kh4 50. Qe2 g5 51. Be6 Rf4 52. Qxf2+
+Rxf2 53. Re4+ g4 54. Rxg4+ Kh5 55. b4 Re2 56. Bc8 Ra2 57. c4 Rxa3 58. b5 Rc3
+59. Re4 a4 60. Bg4+ Kg5 61. Be6 Rc1+ 62. Kg2 Rc2+ 63. Kf3 a3 64. h4+ Kf6 65. c5
+Bxc5 66. h5 a2 67. Bxa2 Rxa2 68. h6 Rh2 69. Rc4 Bd6 70. b6 Rxh6 71. b7 Rh3+ 72.
+Ke4 Ke6 73. Rc8 Rb3 74. Re8+ Kd7 75. Rg8 Rxb7 76. Rg7+ Be7 77. Kd5 Rb5+ 78. Ke4
+Ke6 79. Rg2 Bf6 80. Rc2 Rb4+ 81. Kf3 Be5 82. Rc6+ Kf5 83. Rc2 Rb3+ 84. Kg2 Rg3+
+85. Kf2 Rh3 86. Rc8 Ke4 87. Rc4+ Kf5 88. Rc8 Bf4 89. Ra8 Rb3 90. Ra2 Kg4 91.
+Rc2 Rh3 92. Ke2 Re3+ 93. Kf2 Re4 94. Rc8 Bg3+ 95. Kg2 Re2+ 96. Kf1 Rf2+ 97. Kg1
+Ra2 98. Rc4+ Bf4 99. Rc3 Be5 100. Rb3 Bd4+ 101. Kf1 Kf4 102. Rb8 Bc5 103. Re8
+Be3 104. Ke1 Kf3 105. Kd1 Rd2+ 106. Ke1 Rd7 107. Re6 Bf2+ 0-1
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.13"]
+[Round "8"]
+[White "Skinke, Katrina"]
+[Black "Korchagina, Victoria"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2180"]
+[BlackElo "2182"]
+[PlyCount "95"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Be7 9. Qd2 O-O 10. O-O-O Qc7 11. g4 Nbd7 12. g5 Nh5 13. Nd5 Bxd5 14. Qxd5 a5
+15. Nd2 a4 16. a3 Nc5 17. Kb1 Ne6 18. h4 Rfc8 19. c3 Nhf4 20. Qc4 Qd7 21. Qa2
+b5 22. Rg1 Qc6 23. Rc1 d5 24. Bxf4 Nxf4 25. exd5 Nxd5 26. Bh3 Rc7 27. Bf5 Bc5
+28. Rgd1 Rd8 29. Be4 Rcd7 30. c4 bxc4 31. Qxc4 Rc7 32. Nf1 Qb6 33. Rxd5 Rb8 34.
+Rc2 Rbc8 35. Qd3 Bd4 36. Qb5 Rxc2 37. Bxc2 Qc7 38. Qd3 g6 39. Rb5 Rd8 40. Qe2
+Qd6 41. Ng3 e4 42. Nxe4 Qf4 43. Ka2 Qxh4 44. Bxa4 h6 45. Bb3 Qf4 46. Rb7 Rf8
+47. Qc4 Bg7 48. Nf6+ 1-0
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.14"]
+[Round "9"]
+[White "Gaponenko, Inna"]
+[Black "Shumiakina, Tatiana"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2422"]
+[BlackElo "2352"]
+[PlyCount "70"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. Be2 Bg5 14. O-O a5
+15. b4 Be6 16. a4 bxa4 17. Rxa4 axb4 18. cxb4 Ne7 19. Bc4 Qd7 20. Ra6 Nxd5 21.
+Bxd5 Rfc8 22. Bxe6 Qxe6 23. Rxd6 Qc4 24. Qg4 Qxc2 25. Qxg5 Qxe4 26. b5 h6 27.
+Rxh6 Rxb5 28. Rh4 Qg6 29. Qxg6 fxg6 30. Re4 Kf7 31. f4 exf4 32. Rexf4+ Kg8 33.
+Rg4 Rc6 34. h3 Rbc5 35. Kh2 Rc4 1/2-1/2
+
+[Event "Keres Memorial-B"]
+[Site "Tallinn"]
+[Date "2008.01.14"]
+[Round "9"]
+[White "Khukhashvili, Sopiko"]
+[Black "Skinke, Katrina"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2387"]
+[BlackElo "2180"]
+[PlyCount "100"]
+[EventDate "2008.01.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "EST"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. h3 Bg7 5. g3 O-O 6. Bg2 e5 7. Nge2 Nc6 8. Be3
+Bd7 9. Qd2 exd4 10. Nxd4 Nxd4 11. Bxd4 Re8 12. O-O c5 13. Bxf6 Qxf6 14. Nd5 Qd8
+15. c3 Bc6 16. Kh2 Bxd5 17. Qxd5 Qb6 18. Rab1 Qc7 19. f4 Rad8 20. Rf2 Kh8 21.
+h4 Qe7 22. Rbf1 Rf8 23. h5 Bf6 24. g4 g5 25. fxg5 Be5+ 26. Kh3 Qxg5 27. Rf5
+Qe3+ 28. R1f3 Qh6 29. Rxf7 Rxf7 30. Qxf7 Rg8 31. Qe7 Qd2 32. Qxb7 Rxg4 33. Rf8+
+Rg8 34. Rxg8+ Kxg8 35. Qd5+ Qxd5 36. exd5 Kf7 37. Kg4 Kf6 38. Be4 h6 39. Kf3
+Kg5 40. Bg6 Bf4 41. Ke4 Bc1 42. b3 Kf6 43. Kd3 Ke5 44. Kc4 Bd2 45. b4 cxb4 46.
+cxb4 Be3 47. a4 Bf2 48. Be8 Kf6 49. Kb5 Ke7 50. Bc6 Kd8 1/2-1/2
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.06"]
+[Round "1"]
+[White "Brynjarsson, Eirikur Orn"]
+[Black "Bjornsson, Sverrir Orn"]
+[Result "0-1"]
+[ECO "B44"]
+[WhiteElo "1686"]
+[BlackElo "2116"]
+[PlyCount "34"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. e5 Qa5+ 7. c3 Qxe5+
+8. Be2 Ba6 9. Be3 Bxe2 10. Qxe2 Nf6 11. Nd2 d5 12. Nf3 Qc7 13. O-O Be7 14. Bd4
+O-O 15. b4 Ne4 16. Nd2 e5 17. Bc5 Nxc5 0-1
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.06"]
+[Round "1"]
+[White "Eidsson, Johann Oli"]
+[Black "Kristjansson, Atli Freyr"]
+[Result "0-1"]
+[ECO "B52"]
+[BlackElo "2019"]
+[PlyCount "52"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. d4 cxd4 6. Nxd4 Nf6 7. Nc3 Nc6
+8. Nf5 Nxe4 9. Qg4 Nxc3 10. bxc3 g6 11. Ne3 Qxg4 12. Nxg4 Bg7 13. Bd2 b5 14.
+Rb1 a6 15. O-O Na5 16. Rfe1 Kd7 17. Ne3 Rab8 18. c4 Nxc4 19. Nxc4 bxc4 20. Rbd1
+Rb2 21. Bg5 f6 22. Be3 Rhb8 23. Bc5 R8b5 24. Rxe7+ Kxe7 25. Bxd6+ Kf7 26. Ba3
+Rb1 0-1
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.06"]
+[Round "1"]
+[White "Johannsdottir, Johanna Bjorg"]
+[Black "Vigfusson, Vigfus"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1905"]
+[BlackElo "2052"]
+[PlyCount "80"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 e6 7. Nc3 d6 8. Bc4
+Nxc3 9. bxc3 dxe5 10. Nxe5 Nxe5 11. dxe5 Qxd1+ 12. Kxd1 Bc5 13. Ke2 Bd7 14. Rd1
+Bc6 15. Kf1 Ke7 16. Bg5+ f6 17. Bh4 Rad8 18. Re1 Bd5 19. exf6+ gxf6 20. Bxd5
+Rxd5 21. Rad1 Rhd8 22. Rxd5 Rxd5 23. Ke2 Bb6 24. Rd1 Ra5 25. Rd2 Ra3 26. Rc2 e5
+27. Bg3 Ke6 28. f3 Kd5 29. Kd3 Ba5 30. Be1 f5 31. Re2 b5 32. Rb2 b4 33. Rb3 e4+
+34. fxe4+ fxe4+ 35. Ke3 Rxb3 36. axb3 bxc3 37. g4 c2 38. Bd2 Bb6+ 39. Ke2 e3
+40. Bc1 Ke4 0-1
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.06"]
+[Round "1"]
+[White "Jonsson, Bjorn"]
+[Black "Andrason, Pall"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "2032"]
+[PlyCount "61"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. Ndb5 Bf8 8.
+Nd6+ Bxd6 9. Qxd6 Qe7 10. e5 f6 11. Nb5 Qxd6 12. exd6 Kf7 13. O-O-O b6 14. Nc7
+Rb8 15. h4 h5 16. f3 Nh6 17. Be2 Nf5 18. Bf2 Bb7 19. c3 Ng7 20. Rhe1 Ne8 21.
+Bg3 e5 22. Bc4+ Kg7 23. f4 exf4 24. Bxf4 Ne5 25. Bxe5 fxe5 26. Rxe5 Kf6 27. Re2
+Bc6 28. Nd5+ Kg7 29. Ne7 Ba8 30. Bd3 Nxd6 31. Bxg6 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.06"]
+[Round "1"]
+[White "Kjartansson, Gudmundur"]
+[Black "Thorsteinsdottir, Hallgerdur"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2307"]
+[BlackElo "1867"]
+[PlyCount "75"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Ngf6 12. O-O-O Be7 13. Ne2 Qa5 14. Kb1 Nd5
+15. Bd2 Qc7 16. c4 N5f6 17. Nc3 O-O-O 18. Qe2 Bd6 19. g3 Rhe8 20. c5 Bf8 21.
+Bf4 Qa5 22. Qc4 Nd5 23. Nxd5 exd5 24. Qd3 Re6 25. Rhe1 Rde8 26. Re3 Rxe3 27.
+fxe3 Qd8 28. Qa3 a6 29. Rd3 g5 30. hxg6 fxg6 31. Rb3 a5 32. Rc3 Bg7 33. b4 g5
+34. Bd6 Nf6 35. Nd2 Ng4 36. bxa5 Qf6 37. a6 Qf5+ 38. Kc1 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.06"]
+[Round "1"]
+[White "Kristinsson, Bjarni Jens"]
+[Black "Loftsson, Hrafn"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "1822"]
+[BlackElo "2248"]
+[PlyCount "76"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d3 Nge7 7. Be3 d6 8. a4
+O-O 9. Na3 h6 10. Nd2 f5 11. f4 Kh7 12. Qe1 exf4 13. Bxf4 g5 14. Bg3 f4 15. Bf2
+Ne5 16. d4 cxd4 17. Bxd4 N7c6 18. Nc2 g4 19. Kh1 Qg5 20. g3 f3 21. Qe3 Qe7 22.
+Rad1 h5 23. Qf2 Be6 24. Bxe5 Nxe5 25. Rfe1 a6 26. Bf1 Bh6 27. Nd4 Rad8 28. b3
+Bg5 29. Nxe6 Qxe6 30. Nc4 Bf6 31. Rd5 Kg6 32. Red1 Nxc4 33. Bxc4 Be5 34. Kg1
+Qf6 35. Kf1 h4 36. Qb6 hxg3 37. hxg3 Rh8 38. Qxb7 Bxg3 0-1
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.06"]
+[Round "1"]
+[White "Lee, Gudmundur Kristinn"]
+[Black "Gardarsson, Halldor"]
+[Result "0-1"]
+[ECO "B13"]
+[BlackElo "1969"]
+[PlyCount "92"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bf4 Bg4 7. Be2 e6 8. a3
+Bd6 9. Qd2 a6 10. O-O-O b5 11. Na2 Ne4 12. Qe3 O-O 13. Rhf1 b4 14. Bxd6 Qxd6
+15. h3 Bf5 16. g4 Bg6 17. Ne5 bxa3 18. Qxa3 Qxa3 19. bxa3 Nxe5 20. dxe5 Rfc8
+21. Bd3 Nc3 22. Nxc3 Rxc3 23. Kb2 Rac8 24. Rd2 a5 25. f4 Bxd3 26. cxd3 a4 27.
+f5 Rb3+ 28. Ka2 Rcc3 29. fxe6 fxe6 30. Rf3 Rxa3+ 31. Kb1 Rcb3+ 32. Rb2 Rxb2+
+33. Kxb2 Rb3+ 34. Kc2 h6 35. Rf4 Ra3 36. Kb2 Rxd3 37. h4 Re3 38. Rxa4 Rxe5 39.
+Kc3 Kf7 40. Kd3 Kf6 41. Rf4+ Kg6 42. Kd4 Re1 43. Kd3 Rh1 44. h5+ Kg5 45. Rf7
+Kxg4 46. Rxg7+ Kxh5 0-1
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.06"]
+[Round "1"]
+[White "Petursson, Matthias"]
+[Black "Danielsen, Henrik"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1902"]

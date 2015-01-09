@@ -1,0 +1,600 @@
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "MNT"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. g3 d6 3. Bg2 g6 4. Nf3 Bg7 5. O-O Nf6 6. c4 O-O 7. Nc3 Qe8 8. Nd5
+Nxd5 9. cxd5 1/2-1/2
+
+[Event "MNT-ch 60th"]
+[Site "Cetinje"]
+[Date "2008.07.08"]
+[Round "2"]
+[White "Kosic, Dragan"]
+[Black "Nikcevic, Nebojsa"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2516"]
+[BlackElo "2401"]
+[PlyCount "39"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "MNT"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O c5 6. b3 d6 7. Bb2 Nbd7 8. Nbd2
+Be7 9. e4 cxd4 10. Nxd4 O-O 11. Qe2 Nc5 12. f4 Nxd3 13. cxd3 Rc8 14. N2f3 Qd7
+15. a4 Nh5 16. Ne1 g6 17. g4 Ng7 18. f5 f6 19. Ng2 e5 20. Nf3 1/2-1/2
+
+[Event "MNT-ch 60th"]
+[Site "Cetinje"]
+[Date "2008.07.09"]
+[Round "3"]
+[White "Drasko, Milan"]
+[Black "Nikac, Predrag"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2508"]
+[BlackElo "2357"]
+[PlyCount "26"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "MNT"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. g3 e6 3. Bg2 d5 4. O-O c5 5. c4 d4 6. e3 Nc6 7. exd4 cxd4 8. d3
+Be7 9. Re1 O-O 10. Ne5 Nxe5 11. Rxe5 Qc7 12. Re1 Bd7 13. Nd2 Bc6 1/2-1/2
+
+[Event "MNT-ch 60th"]
+[Site "Cetinje"]
+[Date "2008.07.09"]
+[Round "3"]
+[White "Nikcevic, Nebojsa"]
+[Black "Batricevic, Sasa"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2401"]
+[BlackElo "2232"]
+[PlyCount "45"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "MNT"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d6 2. d4 f5 3. g3 Nf6 4. Bg2 c6 5. O-O Qc7 6. Nc3 e5 7. dxe5 dxe5 8. e4
+fxe4 9. Ng5 Bf5 10. Ncxe4 Be7 11. Nxf6+ gxf6 12. Bh3 fxg5 13. Bxf5 Bf6 14. Qg4
+h5 15. Bg6+ Kf8 16. Qf5 Qe7 17. Bxg5 Kg7 18. Be3 Qd7 19. Rfd1 Qxf5 20. Bxf5 Re8
+21. c3 Na6 22. Rd7+ Re7 23. Rad1 1-0
+
+[Event "MNT-ch 60th"]
+[Site "Cetinje"]
+[Date "2008.07.10"]
+[Round "4"]
+[White "Kosic, Dragan"]
+[Black "Batricevic, Sasa"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2516"]
+[BlackElo "2232"]
+[PlyCount "81"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "MNT"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. b3 Bg7 5. Bb2 O-O 6. Nf3 d6 7. O-O Qe8 8. Nbd2
+Nc6 9. Nc4 e6 10. a4 h6 11. Ne1 g5 12. Nd3 Nd5 13. e3 Qf7 14. Nd2 a5 15. Qe2
+Kh8 16. Rad1 Nde7 17. f4 e5 18. dxe5 dxe5 19. Nxe5 Nxe5 20. fxe5 Nc6 21. Qb5
+Nb4 22. Nc4 Qe7 23. Ba3 c6 24. Qb6 Ra6 25. Qd4 c5 26. Qc3 Re8 27. Bb2 Nc6 28.
+Bxc6 Rxc6 29. Qxa5 Be6 30. Nd6 Rf8 31. Qb5 Rc7 32. Qe2 Bd7 33. Qh5 Kh7 34. Nc4
+b5 35. axb5 Bxb5 36. Rd6 Be8 37. Qd1 Bc6 38. Qh5 Ba8 39. Qg6+ Kh8 40. Rxf5 Rxf5
+41. Qxf5 1-0
+
+[Event "MNT-ch 60th"]
+[Site "Cetinje"]
+[Date "2008.07.10"]
+[Round "4"]
+[White "Nikac, Predrag"]
+[Black "Krivokapic, Marko"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "2357"]
+[BlackElo "2421"]
+[PlyCount "49"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "MNT"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. g3 d5 2. Bg2 Nf6 3. f4 c5 4. Nf3 Nc6 5. O-O g6 6. d3 Bg7 7. Qe1 O-O 8. e4 d4
+9. h3 Ne8 10. Na3 Nb4 11. g4 e6 12. Bd2 a5 13. Qg3 Nc7 14. Rae1 b5 15. f5 exf5
+16. gxf5 Ra6 17. Bg5 Qd7 18. Nh4 Bb7 19. f6 Bh8 20. Nf5 Bxf6 21. Nh6+ Kg7 22.
+Rxf6 Rxf6 23. e5 Rf5 24. Nxf5+ Qxf5 25. Bxb7 1-0
+
+[Event "MNT-ch 60th"]
+[Site "Cetinje"]
+[Date "2008.07.12"]
+[Round "6"]
+[White "Pajkovic, Vladimir"]
+[Black "Krivokapic, Marko"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2432"]
+[BlackElo "2421"]
+[PlyCount "33"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "MNT"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 e6 2. g3 d5 3. Bg2 dxc4 4. Qc2 c5 5. Na3 Nf6 6. Nxc4 a6 7. d3 Be7 8. Bd2
+O-O 9. Ba5 Qe8 10. Nb6 Ra7 11. Rc1 Qb5 12. Qd2 Nc6 13. Nxc8 Rxc8 14. Bc3 Nd5
+15. Nf3 Qb6 16. O-O Qd8 17. h4 1/2-1/2
+
+[Event "MNT-ch 60th"]
+[Site "Cetinje"]
+[Date "2008.??.??"]
+[Round "8"]
+[White "Drasko, Milan"]
+[Black "Krivokapic, Marko"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2508"]
+[BlackElo "2421"]
+[PlyCount "39"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "MNT"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c5 4. O-O e6 5. c4 dxc4 6. Na3 a6 7. Nxc4 Nc6 8. b3
+Nd5 9. Bb2 b5 10. Nce5 Nxe5 11. Nxe5 Bb7 12. Rc1 f6 13. Nd3 Rc8 14. e4 Nb6 15.
+Nf4 e5 16. Qh5+ Ke7 17. Bxe5 g6 18. Nxg6+ hxg6 19. Qxh8 fxe5 20. Qh7+ 1-0
+
+[Event "MNT-ch 60th"]
+[Site "Cetinje"]
+[Date "2008.??.??"]
+[Round "8"]
+[White "Kosic, Dragan"]
+[Black "Djukic, Nikola"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2516"]
+[BlackElo "2545"]
+[PlyCount "67"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "MNT"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. e3 cxd4 6. exd4 O-O 7. Bc4 Nc6 8.
+c3 d6 9. O-O Qc7 10. Re1 e5 11. dxe5 dxe5 12. Bb5 Ne8 13. Nc4 f6 14. Be3 Be6
+15. Qa4 Nd6 16. Nxd6 Qxd6 17. Rad1 Qc7 18. Nd2 a6 19. Bc4 Qf7 20. Bxe6 Qxe6 21.
+Ne4 Rfd8 22. Nc5 Qf7 23. Qb3 Qxb3 24. axb3 Rxd1 25. Rxd1 Rd8 26. Re1 Bf8 27.
+Nxb7 Rb8 28. Nc5 Bxc5 29. Bxc5 Rxb3 30. Ba3 Na5 31. Re4 Rb6 32. f4 exf4 33.
+Rxf4 Rc6 34. Rb4 1/2-1/2
+
+[Event "MNT-ch int U14"]
+[Site "Cetinje"]
+[Date "2008.07.10"]
+[Round "4"]
+[White "Pecurica, Milos"]
+[Black "Andreev, Sasho"]
+[Result "0-1"]
+[ECO "A67"]
+[WhiteElo "1942"]
+[BlackElo "2021"]
+[PlyCount "84"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 c5 2. d5 Nf6 3. c4 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nbd7 9. e5 dxe5 10. fxe5 Nh5 11. Nf3 O-O 12. Bxd7 Bxd7 13. O-O Bg4 14. Qe1 Qe8
+15. Qe3 Bxf3 16. Rxf3 b6 17. g4 Bxe5 18. Qd3 Ng7 19. Ne4 f5 20. gxf5 gxf5 21.
+Ng3 Qd7 22. Bh6 f4 23. Ne2 c4 24. Qe4 Rae8 25. Raf1 Qc8 26. Kh1 Bxb2 27. Qc2
+Be5 28. Nxf4 Bxf4 29. Rxf4 Rxf4 30. Rxf4 Qh3 31. Qc1 Qh5 32. Rd4 Re2 33. Qf4
+Qg6 34. Qf1 Qh5 35. Qf4 Re1+ 36. Kg2 Qg6+ 37. Bg5 h6 38. Kf2 hxg5 39. Qd2 Re8
+40. d6 Qf5+ 41. Kg2 Ne6 42. d7 Rf8 0-1
+
+[Event "MNT-ch int U14"]
+[Site "Cetinje"]
+[Date "2008.07.11"]
+[Round "5"]
+[White "Andreev, Sasho"]
+[Black "Srbis, Jurica"]
+[Result "0-1"]
+[ECO "A64"]
+[WhiteElo "2021"]
+[BlackElo "2021"]
+[PlyCount "52"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. h3 Rb8 13. Nc4 Ne5 14. Na3 Nh5 15.
+Kh2 f5 16. e4 f4 17. gxf4 Qh4 18. Ne2 Nf3+ 19. Bxf3 Qxh3+ 20. Kg1 Qxf3 21. Ng3
+Qxd1 22. Rxd1 Nxg3 23. fxg3 Rxe4 24. Nc2 Bd7 25. a5 Rbe8 26. Rb1 Bf5 0-1
+
+[Event "New Jersey Futurity 2nd"]
+[Site "New Jersey"]
+[Date "2008.07.07"]
+[Round "1"]
+[White "Zlotnikov, Mikhail"]
+[Black "Molner, Mackenzie"]
+[Result "0-1"]
+[ECO "A32"]
+[WhiteElo "2345"]
+[BlackElo "2337"]
+[PlyCount "159"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Bb4 6. Bd2 Nc6 7. e3 O-O 8.
+Be2 b6 9. O-O Bb7 10. a3 Be7 11. Rc1 Nxd4 12. exd4 d5 13. Bf3 Qd7 14. c5 bxc5
+15. dxc5 Bxc5 16. Na4 Be7 17. Nc5 Bxc5 18. Rxc5 Rfc8 19. Be3 Rxc5 20. Bxc5 Qc7
+21. Be3 a5 22. Qd2 Rc8 23. Rc1 Qxc1+ 24. Qxc1 Rxc1+ 25. Bxc1 a4 26. Kf1 Kf8 27.
+Ke1 Ke7 28. Kd2 Kd6 29. Kc3 e5 30. Kb4 Bc6 31. Bd1 Ne4 32. f3 Nc5 33. Bc2 d4
+34. Bd2 h6 35. h4 Bd7 36. g4 Bc6 37. f4 f6 38. g5 hxg5 39. hxg5 Kd5 40. gxf6
+gxf6 41. fxe5 fxe5 42. Bg6 Nb3 43. Bh6 Bd7 44. Bf7+ Ke4 45. Bg6+ Kf3 46. Bh5+
+Kf2 47. Bg6 Bc6 48. Bg7 e4 49. Bxe4 Bxe4 50. Kxa4 d3 51. Bc3 d2 52. Bxd2 Nxd2
+53. b4 Ke3 54. Kb5 Kd4 55. a4 Kc3 56. a5 Bd3+ 57. Ka4 Ne4 58. a6 Bxa6 59. Ka5
+Bc4 60. Kb6 Kxb4 61. Kc6 Be6 62. Kc7 Kc5 63. Kd8 Kd6 64. Ke8 Ng3 65. Kf8 Nf5
+66. Ke8 Ke5 67. Kf8 Bd5 68. Ke8 Ke6 69. Kf8 Kf6 70. Ke8 Bf7+ 71. Kd7 Ke5 72.
+Kc6 Kd4 73. Kb5 Kc3 74. Kc5 Bc4 75. Kc6 Kb4 76. Kd7 Bf7 77. Kc6 Kc4 78. Kb6 Be8
+79. Kc7 Kc5 80. Kd8 0-1
+
+[Event "New Jersey Futurity 2nd"]
+[Site "New Jersey"]
+[Date "2008.07.10"]
+[Round "6"]
+[White "Ehlvest, Jaan"]
+[Black "Scekic, Milos"]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[WhiteElo "2603"]
+[BlackElo "2371"]
+[PlyCount "37"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 c5 2. d5 Nf6 3. c4 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. g3 g6 8. Bg2
+Bg7 9. Nf3 O-O 10. O-O Nbd7 11. Rb1 Nb6 12. b3 Bb7 13. e4 Ba6 14. Re1 Ng4 15.
+Ne2 Nd7 16. Bb2 Bxe2 17. Rxe2 Rxa2 18. Bxg7 Rxe2 19. Qxe2 1/2-1/2
+
+[Event "New Jersey Futurity 2nd"]
+[Site "New Jersey"]
+[Date "2008.07.11"]
+[Round "8"]
+[White "Almeida Saenz, Alfonso"]
+[Black "Molner, Mackenzie"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2419"]
+[BlackElo "2337"]
+[PlyCount "91"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. a4 Bb7 5. axb5 Nxd5 6. g3 g6 7. Bg2 Bg7 8. O-O
+O-O 9. Nbd2 Nb6 10. e4 a6 11. c4 axb5 12. Rxa8 Nxa8 13. cxb5 Qb6 14. Qa4 Nc7
+15. b4 Qxb5 16. Qxb5 Nxb5 17. bxc5 Na6 18. Nb3 Bxe4 19. Bg5 e6 20. Nfd2 Bxg2
+21. Kxg2 Nb4 22. Nc4 h6 23. Be3 Nd5 24. Nb6 Nxe3+ 25. fxe3 d6 26. c6 Rb8 27.
+Nd7 Rc8 28. Na5 Bc3 29. Rb1 Na3 30. Rb3 Bxa5 31. Rxa3 Bd2 32. Rd3 Bb4 33. Rb3
+Ba5 34. Ra3 Bc7 35. e4 Kg7 36. g4 Bd8 37. Ra6 f6 38. Kf3 Kf7 39. Ke3 e5 40. Kd3
+Be7 41. Kc4 Ke6 42. Kb5 Bd8 43. Ra7 Rc7 44. Ra8 Be7 45. Nb6 f5 46. Nd5 1-0
+
+[Event "New Jersey Futurity 2nd"]
+[Site "New Jersey"]
+[Date "2008.07.11"]
+[Round "8"]
+[White "Ippolito, Dean"]
+[Black "Palatnik, Semon"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[WhiteElo "2445"]
+[BlackElo "2472"]
+[PlyCount "16"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 c6 8. d5 e5
+1/2-1/2
+
+[Event "New Jersey Futurity 2nd"]
+[Site "New Jersey"]
+[Date "2008.07.11"]
+[Round "8"]
+[White "Zlotnikov, Mikhail"]
+[Black "Ju, Evan D"]
+[Result "0-1"]
+[ECO "A26"]
+[WhiteElo "2345"]
+[BlackElo "2286"]
+[PlyCount "59"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e5 5. d3 Nc6 6. Nf3 f5 7. O-O Nf6 8. Rb1
+O-O 9. b4 h6 10. b5 Ne7 11. c5 Be6 12. Bb2 g5 13. a4 Ng6 14. a5 d5 15. a6 bxa6
+16. bxa6 c6 17. Qa4 Qc7 18. Ba1 Rab8 19. Na2 Nd7 20. Qa3 Rxb1 21. Rxb1 Rb8 22.
+Rxb8+ Qxb8 23. Nd2 Qb5 24. Nb3 d4 25. Nac1 Bf8 26. Qa5 Nxc5 27. Qxb5 cxb5 28.
+Na5 Nxa6 29. e3 dxe3 30. fxe3 0-1
+
+[Event "Paracin"]
+[Site "Paracin"]
+[Date "2008.??.??"]
+[Round "3"]
+[White "Andonov, Bogomil"]
+[Black "Pancevski, Filip"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "2326"]
+[BlackElo "2407"]
+[PlyCount "51"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 f5 2. d4 e6 3. Bf4 Nf6 4. h3 b6 5. e3 Bb7 6. Nbd2 Be7 7. Bd3 O-O 8. g4
+Ne4 9. gxf5 Nxd2 10. Kxd2 exf5 11. Rg1 Kh8 12. Be5 Bf6 13. Bxf6 Qxf6 14. h4 c5
+15. c3 Be4 16. Ng5 cxd4 17. exd4 Qh6 18. f3 Bxd3 19. Kxd3 Nc6 20. Qe2 b5 21.
+Rae1 Rac8 22. Qe8 Nb4+ 23. cxb4 Qc6 24. Nf7+ Kg8 25. Rxg7+ Kxg7 26. Rg1+ 1-0
+
+[Event "Paracin"]
+[Site "Paracin"]
+[Date "2008.??.??"]
+[Round "3"]
+[White "Popchev, Milko"]
+[Black "Milenkovic, Mladen"]
+[Result "1/2-1/2"]
+[ECO "A39"]
+[WhiteElo "2410"]
+[BlackElo "2343"]
+[PlyCount "44"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. O-O g6 5. d4 cxd4 6. Nxd4 Bg7 7. c4 O-O 8.
+Nc3 Ng4 9. Nxc6 dxc6 10. Bd2 Qd4 11. b3 Rd8 12. Be1 Qxd1 13. Rxd1 Rxd1 14. Nxd1
+Be6 15. Ba5 Kf8 16. h3 Nf6 17. Ne3 b6 18. Bc3 Rd8 19. Rd1 Rxd1+ 20. Nxd1 b5 21.
+cxb5 cxb5 22. Nb2 Nd5 1/2-1/2
+
+[Event "Paracin"]
+[Site "Paracin"]
+[Date "2008.??.??"]
+[Round "4"]
+[White "Vojinovic, Goran"]
+[Black "Jevtic, Sasa"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[WhiteElo "2468"]
+[BlackElo "2206"]
+[PlyCount "57"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 e5 2. e3 Nc6 3. Nc3 Nf6 4. Nf3 Bb4 5. Nd5 e4 6. Nxb4 Nxb4 7. Nd4 O-O 8.
+a3 Na6 9. d3 Nc5 10. dxe4 Ncxe4 11. f3 Nc5 12. Be2 d5 13. cxd5 Qxd5 14. O-O c6
+15. e4 Qe5 16. Be3 Ne6 17. Nxe6 Bxe6 18. Bd4 Qf4 19. Qc2 Rfd8 20. Qc3 Ne8 21.
+Rfd1 Qg5 22. Be3 Qe7 23. Rxd8 Qxd8 24. Rd1 Qc7 25. Bf2 a6 26. Qd4 Qf4 27. Qb6
+Qc7 28. Qxc7 Nxc7 29. Bb6 1/2-1/2
+
+[Event "Paracin"]
+[Site "Paracin"]
+[Date "2008.??.??"]
+[Round "5"]
+[White "Zlatanovic, Boroljub"]
+[Black "Brankovic, Dejan"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "2386"]
+[BlackElo "2398"]
+[PlyCount "52"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. Rb1 d5 7. cxd5 Nxd5 8.
+Qb3 Nb6 9. O-O c5 10. d3 Nc6 11. Ne4 c4 12. dxc4 Be6 13. Be3 Nxc4 14. Nfg5 Bd5
+15. Rfd1 N6a5 16. Qd3 e6 17. Bd4 f5 18. Nc5 Bxd4 19. Ngxe6 Bxg2 20. Nxd8 Raxd8
+21. Kxg2 Bxc5 22. Qc3 Rc8 23. Rd7 Rf7 24. Rxf7 Kxf7 25. b4 Bb6 26. Qf3 Nd6 1-0
+
+[Event "Paracin"]
+[Site "Paracin"]
+[Date "2008.??.??"]
+[Round "7"]
+[White "Andonov, Bogomil"]
+[Black "Zlatanovic, Boroljub"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2326"]
+[BlackElo "2386"]
+[PlyCount "41"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. d4 g6 3. c3 Bg7 4. Bg5 O-O 5. Nbd2 d6 6. e4 c5 7. dxc5 dxc5 8. h3
+Nc6 9. Bc4 Nd7 10. O-O Nde5 11. Nxe5 Nxe5 12. Bb3 Qc7 13. Nc4 Be6 14. Nxe5 Bxb3
+15. Qxb3 Qxe5 16. Qd5 Qc7 17. Be3 b6 18. Rfd1 Rfd8 19. Qc4 Rxd1+ 20. Rxd1 Rd8
+21. Rxd8+ 1/2-1/2
+
+[Event "Paracin"]
+[Site "Paracin"]
+[Date "2008.??.??"]
+[Round "7"]
+[White "Jevtic, Sasa"]
+[Black "Brankovic, Dejan"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2206"]
+[BlackElo "2398"]
+[PlyCount "67"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. Bd3 Bg7 5. Nbd2 O-O 6. O-O Qc7 7. c3 d6 8. e4
+Nc6 9. d5 Na5 10. c4 b5 11. cxb5 a6 12. Qc2 axb5 13. Bxb5 Ba6 14. Bxa6 Rxa6 15.
+b4 Ne8 16. b5 Bxa1 17. bxa6 Qb6 18. e5 Bxe5 19. Nxe5 dxe5 20. Ne4 Nd6 21. Qxc5
+Qxa6 22. Nxd6 exd6 23. Qc7 Re8 24. Bh6 Nb7 25. Rb1 Nc5 26. Rb8 Qa4 27. Rxe8+
+Qxe8 28. Qxd6 Ne4 29. Qc7 Nf6 30. Qc6 Qd8 31. d6 Qd7 32. Qc5 Qf5 33. h3 Ne4 34.
+d7 1-0
+
+[Event "Paracin"]
+[Site "Paracin"]
+[Date "2008.??.??"]
+[Round "7"]
+[White "Milenkovic, Mladen"]
+[Black "Vojinovic, Goran"]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[WhiteElo "2343"]
+[BlackElo "2468"]
+[PlyCount "40"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. b3 b6 2. Bb2 Bb7 3. f4 e6 4. Nf3 Nf6 5. g3 d5 6. Bg2 Nbd7 7. O-O g6 8. d3
+Bg7 9. e3 O-O 10. Qe2 a5 11. a4 Nc5 12. Nbd2 Nfd7 13. Ne5 Nxe5 14. fxe5 Nd7 15.
+d4 f6 16. exf6 Rxf6 17. e4 Kh8 18. Rxf6 Nxf6 19. e5 Ng8 20. c4 Qd7 1/2-1/2
+
+[Event "Paracin"]
+[Site "Paracin"]
+[Date "2008.??.??"]
+[Round "8"]
+[White "Zlatanovic, Boroljub"]
+[Black "Popchev, Milko"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2386"]
+[BlackElo "2410"]
+[PlyCount "40"]
+[EventDate "2008.07.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 c5 4. Ng3 Nc6 5. Nf3 e5 6. Bc4 g6 7. d3 Bg7 8. O-O
+Qd6 9. Ng5 Nh6 10. f4 f6 11. fxe5 Nxe5 12. Bb5+ Bd7 13. Bxd7+ Qxd7 14. Nh3 O-O
+15. Nf4 Nhf7 16. Bd2 Nd8 17. Qe2 Ndc6 18. Rae1 Rae8 19. Qd1 b6 20. h3 Rf7
+1/2-1/2
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.08"]
+[Round "1"]
+[White "Buvaltsev, Andrey"]
+[Black "Romanova, Anastasiya"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2115"]
+[PlyCount "63"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 c5 2. b3 Nc6 3. Bb2 Nf6 4. e3 d5 5. Bb5 Bd7 6. O-O e6 7. d3 Bd6 8. Bxc6
+Bxc6 9. Ne5 O-O 10. Nd2 Nd7 11. Nxc6 bxc6 12. e4 e5 13. Qe2 Qe7 14. Rae1 Rae8
+15. a4 Nb8 16. Bc1 Na6 17. Nb1 Nc7 18. Nc3 f5 19. exf5 Rxf5 20. f4 Qf7 21. g4
+exf4 22. Qxe8+ Nxe8 23. gxf5 f3 24. Rxf3 Qh5 25. Rf2 Nf6 26. Rg2 Qh4 27. Kf1
+Ng4 28. Ke2 Ne5 29. Kd1 Qh5+ 30. Ne2 Qxf5 31. Bd2 Qf3 32. Reg1 1/2-1/2
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]

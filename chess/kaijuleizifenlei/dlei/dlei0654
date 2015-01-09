@@ -1,0 +1,600 @@
+[Site "Glasgow"]
+[Date "2008.06.13"]
+[Round "9"]
+[White "Hilton, Stephen H"]
+[Black "Roy, Ali"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "1936"]
+[BlackElo "1693"]
+[PlyCount "105"]
+[EventDate "2008.06.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SCO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nbd2 Bd6 6. b3 O-O 7. Bb2 b6 8. Bd3
+Bb7 9. O-O Nbd7 10. Qe2 Re8 11. Ne5 Bc7 12. f4 c5 13. cxd5 Bxd5 14. Bb5 cxd4
+15. exd4 Bb7 16. Rac1 Rc8 17. Ndc4 Bb8 18. Rcd1 Bd5 19. Nxd7 Nxd7 20. Ne5 Bxe5
+21. fxe5 Rc7 22. Qf2 f5 23. exf6 Qxf6 24. Qxf6 gxf6 25. Bxd7 Rxd7 26. Rxf6 Rg7
+27. g3 Rf8 28. Rxf8+ Kxf8 29. Rc1 Rf7 30. Rc8+ Kg7 31. Bc1 Bb7 32. Rd8 Bd5 33.
+Bf4 Kg6 34. Kf2 h5 35. Ke3 Rb7 36. h4 b5 37. Rh8 Rh7 38. Rc8 Rb7 39. Be5 Rf7
+40. Rg8+ Kh7 41. Rh8+ Kg6 42. Bf4 Rh7 43. Rb8 Rb7 44. Rc8 Rd7 45. Kd3 a5 46.
+Kc3 Ra7 47. a4 Rb7 48. axb5 Rxb5 49. Rb8 Rxb8 50. Bxb8 Bc6 51. Bc7 a4 52. b4
+Bb5 53. Bf4 1/2-1/2
+
+[Event "SCO-ch 115th"]
+[Site "Glasgow"]
+[Date "2008.06.13"]
+[Round "9"]
+[White "Markos, Jan"]
+[Black "Vincenti, David"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2565"]
+[PlyCount "67"]
+[EventDate "2008.06.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SCO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. d4 Nf6 5. O-O Bf5 6. c4 e6 7. cxd5 exd5 8. Nc3
+c4 9. Ne5 Be7 10. Qa4 Bd7 11. Nxd7 Qxd7 12. Bg5 O-O 13. Bxf6 Bxf6 14. e3 a6 15.
+Nxd5 b5 16. Nxf6+ gxf6 17. Qd1 Rac8 18. Qh5 f5 19. Qg5+ Kh8 20. Qf6+ Kg8 21. a3
+Qe6 22. Qg5+ Qg6 23. Qf4 Qg4 24. Rfd1 Qxf4 25. gxf4 Kg7 26. Rac1 Na5 27. d5 Nb3
+28. Rc2 Nc5 29. d6 Rfd8 30. Rd5 Rd7 31. Rcd2 Nd3 32. Bf1 Rc6 33. Bxd3 Rdxd6 34.
+Bxf5 1-0
+
+[Event "SCO-ch 115th"]
+[Site "Glasgow"]
+[Date "2008.06.13"]
+[Round "9"]
+[White "Walker, Duncan"]
+[Black "Spencer, Edwin A"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1968"]
+[BlackElo "2182"]
+[PlyCount "74"]
+[EventDate "2008.06.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SCO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nc6 2. d4 d5 3. Bf4 Bg4 4. Nbd2 e6 5. h3 Bh5 6. Rc1 Bd6 7. Bxd6 cxd6 8.
+c4 dxc4 9. Nxc4 Nf6 10. g4 Bg6 11. Bg2 h5 12. Nh4 Be4 13. g5 Bxg2 14. Nxg2 Ne4
+15. h4 d5 16. Ne5 Qa5+ 17. Kf1 Nxe5 18. dxe5 Qxa2 19. Rh3 Qxb2 20. Kg1 O-O 21.
+Rc7 Nxf2 22. Kxf2 Qb6+ 23. e3 Qxc7 24. Qxh5 Qxe5 25. Qg4 Rac8 26. Rf3 Rc2+ 27.
+Kg1 Rc1+ 28. Kf2 Qh2 29. Rh3 Qg1+ 30. Kg3 f5 31. Qf3 g6 32. h5 Rc4 33. Rh2 Rg4+
+34. Kh3 Rxg5 35. hxg6 Kg7 36. Nh4 Rh8 37. e4 Qg4+ 0-1
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.06"]
+[Round "1"]
+[White "Hapala, Christoph"]
+[Black "Loreth, Viktor"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1200"]
+[PlyCount "60"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bf5 4. Nc3 Nc6 5. Be2 e6 6. O-O Bb4 7. Bd2 O-O 8. a3
+Bxc3 9. Bxc3 Ne4 10. Bd2 Nxd2 11. Qxd2 Qf6 12. Rac1 Qg6 13. Bd3 Bxd3 14. Qxd3
+Qxd3 15. cxd3 Rfe8 16. e4 dxe4 17. dxe4 Rac8 18. d5 exd5 19. exd5 Ne5 20. d6 c6
+21. Rcd1 c5 22. Nxe5 Rxe5 23. Rfe1 Rxe1+ 24. Rxe1 h5 25. Rd1 a5 26. d7 Rd8 27.
+Rd5 c4 28. Rc5 b6 29. Rc8 Rxc8 30. dxc8=Q+ Kh7 1-0
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.06"]
+[Round "1"]
+[White "Huber, Martin Christian"]
+[Black "Proyer, Enno"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "1686"]
+[BlackElo "1372"]
+[PlyCount "71"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. Ne5 Bf5 6. cxd5 cxd5 7. Qb3 b5 8. Bf4
+e6 9. e3 Bd6 10. Be2 O-O 11. O-O Qc7 12. Rac1 Qe7 13. Rfe1 Nfd7 14. Nxd5 exd5
+15. Qxd5 Nf6 16. Qf3 Be4 17. Qg3 Rd8 18. Bh6 g6 19. Bg5 Kg7 20. f4 h6 21. Bh4
+Ra7 22. Ng4 g5 23. Nxh6 Qe6 24. Qxg5+ Kh7 25. Qxf6 Qxf6 26. Bxf6 Rdd7 27. Ng4
+Nc6 28. Be5 Nxe5 29. Nf6+ Kg6 30. fxe5 Bxe5 31. Nxd7 Bxh2+ 32. Kxh2 Rxd7 33.
+Bf3 Bf5 34. e4 Rxd4 35. exf5+ Kxf5 36. Rc5+ 1-0
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.06"]
+[Round "1"]
+[White "Trippold, Denise"]
+[Black "Vogel, Doris"]
+[Result "1-0"]
+[ECO "D24"]
+[BlackElo "1230"]
+[PlyCount "61"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Bf5 3. c4 dxc4 4. Nc3 e6 5. e3 Nf6 6. Bxc4 Bd6 7. O-O O-O 8.
+Re1 Bb4 9. Bd2 Bxc3 10. Bxc3 Ne4 11. Rc1 Qf6 12. Bd3 Qg6 13. Nh4 Qg5 14. Nxf5
+Qxf5 15. f3 Nxc3 16. Rxc3 Qd5 17. Qb1 Nc6 18. Be4 Qb5 19. Bxh7+ Kh8 20. Bd3 Qa5
+21. a3 b5 22. Rxc6 Rab8 23. Rec1 Rb7 24. Qa1 b4 25. axb4 Qxb4 26. Rxc7 Rxc7 27.
+Rxc7 Ra8 28. Rxa7 Rxa7 29. Qxa7 Qxb2 30. Qa8+ Qb8 31. Qxb8# 1-0
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.06"]
+[Round "2"]
+[White "Berger, Lisa"]
+[Black "Pilsan, Martha"]
+[Result "1-0"]
+[ECO "D13"]
+[WhiteElo "1467"]
+[BlackElo "1200"]
+[PlyCount "43"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 Nf6 5. cxd5 cxd5 6. Rb1 Bd6 7. e3 O-O 8. Bd3
+Nc6 9. O-O e5 10. dxe5 Bxe5 11. Nxe5 Nxe5 12. Bc2 Bd7 13. e4 Bc6 14. exd5 Nxd5
+15. Nxd5 Bxd5 16. b3 Re8 17. Bb2 Nc6 18. Qd3 Qg5 19. Qxh7+ Kf8 20. Ba3+ Nb4 21.
+Bxb4+ Qe7 22. Qh8# 1-0
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.06"]
+[Round "2"]
+[White "Dalnodar, Martina"]
+[Black "Trippold, Denise"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "1402"]
+[PlyCount "46"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c6 4. e3 Nbd7 5. c4 e6 6. Nc3 Bb4 7. a3 Bxc3+ 8.
+bxc3 O-O 9. Bd3 a6 10. Rb1 Re8 11. O-O dxc4 12. Bxc4 Nb6 13. Qd3 Nxc4 14. Qxc4
+b5 15. Qxc6 Bd7 16. Qc5 Ne4 17. Qh5 f6 18. Qg4 e5 19. Bh6 Bxg4 20. Bxg7 Kxg7
+21. h3 Bxf3 22. gxf3 Nd2 23. Rbd1 Nxf1 0-1
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.06"]
+[Round "3"]
+[White "Huber, Martin Christian"]
+[Black "Gludovatz, Lukas"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "1686"]
+[BlackElo "1481"]
+[PlyCount "115"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 Nf6 5. Nc3 b5 6. e5 b4 7. exf6 bxc3 8. bxc3
+Qa5 9. Bd2 Nd7 10. fxe7 Bxe7 11. Bxc4 Nb6 12. Be2 c4 13. Qc2 O-O 14. Nf3 Qxd5
+15. Nd4 Qd7 16. Bf3 Bb7 17. Bxb7 Qxb7 18. O-O Bc5 19. Nf5 Rfe8 20. Be3 Qc7 21.
+Rad1 Rad8 22. Bg5 f6 23. Bh4 Rxd1 24. Rxd1 Rd8 25. Re1 Qd7 26. Qe4 Qf7 27. Qg4
+Kf8 28. Rd1 Rxd1+ 29. Qxd1 Qd7 30. Qxd7 Nxd7 31. Bg3 Ba3 32. Bd6+ Bxd6 33. Nxd6
+Nb6 34. Kf1 Ke7 35. Nf5+ Kf7 36. Ke2 g6 37. Nd4 Nd5 38. Kd2 Ke8 39. Nc6 a6 40.
+Nb4 Nxb4 41. cxb4 Kd7 42. Kc3 Kc6 43. Kxc4 Kb6 44. a4 f5 45. Kd5 Kc7 46. f3 Kb6
+47. g4 fxg4 48. fxg4 h6 49. h4 Kc7 50. b5 axb5 51. axb5 Kb6 52. g5 hxg5 53.
+hxg5 Kxb5 54. Ke6 Kc6 55. Kf6 Kd7 56. Kxg6 Ke8 57. Kh7 Kf7 58. g6+ 1-0
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.06"]
+[Round "3"]
+[White "Trippold, Denise"]
+[Black "Berger, Lisa"]
+[Result "0-1"]
+[ECO "D46"]
+[BlackElo "1467"]
+[PlyCount "39"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Bd6 6. Bd3 O-O 7. O-O Nbd7 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Nf6 11. Bd3 Qe7 12. Re1 h6 13. Bd2 b6 14. Be3 c5 15.
+dxc5 Bxc5 16. Bxc5 bxc5 17. b3 Bb7 18. Rc1 Rad8 19. Re2 Bxf3 20. gxf3 {..27}
+0-1
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.07"]
+[Round "4"]
+[White "Dalnodar, Martina"]
+[Black "Tscharnuter, Alexandra"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1402"]
+[BlackElo "1322"]
+[PlyCount "45"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Bg4 3. Nbd2 Nc6 4. h3 Bh5 5. g4 Bg6 6. Nh4 Nxd4 7. Nb3 Nc6 8.
+Bf4 Nf6 9. Nxg6 hxg6 10. e3 e5 11. Bg5 Qd7 12. Bb5 O-O-O 13. Qf3 Be7 14. O-O-O
+Qd6 15. Qe2 d4 16. a3 Ne4 17. Bxe7 Qxe7 18. Bxc6 bxc6 19. Qf3 Ng5 20. Qxc6 dxe3
+21. fxe3 Rxd1+ 22. Rxd1 Rxh3 23. Qa8# 1-0
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.07"]
+[Round "5"]
+[White "Huber, Martin Christian"]
+[Black "Calovi, Luca"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "1686"]
+[BlackElo "1363"]
+[PlyCount "61"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Be6 8.
+Qc2 g6 9. Nf3 c5 10. dxc5 Bxc5 11. O-O Nbd7 12. Rad1 Qb6 13. Na4 Qc7 14. Nxc5
+Nxc5 15. Bxf6 Bg4 16. Be2 Bf5 17. Qc3 Qb6 18. Bd4 Rac8 19. b4 Na4 20. Qxc8 Rxc8
+21. Bxb6 Nc3 22. Bd4 Nxe2+ 23. Kh1 Nxd4 24. Nxd4 Be4 25. f3 Bc2 26. Rc1 Bf5 27.
+Nxf5 Rxc1 28. Ne7+ Kf8 29. Nxg6+ hxg6 30. Rxc1 Ke7 31. Rc7+ 1-0
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.07"]
+[Round "5"]
+[White "Trippold, Denise"]
+[Black "Majkovski, Sarah"]
+[Result "0-1"]
+[ECO "D37"]
+[BlackElo "1200"]
+[PlyCount "92"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 e6 4. e3 Nf6 5. Nc3 Be7 6. Bd3 O-O 7. O-O b6 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Ba6 11. b3 Bf6 12. Be3 Qd6 13. Qd3 g6 14. Rad1 Rad8
+15. Rd2 Rd7 16. Rfd1 Rfd8 17. d5 exd5 18. Bxd5 Nb4 19. Qe4 Nxd5 20. Qxd5 Qxd5
+21. Rxd5 Rxd5 22. Rxd5 Rxd5 23. cxd5 Bb7 24. Kf1 Bxd5 25. Ke2 Kf8 26. Nd4 Bxg2
+27. Nb5 Be5 28. h4 Bf6 29. Bg5 Bxg5 30. hxg5 Ke7 31. Nxc7 f6 32. f4 a5 33. Kf2
+Kd7 34. Kxg2 Kxc7 35. gxf6 Kd7 36. Kg3 Ke6 37. Kg4 Kxf6 38. a4 h5+ 39. Kh4 Kf5
+40. Kg3 h4+ 41. Kxh4 Kxf4 42. Kh3 Ke3 43. Kg4 Kd3 44. Kg5 Kc3 45. Kxg6 Kxb3 46.
+Kf5 Kxa4 0-1
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.07"]
+[Round "5"]
+[White "Uksini, Bardhyl"]
+[Black "Kogler, Paul"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "1256"]
+[BlackElo "1200"]
+[PlyCount "83"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bg4 4. c4 c6 5. h3 Bh5 6. Nc3 e6 7. Bd3 Bb4 8. Bd2
+O-O 9. a3 dxc4 10. Bxc4 Bxc3 11. Bxc3 Nd5 12. Qc2 Bg6 13. Qd2 Nd7 14. O-O-O Qf6
+15. Rhe1 Qf5 16. e4 Qf6 17. exd5 cxd5 18. Bd3 Rac8 19. Kb1 Rc4 20. Ka2 Bxd3 21.
+Qxd3 Qe7 22. h4 Rfc8 23. Ng5 Nf8 24. Qg3 f6 25. Nf3 Ng6 26. h5 Nf8 27. h6 Ng6
+28. Qg4 Re8 29. hxg7 Kxg7 30. Rh1 f5 31. Qh5 Rh8 32. Qh6+ Kg8 33. Ne5 Nxe5 34.
+dxe5 Qg7 35. Qxe6+ Qf7 36. Qxd5 Qxd5 37. Rxd5 Kf8 38. Rd8+ Kg7 39. e6+ Rxc3 40.
+Rxh8 Rc7 41. R1xh7+ Kf6 42. Rxc7 1-0
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.07"]
+[Round "6"]
+[White "Berger, Lisa"]
+[Black "Holzinger, Magdalena"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "1467"]
+[BlackElo "1200"]
+[PlyCount "47"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 Bg4 5. e3 e6 6. cxd5 cxd5 7. Be2 Bb4 8. Bd2
+Nc6 9. a3 Ba5 10. b4 Bb6 11. O-O O-O 12. b5 Na5 13. Ne5 Bxe2 14. Qxe2 a6 15.
+bxa6 bxa6 16. Rfb1 h6 17. Rb2 Qb8 18. Rab1 Ra7 19. Rxb6 Rb7 20. Rxb7 Nxb7 21.
+Qxa6 Qd6 22. Qxb7 Qxa3 23. h3 Qa2 24. Nxa2 1-0
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.07"]
+[Round "6"]
+[White "Dalnodar, Martina"]
+[Black "Schnegg, Anna Lena"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1402"]
+[BlackElo "1561"]
+[PlyCount "78"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Nf6 4. e3 c5 5. c4 cxd4 6. Nxd4 Bb4+ 7. Nc3 O-O 8. a3
+Bxc3+ 9. bxc3 Qa5 10. Qc1 dxc4 11. Bxc4 e5 12. Nb3 Qc7 13. Bg5 Qxc4 14. Nd2 Qc6
+15. O-O Bf5 16. Rd1 Ne4 17. Nxe4 Bxe4 18. f3 Bxf3 19. gxf3 Qg6 20. e4 h6 21. h4
+hxg5 22. hxg5 Nc6 23. Rb1 b6 24. f4 Qxe4 25. fxe5 Qxe5 26. Rb2 Rad8 27. Rh2
+Rxd1+ 28. Qxd1 Qxg5+ 29. Rg2 Qc5+ 30. Rf2 Qxc3 31. Rc2 Qe3+ 32. Kg2 Nd4 33. Rc4
+Nf5 34. Qd7 Qe2+ 35. Kg1 Ne3 36. Qh3 Qxc4 37. Qxe3 Rd8 38. Kf2 Qc2+ 39. Kf3 Rd3
+0-1
+
+[Event "AUT-ch U08/10"]
+[Site "Schwarzach"]
+[Date "2008.06.08"]
+[Round "7"]
+[White "Uksini, Bardhyl"]
+[Black "Nussbaumer, Patrick"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "1256"]
+[BlackElo "1273"]
+[PlyCount "60"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bg4 4. c4 c6 5. h3 Bh5 6. g4 Bg6 7. Nc3 e6 8. g5 Ne4
+9. Bd2 Bd6 10. c5 Bc7 11. Qb3 b6 12. cxb6 axb6 13. O-O-O Nxf2 14. Bg2 Nxd1 15.
+Rxd1 O-O 16. Ne5 Bxe5 17. dxe5 Bh5 18. Rg1 Nd7 19. h4 Nc5 20. Qc2 Bg6 21. Qd1
+Nd3+ 22. Kb1 Nf2+ 23. Qc2 Bxc2+ 24. Kxc2 b5 25. Rf1 Ng4 26. Bh3 Nxe5 27. Rd1 b4
+28. Ne2 Rxa2 29. Bxb4 Qb6 30. Bd2 Qxb2# 0-1
+
+[Event "Bogota op"]
+[Site "Bogota"]
+[Date "2008.06.07"]
+[Round "2.1"]
+[White "Arias, JD."]
+[Black "Becerra, Juan David"]
+[Result "0-1"]
+[ECO "D10"]
+[BlackElo "2105"]
+[PlyCount "52"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "COL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. cxd5 cxd5 5. dxe5 d4 6. Qa4+ Nc6 7. Nb5 Bg4 8.
+h3 Bf5 9. Nf3 a6 10. Na3 b5 11. Qd1 Bc5 12. Bd2 Qb6 13. Rc1 Nge7 14. g3 Be4 15.
+Bg2 Nxe5 16. O-O Bxf3 17. exf3 Rd8 18. Qe2 N5c6 19. Qd3 O-O 20. f4 Nd5 21. Qf5
+Nce7 22. Qd3 Qd6 23. Nc2 h5 24. Nxd4 Nf6 25. Ba5 Bxd4 26. Rfd1 Bxf2+ 0-1
+
+[Event "Bogota op"]
+[Site "Bogota"]
+[Date "2008.06.07"]
+[Round "3.3"]
+[White "Jimenez, Luis Felipe"]
+[Black "Neira, Robert Nicolas"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2138"]
+[BlackElo "1958"]
+[PlyCount "64"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "COL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 a6 5. Bf4 Bb4 6. Qc2 Bd7 7. a3 Bxc3+ 8.
+Qxc3 Nc6 9. c5 Ne7 10. e3 Ng6 11. Be5 h6 12. Bd3 Ne4 13. Qc2 f6 14. Bxe4 dxe4
+15. Qxe4 f5 16. Qc2 O-O 17. O-O Bc6 18. Qe2 Bb5 19. Qc2 Bxf1 20. Rxf1 Rc8 21.
+c6 b6 22. Rc1 Nh4 23. Nxh4 Qxh4 24. Qc4 Qe7 25. Qxa6 Ra8 26. Qc4 Rfd8 27. Rd1
+Ra5 28. Kh1 Rxe5 29. b4 Red5 30. f3 Kh8 31. g3 Qd6 32. Kg2 e5 0-1
+
+[Event "Bogota op"]
+[Site "Bogota"]
+[Date "2008.06.07"]
+[Round "4.8"]
+[White "Arias, JD."]
+[Black "Gonzalez, Carlos Alberto"]
+[Result "1-0"]
+[ECO "D02"]
+[BlackElo "2098"]
+[PlyCount "57"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "COL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c5 3. Nf3 Nf6 4. Nc3 Nc6 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bg4 9. Be3 e6 10. Be2 Bb4+ 11. Kf1 O-O 12. h3 Bxf3 13. Bxf3 Bc3 14. Rb1
+Bxd4 15. Bxd4 Nxd4 16. Rxb7 Nxf3 17. Qxf3 Rc8 18. g3 Rc1+ 19. Kg2 Rc7 20. Rb3
+a5 21. Rd1 Qa8 22. Rd4 a4 23. Ra3 Ra7 24. Qd1 f5 25. f3 Rb8 26. Raxa4 Rxa4 27.
+Qxa4 Qxa4 28. Rxa4 Rb2+ 29. Kf1 1-0
+
+[Event "Foligno op"]
+[Site "Foligno"]
+[Date "2008.06.06"]
+[Round "1"]
+[White "Almadori, Giovanni"]
+[Black "Mancin, Michele"]
+[Result "0-1"]
+[ECO "D46"]
+[BlackElo "1782"]
+[PlyCount "106"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 c6 4. Nc3 e6 5. e3 Bd6 6. Bd3 Nbd7 7. O-O O-O 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Nf6 11. Bg5 Be7 12. Qc2 h6 13. Bxf6 Bxf6 14. Rad1
+Qa5 15. a3 Rd8 16. Rfe1 Qb6 17. b4 Qc7 18. Qe2 b6 19. Bc2 Bb7 20. Qe4 g6 21. c5
+bxc5 22. bxc5 Rd7 23. Ne5 Bxe5 24. Qxe5 Qxe5 25. dxe5 Rad8 26. Rd6 Kf8 27. g4
+Rxd6 28. exd6 Ke8 29. Re3 Kd7 30. Rf3 Ke8 31. Rh3 Kf8 32. Rxh6 Kg7 33. Rh3 Rd7
+34. Re3 Kf6 35. h4 Rd8 36. f4 Rh8 37. Rh3 e5 38. fxe5+ Kxe5 39. Bb3 Bc8 40.
+Bxf7 Bxg4 41. Rh2 Kd4 42. Bxg6 Kxc5 43. Rd2 Rg8 44. d7 Bxd7 45. Rxd7 Rxg6+ 46.
+Kf2 a5 47. Rd1 Rh6 48. Rh1 Kb5 49. Kf3 c5 50. Kf4 c4 51. Kg5 Rh8 52. Kg6 c3 53.
+Kg7 Rc8 0-1
+
+[Event "Foligno op"]
+[Site "Foligno"]
+[Date "2008.06.06"]
+[Round "1"]
+[White "Bassini, Massimo"]
+[Black "Cardinali, Egidio"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[PlyCount "93"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. e3 b5 6. a4 Qb6 7. axb5 cxb5 8. b3
+Bg4 9. bxc4 bxc4 10. Qa4+ Qc6 11. Qxc6+ Nxc6 12. Bxc4 Bxf3 13. gxf3 e6 14. Bb5
+Kd7 15. Ra6 Rc8 16. Rxa7+ Kd8 17. Bxc6 Rxc6 18. Bd2 Rc7 19. Rxc7 Kxc7 20. Ke2
+Kd7 21. Ra1 Bd6 22. Ra7+ Bc7 23. Nb5 Rc8 24. Ba5 Ne8 25. Nxc7 Nxc7 26. Rxc7+
+Rxc7 27. Bxc7 Kxc7 28. f4 Kd6 29. e4 g6 30. f3 Kc6 31. Kd3 Kb5 32. Kc3 f6 33.
+Kb3 h6 34. h3 h5 35. h4 Kc6 36. Kc4 Kd7 37. Kc5 g5 38. fxg5 fxg5 39. hxg5 h4
+40. g6 Ke7 41. g7 Kf7 42. d5 exd5 43. exd5 h3 44. d6 h2 45. d7 h1=Q 46. g8=Q+
+Kxg8 47. d8=Q+ 1/2-1/2
+
+[Event "Foligno op"]
+[Site "Foligno"]
+[Date "2008.06.06"]
+[Round "1"]
+[White "Gasperoni, Claudio"]
+[Black "Rocchetti, Sergio"]
+[Result "1-0"]
+[ECO "D53"]
+[WhiteElo "1833"]
+[PlyCount "45"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nc6 7. cxd5 exd5 8. a3
+Be6 9. b4 Nh5 10. Bxe7 Qxe7 11. Bd3 g6 12. h3 Kg7 13. b5 Nd8 14. Ne5 f5 15. Ne2
+Nf7 16. Qc2 Nd6 17. Rc1 Rac8 18. Qc5 b6 19. Qb4 a5 20. bxa6 Ra8 21. O-O Nf6 22.
+Rc3 Rfc8 23. Rfc1 {..} 1-0
+
+[Event "Foligno op"]
+[Site "Foligno"]
+[Date "2008.06.06"]
+[Round "1"]
+[White "Lantini, Marco"]
+[Black "Balducci, Walter"]
+[Result "1-0"]
+[ECO "D09"]
+[WhiteElo "2269"]
+[PlyCount "33"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Nge7 7. O-O Ng6 8. Qb3
+Rb8 9. Rd1 Bxf3 10. exf3 Be7 11. f4 h5 12. Qd3 Nb4 13. Qe4 Nc6 14. e6 O-O 15.
+exf7+ Kxf7 16. Qf5+ Bf6 17. Bd5+ 1-0
+
+[Event "Foligno op"]
+[Site "Foligno"]
+[Date "2008.06.06"]
+[Round "1"]
+[White "Militello, Michele"]
+[Black "Romano, Claudio"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[WhiteElo "1904"]
+[PlyCount "84"]
+[EventDate "2008.06.06"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 g6 5. g3 Bg7 6. cxd5 cxd5 7. Bg2 Nbd7 8.
+O-O O-O 9. Bf4 a6 10. Rc1 b5 11. Ne5 Nxe5 12. dxe5 Ng4 13. Bxd5 Ra7 14. Qd4 Rd7
+15. Qe4 e6 16. Bc6 Rd4 17. Rfd1 Rxe4 18. Rxd8 Rxd8 19. Bxe4 Bxe5 20. Bxe5 Nxe5
+21. b3 Bd7 22. Rd1 Rc8 23. Nb1 Rc7 24. Na3 Bc6 25. Rc1 b4 26. f4 f5 27. Bg2 Nf7
+28. Nb1 Nd8 29. a3 Rd7 30. axb4 Bxg2 31. Kxg2 Kf7 32. Na3 Rb7 33. Nc4 Rxb4 34.

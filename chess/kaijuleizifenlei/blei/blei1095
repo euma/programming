@@ -1,0 +1,600 @@
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O e6 7. Re1 Nc6 8. h3
+a6 9. a4 b6 10. Bg5 h6 11. Bh4 Bb7 12. Bf1 Re8 13. Qd2 e5 14. dxe5 dxe5 15.
+Qxd8 Nxd8 16. Rad1 Ne6 17. Bc4 Nh7 18. Bg3 Nd4 19. Nxd4 exd4 20. Nd5 Rac8 21.
+e5 b5 22. Ba2 c5 23. axb5 axb5 24. e6 c4 25. Nc7 fxe6 26. Nxe8 Rxe8 27. Be5
+Bxe5 28. Rxe5 Bd5 29. Rxd4 Ra8 30. Bb1 Ra1 31. Re1 b4 32. c3 b3 33. f3 Nf6 34.
+Kf2 Kg7 35. Be4 Ra2 36. Re2 g5 37. h4 Kf7 38. hxg5 hxg5 39. Rd1 Ra5 40. Ke3 Ke7
+41. Bxd5 Nxd5+ 42. Kd4 Nb6 43. Re5 Ra8 44. Ree1 Ra2 45. Rd2 Kd6 46. Rde2 e5+
+47. Rxe5 Rxb2 48. Re6+ Kc7 49. Re7+ Kc6 50. R1e6+ Kb5 51. Rb7 Rd2+ 52. Ke3 Rd3+
+53. Ke4 Rxc3 54. Rexb6+ Kc5 55. Rb5+ Kc6 56. R7b6+ Kc7 1-0
+
+[Event "Salou op 10th"]
+[Site "Salou"]
+[Date "2008.05.13"]
+[Round "6"]
+[White "Kovalyov, Anton"]
+[Black "Leon Hoyos, Manuel"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[WhiteElo "2525"]
+[BlackElo "2490"]
+[PlyCount "85"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. e4 Nf6 6. Nc3 d6 7. f3 Nxd4 8.
+Qxd4 Bg7 9. Be3 O-O 10. Qd2 a5 11. b3 Be6 12. Rc1 Nd7 13. Be2 Nc5 14. O-O Qb6
+15. Nb5 Bd7 16. Rfd1 Rfc8 17. Bf1 h5 18. Qf2 Qd8 19. Rc2 Qf8 20. Nc3 Bc6 21.
+Nd5 Bxd5 22. cxd5 Bh6 23. Bxc5 dxc5 24. a4 Bg7 25. Rxc5 Rxc5 26. Qxc5 Qc8 27.
+Qc4 Qd8 28. Rc1 Qb6+ 29. Kh1 Qe3 30. Rd1 Be5 31. Qd3 Qf2 32. g3 h4 33. Rd2 Qe1
+34. f4 Bd6 35. Qe2 Qb1 36. Qd3 Qe1 37. Qe2 Qb1 38. e5 Bb4 39. Rb2 Qa1 40. Ra2
+Qb1 41. Rb2 Qa1 42. Ra2 Qb1 43. Rb2 1/2-1/2
+
+[Event "Salou op 10th"]
+[Site "Salou"]
+[Date "2008.05.14"]
+[Round "7"]
+[White "Langrock, Hannes"]
+[Black "Kovalyov, Anton"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2395"]
+[BlackElo "2525"]
+[PlyCount "47"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3 g6 7. d4 cxd4 8. Ng5
+d5 9. exd6 e6 10. Qf3 Ne5 11. Qg3 Bxd6 12. Ne4 f6 13. O-O Nf7 14. Qf3 f5 15.
+Nxd6+ Qxd6 16. Bf4 Qc6 17. Qxc6+ bxc6 18. cxd4 Ke7 19. Nd2 Rd8 20. Nf3 Kf6 21.
+Rac1 Bb7 22. Rfe1 Nd5 23. Bd2 g5 24. Rc2 1/2-1/2
+
+[Event "Salou op 10th"]
+[Site "Salou"]
+[Date "2008.05.14"]
+[Round "7"]
+[White "Leon Hoyos, Manuel"]
+[Black "Maze, Sebastien"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2490"]
+[BlackElo "2565"]
+[PlyCount "102"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nge7 9. c4 Nxd5 10. exd5 Nd4 11. Be3 Nf5 12. Bd2 Be7 13. cxb5 e4 14. Be2 O-O
+15. O-O Bf6 16. Bc3 Bxc3 17. bxc3 Qf6 18. Qd2 Nh4 19. Kh1 Re8 20. Rab1 Qg6 21.
+Rg1 e3 22. fxe3 Bf5 23. Rbf1 Be4 24. Bf3 Nf5 25. Qf2 axb5 26. Nxb5 Rxa2 27. Qe1
+Bd3 28. e4 Bxb5 29. c4 Ra1 30. exf5 Rexe1 31. Rxe1 Rxe1 32. fxg6 Rxg1+ 33. Kxg1
+Bxc4 34. gxh7+ Kxh7 35. Kf2 Kg6 36. Ke3 Kf5 37. Kd4 Bf1 38. g3 Bh3 39. Be2 Kg5
+40. Bf3 f5 41. Ke3 Kf6 42. Kd4 g5 43. Be2 Kg6 44. Bf3 Kg7 45. Bd1 Bg2 46. h4 f4
+47. hxg5 fxg3 48. Ke3 Bxd5 49. Bc2 Bh1 50. Bd1 Be4 51. Bf3 g2 0-1
+
+[Event "Salou op 10th"]
+[Site "Salou"]
+[Date "2008.05.15"]
+[Round "8"]
+[White "Cori Tello, Jorge"]
+[Black "Lafuente, Pablo"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2377"]
+[BlackElo "2483"]
+[PlyCount "151"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Nf3 Bg4 7. h3 Bh5 8. Be3
+e6 9. Nbd2 Bd6 10. O-O Nge7 11. c4 dxc4 12. Nxc4 Nd5 13. Rc1 Bf4 14. Be4 O-O
+15. Bxd5 exd5 16. Bxf4 Qxf4 17. Qd2 Qxd2 18. Ncxd2 f6 19. a3 Rfd8 20. Rc3 Rd7
+21. b4 Ne7 22. Rfc1 Kf8 23. g4 Bf7 24. Nf1 Ke8 25. Ne3 Kd8 26. Nh4 Nc6 27. Nf3
+Be6 28. Kg2 Rc8 29. Kf1 Ne7 30. Rc5 b6 31. Rxc8+ Nxc8 32. Rc6 Re7 33. Ne1 Kd7
+34. Rc1 Nd6 35. Nd3 g5 36. a4 Bf7 37. b5 Nc4 38. Re1 Nd2+ 39. Kg2 Re4 40. Nb4
+Nc4 41. Nbc2 Bg6 42. Nb4 Bf7 43. Nbc2 Nd6 44. Rd1 Nc8 45. Ra1 Nd6 46. Rd1 Ne8
+47. f3 Re7 48. Kf2 Nc7 49. Nb4 Re8 50. Rc1 Be6 51. h4 gxh4 52. Rh1 Rg8 53. Rxh4
+Rg7 54. Rh6 Rf7 55. Kg3 Ke7 56. Kf4 Kf8 57. Rh5 Rd7 58. Rh2 Kg8 59. Rc2 Bf7 60.
+Kg3 Bg6 61. Rc6 Kf7 62. g5 fxg5 63. Ng4 Re7 64. Ne5+ Kg7 65. Rd6 Ne8 66. Rxd5
+Nf6 67. Rd6 Bf7 68. Nbc6 Rc7 69. Rd8 Bb3 70. Ra8 Bxa4 71. Nd8 Bb3 72. Ndc6 h5
+73. Nxa7 h4+ 74. Kf2 Rc2+ 75. Ke3 Ra2 76. f4 0-1
+
+[Event "Salou op 10th"]
+[Site "Salou"]
+[Date "2008.05.15"]
+[Round "8"]
+[White "Cuartas, Jaime Alexander"]
+[Black "Hernando Rodrigo, Jose Maria"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "2496"]
+[BlackElo "2338"]
+[PlyCount "104"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 Bg4 5. O-O e6 6. Re1 Be7 7. Bb5+ Nc6 8. Qa4
+Bxf3 9. Bxc6+ bxc6 10. Qxc6+ Nd7 11. gxf3 O-O 12. d4 Rc8 13. Qa4 Bg5 14. f4 Bh6
+15. Qd1 cxd4 16. cxd4 Qh4 17. Nc3 Nf6 18. Qf3 Nh5 19. f5 Bxc1 20. Raxc1 exf5
+21. exf5 Nf6 22. Rcd1 h6 23. Qg3 Qh5 24. Qf4 Rfe8 25. Kg2 Rb8 26. Rxe8+ Rxe8
+27. Rd3 Re1 28. Rh3 Rg1+ 29. Kxg1 Qxh3 30. f3 Kh7 31. Ne4 Nxe4 32. Qxe4 h5 33.
+b4 g5 34. Qd5 Kg7 35. a4 g4 36. f6+ Kg6 37. Qe4+ Kxf6 38. Qf4+ Ke6 39. Qe4+ Kf6
+40. fxg4 hxg4 41. b5 Kg5 42. Qe7+ f6 43. d5 Qf3 44. Qg7+ Kf5 45. Qxa7 Qd1+ 46.
+Kf2 Qf3+ 47. Ke1 Qh1+ 48. Ke2 Qf3+ 49. Ke1 Qh1+ 50. Ke2 Qf3+ 51. Ke1 Qh1+ 52.
+Ke2 Qf3+ 1/2-1/2
+
+[Event "Salou op 10th"]
+[Site "Salou"]
+[Date "2008.05.15"]
+[Round "8"]
+[White "Maze, Sebastien"]
+[Black "Movsziszian, Karen"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2565"]
+[BlackElo "2536"]
+[PlyCount "74"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. h3 Nbd7 6. Nf3 e5 7. a4 Qe7 8. Be2
+Bg7 9. dxe5 dxe5 10. Nd2 Nc5 11. Bc4 Ne6 12. Nb3 O-O 13. Bxe6 Qxe6 14. Qd3 Nh5
+15. g3 b6 16. O-O-O Qe8 17. a5 Be6 18. axb6 axb6 19. Bxb6 Qb8 20. Bc5 Bh6+ 21.
+Kb1 Re8 22. Ne2 Qb7 23. Nec1 Nf6 24. Be3 Bf8 25. Bc5 Bh6 26. Be3 Bxe3 27. Qxe3
+Reb8 28. f3 Nd7 29. f4 Nb6 30. f5 Nc4 31. Qc3 gxf5 32. exf5 Bd5 33. f6 Ra4 34.
+Nd3 Qa7 35. Ndc5 Ra8 36. Nxa4 Qxa4 37. Na5 Rxa5 0-1
+
+[Event "Sofia MTel Masters 4th"]
+[Site "Sofia"]
+[Date "2008.05.08"]
+[Round "1"]
+[White "Cheparinov, Ivan"]
+[Black "Bu Xiangzhi"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2696"]
+[BlackElo "2708"]
+[Annotator "Ftacnik"]
+[PlyCount "109"]
+[EventDate "2008.05.08"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "BUL"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
+Be6 9. Qd2 O-O 10. O-O-O a5 {The modern openings are sometimes playing with
+paradoxes. Black is losing a tempo, weakens b5 square but still gets
+reasonable play due to the activity against the castled white king.} 11. Qe1
+Qc7 {Much less common then 11...Qc8, but in higher sense much more logical.} (
+11... Qc8 12. Bb5 (12. a3 a4 13. Nd2 Nbd7 14. Kb1 Rd8 15. Bb5 d5 16. exd5 Nxd5
+17. Nxd5 Bxd5 18. Qe2 Qc7 19. Ne4 Be6 20. Nc3 Nb6 21. Rxd8+ Rxd8 22. Nxa4 Nc4
+23. Bxc4 Bxc4 24. Qf2 Qc6 25. Nb6 Be6 {0-1 Leko,P (2749)-Svidler,P (2728)/
+Morelia/Linares 2007 (37)}) (12. a4 Nc6 (12... Na6 13. Kb1 Nc7 14. g4 Rd8 15.
+Bb6 Nd7 16. Be3 Nf6 17. Bb6 Nd7 18. Bf2 b6 19. Bd3 Qb7 20. Qe2 Nc5 21. Nxc5
+bxc5 22. Nb5 Rdb8 23. c4 {1-0 Svidler,P (2750)-Bu Xiangzhi (2671)/Germany 2007
+(47)}) 13. g4 Nb4 14. g5 Nh5 15. Kb1 Qc7 16. Qf2 Nf4 17. Nb5 Qb8 18. Bxf4 exf4
+19. N3d4 Bd7 20. Rg1 g6 21. Bc4 Qc8 22. Bb3 Qc5 23. Qd2 {1-0 Anand,V (2766)
+-Vallejo Pons,F (2663)/Monte Carlo 2004 (31)}) 12... Na6 13. Na4 Nb4 14. Qf2
+Nxa2+ 15. Kb1 Nb4 16. Nb6 Qc7 17. Nxa8 Rxa8 18. Bb6 Qc8 19. Ba4 d5 20. c3 Na6
+21. Nd2 dxe4 22. fxe4 Bc5 23. Bxc5 Nxc5 24. Bc2 a4 $17 {0-1 Talla,V (2419)
+-Babula,V (2594)/Havlickuv Brod 2008 (40)}) 12. Bb5 Nbd7 13. Qf2 Rfc8 {The
+first independent move, Bu has a quite playable position.} (13... Bc4 14. Bxc4
+Qxc4 15. Qf1 Qc6 16. a4 Nb6 17. Bxb6 Qxb6 18. Qb5 Qc7 19. Kb1 Rfc8 20. Rd2 Bf8
+21. Rhd1 Qc6 22. Rd3 Nd7 23. Rd5 Nb6 24. Qxc6 bxc6 25. Rxa5 Nc4 26. Rxa8 Rxa8
+27. Nc1 {1-0 Karjakin,S (2599)-Wojtaszek,R (2553)/Moscow 2005 (44)}) 14. Kb1 (
+14. a4 Bxb3 15. cxb3 Nc5 16. Qc2 Qd8 $13) 14... Bc4 15. g4 (15. a4 Bxb3 16.
+cxb3 Nc5 $13) 15... Bxb5 16. Nxb5 Qc6 17. a4 {Cheparinov is wisely refraining
+from grabbing the exchange after Na7 as the knight would remain trapped.} (17.
+Na7 Rxa7 18. Bxa7 b6 $11) 17... Ne8 (17... d5 18. g5 d4 (18... dxe4 19. gxf6
+Nxf6 20. Na7 Rxa7 21. Bxa7 exf3 22. Rc1 Nd7 23. Be3 $16) 19. Bxd4 Nxe4 20. fxe4
+exd4 21. N3xd4 Qc5 22. h4 $16) 18. Rd3 Qc4 19. Nc3 Nc7 20. Bb6 {White decided,
+that is is ncessary to prevent b7-b5 thrust.} (20. f4 b5 $1 $15) (20. h4 b5 $1
+21. axb5 Nxb5 22. Nd5 Bd8 $36) 20... Nxb6 21. Qxb6 Qb4 $1 22. Qxb4 (22. Qe3 b5
+$1 23. axb5 Rcb8 $1 (23... a4 24. Nc1 Rab8 25. N1a2 Qc4 26. Qa7 $13) 24. Nc1
+Nxb5 25. Nxb5 Rxb5 26. Rb3 Qa4 $11) 22... axb4 23. Nd5 Nxd5 24. Rxd5 Rxa4 25.
+Rb5 Ra7 $5 {Black was definitely not worse with his spare pawn, but the
+Chinese player will play the endgame in a very insecure manner.} (25... Rc7 26.
+Rd1 g6 $11) 26. Rxb4 g6 27. Rd1 f5 (27... d5 $2 28. Rb5 dxe4 29. Rxe5 Bf6 30.
+Rxe4 $16) 28. gxf5 gxf5 29. Rd5 (29. exf5 Kf7 30. f4 d5 31. Rb5 exf4 32. Rbxd5
+Ra4 33. Nd4 $14) 29... fxe4 30. fxe4 Kf7 31. c3 h5 32. Na5 Rc7 $2 {All good
+teachers warn chessplayers not to forget about activity in the endgames. When
+facing a dangerous opponent we all tend to forget to good maxims and commit
+mistakes.} (32... Rg8 $5 33. Rxb7 (33. Nxb7 Rg1+ 34. Kc2 Rg2+ 35. Rd2 Rxd2+ 36.
+Kxd2 Ra1) 33... Rg1+ 34. Ka2 Rxb7 35. Nxb7 Ke6 $11) 33. Nc4 Ke6 (33... Ra6 34.
+Ne3 Bg5 35. Nf5 Ke6 36. Rd1 $14) 34. Ne3 Bd8 (34... Bg5 35. Nf5 Ra6) 35. Nf5
+Rd7 (35... Be7 36. Ng7+ Kf7 37. Nxh5 $18) 36. c4 b6 $6 {Now the position is
+also structurally bad and White can roam freely on the kingside.} (36... Ra5 $1
+37. Rxa5 (37. Rd1 b5 38. cxb5 Bb6 $11) 37... Bxa5 38. Ra4 Bd8 39. Ra8 $14) 37.
+Rb3 Ra4 38. Rbd3 Be7 (38... Rxc4 $2 39. Rxd6+ $18) (38... Bc7 39. b3 $16) 39.
+b3 Ra8 40. Rg3 $1 $16 {Saving the position becomes truly challenging for the
+defender.} Bf8 (40... Bf6 41. Kb2 h4 42. Rg6 $16) 41. Kb2 h4 42. Rg6+ Kf7 43.
+Rg4 Rda7 (43... h3 44. Rg3 Ke6 45. Rxh3 $16) 44. Rxh4 Ra1 45. Rh7+ Ke6 (45...
+Kg6 46. Rh8 Re1 47. Rh4 Kf6 48. Kc3 $16) 46. Rh8 {With good play White should
+be winning, unless Black manages to create great counterplay.} Re1 47. Ng3 (47.
+Nxd6 $2 Re2+ 48. Kc3 Re3+ 49. Kb4 Rd8 50. Ka4 Rb8 $14) 47... Kf7 48. Rh7+ Ke6 (
+48... Kg6 49. Rb7 $16) 49. Rb7 Rea1 50. Nf5 R8a2+ 51. Kc3 Rc1+ 52. Kb4 Rb2 53.
+Rb8 Rcb1 54. Rd3 Kf7 55. Rf3 (55. Rf3 d5+ 56. Nd6+ Ke6 57. cxd5+ Kxd6 58. Rbxf8
+$18) 1-0
+
+[Event "Sofia MTel Masters 4th"]
+[Site "Sofia"]
+[Date "2008.05.14"]
+[Round "6"]
+[White "Ivanchuk, Vassily"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2740"]
+[BlackElo "2751"]
+[PlyCount "82"]
+[EventDate "2008.05.08"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "BUL"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 Ne7 12. Nxe7 Qxe7 13. c3 f5 14. Nc2 O-O
+15. O-O Rb8 16. exf5 e4 17. Be2 Bxf5 18. Nb4 Qg5 19. f4 exf3 20. Bxf3 Rbe8 21.
+Nc6 Be5 22. Nxe5 dxe5 23. Qc1 Qxc1 24. Raxc1 Be6 25. Rfe1 f6 26. Rcd1 Rd8 27.
+Bb7 a5 28. Bc6 b4 29. cxb4 axb4 30. a4 Rxd1 31. Rxd1 Rc8 32. Be4 f5 33. Bd5
+Bxd5 34. Rxd5 Rc2 35. b3 Rc3 36. Rxe5 Rxb3 37. Rxf5 Ra3 38. a5 b3 39. Rb5 Kg7
+40. h3 b2 41. Rxb2 Rxa5 1/2-1/2
+
+[Event "Sofia MTel Masters 4th"]
+[Site "Sofia"]
+[Date "2008.05.18"]
+[Round "10"]
+[White "Cheparinov, Ivan"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "2696"]
+[BlackElo "2740"]
+[Annotator "Postny,E"]
+[PlyCount "66"]
+[EventDate "2008.05.08"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "BUL"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c5 {Already a kind of a surprise. Obviously, Ivanchuk has vast
+experience in the Sicilian, however, in his tournament situation when a draw
+would secure him clear first, some solid opening was expected. But, you can
+never know, what to expect from Ivanchuk!} 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5.
+Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8. O-O-O Bb4 {So, it is one of the sharpest
+variations in the Paulsen.} 9. f3 Ne5 10. Nb3 b5 (10... Bxc3 $6 11. bxc3 {is
+in White's favour since the dark squares in Black's camp are vulnerable.}) 11.
+Bd4 {This move is more tempting, though the prophylactic 11.Kb1 is also a
+common move here.} (11. Kb1 Nc4 (11... Be7 12. Qf2 d6 13. Bb6 Qb8 14. Bd4 O-O
+15. g4 Nfd7 16. Rg1 b4 17. Na4 a5 18. f4 Nc6 19. Be3 Ba6 20. g5 Rc8 $132 {0-1
+Macieja,B (2599)-Iotov,V (2531)/Plovdiv BUL 2008/The Week in Chess 703 (69)})
+12. Bxc4 bxc4 13. Nc1 Rb8 14. Bf4 (14. Ka1 $6 O-O 15. Bf4 e5 16. Bg5 Ne8 17.
+N1e2 d6 18. a3 a5 19. Qc1 Be6 20. Na2 f5 21. Nec3 Qb7 22. Rhf1 Bc5 23. Rfe1 f4
+$17 {0-1 Morozevich,A (2755)-Vitiugov,N (2594)/Moscow RUS 2007/The Week in
+Chess 685 (71)}) 14... e5 15. Bg5 Qb6 16. N1e2 O-O 17. Bxf6 Ba3 18. b3 Qxf6 19.
+Nd5 Qd8 20. f4 $1 $14 {1-0 Cheparinov,I (2670)-Pelletier,Y (2609)/Crete 2007/
+CBM 121 (30)}) 11... Be7 (11... Bb7 12. Kb1 Be7 13. Qf2 (13. Na5 d6 14. Ne2 {
+1/2-1/2 Ivanchuk,V (2740)-Ljubojevic,L (2600)/Belgrade 1995/CBM 051}) 13... Rc8
+14. a3 O-O 15. g4 d6 16. g5 Nfd7 17. Rg1 Nc6 18. Be3 b4 19. axb4 Nxb4 20. f4
+Rfe8 21. f5 exf5 22. exf5 Bf8 23. Rd4 $16 {1-0 Cheparinov,I (2550)-Pogorelov,R
+(2451)/Dos Hermanas 2004/CBM 099 ext (41)}) 12. Qf2 {Cheparinov deviates from
+his own game, obviously suspecting some improvement which might have been
+prepared by Vassily Ivanchuk.} (12. Kb1 d6 13. Qf2 O-O 14. g4 Nfd7 15. Rg1 b4
+16. Na4 Qc6 17. Nb6 Nxb6 18. Na5 Qd7 19. Bxb6 Rb8 20. f4 Ng6 21. Nc4 Qc6 22.
+Ba7 Rb5 23. f5 Ne5 24. Nxe5 Rxe5 25. Bd4 $16 {1-0 Cheparinov,I (2625)
+-Middelburg,T (2413)/Netherlands 2006/EXT 2007 (38)}) 12... d6 13. g4 O-O {Now
+the position is similar to one that arises in the other Sicilian variation: 1.
+e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.f3 b5 8.Qd2 and so on.
+Castling on opposite sides always promises a sharp, double-edged fight.} 14. g5
+Nfd7 15. Rg1 Bb7 16. Kb1 Rfc8 17. Rg3 $2 $146 {Just a bad novelty. Needless to
+say, that in such a sharp position one mistake is enough to lose the game.} (
+17. a3 {This move is necessary to prevent b5-b4.} Nc4 18. Bxc4 Qxc4 {I think
+that the recapture by the queen is preferable. This way Black keeps his
+queenside pawns mobile, compared to the position which arises after 18...bxc4.}
+(18... bxc4 19. Nc1 Rab8 20. N1e2 Bc6 21. Ka1 Qa5 22. Na2 e5 23. Bc3 Qc7 24.
+Ng3 g6 25. Nf1 Nc5 26. Ne3 $14 {1-0 Kasparov,G (2838)-Ye Jiangchuan (2667)/
+Bled 2002/EXT 2003 (66)}) 19. Rg4 Qc7 (19... a5 $5 $13 {Ribli[%cal Gb5b4]}) 20.
+f4 e5 21. Be3 exf4 22. Bxf4 Ne5 23. Rg3 Bf8 24. h4 $14 {1-0 Lahno,K (2472)
+-Goloshchapov,A (2577)/Kharkov 2004/CBM 103 (41)[%csl Yd5][%cal Gh4h5,Gc3d5]})
+17... b4 18. Na4 {The knight has to go to this unfortunate square.} Bd8 $1 {
+Covering b6 square and preparing 19...Bc6. The Na4 has no place to retreat to.}
+19. Nc1 {What else?} Bc6 20. b3 Bxa4 21. bxa4 Nc6 22. Be3 Qb8 $1 {Preparing
+either 23...Nb6 or 23...Bb6.} ({An immediate} 22... Nb6 $2 {would
+unnecessarily give up a pawn:} 23. Bxb6 Qxb6 24. Qxb6 Bxb6 25. Rxd6) 23. Rh3 {
+An attempt to create mating threats along the h-file is too primitive but,
+White has no other idea instead. His position on the queenside is permanently
+corrupted.} Nb6 24. Qh4 (24. Bxb6 Qxb6 25. Qxb6 Bxb6 26. Rxd6 Be3 $17 {White
+has too many weaknesses.}) 24... h6 {The only defence but, sufficient.} 25. Qg3
+(25. Qh5 Nxa4 26. gxh6 Nc3+ 27. Ka1 Nxd1 28. hxg7 Bf6+ $19) 25... Nxa4 26. Rxd6
+hxg5 27. Bd3 Bf6 {White has no threats, meanwhile his king is doomed.} 28. e5
+Bxe5 29. Rh8+ {Trying to shatter Chukky's confidence but, not in this
+tournament!} Kxh8 30. Qh3+ Kg8 31. Qh7+ Kf8 32. Rd7 Nc3+ 33. Ka1 Nb5+ {With
+this win Ivanchuk set the seal on a convincing overall victory with a superb
+result: 8 points out of 10!} 0-1
+
+[Event "Sofia MTel Masters 4th"]
+[Site "Sofia"]
+[Date "2008.05.18"]
+[Round "10"]
+[White "Topalov, Veselin"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[WhiteElo "2767"]
+[BlackElo "2751"]
+[PlyCount "68"]
+[EventDate "2008.05.08"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "BUL"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nf6 9. c4 b4 10. Nxf6+ Qxf6 11. Nc2 Qg6 12. Ne3 Be7 13. g3 Nd4 14. Bg2 Bb7 15.
+Nf5 Qxf5 16. exf5 Bxg2 17. Rg1 Bf3 18. Qd3 d5 19. cxd5 Rc8 20. Be3 Nc2+ 21. Kf1
+e4 22. Qxa6 O-O 23. Rb1 Nxe3+ 24. fxe3 Rc2 25. h4 Rd8 26. Qb7 Kf8 27. a4 Rd2
+28. Rc1 R2xd5 29. Rc8 Rd1+ 30. Kf2 R1d2+ 31. Ke1 Rd1+ 32. Kf2 R1d2+ 33. Ke1
+Rd1+ 34. Kf2 R1d2+ 1/2-1/2
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.09"]
+[Round "1"]
+[White "Becic, Said"]
+[Black "De Vreugt, Dennis"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "2132"]
+[BlackElo "2401"]
+[PlyCount "94"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. d3 e5 6. Nc3 Nge7 7. Bg5 h6 8. Be3
+Nd4 9. Bc4 b6 10. Nd5 Bb7 11. Nxe7 Qxe7 12. c3 Ne6 13. Re1 O-O 14. Bd5 Bxd5 15.
+exd5 Nc7 16. c4 f5 17. Qc1 g5 18. h3 b5 19. Nh2 bxc4 20. dxc4 e4 21. Bd2 Ne8
+22. Rb1 a5 23. Bc3 Nd6 24. b3 f4 25. Qb2 Bxc3 26. Qxc3 Qg7 27. Qxg7+ Kxg7 28.
+Nf1 Rfe8 29. Re2 h5 30. Rbe1 Kg6 31. Nd2 Kf5 32. g4+ hxg4 33. hxg4+ Kxg4 34.
+Nxe4 Nxe4 35. Rxe4 Rxe4 36. Rxe4 Kf3 37. Re1 a4 38. Rb1 axb3 39. Rxb3+ Ke4 40.
+Rb7 Rxa2 41. Rxd7 Kf3 42. Rg7 g4 43. d6 Ra1+ 44. Kh2 Rf1 45. Rg5 Rxf2+ 46. Kg1
+Ra2 47. Rd5 Ra1+ 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.09"]
+[Round "1"]
+[White "De Ruiter, Tom"]
+[Black "Miezis, Normunds"]
+[Result "0-1"]
+[ECO "B21"]
+[BlackElo "2553"]
+[PlyCount "54"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. Bb5 Bg7 5. Bxc6 dxc6 6. d3 Nf6 7. O-O O-O 8.
+Qe2 Qb6 9. c4 Nh5 10. Nc3 Qc7 11. Ne1 e5 12. g3 exf4 13. g4 Nf6 14. Bxf4 Qe7
+15. h3 h5 16. e5 Nh7 17. gxh5 Bxh3 18. Ng2 Rae8 19. Rae1 g5 20. Bg3 f5 21. exf6
+Qxe2 22. Rxe2 Rxe2 23. Nxe2 Rxf6 24. Bf2 b6 25. Nc3 Re6 26. Rd1 Bg4 27. Rd2
+Bxh5 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.09"]
+[Round "1"]
+[White "Klein, David"]
+[Black "Overeem, Marc"]
+[Result "0-1"]
+[ECO "B60"]
+[WhiteElo "2073"]
+[BlackElo "2266"]
+[PlyCount "68"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Bxf6 gxf6 8.
+Be2 Rg8 9. O-O Bh3 10. Bf3 Ne5 11. Kh1 Nxf3 12. gxh3 Nxd4 13. Qxd4 Qd7 14. Qd3
+Rc8 15. f4 f5 16. exf5 Rc5 17. f6 Qc6+ 18. Qf3 e6 19. Rae1 Qxf3+ 20. Rxf3 Rf5
+21. Rg3 Rg6 22. Rxg6 hxg6 23. Re4 d5 24. Re5 Rxf4 25. Nxd5 Rf2 26. Ne3 Bd6 27.
+Re4 Rxh2+ 28. Kg1 Rxh3 29. Nc4 Bc7 30. Na3 Rf3 31. Nb5 Bb6+ 32. Kg2 Rxf6 33.
+Nd6+ Kd7 34. Nxb7 Kc7 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.09"]
+[Round "1"]
+[White "Van den Doel, Erik"]
+[Black "Zult, Daan"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2593"]
+[BlackElo "2195"]
+[PlyCount "111"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. e5 Nd5 7. Nc3 Nc7 8.
+Bxc6 dxc6 9. Ne4 Ne6 10. d3 O-O 11. Be3 b6 12. Qd2 Nd4 13. Nxd4 cxd4 14. Bh6 c5
+15. Bxg7 Kxg7 16. Qf4 Bb7 17. Ng3 Qd5 18. f3 Rae8 19. Qg5 Qe6 20. Nh5+ Kg8 21.
+Nf4 Qc8 22. Qh6 Qf5 23. Re2 g5 24. Nh3 f6 25. Rae1 Bc6 26. a3 Qg6 27. Qxg6+
+hxg6 28. b3 Kf7 29. a4 Rh8 30. Kf2 a5 31. Kg3 Rh4 32. exf6 exf6 33. Rxe8 Bxe8
+34. Nf2 f5 35. h3 Bc6 36. Nd1 Rh8 37. Nb2 Bd5 38. Nc4 Bxc4 39. bxc4 f4+ 40. Kg4
+Kf6 41. g3 fxg3 42. Kxg3 Rd8 43. Kg4 Rh8 44. Rb1 Rb8 45. f4 gxf4 46. Kxf4 g5+
+47. Ke4 Ke6 48. Rg1 Rg8 49. h4 Rh8 50. hxg5 Rh4+ 51. Kf3 Kf5 52. Rb1 Rh2 53.
+Rxb6 Rxc2 54. Rb5 Rd2 55. Rxc5+ Ke6 56. Ke4 1-0
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "2"]
+[White "De Vreugt, Dennis"]
+[Black "Hartoch, Robert G"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2401"]
+[BlackElo "2238"]
+[PlyCount "81"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 Nbd7 6. Nf3 Bg7 7. Bd3 e5 8. h3
+O-O 9. O-O Re8 10. a4 d5 11. dxe5 Nxe4 12. Bxe4 dxe4 13. Bg5 Qa5 14. Nxe4 Qxd2
+15. Nfxd2 Rxe5 16. Rfe1 Nf8 17. Nc4 Rd5 18. Ne3 Re5 19. Nc4 Rd5 20. Nf6+ Bxf6
+21. Bxf6 Be6 22. Ne3 Rd7 23. f4 h5 24. g4 Nh7 25. Bc3 hxg4 26. hxg4 f5 27. Nxf5
+Bxf5 28. gxf5 gxf5 29. Re6 Kf7 30. Rh6 Rg8+ 31. Kf2 Ke8 32. Re1+ Kd8 33. Reh1
+Nf8 34. Rh8 Rxh8 35. Rxh8 Ke8 36. Bb4 Rf7 37. Ke3 b6 38. Bxf8 Rxf8 39. Rxf8+
+Kxf8 40. Kd4 Kf7 41. Ke5 1-0
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "2"]
+[White "Ris, Robert"]
+[Black "Nagtegaal, Kees"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2386"]
+[BlackElo "2226"]
+[PlyCount "64"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qg4 Nf6 8.
+Qg3 d6 9. Bg5 Nc6 10. f4 h6 11. Bh4 g5 12. fxg5 Nh5 13. Qg4 hxg5 14. Bxg5 Ne5
+15. Qh4 f6 16. Bd2 Kd7 17. Nc3 Ng7 18. Qg3 Nh5 19. Qh4 Ng7 20. Qf4 Nh5 21. Qf1
+Ng4 22. Qe2 Bf2+ 23. Kd1 Qg8 24. Rf1 Ba7 25. g3 Kc7 26. a4 Bd7 27. a5 Bc6 28.
+Na4 Nxh2 29. Nb6 Nxg3 30. Qf2 Nhxf1 31. Qxf6 Re8 32. Bf4 Qf8 0-1
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Ootes, Lennart"]
+[Black "Overeem, Marc"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[WhiteElo "2035"]
+[BlackElo "2266"]
+[PlyCount "76"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. N1e2 Nf6 8.
+Nf4 Bh7 9. Bd3 Bxd3 10. Qxd3 Qa5+ 11. Bd2 Qa6 12. O-O Qxd3 13. Nxd3 e6 14. Rfe1
+Nbd7 15. Rad1 Be7 16. Bb4 Bxb4 17. Nxb4 O-O 18. Nd3 Rfd8 19. c3 a5 20. Nf1 a4
+21. Nd2 Nd5 22. Rc1 N5b6 23. Ne4 Nc8 24. g3 Ra7 25. Kg2 b6 26. Red1 f6 27. Re1
+Kf7 28. Nb4 Nb8 29. Rcd1 Rad7 30. Ra1 Ra7 31. Rad1 Nd6 32. Nxd6+ Rxd6 33. Ra1
+c5 34. Nc2 Nc6 35. Na3 Rd8 36. dxc5 bxc5 37. Nc4 Ne7 38. Re2 Rd5 1/2-1/2
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Rothuis, Vincent"]
+[Black "Hachijan, Armen"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2369"]
+[PlyCount "65"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. Be2 b5 12. e5 Bb7 13. exf6 Bxf3 14. Bxf3 d5
+15. Nxe6 fxe6 16. Bh5+ g6 17. Bxg6+ Kf8 18. fxe7+ Kg7 19. Bg3 Nf6 20. f5 Qxe7
+21. Rhe1 Rhd8 22. Rxe6 Qxe6 23. fxe6 Kxg6 24. Bh4 Rd6 25. Bxf6 Kxf6 26. Ne4+
+Kxe6 27. Nxd6 Kxd6 28. Rd3 Rg8 29. Ra3 Ra8 30. Rh3 Rh8 31. g4 Ke5 32. Rh5+ Kf4
+33. g5 1-0
+
+[Event "Bussum op"]
+[Site "Bussum"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Grashuis, Aldert Jan"]
+[Black "Witkamp, Jarno"]
+[Result "1-0"]
+[ECO "B15"]
+[BlackElo "1656"]
+[PlyCount "37"]
+[EventDate "2008.05.09"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Bc4 Nf6 5. f3 Bf5 6. fxe4 Nxe4 7. Nf3 e6 8.
+O-O c5 9. Nxe4 Bxe4 10. Ng5 Bg6 11. d5 Be7 12. Bb5+ Nd7 13. dxe6 Bxg5 14. Bxg5

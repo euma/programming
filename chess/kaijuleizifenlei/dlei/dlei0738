@@ -1,0 +1,600 @@
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "8"]
+[White "Idrisova, Roza"]
+[Black "Fakhretdinov, Robert"]
+[Result "0-1"]
+[ECO "D33"]
+[WhiteElo "2082"]
+[BlackElo "2357"]
+[PlyCount "60"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 c4 7. Bg2 Bb4 8. Bd2
+Nge7 9. O-O O-O 10. b3 Bxc3 11. Bxc3 b5 12. bxc4 bxc4 13. Ne5 Be6 14. Nxc6 Nxc6
+15. e4 Qd7 16. Qh5 f5 17. exd5 Bxd5 18. Rab1 Rf7 19. Rfd1 Ne7 20. Re1 Bxg2 21.
+Kxg2 Nd5 22. Qf3 f4 23. Re5 Rd8 24. Ba5 fxg3 25. Qxg3 Rdf8 26. Rb2 Nf4+ 27. Kh1
+Nd3 28. Rbe2 Nxe5 29. Qxe5 Rf5 30. Qc7 Qd5+ 0-1
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "8"]
+[White "Karpeshov, Oleg"]
+[Black "Gavrilov, Vsevolod"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2391"]
+[BlackElo "2111"]
+[PlyCount "105"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Qb3 Qb6 7. Qa3 Na6 8. Bd2
+O-O 9. Rc1 Re8 10. Ne5 Qb4 11. Qxb4 Nxb4 12. a3 Na6 13. b4 Nc7 14. b5 Nd7 15.
+Nxd7 Bxd7 16. cxd5 cxd5 17. a4 Rac8 18. Be2 e5 19. dxe5 Bxe5 20. O-O d4 21.
+exd4 Bxd4 22. Bf3 b6 23. Ne4 Be5 24. Bc3 f5 25. Nf6+ Bxf6 26. Bxf6 Ne6 27. Rcd1
+Nc5 28. Bd5+ Kf8 29. Rd4 Re2 30. Bg5 Be6 31. Bf3 Ra2 32. Re1 Kf7 33. g4 h6 34.
+gxf5 gxf5 35. Bh5+ Kg7 36. Bf4 Ne4 37. f3 Ng5 38. Rxe6 Nh3+ 39. Kf1 Nxf4 40.
+Rd7+ Kg8 41. Bf7+ Kf8 42. Rc6 Rc2 43. Rxc8+ Rxc8 44. Kf2 Rc3 45. Rxa7 Nd3+ 46.
+Ke3 Nc5+ 47. Kd4 Rd3+ 48. Kc4 Rxf3 49. a5 Ne4 50. axb6 Nd6+ 51. Kb4 Rf1 52. Bb3
+Rb1 53. Rd7 1-0
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "8"]
+[White "Khusnutdinov, Ildar"]
+[Black "Shikunova, Oksana"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[PlyCount "58"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nc3 e6 3. Bf4 Nf6 4. e3 c5 5. dxc5 Bxc5 6. Bb5+ Bd7 7. Bxd7+ Qxd7
+8. a3 Nc6 9. Nf3 O-O 10. O-O Rfe8 11. Re1 h6 12. h3 e5 13. Bh2 d4 14. exd4 exd4
+15. Rxe8+ Rxe8 16. Ne2 Rd8 17. Qd3 a6 18. Ne5 Nxe5 19. Bxe5 Ne8 20. Rd1 Nc7 21.
+Bxd4 Bxd4 22. Qxd4 Qxd4 23. Rxd4 Rc8 24. Nc3 Ne6 25. Rd7 b5 26. Rd6 a5 27. Rd5
+b4 28. axb4 axb4 29. Nd1 Rxc2 1/2-1/2
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "8"]
+[White "Mrjasov, Vagiz"]
+[Black "Gataullin, Artur"]
+[Result "0-1"]
+[ECO "D00"]
+[BlackElo "2068"]
+[PlyCount "82"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. Nc3 e6 5. Bd3 Bg6 6. h3 Nbd7 7. Nb5 e5 8. dxe5
+a6 9. Nxc7+ Qxc7 10. exf6 Bb4+ 11. Kf1 Qb6 12. fxg7 Rg8 13. Nf3 Rxg7 14. Ne5
+Nxe5 15. Bxe5 Rg8 16. g4 Qe6 17. Bd4 h5 18. Be2 hxg4 19. hxg4 O-O-O 20. a3 Bd6
+21. f4 Be4 22. Rg1 Qh6 23. g5 Qh3+ 24. Ke1 Qh2 25. Kd2 Kb8 26. c3 Rc8 27. Qb3
+Bc5 28. Rac1 Bf3 29. Rge1 Bxd4 30. exd4 Qxf4+ 31. Kd1 Bxe2+ 32. Rxe2 Rxg5 33.
+Kc2 Qf5+ 34. Kd2 Rg3 35. Rce1 Qd3+ 36. Kc1 Qxd4 37. Re7 Rcxc3+ 38. bxc3 Rxc3+
+39. Qxc3 Qxc3+ 40. Kd1 Qd3+ 41. Kc1 Qxa3+ 0-1
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "8"]
+[White "Mullagaliev, Nafis"]
+[Black "Kashapov, Sergey"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2141"]
+[PlyCount "61"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 e6 4. d4 Be7 5. Bd3 Nc6 6. c3 h6 7. Nbd2 b6 8. Bb5
+Bd7 9. O-O O-O 10. Bd3 Na5 11. Ne5 c5 12. g4 cxd4 13. exd4 Nh7 14. g5 Be8 15.
+gxh6 f5 16. hxg7 Kxg7 17. Kh1 Bf6 18. Ndf3 Bxe5 19. fxe5 Bh5 20. Qd2 Bxf3+ 21.
+Rxf3 Qh4 22. Bf1 Rg8 23. Rh3 Qg4 24. Rg3 Kf7 25. Rxg4 Rxg4 26. Qh6 Rg7 27. Be3
+Rag8 28. Bb5 Nc4 29. Bxc4 dxc4 30. Rg1 Rxg1+ 31. Bxg1 1-0
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "8"]
+[White "Yusupov, Rafael"]
+[Black "Gerner, Mikhail"]
+[Result "0-1"]
+[ECO "D02"]
+[PlyCount "70"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 e6 5. Nbd2 Be7 6. c3 O-O 7. Qc2 Nc6 8. Bd3
+c4 9. Be2 b5 10. O-O a5 11. a3 Bb7 12. e4 Nxe4 13. Nxe4 dxe4 14. Qxe4 a4 15.
+Rad1 Na5 16. Qc2 Bd5 17. Rfe1 Nc6 18. h4 Bxh4 19. g3 Be7 20. Kh2 h6 21. Rh1 Bd6
+22. Be3 Qf6 23. Kg2 Rad8 24. Rh3 Qg6 25. Qd2 f5 26. Bxh6 gxh6 27. Rxh6 Qg7 28.
+Rdh1 f4 29. Qc2 Rf5 30. Kf1 fxg3 31. fxg3 Bxf3 32. Bxf3 Rxf3+ 33. Ke2 Rxg3 34.
+Qe4 Qg4+ 35. Qxg4+ Rxg4 0-1
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "9"]
+[White "Galin, Ilgam"]
+[Black "Akhmadeev, Valery"]
+[Result "1-0"]
+[ECO "D61"]
+[WhiteElo "2294"]
+[BlackElo "2192"]
+[PlyCount "73"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. e3 O-O 6. Qc2 Nbd7 7. Nf3 c6 8. Bd3
+b6 9. cxd5 cxd5 10. O-O Bb7 11. Nd2 Rc8 12. h3 g6 13. Rac1 Nh5 14. Bxe7 Qxe7
+15. Qb3 Nb8 16. a3 Ng7 17. Qa4 a6 18. b4 Rc7 19. Qb3 Rfc8 20. Rc2 Ne8 21. Rfc1
+Nd7 22. Na4 Rxc2 23. Rxc2 Rxc2 24. Qxc2 Qd6 25. Qb2 Qc7 26. Qc2 Qxc2 27. Bxc2
+Nd6 28. Bd3 b5 29. Nc5 Bc8 30. Nxd7 Bxd7 31. Nb3 Nc8 32. Nc5 Be8 33. Nxa6 Kf8
+34. Kf1 f6 35. Nc7 Ke7 36. Nxe8 Kxe8 37. Bxb5+ 1-0
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "9"]
+[White "Hojamgulyev, Bahodur"]
+[Black "Krestin, Denis"]
+[Result "0-1"]
+[ECO "D61"]
+[WhiteElo "2218"]
+[BlackElo "2102"]
+[PlyCount "42"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. Qc2 O-O 8.
+O-O-O dxc4 9. Bxc4 Nd5 10. h4 Re8 11. Ne4 f6 12. Bf4 Nxf4 13. exf4 Nf8 14. g4
+Qc7 15. Qd2 b5 16. Be2 Ng6 17. f5 exf5 18. gxf5 Bxf5 19. Bd3 Bg4 20. Be2 Qf4
+21. h5 Bb4 0-1
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "9"]
+[White "Iksanov, Timur"]
+[Black "Idrisova, Roza"]
+[Result "0-1"]
+[ECO "D15"]
+[BlackElo "2082"]
+[PlyCount "86"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. e3 b5 6. cxd5 cxd5 7. Bd3 Bg4 8. O-O
+e6 9. Re1 Be7 10. e4 O-O 11. e5 Nfd7 12. h3 Bh5 13. Bf4 Nc6 14. g4 Bg6 15. Bg3
+Qb6 16. Bxg6 hxg6 17. Rc1 Rfc8 18. Re3 Rc7 19. Nxd5 exd5 20. e6 Rb7 21. exd7
+Rxd7 22. Rec3 Nd8 23. Bc7 Qe6 24. Re3 Qf6 25. Ne5 Rxc7 26. Rxc7 Bd6 27. Rc2 Qh4
+28. Qf3 Bxe5 29. Rxe5 Ne6 30. Rxd5 Rf8 31. Qe3 g5 32. Qg3 Qh7 33. Rc1 Nf4 34.
+Re5 Nxh3+ 35. Kf1 Nf4 36. Rxg5 Qh1+ 37. Qg1 Qxg1+ 38. Kxg1 Ne2+ 39. Kg2 Nxc1
+40. a3 Nd3 41. b3 Rd8 42. a4 bxa4 43. bxa4 Rxd4 0-1
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "9"]
+[White "Karimov, Zakir"]
+[Black "Bulanov, Stepan"]
+[Result "0-1"]
+[ECO "D03"]
+[WhiteElo "2081"]
+[PlyCount "72"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. Bg5 e6 6. c3 Nc6 7. Nf3 Be7 8. Qc2
+Bd7 9. Bxf6 Bxf6 10. Bxh7 g6 11. Bxg6 fxg6 12. Qxg6+ Ke7 13. g3 Qg8 14. Qd3 Qh7
+15. Qe2 Be8 16. Nbd2 Qf5 17. O-O Bh5 18. Qe3 Rag8 19. Rfe1 Bg5 20. Nxg5 Rxg5
+21. b3 Rg7 22. c4 Bg4 23. f3 Qh5 24. Re2 Bf5 25. Rg2 Rxg3 26. hxg3 Qh1+ 27. Kf2
+Qxa1 28. cxd5 Nxd4 29. g4 Nc2 30. Qc5+ Kf6 31. Kg3 Qe1+ 32. Qf2 Qe5+ 33. f4
+Qc3+ 34. Nf3 Be4 35. dxe6 Bxf3 36. Qxc2 Rh3+ 0-1
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "9"]
+[White "Mikhailov, Pavel"]
+[Black "Fakhretdinova, Margarita"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "1867"]
+[BlackElo "2141"]
+[PlyCount "68"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. cxd5 exd5 5. Nc3 Be7 6. Bg5 O-O 7. e3 c6 8. Bd3
+Nbd7 9. O-O Re8 10. Qc2 Nf8 11. Ne5 Ng6 12. Nxg6 hxg6 13. Rab1 Be6 14. b4 a6
+15. a4 Rc8 16. Rfc1 Qd7 17. Qe2 Bd6 18. Bh4 Ng4 19. Bg3 Bxg3 20. hxg3 Bf5 21.
+Nd1 Qe7 22. Bxf5 gxf5 23. Qf3 Qg5 24. Qf4 Qh5 25. Kf1 Re6 26. Ke1 Re4 27. Qf3
+Rce8 28. Kd2 Qg5 29. Kc2 Nh2 30. Qe2 Rxd4 31. Nc3 Ng4 32. exd4 Rxe2+ 33. Nxe2
+Nxf2 34. Kb2 Ne4 0-1
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "9"]
+[White "Plokhov, Mikhail"]
+[Black "Ivanov, David"]
+[Result "0-1"]
+[ECO "D90"]
+[PlyCount "120"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 c6 5. cxd5 cxd5 6. Bf4 Bg7 7. e3 O-O 8. Be2
+b6 9. O-O Bb7 10. h3 Nc6 11. a3 Rc8 12. Rc1 e6 13. Qd2 Re8 14. Nb5 Bf8 15. b4
+a6 16. Nc3 b5 17. Rc2 Qb6 18. Rfc1 Red8 19. Ne1 Ne4 20. Nxe4 dxe4 21. Rc3 e5
+22. Bg5 Rd5 23. Bf6 Bg7 24. Bxg7 Kxg7 25. Qb2 exd4 26. exd4 Rcd8 27. Rd1 R8d6
+28. Nc2 f6 29. Rc5 Qd8 30. Rxd5 Rxd5 31. Qc3 Qd7 32. Bg4 f5 33. Be2 f4 34. Bg4
+Qd8 35. Be6 Rd6 36. d5+ Qf6 37. Qc5 Qe5 38. Qb6 Nd8 39. Qc7+ Kf6 40. Bg8 Qe7
+41. Qxe7+ Kxe7 42. Rd4 Kf8 43. Be6 Nxe6 44. dxe6 Bd5 45. g3 g5 46. h4 h6 47.
+hxg5 hxg5 48. gxf4 gxf4 49. Rd2 Ke7 50. Kf1 Kxe6 51. Ke1 Ke5 52. Kf1 Rh6 53.
+Kg1 Bc6 54. Rd8 e3 55. fxe3 Rh1+ 56. Kf2 Rh2+ 57. Ke1 Rxc2 58. exf4+ Ke4 59.
+Kd1 Rc4 60. Rf8 Ke3 0-1
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "9"]
+[White "Valiullin, Albert"]
+[Black "Baiburin, Ildar"]
+[Result "0-1"]
+[ECO "D42"]
+[PlyCount "86"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. Nf3 Nf6 5. cxd5 Nxd5 6. e3 cxd4 7. exd4 Be7 8.
+Bd3 O-O 9. O-O Nc6 10. Ne5 Nxe5 11. dxe5 Nxc3 12. bxc3 f5 13. Qf3 Qc7 14. Qg3
+Qxc3 15. Bh6 Rf7 16. Rac1 Qd4 17. Rc4 Qd8 18. Be2 Bf8 19. Bh5 Rd7 20. Bg5 Be7
+21. Bh6 Qf8 22. Rfc1 Rd8 23. Rc7 Bd7 24. Rxb7 Kh8 25. Bg5 Bxg5 26. Qxg5 h6 27.
+Qg3 Rac8 28. Rxc8 Bxc8 29. Rb1 Qc5 30. h3 Qc2 31. Qb3 Rd2 32. Qxc2 Rxc2 33. Rb8
+Kh7 34. Be8 Rc5 35. a4 Ba6 36. f4 Bc4 37. Bb5 Bd5 38. Bf1 Rc1 39. Rb4 Ra1 40.
+Kf2 Ra2+ 41. Kg3 Bc6 42. Rc4 Bxa4 43. Rc8 Bb3 0-1
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "9"]
+[White "Vlasov, Andrey"]
+[Black "Gazizov, Iljas"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[WhiteElo "2290"]
+[BlackElo "2186"]
+[PlyCount "20"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Be2 Be7 7. Nh4 Bg6 8. Nxg6
+hxg6 9. Qc2 Nbd7 10. Bd2 O-O 1/2-1/2
+
+[Event "Sterlitamak op"]
+[Site "Sterlitamak"]
+[Date "2008.07.03"]
+[Round "9"]
+[White "Yakovlev, Yuriy"]
+[Black "Mullagaliev, Nafis"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[WhiteElo "2166"]
+[BlackElo "2141"]
+[PlyCount "94"]
+[EventDate "2008.06.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. cxd5 exd5 5. Qc2 f5 6. e3 Nf6 7. Bd3 Ne4 8. Nge2
+Bb4 9. f3 Nd6 10. a3 Ba5 11. b4 Bb6 12. O-O O-O 13. b5 Bc7 14. Bd2 Nxb5 15.
+Nxb5 cxb5 16. Bxb5 Bd7 17. Rab1 Nc6 18. Bd3 Rb8 19. Kh1 Kh8 20. Nc3 Be6 21. Na4
+Qd6 22. f4 Ba5 23. Nc5 Bxd2 24. Qxd2 b6 25. Nxe6 Qxe6 26. Rfc1 Na5 27. Rc7 Rfe8
+28. Rxa7 Qxe3 29. Qxe3 Rxe3 30. Rxa5 Rxd3 31. Rxd5 Rxa3 32. Rxf5 Rd3 33. Rd5 b5
+34. h3 h6 35. Rb4 Rf8 36. f5 Rb8 37. Rd7 Rc3 38. Rd5 Rd3 39. Rd6 Rc3 40. f6
+gxf6 41. Rxf6 Kg7 42. Rf3 Rc4 43. Rfb3 Rd8 44. Rxb5 Rcxd4 45. Rg3+ Kh7 46. Rf5
+R8d7 47. Rf8 Rg7 1/2-1/2
+
+[Event "Brno Duras GM"]
+[Site "Brno"]
+[Date "2008.06.27"]
+[Round "1"]
+[White "Polak, Tomas"]
+[Black "Brener, Ilja"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2553"]
+[BlackElo "2423"]
+[PlyCount "63"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 c6 8. Qc2
+Nbd7 9. Nge2 Re8 10. O-O h6 11. Bh4 Ne4 12. Bxe7 Qxe7 13. Rae1 Ndf6 14. f3 Nxc3
+15. Nxc3 Be6 16. Kh1 Rad8 17. a3 b6 18. Qf2 c5 19. h3 Qd6 20. Bb1 Nh5 21. f4
+Nf6 22. Rd1 Bc8 23. dxc5 Qxc5 24. Rd4 Rd7 25. Qd2 Rde7 26. Rf3 Bb7 27. Kh2 Re6
+28. Bf5 R6e7 29. g4 g6 30. Bc2 a6 31. Rg3 Kg7 32. Bb1 1/2-1/2
+
+[Event "Brno Duras GM"]
+[Site "Brno"]
+[Date "2008.06.27"]
+[Round "1"]
+[White "Roussel Roozmon, Thomas"]
+[Black "Bernasek, Jan"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2489"]
+[BlackElo "2530"]
+[PlyCount "49"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 a6 5. g3 dxc4 6. a4 e6 7. Bg2 Bb4 8. O-O
+O-O 9. Ne5 Nd5 10. Na2 Be7 11. Nxc4 b5 12. Ne5 Bb7 13. Nc3 Nxc3 14. bxc3 Qc8
+15. Qb3 Nd7 16. Nxd7 Qxd7 17. Ba3 Rfc8 18. Rfd1 Qc7 19. Bxe7 Qxe7 20. Qb4 c5
+21. dxc5 Bxg2 22. Kxg2 Rxc5 23. Qe4 Rac8 24. axb5 axb5 25. Rab1 1/2-1/2
+
+[Event "Brno Duras GM"]
+[Site "Brno"]
+[Date "2008.06.30"]
+[Round "5"]
+[White "Polak, Tomas"]
+[Black "Simacek, Pavel"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2553"]
+[BlackElo "2461"]
+[PlyCount "81"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Nbd7 6. e3 Be7 7. Bd3 O-O 8.
+Nge2 c6 9. Qc2 Re8 10. O-O Nf8 11. f3 Be6 12. Rad1 Rc8 13. a3 Ng6 14. Kh1 Nd7
+15. Bxe7 Qxe7 16. b4 Nb6 17. Ng3 Bd7 18. Rde1 Qf6 19. Qf2 Rcd8 20. f4 Nf8 21.
+f5 Bc8 22. Qf4 Qd6 23. Qh4 Nbd7 24. Nh5 Qh6 25. g4 f6 26. Qg3 Re7 27. Kg1 Rde8
+28. Nf4 g6 29. Kf2 gxf5 30. gxf5+ Rg7 31. Qh3 Qxh3 32. Nxh3 Nb6 33. Nf4 Rg5 34.
+h4 Rxf5 35. Bxf5 Bxf5 36. Nh5 Nfd7 37. Kg3 Bg6 38. Nxf6+ Nxf6 39. Rxf6 Nc4 40.
+b5 Nxe3 41. Rxg6+ 1-0
+
+[Event "Brno Duras GM"]
+[Site "Brno"]
+[Date "2008.07.02"]
+[Round "7"]
+[White "Bernasek, Jan"]
+[Black "Talla, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[WhiteElo "2530"]
+[BlackElo "2403"]
+[PlyCount "100"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 e6 2. d4 d5 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. f3 Bg6 8. Nge2
+Nf6 9. g4 Nfd7 10. Bg3 h5 11. Nf4 Nf8 12. gxh5 Bxh5 13. Bg2 Ne6 14. Nxh5 Rxh5
+15. Qe2 g6 16. O-O-O Na6 17. Kb1 Nac7 18. e4 Qd7 19. h4 O-O-O 20. Bh3 Bd6 21.
+f4 Rdh8 22. Bg4 R5h6 23. e5 Bb4 24. Qf3 Kb8 25. f5 gxf5 26. Bxf5 Be7 27. h5 Bg5
+28. Ne2 Qe7 29. a3 Ka8 30. Be1 Ng7 31. Ng3 Nce6 32. Bg4 Qe8 33. Bb4 f6 34. Bd6
+fxe5 35. dxe5 Be7 36. Rdf1 Ng5 37. Qc3 Ne4 38. Nxe4 dxe4 39. Qb4 Bd8 40. Qb3
+Nxh5 41. Rf7 Bb6 42. Bxh5 Rxh5 43. Rxh5 Rxh5 44. e6 e3 45. e7 e2 46. Rf8 e1=Q+
+47. Ka2 Rh8 48. Qf7 Q1xe7 49. Bxe7 Rxf8 50. Qxf8 Qxf8 1/2-1/2
+
+[Event "Brno Duras GM"]
+[Site "Brno"]
+[Date "2008.07.03"]
+[Round "8"]
+[White "Polak, Tomas"]
+[Black "Mista, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2553"]
+[BlackElo "2537"]
+[PlyCount "25"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Qxd1 8.
+Rxd1 Bxc5 9. Be2 Nbd7 10. b3 b6 11. Bb2 Bb7 12. Nbd2 Ke7 13. Rac1 1/2-1/2
+
+[Event "Brno Duras GM"]
+[Site "Brno"]
+[Date "2008.07.06"]
+[Round "11"]
+[White "Bernasek, Jan"]
+[Black "Mista, Aleksander"]
+[Result "0-1"]
+[ECO "D26"]
+[WhiteElo "2530"]
+[BlackElo "2537"]
+[PlyCount "150"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. dxc5 Qxd1+ 7. Kxd1 Bxc5
+8. Ke2 Nbd7 9. Nc3 a6 10. Bd3 b5 11. Ne4 Nxe4 12. Bxe4 Rb8 13. Bd2 Nf6 14. Bd3
+Bb7 15. Ba5 Bd6 16. Rhc1 Kd7 17. a3 Rhc8 18. Bc3 Ke7 19. g3 g6 20. Nd2 Nd5 21.
+Ba5 f5 22. e4 Nf6 23. exf5 gxf5 24. Nf3 Nd7 25. Nd2 Ne5 26. Bc3 Nxd3 27. Kxd3
+e5 28. Bb4 Bd5 29. Bxd6+ Kxd6 30. Nf1 Bc4+ 31. Kd2 f4 32. Ke1 Ke6 33. Nd2 Bd5
+34. Ke2 Kf5 35. f3 h5 36. Kd1 fxg3 37. hxg3 Rg8 38. Rc5 Rbd8 39. Ke2 Rxg3 40.
+Ke3 h4 41. Rh1 h3 42. Rc7 Rh8 43. Rd7 Ke6 44. Ra7 h2 45. Rxa6+ Kf5 46. Kf2 Rhh3
+47. Rd6 Bxf3 48. Rxh2 e4 49. Rxh3 Rxh3 50. Nxf3 Rxf3+ 51. Ke2 Rb3 52. Rd2 Kf4
+53. Kf1 e3 54. Rc2 Kf3 55. Ke1 Ke4 56. Ke2 Rd3 57. Ke1 Rd5 58. b3 Rh5 59. Rc8
+Rh1+ 60. Ke2 Rh2+ 61. Ke1 Rb2 62. Re8+ Kd3 63. Rd8+ Kc3 64. Re8 Rxb3 65. Rxe3+
+Kb2 66. Re5 Kxa3 67. Kd2 Rb2+ 68. Kc1 b4 69. Re3+ Ka2 70. Re8 Rh2 71. Ra8+ Kb3
+72. Re8 Rh1+ 73. Kd2 Rb1 74. Kd3 Rd1+ 75. Ke2 Rd5 0-1
+
+[Event "Brno Duras GM"]
+[Site "Brno"]
+[Date "2008.07.06"]
+[Round "11"]
+[White "Bobras, Piotr"]
+[Black "Polak, Tomas"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[WhiteElo "2576"]
+[BlackElo "2553"]
+[PlyCount "19"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. Rc1
+Bb7 9. Bd3 Nbd7 10. O-O 1/2-1/2
+
+[Event "Brno Duras GM+"]
+[Site "Brno"]
+[Date "2008.06.29"]
+[Round "4"]
+[White "Chytilek, Roman"]
+[Black "Mista, Aleksander"]
+[Result "0-1"]
+[ECO "D27"]
+[WhiteElo "2390"]
+[BlackElo "2537"]
+[PlyCount "62"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Bb3 cxd4 8.
+exd4 Nc6 9. Nc3 Be7 10. Bg5 O-O 11. Qd2 h6 12. Bf4 Re8 13. Rfe1 Bf8 14. Rad1
+Na5 15. Bc2 Nc4 16. Qc1 b5 17. Ne5 Bb7 18. Nxc4 bxc4 19. Be5 Rc8 20. Bb1 Nd5
+21. Re2 Qg5 22. Qxg5 hxg5 23. f3 Red8 24. Kf2 Bb4 25. Nxd5 Bxd5 26. Ke3 f6 27.
+Bg3 e5 28. Bf5 exd4+ 29. Rxd4 Bc5 30. Bxc8 Bxd4+ 31. Kxd4 Bxf3+ 0-1
+
+[Event "Brno Duras IM-A"]
+[Site "Brno"]
+[Date "2008.06.28"]
+[Round "2"]
+[White "Popchev, Milko"]
+[Black "Roubalik, Jakub"]
+[Result "1-0"]
+[ECO "D04"]
+[WhiteElo "2426"]
+[BlackElo "2175"]
+[PlyCount "85"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c6 4. Be2 Bf5 5. O-O e6 6. b3 Bd6 7. Bb2 h6 8. Ne5
+Nfd7 9. Nd2 Nxe5 10. dxe5 Bc5 11. Bf3 O-O 12. e4 dxe4 13. Nxe4 Bxe4 14. Bxe4
+Qe7 15. a3 Rd8 16. Qg4 Qg5 17. Qxg5 hxg5 18. Rad1 Na6 19. g3 Nc7 20. Kg2 Kf8
+21. c4 Ke8 22. Bc1 Be7 23. Kf3 f5 24. exf6 gxf6 25. Bg6+ Kf8 26. h4 Kg7 27. Bc2
+Rxd1 28. Rxd1 Rd8 29. Rxd8 Bxd8 30. hxg5 fxg5 31. Kg4 Kh6 32. Be3 b6 33. Be4 c5
+34. f4 gxf4 35. Bxf4+ Kg7 36. Be5+ Kf7 37. Kh5 Ne8 38. Bg6+ Kf8 39. Bxe8 Kxe8
+40. Kg6 Kf8 41. g4 Kg8 42. Bd6 a6 43. a4 1-0
+
+[Event "Brno Duras IM-A"]
+[Site "Brno"]
+[Date "2008.06.28"]

@@ -1,0 +1,600 @@
+[WhiteTeam "Kisber Aszar"]
+[BlackTeam "TURUL"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 Nc6 2. d4 e6 3. f4 d5 4. e5 Nge7 5. Nf3 Ng6 6. Bd3 Nh4 7. c3 Nxg2+ 8. Kf2
+Nh4 9. Nbd2 Bd7 10. b4 a6 11. a4 Be7 12. Rg1 g6 13. a5 Na7 14. Nb3 Nb5 15. Bd2
+Bc6 16. Qf1 Nxf3 17. Kxf3 Bh4 18. Qh3 Kd7 19. Ke2 Kc8 20. Kd1 Kb8 21. Kc2 Ka7
+22. Kb2 Be7 23. Be3 Qf8 24. Nc5 Rd8 25. Rgc1 h6 26. Qg2 Rg8 27. Qf2 g5 28. f5
+Bxc5 29. bxc5 exf5 30. Bxf5 Qe7 31. Rf1 Rdf8 32. Qg2 f6 33. e6 h5 34. Rfe1 Ka8
+35. Kc2 Na7 36. Rab1 Rb8 37. Bd2 Nb5 38. Ra1 1/2-1/2
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.16"]
+[Round "8"]
+[White "Sebestyen, Gabor"]
+[Black "Furesz, Jozsef"]
+[Result "1-0"]
+[ECO "C13"]
+[WhiteElo "2187"]
+[BlackElo "2088"]
+[PlyCount "65"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Kisber Aszar"]
+[BlackTeam "TURUL"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 Nd7 8.
+Qd2 Be7 9. O-O-O b6 10. Bb5 O-O 11. Bc6 Rb8 12. Qe2 f5 13. Nc3 Rf6 14. Rhe1 Rh6
+15. Qc4 b5 16. Bxb5 Nb6 17. Qe2 Bf6 18. Na4 a6 19. Nxb6 Rxb6 20. Bc4 Qd6 21.
+Kb1 a5 22. h3 a4 23. Ne5 Qb4 24. b3 Bxe5 25. dxe5 Rb8 26. Rd8+ Kf7 27. Red1 Rh4
+28. f4 Kg6 29. Qf2 Rh5 30. Qg3+ Kf7 31. Qd3 Rh4 32. Qxf5+ Ke7 33. Qf8# 1-0
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.16"]
+[Round "8"]
+[White "Horvath, Attila"]
+[Black "Grinacz, Aba Samuel"]
+[Result "1-0"]
+[ECO "C34"]
+[WhiteElo "2075"]
+[PlyCount "68"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Tata Geniusz"]
+[BlackTeam "Zoltek"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 d6 5. d4 Nf6 6. Nc3 Bg4 7. Bxf4 O-O 8.
+O-O Nbd7 9. Bd3 Nb6 10. Qd2 d5 11. e5 Nfd7 12. Ne2 Bh4 13. Nxh4 Qxh4 14. Bg5
+Bxe2 15. Bxh4 Bxf1 16. Rxf1 Rae8 17. a4 Re6 18. b3 Nc8 19. Bf5 Rh6 20. Bg5 Re6
+21. Bxe6 fxe6 22. Rxf8+ Nxf8 23. Qb4 h6 24. Qxb7 hxg5 25. Qxc8 a6 26. c4 dxc4
+27. bxc4 c6 28. d5 cxd5 29. cxd5 exd5 30. e6 d4 31. e7 Kh7 32. exf8=R d3 33.
+Qf5+ g6 34. Qf7+ Kh6 1-0
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.16"]
+[Round "8"]
+[White "Kovacs, David"]
+[Black "Bognar, Attila"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2071"]
+[PlyCount "74"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Tata Geniusz"]
+[BlackTeam "Zoltek"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. b3 O-O 7. Bb2 a6 8. Bd3
+c5 9. Nf3 Bg4 10. h3 Bxf3 11. Qxf3 Nbd7 12. O-O Ne5 13. Qe3 Nxd3 14. Qxd3 Ne8
+15. Nd5 Bf6 16. Nxf6+ Nxf6 17. Rad1 Ne8 18. e5 d5 19. Qxd5 Qxd5 20. Rxd5 b6 21.
+Rd7 g6 22. Rfd1 Ng7 23. R1d6 b5 24. e6 Nf5 25. Rc6 fxe6 26. g4 Nd4 27. Rxc5 e5
+28. Bxd4 exd4 29. Rxd4 Rf3 30. Kg2 Raf8 31. Rd2 R3f6 32. Rcd5 Kg7 33. Rd7+ Kh6
+34. R7d6 Kg5 35. Rxf6 Rxf6 36. Kg3 Rf7 37. Rd6 b4 1-0
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.16"]
+[Round "8"]
+[White "Toth, Antal"]
+[Black "Lugasi, Zoltan"]
+[Result "0-1"]
+[ECO "C45"]
+[BlackElo "2064"]
+[PlyCount "46"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Zoltek"]
+[BlackTeam "Tata Geniusz"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 b6 8.
+O-O Bb7 9. Nb5 O-O-O 10. Bxc5 bxc5 11. Qh5 Ne5 12. Nd2 Kb8 13. Rfe1 g5 14. Qe2
+N7g6 15. Qe3 c6 16. Na3 d5 17. Be2 d4 18. cxd4 cxd4 19. Qh3 d3 20. Bd1 Rd4 21.
+Nf3 g4 22. Nxe5 gxh3 23. Nd7+ Rxd7 0-1
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.16"]
+[Round "8"]
+[White "Rummel, Zsolt"]
+[Black "Bereczki, Istvan"]
+[Result "1-0"]
+[ECO "C64"]
+[WhiteElo "2160"]
+[BlackElo "2138"]
+[PlyCount "65"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Zsambeki"]
+[BlackTeam "Vertesi Eromu"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nge7 5. c3 Bb6 6. d4 exd4 7. cxd4 d5 8.
+exd5 Nxd5 9. Re1+ Be6 10. Nc3 O-O 11. h3 h6 12. Bxc6 bxc6 13. Re5 Nxc3 14. bxc3
+Qf6 15. a4 a5 16. Qe2 Bd5 17. Nh2 Qg6 18. Qg4 Qxg4 19. Nxg4 f6 20. Re1 Kf7 21.
+Ne3 Rfe8 22. Bb2 Be6 23. c4 c5 24. d5 Bd7 25. Bc3 h5 26. Kf1 f5 27. f3 g6 28.
+Bd2 Rad8 29. Reb1 Rb8 30. Nd1 c6 31. Bf4 Rb7 32. Nc3 Re7 33. Ra2 1-0
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Horvath, Rudolf"]
+[Black "Nemeth, Lajos"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "1951"]
+[PlyCount "18"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Balatonfuredi"]
+[BlackTeam "Vertesi Eromu"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e6 2. g3 Nf6 3. Bg2 c6 4. d4 d5 5. Qe2 Na6 6. Nf3 Be7 7. O-O O-O 8. a3
+Nxe4 9. Nbd2 f5 1/2-1/2
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Vargyas, Zoltan"]
+[Black "Szuts, Janos"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2158"]
+[BlackElo "1982"]
+[PlyCount "103"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Balatonfuredi"]
+[BlackTeam "Vertesi Eromu"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 d6 2. d4 Nd7 3. Bc4 e5 4. Nf3 h6 5. dxe5 Qe7 6. Nc3 dxe5 7. Be3 c6 8. Qd2
+Ngf6 9. h3 Nb6 10. Bb3 Be6 11. Nxe5 Bxb3 12. axb3 Nxe4 13. Nxe4 Qxe5 14. Bxb6
+Qxe4+ 15. Kd1 Qd5 16. Qxd5 cxd5 17. Rxa7 Rxa7 18. Bxa7 Kd7 19. Bd4 f6 20. Ke2
+Bd6 21. Rd1 Re8+ 22. Kf3 Re6 23. Rd3 g6 24. Be3 Re5 25. Bxh6 g5 26. h4 Rf5+ 27.
+Ke2 g4 28. Bd2 Bc5 29. Be3 Bd6 30. Rd4 g3 31. fxg3 Bxg3 32. c4 Kc6 33. Rxd5
+Rxd5 34. cxd5+ Kxd5 35. h5 Be5 36. g4 Ke6 37. Kd3 Bxb2 38. Bd4 Bc1 39. Ke4 Bh6
+40. Be3 Bf8 41. Bb6 Bh6 42. b4 Bf8 43. Bc5 Bh6 44. b5 Bd2 45. Be3 Bb4 46. h6
+Kf7 47. Kd5 Be7 48. h7 Kg7 49. Ke6 Bd8 50. Bd4 Kxh7 51. Bxf6 Bc7 52. Kf7 1-0
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Meixner, Ferenc"]
+[Black "Furesz, Jozsef"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2140"]
+[BlackElo "2088"]
+[PlyCount "63"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Esztergomi"]
+[BlackTeam "TURUL"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 Qb6 5. bxc5 Bxc5 6. d4 Be7 7. Bd3 Nc6 8. O-O
+Bd7 9. c3 f6 10. Na3 a6 11. c4 fxe5 12. dxe5 Qc7 13. Qe2 d4 14. Nc2 Bc5 15. Bb2
+Nge7 16. Ncxd4 O-O-O 17. Nb3 Ba7 18. Ba3 Rdg8 19. Bd6 Qd8 20. c5 Nb4 21. Bc4
+Ned5 22. a3 Nf4 23. Qd2 Nbd5 24. Nbd4 g5 25. c6 Bxc6 26. Nxc6 bxc6 27. Nd4 Kd7
+28. Rab1 Qa8 29. Rfc1 Bxd4 30. Qxd4 Re8 31. g3 Nh3+ 32. Kf1 1-0
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Rozsa, Sandor"]
+[Black "Toth, Tihamer"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2025"]
+[BlackElo "2129"]
+[PlyCount "46"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Honved II"]
+[BlackTeam "Hobagoly"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e6 2. b3 d5 3. Bb2 dxe4 4. Nc3 Nf6 5. Qe2 Be7 6. Nxe4 O-O 7. Nf3 b6 8.
+O-O-O Bb7 9. Nxf6+ Bxf6 10. d4 Nd7 11. Ne5 Qe7 12. f4 Rfd8 13. Rg1 g6 14. g4
+Nxe5 15. dxe5 Rxd1+ 16. Kxd1 Rd8+ 17. Kc1 Qc5 18. Rg3 Bh4 19. Rh3 Be7 20. Qe3
+Qd5 21. Qe2 Qh1 22. a3 a5 23. Kb1 Rd2 0-1
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Sugar, Balint"]
+[Black "Salamon, Peter"]
+[Result "0-1"]
+[ECO "C89"]
+[BlackElo "1935"]
+[PlyCount "62"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Zsambeki"]
+[BlackTeam "Kisber Aszar"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
+Re4 g5 16. Qf1 Qh5 17. Nd2 Bf5 18. f3 Nf6 19. Re1 Rae8 20. Rxe8 Rxe8 21. a4 Qg6
+22. Bd1 Bh3 23. Qxh3 Re1+ 24. Nf1 Rxd1 25. axb5 axb5 26. Qg2 Qd3 27. Ra8+ Kg7
+28. Bxg5 Nd5 29. Qh3 h5 30. Qg2 Re1 31. Qd2 Qxf1# 0-1
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Horvath, Attila Bela"]
+[Black "Balonyi, Roland"]
+[Result "1-0"]
+[ECO "C00"]
+[PlyCount "123"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "MAFC"]
+[BlackTeam "Zoltek"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e6 2. f4 d5 3. e5 c5 4. Nf3 Qb6 5. d3 Nc6 6. c3 Nge7 7. Be2 Bd7 8. O-O g6
+9. h3 Bg7 10. Qc2 O-O 11. Bd2 Nf5 12. Kh2 Rac8 13. g4 Nfe7 14. Na3 f6 15. exf6
+Bxf6 16. g5 Bg7 17. h4 e5 18. Ne1 Nf5 19. Ng2 Rce8 20. Bf3 exf4 21. Bxd5+ Kh8
+22. Nc4 Qd8 23. Bxf4 Ne5 24. Nxe5 Rxe5 25. Bxe5 Bxe5+ 26. Kg1 Qc7 27. Rxf5 Rxf5
+28. Ne3 Rf4 29. Rf1 Rxf1+ 30. Kxf1 Bg3 31. Qe2 Qf4+ 32. Kg1 Qxh4 33. Nf1 Qxg5
+34. Bxb7 h5 35. Bg2 h4 36. Qf3 Qf5 37. Qxf5 Bxf5 38. Nxg3 hxg3 39. Be4 Kg7 40.
+Kg2 Kf6 41. Bxf5 gxf5 42. Kxg3 Ke5 43. Kf3 a6 44. a3 a5 45. b4 axb4 46. axb4
+cxb4 47. cxb4 Kd5 48. Kf4 Kc6 49. Kxf5 Kb5 50. Ke6 Kxb4 51. d4 Kb5 52. d5 Kb6
+53. d6 Kb7 54. Ke7 Kc8 55. d7+ Kb7 56. d8=Q Ka7 57. Qc8 Kb6 58. Qc4 Ka5 59. Qb3
+Ka6 60. Kd6 Ka7 61. Kc7 Ka6 62. Qb6# 1-0
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Vass, Istvan"]
+[Black "Horvath, Istvan"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2098"]
+[BlackElo "2195"]
+[PlyCount "55"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "MAFC"]
+[BlackTeam "Zoltek"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. Nc3 a6 7. a3 Be6 8. Bxe6
+fxe6 9. Ne2 O-O 10. Ng3 Qe8 11. Be3 Bxe3 12. fxe3 Nh5 13. Qe1 Rf6 14. Nxh5 Qxh5
+15. Qh4 Qg6 16. Nd2 Raf8 17. Rxf6 Rxf6 18. Rf1 Rxf1+ 19. Nxf1 Qf6 20. Qg4 Ne7
+21. Nd2 d5 22. Nf3 h6 23. exd5 exd5 24. Qd7 Qd6 25. Qe8+ Kh7 26. Qh5 Ng6 27.
+Qf5 Qf6 28. Qxf6 1/2-1/2
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Zanaty, Zsolt"]
+[Black "Vagvolgyi, Istvan"]
+[Result "1-0"]
+[ECO "C79"]
+[BlackElo "1961"]
+[PlyCount "55"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "MAFC"]
+[BlackTeam "Zoltek"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d4 b5 7. dxe5 Ng4 8. Bb3
+Ngxe5 9. Nxe5 Nxe5 10. f4 Ng6 11. Qh5 Qd7 12. Nc3 Bb7 13. f5 Ne5 14. Be6 Qc6
+15. Be3 Rb8 16. Bd4 Bc8 17. Bxe5 Qc5+ 18. Kh1 Qxe5 19. Qxf7+ Kd8 20. Bxc8 Rxc8
+21. Rad1 Be7 22. Qd5 Bf6 23. Qb7 Qc5 24. Rf3 b4 25. Nd5 Qxc2 26. Rfd3 Be5 27.
+Nxb4 Qc5 28. Rd5 1-0
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Laszlo, Imre"]
+[Black "Piroska, Istvan"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[WhiteElo "2220"]
+[BlackElo "2162"]
+[PlyCount "114"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Tata Geniusz"]
+[BlackTeam "Penzugyor II"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Na5 5. Nge2 Nxc4 6. dxc4 d6 7. f3 Be6 8.
+Qd3 Nd7 9. Ng3 c6 10. Be3 Be7 11. Nf5 Bxf5 12. exf5 O-O 13. O-O-O Qa5 14. Kb1
+Rfd8 15. g4 Nc5 16. Qe2 f6 17. h4 Na4 18. Nxa4 Qxa4 19. g5 b5 20. cxb5 Rab8 21.
+Rd3 Qxb5 22. c3 d5 23. gxf6 Bxf6 24. Bg5 e4 25. Bxf6 Qxd3+ 26. Qxd3 exd3 27.
+Bxd8 Rxd8 28. Rd1 Rf8 29. Rxd3 Rxf5 30. c4 dxc4 31. Rd4 Rxf3 32. Rxc4 Rf6 33.
+Ra4 Rh6 34. Rxa7 Rxh4 35. a4 g5 36. Kc1 Rb4 37. a5 g4 38. a6 g3 39. Re7 Ra4 40.
+Re3 Rxa6 41. Rxg3+ Kf7 42. Rc3 Ke6 43. Rh3 Ra7 44. Rh6+ Kd5 45. Kc2 Rc7 46. Kd3
+Ke5 47. Kc4 Kf5 48. Kc5 Kg5 49. Rh2 h5 50. Kb6 Rc8 51. Kb7 Rh8 52. Kxc6 Rb8 53.
+Kc5 h4 54. b4 Kg4 55. b5 Kg3 56. Rh1 h3 57. b6 Kg2 1/2-1/2
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Rosta, Sandor"]
+[Black "Jamrich, Gyorgy"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2154"]
+[BlackElo "2275"]
+[PlyCount "93"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Penzugyor II"]
+[BlackTeam "Tata Geniusz"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Bd3 c4 6. Bc2 Bd6 7. Nf3 Ne7 8. O-O
+h6 9. Ne5 Nbc6 10. Re1 Qc7 11. Qh5 Bxe5 12. dxe5 Be6 13. b3 cxb3 14. axb3 Nb4
+15. Qe2 Nxc2 16. Qxc2 O-O 17. Ba3 Rfc8 18. Bd6 Qd7 19. Bxe7 Qxe7 20. Qd3 Qc5
+21. h3 a6 22. Ra4 g6 23. Re3 b5 24. Rf4 a5 25. Rg3 Kh7 26. h4 d4 27. h5 Rg8 28.
+Rf6 Qxe5 29. hxg6+ Kg7 30. gxf7+ Kxf6 31. fxg8=Q Rxg8 32. Rxg8 Bxg8 33. cxd4
+Qf5 34. Qd1 b4 35. Nd2 Qd3 36. Qf3+ Qxf3 37. gxf3 Bxb3 38. Nxb3 a4 39. Nd2 b3
+40. Kf1 b2 41. Nb1 Ke6 42. f4 Kd5 43. f5 h5 44. Kg2 Kxd4 45. f6 Kd3 46. f7 Kc2
+47. Na3+ 1-0
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.04.27"]
+[Round "10"]
+[White "Forgacs, Attila"]
+[Black "Sebestyen, Gabor"]
+[Result "1-0"]
+[ECO "C98"]
+[WhiteElo "2192"]
+[BlackElo "2187"]
+[PlyCount "63"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Balatonfuredi"]
+[BlackTeam "Kisber Aszar"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nf1 exd4 15.
+Bg5 Qb6 16. e5 dxe5 17. Nxe5 Nxe5 18. Rxe5 Be6 19. Qd3 Rfd8 20. Rae1 h6 21.
+Bxf6 Bxf6 22. Qh7+ Kf8 23. Ng3 Ke7 24. Nf5+ Kd7 25. Rxe6 fxe6 26. Nxg7 Rh8 27.
+Qg6 e5 28. Bf5+ Ke7 29. Rxe5+ Bxe5 30. Qxb6 Bxg7 31. Qe6+ Kf8 32. Bg6 1-0
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.04.27"]
+[Round "10"]
+[White "Salamon, Peter"]
+[Black "Horvath, Rudolf"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[WhiteElo "1935"]
+[BlackElo "1951"]
+[PlyCount "56"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Kisber Aszar"]
+[BlackTeam "Balatonfuredi"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Nc3 d5 5. exd5 Nxd5 6. Bc4 Be6 7. Qe2 Be7 8.
+O-O Nc6 9. Bxd5 Bxd5 10. d3 O-O 11. Bxf4 Bc5+ 12. Kh1 Re8 13. Qd2 Bxf3 14. Rxf3
+Nd4 15. Rh3 Bb4 16. Be3 Nf5 17. Bg1 Qd6 18. Qg5 Qg6 19. Qxg6 hxg6 20. Ne4 Nd6
+21. Nxd6 Bxd6 22. Re3 Rxe3 23. Bxe3 Re8 24. Re1 Bf4 25. Bf2 Rxe1+ 26. Bxe1 Kf8
+27. g3 Bc1 28. Bc3 f6 1/2-1/2
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.04.27"]
+[Round "10"]
+[White "Gyebnar, Andras"]
+[Black "Tessedik, Karoly"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[BlackElo "2047"]
+[PlyCount "147"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Esztergomi"]
+[BlackTeam "Zsambeki"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bc4 Be7 5. d3 h6 6. Be3 d6 7. Qd2 Na5 8. Bb3
+Nxb3 9. axb3 a6 10. O-O Bg4 11. Ne1 g5 12. d4 Bh5 13. dxe5 dxe5 14. Qxd8+ Rxd8
+15. Nd3 Bd6 16. Bc5 Bg6 17. Bxd6 cxd6 18. f3 Rc8 19. Nb4 Kd7 20. Rfc1 h5 21.
+Nbd5 Nxd5 22. Nxd5 Ke6 23. Ne3 f5 24. exf5+ Bxf5 25. Nxf5 Kxf5 26. c4 Rc6 27.
+Rd1 Ke6 28. Rd3 Rf8 29. Rad1 Rd8 30. Rd5 Rd7 31. Kf2 b5 32. cxb5 axb5 33. R1d2
+Rb7 34. g3 Rbb6 35. f4 gxf4 36. gxf4 Kf5 37. Kg3 Ke4 38. fxe5 dxe5 39. Kh4 Rf6
+40. Rc5 Rf4+ 41. Kg5 Rf5+ 42. Kh4 Rg6 43. Re2+ Kd4 44. Rc3 Rg4+ 45. Kh3 e4 46.
+Rd2+ Ke5 47. Rc5+ Kf6 48. Rc3 Kg5 49. Rg2 Rd5 50. Rxg4+ hxg4+ 51. Kg3 Rd3+ 52.
+Kf2 Rd2+ 53. Ke3 Rxb2 54. Rc5+ Kh4 55. Rxb5 Rxh2 56. Kxe4 Rf2 57. Kd4 g3 58.
+Rb8 Rf4+ 59. Ke3 Rf5 60. Rg8 Kh3 61. Kd3 g2 62. Kd4 Rf4+ 63. Ke3 Rb4 64. Kf2
+Rf4+ 65. Ke3 Rf5 66. b4 Kh2 67. Kd4 g1=Q+ 68. Rxg1 Kxg1 69. Kc4 Kf2 70. b5 Kf3
+71. b6 Ke4 72. b7 Rf1 73. Kc5 Rb1 74. Kc6 1/2-1/2
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.04.27"]
+[Round "10"]
+[White "Barabas, Attila"]
+[Black "Koczka, Zsolt"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2088"]
+[BlackElo "2213"]
+[PlyCount "47"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Vertesi Eromu"]
+[BlackTeam "Honved II"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. d3 d5 2. e4 e6 3. Be2 c5 4. Nf3 Nf6 5. Nbd2 Nc6 6. O-O Be7 7. Re1 O-O 8. Bf1
+Qc7 9. c3 Bd6 10. g3 b6 11. Bg2 Ba6 12. Qc2 Rac8 13. Nf1 d4 14. Bg5 Nd7 15.
+Rad1 h6 16. Bc1 dxc3 17. bxc3 Rfd8 18. Ne3 Nde5 19. Nxe5 Nxe5 20. c4 Bb7 21.
+Bb2 Nc6 22. f4 Be7 23. Qe2 Nd4 24. Qg4 1/2-1/2
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.04.27"]
+[Round "10"]
+[White "Jaroka, Sandor"]
+[Black "Keseru, Tibor"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[BlackElo "1863"]
+[PlyCount "103"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Vertesi Eromu"]
+[BlackTeam "Honved II"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 Be7 7. O-O O-O
+8. Nd2 d5 9. e5 Nd7 10. f4 Nc5 11. Be2 f6 12. Nf3 fxe5 13. Nxe5 Qd6 14. Bg4 Nd7
+15. Nxd7 Bxd7 16. Bxd7 Qxd7 17. c3 Bc5+ 18. Kh1 Rae8 19. b4 Bb6 20. a4 a5 21.
+Ra2 Re4 22. Rb2 Rfe8 23. Rc2 Qe7 24. h3 Re2 25. bxa5 Bxa5 26. Ba3 Qe4 27. Rxe2
+Qxe2 28. Qxe2 Rxe2 29. Bb4 Bxb4 30. cxb4 Rb2 31. Rc1 Rxb4 32. Rxc6 Rxa4 33. g3
+Rc4 34. Ra6 c5 35. Kg2 Rc3 36. f5 d4 37. g4 d3 38. Ra8+ Kf7 39. Ra7+ Kf6 40.
+Ra6+ Ke5 41. Kf2 Kf4 42. Rd6 Rc2+ 43. Ke1 Re2+ 44. Kd1 c4 45. Rd4+ Re4 46. Rd7
+Kg3 47. Kd2 Kxh3 48. Rxg7 Re8 49. f6 Rf8 50. g5 Kg4 51. f7 Kf5 52. Kc3 1/2-1/2
+
+[Event "HUN-chT2 Breyer 0708"]
+[Site "Hungary"]
+[Date "2008.04.27"]
+[Round "10"]
+[White "Horvath, Gabor"]
+[Black "Ivanics, Frigyes"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2280"]
+[BlackElo "2128"]
+[PlyCount "45"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]

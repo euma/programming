@@ -1,0 +1,600 @@
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15.
+Bd3 a4 16. Bxb5 Qb6 17. Bxc6 Qxc6 18. Nbd2 Bf6 19. Nf1 exd4 20. Nxd4 Qb6 21.
+Be3 Qxb2 22. Ng3 Ne5 23. Re2 Qb7 24. Rb1 Qa6 25. Nh5 Be7 26. Nf5 Bxf5 27. exf5
+Qc8 28. Nxg7 Bf6 29. Rc1 Qd7 30. Nh5 Qxf5 31. Qxd6 Bh8 32. Ng3 Qg6 33. Rd2 a3
+34. Qd5 Rfe8 35. Kh2 Bf6 36. Qb3 Reb8 37. Qd1 Be7 38. f4 Nc6 39. f5 Qf6 40.
+Qg4+ Kh8 41. Nh5 Bd6+ 42. Kh1 1-0
+
+[Event "Budapest Barcza Memorial 1st"]
+[Site "Budapest"]
+[Date "2008.10.28"]
+[Round "2"]
+[White "Skoberne, Jure"]
+[Black "Romanishin, Oleg M"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2501"]
+[BlackElo "2532"]
+[PlyCount "69"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Qg6 7. Qf3 Bxd4 8.
+cxd4 Nb4 9. Na3 Ne7 10. Bd2 a5 11. Nb5 O-O 12. Bxb4 axb4 13. Nxc7 Ra5 14. Bc4
+Qc6 15. Nd5 Qxc4 16. Nxe7+ Kh8 17. b3 Qxd4 18. O-O Re5 19. Nxc8 Rxc8 20. Qxf7
+Qxe4 21. Qxd7 Rc2 22. Rad1 h6 23. Qf7 Kh7 24. Rd7 Rg5 25. g3 Rxa2 26. Rd8 Ra6
+27. Qg8+ Kg6 28. Rd7 Qe5 29. Rxb7 Rg4 30. Rd1 Re4 31. Rd5 Re1+ 32. Kg2 Qe4+ 33.
+Kh3 Qe6+ 34. Qxe6+ Rexe6 35. Rdd7 1-0
+
+[Event "Budapest Barcza Memorial 1st"]
+[Site "Budapest"]
+[Date "2008.10.30"]
+[Round "5"]
+[White "Papp, Gabor"]
+[Black "Romanishin, Oleg M"]
+[Result "1/2-1/2"]
+[ECO "C87"]
+[WhiteElo "2509"]
+[BlackElo "2532"]
+[PlyCount "63"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d3
+Nd7 9. Be3 Nf8 10. Nbd2 Ng6 11. d4 O-O 12. Bxc6 bxc6 13. Qa4 exd4 14. Nxd4 c5
+15. Nf5 Ne5 16. Qc2 Bxf5 17. exf5 Ng4 18. Bf4 Qd7 19. Nf3 Rfe8 20. h3 Nf6 21.
+c4 h6 22. Bd2 Nh7 23. Rad1 Bf6 24. b3 Rxe1+ 25. Rxe1 Re8 26. Rxe8+ Qxe8 27. Qd3
+Qd7 28. h4 h5 29. g3 Ba1 30. Qb1 Bd4 31. Qd3 Nf6 32. Nxd4 1/2-1/2
+
+[Event "Budapest Barcza Memorial 1st"]
+[Site "Budapest"]
+[Date "2008.11.03"]
+[Round "8"]
+[White "Skoberne, Jure"]
+[Black "Szabo, Krisztian"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2501"]
+[BlackElo "2520"]
+[PlyCount "111"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Nc2 Bb6 8.
+Nba3 O-O 9. Nb5 Qe5 10. Bxb6 axb6 11. Qe2 Na7 12. Nbd4 c5 13. Nf3 Qe6 14. g3
+Nac6 15. Ng5 Qg6 16. f4 d5 17. Bg2 f6 18. exd5 fxg5 19. dxc6 Nxc6 20. O-O gxf4
+21. Rxf4 Rxf4 22. gxf4 Bh3 23. Qf2 Bxg2 24. Qxg2 Qf7 25. Rf1 Rxa2 26. Ne3 Qg6
+27. Qxg6 hxg6 28. Rf2 b5 29. Rd2 b4 30. cxb4 Nxb4 31. Nc4 Ra8 32. Rd7 Rf8 33.
+Rxb7 Rxf4 34. b3 Nd3 35. Rd7 Nc1 36. Nd2 Ne2+ 37. Kg2 Rf5 38. Ne4 Re5 39. Nf2
+Nc1 40. Rb7 Re2 41. Kf1 Rb2 42. Ne4 Rxb3 43. Nxc5 Rxb7 44. Nxb7 Kf7 45. Nc5 Kf6
+46. Kf2 Kf5 47. Kf3 g5 48. h3 Na2 49. Ne4 Nb4 50. Ng3+ Kg6 51. Ke4 Nc6 52. Nf5
+Kf6 53. Nxg7 Kxg7 54. Kf5 Kh6 55. h4 gxh4 56. Kg4 1/2-1/2
+
+[Event "Budapest Barcza Memorial 1st"]
+[Site "Budapest"]
+[Date "2008.11.04"]
+[Round "9"]
+[White "Kulaots, Kaido"]
+[Black "Szabo, Krisztian"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[WhiteElo "2556"]
+[BlackElo "2520"]
+[PlyCount "140"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 Nc5 11. Bc2 Nd7 12. Re1 Ndxe5 13. Nxe5 Nxe5 14. Bd4 f6
+15. a4 b4 16. cxb4 O-O 17. Nc3 Bxb4 18. Bxe5 fxe5 19. Rxe5 Bxc3 20. Qh5 h6 21.
+bxc3 Qf6 22. Qe2 Bf7 23. a5 Rab8 24. Rb1 c5 25. g3 c4 26. Rxb8 Rxb8 27. Bf5 Kh8
+28. h4 Bg8 29. Qe3 Rd8 30. Qd4 Rb8 31. Qe3 Rd8 32. Kg2 Rb8 33. h5 Bf7 34. g4
+Qc6 35. Qd4 Qf6 36. Qe3 Qc6 37. Qd4 Qf6 38. Kg3 Qd6 39. Kh3 Qa3 40. Re3 Qd6 41.
+Qa7 Bg8 42. Kg2 d4 43. Qxd4 Qc6+ 44. Kh2 Qc7+ 45. Qe5 Qd8 46. Kg3 Rb5 47. Qe8
+Qd6+ 48. Kg2 Rb8 49. Qe5 Qc6+ 50. Be4 Qc8 51. Qf4 Rb5 52. Bg6 Rb8 53. Re8 Qc6+
+54. Qf3 Qc7 55. Rxb8 Qxb8 56. Qc6 Qe5 57. Qe8 Qd5+ 58. f3 Qd2+ 59. Kg3 Qd5 60.
+Qb8 Qc6 61. Be4 Qd7 62. Kf4 Qd2+ 63. Kg3 Qe1+ 64. Kf4 Qd2+ 65. Kg3 Qxc3 66. Bd5
+Qe1+ 67. Kh3 Qf1+ 68. Kg3 Qg1+ 69. Kh3 Qh1+ 70. Kg3 Qg1+ 1/2-1/2
+
+[Event "Budapest Barcza Memorial 1st"]
+[Site "Budapest"]
+[Date "2008.10.27"]
+[Round "10"]
+[White "Papp, Gabor"]
+[Black "Ruck, Robert"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2509"]
+[BlackElo "2574"]
+[PlyCount "119"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8. a4
+b6 9. d5 cxd5 10. Bxd5 Nxd5 11. Nxd5 Nf6 12. Nxf6+ Bxf6 13. c4 Bb7 14. b3 Be7
+15. Qd3 Qc8 16. Ba3 Qe6 17. Rad1 g6 18. Nd2 Rad8 19. Nb1 f5 20. f3 fxe4 21.
+fxe4 Rf7 22. Nc3 Rdf8 23. Rf1 Rxf1+ 24. Rxf1 Rxf1+ 25. Kxf1 Kf7 26. Kg1 Ke8 27.
+h3 Kd7 28. a5 bxa5 29. Qe3 Qg8 30. Qxa7 Qa8 31. Qe3 Bc6 32. Nd5 Bxd5 33. exd5
+Qb7 34. Kh2 Ke8 35. Kh1 Qb8 36. c5 dxc5 37. Bxc5 Qc7 38. Ba7 Bd6 39. Bd4 Kd7
+40. Bc3 Qc5 41. Qxc5 Bxc5 42. Bxe5 Bd6 43. Bc3 Bc7 44. g4 Kd6 45. Kg2 Kxd5 46.
+Kf3 h5 47. gxh5 gxh5 48. Ke3 Bd8 49. Kf4 Bc7+ 50. Kg5 Ke4 51. Kxh5 Kd3 52. Bf6
+Bg3 53. Kg4 Be1 54. Kf3 Kc2 55. Ke2 Bb4 56. h4 Kxb3 57. Bg7 Be7 58. h5 Bg5 59.
+h6 Bxh6 60. Bxh6 1/2-1/2
+
+[Event "Budapest Barcza Memorial 1st"]
+[Site "Budapest"]
+[Date "2008.10.27"]
+[Round "10"]
+[White "Szabo, Krisztian"]
+[Black "Romanishin, Oleg M"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[WhiteElo "2520"]
+[BlackElo "2532"]
+[PlyCount "109"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15.
+Bd3 a4 16. Bxb5 Qb6 17. Bxc6 Qxc6 18. Nbd2 Bf6 19. Nf1 exd4 20. Nxd4 Qb6 21.
+Be3 Nc5 22. Ng3 g6 23. Rb1 Qa6 24. Re2 Re8 25. Nc2 Be6 26. Nb4 Qb7 27. Nd5 Be5
+28. Rd2 Bxd5 29. Rxd5 Bxg3 30. Bxc5 dxc5 31. fxg3 Rxe4 32. Rxc5 Rae8 33. Rc2
+Re3 34. Kh2 h5 35. Rbc1 Qb8 36. Rc7 Qxb2 37. Qxa4 h4 38. Qxh4 Re2 39. Rg1 Qxa2
+40. Qg4 Qe6 41. Qxe6 R8xe6 42. Rf1 Re7 43. Rxe7 Rxe7 44. g4 Kg7 45. g5 Re5 46.
+h4 Rc5 47. Kh3 Rb5 48. Rf3 Rd5 49. g4 Rb5 50. Kg3 Rc5 51. Re3 Rb5 52. Kf4 f5
+53. h5 Rb4+ 54. Ke5 Rb5+ 55. Kf4 1/2-1/2
+
+[Event "Corsica Masters rap 12th"]
+[Site "Ajaccio"]
+[Date "2008.10.28"]
+[Round "2.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Agrest, Evgenij"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2731"]
+[BlackElo "2574"]
+[PlyCount "49"]
+[EventDate "2008.10.27"]
+[EventType "k.o. (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. g4 Nxg4 6. Rg1 Ngf6 7. Be3 c6 8.
+Qd2 b5 9. a3 Bb7 10. O-O-O Qa5 11. Kb1 b4 12. axb4 Qxb4 13. dxe5 Nxe5 14. Nxe5
+dxe5 15. Bh3 Be7 16. Bd7+ Nxd7 17. Qxd7+ Kf8 18. Qc7 Ba6 19. Rd7 Rb8 20. b3 Re8
+21. Na2 Qa3 22. Qxa7 Kg8 23. Bc1 Qc5 24. Qxa6 Qxf2 25. Rxe7 1-0
+
+[Event "Corsica Masters rap 12th"]
+[Site "Ajaccio"]
+[Date "2008.10.28"]
+[Round "2.1"]
+[White "Tiviakov, Sergei"]
+[Black "Malakhatko, Vadim"]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "2686"]
+[BlackElo "2633"]
+[PlyCount "75"]
+[EventDate "2008.10.27"]
+[EventType "k.o. (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. dxc5 Bxc5 6. Ngf3 Nf6 7. Bc4 Qc6 8.
+O-O Nbd7 9. Qe2 O-O 10. Nb3 b6 11. Nxc5 Qxc5 12. Be3 Qc7 13. Rad1 Bb7 14. Rd4
+Rac8 15. Bb3 Ne5 16. Nxe5 Qxe5 17. c4 Rfd8 18. Rfd1 Rxd4 19. Rxd4 h6 20. Bc2
+Qc7 21. b3 Rd8 22. f3 Rxd4 23. Bxd4 Qf4 24. Qd3 Qd6 25. Qc3 Nh5 26. c5 bxc5 27.
+Bxc5 Qc6 28. Qe5 f5 29. b4 Nf6 30. Bb3 Nd5 31. Bxa7 Qc1+ 32. Kf2 Qd2+ 33. Qe2
+Qxe2+ 34. Kxe2 Nxb4 35. Bxe6+ Kh8 36. Bc5 Ba6+ 37. Ke3 Nc6 38. Bxf5 1-0
+
+[Event "Corsica Masters rap 12th"]
+[Site "Ajaccio"]
+[Date "2008.10.28"]
+[Round "2.2"]
+[White "Sanchez, Joseph"]
+[Black "Bacrot, Etienne"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "2471"]
+[BlackElo "2705"]
+[PlyCount "56"]
+[EventDate "2008.10.27"]
+[EventType "k.o. (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bb4+ 5. c3 Bc5 6. Be3 Bb6 7. Nf5 Bxe3 8.
+Nxe3 d6 9. c4 Nge7 10. Nc3 O-O 11. Be2 f5 12. exf5 Nxf5 13. Nxf5 Bxf5 14. O-O
+Kh8 15. Qd2 Qd7 16. f4 Rae8 17. Bh5 g6 18. Bd1 Qg7 19. Ba4 Re6 20. Rad1 Bg4 21.
+Rde1 Qd4+ 22. Qxd4+ Nxd4 23. Rxe6 Bxe6 24. b3 a6 25. g3 Rb8 26. Rd1 c5 27. Kf2
+b5 28. Rxd4 cxd4 0-1
+
+[Event "Corsica Masters rap 12th"]
+[Site "Ajaccio"]
+[Date "2008.10.28"]
+[Round "3.2"]
+[White "Tiviakov, Sergei"]
+[Black "Bacrot, Etienne"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2686"]
+[BlackElo "2705"]
+[PlyCount "161"]
+[EventDate "2008.10.27"]
+[EventType "k.o. (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Nf6 4. d3 Be7 5. O-O O-O 6. Bb3 d6 7. c3 Bg4 8. h3
+Bh5 9. Be3 Nd7 10. Nbd2 Nc5 11. Bxc5 Bxf3 12. Nxf3 dxc5 13. Bd5 Qd6 14. Bxc6
+bxc6 15. Qc2 Rfd8 16. Rfd1 Bf6 17. Nd2 Qxd3 18. Qxd3 Rxd3 19. Nc4 Rad8 20. Rxd3
+Rxd3 21. Kf1 Kf8 22. Ke2 Rd8 23. Rd1 Rb8 24. Rd7 Rc8 25. Na5 Ke8 26. Rd2 Bg5
+27. Rd1 Rb8 28. b3 Bf6 29. Kd3 Rb6 30. Nc4 Rb8 31. Kc2 Ke7 32. Nb2 Ke6 33. Kd3
+Be7 34. Kc4 g6 35. Nd3 Rb5 36. Rb1 f5 37. Re1 f4 38. f3 Bd6 39. Rb1 Kf6 40. a4
+Rb8 41. Nxc5 Kg5 42. b4 Kh4 43. a5 Kg3 44. Rb2 g5 45. Nd3 h5 46. Rd2 g4 47.
+fxg4 hxg4 48. hxg4 Kxg4 49. Ne1 Kg3 50. Nf3 Rh8 51. Kd3 Rb8 52. Rb2 a6 53. Re2
+Rb5 54. Nd2 c5 55. bxc5 Bxc5 56. Nc4 Bf2 57. Kc2 Kxg2 58. Rd2 Kf3 59. Rd7 Kxe4
+60. Rxc7 Kf3 61. Rc6 e4 62. Nd2+ Ke3 63. Re6 Bg3 64. Nxe4 Kf3 65. Nd2+ Kg2 66.
+Rxa6 f3 67. Nxf3 Kxf3 68. Rf6+ Ke4 69. a6 Ra5 70. Kb3 Be5 71. Rb6 Ra1 72. Kc4
+Bh2 73. Re6+ Kf5 74. Rc6 Bg1 75. Kb5 Rb1+ 76. Kc4 Ke5 77. Rg6 Ra1 78. Kb5 Rb1+
+79. Kc4 Ra1 80. Kb5 Rb1+ 81. Kc4 1/2-1/2
+
+[Event "Corsica Masters rap 12th"]
+[Site "Ajaccio"]
+[Date "2008.10.28"]
+[Round "3.3"]
+[White "Tiviakov, Sergei"]
+[Black "Bacrot, Etienne"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2686"]
+[BlackElo "2705"]
+[PlyCount "164"]
+[EventDate "2008.10.27"]
+[EventType "k.o. (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Nf6 4. d3 Be7 5. O-O d6 6. c3 Bg4 7. h3 Bh5 8. Bb3
+Qd7 9. Be3 g5 10. Bxg5 Rg8 11. Bxf6 Bxf6 12. Kh2 O-O-O 13. Nbd2 Bg5 14. Nc4 f5
+15. Ne3 fxe4 16. dxe4 Rgf8 17. Nxg5 Bxd1 18. Be6 Be2 19. Rfe1 Bd3 20. Bxd7+
+Kxd7 21. Rad1 Ba6 22. Nf5 Ne7 23. Nxh7 Rh8 24. Nf6+ Ke6 25. Nxe7 Kxe7 26. Nd5+
+Kd7 27. b3 Rdf8 28. f3 b5 29. Ne3 Bb7 30. Nf5 Ke6 31. g4 a5 32. Kg3 Ra8 33. h4
+a4 34. b4 a3 35. h5 Raf8 36. Rd2 Bc8 37. Nh4 Rh7 38. Rf2 Rg8 39. Kh2 Kf6 40.
+Nf5 Be6 41. Ne3 Kg5 42. Rg1 Rf8 43. Kg3 Rhf7 44. Rgf1 c6 45. Nf5 d5 46. Re2 Rd8
+47. exd5 Rxd5 48. Nh4 Kf6 49. Rfe1 Rd3 50. Re3 Bc4 51. Rxd3 Bxd3 52. Ng2 Bc4
+53. Ne3 Bxa2 54. Ra1 Be6 55. Rxa3 Rd7 56. Kf2 Rd2+ 57. Ke1 Rh2 58. Ra6 Bd7 59.
+Ra7 Be6 60. Rc7 Bd5 61. Nxd5+ cxd5 62. Rc6+ Kg5 63. Rg6+ Kf4 64. h6 Ke3 65. Kd1
+Kd3 66. Ke1 Ke3 67. Kd1 Kd3 68. Kc1 Kxc3 69. Rc6+ Kd3 70. g5 e4 71. fxe4 dxe4
+72. Rd6+ Kc3 73. Rd7 Rh1+ 74. Rd1 Rh5 75. Rg1 e3 76. g6 e2 77. g7 Rg5 78. Re1
+Rxg7 79. h7 Rc7 80. Kb1 Kd2 81. h8=Q Rc4 82. Rxe2+ Kxe2 1-0
+
+[Event "Heviz op"]
+[Site "Heviz"]
+[Date "2008.10.28"]
+[Round "2"]
+[White "Kernazhitsky, Leonid"]
+[Black "Szurovszky, Elek"]
+[Result "1/2-1/2"]
+[ECO "C64"]
+[WhiteElo "2340"]
+[BlackElo "2116"]
+[PlyCount "118"]
+[EventDate "2008.10.27"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qe7 5. O-O a6 6. Ba4 b5 7. Bb3 d6 8. d4
+Bb6 9. Bg5 Nf6 10. a4 Rb8 11. axb5 axb5 12. Na3 h6 13. Bxf6 Qxf6 14. Nxb5 Bg4
+15. Ba4 O-O 16. Nxc7 Ne7 17. Na6 Rbd8 18. Nb4 exd4 19. cxd4 Bxf3 20. Qxf3 Qxf3
+21. gxf3 Bxd4 22. Nd3 Ng6 23. f4 f5 24. Bb3+ Kh8 25. exf5 Rxf5 26. Be6 Rf6 27.
+Ra4 Nxf4 28. Nxf4 Rxf4 29. b3 Rdf8 30. Ra2 g5 31. Kg2 Bc5 32. f3 h5 33. h3 R8f6
+34. Ra8+ Kg7 35. Bc4 Rd4 36. Rg8+ Kh6 37. Rh8+ Kg6 38. Rg8+ Kf5 39. Re1 d5 40.
+Be2 Rd2 41. Re8 Ra6 42. Rc1 Raa2 43. Rxc5 Rxe2+ 44. Rxe2 Rxe2+ 45. Kf1 Rd2 46.
+Ke1 Rd4 47. b4 Kf4 48. b5 Kxf3 49. b6 Rb4 50. Rxd5 g4 51. hxg4 hxg4 52. Rd6 g3
+53. Rf6+ Kg2 54. Kd2 Kg1 55. Kc3 Rb1 56. Kc4 g2 57. Kc5 Rf1 58. Rg6 Rc1+ 59.
+Kd6 Kf2 1/2-1/2
+
+[Event "Heviz op"]
+[Site "Heviz"]
+[Date "2008.10.29"]
+[Round "4"]
+[White "Kraus, Manfred"]
+[Black "Szurovszky, Elek"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2025"]
+[BlackElo "2116"]
+[PlyCount "80"]
+[EventDate "2008.10.27"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. c3 Bb6 6. d3 Nf6 7. Bg5 h6 8. Be3
+O-O 9. Qe2 Na5 10. Nbd2 Qe7 11. b4 Nxc4 12. Nxc4 Be6 13. Bxb6 Bxc4 14. Be3 Be6
+15. c4 a5 16. a3 Ng4 17. Bd2 axb4 18. axb4 f5 19. h3 Nf6 20. Nh4 Qd7 21. Rxa8
+Rxa8 22. Nxf5 Bxf5 23. exf5 Qxf5 24. g4 Qg6 25. Bc3 Nh5 26. Qf3 Nf4 27. d4 Ra3
+28. dxe5 dxe5 29. Re1 Nd3 30. Bxe5 Nxe1 31. Qxa3 Qe4 32. Kf1 Qxe5 33. Qa8+ Kh7
+34. Qxb7 Nd3 35. Kg2 Nf4+ 36. Kf3 Ng6 37. Qe4 Qc3+ 38. Kg2 Qxb4 39. h4 Qe7 40.
+Kf3 Qxh4 0-1
+
+[Event "Heviz op"]
+[Site "Heviz"]
+[Date "2008.11.01"]
+[Round "7"]
+[White "Szurovszky, Elek"]
+[Black "Babits, Andras"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "2116"]
+[BlackElo "2163"]
+[PlyCount "136"]
+[EventDate "2008.10.27"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Bb6 6. Nc3 Nge7 7. Bc4 d6 8.
+O-O O-O 9. f4 Kh8 10. f5 d5 11. exd5 Nxd4 12. Bxd4 Bxf5 13. Bxb6 axb6 14. Bd3
+Bg6 15. Qf3 Qd6 16. Rad1 Rad8 17. Kh1 Qb4 18. Bxg6 Nxg6 19. Ne4 f6 20. b3 Rfe8
+21. c4 b5 22. Qc3 Qxc3 23. Nxc3 bxc4 24. bxc4 b6 25. Nb5 Rd7 26. Rfe1 Rxe1+ 27.
+Rxe1 Ne5 28. h3 Kg8 29. Rc1 Kf7 30. a4 Nd3 31. Rc2 Nc5 32. Ra2 Nb7 33. Nd4 Re7
+34. Rc2 Nc5 35. Nb5 Ke8 36. Ra2 Nb7 37. Kh2 Kd7 38. Rd2 Re4 39. a5 bxa5 40. c5
+Nxc5 41. Rc2 Na6 42. Rc6 Rb4 43. Nc3 Rb6 44. Rc4 Nb4 45. Rc5 Ra6 46. Rb5 Ra7
+47. Rb8 c6 48. Rg8 Kd6 49. Rd8+ Kc7 50. Rg8 Kd6 51. Rd8+ Ke7 52. Rh8 cxd5 53.
+Rxh7 Kf7 54. Rh4 Ke6 55. Na4 Rc7 56. Rd4 Ke5 57. Rd1 d4 58. Kg3 d3 59. Kf3 Kd4
+60. Ra1 Rc2 61. Rd1 Kc4 62. Nb6+ Kb5 63. Nd7 a4 64. Nf8 a3 65. Ne6 Kc4 66. Nf4
+a2 67. Ke3 Rb2 68. Rc1+ Nc2+ 0-1
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.10.27"]
+[Round "1"]
+[White "Andrenko, Irina"]
+[Black "Romanova, Inna"]
+[Result "1/2-1/2"]
+[ECO "C14"]
+[WhiteElo "2211"]
+[BlackElo "2257"]
+[PlyCount "48"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8. f4
+Nc6 9. Nf3 Qb6 10. Na4 Qa5+ 11. c3 b5 12. Nxc5 Nxc5 13. dxc5 b4 14. Nd4 Qxc5
+15. Nxc6+ Qxc6 16. cxb4 Qb6 17. Qd2 Bd7 18. Rh3 Rhc8 19. Rc3 Qxb4 20. Rxc8 Qe4+
+21. Qe2 Qxe2+ 22. Bxe2 Rxc8 23. Kd2 f6 24. Rc1 Rxc1 1/2-1/2
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.10.27"]
+[Round "1"]
+[White "Burtasova, Anna"]
+[Black "Dolzhikova, Kateryna"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2290"]
+[BlackElo "2351"]
+[PlyCount "160"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. a3 Nh6 7. b4 cxd4 8. cxd4
+Nf5 9. Be3 f6 10. exf6 gxf6 11. Bd3 Nxe3 12. fxe3 Bh6 13. b5 Ne7 14. O-O Bxe3+
+15. Kh1 Bd7 16. Nc3 O-O-O 17. Qe2 Bh6 18. Na4 Qd6 19. Nc5 Nf5 20. b6 axb6 21.
+Nxd7 Qxd7 22. Bxf5 exf5 23. a4 Rhe8 24. Qb2 Re6 25. a5 b5 26. Ne1 Rde8 27. Qc2+
+Rc6 28. Qb3 Re4 29. Qxb5 Rxd4 30. a6 Kb8 31. Nf3 Rdc4 32. axb7 Qxb7 33. Qxd5
+Rc1 34. Qd8+ Qc8 35. Rb1+ Rxb1 36. Rxb1+ Ka8 37. Qa5+ Qa6 38. Qd5 Be3 39. Qxf5
+Rc1+ 40. Rxc1 Bxc1 41. Qd5+ Qb7 42. Qd8+ Ka7 43. Qxf6 Bb2 44. Qd6 Qc8 45. Qe7+
+Qb7 46. Qe3+ Ka8 47. h4 Bg7 48. Qd3 h6 49. Qf5 Qc7 50. Kg1 Kb8 51. Kf2 Qd6 52.
+Ke3 Kc7 53. Qa5+ Kb8 54. h5 Qg3 55. Qd8+ Kb7 56. Qd7+ Kb8 57. Qe8+ Kc7 58. Qf7+
+Kd8 59. Qd5+ Ke7 60. Qe4+ Kf7 61. Qf4+ Qxf4+ 62. Kxf4 Bb2 63. Kf5 Bc3 64. Nh2
+Bb2 65. Ng4 Bc1 66. Ne5+ Kg7 67. Ke6 Be3 68. Ng6 Bc1 69. Ne7 Bg5 70. Nf5+ Kf8
+71. g3 Kg8 72. Nd6 Kg7 73. Kd7 Kf6 74. Ke8 Bc1 75. g4 Kg5 76. Kf7 Kxg4 77. Kg6
+Kf4 78. Nf5 Ke5 79. Nxh6 Bxh6 80. Kxh6 Kf6 1/2-1/2
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.10.27"]
+[Round "1"]
+[White "Dolukhanova, Evgeniya"]
+[Black "Karlovich, Anastazia"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2243"]
+[BlackElo "2256"]
+[PlyCount "20"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Be3 Bc5 6. c3 Nge7 7. Nc2 Bxe3 8.
+Nxe3 O-O 9. Nd2 d6 10. Be2 Qg6 1/2-1/2
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.10.29"]
+[Round "3"]
+[White "Burtasova, Anna"]
+[Black "Ivanenko, Olga A"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2290"]
+[BlackElo "2154"]
+[PlyCount "63"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 Nc6 5. d4 Qb6 6. a3 Bd7 7. b4 cxd4 8. cxd4
+Rc8 9. Be3 Nge7 10. Bd3 a6 11. O-O Na7 12. Nbd2 Rc3 13. Nb3 Ba4 14. Bc2 Qc7 15.
+Rc1 Nb5 16. Na1 Bxc2 17. Nxc2 Nf5 18. a4 Na7 19. Bd2 Rc6 20. g4 Nh6 21. Ne3 Be7
+22. g5 Nf5 23. Nxf5 exf5 24. Qb3 Rc4 25. b5 axb5 26. axb5 Rxc1 27. Rxc1 Qd7 28.
+Qa4 Nc8 29. e6 fxe6 30. Ne5 Nb6 31. Qa7 Qxb5 32. Qxb7 1-0
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.10.29"]
+[Round "3"]
+[White "Dolukhanova, Evgeniya"]
+[Black "Romanova, Inna"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2243"]
+[BlackElo "2257"]
+[PlyCount "105"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Ne2 Qb6 8. c3
+Be7 9. g3 f6 10. Bh3 O-O 11. Qb3 Qa6 12. Bxe6+ Kh8 13. Bxd5 cxd4 14. cxd4 fxe5
+15. Bc4 Qb6 16. Qxb6 Nxb6 17. Bb3 exd4 18. Nexd4 Bg4 19. Be3 Rad8 20. Nxc6 Bxf3
+21. Nxd8 Bxh1 22. Nf7+ Kg8 23. Nh6+ Kh8 24. Nf7+ Kg8 25. Ne5+ Kh8 26. Ke2 Bc6
+27. Rc1 Bf6 28. Nxc6 bxc6 29. Rxc6 Re8 30. Kf3 Bxb2 31. Bxb6 axb6 32. Rxb6 Bd4
+33. Rd6 Bc5 34. Rc6 Ba3 35. Rc7 g6 36. g4 Bd6 37. Rd7 Ba3 38. f5 gxf5 39. gxf5
+Bb2 40. Be6 Be5 41. h3 Ra8 42. Ke4 Bf6 43. Rf7 Bb2 44. f6 Ra4+ 45. Kd5 Ba3 46.
+Rb7 Ra5+ 47. Kc4 h6 48. Bd5 Rc5+ 49. Kd4 Rc8 50. Ke5 Rd8 51. Be6 Rf8 52. Kf5
+Re8 53. Kg6 1-0
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.10.31"]
+[Round "5"]
+[White "Kharmunova, Nadejda"]
+[Black "Romanova, Inna"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2101"]
+[BlackElo "2257"]
+[PlyCount "86"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. a3 Qb6 10. Be2 cxd4 11. Nxd4 Bc5 12. Rd1 O-O 13. Bg4 Nxd4 14. Bxd4 f6 15.
+O-O Bxd4+ 16. Qxd4 fxe5 17. Qxb6 Nxb6 18. fxe5 Rxf1+ 19. Rxf1 Nc4 20. Ne2 Nxe5
+21. Bh3 Ng6 22. g3 e5 23. Bg2 Be6 24. Re1 Rc8 25. h4 Bf7 26. c3 Ne7 27. Nc1 e4
+28. Nb3 Be6 29. Nd4 Bd7 30. Rd1 Ng6 31. Nb3 Be6 32. Nd4 Bg4 33. Ra1 Ne5 34. a4
+b4 35. Bf1 bxc3 36. bxc3 a5 37. Ba6 Rxc3 38. Bb7 Rd3 39. Bxd5+ Kf8 40. Ne6+
+Bxe6 41. Bxe6 Rxg3+ 42. Kf2 Rc3 43. Bf5 Rf3+ 0-1
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.11.01"]
+[Round "6"]
+[White "Ivanenko, Olga A"]
+[Black "Romanova, Inna"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2154"]
+[BlackElo "2257"]
+[PlyCount "70"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 a5 7. a4 Nh6 8. Bb5 Bd7
+9. O-O cxd4 10. cxd4 Nf5 11. Be3 Be7 12. Nc3 O-O 13. Qd2 f6 14. Bf4 Be8 15.
+Bxc6 bxc6 16. g4 fxe5 17. Bxe5 Nh6 18. Ng5 Nxg4 19. Nxe6 Nxe5 20. dxe5 Rf5 21.
+Rae1 Rb8 22. Kh1 c5 23. Nf4 d4 24. Ncd5 Qb7 25. f3 Bg5 26. Qc2 Rxf4 27. Nxf4
+Bxf4 28. Re4 Be3 29. Qxc5 Bc6 30. Rxe3 dxe3 31. Qxe3 Rf8 32. Kg2 Qxb2+ 33. Rf2
+Qb4 34. h3 Qxa4 35. e6 Qf4 0-1
+
+[Event "Kharkov (Women) 5th"]
+[Site "Kharkov"]
+[Date "2008.11.02"]
+[Round "7"]
+[White "Karlovich, Anastazia"]
+[Black "Burtasova, Anna"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "2256"]
+[BlackElo "2290"]
+[PlyCount "15"]
+[EventDate "2008.10.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+

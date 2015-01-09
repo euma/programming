@@ -1,0 +1,600 @@
+[Date "2008.03.09"]
+[Round "7.6"]
+[White "Gruber, Thomas"]
+[Black "Vidonyak, Nellya"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2278"]
+[BlackElo "2229"]
+[PlyCount "95"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Eppingen II"]
+[BlackTeam "Hockenheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 d6 5. Ne2 Bd7 6. d4 exd4 7. Nxd4 Nxd4 8.
+Bxd7+ Qxd7 9. Qxd4 Qg4 10. Qxg4 Nxg4 11. c4 O-O-O 12. Nc3 f5 13. Rd1 Nf6 14.
+Nb5 d5 15. Bxf6 gxf6 16. Rxd5 Bb4+ 17. Ke2 c6 18. Rxd8+ Rxd8 19. Nd4 f4 20. Rd1
+fxe3 21. fxe3 Re8 22. Rf1 Bc5 23. Kd3 Bxd4 24. exd4 Re6 25. Rf3 Rd6 26. Rg3 Rd7
+27. Rg8+ Kc7 28. Rf8 Rg7 29. g3 h5 30. Rxf6 Rh7 31. Rf4 Rg7 32. Ke3 Rg5 33.
+Rf7+ Kb8 34. Rh7 b5 35. Kf4 Rg4+ 36. Ke5 bxc4 37. bxc4 Rg5+ 38. Kd6 Ra5 39.
+Kxc6 Ra6+ 40. Kd5 Rxa2 41. Rxh5 a5 42. Kc6 a4 43. Rb5+ Kc8 44. Ra5 Kb8 45. d5
+a3 46. d6 Rxh2 47. Rxa3 Rb2 48. Rf3 1-0
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.8"]
+[White "Wenner, Tobias"]
+[Black "Kuci, Blerim"]
+[Result "1/2-1/2"]
+[ECO "A55"]
+[WhiteElo "2240"]
+[BlackElo "2180"]
+[PlyCount "142"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Eppingen II"]
+[BlackTeam "Hockenheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 d6 2. d4 Nd7 3. c4 e5 4. Nc3 Ngf6 5. e4 Be7 6. Be2 O-O 7. O-O c6 8. Qc2
+Qc7 9. Rd1 Re8 10. h3 a5 11. d5 Nc5 12. Be3 Bd7 13. Rac1 Rab8 14. b3 Rec8 15.
+a3 cxd5 16. Nxd5 Nxd5 17. cxd5 Qd8 18. Qb1 f6 19. Nd2 b5 20. b4 Na4 21. Qb3
+axb4 22. axb4 Rxc1 23. Rxc1 Rc8 24. Rc2 Rc7 25. Nb1 Qc8 26. Rxc7 Qxc7 27. Bd3
+g6 28. Na3 Qb7 29. Qc2 f5 30. exf5 gxf5 31. Bxf5 Bxf5 32. Qxf5 Qxd5 33. Bh6 Nb6
+34. Nxb5 Qf7 35. Qg4+ Qg6 36. Nc3 Qxg4 37. hxg4 d5 38. b5 Kf7 39. Kf1 Ke6 40.
+Ke2 Bb4 41. Kd3 Nd7 42. f3 Kd6 43. Na4 Be1 44. Bg7 Ba5 45. Ke2 Bc7 46. g3 Ke6
+47. Kd3 Ba5 48. f4 Bc7 49. Bh6 Bd8 50. f5+ Kd6 51. g5 Be7 52. b6 Kc6 53. g6
+hxg6 54. fxg6 Nf6 55. Bg7 Nd7 56. Bh8 Bd6 57. g4 e4+ 58. Ke3 Ne5 59. Bxe5 Bxe5
+60. Nc5 Kd6 61. g7 Bxg7 62. b7 Bh6+ 63. Kd4 Kc7 64. Kxd5 e3 65. Ke4 e2 66. Nd3
+Bd2 67. Kf5 Kxb7 68. g5 Kc6 69. g6 Bh6 70. Ke4 Kd6 71. Kf3 Ke6 1/2-1/2
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.3"]
+[White "Schaufelberger, Heinz"]
+[Black "Buttenmueller, Thomas"]
+[Result "1-0"]
+[ECO "A35"]
+[WhiteElo "2337"]
+[PlyCount "71"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Waldshut"]
+[BlackTeam "Horben"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 g6 4. e3 Bg7 5. d4 d6 6. d5 Ne5 7. Nxe5 Bxe5 8. Bd3
+e6 9. O-O Bg7 10. e4 Nf6 11. Bg5 h6 12. Bd2 O-O 13. dxe6 Bxe6 14. Re1 a6 15. a4
+Ng4 16. Be2 Nxf2 17. Kxf2 Bd4+ 18. Kg3 Qf6 19. Bf3 g5 20. e5 h5 21. h3 Bxe5+
+22. Rxe5 Qxe5+ 23. Kf2 Bxc4 24. Qe1 Rfe8 25. Qxe5 Rxe5 26. Ne4 d5 27. Nxc5 Rae8
+28. b3 Be2 29. Nd7 Rf5 30. Re1 g4 31. Rxe2 Rxe2+ 32. Kxe2 gxf3+ 33. gxf3 b5 34.
+a5 d4 35. b4 d3+ 36. Ke3 1-0
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.3"]
+[White "Buttenmueller, Thomas"]
+[Black "Bossert, Christian"]
+[Result "1/2-1/2"]
+[ECO "A86"]
+[BlackElo "2233"]
+[PlyCount "101"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Horben"]
+[BlackTeam "Baden Oos II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nh3 Bg7 5. O-O d6 6. c4 O-O 7. d5 Nbd7 8. Nc3
+Ne5 9. Qc2 Bd7 10. b3 c6 11. Bb2 cxd5 12. Nxd5 Bc6 13. Ng5 Nxd5 14. Bxd5+ Bxd5
+15. cxd5 Qa5 16. Rfd1 Rfc8 17. Qd2 Qxd2 18. Rxd2 Bh6 19. h4 Rc5 20. f4 Bxg5 21.
+Bxe5 Bh6 22. Bb2 Rac8 23. Kf2 Rc2 24. Rad1 Bg7 25. Bxg7 Kxg7 26. e3 Kf6 27. Ke2
+R2c5 28. Kf3 Rc3 29. Ke2 h6 30. Kf3 R8c5 31. Ke2 a5 32. Rd3 Rxd3 33. Rxd3 g5
+34. hxg5+ hxg5 35. Kd2 g4 36. a3 b5 37. b4 axb4 38. axb4 Rc4 39. Rb3 e6 40.
+dxe6 Kxe6 41. Kd3 Rc1 42. e4 Rc4 43. exf5+ Kxf5 44. Rb1 Re4 45. Rb2 d5 46. Re2
+Rxb4 47. Re5+ Kf6 48. Rxd5 Rb3+ 49. Ke4 Rxg3 50. Rxb5 Ra3 51. Rb6+ 1/2-1/2
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.5"]
+[White "Perez, Jose"]
+[Black "Becht, Lucas"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2194"]
+[BlackElo "2182"]
+[PlyCount "0"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Horben"]
+[BlackTeam "Baden Oos II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+ 1-0
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.7"]
+[White "Stuart, Robert"]
+[Black "Schaaf, Robert"]
+[Result "1-0"]
+[ECO "A00"]
+[BlackElo "2104"]
+[PlyCount "0"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Horben"]
+[BlackTeam "Baden Oos II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+ 1-0
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.6"]
+[White "Melzer, Christian"]
+[Black "Wenner, Tobias"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "2099"]
+[BlackElo "2240"]
+[PlyCount "102"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Buchen"]
+[BlackTeam "Eppingen II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 f5 2. Bg5 Nf6 3. Bxf6 exf6 4. e3 d5 5. c4 Be6 6. cxd5 Qxd5 7. Nc3 Qa5 8.
+Nge2 Bd6 9. d5 Bd7 10. Nd4 Be5 11. Qh5+ g6 12. Qh6 Bxd4 13. exd4 Na6 14. O-O-O
+O-O-O 15. Bxa6 Qxa6 16. Rhe1 Qd6 17. g3 Qf8 18. Qxf8 Rdxf8 19. Re7 Kd8 20. Rg7
+Rfg8 21. Rxg8+ Rxg8 22. Re1 Re8 23. Re3 Rxe3 24. fxe3 Ke7 25. Kd2 Kd6 26. Kd3
+h6 27. h4 a6 28. e4 b6 29. Ke3 fxe4 30. Nxe4+ Ke7 31. d6+ cxd6 32. d5 f5 33.
+Nd2 Bb5 34. b3 a5 35. Nf3 Kf6 36. Kd4 Be2 37. Nd2 g5 38. Ke3 Ba6 39. hxg5+ Kxg5
+40. Kf2 Kg4 41. a3 f4 42. Ne4 fxg3+ 43. Nxg3 Kf4 44. b4 axb4 45. axb4 Ke5 46.
+Ke3 Kxd5 47. Ne4 Ke5 48. Ng3 d5 49. Kd2 Kf4 50. Nh5+ Kg5 51. Ng3 Kg4 0-1
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.3"]
+[White "Rau, Hannes"]
+[Black "Scherer, Max"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2412"]
+[BlackElo "2289"]
+[PlyCount "73"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hockenheim"]
+[BlackTeam "Dreisamtal"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 b6 2. c4 e6 3. Nc3 Bb7 4. e4 Bb4 5. f3 f5 6. exf5 Nh6 7. fxe6 Nf5 8. Bf4
+dxe6 9. Qa4+ Nc6 10. O-O-O Nfxd4 11. Nb5 O-O 12. Bxc7 Qg5+ 13. f4 Qe7 14. Nxd4
+Qxc7 15. Nxc6 Qxf4+ 16. Kb1 Qxf1 17. Rxf1 Rxf1+ 18. Kc2 Bc5 19. h4 Rc8 20. Ne5
+Rd8 21. Qxa7 Be4+ 22. Kb3 Rc1 23. Qf7+ Kh8 24. Qf4 Bc2+ 25. Kc3 Bd4+ 26. Kb4
+Bc5+ 27. Kc3 Bd4+ 28. Kb4 Bc5+ 29. Kb5 Ra8 30. Kc6 Re1 31. b4 Bxb4 32. Rh3 Rxg1
+33. Nd3 Rf8 34. Qe3 Bxd3 35. Qxg1 Bc5 36. Qxc5 Be4+ 37. Kxb6 1-0
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.4"]
+[White "Gierth, Hans Joachim"]
+[Black "Nekrasov, Mihail"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "2279"]
+[BlackElo "2388"]
+[PlyCount "75"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Dreisamtal"]
+[BlackTeam "Hockenheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 b6 5. Bd3 Bb7 6. Nbd2 cxd4 7. exd4 Be7 8.
+c3 O-O 9. h3 d6 10. Qe2 a6 11. O-O Nbd7 12. Ne4 Qc7 13. Rfe1 Rfe8 14. Nfg5 Bf8
+15. Bh2 h6 16. Nxf6+ Nxf6 17. Ne4 Nxe4 18. Bxe4 Bxe4 19. Qxe4 Qd7 20. d5 e5 21.
+f3 f5 22. Qd3 b5 23. Kh1 Be7 24. Rac1 Rab8 25. b3 Bd8 26. c4 Bg5 27. Rc2 bxc4
+28. Rxc4 Rbc8 29. Bg1 Rxc4 30. bxc4 Qa4 31. a3 Kh8 32. Qxf5 Qxc4 33. Qg6 Rd8
+34. Bb6 Qh4 35. Re4 Bf4 36. Bxd8 Qxd8 37. Rc4 Qb8 38. Qf5 1-0
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.6"]
+[White "Groehn, Andreas"]
+[Black "Vidonyak, Nellya"]
+[Result "0-1"]
+[ECO "A03"]
+[BlackElo "2229"]
+[PlyCount "66"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Dreisamtal"]
+[BlackTeam "Hockenheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. f4 Nf6 2. Nf3 g6 3. d3 d5 4. e3 Bg7 5. d4 O-O 6. Bd3 c5 7. c3 Bf5 8. O-O Nc6
+9. Qe2 Nd7 10. Nbd2 Qb6 11. Kh1 Rad8 12. Bxf5 gxf5 13. Nh4 e6 14. g4 fxg4 15.
+Qxg4 Nf6 16. Qh3 Qa6 17. Ndf3 Ne4 18. Ng5 Nxg5 19. fxg5 Qd3 20. Qf3 f6 21. Rd1
+Qe4 22. Qxe4 dxe4 23. gxf6 Rxf6 24. Bd2 Rf7 25. Rf1 Rxf1+ 26. Rxf1 Ne5 27. h3
+Nd3 28. b3 Bh6 29. Ng2 e5 30. Rf6 Bg7 31. Re6 Kf7 32. Rxe5 Nxe5 33. dxe5 Rxd2
+0-1
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.8"]
+[White "Bauer, Michael"]
+[Black "Kuci, Blerim"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[BlackElo "2180"]
+[PlyCount "29"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Dreisamtal"]
+[BlackTeam "Hockenheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. Nd5 Re8 7. Ng5 g6 8.
+Nxf6+ Qxf6 9. Ne4 Qe7 10. Bd3 f5 11. Nc3 Bxc3 12. Qxc3 e4 13. Be2 Qe5 14. d4
+Qa5 15. Bd2 1/2-1/2
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.6"]
+[White "Saering, Patrick"]
+[Black "Zaskalski, Arkadiusz"]
+[Result "0-1"]
+[ECO "A59"]
+[WhiteElo "2195"]
+[BlackElo "2207"]
+[PlyCount "110"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Waldshut"]
+[BlackTeam "Neuhausen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. c4 b5 5. cxb5 a6 6. bxa6 Bxa6 7. Nc3 d6 8. e4
+Bxf1 9. Kxf1 Nbd7 10. g3 Bg7 11. Kg2 O-O 12. Re1 Qb6 13. Re2 Rfb8 14. Rc2 Ng4
+15. Nd2 Ngf6 16. Qe2 Qa6 17. Qxa6 Rxa6 18. f4 Ne8 19. b3 Nc7 20. Bb2 f5 21. Rd1
+Nb6 22. e5 Nbxd5 23. Nc4 Nb4 24. Rcd2 d5 25. Na3 e6 26. Na4 Bf8 27. Bc3 Nc6 28.
+Nc2 c4 29. Nd4 Nxd4 30. Bxd4 cxb3 31. axb3 Rxb3 32. Nc5 Bxc5 33. Bxc5 Nb5 34.
+Rc2 Rc6 35. Ra1 Nc7 36. Rac1 Nb5 37. Be7 Rxc2+ 38. Rxc2 Nc3 39. Bb4 Rxb4 40.
+Rxc3 Rb2+ 41. Kg1 g5 42. fxg5 Re2 43. Rc7 Rxe5 44. Kf2 Re4 45. h4 e5 46. Re7 d4
+47. Rd7 Rg4 48. Rd5 f4 49. Rxe5 fxg3+ 50. Kg2 Kf7 51. Rd5 Ke6 52. Rd8 Ke5 53.
+Rd7 Ke4 54. Rxh7 d3 55. Re7+ Kd4 0-1
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.1"]
+[White "Roos, Daniel"]
+[Black "Abergel, Thal"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2421"]
+[BlackElo "2512"]
+[PlyCount "1"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Zaehringen"]
+[BlackTeam "Viernheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 {Kampflos} 1-0
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.13"]
+[Round "9.2"]
+[White "Bojkov, Dejan"]
+[Black "Beck, Frederik"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2520"]
+[BlackElo "2292"]
+[PlyCount "81"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Neuhausen"]
+[BlackTeam "Baden Oos II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 c5 2. g3 b6 3. Bg2 Bb7 4. O-O Nf6 5. d3 d6 6. e4 g6 7. Re1 Bg7 8. e5
+dxe5 9. Nxe5 Bxg2 10. Kxg2 Qd5+ 11. Kg1 O-O 12. Nc3 Qb7 13. a4 a6 14. Bg5 Ra7
+15. Nc4 h6 16. Bxf6 Bxf6 17. Ne4 Bg7 18. c3 Qc6 19. Qb3 Rb7 20. Re3 Nd7 21.
+Rae1 Qd5 22. Na5 Qxb3 23. Nxb3 Nf6 24. Nxf6+ Bxf6 25. Re4 Rd8 26. Rd1 e6 27.
+Kf1 Rd5 28. Ke2 Kf8 29. h4 Rbd7 30. Na1 b5 31. Nc2 Rb7 32. axb5 axb5 33. Ra1 b4
+34. cxb4 cxb4 35. Ra8+ Kg7 36. Ne3 Rc5 37. Rc4 Rxc4 38. Nxc4 Rc7 39. Rb8 Bxb2
+40. Rxb4 Bc3 41. Rb8 1/2-1/2
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.13"]
+[Round "9.8"]
+[White "Bogner, Norbert"]
+[Black "Fiderer, Lukas"]
+[Result "0-1"]
+[ECO "A67"]
+[WhiteElo "2114"]
+[BlackElo "2033"]
+[PlyCount "60"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Neuhausen"]
+[BlackTeam "Baden Oos II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 a6 10. Bd3 Qh4+ 11. g3 Qd8 12. Nf3 O-O 13. O-O Nf6 14. Re1 Bh3 15.
+Qb3 Ng4 16. e5 c4 17. Bxc4 b5 18. Nxb5 axb5 19. Qxb5 Qc7 20. Be3 Nxe3 21. Rxe3
+Qa7 22. Kf2 Nd7 23. e6 Nf6 24. exf7+ Rxf7 25. Ke2 Rb8 26. Qa6 Rxb2+ 27. Nd2
+Bg4+ 28. Kd3 Bf5+ 29. Ke2 Qxa6 30. Bxa6 Ne4 0-1
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.2"]
+[White "Rau, Hannes"]
+[Black "Eisenbeiser, Amadeus"]
+[Result "1/2-1/2"]
+[ECO "A42"]
+[WhiteElo "2412"]
+[BlackElo "2367"]
+[PlyCount "106"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hockenheim"]
+[BlackTeam "Buchen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 e5 5. e4 exd4 6. Nxd4 Nc6 7. Be3 Nge7 8.
+Be2 O-O 9. g4 Nxd4 10. Bxd4 Bxd4 11. Qxd4 Nc6 12. Qe3 Be6 13. Nd5 Ne5 14. g5
+Bxd5 15. cxd5 c6 16. f4 Nd7 17. O-O-O Qe7 18. Rhe1 Nb6 19. dxc6 bxc6 20. Bf1 d5
+21. exd5 Qxe3+ 22. Rxe3 Nxd5 23. Re4 Rfe8 24. Rdd4 Kf8 25. Bg2 Re6 26. Rxe6
+fxe6 27. Ra4 Ke7 28. Kd2 Kd6 29. Kd3 a6 30. Bxd5 exd5 31. b4 Kc7 32. Kd4 Rf8
+33. Ke3 Kb6 34. Ra5 Re8+ 35. Kf3 Re4 36. a3 Rc4 37. h4 Rc3+ 38. Kg4 Rc1 39. h5
+gxh5+ 40. Kf3 Rf1+ 41. Ke3 d4+ 42. Kxd4 Rxf4+ 43. Ke3 Rg4 44. Kf3 Rd4 45. Re5
+Rd3+ 46. Kf4 Rxa3 47. Re7 Rb3 48. Rxh7 Rxb4+ 49. Kf5 Rb1 50. g6 Rf1+ 51. Ke6
+Rg1 52. Kf6 Rf1+ 53. Ke6 Rg1 1/2-1/2
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.3"]
+[White "Reinhardt, Bernd"]
+[Black "Nekrasov, Mihail"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2328"]
+[BlackElo "2388"]
+[PlyCount "152"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Buchen"]
+[BlackTeam "Hockenheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 e6 4. Nbd2 cxd4 5. cxd4 d5 6. e3 Nc6 7. Bd3 Bd6 8.
+O-O O-O 9. b3 e5 10. dxe5 Nxe5 11. Nxe5 Bxe5 12. Ba3 Re8 13. Rc1 Bg4 14. Qc2
+Rc8 15. Qb1 Qa5 16. Rxc8 Rxc8 17. Bb2 Bc3 18. h3 Be6 19. Bxc3 Qxc3 20. Nf3 a6
+21. Rd1 g6 22. Nd4 Bd7 23. Ne2 Qe5 24. Qa1 Qxa1 25. Rxa1 Kf8 26. Rd1 Ke7 27. f3
+Be6 28. Kf2 a5 29. a3 Bd7 30. g4 h6 31. Ke1 g5 32. Kd2 h5 33. h4 Rg8 34. hxg5
+Rxg5 35. gxh5 Rxh5 36. Kc3 Rh3 37. Nd4 Rh2 38. b4 axb4+ 39. axb4 Ra2 40. Kb3
+Ra8 41. Rh1 Ba4+ 42. Kb2 Bd7 43. Ra1 Rxa1 44. Kxa1 Kd6 45. Kb2 Ne8 46. Kc3 Nc7
+47. f4 b6 48. Bh7 Nb5+ 49. Nxb5+ Bxb5 50. Bg8 f6 51. Kd4 Bc6 52. Bf7 Bb7 53.
+Kc3 Bc6 54. Kd3 Bb5+ 55. Kd2 Bd7 56. Bg6 Bb5 57. Ke1 Bc4 58. Kf2 Bb5 59. Kf3
+Bd7 60. Bd3 Be6 61. Kg3 Bd7 62. Kh4 Ke7 63. Kh5 Be8+ 64. Kh6 Bf7 65. Bf5 Be8
+66. Bd3 Bd7 67. Kg7 Bg4 68. Kg6 Bd7 69. Bc2 Bb5 70. Kg7 Be2 71. Bb3 Bc4 72. Bd1
+Bb5 73. Bf3 Bc4 74. Bh5 Bd3 75. Bg6 Be2 76. Bf7 Bf3 1/2-1/2
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.4"]
+[White "Vidoniak, Roman"]
+[Black "Indrak, Igor"]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2400"]
+[BlackElo "2308"]
+[PlyCount "67"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hockenheim"]
+[BlackTeam "Buchen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 e6 2. c4 Nf6 3. Nc3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Re1 d6 8. e4
+e5 9. d4 Nbd7 10. h3 Re8 11. d5 a5 12. Nh2 Nc5 13. b3 Nfd7 14. Rb1 Nf8 15. f4
+Bf6 16. f5 Bg5 17. Ba3 Nfd7 18. h4 Be7 19. Bc1 Kh8 20. a3 Nf8 21. Be3 Ncd7 22.
+Rb2 Nf6 23. g4 N6d7 24. g5 Qb8 25. Bf1 g6 26. f6 Bd8 27. Ng4 Bc8 28. Rf2 Nc5
+29. Nh6 Nfd7 30. Nxf7+ Kg8 31. Nxd6 Rf8 32. Nxc8 Qxc8 33. Bh3 Qb8 34. b4 1-0
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.5"]
+[White "Erdelyi, Tamas"]
+[Black "Diosu, Georg"]
+[Result "1/2-1/2"]
+[ECO "A24"]
+[WhiteElo "2190"]
+[PlyCount "43"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Buchen"]
+[BlackTeam "Hockenheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 c6 6. O-O d6 7. d3 a5 8. Rb1
+Nbd7 9. a3 e5 10. Nd2 Nc5 11. b4 axb4 12. axb4 Ne6 13. b5 d5 14. Bb2 Re8 15.
+Ra1 Rxa1 16. Qxa1 Nd4 17. bxc6 bxc6 18. Qa4 Bd7 19. e3 Ne6 20. Ne2 Nc5 21. Qc2
+Bf8 22. Nb3 1/2-1/2
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.8"]
+[White "Dushatskiy, Fedor"]
+[Black "Gogollok, Carsten"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2195"]
+[BlackElo "2080"]
+[PlyCount "0"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hockenheim"]
+[BlackTeam "Buchen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+ 0-1
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.1"]
+[White "Schwing, Hans Elmar"]
+[Black "Maier, Christian"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2228"]
+[BlackElo "2347"]
+[PlyCount "0"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Dreisamtal"]
+[BlackTeam "Zaehringen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+ 1-0
+
+[Event "Oberliga Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.3"]
+[White "Gierth, Hans Joachim"]
+[Black "Trabert, Lukas"]
+[Result "1-0"]

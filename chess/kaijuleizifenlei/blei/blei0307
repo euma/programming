@@ -1,0 +1,600 @@
+[Black "Maier, Florian"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "1686"]
+[BlackElo "1610"]
+[PlyCount "20"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Qd6 8. exf7+
+Kxf7 9. Ne2 Nd7 10. f4 Qg6 1/2-1/2
+
+[Event "Baden-ch U14"]
+[Site "Karlsruhe"]
+[Date "2008.01.04"]
+[Round "4"]
+[White "Volz, Daniel"]
+[Black "Schopferer, Markus"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "1836"]
+[BlackElo "1279"]
+[PlyCount "104"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 e6 4. Nf3 Bb4 5. Bd3 h6 6. O-O Bxc3 7. bxc3 d6 8. Re1
+Nf6 9. c4 c5 10. c3 Qc7 11. d5 e5 12. Nh4 g5 13. Nf5 Bc8 14. Ng3 Bg4 15. Be2
+Qc8 16. Bxg4 Qxg4 17. Qxg4 Nxg4 18. Nf5 Kd7 19. g3 Na6 20. f3 Nf6 21. h3 Rag8
+22. Kf2 h5 23. a4 Rg6 24. Re2 Nc7 25. Ke3 g4 26. fxg4 hxg4 27. h4 Nh5 28. Bd2
+a5 29. Rf2 f6 30. Be1 Na8 31. Rb2 Rb8 32. Rab1 Rb7 33. Rb5 Ng7 34. Nxg7 Rxg7
+35. R5b2 Rh7 36. Rf2 Ke7 37. Rf5 Rb8 38. Bd2 Rf8 39. Rbf1 Nc7 40. Kf2 Rb8 41.
+Kg2 Rf8 42. h5 Na8 43. h6 Nc7 44. Be3 Rff7 45. R5f2 Na8 46. Rb1 Rf8 47. Rh1 Nc7
+48. Rh4 Rg8 49. Rb2 Na8 50. Rb1 Rg6 51. Rb2 Rg8 52. Rb5 Kf7 1/2-1/2
+
+[Event "Baden-ch U14"]
+[Site "Karlsruhe"]
+[Date "2008.01.04"]
+[Round "5"]
+[White "Bruttel, Philipp"]
+[Black "Hermann, Rico"]
+[Result "1/2-1/2"]
+[ECO "B28"]
+[WhiteElo "1403"]
+[BlackElo "1745"]
+[PlyCount "35"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bd2 Nc6 8.
+Bd3 d5 9. exd5 Nxd5 10. Nxd5 Qxd5 11. O-O Bg4 12. Bxb4 Nxb4 13. Be2 Qe4 14. c3
+Rd8 15. Qe1 Bxf3 16. Bxf3 Qxe1 17. Rfxe1 Nd3 18. Re3 1/2-1/2
+
+[Event "Baden-ch U14"]
+[Site "Karlsruhe"]
+[Date "2008.01.04"]
+[Round "5"]
+[White "Kellner, Jonas"]
+[Black "Dehm, Tobias"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1045"]
+[BlackElo "1472"]
+[PlyCount "20"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. Nxd5 Nxd5 6. cxd5 Qxd5 7. Qf3 Qe5+
+8. Qe3 Qd5 9. b3 Nc6 10. Qd3 Qe5+ 0-1
+
+[Event "Baden-ch U14"]
+[Site "Karlsruhe"]
+[Date "2008.01.04"]
+[Round "5"]
+[White "Schmitz, Stefan"]
+[Black "Tiemann, Tobias"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1767"]
+[BlackElo "1686"]
+[PlyCount "94"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 b6 6. Bc4 Bb7 7. Bd2 Qc7 8. Bb3
+e6 9. Nf3 d6 10. Nc3 Nxc3 11. Bxc3 Nd7 12. O-O dxe5 13. d5 f6 14. Rc1 Nc5 15.
+Ba4+ Nxa4 16. Bxe5 Qd7 17. Rc7 Qxd5 18. Qxa4+ b5 19. Qc2 fxe5 20. Rd1 Qxa2 21.
+Nxe5 Bd5 22. Qe2 Qb3 23. Qh5+ g6 24. Nxg6 hxg6 25. Qxg6+ Kd8 26. Rdc1 Be7 27.
+Qf7 Qb4 28. Qg7 Re8 29. Qg6 Qd6 30. Rc8+ Rxc8 31. Rxc8+ Kxc8 32. Qxe8+ Kb7 33.
+Qxb5+ Qb6 34. Qd7+ Qc7 35. Qb5+ Ka8 36. Qe8+ Qd8 37. Qxd8+ Bxd8 38. f3 Bf6 39.
+g4 Bxf3 40. h3 Bxb2 41. g5 a5 42. Kf2 Bh5 43. Ke3 a4 44. Kd2 Bg6 45. h4 a3 46.
+h5 Bxh5 47. Kc2 e5 0-1
+
+[Event "Baden-ch U14"]
+[Site "Karlsruhe"]
+[Date "2008.01.05"]
+[Round "6"]
+[White "Kroeger, Carsten"]
+[Black "Schopferer, Markus"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "1205"]
+[BlackElo "1279"]
+[PlyCount "89"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 b6 2. Nc3 Bb7 3. Nf3 e6 4. d3 Bc5 5. Be2 d5 6. exd5 Bxd5 7. O-O Bc6 8. d4
+Bd6 9. Re1 Nf6 10. Bg5 O-O 11. Qd2 Kh8 12. a3 Bxf3 13. Bxf3 c6 14. Ne4 Nxe4 15.
+Bxe4 Qc7 16. g3 f6 17. Be3 Nd7 18. Rad1 f5 19. Bg2 Nf6 20. Bg5 Rae8 21. Qc3 Nd5
+22. Bxd5 exd5 23. Re3 h6 24. Rxe8 Rxe8 25. Be3 f4 26. Bxf4 Bxf4 27. gxf4 Qxf4
+28. Qg3 Qxg3+ 29. hxg3 Re2 30. Rc1 Rd2 31. c4 Rxb2 32. cxd5 cxd5 33. Rc8+ Kh7
+34. Rc7 Rd2 35. Rxa7 Rxd4 36. Rb7 Ra4 37. Rxb6 Rxa3 38. Rd6 Rd3 39. Kg2 h5 40.
+f3 g6 41. f4 Kg7 42. Kh3 d4 43. Kh4 Kh7 44. g4 hxg4 45. Kxg4 1/2-1/2
+
+[Event "Baden-ch U14"]
+[Site "Karlsruhe"]
+[Date "2008.01.06"]
+[Round "7"]
+[White "Dehm, Tobias"]
+[Black "Maier, Florian"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "1472"]
+[BlackElo "1610"]
+[PlyCount "80"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nc3 Bf5 6. Nf3 e6 7. Bd3 Bxd3 8.
+Qxd3 Bd6 9. Bg5 Qc7 10. O-O-O Nbd7 11. g3 h6 12. Bxf6 Nxf6 13. h3 O-O-O 14. Ne4
+Nxe4 15. Qxe4 Qa5 16. Kb1 Qd5 17. Qxd5 exd5 18. Rhe1 Rhe8 19. Ne5 Re7 20. Re3
+f6 21. Ng4 Rde8 22. Rde1 Kd7 23. c3 h5 24. Rxe7+ Rxe7 25. Rxe7+ Kxe7 26. Ne3
+Ke6 27. Kc2 f5 28. g4 hxg4 29. hxg4 fxg4 30. Nxg4 Kf5 31. Ne3+ Ke4 32. Kd2 Bf4
+33. Ke2 Bxe3 34. fxe3 g5 35. Kf2 g4 36. Kg3 Kxe3 37. Kxg4 Kd3 38. Kf5 Kc2 39.
+Ke6 Kxb2 40. Kd6 Kxc3 0-1
+
+[Event "Baden-ch U14"]
+[Site "Karlsruhe"]
+[Date "2008.01.06"]
+[Round "7"]
+[White "Schopferer, Markus"]
+[Black "Winter, Philipp"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "1279"]
+[BlackElo "1455"]
+[PlyCount "67"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. g3 Nf6 2. d4 g6 3. Bg2 Bg7 4. e4 d6 5. Nc3 Nc6 6. Be3 O-O 7. a3 Bg4 8. f3
+Bd7 9. Nge2 a6 10. Qd2 Qc8 11. Nf4 e5 12. Nfd5 Nxd5 13. Nxd5 exd4 14. Bh6 Be6
+15. Bxg7 Kxg7 16. O-O-O b5 17. Nb4 Nxb4 18. Qxd4+ Kg8 19. Qxb4 c5 20. Qd2 Rd8
+21. f4 Rb8 22. Qe3 b4 23. Kd2 a5 24. Ke1 c4 25. Kf2 Rb5 26. Rhe1 Qc7 27. Qd4
+Rc5 28. e5 d5 29. axb4 axb4 30. Ra1 c3 31. b3 Rb8 32. Ra4 Rcb5 33. Bf1 R5b6 34.
+Rea1 1/2-1/2
+
+[Event "Baden-ch U14"]
+[Site "Karlsruhe"]
+[Date "2008.01.06"]
+[Round "7"]
+[White "Schwab, David"]
+[Black "Kroeger, Carsten"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "979"]
+[BlackElo "1205"]
+[PlyCount "119"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Nc6 5. Bc4 Nf6 6. Nc3 Bg4 7. d5 Ne5 8.
+Bb3 Nxf3+ 9. gxf3 Bf5 10. Bg5 e5 11. Qe2 Bd6 12. O-O-O h6 13. Bh4 O-O 14. Rhg1
+Bg6 15. Ne4 Bxe4 16. fxe4 Be7 17. Qe3 Kh7 18. Rg2 Nh5 19. Bxe7 Qxe7 20. Qf3 Nf4
+21. Rg3 Qf6 22. Rdg1 Rg8 23. Bc4 Rac8 24. Bf1 a6 25. Bh3 Nxh3 26. Rxh3 c6 27.
+c3 cxd5 28. exd5 Rc4 29. Qd3+ e4 30. Qxc4 Qf4+ 31. Kd1 Qf5 32. Rhg3 g6 33. Qe2
+Qxd5+ 34. Qd2 Qh5+ 35. Ke1 b5 36. Qe3 Rd8 37. Kf1 Qxh2 38. Rh3 Qe5 39. Qxh6+
+Kg8 40. Qh7+ Kf8 41. Qh8+ Qxh8 42. Rxh8+ Ke7 43. Rxd8 Kxd8 44. Rg4 Ke7 45.
+Rxe4+ Kd7 46. Kg2 f5 47. Re1 Kd6 48. f4 Kd5 49. Kg3 Kc4 50. Kh4 Kd3 51. Kg5 Kc2
+52. Re2+ Kd3 53. Rg2 a5 54. Kxg6 a4 55. Kxf5 a3 56. bxa3 Kxc3 57. Rg3+ Kb2 58.
+Ke4 Kxa2 59. f5 Kb2 60. f6 1-0
+
+[Event "Baden-ch U14/18 Girls"]
+[Site "Karlsruhe"]
+[Date "2008.01.03"]
+[Round "2"]
+[White "Beier, Nina"]
+[Black "Kohm, Vanessa"]
+[Result "0-1"]
+[ECO "B46"]
+[WhiteElo "1193"]
+[BlackElo "1795"]
+[PlyCount "68"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 Nc6 7. Bg2 Bb4 8.
+Nde2 O-O 9. Be3 Ne5 10. f4 Nc4 11. Qc1 Nxe3 12. Qxe3 d6 13. O-O-O Bc5 14. Qf3
+Qc7 15. h3 Rb8 16. g4 b5 17. g5 Nd7 18. Nb1 Bb7 19. Qd3 Rfc8 20. a3 b4 21. axb4
+Bxb4 22. Nec3 Nc5 23. Qc4 Ba8 24. Qa2 Nxe4 25. Bxe4 Bxe4 26. Rhe1 Bf5 27. h4 d5
+28. Rd4 Bc5 29. Ra4 d4 30. Ne4 Qxf4+ 31. Nbd2 Qxh4 32. Nf3 Qf4+ 33. Ned2 Bb4
+34. Qb1 d3 0-1
+
+[Event "Baden-ch U14/18 Girls"]
+[Site "Karlsruhe"]
+[Date "2008.01.04"]
+[Round "4"]
+[White "Kuehnel, Lena"]
+[Black "Kohm, Vanessa"]
+[Result "1/2-1/2"]
+[ECO "B41"]
+[WhiteElo "1622"]
+[BlackElo "1795"]
+[PlyCount "41"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be3 Nf6 6. f3 Nc6 7. c4 d6 8. Nc3
+Qc7 9. Be2 Be7 10. O-O O-O 11. Qd2 Bd7 12. Rad1 Rfb8 13. f4 Na7 14. b3 b5 15.
+e5 b4 16. Nb1 Ne4 17. Qc2 Nc5 18. Bf3 Nb7 19. Qd2 dxe5 20. fxe5 Rd8 21. Qe1
+1/2-1/2
+
+[Event "Baden-ch U14/18 Girls"]
+[Site "Karlsruhe"]
+[Date "2008.01.05"]
+[Round "6"]
+[White "Kauselmann, Laura"]
+[Black "Burmeister Grundmann, Sarah"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "750"]
+[BlackElo "744"]
+[PlyCount "60"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nf6 2. Nc3 Nc6 3. Bc4 e6 4. d3 Bc5 5. Nf3 Ng4 6. O-O Qf6 7. Bg5 Qg6 8.
+Ne2 f6 9. Nf4 Qf7 10. Bh4 Nd4 11. Nd2 g5 12. Bg3 gxf4 13. Bxf4 Qh5 14. Nf3 Bd6
+15. Qc1 e5 16. Bg3 Bc5 17. h3 Ne2+ 18. Kh1 Nxc1 19. Raxc1 a6 20. a3 b5 21. b4
+bxc4 22. bxc5 cxd3 23. cxd3 c6 24. Kg1 Nh6 25. Rce1 Rg8 26. Bh4 f5 27. g4 Nxg4
+28. Nh2 Nxh2+ 29. Kxh2 Qxh4 30. Rg1 Qxf2+ 0-1
+
+[Event "Baden-ch U14/18 Girls"]
+[Site "Karlsruhe"]
+[Date "2008.01.05"]
+[Round "6"]
+[White "Steinbach, Nina"]
+[Black "Kohm, Vanessa"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1285"]
+[BlackElo "1795"]
+[PlyCount "92"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O a6 7. Re1 d6 8. d3
+Nge7 9. Be3 Nd4 10. Bxd4 cxd4 11. Ne2 Nc6 12. c3 dxc3 13. Nxc3 Qb6 14. Qc2 Bd7
+15. Rac1 O-O 16. a3 Rfc8 17. b4 Nd4 18. Nxd4 Qxd4 19. Qd2 Rxc3 20. Rxc3 Qxc3
+21. Qxc3 Bxc3 22. Rc1 Rc8 23. Bf1 Bb2 24. Rxc8+ Bxc8 25. a4 Bd7 26. b5 axb5 27.
+axb5 Bxb5 28. Be2 Kf8 29. Kf1 Ke7 30. Ke1 d5 31. exd5 exd5 32. Kd2 Bd4 33. f3
+Ba4 34. Kc1 Kd6 35. Kb1 Bb3 36. Kc1 Kc5 37. Bd1 Be3+ 38. Kb2 Bxd1 39. f4 Kd4
+40. Ka2 Kc3 41. Kb1 Bb3 42. h3 h5 43. g4 hxg4 44. hxg4 f5 45. gxf5 gxf5 46. d4
+Bxd4 0-1
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.02"]
+[Round "1"]
+[White "Tiemann, Christoph"]
+[Black "Jakobsche, Thomas"]
+[Result "0-1"]
+[ECO "B03"]
+[WhiteElo "2065"]
+[BlackElo "1598"]
+[PlyCount "116"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Nc6 7. Be3 g6 8. Bd3
+Bg7 9. Nge2 O-O 10. O-O Nb4 11. Ng3 f5 12. Nce2 Be6 13. d5 Bc8 14. Rb1 Nd7 15.
+f4 Re8 16. Bd4 Nf6 17. a3 Nxd3 18. Qxd3 h5 19. Nc3 Ng4 20. Bxg7 Kxg7 21. h3 Re3
+22. Qd4+ Qf6 23. Qxf6+ Nxf6 24. Kf2 Re8 25. Rfe1 h4 26. Nf1 Ne4+ 27. Nxe4 fxe4
+28. Nd2 Bf5 29. Re2 e3+ 30. Rxe3 Bxb1 31. Nxb1 Rxe3 32. Kxe3 Re8+ 33. Kf3 Re1
+34. Nd2 Rd1 35. Ke2 Rc1 36. b3 a5 37. a4 Rc3 38. Kf2 Kf7 39. Ke2 Ke7 40. Kf2 c6
+41. dxc6 bxc6 42. Nf3 Rxb3 43. Nxh4 Kf6 44. Nf3 Ra3 45. g4 Rxa4 46. h4 Ra2+ 47.
+Kg3 Ra3 48. h5 gxh5 49. gxh5 Rxf3+ 50. Kxf3 a4 51. Ke4 a3 52. h6 a2 53. h7 Kg7
+54. Kf5 a1=Q 55. h8=Q+ Kxh8 56. Ke6 Kg7 57. Kxd6 Qd4+ 58. Kxc6 Qxc4+ 0-1
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.02"]
+[Round "1"]
+[White "Walther, Jochen"]
+[Black "Qadirie, Leon"]
+[Result "0-1"]
+[ECO "B52"]
+[WhiteElo "1328"]
+[BlackElo "1603"]
+[PlyCount "50"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Qe2 Nc6 5. Nc3 Nf6 6. b3 e6 7. Bb2 Be7 8.
+O-O-O O-O 9. h4 d5 10. exd5 exd5 11. Bxc6 Bxc6 12. Ne5 Re8 13. Nxc6 bxc6 14.
+Qf3 c4 15. bxc4 Qa5 16. Rde1 Ba3 17. Rxe8+ Rxe8 18. Qg3 Bxb2+ 19. Kxb2 Qb4+ 20.
+Kc1 Rb8 21. Kd1 d4 22. Ne2 Ne4 23. Qf4 d3 24. Qxe4 Qb1+ 25. Nc1 Qxc2+ 0-1
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.02"]
+[Round "1"]
+[White "Warthmann, Alexander"]
+[Black "Petermann, Michail"]
+[Result "0-1"]
+[ECO "B28"]
+[WhiteElo "1594"]
+[BlackElo "2006"]
+[PlyCount "50"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. f3 d5 8. Bd2
+dxe4 9. Nxe4 Nxe4 10. fxe4 Qh4+ 11. g3 Qxe4+ 12. Qe2 Bxd2+ 13. Kxd2 Qd5+ 14.
+Qd3 Qxh1 15. Re1 Qxh2+ 16. Re2 Qh6+ 17. Ke1 Nc6 18. Bg2 Be6 19. Bxc6+ bxc6 20.
+Rxe5 O-O 21. Re2 Rad8 22. Qf3 Bxb3 23. Qxb3 Qh1+ 24. Kf2 Rd1 25. Ke3 Re8+ 0-1
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.02"]
+[Round "1"]
+[White "Weber, Raphael"]
+[Black "Reither, Stefan"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1796"]
+[BlackElo "1477"]
+[PlyCount "81"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 Nc6 6. Be3 Bf5 7. Nf3 e6 8.
+Be2 Be7 9. O-O O-O 10. Qd2 Nb4 11. Rac1 a5 12. Rfd1 Qc8 13. a3 Na6 14. Bf4 c6
+15. Qe3 Re8 16. Ne4 Nd7 17. Nd6 Bxd6 18. Bxd6 Nf6 19. Be5 Ng4 20. Qd2 Nxe5 21.
+Nxe5 Qc7 22. c5 Nb8 23. Nc4 Nd7 24. Nd6 Re7 25. Bc4 Bg6 26. Rc3 b6 27. Bd3 bxc5
+28. dxc5 Bxd3 29. Qxd3 Rb8 30. Qg3 Nf6 31. Rcd3 Nd5 32. Rb3 Kf8 33. Qd3 g6 34.
+Qh3 Rxb3 35. Qxb3 Qa7 36. Qc4 Rd7 37. Qd4 Kg8 38. Ne8 f5 39. Re1 Kf7 40. Qg7+
+Kxe8 41. Qg8+ 1-0
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.03"]
+[Round "2"]
+[White "Kappe, Benedikt"]
+[Black "Qadirie, Leon"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2013"]
+[BlackElo "1603"]
+[PlyCount "96"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 Nc6 6. Nc3 Nxc3 7. bxc3 d6 8.
+exd6 Qxd6 9. f4 Be6 10. Nf3 g6 11. Bd3 Bg7 12. Be3 O-O 13. O-O Rac8 14. Ng5 Na5
+15. f5 Bc4 16. Rf3 Bxd3 17. Qxd3 Nc4 18. Rh3 Nxe3 19. Qxe3 Rxc3 20. Qxc3 Bxd4+
+21. Kh1 Bxc3 22. Rxc3 Qf6 23. Ne4 Qd4 24. Re1 gxf5 25. Rg3+ Kh8 26. Ng5 h6 27.
+Nf3 Qf6 28. Rd1 Rg8 29. Rd7 Rxg3 30. hxg3 e5 31. Rxb7 e4 32. Ng1 f4 33. gxf4
+Qxf4 34. Rxa7 e3 35. Ra8+ Kg7 36. Re8 f5 37. Nf3 h5 38. Kg1 h4 39. Kf1 h3 40.
+Ke2 h2 41. Re7+ Kg6 42. Nxh2 Qxh2 43. Kxe3 Qg3+ 44. Ke2 Qxg2+ 45. Ke1 Qg1+ 46.
+Ke2 Qh2+ 47. Kf3 Qh5+ 48. Kg2 Qg5+ 0-1
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.03"]
+[Round "2"]
+[White "Van gen Hassend, Max"]
+[Black "Tiemann, Christoph"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "1361"]
+[BlackElo "2065"]
+[PlyCount "86"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nde2 Be6 8. Bg5
+Be7 9. Bxf6 Bxf6 10. Nd5 Bg5 11. Nec3 O-O 12. Be2 Nc6 13. O-O Rc8 14. a4 Ne7
+15. Kh1 Bxd5 16. Nxd5 Nxd5 17. exd5 f5 18. Bd3 Rf6 19. Qe2 Qd7 20. b3 Rh6 21.
+g3 g6 22. Ra2 Kg7 23. b4 f4 24. g4 Rh4 25. c4 h5 26. Qe4 Qf7 27. gxh5 Rxh5 28.
+Rg1 Kf6 29. Rc2 b6 30. c5 bxc5 31. bxc5 Rxc5 32. Rxc5 dxc5 33. Bxa6 Bh4 34. Rb1
+Qa7 35. a5 Rf5 36. Rb6+ Kg5 37. d6 Kh5 38. Qb7 Rf7 39. d7 Rxd7 40. Qe4 Rd1+ 41.
+Kg2 Qg7 42. Bd3 Rd2+ 43. Kh3 Qd7+ 0-1
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.03"]
+[Round "2"]
+[White "Walther, Jochen"]
+[Black "Koeppel, Marius"]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteElo "1328"]
+[BlackElo "1483"]
+[PlyCount "82"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 Nb6 4. Bb3 d6 5. Qf3 e6 6. exd6 Bxd6 7. Ne2 Bd7 8.
+Nbc3 Bc6 9. Qg4 Qf6 10. Ne4 Bxe4 11. Qxe4 Nc6 12. d4 O-O-O 13. Be3 Qg6 14. Qxg6
+hxg6 15. h3 Na5 16. O-O Nac4 17. Bxc4 Nxc4 18. b3 Nxe3 19. fxe3 Rd7 20. c4 b6
+21. e4 c5 22. d5 Rh4 23. dxe6 fxe6 24. Rad1 Rxe4 25. Nc3 Rd4 26. Nb5 Bh2+ 27.
+Kxh2 Rxd1 28. Rf8+ Rd8 29. Rf7 R1d7 30. Rf3 a6 31. Nc3 Rd3 32. Rxd3 Rxd3 33.
+Ne4 Re3 34. Ng5 Kd7 35. Nf3 Re2 36. a3 Kd6 37. b4 Ra2 38. bxc5+ bxc5 39. Kg3
+Rxa3 40. Kf4 Rxf3+ 41. Kxf3 a5 0-1
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.03"]
+[Round "3"]
+[White "Tiemann, Christoph"]
+[Black "Reither, Stefan"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2065"]
+[BlackElo "1477"]
+[PlyCount "61"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 a6 5. a4 Bg7 6. h3 O-O 7. Be3 b6 8. e5 dxe5
+9. dxe5 Nfd7 10. e6 fxe6 11. Bd3 Nc6 12. Be4 Bb7 13. Ng5 Bxc3+ 14. bxc3 Nf6 15.
+Bd3 Qd7 16. Bc4 Qxd1+ 17. Rxd1 Ne5 18. Bxe6+ Kg7 19. f3 c5 20. Ba2 Rfc8 21. O-O
+c4 22. Bxb6 h6 23. Ne6+ Kf7 24. Nd8+ Kg7 25. Nxb7 Rab8 26. Bd4 Nxf3+ 27. Rxf3
+Rxb7 28. Rb1 Rxb1+ 29. Bxb1 Rb8 30. Ba2 Rc8 31. Rf4 1-0
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.03"]
+[Round "3"]
+[White "Waidelich, Dominik"]
+[Black "Petermann, Michail"]
+[Result "1/2-1/2"]
+[ECO "B28"]
+[WhiteElo "1645"]
+[BlackElo "2006"]
+[PlyCount "43"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bd2 d6 8. Bd3
+Bxc3 9. Bxc3 b6 10. h3 Bb7 11. Qe2 Nbd7 12. O-O O-O 13. Nd2 d5 14. Rfd1 Qc7 15.
+f3 a5 16. Nf1 Rfe8 17. Ng3 Rad8 18. Kh1 Nc5 19. Be1 dxe4 20. fxe4 Ne6 21. Nf5
+Nc5 22. Bh4 1/2-1/2
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.03"]
+[Round "3"]
+[White "Weber, Raphael"]
+[Black "Kappe, Benedikt"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "1796"]
+[BlackElo "2013"]
+[PlyCount "84"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Nc6 7. Be3 Be7 8. Be2
+dxc4 9. Bxc4 O-O 10. a3 a6 11. d5 exd5 12. Nxd5 Nxd5 13. Qxd5 Qxd5 14. Bxd5 Bf6
+15. Ra2 Ne7 16. Bb3 Nf5 17. Bc4 Re8 18. Ke2 b5 19. Bd5 Ra7 20. Rd1 Nxe3 21.
+fxe3 Rae7 22. e4 Bf5 23. Nd2 Bg4+ 24. Nf3 Bf5 25. Nd2 Bg5 26. Kf1 Bg6 27. Nf3
+Bh6 28. Bc6 Rc8 29. e5 Kf8 30. Bd5 Bf4 31. b4 Rd8 32. Raa1 Bc2 33. Rd4 Be3 34.
+Re4 Bd3+ 35. Ke1 Bxe4 36. Bxe4 Bd4 37. Rc1 Bxe5 38. Kf1 Bb2 39. Rb1 Rxe4 40.
+Rxb2 Re3 41. Ra2 Rdd3 42. a4 Ra3 0-1
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.04"]
+[Round "4"]
+[White "Kappe, Benedikt"]
+[Black "Tiemann, Christoph"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2013"]
+[BlackElo "2065"]
+[PlyCount "37"]
+[EventDate "2008.01.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 b6 6. Nf3 e6 7. Nc3 Nxc3 8.
+bxc3 Qc7 9. Qb3 Bb7 10. Be2 d6 11. Ba3 Nd7 12. O-O dxe5 13. Bxf8 Rxf8 14. Rfd1
+O-O-O 15. a4 Kb8 16. a5 Rc8 17. axb6 axb6 18. Qa3 Qc6 19. Rab1 1/2-1/2
+
+[Event "Baden-ch U16"]
+[Site "Karlsruhe"]
+[Date "2008.01.04"]
+[Round "5"]
+[White "Petermann, Michail"]
+[Black "Qadirie, Leon"]
+[Result "1/2-1/2"]
+[ECO "B23"]

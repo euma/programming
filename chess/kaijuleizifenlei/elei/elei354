@@ -1,0 +1,600 @@
+[ECO "E90"]
+[WhiteElo "2317"]
+[BlackElo "2218"]
+[PlyCount "80"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. h3 e5 7. d5 Nbd7 8. Bg5 a5
+9. Bd3 Nc5 10. Bc2 Bd7 11. Qd2 Qe8 12. g4 b5 13. cxb5 Bxb5 14. Be3 Ba6 15.
+O-O-O Rb8 16. Rdg1 Rb4 17. Bxc5 dxc5 18. a3 Rd4 19. Qe1 Nd7 20. Na4 Qe7 21.
+Qxa5 Be2 22. Rg3 Bh6+ 23. Kb1 Bf4 24. Ng1 Bd1 25. Rd3 Bxc2+ 26. Kxc2 c4 27. Rd1
+Rxd1 28. Kxd1 Qh4 29. Ke2 f5 30. Nf3 Qf6 31. gxf5 gxf5 32. Rg1+ Kh8 33. Qxc7
+fxe4 34. Qxd7 exf3+ 35. Kd1 e4 36. Qa7 Bh6 37. Nc3 Qe5 38. Re1 e3 39. fxe3 f2
+40. Rf1 Bxe3 0-1
+
+[Event "Chalkidiki op"]
+[Site "Chalkidiki"]
+[Date "2008.05.01"]
+[Round "4"]
+[White "Breahna, Radu"]
+[Black "Georgiev, Krum"]
+[Result "0-1"]
+[ECO "E90"]
+[WhiteElo "2310"]
+[BlackElo "2452"]
+[PlyCount "64"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 Na6 7. Bg5 Qe8 8. Bd3
+e5 9. dxe5 dxe5 10. Qe2 c6 11. Be3 Qe7 12. O-O-O Nd7 13. g4 Nac5 14. Bc2 Nb6
+15. b3 Ne6 16. Bb1 Re8 17. g5 Nd7 18. h4 Ndc5 19. Rhg1 a5 20. Bc2 a4 21. b4 Nd4
+22. Nxd4 exd4 23. Bxd4 Bxd4 24. Rxd4 Ne6 25. Rd2 Qxb4 26. Rg3 Nc5 27. h5 Be6
+28. h6 Bxc4 29. Qf3 Ne6 30. e5 Rad8 31. Rxd8 Rxd8 32. Ne4 Nd4 0-1
+
+[Event "Chalkidiki op"]
+[Site "Chalkidiki"]
+[Date "2008.05.02"]
+[Round "5"]
+[White "Sandalakis, Angelos"]
+[Black "Gergacz, Attila"]
+[Result "1-0"]
+[ECO "E04"]
+[WhiteElo "2346"]
+[BlackElo "2287"]
+[PlyCount "99"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c5 4. O-O Nc6 5. d4 e6 6. c4 dxc4 7. Ne5 Bd7 8. Na3
+cxd4 9. Naxc4 Be7 10. Qb3 Nxe5 11. Nxe5 Bd6 12. Bf4 Qe7 13. Bxb7 Rb8 14. Nc6
+Bxc6 15. Bxc6+ Kf8 16. Qf3 Bxf4 17. Qxf4 e5 18. Qd2 Qb4 19. Qd3 Qd6 20. Ba4 g6
+21. Bb3 Kg7 22. Rac1 Rhc8 23. Rc4 Rc5 24. e3 Rxc4 25. Qxc4 Rb7 26. exd4 exd4
+27. Rd1 Rd7 28. Ba4 Rd8 29. Qc6 Qe5 30. Qa6 Qe7 31. h3 Rd6 32. Qc4 Qe4 33. Qc7
+Qe5 34. Bb3 Nd7 35. Qxa7 Qf6 36. Qa5 Ne5 37. f4 Nd7 38. Qg5 Qxg5 39. fxg5 Nc5
+40. Bc4 Ne4 41. Kg2 Nxg5 42. a4 Rd7 43. a5 Kf6 44. a6 Ke5 45. Ra1 Ra7 46. Ra5+
+Ke4 47. b4 d3 48. b5 d2 49. Bb3 Rd7 50. Bd1 1-0
+
+[Event "Chalkidiki op"]
+[Site "Chalkidiki"]
+[Date "2008.05.02"]
+[Round "5"]
+[White "Tsikrikonis, Panagiotis"]
+[Black "Ataman, Alper Efe"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2023"]
+[BlackElo "2231"]
+[PlyCount "70"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. Qc2 c5 6. a3 Bxd2+ 7. Bxd2 cxd4
+8. Nxd4 d5 9. cxd5 Qxd5 10. e3 Bd7 11. Rc1 Nc6 12. Nxc6 Bxc6 13. Bc3 Qg5 14.
+Bxf6 Qxf6 15. Qc3 e5 16. f3 Qh4+ 17. g3 Qh5 18. e4 Rad8 19. Qe3 Rd4 20. Be2 Qh3
+21. Kf2 h6 22. Rc5 f6 23. Bf1 Qd7 24. Be2 Rd2 25. Rd1 Rd4 26. Rxd4 exd4 27.
+Qb3+ Kh8 28. Bd3 Rd8 29. Rc1 Qe7 30. Qc4 f5 31. Re1 Qg5 32. h4 Qd2+ 33. Re2 Qd1
+34. Re1 Qd2+ 35. Re2 Qd1 1/2-1/2
+
+[Event "Chalkidiki op"]
+[Site "Chalkidiki"]
+[Date "2008.05.03"]
+[Round "6"]
+[White "Shavtvaladze, Nikoloz"]
+[Black "Pavlidis, Antonios"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2437"]
+[BlackElo "2218"]
+[PlyCount "43"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 c6 13. Bb2 h6 14. Ne6 Bxe6 15.
+dxe6 Nxe4 16. Nxe4 fxe4 17. Rxe4 Rf6 18. c5 Rxe6 19. cxd6 Qxd6 20. Qxd6 Rxd6
+21. Bxe5 Re6 22. Bxg7 1/2-1/2
+
+[Event "Chalkidiki op"]
+[Site "Chalkidiki"]
+[Date "2008.05.03"]
+[Round "7"]
+[White "Vragoteris, Antonios"]
+[Black "Ataman, Alper Efe"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2317"]
+[BlackElo "2231"]
+[PlyCount "81"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Bxd2+ 6. Bxd2 Ne4 7. g3 d6 8.
+Bg2 Nd7 9. O-O Nxd2 10. Qxd2 e5 11. e4 Qe7 12. Rfe1 Nb8 13. Qc3 f6 14. h3 c5
+15. d5 a5 16. b3 Bd7 17. Bf1 Qe8 18. Nh4 g6 19. f4 Na6 20. Nf3 Qd8 21. Qe3 Nc7
+22. a4 Na6 23. Ra2 Qe7 24. Rf2 Rae8 25. Kh2 Kg7 26. Bd3 Nb4 27. Bb1 Qd8 28.
+Ref1 h6 29. Rg1 Qc8 30. Nh4 g5 31. fxg5 fxg5 32. Nf5+ Bxf5 33. exf5 Kf6 34. Qe2
+Rh8 35. Qh5 Reg8 36. Rgf1 Qf8 37. Qg6+ Ke7 38. Qe6+ Kd8 39. f6 Kc7 40. f7 Rg7
+41. Rf6 1-0
+
+[Event "Chalkidiki op"]
+[Site "Chalkidiki"]
+[Date "2008.05.04"]
+[Round "8"]
+[White "Ermenkov, Evgenij"]
+[Black "Pavlidis, Antonios"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[WhiteElo "2463"]
+[BlackElo "2218"]
+[PlyCount "54"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. h3 O-O 6. Nf3 Na6 7. Be3 c5 8. d5 e6
+9. Bd3 exd5 10. exd5 Nc7 11. a4 Na6 12. Rc1 Nb4 13. Bb1 a6 14. O-O b5 15. axb5
+axb5 16. Nxb5 Ba6 17. Bg5 Bxb5 18. cxb5 Qb8 19. Nd2 Nbxd5 20. Nc4 Qxb5 21. Nxd6
+Qxb2 22. Rxc5 Nc3 23. Qc2 Qxc2 24. Bxc2 Ne2+ 25. Kh1 Nd4 26. Ne4 Nxe4 27. Bxe4
+Rae8 1/2-1/2
+
+[Event "EU School-ch U07"]
+[Site "Kallithea"]
+[Date "2008.04.30"]
+[Round "3"]
+[White "Gongi Reddy, Pranav"]
+[Black "Ioannidis, Evgenios"]
+[Result "0-1"]
+[ECO "E51"]
+[PlyCount "72"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Bd2 Nf6 5. Nf3 O-O 6. e3 dxc4 7. Bxc4 Nc6 8.
+O-O b6 9. Be2 Bb7 10. a3 Bxc3 11. Bxc3 Qd6 12. Bb5 Rad8 13. Bxc6 Qxc6 14. Bb4
+Rfe8 15. Re1 Qe4 16. Qc1 Nd5 17. Bd2 Rc8 18. Qd1 c5 19. dxc5 Rxc5 20. Ng5 Qc2
+21. Qe2 Qg6 22. Nf3 Rc2 23. Ne5 Qe4 24. Qb5 Rec8 25. Nf3 Qc4 26. Qd7 Qc6 27.
+Qxc6 Bxc6 28. b4 Nf6 29. g3 Bxf3 30. Bc1 Ne4 31. Rf1 Nxf2 32. Rxf2 Rxc1+ 33.
+Rxc1 Rxc1+ 34. Rf1 Rxf1+ 35. Kxf1 Kf8 36. Kf2 Bd5 0-1
+
+[Event "EU School-ch U09"]
+[Site "Kallithea"]
+[Date "2008.04.29"]
+[Round "1"]
+[White "Asatryan, Robert"]
+[Black "Mastrakoulis, Simeon"]
+[Result "1-0"]
+[ECO "E32"]
+[PlyCount "65"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. Bg5 Bb7 5. e3 Bb4 6. Qc2 d5 7. Nf3 O-O 8. Bd3
+Be7 9. Bxf6 Bxf6 10. Bxh7+ Kh8 11. O-O dxc4 12. b3 Bxf3 13. gxf3 c5 14. bxc4
+cxd4 15. exd4 Bxd4 16. Rad1 g6 17. Bxg6 fxg6 18. Ne2 Qg5+ 19. Kh1 e5 20. Nxd4
+exd4 21. Rxd4 Rxf3 22. Qe4 Qf6 23. Qxa8 Qxd4 24. Qxf3 Qxc4 25. Re1 Nd7 26. Qe2
+Qc6+ 27. Qe4 Qb5 28. Qxg6 Ne5 29. Qf6+ Kg8 30. Rg1+ Ng4 31. Rxg4+ Qg5 32. Rxg5+
+Kh7 33. Qg7# 1-0
+
+[Event "EU School-ch U09"]
+[Site "Kallithea"]
+[Date "2008.05.04"]
+[Round "8"]
+[White "Ballas, Athanasios"]
+[Black "Urdulashvili, Alexandre"]
+[Result "0-1"]
+[ECO "E06"]
+[PlyCount "98"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. g3 Be7 5. Bg2 c6 6. Nf3 O-O 7. O-O dxc4 8. Ne5
+Nd5 9. Nxc4 b5 10. Ne5 f6 11. Nf3 Ba6 12. e4 Nxc3 13. bxc3 b4 14. Re1 bxc3 15.
+Qb3 Kh8 16. Qxc3 Qb6 17. Ba3 Bxa3 18. Qxa3 Nd7 19. Rab1 Bb5 20. Rec1 a6 21. Qe7
+Qc7 22. Qxe6 Rae8 23. Qh3 Bd3 24. Rb2 Bxe4 25. d5 Bxd5 26. Ng5 fxg5 27. Bxd5
+Qe5 28. Rb7 cxd5 29. Rxd7 Qb2 30. Rf1 Qxa2 31. Qg2 Rd8 32. Re7 d4 33. Qe4 d3
+34. Qe5 Qg8 35. Qxg5 d2 36. Rd1 h6 37. Qa5 Rxf2 38. Rxg7 Kxg7 39. Kxf2 Qf7+ 40.
+Kg2 Qd5+ 41. Qxd5 Rxd5 42. Kf2 Kg6 43. Ke2 Kg5 44. Rh1 d1=Q+ 45. Rxd1 Rxd1 46.
+Kxd1 Kg4 47. Kc2 Kh3 48. Kb3 Kxh2 49. Ka4 Kxg3 0-1
+
+[Event "EU School-ch U09 Girls"]
+[Site "Kallithea"]
+[Date "2008.05.01"]
+[Round "4"]
+[White "Drogovoz, Irina"]
+[Black "Bejan, Clarisa"]
+[Result "1-0"]
+[ECO "E61"]
+[PlyCount "65"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 d6 6. e3 Qe8 7. Bxf6 Bxf6 8.
+Nd5 Na6 9. Nxf6+ exf6 10. Be2 Qd7 11. O-O Re8 12. Qc2 b6 13. Rac1 Bb7 14. d5 c6
+15. a3 cxd5 16. cxd5 Bxd5 17. Bxa6 Bb7 18. Bxb7 Qxb7 19. Qc7 Qd5 20. Rfd1 Qe6
+21. Qxd6 Qxd6 22. Rxd6 Rac8 23. Rxc8 Rxc8 24. g3 Kg7 25. Nd4 h5 26. Rd7 a6 27.
+Ra7 a5 28. Rb7 g5 29. Nf5+ Kf8 30. Rxb6 Rd8 31. Rxf6 Rd7 32. Ra6 Rd5 33. Ra8+
+1-0
+
+[Event "EU School-ch U09 Girls"]
+[Site "Kallithea"]
+[Date "2008.05.04"]
+[Round "8"]
+[White "Drogovoz, Irina"]
+[Black "Mastrakouli, Evagelia"]
+[Result "1-0"]
+[ECO "E24"]
+[PlyCount "75"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 b6 6. Bg5 h6 7. Bh4 Bb7 8.
+Nf3 O-O 9. e3 d5 10. cxd5 exd5 11. Bd3 Re8 12. Ne5 Qe7 13. Ng4 Nbd7 14. O-O
+Rad8 15. Bf5 g5 16. Nxh6+ Kf8 17. Bxg5 Ba6 18. Re1 Bb7 19. Ng4 Kg7 20. Bxd7
+Qxd7 21. Bxf6+ Kf8 22. Bxd8 Qxd8 23. Qf3 Re6 24. Ne5 Rf6 25. Qh5 Qd6 26. Ng4
+Rg6 27. Qh8+ Rg8 28. Qh4 f5 29. Ne5 c6 30. Qh7 Rg7 31. Qxf5+ Kg8 32. e4 dxe4
+33. Rxe4 c5 34. Rg4 Qd5 35. Rxg7+ Kxg7 36. Qd7+ Kh6 37. Qxd5 Bxd5 38. dxc5 1-0
+
+[Event "EU School-ch U11"]
+[Site "Kallithea"]
+[Date "2008.04.29"]
+[Round "1"]
+[White "Naoum, Spyridon"]
+[Black "Gheorghiu, Calin"]
+[Result "0-1"]
+[ECO "E30"]
+[BlackElo "1743"]
+[PlyCount "52"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Bg5 c5 5. e3 h6 6. Bh4 Qa5 7. Qc2 Ne4 8. Rc1
+d5 9. Nf3 Bd7 10. Bd3 Ba4 11. Bxe4 Bxc2 12. Bxc2 Bxc3+ 13. bxc3 Qxc3+ 14. Ke2
+Qb2 15. Rhd1 Nc6 16. Kf1 dxc4 17. Be4 c3 18. Rc2 Qa3 19. Bxc6+ bxc6 20. Rdc1
+Rb8 21. Rxc3 Qxa2 22. Rxc5 Rb1 23. Rxc6 O-O 24. Bg3 a5 25. Ne5 a4 26. R6c2 Qxc2
+0-1
+
+[Event "EU School-ch U11"]
+[Site "Kallithea"]
+[Date "2008.04.30"]
+[Round "3"]
+[White "Antonov, Alexander"]
+[Black "Antal, Tibor Kende"]
+[Result "0-1"]
+[ECO "E81"]
+[BlackElo "2016"]
+[PlyCount "106"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. d5 e6 8. Qd2 exd5
+9. Nxd5 Nxd5 10. cxd5 f5 11. Bd3 Qc7 12. Rc1 fxe4 13. Bxe4 Bf5 14. Bxf5 Rxf5
+15. Ne2 Nd7 16. Ng3 Re5 17. f4 Re7 18. O-O Qb6 19. Bf2 Rf8 20. Rfe1 Rxe1+ 21.
+Rxe1 Qxb2 22. Qxb2 Bxb2 23. Rb1 Bd4 24. Bxd4 cxd4 25. f5 Nc5 26. fxg6 hxg6 27.
+Ne2 d3 28. Nc3 a6 29. Rd1 b5 30. a3 Rf4 31. Rf1 Rc4 32. Nb1 Ne4 33. Re1 d2 34.
+Rf1 Rd4 35. Rd1 Rxd5 36. Kf1 Kf7 37. Ke2 Ke6 38. Ke3 Ke5 39. Nxd2 Rxd2 40. Rxd2
+Nxd2 41. Kxd2 a5 42. Ke3 d5 43. g3 b4 44. axb4 axb4 45. Kd3 d4 46. h4 b3 47. g4
+Kf4 48. h5 gxh5 49. gxh5 Kg5 50. h6 Kxh6 51. Kd2 Kg5 52. Kc1 d3 53. Kb1 d2 0-1
+
+[Event "EU School-ch U11"]
+[Site "Kallithea"]
+[Date "2008.04.30"]
+[Round "3"]
+[White "Minko, Vladimir"]
+[Black "Sadikhov, Ulvi"]
+[Result "1-0"]
+[ECO "E72"]
+[WhiteElo "1712"]
+[PlyCount "113"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. e4 Nc6 7. Nge2 e5 8. d5
+Ne7 9. h3 Ne8 10. O-O f5 11. f4 Nf6 12. Be3 fxe4 13. fxe5 dxe5 14. Kh2 Bf5 15.
+g4 Bd7 16. Nxe4 Nxe4 17. Bxe4 Nc8 18. Qd3 Rxf1 19. Rxf1 Nd6 20. Ng3 Nxe4 21.
+Nxe4 b6 22. Bg5 Qe8 23. Rf3 c6 24. Nd6 Qb8 25. Be7 Qc7 26. Ne4 Re8 27. d6 Qc8
+28. Ng5 Be6 29. Nxe6 Qxe6 30. d7 Qxe7 31. dxe8=Q+ Qxe8 32. Re3 Bh6 33. Re4 Bf4+
+34. Kg2 Qe7 35. a3 a5 36. Re1 Qc5 37. Rd1 Kg7 38. h4 Qe7 39. Qd7 Qxd7 40. Rxd7+
+Kg8 41. Rc7 Bc1 42. Rxc6 Bxb2 43. Rxb6 Bxa3 44. Rb5 Bb4 45. Rxe5 Kf7 46. g5 a4
+47. Kf3 a3 48. Re2 Bc3 49. Ra2 Bb2 50. Ke4 Ke6 51. c5 Kd7 52. Kd5 Bc1 53. Rf2
+Bb2 54. Rf7+ Kc8 55. Kc6 Kd8 56. Rf8+ Ke7 57. Ra8 1-0
+
+[Event "EU School-ch U11"]
+[Site "Kallithea"]
+[Date "2008.05.02"]
+[Round "5"]
+[White "Minko, Vladimir"]
+[Black "Ungureanu, Dan Andrei"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "1712"]
+[PlyCount "65"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 c6 7. O-O Qa5 8. e4
+Bg4 9. h3 Bxf3 10. Bxf3 Nbd7 11. Be3 c5 12. d5 Nb6 13. Qd3 Nfd7 14. Bf4 Qb4 15.
+Be2 Qxb2 16. Rfc1 Ne5 17. Bxe5 Bxe5 18. Rab1 Qa3 19. Nb5 Qxd3 20. Bxd3 a6 21.
+Nxd6 exd6 22. Rxb6 Rfb8 23. Rcb1 Ra7 24. f4 Bd4+ 25. Kg2 Kg7 26. a4 Kf8 27.
+Rxd6 b5 28. cxb5 axb5 29. Rxb5 Rxb5 30. Bxb5 c4 31. Rc6 c3 32. e5 Rd7 33. Rc8+
+1-0
+
+[Event "EU School-ch U11"]
+[Site "Kallithea"]
+[Date "2008.05.03"]
+[Round "7"]
+[White "Nikolov, Mihail"]
+[Black "Gheorghiu, Calin"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "1818"]
+[BlackElo "1743"]
+[PlyCount "91"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Bxd2+ 6. Qxd2 d5 7. e3 b6 8.
+cxd5 exd5 9. Bd3 Ba6 10. Bxa6 Nxa6 11. O-O Ne4 12. Qd3 Nb8 13. Nd2 f5 14. f3
+Nd6 15. Qb3 c6 16. Qc2 a5 17. a4 Ra7 18. b3 Re8 19. Re1 Rae7 20. Qd3 Nd7 21.
+Ba3 Nf6 22. Rac1 Qd7 23. g3 g6 24. Nf1 Rb8 25. Qd2 Re6 26. Rc2 Nb7 27. Qd3 Rc8
+28. Rec1 Rc7 29. Kf2 Re8 30. Qa6 Nd8 31. Rb1 Rb7 32. b4 axb4 33. Rxb4 Qc7 34.
+Qd3 Ne6 35. Rb3 Qd7 36. Rcb2 Reb8 37. Nd2 Kf7 38. Nb1 c5 39. dxc5 bxc5 40. Qc2
+Rxb3 41. Rxb3 Rc8 42. Nd2 c4 43. Rb5 Qa7 44. Bb2 Rc5 45. Qc3 Qe7 46. Ba3 1-0
+
+[Event "EU School-ch U11"]
+[Site "Kallithea"]
+[Date "2008.05.05"]
+[Round "9"]
+[White "Bryakin, Mikhail"]
+[Black "Terentyev, Vitaly"]
+[Result "1-0"]
+[ECO "E85"]
+[WhiteElo "1937"]
+[PlyCount "119"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 g6 2. c4 Bg7 3. e4 d6 4. f3 Nd7 5. Nc3 e5 6. Be3 Ngf6 7. Nge2 O-O 8. Qd2
+exd4 9. Nxd4 Ne5 10. Be2 Be6 11. Nxe6 fxe6 12. O-O-O Qe7 13. g4 a6 14. g5 Nfd7
+15. f4 Nc6 16. h4 Nb4 17. Kb1 b6 18. e5 Nxe5 19. fxe5 Bxe5 20. Rdf1 Rad8 21.
+Rxf8+ Rxf8 22. h5 Nc6 23. hxg6 hxg6 24. Rh6 Qf7 25. Qc2 Ne7 26. Bd3 Bg7 27. Rh2
+Qf3 28. Nd1 Nf5 29. Rf2 Nxe3 30. Rxf3 Nxc2 31. Rxf8+ Bxf8 32. Kxc2 Be7 33. Bxg6
+Bxg5 34. Be4 Kf7 35. Nf2 a5 36. Kb3 Ke7 37. Ka4 Bd2 38. Kb5 Kd8 39. a4 Kc8 40.
+Kc6 Kd8 41. Bf3 Be3 42. Ne4 Bc1 43. b3 Bb2 44. Bg4 Kc8 45. Bxe6+ Kb8 46. Ng3
+Be5 47. Nf5 Bf6 48. Ne3 d5 49. cxd5 Be5 50. Nc4 Bg3 51. d6 cxd6 52. Nxb6 Be1
+53. Nc4 Bb4 54. Nxd6 Ka7 55. Nc4 Ka6 56. Bc8+ Ka7 57. Kb5 Kb8 58. Be6 Be7 59.
+Nxa5 Kc7 60. Nc6 1-0
+
+[Event "EU School-ch U11"]
+[Site "Kallithea"]
+[Date "2008.05.05"]
+[Round "9"]
+[White "Kukhmazov, Arsen"]
+[Black "Sutormin, Danila"]
+[Result "1-0"]
+[ECO "E94"]
+[PlyCount "97"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8. d5
+Nc5 9. Qc2 a5 10. Be3 Ng4 11. Bg5 f6 12. Be3 Nxe3 13. fxe3 f5 14. exf5 gxf5 15.
+e4 Bh6 16. b3 fxe4 17. Nxe4 Bf5 18. Bd3 Nxd3 19. Qxd3 Bg6 20. Rae1 Qe7 21. g3
+Qg7 22. Nh4 Kh8 23. Nxg6+ Qxg6 24. Qe2 Kg7 25. Nc3 Rxf1+ 26. Rxf1 Rf8 27. Rxf8
+Kxf8 28. Qf2+ Qf7 29. Nb5 Ke7 30. Qxf7+ Kxf7 31. Nxc7 Be3+ 32. Kg2 Ke7 33. Kf3
+Bg1 34. h4 Bc5 35. Ne6 Ba3 36. g4 h6 37. Ng7 Kf7 38. Nf5 Kg6 39. Ng3 Bb4 40.
+Ne4 Ba3 41. h5+ Kf7 42. g5 hxg5 43. Kg4 Kg7 44. Kxg5 Bc1+ 45. Kf5 Ba3 46. c5
+dxc5 47. d6 c4 48. bxc4 Kh6 49. c5 1-0
+
+[Event "EU School-ch U13"]
+[Site "Kallithea"]
+[Date "2008.04.29"]
+[Round "1"]
+[White "Athanasov, Anatoli"]
+[Black "Tsakiris, Haralambos"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2041"]
+[BlackElo "1725"]
+[PlyCount "67"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 Bb4+ 4. Bd2 Qe7 5. e3 O-O 6. Bd3 b6 7. a3 Bxd2+ 8.
+Nbxd2 d6 9. e4 e5 10. d5 Bg4 11. h3 Bxf3 12. Nxf3 a5 13. b4 Na6 14. Rb1 axb4
+15. axb4 Nh5 16. O-O Nf4 17. Qd2 Qf6 18. Kh2 Qg6 19. g3 Qh5 20. Ng1 Nxd3 21.
+Qxd3 Nb8 22. Ra1 Nd7 23. Qe2 Qg6 24. Qg4 Qxg4 25. hxg4 Nf6 26. f3 h6 27. Ne2
+Rfc8 28. Nc3 c6 29. Rxa8 Rxa8 30. dxc6 Ne8 31. Nd5 Ra2+ 32. Kh3 Nf6 33. c7 Ra8
+34. c8=Q+ 1-0
+
+[Event "EU School-ch U13"]
+[Site "Kallithea"]
+[Date "2008.04.30"]
+[Round "3"]
+[White "Athanasov, Anatoli"]
+[Black "Olcum, Ahmet"]
+[Result "1-0"]
+[ECO "E70"]
+[WhiteElo "2041"]
+[BlackElo "1937"]
+[PlyCount "79"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 c6 6. Nge2 e5 7. d5 O-O 8. O-O
+Nbd7 9. a3 Ne8 10. dxc6 bxc6 11. b4 f5 12. b5 cxb5 13. cxb5 Kh8 14. a4 f4 15.
+f3 Ndf6 16. Bc4 g5 17. Ba3 g4 18. Qb3 gxf3 19. Rxf3 Qb6+ 20. Kh1 Bg4 21. Rff1
+Bxe2 22. Bxe2 Rc8 23. Bf3 a5 24. Rac1 Nc7 25. Rfd1 Rcd8 26. Ne2 Na8 27. Rc6 Qf2
+28. Bxd6 Rg8 29. Bc5 Rxd1+ 30. Qxd1 Qh4 31. b6 Ng4 32. Bxg4 Qxg4 33. Nc3 Qg5
+34. Qf1 f3 35. gxf3 Nxb6 36. Bxb6 Bh6 37. Nd5 Qh4 38. Rc2 Bf4 39. Nxf4 exf4 40.
+Bd4+ 1-0
+
+[Event "EU School-ch U13"]
+[Site "Kallithea"]
+[Date "2008.05.01"]
+[Round "4"]
+[White "Athanasov, Anatoli"]
+[Black "Marinescu, Stefan"]
+[Result "1-0"]
+[ECO "E70"]
+[WhiteElo "2041"]
+[BlackElo "1872"]
+[PlyCount "103"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 Nc6 7. O-O Nh5 8. Bc2
+e5 9. d5 Ne7 10. Be3 f5 11. exf5 gxf5 12. f4 b6 13. b4 Ng6 14. Qd2 exf4 15.
+Bxf4 Nhxf4 16. Nxf4 Nxf4 17. Rxf4 Bh6 18. Qf2 Bxf4 19. Qxf4 Qf6 20. Qg3+ Qg7
+21. Qxg7+ Kxg7 22. Ba4 a6 23. Bc6 Rb8 24. Re1 Bb7 25. Bd7 Bc8 26. Bc6 Kf6 27.
+Ne2 Rf7 28. Nf4 Re7 29. Nh5+ Kf7 30. Rf1 Bd7 31. Bxd7 Rxd7 32. Rxf5+ Kg6 33. g4
+Rf7 34. Nf4+ Kg7 35. Ne6+ Kg6 36. Nf4+ Kg7 37. Ne6+ Kg8 38. Kf2 Rxf5+ 39. gxf5
+Rc8 40. Ke3 Kf7 41. Kf4 Kf6 42. h4 h6 43. a4 c6 44. c5 bxc5 45. bxc5 Ke7 46.
+f6+ Kxf6 47. cxd6 Rb8 48. d7 Ke7 49. d8=Q+ Rxd8 50. Nxd8 Kxd8 51. dxc6 Kc7 52.
+Kf5 1-0
+
+[Event "EU School-ch U13"]
+[Site "Kallithea"]
+[Date "2008.05.03"]
+[Round "7"]
+[White "Martynov, Pavel"]
+[Black "Olcum, Ahmet"]
+[Result "1-0"]
+[ECO "E65"]
+[WhiteElo "1971"]
+[BlackElo "1937"]
+[PlyCount "73"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. g3 d6 5. Bg2 O-O 6. O-O c5 7. Nc3 Na6 8. h3
+Rb8 9. e4 Be6 10. b3 Nc7 11. Be3 b5 12. d5 Bd7 13. Nd2 Qc8 14. Kh2 Ng4+ 15.
+hxg4 Bxc3 16. Rc1 Bg7 17. Bf3 bxc4 18. bxc4 Qa6 19. Rh1 Rb2 20. Qg1 f5 21. gxf5
+gxf5 22. Kg2 f4 23. Qh2 h6 24. gxf4 Qa3 25. Qg3 Rf6 26. e5 dxe5 27. fxe5 Rxf3
+28. Qxf3 e6 29. d6 Ne8 30. Bxh6 Qa4 31. Bxg7 Nxg7 32. Ne4 Bc6 33. Rh8+ Kxh8 34.
+Qf8+ Kh7 35. Rh1+ Nh5 36. Rxh5+ Kg6 37. Rh6# 1-0
+
+[Event "EU School-ch U13 Girls"]
+[Site "Kallithea"]
+[Date "2008.05.05"]
+[Round "9"]
+[White "Venkova, Polina"]
+[Black "Macharashvili, Tekla"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[WhiteElo "1791"]
+[BlackElo "1858"]
+[PlyCount "82"]
+[EventDate "2008.04.29"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 Nbd7 7. O-O c6 8. a3
+a5 9. Rb1 e5 10. d5 Nh5 11. Na4 Rb8 12. Bd2 cxd5 13. cxd5 b5 14. Nac3 b4 15.
+Na4 Nb6 16. axb4 axb4 17. Bxb4 Nxd5 18. Bxd6 Qxd6 19. Bc4 Qb4 20. Bxd5 Ba6 21.
+Nac3 Nf4 22. Re1 Nd3 23. Rf1 Nxb2 24. Qc1 Rfc8 25. Qe3 Qe7 26. Rfe1 Nd3 27.
+Red1 Nf4 28. g3 Ne6 29. Na4 Nd4 30. Nec3 Bf6 31. Ba2 Bg7 32. Nd5 Qd6 33. Nac3
+Kh8 34. Kg2 Rd8 35. Qg5 h6 36. Qe7 Qxe7 37. Nxe7 Rxb1 38. Rxb1 Bf8 39. Rb6 Bxe7
+40. Rxa6 Kg7 41. Ra7 Re8 1/2-1/2
+
+[Event "EU School-ch U15"]
+[Site "Kallithea"]
+[Date "2008.04.29"]
+[Round "1"]
+[White "Manelyuk, Nikita"]
+[Black "Nakar, Eylon"]

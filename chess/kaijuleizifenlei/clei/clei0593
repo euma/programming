@@ -1,0 +1,600 @@
+[Site "Bargteheide"]
+[Date "2008.05.04"]
+[Round "7"]
+[White "Mantau, Jan"]
+[Black "Michna, Christian"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2230"]
+[BlackElo "2306"]
+[PlyCount "101"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O 8.
+Nf3 c5 9. Qd2 Nc6 10. O-O-O c4 11. f5 Rb8 12. fxe6 fxe6 13. Nb5 a6 14. Nd6 b5
+15. Be2 Nb6 16. Rhf1 Bd7 17. c3 Nc8 18. Nxc8 Rbxc8 19. Qg5 Qxg5+ 20. Nxg5 h6
+21. Nh3 g5 22. Nf2 Kg7 23. Ng4 Ne7 24. Nf6 Be8 25. Bg4 Bf7 26. Nd7 Rfd8 27. Nc5
+Rxc5 28. dxc5 h5 29. Rxf7+ Kxf7 30. Rf1+ Ke8 31. Bxe6 Nc6 32. Rd1 Nxe5 33. Rxd5
+Nd3+ 34. Kb1 Rxd5 35. Bxd5 Nxc5 36. b4 cxb3 37. axb3 Ke7 38. b4 Nd7 39. Bb7 Nb8
+40. Kc2 Kd6 41. Kd3 Ke5 42. Ke3 Nd7 43. Bxa6 Nf6 44. Bxb5 Ng4+ 45. Ke2 Nxh2 46.
+Bd7 Kd5 47. g3 g4 48. Be8 Nf3 49. Bf7+ Ke5 50. Bxh5 Ng5 51. Bg6 1-0
+
+[Event "Bargteheide op"]
+[Site "Bargteheide"]
+[Date "2008.05.04"]
+[Round "7"]
+[White "Masio, Andreas"]
+[Black "Hebbinghaus, Holger"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2115"]
+[BlackElo "2297"]
+[PlyCount "77"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. e5 Nfd7 6. c3 c5 7. d4 Be7 8. Bd3
+Ba6 9. Bxa6 Nxa6 10. O-O O-O 11. Qe2 Nc7 12. h3 f6 13. exf6 Bxf6 14. Nb3 c4 15.
+Nbd2 Re8 16. Ne5 Bxe5 17. dxe5 Nc5 18. Nf3 Qd7 19. Rd1 Rf8 20. Rd4 Nd3 21. a4
+Nxc1 22. Rxc1 Qxa4 23. Rh4 Qe8 24. Rd1 Nb5 25. Qc2 h6 26. Re1 Rf5 27. Re3 Qf7
+28. Nh2 Rf8 29. Ng4 Qe7 30. g3 Nc7 31. f4 Qc5 32. Qd2 Nb5 33. Kg2 d4 34. Rf3
+Qd5 35. Kf2 Rd8 36. Nf6+ gxf6 37. g4 dxc3 38. Qxd5 Rxd5 39. bxc3 1/2-1/2
+
+[Event "Bargteheide op"]
+[Site "Bargteheide"]
+[Date "2008.05.04"]
+[Round "7"]
+[White "Skytte, Rasmus"]
+[Black "Colpe, Malte"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2412"]
+[BlackElo "2089"]
+[PlyCount "49"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 g6 8. O-O
+Bg7 9. Nf3 O-O 10. Nf4 Re8 11. Re1 cxd4 12. cxd4 a6 13. h4 b5 14. h5 Nf8 15.
+Nh3 h6 16. hxg6 fxg6 17. Nf4 g5 18. Nh5 Qe7 19. Be3 Qf7 20. Nh2 Ne7 21. Ng4 Nd7
+22. Nhf6+ Nxf6 23. exf6 h5 24. Ne5 Qxf6 25. Qxh5 1-0
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.01"]
+[Round "1"]
+[White "Coronel, Nestor"]
+[Black "Scarella, Enrique Alejandro"]
+[Result "0-1"]
+[ECO "C98"]
+[BlackElo "2349"]
+[PlyCount "32"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. Nf1 cxd4 14. cxd4 Nxd4 15.
+Nxd4 exd4 16. Qxd4 Qxc2 0-1
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.01"]
+[Round "1"]
+[White "Pineiro, Dario"]
+[Black "Mareco, Sandro"]
+[Result "0-1"]
+[ECO "C91"]
+[WhiteElo "1918"]
+[BlackElo "2470"]
+[PlyCount "66"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. d5 Na5 11. Bc2 c6 12. h3 Bxf3 13. Qxf3 cxd5 14. exd5 Nc4 15.
+Nd2 Nb6 16. Nf1 Rc8 17. Ne3 g6 18. a4 Rc5 19. Rd1 bxa4 20. Bxa4 Ra5 21. b3 Nxa4
+22. bxa4 Qd7 23. Ba3 Rxa4 24. c4 Rb8 25. Qe2 Rb3 26. Bb2 Ne4 27. Qc2 Nc5 28.
+Rxa4 Qxa4 29. Ra1 Qb4 30. Bc1 Qe1+ 31. Nf1 Bg5 32. Bb2 Qb4 33. Bc1 Rc3 0-1
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.01"]
+[Round "1"]
+[White "Zarnicki, Pablo"]
+[Black "Gomez, Ruben"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2515"]
+[BlackElo "1930"]
+[PlyCount "43"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 Nc6 7. Bb5 Bd7 8.
+Nc3 dxe5 9. Nd5 Qd6 10. dxe5 Nxe5 11. Bf4 f6 12. Bxd7+ Qxd7 13. Bxe5 fxe5 14.
+Qxe5+ Kd8 15. O-O-O Bd6 16. Qg5+ Kc8 17. Rhe1 b6 18. Ne7+ Kb7 19. Nf5 Qa4 20.
+Nxd6+ cxd6 21. Qd5+ Ka6 22. Re3 1-0
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.02"]
+[Round "2"]
+[White "Aguilar, Juan"]
+[Black "Amed, Stephanie"]
+[Result "1-0"]
+[ECO "C17"]
+[WhiteElo "2357"]
+[BlackElo "2084"]
+[PlyCount "139"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. dxc5 Nbc6 7. Bd2 Ng6 8. Nf3
+Bxc5 9. Bd3 h5 10. Qg3 Nce7 11. Na4 Bb6 12. Nxb6 Qxb6 13. O-O-O Bd7 14. Bg5 Kf8
+15. Kb1 Rc8 16. Nh4 Qb4 17. f4 a5 18. a3 Qc5 19. Rhf1 Nxh4 20. Qxh4 Nf5 21.
+Bxf5 exf5 22. Qf2 Qxf2 23. Rxf2 Be6 24. Rf3 a4 25. b3 b5 26. Rd4 f6 27. exf6
+gxf6 28. Bxf6 Rg8 29. g3 Kf7 30. Be5 axb3 31. Rxb3 Rc5 32. Bd6 Rc6 33. Be5 Rc5
+34. Re3 Rgc8 35. Rd2 Ra8 36. Kb2 Ra4 37. Bd6 Rc6 38. Bb4 Ra7 39. c3 Ra8 40. Re5
+Rd8 41. Kc2 Rd7 42. Kd3 Rd8 43. Ke3 Rc4 44. Rd4 Rxd4 45. cxd4 Kf6 46. Kd2 Rc8
+47. Bc5 Ra8 48. Kc3 Ra4 49. Bb4 Ra8 50. Re1 Ra6 51. Kb3 Ra7 52. Rc1 Bd7 53. Bd6
+Ke6 54. Bc5 Rb7 55. Re1+ Kf6 56. Kb4 Be6 57. Ka5 Rb8 58. Bd6 Rb7 59. Rc1 Bf7
+60. Ka6 Rd7 61. Rc6 Be8 62. Be5+ Ke7 63. Kb6 Bf7 64. Kxb5 Ra7 65. Kb6 Ra8 66.
+Kb7 Ra4 67. Bd6+ Ke8 68. Bb4 Kd7 69. Rd6+ Ke8 70. Rf6 1-0
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.03"]
+[Round "3"]
+[White "Perez Pietronave, Carlos"]
+[Black "Scarella, Enrique Alejandro"]
+[Result "0-1"]
+[ECO "C29"]
+[WhiteElo "2219"]
+[BlackElo "2349"]
+[PlyCount "107"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 dxc3 8.
+d4 Be6 9. Bd3 Be7 10. O-O Nc6 11. Be4 Bd5 12. Qe2 Qd7 13. Rb1 Rd8 14. Rxb7 Nxd4
+15. Nxd4 Bc5 16. Kh1 Bxd4 17. e6 Qxe6 18. Qb5+ c6 19. Bxd5 cxb5 20. Bxe6 fxe6
+21. Ba3 Bf6 22. g4 h6 23. Re1 e5 24. Bb4 a6 25. Bxc3 O-O 26. Ra7 e4 27. Ba5 Rc8
+28. Re2 Rc6 29. Kg2 e3 30. Rc7 Rxc7 31. Bxc7 Bd4 32. h4 h5 33. gxh5 Kh7 34. Bd6
+Rf5 35. Be7 Kh6 36. Bg5+ Kxh5 37. c3 Bc5 38. Kg3 Rf2 39. Rxf2 exf2 40. Kg2 Kg4
+41. Kf1 Kf3 42. h5 Be3 43. Be7 Bd2 44. Bb4 Be1 45. a3 Kg4 46. Bf8 Bxc3 47. h6
+gxh6 48. Kxf2 h5 49. Bd6 h4 50. Ke3 h3 51. Bh2 Bb2 52. a4 bxa4 53. Kd3 a3 54.
+Kc2 0-1
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.03"]
+[Round "3"]
+[White "Perez Ponsa, Federico"]
+[Black "Barrionuevo, Pablo"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2281"]
+[BlackElo "2401"]
+[PlyCount "82"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 O-O 10. a3 Nc6 11. cxd5 Qxd5 12. Nc3 Nxc3 13. bxc3 Bf5 14. Re1 Rfe8
+15. c4 Qd7 16. Bb2 Bf6 17. Qd2 Be4 18. d5 Ne5 19. Nxe5 Bxe5 20. Bxe5 Rxe5 21.
+Bf1 Ree8 22. Qd4 Bg6 23. g3 b6 24. c5 bxc5 25. Rxe8+ Rxe8 26. Qxc5 Re5 27. Rd1
+Bh5 28. Rb1 h6 29. Bg2 Qe7 30. Qc3 Bg6 31. Rc1 Qd6 32. h3 Re7 33. Bf3 Bf5 34.
+Bg2 Bg6 35. a4 Qd7 36. Qd4 a6 37. Kh2 Qf5 38. Kg1 Qd3 39. Qc5 Qd2 40. Bf3 Re1+
+41. Rxe1 Qxe1+ 1/2-1/2
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.03"]
+[Round "3"]
+[White "Zarnicki, Pablo"]
+[Black "Iermito, Sebastian"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2515"]
+[BlackElo "2339"]
+[PlyCount "95"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d3 d5 3. Qe2 dxe4 4. dxe4 e5 5. Nf3 Nd7 6. g3 Ngf6 7. Bg2 Bc5 8.
+O-O O-O 9. Nh4 c6 10. Nd2 a5 11. Nb3 Bb6 12. Rd1 a4 13. Nd2 Bc5 14. Nc4 Qc7 15.
+Bg5 b5 16. Nd2 h6 17. Be3 Qb6 18. Nf1 Bxe3 19. Nxe3 Nc5 20. Nef5 Bxf5 21. Nxf5
+Ne6 22. Rd6 Kh7 23. Rad1 Rfd8 24. c3 Qc7 25. Rxd8 Rxd8 26. a3 g6 27. Ne3 Rd6
+28. f3 Qd8 29. h4 Nc5 30. Rxd6 Qxd6 31. Qd1 Ne8 32. Bf1 Qxd1 33. Nxd1 Nd6 34.
+Ne3 f5 35. exf5 gxf5 36. Kf2 Kg6 37. Nc2 Nb3 38. g4 Na5 39. gxf5+ Kxf5 40. Ne3+
+Kf4 41. Ng2+ Kf5 42. Ne3+ Kf4 43. Ng2+ Kf5 44. Bd3+ Ke6 45. Ne3 Nac4 46. Nd1
+Kf6 47. Kg3 h5 48. Be4 1/2-1/2
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.03"]
+[Round "4"]
+[White "Perez Ponsa, Federico"]
+[Black "Mahia, Gustavo"]
+[Result "0-1"]
+[ECO "C85"]
+[WhiteElo "2281"]
+[BlackElo "2432"]
+[PlyCount "68"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 Bf6 10. b4 Qe7 11. Bb2 g6 12. Qd2 Bg7 13. a4 Rd8 14. Ne1 Nf6
+15. Qg5 Qxb4 16. Ba3 Qxa4 17. Bb2 Qb4 18. Ba3 Qb5 19. Be7 h6 20. Qc1 Re8 21.
+Ra5 Rxe7 22. Rxb5 axb5 23. Ne3 Be6 24. g3 Bh3 25. N1g2 Ree8 26. Qd1 h5 27. Re1
+Ra2 28. f3 Rea8 29. Qb1 Bf8 30. Kf2 Bc5 31. f4 Bd4 32. Ke2 Rb2 33. Qc1 Raa2 34.
+Kd2 b4 0-1
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.04"]
+[Round "5"]
+[White "Mahia, Gustavo"]
+[Black "Scarella, Enrique Alejandro"]
+[Result "1/2-1/2"]
+[ECO "C98"]
+[WhiteElo "2432"]
+[BlackElo "2349"]
+[PlyCount "117"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Nd8 14. Nf1 Ne8 15. a4
+Rb8 16. g4 g6 17. Ng3 Ng7 18. axb5 axb5 19. Bh6 f6 20. Qd2 Nf7 21. Be3 Bd7 22.
+b4 Ra8 23. Kg2 Rfc8 24. bxc5 dxc5 25. Qe2 c4 26. Nh2 Qb7 27. Qf1 Rxa1 28. Rxa1
+Ra8 29. f4 exf4 30. Bxf4 Ra6 31. Nf3 Qa8 32. Rxa6 Qxa6 33. Ne2 Ne8 34. Ned4 Bd6
+35. Be3 Ne5 36. Qb1 Nxf3 37. Nxf3 Qc8 38. Kf2 Qc7 39. Bd4 Bc5 40. Qd1 Nd6 41.
+Ke3 Nf7 42. Bxc5 Qxc5+ 43. Qd4 Qd6 44. g5 Bxh3 45. Qxf6 Qa3 46. Kd2 b4 47. cxb4
+Bg4 48. Nh2 Bh5 49. Qc3 Qa7 50. Qe3 Qb8 51. Nf1 Ne5 52. Kc3 Qa8 53. Kb2 Qf8 54.
+Qc3 Qf4 55. Ne3 Be2 56. Qd4 Nf3 57. Qf6 Qxe3 58. Qe6+ Kg7 59. Qf6+ 1/2-1/2
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.05"]
+[Round "6"]
+[White "Blit, Jacques"]
+[Black "Mahia, Gustavo"]
+[Result "0-1"]
+[ECO "C17"]
+[WhiteElo "2317"]
+[BlackElo "2432"]
+[PlyCount "44"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nc3 e6 3. e4 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O 8.
+dxc5 Nd7 9. f4 Nxc5 10. Bd3 Qb6 11. Nf3 Bd7 12. a4 a6 13. Nd6 Nxa4 14. Rxa4
+Bxa4 15. b3 Bb5 16. c4 dxc4 17. bxc4 Bc6 18. Bxh7+ Kxh7 19. Ng5+ Kg8 20. Qd3
+Nf5 21. Nxf5 exf5 22. Qxf5 Qe3+ 0-1
+
+[Event "Berazategui Cup 3rd"]
+[Site "Berazategui"]
+[Date "2008.05.06"]
+[Round "7"]
+[White "Perez Ponsa, Federico"]
+[Black "Mareco, Sandro"]
+[Result "1-0"]
+[ECO "C85"]
+[WhiteElo "2281"]
+[BlackElo "2470"]
+[PlyCount "65"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Nf5 Bxf5 12. exf5 Qd5 13. Qg4 Rfe8 14. Nd2
+Rad8 15. Re1 b5 16. Nf1 Bf8 17. Be3 e4 18. Bxc5 Qxc5 19. dxe4 Qxc2 20. Re2 Qc4
+21. Ng3 Rd4 22. h3 Bd6 23. Nh5 Qf7 24. Rae1 Re7 25. a3 Kh8 26. f4 b4 27. Qf3 g6
+28. Ng3 bxa3 29. bxa3 Qc4 30. e5 Bc5 31. Kh1 Rxf4 32. Qxc6 Rxe5 33. Qxf6+ 1-0
+
+[Event "Busevec op U20 Girls"]
+[Site "Busevec"]
+[Date "2008.05.01"]
+[Round "1"]
+[White "Nesic, Dragana"]
+[Black "Jacimovic, Sara"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "1884"]
+[BlackElo "1699"]
+[PlyCount "137"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7 7. O-O O-O 8. h3 h6
+9. Re1 Nh7 10. Nbd2 f5 11. Nf1 fxe4 12. dxe4 Qe8 13. Bc2 Qg6 14. Ng3 Ng5 15.
+Nxg5 Bxg5 16. Bxg5 Qxg5 17. Qd5+ Kh8 18. Rad1 Ne7 19. Qc4 Nc6 20. Re3 Rf6 21.
+Qe2 g6 22. Nf1 Rf7 23. Rg3 Qf6 24. Ne3 Be6 25. Nd5 Bxd5 26. exd5 Ne7 27. Be4
+Raf8 28. Rf3 Qg7 29. Rdd3 Nf5 30. Bxf5 gxf5 31. Rg3 Qf6 32. Qh5 Rh7 33. Qg6 Qd8
+34. Rd1 e4 35. Re1 f4 36. Rg4 h5 37. Rg5 Rg8 38. Qxg8+ Qxg8 39. Rxg8+ Kxg8 40.
+Rxe4 Rf7 41. Kf1 Kg7 42. Ke2 Kg6 43. Kf3 Kg5 44. h4+ Kg6 45. Rxf4 Re7 46. Re4
+Rg7 47. Ke3 Kf5 48. g3 c6 49. dxc6 bxc6 50. Ra4 Re7+ 51. Kf3 Ra7 52. Ra5+ Kg6
+53. Rg5+ Kh6 54. Rf5 Kg6 55. Rf4 Re7 56. Ra4 Rf7+ 57. Kg2 Ra7 58. f3 Kf5 59.
+g4+ hxg4 60. fxg4+ Kg6 61. Kg3 Kh6 62. Re4 Rd7 63. Re6+ Kg7 64. g5 Kf7 65. Rf6+
+Kg7 66. h5 Kh7 67. Kg4 Kg7 68. h6+ Kh7 69. Kh5 1-0
+
+[Event "Busevec op U20 Girls"]
+[Site "Busevec"]
+[Date "2008.05.01"]
+[Round "2"]
+[White "Cacic, Marija"]
+[Black "Neric, Jelena"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1650"]
+[BlackElo "1841"]
+[PlyCount "76"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. c3 c6 6. Ne2 Ne7 7. O-O O-O 8. Bf4
+Bg4 9. f3 Bf5 10. Bxd6 Qxd6 11. Ng3 Bxd3 12. Qxd3 Nd7 13. Nd2 c5 14. dxc5 Nxc5
+15. Qd4 Rfd8 16. Rfe1 Ne6 17. Qg4 Qb6+ 18. Kh1 Qxb2 19. Ndf1 Qxc3 20. Rec1 Qa5
+21. Ne3 Qa3 22. Nef5 Rac8 23. Re1 Nxf5 24. Nxf5 Qf8 25. h4 Kh8 26. h5 h6 27.
+Nh4 Ng5 28. Re2 Rc4 29. Qg3 d4 30. Rd1 Nh7 31. Red2 Nf6 32. Qe5 Rd5 33. Qe2 d3
+34. Qf2 Qb4 35. g3 Nxh5 36. Rxd3 Rxd3 37. Rxd3 Qb1+ 38. Kg2 Qxd3 0-1
+
+[Event "Busevec op U20 Girls"]
+[Site "Busevec"]
+[Date "2008.05.01"]
+[Round "2"]
+[White "Purgar, Ivona"]
+[Black "Racki, Barbara"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2065"]
+[BlackElo "1701"]
+[PlyCount "120"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d4 exd4 10. e5 Ne8 11. Nxd4 Nxd4 12. Qxd4 d6 13. e6 fxe6 14. Bxe6+ Kh8
+15. Nc3 c6 16. Ne4 Bc8 17. Bxc8 Rxc8 18. axb5 axb5 19. Ra7 Rc7 20. Rxc7 Nxc7
+21. Ng3 Re8 22. Rd1 Bf6 23. Qg4 d5 24. c3 Na6 25. Nh5 Re4 26. Qf3 Qe8 27. Be3
+Bd8 28. h3 Nc7 29. Ng3 Re6 30. Ra1 Rf6 31. Qg4 Re6 32. Kh2 Bf6 33. Ra7 Re7 34.
+Bc5 Rd7 35. Nf5 Ne6 36. Rxd7 Qxd7 37. Be3 Qf7 38. Ng3 Qe8 39. f4 Nf8 40. Qf3
+Nd7 41. Nh5 Be7 42. Bd4 Bf8 43. f5 Qf7 44. f6 g6 45. Ng3 Bd6 46. b4 Ne5 47. Qf4
+Nc4 48. Qg4 Be5 49. Qc8+ Qg8 50. Qxc6 Bxd4 51. cxd4 Na3 52. Qc7 Qf8 53. Qe5 Qf7
+54. Ne2 h5 55. Nf4 Kh7 56. Nxd5 Kh6 57. Ne3 Nc4 58. Nxc4 Qxc4 59. h4 Qxb4 60.
+Qf4+ Kh7 1-0
+
+[Event "Busevec op U20 Girls"]
+[Site "Busevec"]
+[Date "2008.05.02"]
+[Round "3"]
+[White "Rozic, Lucija"]
+[Black "Jacimovic, Sara"]
+[Result "0-1"]
+[ECO "C77"]
+[BlackElo "1699"]
+[PlyCount "106"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. Be3 Be7 7. Nc3 O-O 8. h3
+h6 9. O-O Be6 10. Qe2 Nh7 11. Bb3 Na5 12. Nd5 Nxb3 13. Nxe7+ Qxe7 14. axb3 f5
+15. exf5 Rxf5 16. Nd2 Raf8 17. Ne4 R5f7 18. Ra4 Bd7 19. Rb4 b5 20. Nc3 c5 21.
+Re4 Bf5 22. Bd2 Bxe4 23. Qxe4 b4 24. Nd5 Qe6 25. f3 Rd8 26. Nf4 Qe8 27. Nh5 Nf8
+28. Qg4 Kh7 29. Qh4 Ng6 30. Qg4 Qe7 31. f4 exf4 32. Nxf4 Ne5 33. Qg3 Qg5 34.
+Qxg5 hxg5 35. Ne6 Rxf1+ 36. Kxf1 Ra8 37. Nxg5+ Kg6 38. Ne4 Rd8 39. Kf2 Nc6 40.
+c3 a5 41. Bf4 Ne5 42. Ke3 Kf5 43. g4+ Ke6 44. d4 cxd4+ 45. cxd4 Nf7 46. Ng5+
+Nxg5 47. Bxg5 Rc8 48. Kd3 Kd5 49. h4 Re8 50. Be3 Re4 51. g5 Rxh4 52. Ke2 Ke4
+53. d5 Rh2+ 0-1
+
+[Event "Busevec op U20 Girls"]
+[Site "Busevec"]
+[Date "2008.05.02"]
+[Round "4"]
+[White "Bucar, Natasa"]
+[Black "Ivekovic, Ivana"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "1800"]
+[BlackElo "1874"]
+[PlyCount "55"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d3 d5 4. Nbd2 Nf6 5. g3 b6 6. Bg2 Bb7 7. e5 Nfd7 8. O-O
+Nc6 9. Re1 Qc7 10. Qe2 Nb4 11. Nf1 d4 12. c3 dxc3 13. bxc3 Nd5 14. Bb2 Rc8 15.
+Ng5 h6 16. Qh5 g6 17. Qh3 Bg7 18. Nxe6 fxe6 19. Bxd5 Bxd5 20. c4 Nxe5 21. Bxe5
+Bxe5 22. cxd5 Bxa1 23. Qxe6+ Kf8 24. d6 Qd8 25. Qxg6 Qf6 26. d7 Qxg6 27.
+dxc8=Q+ Kf7 28. Qd7+ 1-0
+
+[Event "Busevec op U20 Girls"]
+[Site "Busevec"]
+[Date "2008.05.02"]
+[Round "4"]
+[White "Ivekovic, Ana"]
+[Black "Ivekovic, Tihana"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "1831"]
+[BlackElo "1716"]
+[PlyCount "35"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 h6 4. Nc3 Bc5 5. Be3 Bb6 6. Nf3 d6 7. Qd2 Nc6 8.
+O-O-O Be6 9. Rhf1 Qd7 10. h3 O-O-O 11. Ng1 Bxe3 12. fxe3 Bxc4 13. dxc4 Qe6 14.
+b3 h5 15. Nf3 Nb8 16. Ng5 Qd7 17. Nd5 Nxd5 18. exd5 1/2-1/2
+
+[Event "Busevec op U20 Girls"]
+[Site "Busevec"]
+[Date "2008.05.02"]
+[Round "4"]
+[White "Rozic, Lucija"]
+[Black "Racki, Barbara"]
+[Result "0-1"]
+[ECO "C77"]
+[BlackElo "1701"]
+[PlyCount "116"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. Be3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. O-O Qc7 12. Nbd2 Bd7 13. a3 Rfc8 14. Rc1 Nc6 15. d4
+Rd8 16. d5 Nb8 17. b3 Be8 18. c4 Nbd7 19. Nh2 Nf8 20. Ng4 Ng6 21. Bg5 Nxg4 22.
+Qxg4 Bd7 23. Qg3 Bxg5 24. Qxg5 Rf8 25. f3 Nf4 26. Nb1 Ne2+ 27. Kf2 Nxc1 28.
+Qxc1 f5 29. Kg1 fxe4 30. Bxe4 Bf5 31. Nd2 Rab8 32. Qc2 Bxe4 33. Nxe4 h6 34. Nd2
+Rb7 35. Qg6 Rf6 36. Qe8+ Kh7 37. Ne4 Rf7 38. Qe6 Rb6 39. cxb5 axb5 40. a4 bxa4
+41. bxa4 Qd7 42. Nc3 Rb3 43. Nb5 Qxe6 44. dxe6 Re7 45. Nxd6 Rxe6 46. Nc4 Rb4
+47. Rc1 Rxa4 48. Nd2 c4 49. Rc3 Rc6 50. Kf2 Kg6 51. Ke3 Kf6 52. Ke4 Rd6 53. Rc2
+c3+ 54. Ke3 cxd2 55. Rxd2 Rxd2 56. Kxd2 Ra2+ 57. Ke3 Rxg2 58. Ke4 Rh2 0-1
+
+[Event "Busevec op U20 Girls"]
+[Site "Busevec"]
+[Date "2008.05.02"]
+[Round "4"]
+[White "Sambolec, Andreja"]
+[Black "Neric, Jelena"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "1890"]
+[BlackElo "1841"]
+[PlyCount "60"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. dxc5
+Bxc5 9. Bxc5 Nxc5 10. Bd3 b5 11. O-O b4 12. Ne2 Qb6 13. Kh1 a5 14. Ng3 Nxd3 15.
+Qxd3 Ba6 16. Qd2 Bxf1 17. Rxf1 g6 18. Qd1 Rc8 19. Re1 O-O 20. f5 exf5 21. Qd2
+Qd8 22. Qh6 f6 23. exf6 Qxf6 24. Ng5 Rc7 25. Re6 Qxb2 26. h3 Qg7 27. Qh4 Nd4
+28. Rd6 h6 29. Ne6 Nxe6 30. Rxe6 Rc4 0-1
+
+[Event "Busevec op U20 Girls"]
+[Site "Busevec"]
+[Date "2008.05.03"]
+[Round "6"]
+[White "Ivekovic, Tihana"]
+[Black "Racki, Barbara"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "1716"]
+[BlackElo "1701"]
+[PlyCount "45"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Be2 O-O 8.
+O-O Bb6 9. Na3 a6 10. Nac2 Qg6 11. f3 d5 12. Nxc6 Qxc6 13. exd5 Nxd5 14. Bf2
+Nf4 15. Nd4 Qg6 16. Bg3 Nh5 17. Qe1 Re8 18. Qf2 c5 19. Nb3 Nxg3 20. hxg3 Bc7
+21. f4 b6 22. Rfe1 Bb7 23. Bf3 1/2-1/2
+
+[Event "Busevec op U20 Girls"]
+[Site "Busevec"]
+[Date "2008.05.04"]
+[Round "7"]
+[White "Neric, Jelena"]
+[Black "Ivekovic, Tihana"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "1841"]
+[BlackElo "1716"]
+[PlyCount "91"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]

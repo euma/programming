@@ -1,0 +1,50 @@
+Nf6 4.Bg5 Be7 5.e5 Ng8
+C13	Frankfurt Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Ng8 6.Be3 b6
+C13	C13	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 
+C14	C14	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+C14	Anderssen (Richter) Attack, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6
+4.Bg5 Be7 5.Bxf6
+C14	Tartakower Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Ne4
+C14	Classical Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.Bxe7 Qxe7
+C14	Tarrasch Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.Bxe7 Qxe7 7.Bd3
+C14	Steinitz Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.Bxe7 Qxe7 7.f4
+C14	Alapin Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.Bxe7 Qxe7 7.Nb5
+C14	Rubinstein Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.Bxe7 Qxe7 7.Qd2
+C14	Pollock Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.Bxe7 Qxe7 7.Qg4
+C14	Chatard-Alekhine; Albin Attack, Fr	1.e4 e6 2.d4 d5 3.Nc3 Nf6
+4.Bg5 Be7 5.e5 Nfd7 6.h4
+C14	Maroczy Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.h4 a6
+C14	Albin-Chatard Gambit, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.h4 Bxg5 7.hxg5 Qxg5
+C14	Breyer Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.h4 c5
+C14	Teichmann Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.h4 f6
+C14	Spielmann Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.h4 O-O
+C15	Winawer Variation, French; C15	1.e4 e6 2.d4 d5 3.Nc3 Bb4  
+C15	Winckelmann-Riemer Gambit, French	1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.a3
+C15	Fingerslip Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd2
+C15	Kunin Double Gambit, French	1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd2 dxe4
+5.Qg4 Qxd4
+C15	Schwarz's Line, French	1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd2 Ne7 5.Nb1
+C15	Kondratiyev Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 c5
+5.exd5 Qxd5 6.Bd2
+C15	Delayed Exchange Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Bb4
+4.exd5
+C15	Alekhine (Maroczy) Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Bb4
+4.Ne2
+C15	Kan Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3
+Bxc3+ 6.Nxc3 Nc6
+C16	C16	1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5
+C16	Petrosian Variation, French	1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Qd7
+C17	C17	1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5

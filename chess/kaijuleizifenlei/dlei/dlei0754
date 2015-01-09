@@ -1,0 +1,600 @@
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1920"]
+[BlackElo "2017"]
+[PlyCount "47"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Nf6 4. Nf3 c5 5. c3 Nc6 6. Bd3 Be7 7. Nbd2 a6 8. Ne5
+Bd7 9. Ndf3 O-O 10. Nxc6 Bxc6 11. Ne5 Rc8 12. Qf3 b5 13. Qh3 c4 14. Bc2 b4 15.
+O-O bxc3 16. bxc3 Qa5 17. g4 Ba4 18. Bb1 g6 19. Qh6 Qxc3 20. g5 Nh5 21. Nxg6
+fxg6 22. Bxg6 hxg6 23. Be5 Qd3 24. Qh8+ 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.05"]
+[Round "8"]
+[White "Rehberg, Raphael"]
+[Black "Jensen, Leif Haugaard"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2221"]
+[BlackElo "2031"]
+[PlyCount "76"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 c6 4. f3 h6 5. Bxf6 exf6 6. e4 Be6 7. Nge2 Bb4 8.
+Qd2 O-O 9. a3 Bxc3 10. Nxc3 Re8 11. Be2 Nd7 12. O-O-O Rb8 13. g4 b5 14. exd5
+Bxd5 15. Nxd5 cxd5 16. Bd3 a5 17. b3 b4 18. a4 Nb6 19. Bb5 Re7 20. Rde1 Rbb7
+21. Qf4 Qc7 22. Qxc7 Rbxc7 23. Rxe7 Rxe7 24. Kd2 Kf8 25. Rc1 Rc7 26. c3 bxc3+
+27. Rxc3 Rxc3 28. Kxc3 Ke7 29. b4 axb4+ 30. Kxb4 Kd6 31. a5 Nc8 32. Ba6 Na7 33.
+Bb7 Nc6+ 34. Bxc6 Kxc6 35. f4 g6 36. f5 h5 37. gxh5 gxh5 38. h4 Kd6 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.05"]
+[Round "8"]
+[White "Weber, Hubert"]
+[Black "Volkov, Mykyta"]
+[Result "1-0"]
+[ECO "D40"]
+[WhiteElo "2078"]
+[BlackElo "2084"]
+[PlyCount "83"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 e6 2. c4 Nf6 3. Nc3 d5 4. d4 dxc4 5. e3 c5 6. Bxc4 a6 7. a3 b5 8. Bd3
+Bb7 9. O-O Nbd7 10. Qe2 Qb6 11. Bd2 cxd4 12. exd4 Rd8 13. Be3 Nd5 14. Rac1 Be7
+15. Rfd1 O-O 16. Ne4 N7f6 17. Nc5 Ba8 18. b4 Bd6 19. Bd2 Nf4 20. Bxf4 Bxf4 21.
+Rc2 Kh8 22. Ne4 Nd5 23. g3 Bh6 24. Rc5 f5 25. Neg5 Rd6 26. Rdc1 Bxg5 27. Nxg5
+h6 28. Nf3 Qb7 29. h4 Nf6 30. d5 Nxd5 31. Qe5 Rd7 32. Be2 f4 33. g4 Rdf7 34. g5
+Qe7 35. Rc8 Bb7 36. Rxf8+ Qxf8 37. gxh6 Rf6 38. hxg7+ Qxg7+ 39. Ng5 f3 40. Bf1
+Ne7 41. Rc7 Bd5 42. Rd7 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Boesel, Alexander"]
+[Black "Singh, Marcel"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2017"]
+[BlackElo "1908"]
+[PlyCount "45"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Bg5 e6 5. Qc2 Be7 6. g3 O-O 7. Bg2 h6 8. Bf4
+Nbd7 9. O-O dxc4 10. Qxc4 Nd5 11. Nc3 Nxf4 12. gxf4 c5 13. dxc5 Bxc5 14. e3 a6
+15. b4 Ba7 16. a4 Nb6 17. Qb3 Nd7 18. Rfd1 Qe7 19. Rd2 Rb8 20. Rad1 e5 21. fxe5
+Nxe5 22. Nxe5 Qxe5 23. Rd5 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Karmann, Anna"]
+[Black "Klatt, Peter"]
+[Result "1/2-1/2"]
+[ECO "D74"]
+[WhiteElo "1891"]
+[BlackElo "2016"]
+[PlyCount "67"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 O-O 7. O-O Nc6 8.
+d4 Nxc3 9. bxc3 e5 10. e3 Be6 11. Qc2 exd4 12. Nxd4 Nxd4 13. cxd4 Qc8 14. Ba3
+Rd8 15. Rab1 Rb8 16. Rfc1 c6 17. Bc5 b6 18. Ba3 Qa6 19. Bb4 c5 20. dxc5 bxc5
+21. Bxc5 Rxb1 22. Qxb1 Bxa2 23. Qb4 h5 24. Bf1 Qc6 25. Qa3 Qe6 26. Bxa7 Rd2 27.
+Qc5 Qf6 28. e4 Qb2 29. Qc8+ Kh7 30. Be3 Rd6 31. Qc2 Qxc2 32. Rxc2 Bb1 33. Rc4
+Rd1 34. Rc1 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Kunz, Konstantin"]
+[Black "Kelbling, Philipp"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2198"]
+[BlackElo "2059"]
+[PlyCount "65"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. c4 c6 5. Nbd2 Nbd7 6. Bd3 Bd6 7. O-O O-O 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 f5 11. Bc2 h6 12. Re1 Nf6 13. a3 Re8 14. b4 b5 15.
+Qe2 bxc4 16. Qxc4 Qb6 17. Bxf5 Nd5 18. Bb1 a5 19. Qd3 Rf8 20. Bxh6 Rf5 21. Bd2
+axb4 22. Qe2 Rf8 23. Qe4 Nf6 24. Qg6 Rxa3 25. Rxa3 bxa3 26. Ba2 c5 27. d5 Qb2
+28. Bh6 Nxd5 29. Bb1 Bf4 30. Qh7+ Kf7 31. Bg6+ Ke7 32. Bxg7 Bxh2+ 33. Kxh2 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Savchenko, Viacheslav"]
+[Black "Voicu, Carmen"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2427"]
+[BlackElo "2290"]
+[PlyCount "100"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 c5 7. cxd5 Nxd5 8.
+Nxd5 exd5 9. dxc5 Bxc5 10. Bd3 Bb4+ 11. Kf1 Nc6 12. h4 h6 13. Bc2 Be7 14. Qd3
+f5 15. Bb3 Be6 16. Rd1 Bf6 17. Bxd5 Bxd5 18. Qxd5+ Qxd5 19. Rxd5 Rfd8 20. Rxd8+
+Nxd8 21. Be5 Rc8 22. Bxf6 gxf6 23. Rh3 Rc1+ 24. Ne1 Nc6 25. Ke2 Ne5 26. e4 fxe4
+27. Rb3 b6 28. Rc3 Rxc3 29. bxc3 Nc4 30. Nc2 Kf7 31. Nd4 Kg6 32. g3 f5 33. f3
+exf3+ 34. Kxf3 Nd2+ 35. Kf4 Ne4 36. Ne2 Kf6 37. g4 Nd6 38. g5+ hxg5+ 39. hxg5+
+Kg6 40. Nd4 Ne4 41. Nxf5 Nxc3 42. Ne7+ Kf7 43. Nc8 Nxa2 44. Kf5 Nb4 45. Nxa7
+Nd5 46. Nb5 Ne3+ 47. Kf4 Kg6 48. Nc3 Ng2+ 49. Kg4 Ne3+ 50. Kh4 Ng2+ 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Smolka, Alexander"]
+[Black "Naiditsch, Evgenija"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2102"]
+[BlackElo "2119"]
+[PlyCount "104"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 c6 4. e3 Qb6 5. Qc1 e5 6. Nf3 e4 7. Nfd2 Be7 8. Bxe7
+Nxe7 9. Be2 O-O 10. c4 Be6 11. Nc3 Nd7 12. O-O f5 13. c5 Qd8 14. b4 Ng6 15. g3
+Qf6 16. Nb3 Qg5 17. Kh1 Nf6 18. b5 Ng4 19. Bxg4 Qxg4 20. Qd1 Qh3 21. f3 exf3
+22. Qxf3 h5 23. bxc6 bxc6 24. Ne2 Qg4 25. Nf4 Nxf4 26. exf4 Rae8 27. Rae1 Bc8
+28. Qxg4 fxg4 29. Re5 Bf5 30. Kg1 g6 31. Na5 Rxe5 32. fxe5 Rc8 33. Rf2 Kf7 34.
+Rb2 Rc7 35. Kf2 Ke6 36. Ke3 Be4 37. Rf2 Bf5 38. Kf4 Rc8 39. Rb2 Rc7 40. Kg5 Bd3
+41. Rb8 Rf7 42. Re8+ Kd7 43. e6+ Kxe8 44. exf7+ Kxf7 45. Nxc6 Ke6 46. Nxa7 Kd7
+47. Kf6 Kc7 48. a4 Bc2 49. Nb5+ Kc6 50. Nd6 Bxa4 51. Kxg6 Bd1 52. Kxh5 Bf3 1-0
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Sondermann, Dirk"]
+[Black "Knapp, Michael"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2116"]
+[BlackElo "1964"]
+[PlyCount "48"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. e3 Be7 6. Bd3 O-O 7. O-O b6 8. cxd5
+exd5 9. Bd2 c5 10. Rc1 a6 11. e4 cxd4 12. Nxd5 Nxd5 13. exd5 Nc5 14. Bb1 Qxd5
+15. Re1 Ra7 16. Re5 Qd8 17. Rh5 g6 18. Ne5 Rc7 19. Rxh7 d3 20. b4 Kxh7 21. bxc5
+Bf6 22. f4 Qd4+ 23. Kh1 Bxe5 24. Bc3 Qxf4 0-1
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Stockhuss, Kevin"]
+[Black "Strathoff, Jens"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "1901"]
+[BlackElo "2017"]
+[PlyCount "76"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. cxd5 exd5 5. Nf3 Nf6 6. Qc2 g6 7. Bg5 Bg7 8. e3
+Bf5 9. Qb3 Qe7 10. Be2 O-O 11. h4 h6 12. Bf4 h5 13. Bg5 Qc7 14. Rc1 Qb6 15.
+Qxb6 axb6 16. O-O b5 17. a3 Nbd7 18. Nd2 Rfe8 19. Nb3 Nb6 20. Nc5 Ra7 21. Bd3
+Bxd3 22. Nxd3 Nc4 23. Rc2 Nh7 24. Bf4 f6 25. Ra1 g5 26. hxg5 fxg5 27. Bh2 Nf6
+28. Be5 Nxe5 29. Nxe5 b4 30. Ne2 Ne4 31. Nd3 bxa3 32. bxa3 Rea8 33. Nc3 Nd6 34.
+a4 Nc4 35. Rca2 Kf7 36. Rb1 Re8 37. Nc5 Re7 38. a5 Rxa5 1/2-1/2
+
+[Event "Dortmund Sparkassen op"]
+[Site "Dortmund"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Werrn, Pascal"]
+[Black "Paulus, Jeffrey"]
+[Result "1-0"]
+[ECO "D10"]
+[PlyCount "117"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Bf4 c6 3. c4 Nf6 4. Nc3 Bf5 5. Qb3 Qb6 6. e3 e6 7. c5 Qxb3 8. axb3
+Nbd7 9. Nf3 Nh5 10. Bg3 Nxg3 11. hxg3 h6 12. b4 b5 13. Be2 Be7 14. O-O O-O 15.
+Ra3 Rfc8 16. Rfa1 Rc7 17. Na2 a6 18. Nc1 Rca7 19. Kf1 Bf6 20. Nb3 Bc2 21. Na5
+Nb8 22. Ke1 Re7 23. Kd2 Bg6 24. Bf1 Kh7 25. Nh2 e5 26. Ng4 exd4 27. Nxf6+ gxf6
+28. exd4 Raa7 29. Re3 Rxe3 30. Kxe3 Re7+ 31. Kd2 Bf5 32. Re1 Re6 33. Nb7 Kg7
+34. Nd6 Bg6 35. Ne8+ Kf8 36. Rxe6 fxe6 37. Nxf6 Kg7 38. Ng4 Nd7 39. Ne5 Nxe5
+40. dxe5 Bf5 41. Ke3 Kg6 42. Kf4 Bc2 43. Be2 d4 44. Bf3 d3 45. Be4+ Kh5 46. Ke3
+Kg4 47. Bxd3 Bxd3 48. Kxd3 Kf5 49. Kd4 Kg4 50. Ke4 h5 51. b3 Kg5 52. f3 h4 53.
+gxh4+ Kxh4 54. Kf4 Kh5 55. g4+ Kg6 56. g5 Kh5 57. g6 Kxg6 58. Kg4 Kh6 59. f4
+1-0
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.01"]
+[Round "1"]
+[White "Cunanan, Kimberly Jane"]
+[Black "Cua, Sherily"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1971"]
+[BlackElo "2142"]
+[PlyCount "99"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Nc6 5. c3 Qb6 6. Qb3 c4 7. Qxb6 axb6 8.
+Nbd2 b5 9. a3 b4 10. cxb4 Nxb4 11. Rc1 Nc6 12. Be2 Bf5 13. h3 e6 14. g4 Bg6 15.
+Bg3 Be7 16. Nh4 b5 17. f4 Ne4 18. Nxg6 Nxg3 19. Nxe7 Kxe7 20. Rg1 Nxe2 21. Kxe2
+Ra4 22. Rc3 Rb8 23. Rgc1 Na5 24. Kd1 Kd7 25. Ke2 b4 26. axb4 Raxb4 27. Ra1 Nc6
+28. b3 cxb3 29. Ra6 Nd8 30. Ra7+ Ke8 31. Kd3 R4b6 32. Ra1 Nc6 33. Ra3 Nb4+ 34.
+Ke2 b2 35. Nb1 R8b7 36. Kd2 Kd7 37. Rcb3 Nc6 38. Rxb6 Rxb6 39. Kc2 Rb5 40. Nc3
+Rb4 41. Ra2 Kc7 42. Rxb2 Rxb2+ 43. Kxb2 Na5 44. Kc2 Kc6 45. Kd3 Nb7 46. Ne2 Nd6
+47. Ng3 g6 48. h4 Kb5 49. g5 Kb4 50. h5 1/2-1/2
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.02"]
+[Round "2"]
+[White "Magno, Enerose"]
+[Black "Perena, Catherine"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2144"]
+[BlackElo "2212"]
+[PlyCount "66"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c3 e6 4. Bf4 c5 5. e3 Nc6 6. Nbd2 Be7 7. Be2 O-O 8. O-O
+b6 9. Re1 Bb7 10. h3 Bd6 11. Ne5 Bxe5 12. Bxe5 Nxe5 13. dxe5 Nd7 14. f4 f6 15.
+exf6 Qxf6 16. Nf3 Bc6 17. Qd2 e5 18. fxe5 Nxe5 19. Nxe5 Qxe5 20. Bf3 Rad8 21.
+Rad1 Rd6 22. Rf1 Re8 23. Rfe1 Kh8 24. b4 Qg5 25. bxc5 bxc5 26. c4 Ba4 27. Rc1
+d4 28. Qa5 Bd7 29. Qc7 Qg3 30. Qxc5 Bxh3 31. Rcd1 Rg6 32. Qd5 Rf8 33. Rf1 Bxg2
+0-1
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.03"]
+[Round "3"]
+[White "Cua, Shercila"]
+[Black "Cua, Sherily"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[WhiteElo "2181"]
+[BlackElo "2142"]
+[PlyCount "80"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. Nf3 Nc6 6. Bf4 a6 7. e3 e6 8. a3
+Be7 9. h3 O-O 10. Bd3 b5 11. b4 Bb7 12. O-O Rc8 13. Rc1 Nb8 14. Nd2 Nbd7 15.
+Nb3 Nb6 16. Nc5 Bxc5 17. dxc5 Nc4 18. Bxc4 dxc4 19. Qe2 Nd5 20. Rcd1 Qf6 21.
+Nxd5 exd5 22. Qd2 Rfe8 23. Qd4 Qxd4 24. exd4 Re4 25. Bc1 Rce8 26. f3 Re2 27.
+Rf2 f6 28. Kf1 Rxf2+ 29. Kxf2 Kf7 30. Bd2 Re6 31. Re1 Rxe1 32. Bxe1 Ke6 33. Ke3
+f5 34. g4 g6 35. Bh4 Bc6 36. Bd8 Be8 37. Kf4 fxg4 38. fxg4 h6 39. h4 Bc6 40.
+Bc7 Be8 1/2-1/2
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.05"]
+[Round "5"]
+[White "Perena, Catherine"]
+[Black "Fronda Pascua, Jan Jodilyn"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2212"]
+[BlackElo "1953"]
+[PlyCount "93"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. cxd5 cxd5 5. e3 exd4 6. Qxd4 Nf6 7. Nf3 a6 8.
+Be2 Nc6 9. Qa4 Bd7 10. O-O Bc5 11. Qd1 Bg4 12. a3 O-O 13. b4 Ba7 14. Bb2 Qd6
+15. b5 Na5 16. e4 Bxf3 17. Bxf3 Bb8 18. g3 Nc4 19. Qe2 Nxb2 20. Qxb2 dxe4 21.
+Nxe4 Nxe4 22. Bxe4 Qe5 23. Qc2 axb5 24. Bxh7+ Kh8 25. Rfe1 Qf6 26. Be4 Bd6 27.
+Bxb7 Rxa3 28. Rxa3 Bxa3 29. Re4 g6 30. Rf4 Qa1+ 31. Kg2 Bd6 32. Rh4+ Kg8 33.
+Bd5 Qf6 34. Rg4 Kg7 35. h4 Rh8 36. Qe2 Rh5 37. Be4 Qe6 38. Bf3 Qxe2 39. Bxe2
+Rd5 40. Rg5 Rxg5 41. hxg5 b4 42. Bc4 f5 43. gxf6+ Kxf6 44. f4 g5 45. fxg5+ Kxg5
+46. Kf3 Bxg3 47. Kxg3 1/2-1/2
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.05"]
+[Round "5"]
+[White "Young, Rida Jane"]
+[Black "Magno, Enerose"]
+[Result "0-1"]
+[ECO "D02"]
+[BlackElo "2144"]
+[PlyCount "90"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Qb6 5. Qc1 Nc6 6. c3 Bf5 7. Be2 e6 8. O-O
+Be7 9. Nbd2 Rc8 10. dxc5 Bxc5 11. h3 O-O 12. Nb3 Be7 13. Qd1 h6 14. Rc1 Rfd8
+15. Bd3 Bxd3 16. Qxd3 a5 17. Qe2 a4 18. Nbd4 Nd7 19. Bh2 Nxd4 20. exd4 Qa5 21.
+a3 Bf6 22. Rfe1 Rc6 23. g4 Rdc8 24. h4 Be7 25. h5 Bd6 26. Bxd6 Rxd6 27. g5 hxg5
+28. Nxg5 Qd8 29. f4 Qf6 30. Qg4 Qh6 31. Kf2 Nf6 32. Qg3 Nxh5 33. Qf3 Nf6 34.
+Rh1 Qg6 35. Rce1 Rb6 36. Re2 Rcc6 37. Qh3 Kf8 38. Qh8+ Ke7 39. Rg1 Qh6 40. Qb8
+Qh4+ 41. Kf1 Rxc3 42. bxc3 Rb1+ 43. Kg2 Qg4+ 44. Kh2 Qxg1+ 45. Kh3 Qg4+ 0-1
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.08"]
+[Round "7"]
+[White "Young, Rida Jane"]
+[Black "Cua, Sherily"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[BlackElo "2142"]
+[PlyCount "106"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Nc6 5. Be2 Qb6 6. Nc3 a6 7. a3 Bf5 8. Rb1
+e6 9. O-O cxd4 10. exd4 Be7 11. h3 Rc8 12. Be3 Nd7 13. Re1 O-O 14. Bd3 Bg6 15.
+Bxg6 hxg6 16. Bf4 Qd8 17. Ne2 Na5 18. Nc1 Nc4 19. Nd3 b5 20. c3 a5 21. Qb3 Qb6
+22. Rbc1 Nb8 23. Nde5 Nxe5 24. Nxe5 Rfd8 25. Qd1 b4 26. axb4 axb4 27. Qf3 Nc6
+28. Nd3 Na5 29. Ne5 Nc4 30. Be3 Nxe5 31. dxe5 Bc5 32. Bxc5 Rxc5 33. Qe3 Rdc8
+34. cxb4 Qxb4 35. Rxc5 Rxc5 36. Rd1 Rc2 37. b3 Rc3 38. Qg5 Rxb3 39. Qd8+ Qf8
+40. Qd7 Qb8 41. f4 Rb7 42. Qc6 Rc7 43. Qd6 Qc8 44. Kh2 Qd7 45. Qa6 Qc6 46. Qa5
+Qc5 47. Qd2 Qc2 48. Qe1 Rc4 49. Ra1 Rxf4 50. Ra8+ Kh7 51. Qa5 Rf2 52. Rh8+ Kxh8
+53. Qd8+ Kh7 1/2-1/2
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.09"]
+[Round "8"]
+[White "Cua, Shercila"]
+[Black "Perena, Catherine"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2181"]
+[BlackElo "2212"]
+[PlyCount "79"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Bf4 e6 5. Nc3 Bd6 6. Bg3 Qe7 7. e3 O-O 8. Be2
+Nbd7 9. O-O Bxg3 10. hxg3 dxc4 11. Bxc4 e5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14. Be2
+Be6 15. Qa4 Rfd8 16. Rfd1 Qc5 17. Rxd8+ Rxd8 18. Rd1 Rxd1+ 19. Qxd1 Nd5 20.
+Nxd5 Qxd5 21. Qxd5 Bxd5 22. a3 Kf8 23. Kf1 Ke7 24. Bd3 h6 25. e4 Be6 26. Ke2
+Kd6 27. Ke3 g5 28. f4 f6 29. Be2 Bb3 30. Bf3 a5 31. Kd4 c5+ 32. Kc3 Bf7 33. e5+
+fxe5 34. fxe5+ Kxe5 35. Bxb7 Be6 36. Bf3 Bf7 37. Bb7 Be6 38. Bf3 Bf7 39. Bb7
+Be6 40. Bf3 1/2-1/2
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.12"]
+[Round "10"]
+[White "Tumbos, Eden"]
+[Black "Cua, Sherily"]
+[Result "0-1"]
+[ECO "D30"]
+[BlackElo "2142"]
+[PlyCount "120"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 Be7 5. Nbd2 O-O 6. Bd3 Nbd7 7. b3 b6 8. Bb2
+Bb7 9. Ne5 Bd6 10. O-O Qe7 11. Rc1 c5 12. Qe2 Ne4 13. f3 Nxd2 14. Qxd2 Rad8 15.
+Qe2 Nf6 16. Rcd1 Rc8 17. Qf2 Nd7 18. f4 Nf6 19. Qh4 Rfd8 20. f5 cxd4 21. exd4
+Ne4 22. f6 Nxf6 23. Rxf6 Qxf6 24. Qxh7+ Kf8 25. Rf1 Bxe5 26. dxe5 Qh6 27. Ba3+
+Rc5 28. Qxh6 gxh6 29. cxd5 Rdxd5 30. Be4 Rd7 31. Bxb7 Rxb7 32. Bxc5+ bxc5 33.
+Rc1 Rb5 34. Kf2 c4 35. Rxc4 Rxe5 36. Rc8+ Kg7 37. a4 a5 38. Rb8 Kf6 39. Rb7 Kg6
+40. Rb5 Kf5 41. Rb7 f6 42. Kf3 Rd5 43. Ke3 h5 44. b4 axb4 45. Rxb4 Rd1 46. h3
+e5 47. a5 Ra1 48. Rb5 h4 49. Kf3 Ra3+ 50. Kf2 Kf4 51. Rb4+ e4 52. Rb5 Ra2+ 53.
+Kf1 f5 54. Kg1 e3 55. Rb4+ Kg3 56. Rb1 Rxg2+ 57. Kh1 Ra2 58. Rg1+ Kxh3 59. Rf1
+f4 60. Kg1 Kg3 0-1
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.13"]
+[Round "11"]
+[White "Cua, Sherily"]
+[Black "Fronda Pascua, Jan Jodilyn"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2142"]
+[BlackElo "1953"]
+[PlyCount "127"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nd2 Nf6 4. Ngf3 Bf5 5. g3 e6 6. Bg2 h6 7. O-O Be7 8. b3
+O-O 9. Bb2 Nbd7 10. Re1 Bh7 11. a3 a5 12. Ne5 Nxe5 13. dxe5 Nd7 14. cxd5 cxd5
+15. e4 Nc5 16. Qe2 dxe4 17. Nxe4 Nxe4 18. Bxe4 Bxe4 19. Qxe4 Qd5 20. Qxd5 exd5
+21. Red1 Rfd8 22. Rac1 Rd7 23. a4 b5 24. Bd4 bxa4 25. bxa4 Rb7 26. Bc5 Bxc5 27.
+Rxc5 Rb4 28. Rdxd5 Rxa4 29. Rc7 Re4 30. Rdd7 Rxe5 31. Rxf7 Rg5 32. h4 Rg4 33.
+Kg2 h5 34. Rf5 a4 35. Rxh5 a3 36. Rhc5 Ra6 37. Rc1 Rb4 38. R7c2 Kf7 39. Ra2 Rb3
+40. Rcc2 Ke6 41. Rd2 Rab6 42. Re2+ Kd6 43. Rad2+ Kc5 44. Rd7 g6 45. Ra7 Kb4 46.
+Kh3 Rb5 47. Kg4 Rc3 48. Re6 Rc4+ 49. f4 Ra5 50. Rb7+ Rb5 51. Rxb5+ Kxb5 52. h5
+gxh5+ 53. Kxh5 Rc5+ 54. Kg4 a2 55. Re1 Kc6 56. f5 Rb5 57. Ra1 Rb2 58. Kg5 Kd7
+59. g4 Ke7 60. Kg6 Kf8 61. f6 Rc2 62. Rh1 Ke8 63. f7+ Ke7 64. Re1+ 1-0
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.13"]
+[Round "11"]
+[White "Magno, Enerose"]
+[Black "Bernales, Christy Lamiel"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2144"]
+[BlackElo "1961"]
+[PlyCount "160"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c3 d5 4. Bf4 Be7 5. Nbd2 O-O 6. e3 b6 7. Bd3 c5 8. O-O
+Bb7 9. Re1 Nbd7 10. h3 Ne4 11. Rc1 f5 12. Ne5 g5 13. Bh2 Rf6 14. Ndf3 h6 15. a4
+a6 16. Nxd7 Qxd7 17. Ne5 Qe8 18. Bxe4 dxe4 19. Qb3 b5 20. axb5 axb5 21. c4 b4
+22. dxc5 Bxc5 23. Ra1 Bc6 24. Nxc6 Qxc6 25. Rxa8+ Qxa8 26. Be5 Rf7 27. Rd1 Qa5
+28. Bd6 f4 29. exf4 gxf4 30. Qc2 Bxd6 31. Rxd6 Qe5 32. Rd8+ Kg7 33. Qd1 f3 34.
+Qd4 Kf6 35. c5 b3 36. Qxe5+ Kxe5 37. Rb8 Kd5 38. Rxb3 Kxc5 39. Kh2 e5 40. g4
+Kc4 41. Re3 Kd4 42. h4 Rc7 43. Re1 Rc2 44. Kg3 Rxb2 45. h5 Kd5 46. g5 hxg5 47.
+h6 Rb6 48. Rh1 Rb8 49. Kg4 Rg8 50. h7 Rh8 51. Kxg5 e3 52. fxe3 Ke4 53. Kg6 Kxe3
+54. Kg7 Rxh7+ 55. Kxh7 e4 56. Kg6 f2 57. Kf5 Kf3 58. Rh3+ Kg2 59. Re3 f1=Q+ 60.
+Kxe4 Qc4+ 61. Ke5 Qc5+ 62. Ke4 Kf2 63. Rd3 Ke2 64. Rd4 Qe7+ 65. Kd5 Ke3 66. Rc4
+Qf7+ 67. Kc5 Kd3 68. Rd4+ Kc3 69. Rd6 Qc4+ 70. Kb6 Kb4 71. Rc6 Qd4+ 72. Kc7 Kb5
+73. Re6 Qd5 74. Rd6 Qe5 75. Kd7 Kc5 76. Re6 Qg7+ 77. Re7 Qg4+ 78. Kc7 Qf4+ 79.
+Kd7 Kd5 80. Ke8 Kd6 0-1
+
+[Event "PHI-ch (Women)"]
+[Site "Manila"]
+[Date "2008.07.13"]
+[Round "11"]
+[White "Young, Rida Jane"]
+[Black "Cua, Shercila"]
+[Result "0-1"]
+[ECO "D04"]
+[BlackElo "2181"]
+[PlyCount "84"]
+[EventDate "2008.06.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bg4 4. Be2 e6 5. O-O Bd6 6. c4 c6 7. c5 Bc7 8. Nc3
+Nbd7 9. b4 b5 10. cxb6 axb6 11. Bb2 Bd6 12. a3 O-O 13. Rc1 Qe7 14. h3 Bxf3 15.
+Bxf3 e5 16. Re1 e4 17. Be2 b5 18. Nb1 Rfc8 19. Nd2 Nb6 20. Nb3 Nc4 21. Bxc4
+dxc4 22. Nc5 Nd5 23. Qg4 g6 24. Rb1 f5 25. Qe2 h5 26. f4 exf3 27. Qxf3 Bxc5 28.
+bxc5 Re8 29. Rbd1 Kh7 30. Bc1 Qh4 31. Rf1 Re4 32. Rde1 Rae8 33. Bd2 R8e6 34.
+Rf2 c3 35. Bc1 Rxd4 36. Ref1 Rde4 37. Qd1 R6e5 38. Qb3 Qe7 39. Rf3 Qxc5 40. Kh1
+Qe7 41. g4 hxg4 42. hxg4 Qh4+ 0-1
+
+[Event "Pan American-ch U18 19th"]
+[Site "Villa Carlos Paz"]
+[Date "2008.06.30"]
+[Round "1"]
+[White "Blackman, Justin"]
+[Black "Calcina, Gary"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2001"]
+[BlackElo "2182"]
+[PlyCount "64"]
+[EventDate "2008.06.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 c5 2. c3 d5 3. Bf4 Nf6 4. Nf3 Bf5 5. e3 e6 6. Nbd2 Bd6 7. Bxd6 Qxd6 8.
+Ne5 O-O 9. g4 Bg6 10. h4 cxd4 11. exd4 Nc6 12. Qe2 h5 13. g5 Nd7 14. f4 b5 15.
+Bg2 b4 16. Nxc6 bxc3 17. bxc3 Qxc6 18. c4 Rab8 19. O-O Rb2 20. c5 Qa4 21. Qe3
+Rfb8 22. a3 Rc2 23. f5 Bxf5 24. Rxf5 exf5 25. Bxd5 Nf8 26. Bb3 Rxb3 27. Nxb3
+Qc6 28. Nd2 Ng6 29. Nf3 Qc7 30. Ne1 Qh2+ 31. Kf1 Qh1+ 32. Qg1 Qh3+ 0-1
+
+[Event "Pan American-ch U18 19th"]
+[Site "Villa Carlos Paz"]
+[Date "2008.06.30"]
+[Round "1"]
+[White "Martins de Morales, Pedro Henri"]
+[Black "Becerra, Juan David"]
+[Result "0-1"]
+[ECO "D00"]
+[BlackElo "2105"]
+[PlyCount "112"]

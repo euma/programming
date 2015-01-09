@@ -1,0 +1,600 @@
+[WhiteElo "2313"]
+[BlackElo "2479"]
+[PlyCount "50"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 d6 6. e3 Re8 7. Bd2 e5 8. dxe5
+dxe5 9. a3 Bf8 10. e4 Bg4 11. O-O-O Bxf3 12. gxf3 Nc6 13. Be3 Nd4 14. Bxd4 exd4
+15. Ne2 c6 16. Nxd4 Qc7 17. Qc3 Nh5 18. Nf5 g6 19. Ng3 Bg7 20. Qc2 Nf4 21. Kb1
+Rad8 22. Rxd8 Rxd8 23. Ne2 Qa5 24. Nxf4 Rd2 25. b4 Qd8 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "3"]
+[White "Mamedjarova, Zeinab"]
+[Black "Totsky, Leonid"]
+[Result "0-1"]
+[ECO "E14"]
+[WhiteElo "2332"]
+[BlackElo "2498"]
+[PlyCount "126"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 e6 2. c4 b6 3. Nf3 Bb7 4. e3 Nf6 5. Be2 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. Qc2
+c5 9. O-O Nc6 10. dxc5 bxc5 11. Rad1 d6 12. Bc1 Qa5 13. b3 Rfd8 14. Bb2 Rd7 15.
+Rd2 Rad8 16. Rfd1 a6 17. h3 h6 18. Qc1 d5 19. cxd5 exd5 20. Qb1 d4 21. Ne4 Nb4
+22. Nxf6+ Bxf6 23. exd4 Qxa2 24. Qc1 Qxb3 25. Qxc5 Rc8 26. Qf5 Qd5 27. Qxd5
+Bxd5 28. Ne5 Ra7 29. Ba3 a5 30. Rb1 Be7 31. Bg4 Rc3 32. Bb2 Rcc7 33. Rdd1 Be4
+34. Rbc1 Bc2 35. Rf1 a4 36. Ra1 Bb3 37. Bd1 Nd5 38. Nc6 Rxc6 39. Bxb3 Rb6 40.
+Bxd5 Rxb2 41. Rfd1 a3 42. g3 g6 43. Kg2 Kg7 44. Rab1 Bf6 45. Rxb2 axb2 46. Be4
+Ra4 47. Kf3 Bxd4 48. Bb1 Be5 49. h4 Kf6 50. Ke2 h5 51. Rd3 Ra1 52. Rd1 Ke6 53.
+Kd3 Ra3+ 54. Ke2 Rc3 55. Kd2 Bd4 56. Ke2 Kd5 57. Ba2+ Kc5 58. Bb1 Rc1 59. Re1
+f5 60. f3 Be5 61. g4 fxg4 62. fxg4 hxg4 63. Rf1 g3 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "3"]
+[White "Mohandesi, Shahin"]
+[Black "Mateo, Ramon"]
+[Result "0-1"]
+[ECO "E30"]
+[WhiteElo "2323"]
+[BlackElo "2484"]
+[PlyCount "74"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 exd5 6. cxd5 O-O 7. e3 d6 8. a3
+Bxc3+ 9. bxc3 Nbd7 10. f3 Qa5 11. Ne2 Re8 12. e4 Qd8 13. c4 Ne5 14. Nc3 h6 15.
+Bh4 Ng6 16. Bf2 Nh5 17. g4 Qf6 18. Rc1 Nhf4 19. h4 Ne5 20. Bg3 Bd7 21. Kd2 a6
+22. Ke3 g5 23. hxg5 hxg5 24. Rc2 b5 25. Kf2 b4 26. axb4 cxb4 27. Nb1 Ba4 28.
+Nd2 b3 29. Rc3 Nxg4+ 30. fxg4 Qxc3 31. Bxf4 gxf4 32. Nf3 Rxe4 33. Bd3 Re3 34.
+Bh7+ Kf8 35. Nd4 b2 36. Bc2 Bxc2 37. Nxc2 Rd3 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "3"]
+[White "Moiseenko, Alexander"]
+[Black "Kveinys, Aloyzas"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2643"]
+[BlackElo "2521"]
+[PlyCount "59"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 Ne4 7. Qd3 Bxc3+ 8.
+bxc3 Nc5 9. Qf3 d6 10. Bg2 Nbd7 11. Qg4 O-O 12. Bh6 Qf6 13. Bg5 Qg6 14. Qh4 Nf6
+15. Bxf6 gxf6 16. Rd1 Bd7 17. O-O Ba4 18. Rb1 Rac8 19. Nb3 b6 20. Rfd1 e5 21.
+Rb2 Rfd8 22. Bd5 Bc6 23. Nxc5 Bxd5 24. cxd5 Rxc5 25. Rb4 h5 26. Qh3 Rxc3 27.
+Rh4 Rdc8 28. Rxh5 Kg7 29. Rh4 R8c4 30. Rxc4 1/2-1/2
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "3"]
+[White "Ruckschloss, Karol"]
+[Black "Butnorius, Algimantas"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2260"]
+[BlackElo "2441"]
+[PlyCount "73"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 Nf6 2. d4 e6 3. Nf3 b6 4. Bg5 Bb4+ 5. Nfd2 h6 6. Bh4 Bb7 7. f3 d5 8. Qa4+
+Nc6 9. e3 a6 10. a3 Be7 11. Nc3 O-O 12. cxd5 Nxd5 13. Bf2 e5 14. Nxd5 Qxd5 15.
+Qb3 Qxb3 16. Nxb3 exd4 17. e4 Rad8 18. O-O-O Rd7 19. f4 Nb8 20. Nxd4 Bxe4 21.
+Re1 Bb7 22. Nf5 Bf6 23. Bh4 Bxh4 24. Nxh4 Nc6 25. Bc4 Rfd8 26. Rhf1 Na5 27. Ba2
+Bd5 28. Bxd5 Rxd5 29. Rf2 c5 30. Nf3 c4 31. Kc2 Nb3 32. Rfe2 b5 33. Re8+ Rxe8
+34. Rxe8+ Kh7 35. Re7 f6 36. Re2 Rd3 37. Re4 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "3"]
+[White "Saravanan, Venkat"]
+[Black "David, Alberto"]
+[Result "0-1"]
+[ECO "E92"]
+[WhiteElo "2379"]
+[BlackElo "2557"]
+[PlyCount "82"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 g5 10. Bg3 Nh6 11. h3 Nc6 12. d5 Ne7 13. Nd2 Ng6 14. Bg4 f5 15. exf5
+Nxf5 16. Nde4 Nf4 17. O-O h6 18. c5 b6 19. cxd6 cxd6 20. Re1 Nd4 21. Bxc8 Rxc8
+22. Rc1 b5 23. Bxf4 exf4 24. Nd2 b4 25. Ne2 Rxc1 26. Qxc1 Qc8 27. Nxd4 Qxc1 28.
+Rxc1 Bxd4 29. Ne4 Bxb2 30. Rc7 Rf5 31. Rxa7 Rxd5 32. Kf1 Rd4 33. Nf6+ Kf8 34.
+Ke2 Rc4 35. Nd5 Rc2+ 36. Kf3 Bd4 37. Ra8+ Kf7 38. Ke4 Bc5 39. g3 Re2+ 40. Kd3
+f3 41. Rh8 Bxf2 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "3"]
+[White "Shneider, Aleksandr"]
+[Black "Paulet, Iosefina"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2532"]
+[BlackElo "2285"]
+[PlyCount "57"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Nc3 Bxc3 7. Bxc3 Ne4 8.
+Rc1 d6 9. Bg2 Nxc3 10. Rxc3 O-O 11. d5 Nb8 12. dxe6 fxe6 13. O-O a5 14. c5 dxc5
+15. Ne5 Nd7 16. Nxd7 Bxd7 17. Qc2 c6 18. Be4 h6 19. Rxc5 a4 20. a3 e5 21. Qc3
+Rae8 22. Bg6 Rd8 23. Rxe5 Qd6 24. Bd3 Bh3 25. Qc4+ Kh8 26. Qe4 Kg8 27. Rd1 Qb8
+28. Qh7+ Kf7 29. Qg6+ 1-0
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "3"]
+[White "Tunik, Gennady"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[WhiteElo "2473"]
+[BlackElo "2609"]
+[PlyCount "34"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Nf3 O-O 7. Bd3 Bg4 8. h3
+Bxf3 9. Qxf3 Nfd7 10. Qd1 Na6 11. O-O e6 12. Be2 Nf6 13. Rb1 Re8 14. dxe6 Rxe6
+15. Bf3 Nb4 16. e5 dxe5 17. Bxb7 Rb8 1/2-1/2
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Butnorius, Algimantas"]
+[Black "Rozentalis, Eduardas"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[WhiteElo "2441"]
+[BlackElo "2567"]
+[PlyCount "18"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 1/2-1/2
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Cossin, Sebastien"]
+[Black "Gharamian, Tigran"]
+[Result "1/2-1/2"]
+[ECO "E44"]
+[WhiteElo "2438"]
+[BlackElo "2558"]
+[PlyCount "81"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Bb7 6. a3 Bd6 7. Ng3 h5 8. Bd3
+h4 9. Nge4 Nxe4 10. Bxe4 Bxe4 11. Nxe4 Be7 12. Nc3 d5 13. cxd5 exd5 14. Qf3 c6
+15. e4 dxe4 16. Qxe4 O-O 17. O-O Bf6 18. Be3 a6 19. Rad1 Ra7 20. d5 c5 21. d6
+Rd7 22. Qd5 Re8 23. a4 Re6 24. Ne4 Bxb2 25. a5 Qe8 26. f3 Be5 27. axb6 Bxd6 28.
+Qc4 h3 29. g3 Be7 30. Rb1 Rb7 31. Bxc5 Bxc5+ 32. Qxc5 Nd7 33. Qf5 Rexb6 34.
+Rxb6 Rxb6 35. Qxh3 Nf6 36. Rc1 Rc6 37. Nxf6+ gxf6 38. Qg4+ Kf8 39. Qb4+ Kg7 40.
+Qg4+ Kf8 41. Qb4+ 1/2-1/2
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Foisor, Sabina Francesca"]
+[Black "Li Shilong"]
+[Result "0-1"]
+[ECO "E87"]
+[WhiteElo "2386"]
+[BlackElo "2502"]
+[PlyCount "110"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 e5 7. d5 Nh5 8. Qd2 f5
+9. O-O-O a6 10. Bd3 c5 11. Nge2 b5 12. cxb5 axb5 13. Bxb5 Na6 14. a3 Nc7 15.
+Bc4 Ba6 16. Qd3 Kh8 17. Kc2 Qd7 18. Rb1 fxe4 19. fxe4 Nf4 20. Nxf4 exf4 21. Bd2
+Bxc4 22. Qxc4 Qg4 23. Qe2 f3 24. gxf3 Rxf3 25. Rbe1 Qh3 26. Rhf1 Raf8 27. Rxf3
+Rxf3 28. a4 Rf8 29. Rg1 Be5 30. Rg2 Na6 31. Rf2 Nb4+ 32. Kd1 Rxf2 33. Qxf2 Kg7
+34. Qe3 Qf1+ 35. Qe1 Qd3 36. Qe3 Qxe3 37. Bxe3 Bxh2 38. Nb5 Na6 39. Ke2 Kf6 40.
+Kf3 h5 41. Bh6 Be5 42. b3 g5 43. Bf8 g4+ 44. Ke2 h4 45. Bxd6 h3 46. Kf2 g3+ 47.
+Kg1 Nb4 48. Bxe5+ Kxe5 49. Nc3 Nd3 50. Ne2 h2+ 51. Kg2 Nf4+ 52. Nxf4 Kxf4 53.
+d6 Ke3 54. d7 h1=Q+ 55. Kxh1 Kf2 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Gulko, Boris F"]
+[Black "Zubarev, Alexander2"]
+[Result "1-0"]
+[ECO "E51"]
+[WhiteElo "2550"]
+[BlackElo "2491"]
+[PlyCount "77"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 dxc4 7. Bxc4 Bd6 8. Nf3
+Nc6 9. b4 e5 10. d5 Ne7 11. Bb2 a6 12. h3 b5 13. Bb3 Bb7 14. O-O e4 15. Ng5 Be5
+16. Qc2 Nexd5 17. Ngxe4 Nxe4 18. Qxe4 Bxc3 19. Bxc3 Nxc3 20. Qxb7 Qd6 21. Qf3
+a5 22. Bxf7+ Kh8 23. e4 axb4 24. axb4 Rxa1 25. Rxa1 Qxb4 26. e5 Qe7 27. e6 Na4
+28. Qc6 Nb6 29. Qxb5 Nc8 30. Ra8 Nb6 31. Rxf8+ Qxf8 32. Be8 Qf6 33. Qc6 h6 34.
+Bf7 Qe7 35. Qb7 g5 36. Qb8+ Kg7 37. Qg8+ Kf6 38. Qh8+ Kf5 39. Qd4 1-0
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Moser, Eva"]
+[Black "Maiorov, Nikita"]
+[Result "1-0"]
+[ECO "E13"]
+[WhiteElo "2402"]
+[BlackElo "2525"]
+[PlyCount "63"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. Nd2 h6 7. Bh4 Bxc3 8.
+bxc3 g5 9. Bg3 d6 10. f3 Qe7 11. e4 Nc6 12. Nb3 Nh5 13. d5 Nb8 14. c5 Nxg3 15.
+Bb5+ Kf8 16. hxg3 exd5 17. cxd6 Qxd6 18. Qd4 f6 19. exd5 a6 20. Ba4 Qxg3+ 21.
+Kf1 Qf4 22. Re1 Kf7 23. Re4 Qf5 24. Qe3 Bxd5 25. Nd4 Bc4+ 26. Kf2 Qc5 27. Re1
+Rf8 28. Re7+ Kg8 29. Qe4 Bf7 30. Qxa8 Qxc3 31. Qe4 c5 32. Rxf7 1-0
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Papin, Vasily"]
+[Black "Dervishi, Erald"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2475"]
+[BlackElo "2543"]
+[PlyCount "83"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5 7. g3 Be7 8. Qa4+
+c6 9. Bg2 O-O 10. Bf4 Nbd7 11. Rd1 b5 12. Qc2 a5 13. Ne5 Nb6 14. O-O Qc8 15.
+Rc1 Qe6 16. Rfe1 b4 17. Na4 Nxa4 18. Qxa4 Rfc8 19. Nd3 Ba6 20. axb4 Bb5 21. Qb3
+Bc4 22. Qc3 axb4 23. Nxb4 Ne4 24. Bxe4 Qxe4 25. Nd3 g5 26. f3 Qe6 27. Bd2 Rab8
+28. Nc5 Qf5 29. e4 Qh3 30. exd5 Bxc5 31. dxc5 Bxd5 32. Qf6 Be6 33. Bc3 Kf8 34.
+Rcd1 Qf5 35. Qh8+ Ke7 36. Bf6+ Qxf6 37. Rd7+ Kxd7 38. Qxf6 Rb3 39. Qxg5 Rxb2
+40. Rxe6 Rb1+ 41. Kg2 Kxe6 42. Qe3+ 1-0
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Piot, Olivier"]
+[Black "Kosten, Anthony C"]
+[Result "0-1"]
+[ECO "E48"]
+[WhiteElo "2234"]
+[BlackElo "2511"]
+[PlyCount "76"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nge2 dxc4 7. Bxc4 e5 8. a3
+Bd6 9. Nb5 Nc6 10. dxe5 Nxe5 11. Nxd6 Qxd6 12. Qxd6 cxd6 13. Ba2 Nd3+ 14. Kf1
+Be6 15. Bxe6 fxe6 16. Nc3 Nd5 17. Ne4 Nxc1 18. Rxc1 Nxe3+ 19. Ke2 Nxg2 20. Nxd6
+Nf4+ 21. Ke3 Rad8 22. Nxb7 Rb8 23. Nc5 Rxb2 24. Nd7 Ng2+ 25. Ke4 Re2+ 26. Kd3
+Nf4+ 27. Kc4 Rc8+ 28. Kb5 Rb2+ 29. Ka6 Rd8 30. Ne5 Nd5 31. Kxa7 Rdb8 32. Rc6
+R2b7+ 33. Ka6 Rb3 34. Ka7 R8b7+ 35. Ka6 Nc7+ 36. Rxc7 Rxc7 37. a4 Rc8 38. Ka7
+Rc5 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Roussel, Cyril"]
+[Black "Aloma Vidal, Roberto"]
+[Result "0-1"]
+[ECO "E99"]
+[WhiteElo "2126"]
+[BlackElo "2393"]
+[PlyCount "90"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 f4 12. Nd3 g5 13. Bd2 Rf7 14. Be1 Bf8 15. Bf2
+h5 16. h3 Ng6 17. Kg2 Nf6 18. a3 Be7 19. b4 Bd7 20. c5 Qf8 21. Rc1 Qh6 22. Rh1
+Raf8 23. cxd6 cxd6 24. Qg1 Bd8 25. Nb2 Nh4+ 26. Kf1 Qg6 27. Nc4 Bc7 28. Ke1
+hxg4 29. hxg4 Rh7 30. Kd2 b5 31. Nb2 a6 32. Bb6 Bb8 33. a4 bxa4 34. Qf2 a3 35.
+Nc4 a2 36. Rhg1 Bb5 37. Bd3 Rb7 38. Nxb5 axb5 39. Nxe5 dxe5 40. Rc6 Qg7 41. Ra1
+Nd7 42. Bc5 Nxc5 43. bxc5 Ra7 44. Bxb5 Ra3 45. Bd3 Qa7 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Savchenko, Stanislav"]
+[Black "Kravtsiv, Martyn"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2558"]
+[BlackElo "2516"]
+[PlyCount "44"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+f3 d5 9. e3 Nbd7 10. cxd5 exd5 11. Bd3 Re8 12. Ne2 h6 13. Bh4 c5 14. O-O Qe7
+15. Bf2 Rac8 16. b4 cxd4 17. Qxd4 Ne5 18. Rac1 Nxd3 19. Qxd3 Nd7 20. Nf4 Ne5
+21. Qd4 Red8 22. Rxc8 Rxc8 1/2-1/2
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Soyez, Cyril"]
+[Black "Mamedov, Nidjat"]
+[Result "0-1"]
+[ECO "E62"]
+[WhiteElo "2247"]
+[BlackElo "2574"]
+[PlyCount "42"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. Nf3 d6 6. d4 Nc6 7. O-O Bg4 8. h3
+Bxf3 9. Bxf3 Nd7 10. Bxc6 bxc6 11. e4 c5 12. Be3 cxd4 13. Bxd4 Bxd4 14. Qxd4
+Ne5 15. Kg2 c5 16. Qd5 e6 17. Qb7 Rb8 18. Qxa7 Rxb2 19. Rab1 Rxb1 20. Rxb1 Qf6
+21. Rb3 Qf3+ 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Vera Gonzalez, Reynaldo"]
+[Black "Voekler, Bernd"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2495"]
+[BlackElo "2371"]
+[PlyCount "30"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. Be3
+Ng4 9. Bg5 f6 10. Bc1 Nh6 11. dxe5 dxe5 12. Qd5+ Nf7 13. Be3 Bg4 14. Rad1 Qc8
+15. h3 Be6 1/2-1/2
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.19"]
+[Round "5"]
+[White "Aloma Vidal, Roberto"]
+[Black "Monsieux, Sebastien"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2393"]
+[BlackElo "2106"]
+[PlyCount "89"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. h3 c6 7. Be3 a6 8. Bd3 b5
+9. O-O Nbd7 10. Rc1 e5 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Bc5 Re8 14. a4 Nh5 15.
+Ne2 Qg5 16. Ng3 Nf4 17. cxb5 h5 18. Be3 h4 19. Qf3 Rd8 20. Bc4 cxb5 21. Bd5 Rb8
+22. Ne2 Nxe2+ 23. Qxe2 Qe7 24. Bc5 Qg5 25. Qf3 Rd7 26. Bc6 bxa4 27. Bxd7 Bxd7
+28. Qc3 Rb3 29. Be3 Qh5 30. Qd2 Bb5 31. Rc8+ Kh7 32. Qd8 Rxe3 33. fxe3 Bxf1 34.
+Kxf1 f5 35. Rc7 fxe4 36. Rf7 g5 37. Qd7 Qg6 38. Ke2 a5 39. Kd2 Kh6 40. Re7 Kh7
+41. Kc3 Kh8 42. Rxg7 Qxg7 43. Qxg7+ Kxg7 44. Kc4 a3 45. bxa3 1-0
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.19"]
+[Round "5"]
+[White "Bardoux, Thierry"]
+[Black "Krivonosov, Oleg"]
+[Result "0-1"]
+[ECO "E14"]
+[WhiteElo "2179"]
+[BlackElo "2418"]
+[PlyCount "78"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Be7 5. O-O O-O 6. Nbd2 b6 7. b3 Bb7 8. Bb2
+c5 9. c4 cxd4 10. exd4 Nc6 11. Rc1 Rc8 12. Qe2 Re8 13. Bb1 Bf8 14. Rfd1 g6 15.
+Nf1 Bg7 16. Ne3 Ne7 17. Ne5 Nf5 18. N3g4 Nxg4 19. Qxg4 h5 20. Qe2 dxc4 21. bxc4
+Qg5 22. Be4 Bxe4 23. Qxe4 Red8 24. f4 Qe7 25. Qf3 Qb4 26. Qb3 Qa5 27. h3 h4 28.
+a4 Qa6 29. Qb5 Qb7 30. d5 Rc5 31. Qb3 exd5 32. cxd5 Rcxd5 33. Rxd5 Qxd5 34.
+Qxd5 Rxd5 35. Rc8+ Kh7 36. Rc7 Rd1+ 37. Kh2 Bh6 38. Rxf7+ Kg8 39. Ba3 Bxf4+ 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.19"]
+[Round "5"]
+[White "Danielian, Elina"]
+[Black "Hirneise, Tobias"]
+[Result "1-0"]
+[ECO "E61"]
+[WhiteElo "2480"]
+[BlackElo "2324"]
+[PlyCount "91"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. Bg5 d6 6. e3 c5 7. d5 h6 8. Bh4 g5
+9. Bg3 Nh5 10. Qc2 f5 11. Be2 Qe8 12. O-O-O Na6 13. a3 Nc7 14. Nd2 Nxg3 15.
+hxg3 Bd7 16. f4 b5 17. cxb5 Nxb5 18. Bxb5 Bxb5 19. fxg5 Rb8 20. gxh6 Bf6 21.
+Nf3 Bc4 22. Qxf5 Kh8 23. Ng5 Bxg5 24. Qxg5 Rg8 25. Qf4 Bb3 26. Rdf1 Qg6 27. e4
+Qxg3 28. Qxg3 Rxg3 29. Rf2 Bc4 30. Rh4 Ba6 31. Rhf4 Rg6 32. Rf8+ Rxf8 33. Rxf8+
+Kh7 34. Rf7+ Kxh6 35. Rxe7 Rxg2 36. e5 dxe5 37. d6 Rg1+ 38. Kd2 Rg2+ 39. Ke3
+Bc8 40. d7 Bxd7 41. Rxd7 Rxb2 42. Rxa7 c4 43. a4 Rb3 44. Kd2 Rb2+ 45. Kc1 Rf2
+46. Rc7 1-0
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.19"]
+[Round "5"]
+[White "Foisor, Ovidiu Doru"]
+[Black "Freidzon, Dani"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "2401"]
+[BlackElo "2110"]
+[PlyCount "73"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 Nbd7 8. Qd2 a6
+9. a4 Qa5 10. Ra3 Re8 11. Nh3 Nh5 12. Nf2 Ne5 13. Be2 Qb4 14. g4 Nf6 15. Qc2
+Qa5 16. Bd2 Qc7 17. g5 Nh5 18. f4 Nd7 19. Qd1 Bxc3 20. Rxc3 Ng7 21. Ng4 b5 22.
+Nh6+ Kf8 23. O-O e6 24. b3 exd5 25. exd5 Nf5 26. Nxf5 gxf5 27. Rh3 Kg8 28. Bd3
+Nf8 29. Bc3 f6 30. gxf6 Qf7 31. Rg3+ Ng6 32. h4 bxc4 33. bxc4 Kh8 34. h5 Rg8
+35. hxg6 Rxg6 36. Rxg6 Qxg6+ 37. Kf2 1-0
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.19"]
+[Round "5"]
+[White "Ghane Gardeh, Shojaat"]
+[Black "Kotronias, Vasilios"]
+[Result "0-1"]
+[ECO "E99"]
+[WhiteElo "2442"]
+[BlackElo "2628"]
+[PlyCount "68"]
+[EventDate "2008.02.16"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. Be3 f4 12. Bf2 g5 13. a4 a5 14. Nd3 b6 15. b4 axb4
+16. Nxb4 Nf6 17. Nd3 h5 18. Nb5 Bd7 19. Be1 Qb8 20. Kh1 g4 21. a5 bxa5 22. Bxa5
+Qb7 23. Bxc7 Rxa1 24. Qxa1 gxf3 25. gxf3 Bxb5 26. Bxd6 Bxc4 27. Qxe5 Rf7 28.
+Qe6 Ng6 29. Rc1 Bxd3 30. Bxd3 Qb3 31. Be2 Nh4 32. Bxf4 Qb2 33. Rc7 Nd7 34. Qc6
+Rxf4 0-1
+
+[Event "Cappelle op 24th"]
+[Site "Cappelle la Grande"]
+[Date "2008.02.19"]
+[Round "5"]
+[White "Gharamian, Tigran"]
+[Black "Bogner, Sebastian"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2558"]
+[BlackElo "2401"]
+[PlyCount "63"]
+[EventDate "2008.02.16"]

@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. h3 Nf6 6. Nc3 O-O 7. a3 a6 8. O-O h6
+9. Re1 Rb8 10. b4 b5 11. Ba2 exd4 12. Nxd4 Nxd4 13. Qxd4 Nd7 14. Nd5 c5 15.
+Nxe7+ Qxe7 16. Qd3 c4 17. Qg3 Qe6 18. Bb2 Qg6 19. Qxg6 fxg6 20. Rad1 Rb6 21. f3
+g5 22. Rd2 Re8 23. Bd4 Rc6 24. c3 Nf8 25. Bb1 g6 26. Kf2 Kf7 27. Be3 Ne6 28.
+Red1 Ke7 1/2-1/2
+
+[Event "Udine op"]
+[Site "Udine"]
+[Date "2008.07.08"]
+[Round "4"]
+[White "Gabassi, Francesco"]
+[Black "Pagnutti, Lorenzo"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Annotator "Gabassi,F"]
+[PlyCount "121"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Qxd4 Bg4 8.
+e5 Qxd4 9. Nxd4 O-O-O 10. Nb3 Bf5 11. c3 Ne7 12. Bg5 h6 13. Bxe7 Bxe7 14. N1d2
+g5 15. Nf3 g4 16. Nfd4 Bg6 17. Rfe1 c5 18. Ne2 c4 19. Na5 Bd3 20. Nf4 Bg5 21.
+Nxd3 cxd3 22. Rad1 Rhe8 23. Kf1 Rd5 24. Nc4 h5 25. Ne3 Rd7 26. Nf5 Bf4 27. Ng7
+Rxe5 28. Rxe5 Bxe5 29. Nxh5 c5 30. Ng3 Bxg3 31. hxg3 c4 32. f3 f5 33. Kf2 Kc7
+34. Ke3 Re7+ 35. Kd4 b5 36. b3 Kc6 37. bxc4 Rd7+ 38. Ke5 bxc4 39. Kxf5 gxf3 40.
+gxf3 Rf7+ 41. Ke4 Kc5 42. f4 Re7+ 43. Kf5 Kd5 44. Kf6 Re6+ 45. Kf5 Re8 46. g4
+Rf8+ 47. Kg5 Ke4 48. f5 Kf3 49. f6 Ke2 50. Rh1 d2 51. Kf5 Rh8 52. Rb1 Rb8 53.
+Ra1 Kd3 54. f7 Kxc3 55. g5 Kb2 56. Rd1 Kc2 57. g6 Kxd1 58. g7 Ke1 59. g8=Q Rxg8
+60. fxg8=Q d1=Q 61. Qxc4 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.07"]
+[Round "2"]
+[White "Kurnosov, Igor"]
+[Black "Ponkratov, Pavel"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2617"]
+[BlackElo "2530"]
+[PlyCount "43"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O Re8 7. b4 Bb6 8. a4
+a6 9. Qb3 Qe7 10. Be3 Bxe3 11. fxe3 d6 12. Nh4 Be6 13. Nf5 Qd7 14. Nd2 Rad8 15.
+d4 exd4 16. exd4 Bxc4 17. Qxc4 Nxe4 18. Nxe4 Rxe4 19. b5 axb5 20. axb5 Ne7 21.
+Nh6+ gxh6 22. Qxf7+ 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.07"]
+[Round "2"]
+[White "Meister, Yakov"]
+[Black "Timoscenko, Gennadij"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2487"]
+[BlackElo "2467"]
+[PlyCount "64"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a6 7. Nc3 Nf6 8.
+Be2 d6 9. O-O Be6 10. Kh1 d5 11. a5 Ba7 12. exd5 Nxd5 13. Ne4 Qe7 14. Bg5 f6
+15. Bh4 g6 16. c4 O-O-O 17. cxd5 Rxd5 18. Bxf6 Rxd1 19. Bxd1 Qf8 20. Bxh8 Qxh8
+21. Nbc5 Bf5 22. f3 Bxe4 23. Nxe4 Qxb2 24. Ba4 Nxa5 25. Rfd1 Bb6 26. Bd7+ Kb8
+27. Be6 Nc6 28. Bd5 Nd4 29. Rab1 Qa3 30. Bxb7 Kxb7 31. Rxd4 Ka7 32. Rd7 h5
+1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.08"]
+[Round "3"]
+[White "Dvoirys, Semen I"]
+[Black "Yatsenko, Alexey"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2553"]
+[BlackElo "2483"]
+[PlyCount "72"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. Na3 cxd4 8. cxd4
+Nf5 9. Nc2 Qb6 10. O-O Na5 11. Re1 Bb5 12. Bxb5+ Qxb5 13. Ne3 Nxe3 14. Rxe3 Be7
+15. Ne1 Rc8 16. Rh3 Nc6 17. Nc2 Nb4 18. Nxb4 Qxb4 19. a3 Qb6 20. Rb3 Qa6 21.
+Rg3 g6 22. Bh6 Rc4 23. b3 Rc7 24. Bg7 Rg8 25. Bh6 Qb6 26. h3 g5 27. h4 Rg6 28.
+Bxg5 Bxg5 29. hxg5 Qc6 30. Qh5 Qc2 31. Qxh7 Qd2 32. Qh8+ Ke7 33. Qb8 Rc1+ 34.
+Rxc1 Qxc1+ 35. Kh2 Rh6+ 36. gxh6 Qxh6+ 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.09"]
+[Round "4"]
+[White "Matsenko, Sergei"]
+[Black "Timoscenko, Gennadij"]
+[Result "1-0"]
+[ECO "C99"]
+[WhiteElo "2440"]
+[BlackElo "2467"]
+[PlyCount "121"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Rd8 14. d5 Bd7 15.
+Nf1 Rdc8 16. Re2 Nb7 17. Be3 Nc5 18. Ng3 Qb7 19. Rc1 Na4 20. Bxa4 bxa4 21.
+Rxc8+ Rxc8 22. Rc2 g6 23. Qc1 Rxc2 24. Qxc2 Qc8 25. Qxc8+ Bxc8 26. Nd2 Bd7 27.
+Ne2 Bb5 28. Nc3 Bd8 29. Bg5 Kg7 30. Nxb5 axb5 31. Nb1 Bb6 32. Bxf6+ Kxf6 33.
+Na3 b4 34. Nc4 Bc5 35. g3 Kg5 36. Kg2 f5 37. h4+ Kf6 38. f3 fxe4 39. fxe4 b3
+40. axb3 axb3 41. Kf3 h5 42. Nd2 Bd4 43. Nxb3 Bxb2 44. Na5 Bc3 45. Nc4 Ke7 46.
+g4 Bd4 47. gxh5 gxh5 48. Nd2 Bc3 49. Nf1 Be1 50. Ne3 Kf6 51. Nf5 Bb4 52. Ke2
+Bc5 53. Kd3 Kf7 54. Kc4 Ke8 55. Kc3 Kd7 56. Kd3 Ke8 57. Ke2 Kf7 58. Ng3 Kg6 59.
+Kd3 Kf7 60. Kc4 Ke8 61. Nxh5 1-0
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.09"]
+[Round "4"]
+[White "Sherbakov, Ruslan"]
+[Black "Ponkratov, Pavel"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2509"]
+[BlackElo "2530"]
+[PlyCount "26"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Na4 a5 12. c3 Be7 13. Re1 Be6 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.10"]
+[Round "5"]
+[White "Dvoirys, Semen I"]
+[Black "Looshnikov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2553"]
+[BlackElo "2462"]
+[PlyCount "18"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Qxe2+ 8.
+Bxe2 Be7 9. Nc3 c6 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.10"]
+[Round "5"]
+[White "Lahno, Kateryna"]
+[Black "Sherbakov, Ruslan"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2507"]
+[BlackElo "2509"]
+[PlyCount "21"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Qxe2+ 8.
+Bxe2 Be7 9. Nc3 c6 10. O-O-O Na6 11. Rhe1 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.11"]
+[Round "6"]
+[White "Kotsur, Pavel"]
+[Black "Timoscenko, Gennadij"]
+[Result "1-0"]
+[ECO "C99"]
+[WhiteElo "2566"]
+[BlackElo "2467"]
+[PlyCount "97"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Rd8 14. b3 Nc6 15.
+Bb2 Qb6 16. a3 exd4 17. b4 Nd7 18. Nb3 Bf6 19. Nfxd4 Bb7 20. Nxc6 Bxc6 21. Bd4
+Bxd4 22. Nxd4 Bb7 23. Nf5 Ne5 24. Qd2 g6 25. Qg5 Rd7 26. Rad1 Qd8 27. Qg3 Qf6
+28. f4 Nc4 29. e5 Qd8 30. Nh6+ Kf8 31. e6 fxe6 32. Rxe6 Re7 33. Rf6+ Ke8 34.
+Bxg6+ Kd7 35. Bf5+ Kc7 36. Be6 Qh8 37. Qg5 Rf8 38. Rf7 Rexf7 39. Nxf7 Qg8 40.
+Qe7+ Kb8 41. Ng5 Qh8 42. Bxc4 bxc4 43. Qxd6+ Ka8 44. b5 axb5 45. Ne6 Rg8 46.
+Nc7+ Kb8 47. Ne8+ Ka8 48. Qd8+ Ka7 49. Qa5+ 1-0
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.11"]
+[Round "6"]
+[White "Kurnosov, Igor"]
+[Black "Riazantsev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[WhiteElo "2617"]
+[BlackElo "2617"]
+[PlyCount "31"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 O-O 8.
+c3 Nd7 9. Bd3 e5 10. Nxf6+ Qxf6 11. O-O exd4 12. Nxd4 Ne5 13. Be4 h6 14. Qe2
+Rb8 15. f4 Nc6 16. Rad1 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.11"]
+[Round "6"]
+[White "Looshnikov, Nikolai"]
+[Black "Yatsenko, Alexey"]
+[Result "1-0"]
+[ECO "C13"]
+[WhiteElo "2462"]
+[BlackElo "2483"]
+[PlyCount "149"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 O-O 8.
+Qd2 Nd7 9. O-O-O b6 10. Bb5 Bb7 11. Qf4 a6 12. Bd3 Be7 13. h4 Nf6 14. Kb1 Nd5
+15. Qd2 Nb4 16. Neg5 Nxd3 17. Qxd3 g6 18. Qe3 h6 19. Nh3 Kg7 20. Nf4 Bd6 21.
+Ne5 Qf6 22. Nfd3 Qf5 23. f3 Rad8 24. g4 Qf6 25. g5 hxg5 26. hxg5 Qf5 27. Rh4 c5
+28. Rf4 cxd4 29. Qc1 Qh3 30. Rh1 Qg2 31. Rfh4 Rh8 32. Qe1 Bc7 33. Rxh8 Rxh8 34.
+Rxh8 Kxh8 35. Nxf7+ Kg7 36. Qxe6 Qf1+ 37. Nc1 Qxf3 38. Ne5 Bxe5 39. Qxe5+ Kh7
+40. Qc7+ Kg8 41. Qxb6 Be4 42. Qxa6 Qg2 43. Qc4+ Kh7 44. Qc7+ Kg8 45. Qc5 Bf5
+46. b4 Qxg5 47. Qxd4 Qg2 48. Qc4+ Kg7 49. Ne2 g5 50. Kb2 Be4 51. a4 g4 52. b5
+Bf3 53. Qd4+ Kf7 54. Qd7+ Kf6 55. Qd6+ Kf7 56. Nf4 Qh2 57. Qe6+ Kg7 58. Qg6+
+Kf8 59. Qf6+ Ke8 60. Ng6 Qe2 61. Ne5 Qd1 62. Qf7+ Kd8 63. Qf8+ Kc7 64. Qc5+ Kb7
+65. a5 Qd5 66. Qxd5+ Bxd5 67. Nxg4 Bc4 68. b6 Ka6 69. Ne3 Bb5 70. Ka3 Bc6 71.
+Kb4 Be4 72. c3 Bf3 73. Nf5 Be4 74. Nd4 Bd3 75. Ne6 1-0
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.12"]
+[Round "7"]
+[White "Meister, Yakov"]
+[Black "Looshnikov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "C30"]
+[WhiteElo "2487"]
+[BlackElo "2462"]
+[PlyCount "130"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. f4 Nf6 3. Nf3 Nxe4 4. d3 Nc5 5. fxe5 d5 6. d4 Ne6 7. c4 Bb4+ 8. Bd2
+Bxd2+ 9. Qxd2 c6 10. Nc3 O-O 11. Bd3 dxc4 12. Bxc4 b6 13. O-O Ba6 14. b3 Bxc4
+15. bxc4 Nd7 16. Kh1 Nc7 17. Rae1 Rb8 18. d5 Nc5 19. Nd4 cxd5 20. Nc6 Qe8 21.
+Nxb8 dxc4 22. Qd4 Qxb8 23. Qxc4 N7e6 24. Nd5 Qb7 25. Rd1 h6 26. Ne3 Qb8 27. Rd5
+Nc7 28. Rdd1 N7e6 29. Qd5 Rd8 30. Qf3 Rf8 31. Nc4 Ng5 32. Qg4 Qe8 33. h4 Nge4
+34. Qf4 Qe6 35. Rd4 f5 36. Kg1 Qg6 37. Qf3 Ne6 38. Rdd1 Kh7 39. Rfe1 N6c5 40.
+Kh2 Qe6 41. Nd6 Qxe5+ 42. Kg1 Rf6 43. Nxe4 fxe4 44. Qe3 Rg6 45. Rf1 Rg4 46. Qf2
+Nd3 47. Qf5+ Qxf5 48. Rxf5 Nf4 49. Kf2 Kg6 50. Rb5 Nd3+ 51. Ke3 Nc5 52. a4 Rxg2
+53. a5 Rg3+ 54. Kd4 Kh5 55. axb6 axb6 56. Rxb6 Nd3 57. Rf1 Kxh4 58. Kxe4 Nc5+
+59. Kf4 Rg4+ 60. Kf3 Rg3+ 61. Kf4 Nd3+ 62. Ke4 Kh3 63. Rf3 Rxf3 64. Kxf3 Kh4
+65. Ke4 Nf2+ 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.12"]
+[Round "7"]
+[White "Sveshnikov, Evgeny"]
+[Black "Ponkratov, Pavel"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2510"]
+[BlackElo "2530"]
+[PlyCount "82"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 b6 8.
+O-O Bb7 9. Nb3 Ne5 10. Nxc5 bxc5 11. Nd2 Nxc4 12. Nxc4 Ba6 13. b3 d6 14. e5
+dxe5 15. Bxc5 Qe6 16. Bxe7 Bxc4 17. bxc4 Qxe7 18. Qa4+ Qd7 19. Qb4 a5 20. Qb5
+Qxb5 21. cxb5 O-O-O 22. Rfe1 Rhe8 23. Kf1 Kb7 24. Re4 f5 25. Rh4 h6 26. Rc4 Rd2
+27. a4 e4 28. Re1 Red8 29. Re2 Rd1+ 30. Re1 R1d3 31. Re3 Rxe3 32. fxe3 Rd1+ 33.
+Ke2 Ra1 34. h4 g5 35. hxg5 hxg5 36. g4 Ra2+ 37. Kf1 fxg4 38. Rxe4 g3 39. Rc4
+Rf2+ 40. Kg1 Re2 41. e4 g2 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.13"]
+[Round "8"]
+[White "Matsenko, Sergei"]
+[Black "Meister, Yakov"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[WhiteElo "2440"]
+[BlackElo "2487"]
+[PlyCount "131"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 d5 11. exd5 e4 12. Bxe4 Nxe4 13. Rxe4 Bb7 14. d4 Re8 15.
+Re1 Qxd5 16. Be3 Nc4 17. b3 Nxe3 18. Rxe3 c5 19. Qe2 Qd7 20. Nbd2 cxd4 21. cxd4
+Bf8 22. Re1 Red8 23. Ne4 Qd5 24. Nc5 Bc6 25. Re5 Qd6 26. Ne4 Qb4 27. Neg5 g6
+28. Re3 Bd5 29. Ne4 Bg7 30. Rd1 Qf8 31. Nc5 Rd6 32. Ne5 Bh6 33. Red3 Qe7 34.
+Qf1 Rad8 35. Re1 Qa7 36. Ne4 Rb6 37. Nc3 Ba8 38. a4 bxa4 39. Nxa4 Rbd6 40. Nc5
+Bg7 41. b4 Qb8 42. Rb3 Qb5 43. Nf3 Bxf3 44. Qxb5 axb5 45. Rxf3 Rxd4 46. Re7
+Rxb4 47. Rexf7 Rb1+ 48. Kh2 Re1 49. Rb7 Re5 50. Rff7 Bf8 51. Nd7 Kxf7 52. Nxe5+
+Ke6 53. Rxb5 Bd6 54. f4 Rf8 55. Kg3 g5 56. Nd3 gxf4+ 57. Kf2 Rf7 58. Ra5 Rc7
+59. Rh5 Ra7 60. Kf3 Ra3 61. Ke2 Ra2+ 62. Kf1 Ra1+ 63. Kf2 Ra2+ 64. Kf3 Ra3 65.
+Ke2 Ra2+ 66. Kf3 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.13"]
+[Round "8"]
+[White "Ponkratov, Pavel"]
+[Black "Timoscenko, Gennadij"]
+[Result "0-1"]
+[ECO "C29"]
+[WhiteElo "2530"]
+[BlackElo "2467"]
+[PlyCount "116"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Qe2 Nxc3 7. dxc3 c5 8.
+Bf4 Nc6 9. Qf2 Be6 10. Qg3 Qb6 11. O-O-O O-O-O 12. Ng5 Bxg5 13. Bxg5 Rd7 14.
+Bf4 g6 15. Be2 d4 16. a3 dxc3 17. Qxc3 Nd4 18. Bd3 Kb8 19. Rhe1 Rhd8 20. Bg5
+Rc8 21. h3 Nb5 22. Bxb5 Qxb5 23. Rd6 Rdc7 24. b3 Rc6 25. Bf4 a5 26. Bg3 a4 27.
+bxa4 Qxa4 28. Kd2 Ra6 29. Re3 Qb5 30. Ke1 Ra4 31. Re2 h5 32. Kf2 h4 33. Bh2 g5
+34. Red2 g4 35. hxg4 Rxg4 36. Rd8 Qc6 37. Qf3 Rxd8 38. Rxd8+ Kc7 39. Rd3 Qxf3+
+40. Rxf3 Rc4 41. c3 Kc6 42. Ke1 Ra4 43. Bg1 Rxa3 44. Bf2 Ra4 45. Kd2 Rg4 46.
+Kc1 Kb5 47. Be1 Kc4 48. Rh3 Re4 49. Rxh4 Rxh4 50. Bxh4 Kxc3 51. Be1+ Kb3 52. g4
+Bxg4 53. Kd2 b5 54. Kc1 b4 55. Kb1 c4 56. Bf2 c3 57. Be3 Bf5+ 58. Ka1 Kc2 0-1
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.14"]
+[Round "9"]
+[White "Meister, Yakov"]
+[Black "Kurnosov, Igor"]
+[Result "0-1"]
+[ECO "C49"]
+[WhiteElo "2487"]
+[BlackElo "2617"]
+[PlyCount "30"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. Nd5 Nxd5 6. exd5 e4 7. dxc6 dxc6
+8. Bc4 exf3 9. Qxf3 O-O 10. O-O Qh4 11. Be2 Re8 12. d3 Bd6 13. g3 Qa4 14. c3
+Bh3 15. Re1 Bg4 0-1
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.15"]
+[Round "10"]
+[White "Kotsur, Pavel"]
+[Black "Meister, Yakov"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[WhiteElo "2566"]
+[BlackElo "2487"]
+[PlyCount "31"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 d5 12. dxc5 Nxe4 13. Nxe5 Bxc5 14. Nd3 Bb6 15.
+Be3 Nc4 16. Bxb6 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.15"]
+[Round "10"]
+[White "Kurnosov, Igor"]
+[Black "Looshnikov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2617"]
+[BlackElo "2462"]
+[PlyCount "49"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. a3 Qb6 10. Ne2 c4 11. g4 h5 12. gxh5 Rxh5 13. Ng3 Rh8 14. f5 exf5 15. Nxf5
+Nf6 16. Ng3 Ng4 17. Bf4 Be6 18. Bg2 O-O-O 19. c3 Ne7 20. h3 Nh6 21. Ng5 Bd7 22.
+O-O f6 23. exf6 gxf6 24. Nf3 Ng6 25. Nh2 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.15"]
+[Round "10"]
+[White "Sveshnikov, Evgeny"]
+[Black "Timoscenko, Gennadij"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2510"]
+[BlackElo "2467"]
+[PlyCount "23"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 d5 5. exd5 Nxd5 6. Bg2 Nxc3 7. bxc3 Bd6 8.
+O-O O-O 9. Rb1 Rb8 10. d4 Bf5 11. Nh4 Bd7 12. Qd3 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.16"]
+[Round "11"]
+[White "Dvoirys, Semen I"]
+[Black "Lahno, Kateryna"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2553"]
+[BlackElo "2507"]
+[PlyCount "61"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. axb5
+axb5 9. Nxe5 Nxe5 10. d4 Bxd4 11. Qxd4 d6 12. f4 Nc6 13. Qd3 O-O 14. Nc3 Re8
+15. e5 dxe5 16. Qxd8 Nxd8 17. fxe5 Ng4 18. Nd5 c5 19. Nc7 Rf8 20. Bd5 Ne6 21.
+Bxe6 Bxe6 22. h3 Bc4 23. Re1 Rb7 24. b3 Rxc7 25. bxc4 Nh6 26. cxb5 c4 27. b6
+Rb7 28. Be3 Nf5 29. Ra7 Rbb8 30. Bc5 Rfe8 31. b7 1-0
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.16"]
+[Round "11"]
+[White "Matsenko, Sergei"]
+[Black "Kurnosov, Igor"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2440"]
+[BlackElo "2617"]
+[PlyCount "84"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d5 10. exd5 Nxd5 11. Nxe5 Nd4 12. Nc3 Nb4 13. Ne4 Nxb3 14. axb3 f5
+15. Nd2 Bf6 16. Ndf3 Re8 17. c3 Bxe5 18. Rxe5 Qxd3 19. Be3 Rxe5 20. Nxe5 Qe4
+21. Qf3 Nc2 22. Qxe4 Bxe4 23. Rd1 Nxe3 24. fxe3 Re8 25. Nd7 Bc2 26. Rd2 Bxb3
+27. Nc5 Bc4 28. Nxa6 Rxe3 29. Nxc7 Rd3 30. Rxd3 Bxd3 31. Ne6 Kf7 32. Nc5 Bc4
+33. Kf2 Kf6 34. Ke3 g5 35. g3 Ke5 36. Nd3+ Kd5 37. Ne1 h6 38. Nf3 Ke6 39. h4
+Kf6 40. hxg5+ hxg5 41. Nd4 Ke5 42. Nf3+ Kf6 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.16"]
+[Round "11"]
+[White "Yatsenko, Alexey"]
+[Black "Ponkratov, Pavel"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2483"]
+[BlackElo "2530"]
+[PlyCount "59"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3
+d6 9. d4 Bb6 10. a5 Nxa5 11. Rxa5 Bxa5 12. dxe5 Ng4 13. Bg5 f6 14. exf6 gxf6
+15. Bh4 c5 16. h3 h5 17. hxg4 hxg4 18. e5 gxf3 19. Bxf6 fxg2 20. Re1 Qd7 21.
+exd6+ Kf8 22. Be7+ Kg7 23. Qf3 Rh1+ 24. Kxg2 Qh3+ 25. Qxh3 Rxh3 26. Re5 c4 27.
+Rg5+ Kf7 28. Bd1 Rd3 29. Bh5+ Ke6 30. Bg4+ 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Satka"]
+[Date "2008.07.06"]
+[Round "13"]
+[White "Dvoirys, Semen I"]
+[Black "Timoscenko, Gennadij"]
+[Result "0-1"]
+[ECO "C90"]
+[WhiteElo "2553"]
+[BlackElo "2467"]
+[PlyCount "94"]
+[EventDate "2008.07.06"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4
+b4 9. c3 O-O 10. d4 bxc3 11. bxc3 Bg4 12. Qd3 Bxf3 13. gxf3 Na5 14. Bc2 Nh5 15.

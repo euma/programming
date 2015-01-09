@@ -1,0 +1,600 @@
+[Round "5"]
+[White "Stekkelpach, Peter"]
+[Black "Sipos, Tibor"]
+[Result "0-1"]
+[ECO "A33"]
+[WhiteElo "1775"]
+[BlackElo "2093"]
+[PlyCount "98"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 e6 4. e3 Nf6 5. d4 cxd4 6. Nxd4 Be7 7. a3 O-O 8. b4
+d5 9. c5 e5 10. Nb3 Re8 11. Be2 Bf8 12. O-O Be6 13. Rb1 d4 14. exd4 exd4 15.
+Na2 Qc7 16. Bb5 Red8 17. Bxc6 Ng4 18. f4 Qxc6 19. Rb2 g6 20. h3 Ne3 21. Bxe3
+dxe3 22. Qf3 Qxf3 23. Rxf3 Rd1+ 24. Kh2 Bg7 25. Re2 Bxb3 26. Rfxe3 Bxa2 27.
+Rxa2 Rad8 28. Re7 R1d7 29. Rxd7 Rxd7 30. a4 Rd4 31. b5 Rc4 32. c6 bxc6 33. bxc6
+Rxc6 34. Kg3 Bf8 35. Kf3 Rc3+ 36. Ke4 Ra3 37. Rxa3 Bxa3 38. Kd5 Bc1 39. Ke4 Kg7
+40. g4 Kf6 41. h4 h5 42. gxh5 gxh5 43. a5 a6 44. Kd5 Bd2 45. Kc6 Bxa5 46. Kd5
+Be1 47. Ke4 Bxh4 48. Kf3 Kf5 49. Ke3 a5 0-1
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.25"]
+[Round "5"]
+[White "Suto, Gabor"]
+[Black "Csonka, Balazs"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2240"]
+[BlackElo "1955"]
+[PlyCount "49"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 c5 5. c4 Nc6 6. cxd5 Nxd5 7. O-O Be7 8. Nc3
+Bf6 9. Nxd5 exd5 10. dxc5 Be6 11. Bf4 Qa5 12. Bd6 Be7 13. Nd4 Bxd6 14. Nxe6
+fxe6 15. cxd6 O-O-O 16. a3 Rxd6 17. b4 Qd8 18. b5 Ne7 19. Qd4 Kb8 20. Qxg7 Ka8
+21. a4 h5 22. a5 h4 23. a6 b6 24. e4 Qe8 25. exd5 1-0
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.25"]
+[Round "5"]
+[White "Szilagyi, Zsolt"]
+[Black "Solymosi, Istvan"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2310"]
+[BlackElo "2195"]
+[PlyCount "63"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c5 2. Nf3 e6 3. Nc3 a6 4. e4 d6 5. d4 cxd4 6. Nxd4 Qc7 7. Be2 b6 8. O-O
+Bb7 9. Be3 Nf6 10. f3 Nbd7 11. Rc1 Rc8 12. Qe1 Be7 13. Qg3 O-O 14. Nd5 Qd8 15.
+Nxe7+ Qxe7 16. b3 Rfd8 17. Bd2 Ne5 18. Bb4 Qc7 19. Ba3 Ng6 20. Qf2 Nf4 21. Rfd1
+Nxe2+ 22. Nxe2 Rd7 23. Bb2 Ne8 24. Bd4 b5 25. cxb5 Qa5 26. Rxc8 Bxc8 27. Rc1
+Bb7 28. bxa6 Bxa6 29. Nc3 e5 30. Bb6 Qa3 31. Qd2 Nf6 32. Nb1 1-0
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.25"]
+[Round "5"]
+[White "Toth, Daniel"]
+[Black "Torok, Sandor"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[WhiteElo "2103"]
+[BlackElo "2320"]
+[PlyCount "93"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 c5 2. c4 Nc6 3. g3 e5 4. Nc3 d6 5. Bg2 g6 6. O-O Bg7 7. Ne1 h5 8. h4
+Nge7 9. Nc2 Bg4 10. Ne3 Qd7 11. d3 Bh3 12. Ned5 Bxg2 13. Kxg2 f6 14. a3 O-O 15.
+Rb1 f5 16. Bg5 Nxd5 17. Nxd5 Rae8 18. Qd2 f4 19. f3 fxg3 20. e3 Rf7 21. Qe1
+Ref8 22. Qxg3 Kh7 23. b4 cxb4 24. axb4 e4 25. fxe4 Ne5 26. Rxf7 Rxf7 27. Nf4
+Qa4 28. Rf1 Qxb4 29. Qe1 Qb2+ 30. Rf2 Qb3 31. Qd2 b5 32. cxb5 Qxb5 33. Qa2 Rb7
+34. Qe6 Qb1 35. Qa2 Qd1 36. Qe2 Qa4 37. Ne6 Ng4 38. Qc2 Qa3 39. Bf4 Rb2 40.
+Ng5+ Kg8 41. Qc4+ d5 42. Qxd5+ Kh8 43. Nf7+ Kh7 44. Ng5+ Kh8 45. Nf7+ Kh7 46.
+Ng5+ Kh8 47. Nf7+ 1/2-1/2
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.25"]
+[Round "5"]
+[White "Vanyo, Jozsef"]
+[Black "Koszegi, Lajos"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "1909"]
+[BlackElo "2069"]
+[PlyCount "25"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 g6 2. g3 Bg7 3. Nc3 c5 4. Bg2 Nc6 5. e3 d6 6. Nh3 Bg4 7. f3 Bf5 8. Nf2
+Nf6 9. O-O O-O 10. Nfe4 Nxe4 11. Nxe4 Qd7 12. Nf2 Be6 13. d3 1/2-1/2
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.26"]
+[Round "6"]
+[White "Banyai, Miklos Sr"]
+[Black "Bakos, Levente"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "1911"]
+[BlackElo "2045"]
+[PlyCount "68"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O e6 7. Bg5 Qb6 8. Nbd2
+h6 9. Bf4 e5 10. Be3 Nge7 11. Nc4 Qc7 12. c3 Be6 13. Na3 Bg4 14. h3 Bxf3 15.
+Bxf3 O-O 16. Bg2 Rab8 17. Rb1 Rbd8 18. Qd2 Kh7 19. f4 exf4 20. Bxf4 g5 21. Be3
+Be5 22. Rf3 d5 23. exd5 Rxd5 24. Rbf1 f5 25. Rxf5 Rxf5 26. Rxf5 Nxf5 27. Bxd5
+Bxc3 28. bxc3 Qxg3+ 29. Bg2 Nxe3 30. Nc2 Nxg2 31. Qxg2 Qxd3 32. Nb4 cxb4 33.
+cxb4 Qd4+ 34. Kf1 Qa1+ 0-1
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.26"]
+[Round "6"]
+[White "Habibi, Ali"]
+[Black "Ress, Tamas"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2277"]
+[BlackElo "2144"]
+[PlyCount "69"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. g3 d5 2. Bg2 c6 3. d3 Nf6 4. Nf3 g6 5. O-O Bg7 6. Nbd2 O-O 7. e4 dxe4 8.
+dxe4 Bg4 9. h3 Bxf3 10. Qxf3 Nbd7 11. Nc4 b5 12. Ne3 Ne5 13. Qe2 Qb6 14. Kh2 e6
+15. f4 Ned7 16. e5 Nd5 17. c4 bxc4 18. Nxc4 Qa6 19. Re1 N7b6 20. b3 Nxc4 21.
+bxc4 Ne7 22. Be3 Rfd8 23. Bc5 Nf5 24. Red1 Bf8 25. Bf2 h5 26. g4 hxg4 27. hxg4
+Ng7 28. Bh4 Rxd1 29. Rxd1 Bc5 30. Rd7 Ne8 31. f5 Qb6 32. fxe6 Bg1+ 33. Kh1 Qb1
+34. exf7+ Kf8 35. Rd1 1-0
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.26"]
+[Round "6"]
+[White "Solymosi, Istvan"]
+[Black "Sallai, Janos"]
+[Result "1-0"]
+[ECO "A68"]
+[WhiteElo "2195"]
+[BlackElo "2071"]
+[PlyCount "120"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+Bg4 9. Be2 O-O 10. O-O Re8 11. e5 dxe5 12. fxe5 Nfd7 13. e6 fxe6 14. Ng5 Bxe2
+15. Nxe2 Nb6 16. d6 Nc6 17. Ne4 Nd4 18. Bg5 Qd7 19. Bf6 Nxe2+ 20. Qxe2 Nd5 21.
+Bxg7 Kxg7 22. b3 b6 23. Qb2+ Kg8 24. Qe5 Qg7 25. Nf6+ Nxf6 26. Rxf6 Rad8 27.
+Rd1 Rd7 28. g4 Rf7 29. Rdf1 Rxf6 30. Rxf6 Qd7 31. h4 Qg7 32. Kh2 Qh6 33. Qe1
+Qg7 34. Rxe6 Rxe6 35. Qxe6+ Qf7 36. Qc8+ Kg7 37. Qc7 Kf8 38. Kg3 Qe6 39. Qb8+
+Kf7 40. Qxa7+ Kf8 41. Qa8+ Kg7 42. Qb7+ Kf8 43. Qf3+ Ke8 44. Qc6+ Kf7 45. Qc7+
+Kf8 46. Qd8+ Kf7 47. Kf4 Qf6+ 48. Qxf6+ Kxf6 49. d7 Ke7 50. Ke5 Kxd7 51. Kd5 h6
+52. g5 hxg5 53. hxg5 Kc7 54. a4 Kd7 55. a5 bxa5 56. Kxc5 Ke6 57. Kb5 Kf5 58.
+Kxa5 Kxg5 59. b4 Kh4 60. b5 g5 1-0
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.26"]
+[Round "6"]
+[White "Suto, Gabor"]
+[Black "Szilagyi, Zsolt"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2240"]
+[BlackElo "2310"]
+[PlyCount "61"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 b6 3. a3 Bb7 4. Nc3 f5 5. Nf3 Nf6 6. g3 d6 7. Bg2 Nbd7 8. Qc2 h6
+9. O-O Ne4 10. Nh4 Ndf6 11. d5 exd5 12. Nxd5 Qd7 13. Bh3 Nxd5 14. Bxf5 Qxf5 15.
+Nxf5 Ndf6 16. f3 Nc5 17. b4 Ncd7 18. Nd4 O-O-O 19. Bb2 Re8 20. e4 g5 21. g4 h5
+22. b5 hxg4 23. Nc6 Rh4 24. Nxa7+ Kb8 25. Nc6+ Kc8 26. Rae1 Nh5 27. Na7+ Kb8
+28. Nc6+ Kc8 29. Na7+ Kb8 30. Nc6+ Kc8 31. Na7+ 1/2-1/2
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Jacso, Adam"]
+[Black "Horvath, Julia"]
+[Result "1-0"]
+[ECO "A88"]
+[WhiteElo "2174"]
+[BlackElo "2240"]
+[PlyCount "65"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. Nc3 c6 8. b3 Qc7
+9. Re1 e5 10. dxe5 dxe5 11. e4 f4 12. gxf4 Nh5 13. fxe5 Nf4 14. Bxf4 Rxf4 15.
+Qd2 Rf8 16. Qg5 Nd7 17. Qe7 Qa5 18. b4 Qa3 19. Re3 Qb2 20. Rb1 Qc2 21. Rf1 Nb6
+22. Nd4 Qd2 23. Ne6 Bxe6 24. Qxe6+ Kh8 25. Rh3 Rae8 26. Qxg6 h6 27. f4 Nxc4 28.
+Rxh6+ Bxh6 29. Qxh6+ Kg8 30. Rf3 Qe1+ 31. Bf1 Kf7 32. Qf6+ Kg8 33. Qg6+ 1-0
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Kaposztas, Miklos"]
+[Black "Sipos, Tibor"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2261"]
+[BlackElo "2093"]
+[PlyCount "67"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c5 2. Nf3 Nf6 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+d6 9. b3 Nc6 10. Qd2 a6 11. Rd1 Qc7 12. Ba3 Rd8 13. Rac1 Qb8 14. e4 O-O 15. Qe3
+Ba8 16. Qe2 Rd7 17. Rc2 Rfd8 18. Rcd2 Bf8 19. Nd4 Nxd4 20. Rxd4 Bc6 21. h3 b5
+22. cxb5 axb5 23. Bb4 Qb7 24. Kh2 g6 25. f4 e5 26. fxe5 dxe5 27. Rxd7 Rxd7 28.
+Bxf8 Kxf8 29. Nd5 Ne8 30. Qb2 f6 31. Rf1 Bxd5 32. exd5 Kg7 33. Rc1 Rc7 34. d6
+1-0
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Laszlo, Janos"]
+[Black "Suto, Gabor"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2331"]
+[BlackElo "2240"]
+[PlyCount "86"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 e6 3. e3 b6 4. Bd3 Bb7 5. O-O d6 6. c4 Be7 7. Nc3 Nbd7 8. e4
+e5 9. d5 O-O 10. Rb1 a5 11. Re1 Nc5 12. Bc2 Bc8 13. a3 Bg4 14. b4 axb4 15. axb4
+Nb7 16. Ba4 Qb8 17. Bc6 Bd7 18. Bxd7 Nxd7 19. Qd3 Nd8 20. Be3 Qc8 21. Ra1 c5
+22. dxc6 Nxc6 23. Nd5 Bd8 24. Nd2 Ne7 25. Nb3 Nxd5 26. cxd5 Be7 27. Rxa8 Qxa8
+28. Ra1 Qc8 29. Ra7 Bd8 30. Ra1 Nf6 31. f3 Nd7 32. Rc1 Qa8 33. Rc6 Qa3 34. Qc3
+f5 35. Nd2 Qxc3 36. Rxc3 b5 37. Rc6 Nf6 38. Rxd6 Be7 39. Re6 Bxb4 40. Rxe5 Bc3
+41. Re7 fxe4 42. Nxe4 Nxd5 43. Nxc3 Nxe7 1/2-1/2
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Lengyel, Ferenc"]
+[Black "Istvanovszky, Martin"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2282"]
+[BlackElo "2204"]
+[PlyCount "63"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 c5 2. dxc5 Na6 3. Nc3 Nxc5 4. e4 d6 5. Be3 Nd7 6. Nf3 Ngf6 7. Bc4 a6 8.
+a4 Qa5 9. O-O h6 10. h3 g5 11. Nd5 Nxd5 12. Bxd5 Rg8 13. Bd4 e6 14. Bb3 Qc7 15.
+Re1 e5 16. Bc3 Nf6 17. Nh2 g4 18. hxg4 Be7 19. a5 Bxg4 20. Nxg4 Nxg4 21. Ba4+
+Kf8 22. Qf3 Bh4 23. Re2 Qe7 24. Bb3 Rg6 25. Be1 Kg7 26. Qh3 Rg8 27. g3 Kh8 28.
+Kf1 Qf6 29. Bxf7 Bxg3 30. Bxg6 Qf3 31. Ra3 Nh2+ 32. Qxh2 1-0
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Meszaros, Andras"]
+[Black "Gara, Ticia"]
+[Result "1-0"]
+[ECO "A08"]
+[WhiteElo "2316"]
+[BlackElo "2319"]
+[PlyCount "89"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d3 d5 2. Nf3 g6 3. Nbd2 Bg7 4. g3 Nf6 5. Bg2 O-O 6. O-O c5 7. c4 Nc6 8. a3
+b6 9. Rb1 Bb7 10. b4 cxb4 11. axb4 dxc4 12. Nxc4 Nd5 13. Qe1 b5 14. Ne3 Nd4 15.
+Nxd4 Bxd4 16. Nxd5 Bxd5 17. Bh6 Re8 18. Bh3 Qd6 19. Qd2 Bb7 20. Rbc1 Qd5 21. e4
+Qd6 22. Bf4 e5 23. Bg5 Bc8 24. Bxc8 Raxc8 25. Kg2 Bb6 26. Rc2 Rxc2 27. Qxc2
+Qxb4 28. Rb1 Qd6 29. Rxb5 Kg7 30. Bc1 Bd4 31. h4 Qa6 32. Qb3 Qe6 33. Qa3 h6 34.
+Bd2 Qf6 35. Be3 Qc6 36. Qb3 Bxe3 37. fxe3 Re7 38. Qb2 Qc7 39. Kf3 Qd6 40. Qc3
+Qf6+ 41. Kg2 Rd7 42. Rb8 g5 43. Qc8 Qe7 44. Qh8+ Kg6 45. hxg5 1-0
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Paal, Andras"]
+[Black "Pota, Lajos"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[BlackElo "1909"]
+[PlyCount "59"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 e5 4. Nf3 Nc6 5. Ng3 Nf6 6. Bc4 Be7 7. O-O O-O 8. d3
+h6 9. Bd2 a6 10. a4 Kh8 11. Nh4 Bg4 12. f3 Bd7 13. Nhf5 Be6 14. Qc1 Nh7 15.
+Bxh6 gxh6 16. Qxh6 Rg8 17. Qh5 Rg5 18. Qh3 Bxc4 19. dxc4 Qd7 20. f4 exf4 21.
+Rxf4 Rag8 22. Rh4 R5g7 23. Nxg7 Qxh3 24. Rxh3 Rxg7 25. Rf1 f6 26. Nf5 Rg6 27.
+Nxe7 Nxe7 28. c3 c5 29. cxd4 cxd4 30. b4 1/2-1/2
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Papp Zoltan, Csaba"]
+[Black "Antal, Laszlo"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "2271"]
+[BlackElo "2193"]
+[PlyCount "47"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 f5 2. Qd3 d5 3. Bf4 Nf6 4. Nf3 e6 5. c4 Be7 6. h3 O-O 7. e3 Ne4 8. Nc3 c6
+9. Be2 Nd7 10. O-O Ndf6 11. c5 Bd7 12. Ne5 Nxc3 13. Qxc3 Be8 14. b4 Ne4 15. Qc2
+b5 16. a4 a6 17. Ra2 g5 18. Bh2 Bf6 19. f3 Bxe5 20. dxe5 Bg6 21. fxe4 fxe4 22.
+Rxf8+ Qxf8 23. Bg4 Qe7 24. axb5 1-0
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Sandor, Tamas"]
+[Black "Sallai, Janos"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "1983"]
+[BlackElo "2071"]
+[PlyCount "113"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. d4 cxd4 5. Nxd4 g6 6. O-O Bg7 7. c3 d5 8.
+Nxc6 bxc6 9. Nd2 O-O 10. Nb3 Qd6 11. Be3 Nd7 12. Nd4 Bb7 13. Qd2 e5 14. Nb3 a5
+15. a4 Rfd8 16. Rad1 Qe6 17. c4 d4 18. Bg5 f6 19. Nxa5 Rdb8 20. b4 Rxa5 21.
+bxa5 fxg5 22. Rb1 Nc5 23. a6 Nxa6 24. Qa5 Qc8 25. Rb3 Bf8 26. Qxe5 Nc5 27. Rbb1
+Nxa4 28. Qxd4 Ra8 29. Qf6 Bg7 30. Qxg5 Nc3 31. Rbe1 Ra4 32. Qc5 Qe6 33. Qb6 Qd7
+34. Kh1 Rxc4 35. Ra1 Nb5 36. Rad1 Bd4 37. Qa5 c5 38. e3 Bxg2+ 39. Kxg2 Qb7+ 40.
+Kg1 Bf6 41. Rb1 Rb4 42. Rxb4 cxb4 43. Qxb4 Qd5 44. e4 Qc6 45. Qb3+ Kg7 46. Qd5
+Qe8 47. Rb1 Nc3 48. Rb7+ Kh6 49. Qd2+ g5 50. f3 Qe5 51. Qd7 Qd4+ 52. Qxd4 Bxd4+
+53. Kg2 Kg6 54. Rd7 Be5 55. Re7 Bf6 56. Rc7 g4 57. fxg4 1/2-1/2
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Serrer, Christoph"]
+[Black "Feher, Adam"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2265"]
+[BlackElo "2160"]
+[PlyCount "25"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4 e6 5. cxd5 Bxf3 6. Bxf3 cxd5 7. O-O Nf6 8.
+Nc3 Nc6 9. d3 Bd6 10. d4 O-O 11. e4 dxe4 12. Nxe4 Be7 13. Be3 1/2-1/2
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Simko, Lorant"]
+[Black "Banyai, Miklos Sr"]
+[Result "0-1"]
+[ECO "A58"]
+[WhiteElo "1728"]
+[BlackElo "1911"]
+[PlyCount "66"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 d6 8. Rb1
+Bg7 9. a3 Nbd7 10. Nh3 O-O 11. Bg2 Qc7 12. O-O Rfb8 13. Re1 c4 14. e4 Nc5 15.
+e5 dxe5 16. d6 exd6 17. Bxa8 Rxa8 18. Nd5 Nxd5 19. Qxd5 Bb7 20. Qxc4 Qc6 21.
+Kf1 Ba6 22. Qxa6 Qxa6+ 23. Kg1 d5 24. Rd1 d4 25. Bd2 Nb3 26. Bb4 Rc8 27. Ng5
+Rc2 28. Re1 f5 29. h4 h6 30. Nf3 e4 31. Nh2 Qb6 32. Kf1 d3 33. Re3 Bd4 0-1
+
+[Event "Nyiregyhaza op"]
+[Site "Nyiregyhaza"]
+[Date "2008.07.27"]
+[Round "7"]
+[White "Varga, Mihaly"]
+[Black "Gledura, Benjamin"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "1815"]
+[BlackElo "1738"]
+[PlyCount "54"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nc3 b4 5. Na4 d6 6. b3 g6 7. g3 Bg7 8. Nb2 Ne4
+9. f3 Bc3+ 10. Bd2 Bxd2+ 11. Qxd2 Nxd2 12. Kxd2 e6 13. e4 Qf6 14. Rb1 Qc3+ 15.
+Kd1 f5 16. Na4 Qd4+ 17. Ke1 fxe4 18. Ne2 Qe3 19. f4 exd5 20. cxd5 Qf3 21. Rg1
+e3 22. Nb2 Bf5 23. Rc1 Qxd5 24. Rd1 Qf3 25. Rxd6 Ke7 26. Bg2 Qf2+ 27. Kd1 Bg4
+0-1
+
+[Event "Oviedo op 3rd"]
+[Site "Oviedo"]
+[Date "2008.07.23"]
+[Round "1"]
+[White "Alvarez Aguirrezabala, Luis"]
+[Black "Roiz Baztan, David"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1763"]
+[BlackElo "2308"]
+[PlyCount "0"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+ 0-1
+
+[Event "Oviedo op 3rd"]
+[Site "Oviedo"]
+[Date "2008.07.23"]
+[Round "1"]
+[White "Alvarez Fernandez, Enrique"]
+[Black "Chemli, Farid"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2358"]
+[BlackElo "1790"]
+[PlyCount "101"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 c6 6. h3 Qb6 7. Qc1 Na6 8. O-O
+Nc7 9. c4 Ne6 10. Bh2 Ne4 11. Bd3 N6g5 12. Nxg5 Nxg5 13. c5 Qd8 14. f4 Ne6 15.
+f5 Nc7 16. Nc3 d5 17. cxd6 exd6 18. Qd2 Ne8 19. Bc2 Qb6 20. Rab1 Bd7 21. fxg6
+fxg6 22. Rxf8+ Bxf8 23. Rf1 Be6 24. b3 Rd8 25. Na4 Qc7 26. Nc5 Bf7 27. Ne4 Qe7
+28. Bf4 Rd7 29. Ng5 Qd8 30. e4 Bg7 31. Kh1 Qb6 32. Be3 Qc7 33. Bd3 b5 34. Be2
+Kh8 35. d5 a6 36. dxc6 Re7 37. Bd4 Bg8 38. Qc3 h6 39. Nf3 Kh7 40. Bd3 Rf7 41.
+Bxg7 Nxg7 42. a4 bxa4 43. bxa4 a5 44. Rb1 Qa7 45. Qd4 Qc7 46. Bc4 Re7 47. Bd5
+Ne6 48. Qc4 Bf7 49. Rb7 Qd8 50. Bxe6 Bxe6 51. Qxe6 1-0
+
+[Event "Oviedo op 3rd"]
+[Site "Oviedo"]
+[Date "2008.07.23"]
+[Round "1"]
+[White "Aparicio Garcia, Enrique"]
+[Black "Reno Chanca, Javier"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2140"]
+[BlackElo "1651"]
+[PlyCount "45"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 b6 2. c4 Bb7 3. Nc3 e6 4. e4 Bb4 5. Qc2 d6 6. Qa4+ Nc6 7. d5 Bxc3+ 8.
+bxc3 Qh4 9. Bd3 Nge7 10. Nf3 Qf6 11. e5 dxe5 12. Bg5 exd5 13. Bxf6 gxf6 14.
+cxd5 Nxd5 15. Bb5 Nde7 16. Qh4 O-O-O 17. O-O Rhg8 18. Rfd1 Rg6 19. Rxd8+ Nxd8
+20. Rd1 Bxf3 21. Qh3+ Bg4 22. Bd7+ Kb7 23. Bxg4 1-0
+
+[Event "Oviedo op 3rd"]
+[Site "Oviedo"]
+[Date "2008.07.23"]
+[Round "1"]
+[White "Calbet Freixanet, Eduard"]
+[Black "Chans Farina, Juan Francisco"]
+[Result "0-1"]
+[ECO "A65"]
+[BlackElo "1982"]
+[PlyCount "100"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Bd2
+O-O 9. Qc2 a6 10. O-O-O b5 11. Re1 Re8 12. Bg5 Qa5 13. Nf3 Nbd7 14. Bf4 Qc7 15.
+h3 Nh5 16. Bh2 Ne5 17. Nxe5 Bxe5 18. Bxe5 Rxe5 19. Qd2 Bb7 20. g4 Nf6 21. f4
+Ree8 22. f5 Re5 23. Qh6 Qe7 24. g5 Nd7 25. f6 Qf8 26. Qh4 h6 27. Rhg1 Rxg5 28.
+Rxg5 hxg5 29. Qxg5 Kh7 30. Kb1 Qh6 31. Qxh6+ Kxh6 32. Bxb5 axb5 33. Nxb5 Ra6
+34. Nc7 Rb6 35. a4 Nxf6 36. a5 Rb4 37. a6 Bxa6 38. Nxa6 Rxe4 39. Rf1 Kg7 40.
+Rd1 Re3 41. Nc7 Rxh3 42. Re1 Rd3 43. Kc2 Rd4 44. Ne8+ Nxe8 45. Rxe8 Rxd5 46.
+Re4 g5 47. b4 cxb4 48. Rxb4 f5 49. Rb7+ Kf6 50. Rb8 Ke5 0-1
+
+[Event "Oviedo op 3rd"]
+[Site "Oviedo"]
+[Date "2008.07.23"]
+[Round "1"]
+[White "Del Valle Rosas, Alfonso"]
+[Black "Arruebarrena, Rafael"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "1734"]
+[BlackElo "2266"]
+[PlyCount "48"]
+[EventDate "2008.07.23"]
+[EventType "swiss"]
+[EventRounds "9"]

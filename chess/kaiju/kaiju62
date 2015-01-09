@@ -1,0 +1,50 @@
+D25	Queen's Gambit Accepted Deferred	1.d4 d5 2.Nf3 Nf6 3.c4 dxc4
+D26	Traditional System QGA; D26	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6
+D26	Classical Defense, QGA	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5
+D26	Steinitz Variation, QGA	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5
+6.O-O cxd4
+D26	Development Variation, QGA	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6
+5.Bxc4 c5 6.O-O Nc6
+D27	Rubinstein Variation, QGA; D27	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6
+5.Bxc4 c5 6.O-O a6
+D27	Furman Variation, QGA	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5
+6.O-O a6 7.dxc5 Bxc5
+D27	Russian Gambit, QGA	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5
+6.O-O a6 7.e4
+D28	Alekhine System, Classical Defense, QGA; D28	1.d4 d5 2.c4 dxc4
+3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2
+D28	Accelerated Fianchetto, QGA	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6
+5.Bxc4 c5 6.O-O a6 7.Qe2 b5
+D28	Counter Fianchetto Variation, QGA	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6
+4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 Nc6 8.dxc5
+D28	Four Knights Variation, QGA	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6
+5.Bxc4 c5 6.O-O a6 7.Qe2 Nc6 8.Nc3
+D29	D29	1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2
+b5 8.Bb3 Bb7
+D29	Smyslov Variation, Classical Defense, QGA	1.d4 d5 2.c4 dxc4
+3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5 8.Bb3 Bb7 9.Rd1 Nbd7 10.Nc3 Bd6
+D30	D30	1.d4 d5 2.c4 e6
+D30	Pseudo-Tarrasch, QGD	1.d4 d5 2.c4 e6 3.Nf3 c5
+D30	Bishop Attack, Tarrasch	1.d4 d5 2.c4 e6 3.Nf3 c5 4.cxd5 exd5 5.Bg5
+D30	Anti-Noteboom Gambit, Semi-Slav	1.d4 d5 2.c4 e6 3.Nf3 c6 4.Nc3 dxc4
+5.g3
+D30	Traditional Variation, QGD	1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5
+D30	Vienna Variation, QGD  	1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Bb4+
+D30	Duras Variation, QGD; Capablanca Variation	1.d4 d5 2.c4 e6 3.Nf3
+Nf6 4.Bg5 h6
+D30	Hastings Variation, QGD	1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6
+6.Nc3 c6 7.Qb3
+D30	Capablanca Variation, QGD	1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Nbd7
+5.e3 c6 6.Nbd2
+D30	Pseudo-Meran; Semi-Slav, QGD	1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6
+D30	Quiet Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6
+5.Nbd2
+D30	Semmering Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6
+5.Nbd2 Nbd7 6.Bd3 c5
+D31	Baltic Defense, QGD	1.d4 d5 2.c4 Bf5 3.cxd5 Bxb1 4.Qa4+ c6 5.dxc6
+Nxc6
+D31	Argentinian Gambit, QGD	1.d4 d5 2.c4 Bf5 3.cxd5 Bxb1 4.Qa4+ c6 5.dxc6
+Nxc6 6.Rxb1 Qxd4
+D31	Queen's Knight Variation, QGD; D31	1.d4 d5 2.c4 e6 3.Nc3
+D31	Janowski Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 a6
+D31	Alapin Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 b6

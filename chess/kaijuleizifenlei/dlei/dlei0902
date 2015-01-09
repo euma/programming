@@ -1,0 +1,600 @@
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 b6 8.
+Bxf6 Bxf6 9. Qh5 g6 10. Qxd5 c6 11. Qf3 Bb7 12. Nge2 Nd7 13. Rd1 Bg7 14. O-O f5
+15. Nf4 Qe7 16. Bc4+ Kh8 17. Nxg6+ 1-0
+
+[Event "Charleroi TIPC op"]
+[Site "Charleroi"]
+[Date "2008.07.31"]
+[Round "7"]
+[White "Remy, Joel"]
+[Black "Van Mechelen, Jan"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "2098"]
+[BlackElo "2269"]
+[PlyCount "55"]
+[EventDate "2008.07.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. Nf3 Nf6 3. Bg5 c5 4. e3 Be7 5. Nbd2 d5 6. c3 Nbd7 7. Bd3 b6 8. O-O
+Bb7 9. Ne5 Nxe5 10. dxe5 Nd7 11. Bxe7 Qxe7 12. f4 O-O 13. Qh5 f5 14. Rf2 Kh8
+15. Nf3 g6 16. Qg5 Rae8 17. Bb5 a6 18. Qxe7 Rxe7 19. Bxd7 Rxd7 20. Ng5 Re8 21.
+Rd1 h6 22. Nf3 a5 23. b3 Bc6 24. a3 Ra8 25. Rfd2 Rg7 26. h4 Bb5 27. Kf2 Rc8 28.
+Rb1 1/2-1/2
+
+[Event "Charleroi TIPC op"]
+[Site "Charleroi"]
+[Date "2008.07.31"]
+[Round "7"]
+[White "Schaeken, Yordi"]
+[Black "Pacolet, Fabrice"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "1988"]
+[BlackElo "1858"]
+[PlyCount "23"]
+[EventDate "2008.07.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. g4 h6 8. Bd2 e5
+9. cxd5 cxd5 10. Nb5 Qb6 11. a4 Bb8 12. Qxc8+ 1-0
+
+[Event "Charleroi TIPC op"]
+[Site "Charleroi"]
+[Date "2008.08.02"]
+[Round "9"]
+[White "Audin, Thierry"]
+[Black "Uhoda, Philippe"]
+[Result "0-1"]
+[ECO "D01"]
+[WhiteElo "2003"]
+[BlackElo "2134"]
+[PlyCount "32"]
+[EventDate "2008.07.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. Qd3 h6 6. Bh4 e5 7. dxe5 Nxe5 8.
+Qd4 Ned7 9. e4 Bc5 10. Qd2 Nxe4 11. fxe4 Qxh4+ 12. g3 Qe7 13. O-O-O O-O 14. Bg2
+Nf6 15. Re1 d4 16. Na4 Bb4 0-1
+
+[Event "Charleroi TIPC op"]
+[Site "Charleroi"]
+[Date "2008.08.02"]
+[Round "9"]
+[White "Sumets, Andrey"]
+[Black "Wiley, Tom E"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2534"]
+[BlackElo "2299"]
+[PlyCount "39"]
+[EventDate "2008.07.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c6 2. d4 d5 3. Nc3 Nf6 4. e3 Bf5 5. cxd5 cxd5 6. Qb3 Bc8 7. Nf3 e6 8.
+Bb5+ Nbd7 9. O-O Be7 10. Ne5 O-O 11. f4 Nxe5 12. fxe5 Nd7 13. Bd2 f6 14. e4
+fxe5 15. exd5 exd4 16. Ne4 exd5 17. Qxd5+ Kh8 18. Ng5 Nf6 19. Qxd8 Bxd8 20. Bb4
+1-0
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.26"]
+[Round "1"]
+[White "Alho, Diogo"]
+[Black "Escobar Felix, Eduardo"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "2288"]
+[BlackElo "2153"]
+[PlyCount "118"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 Bd6 7. O-O O-O 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 h6 11. b3 e5 12. Bb2 f5 13. Bc2 e4 14. Ne5 Nxe5 15.
+dxe5 Bc7 16. Ba3 Re8 17. Bd6 Bxd6 18. exd6 b6 19. b4 a5 20. Qd2 axb4 21. Rfd1
+Bd7 22. Qxb4 c5 23. Qd2 Bc6 24. Qf4 Qf6 25. Rab1 g5 26. Qd2 Qd8 27. d7 Re6 28.
+Rxb6 Qxb6 29. d8=Q+ Rxd8 30. Qxd8+ Qxd8 31. Rxd8+ Kf7 32. Kf1 Ke7 33. Rh8 Kd6
+34. g3 Ke5 35. Ke2 Rd6 36. Rf8 f4 37. a4 Rf6 38. Rc8 Kd4 39. a5 Bb7 40. Rb8 Rf7
+41. Ba4 Kxc4 42. Bb3+ Kxb3 43. a6 Kc3 44. axb7 c4 45. gxf4 gxf4 46. h4 Rd7 47.
+Re8 Rxb7 48. Rxe4 Rf7 49. Re6 h5 50. Re5 Kd4 51. Rxh5 f3+ 52. Kd2 c3+ 53. Kc1
+Re7 54. Rh8 Kd3 55. Rd8+ Ke2 56. Kc2 Kxf2 57. Kxc3 Ke1 58. Ra8 f2 59. Ra1+ Ke2
+0-1
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.26"]
+[Round "1"]
+[White "Riazantsev, Alexander"]
+[Black "Korneev, Oleg"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2617"]
+[BlackElo "2631"]
+[PlyCount "42"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. cxd5 exd5 6. Qc2 c6 7. Bg5 g6 8. e4
+dxe4 9. Bxf6 Bxf6 10. Qxe4+ Kf8 11. O-O-O Bf5 12. Qf4 h5 13. Bd3 Bxd3 14. Rxd3
+Kg7 15. Ne4 Nd7 16. Ne5 Nxe5 17. dxe5 Qxd3 18. Qxf6+ Kg8 19. Ng5 Qc4+ 20. Kb1
+Qd3+ 21. Kc1 Qc4+ 1/2-1/2
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.27"]
+[Round "2"]
+[White "Costa, Paulo Jorge Lopes"]
+[Black "Dias, Paulo"]
+[Result "0-1"]
+[ECO "D38"]
+[WhiteElo "2180"]
+[BlackElo "2440"]
+[PlyCount "96"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. Bg5 O-O 6. e3 c5 7. a3 Bxc3+ 8. bxc3
+Nbd7 9. cxd5 exd5 10. Nd2 Qa5 11. Qc2 Ne4 12. Nxe4 dxe4 13. d5 Nb6 14. Be7 Re8
+15. d6 Bd7 16. Be2 Nd5 17. O-O Nxe7 18. dxe7 Rxe7 19. Rfb1 Ba4 20. Qb2 Rd8 21.
+Bd1 Red7 22. Bxa4 Qxa4 23. h3 b6 24. Qe2 g6 25. Ra2 Rd1+ 26. Rxd1 Qxd1+ 27. Kh2
+Qxe2 28. Rxe2 Rd1 29. Rc2 f5 30. Kg3 Kf7 31. Kf4 Kf6 32. h4 h6 33. a4 g5+ 34.
+Kg3 Ra1 35. Rd2 gxh4+ 36. Kf4 Ke6 37. Rd8 Ra2 38. f3 exf3 39. Kxf3 Rxa4 40. Rh8
+Rc4 41. Rxh6+ Ke5 42. Rh7 Rxc3 43. Re7+ Kf6 44. Rxa7 b5 45. Rh7 b4 46. Rxh4 b3
+47. Rh6+ Ke5 48. Rb6 f4 0-1
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.27"]
+[Round "2"]
+[White "Fernandes, Antonio"]
+[Black "Diogo, Vasco"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "2408"]
+[BlackElo "2294"]
+[PlyCount "124"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 a6 5. a4 Bf5 6. Qb3 Ra7 7. Bf4 e6 8. e3 a5
+9. Nh4 Be4 10. f3 Bg6 11. Bg3 Na6 12. Be2 Nb4 13. Nxg6 hxg6 14. Rc1 Ra8 15. Bf2
+Bd6 16. g3 Nh5 17. f4 f5 18. Nb1 Nf6 19. Nd2 Ne4 20. Nxe4 fxe4 21. h4 Be7 22.
+O-O Kf8 23. Kg2 Kg8 24. Be1 Qd7 25. c5 Rf8 26. Bxb4 axb4 27. Qxb4 e5 28. dxe5
+Bxh4 29. gxh4 Rxh4 30. Rh1 Rg4+ 31. Kf2 g5 32. Rcg1 Rxg1 33. Rxg1 gxf4 34. Qd4
+Qh3 35. Ke1 f3 36. Rf1 fxe2 37. Rxf8+ Kxf8 38. Kxe2 g5 39. e6 Qxe6 40. Qh8+ Kf7
+41. Qh7+ Kf6 42. Qxb7 g4 43. Qb8 d4 44. Qh8+ Kg5 45. Qxd4 g3 46. Qg7+ Kh4 47.
+Ke1 Qc4 48. Qh6+ Kg4 49. Qf4+ Kh3 50. Qf5+ Kg2 51. Qg4 Qc1+ 52. Ke2 Qxb2+ 53.
+Kd1 Qb1+ 54. Kd2 Qb2+ 55. Kd1 Qb1+ 56. Kd2 Qd3+ 57. Kc1 Qxe3+ 58. Kb2 Kf2 59.
+a5 g2 60. Qh4+ Kf1 61. a6 g1=Q 62. a7 Qg2+ 0-1
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.27"]
+[Round "2"]
+[White "Garcia Ortega Mendez, Jose Manuel"]
+[Black "Alsina Leal, Daniel"]
+[Result "0-1"]
+[ECO "D49"]
+[WhiteElo "2196"]
+[BlackElo "2517"]
+[PlyCount "64"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5 12. Nxe5 axb5 13. Bxb5+ Bd7 14. Bxd7+
+Nxd7 15. Nxd7 Qxd7 16. O-O Be7 17. Qg4 O-O 18. Bh6 Bf6 19. Bg5 Bxg5 20. Qxg5 h6
+21. Qd2 e5 22. Rfe1 Rfe8 23. Qd3 Qd5 24. Qe4 Qxe4 25. Rxe4 f5 26. Ree1 e4 27.
+a4 d3 28. b4 f4 29. a5 e3 30. fxe3 fxe3 31. Rad1 d2 32. Re2 Rac8 0-1
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.27"]
+[Round "2"]
+[White "Riazantsev, Alexander"]
+[Black "Bartel, Mateusz"]
+[Result "1/2-1/2"]
+[ECO "D92"]
+[WhiteElo "2617"]
+[BlackElo "2579"]
+[PlyCount "35"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 Be6 7. Nf3 dxc4 8. Ng5
+Bd5 9. e4 h6 10. exd5 hxg5 11. Bxg5 Nxd5 12. Bxc4 Nb6 13. Bb3 Nc6 14. d5 Nd4
+15. O-O Qd7 16. Be3 Nxb3 17. Qxb3 Bxc3 18. Bxb6 1/2-1/2
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.28"]
+[Round "3"]
+[White "Alho, Diogo"]
+[Black "Ftacnik, Lubomir"]
+[Result "0-1"]
+[ECO "D77"]
+[WhiteElo "2288"]
+[BlackElo "2544"]
+[PlyCount "82"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d5 5. O-O O-O 6. c4 dxc4 7. Ne5 Ne8 8. f4
+Nc6 9. Nxc6 bxc6 10. e3 Nd6 11. Bxc6 Bh3 12. Re1 Rb8 13. Qa4 Rb6 14. Nd2 Qb8
+15. a3 Be6 16. Nf3 Bc8 17. Ne5 Bxe5 18. fxe5 Ra6 19. Qc2 Rxc6 20. exd6 cxd6 21.
+d5 Rc7 22. e4 Qb3 23. Qf2 Bh3 24. e5 dxe5 25. d6 exd6 26. Qf6 Qb6+ 27. Be3 Qc6
+28. Re2 d5 29. Qxe5 Re8 30. Qf4 Rce7 31. Qh6 f6 32. Rae1 d4 33. Qxh3 d3 34. Rd2
+Rxe3 35. Rxe3 Rxe3 36. Qg2 Qc5 37. Qf2 Re1+ 38. Kg2 Qd5+ 39. Kh3 Qe6+ 40. Kg2
+Qe4+ 41. Kh3 Re2 0-1
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.28"]
+[Round "3"]
+[White "Bartel, Mateusz"]
+[Black "Korneev, Oleg"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2579"]
+[BlackElo "2631"]
+[PlyCount "97"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Bd3 Bb6 12. O-O d4 13. e4 Bg4 14. h3 Qf6
+15. hxg4 Qxf4 16. g5 f6 17. g6 Ne5 18. Nxe5 fxe5 19. Qh5 h6 20. g3 Qd2 21. Rad1
+Qxb2 22. Qxe5 Kh8 23. f4 Rac8 24. a4 Rc3 25. Rf2 Qa3 26. Rh2 Kg8 27. Qd5+ Kh8
+28. Rxh6+ gxh6 29. Qd7 Rc7 30. g7+ Kg8 31. gxf8=Q+ Kxf8 32. Qf5+ Rf7 33. Qc8+
+Kg7 34. e5 Qb3 35. Qg4+ Kf8 36. Kh2 h5 37. Qxh5 Qa2+ 38. Kg1 Qb3 39. Kg2 Qa2+
+40. Kh3 Qe6+ 41. Qg4 Qh6+ 42. Kg2 Qc6+ 43. Kf2 Qxa4 44. Qc8+ Ke7 45. Qxb7+ Kf8
+46. Qc8+ Ke7 47. Rd2 Qb3 48. f5 Rf8 49. f6+ 1-0
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.28"]
+[Round "3"]
+[White "Granda Zuniga, Julio E"]
+[Black "Zawadzki, Stanislaw"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2599"]
+[BlackElo "2410"]
+[PlyCount "115"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bh5 6. cxd5 Bxf3 7. gxf3 Nxd5 8.
+f4 e6 9. Bg2 Nd7 10. Nd2 Qc7 11. a3 Be7 12. Qc2 O-O-O 13. Nb3 Kb8 14. Bd2 Rc8
+15. Ba5 Qd6 16. O-O f5 17. Bb4 Nxb4 18. axb4 Qxb4 19. Nc1 Bd8 20. Nd3 Qe7 21.
+b4 Bb6 22. Nc5 Nf6 23. Rfb1 a6 24. Nxa6+ bxa6 25. Rxa6 Kb7 26. b5 Nd5 27. bxc6+
+Rxc6 28. Bxd5 exd5 29. Qxc6+ Kxc6 30. Rbxb6+ Kc7 31. Ra7+ Kxb6 32. Rxe7 g6 33.
+h4 Kc6 34. Kg2 Kd6 35. Rb7 Ke6 36. Kh3 Kf6 37. Rb6+ Ke7 38. Ra6 Kd7 39. h5 Ke7
+40. Ra7+ Kf6 41. h6 Ke6 42. Kg3 Kf6 43. Rb7 Ke6 44. Kh4 Ra8 45. Rxh7 Ra1 46.
+Kg3 Rh1 47. Kf3 Rh5 48. Ke2 Rh2 49. Rh8 Kf7 50. Rh7+ Ke6 51. Rh8 Kf7 52. h7 Kg7
+53. Rd8 Kxh7 54. Rxd5 Kg7 55. Ra5 Rh8 56. Kd3 Rb8 57. Ra2 Kf6 58. d5 1-0
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.29"]
+[Round "4"]
+[White "Barata, Pedro Miguel Ramiao"]
+[Black "Fernandes, Antonio"]
+[Result "1-0"]
+[ECO "D91"]
+[WhiteElo "2159"]
+[BlackElo "2408"]
+[PlyCount "34"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nc3 d5 3. d4 g6 4. Nf3 Bg7 5. Bg5 Ne4 6. Bf4 c5 7. Nxd5 O-O 8. Bc7
+Qd7 9. Be5 f6 10. Bf4 cxd4 11. Qxd4 f5 12. Qd3 Nc6 13. Rd1 e5 14. Bc1 Qf7 15.
+Qc2 Be6 16. e3 Rfc8 17. Qb3 Bf8 1-0
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.29"]
+[Round "4"]
+[White "Bartel, Mateusz"]
+[Black "Alsina Leal, Daniel"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2579"]
+[BlackElo "2517"]
+[PlyCount "111"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Qd3 Nbd7 6. e4 dxe4 7. Nxe4 Nxe4 8.
+Qxe4 Bb4+ 9. Bd2 Bxd2+ 10. Nxd2 c5 11. dxc5 Qa5 12. a3 Qxc5 13. b4 Qe5 14. Qxe5
+Nxe5 15. f4 Nd7 16. Be2 b6 17. Bf3 Rb8 18. O-O-O Bb7 19. Bxb7 Rxb7 20. Ne4 Rc7
+21. Kb2 Ke7 22. Kb3 Nf6 23. Nc3 Rhc8 24. Rd4 Rd7 25. Rxd7+ Nxd7 26. Rd1 h6 27.
+h4 h5 28. Nb5 a6 29. Nd4 g6 30. Nf3 f6 31. Re1 Kd6 32. a4 e5 33. fxe5+ Nxe5 34.
+Nxe5 fxe5 35. Rd1+ Ke6 36. Rd5 Rf8 37. a5 b5 38. Rc5 bxc4+ 39. Rxc4 Kd6 40. Rc3
+e4 41. Rg3 Rf6 42. Rg5 e3 43. Kc2 e2 44. Kd2 Re6 45. Ke1 Kc6 46. g3 Kc7 47. b5
+axb5 48. Rxb5 Re3 49. a6 Rxg3 50. Rb7+ Kd6 51. Kxe2 Ra3 52. Rb6+ Ke5 53. Rxg6
+Kf5 54. Rh6 Kg4 55. Kd2 Kxh4 56. Rg6 1/2-1/2
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.29"]
+[Round "4"]
+[White "Dias, Paulo"]
+[Black "Paulino, Jose"]
+[Result "1/2-1/2"]
+[ECO "D93"]
+[WhiteElo "2440"]
+[BlackElo "2089"]
+[PlyCount "98"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 g6 5. Bf4 Bg7 6. e3 O-O 7. h3 Nh5 8. Bh2 f5
+9. Bd3 e6 10. Qc2 Nd7 11. O-O-O Nhf6 12. g4 Ne4 13. gxf5 Nxc3 14. Qxc3 exf5 15.
+cxd5 cxd5 16. Qb3 Nb6 17. Kb1 Be6 18. h4 h6 19. Rhg1 Kh7 20. Rc1 Rf7 21. Bf4
+Bf6 22. Rc5 Nc4 23. Qc2 Bxh4 24. Bxc4 dxc4 25. d5 Bxd5 26. Nd2 b6 27. Rb5 a6
+28. Rb4 Be7 29. Rxc4 Bxc4 30. Nxc4 Rc8 31. Qb3 Qd5 32. Nxb6 Qxb3 33. axb3 Rc6
+34. Nc4 Bf6 35. Rd1 g5 36. Bh2 h5 37. Rd5 Kg6 38. Kc2 Rb7 39. Ra5 Rb5 40. Ra1
+Rxc4+ 41. bxc4 Rxb2+ 42. Kd3 Rxf2 43. Rh1 Kf7 44. c5 Ke6 45. c6 Ra2 46. Rc1
+Ra3+ 47. Kd2 Ra2+ 48. Kd3 Ra3+ 49. Kd2 Ra2+ 1/2-1/2
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.29"]
+[Round "4"]
+[White "Guerreiro, Nuno M"]
+[Black "Santos, Carlos P"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2143"]
+[BlackElo "2418"]
+[PlyCount "100"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 a6 5. Nbd2 Bf5 6. Be2 Nbd7 7. O-O e6 8. b3
+Bd6 9. Re1 Qb8 10. Bb2 O-O 11. a4 Ne4 12. Ba3 Re8 13. Bxd6 Qxd6 14. Nxe4 Bxe4
+15. Nd2 Bf5 16. Bf1 a5 17. Qf3 Nf6 18. Qg3 Qb4 19. Ra2 Ne4 20. Nxe4 Bxe4 21. f3
+Qxb3 22. Qf2 Bg6 23. Rb2 Qxa4 24. c5 e5 25. Rc1 exd4 26. exd4 Qa3 27. Qd2 Qe3+
+28. Qxe3 Rxe3 29. Rxb7 a4 30. Kf2 Rb3 31. Rc7 a3 32. Rxc6 h5 33. Rb6 Rb2+ 34.
+Ke3 Re8+ 35. Kf4 Rxb6 36. cxb6 Rb8 37. Ra1 Rxb6 38. Rxa3 Rb1 39. Bd3 Bxd3 40.
+Rxd3 Rb2 41. Ke5 Rxg2 42. Kxd5 Rxh2 43. Kc6 Rc2+ 44. Kd7 h4 45. d5 g5 46. d6
+Kg7 47. Ke7 Re2+ 48. Kd8 h3 49. d7 h2 50. Rd1 Rd2 1-0
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.30"]
+[Round "5"]
+[White "Granda Zuniga, Julio E"]
+[Black "Pereira, Ruben Miguel Nunes"]
+[Result "1-0"]
+[ECO "D74"]
+[WhiteElo "2599"]
+[BlackElo "2418"]
+[PlyCount "97"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. O-O Nc6 7. cxd5 Nxd5 8. e4
+Nb6 9. d5 Na5 10. Qe1 Nac4 11. Nc3 c6 12. b3 Nd6 13. e5 Nb5 14. Nxb5 cxb5 15.
+d6 exd6 16. Ba3 Re8 17. Bxd6 Bg4 18. Rd1 Nd7 19. Qe4 Bxf3 20. Qxf3 Qa5 21. Qxb7
+Nxe5 22. h3 g5 23. Rd5 Qc3 24. Qxb5 Rac8 25. Rc5 Qd4 26. Rd5 Qc3 27. Bc5 a6 28.
+Qa4 Re6 29. Bd4 Qc2 30. Bxe5 Rxe5 31. Rxe5 Bxe5 32. Qxa6 Rd8 33. Qb5 f6 34. Qb7
+Qxa2 35. Be4 Qa5 36. Qxh7+ Kf8 37. Bd3 Qc7 38. Qh8+ Kf7 39. Qh5+ Kf8 40. Bc4
+Rd2 41. Qh8+ Ke7 42. Qg7+ Kd6 43. Qf8+ Kc6 44. Rc1 Qb6 45. Qc8+ Bc7 46. Be2+
+Kd6 47. Qf8+ Kd5 48. Qf7+ Ke5 49. Rxc7 1-0
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.30"]
+[Round "5"]
+[White "Vassallo Barroche, Mauricio"]
+[Black "Barata, Pedro Miguel Ramiao"]
+[Result "1-0"]
+[ECO "D79"]
+[WhiteElo "2398"]
+[BlackElo "2159"]
+[PlyCount "41"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. d4 d5 5. c4 c6 6. O-O O-O 7. cxd5 cxd5 8. Ne5
+Qb6 9. Nc3 Nc6 10. Na4 Qa6 11. Nxc6 Qxc6 12. Bf4 Bf5 13. Rc1 Qe8 14. Qb3 Ne4
+15. Rfd1 Rc8 16. Nc3 Rc4 17. Nxd5 Rxd4 18. Qxb7 Rxd1+ 19. Rxd1 e5 20. Be3 Nf6
+21. Bc5 1-0
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.31"]
+[Round "6"]
+[White "Guerreiro, Nuno M"]
+[Black "Dias, Paulo"]
+[Result "0-1"]
+[ECO "D38"]
+[WhiteElo "2143"]
+[BlackElo "2440"]
+[PlyCount "71"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. Bg5 h6 7. Bxf6 Qxf6 8.
+e3 O-O 9. a3 Bxc3+ 10. bxc3 Bd7 11. Qb3 b6 12. cxd5 Na5 13. Qa2 exd5 14. Qxd5
+Bc6 15. Qe5 Qg6 16. Rc1 Nb3 17. Nh4 Qh7 18. Rd1 Qc2 19. Bd3 Qxc3+ 20. Kf1 Nd2+
+21. Ke2 Rfe8 22. Rc1 Qb2 23. Rc2 Qxc2 24. Bxc2 Rxe5 25. dxe5 Nc4 26. f4 Nxa3
+27. Bb3 Rd8 28. Nf5 Be4 29. Ng3 Bd3+ 30. Kf3 c5 31. Ra1 Nb5 32. Rc1 a5 33. f5
+Na3 34. e4 c4 35. Bd1 b5 36. Ra1 0-1
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.31"]
+[Round "6"]
+[White "Rocha, Sergio"]
+[Black "Escobar Felix, Eduardo"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2421"]
+[BlackElo "2153"]
+[PlyCount "54"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 c6 4. Nc3 e6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Qc2
+Qa5 9. Nd2 Nxg3 10. hxg3 Bg7 11. O-O-O Na6 12. Nb3 Nb4 13. e4 Qc7 14. Qe2 dxe4
+15. Qxe4 b6 16. a3 Na6 17. c5 Rb8 18. d5 Nxc5 19. Nxc5 bxc5 20. d6 Qa5 21.
+Qxc6+ Bd7 22. Qf3 O-O 23. Rd2 c4 24. Be2 Rb3 25. Rc2 Rfb8 26. Kd2 Rxb2 27. Kc1
+R2b3 1/2-1/2
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.31"]
+[Round "6"]
+[White "Vassallo Barroche, Mauricio"]
+[Black "Fernandes, Antonio"]
+[Result "1-0"]
+[ECO "D76"]
+[WhiteElo "2398"]
+[BlackElo "2408"]
+[PlyCount "71"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. d5 Na5 10. e4 c6 11. Re1 Bd7 12. Bg5 h6 13. Bf4 cxd5 14. Nxd5 Rc8
+15. Be5 Bg4 16. Bxg7 Kxg7 17. Qd4+ f6 18. Qe3 Nac4 19. Qf4 h5 20. b3 g5 21.
+Nxg5 e5 22. Qxg4 fxg5 23. Qxh5 Nd6 24. Rad1 Nxd5 25. Rxd5 Rc2 26. Rxe5 Nf7 27.
+Re6 Rh8 28. Qg6+ Kf8 29. Rf6 Rc7 30. e5 Qd2 31. Rf1 Rg8 32. Qf5 Ke8 33. Re6+
+Kf8 34. Rd6 Qc2 35. Be4 Qc5 36. Rd8+ 1-0
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.07.31"]
+[Round "6"]
+[White "Veingold, Aleksandr"]
+[Black "Diogo, Vasco"]
+[Result "1-0"]
+[ECO "D13"]
+[WhiteElo "2485"]
+[BlackElo "2294"]
+[PlyCount "61"]
+[EventDate "2008.07.26"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 a6 5. cxd5 cxd5 6. Bf4 Nc6 7. Rc1 Bf5 8. e3
+e6 9. Qb3 Bb4 10. Ne5 Ne4 11. Nxc6 Bxc3+ 12. Qxc3 Nxc3 13. Nxd8 Nxa2 14. Rc7
+Rxd8 15. Rxb7 Rc8 16. Bxa6 e5 17. Bxe5 Rc1+ 18. Ke2 Rxh1 19. Bb5+ Kd8 20. Rxf7
+Rc1 21. Rxf5 Ke7 22. Bg3 Nb4 23. Bh4+ Ke6 24. Re5+ Kf7 25. Re7+ Kg6 26. Be8+
+Kh6 27. f4 Rxe8 28. Rxe8 Rc2+ 29. Kf3 Rxb2 30. Re6+ g6 31. Re7 1-0
+
+[Event "POR-chT"]
+[Site "Evora"]
+[Date "2008.08.01"]
+[Round "7"]
+[White "Andrade, Jose Manuel Vieira"]
+[Black "Alsina Leal, Daniel"]
+[Result "0-1"]
+[ECO "D14"]
+[WhiteElo "2290"]
+[BlackElo "2517"]
+[PlyCount "97"]
+[EventDate "2008.07.26"]
+[EventType "team"]

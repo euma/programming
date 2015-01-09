@@ -1,0 +1,50 @@
+4.Bxc6 bxc6
+C68	Keres Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 bxc6
+5.Nc3
+C68	Romanovsky Variation, Ruy Lopez Exchange	1.e4 e5 2.Nf3 Nc6
+3.Bb5 a6 4.Bxc6 bxc6 5.Nc3 f6 6.d3
+C68	Alekhjne Variation, Ruy Lopez Exchange	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Bxc6 dxc6 5.d4 exd4 6.Qxd4 Qxd4 7.Nxd4 Bd6
+C68	Barendregt-Fischer Var, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Bxc6 dxc6 5.O-O
+C68	King's Bishop Variation, Ruy Lopez Exchange	1.e4 e5 2.Nf3 Nc6
+3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bd6
+C68	Alapin Gambit, Ruy Lopez Exchange	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Bxc6 dxc6 5.O-O Bg4 6.h3 h5
+C69	Gligoric Variation, Ruy Lopez; C69	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Bxc6 dxc6 5.O-O f6
+C69	Bronstein Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6
+5.O-O Qd6
+C70	Morphy Defense, Ruy Lopez; C70	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4
+C70	Caro Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5
+C70	Graz Variation, Ruy	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Bc5
+C70	Furman-Taimanov; Wing Var, Ruy; Norwegian Variation	1.e4 e5 2.Nf3
+Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Na5
+C70	Nightingale Gambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5
+5.Bb3 Na5 6.Bxf7+
+C70	Alapin's Defense Deferred, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Bb4
+C70	Classical Defense Deferred, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Bc5
+C70	Schliemann Defense Deferred, Ruy	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 f5
+C70	Jaenisch Gambit Deferred, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 f5 5.exf5
+C70	Cozio Defense Deferred, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nge7
+C71	Steinitz Defense Deferred; Ruy Lopez; C71	1.e4 e5 2.Nf3 Nc6
+3.Bb5 a6 4.Ba4 d6
+C71	Modern Steinitz Defense, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 d6
+C71	Keres Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6
+5.c4
+C71	Noah's Ark Trap, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6
+5.d4 b5 6.Bb3 exd4 7.Nxd4 Nxd4 8.Qxd4 c5 9.Qd5 Be6 10.Qc6+ Bd7
+C72	C72	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O
+C73	C73	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6
+C73	Richter Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6
+5.Bxc6+ bxc6 6.d4
+C73	Alapin Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6
+5.Bxc6+ bxc6 6.d4 f6
+C74	C74	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3
+C74	Siesta Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6

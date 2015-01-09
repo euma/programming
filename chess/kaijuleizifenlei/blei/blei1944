@@ -1,0 +1,600 @@
+[Black "Ijzermans, Cees"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2071"]
+[PlyCount "39"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bb5+ Nd7 6. O-O a6 7. Bxd7+ Bxd7 8.
+d3 e6 9. Kh1 Ne7 10. d4 cxd4 11. Nxd4 O-O 12. Be3 Rc8 13. Rf2 e5 14. fxe5 dxe5
+15. Nb3 f5 16. Rd2 fxe4 17. Rxd7 Rf1+ 18. Qxf1 Qxd7 19. Nc5 Qc6 20. Qc4+ 1-0
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.08"]
+[Round "8"]
+[White "Westerweele, Henrik"]
+[Black "Vanderhallen, Nicolas"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2035"]
+[BlackElo "2225"]
+[PlyCount "76"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. Bf4 cxd4 8.
+cxd4 Nc6 9. Nc3 Bb4 10. O-O Qd8 11. Qb3 O-O 12. Rfd1 Qe7 13. Bg5 Bxc3 14. bxc3
+Rfd8 15. Rab1 b6 16. Qb5 Rac8 17. Ne5 Bxe2 18. Qxe2 h6 19. Bh4 g5 20. Bg3 Nxe5
+21. Bxe5 Nd5 22. Rbc1 Rxc3 23. Qh5 Rxc1 24. Rxc1 f6 25. Bg3 Kg7 26. h4 Qd7 27.
+Qg4 Rc8 28. Re1 Rc6 29. hxg5 hxg5 30. Be5 fxe5 31. Qxg5+ Kf8 32. Re4 Qe7 33.
+Qxe5 Rc1+ 34. Kh2 Qc7 35. Rh4 Qxe5+ 36. dxe5 Kg7 37. Rg4+ Kf7 38. Ra4 a5 0-1
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.08"]
+[Round "8"]
+[White "Zaragatski, Ilja"]
+[Black "Ikonnikov, Vyacheslav"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "2419"]
+[BlackElo "2592"]
+[PlyCount "106"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. b3 Nf6 8. Bd3
+O-O 9. O-O Nd7 10. N1c3 a6 11. Na3 Nc5 12. Bb1 Bg5 13. Bb2 Rb8 14. Nc2 b5 15.
+cxb5 axb5 16. b4 Na4 17. Nxa4 bxa4 18. a3 Na5 19. Ne3 Nb3 20. Ra2 Bxe3 21. fxe3
+Be6 22. Bc3 Qb6 23. Qe1 Rbc8 24. Rc2 Bc4 25. Rff2 Bd3 26. Bb2 Bxc2 27. Bxc2 Rc7
+28. Re2 Rfc8 29. Qd1 Rxc2 30. Rxc2 Qxe3+ 31. Rf2 Qxe4 32. h3 Qc6 33. Qg4 Rf8
+34. Qf5 Qb6 35. Kh2 Nd4 36. Qd7 Nb5 37. Rc2 g6 38. Bc1 Kg7 39. Bg5 h6 40. Be7
+Rb8 41. Rd2 Qb7 42. Bxd6 Nxd6 43. Rxd6 Qe4 44. Qxa4 Rc8 45. Qb3 Qf4+ 46. Kh1
+Qf1+ 47. Kh2 Rc1 48. Qf3 Qg1+ 49. Kg3 Rf1 50. Qe4 Qf2+ 51. Kh2 Re1 52. Qc6 Qf4+
+53. g3 Re2+ 0-1
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.08"]
+[Round "8"]
+[White "Zimmerman, Luc"]
+[Black "Heine, Ivar"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2084"]
+[BlackElo "1953"]
+[PlyCount "43"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. Nf3 Bg4 7. h3 Bxf3 8. gxf3
+Nbd7 9. f4 e5 10. fxe5 dxe5 11. dxe5 Nxe5 12. Qxd8+ Rxd8 13. Be2 b6 14. f4 Ned7
+15. e5 Nh5 16. Ne4 Bh6 17. Bxh5 gxh5 18. Nd6+ Kf8 19. Nf5 Bg7 20. O-O-O Rg8 21.
+Bf2 Ke8 22. Rhg1 1-0
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Bezemer, Arno"]
+[Black "Landa, Konstantin"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2324"]
+[BlackElo "2615"]
+[PlyCount "80"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 e6 10. Qxb7 Nxd4 11. Bb5+ Nxb5 12. Qc6+ Ke7 13. Qxb5 Qd7 14.
+Nxd5+ Qxd5 15. Qxd5 exd5 16. Be3 Ke6 17. O-O-O Bb4 18. Rhg1 g6 19. Rg4 a5 20.
+Rgd4 Rhd8 21. R4d3 Rab8 22. Bd4 f6 23. h3 Bd6 24. b3 Be5 25. Rc3 Rb4 26. Re3
+Kd6 27. Red3 Rc8+ 28. Kb1 Rxd4 29. Rxd4 Bxd4 30. Rxd4 Rc3 31. Rf4 Ke5 32. Ra4
+Rxf3 33. Rxa5 Rxf2 34. b4 Kd6 35. b5 d4 36. b6 d3 37. Rb5 Rf1+ 38. Kb2 d2 39.
+b7 Rb1+ 40. Kxb1 d1=Q+ 0-1
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Bok, Benjamin"]
+[Black "Spoelman, Wouter"]
+[Result "0-1"]
+[ECO "B99"]
+[WhiteElo "2212"]
+[BlackElo "2448"]
+[PlyCount "58"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15.
+gxf6 Bf8 16. Rg1 h5 17. a3 Rb8 18. Bh3 b4 19. axb4 Rxb4 20. Nd5 exd5 21. exd5
+Bh6+ 22. Kb1 Bxh3 23. Qxh3 Kf8 24. Rge1 Na4 25. Nc6 Rxb2+ 26. Ka1 Bg5 27. Qf5
+Qb7 28. Rb1 Bd2 29. Nd8 Qb4 0-1
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "De Jong, Migchiel"]
+[Black "Mekhitarian, Krikor Sevag"]
+[Result "1/2-1/2"]
+[ECO "B56"]
+[WhiteElo "2324"]
+[BlackElo "2504"]
+[PlyCount "91"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. f3 e5 7. Nb3 Be7 8. Be3
+O-O 9. Qd2 a5 10. Bb5 Be6 11. Rd1 Na7 12. Be2 Nc6 13. Bb5 Na7 14. Be2 Nc8 15.
+Nd5 Bxd5 16. exd5 Qc7 17. c4 a4 18. Na1 Nd7 19. Nc2 Qb8 20. O-O Bd8 21. Kh1 Bb6
+22. f4 Qc7 23. Bd3 Bxe3 24. Nxe3 exf4 25. Rxf4 Ne7 26. Rh4 f5 27. g4 Ne5 28.
+Nxf5 Nf3 29. Qf2 Nxh4 30. Qxh4 Nxf5 31. Bxf5 g6 32. Be6+ Kh8 33. g5 Qg7 34. c5
+dxc5 35. d6 Qxb2 36. d7 Qe2 37. Qe1 Qxe1+ 38. Rxe1 Rad8 39. Rb1 h6 40. Rxb7
+hxg5 41. Rc7 Kg7 42. Rxc5 Kf6 43. Bg4 Rb8 44. Rc6+ Ke5 45. Kg2 a3 46. Kg3
+1/2-1/2
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Diamant, Andre"]
+[Black "Go, Benjamin"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2393"]
+[BlackElo "2184"]
+[PlyCount "79"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. c4 Nb6 6. e6 fxe6 7. Bd3 g6 8. h4
+Bg7 9. Be3 e5 10. d5 Nd4 11. Bxd4 exd4 12. Ng5 O-O 13. Qe2 c6 14. Nd2 Bf5 15.
+Bxf5 Rxf5 16. Qe6+ Kh8 17. Nf7+ Rxf7 18. Qxf7 cxd5 19. cxd5 Qg8 20. Qxg8+ Kxg8
+21. O-O-O Nxd5 22. Rhe1 e5 23. Ne4 Rd8 24. g3 Nb6 25. Kb1 d5 26. Nc5 Kf7 27.
+Nxb7 Rb8 28. Nc5 Nc4 29. b3 Na3+ 30. Kb2 Nb5 31. Nd7 Re8 32. b4 e4 33. Kb3 d3
+34. Nc5 Rc8 35. Rf1 a5 36. f3 a4+ 37. Kxa4 Nc3+ 38. Kb3 Rxc5 39. fxe4+ Ke6 40.
+bxc5 1-0
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Duinmaijer, Martin"]
+[Black "Ducarmon, Quinten"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "1816"]
+[BlackElo "2087"]
+[PlyCount "42"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 g6 5. O-O Bg7 6. Re1 O-O 7. Bf1 Nc6 8. Na3
+e5 9. d4 Bg4 10. dxc5 dxc5 11. Bg5 h6 12. Bh4 Qe7 13. Nc4 Rfd8 14. Qe2 Qc7 15.
+Bg3 Nh7 16. Qe3 b6 17. Bh4 Rd7 18. Rad1 Rxd1 19. Rxd1 Bf8 20. h3 Be6 21. b3 Kg7
+1/2-1/2
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Genzling, Alain"]
+[Black "Pijpers, Arthur"]
+[Result "1-0"]
+[ECO "B91"]
+[WhiteElo "2326"]
+[BlackElo "2150"]
+[PlyCount "57"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 Nbd7 8. a4
+b6 9. Bg2 Bb7 10. O-O Be7 11. Re1 Rc8 12. Nd2 Rc5 13. Nf1 Qa8 14. Ne3 Nxe4 15.
+Nxe4 Bxe4 16. f3 Bb7 17. Nf5 g6 18. Nxd6+ Bxd6 19. Qxd6 Qb8 20. Qd3 Qc7 21. Bh6
+Rxc2 22. Rac1 Rxc1 23. Rxc1 Qd8 24. Qd6 Qe7 25. Qc7 Bd5 26. Bh3 Be6 27. Bxe6
+fxe6 28. Qc8+ Qd8 29. Bg5 1-0
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Leentjens, Gilbert"]
+[Black "Kerkvliet, Max"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1855"]
+[BlackElo "2042"]
+[PlyCount "50"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 e6 5. Bc4 Nf6 6. O-O Be7 7. d3 O-O 8. Bb3
+a6 9. a4 Rb8 10. Qe1 b5 11. axb5 axb5 12. Ne2 Qc7 13. Bd2 c4 14. e5 cxb3 15.
+exf6 Bxf6 16. c3 b4 17. cxb4 Nxb4 18. d4 Nd3 19. Ba5 Qc2 20. Qd1 Qxd1 21. Rfxd1
+Nxb2 22. Rdb1 Nc4 23. Bc3 Bd7 24. Ra7 Bc6 25. Rc7 Be4 0-1
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Llaneza Vega, Marcos"]
+[Black "Bach, Matthias"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[WhiteElo "2468"]
+[BlackElo "2272"]
+[PlyCount "105"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Ne4 b6 6. c4 Nb4 7. d4 Bb7 8. d5
+exd5 9. cxd5 Bxd5 10. Nc3 Be6 11. a3 N4c6 12. Bg5 Be7 13. Bxe7 Nxe7 14. Bd3 O-O
+15. O-O Nbc6 16. Qc2 h6 17. Qa4 f6 18. Rae1 fxe5 19. Nxe5 Nd4 20. Nb5 Nef5 21.
+Be4 Bb3 22. Qa6 d5 23. Nxd4 Nxd4 24. Bb1 c4 25. Qb7 Bc2 26. Bxc2 Nxc2 27. Rd1
+Rb8 28. Qd7 Qxd7 29. Nxd7 d4 30. Rd2 d3 31. Rc1 b5 32. Nxb8 Rxb8 33. Rcxc2 dxc2
+34. Rxc2 Rd8 35. Kf1 Rd3 36. a4 a6 37. axb5 axb5 38. Ke2 Kf7 39. Rc3 Rxc3 40.
+bxc3 Ke6 41. Ke3 Kd5 42. f4 Kc5 43. Kd2 b4 44. cxb4+ Kxb4 45. Kc2 h5 46. f5 Kc5
+47. Kc3 Kd5 48. g3 Ke4 49. Kxc4 Kxf5 50. Kd5 Kg4 51. Ke5 g5 52. h4 gxh4 53. Kd4
+1/2-1/2
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Meulblok, Willy"]
+[Black "Van den Berg, AMJ."]
+[Result "0-1"]
+[ECO "B82"]
+[WhiteElo "2067"]
+[BlackElo "2204"]
+[PlyCount "76"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Nb3 e6 8.
+Be3 Qc7 9. f4 a6 10. Qf3 b5 11. Bd3 Bb7 12. O-O Be7 13. Rae1 g6 14. Qh3 h5 15.
+Kh1 Ng4 16. Bg1 Nb4 17. Qg3 Qd8 18. Qh3 Rc8 19. a3 Nxd3 20. Qxd3 O-O 21. h3 Nf6
+22. Bd4 h4 23. Nd2 Nh5 24. Ne2 Qc7 25. Bc3 d5 26. Qd4 e5 27. fxe5 Bc5 28. Qd3
+Rcd8 29. Bd4 dxe4 30. Qc3 Rxd4 31. Nxd4 Ng3+ 32. Kg1 Qxe5 33. N2b3 Bb6 34. Rf2
+Rc8 35. Qe3 Bd5 36. Qf4 Qxf4 37. Rxf4 Bxb3 38. cxb3 Bxd4+ 0-1
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Reyniers, Pieter"]
+[Black "In't Veld, Daan"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2027"]
+[BlackElo "2170"]
+[PlyCount "72"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. a3 Bb7 8. O-O
+Nf6 9. Bf3 d6 10. g3 Be7 11. Bg2 O-O 12. Be3 Nbd7 13. f3 Nb6 14. Nce2 Rad8 15.
+b3 Rc8 16. Qd2 g6 17. Qa5 Nbd7 18. Qxc7 Rxc7 19. c3 Nc5 20. Rab1 d5 21. e5 Nfd7
+22. f4 Ne4 23. Bxe4 dxe4 24. a4 bxa4 25. bxa4 Bd5 26. Rfd1 Rfc8 27. Nb3 Rc4 28.
+a5 Ra4 29. Kf2 Ra3 30. Bc1 Ra2 31. Rd2 Ra4 32. Rd4 Nc5 33. Rxa4 Nxa4 34. Bd2
+Rb8 35. Nec1 Nc5 36. Nxc5 Bxc5+ 0-1
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Riemens, Albert"]
+[Black "Onrust, Benny"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[WhiteElo "2140"]
+[BlackElo "1961"]
+[PlyCount "74"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. Nce2 Ng4 5. f4 h5 6. Nf3 c5 7. b4 e6 8. h3 Nh6
+9. Ng3 h4 10. Ne4 cxb4 11. Bb2 Nf5 12. Bd3 Nc6 13. O-O a6 14. Qe2 b5 15. Nfg5
+Bb7 16. Rae1 Rc8 17. Qg4 Qd5 18. Nxf7 Kxf7 19. Ng5+ Ke7 20. Nxe6 Nh6 21. Qg5+
+Kxe6 22. f5+ Kd7 23. Be4 Qc5 24. Rf4 Kc7 25. Bxc6 Bxc6 26. Bxd4 Qd5 27. e6
+Qxg2+ 28. Qxg2 Bxg2 29. e7 Re8 30. Be5+ Kc6 31. exf8=Q Rhxf8 32. Kxg2 Rxf5 33.
+Rfe4 Kd5 34. Rd4+ Kc6 35. Rd6+ Kb7 36. d4 Rg5+ 37. Kh2 Rf8 1/2-1/2
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Roggeveen, Wouter"]
+[Black "Grochal, Joey"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2009"]
+[BlackElo "2161"]
+[PlyCount "92"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. c4 Be7 10. Be2 a6 11. Nc3 O-O 12. O-O f5 13. f4 Nd7 14. Rb1 Bf6 15.
+Qc2 g6 16. b4 b6 17. Na4 Rb8 18. Rb3 Qc7 19. Nb2 Kg7 20. Be3 exf4 21. Bxf4 Ne5
+22. Rg3 Kh8 23. Rc1 Bb7 24. Qd2 Rfe8 25. Bf1 Qf7 26. Na4 Ba8 27. Be3 Nd7 28. c5
+bxc5 29. bxc5 Qxd5 30. Qxd5 Bxd5 31. c6 Bxc6 32. Rxc6 Rxe3 33. Rxd6 Rxg3 34.
+hxg3 Rb4 35. Rxa6 Bd4+ 36. Kh2 Ne5 37. g4 Nxg4+ 38. Kh3 Rb1 39. Be2 Nf2+ 40.
+Kg3 Ne4+ 41. Kf4 Re1 42. Bf3 Be5+ 43. Kxe5 Nc5+ 44. Kf6 Nxa6 45. Nb6 Nc7 46. a4
+Re6+ 0-1
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Steil Antoni, Fiona"]
+[Black "Van de Meerakker, Theo"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2103"]
+[PlyCount "126"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 7. g4 Bg6 8.
+Ne5 c6 9. Bg2 Nbd7 10. Nxg6 hxg6 11. a3 e6 12. O-O Bd6 13. Re1 O-O-O 14. Be3
+Bb8 15. b4 Qc7 16. b5 Rxh3 17. bxc6 bxc6 18. Rb1 Nb6 19. f4 Rg3 20. Qd3 Rxg4
+21. Na4 Kd7 22. Nc5+ Ke7 23. Na6 Qd7 24. Nxb8 Rxb8 25. Kf1 Rxg2 26. Kxg2 Qd5+
+27. Kf1 Rh8 28. Bg1 Rh4 29. Qe3 Qf5 30. Re2 Ne4 31. d5 Rxf4+ 32. Bf2 Rxf2+ 33.
+Rxf2 Qxf2+ 34. Qxf2 Nxf2 35. Kxf2 cxd5 36. Rb4 Kd7 37. a4 Kc7 38. Rf4 f6 39.
+Rh4 Kc6 40. Rh7 Nxa4 41. Rxg7 a5 42. Rxg6 Nc5 43. Ke3 Nd7 44. Rg7 a4 45. Kd4
+e5+ 46. Kc3 Kd6 47. Rg8 Nb6 48. Rf8 Ke6 49. Rb8 Nc4 50. Ra8 a3 51. Kb4 Kf5 52.
+Kc5 Ke4 53. Rd8 Ne3 54. c3 f5 55. Ra8 Nc2 56. Ra4+ d4 57. cxd4 exd4 58. Kc4 Ke3
+59. Ra8 f4 60. Kb3 d3 61. Re8+ Kd2 62. Rf8 f3 63. Rf7 Ke2 0-1
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Straat, Rody F"]
+[Black "Van de Wynkele, Eric"]
+[Result "1/2-1/2"]
+[ECO "B03"]
+[WhiteElo "2202"]
+[BlackElo "2071"]
+[PlyCount "98"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 c5 7. d5 g6 8. Nc3
+Bg7 9. Bf4 O-O 10. Qe2 e6 11. O-O-O exd5 12. cxd5 Re8 13. h3 Bxe5 14. Bxe5 Qg5+
+15. Kb1 Qxe5 16. Qxe5 Rxe5 17. Nf3 Re3 18. Kc1 Bd7 19. Bd3 c4 20. Bc2 Na6 21.
+a3 Rae8 22. Rd4 Nc5 23. Nd2 Re1+ 24. Rxe1 Rxe1+ 25. Nd1 Ba4 26. Bxa4 Nbxa4 27.
+d6 Nb6 28. Kc2 Re2 29. g4 Kf8 30. h4 Ke8 31. Kc3 Rxd2 32. Kxd2 Nb3+ 33. Kc3
+Nxd4 34. Kxd4 Kd7 35. Ke5 Nc8 36. Kf6 Nxd6 37. Kg7 f5 38. Kxh7 fxg4 39. Kxg6
+Ke7 40. Ne3 g3 41. Kg5 b5 42. Kf4 Ke6 43. Kxg3 c3 44. b4 Nf5+ 45. Kf2 Nxh4 46.
+Ke2 Nf5 47. Nc2 Kd5 48. Kd3 a6 49. Kxc3 Nd6 1/2-1/2
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Tan, Matthew"]
+[Black "Gonzalez Vidal, Yuri"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2319"]
+[BlackElo "2464"]
+[PlyCount "85"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4 8.
+Nxd4 Bg7 9. f3 O-O 10. O-O Nc6 11. Nde2 a6 12. a4 e6 13. Bg5 Qc7 14. Kh1 Rfd8
+15. b3 h6 16. Bh4 Qa5 17. Rc1 Rd7 18. Qc2 g5 19. Bg3 d5 20. cxd5 exd5 21. e5
+Nh5 22. Qf5 Re7 23. f4 d4 24. fxg5 Nxg3+ 25. Nxg3 dxc3 26. gxh6 Bxh6 27. Nh5
+Bxc1 28. Nf6+ Kf8 29. Qh7 Rxe5 30. Nd7+ Ke7 31. Qxf7+ Kd8 32. Nxe5 Qxe5 33.
+Qxb7 Bf4 34. Qxa8+ Kc7 35. Qg8 Kb6 36. Qc4 Bxh2 37. Rf3 Bg3 38. a5+ Kc7 39.
+Qf7+ Ne7 40. Rxg3 Qxg3 41. Qxe7+ Kc6 42. Qe6+ Kc7 43. Qe7+ 1/2-1/2
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Ten Hagen, Yorick"]
+[Black "Gorissen, Hugo"]
+[Result "1-0"]
+[ECO "B35"]
+[WhiteElo "2152"]
+[BlackElo "2054"]
+[PlyCount "51"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 a5 9. f3 d5 10. Bxd5 Nxd5 11. Nxd5 e6 12. Nxc6 bxc6 13. Nb6 Rb8 14. Qxd8
+Rxd8 15. Rb1 Ba6 16. Na4 Bd4 17. Bxd4 Rxd4 18. Nc3 f5 19. b3 Rbd8 20. Rd1 e5
+21. Rxd4 exd4 22. Na4 d3 23. c4 fxe4 24. Nc5 Bxc4 25. bxc4 Rb8 26. O-O 1-0
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Timmermans, Ivo"]
+[Black "Zimmerman, Luc"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[WhiteElo "2220"]
+[BlackElo "2084"]
+[PlyCount "36"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 Qc7 10. O-O-O Nbd7 11. Be2 b5 12. Bxf6 Nxf6 13. e5 Bb7 14. Qg3 dxe5
+15. fxe5 Nd7 16. Bf3 Bxf3 17. Nxf3 O-O 18. Rhe1 Nc5 1/2-1/2
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Van Eijk, Sander"]
+[Black "Jerez Perez, Alfonso"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2315"]
+[BlackElo "2410"]
+[PlyCount "95"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Bc4 e6 4. Qe2 Nd4 5. Qd3 c5 6. Nf3 d5 7. exd5 exd5 8.
+Bb5+ Nxb5 9. Qxb5+ Qd7 10. Ne5 Qxb5 11. Nxb5 Ke7 12. d4 cxd4 13. Bf4 Be6 14.
+O-O-O Ne4 15. Nd3 a6 16. Nxd4 g5 17. Be3 h6 18. Rhe1 Bg7 19. f3 Nd6 20. Re2
+Rhe8 21. Rde1 Kf8 22. Nxe6+ Rxe6 23. Bc5 Ke7 24. Nb4 Rxe2 25. Rxe2+ Kd7 26.
+Nxd5 Kc6 27. Bxd6 Kxd6 28. Ne7 Bf8 29. Nf5+ Kd7 30. c4 Rc8 31. b3 b5 32. Re4
+Rc5 33. g4 h5 34. Kc2 hxg4 35. fxg4 bxc4 36. Rxc4 Re5 37. Kd3 a5 38. Re4 Rb5
+39. Rd4+ Kc7 40. Ke4 f6 41. Rd5 Rb4+ 42. Nd4 a4 43. Rb5 axb3 44. Rxb4 Bxb4 45.
+axb3 Kd6 46. Kf5 Kd5 47. Ne6 Bc3 48. Nc7+ 1-0
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Van Veenendaal, Elmer"]
+[Black "Miesen, Fabian"]
+[Result "1-0"]
+[ECO "B92"]
+[BlackElo "2071"]
+[PlyCount "111"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. O-O O-O 10. Kh1 b5 11. a3 Nbd7 12. f4 Rc8 13. f5 Bc4 14. Bxc4 Rxc4 15.
+Qf3 Nb6 16. Bxb6 Qxb6 17. g4 h6 18. Rg1 Nh7 19. Nd5 Qa7 20. c3 Ng5 21. Qe3 Qxe3
+22. Nxe3 Rxe4 23. Nd5 Bd8 24. Rad1 a5 25. Rg2 Nh3 26. Nd2 Rxg4 27. Rxg4 Nf2+
+28. Kg1 Nxg4 29. Ne4 Bg5 30. Nc7 Rb8 31. Nxd6 b4 32. cxb4 axb4 33. a4 Be3+ 34.
+Kg2 Bb6 35. Rc1 b3 36. Nd5 Bd4 37. Kf3 Nxh2+ 38. Kg3 Nf1+ 39. Rxf1 Rd8 40. Ne7+
+Kf8 41. Nec8 Bxb2 42. f6 gxf6 43. Rxf6 Rd7 44. Rf3 Ba3 45. Nb5 Bc5 46. Rxb3 f5
+47. Rc3 Bb4 48. Rc6 Kg7 49. Ncd6 Kg6 50. Nc4+ Kh5 51. Nxe5 Rd1 52. Nf3 Be7 53.
+Nc3 Rd3 54. Ne2 Bh4+ 55. Kg2 Bg5 56. Ng3+ 1-0
+
+[Event "Vlissingen HZ op 12th"]
+[Site "Vlissingen"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Van den Doel, Erik"]
+[Black "Afek, Yochanan"]
+[Result "1-0"]
+[ECO "B29"]
+[WhiteElo "2568"]
+[BlackElo "2321"]
+[PlyCount "53"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Bd7 6. Qe2 Nc7 7. Bc4 Nc6 8.
+Ne4 e6 9. c3 Be7 10. d4 cxd4 11. cxd4 Bb4+ 12. Nc3 Na5 13. Bd3 Nd5 14. Bd2 Nf6
+15. O-O Bc6 16. Bg5 Be7 17. Ne5 Bd5 18. Nxd5 Nxd5 19. Bb5+ Kf8 20. Qh5 g6 21.
+Qf3 f6 22. Bh6+ Kg8 23. Bd7 Qb6 24. Nc6 Kf7 25. Bxe6+ Kxe6 26. Rfe1+ Kd6 27.
+Nxe7 1-0
+
+[Event "Vlissingen HZ op 12th"]

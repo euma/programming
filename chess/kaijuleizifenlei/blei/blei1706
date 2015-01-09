@@ -1,0 +1,600 @@
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2433"]
+[BlackElo "2254"]
+[PlyCount "113"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 Nc6 8.
+O-O O-O-O 9. d5 Ne5 10. Bf4 Nxf3+ 11. Bxf3 Bxf3 12. Qxf3 e5 13. dxe6 Qxe6 14.
+Bg5 Bd6 15. Rfe1 Be5 16. Ne4 Rhe8 17. Nc5 Qd5 18. Qxd5 Rxd5 19. Bxf6 gxf6 20.
+Nd3 Re6 21. f4 Bd6 22. Rad1 c6 23. Kf1 b5 24. Re2 c5 25. Nf2 Rxd1+ 26. Nxd1 Kd7
+27. Ne3 Kc6 28. Ng4 Rxe2 29. Kxe2 Be7 30. Kd3 Kd5 31. Ne3+ Ke6 32. Ke4 Bf8 33.
+f5+ Kd6 34. Ng4 Bg7 35. h4 c4 36. Kd4 Kc6 37. a4 Kd6 38. Nf2 Kc6 39. Ne4 Bf8
+40. g4 Be7 41. g5 fxg5 42. axb5+ axb5 43. hxg5 Bf8 44. Ke5 Bg7+ 45. f6 Bf8 46.
+Nf2 Kc5 47. Ng4 b4 48. Nh6 b3 49. cxb3 cxb3 50. Nxf7 Kc6 51. Ke6 Kc5 52. Ne5
+Kd4 53. Nc6+ Ke4 54. Ne7 Kd3 55. Kf7 Kc2 56. Kxf8 Kxb2 57. Kg7 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.21"]
+[Round "3"]
+[White "Lillo Ferrer, Josep Maria"]
+[Black "Magem Badals, Jordi"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2200"]
+[BlackElo "2500"]
+[PlyCount "56"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Qd5 4. Nc3 Qd6 5. d4 Nf6 6. Nf3 a6 7. Ne5 Nc6 8.
+Bf4 Nxd4 9. Bc4 Ne6 10. Qf3 g6 11. Bg3 Qc5 12. O-O Bg7 13. Ne4 Qd4 14. Rfe1 O-O
+15. Rad1 Qxb2 16. Nxf7 Rxf7 17. h4 Nd5 18. Qxf7+ Kxf7 19. Bxd5 Ke8 20. Ng5 Nxg5
+21. hxg5 c6 22. Bd6 Bf8 23. Bb3 Bf5 24. Be5 Qa3 25. f3 Rd8 26. Rxd8+ Kxd8 27.
+g4 Bxc2 28. Bxc2 Qc5+ 0-1
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.21"]
+[Round "3"]
+[White "Perez Candelario, Manuel"]
+[Black "Burg, Twan"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2537"]
+[BlackElo "2359"]
+[PlyCount "69"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. Qd2
+O-O 9. O-O-O Be6 10. f4 Nbd7 11. f5 Bxb3 12. axb3 b5 13. Kb1 Nc5 14. Bxc5 dxc5
+15. Qe2 Qc8 16. g4 g6 17. g5 Nh5 18. Nd5 Ra7 19. Qf3 Bxg5 20. Rg1 Nf4 21. Rxg5
+Nxd5 22. Rxd5 c4 23. Bh3 f6 24. Rg1 g5 25. Rgd1 Kh8 26. Bf1 Rc7 27. bxc4 bxc4
+28. Qa3 Re8 29. Rd6 c3 30. Qxa6 Qb8 31. Rb6 Qa7 32. Qxa7 Rxa7 33. bxc3 Rea8 34.
+Kc1 Ra1+ 35. Rb1 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.21"]
+[Round "3"]
+[White "Vega Gutierrez, Sabrina Neide"]
+[Black "Ibarra Jerez, Jose Carlos"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[WhiteElo "2281"]
+[BlackElo "2496"]
+[PlyCount "50"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O b5 8. Bf3
+Ra7 9. Qe2 Be7 10. Be3 Rd7 11. e5 dxe5 12. Nc6 Qc7 13. Nxb8 Qxb8 14. Bc6 b4 15.
+Nb1 O-O 16. Bxd7 Bxd7 17. c4 e4 18. Nd2 Qe5 19. Rfb1 Bd6 20. Nf1 Bc6 21. Rd1
+Be7 22. Bd4 Qc7 23. Ng3 Nd7 24. Nxe4 e5 25. Nd2 Re8 1/2-1/2
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Caspi, Israel"]
+[Black "Andres Julia, Vicente Ramon"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2412"]
+[BlackElo "2148"]
+[PlyCount "95"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Bd7 4. Be2 Nxd5 5. d4 Bf5 6. Nf3 e6 7. a3 Be7 8.
+c4 Nb6 9. O-O Nc6 10. Be3 O-O 11. b4 Bf6 12. Ra2 Qe7 13. b5 Na5 14. Nbd2 Rfd8
+15. h3 h6 16. Qa1 Rd7 17. Qc3 c5 18. Qxa5 cxd4 19. Bf4 e5 20. Bg3 d3 21. Bd1 e4
+22. Re1 Re8 23. Nh2 Bd4 24. Bg4 g6 25. Qb4 Bc5 26. Qb3 h5 27. Bxf5 gxf5 28. Bf4
+Qh4 29. Be3 Bf8 30. Raa1 Bg7 31. Rac1 Nc8 32. f3 Red8 33. Nhf1 Bd4 34. Kh2 Bxe3
+35. Rxe3 Rd4 36. Rce1 Nd6 37. c5 f4 38. Rxe4 Nxe4 39. Rxe4 Rxe4 40. Nxe4 d2 41.
+Nfxd2 Kf8 42. Qc3 Qe1 43. Qh8+ Ke7 44. Qe5+ Kf8 45. Qxf4 h4 46. c6 bxc6 47.
+bxc6 Qc1 48. Ng5 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Edouard, Romain"]
+[Black "Damljanovic, Branko"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2508"]
+[BlackElo "2579"]
+[PlyCount "65"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Be7 9. f3 h5 10. Qf2 b5 11. Nxc6 dxc6 12. Bb6 Qf4+ 13. Be3 Qc7 14. Bb6
+Qf4+ 15. Kb1 Nd7 16. Bd4 e5 17. Be3 Qf6 18. h4 Bb4 19. Bg5 Qe6 20. Ne2 f6 21.
+Be3 Qe7 22. g4 Nf8 23. gxh5 Rxh5 24. Ng3 Rh7 25. h5 Be6 26. Bh3 Bxh3 27. Rxh3
+Rd8 28. Rhh1 Ne6 29. a3 Bc5 30. Nf5 Bxe3 31. Qxe3 Qc7 32. Qb3 Kf7 33. h6 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Strikovic, Aleksa"]
+[Black "Rodshtein, Maxim"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2512"]
+[BlackElo "2605"]
+[PlyCount "42"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 b6 7. Bd3 Be7 8. Nc3
+Nxc3 9. bxc3 Bb7 10. O-O Nc6 11. Nd2 d6 12. exd6 Qxd6 13. Re1 Kf8 14. Nc4 Qc7
+15. Qh5 Rd8 16. Bd2 Rd5 17. Qh3 h5 18. f4 Bf6 19. Ne5 Rd8 20. Rac1 Ne7 21. Ng4
+Qd6 1/2-1/2
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Van Splunter, Arjen"]
+[Black "Lopez Martinez, Josep Manuel"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2007"]
+[BlackElo "2531"]
+[PlyCount "126"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 g6 5. Nf3 Bg7 6. Na3 Nf6 7. Be2 O-O 8. Nb5
+Na6 9. O-O cxd4 10. Nbxd4 Nc5 11. Bf4 a6 12. Qc1 Nh5 13. Bh6 e5 14. Nc2 Bxh6
+15. Qxh6 f6 16. Nd2 Qf7 17. Bxh5 gxh5 18. f4 Qg6 19. Qxg6+ hxg6 20. fxe5 fxe5
+21. Rxf8+ Kxf8 22. Nc4 Nd3 23. Ne1 Nc5 24. Nxe5 Bf5 25. Rd1 Re8 26. N1f3 Na4
+27. Rd2 Kg7 28. c4 Kf6 29. b3 Nc3 30. Rd6+ Re6 31. Nd7+ Ke7 32. Rxe6+ Bxe6 33.
+Nc5 Bc8 34. a3 Kd6 35. b4 a5 36. Nd2 axb4 37. axb4 Ke5 38. Nf3+ Kf4 39. Kf2
+Ne4+ 40. Nxe4 Kxe4 41. c5 Kd5 42. Ke3 Bf5 43. Nd4 Bd7 44. Kd3 h4 45. h3 g5 46.
+Nf3 Bf5+ 47. Ke3 Be4 48. Ne1 Bf5 49. Nf3 Be4 50. b5 Bxf3 51. Kxf3 Kxc5 52. Kg4
+Kxb5 53. Kxg5 Kc6 54. Kxh4 b5 55. g4 b4 56. g5 Kd7 57. Kh5 b3 58. g6 Ke7 59.
+Kh6 b2 60. h4 b1=Q 61. h5 Kf8 62. Kh7 Qb7+ 63. Kh6 Qe7 0-1
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Bae, Torstein"]
+[Black "Butuc, Maria"]
+[Result "1-0"]
+[ECO "B18"]
+[WhiteElo "2402"]
+[BlackElo "2188"]
+[PlyCount "56"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Nc5 Qc7 6. Bd3 Bg6 7. Nf3 b6 8.
+Bxg6 hxg6 9. Ne4 Nd7 10. Qe2 e6 11. g3 Bd6 12. Nxd6+ Qxd6 13. Bf4 Qb4+ 14. c3
+Qb5 15. c4 Qb4+ 16. Kf1 Ngf6 17. a3 Qe7 18. Rd1 Nh7 19. h4 Rc8 20. Kg2 f6 21.
+Rhe1 Kf7 22. c5 Nhf8 23. Bd6 Qd8 24. b4 b5 25. Nd2 f5 26. Nf3 Qf6 27. Ng5+ Kg8
+28. Qd2 Re8 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Damljanovic, Branko"]
+[Black "Popilsky, Gil"]
+[Result "1-0"]
+[ECO "B41"]
+[WhiteElo "2579"]
+[BlackElo "2372"]
+[PlyCount "36"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Nxd4 e6 5. c4 Nf6 6. Nc3 a6 7. Be3 b6 8. g4
+Bb7 9. Bg2 h5 10. g5 Ng4 11. g6 Nxe3 12. gxf7+ Kxf7 13. fxe3 Qh4+ 14. Ke2 Rh6
+15. Nf3 Qe7 16. h4 Nc6 17. Bh3 Kg8 18. Ng5 Ne5 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Demuth, Adrien"]
+[Black "Arizmendi Martinez, Julen Luis"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2315"]
+[BlackElo "2524"]
+[PlyCount "29"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. dxe5 dxe5 7. Nf3 Bg4 8. O-O
+Nbd7 9. h3 Bxf3 10. Qxf3 exf4 11. Bxf4 Ne5 12. Qe2 Bd6 13. Nd1 O-O-O 14. Ne3
+Qc5 15. Rad1 1/2-1/2
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Edouard, Romain"]
+[Black "Granda Zuniga, Julio E"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2508"]
+[BlackElo "2599"]
+[PlyCount "39"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nh6 6. O-O Bg6 7. Bg5 Be7 8. Bxe7
+Qxe7 9. Nbd2 O-O 10. c4 Nd7 11. cxd5 exd5 12. Qb3 Rab8 13. Rfe1 f6 14. Bd3 Bxd3
+15. Qxd3 fxe5 16. Nxe5 Nxe5 17. Rxe5 Qf6 18. Nf3 Nf7 19. Re2 Rbe8 20. Rae1
+1/2-1/2
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Fernandez Barrera, Victor"]
+[Black "Magem Badals, Jordi"]
+[Result "0-1"]
+[ECO "B29"]
+[WhiteElo "2319"]
+[BlackElo "2500"]
+[PlyCount "78"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Bd7 6. Qe2 Nb4 7. Bxd7+ Qxd7
+8. d3 N8c6 9. a3 Nd5 10. Bd2 e6 11. O-O Be7 12. Ne4 Rd8 13. Rfd1 Nd4 14. Nxd4
+cxd4 15. Qg4 g6 16. Ng5 e5 17. Qxd7+ Rxd7 18. Nf3 f6 19. Re1 Kf7 20. c4 dxc3
+21. bxc3 Rc8 22. d4 exd4 23. cxd4 b5 24. Reb1 a6 25. Rb3 Rc4 26. Be3 Rdc7 27.
+Bd2 Ra4 28. Bc1 b4 29. Kf1 Nc3 30. Bb2 Nb5 31. Ra2 bxa3 32. Ba1 Rc1+ 33. Ke2
+Rb4 34. Rxb4 Bxb4 35. Kd3 a5 36. h4 a4 37. g4 Bc3 38. Bxc3 Rxc3+ 39. Ke2 Rb3
+0-1
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Huerga Leache, Mikel"]
+[Black "Jimenez Martinez, Jose Vicente"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2433"]
+[BlackElo "2223"]
+[PlyCount "61"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d6 2. d4 g6 3. Bc4 Bg7 4. Nf3 Nf6 5. Qe2 Nc6 6. h3 O-O 7. e5 Nd7 8. e6
+fxe6 9. Bxe6+ Kh8 10. c3 Nde5 11. Ng5 h6 12. h4 Nd7 13. Nf7+ Rxf7 14. Bxf7 Nf8
+15. f4 e6 16. h5 Qf6 17. hxg6 Nxg6 18. Bxg6 Qxg6 19. g4 Bd7 20. Nd2 Bxd4 21.
+Qe4 Qxe4+ 22. Nxe4 Bg7 23. g5 e5 24. gxh6 Bf8 25. Ng5 Re8 26. Kf2 d5 27. Be3
+Bg4 28. h7 Nd8 29. Rag1 d4 30. cxd4 exf4 31. Bxf4 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Lopez Martinez, Josep Manuel"]
+[Black "Ringoir, Tanguy"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2531"]
+[BlackElo "2321"]
+[PlyCount "85"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Nbd7 9. Qd2 b5 10. O-O-O Rc8 11. g4 Nb6 12. g5 Nh5 13. Na5 b4 14. Nb1 d5 15.
+exd5 Nxd5 16. Bxa6 Be7 17. Bb5+ Kf8 18. Nc6 Qc7 19. c4 Nxe3 20. Qxe3 Bxc4 21.
+Bxc4 Qxc6 22. Nd2 Qa6 23. Qb3 Bxg5 24. Kb1 Qg6+ 25. Ne4 Be7 26. Ka1 Nf4 27. h4
+Qf5 28. Nd6 Bxd6 29. Rxd6 g6 30. Rhd1 Kg7 31. Qxb4 Qc2 32. b3 Rhd8 33. Qd2 Qxd2
+34. R1xd2 Rxd6 35. Rxd6 f5 36. Kb2 Re8 37. Bb5 Re7 38. Kc2 Ne6 39. a4 Nd4+ 40.
+Kc3 Nxf3 41. a5 e4 42. Rd7 Rxd7 43. Bxd7 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Arizmendi Martinez, Julen Luis"]
+[Black "Fernandez Gil, Marco Antonio"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2524"]
+[BlackElo "2277"]
+[PlyCount "90"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 g6 2. Nf3 Bg7 3. e4 c6 4. Nc3 d5 5. Bf4 Bg4 6. exd5 cxd5 7. Nb5 Na6 8. h3
+Bxf3 9. Qxf3 Nf6 10. Bd3 O-O 11. c3 Qd7 12. O-O Rfc8 13. Rfe1 Nb8 14. Na3 Nc6
+15. Re2 a6 16. Nc2 Ra7 17. Ne3 b5 18. Bg5 Rd8 19. Rae1 Qd6 20. Bf4 Qd7 21. Bg5
+Qd6 22. Bf4 Qd7 23. b4 Rc8 24. Bg5 Rd8 25. Bc2 a5 26. Bxf6 Bxf6 27. Bb3 axb4
+28. Nxd5 Kg7 29. Nxb4 Nxb4 30. cxb4 Qxd4 31. Rd1 Qb6 32. Red2 Raa8 33. Rd7 Rxd7
+34. Rxd7 Ra7 35. Rd3 Rc7 36. g3 Rc1+ 37. Kg2 Qc6 38. Bd5 Qc7 39. h4 h5 40. Bb3
+Qe5 41. Re3 Qd6 42. Re4 Rc3 43. Qe2 Qc6 44. Kh2 Rc1 45. Qf3 Rc3 1/2-1/2
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Berkovich, Mark A"]
+[Black "Richardson, Keith B"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2396"]
+[BlackElo "2192"]
+[PlyCount "47"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. c3 Nf6 5. Bd3 O-O 6. O-O Nc6 7. Bg5 h6 8. Bh4
+e5 9. Nbd2 exd4 10. Nxd4 Nxd4 11. cxd4 c6 12. f4 Qc7 13. Kh1 Bg4 14. Qc2 Be6
+15. Rae1 Rac8 16. Bxf6 Bxf6 17. e5 dxe5 18. fxe5 Bg7 19. Ne4 Bf5 20. Nf6+ Bxf6
+21. Bxf5 gxf5 22. exf6 Rce8 23. Qxf5 Qc8 24. Qh5 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Cabezas Ayala, Ivan"]
+[Black "De la Riva Aguado, Oscar"]
+[Result "1/2-1/2"]
+[ECO "B70"]
+[WhiteElo "2336"]
+[BlackElo "2542"]
+[PlyCount "74"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nb3 Nf6 7. Be2 O-O 8.
+O-O d6 9. Bg5 a6 10. f4 b5 11. Bf3 Bb7 12. Kh1 Nd7 13. Rb1 Re8 14. Nd5 f6 15.
+Bh4 e6 16. Ne3 g5 17. Bg3 gxf4 18. Bxf4 Nde5 19. Bh5 Rf8 20. c3 Qe7 21. Bg3
+Rad8 22. Nd4 Kh8 23. Qb3 Nc4 24. Nxc4 bxc4 25. Nxc6 Bxc6 26. Qc2 f5 27. exf5
+exf5 28. Rbe1 Be4 29. Qd2 d5 30. Bf2 Rg8 31. Bf3 Qb7 32. Be3 Bd3 33. Rf2 Rde8
+34. Be2 Be4 35. Bf3 Bd3 36. Be2 Be4 37. Bf3 Bd3 1/2-1/2
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Caspi, Israel"]
+[Black "Bjerke, Silje"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2412"]
+[BlackElo "2176"]
+[PlyCount "89"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2
+Nbd7 9. O-O-O Be7 10. f4 Ng4 11. g3 Nxe3 12. Qxe3 Rc8 13. Kb1 b5 14. h4 Qb6 15.
+Qf3 b4 16. Nd5 Bxd5 17. Rxd5 Qc6 18. Bh3 Bf6 19. Bxd7+ Qxd7 20. Rhd1 Qc7 21.
+Qd3 exf4 22. e5 Bxe5 23. gxf4 Bxf4 24. Re1+ Be5 25. Rxd6 f6 26. Re6+ Kf7 27.
+R6xe5 fxe5 28. Qf5+ Ke7 29. Rxe5+ Kd8 30. Rd5+ Ke7 31. Qe4+ Kf8 32. Rf5+ Qf7
+33. Qxb4+ Kg8 34. Rxf7 Kxf7 35. Qf4+ Ke7 36. Qe5+ Kf7 37. Qf5+ Ke7 38. Nc5 Kd6
+39. Ne4+ Ke7 40. Qe5+ Kd7 41. Qd6+ Ke8 42. Qe6+ Kd8 43. Nd6 Rc6 44. Nf7+ Kc7
+45. Qe7+ 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "De la Villa Garcia, Jesus Maria"]
+[Black "Calzetta Ruiz, Monica"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "2458"]
+[BlackElo "2264"]
+[PlyCount "119"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 d6 8. f3
+Bd7 9. Bb3 O-O 10. h4 Nxd4 11. Bxd4 b5 12. h5 a5 13. Nd5 e6 14. Bb6 Qe8 15. Nc7
+Qb8 16. Nxa8 a4 17. hxg6 hxg6 18. Bc7 Qxa8 19. Bxd6 Rc8 20. Be5 Qa7 21. c3 axb3
+22. axb3 Qe3+ 23. Qe2 Qxe2+ 24. Kxe2 Nxe4 25. Bxg7 Ng3+ 26. Ke3 Kxg7 27. Rhd1
+Bc6 28. Ra6 Bd5 29. b4 Rb8 30. Ra7 g5 31. Rda1 Nf5+ 32. Kf2 Nd6 33. Rc7 Rb6 34.
+Ra3 Nc4 35. Raa7 e5 36. Rc5 Be6 37. b3 Nd6 38. Rxe5 Kf6 39. Rc5 Bxb3 40. Rac7
+Be6 41. R7c6 Rxc6 42. Rxc6 Ke7 43. Ke3 Bc4 44. Ra6 Nf5+ 45. Ke4 Ng3+ 46. Ke5
+Ne2 47. Ra7+ Kd8 48. Ra3 Nf4 49. g3 Nd5 50. Kf5 f6 51. Ra7 Be2 52. Ke6 Bxf3 53.
+Rd7+ Kc8 54. Rxd5 Bxd5+ 55. Kxd5 f5 56. Ke5 f4 57. gxf4 gxf4 58. Kxf4 Kc7 59.
+Ke5 Kc6 60. Ke6 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Fluvia Poyatos, Jordi"]
+[Black "Damljanovic, Branko"]
+[Result "0-1"]
+[ECO "B41"]
+[WhiteElo "2500"]
+[BlackElo "2579"]
+[PlyCount "92"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8. a3
+Bxc3+ 9. bxc3 Ne5 10. f4 Nxd3+ 11. Qxd3 d5 12. cxd5 exd5 13. e5 Ne4 14. O-O Qc7
+15. f5 Qxc3 16. Qxc3 Nxc3 17. f6 gxf6 18. exf6 Rg8 19. Bd2 Ne4 20. Bb4 Bh3 21.
+Ra2 Rc8 22. Kh1 Bg4 23. Re1 Kd7 24. Be7 Rc4 25. Nb3 Rgc8 26. h3 Be6 27. Kh2 b5
+28. Rb2 Bf5 29. Rd1 Nc3 30. Rdd2 Be4 31. Nd4 Na4 32. Rb3 Nc5 33. Rg3 Ne6 34.
+Nf5 Rc2 35. Rxc2 Rxc2 36. Nh6 Bg6 37. Ng4 Re2 38. Kg1 h5 39. Kf1 Re4 40. Nf2
+Rf4 41. Ke1 d4 42. Ke2 Kc6 43. Nd3 Bxd3+ 44. Kxd3 Kd5 45. Rg7 Rf2 46. g3 Nxg7
+0-1
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Howell, David"]
+[Black "Panelo Munoz, Marcelo A"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "2561"]
+[BlackElo "2414"]
+[PlyCount "61"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. h3 g6 5. Bd3 Bg7 6. Bc2 e5 7. d4 exd4 8. cxd4
+O-O 9. O-O Nc6 10. d5 Nb4 11. Nc3 Nxc2 12. Qxc2 a6 13. a4 Re8 14. Re1 Nh5 15.
+Bg5 f6 16. Bd2 f5 17. Qb3 f4 18. e5 Bxe5 19. Nxe5 dxe5 20. Ne4 Bf5 21. Bc3 b6
+22. a5 b5 23. Nxc5 Qd6 24. Bb4 Rad8 25. Rad1 Qf6 26. d6+ Kg7 27. Nxa6 Kh6 28.
+Nc7 e4 29. Nxe8 Rxe8 30. Rd5 e3 31. fxe3 1-0
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Zambrana, Oswaldo"]
+[Black "Edouard, Romain"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2458"]
+[BlackElo "2508"]
+[PlyCount "86"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Bxf6
+gxf6 9. Qd2 b5 10. Bd3 Bb7 11. O-O-O Nc6 12. Nxc6 Qxc6 13. Qe2 Qc5 14. f5 e5
+15. Kb1 Bc6 16. Rhe1 Rb8 17. Qf3 Rc8 18. Ka1 Be7 19. Bf1 Bd8 20. Re2 Bb6 21.
+Nd5 Bxd5 22. Rxd5 Qc6 23. Red2 Bd4 24. Kb1 Ke7 25. Qd3 Rc7 26. a3 Rd8 27. c3
+Ba7 28. Be2 Qb6 29. Bd1 Rc6 30. Qh3 a5 31. Bb3 b4 32. cxb4 axb4 33. Qxh7 Rf8
+34. a4 Qg1+ 35. Ka2 Bd4 36. Rb5 Rc1 37. Bc2 b3+ 38. Kxb3 Qe3+ 39. Rd3 Qe2 40.
+Rb7+ Kd8 41. Rb8+ Kc7 42. Rxf8 Qxc2+ 43. Kb4 Qc4+ 0-1
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]
+[Date "2008.07.25"]
+[Round "7"]
+[White "Bae, Torstein"]
+[Black "Comas Fabrego, Luis"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2402"]
+[BlackElo "2495"]
+[PlyCount "94"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Nge2 c6 5. Be3 b5 6. Qd2 Nd7 7. Ng3 Ngf6 8. Be2
+h5 9. f3 h4 10. Nf1 Qa5 11. h3 Rb8 12. Rd1 Qc7 13. g4 Nb6 14. b3 a6 15. a3 Bb7
+16. Bf4 Nfd7 17. Bh2 Nf8 18. Qe3 e5 19. dxe5 dxe5 20. f4 Ne6 21. f5 Nf4 22. Rg1
+Nd7 23. Nd2 g5 24. Bf1 Bf8 25. Nf3 f6 26. b4 Rh7 27. Bxf4 exf4 28. Qd2 Ne5 29.
+Nxe5 Qxe5 30. Kf2 Rc7 31. Bd3 Rd8 32. Ne2 Be7 33. Qc3 Qxc3 34. Nxc3 Bd6 35. Ne2
+c5 36. c3 Be5 37. Bb1 cxb4 38. Rxd8+ Kxd8 39. Rd1+ Ke7 40. cxb4 Bb2 41. Rd3
+Bxe4 42. Rb3 Bxb1 43. Rxb2 Be4 44. Rd2 Bb7 45. Rd3 Rc2 46. Ke1 Be4 47. Rb3 Bd5
+0-1
+
+[Event "Andorra op 26th"]
+[Site "La Massana"]

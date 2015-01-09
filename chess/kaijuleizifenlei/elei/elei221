@@ -1,0 +1,600 @@
+[Site "Obninsk"]
+[Date "2008.03.02"]
+[Round "11"]
+[White "Gorbatenko, Kateryna"]
+[Black "Kovalev, Vladislav"]
+[Result "0-1"]
+[ECO "E93"]
+[WhiteElo "2091"]
+[BlackElo "2184"]
+[PlyCount "86"]
+[EventDate "2008.02.24"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 Na6 8. Bg5 h6
+9. Bh4 g5 10. Bg3 Nh5 11. Nd2 Nf4 12. O-O Nc5 13. Rb1 a5 14. f3 h5 15. Bf2 Ncd3
+16. Be3 Nxe2+ 17. Qxe2 Nf4 18. Qd1 Qe7 19. a3 Bh6 20. Kh1 Kh7 21. b4 Rg8 22. c5
+axb4 23. axb4 Bd7 24. Nc4 Rg7 25. cxd6 cxd6 26. Nb6 Rag8 27. Nxd7 Qxd7 28. Bxf4
+exf4 29. Qd3 Rg6 30. Rbc1 g4 31. Rc2 Qe7 32. Nb5 Qh4 33. Nd4 gxf3 34. Nxf3 Qe7
+35. Rfc1 R8g7 36. Rc7 Qf6 37. e5 dxe5 38. Qe4 Qb6 39. Nxe5 f3 40. Nxg6 fxg2+
+41. Qxg2 Bxc1 42. Qc2 Rxg6 43. Qxc1 Qf2 0-1
+
+[Event "Obninsk"]
+[Site "Obninsk"]
+[Date "2008.03.03"]
+[Round "13"]
+[White "Ni, Viktorija"]
+[Black "Kovalev, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[WhiteElo "2132"]
+[BlackElo "2184"]
+[PlyCount "118"]
+[EventDate "2008.02.24"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. h3 e5 7. d5 Na6 8. Bg5 Qe8
+9. g4 Nc5 10. Nd2 a5 11. b3 h6 12. Be3 Nh7 13. Rg1 Qe7 14. a3 Bd7 15. Be2 Ng5
+16. Bf1 Nh7 17. Be2 Kh8 18. Qc2 Ng5 19. Bf1 a4 20. Bxg5 Qxg5 21. b4 Nb3 22.
+Nxb3 axb3 23. Qd2 Qxd2+ 24. Kxd2 f5 25. gxf5 gxf5 26. Bd3 fxe4 27. Nxe4 Bxh3
+28. Rg3 Bf5 29. f3 Bh7 30. Rag1 Rf7 31. Ng5 hxg5 32. Rh1 Bf6 33. Rgh3 Kg7 34.
+Bxh7 Kf8 35. Bf5 Ke7 36. Be6 Rg7 37. Kc3 Rxa3 38. Kb2 Ra8 39. Kxb3 e4 40. fxe4
+Be5 41. Rg1 Ra1 42. Rxa1 Bxa1 43. Rg3 Be5 44. Rg2 Kf6 45. c5 Rh7 46. Bc8 b6 47.
+c6 Rh2 48. Rxh2 Bxh2 49. Kc4 Ke5 50. Bf5 Kf4 51. Kb5 Bg1 52. Ka6 b5 53. Kb7 Bb6
+54. Ka6 Bd4 55. Kb7 Bb6 56. Ka6 g4 57. Bxg4 Kxe4 58. Be6 Kd4 59. Kxb5 Kc3
+1/2-1/2
+
+[Event "Belgorod Rectors Cup 4th"]
+[Site "Belgorod"]
+[Date "2008.02.26"]
+[Round "2"]
+[White "Gasanov, Eldar"]
+[Black "Benza, Artyom"]
+[Result "1-0"]
+[ECO "E70"]
+[WhiteElo "2541"]
+[BlackElo "2333"]
+[PlyCount "53"]
+[EventDate "2008.02.25"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 O-O 6. Qd2 c5 7. d5 e6 8. Bd3
+exd5 9. cxd5 a6 10. a4 Nbd7 11. Nf3 Re8 12. O-O Qc7 13. h3 Rb8 14. Rfe1 c4 15.
+Bf1 Nc5 16. e5 dxe5 17. d6 Qc6 18. Nxe5 Rxe5 19. Rxe5 Nb3 20. Qf4 Nh5 21. Qe3
+Bxh3 22. Rd1 Bg4 23. d7 Bxd7 24. Red5 Re8 25. Qf3 Nc5 26. Rxc5 Qxc5 27. Rxd7
+1-0
+
+[Event "Belgorod Rectors Cup 4th"]
+[Site "Belgorod"]
+[Date "2008.02.27"]
+[Round "3"]
+[White "Melkumyan, Hrant"]
+[Black "Zakharevich, Igor"]
+[Result "1-0"]
+[ECO "E69"]
+[WhiteElo "2485"]
+[BlackElo "2457"]
+[PlyCount "65"]
+[EventDate "2008.02.25"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. h3
+Re8 9. e4 exd4 10. Nxd4 Nc5 11. Re1 c6 12. Bf4 Ne6 13. Nxe6 Bxe6 14. b3 Qc8 15.
+h4 Ng4 16. Rc1 Ne5 17. Qxd6 Rd8 18. Bxe5 Rxd6 19. Bxd6 Bh3 20. e5 Bxg2 21. Kxg2
+Qf5 22. Re3 Bh6 23. f4 Bxf4 24. gxf4 Qg4+ 25. Rg3 Qxf4 26. Re1 Re8 27. h5 Kg7
+28. Ne4 Re6 29. Re2 h6 30. Nf6 g5 31. Rf2 Qd4 32. Rgf3 Kh8 33. Bb4 1-0
+
+[Event "Belgorod Rectors Cup 4th"]
+[Site "Belgorod"]
+[Date "2008.02.28"]
+[Round "4"]
+[White "Zakharevich, Igor"]
+[Black "Benza, Artyom"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2457"]
+[BlackElo "2333"]
+[PlyCount "59"]
+[EventDate "2008.02.25"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. f3 c6 13. Kh1 h6 14. Ne6 Bxe6 15. dxe6
+Kh8 16. Bb2 Ne8 17. c5 d5 18. exd5 cxd5 19. Qb3 Nc7 20. Rad1 Qc8 21. Nb5 Nxb5
+22. Bxb5 e4 23. Bxg7+ Kxg7 24. Qc3+ Rf6 25. Bd7 Qc7 26. b5 g5 27. c6 g4 28. Qc5
+Ng6 29. fxg4 Nf4 30. Qe7+ 1-0
+
+[Event "Belgorod Rectors Cup 4th"]
+[Site "Belgorod"]
+[Date "2008.02.29"]
+[Round "5"]
+[White "Grigorian, Avetik"]
+[Black "Zakharevich, Igor"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2509"]
+[BlackElo "2457"]
+[PlyCount "73"]
+[EventDate "2008.02.25"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 Na6 8. Be3 c6
+9. g4 cxd5 10. cxd5 Bd7 11. Nd2 h5 12. Be2 hxg4 13. hxg4 Ne8 14. g5 Nac7 15. a4
+a6 16. Nc4 b5 17. Nb6 Rb8 18. a5 f5 19. gxf6 Nxf6 20. b4 Kf7 21. Kd2 Na8 22.
+Nxd7 Qxd7 23. Qg1 Rh8 24. Qg2 Rxh1 25. Rxh1 Rg8 26. Rg1 Bh8 27. Bg5 Nc7 28.
+Bxf6 Bxf6 29. Bh5 Ke7 30. Bxg6 Ne8 31. Qh1 Qa7 32. Rg2 Qd4+ 33. Kc2 Nc7 34. Bf5
+Rxg2 35. Qxg2 Qxb4 36. Qg8 Qc4 37. Be6 1-0
+
+[Event "Belgorod Rectors Cup 4th"]
+[Site "Belgorod"]
+[Date "2008.03.01"]
+[Round "6"]
+[White "Melkumyan, Hrant"]
+[Black "Benza, Artyom"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2485"]
+[BlackElo "2333"]
+[PlyCount "53"]
+[EventDate "2008.02.25"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O e5 8. d5
+Ne7 9. e4 Nd7 10. Ne1 f5 11. Nd3 Nf6 12. Bg5 fxe4 13. Nxe4 Bf5 14. Bxf6 Bxf6
+15. f4 exf4 16. Nxf6+ Rxf6 17. Nxf4 Qf8 18. Qd4 Kg7 19. h3 h5 20. Rf2 Bd7 21.
+Raf1 Ng8 22. Be4 Kh6 23. Nxg6 Rxf2 24. Rxf2 Qe8 25. Qh8+ Kg5 26. h4+ Kg4 27.
+Rf4+ 1-0
+
+[Event "Colomiers op"]
+[Site "Colomiers"]
+[Date "2008.02.25"]
+[Round "1"]
+[White "Abbasov, Farid"]
+[Black "Boulogne, Laurent"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2519"]
+[BlackElo "1910"]
+[PlyCount "51"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. Nd2 c5 7. d5 Bxc3 8. bxc3
+exd5 9. cxd5 Bxd5 10. e4 Qe7 11. Bd3 Bb7 12. O-O h6 13. Bh4 d6 14. Nc4 Nc6 15.
+Ne3 g5 16. Nf5 Qf8 17. Bg3 O-O-O 18. Qa4 h5 19. Ba6 Kc7 20. Nxd6 Rxd6 21. e5
+Bxa6 22. Qxa6 Rd5 23. exf6+ Ne5 24. c4 h4 25. Qxa7+ Kc6 26. cxd5+ 1-0
+
+[Event "Colomiers op"]
+[Site "Colomiers"]
+[Date "2008.02.25"]
+[Round "1"]
+[White "Doucet, Romain"]
+[Black "Abergel, Thal"]
+[Result "0-1"]
+[ECO "E24"]
+[WhiteElo "1900"]
+[BlackElo "2517"]
+[PlyCount "64"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 b6 6. Bg5 d5 7. cxd5 Qxd5 8.
+Bxf6 gxf6 9. Nf3 Ba6 10. Qc2 Qa5 11. g3 Nd7 12. e4 c5 13. d5 exd5 14. exd5
+O-O-O 15. Bxa6+ Qxa6 16. c4 Rde8+ 17. Kf1 h5 18. Kg2 h4 19. Nxh4 Rxh4 20. gxh4
+Rg8+ 21. Kh3 Ne5 22. Rhg1 Ng6 23. Rg4 Kb8 24. Rag1 Qc8 25. f3 Rh8 26. Kg3 f5
+27. Rg5 Qc7+ 28. Kf2 Qxh2+ 29. R1g2 Qxh4+ 30. Kf1 Qh1+ 31. Kf2 Re8 32. Rg1 Qh4+
+0-1
+
+[Event "Colomiers op"]
+[Site "Colomiers"]
+[Date "2008.02.25"]
+[Round "1"]
+[White "Mateo, Ramon"]
+[Black "Kirk, Eden"]
+[Result "1-0"]
+[ECO "E61"]
+[WhiteElo "2484"]
+[BlackElo "1899"]
+[PlyCount "53"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 c5 4. Nc3 Nc6 5. e3 d6 6. Nge2 Nf6 7. d4 Bd7 8. O-O
+O-O 9. b3 Rb8 10. Bb2 a6 11. Qd2 Qc7 12. Rac1 Rfc8 13. Rfd1 Qa5 14. Nf4 Na7 15.
+a3 Bc6 16. Bh3 Bf3 17. Bxc8 Bxd1 18. Rxd1 Rxc8 19. dxc5 Qxc5 20. Ncd5 Nxd5 21.
+Nxd5 Nc6 22. b4 Qa7 23. b5 e6 24. Nf6+ Bxf6 25. Bxf6 Ne5 26. Qxd6 Nxc4 27. Qd8+
+1-0
+
+[Event "Colomiers op"]
+[Site "Colomiers"]
+[Date "2008.02.25"]
+[Round "1"]
+[White "Palomar, Felix"]
+[Black "Barsov, Alexei"]
+[Result "0-1"]
+[ECO "E49"]
+[WhiteElo "1913"]
+[BlackElo "2521"]
+[PlyCount "60"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. e3 Nf6 5. Bd3 O-O 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Ne2 Nc6 10. O-O e5 11. d5 Na5 12. Ba2 c4 13. Qa4 Qxd5 14. Rd1 Qc5
+15. Rb1 b6 16. Ng3 Bb7 17. Qc2 Rfd8 18. Bb2 g6 19. e4 h5 20. h4 Ng4 21. Qe2 Rd3
+22. Rxd3 cxd3 23. Qf3 Nc4 24. Bxc4 Qxc4 25. Rd1 Rd8 26. Bc1 Qxc3 27. Bg5 f6 28.
+Be3 Qxa3 29. Nf1 Qa4 30. Nh2 Bxe4 0-1
+
+[Event "Colomiers op"]
+[Site "Colomiers"]
+[Date "2008.02.26"]
+[Round "3"]
+[White "Arutinian, David"]
+[Black "Marholev, Dimitar"]
+[Result "1-0"]
+[ECO "E43"]
+[WhiteElo "2576"]
+[BlackElo "2401"]
+[PlyCount "49"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Nc3 Bb4 6. Bd3 Ne4 7. O-O Bxc3 8.
+bxc3 f5 9. Ne1 O-O 10. f3 Ng5 11. Ba3 d6 12. c5 Rf6 13. Qe2 dxc5 14. dxc5 Nd7
+15. Rd1 Qc8 16. Bb5 Nxc5 17. Bxc5 bxc5 18. Nd3 Ba6 19. Nxc5 Bxb5 20. Qxb5 Nf7
+21. Nd7 Rg6 22. e4 Nd6 23. Qc6 fxe4 24. fxe4 Nf7 25. Rd2 1-0
+
+[Event "Colomiers op"]
+[Site "Colomiers"]
+[Date "2008.02.27"]
+[Round "4"]
+[White "Barsov, Alexei"]
+[Black "Sasu Ducsoara, Andreea"]
+[Result "1/2-1/2"]
+[ECO "E13"]
+[WhiteElo "2521"]
+[BlackElo "2223"]
+[PlyCount "49"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Qc2
+Bb7 9. e3 Bxc3+ 10. bxc3 d6 11. Nd2 Nxg3 12. hxg3 Nd7 13. Rh2 Qe7 14. Be2 O-O-O
+15. Bf3 f5 16. Rb1 Rdf8 17. Qa4 e5 18. Qxa7 e4 19. Be2 c5 20. Nb3 Kc7 21. Na5
+Rb8 22. Rb5 bxa5 23. Kd2 Kc8 24. Rh1 Qd8 25. Rhb1 1/2-1/2
+
+[Event "Colomiers op"]
+[Site "Colomiers"]
+[Date "2008.02.28"]
+[Round "5"]
+[White "Arutinian, David"]
+[Black "Babaev, Rashad"]
+[Result "1/2-1/2"]
+[ECO "E63"]
+[WhiteElo "2576"]
+[BlackElo "2468"]
+[PlyCount "42"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nc6 7. O-O a6 8. Qd3
+e5 9. dxe5 dxe5 10. Qxd8 Rxd8 11. Bg5 Re8 12. Nd2 h6 13. Bxf6 Bxf6 14. Nd5 Bd8
+15. c5 Be6 16. Nc4 Nb4 17. Rfd1 Rb8 18. e3 Bxd5 19. Bxd5 e4 20. a3 Nd3 21. Nd2
+Nxc5 1/2-1/2
+
+[Event "Colomiers op"]
+[Site "Colomiers"]
+[Date "2008.02.28"]
+[Round "5"]
+[White "Doncea, Vladimir"]
+[Black "Abergel, Thal"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2444"]
+[BlackElo "2517"]
+[PlyCount "172"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Qc2 e6 5. g3 Be7 6. Bg2 O-O 7. O-O dxc4 8. Qxc4
+b5 9. Qd3 Bb7 10. Nc3 Nbd7 11. Bg5 h6 12. Bxf6 Bxf6 13. Rfd1 a5 14. Rac1 Qb8
+15. Ne4 Be7 16. Ne5 Rd8 17. Nxd7 Rxd7 18. Nc5 Bxc5 19. Rxc5 Rd6 20. Rdc1 Qe8
+21. Qe4 Rad8 22. e3 Rd5 23. Qc2 Rxc5 24. Qxc5 e5 25. dxe5 Rd2 26. Qa7 Qd7 27.
+Qb8+ Kh7 28. Be4+ g6 29. h4 h5 30. e6 Qxe6 31. Qxb7 Qxe4 32. Qxf7+ Kh8 33. Qf6+
+Kh7 34. Qc3 Qd5 35. e4 Qd4 36. Qxd4 Rxd4 37. Rxc6 Rxe4 38. Rc7+ Kh6 39. Kf1 Ra4
+40. a3 b4 41. axb4 Rxb4 42. Rc2 Rb3 43. Ke2 a4 44. Rd2 Kg7 45. Kd1 a3 46. bxa3
+Rxa3 47. Ke2 Kf6 48. Rd3 Ra4 49. Rf3+ Kg7 50. Rb3 Kf6 51. Ke3 Ra2 52. Rb4 Rc2
+53. Rf4+ Kg7 54. Ra4 Kf6 55. f3 Rb2 56. Kf4 Rb6 57. Ke4 Re6+ 58. Kd4 Rd6+ 59.
+Ke3 Re6+ 60. Re4 Ra6 61. Rd4 Re6+ 62. Kd3 Ra6 63. g4 hxg4 64. fxg4 Rb6 65. Ke4
+Ke6 66. Rc4 Ra6 67. Rb4 Rc6 68. Kf3 Ra6 69. Rf4 Ra3+ 70. Kg2 Ke7 71. Rf3 Ra1
+72. g5 Rb1 73. Kg3 Ra1 74. Kg4 Rg1+ 75. Kh3 Rh1+ 76. Kg3 Rg1+ 77. Kh2 Ra1 78.
+Rf4 Ra3 79. Kg2 Rb3 80. Rf6 Rb2+ 81. Kf3 Rb3+ 82. Kg4 Rb4+ 83. Rf4 Rb2 84. Rf6
+Rb4+ 85. Kg3 Rb3+ 86. Rf3 Rb4 1/2-1/2
+
+[Event "Colomiers op"]
+[Site "Colomiers"]
+[Date "2008.02.29"]
+[Round "7"]
+[White "Doncea, Vladimir"]
+[Black "Barsov, Alexei"]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[WhiteElo "2444"]
+[BlackElo "2521"]
+[PlyCount "19"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Bb4+ 5. Bd2 Be7 6. Nf3 O-O 7. O-O c6 8. Qc2
+Nbd7 9. Bf4 a5 10. Nc3 1/2-1/2
+
+[Event "Colomiers op"]
+[Site "Colomiers"]
+[Date "2008.03.01"]
+[Round "8"]
+[White "Sanchez, Nicolas"]
+[Black "Collas, Silvia"]
+[Result "0-1"]
+[ECO "E10"]
+[WhiteElo "2216"]
+[BlackElo "2405"]
+[PlyCount "102"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 a6 4. Nc3 c5 5. d5 b5 6. Bg5 h6 7. Bxf6 Qxf6 8. e4 b4
+9. Na4 e5 10. Bd3 Ra7 11. O-O Rb7 12. Nd2 d6 13. Nb3 Qd8 14. Kh1 Be7 15. f4 Nd7
+16. f5 Nf6 17. Nd2 h5 18. b3 g6 19. Qe2 Kd7 20. Bc2 h4 21. Rf3 Kc7 22. a3 a5
+23. axb4 axb4 24. Nb2 Nh5 25. Nf1 Qg8 26. Ra8 Nf4 27. Qf2 Qg7 28. Nd3 gxf5 29.
+Rxf4 exf4 30. e5 h3 31. g3 fxg3 32. Nxg3 f4 33. Qxf4 dxe5 34. Qe3 Qh6 35. Qf2
+Bg4 36. d6+ Bxd6 37. Rxh8 Qxh8 38. Nxc5 Bf3+ 39. Qxf3 Bxc5 40. Qd5 Qf8 41. Bf5
+Qd6 42. Qxf7+ Kb6 43. Qd5 Qxd5+ 44. cxd5 Ra7 45. Bxh3 Ra3 46. d6 Rxb3 47. d7
+Rd3 48. Bf5 Rd1+ 49. Kg2 Kc7 50. Ne4 Be7 51. Kf3 Rf1+ 0-1
+
+[Event "ROM-ch"]
+[Site "Cluj"]
+[Date "2008.02.25"]
+[Round "1"]
+[White "Grigore, George Gabriel"]
+[Black "Helmer, Janos"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2532"]
+[BlackElo "2250"]
+[PlyCount "66"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ROM"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. Nf3 Bg7 5. Bf4 O-O 6. e3 Bg4 7. Be2 Nbd7 8. O-O
+c6 9. h3 Bxf3 10. Bxf3 e5 11. Bh2 Re8 12. Qc2 a6 13. b4 Rc8 14. c5 d5 15. a4
+exd4 16. exd4 Nf8 17. Rad1 Ne6 18. Be5 Ng5 19. Be2 Nfe4 20. Nxe4 Nxe4 21. Bxg7
+Kxg7 22. Rfe1 f5 23. b5 axb5 24. axb5 Qf6 25. Bf1 Re7 26. Re3 Ra8 27. Qb2 f4
+28. Ra3 Rxa3 29. Qxa3 Ng5 30. f3 Nf7 31. Qa4 Nh6 32. bxc6 bxc6 33. Bd3 Nf7
+1/2-1/2
+
+[Event "ROM-ch"]
+[Site "Cluj"]
+[Date "2008.02.25"]
+[Round "1"]
+[White "Miron, Lucian Costin"]
+[Black "Tatarus, Daniel Cosmin"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[WhiteElo "2408"]
+[BlackElo "2175"]
+[PlyCount "118"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ROM"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 b6 8. Bg5
+Bb7 9. Rd1 h6 10. Bf4 Qc8 11. e3 Nh5 12. Bd6 Bxd6 13. Rxd6 Qc5 14. Rd2 Nf6 15.
+Bd3 Rc8 16. O-O Na6 17. e4 Qe7 18. e5 Ne8 19. Be4 Bxe4 20. Nxe4 Nc5 21. Rfd1
+Nxe4 22. Qxe4 Qc5 23. Rd4 Qc6 24. Qf4 Rc7 25. Nd2 f6 26. exf6 Nxf6 27. Nf3 d6
+28. Rxd6 Qxc4 29. Qe5 Re8 30. h3 Rc5 31. Qe1 Rd5 32. Rxe6 Rxd1 33. Rxe8+ Nxe8
+34. Qxd1 Nf6 35. Qd8+ Kh7 36. Qd4 Qc1+ 37. Kh2 Qc7+ 38. g3 Qc2 39. Ne5 Ne4 40.
+Kg2 Nc5 41. Nc4 Nd3 42. Qe4+ Kh8 43. Qe8+ Kh7 44. Qf7 Nxb2 45. Nxb2 Qxb2 46.
+Qxa7 Qb3 47. Qe7 Qd5+ 48. Kh2 Qf5 49. Qe3 Qf6 50. Qe4+ Kh8 51. Kg2 Qd6 52. a4
+Kg8 53. Qc4+ Kh8 54. g4 Kh7 55. h4 Qd8 56. Kh3 Qf8 57. h5 Qf3+ 58. Kh4 Qxf2+
+59. Kh3 Qf3+ 1/2-1/2
+
+[Event "ROM-ch"]
+[Site "Cluj"]
+[Date "2008.02.25"]
+[Round "1"]
+[White "Varlan, Herwig Ioan"]
+[Black "Filip, Lucian"]
+[Result "0-1"]
+[ECO "E14"]
+[WhiteElo "2215"]
+[BlackElo "2462"]
+[PlyCount "152"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ROM"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. Qe2 d5 6. O-O Bd6 7. b3 O-O 8. Bb2
+Ne4 9. c4 a6 10. Nc3 Nd7 11. Rac1 f5 12. Bb1 Rf7 13. Nxe4 dxe4 14. Ne5 Nxe5 15.
+dxe5 Bf8 16. Rfd1 Qe8 17. Bd4 Rd8 18. c5 b5 19. Bc2 Bd5 20. Qe1 Ra8 21. Qa5 Qb8
+22. b4 c6 23. Bb3 Rd7 24. Qa3 a5 25. Bxd5 Rxd5 26. bxa5 Qa7 27. f4 Qxa5 28.
+Qxa5 Rxa5 29. Rd2 Kf7 30. h3 Ra4 31. Rdc2 Rd7 32. Rb1 Be7 33. g4 g6 34. g5 Rd8
+35. Rbb2 h6 36. h4 Rh8 37. Kg2 Rd8 38. Kg3 h5 39. Kf2 Ke8 40. Ke2 Rd5 41. Rc3
+Kd7 42. a3 Kc7 43. Rb4 Ra7 44. Kd2 Rd8 45. Kc2 Rda8 46. Kb2 Kc8 47. Rbb3 Bd8
+48. Rc1 b4 49. axb4 Ra2+ 50. Kc3 Rh2 51. b5 cxb5 52. Rxb5 Rxh4 53. Rbb1 Rh2 54.
+Ra1 Raa2 55. Rxa2 Rxa2 56. Kb3 Ra6 57. Bc3 Bc7 58. Bb4 Kb7 59. Ba3 Kc6 60. Rd1
+Ra8 61. Bb4 Rd8 62. Ra1 Kb5 63. Ra7 Rd3+ 64. Kc2 Rd7 65. Ba5 Kc6 66. Bb4 h4 67.
+Ra1 Kb5 68. Rb1 h3 69. Ba3+ Kc6 70. Rh1 Rh7 71. Rh2 Ba5 72. Kd1 Rd7+ 73. Kc1
+Rd3 74. Rxh3 Rxa3 75. Rh6 Rxe3 76. Rxg6 Kd5 0-1
+
+[Event "ROM-ch"]
+[Site "Cluj"]
+[Date "2008.02.26"]
+[Round "2"]
+[White "Badea, Bela"]
+[Black "Barzanu, Iulian"]
+[Result "1-0"]
+[ECO "E60"]
+[WhiteElo "2491"]
+[BlackElo "2268"]
+[PlyCount "69"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ROM"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 c5 6. c4 Nc6 7. O-O d6 8. d4
+cxd4 9. Nxd4 Bd7 10. e3 a6 11. Nc3 Nxd4 12. exd4 Bc6 13. d5 Bd7 14. a4 Rb8 15.
+a5 b5 16. axb6 Qxb6 17. Ra3 a5 18. Na2 Rfc8 19. Bd4 Qd8 20. Nc3 Ng4 21. Bxg7
+Kxg7 22. Qa1 Kg8 23. Qa2 Qb6 24. Ne4 Bf5 25. Nc3 Bd7 26. Re1 Ne5 27. Re3 f5 28.
+Qd2 Qb4 29. Qc1 Rf8 30. h3 f4 31. gxf4 Rxf4 32. Ne2 Rbf8 33. Nxf4 Rxf4 34. c5
+Bf5 35. Ra4 1-0
+
+[Event "ROM-ch"]
+[Site "Cluj"]
+[Date "2008.02.26"]
+[Round "2"]
+[White "Jianu, Vlad Cristian"]
+[Black "Manea, Alexandru"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2530"]
+[BlackElo "2380"]
+[PlyCount "101"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ROM"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Qe7 7. Bg2 Bb7 8. O-O
+a5 9. Qc2 Be4 10. Qc1 c6 11. Bf4 Bxb1 12. Rxb1 Ba3 13. Qc2 d5 14. cxd5 cxd5 15.
+Qc8+ Qd8 16. Qxd8+ Kxd8 17. Ne5 Ke7 18. Nc4 Bb4 19. Nxb6 Ra6 20. Na4 Nbd7 21.
+Rfc1 Raa8 22. Rc2 Ba3 23. Bc1 Bd6 24. Bd2 Ba3 25. Bc1 Bd6 26. Bb2 Rhb8 27. Rc6
+Rb7 28. Rbc1 Bb4 29. f3 Rab8 30. e4 Kd8 31. Kf2 Nb6 32. Nxb6 Rxb6 33. Rxb6 Rxb6
+34. Ke2 Kd7 35. Kd3 Rb8 36. Rc2 Rb7 37. Bc1 Rb8 38. Bf1 Rb7 39. Be2 Rb6 40. Bf4
+Ne8 41. Bc1 Nf6 42. Ke3 Be7 43. Bd3 h6 44. Ke2 dxe4 45. fxe4 e5 46. dxe5 Ng4
+47. Bf4 g5 48. e6+ Kxe6 49. Bc7 Rb7 50. Ba6 Ra7 51. Bc8+ 1-0
+
+[Event "ROM-ch"]
+[Site "Cluj"]
+[Date "2008.02.26"]
+[Round "2"]
+[White "Taras, Iulian"]
+[Black "Berescu, Alin"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2269"]
+[BlackElo "2498"]
+[PlyCount "69"]
+[EventDate "2008.02.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ROM"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. g3 O-O 5. Bg2 d5 6. Nf3 c5 7. cxd5 cxd4 8.
+Nxd4 Nxd5 9. Bd2 Nxc3 10. bxc3 Bc5 11. Be3 Qe7 12. O-O e5 13. Nc2 Na6 14. Bxc5
+Nxc5 15. Ne3 Be6 16. Qc2 Rfd8 17. Rfd1 Qc7 18. Bd5 Rac8 19. c4 Qe7 20. Rab1 b6
+21. Rd2 Bxd5 22. Rxd5 g6 23. Rbd1 f6 24. Rxd8+ Rxd8 25. Rxd8+ Qxd8 26. Nd5 Kg7
+27. Qc3 Qd6 28. Qa3 Qd7 29. Qf3 Qc6 30. h4 h5 31. Kh2 Qd6 32. Qa3 Qd7 33. Qf3
+Qd6 34. Qa3 Qd7 35. Qf3 1/2-1/2
+
+[Event "ROM-ch"]
+[Site "Cluj"]
+[Date "2008.02.26"]
+[Round "3"]
+[White "Anton, Teodor"]
+[Black "Parligras, Mircea"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "2242"]
+[BlackElo "2574"]
+[PlyCount "159"]
+[EventDate "2008.02.25"]

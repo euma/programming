@@ -1,0 +1,50 @@
+C31	Falkbeer Countergambit Accepted, KGD	1.e4 e5 2.f4 d5 3.exd5
+C31	Miles Gambit, KGD	1.e4 e5 2.f4 d5 3.exd5 Bc5
+C31	Nimzovich-Marshall Variation, KGD	1.e4 e5 2.f4 d5 3.exd5 c6
+C31	Marshall C-G, KGD	1.e4 e5 2.f4 d5 3.exd5 c6
+C31	Pickler Gambit, KGD	1.e4 e5 2.f4 d5 3.exd5 c6 4.dxc6 Bc5
+C31	Nimzovich Variation, KGD; Anderssen Attack	1.e4 e5 2.f4 d5 3.exd5
+e4 4.Bb5+
+C31	Blackbunre Attack, KGD	1.e4 e5 2.f4 d5 3.Nf3
+C32	Staunton Line, KGD; C32	1.e4 e5 2.f4 d5 3.exd5 e4
+C32	Reti (Charousek) Variation, KGD	1.e4 e5 2.f4 d5 3.exd5 e4 4.d3  
+C32	Morphy Defense, KGD	1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.Nc3 Bb4
+6.Bd2 e3
+C32	Keres Variation, KGD	1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.Nd2
+C32	Old Line, Falkbeer Countergambit, KGD	1.e4 e5 2.f4 d5 3.exd5 e4 4.d3
+Nf6 5.Qe2
+C32	Modern Transfer, Falkbeer Countergambit, KGD	1.e4 e5 2.f4 d5 3.exd5
+exf4
+C33	King's Gambit Accepted; C33	1.e4 e5 2.f4 exf4
+C33	Orsini Gambit, KGA	1.e4 e5 2.f4 exf4 3.b3
+C33	Schurig Gambit, KGA	1.e4 e5 2.f4 exf4 3.Bb5
+C33	Bishop's Gambit, KGA	1.e4 e5 2.f4 exf4 3.Bc4
+C33	Kieseritzky Gambit, Bishop's Gambit, KGA	1.e4 e5 2.f4 exf4
+3.Bc4 b5
+C33	Lopez Defense, KGA	1.e4 e5 2.f4 exf4 3.Bc4 c6
+C33	Bledow; Morphy Defense, KGA	1.e4 e5 2.f4 exf4 3.Bc4 d5
+C33	Bledow Countergambit, KGA	1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Nf6
+C33	Gianutio Counter-Gambit, KGA	1.e4 e5 2.f4 exf4 3.Bc4 f5
+C33	Anderssen Defense, KGA	1.e4 e5 2.f4 exf4 3.Bc4 g5
+C33	Maurian Defense, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Nc6
+C33	Cozio; Hanneken; Prussian; Lichtenhein	1.e4 e5 2.f4 exf4 3.Bc4 Nf6
+C33	Bogoljubow Variation, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3
+C33	Bogoljubov; Jaenisch Variation, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Nf6
+4.Nc3 c6
+C33	Bryan; Kieseritzky Gambit, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 b5
+C33	Greco Variation, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 Bc5
+C33	Cozio Variation, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 d6
+C33	Classical Defense, KGA; Lopez Variation	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+
+4.Kf1 g5
+C33	Grimm Attack, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 g5 5.Nc3
+Bg7 6.d4 d6 7.e5
+C33	MacDonnell Attack, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 g5 5.Nc3
+Bg7 6.d4 Ne7 7.g3
+C33	McDonnell Attack, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 g5 5.Nc3
+Bg7 6.g3  
+C33	Fraser Variation, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 g5 5.Nc3
+Bg7 6.g3 fxg3 7.Qf3
+C33	Cozio Attack, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 g5 5.Qf3
+C33	Boden Variation, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 Nc6
+C33	Jaenisch Variation, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 Nf6
+C33	Jaenisch Variation, KGA	1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 Qf6

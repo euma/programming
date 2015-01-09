@@ -1,0 +1,600 @@
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Qe7 4. Nc3 Nf6 5. d3 d6 6. Bg5 Bg4 7. h3 Bh5 8. g4
+Bg6 9. h4 h5 10. Nd2 hxg4 11. Qe2 Qd7 12. Bb5 Nh7 13. Be3 Be7 14. h5 Ng5 15.
+Bxc6 bxc6 16. O-O-O Bxh5 17. Nc4 Rb8 18. d4 d5 19. exd5 cxd5 20. Nxe5 Qe6 21.
+Bf4 f6 22. Ng6 Qd7 23. Nxh8 Ne6 24. Bg3 Bb4 25. Rxh5 g5 26. Ng6 Bxc3 27. bxc3
+Qf7 28. Rh8+ Kd7 29. Rxb8 c6 30. Nh8 Qe7 31. Qxg4 c5 32. Rb7+ Ke8 33. Rxe7+
+Kxe7 34. Re1 f5 35. Qh5 f4 36. Qf7+ Kd6 37. Rxe6# 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.13"]
+[Round "3"]
+[White "Jakavonis, Gvidas"]
+[Black "Berginas, Sigitas"]
+[Result "0-1"]
+[ECO "C00"]
+[BlackElo "1812"]
+[PlyCount "60"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d3 Nc6 5. Bg5 Qb6 6. b3 Nge7 7. Bxe7 Bxe7 8. Be2
+Qc7 9. O-O Nxe5 10. Nxe5 Qxe5 11. Nd2 Bf6 12. Rb1 O-O 13. Nf3 Qc7 14. Qd2 b6
+15. g3 Rd8 16. c4 dxc4 17. bxc4 Bb7 18. h4 Qc6 19. Rbd1 Rd4 20. Rfe1 Rg4 21.
+Kg2 Rd8 22. Qc2 Rgd4 23. Rd2 e5 24. Kh3 Qd7+ 25. Kg2 e4 26. Red1 exf3+ 27. Bxf3
+Bxf3+ 28. Kxf3 Qc6+ 29. Ke2 Re8+ 30. Kf1 Qh1# 0-1
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.13"]
+[Round "3"]
+[White "Jakovlev, Juri"]
+[Black "Juciute, Einora"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[BlackElo "1792"]
+[PlyCount "119"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 Bb5 7. c4 Bc6 8. Nc3
+cxd4 9. Qxd4 Bc5 10. Qh4 Ne7 11. O-O Nd7 12. Qg4 dxc4 13. Qxg7 Ng6 14. Qh6
+Ndxe5 15. Nxe5 Nxe5 16. Qg5 Bd4 17. Be3 h6 18. Qxe5 Bxe5 19. Bxb6 axb6 20. Bxc4
+Rg8 21. g3 Ra5 22. Rac1 h5 23. Rfe1 Bd4 24. b4 Rf5 25. Ne4 Rf4 26. Bb5 f5 27.
+Bxc6+ bxc6 28. Rxc6 fxe4 29. Rxe6+ Kf7 30. R6xe4 Bxf2+ 31. Kg2 Bxe1 32. Rxf4+
+Kg6 33. Re4 Bc3 34. Re6+ Bf6 35. Rxb6 Ra8 36. Kf3 Rxa2 37. h3 Rh2 38. Rc6 Rb2
+39. Rc4 Rb3+ 40. Kg2 Be7 41. Rc6+ Kg7 42. Rc7 Kf7 43. Rb7 Kf6 44. Rb6+ Kg5 45.
+h4+ Kf5 46. Rh6 Rxb4 47. Kh3 Bxh4 48. gxh4 Rb3+ 49. Kh2 Kg4 50. Rg6+ Kxh4 51.
+Rg2 Rh3+ 52. Kg1 Rd3 53. Kh2 Rd1 54. Rb2 Rd4 55. Rg2 Rg4 56. Rxg4+ hxg4 57. Kg2
+g3 58. Kg1 Kg4 59. Kg2 Kf4 60. Kg1 1/2-1/2
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.13"]
+[Round "3"]
+[White "Slusnys, Evaldas"]
+[Black "Jakavonis, Vilius"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "1882"]
+[PlyCount "31"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. Nc3 Bg4 5. h3 Be6 6. Nd5 Nge7 7. c3 f6 8.
+Nxc7+ Qxc7 9. Bxe6 Nd8 10. Bb3 f5 11. Qe2 f4 12. d4 Ng6 13. Ba4+ Nc6 14. d5 Qa5
+15. Qb5 Nge7 16. Qxa5 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.13"]
+[Round "3"]
+[White "Stauskas, Adolfas"]
+[Black "Jocas, Arturas"]
+[Result "1-0"]
+[ECO "C38"]
+[WhiteElo "1791"]
+[PlyCount "37"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 d6 6. c3 Nc6 7. O-O Bd7 8. b4
+Qe7 9. b5 Nd8 10. Ba3 Qf6 11. e5 dxe5 12. Nxe5 Bf5 13. Re1 Ne6 14. d5 O-O-O 15.
+Qa4 Kb8 16. Nc6+ bxc6 17. bxc6 Ka8 18. dxe6 fxe6 19. Bc5 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.13"]
+[Round "3"]
+[White "Surzikova, Vera"]
+[Black "Andriulevicius, Kestutis"]
+[Result "0-1"]
+[ECO "C25"]
+[BlackElo "1699"]
+[PlyCount "116"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nc3 e5 2. e4 g6 3. Nf3 Bg7 4. g3 Ne7 5. Bg2 d5 6. O-O dxe4 7. Nxe4 f5 8. Nc3
+e4 9. Ne1 O-O 10. d3 Bxc3 11. bxc3 Nbc6 12. Bg5 Qd5 13. Bf4 Qa5 14. Qd2 Rd8 15.
+c4 Qb6 16. Be3 Qb2 17. Qc1 Qc3 18. Bd2 Qf6 19. Bg5 Qf7 20. Qb2 Rd6 21. Bf4 Rd7
+22. Be3 b6 23. dxe4 fxe4 24. Bxe4 Qxc4 25. Bd3 Qe6 26. Bh6 Nf5 27. Bxf5 Qxf5
+28. Qb3+ Qd5 29. Qxd5+ Rxd5 30. Nd3 Rh5 31. Bf4 Bh3 32. Rfe1 Nd4 33. Re7 c5 34.
+c3 Nf3+ 35. Kh1 Bf5 36. h4 Bxd3 37. Rd1 Bb5 38. Re3 Bc6 39. Rd6 Rc8 40. Ree6
+Nd4+ 41. Rxc6 Nxc6 42. Bg5 Kf7 43. Rf6+ Kg7 44. Rd6 h6 45. Bf6+ Kf7 46. Kg2 Rf5
+47. Bh8 Rxh8 48. Rxc6 Rf8 49. Rc7+ Ke6 50. Rxa7 Rxf2+ 51. Kh3 Kd5 52. Rb7 Kc6
+53. Rg7 R8f6 54. Re7 h5 55. c4 Rxa2 56. Re4 Rff2 57. Re6+ Kb7 58. g4 Ra3+ 0-1
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.13"]
+[Round "3"]
+[White "Velioniskis, Robertas"]
+[Black "Klabyte, Rugile"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "1816"]
+[PlyCount "91"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 d6 4. Nf3 Nf6 5. d3 Bg4 6. Be2 Be7 7. O-O Qd7 8. Be3
+O-O 9. f5 Rfe8 10. a3 Rad8 11. Qe1 d5 12. Nxd5 Nxd5 13. exd5 Qxd5 14. Ng5 Bxe2
+15. Qxe2 Bxg5 16. Bxg5 f6 17. Be3 Nd4 18. Qf2 c5 19. c3 Nb3 20. Rad1 b6 21. Qc2
+Na5 22. Bf2 Nc6 23. Bh4 c4 24. dxc4 Qxc4 25. Qf2 Qb3 26. Qe2 Na5 27. Rd2 Nc4
+28. Rd3 Qxb2 29. Qg4 Rxd3 30. Qxc4+ Kf8 31. Qxd3 Qxa3 32. Rd1 Rc8 33. Be1 Qc5+
+34. Kf1 a5 35. Qd6+ Qxd6 36. Rxd6 Rb8 37. Rd7 Ra8 38. Rb7 Ra6 39. Bf2 a4 40.
+Rxb6 Rxb6 41. Bxb6 Ke7 42. Bc5+ Kd7 43. Bb4 Kc6 44. Ke2 Kb5 45. Kd3 Kc6 46. c4
+1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.13"]
+[Round "3"]
+[White "Vidginis, Vykintas"]
+[Black "Levinskaite, Neringa"]
+[Result "1-0"]
+[ECO "C65"]
+[PlyCount "57"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. d3 Bg4 6. Nd5 Be7 7. h3 Bh5 8. g4
+Bg6 9. g5 Nd7 10. h4 Bh5 11. Bd2 Nd4 12. Rh3 Nxb5 13. Be3 Nc5 14. Qd2 Qd7 15.
+d4 Nxe4 16. Qd3 Bxf3 17. Rxf3 exd4 18. Bxd4 Nxd4 19. Qxd4 Nc5 20. Qxg7 O-O-O
+21. Rxf7 Rdg8 22. Nxe7+ Kd8 23. Nxg8 Qe6+ 24. Kf1 Qh3+ 25. Ke2 Qg4+ 26. Ke3
+Qe6+ 27. Kf3 Qd5+ 28. Kg3 h5 29. gxh6 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Adomaitis, Edgaras"]
+[Black "Zitinskas, Lukas"]
+[Result "0-1"]
+[ECO "C01"]
+[BlackElo "1793"]
+[PlyCount "56"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Qf3 Bd6 5. Bd3 Ne7 6. Ne2 c6 7. c3 Nd7 8. Bg5
+O-O 9. Nd2 Qb6 10. O-O Ng6 11. h4 f6 12. Be3 Qc7 13. Qh5 f5 14. Nf3 Nf6 15. Qg5
+Ne4 16. Qh5 f4 17. Bxe4 dxe4 18. Ng5 h6 19. Qxg6 hxg5 20. hxg5 Bf5 21. Qh5 g6
+22. Qh4 fxe3 23. g4 exf2+ 24. Kg2 Be6 25. Rfb1 Qg7 26. d5 Bxd5 27. c4 Bxc4 28.
+Nd4 f1=Q+ 0-1
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Andriulevicius, Kestutis"]
+[Black "Zukauskas, Aloyzas"]
+[Result "0-1"]
+[ECO "C53"]
+[WhiteElo "1699"]
+[PlyCount "96"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nge7 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 a6 8.
+Bd3 d6 9. d5 Bxc3+ 10. bxc3 Ne5 11. Nxe5 dxe5 12. O-O O-O 13. f4 exf4 14. Bxf4
+Ng6 15. Be3 Ne5 16. Bc2 Bd7 17. Qh5 f6 18. h3 Qe7 19. Bd4 b6 20. Bb3 Kh8 21.
+Rad1 Be8 22. Qe2 Bg6 23. h4 Qe8 24. g4 h5 25. g5 Ng4 26. gxf6 gxf6 27. Rf4 Qe7
+28. Rdf1 Kg7 29. Qg2 Rae8 30. Bc2 Rf7 31. Rxg4 hxg4 32. Qxg4 Rg8 33. e5 fxe5
+34. Re1 Kf8 35. Bxg6 Rxg6 36. Qxg6 Rg7 37. Rf1+ Kg8 38. Qxg7+ Qxg7+ 39. Kh2
+exd4 40. cxd4 Qxd4 41. Rg1+ Kh7 42. Rg3 Qxd5 43. a3 c5 44. Kh3 c4 45. a4 Qd7+
+46. Kg2 Qxa4 47. h5 Qb3 48. Kf2 Qxg3+ 0-1
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Dugnaite, Gerda"]
+[Black "Surzikova, Vera"]
+[Result "1-0"]
+[ECO "C62"]
+[PlyCount "59"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. d5 Nce7 6. Bxd7+ Qxd7 7. O-O Nf6 8.
+Nc3 h6 9. Nd2 Ng6 10. Nc4 a6 11. a4 Be7 12. Qe2 O-O 13. Na5 Rab8 14. f4 exf4
+15. Bxf4 Ne5 16. Nc4 Nxc4 17. Qxc4 Nh5 18. Ne2 Nxf4 19. Nxf4 Qc8 20. Qd3 Bf6
+21. c3 c5 22. Qf3 c4 23. Nh5 Be5 24. Ng3 Qc7 25. Qg4 Qc8 26. Nf5 Kh8 27. Qh5
+Qd8 28. Rf3 Qg5 29. Qxg5 hxg5 30. Rh3+ 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Jakavonis, Vilius"]
+[Black "Vidginis, Vykintas"]
+[Result "1/2-1/2"]
+[ECO "C57"]
+[PlyCount "60"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. Bb5 Bd7 6. Qf3 d4 7. Bc4 Be6 8.
+Bxe6 fxe6 9. Nxe6 Qe7 10. Qf5 Nb4 11. Na3 Nc6 12. d3 g6 13. Nxc7+ Qxc7 14. Qxf6
+Bg7 15. Qe6+ Qe7 16. Qxe7+ Nxe7 17. c4 dxc3 18. bxc3 O-O-O 19. Kd2 Rhf8 20. f3
+g5 21. g4 Rxf3 22. Ke1 Rdf8 23. Bxg5 Nc6 24. Nc4 h6 25. Be3 h5 26. Nd6+ Kc7 27.
+Nf5 Bf6 28. g5 Bd8 29. g6 Rg8 30. g7 Bf6 1/2-1/2
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Juciute, Einora"]
+[Black "Adomavicius, Aurimas"]
+[Result "1-0"]
+[ECO "C85"]
+[WhiteElo "1792"]
+[BlackElo "1681"]
+[PlyCount "93"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Bd6 8.
+d4 Qe7 9. Bg5 h6 10. Bh4 Bg4 11. Nbd2 O-O-O 12. Bg3 Nd7 13. c3 a5 14. Qe3 f6
+15. b4 Bxf3 16. Nxf3 g5 17. dxe5 fxe5 18. h4 g4 19. Nd2 c5 20. Nb3 Kb8 21. bxc5
+Nxc5 22. Nxa5 Qf7 23. Rab1 Ka8 24. Rb2 Qd7 25. Rfb1 Rb8 26. Qe2 Ka7 27. Qe3 b6
+28. Nc4 Qe6 29. Qe2 Rhe8 30. Rd1 Rbd8 31. Rbd2 Rd7 32. Rd5 Qg6 33. Bxe5 Bxe5
+34. Nxe5 Rxe5 35. Rxe5 Rf7 36. Rd8 Qf6 37. Ree8 Qxh4 38. Ra8+ Kb7 39. e5 g3 40.
+fxg3 Qxg3 41. Qd2 Nd3 42. Rg8 Qe1+ 43. Qxe1 Nxe1 44. e6 Re7 45. Rae8 Rh7 46.
+Rg6 Nd3 47. e7 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Levinskaite, Neringa"]
+[Black "Lakavicius, Gediminas"]
+[Result "0-1"]
+[ECO "C45"]
+[PlyCount "64"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 d5 5. Bb5 Nge7 6. Nc3 a6 7. Bxc6+ bxc6
+8. Bf4 c5 9. Nf3 d4 10. Ne2 Ng6 11. Bg3 Rb8 12. b3 Be7 13. c3 d3 14. Nf4 Nxf4
+15. Bxf4 Bg4 16. Bd2 O-O 17. O-O f5 18. exf5 Rxf5 19. h3 Bxf3 20. gxf3 Rb6 21.
+Kh1 Rh5 22. Kh2 Rg6 23. f4 Rgh6 24. f5 Rxh3+ 25. Kg2 Rh2+ 26. Kg1 Rh1+ 27. Kg2
+R6h2+ 28. Kg3 Bd6+ 29. f4 Qh4+ 30. Kf3 Qh3+ 31. Ke4 Re2+ 32. Kd5 Qg2+ 0-1
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Lukosevicius, Kestutis"]
+[Black "Butvilaite, Berta Reja"]
+[Result "1-0"]
+[ECO "C25"]
+[PlyCount "51"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 d6 5. Bc4 Be6 6. Bb5 a6 7. Bxc6+ bxc6 8.
+d4 Nf6 9. Bxf4 d5 10. Bg5 Bb4 11. e5 Bg4 12. exf6 gxf6 13. Qe2+ Be6 14. Bh4 Be7
+15. O-O Rg8 16. Na4 Bh3 17. Rf2 Qd6 18. Re1 Qe6 19. Nc5 Bxc5 20. Qd2 Qxe1+ 21.
+Qxe1+ Be7 22. Bxf6 Be6 23. Bxe7 Kxe7 24. Ne5 Kd6 25. Qb4+ c5 26. Qxc5# 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Narva, Ann"]
+[Black "Stitilis, Arnoldas"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[WhiteElo "1647"]
+[BlackElo "1792"]
+[PlyCount "96"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 Nf6 5. d3 d6 6. h3 a6 7. Nge2 Be6 8. a3
+Bb6 9. Nd5 Bxd5 10. exd5 Ne7 11. c4 Ng6 12. O-O h5 13. Re1 Kf8 14. Nc3 Qd7 15.
+b4 Ne7 16. Be3 Bxe3 17. fxe3 Nf5 18. Qf3 Rh6 19. Rf1 Ne7 20. Ne4 Neg8 21. Ng5
+h4 22. g4 Rg6 23. Ne4 Nxe4 24. Qxe4 Ke7 25. Rf5 Rf8 26. Qf3 Ke8 27. Qf2 Qe7 28.
+Rf1 Rh6 29. g5 Rh8 30. g6 Nh6 31. gxf7+ Rxf7 32. Rxf7 Nxf7 33. d4 Rf8 34. Qd2
+Kd8 35. c5 Rg8 36. Qf2 Nh6 37. c6 b6 38. dxe5 dxe5 39. Qe2 b5 40. e4 Nf7 41.
+Qf2 Nd6 42. Qa7 Rf8 43. Qa8+ Nc8 44. Rxf8+ Qxf8 45. Qxa6 Nd6 46. Qa7 Qf4 47.
+Qb8+ Nc8 48. Qxb5 Qe3+ 1/2-1/2
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Narva, Mai"]
+[Black "Jurkunas, Marijus"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "51"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. h3 Be7 8. O-O
+O-O 9. Bf4 Bf5 10. c3 Bd6 11. Be3 Na5 12. b3 Re8 13. Qc2 h6 14. Nbd2 Nxd2 15.
+Bxd2 Bxd3 16. Qxd3 c5 17. dxc5 Bxc5 18. b4 Bxb4 19. cxb4 Nc4 20. Bc3 Qb6 21.
+Rfe1 Red8 22. Nd4 Nd6 23. Nf5 Ne4 24. Bd4 Qxb4 25. Reb1 Nc5 26. Qg3 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.14"]
+[Round "4"]
+[White "Olmann, Maria"]
+[Black "Marcinkeviciute, Neringa"]
+[Result "1-0"]
+[ECO "C62"]
+[PlyCount "33"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. d4 Bd7 6. d5 a6 7. dxc6 bxc6 8. Bd3
+d5 9. exd5 cxd5 10. Nxe5 Be6 11. O-O Bc5 12. Bg5 O-O 13. a3 a5 14. h3 Rb8 15.
+Nc6 Qc8 16. Nxb8 Qxb8 17. Rb1 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.15"]
+[Round "5"]
+[White "Butvilaite, Berta Reja"]
+[Black "Olmann, Maria"]
+[Result "0-1"]
+[ECO "C56"]
+[PlyCount "18"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Nxd4 Nxe4 6. Qe2 Qe7 7. Nc3 Nxd4
+8. Nxe4 Nxe2 9. f3 Nd4 0-1
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.15"]
+[Round "5"]
+[White "Jakavonis, Gvidas"]
+[Black "Klabyte, Rugile"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[PlyCount "40"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bb4 5. d3 d6 6. Bd2 Be6 7. Bxe6 fxe6 8.
+O-O O-O 9. Ng5 Qe7 10. Nf3 Rad8 11. a3 Bxc3 12. Bxc3 Qd7 13. d4 exd4 14. Nxd4
+Nxe4 15. Nxc6 Nxc3 16. bxc3 Qxc6 17. Qd2 Rf6 18. f3 e5 19. Rae1 Qc5+ 20. Qe3
+Qxe3+ 1/2-1/2
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.15"]
+[Round "5"]
+[White "Marcinkeviciute, Neringa"]
+[Black "Levinskaite, Neringa"]
+[Result "0-1"]
+[ECO "C65"]
+[PlyCount "80"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. d3 Be7 6. Be3 Bg4 7. h3 Bh5 8. g4
+Bg6 9. Qd2 a6 10. Ba4 b5 11. Bb3 Rb8 12. Ng5 h6 13. Nf3 a5 14. a3 a4 15. Ba2
+Nd7 16. h4 h5 17. gxh5 Bxh5 18. Ng1 Bg6 19. O-O-O Rxh4 20. Nf3 Rxh1 21. Rxh1
+Nc5 22. Rh8+ Bf8 23. d4 Qf6 24. Qe2 Nxe4 25. Nxe4 Bxe4 26. Bg5 Qxf3 27. Qxf3
+Bxf3 28. d5 Ne7 29. c3 Ng6 30. Rg8 f6 31. Bb1 Kf7 32. Rxf8+ Rxf8 33. Be3 Bxd5
+34. b4 axb3 35. Bd3 Rh8 36. Bf1 Rh1 37. Kd2 Rxf1 38. c4 bxc4 39. a4 b2 40. Ke2
+b1=Q 0-1
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.15"]
+[Round "5"]
+[White "Misiuk, Patrik"]
+[Black "Jocas, Arturas"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[PlyCount "44"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. O-O O-O 8. Bd5
+Nxd5 9. exd5 Na7 10. Nxe5 Bb7 11. c4 c6 12. dxc6 dxc6 13. Nc3 Bd6 14. Nf3 Re8
+15. Qb3 Qf6 16. Bg5 Qg6 17. d4 Rab8 18. c5 Bc7 19. Rfe1 a5 20. Qd1 b4 21. Ne2
+Nb5 22. Nf4 Qf5 1/2-1/2
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.15"]
+[Round "5"]
+[White "Slusnys, Evaldas"]
+[Black "Paliulis, Aivaras"]
+[Result "1-0"]
+[ECO "C56"]
+[WhiteElo "1882"]
+[PlyCount "67"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ne4 6. Bd5 Nc5 7. Bf4 d6 8.
+Bxc6+ bxc6 9. Qxd4 Ne6 10. Qe3 Rb8 11. Nbd2 Rxb2 12. Qc3 Rb6 13. Be3 c5 14. Nc4
+Ra6 15. Rd1 Bb7 16. exd6 Bxf3 17. d7+ Ke7 18. gxf3 f6 19. Na5 Rb6 20. Bxc5+
+Nxc5 21. Qxc5+ Kf7 22. Qd5+ Re6+ 23. Kf1 Bd6 24. Nc6 Qxd7 25. c4 Qc8 26. Nxa7
+Qa8 27. Nc6 Rhe8 28. Re1 g6 29. Rxe6 Rxe6 30. Ne5+ Bxe5 31. Qxa8 Rb6 32. Kg2 f5
+33. Re1 Kf6 34. Qf8+ 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.15"]
+[Round "5"]
+[White "Vidginis, Vykintas"]
+[Black "Jurkunas, Nerijus"]
+[Result "0-1"]
+[ECO "C14"]
+[PlyCount "70"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Qf3 dxe4 6. Nxe4 Qxd4 7. Nxf6+ gxf6
+8. Bc1 Nc6 9. Ne2 Qb4+ 10. Qc3 Bd7 11. a3 Qxc3+ 12. Nxc3 O-O-O 13. Bd3 Ne5 14.
+O-O Nxd3 15. cxd3 Bc6 16. Rd1 Rhg8 17. g3 h5 18. h4 f5 19. b4 Bxh4 20. Kh2 Bf6
+21. Bb2 Bf3 22. Rd2 Bg5 23. Rc2 Rxd3 24. Bc1 h4 25. Bxg5 hxg3+ 26. fxg3 Rxg5
+27. Ne2 Rh5+ 28. Kg1 Rh1+ 29. Kf2 Rxa1 30. Ng1 Be4 31. Re2 Raxa3 32. b5 Rxg3
+33. Rd2 Rg2+ 34. Ke1 Ra1+ 35. Rd1 Rxg1+ 0-1
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.15"]
+[Round "6"]
+[White "Adomaitis, Edgaras"]
+[Black "Stauskas, Adolfas"]
+[Result "1-0"]
+[ECO "C02"]
+[BlackElo "1791"]
+[PlyCount "69"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Be3 Qb6 6. Qd2 cxd4 7. cxd4 Bb4 8. Nc3
+Nge7 9. Bd3 Nf5 10. Nf3 Nxe3 11. fxe3 Bd7 12. a3 Bxc3 13. bxc3 Na5 14. Rb1 Qc7
+15. O-O h6 16. Rb4 Nc6 17. Rb2 a6 18. c4 dxc4 19. Bxc4 b5 20. Ba2 Qa5 21. Qd3
+b4 22. d5 exd5 23. Bxd5 Qxa3 24. Bxf7+ Kd8 25. Rb3 Qa4 26. e6 Ra7 27. Rd1 Na5
+28. Rbb1 b3 29. Qd6 Rc7 30. Qxa6 Rf8 31. Rd4 Qa2 32. Rbd1 Rxf7 33. exf7 Qa3 34.
+Qxa5 Qf8 35. Rxd7+ 1-0
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.15"]
+[Round "6"]
+[White "Dugnaite, Gerda"]
+[Black "Zybartaite, Gabriele"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[PlyCount "45"]
+[EventDate "2008.08.12"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 b6 4. exd5 exd5 5. Ngf3 Bg4 6. Bd3 Bd6 7. Qe2+ Qe7 8.
+Qxe7+ Nxe7 9. O-O O-O 10. Ne5 Bf5 11. Bxf5 Nxf5 12. Ndf3 f6 13. Nd3 Nc6 14. c3
+Rfe8 15. Bf4 Re4 16. Bxd6 Nxd6 17. Rfe1 Rae8 18. Kf1 Kf7 19. Nd2 Rxe1+ 20. Rxe1
+Rxe1+ 21. Kxe1 g5 22. f3 Nf5 23. Kf2 1/2-1/2
+
+[Event "Panevezys op-B"]
+[Site "Panevezys"]
+[Date "2008.08.15"]
+[Round "6"]
+[White "Lakavicius, Gediminas"]
+[Black "Jakavonis, Gvidas"]
+[Result "1-0"]
+[ECO "C30"]
+[PlyCount "39"]
+[EventDate "2008.08.12"]

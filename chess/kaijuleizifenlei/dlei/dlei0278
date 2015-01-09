@@ -1,0 +1,600 @@
+[BlackElo "1347"]
+[PlyCount "39"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Bb5 Bd7 7. d5 Nb8 8.
+Bxd7+ N8xd7 9. e5 e6 10. dxe6 fxe6 11. O-O Nc4 12. Qa4 Ncb6 13. Qg4 Nc5 14. Be3
+Nbd7 15. Rd1 h6 16. Bxc5 Bxc5 17. Qxe6+ Be7 18. Qg6+ Kf8 19. e6 Bf6 20. Qf7#
+1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "8.85"]
+[White "Okan, Serhat"]
+[Black "Araboga, Nizamettin"]
+[Result "0-1"]
+[ECO "D00"]
+[PlyCount "82"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 e6 3. Nc3 c5 4. dxc5 Bxc5 5. a3 Nc6 6. e3 Nf6 7. Bb5 Bd7 8.
+Bxc6 Bxc6 9. b4 Bd6 10. Bb2 a6 11. Nd4 O-O 12. b5 axb5 13. Ndxb5 Bxb5 14. Nxb5
+Qa5+ 15. Nc3 Rfc8 16. O-O Rxc3 17. Bxc3 Qxc3 18. Qd3 Qe5 19. g3 Qh5 20. Kg2 b6
+21. Qc3 Bc5 22. a4 Ne4 23. Qd3 Ng5 24. h4 Qf3+ 25. Kh2 Ne4 26. Kg1 h6 27. Qd1
+Qf5 28. Kg2 Rc8 29. Rc1 Qe5 30. c4 Bxe3 31. f4 Qb2+ 32. Rc2 Qb3 33. Qb1 Qxa4
+34. Re1 Bc5 35. Ra2 Qxc4 36. Rc2 Qd3 37. Qd1 Qxg3+ 38. Kf1 Qxf4+ 39. Kg2 Qg4+
+40. Kf1 Qh3+ 41. Rg2 Ng3# 0-1
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.3"]
+[White "Yilmaz, Mustafa Enes"]
+[Black "Citak, Selim"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2288"]
+[BlackElo "2319"]
+[PlyCount "213"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 d5 2. b3 c5 3. e3 Nf6 4. Bb2 e6 5. d4 cxd4 6. exd4 Nc6 7. Bd3 Bb4+ 8. c3
+Bd6 9. Nbd2 O-O 10. O-O e5 11. dxe5 Nxe5 12. Nxe5 Bxe5 13. h3 Be6 14. Nf3 Bc7
+15. Qc2 h6 16. c4 dxc4 17. Bxc4 Rc8 18. Ba3 b5 19. Rad1 Qe8 20. Bxf8 Qxf8 21.
+Bd3 Bh2+ 22. Kxh2 Rxc2 23. Bxc2 g6 24. Kg1 Qa3 25. Bb1 Nd5 26. Nd4 Nc3 27. Rd3
+Qb2 28. Nxe6 fxe6 29. Rd8+ Kf7 30. Bd3 Qxa2 31. Rd7+ Kf6 32. b4 a5 33. bxa5
+Qxa5 34. Rh7 Qd8 35. Bb1 Nxb1 36. Rxb1 Qd3 37. Re1 b4 38. Rb7 b3 39. Re3 Qd1+
+40. Kh2 Qd6+ 41. g3 Qd1 42. Rexb3 Qf1 43. Rf3+ Ke5 44. Rbf7 g5 45. Re3+ Kd5 46.
+Rd7+ Kc6 47. Rd2 Qc4 48. Kg2 Kc7 49. Rde2 Qd5+ 50. f3 h5 51. Re5 Qd3 52. Rxe6
+h4 53. R6e4 Qd1 54. Rf2 hxg3 55. Kxg3 Qg1+ 56. Rg2 Qf1 57. Ree2 Kd6 58. Kg4 Kd7
+59. Rd2+ Kc6 60. Rdf2 Qh1 61. Kxg5 Qxh3 62. f4 Qh7 63. Rc2+ Kd5 64. Rce2 Qg7+
+65. Kf5 Qf7+ 66. Kg4 Qg6+ 67. Kh4 Qh7+ 68. Kg4 Qg6+ 69. Kh3 Qh6+ 70. Kg3 Qg6+
+71. Kf2 Qb6+ 72. Re3 Qf6 73. Kf3 Qh4 74. Re5+ Kd4 75. Rd2+ Kc3 76. Rd6 Qh3+ 77.
+Ke4 Qh7+ 78. Rf5 Qe7+ 79. Kd5 Qb7+ 80. Ke5 Qe7+ 81. Re6 Qc5+ 82. Kf6 Qf8+ 83.
+Kg5 Qg7+ 84. Rg6 Qe7+ 85. Kh6 Kd4 86. Rff6 Qe3 87. Kg7 Qe8 88. f5 Qe5 89. Kg8
+Qb8+ 90. Rf8 Qb3+ 91. Rf7 Ke5 92. f6 Kf5 93. Kg7 Qc3 94. Rg1 Qd4 95. Rf1+ Ke6
+96. Re7+ Kd6 97. Kf8 Qh4 98. Rd1+ Kc6 99. Re6+ Kc7 100. f7 Qh8+ 101. Ke7 Qh4+
+102. Rf6 Qb4+ 103. Rdd6 Qe4+ 104. Rfe6 Qh4+ 105. Ke8 Qh5 106. Rg6 Qe5+ 107.
+Rde6 1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.19"]
+[White "Narman, Gokhan"]
+[Black "Akyildiz, Baris"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "2093"]
+[BlackElo "1828"]
+[PlyCount "108"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 Nbd7 6. e3 O-O 7. Qc2 Re8 8.
+cxd5 exd5 9. Bd3 Nf8 10. O-O c6 11. Rae1 g6 12. Nd2 Ne6 13. Bh4 Ng7 14. f3 Nf5
+15. Bf2 Be6 16. Ne2 Ng7 17. Kh1 Bf8 18. a3 Ngh5 19. b4 Rc8 20. Nb3 Rc7 21. Nc3
+a6 22. Nc5 Bc8 23. a4 Bh6 24. b5 axb5 25. axb5 Rce7 26. bxc6 bxc6 27. Nd1 Qa5
+28. Re2 Nd7 29. Bh4 g5 30. Be1 Qc7 31. g4 Nhf6 32. Bg3 Qa7 33. Bd6 Bf8 34. Bxe7
+Bxe7 35. Nxd7 Bxd7 36. Bf5 h6 37. Rfe1 Bb4 38. Rf1 c5 39. Bxd7 Qxd7 40. dxc5
+Rc8 41. Qb2 Qb5 42. Rff2 Nd7 43. Nc3 Qxc5 44. Nxd5 Qxd5 45. Qxb4 Ne5 46. Kg2
+Rc4 47. Qb8+ Kg7 48. e4 Qd4 49. Ra2 Nd3 50. Rf1 Qe3 51. Qb1 Kh7 52. Qa1 Nf4+
+53. Kh1 Rxe4 54. Qf6 Qxf3+ 0-1
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.20"]
+[White "Erencek, Eliz Ali"]
+[Black "Koksal, Recep"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "2033"]
+[BlackElo "1926"]
+[PlyCount "65"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 e6 2. Nf3 Nf6 3. Bg5 d5 4. g3 Nbd7 5. Bg2 h6 6. Bxf6 Nxf6 7. c3 Be7 8.
+O-O O-O 9. Ne5 c5 10. e3 Qc7 11. Nd2 Bd7 12. f4 Rad8 13. h3 Bc8 14. a3 Bd6 15.
+Rc1 Qa5 16. Rf2 a6 17. Qb3 c4 18. Qc2 Qc7 19. Re1 b5 20. Bf3 Bb7 21. h4 Nh7 22.
+e4 Bxe5 23. fxe5 Rfe8 24. exd5 Bxd5 25. Bh5 g6 26. Bf3 Qe7 27. Bxd5 Rxd5 28.
+Ne4 Red8 29. Ref1 Rf8 30. Qc1 g5 31. Nf6+ Nxf6 32. Rxf6 Qa7 33. Qe3 1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.22"]
+[White "Oney, Riza"]
+[Black "Pekol, Erdem"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2010"]
+[BlackElo "1849"]
+[PlyCount "63"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Nbd2 Bd6 5. b3 O-O 6. Bb2 b6 7. Be2 Bb7 8. O-O
+a5 9. a3 h6 10. Ne5 c5 11. f4 Ne4 12. Nxe4 dxe4 13. Bb5 Bxe5 14. dxe5 Ba6 15.
+Bxa6 Nxa6 16. Qe2 Nc7 17. Rad1 Qe7 18. Rd6 Rfd8 19. Rfd1 Ne8 20. R6d2 f5 21.
+exf6 Nxf6 22. h3 Rxd2 23. Qxd2 Ra7 24. Bxf6 Qxf6 25. Qd8+ Qxd8 26. Rxd8+ Kf7
+27. Kf2 a4 28. bxa4 Rxa4 29. Rb8 Rxa3 30. Ke2 Ra2 31. Kd2 Rb2 32. Rc8 1/2-1/2
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.24"]
+[White "Kilic, Ihsan"]
+[Black "Camur, Huseyin"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1998"]
+[BlackElo "1798"]
+[PlyCount "115"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Bf4 Nf6 3. c3 e6 4. Nf3 Bd6 5. Ne5 O-O 6. Nd2 c5 7. e3 b6 8. Bd3
+Ba6 9. Bc2 Qc7 10. Qf3 Nc6 11. Nxc6 Bxf4 12. Qxf4 Qxc6 13. g4 cxd4 14. exd4
+Rae8 15. O-O-O b5 16. a3 Nd7 17. Nf3 Rc8 18. Qg3 Qc7 19. Qh4 Qf4+ 20. Kb1 g6
+21. Ng5 Nf6 22. h3 Kg7 23. Qg3 Qxg5 24. f4 Nh5 25. Qh2 Nxf4 26. h4 Qxg4 27.
+Rdg1 Qh5 28. Qxf4 Qh6 29. Qd6 Bb7 30. Rg5 Bc6 31. Rgg1 Rfe8 32. h5 g5 33. Qg3
+f6 34. Rh2 Kh8 35. Qe3 Qg7 36. h6 Qc7 37. Rf2 Rf8 38. Qxe6 Qd7 39. Rxf6 Qxe6
+40. Rxe6 Rfe8 41. Rge1 Rxe6 42. Rxe6 Be8 43. Re5 Bg6 44. Rxg5 Bxc2+ 45. Kxc2
+Rc6 46. Rxd5 Rxh6 47. Rxb5 Rf6 48. Rb7 a6 49. c4 h5 50. c5 Rg6 51. d5 h4 52.
+Rb3 Kg7 53. Rh3 Rh6 54. c6 Kf7 55. c7 Rh8 56. Rxh4 Rc8 57. Rh7+ Kf6 58. Rd7 1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.28"]
+[White "Ceylan, Imamettin"]
+[Black "Kemaloglu, Yavuz"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1914"]
+[BlackElo "2085"]
+[PlyCount "122"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. e3 e6 3. Bd3 d5 4. Nd2 Be7 5. f4 c5 6. c3 Nc6 7. Ngf3 O-O 8. Ne5
+cxd4 9. cxd4 Ne8 10. O-O g6 11. Rf3 Nxe5 12. fxe5 f6 13. exf6 Bxf6 14. Nb3 Nd6
+15. Bd2 e5 16. dxe5 Bxe5 17. Nd4 Bxd4 18. exd4 Bf5 19. Qb3 Bxd3 20. Qxd5+ Nf7
+21. Qxd8 Rfxd8 22. Rxd3 Ne5 23. Rb3 Nc4 24. Bc3 b6 25. Re1 Kf7 26. Rb5 Rac8 27.
+Rg5 Re8 28. Rxe8 Rxe8 29. Kf2 Nd6 30. Re5 Rc8 31. Ke2 h6 32. Kd3 a5 33. g4 Rc6
+34. h4 Rc8 35. Bd2 Nc4 36. Rb5 Nxd2 37. Kxd2 Rc6 38. Kd3 Ke7 39. Ke4 Kd7 40. g5
+h5 41. Rd5+ Kc7 42. Kd3 Rc1 43. Re5 Rd1+ 44. Kc3 Rc1+ 45. Kd3 Rd1+ 46. Kc4 Rd2
+47. Re6 Rxb2 48. Rxg6 b5+ 49. Kc5 b4 50. Rg7+ Kd8 51. Kd6 Ke8 52. Ra7 Rxa2 53.
+g6 Kf8 54. Ke6 a4 55. Kf6 Rf2+ 56. Kg5 Rg2+ 57. Kh6 a3 58. d5 a2 59. d6 Ke8 60.
+g7 b3 61. Kh7 b2 0-1
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.37"]
+[White "Ozveren, Ali Bulent"]
+[Black "Aslanhan, Halis"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "1987"]
+[BlackElo "1273"]
+[PlyCount "61"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. e3 Nbd7 6. Qc2 Qc7 7. Bd3 dxc4 8.
+Bxc4 b5 9. Bd3 Bb7 10. Nxb5 Qb6 11. Nc3 c5 12. dxc5 Nxc5 13. Bb5+ Ncd7 14. Ne5
+Rc8 15. Qa4 Rc7 16. O-O a6 17. Bxd7+ Nxd7 18. Rd1 Bc6 19. Nxc6 Qxc6 20. Bd2 Be7
+21. Rac1 Qb7 22. Ne4 f5 23. Rxc7 Qxc7 24. Ba5 Qb7 25. Nd6+ Bxd6 26. Rxd6 Qb5
+27. Qxb5 axb5 28. Rxe6+ Kf7 29. Rd6 Ke7 30. Bb4 Rb8 31. a3 1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.46"]
+[White "Alkan, Sukru"]
+[Black "Demirci, Baris"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "1831"]
+[BlackElo "1713"]
+[PlyCount "53"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Bf5 4. Bxf6 gxf6 5. e3 a6 6. Bd3 Bg6 7. O-O Rg8 8.
+Qe2 Qd7 9. Kh1 Qg4 10. Rg1 Be4 11. Nbd2 e6 12. c4 c5 13. cxd5 exd5 14. h3 Qf5
+15. Bxe4 dxe4 16. Ne1 Nd7 17. Nc2 Bd6 18. Rac1 Ke7 19. dxc5 Nxc5 20. Nd4 Qe5
+21. f4 exf3 22. N2xf3 Qh5 23. e4 Rac8 24. Nf5+ Kd7 25. Ne5+ Bxe5 26. Qxh5 Nxe4
+27. Qxf7+ 1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.47"]
+[White "Durukan, Ibrahim"]
+[Black "Sahap, Abdurrahman"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1679"]
+[BlackElo "1679"]
+[PlyCount "77"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Nf6 4. e3 Bd6 5. Bg5 Nbd7 6. Bd3 b6 7. Nbd2 h6 8. Bh4
+g5 9. Bg3 Bb7 10. Ne5 Qe7 11. a4 c5 12. c3 c4 13. Bc2 Ne4 14. Bxe4 dxe4 15.
+Ndxc4 Bxe5 16. Bxe5 Nxe5 17. dxe5 Bd5 18. Nd6+ Kf8 19. O-O f5 20. c4 Bc6 21.
+Qh5 Be8 22. Qd1 Rd8 23. b4 Kg7 24. b5 Rf8 25. a5 bxa5 26. Rxa5 f4 27. Qd4 f3
+28. g3 Rd7 29. Rfa1 Rf7 30. c5 h5 31. c6 Rd8 32. Rxa7 Qf8 33. c7 Rxc7 34. Rxc7+
+Kh6 35. Qa7 h4 36. g4 h3 37. Nxe8 Rxe8 38. Rf7 Qg8 39. Rf6+ 1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.49"]
+[White "Guler, Eren Can"]
+[Black "Kutlu, Sedat"]
+[Result "0-1"]
+[ECO "D04"]
+[WhiteElo "1532"]
+[BlackElo "1952"]
+[PlyCount "56"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bf5 4. Be2 e6 5. O-O c5 6. Nh4 Bg6 7. Nxg6 hxg6 8.
+dxc5 Bxc5 9. c4 Qc7 10. g3 Nc6 11. Nc3 O-O-O 12. cxd5 exd5 13. Na4 Qd7 14. f4
+Bd6 15. Nc3 Ne7 16. Nb5 Kb8 17. Nxd6 Qxd6 18. b3 Nf5 19. Bf3 Qc5 20. Re1 d4 21.
+e4 d3+ 22. Kg2 Nd4 23. Rh1 Nxf3 24. Kxf3 Qd4 25. Bd2 Nxe4 26. Qe1 Rhe8 27. Be3
+Qd5 28. Rg1 Nd2+ 0-1
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.71"]
+[White "Aydin, Kivanc"]
+[Black "Kiyagan, Erhan"]
+[Result "1-0"]
+[ECO "D04"]
+[WhiteElo "1566"]
+[BlackElo "1432"]
+[PlyCount "161"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. e3 Bg7 5. Bd3 Nc6 6. O-O O-O 7. c3 a6 8. e4
+e6 9. e5 Nd7 10. Re1 f6 11. exf6 Nxf6 12. Qc2 Ne8 13. Nf1 Nd6 14. Bg5 Bf6 15.
+Bxf6 Qxf6 16. Ne5 Nf7 17. Nxf7 Rxf7 18. Ne3 Bd7 19. Ng4 Qg5 20. Ne5 Nxe5 21.
+Rxe5 Qh6 22. Qe2 Raf8 23. f3 Qf4 24. Rf1 Qf6 25. f4 Qe7 26. g3 c5 27. c4 Qd6
+28. cxd5 exd5 29. Qe3 cxd4 30. Qxd4 Bc6 31. Rfe1 Rf6 32. Bc2 R8f7 33. Bb3 Rf5
+34. Re6 Qd7 35. Bc2 R5f6 36. R6e5 Qd6 37. h4 Qd7 38. Kh2 Qd8 39. R1e2 Qd6 40.
+h5 Qf8 41. Bb3 Qh6 42. Bxd5 Bxd5 43. Qxd5 Rf5 44. Re8+ Kg7 45. Qd4+ R5f6 46.
+R2e5 b5 47. Kg2 b4 48. R5e6 gxh5 49. Rxf6 Qxf6 50. Qxf6+ Rxf6 51. Rb8 a5 52.
+Rb5 Ra6 53. b3 Kg6 54. Kh3 Kh6 55. Kh4 Kg6 56. Rg5+ Kh6 57. Rxh5+ Kg6 58. Rg5+
+Kh6 59. Rb5 Kg6 60. g4 Kg7 61. g5 h6 62. f5 hxg5+ 63. Kxg5 Kf7 64. Rb7+ Ke8 65.
+f6 Rc6 66. Rb5 Rc1 67. Rxa5 Rg1+ 68. Kf5 Kf7 69. Ra7+ Kf8 70. Ke6 Re1+ 71. Kd5
+Re2 72. Kc4 Re4+ 73. Kb5 Rf4 74. f7 Re4 75. Ka4 Rf4 76. Rb7 Rf2 77. Kxb4 Rxa2
+78. Kb5 Rf2 79. b4 Rf5+ 80. Ka6 Rf1 81. b5 1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.75"]
+[White "Tekin, Gokberk"]
+[Black "Bulut, Nazim"]
+[Result "1-0"]
+[ECO "D60"]
+[WhiteElo "1448"]
+[BlackElo "1601"]
+[PlyCount "165"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. Bg5 Be7 5. e3 a6 6. Nf3 O-O 7. Bd3 Nbd7 8. O-O
+c5 9. Rc1 b6 10. cxd5 cxd4 11. Nxd4 Nxd5 12. Bxe7 Qxe7 13. Nxd5 exd5 14. Rc7
+Qd6 15. Rc3 Nf6 16. h3 Bd7 17. a3 Rfe8 18. Re1 Re5 19. Nf3 Rh5 20. Kf1 g6 21.
+Bb1 a5 22. e4 Bb5+ 23. Kg1 Nd7 24. Ba2 Nc5 25. Bxd5 Rd8 26. Qc2 Re8 27. Rd1 Qf4
+28. Nd2 Qd6 29. Rf3 Re7 30. Nc4 Qb8 31. Nxa5 Rxd5 32. Rxd5 Rxe4 33. Qd2 Qc7 34.
+Rc3 h5 35. b4 Re2 36. Qd1 Qe7 37. Qd4 bxa5 38. Rcxc5 Be8 39. Rxa5 Re1+ 40. Kh2
+Kh7 41. Re5 Qc7 42. Qc5 Qb8 43. g3 Ra1 44. Qe7 Bc6 45. Rxh5+ Kg8 46. Rh8+ Kg7
+47. Rh7+ Kxh7 48. Qxf7+ Kh6 49. Qf4+ Qxf4 50. gxf4 Be4 51. Re5 Rh1+ 52. Kg3 Bf5
+53. f3 Rxh3+ 54. Kg2 Rh5 55. b5 Kg7 56. b6 Kf6 57. Re8 Rh7 58. a4 Rb7 59. a5
+Bd7 60. Re1 Bb5 61. Ra1 Ba6 62. Kf2 Kf5 63. Ra4 Re7 64. Rd4 Rb7 65. Kg3 Rh7 66.
+Rd8 Bb7 67. Rb8 Rf7 68. Re8 Rd7 69. Re5+ Kf6 70. Rc5 Re7 71. Kg4 Rd7 72. f5 g5
+73. Rc4 Rh7 74. Rc3 Re7 75. Rd3 Re5 76. Rd6+ Ke7 77. Rh6 Bxf3+ 78. Kxf3 Rxf5+
+79. Kg4 Rxa5 80. b7 Rb5 81. Rh8 Rb4+ 82. Kxg5 Rb5+ 83. Kf4 1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.76"]
+[White "Altin, Duran"]
+[Black "Uluhan, Anil"]
+[Result "0-1"]
+[ECO "D46"]
+[BlackElo "1558"]
+[PlyCount "90"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. e3 Nbd7 6. Bd3 Bd6 7. O-O dxc4 8.
+Bxc4 b5 9. Bd3 a6 10. e4 e5 11. dxe5 Nxe5 12. Nxe5 Bxe5 13. f4 Bd4+ 14. Kh1 Ng4
+15. Qf3 Nxh2 16. Qg3 Nxf1 17. Bxf1 Qf6 18. Be3 Bxc3 19. bxc3 Qxc3 20. Rd1 O-O
+21. f5 Re8 22. Qg5 h6 23. Qg3 Qe5 24. Bf4 Qxe4 25. Bxh6 Qe5 26. Bf4 Qxf5 27.
+Be2 Bd7 28. Bf3 Rad8 29. Rf1 Be6 30. Kg1 Bd5 31. Bc1 Bxf3 32. Bb2 Qg4 33. Rxf3
+Qxg3 34. Rxg3 f6 35. Bxf6 Rd7 36. Bc3 Re2 37. a3 Re6 38. Bb4 Kf7 39. Rf3+ Rf6
+40. Re3 g6 41. Rh3 Rd5 42. Rh7+ Ke6 43. Ra7 Kf5 44. Rxa6 c5 45. Rxf6+ Kxf6 0-1
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.78"]
+[White "Celik, Ferhat"]
+[Black "Gulbay, Omer Deniz"]
+[Result "0-1"]
+[ECO "D05"]
+[BlackElo "1456"]
+[PlyCount "100"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 e6 2. Nf3 c5 3. c3 Nf6 4. Nbd2 d5 5. e3 Nbd7 6. Bd3 Be7 7. O-O O-O 8. Qe2
+a6 9. e4 c4 10. Bc2 dxe4 11. Nxe4 b5 12. b3 cxb3 13. axb3 Bb7 14. Ng3 Nb6 15.
+Bb2 Rc8 16. Bd3 Nbd5 17. Qd2 Qc7 18. c4 Bb4 19. Qc1 Qe7 20. Qg5 bxc4 21. bxc4
+h6 22. Qh4 Bc3 23. Bxc3 Nxc3 24. Rfc1 Bxf3 25. gxf3 Qb4 26. Qf4 Qb2 27. Qe3 Rb8
+28. Qe1 Na2 29. Rd1 Nb4 30. Be4 Nxe4 31. fxe4 Nc2 32. Qf1 Nxa1 33. Rxa1 Qxd4
+34. Rxa6 Ra8 35. Rxa8 Rxa8 36. Kg2 Ra1 37. Qe2 Rc1 38. Nf1 Rxc4 39. Ne3 Qxe4+
+40. f3 Qg6+ 41. Kf2 Rh4 42. Kf1 Qb1+ 43. Kg2 Rb4 44. Kh3 Rb2 45. Qa6 Qh1 46.
+Qa8+ Kh7 47. Ng4 Qf1+ 48. Kg3 Qg2+ 49. Kf4 Rb4+ 50. Ke5 Rxg4 0-1
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.84"]
+[White "Karadan, Mehmet"]
+[Black "Aksel, Ali"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "1252"]
+[BlackElo "1570"]
+[PlyCount "160"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. c4 c6 5. Nc3 b6 6. a3 Bd6 7. Bd3 Qc7 8. b4 c5
+9. Nb5 Qd7 10. Nxd6+ Qxd6 11. dxc5 bxc5 12. cxd5 Nxd5 13. bxc5 Qxc5 14. Bb2
+Qa5+ 15. Qd2 Qxd2+ 16. Kxd2 f6 17. Rac1 Bd7 18. Rhd1 Nc6 19. Bb5 Nce7 20. Bxd7+
+Kxd7 21. Ke1 Ke8 22. Nd4 Kf7 23. Nc6 Nxc6 24. Rxc6 Rac8 25. Rd6 Ke7 26. Ra6 Rc7
+27. e4 Nb6 28. Bd4 Rb7 29. Rb1 Rhb8 30. a4 e5 31. Bc5+ Kf7 32. a5 Nc8 33. Rxb7+
+Rxb7 34. Kd2 Ke8 35. Kc3 Kf7 36. Kc4 h5 37. h4 Ke8 38. Rc6 Kd7 39. Ra6 Rc7 40.
+Kd5 Ne7+ 41. Kc4 Nc6 42. Kd5 Ne7+ 43. Bxe7 Kxe7 44. g3 Rd7+ 45. Kc6 Kd8 46. f4
+exf4 47. gxf4 Kc8 48. Kc5 Kb7 49. Re6 Kc7 50. e5 fxe5 51. fxe5 g5 52. hxg5 Rg7
+53. g6 Kd8 54. Rf6 h4 55. Rf8+ Ke7 56. Rh8 Ke6 57. Kd4 Rb7 58. Rh7 Rb4+ 59. Kc5
+Re4 60. Rxa7 Rxe5+ 61. Kb6 Kf6 62. Rh7 Re4 63. a6 Kxg6 64. Rc7 h3 65. Rc2 Kg5
+66. a7 Ra4 67. Kb7 Rb4+ 68. Kc7 Ra4 69. Rc5+ Kg4 70. Kb6 h2 71. Rc2 h1=Q 72.
+Rc8 Qh6+ 73. Rc6 Ra6+ 74. Kxa6 Qxc6+ 75. Ka5 Qb7 76. Ka4 Kf4 77. Ka5 Ke5 78.
+Ka4 Kd4 79. Ka5 Kc4 80. Ka4 Qb4# 0-1
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.08"]
+[Round "9.85"]
+[White "Sahin, Zekayi"]
+[Black "Okan, Serhat"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1347"]
+[PlyCount "93"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Nc6 4. e3 Bg4 5. Nbd2 e6 6. h3 Bxf3 7. Nxf3 h6 8. c4
+Bb4+ 9. Nd2 Bxd2+ 10. Qxd2 Ne7 11. Qb4 b6 12. Qa4+ Qd7 13. Qc2 O-O 14. Bd3 c6
+15. Be5 Rfd8 16. Bxf6 gxf6 17. Bh7+ Kf8 18. Bd3 e5 19. dxe5 fxe5 20. O-O-O Rac8
+21. Be2 Qb7 22. Qh7 Ng8 23. Kb1 Rc7 24. Qc2 a6 25. h4 b5 26. cxd5 cxd5 27. Qf5
+f6 28. e4 Qc6 29. Rc1 Qd7 30. Rxc7 Qxc7 31. Rc1 Qd7 32. Qf3 Kf7 33. exd5 Qxd5
+34. Qh5+ Ke7 35. Rd1 Qxg2 36. Qf5 Rxd1+ 37. Bxd1 Qh1 38. Qh5 a5 39. a3 Kd6 40.
+Ka2 a4 41. b3 Qa8 42. Qe2 Kc5 43. Qe3+ Kd6 44. Qb6+ Qc6 45. Qb8+ Ke6 46. Qxg8+
+Kf5 47. Qg4# 1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.09"]
+[Round "10.2"]
+[White "Kilicaslan, Hasan"]
+[Black "Yilmaz, Mustafa Enes"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2264"]
+[BlackElo "2288"]
+[PlyCount "5"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 c6 3. cxd5 1/2-1/2
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.09"]
+[Round "10.8"]
+[White "Dogan, Ali Ekber"]
+[Black "Keler, Faruk"]
+[Result "1/2-1/2"]
+[ECO "D18"]
+[WhiteElo "1978"]
+[BlackElo "2251"]
+[PlyCount "133"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Ne2 Nbd7 10. Ng3 Bg6 11. Bd2 Bd6 12. Bc3 Nd5 13. Bd3 N7f6 14. Bxg6 hxg6
+15. Bd2 Bxg3 16. hxg3 Ne4 17. Qc2 f5 18. Be1 Qd6 19. Nd2 Nxd2 20. Qxd2 Rad8 21.
+Qc2 Nf6 22. Qb3 Rf7 23. Bb4 Qd5 24. Qxd5 Rxd5 25. Bc5 a6 26. Bb4 Rfd7 27. Rfc1
+Ne4 28. Be1 e5 29. f3 Nf6 30. Bc3 e4 31. b4 R5d6 32. Kf2 g5 33. Rab1 b5 34. a5
+exf3 35. gxf3 g4 36. Be1 gxf3 37. Rc2 Re6 38. Kxf3 Rde7 39. Bd2 Ne4 40. Rb3 Rh6
+41. Be1 Rh1 42. Rb1 Re6 43. Rbc1 Rhh6 44. Rg2 Nf6 45. Bd2 Ne4 46. Ke2 Reg6 47.
+Rcg1 Kf7 48. Be1 Rg4 49. Rf1 Ke6 50. Rf4 Nf6 51. Rf1 Ne4 52. Kd3 Nd6 53. Re2
+Rh3 54. Rc2 Nc4 55. Re2 Re4 56. Rf4 Nd6 57. Rf1 g6 58. Rg2 g5 59. Bf2 Nc4 60.
+Rgg1 Rg4 61. Rh1 Rxh1 62. Rxh1 f4 63. Rh6+ Kd7 64. Rh7+ Kc8 65. Rh8+ Kd7 66.
+Rh7+ Ke8 67. Rh3 1/2-1/2
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.09"]
+[Round "10.10"]
+[White "Citak, Selim"]
+[Black "Seyhanoglu, Deniz"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2319"]
+[BlackElo "2051"]
+[PlyCount "55"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. c5 a5 7. Ne5 Nfd7 8. Nxd5
+Nxe5 9. Nb6 Ra7 10. Nxc8 Qxc8 11. dxe5 e6 12. Qg4 Nd7 13. e4 Qb8 14. Bf4 Nxc5
+15. Be2 Na4 16. O-O Nxb2 17. Rfc1 Rc7 18. Rc2 Na4 19. Rd1 Nb6 20. Rd6 Nc4 21.
+Bxc4 bxc4 22. Rxc4 Qb1+ 23. Rd1 Qxa2 24. Rcd4 Be7 25. Qxg7 Rf8 26. Bg5 f6 27.
+exf6 Bxf6 28. Rd8+ 1-0
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.09"]
+[Round "10.11"]
+[White "Demirel, Tolga"]
+[Black "Erencek, Eliz Ali"]
+[Result "0-1"]
+[ECO "D58"]
+[WhiteElo "2208"]
+[BlackElo "2033"]
+[PlyCount "72"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Qc2 c5
+9. O-O-O Bb7 10. Bxf6 Bxf6 11. cxd5 exd5 12. h4 cxd4 13. exd4 h5 14. Bd3 Nc6
+15. Bh7+ Kh8 16. Qf5 g6 17. Bxg6 fxg6 18. Qxg6 Ne7 19. Qh6+ Kg8 20. Ng5 Bxg5+
+21. Qxg5+ Kh7 22. Qxh5+ Kg7 23. Rh3 Ng6 24. Rg3 Qf6 25. Rdd3 Rh8 26. Rxg6+ Qxg6
+27. Qe5+ Kh7 28. Rg3 Qh6+ 29. Kd1 Rhg8 30. Qf5+ Kh8 31. Qe5+ Rg7 32. Rg5 Kg8
+33. Qe7 Rf8 34. f3 Qf6 35. Nxd5 Qxd4+ 36. Kc2 Bxd5 0-1
+
+[Event "TUR-ch op"]
+[Site "Antalya"]
+[Date "2008.02.09"]
+[Round "10.20"]
+[White "Usun, Tolga"]
+[Black "Atakisi, Umut"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "1842"]
+[BlackElo "2391"]
+[PlyCount "104"]
+[EventDate "2008.02.04"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. cxd5 Nxd5 8.
+Nf3 O-O 9. Be2 Nc6 10. O-O Be6 11. Qd2 Nxc3 12. bxc3 Na5 13. Rfe1 Re8 14. Bh6
+Bc4 15. Qf4 Qd5 16. Qh4 f6 17. Nd2 Bxe2 18. Rxe2 Qh5 19. Qxh5 gxh5 20. Bxg7
+Kxg7 21. Nb3 Nxb3 22. axb3 e6 23. f4 a6 24. Rae1 Kf7 25. f5 e5 26. dxe5 fxe5
+27. Rxe5 Rxe5 28. Rxe5 b5 29. Kf2 Rc8 30. Re3 Kf6 31. Rf3 a5 32. Ke2 a4 33.

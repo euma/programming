@@ -1,0 +1,600 @@
+[Site "Sofia"]
+[Date "2008.01.11"]
+[Round "7"]
+[White "Grigorov, Grigor"]
+[Black "Stavrev, Nikolai"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2463"]
+[BlackElo "2337"]
+[PlyCount "101"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. Bg5 Nbd7 8.
+e3 b6 9. Ne2 c5 10. Rd1 Qc7 11. Qd3 Ba6 12. Nc3 Rac8 13. d5 exd5 14. Nxd5 Nxd5
+15. Qxd5 Ne5 16. b3 h6 17. Bh4 g5 18. Bg3 Rcd8 19. Qd2 Qe7 20. Be2 Bb7 21. O-O
+Rfe8 22. Qc2 Qe6 23. Bh5 Ng4 24. Bxg4 Qxg4 25. f3 Qe6 26. e4 Bc6 27. Rd2 Qg6
+28. Rfd1 Re6 29. h3 h5 30. Qc3 f5 31. exf5 Qxf5 32. Rxd6 Rexd6 33. Rxd6 Rxd6
+34. Bxd6 g4 35. fxg4 hxg4 36. Qg3 Bd7 37. Be5 Kf7 38. h4 Bc6 39. Kh2 Qe4 40.
+Bf4 Qf5 41. Bb8 Qd7 42. Qf4+ Ke7 43. h5 Qe6 44. Be5 Be8 45. Qg5+ Kd7 46. Kg3
+Qf7 47. Qxg4+ Ke7 48. h6 Bd7 49. Qh4+ Ke6 50. h7 Qg6+ 51. Kh2 1-0
+
+[Event "Sofia Grigorov Memorial 6th"]
+[Site "Sofia"]
+[Date "2008.01.11"]
+[Round "7"]
+[White "Raev, Rastislav"]
+[Black "Nikolov, Momchil"]
+[Result "0-1"]
+[ECO "E01"]
+[WhiteElo "2313"]
+[BlackElo "2500"]
+[PlyCount "79"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. d4 c6 5. Bg2 dxc4 6. a4 Bb4 7. Nf3 c5 8. O-O
+Nc6 9. dxc5 Bxc5 10. Qxd8+ Kxd8 11. a5 Ke7 12. Ra4 Bd7 13. Rxc4 Bd6 14. Nb5
+Nxa5 15. Nxd6 Kxd6 16. Rc3 Rhc8 17. Nd4 Rxc3 18. bxc3 Rc8 19. Ba3+ Kc7 20. Ra1
+Nc4 21. Bc1 a6 22. Rb1 b5 23. Ra1 e5 24. Nb3 Kb6 25. Na5 e4 26. Nxc4+ Rxc4 27.
+Be3+ Kb7 28. Bd4 Bc6 29. e3 Bd5 30. Rd1 Kc6 31. Ra1 Ra4 32. Rxa4 bxa4 33. Bf1
+a5 34. c4 Be6 35. Be2 Nd7 36. Kf1 f6 37. Ke1 Ne5 38. Kd2 Bxc4 39. Bxe5 Bxe2 40.
+Bb2 0-1
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.07"]
+[Round "1"]
+[White "Macieja, Bartlomiej"]
+[Black "Smirin, Ilia"]
+[Result "0-1"]
+[ECO "E90"]
+[WhiteElo "2617"]
+[BlackElo "2616"]
+[PlyCount "58"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. h3 Na6 7. Bg5 Qe8 8. g4 c5
+9. Qd2 Nb4 10. Bg2 h5 11. Bxf6 exf6 12. O-O-O hxg4 13. hxg4 Bxg4 14. a3 Nc6 15.
+Qf4 Qc8 16. Nd5 Qe6 17. Nc7 Qxc4+ 18. Kb1 f5 19. Bf1 Qa4 20. Bb5 Qa5 21. Nd5
+Qxb5 22. Qxd6 f6 23. Qe6+ Rf7 24. Nh4 Qe2 25. Rde1 fxe4 26. Qd6 Rd8 27. Qh2
+Qd3+ 28. Ka1 Rxd5 29. Nxg6 Rh5 0-1
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.07"]
+[Round "1"]
+[White "Moiseenko, Alexander"]
+[Black "Gyimesi, Zoltan"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2643"]
+[BlackElo "2605"]
+[PlyCount "67"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 Ne4 7. Qd3 Bxc3+ 8.
+bxc3 Nc5 9. Qf3 d6 10. Bg2 e5 11. Nb3 Nba6 12. Ba3 Qc7 13. Rd1 Be6 14. Nxc5
+Nxc5 15. Bxc5 Qxc5 16. Qxb7 Rc8 17. Bd5 Bxd5 18. Qxd5 Qxc4 19. Qxd6 Qxc3+ 20.
+Kf1 Qc7 21. Kg2 Qxd6 22. Rxd6 Ke7 23. Ra6 Rc7 24. Rb1 Rd8 25. Rb5 f6 26. Rba5
+Rdd7 27. g4 Kf7 28. h4 Rc4 29. Kg3 Rd1 30. Rxa7+ Kg6 31. h5+ Kh6 32. g5+ Kxg5
+33. Rxg7+ Kf5 34. Rxh7 1/2-1/2
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.08"]
+[Round "2"]
+[White "Avrukh, Boris"]
+[Black "Moiseenko, Alexander"]
+[Result "1-0"]
+[ECO "E04"]
+[WhiteElo "2628"]
+[BlackElo "2643"]
+[PlyCount "67"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. Qa4 Bd7 8. Qxc4
+b5 9. Qd3 Rc8 10. dxc5 Bxc5 11. Nc3 Nb4 12. Qd1 Bc6 13. Qxd8+ Rxd8 14. Bg5 Be7
+15. a3 Na6 16. Ne5 Bxg2 17. Kxg2 h6 18. Bf4 Nd5 19. Nxb5 Bf6 20. Nc4 Nb6 21.
+Rac1 Nxc4 22. Rxc4 Bxb2 23. Rb1 Bf6 24. Ra4 Nc5 25. Rxa7 e5 26. Nc7+ Kf8 27.
+Be3 Ne4 28. Rbb7 Nc3 29. Na6 Kg8 30. Nc5 h5 31. a4 h4 32. Rxf7 e4 33. h3 Rh5
+34. Ne6 1-0
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.09"]
+[Round "3"]
+[White "Rodshtein, Maxim"]
+[Black "Avrukh, Boris"]
+[Result "1/2-1/2"]
+[ECO "E99"]
+[WhiteElo "2614"]
+[BlackElo "2628"]
+[PlyCount "112"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Kh8 12. g5 Ng8 13. h4 h6 14. Rf2 f4 15. Rg2 Rf7
+16. Nd3 Nf8 17. Kf2 c6 18. Qh1 b5 19. cxb5 cxb5 20. Ke1 Bd7 21. Bd2 a5 22. b3
+Be8 23. Nb2 Rb7 24. Rc1 Nh7 25. Ncd1 Bf8 26. Nf2 Be7 27. Nh3 Rc8 28. Nd3 Kg7
+29. Qg1 Rxc1+ 30. Bxc1 Qb6 31. Qxb6 Rxb6 32. Bf1 Bd7 33. Rc2 Rb7 34. Bd2 hxg5
+35. hxg5 b4 36. Nb2 Bd8 37. Nc4 Bc7 38. Nxf4 Nxg5 39. Nh5+ gxh5 40. Bxg5 Nf6
+41. Rh2 a4 42. Bd2 axb3 43. axb3 Kf7 44. Rh1 Rb8 45. Rh4 Bb5 46. Ne3 Bxf1 47.
+Kxf1 Bb6 48. Nc4 Bc5 49. Ke2 Kg6 50. Kd3 Ra8 51. f4 exf4 52. Bxf4 Rd8 53. Na5
+Re8 54. Bg3 Nxd5 55. Nb7 Nf6 56. Bxd6 Bxd6 1/2-1/2
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.10"]
+[Round "4"]
+[White "Avrukh, Boris"]
+[Black "Macieja, Bartlomiej"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2628"]
+[BlackElo "2617"]
+[PlyCount "145"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Bd2 Be7 6. Nf3 O-O 7. O-O c6 8. Qc2
+Nbd7 9. Rd1 a5 10. Bf4 Nh5 11. Nbd2 Nxf4 12. gxf4 b6 13. Rac1 Bb7 14. f5 Bd6
+15. Nf1 exf5 16. cxd5 cxd5 17. Qxf5 g6 18. Qd3 Ba6 19. Qd2 Re8 20. e3 Nf6 21.
+Ng3 Qd7 22. Ne5 Bxe5 23. dxe5 Rxe5 24. f4 Re7 25. e4 Qg4 26. exd5 Rae8 27. Qf2
+Qh4 28. Ne4 Qxf2+ 29. Nxf2 Rd7 30. d6 Red8 31. Rc6 Ne8 32. Rxb6 Rxd6 33. Rdxd6
+Rxd6 34. Rb8 Kf8 35. Ne4 Rd1+ 36. Kf2 Ke7 37. Nc5 Rd2+ 38. Kg3 Bc4 39. Rb7+ Kf8
+40. b3 Bd5 41. Bxd5 Rxd5 42. Rb5 Nf6 43. Kf3 Rd2 44. Rxa5 Rxh2 45. b4 Rh3+ 46.
+Ke2 Rh2+ 47. Kd3 h5 48. b5 Nd5 49. Ke4 Nc3+ 50. Ke5 Re2+ 51. Kd4 Nxb5+ 52. Rxb5
+Rxa2 53. Rb8+ Kg7 54. Rb7 Rd2+ 55. Ke3 Rd6 56. Ne4 Re6 57. Kf3 Ra6 58. Ng5 Rf6
+59. Ke4 Kg8 60. Rc7 Kg7 61. Nf3 Ra6 62. Ne5 Rf6 63. Ra7 Kg8 64. Rb7 Kg7 65. Rc7
+Kg8 66. Rc6 Rf5 67. Nxg6 Ra5 68. Ne5 Ra1 69. Kf5 h4 70. Rh6 Rh1 71. Kf6 Ra1 72.
+Nxf7 Ra6+ 73. Kg5 1-0
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.10"]
+[Round "4"]
+[White "Gyimesi, Zoltan"]
+[Black "Khenkin, Igor"]
+[Result "1/2-1/2"]
+[ECO "E25"]
+[WhiteElo "2605"]
+[BlackElo "2602"]
+[PlyCount "38"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8.
+dxc5 Qa5 9. e4 Nf6 10. Be3 O-O 11. Kf2 Nfd7 12. Rb1 Rd8 13. Qb3 Qc7 14. Rd1 Rf8
+15. Qb4 Nc6 16. Qa4 Na5 17. Qb4 Nc6 18. Qc4 Na5 19. Qb4 Nc6 1/2-1/2
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.10"]
+[Round "4"]
+[White "Postny, Evgeny"]
+[Black "Smirin, Ilia"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2627"]
+[BlackElo "2616"]
+[PlyCount "94"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 a5 10. bxa5 Rxa5 11. a4 c5 12. Ra3 Ne8 13. Ne1 f5 14. exf5 Nxf5 15.
+Ne4 Nf6 16. Bd3 Nxe4 17. Bxe4 Bd7 18. Bd2 Ra7 19. Nf3 Qa8 20. a5 b5 21. cxb5
+Bxb5 22. Re1 Bc4 23. Bc3 Nd4 24. Bxd4 exd4 25. Ng5 Bxd5 26. Qg4 Be5 27. Rf3
+Rxf3 28. Bxf3 d3 29. Bxd5+ Qxd5 30. Qc8+ Kg7 31. Ne6+ Kf7 32. Ng5+ Kg7 33. Ne6+
+Kf7 34. Ng5+ Ke7 35. Nxh7 d2 36. Rd1 c4 37. Qf8+ Kd7 38. Nf6+ Bxf6 39. Qxf6
+Rxa5 40. Qxg6 Ra3 41. h4 c3 42. h5 Qb3 43. Qg4+ Qe6 44. Qg7+ Kc6 45. Rf1 c2 46.
+Qb2 d1=Q 47. Qxa3 Qxf1+ 0-1
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.11"]
+[Round "5"]
+[White "Macieja, Bartlomiej"]
+[Black "Moiseenko, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "2617"]
+[BlackElo "2643"]
+[Annotator "Macieja"]
+[PlyCount "78"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+{I consider that both Alex and I are rather solid players, however all
+previous games between us had been decided. There is no reason to complain of
+a lack of fight in this game either.} 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6
+5. a3 Bxd2+ 6. Qxd2 Bb7 7. e3 O-O 8. Be2 d6 9. O-O Nbd7 10. b4 Ne4 11. Qc2 f5
+12. d5 $1 exd5 $6 ({9 years earlier I reacted as Black with} 12... e5 $14 {and
+I still consider that answer to be correct.}) 13. Nd4 Qf6 14. cxd5 (14. Bb2 $2
+{was played by Boris Gelfand in 2005, but after} c5 15. Nc6 d4 16. exd4 Bxc6 {
+Black (Moiseenko) was already better as} 17. d5 $4 {is met with} Ba4 $1 $19)
+14... Bxd5 15. f3 Ng5 (15... c5 $2 16. fxe4 Bxe4 17. Qa2+ $18) 16. Bb2 $1 {
+White doesn't need to take care for a while about the pawn, as numerous
+threats make Black's life very difficult.} Qg6 (16... c5 17. Nb5 Qe7 18. Nc7
+Qxe3+ 19. Kh1 $16) (16... Ne6 17. Rad1 Nxd4 (17... Qg5 18. Bc4 Bxc4 19. Qxc4
+Rae8 20. e4 $18) 18. Rxd4 Bf7 19. Qxc7 $16) 17. Bd3 $5 {The most interesting
+and the strongest, but also simple} (17. Qxc7 {leads to advantage for White.}
+Ne5 18. Rac1 f4 (18... Rf7 19. Qc3 $16) 19. e4 Bxe4 20. h4 $1 (20. fxe4 f3 $11)
+20... Nh3+ 21. Kh1 Bd3 (21... Qg3 22. fxe4 $16) 22. Bxd3 Nxd3 23. gxh3 Nxc1 (
+23... Nxb2 24. Rg1 Qf6 25. Ne6 g6 (25... Rf7 26. Qc8+ $1 Rxc8 27. Rxc8+ Rf8 28.
+Rxf8+ Qxf8 29. Nxf8 Kxf8 30. Rc1 $18) 26. Ng5 Qg7 27. Qxg7+ Kxg7 28. Ne6+ $18)
+(23... Qg3 24. Qc4+ (24. Rc2 $4 Qxh3+ 25. Kg1 Rac8 $19) 24... Kh8 25. Rc2 Qxh3+
+26. Kg1 Rf6 (26... Qg3+ 27. Rg2 Nxb2 28. Qe2 Qxh4 29. Qxb2 $16) 27. Qxd3 Rg6+
+28. Qxg6 hxg6 29. Rg2 $16) 24. Rg1 Rfc8 25. Qe7 $1 Re8 (25... Qf7 26. Qg5 $1
+$18) 26. Qb7 Qf7 27. Qxf7+ Kxf7 28. Bxc1 $16) 17... Ne5 18. Nxf5 $1 ({To take
+an exchange with} 18. Bxf5 Nexf3+ (18... Ngxf3+ $5 19. Kh1 Nxd4 20. Bxd4 Rxf5
+21. Rxf5 Be6 $14) 19. Kh1 Nxd4 20. Bxd4 $14 {would be a sin.}) 18... Ngxf3+ {
+The biggest weakness of Black's position is the unprotected Ra8. And it is not
+a joke at all.} (18... Nexf3+ 19. Kh1 Qh5 20. gxf3 Bxf3+ (20... Nxf3 21. Ne7+
+Kh8 22. Nxd5 $18) 21. Rxf3 Qxf3+ 22. Qg2 $16 Rxf5 $140 23. Bxf5 Qxf5 24. Qxa8+
+$18) 19. Kh1 Qh5 20. Bxe5 ({Obviously now} 20. gxf3 $4 {cannot be played, as
+after} Bxf3+ {White's Bd3 is hanging.}) 20... dxe5 21. gxf3 Bxf3+ 22. Kg1 $1
+$146 {A winning novelty, but even after} (22. Rxf3 {, played in 1984,} Qxf3+
+23. Kg1 {White is slightly better. I recommend} (23. Qg2 Qxg2+ 24. Kxg2 Rad8
+$132) 23... Qh3 $1 $14 {N} (23... Rxf5 $2 24. Bxf5 Qxe3+ 25. Kh1 $18) (23...
+Qg4+ $6 {N} 24. Ng3 h5 $140 25. Qxc7 h4 26. Qc4+)) 22... Qg5+ 23. Ng3 Qxe3+ 24.
+Rf2 h5 $6 {Natural, but objectively better was} (24... g6 25. Raf1 $16) 25.
+Raf1 ({I could have won instantly after} 25. Qc3 $1 Kh8 26. Re1 $18) 25... Rf4
+(25... h4 $2 26. Qc4+ $18) (25... Rad8 26. Bf5 $1 Rd4 27. Be6+ Kh8 28. Qg6 $18)
+26. Qd2 $2 {There were at least 2 easy ways to finish the game:} (26. Bh7+ Kh8
+27. Qd3 Qxd3 28. Bxd3 Raf8 29. Be4 Bxe4 30. Rxf4 Rxf4 31. Rxf4 exf4 32. Nxe4
+$18) (26. Qc3 $1 Kh8 27. Re1 $18) 26... Qxd2 27. Rxd2 Raf8 28. Be2 $2 {Very
+weak. Still Black's position could have been very difficult after} (28. Rdf2 $1
+g5 (28... h4 29. Be4 $16) 29. h4 $3 $16) 28... h4 $11 {Now Black holds easily.}
+29. Bxf3 Rxf3 30. Rxf3 Rxf3 31. Ne4 Rxa3 32. Rd7 (32. Ng5 g6 33. Rd8+ Kg7 34.
+Ne6+ Kf6 35. Nxc7 Kf5 $132) 32... Ra4 $1 33. Ng5 g6 34. Ne4 $1 {Correct
+decision. After} (34. Rxc7 Rxb4 {White has to fight for a draw because of the
+threat ...Rg4+.}) 34... Rxb4 35. Nf6+ Kf8 36. Nh7+ Ke8 37. Nf6+ Kf8 38. Nh7+
+Ke8 39. Nf6+ Kf8 1/2-1/2
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.12"]
+[Round "6"]
+[White "Gyimesi, Zoltan"]
+[Black "Smirin, Ilia"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2605"]
+[BlackElo "2616"]
+[PlyCount "69"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Nbd7 10. O-O-O Rf8 11. Nd5 c6 12. Ne7+ Kh8 13. Be3 Re8 14.
+Nxc8 Raxc8 15. g4 Nf8 16. Nd2 Ne6 17. g5 Nd7 18. Bg4 Rc7 19. Nb3 Bf8 20. Bxe6
+Rxe6 21. Rd3 Nb6 22. Nc5 Rd6 23. Rxd6 Bxd6 24. Rd1 Nxc4 25. b3 Nxe3 26. Rxd6
+Ng4 27. f3 Nxh2 28. Rd8+ Kg7 29. Nd7 Rxd7 30. Rxd7 Nxf3 31. Rxb7 Nxg5 32. Kd2
+a5 33. Ke3 h5 34. b4 a4 35. Rc7 1-0
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.12"]
+[Round "6"]
+[White "Moiseenko, Alexander"]
+[Black "Khenkin, Igor"]
+[Result "1-0"]
+[ECO "E30"]
+[WhiteElo "2643"]
+[BlackElo "2602"]
+[PlyCount "125"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 d6 6. e3 exd5 7. cxd5 Nbd7 8. Bd3
+Qa5 9. Nge2 Nxd5 10. O-O Bxc3 11. bxc3 c4 12. Bc2 O-O 13. Bh4 Ne5 14. Qd4 Qc5
+15. Rfd1 Nd3 16. Bxd3 cxd3 17. Rxd3 Qxd4 18. Rxd4 Be6 19. e4 Nb6 20. Rxd6 Rac8
+21. f3 Nc4 22. Rd4 Na3 23. Rc1 Rfe8 24. Ra4 Nc4 25. Rxa7 b6 26. Nd4 Ra8 27. Rc7
+Rec8 28. Nxe6 fxe6 29. Rxc8+ Rxc8 30. Rb1 Ra8 31. Rb4 b5 32. Rxb5 Rxa2 33. Rb1
+Rc2 34. Be1 Ne3 35. Bf2 Rxc3 36. h4 h6 37. h5 Rd3 38. Rb8+ Kf7 39. Rb7+ Kf8 40.
+Rc7 Rb3 41. Kh2 Nf1+ 42. Kh3 Rb5 43. Kh4 Nd2 44. Be1 Nb3 45. Bc3 e5 46. f4 Nd4
+47. Bxd4 exd4 48. Rd7 Rb2 49. g3 Rd2 50. Kg4 d3 51. Kf5 Rh2 52. Ke6 Kg8 53.
+Rxd3 Rxh5 54. e5 Rh3 55. Ke7 h5 56. e6 h4 57. Rd8+ Kh7 58. gxh4 Kg6 59. Rd5
+Rxh4 60. f5+ Kh7 61. Kd7 Ra4 62. e7 Ra7+ 63. Ke6 1-0
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.12"]
+[Round "6"]
+[White "Postny, Evgeny"]
+[Black "Roiz, Michael"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2627"]
+[BlackElo "2659"]
+[PlyCount "72"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Nc6 6. Qa4 Bb4+ 7. Bd2 Bd6 8.
+Na3 Bxa3 9. bxa3 Ne4 10. Be3 Nd6 11. Ne5 O-O 12. Nxc6 bxc6 13. Bxc6 Rb8 14. O-O
+Bb7 15. Rab1 Bxc6 16. Qxc6 Rb6 17. Qc5 Qd7 18. Bf4 Rc8 19. Rb4 h6 20. Rfb1 f6
+21. a4 Nf5 22. Qxc4 Qxd4 23. Qxd4 Nxd4 24. Kf1 e5 25. Be3 Rcb8 26. Rxb6 Rxb6
+27. Rc1 Rc6 28. Rb1 Rc4 29. Rb7 Rxa4 30. Bxd4 exd4 31. Rxc7 Rxa2 32. Rc4 Ra1+
+33. Kg2 Rd1 34. Ra4 d3 35. exd3 Rxd3 36. Rxa7 Kf8 1/2-1/2
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.14"]
+[Round "8"]
+[White "Moiseenko, Alexander"]
+[Black "Smirin, Ilia"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[WhiteElo "2643"]
+[BlackElo "2616"]
+[PlyCount "45"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 Nc6 7. O-O Nd7 8. Bc2
+e5 9. d5 Nd4 10. Be3 Nxc2 11. Qxc2 a5 12. a3 b6 13. b4 f5 14. exf5 gxf5 15. f3
+Ba6 16. b5 Bc8 17. f4 Nc5 18. Rad1 Bd7 19. Ng3 Qh4 20. Nce2 Rae8 21. fxe5 Bxe5
+22. Bf4 Bg7 23. Nd4 1/2-1/2
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.14"]
+[Round "8"]
+[White "Postny, Evgeny"]
+[Black "Gyimesi, Zoltan"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2627"]
+[BlackElo "2605"]
+[Annotator "Postny,E"]
+[PlyCount "103"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 {Black loses a tempo, but forces
+White's bishop to occupy the unfortunate d2-square. Eventually, White will
+lose a tempo as well.} 5. Bg2 d5 6. Nf3 O-O 7. O-O c6 {This is one of the most
+solid schemes against the Catalan.} 8. Bf4 (8. Qc2 {is an old theoretical
+continuation which is out of fashion nowadays.}) 8... b6 9. Nc3 Bb7 (9... Ba6
+10. cxd5 cxd5 11. Rc1 Nc6 (11... Bb7 {is safer, but there are few who want to
+lose a tempo voluntarily.}) 12. Nxd5 $1 Qxd5 13. Ne5 Nxd4 14. Bxd5 Nxe2+ 15.
+Qxe2 Bxe2 16. Bxa8 Rxa8 17. Rfe1 Bb5 18. Rc2 Nd5 19. Rec1 $14 {In this endgame
+White can torture his opponent with chances to succeed, especially when there
+is Kramnik on the white side... 1-0 Kramnik,V (2744)-Topalov,V (2788)/Dortmund
+2005/CBM 108 (41)}) 10. Rc1 Nbd7 11. Nd2 {The idea of this move is to play the
+e2-e4 advance which might yield White some more space.[%cal Ge2e4]} (11. cxd5
+cxd5 12. Nb5 Ne8 13. Qb3 a6 14. Nc7 Rc8 15. Nxe8 Rxe8 16. a4 Rc6 17. Rxc6 Bxc6
+18. Rc1 Qa8 19. e3 Rc8 $11 {1/2-1/2 Radjabov,T (2670)-Izoria,Z (2573)/Antalya
+2004/CBM 101 (40)}) 11... Nh5 {A typical move harassing White's bishop.} (11...
+c5 12. Nb3 a6 $6 (12... Rc8 {is playable for Black.}) 13. dxc5 Nxc5 14. Nxc5
+Bxc5 15. Bg5 h6 16. Bxf6 Qxf6 17. cxd5 $16 {1-0 Romanishin,O (2562)-Poetsch,K 
+(2194)/Bad Wiessee 2002/EXT 2003 (33)}) 12. cxd5 {A retreat with the bishop to
+e3 totally contradicts White's ideas in this position, therefore he has to go
+forward.} exd5 {The only recapture.} (12... cxd5 $2 {is refuted by} 13. Bc7 $1
+Qxc7 14. Nxd5 Qd8 15. Nxe7+ Qxe7 16. Bxb7 {wins a pawn.}) (12... Nxf4 $2 13.
+dxc6 Nxg2 14. cxb7 Rb8 15. Kxg2 Rxb7 {again with a healthy extra pawn for
+White.}) 13. e3 Nxf4 14. gxf4 {The change of pawn structure has weakened a bit
+the shelter for White's king, but increased the control over the centre. I
+believe that White has a slight advantage here, as his knights are more mobile
+than his opponent's bishops.} Nf6 15. Nf3 c5 $6 {This move basically fits
+Black's plan. However, at this specific moment is very risky, since Black is
+not yet fully developed and prepared for a clash in the centre. The point is
+that Zoltan Gyimesi was repeating my last years' game against Arutinian, which
+went exactly the same way and ended in a somewhat disappointing draw around
+move 20...[%csl Rd5]} (15... Qd6 16. Ne5 Qe6 {would have been logical followed
+by developing the rooks. In this case a long-term positional fight would be on.
+}) 16. Ne5 {Now White is threatening to take on c5 followed by Qd1-b3 and
+Rf1-d1 after which Black is most likely to collapse in the centre. Therefore,
+his following move is practically forced.} c4 17. Nxc4 $1 {This is not the win
+of a pawn, but an exchange sacrifice, and finally, a novelty! I remember that
+during the game versus Arutinian (see below) I considered this move, but
+eventually went for the mediocre 17.b3 which spoiled my initiative.} (17. b3 $6
+Ba3 18. Rb1 Bb4 19. Qc2 cxb3 20. Rxb3 Ba5 $1 21. Rc1 $13 {1/2-1/2 Postny,E 
+(2616)-Arutinian,D (2552)/Cappelle la Grande 2007/CBM 117 ext}) 17... Ba6 18.
+Ne5 Bxf1 19. Qxf1 {The Pd5 is doomed to fall, so White will get two pawns for
+the exchange.} Rc8 20. Nxd5 $1 Nxd5 {This way Black keeps his bishop, but he
+could also keep his knight on the board.} (20... Rxc1 21. Nxe7+ Qxe7 22. Qxc1
+$14) 21. Rxc8 Qxc8 22. Bxd5 Bf6 $2 {It is hard to believe, but this natural
+move is a serious mistake. The bishop had to go the other way.} (22... Bd6 $1
+23. Qc4 (23. Nc6 Qf5 24. Bg2 Qc2 $132) 23... Qf5 {This is the point. Black can
+defend Pf7 and avoid the exchange of queens.} 24. Qd3 Qh5 25. Bf3 Qh6 $14 {It
+is obviously nicer to play this position as White. However, it will be very
+hard to make progress by pushing forward central pawns, since White's king is
+vulnerable. The presence of queens on the board will always yield Black
+reasonable counterchances.}) 23. Qc4 $1 {The difficulty in this move lies in
+the understanding that swapping queens is in White's favour. In the
+forthcoming endgame White's king will be safe and will assist the central
+pawns to march forward.[%csl Rf7]} Qxc4 $6 {It was still possible to avoid the
+exchange of queens, though under unfavourable circumstances.} (23... Bxe5 $2
+24. Bxf7+ $1 Kh8 25. Qxc8 Rxc8 26. fxe5 $18 {[%csl Gd4,Ge5]}) ({Considering
+what happened in the game later, it is easy to recommend such a passive move as
+} 23... Qe8 $1 {However, Black should avoid the exchange of queens at any
+price. White would keep a stable advantage in this case, but would still be
+far from winning.}) 24. Bxc4 $8 (24. Nxc4 $2 {would spoil everything in view of
+} Rd8 25. Bc6 Bxd4 $1 26. exd4 Rxd4 27. b3 Rxf4 $11 {Black's rook + pawn are
+no worse than White's minor pieces.}) 24... Bxe5 {Black can't tolerate such a
+strong knight.} 25. fxe5 Rc8 26. b3 $18 {The only opened file, the c-file, is
+safely blocked. White's central pawn mass is very compact and well protected.
+Sooner or later White will create two connected passers which will bring him a
+win. Black's only counterplay is connected with attacking the Ph2, but is
+insufficient against precise play.[%csl Gd4,Ge3,Ge5,Gf2]} Kf8 (26... Rc6 27. h3
+$3 Rg6+ 28. Kh2 Kf8 29. d5 f6 (29... Ke7 30. f4 {followed by Bc4-d3 kicking
+out the rook. This is the point of 27.h3, all the squares along the "g" file
+are under control.}) 30. e6 Ke7 31. e4 Rg5 32. f4 Rh5 33. Be2 Rh6 34. e5 $18)
+27. a4 {Just a useful move preventing the possibility of b6-b5 punch.} (27. f4
+$2 b5 $1 28. Bxb5 Rc2 $132 {[%csl Gc2,Rg1]}) 27... f6 28. f4 Ke7 29. Kg2 fxe5 (
+29... g5 30. f5 $18 {followed by e3-e4 and White will even get three connected
+passers!}) 30. fxe5 Rc6 {This is Black's best chance. The rook is going to
+attack the Ph2.} (30... Rf8 31. Bd3 g6 32. Kg3 $18 {followed by e3-e4, d4-d5
+etc.}) 31. d5 Rg6+ 32. Kf3 Rh6 33. Kg3 Rg6+ (33... Rh5 34. e6 Kd6 35. e4 Re5
+36. Bd3 {White is winning here as well, because soon Black will run out of
+moves. For instance:} g6 37. h3 h6 38. Kf4 Rh5 39. Be2 Re5 40. Bf3 a5 41. Bg4
+Rg5 42. h4 Re5 43. Ke3 h5 44. Bf3 g5 45. hxg5 Rxg5 46. Kf4 Re5 47. Be2 h4 48.
+Bg4 $18) 34. Kf4 Rh6 35. d6+ Kd7 36. Bb5+ Ke6 37. Bc4+ {Gaining some time on
+the clock.} (37. Be2 $4 g5+ $1 38. Kxg5 Rxh2 {and White's advantage belongs to
+history.}) 37... Kd7 38. Be2 {White needs to transfer the bishop to the
+diagonal h3-c8. For this purpose it is necessary to give up the Ph2.} Rxh2 39.
+Bg4+ Kc6 40. Bf3+ Kd7 41. Bg4+ Kc6 42. b4 $1 {An important resource. The
+following b4-b5 check will drive away the black king.} Rf2+ 43. Ke4 a6 (43...
+g6 44. b5+ Kc5 45. Bf3 Rd2 46. Kf4 h6 47. Kg3 $1 {robbing the rook of the f2
+square.} Rd3 48. Bc6 Rxe3+ 49. Kf4 Rd3 50. d7 $18 {[%cal Ge5e6]}) 44. b5+ axb5
+45. axb5+ Kc5 (45... Kxb5 46. d7 Rd2 47. e6 $18) 46. Bf5 $1 {It is necessary
+to prevent the rook from going to f8. Meanwhile, Black's king has no moves and
+the kingside pawns do not help either.} Ra2 (46... g6 47. d7 $1 gxf5+ 48. Kd3
+Rf1 49. Ke2 $18) 47. Bxh7 {The rest is easy.} Rf2 48. Bf5 Rh2 49. Bg6 Rd2 50.
+Be8 Ra2 51. Kf5 Ra8 52. Bc6 1-0
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.15"]
+[Round "9"]
+[White "Kogan, Artur"]
+[Black "Macieja, Bartlomiej"]
+[Result "0-1"]
+[ECO "E55"]
+[WhiteElo "2591"]
+[BlackElo "2617"]
+[PlyCount "124"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 c5 4. c4 cxd4 5. exd4 e6 6. Nc3 Bb4 7. Bd3 dxc4 8.
+Bxc4 O-O 9. O-O b6 10. Qd3 Bb7 11. Bg5 Nbd7 12. Rac1 Rc8 13. Ba6 Bxa6 14. Qxa6
+Bxc3 15. bxc3 Rc7 16. c4 Qc8 17. Qa4 Qb7 18. Bf4 Rc6 19. Rc2 Rfc8 20. Rfc1 Nh5
+21. Be3 Nhf6 22. h3 Qc7 23. Ne1 Qb8 24. Qb3 e5 25. d5 R6c7 26. Nd3 Ne4 27. Nb4
+Qb7 28. Nc6 Re8 29. Re1 Nec5 30. Qa3 f6 31. Bc1 Nb8 32. Nd4 Qa6 33. Qg3 Qa4 34.
+Ree2 exd4 35. Rxe8+ Qxe8 36. Qxc7 d3 37. Rb2 Qe1+ 38. Kh2 Qxc1 39. Qxb8+ Kf7
+40. Qxa7+ Kg6 41. Qxb6 Na4 42. Rb1 d2 43. Rxc1 dxc1=Q 44. Qd4 Nc3 45. d6 Qg1+
+46. Kxg1 Ne2+ 47. Kh2 Nxd4 48. d7 Nc6 49. a4 Kf5 50. a5 Ke6 51. a6 Kxd7 52. Kg3
+Kc7 53. c5 Nb4 54. a7 Kb7 55. Kg4 g6 56. f4 Nd5 57. Kf3 f5 58. g4 Kxa7 59. h4
+h5 60. gxh5 gxh5 61. Ke2 Nxf4+ 62. Ke3 Ne6 0-1
+
+[Event "Maalot-Tarshiha"]
+[Site "Maalot-Tarshiha"]
+[Date "2008.01.15"]
+[Round "9"]
+[White "Roiz, Michael"]
+[Black "Moiseenko, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2659"]
+[BlackElo "2643"]
+[PlyCount "66"]
+[EventDate "2008.01.07"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. g3 O-O 7. Bg2 d6 8.
+O-O a5 9. a3 Na6 10. e3 Qc7 11. Qe2 b6 12. Rc1 Bb7 13. axb4 Nxb4 14. Nc3 Rfc8
+15. b3 h6 16. e4 Qe7 17. Rd1 Rd8 18. Ne1 Nd7 19. Nd3 Nxd3 20. Rxd3 e5 21. Rad1
+exd4 22. Rxd4 Nc5 23. Qc2 Bc6 24. f4 Rac8 25. Bh3 Rb8 26. Bg2 Rbc8 27. Bh3 Rb8
+28. Bg2 b5 29. R1d2 Ne6 30. Bh3 Nc5 31. cxb5 Bxb5 32. Qd1 Qa7 33. Kh1 Nxb3
+1/2-1/2
+
+[Event "Madrid-ch sf-A"]
+[Site "Madrid"]
+[Date "2008.01.08"]
+[Round "2"]
+[White "Ballesteros Gonzalez, David"]
+[Black "Martin Martin, Luis Vicente"]
+[Result "1-0"]
+[ECO "E19"]
+[WhiteElo "2285"]
+[BlackElo "2093"]
+[PlyCount "96"]
+[EventDate "2008.01.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]

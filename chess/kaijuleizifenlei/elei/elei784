@@ -1,0 +1,600 @@
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2012"]
+[BlackElo "2055"]
+[PlyCount "47"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 a5 8. Bg5 h6
+9. Bh4 Na6 10. Nd2 Qe8 11. Rb1 Bd7 12. b3 Nh7 13. f3 h5 14. a3 Bh6 15. Bf2 Qe7
+16. b4 axb4 17. axb4 Qg5 18. Nf1 Qe7 19. h4 f5 20. c5 dxc5 21. Bxa6 cxb4 22.
+Bxb7 Rab8 23. d6 cxd6 24. Bd5+ 1-0
+
+[Event "EU-ch U12 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.24"]
+[Round "9"]
+[White "Menezes, Christoph"]
+[Black "Kessler, Luca"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "1750"]
+[BlackElo "1931"]
+[PlyCount "61"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bc3 c6 8. Bg2
+O-O 9. O-O d5 10. Ne5 Nfd7 11. Nxd7 Nxd7 12. Nd2 Rc8 13. e4 dxe4 14. Nxe4 Nf6
+15. Re1 Qc7 16. Qc2 Rfd8 17. Rad1 Bb7 18. Qb2 Nxe4 19. Bxe4 Bf6 20. a3 Rd7 21.
+Rd2 Rcd8 22. Red1 h6 23. c5 g6 24. b4 e5 25. dxe5 Rxd2 26. Rxd2 Rxd2 27. Qxd2
+Bxe5 28. Qb2 Bxc3 29. Qxc3 Qd7 30. cxb6 axb6 31. Qd3 1/2-1/2
+
+[Event "EU-ch U12 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.24"]
+[Round "9"]
+[White "Mirzoev, Emil"]
+[Black "Bida, Mihai Eugen"]
+[Result "0-1"]
+[ECO "E42"]
+[BlackElo "1952"]
+[PlyCount "54"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 d5 7. a3 Be7 8. Ng3
+O-O 9. Be2 Nc6 10. Be3 dxc4 11. Bxc4 a6 12. O-O b5 13. Ba2 Bb7 14. Rc1 b4 15.
+axb4 Nxb4 16. Bb1 Nbd5 17. Qd3 a5 18. Nxd5 Qxd5 19. f3 Ba6 20. Qd2 Bxf1 21.
+Rxf1 Rac8 22. Ne4 Rfd8 23. Qd3 Nxe4 24. fxe4 Qc4 25. Qd2 Bf6 26. Rxf6 gxf6 27.
+Qf2 Qc1+ 0-1
+
+[Event "EU-ch U12 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.24"]
+[Round "9"]
+[White "Terentyev, Vitaly"]
+[Black "Studer, Noel"]
+[Result "0-1"]
+[ECO "E38"]
+[WhiteElo "1924"]
+[PlyCount "46"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc3+ 7. Qxc3 Nxc5 8.
+b4 Nce4 9. Qd3 d5 10. c5 Ng4 11. Be3 Qf6 12. Qd4 e5 13. Qxd5 Nexf2 14. Bxf2
+Nxf2 15. e4 Nxh1 16. Nf3 O-O 17. Rd1 Bg4 18. Be2 Bxf3 19. Bxf3 Qh4+ 20. g3 Qxh2
+21. Bxh1 Qxh1+ 22. Kf2 Qh5 23. Rd2 Qg5 0-1
+
+[Event "EU-ch U12 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.24"]
+[Round "9"]
+[White "Zajic, Milun"]
+[Black "Kisic, Bozidar"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[PlyCount "62"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 b5 6. Qc2 bxc4 7. bxc4 Bb7 8. Nbd2
+Bb4 9. Bg2 Bxd2+ 10. Qxd2 O-O 11. O-O d6 12. Ba3 Nbd7 13. c5 dxc5 14. dxc5 Bxf3
+15. Bxf3 Ne5 16. Qc3 Nxf3+ 17. Qxf3 Qd5 18. Qc3 Ne4 19. Qc2 Ng5 20. h4 Ne4 21.
+Rad1 Qf5 22. Qd3 c6 23. Kg2 Qd5 24. f3 Nf6 25. e4 Qxd3 26. Rxd3 Rfd8 27. Rfd1
+Rxd3 28. Rxd3 Kf8 29. Rd6 Rc8 30. g4 Ke7 31. g5 Ne8 1/2-1/2
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.15"]
+[Round "1"]
+[White "Tumanova, Irina"]
+[Black "Serefidou, Despina"]
+[Result "1/2-1/2"]
+[ECO "E72"]
+[BlackElo "1525"]
+[PlyCount "45"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nc3 Nbd7 7. e4 e5 8. d5 a5
+9. O-O Ne8 10. Rb1 f5 11. Ng5 Ndf6 12. exf5 Bxf5 13. Ne6 Bxe6 14. dxe6 Rb8 15.
+c5 Qe7 16. cxd6 cxd6 17. Qb3 Nc7 18. Qb6 Nxe6 19. Qxa5 Rfd8 20. Qb4 Rd7 21. Nd5
+Nxd5 22. Bxd5 Kh8 23. Bg2 1/2-1/2
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.16"]
+[Round "2"]
+[White "Kiseleva, Arina"]
+[Black "Ioan, Diana"]
+[Result "1-0"]
+[ECO "E41"]
+[WhiteElo "1850"]
+[BlackElo "1882"]
+[PlyCount "65"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 cxd4 6. exd4 Nc6 7. a3 Be7 8. Bf4
+d6 9. Bd3 O-O 10. O-O d5 11. c5 Nh5 12. Be3 Bd7 13. Ne5 Nf6 14. Nxc6 Bxc6 15.
+b4 a6 16. a4 Bd7 17. b5 axb5 18. axb5 Rxa1 19. Qxa1 Qb8 20. f4 Ng4 21. Bd2 Qc7
+22. Qa7 Rb8 23. Ra1 Qc8 24. Qa4 g6 25. Kh1 Bh4 26. Kg1 Bf6 27. h3 Nh6 28. f5
+Nxf5 29. Bxf5 gxf5 30. Bf4 Bg7 31. Bxb8 Qxb8 32. Ne2 Qc7 33. Qa5 1-0
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.16"]
+[Round "2"]
+[White "Korban, Katrina"]
+[Black "Aseeva, Anastasia"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[BlackElo "1749"]
+[PlyCount "66"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 O-O 5. e4 d6 6. Bd3 Nc6 7. Be3 b6 8. Nge2
+Bb7 9. O-O Bxc3 10. Nxc3 Nb4 11. Bb1 c5 12. d5 e5 13. a3 Na6 14. Bd3 Bc8 15.
+Qd2 Nd7 16. Nb5 Qe7 17. Bg5 f6 18. Bh4 Rd8 19. b4 Nf8 20. Bg3 Ng6 21. Kh1 Bd7
+22. Rfb1 Be8 23. Nc3 Rdc8 24. b5 Nc7 25. a4 Bf7 26. Ne2 Ne8 27. a5 Qb7 28. a6
+Qd7 29. h3 Nc7 30. Kh2 Qe7 31. Rh1 Be8 32. Kg1 Bd7 33. Bf2 Qf7 1/2-1/2
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.16"]
+[Round "2"]
+[White "Navrotescu, Andreea Cristiana"]
+[Black "Milosevic, Jovana"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "1740"]
+[PlyCount "65"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nd7 10. a4 f5 11. Ng5 Nf6 12. Bf3 h6 13. Ne6 Bxe6 14. dxe6 f4 15. Nd5
+Nexd5 16. cxd5 h5 17. Bb2 Qe8 18. Rc1 Rc8 19. Qb3 g5 20. Rc4 g4 21. Be2 Qg6 22.
+Kh1 h4 23. f3 Nh5 24. Re1 Ng3+ 25. Kg1 Nxe2+ 26. Rxe2 h3 27. b5 g3 28. Qc3 hxg2
+29. Rxg2 gxh2+ 30. Kh1 Qf6 31. Rxc7 Rxc7 32. Qxc7 Qh4 33. Qxg7# 1-0
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.17"]
+[Round "3"]
+[White "Aseeva, Anastasia"]
+[Black "Kaforou, Myrto Iro"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "1749"]
+[PlyCount "137"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. e3 Nf6 5. Bd2 c5 6. Nf3 Nc6 7. a3 Bxc3 8. Bxc3
+Ne4 9. Be2 O-O 10. O-O cxd4 11. Nxd4 Nxc3 12. bxc3 e5 13. Nxc6 bxc6 14. cxd5
+Qxd5 15. Qxd5 cxd5 16. Rab1 Bf5 17. Rb5 Be6 18. e4 dxe4 19. Rxe5 Rfb8 20. Rxe4
+Rb3 21. Ra4 Bd7 22. Ra5 Rxc3 23. Bf3 Bc6 24. Bxc6 Rxc6 25. Rd1 Kf8 26. g3 Ke7
+27. Rad5 Rc7 28. Kg2 Rb8 29. h4 Rbb7 30. Re1+ Kf6 31. Rd6+ Kf5 32. Rd4 h5 33.
+Rd5+ Kg6 34. Ree5 Rb3 35. a4 Ra3 36. a5 Ra2 37. Rxh5 Rcc2 38. Rhf5 f6 39. Rf3
+Re2 40. h5+ Kh6 41. Rff5 Ra4 42. Rd7 Rae4 43. Rxa7 Re5 44. Rxe5 Rxe5 45. g4 Re4
+46. f3 Ra4 47. Kg3 Ra3 48. a6 Ra5 49. Ra8 Kh7 50. a7 Ra3 51. Kf4 Ra4+ 52. Kf5
+Ra6 53. Ke4 Ra5 54. Kd4 Ra1 55. f4 Ra4+ 56. Ke3 Ra3+ 57. Ke4 Ra4+ 58. Kf5 Ra5+
+59. Ke6 Ra6+ 60. Kf7 Ra5 61. g5 fxg5 62. fxg5 Rxg5 63. Rb8 Rf5+ 64. Ke6 Rf6+
+65. Ke5 Ra6 66. a8=Q Rxa8 67. Rxa8 g6 68. hxg6+ Kxg6 69. Ra6+ 1-0
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.18"]
+[Round "4"]
+[White "Ivanova, Simoneta"]
+[Black "Tantsiura, Marja"]
+[Result "0-1"]
+[ECO "E93"]
+[WhiteElo "1668"]
+[BlackElo "1976"]
+[PlyCount "68"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. h3 Nbd7 7. Be2 e5 8. d5
+Nc5 9. Nd2 a5 10. Qc2 Ne8 11. g4 f5 12. gxf5 gxf5 13. Nb3 Nxb3 14. axb3 Qh4 15.
+Bd3 Nf6 16. exf5 e4 17. Be2 Bxf5 18. Be3 c6 19. Qd2 Ng4 20. Bxg4 Bxg4 21. dxc6
+bxc6 22. Qxd6 Rad8 23. Qc5 Rd3 24. Bg5 Qh5 25. Be7 Rf5 26. Qxc6 Rxc3 27. Qc8+
+Kf7 28. Qc7 Rc2 29. Bh4+ Kg8 30. hxg4 Qxg4 31. Qd8+ Rf8 32. Qd1 Qg2 33. Rf1
+Rxb2 34. Rb1 Bc3+ 0-1
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.18"]
+[Round "4"]
+[White "Korban, Katrina"]
+[Black "Garcia Castany Musellas, Gal La"]
+[Result "0-1"]
+[ECO "E81"]
+[BlackElo "1631"]
+[PlyCount "64"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Bg7 4. e4 d6 5. Nc3 O-O 6. Be3 Nbd7 7. Qd2 c5 8. d5
+Ne5 9. g4 e6 10. O-O-O exd5 11. exd5 a6 12. h3 Qa5 13. f4 Nexg4 14. hxg4 Nxg4
+15. Nge2 Re8 16. Bg1 b5 17. a3 Bf5 18. Ne4 Qb6 19. N4g3 Bd7 20. Nc3 b4 21. axb4
+Qxb4 22. Nce4 Qb6 23. Be2 Rab8 24. Nc3 a5 25. Bxg4 Bxg4 26. Rf1 Bf6 27. Rh2 Qb4
+28. Nge4 Rxe4 29. Nxe4 Qxc4+ 30. Qc2 Qxf1+ 31. Kd2 Qxf4+ 32. Ke1 Re8 0-1
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.18"]
+[Round "4"]
+[White "Mileva, Eva"]
+[Black "Lagaert, Lisa"]
+[Result "0-1"]
+[ECO "E10"]
+[PlyCount "104"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 e6 4. Bg5 Be7 5. Nc3 Qb6 6. Bxf6 Bxf6 7. Qb3 cxd4 8.
+Qxb6 axb6 9. Nb5 Na6 10. Nfxd4 Ke7 11. Rb1 Nb4 12. a3 Nc6 13. e3 d6 14. Nxc6+
+bxc6 15. Nd4 Bb7 16. Be2 c5 17. Nf3 Be4 18. O-O Bxb1 19. Rxb1 Rhd8 20. Nd2 d5
+21. cxd5 Rxd5 22. Bf3 Rxd2 23. Bxa8 Bxb2 24. a4 c4 25. Kf1 c3 26. Be4 f5 27.
+Bf3 c2 28. Re1 c1=Q 29. Rxc1 Bxc1 30. g3 Kd6 31. h4 Ra2 32. Bd1 g6 33. Kg1 Bxe3
+34. fxe3 Ra1 35. Kf2 Rxd1 36. Kf3 e5 37. g4 Ra1 38. e4 fxe4+ 39. Kxe4 Rxa4+ 40.
+Kf3 b5 41. h5 g5 42. Ke3 Rxg4 43. h6 b4 44. Kd3 e4+ 45. Kd2 b3 46. Ke3 b2 47.
+Kd4 b1=Q 48. Ke3 Qd3+ 49. Kf2 Qd2+ 50. Kf1 Qg2+ 51. Ke1 e3 52. Kd1 Qd2# 0-1
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.19"]
+[Round "5"]
+[White "Radosevic, Nevena"]
+[Black "Kurbanova, Dagmara"]
+[Result "1/2-1/2"]
+[ECO "E34"]
+[PlyCount "96"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. e3 dxc4 6. Bxc4 O-O 7. Nf3 b6 8. O-O
+Bb7 9. Be2 Nbd7 10. a3 Be7 11. Bd2 c5 12. Rfd1 Qc7 13. Rac1 a6 14. Na4 Be4 15.
+Qb3 Nd5 16. dxc5 Bxc5 17. Nc3 Nxc3 18. Qxc3 Rac8 19. b4 Bd6 20. Bxa6 Qxc3 21.
+Rxc3 Ra8 22. Be2 Ne5 23. Be1 Bb8 24. Rdc1 Nxf3+ 25. Bxf3 Bxf3 26. gxf3 Be5 27.
+Rc6 Rab8 28. Bc3 Bxc3 29. R1xc3 Rfd8 30. Kg2 Kf8 31. Rc7 Ke8 32. Ra7 Ra8 33.
+Rcc7 Rxa7 34. Rxa7 Rb8 35. f4 Rc8 36. Rb7 Rc3 37. Rxb6 Rxa3 38. b5 Ra7 39. Kf3
+Kd7 40. Ke4 Kc7 41. Ra6 Rb7 42. b6+ Rxb6 43. Rxb6 Kxb6 44. f5 exf5+ 45. Kxf5
+Kc6 46. Ke5 Kd7 47. f4 Ke7 48. h4 f6+ 1/2-1/2
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.21"]
+[Round "6"]
+[White "Navrotescu, Andreea Cristiana"]
+[Black "Tantsiura, Marja"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "1740"]
+[BlackElo "1976"]
+[PlyCount "159"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Re1
+c6 9. Bf1 exd4 10. Nxd4 Ng4 11. Be3 Nxe3 12. Rxe3 Nc5 13. g3 Qf6 14. Nb3 Bh6
+15. Re1 Rd8 16. Qc2 Bg4 17. Bg2 Nd7 18. f4 a5 19. a4 Be6 20. Ne2 Nb6 21. c5 Nc4
+22. Ned4 d5 23. e5 Qg7 24. Nxe6 fxe6 25. Nd4 Qe7 26. Kh1 Re8 27. Nf3 Qxc5 28.
+b3 b5 29. bxc4 bxc4 30. Rab1 Rab8 31. Red1 Rxb1 32. Qxb1 Qa3 33. Qa1 Qxa1 34.
+Rxa1 c5 35. Rb1 c3 36. Ne1 Bf8 37. Rb3 c4 38. Rxc3 Rb8 39. Rc1 Rb4 40. Nc2 Rb6
+41. Nd4 Kf7 42. Nb5 Bb4 43. Kg1 Ke7 44. Kf1 Rc6 45. Ke2 Rc8 46. Bh3 Rc6 47. g4
+Rc8 48. Bg2 Rf8 49. Rf1 Bc5 50. f5 gxf5 51. gxf5 Rg8 52. f6+ Kf8 53. Bh3 Rg5
+54. Nc7 Rxe5+ 55. Kd1 Bb6 56. Nxe6+ Kf7 57. Nf4 d4 58. Be6+ Kxf6 59. Bxc4 Kg5
+60. Ne6+ Kh4 61. Rg1 Kh3 62. Rg7 Kxh2 63. Nf4 Rf5 64. Nd5 Bc5 65. Rxh7+ Kg3 66.
+Rc7 Bf8 67. Ra7 Bh6 68. Kc2 Rf2+ 69. Kd3 Kf3 70. Rf7+ Kg3 71. Rxf2 Kxf2 72.
+Kxd4 Bf8 73. Ba6 Kf3 74. Kc4 Ke4 75. Bb7 Bh6 76. Kb5 Bd2 77. Nb6+ Kd4 78. Nc4
+Be1 79. Nxa5 Ke5 80. Nc6+ 1-0
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.22"]
+[Round "7"]
+[White "Ivanova, Simoneta"]
+[Black "Skuhala, Barbara"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "1668"]
+[PlyCount "64"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
+d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. cxd5 exd5 12. O-O O-O 13. Re1 Rc8 14. Nd2 c5
+15. Bxd5 cxd4 16. Bxd4 Nf6 17. e4 Nxd5 18. exd5 Qxd5 19. Rxe7 Qxd4 20. Rxa7 Bb5
+21. Nc4 Qf6 22. Rc1 Rcd8 23. Qc2 Rfe8 24. Ne3 Qf3 25. Qf5 Rxe3 26. Qxb5 Re2 27.
+Qxb6 Rde8 28. Rf1 Re1 29. Qa6 h6 30. Rc7 R8e2 31. Rc8+ Kh7 32. Qc6 Rxf1+ 0-1
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.22"]
+[Round "7"]
+[White "Milutinovic, Stefana"]
+[Black "Zarkovic, Mila"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "1627"]
+[BlackElo "1812"]
+[PlyCount "111"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e6 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 Bxc3 5. bxc3 O-O 6. Nf3 c5 7. O-O d6 8. d4
+Nc6 9. Bf4 Qb6 10. Qd3 d5 11. cxd5 Nxd5 12. Bd2 cxd4 13. cxd4 Nf6 14. Rab1 Qd8
+15. e4 Ne7 16. Ne5 b6 17. Bg5 Bb7 18. Bxf6 gxf6 19. Ng4 Ng6 20. f4 Rb8 21. f5
+Ne5 22. Qd1 Nxg4 23. Qxg4+ Kh8 24. Rbd1 Qe7 25. Qh4 e5 26. dxe5 Qxe5 27. Rf4
+Rbd8 28. Rdf1 Ba6 29. Re1 Qc3 30. g4 Qd2 31. Rf3 Rd3 32. Rxd3 Qxd3 33. Qxf6+
+Kg8 34. Qg5+ Kh8 35. Qh6 Rc8 36. Kh1 Bb7 37. g5 Qd2 38. Rg1 Qd4 39. f6 Rg8 40.
+Qh4 Qe5 41. Bf3 b5 42. g6 Rxg6 43. Rxg6 fxg6 44. f7 Kg7 45. Qh6+ Kxf7 46. Qxh7+
+Qg7 47. Qxg7+ Kxg7 48. Kg2 Kf7 49. Kf2 Ke6 50. Ke3 Ke5 51. Be2 a6 52. Bd3 Bc6
+53. Bc2 a5 54. Bb1 Bd7 55. a3 Be6 56. h4 1/2-1/2
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.22"]
+[Round "7"]
+[White "Papathanasiou, Elisavet"]
+[Black "Tomin, Ksenija"]
+[Result "0-1"]
+[ECO "E90"]
+[WhiteElo "1558"]
+[BlackElo "1756"]
+[PlyCount "80"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 a5 8. Bg5 Na6
+9. Be3 Nc5 10. Bxc5 dxc5 11. Be2 Ne8 12. g4 Nd6 13. Qd2 b6 14. Qg5 f6 15. Qd2
+Qe8 16. Nh2 Kh8 17. Nf1 c6 18. Ng3 Ba6 19. b3 cxd5 20. cxd5 Bxe2 21. Ngxe2 b5
+22. Rc1 Rf7 23. Ng3 c4 24. bxc4 Nxc4 25. Qe2 Bh6 26. Rd1 Rc8 27. Nb1 Qf8 28.
+O-O Bf4 29. Rd3 Rfc7 30. Rfd1 Nd6 31. Qf3 f5 32. gxf5 gxf5 33. Nxf5 Nxf5 34.
+exf5 Qxf5 35. d6 Rg7+ 36. Kh1 e4 37. Rd5 Qxd5 38. d7 Qxd7 39. Rxd7 exf3 40.
+Rxg7 Kxg7 0-1
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.24"]
+[Round "9"]
+[White "Hancu, Olga"]
+[Black "Skuhala, Barbara"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "1518"]
+[PlyCount "87"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Ba6 5. e4 d6 6. Bd3 Be7 7. O-O O-O 8. d5 e5
+9. h3 Nbd7 10. Be3 Nh5 11. Qd2 Nc5 12. Rfd1 Qd7 13. b4 Nxd3 14. Qxd3 f5 15.
+exf5 Rxf5 16. Ne4 Raf8 17. Neg5 Bxg5 18. Nxg5 Nf4 19. Bxf4 exf4 20. Ne6 R8f6
+21. Re1 f3 22. g3 Rh5 23. h4 Rg6 24. Qxf3 Rxe6 25. dxe6 Qe8 26. b5 Bc8 27. e7
+Rf5 28. Qc6 Bd7 29. Qxc7 Kf7 30. Qxd6 Rf6 31. Qd5+ Be6 32. Qh5+ Kxe7 33. Qxe8+
+Kxe8 34. Re4 Kd7 35. Rd1+ Kc7 36. Kf1 Bh3+ 37. Ke2 Re6 38. Rxe6 Bxe6 39. Rd4
+Bf5 40. g4 Bc8 41. Ke3 a6 42. a4 axb5 43. axb5 Bb7 44. f4 1-0
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.24"]
+[Round "9"]
+[White "Milutinovic, Stefana"]
+[Black "Tomin, Ksenija"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "1627"]
+[BlackElo "1756"]
+[PlyCount "92"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Re8 10. O-O-O h6 11. Bh4 Bd7 12. Nd5 Nxd5 13. cxd5 f6 14. Nd2
+c6 15. Bc4 Kh7 16. d6 g5 17. Bg3 Bf8 18. Nb3 b6 19. a4 a5 20. Rd3 Ra7 21. Nd2
+Be6 22. Rd1 Bxc4 23. Nxc4 Nd7 24. f3 b5 25. axb5 cxb5 26. Ne3 Rc8+ 27. Kb1 b4
+28. Nf5 Rb7 29. Bf2 b3 30. Rd5 Rc2 31. R1d2 Rxd2 32. Rxd2 Rb5 33. Rd3 Kg6 34.
+Rc3 Kf7 35. Rc6 a4 36. Be3 Ra5 37. h4 Ra8 38. hxg5 hxg5 39. g3 Ra5 40. Rc7 Ke6
+41. Rc8 Ra6 42. Re8+ Kf7 43. Rd8 Ke6 44. Re8+ Kf7 45. Rd8 Ke6 46. Re8+ Kf7
+1/2-1/2
+
+[Event "EU-ch U12 Girls 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.24"]
+[Round "9"]
+[White "Turk, Tajana"]
+[Black "Stoeri, Laura"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[BlackElo "1811"]
+[PlyCount "106"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. e3 Bg7 5. Nc3 O-O 6. Be2 e6 7. O-O cxd4 8. exd4
+d5 9. c5 Nc6 10. Bf4 Ne4 11. Bb5 Nxc3 12. bxc3 Qa5 13. Qb3 Bd7 14. Bxc6 Bxc6
+15. Ne5 Ba4 16. Qb4 Qa6 17. Rfe1 Rac8 18. Rab1 b6 19. cxb6 axb6 20. Rec1 Bxe5
+21. Bxe5 f6 22. Bd6 Rc4 23. Qxb6 Qxb6 24. Rxb6 Rfc8 25. Rb8 Rxb8 26. Bxb8 Bd7
+27. Bd6 Kf7 28. Kf1 Ra4 29. a3 g5 30. Ke2 Kg6 31. f3 Ra6 32. Bb4 h5 33. Ke3 Ra8
+34. g3 Rh8 35. c4 dxc4 36. Rxc4 Bb5 37. Rc5 Ba6 38. Rc6 Bc8 39. Rd6 Re8 40. Ba5
+Bb7 41. Bb4 Bd5 42. f4 g4 43. Rb6 Rc8 44. Bc5 Rh8 45. Bb4 h4 46. Be1 hxg3 47.
+hxg3 Rh2 48. a4 Ra2 49. a5 Ra3+ 50. Kf2 Rf3+ 51. Kg1 Bc4 52. Bf2 Ra3 53. Rb1
+Rxa5 1/2-1/2
+
+[Event "EU-ch U14 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.15"]
+[Round "1"]
+[White "Meskovs, Nikita"]
+[Black "Havas, Juraj"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2177"]
+[BlackElo "1926"]
+[PlyCount "79"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 a5 8. Bg5 Na6
+9. g4 Nc5 10. Nd2 c6 11. Qf3 Bd7 12. Be2 Rb8 13. b3 b5 14. dxc6 Bxc6 15. cxb5
+Bb7 16. Bc4 Ne6 17. Be3 Nd4 18. Bxd4 exd4 19. Nd5 Nxd5 20. exd5 Qe7+ 21. Kf1 f5
+22. Re1 Be5 23. h4 fxg4 24. Qxg4 Bc8 25. Qg5 Qf7 26. Ne4 Bf5 27. Qg2 Bxe4 28.
+Rxe4 Qf3 29. Rh3 Qxg2+ 30. Kxg2 Rf6 31. Rf3 Rxf3 32. Kxf3 Rf8+ 33. Ke2 h6 34.
+Rg4 Kg7 35. Bd3 Rf6 36. Bxg6 Rf8 37. Be4+ Kh8 38. Rg6 Bf4 39. Kd3 Rb8 40. a4
+1-0
+
+[Event "EU-ch U14 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.15"]
+[Round "1"]
+[White "Pecurica, Milos"]
+[Black "Vasilov, Artur"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "1942"]
+[BlackElo "2187"]
+[PlyCount "90"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 Be7 6. d5 exd5 7. cxd5 O-O 8. e4
+Re8 9. Bd3 a5 10. O-O d6 11. Nd4 Ba6 12. Re1 Nfd7 13. Bxa6 Nxa6 14. Nc6 Qc8 15.
+Nxe7+ Rxe7 16. Bg5 f6 17. Be3 Nac5 18. Bxc5 bxc5 19. Rb1 Rb8 20. Qa4 Qa6 21.
+Re3 Nb6 22. Qc6 Qb7 23. Qb5 Qa8 24. Na4 Nxd5 25. Qc4 c6 26. Rd3 Rbe8 27. f3 Re5
+28. Nc3 Qc8 29. exd5 cxd5 30. Nxd5 Qe6 31. Re3 Kf8 32. Rbe1 Qf5 33. Rxe5 Rxe5
+34. Rxe5 fxe5 35. Qe4 Qg5 36. Ne3 g6 37. Kf2 Qd8 38. g3 Qb8 39. Nc4 Kf7 40.
+Qd5+ Ke7 41. Qd2 a4 42. Qa5 Qf8 43. Qc7+ Ke6 44. Qxh7 Qe8 45. Qc7 Qf8 1-0
+
+[Event "EU-ch U14 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.16"]
+[Round "2"]
+[White "Havas, Janko"]
+[Black "De Filomeno, Simone"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[WhiteElo "1930"]
+[BlackElo "2102"]
+[PlyCount "102"]
+[EventDate "2008.09.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MNT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. f3 O-O 6. Be3 a6 7. Qd2 Nbd7 8. O-O-O
+c6 9. Kb1 b5 10. h4 Nb6 11. Qc2 bxc4 12. Ka1 d5 13. e5 Nh5 14. Nge2 f5 15. g3
+a5 16. Rg1 f4 17. Nxf4 Nxf4 18. Bxf4 e6 19. Qd2 c5 20. dxc5 Nd7 21. Bxc4 Nxc5
+22. Nxd5 exd5 23. Bxd5+ Be6 24. Bxa8 Qxd2 25. Rxd2 Rxa8 26. Be3 Bf8 27. Rc1 Na6
+28. Rc6 Bf5 29. g4 Nb4 30. Rc1 Be6 31. a3 Nd5 32. Bc5 Bh6 33. g5 Bg7 34. Bd6
+Ne3 35. Rd4 Nf5 36. Rf4 Ra6 37. Bc7 Kf7 38. Ra4 Bd7 39. Rxa5 Rxa5 40. Bxa5 Bxe5
+41. Bc7 Bd4 42. Ba5 Ke6 43. Rh1 Bc6 44. Rh3 Be3 45. Bc3 Kd5 46. b3 Be8 47. Ka2
+Bf2 48. Rh2 Bxh4 49. Rd2+ Kc6 50. f4 Bg3 51. Be5 Bf7 1/2-1/2
+
+[Event "EU-ch U14 18th"]
+[Site "Herceg Novi"]
+[Date "2008.09.17"]
+[Round "3"]
+[White "Hager, Joshua Aarash"]
+[Black "Havas, Janko"]

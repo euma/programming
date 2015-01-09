@@ -1,0 +1,600 @@
+[WhiteElo "2344"]
+[BlackElo "2230"]
+[PlyCount "103"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. d5 a5 8. Bg5 h6
+9. Bh4 Na6 10. Nd2 Qe8 11. O-O Nh7 12. a3 Bd7 13. b3 h5 14. f3 Bh6 15. Bf2 Qe7
+16. Ra2 f5 17. Rb2 Kh8 18. b4 axb4 19. axb4 b6 20. Qb3 Nf6 21. Ra2 Bg5 22. Rd1
+Bxd2 23. Rdxd2 fxe4 24. Nxe4 Nxe4 25. fxe4 Bc8 26. Qg3 Bg4 27. Bxg4 hxg4 28.
+Qxg4 Nxb4 29. Rxa8 Rxa8 30. h4 Qf6 31. Be3 Ra1+ 32. Kh2 Rf1 33. Qc8+ Qf8 34.
+Qxc7 Rf4 35. g3 Rf3 36. Qxb6 Rf1 37. Rf2 Rxf2+ 38. Bxf2 Nd3 39. Kg2 Qc8 40. Qc6
+Qg4 41. Qa8+ Kg7 42. Qa7+ Kg8 43. Qe3 Nf4+ 44. Kg1 Ne2+ 45. Kf1 Nd4 46. Kg2 Qd1
+47. h5 Qxh5 48. Qd3 Ne2 49. c5 Qg4 50. Kf1 Nc1 51. Qc2 Qh3+ 52. Kg1 1-0
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.16"]
+[Round "6"]
+[White "Karyaka, Anatoly"]
+[Black "Chos, Alexey"]
+[Result "1-0"]
+[ECO "E46"]
+[WhiteElo "2266"]
+[BlackElo "2406"]
+[PlyCount "75"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Be7 7. Nf4 dxc4 8.
+Bxc4 c5 9. O-O cxd4 10. exd4 Nc6 11. d5 Ne5 12. Ba2 exd5 13. Nfxd5 Nxd5 14.
+Nxd5 Bc5 15. Bf4 Ng6 16. Bc7 Qg5 17. Rc1 Bg4 18. Qd3 Bf5 19. Qc4 Bb6 20. Nxb6
+axb6 21. Qd5 Qf6 22. Qxb7 Bd3 23. Rfe1 Qxb2 24. Bxf7+ Kh8 25. Bd6 Ba6 26. Qf3
+Nh4 27. Qe4 Bd3 28. Qd5 Rad8 29. Bxf8 Rxd5 30. Rc8 h5 31. Bxd5 Be4 32. Rc7 Qb5
+33. Bxg7+ Kh7 34. Bc3+ Kh6 35. Bd2+ Kg6 36. Rc6+ Kg7 37. Bc3+ Kf8 38. Rf6+ 1-0
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.16"]
+[Round "6"]
+[White "Stolpovsky, Sergei"]
+[Black "Melnichuk, Mikhail"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "2095"]
+[BlackElo "2279"]
+[PlyCount "52"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 O-O 5. Bg2 Bxc3+ 6. bxc3 d6 7. Rb1 Nc6 8.
+Nh3 e5 9. O-O h6 10. Ba3 Re8 11. e3 e4 12. Nf4 b6 13. c5 Ba6 14. Re1 Bc4 15.
+Rb2 dxc5 16. Qa4 b5 17. Qa6 Nb8 18. Qb7 Nbd7 19. dxc5 Ne5 20. Rxb5 Bxb5 21.
+Qxb5 Qd2 22. Qb1 Rab8 23. Qa1 Red8 24. Rf1 Nc4 25. Bc1 Qc2 26. h3 Rb1 0-1
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.16"]
+[Round "6"]
+[White "Truskavetsky, Alexandr"]
+[Black "Bernadskij, Vitalij"]
+[Result "1-0"]
+[ECO "E60"]
+[WhiteElo "2394"]
+[BlackElo "2255"]
+[PlyCount "135"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. g3 Nf6 5. Bg2 O-O 6. O-O Nc6 7. d5 Na5 8. Nbd2
+c5 9. Re1 a6 10. Rb1 b5 11. b3 Rb8 12. Qc2 bxc4 13. bxc4 Rxb1 14. Qxb1 e5 15.
+dxe6 Bxe6 16. Qd3 d5 17. cxd5 Nxd5 18. Qxa6 Qb6 19. Qxb6 Nxb6 20. Ne4 Rc8 21.
+Bd2 Nac4 22. Bc3 f5 23. Nf6+ Bxf6 24. Bxf6 Nd6 25. Ng5 Bxa2 26. Ra1 Bc4 27. Ra7
+Nf7 28. e4 Nxg5 29. Bxg5 fxe4 30. Rb7 Na4 31. Bxe4 Nc3 32. Bf3 Rf8 33. Bc6 Rc8
+34. Bg2 Ne2+ 35. Kh1 Bf7 36. Rb2 Nd4 37. Bf6 Be6 38. h4 Kf7 39. Be5 Nb3 40. Ra2
+Rd8 41. Bc6 Bd5+ 42. Bxd5+ Rxd5 43. Bf4 Rd1+ 44. Kg2 Ke6 45. Ra6+ Kf5 46. Ra7
+h5 47. Rf7+ Ke6 48. Rc7 Rd7 49. Rc6+ Kf5 50. Bg5 Ke4 51. Rxg6 c4 52. Re6+ Kd3
+53. Re3+ Kc2 54. Bf6 Rd3 55. Re5 Rd6 56. Bh8 Rh6 57. Bg7 Rh7 58. Bf6 c3 59. Re3
+Rc7 60. g4 hxg4 61. h5 Nc1 62. h6 Nd3 63. Kg3 Rf7 64. Bg7 Kd2 65. h7 c2 66.
+Bc3+ Kxc3 67. h8=Q+ Kd2 68. Qh6 1-0
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.17"]
+[Round "7"]
+[White "Artemchuk, Taras"]
+[Black "Bogdanovich, Stanislav"]
+[Result "1-0"]
+[ECO "E63"]
+[WhiteElo "2226"]
+[BlackElo "2327"]
+[PlyCount "95"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O a6 8. h3 e5
+9. d5 Ne7 10. e4 Nd7 11. Ne1 f5 12. Nd3 Nc5 13. Nxc5 dxc5 14. Be3 Qd6 15. exf5
+gxf5 16. Na4 Qf6 17. Bxc5 Rd8 18. Qe2 Ng6 19. Rad1 Bd7 20. Nc3 Be8 21. h4 e4
+22. Bd4 Ne5 23. Rfe1 Qg6 24. Nxe4 fxe4 25. Bxe5 Bxe5 26. Bxe4 Qh5 27. Bf3 Qf5
+28. Bg4 Bh5 29. Bxf5 Bxe2 30. Rxe2 Bd6 31. Re6 Re8 32. Rde1 Rxe6 33. Rxe6 Kg7
+34. Kg2 b5 35. Bd3 bxc4 36. Bxc4 Rb8 37. b3 a5 38. a4 Rf8 39. Bd3 Rb8 40. Bc4
+Rf8 41. Bd3 Rb8 42. Bb5 Rf8 43. f4 Rf5 44. Bc6 Rf8 45. Kf3 Rf7 46. Ke4 Re7 47.
+g4 Kf7 48. Kf5 1-0
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.17"]
+[Round "7"]
+[White "Ermolkevich, Alexey"]
+[Black "Shvyriaev, Artem"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[BlackElo "2147"]
+[PlyCount "77"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+Re8 9. dxe5 Nxe5 10. Nxe5 dxe5 11. Bg5 c6 12. Qxd8 Rxd8 13. Rad1 Be6 14. b3 h6
+15. Be3 b6 16. h3 Kf8 17. Bc1 Ke8 18. Ba3 Rxd1 19. Rxd1 Rd8 20. Rxd8+ Kxd8 21.
+Nd1 Nd7 22. Ne3 Bf8 23. Bxf8 Nxf8 24. f4 h5 25. f5 Bc8 26. h4 Nd7 27. g4 hxg4
+28. Nxg4 Ke7 29. Kf2 c5 30. Ne3 Bb7 31. fxg6 fxg6 32. Nd5+ Bxd5 33. exd5 Nf6
+34. Ke3 Ne8 35. Be4 Kf6 36. Bd3 Nd6 37. Kf3 a6 38. a4 a5 39. Bc2 1/2-1/2
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.17"]
+[Round "7"]
+[White "Melnichuk, Mikhail"]
+[Black "Shkuro, Iuri"]
+[Result "1/2-1/2"]
+[ECO "E91"]
+[WhiteElo "2279"]
+[BlackElo "2415"]
+[PlyCount "31"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nc6 2. Nf3 d6 3. d5 Nb8 4. c4 Nf6 5. Nc3 g6 6. e4 Bg7 7. Be2 O-O 8. O-O
+Bg4 9. Be3 c6 10. Qd2 Nbd7 11. h3 Bxf3 12. Bxf3 Qa5 13. Rab1 Rfc8 14. Be2 a6
+15. Rfc1 Qc7 16. f4 1/2-1/2
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.18"]
+[Round "8"]
+[White "Derjabin, Ilja"]
+[Black "Maximov, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2369"]
+[BlackElo "2485"]
+[PlyCount "19"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Bg5 1/2-1/2
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.18"]
+[Round "8"]
+[White "Dolgopolov, Alexander"]
+[Black "Omelja, Artem"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2274"]
+[BlackElo "2166"]
+[PlyCount "27"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O exd4 8. Nxd4
+Re8 9. f3 Nc6 10. Nc2 Nd7 11. Be3 Nc5 12. Qd2 f5 13. Bg5 Qd7 14. Nd5 1-0
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.18"]
+[Round "8"]
+[White "Hatchatrian, Souren"]
+[Black "Grebeniuk, Semen"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2344"]
+[BlackElo "2225"]
+[PlyCount "85"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 exd5 7. Bf4 Be7 8. e3
+O-O 9. Bd3 c5 10. Rc1 Nbd7 11. O-O Ne4 12. Qc2 Ndf6 13. dxc5 Nxc5 14. Bf5 Ne6
+15. Be5 g6 16. Bh3 Nd7 17. Bg3 f5 18. Rcd1 Rc8 19. Qb1 Nf6 20. Qa2 Nc5 21. Be5
+Nce4 22. Bxf6 Nxf6 23. Ng5 Qd7 24. e4 h6 25. Nf3 Rxc3 26. bxc3 Nxe4 27. Qc2 Rc8
+28. Qxe4 fxe4 29. Bxd7 exf3 30. Bxc8 Bxc8 31. Rxd5 fxg2 32. Re1 Kf7 33. a4 Bf6
+34. Re3 h5 35. Rd1 Bg5 36. Red3 Bg4 37. f3 Bf5 38. Rd7+ Ke6 39. Kxg2 Bc2 40.
+R1d6+ Ke5 41. Rd5+ Kf4 42. Rf7+ Bf5 43. Rxa7 1-0
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.19"]
+[Round "9"]
+[White "Bernadskij, Vitalij"]
+[Black "Vatinian, Gor"]
+[Result "1-0"]
+[ECO "E70"]
+[WhiteElo "2255"]
+[PlyCount "55"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nge2 O-O 6. Ng3 e5 7. d5 Nbd7 8. Be2
+a5 9. Be3 b6 10. Qd2 Re8 11. Bh6 Bh8 12. h4 Nc5 13. h5 Qe7 14. Bg5 Qf8 15.
+O-O-O Bd7 16. Rh4 a4 17. Kb1 Bg7 18. Rdh1 h6 19. hxg6 hxg5 20. Qxg5 Reb8 21.
+Nh5 Nxh5 22. Rxh5 Qd8 23. Rh8+ Bxh8 24. Rxh8+ Kg7 25. Qh6+ Kf6 26. gxf7+ Ke7
+27. Qg5+ Kxf7 28. Bh5# 1-0
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.19"]
+[Round "9"]
+[White "Grischenko, Stanislav"]
+[Black "Derevianchenko, Ilia"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[BlackElo "1982"]
+[PlyCount "59"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 d6 6. Nf3 c5 7. dxc5 Qa5 8. Bd3
+Qxc5 9. Qe2 Nc6 10. Be3 Qh5 11. h3 Ng4 12. O-O-O Nxe3 13. Qxe3 Qa5 14. Bb1 Qb4
+15. Nd2 Na5 16. Qd3 Be6 17. a3 Qb6 18. f5 Bxc4 19. Nxc4 Nxc4 20. Qxc4 Rac8 21.
+Qb4 Qe3+ 22. Kc2 a5 23. Qxa5 Qxe4+ 24. Kb3 Qc4+ 25. Kc2 Qe4+ 26. Kb3 Qc4+ 27.
+Kc2 Qe2+ 28. Rd2 Qe4+ 29. Kb3 Qc4+ 30. Kc2 1/2-1/2
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.19"]
+[Round "9"]
+[White "Krivitsky, Oleg"]
+[Black "Andreev, Volodymyr"]
+[Result "0-1"]
+[ECO "E97"]
+[BlackElo "1973"]
+[PlyCount "54"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 Bg4 7. O-O Nc6 8. Be3
+e5 9. d5 Ne7 10. Ne1 Bxe2 11. Qxe2 Nh5 12. Nd3 f5 13. f3 a6 14. b4 c6 15. a4
+cxd5 16. cxd5 Rc8 17. Rfc1 Nf4 18. Qd2 g5 19. a5 Neg6 20. b5 Nh4 21. bxa6 bxa6
+22. Ne1 Nfxg2 23. Bxg5 Nxe1 24. Kf2 Nhxf3 25. Bxd8 Nxd2 26. Kxe1 Nb3 27. Be7
+Rf7 0-1
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.19"]
+[Round "9"]
+[White "Melnichuk, Mikhail"]
+[Black "Poluektov, Yury"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[WhiteElo "2279"]
+[BlackElo "2346"]
+[PlyCount "49"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 d6 8.
+O-O Nbd7 9. Nc3 Ne4 10. Nxe4 Bxe4 11. b4 O-O 12. c5 a5 13. cxd6 cxd6 14. Rfc1
+h6 15. b5 Nf6 16. Ne1 Bxg2 17. Kxg2 Nd5 18. e4 Ne7 19. Rc3 Qd7 20. a4 f5 21. f3
+fxe4 22. fxe4 Qb7 23. Qe2 Rf7 24. Rac1 Raf8 25. Rf3 1/2-1/2
+
+[Event "UKR-ch sf"]
+[Site "Alushta"]
+[Date "2008.05.19"]
+[Round "9"]
+[White "Plaksin, Valeriy"]
+[Black "Marchenko, Artem"]
+[Result "0-1"]
+[ECO "E90"]
+[WhiteElo "2192"]
+[BlackElo "2152"]
+[PlyCount "76"]
+[EventDate "2008.05.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. g3 Bg4 7. Bg2 Nc6 8. h3
+Bxf3 9. Bxf3 e5 10. d5 Nd4 11. Bg2 c5 12. O-O Nd7 13. Ne2 Qb6 14. b3 a5 15. Rb1
+a4 16. Be3 axb3 17. axb3 Ra3 18. Nc1 Qa6 19. h4 b5 20. Bxd4 exd4 21. cxb5 Qxb5
+22. Bh3 Ne5 23. f4 Nd7 24. Rf3 Nf6 25. Bf1 Qb7 26. Bd3 Re8 27. Qc2 Qe7 28. b4
+Rc3 29. Qg2 c4 30. Bf1 d3 31. Nxd3 cxd3 32. Bxd3 Nxe4 33. Bxe4 Qxe4 34. Rbf1
+Qxb4 35. f5 Rxf3 36. Qxf3 Qd4+ 37. Kh2 Re3 38. Qf4 Qxf4 0-1
+
+[Event "GER-ch U10"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Dannenberg, Nicole"]
+[Black "Allin, Alexander"]
+[Result "0-1"]
+[ECO "E00"]
+[BlackElo "1156"]
+[PlyCount "48"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. a3 Nbd7 5. Bf4 b6 6. Nf3 Ba6 7. e3 dxc4 8. b3
+b5 9. a4 Bb4 10. Rc1 Ne4 11. bxc4 Nxc3 12. Qb3 Na2+ 13. Kd1 Nxc1 14. Qxb4 Na2
+15. Qa3 bxc4 16. Qxa2 Rb8 17. Bxc4 Bxc4 18. Qxc4 Rb1+ 19. Ke2 Rxh1 20. Bxc7 Qc8
+21. Qc6 O-O 22. Qd6 Rc1 23. Ba5 Qc4+ 24. Kd2 Qc2# 0-1
+
+[Event "GER-ch U10"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Storch, Domenic"]
+[Black "Lagunov, Rafael"]
+[Result "0-1"]
+[ECO "E81"]
+[WhiteElo "1338"]
+[BlackElo "1150"]
+[PlyCount "43"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. d5 e6 8. Rc1 Re8
+9. Bd3 exd5 10. cxd5 Nbd7 11. Bf2 Ne5 12. Bb1 Nc4 13. Qb3 Ne5 14. Nge2 Rb8 15.
+O-O b5 16. Rfe1 c4 17. Qb4 a5 18. Qa3 b4 19. Qa4 bxc3 20. b3 Nd3 21. Bxd3 cxd3
+22. Nxc3 0-1
+
+[Event "GER-ch U10"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Wagner, Robert"]
+[Black "Riasanow, Nikita"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[WhiteElo "1561"]
+[BlackElo "1259"]
+[PlyCount "206"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nbd7 8. Bd3 b6
+9. Qd2 Nc5 10. Nge2 Ba6 11. b3 Qe7 12. Bc2 Bc8 13. g4 Ne8 14. Ng3 Nb7 15. h4 f6
+16. b4 a5 17. b5 Nd8 18. Ke2 Nf7 19. Bd3 Bb7 20. Qc2 Bh6 21. Qd2 Bxe3 22. Qxe3
+Ng7 23. h5 g5 24. h6 Ne8 25. Nf5 Qd7 26. Rh2 Kh8 27. Rah1 Rg8 28. Qf2 Nd8 29.
+Qg2 Qf7 30. Qh3 Qf8 31. Qh5 Qf7 32. Qh3 Rg6 33. Qg2 Qf8 34. Qf2 Nf7 35. Rh3 Bc8
+36. Qh2 Ra7 37. a3 Bd7 38. Kd2 Ra8 39. Ke2 Rd8 40. a4 Bc8 41. Kd2 Rd7 42. Ke2
+Nd8 43. Kd2 Rf7 44. Kc2 Nb7 45. Kd2 Nc5 46. Bc2 Bxf5 47. exf5 Rg8 48. Kd1 Re7
+49. Kd2 Rd7 50. Kd1 Qe7 51. Kd2 Rf8 52. Kd1 Rf7 53. Kd2 Kg8 54. Kd1 Qd8 55. Kd2
+Rfe7 56. Kd1 Kf7 57. Kd2 Qa8 58. Kd1 Rd8 59. Kd2 Red7 60. Kd1 Qb7 61. Kd2 Ke7
+62. Kd1 Rb8 63. Kd2 Kd8 64. Kd1 Re7 65. Kd2 Kd7 66. Kd1 Rd8 67. Kd2 Kc8 68. Kd1
+Kb8 69. Kd2 Ka7 70. Kd1 Rb8 71. Kd2 Qc8 72. Kd1 Qd7 73. Kd2 Qd8 74. Kd1 Rd7 75.
+Kd2 Qe7 76. Kd1 Nb7 77. Kd2 Nd8 78. Kd1 Qf8 79. Kd2 Nf7 80. Kd1 Nd8 81. Kd2 Nb7
+82. Kd1 Nc5 83. Kd2 Qe7 84. Kd1 Rbd8 85. Kd2 Kb7 86. Kd1 Ra8 87. Kd2 Rb8 88.
+Kd1 Rc8 89. Kd2 Rdd8 90. Kd1 Qd7 91. Kd2 Ka7 92. Kd1 Nb7 93. Kd2 Qe7 94. Kd1
+Nc5 95. Kd2 Nd7 96. Kd1 Nf8 97. Kd2 Qf7 98. Kd1 Qg8 99. Kd2 Nd7 100. Kd1 Nb8
+101. Kd2 Rd7 102. Kd1 Qf7 103. Kd2 Qf8 1/2-1/2
+
+[Event "GER-ch U10"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "3"]
+[White "Donchenko, Alexander"]
+[Black "Duerr, Florian"]
+[Result "1-0"]
+[ECO "E13"]
+[WhiteElo "1814"]
+[BlackElo "1325"]
+[PlyCount "95"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. Nf3 b6 3. c4 Nf6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 Bb7 7. e3 g5 8. Bg3
+Ne4 9. Qc2 d6 10. Rc1 Nd7 11. Bd3 Bxc3+ 12. bxc3 Nxg3 13. hxg3 Rb8 14. Rb1 c5
+15. Bh7 f5 16. Rxh6 Nf8 17. Qa4+ Ke7 18. Nxg5 Bc8 19. dxc5 Nxh7 20. Nxh7 Qg8
+21. cxd6+ Kxd6 22. Qb4+ Kc7 23. Qe7+ Bd7 24. Nf6 Rd8 25. Nxg8 Rhxg8 26. Rxe6
+Rge8 27. Qd6+ Kc8 28. Rxe8 Rxe8 29. Rd1 Rd8 30. Qxd7+ Rxd7 31. Rxd7 Kxd7 32.
+Kd2 Kd6 33. Kd3 Ke5 34. a4 a5 35. f3 Kd6 36. Kd4 f4 37. gxf4 Kc6 38. g4 b5 39.
+cxb5+ Kb6 40. g5 Kc7 41. g6 Kd6 42. g7 Kc7 43. g8=Q Kb7 44. Qe6 Ka7 45. Kc5 Kb7
+46. Qd7+ Ka8 47. Kb6 Kb8 48. Qd8# 1-0
+
+[Event "GER-ch U10"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "3"]
+[White "Wanner, Lukas"]
+[Black "Reimers, Juri"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[WhiteElo "1001"]
+[BlackElo "1207"]
+[PlyCount "100"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. e5 dxe5 6. dxe5 Qxd1+ 7. Nxd1 Nfd7 8.
+f4 e6 9. Nf3 O-O 10. h4 h5 11. Ne3 Nc6 12. g4 hxg4 13. Nxg4 b6 14. h5 gxh5 15.
+Rxh5 Bb7 16. Rg5 f6 17. exf6 Nxf6 18. Nxf6+ Rxf6 19. b3 Nb4 20. Kf2 Rf5 21.
+Rxf5 exf5 22. Ne5 Nc6 23. Bb2 Re8 24. Nd3 Bxb2 25. Nxb2 Re4 26. Nd3 Nd4 27. Re1
+Rxe1 28. Kxe1 Ne6 29. Kf2 Kf7 30. Kg3 Kg6 31. Bh3 Kf6 32. Ne5 Nd4 33. Kf2 Nc6
+34. Nxc6 Bxc6 35. Bg2 Bxg2 36. Kxg2 Kg6 37. Kh3 Kh5 38. Kg3 a6 39. b4 c5 40.
+bxc5 bxc5 41. a4 a5 42. Kh3 Kg6 43. Kh4 Kh6 44. Kg3 Kh5 45. Kh3 Kg6 46. Kh4 Kh6
+47. Kg3 Kh5 48. Kh3 Kg6 49. Kh4 Kh6 50. Kg3 Kh5 1/2-1/2
+
+[Event "GER-ch U10"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Baberz, Alexander"]
+[Black "Weber, Sandra"]
+[Result "0-1"]
+[ECO "E36"]
+[WhiteElo "984"]
+[BlackElo "1195"]
+[PlyCount "74"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 O-O 7. Bg5 h6 8.
+Bh4 Nbd7 9. Nf3 b6 10. Ne5 Ne4 11. Bxd8 Nxc3 12. Nxd7 Rxd8 13. Nxb6 cxb6 14.
+bxc3 dxc4 15. e4 Bb7 16. f3 Rac8 17. Be2 Re8 18. O-O f6 19. Rad1 a6 20. d5 exd5
+21. exd5 Rxe2 22. d6 Rd8 23. Rd4 Re3 24. d7 Rd3 25. Rxc4 R8xd7 26. Rb1 b5 27.
+Rcb4 Rxc3 28. a4 Bc6 29. axb5 axb5 30. R4b3 Rxb3 31. Rxb3 Rb7 32. Rc3 Rb6 33.
+Rb3 b4 34. Kf2 Ba4 35. Rb2 b3 36. Ke3 Rd6 37. Ke2 Kf7 0-1
+
+[Event "GER-ch U10"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Grigorian, Spartak"]
+[Black "Hirschmann, Jakob"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[WhiteElo "1795"]
+[BlackElo "1335"]
+[PlyCount "107"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7 7. Nc3 O-O 8. b3 c5
+9. cxd5 exd5 10. Bb2 Na6 11. e3 Re8 12. Re1 Nc7 13. Rc1 Rc8 14. Ne2 Ne6 15. Nh4
+Qd7 16. Nf5 cxd4 17. Nxe7+ Qxe7 18. Nxd4 Rxc1 19. Qxc1 Nxd4 20. Bxd4 Rc8 21.
+Qd2 Ne4 22. Qb2 f6 23. f3 Ng5 24. h4 Ne6 25. Kf2 Qc7 26. Bh3 Qc2+ 27. Re2 Qxb2
+28. Bxb2 Rc6 29. Rd2 Kf7 30. Bf5 g6 31. Bb1 Rc7 32. b4 Rc4 33. a3 Rc7 34. Ba2
+Rd7 35. e4 Nc7 36. Ke3 Ke7 37. f4 Bc6 38. Rc2 Ba4 39. Rd2 Bc6 40. e5 f5 41. Bb3
+Bb7 42. a4 Na6 43. Ba3 Ke6 44. Kd4 Rc7 45. Rc2 Rxc2 46. Bxc2 Nc7 47. Bd1 h5 48.
+Be2 a6 49. Ke3 Bc6 50. a5 bxa5 51. bxa5 Bb5 52. Bd6 Bxe2 53. Bxc7 Bb5 54. Kd4
+1/2-1/2
+
+[Event "GER-ch U10"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "5"]
+[White "Donchenko, Alexander"]
+[Black "Bluhm, Sonja Maria"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "1814"]
+[BlackElo "1520"]
+[PlyCount "56"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. h3 Nc6 8. Be3
+Nd7 9. O-O h6 10. Qd2 Kh7 11. Rfd1 f5 12. exf5 gxf5 13. dxe5 dxe5 14. g3 Ne7
+15. Rac1 a6 16. b4 Ng6 17. Nd5 Rg8 18. Qc2 e4 19. Nd4 Nf6 20. Nf4 Qe8 21. c5
+Nxf4 22. Bxf4 Nd5 23. Nb5 axb5 24. Rxd5 Be6 25. Rd2 Rxa2 26. Qd1 Rxd2 27. Qxd2
+c6 28. Qd6 Qd7 1/2-1/2
+
+[Event "GER-ch U10"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "5"]
+[White "Mager, Denis"]
+[Black "Duerr, Florian"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "1145"]
+[BlackElo "1325"]
+[PlyCount "92"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Bd2 b6 5. a3 Be7 6. Nf3 Bb7 7. e3 d6 8. Bd3
+Nbd7 9. O-O O-O 10. Ng5 h6 11. Nge4 c5 12. Qf3 Qc7 13. Qe2 a6 14. f3 Nxe4 15.
+Bxe4 Bxe4 16. Nxe4 Bf6 17. Nxf6+ Nxf6 18. Bc3 Qe7 19. Rad1 Rab8 20. Rf2 cxd4
+21. Bxd4 e5 22. Bc3 a5 23. Qd3 Rfd8 24. Rfd2 Rb7 25. Qf5 Rbd7 26. c5 dxc5 27.
+Rxd7 Rxd7 28. Rxd7 Qxd7 29. Qxe5 Qd8 30. g4 Qd7 31. h4 Ne8 32. Kg2 f6 33. Qb8
+Kf7 34. Qxb6 Qe7 35. e4 a4 36. Qb5 Qa7 37. Qc4+ Ke7 38. e5 Nc7 39. exf6+ gxf6
+40. Qf4 Nd5 41. Qxh6 Qa6 42. Qg7+ Ke6 43. Qg8+ Kd6 44. Qf8+ Kc6 45. Bxf6 Qe2+
+46. Kg3 Qe1+ 1/2-1/2
+
+[Event "GER-ch U10"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "5"]
+[White "Wendland, Tobias"]
+[Black "Bilchinski, Anton"]
+[Result "0-1"]

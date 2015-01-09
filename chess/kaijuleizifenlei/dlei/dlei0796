@@ -1,0 +1,600 @@
+[ECO "D75"]
+[WhiteElo "2311"]
+[BlackElo "1973"]
+[PlyCount "33"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O c5 8. d4
+Nc6 9. dxc5 Nxc3 10. bxc3 Bxc3 11. Rb1 Qc7 12. Bf4 e5 13. Bg5 Be6 14. Qc1 Nd4
+15. Nxd4 Bxd4 16. Bf6 Qxc5 17. Qh6 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.08"]
+[Round "1"]
+[White "Pushilin, Artem"]
+[Black "Evstratenko, Vasily"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2169"]
+[BlackElo "1744"]
+[PlyCount "47"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O c6 6. c4 d5 7. b3 Nbd7 8. cxd5
+cxd5 9. Nc3 e6 10. Ba3 Re8 11. Rc1 Qa5 12. Bb2 b5 13. Ne1 Bb7 14. Nd3 Rac8 15.
+b4 Qb6 16. Nc5 a5 17. bxa5 Qc6 18. a4 b4 19. Nb5 Ba6 20. Na7 Qa8 21. Nxc8 Rxc8
+22. Nxa6 Qxa6 23. Rxc8+ Qxc8 24. Qb3 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.08"]
+[Round "1"]
+[White "Samkov, Maxim"]
+[Black "Dolgov, Evgeny"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2161"]
+[PlyCount "73"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 c6 7. cxd5 exd5 8.
+Bd3 Nf8 9. Qc2 Ng6 10. O-O O-O 11. Bxf6 Bxf6 12. b4 Bg4 13. Nd2 Be7 14. b5 c5
+15. dxc5 Bxc5 16. Nb3 Bb4 17. a3 Bd6 18. Ne2 Rc8 19. Qb1 Qe7 20. Nbd4 Nh4 21.
+Ng3 g6 22. Qb3 Qe5 23. Qa4 h5 24. Rfe1 Qg5 25. Bf1 Qf6 26. Qb3 Be6 27. Rad1 Rc7
+28. b6 axb6 29. Nb5 Rd7 30. Nxd6 Rxd6 31. Qb4 Rc6 32. e4 Rd8 33. e5 Qg5 34. f4
+Qh6 35. Qe7 Qf8 36. Qxh4 Qxa3 37. Qxd8+ 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.08"]
+[Round "1"]
+[White "Volontinas, Ivan"]
+[Black "Moskvina, Elena"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2164"]
+[BlackElo "1607"]
+[PlyCount "75"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Nf6 4. e3 Bg4 5. h3 Bh5 6. Bb5 a6 7. Bxc6+ bxc6 8.
+g4 Bg6 9. Ne5 Qb8 10. b3 Qb7 11. h4 h6 12. Nc3 e6 13. Na4 Bd6 14. Nxg6 fxg6 15.
+Qd3 Kf7 16. h5 g5 17. Qg6+ Kf8 18. Be5 Bxe5 19. dxe5 Nxg4 20. Qxe6 Qb4+ 21. Ke2
+Re8 22. Qxc6 Nxe5 23. Qxd5 Qg4+ 24. Kf1 Qf5 25. Nc5 g6 26. hxg6 Qxg6 27. Qd4
+Rh7 28. Nd3 Nf3 29. Qc5+ Rhe7 30. Rd1 Qf6 31. Rh3 Kg7 32. Rg3 Kh7 33. Qc4 Rf8
+34. Rh3 Ree8 35. Qxc7+ Re7 36. Qc5 Qe6 37. Kg2 Ref7 38. Qc4 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Agafonov, Alexey"]
+[Black "Borodaenko, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2149"]
+[PlyCount "64"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 Bg4 5. Nc3 e6 6. Bd3 dxc4 7. Bxc4 Nbd7 8. e4
+Bb4 9. Qd3 b5 10. Bb3 Nc5 11. Qe3 Ncxe4 12. O-O Bxf3 13. gxf3 Nxc3 14. bxc3 Bd6
+15. f4 Nh5 16. Qf3 Qh4 17. Qxc6+ Ke7 18. Qb7+ Kf6 19. Qf3 Nxf4 20. Re1 g5 21.
+Bxf4 gxf4 22. Kh1 Rag8 23. Rg1 Rg6 24. h3 Rhg8 25. Bc2 Rxg1+ 26. Rxg1 Rxg1+ 27.
+Kxg1 Qg5+ 28. Kf1 h6 29. Qc6 f3 30. Qxf3+ Kg7 31. Qg2 a5 32. Qxg5+ hxg5 1/2-1/2
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Degterev, Alexander"]
+[Black "Khatoev, Eduard"]
+[Result "1/2-1/2"]
+[ECO "D24"]
+[WhiteElo "2333"]
+[BlackElo "2110"]
+[PlyCount "15"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 a6 5. a4 Bg4 6. Bxc4 e6 7. Nc3 Nc6 8. O-O
+1/2-1/2
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Demikhov, Maxim"]
+[Black "Kuzyakina, Anastasiya"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "1928"]
+[PlyCount "89"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. g3 Bf5 5. Bg2 e6 6. O-O Be7 7. b3 Nbd7 8. Nbd2
+h6 9. Bb2 Nh7 10. Re1 Ng5 11. Nxg5 Bxg5 12. f4 Bf6 13. e4 dxe4 14. Nxe4 Bxe4
+15. Bxe4 Qb6 16. Kg2 O-O-O 17. Re2 h5 18. a4 Qc7 19. a5 h4 20. a6 b6 21. b4
+hxg3 22. hxg3 Bh4 23. d5 Nf6 24. Be5 Qe7 25. Qa4 Qe8 26. gxh4 Nxe4 27. Rxe4 f6
+28. Bxf6 gxf6 29. Qxc6+ Qxc6 30. dxc6 Rxh4 31. Kg3 Rh6 32. Rxe6 Rd3+ 33. Kg4
+Rdh3 34. Kf5 R3h5+ 35. Ke4 Kc7 36. b5 Rc5 37. Re7+ Kc8 38. Rg1 f5+ 39. Kd3 Rd6+
+40. Kc3 Rd8 41. Rgg7 Rh8 42. Rc7+ Kb8 43. Rb7+ Kc8 44. Rgc7+ Kd8 45. Rb8+ 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Dolgov, Evgeny"]
+[Black "Lesin, Danil"]
+[Result "0-1"]
+[ECO "D03"]
+[BlackElo "2258"]
+[PlyCount "72"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. d4 d5 3. c3 Bf5 4. Bg5 Ne4 5. Bf4 e6 6. Nbd2 Nd7 7. Nxe4 dxe4 8.
+Nd2 g5 9. Bg3 h5 10. h4 Be7 11. hxg5 Bxg5 12. e3 h4 13. Bf4 Bxf4 14. exf4 Qf6
+15. Qe2 Qg6 16. O-O-O O-O-O 17. Re1 Nf6 18. Nc4 Nd5 19. Na5 c6 20. Qc4 Qg4 21.
+g3 hxg3 22. Rxh8 Rxh8 23. Nxc6 Qxf4+ 24. Kb1 bxc6 25. Qxc6+ Kb8 26. fxg3 Qxg3
+27. Rc1 Qc7 28. Qb5+ Qb6 29. Qd7 Qb7 30. Qd6+ Qc7 31. Qa3 Qe7 32. Qb3+ Qb7 33.
+Qa3 Qb6 34. c4 e3+ 35. Ka1 Rc8 36. Rd1 Nb4 0-1
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Evstratenko, Vasily"]
+[Black "Zatsepin, Vladimir"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1744"]
+[BlackElo "1974"]
+[PlyCount "42"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. Nbd2 e6 5. e3 Bd6 6. Bg5 Nbd7 7. Nb3 O-O 8.
+Bd3 Bg6 9. c3 a6 10. Qc2 e5 11. Bxg6 hxg6 12. O-O-O e4 13. Nfd2 a5 14. Nf1 b5
+15. h4 Qe7 16. f4 a4 17. Nbd2 Ng4 18. Re1 Nf2 19. Ng3 Nd3+ 20. Kb1 Nxe1 21.
+Rxe1 f6 0-1
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Glukhov, Mikhail"]
+[Black "Piskunov, Alexandr"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2237"]
+[BlackElo "2034"]
+[PlyCount "65"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Be7 7. a3 O-O 8. Be2
+a6 9. O-O dxc4 10. Bxc4 b5 11. Ba2 c5 12. dxc5 Nxc5 13. b4 Ncd7 14. Nd4 Bb7 15.
+Bb2 Rc8 16. Qe2 Qb6 17. f4 Qa7 18. f5 e5 19. Nf3 Ng4 20. Rae1 Bd8 21. Kh1 Bb6
+22. Nd1 e4 23. Ng5 Ngf6 24. Nf2 h6 25. Ne6 Rfe8 26. Nxg7 Kxg7 27. Qh5 Re7 28.
+Ng4 Rh8 29. Qh4 Bd8 30. Bxf6+ Nxf6 31. Qxf6+ Kg8 32. Nxh6+ Kh7 33. Nxf7 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Kiryushkina, Valentina"]
+[Black "Kozhevnikov, Evgraf"]
+[Result "0-1"]
+[ECO "D09"]
+[BlackElo "1956"]
+[PlyCount "24"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bf5 6. Bg2 Qd7 7. O-O O-O-O 8.
+Re1 h5 9. a3 Be7 10. b4 h4 11. gxh4 Bh3 12. b5 Qg4 0-1
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Kuznetsov, Alexander1"]
+[Black "Beletsky, Alexey"]
+[Result "0-1"]
+[ECO "D21"]
+[BlackElo "2357"]
+[PlyCount "60"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. d5 e6 5. e4 exd5 6. exd5 Bd6 7. Bxc4 Nf6 8.
+O-O O-O 9. Bg5 h6 10. Bh4 Bf5 11. Nc3 a6 12. a4 Nbd7 13. a5 Qc7 14. Re1 Rfe8
+15. Rxe8+ Rxe8 16. Bd3 Bxd3 17. Qxd3 Ng4 18. h3 Nge5 19. Nxe5 Bxe5 20. Qf5 g6
+21. Qf3 Bd4 22. Ne4 f5 23. Nc3 Ne5 24. Qg3 Qg7 25. Qf4 g5 26. Qxf5 Bxc3 27.
+bxc3 gxh4 28. Ra4 c4 29. Qh5 Rf8 30. Qxh4 Nf3+ 0-1
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Neporozhnyaja, Tatyana"]
+[Black "Zubarev, Alexander1"]
+[Result "0-1"]
+[ECO "D02"]
+[BlackElo "1948"]
+[PlyCount "54"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 g6 4. e3 Bg7 5. Bd3 c5 6. c3 O-O 7. Nbd2 Nc6 8. O-O
+Nh5 9. Bg3 Nxg3 10. fxg3 e5 11. dxe5 Nxe5 12. Be2 Ng4 13. Qc1 Bh6 14. Re1 Bxe3+
+15. Kf1 Qf6 16. Bd3 Nxh2+ 17. Ke2 Ng4 18. Kf1 c4 19. Bc2 Bb6 20. Re2 Ne3+ 21.
+Ke1 Re8 22. Bd1 Nxg2+ 23. Kf1 Ne3+ 24. Ke1 Bh3 25. b3 Ng2+ 26. Kf1 Nf4+ 27. Ke1
+Nd3# 0-1
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Piass, Inga"]
+[Black "Kozlov, Vadim1"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1954"]
+[BlackElo "2150"]
+[PlyCount "73"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Bf4 c5 3. e3 Nc6 4. c3 Nf6 5. Nd2 Qb6 6. Qb3 c4 7. Qc2 Bg4 8. e4 e6
+9. exd5 exd5 10. Be2 Be7 11. Bxg4 Nxg4 12. Ngf3 O-O 13. O-O Nd8 14. h3 Ne6 15.
+Bg3 Nf6 16. Rfe1 Rfe8 17. Ne5 Rad8 18. Re3 Nh5 19. Qf5 Nf6 20. Rae1 g6 21. Qc2
+Bf8 22. Bh4 Ng7 23. R3e2 Nf5 24. Bxf6 Qxf6 25. Ng4 Qe7 26. Rxe7 Rxe7 27. Rxe7
+Bxe7 28. Ne3 Ng7 29. b3 b5 30. bxc4 bxc4 31. Qa4 Bg5 32. Ndf1 Ne6 33. Qxa7 Nf4
+34. Ng3 h5 35. Kf1 Re8 36. Ne2 Nd3 37. Nxd5 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Romanova, Anastasiya"]
+[Black "Dolgov, Alexander"]
+[Result "0-1"]
+[ECO "D46"]
+[BlackElo "2043"]
+[PlyCount "73"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. Nc3 e6 5. e3 Be7 6. Bd3 O-O 7. O-O Nbd7 8. e4
+dxc4 9. Bxc4 b5 10. Bd3 b4 11. Ne2 Bb7 12. Nf4 c5 13. Re1 cxd4 14. e5 Ng4 15.
+Be4 Bxe4 16. Rxe4 Nc5 17. Rxd4 Qb6 18. Ne2 Rad8 19. Qc2 b3 20. Qc4 bxa2 21. h3
+Nb3 22. Rxg4 Nxa1 23. Bh6 g6 24. Qxa2 Rd1+ 25. Kh2 Qxf2 26. Bxf8 Bxf8 27. Nc3
+Rf1 28. Ne4 Qe3 29. Nf6+ Kh8 30. Qa6 Rxf3 31. gxf3 Qxe5+ 32. Kg1 Qxf6 33. Qxa1
+Qxf3 34. Qxa7 Qxh3 35. Rg2 Qf5 36. Qa8 Kg7 37. Kh1 0-1
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Tsepennikova, Tatyana"]
+[Black "Kron, Valentin"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2124"]
+[BlackElo "2420"]
+[PlyCount "31"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 c5 4. c3 Nc6 5. dxc5 a5 6. Na3 Nh5 7. Be3 e5 8. Nb5
+Be7 9. Qxd5 Be6 10. Qxd8+ Rxd8 11. Nc7+ Kd7 12. Nxe6 Kxe6 13. Ng5+ Bxg5 14.
+Bxg5 f6 15. Be3 f5 16. f3 1/2-1/2
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.09"]
+[Round "2"]
+[White "Yakimov, S Yu"]
+[Black "Medvedev, Emelian"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2215"]
+[BlackElo "2021"]
+[PlyCount "79"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 c6 3. e3 Nf6 4. Bd3 e6 5. Nbd2 Nbd7 6. c4 c5 7. cxd5 exd5 8.
+dxc5 Bxc5 9. O-O O-O 10. b3 Qb6 11. Re1 Re8 12. Bb2 Ne4 13. Qc2 Ndf6 14. Bd4
+Bxd4 15. Nxd4 Bd7 16. Rad1 Rac8 17. Qb2 Nc5 18. Bb1 Nfe4 19. N2f3 Na4 20. Qa1
+Nac3 21. Rc1 Nxb1 22. Qxb1 Qg6 23. Rxc8 Rxc8 24. Rc1 Bc6 25. b4 Re8 26. Qb3 Nf6
+27. Nxc6 bxc6 28. Rxc6 Qe4 29. h3 h6 30. a3 Nd7 31. Qc2 Qe7 32. Rc7 Qd8 33.
+Rxa7 Ne5 34. Nxe5 Rxe5 35. Qc6 Qg5 36. Qc8+ Kh7 37. Rxf7 Qg6 38. Rf8 Qb1+ 39.
+Kh2 Rg5 40. f4 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.10"]
+[Round "3"]
+[White "Agapov, Sergei"]
+[Black "Demikhov, Maxim"]
+[Result "1-0"]
+[ECO "D63"]
+[WhiteElo "2121"]
+[BlackElo "1928"]
+[PlyCount "67"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 c6 7. Rc1 O-O 8. Bd3
+a6 9. O-O dxc4 10. Bxc4 c5 11. Qe2 h6 12. Bf4 cxd4 13. exd4 Nb6 14. Bd3 Nbd5
+15. Be5 Bd6 16. Bb1 Nxc3 17. Rxc3 Nd5 18. Rb3 f5 19. Rc1 Bxe5 20. Nxe5 Qf6 21.
+Rg3 g5 22. h4 g4 23. f3 h5 24. fxg4 hxg4 25. Nxg4 fxg4 26. Qxg4+ Kf7 27. Rf1
+Qxf1+ 28. Kxf1 Ke7+ 29. Kg1 Bd7 30. Qg7+ Kd6 31. Qe5+ Kc6 32. Be4 Rae8 33.
+Bxd5+ exd5 34. Rg6+ 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.10"]
+[Round "3"]
+[White "Baboyan, Eduard"]
+[Black "Tsyganenko, Leonid"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2125"]
+[BlackElo "1934"]
+[PlyCount "105"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 h6 5. Bf4 Bf5 6. Qb3 Qb6 7. cxd5 Qxb3 8.
+axb3 Nxd5 9. Nxd5 cxd5 10. e3 Nc6 11. Bb5 Bd7 12. O-O f6 13. Rfe1 e6 14. e4 Kf7
+15. e5 Bb4 16. Re2 f5 17. h4 a6 18. Bxc6 Bxc6 19. Rc2 Rac8 20. Rac1 g6 21. g3
+Kg7 22. Kg2 Rhf8 23. Be3 Rf7 24. Bd2 Be7 25. Ne1 g5 26. hxg5 hxg5 27. Nd3 Kg6
+28. f4 g4 29. Rh1 Rh7 30. Rxh7 Kxh7 31. Bb4 Bxb4 32. Nxb4 Bd7 33. Rc3 Rxc3 34.
+bxc3 Bb5 35. Kf2 Kg7 36. Ke3 Kf7 37. Nc2 Ke7 38. Na3 Bc6 39. c4 Kd7 40. Kd3 Kc7
+41. Kc3 b6 42. Nc2 a5 43. Ne3 dxc4 44. bxc4 Bd7 45. d5 Kb7 46. Nc2 b5 47. Nd4
+b4+ 48. Kb3 exd5 49. cxd5 Kb6 50. e6 Be8 51. d6 Bg6 52. d7 Kc7 53. Nc6 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.10"]
+[Round "3"]
+[White "Gerasimov, Nikolay P"]
+[Black "Kiryushkina, Valentina"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2122"]
+[PlyCount "59"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Bg5 Nf6 3. e3 c6 4. Bd3 g6 5. Nd2 Bg7 6. f4 Bf5 7. Ngf3 Ne4 8. Bh4
+f6 9. g4 Nxd2 10. Nxd2 Bxd3 11. cxd3 Qc7 12. O-O O-O 13. f5 e5 14. fxe6 Qe7 15.
+e4 Qxe6 16. Nb3 Nd7 17. Qf3 Rae8 18. Rae1 b6 19. Bg3 a5 20. h3 a4 21. Nc1 b5
+22. a3 Nb6 23. Bc7 Nc8 24. Ba5 Nd6 25. Bb4 Rf7 26. exd5 Qd7 27. dxc6 Qd8 28.
+Qd5 Nc8 29. Rxe8+ Qxe8 30. Re1 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.10"]
+[Round "3"]
+[White "Karabut, Vladimir"]
+[Black "Danilyuk, Olga"]
+[Result "0-1"]
+[ECO "D14"]
+[WhiteElo "2189"]
+[BlackElo "2100"]
+[PlyCount "86"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. Qb3 Na5 8.
+Qa4+ Bd7 9. Qc2 Rc8 10. Nd2 e6 11. e3 b5 12. a3 Nc4 13. Bxc4 dxc4 14. O-O Bc6
+15. h3 Be7 16. Rad1 O-O 17. Bg5 Qd7 18. Rfe1 a5 19. e4 h6 20. Be3 Qb7 21. f3
+Rfd8 22. Nf1 Bf8 23. Qf2 b4 24. axb4 axb4 25. Ne2 Ra8 26. Qg3 Kh7 27. Qf2 Bb5
+28. Rb1 Ra2 29. Nc1 Ra6 30. Qc2 Kg8 31. Nh2 Rc8 32. Qf2 Rac6 33. Ne2 Ra6 34.
+Ng4 Nxg4 35. hxg4 Ra2 36. Qg3 c3 37. bxc3 Rxe2 38. Rxe2 Bxe2 39. cxb4 Bd3 40.
+Rb2 Rc2 41. Rxc2 Bxc2 42. g5 hxg5 43. Qxg5 Qxb4 0-1
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.10"]
+[Round "3"]
+[White "Mogila, Vladimir"]
+[Black "Yakimov, S Yu"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2085"]
+[BlackElo "2215"]
+[PlyCount "83"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. g3 Nf6 3. Bg2 c5 4. dxc5 Nc6 5. Bg5 e6 6. Nf3 Bxc5 7. O-O h6 8. Bf4
+Qb6 9. Qc1 Ng4 10. Nc3 Bxf2+ 11. Kh1 a6 12. Nd1 Bc5 13. h3 Nf6 14. Nc3 Qd8 15.
+Rd1 Qe7 16. Na4 Ba7 17. c4 dxc4 18. Bd6 Qd8 19. Bf8 Qa5 20. Bxg7 Ne4 21. Bxh8
+Qxa4 22. Kh2 Bf2 23. Qxh6 Bxg3+ 24. Kg1 Qa5 25. Bg7 Qc5+ 26. e3 Bd7 27. Bd4 Qf8
+28. Qxf8+ Kxf8 29. Ne5 Bxe5 30. Bxe5 Nxe5 31. Bxe4 Rb8 32. Rd6 Ke7 33. Rad1 f5
+34. Bg2 Rg8 35. Kh1 Bc6 36. Bxc6 bxc6 37. Kh2 Nf3+ 38. Kh1 Ne5 39. Kh2 Rb8 40.
+Kg3 Rxb2 41. R6d2 Rb8 42. Rf1 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.10"]
+[Round "3"]
+[White "Pakhomov, Egor"]
+[Black "Sosnin, Mikhail"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2184"]
+[PlyCount "103"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Nf6 4. h3 g6 5. e3 Bg7 6. Ne5 Nxe5 7. Bxe5 O-O 8.
+Bd3 c5 9. O-O c4 10. Be2 b5 11. Bf3 Be6 12. Nc3 Qd7 13. Ne2 g5 14. Ng3 Ne8 15.
+Bxg7 Nxg7 16. e4 Rad8 17. c3 f6 18. Re1 Rfe8 19. Qe2 Bf7 20. Bg4 e6 21. exd5 f5
+22. Nh5 Nxh5 23. Bxh5 exd5 24. Bxf7+ Qxf7 25. Qd2 h6 26. f4 Qf6 27. Re5 Kf7 28.
+Rf1 Rxe5 29. fxe5 Qg6 30. Qf2 Ke6 31. a4 b4 32. cxb4 f4 33. Qf3 Qe4 34. Qc3 Rf8
+35. b5 f3 36. gxf3 Qh4 37. Kg2 Rf4 38. Qb4 Rxd4 39. Qd6+ Kf7 40. e6+ Kg8 41.
+Qd8+ Kg7 42. Qe7+ Kg8 43. Qe8+ Kg7 44. Qd7+ Kg8 45. e7 Rd2+ 46. Kh1 Re2 47.
+e8=R+ Rxe8 48. Qxe8+ Kg7 49. Qd7+ Kg6 50. Qg4 d4 51. Qxh4 gxh4 52. a5 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.10"]
+[Round "3"]
+[White "Popov, Danil"]
+[Black "Glukhov, Mikhail"]
+[Result "1-0"]
+[ECO "D40"]
+[WhiteElo "1741"]
+[BlackElo "2237"]
+[PlyCount "53"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nf6 5. Nf3 Nc6 6. Bd3 a6 7. a4 Be7 8. O-O O-O
+9. cxd5 exd5 10. h3 Re8 11. Ne2 c4 12. Bc2 Bd6 13. b3 Bd7 14. bxc4 dxc4 15. Nc3
+Qa5 16. Rb1 Qxc3 17. Bd2 Qa3 18. Bc1 Qa2 19. Rb2 Qxb2 20. Bxb2 Bb4 21. d5 Na5
+22. Bxf6 gxf6 23. Qd4 Kg7 24. Rb1 Be7 25. Qh4 f5 26. Qg3+ Kf8 27. Qc7 1-0
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.10"]
+[Round "3"]
+[White "Prokoshin, Sergey"]
+[Black "Shlauzer, Andrey"]
+[Result "0-1"]
+[ECO "D13"]
+[BlackElo "2108"]
+[PlyCount "60"]
+[EventDate "2008.07.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. e3 Bg4 7. Be2 e6 8. O-O
+Bd6 9. h3 Bh5 10. Re1 O-O 11. Nd2 Bg6 12. a3 a6 13. b4 Rc8 14. Bb2 Bb8 15. b5
+axb5 16. Nxb5 Ne4 17. Rc1 Qh4 18. Nxe4 Bxe4 19. Bf3 f5 20. Bc3 g5 21. Bb4 Nxb4
+22. Rxc8 Rxc8 23. Bxe4 fxe4 24. axb4 Rf8 25. Rf1 h5 26. f3 Qg3 27. f4 Qxe3+ 28.
+Kh1 Rxf4 29. Re1 Qg3 30. Qc1 Rf1+ 0-1
+
+[Event "Berdsk Maestro op"]
+[Site "Berdsk"]
+[Date "2008.07.10"]
+[Round "3"]
+[White "Savintsev, Dmitriy"]
+[Black "Kruppa, Vladimir"]
+[Result "1-0"]
+[ECO "D46"]
+[BlackElo "1937"]
+[PlyCount "77"]
+[EventDate "2008.07.08"]

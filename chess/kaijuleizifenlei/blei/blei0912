@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. e5 dxe5 11. Qxe5 Bd7 12. h4 Qe8 13. Bd3 Bc6 14. Rh3
+Nd7 15. Qe2 Nc5 16. Rg3 Nxd3+ 17. Rdxd3 Kh8 18. Bxe7 Qxe7 19. Qg4 f5 20. Qh5 e5
+21. Nd5 Qf7 22. Qxf7 Rxf7 23. Rge3 Re8 24. g3 g6 25. f4 exf4 26. Rxe8+ Bxe8 27.
+Nxf4 Kg7 28. c4 h6 29. Kd2 g5 30. hxg5 hxg5 31. Ne6+ Kg6 32. Rd6 Kh5 33. Ke3
+Kg4 34. Kf2 f4 35. gxf4 gxf4 36. Rd4 Bd7 37. Nc5 Bf5 38. Nd3 Bxd3 39. Rxd3 Rh7
+40. Kg2 Rc7 41. b3 b5 42. Rd4 Rc5 43. a3 a5 44. Rd5 Rxd5 45. cxd5 Kf5 46. Kf3
+Ke5 47. d6 Kxd6 48. Kxf4 Kd5 1/2-1/2
+
+[Event "ARG-ch sf 82nd"]
+[Site "Buenos Aires"]
+[Date "2008.04.14"]
+[Round "5"]
+[White "Valerga, Diego"]
+[Black "Quiroga, Facundo"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2482"]
+[BlackElo "2331"]
+[PlyCount "190"]
+[EventDate "2008.04.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nde2 Be7 8.
+O-O O-O 9. Kh1 b5 10. Bg5 h6 11. Bxf6 Bxf6 12. a4 b4 13. Nd5 Nc6 14. Bc4 Bg5
+15. Qd3 Qa5 16. Ne3 Qc5 17. Bd5 Ra7 18. Nc4 a5 19. Nxd6 Ba6 20. Nb5 Rd7 21. c4
+bxc3 22. Qxc3 Qxc3 23. Nexc3 Nb4 24. Rad1 Rfd8 25. g3 Kf8 26. Kg1 Be7 27. f4
+exf4 28. Rxf4 Bc5+ 29. Kg2 Nc2 30. Rd2 Ne3+ 31. Kf3 f5 32. Nd4 Bxd4 33. Rxd4 g5
+34. Kxe3 gxf4+ 35. gxf4 fxe4 36. Rxe4 Rxd5 37. Nxd5 Rxd5 38. Re6 Bc4 39. Rxh6
+Bb3 40. Rb6 Bxa4 41. b4 Bd7 42. bxa5 Rxa5 43. Kf3 Ke7 44. Rh6 Bf5 45. Rb6 Be6
+46. Rb2 Kf6 47. Re2 Ra3+ 48. Kf2 Bd5 49. Rd2 Be4 50. Rd8 Kf5 51. Rf8+ Kg4 52.
+Ke2 Bf5 53. Rb8 Kxf4 54. Kd2 Rh3 55. Re8 Be4 56. Rf8+ Ke5 57. Rf2 Kd4 58. Ke1
+Bd3 59. Rg2 Rf3 60. Rf2 Re3+ 61. Kd2 Be4 62. Rf8 Ra3 63. Rd8+ Bd5 64. h4 Ra2+
+65. Kd1 Rh2 66. h5 Kc4 67. Ke1 Be4 68. Rd2 Rxh5 69. Kf2 Bd3 70. Ke3 Re5+ 71.
+Kf4 Re4+ 72. Kf3 Kd4 73. Ra2 Re7 74. Ra4+ Bc4 75. Kf4 Rf7+ 76. Kg4 Kd3 77. Kg5
+Bd5 78. Rf4 Re7 79. Ra4 Bc4 80. Kf6 Re8 81. Kf5 Re4 82. Ra3+ Kd4 83. Ra4 Re5+
+84. Kg4 Rc5 85. Kf4 Rc8 86. Ra5 Rf8+ 87. Rf5 Ra8 88. Kg5 Bd5 89. Kf6 Rf8+ 90.
+Kg5 Rg8+ 91. Kf6 Be4 92. Rg5 Rb8 93. Rg1 Rb6+ 94. Ke7 Ke5 95. Re1 Rb7+ 1/2-1/2
+
+[Event "ARG-ch sf 82nd"]
+[Site "Buenos Aires"]
+[Date "2008.04.15"]
+[Round "6"]
+[White "Felgaer, Ruben"]
+[Black "Flores, Diego"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "2574"]
+[BlackElo "2548"]
+[PlyCount "50"]
+[EventDate "2008.04.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O Qc7 8. Re1
+Nf6 9. e5 Nd5 10. Nxd5 Bxd5 11. a4 b4 12. Qg4 h5 13. Qh3 Be7 14. Nf3 Nc6 15.
+Qg3 g6 16. Bg5 h4 17. Bxh4 Bxf3 18. Bxe7 Kxe7 19. Qxf3 Nxe5 20. Qf4 f6 21.
+Qxb4+ Kf7 22. h3 g5 23. Rad1 g4 24. Rxe5 Qxe5 25. Qxg4 Rag8 1/2-1/2
+
+[Event "ARG-ch sf 82nd"]
+[Site "Buenos Aires"]
+[Date "2008.04.15"]
+[Round "6"]
+[White "Liascovich, Lucas"]
+[Black "Real de Azua, Ernesto"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[WhiteElo "2419"]
+[BlackElo "2417"]
+[PlyCount "69"]
+[EventDate "2008.04.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Nc5 Nd7 6. Bd3 Bxd3 7. Nxd3 e6 8.
+Be3 Ngf6 9. Nf3 Be7 10. Qe2 Qa5+ 11. c3 Qa6 12. Bg5 O-O 13. Nde5 Qxe2+ 14. Kxe2
+Rfd8 15. Rhd1 h6 16. Nxd7 Rxd7 17. Bxf6 Bxf6 18. Rd3 Rad8 19. Rad1 Rd5 20. g4
+h5 21. h3 g6 22. Nd2 Be7 23. Nc4 Kg7 24. Ne3 Ra5 25. a3 hxg4 26. hxg4 Rh8 27.
+c4 Ra4 28. b4 Bg5 29. d5 cxd5 30. cxd5 Bxe3 31. Rxe3 Re8 32. g5 Ra6 33. Rd4 Rd6
+34. Rdd3 Kf8 35. dxe6 1/2-1/2
+
+[Event "ARG-ch sf 82nd"]
+[Site "Buenos Aires"]
+[Date "2008.04.15"]
+[Round "6"]
+[White "Triunfetti, Claudio"]
+[Black "Barrionuevo, Pablo"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2244"]
+[BlackElo "2401"]
+[PlyCount "94"]
+[EventDate "2008.04.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 c6 5. Be3 Nbd7 6. Qd2 b5 7. a3 Bb7 8. Nh3 a6
+9. Be2 Qc7 10. O-O Bg7 11. Kh1 O-O 12. Bh6 Rfe8 13. Bxg7 Kxg7 14. f4 e5 15.
+dxe5 dxe5 16. f5 Rad8 17. Rf2 h6 18. fxg6 fxg6 19. Raf1 Rf8 20. Qe3 Qd6 21. Rd1
+Qc5 22. Qc1 Qe7 23. Qe3 Qc5 24. Qc1 Bc8 25. Rff1 Qe7 26. Nf2 Nc5 27. Qe3 Ne6
+28. Bg4 Nd4 29. Bxc8 Rxc8 30. Rc1 Rcd8 31. Ne2 Rfe8 32. c3 Ne6 33. b4 c5 34.
+Rfd1 Qc7 35. h3 c4 36. g4 Rd7 37. Rxd7+ Nxd7 38. Rd1 Nb6 39. Kg2 Qc6 40. Kh2
+Rf8 41. h4 Rf7 42. h5 Ng5 43. Ng3 Rf3 44. Qe2 Qf6 45. Kg2 Qf4 46. Ngh1 Re3 47.
+Qd2 Nf3 0-1
+
+[Event "ARG-ch sf 82nd"]
+[Site "Buenos Aires"]
+[Date "2008.04.16"]
+[Round "7"]
+[White "Dos Santos, Ramiro"]
+[Black "Felgaer, Ruben"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2436"]
+[BlackElo "2574"]
+[PlyCount "49"]
+[EventDate "2008.04.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. f4 e5 5. Nf3 exd4 6. Qxd4 c6 7. Be3 d5 8. e5
+Ng4 9. Bg1 Nh6 10. O-O-O Nf5 11. Qd2 Bb4 12. a3 Ba5 13. g4 Nh4 14. Nd4 O-O 15.
+g5 c5 16. Nb3 d4 17. Nxa5 Qxa5 18. Ne4 Qc7 19. Qe1 Nf5 20. h4 Nb6 21. Qa5 Qc6
+22. Bg2 Nd5 23. Qxc5 Qxc5 24. Nxc5 Nxf4 25. Bf3 1/2-1/2
+
+[Event "ARG-ch sf 82nd"]
+[Site "Buenos Aires"]
+[Date "2008.04.16"]
+[Round "7"]
+[White "Sola, Ruben"]
+[Black "Lemos, Damian"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2321"]
+[BlackElo "2458"]
+[PlyCount "138"]
+[EventDate "2008.04.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 Nge7 5. Bg2 g6 6. Bg5 Bg7 7. Qc1 h6 8. Bf4
+d5 9. O-O e5 10. exd5 exf4 11. dxc6 fxg3 12. hxg3 Nxc6 13. Qe3+ Qe7 14. Qxe7+
+Kxe7 15. Nc3 Be6 16. Nd2 Nb4 17. Na4 Nxc2 18. Rac1 Nd4 19. Rxc5 Rhd8 20. Bxb7
+Rab8 21. Ba6 Bxa2 22. Bc4 Ne6 23. Ra5 Bxc4 24. Rxa7+ Kf8 25. Nxc4 Rxd3 26. Nab6
+Bd4 27. Nd7+ Kg7 28. Nxb8 Bxa7 29. Nc6 Rxg3+ 30. Kh2 Rg4 31. N4e5 Ra4 32. b3
+Ra2 33. Nxa7 Rxa7 34. Rb1 Ra5 35. Nc4 Rb5 36. b4 Kf6 37. Na3 Rb7 38. b5 Ke5 39.
+Rd1 Nd4 40. f4+ Ke4 41. Rb1 Kd5 42. f5 Nxf5 43. Rb4 Nd6 44. Kg3 Kc5 45. Rb1
+Nxb5 46. Rc1+ Kd5 47. Nc4 Nd4 48. Kg2 Rb4 49. Ne3+ Ke4 50. Ng4 Rb2+ 51. Nf2+
+Kf5 52. Rc5+ Kf6 53. Kf1 Ne6 54. Ra5 Rb4 55. Kg2 h5 56. Kf3 Ng5+ 57. Ke3 Rb3+
+58. Ke2 Rb6 59. Ke3 Ne6 60. Ne4+ Kg7 61. Ra7 g5 62. Nf2 Kg6 63. Ke4 Rb4+ 64.
+Ke5 Nc5 65. Rc7 Rf4 66. Nd1 Rf5+ 67. Kd6 Ne4+ 68. Ke7 Re5+ 69. Kf8 Nd6 0-1
+
+[Event "ARG-ch sf 82nd"]
+[Site "Buenos Aires"]
+[Date "2008.04.17"]
+[Round "8"]
+[White "Alonso, Salvador"]
+[Black "Iermito, Sebastian"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2420"]
+[BlackElo "2339"]
+[PlyCount "83"]
+[EventDate "2008.04.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. h3 Nf6 7. a3 O-O 8. O-O h6
+9. Nh2 Be6 10. Nd5 Nd7 11. c3 Rc8 12. b4 Bg5 13. Bxg5 Qxg5 14. Nf3 Qd8 15. Ne3
+Re8 16. Re1 Nb6 17. Bxe6 Rxe6 18. Qb3 Ne7 19. a4 Nd7 20. a5 Qc7 21. Nd2 cxb4
+22. cxb4 Qc3 23. Qxc3 Rxc3 24. Rec1 Rxd3 25. Rc7 Nf6 26. Ra2 d5 27. Rxb7 d4 28.
+Nf5 Nxf5 29. exf5 Re8 30. f3 Rc3 31. Rxa7 d3 32. b5 Nd5 33. Rd7 Nf4 34. b6 Ne2+
+35. Kf2 Nc1 36. Rb2 Rc2 37. Rxc2 dxc2 38. Ke3 Nd3 39. Rc7 Nb4 40. Ke2 Rb8 41.
+Nb3 f6 42. Rc4 1-0
+
+[Event "ARG-ch sf 82nd"]
+[Site "Buenos Aires"]
+[Date "2008.04.17"]
+[Round "8"]
+[White "Felgaer, Ruben"]
+[Black "Valerga, Diego"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[WhiteElo "2574"]
+[BlackElo "2482"]
+[PlyCount "99"]
+[EventDate "2008.04.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
+Nc6 9. Be3 e5 10. Nb3 exf4 11. Bxf4 Be6 12. Kh1 d5 13. e5 Nd7 14. Nxd5 Ndxe5
+15. c4 Bg5 16. Nc5 Bxf4 17. Nxe6 fxe6 18. Nxf4 Rf6 19. Qb3 Qb6 20. Qg3 Raf8 21.
+Nh5 Rxf1+ 22. Rxf1 Rxf1+ 23. Bxf1 g6 24. Nf6+ Kg7 25. Qf4 Qd8 26. Ne4 Nf7 27.
+Nc5 Qe7 28. Qe3 b6 29. Nxe6+ Kg8 30. g3 Nd6 31. Qe2 Nf5 32. Bg2 Qd6 33. Bd5
+Nce7 34. Nf4+ Kg7 35. Qe4 Nxd5 36. Qxd5 Qe7 37. Nd3 Ne3 38. Qd4+ Qf6 39. Qxf6+
+Kxf6 40. b3 Kf5 41. Kg1 Ke4 42. Nb4 a5 43. Nc6 Kd3 44. c5 bxc5 45. Nxa5 Kc3 46.
+Kf2 Ng4+ 47. Kg2 Ne5 48. Kf2 Ng4+ 49. Kf3 Nxh2+ 50. Kf4 1/2-1/2
+
+[Event "ARG-ch sf 82nd"]
+[Site "Buenos Aires"]
+[Date "2008.04.19"]
+[Round "9"]
+[White "Felgaer, Ruben"]
+[Black "Alonso, Salvador"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "2574"]
+[BlackElo "2420"]
+[PlyCount "27"]
+[EventDate "2008.04.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. b3 d6 4. Bb2 Nf6 5. e5 dxe5 6. Nxe5 Be7 7. Na3 O-O 8. Be2
+Nfd7 9. Nac4 Nxe5 10. Nxe5 Nd7 11. Nxd7 Bxd7 12. Bf3 Qc7 13. O-O Bc6 14. d3
+1/2-1/2
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.12"]
+[Round "1"]
+[White "Abdesselem, Ahmed"]
+[Black "Malakhatko, Vadim"]
+[Result "0-1"]
+[ECO "B43"]
+[BlackElo "2621"]
+[PlyCount "60"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. e5 Bb7 7. Qg4 Qc7 8. Bf4
+b4 9. Nce2 Ne7 10. Ng3 Ng6 11. Nh5 Nxf4 12. Qxf4 f6 13. exf6 Qxf4 14. Nxf4 gxf6
+15. Nh5 Kf7 16. O-O-O Rg8 17. f3 Rg5 18. Ng3 f5 19. Nde2 d5 20. Nf4 Bd6 21.
+Ngh5 Nd7 22. h4 Rgg8 23. Bd3 Nf6 24. Rhe1 Nxh5 25. Nxh5 Rxg2 26. Rd2 Rag8 27.
+Rde2 Rxe2 28. Rxe2 Rg6 29. f4 Rh6 30. Ng3 Bxf4+ 0-1
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.12"]
+[Round "1"]
+[White "Valentiny, Benoit"]
+[Black "Pham Minh Hoang"]
+[Result "0-1"]
+[ECO "B40"]
+[BlackElo "2479"]
+[PlyCount "62"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. d3 d5 3. Nbd2 c5 4. e4 Nc6 5. c3 e6 6. Be2 Bd6 7. O-O O-O 8. a3
+a5 9. a4 Qc7 10. Re1 b6 11. b3 Bb7 12. Qc2 Ng4 13. g3 f5 14. exd5 exd5 15. Ng5
+Rf6 16. Bxg4 fxg4 17. d4 g6 18. Ba3 Qd7 19. Re2 Ba6 20. Ree1 Raf8 21. Nf1 Rxf2
+22. Qxf2 Rxf2 23. Kxf2 Qf5+ 24. Kg1 Qxg5 25. dxc5 bxc5 26. Re6 Qd8 27. Rae1 Kf7
+28. Kg2 d4 29. Bb2 Ne5 30. R6xe5 Bxe5 31. Rxe5 Bxf1+ 0-1
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.13"]
+[Round "2"]
+[White "Doncea, Vladimir"]
+[Black "Rodriguez, Jean Pierre"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2441"]
+[BlackElo "1960"]
+[PlyCount "59"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Qa4+ Bd7 6. Qb3 Qc7 7. Nc3 g6 8.
+Bc4 Qe5+ 9. Nge2 Bc8 10. d4 Qf5 11. Ng3 Qg4 12. Nb5 Na6 13. h3 Qh4 14. d6 e6
+15. Qf3 Bg7 16. d7+ Nxd7 17. Nd6+ Ke7 18. Qxf7+ Kxd6 19. Bf4+ e5 20. dxe5+ Bxe5
+21. O-O-O+ Kc6 22. Qe6+ Kc5 23. Be3+ Kb4 24. a3+ Ka4 25. Rxd7 Bf4 26. Bb3+ Ka5
+27. Rd5+ b5 28. Rxb5+ Kxb5 29. Qc4+ Ka5 30. Qa4# 1-0
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.13"]
+[Round "2"]
+[White "Fayel, Nicolas"]
+[Black "Zozulia, Anna"]
+[Result "0-1"]
+[ECO "B27"]
+[BlackElo "2332"]
+[PlyCount "82"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 b6 3. Nc3 Bb7 4. Bc4 Nc6 5. d4 cxd4 6. Nxd4 Rc8 7. Nxc6 dxc6 8.
+Bf4 e6 9. a4 Qf6 10. Qf3 Bb4 11. O-O g5 12. Na2 Be7 13. Bd2 Qxf3 14. gxf3 Nf6
+15. Kh1 Nd7 16. Nb4 c5 17. Nd3 g4 18. fxg4 Bxe4+ 19. f3 Bc6 20. Bb5 Bf6 21. c3
+Ke7 22. Bxc6 Rxc6 23. Rad1 Rd8 24. Bf4 Rcc8 25. Kg2 c4 26. Nb4 Nc5 27. Rxd8
+Kxd8 28. Rd1+ Ke8 29. Ra1 a5 30. Nc2 Nd3 31. Bc1 Rd8 32. Na3 Nxc1 33. Rxc1 Rd2+
+34. Kg3 Rxb2 35. Nxc4 Rb3 36. Nd6+ Ke7 37. Ne4 Be5+ 38. f4 Bc7 39. g5 Ra3 40.
+Nf6 Rxa4 41. c4 b5 0-1
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.13"]
+[Round "2"]
+[White "Lebon, Joffrey"]
+[Black "Simutowe, Amon"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "1971"]
+[BlackElo "2464"]
+[PlyCount "120"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Nc6 7. c5 Ne4 8. Bd3
+Qa5 9. Bd2 Nxd2 10. Qxd2 g6 11. O-O Bg7 12. Bc2 b6 13. Ba4 Bd7 14. cxb6 Qxb6
+15. Rfd1 O-O 16. Rac1 Rfd8 17. Bxc6 Bxc6 18. Ne5 Be8 19. a3 a5 20. h4 Rab8 21.
+Rc2 Rdc8 22. Rdc1 Qd8 23. Qf4 Rc7 24. Nd1 Rcb7 25. Nc6 Bxc6 26. Rxc6 h5 27. Rc7
+Qf6 28. Rc8+ Rxc8 29. Rxc8+ Kh7 30. Qxf6 Bxf6 31. Rc5 Ra7 32. g3 Bxd4 33. Rb5
+f6 34. Kf1 g5 35. Nc3 Bxc3 36. bxc3 gxh4 37. gxh4 Kg6 38. Ke2 Rc7 39. Rxa5 Rxc3
+40. Ra7 e5 41. f3 Kf5 42. Kf2 d4 43. Ra6 Rc2+ 44. Kg3 Rc3 45. Kf2 Re3 46. a4
+Ra3 47. a5 Ra4 48. Ke2 Ra2+ 49. Kf1 Rh2 50. Rd6 Rxh4 51. Kg2 d3 52. Rxd3 Ra4
+53. Rd5 Kf4 54. Rd6 f5 55. a6 Ra3 56. Rh6 Rxf3 57. Rxh5 Rg3+ 58. Kf2 Ra3 59.
+Rh6 Ra2+ 60. Kg1 e4 0-1
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.13"]
+[Round "2"]
+[White "Mascle, Jean Guy"]
+[Black "Horvath, Jozsef"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1980"]
+[BlackElo "2542"]
+[PlyCount "76"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nc3 a6 3. Nf3 e6 4. g3 b5 5. Bg2 Bb7 6. d3 d6 7. O-O Nd7 8. a4 b4
+9. Ne2 Ngf6 10. Ne1 Qc7 11. h3 d5 12. exd5 exd5 13. f4 Bd6 14. Nf3 O-O 15. Nh4
+Rfe8 16. Nf5 Bf8 17. g4 g6 18. Nfg3 h6 19. Bd2 Bg7 20. g5 hxg5 21. fxg5 Nh7 22.
+Rb1 c4 23. Bf4 Be5 24. d4 Bxf4 25. Nxf4 Re3 26. Rf3 Rae8 27. Rxe3 Rxe3 28. Qg4
+Ndf8 29. Nf1 Re8 30. Nd2 c3 31. bxc3 Qxc3 32. Nxd5 Bxd5 33. Bxd5 Qxd2 34. Rf1
+Nxg5 35. h4 Nge6 36. h5 Kg7 37. Rxf7+ Kxf7 38. hxg6+ Kg7 0-1
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.13"]
+[Round "3"]
+[White "Benedic, Patrick"]
+[Black "Fargere, Francois"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2085"]
+[BlackElo "2367"]
+[PlyCount "62"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Bd3 Nc6 8.
+Nxc6 bxc6 9. O-O d6 10. Be3 e5 11. f3 Be7 12. Qd2 O-O 13. Rac1 h6 14. Kh1 Rb8
+15. Bb1 Qb7 16. b3 Be6 17. Rfd1 Rbd8 18. Qc2 Rc8 19. Rd2 d5 20. exd5 cxd5 21.
+Nxd5 Bxd5 22. Rxd5 Qxd5 23. cxd5 Rxc2 24. Rxc2 Nxd5 25. Bf2 Rd8 26. Rd2 Bg5 27.
+Rd1 Rc8 28. Bf5 Rd8 29. Bg3 Nc3 30. Rxd8+ Bxd8 31. Bxe5 Nxa2 1/2-1/2
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.13"]
+[Round "3"]
+[White "Houard, Yannick"]
+[Black "Benitah, Yohan"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2131"]
+[BlackElo "2425"]
+[PlyCount "54"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 Be6 10. f4 Qc7 11. f5 Bc4 12. Bg5 Nbd7 13. a4 Rac8 14. a5 Rfe8 15.
+Bxc4 Qxc4 16. Ra4 Qc6 17. Bxf6 Nxf6 18. Qd3 Red8 19. Rd1 h6 20. Raa1 Rd7 21.
+Rd2 Qc4 22. g3 Qxd3 23. Rxd3 d5 24. exd5 Bb4 25. Rad1 Bxc3 26. Rxc3 Rxc3 27.
+bxc3 Rxd5 1/2-1/2
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.13"]
+[Round "3"]
+[White "Vuiton, Stephane"]
+[Black "Safranska, Anda"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2047"]
+[BlackElo "2299"]
+[PlyCount "93"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bc4 e6 5. Nc3 a6 6. a4 b6 7. O-O Ne7 8. Re1 O-O
+9. Bg5 h6 10. Bh4 Nd7 11. Qd2 Bb7 12. Rad1 Qe8 13. Bb3 Kh8 14. h3 Ng8 15. Nh2
+e5 16. dxe5 Nxe5 17. f4 Nc6 18. Nf3 Kh7 19. Kh1 Qc8 20. Kh2 Rb8 21. e5 dxe5 22.
+fxe5 Nce7 23. e6 Bxf3 24. gxf3 fxe6 25. Bxe6 Qb7 26. Bd5 Nxd5 27. Qxd5 Qxd5 28.
+Rxd5 Rf7 29. Rd3 Rbf8 30. Kg2 g5 31. Bg3 Nf6 32. Nd1 Nh5 33. b3 Nxg3 34. Kxg3
+h5 35. Nf2 Kg6 36. Re6+ Rf6 37. Re2 Rc6 38. Ne4 Re8 39. Kg2 Rce6 40. Rd5 Bf6
+41. Red2 g4 42. hxg4 hxg4 43. Nxf6 gxf3+ 44. Kxf3 Rxf6+ 45. Kg4 Re4+ 46. Kg3
+Re3+ 47. Kg4 1/2-1/2
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.13"]
+[Round "3"]
+[White "Zozulia, Anna"]
+[Black "Curto, Nicolas"]
+[Result "1/2-1/2"]
+[ECO "B85"]
+[WhiteElo "2332"]
+[BlackElo "2126"]
+[PlyCount "105"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. a4
+Nc6 9. Be3 O-O 10. f4 Qc7 11. Kh1 Re8 12. Bf3 Bf8 13. Bg1 Bd7 14. Nxc6 Bxc6 15.
+a5 Nd7 16. Qd2 b6 17. axb6 Nxb6 18. Qd4 Nd7 19. Ra2 a5 20. Rfa1 Nc5 21. Qd2 Qb7
+22. Bxc5 dxc5 23. Qe2 Red8 24. e5 Rd4 25. Bxc6 Qxc6 26. Qe3 Rad8 27. h3 Rd2 28.
+Qe4 Qxe4 29. Nxe4 Rxc2 30. Rxa5 Rxb2 31. Nxc5 Bxc5 32. Rxc5 h5 33. Rc3 Rf2 34.
+g3 h4 35. gxh4 Rxf4 36. Rg1 Rxh4 37. Rcg3 g6 38. Rf1 Rh5 39. Rgf3 Rd7 40. Re1
+Rd2 41. Rfe3 Kg7 42. Rg3 Rf5 43. Kg1 Kh6 44. Re4 Rd5 45. Rge3 g5 46. h4 g4 47.
+Rxg4 Rdxe5 48. Ra3 Rf6 49. Rc4 Ref5 50. Rc8 Rg6+ 51. Kh2 Rf2+ 52. Kh3 Kg7 53.
+Rc1 1/2-1/2
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.14"]
+[Round "4"]
+[White "Benedic, Patrick"]
+[Black "Zozulia, Anna"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "2085"]
+[BlackElo "2332"]
+[PlyCount "100"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qa3 Qg6 9. Qd3 Nf6 10. f3 d5 11. Nd2 O-O 12. Qe3 dxe4 13. c3 exf3 14. gxf3 Qh5
+15. h4 Re8 16. Qg5 Bf5 17. Rg1 Qxg5 18. hxg5 Nd5 19. Nc4 Rad8 20. Ne3 Nxe3 21.
+Bxe3 Nd4 22. Kf2 Nc2 23. Rc1 Nxe3 24. Kxe3 Rd6 25. Be2 Red8 26. Rgd1 Rxd1 27.
+Bxd1 Rd3+ 28. Ke2 Rd6 29. Bb3 Kf8 30. c4 Rg6 31. c5 Rxg5 32. c6 bxc6 33. Rxc6
+Rg6 34. Rc5 Be6 35. Bxe6 Rxe6 36. Rc7 Rb6 37. b3 h5 38. Ke3 f5 39. Rc5 Kf7 40.
+f4 exf4+ 41. Kxf4 Kg6 42. a3 Rxb3 43. Rc6+ Kf7 44. Rxa6 g6 45. Ra5 h4 46. Kg5
+h3 47. Ra7+ Ke6 48. Ra6+ Ke5 49. Ra5+ Ke4 50. Kxg6 h2 0-1
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.14"]
+[Round "4"]
+[White "Fargere, Francois"]
+[Black "Vuiton, Stephane"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2367"]
+[BlackElo "2047"]
+[PlyCount "45"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 cxd4 5. c3 Qb6 6. Qe2 e6 7. O-O Nf6 8.
+Bd3 Be7 9. e5 Nd5 10. Qg4 g5 11. Be4 h5 12. Qd1 Nf4 13. d3 Ng6 14. Bxg6 fxg6
+15. Qe2 dxc3 16. Nxc3 Qc6 17. Ne4 g4 18. Bg5 Bxg5 19. Nxg5 b6 20. Ne4 O-O 21.
+Rac1 Qb5 22. Nf6+ Kg7 23. Rc7 1-0
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.15"]
+[Round "5"]
+[White "Blot, David"]
+[Black "Doncea, Vladimir"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2018"]
+[BlackElo "2441"]
+[PlyCount "26"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 c5 3. c3 d5 4. exd5 Qxd5 5. Nf3 Nf6 6. Na3 Nc6 7. Nc2 b6 8. Be2
+Bb7 9. O-O Be7 10. Bf4 O-O 11. Qd3 Rfd8 12. Rfd1 cxd4 13. Ncxd4 e5 0-1
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]
+[Date "2008.04.15"]
+[Round "5"]
+[White "Vocaturo, Daniele"]
+[Black "Curto, Nicolas"]
+[Result "1-0"]
+[ECO "B67"]
+[WhiteElo "2412"]
+[BlackElo "2126"]
+[PlyCount "85"]
+[EventDate "2008.04.12"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Bxf6
+gxf6 9. Qd2 Nc6 10. O-O-O Bd7 11. Kb1 Nxd4 12. Qxd4 Be7 13. Be2 h5 14. Rhf1 Qc5
+15. Qd2 b5 16. Bf3 Rc8 17. Rfe1 b4 18. Ne2 a5 19. f5 e5 20. c3 h4 21. cxb4 axb4
+22. Rc1 Qb6 23. Rxc8+ Bxc8 24. Nc1 d5 25. Qxd5 Bb7 26. Qd2 Bc5 27. Bd1 Ke7 28.
+Bb3 Rd8 29. Qc2 Bf2 30. Re2 Rc8 31. Qd2 Bg1 32. Nd3 Ba6 33. Nxb4 Rd8 34. Nd5+
+Rxd5 35. Bxd5 Bxe2 36. Qxe2 Bxh2 37. a3 Bf4 38. Qh5 Qg1+ 39. Ka2 Qxg2 40. Qxf7+
+Kd6 41. Qxf6+ Kd7 42. Qc6+ Kd8 43. Qa8+ 1-0
+
+[Event "Rhone op 4th"]
+[Site "Rhone"]

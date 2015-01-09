@@ -1,0 +1,600 @@
+[Date "2008.05.29"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2765"]
+[BlackElo "2741"]
+[PlyCount "115"]
+[EventDate "2008.05.28"]
+[EventType "match (rapid)"]
+[EventRounds "8"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Ne5 g6 6. Bd3 Bg7 7. O-O O-O 8. c3
+Nc6 9. Qe2 Nd7 10. f4 Nf6 11. Be3 Bf5 12. Nd2 Bxd3 13. Qxd3 e6 14. Rae1 Rc8 15.
+Bf2 Ne8 16. Ndf3 Nd6 17. Ng5 Qe8 18. Qh3 h6 19. Ngf3 Ne4 20. g4 f6 21. Nd3 f5
+22. gxf5 exf5 23. Bh4 b5 24. a3 a5 25. Kh1 b4 26. axb4 axb4 27. Rg1 bxc3 28.
+bxc3 Kh7 29. Rg2 Ne7 30. Nc5 Ng8 31. Reg1 Rc6 32. Be1 Ne7 33. Ng5+ Nxg5 34.
+fxg5 h5 35. Re2 Qf7 36. Bd2 Ng8 37. Rge1 Rcc8 38. Bf4 Rfe8 39. Qf3 Rxe2 40.
+Qxe2 Bf8 41. Qa6 Re8 42. Ne6 Qd7 43. Kg2 Bg7 44. Re3 Qc8 45. Qxc8 Rxc8 46. Nc7
+Bf8 47. Nxd5 Kg7 48. Kf3 Kf7 49. Nb6 Rc6 50. Nd7 Bg7 51. Be5 Bf8 52. d5 Rc4 53.
+d6 Rc6 54. Nxf8 Kxf8 55. Bf4 Rc8 56. Ke2 Kf7 57. Kd3 Rd8 58. c4 1-0
+
+[Event "Miskolc m"]
+[Site "Miskolc"]
+[Date "2008.05.31"]
+[Round "5"]
+[White "Leko, Peter"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[WhiteElo "2741"]
+[BlackElo "2765"]
+[PlyCount "129"]
+[EventDate "2008.05.28"]
+[EventType "match (rapid)"]
+[EventRounds "8"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. exd5 cxd5 13. Bg5 Be6 14. Bc4 Qc7
+15. Bxf6 dxc4 16. Bxg7 Kxg7 17. Nd5 Bxd5 18. Rxd5 Rfe8 19. Qc3 Kg8 20. Qa5 Qe7
+21. Re1 Qh4 22. Rdxe5 Rxe5 23. Qxe5 Rd8 24. h3 c3 25. Qxc3 Qg5+ 26. f4 Qxg2 27.
+b3 Qf2 28. Re4 Qg2 29. Rc4 Qd5 30. Kb2 Qf5 31. a4 h5 32. Qe3 a6 33. Rc5 Qf6+
+34. Qe5 Kg7 35. Qxf6+ Kxf6 36. Rc4 Kf5 37. b4 f6 38. Kc3 g5 39. fxg5 fxg5 40.
+Rc7 Rg8 41. Rh7 h4 42. b5 axb5 43. axb5 Kf4 44. Rd7 g4 45. hxg4 h3 46. Rh7 Kxg4
+47. Kb4 Kg3 48. c4 Rg6 49. Ka5 Rg5 50. Kb4 Rg6 51. Rxh3+ Kxh3 52. c5 Rg4+ 53.
+Ka5 Rc4 54. Kb6 Kg4 55. Kc6 Kf5 56. Kd5 Rc1 57. b6 Rd1+ 58. Kc6 Ke6 59. b7 Rb1
+60. Kc7 Kd5 61. c6 Rb2 62. Kd7 Rb6 63. c7 Rxb7 64. Kd8 Rxc7 65. Kxc7 1/2-1/2
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.05.29"]
+[Round "1"]
+[White "Li Chao"]
+[Black "Li Shilong"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2320"]
+[BlackElo "2512"]
+[PlyCount "58"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Nc6 9. Nb3 Ng4 10. f5 Be7 11. Bf4 O-O 12. O-O-O exf5 13. Nd5 Qf2 14. Be2 fxe4
+15. Rdf1 Qa7 16. Nxe7+ Nxe7 17. Bxd6 Rd8 18. Qf4 Ng6 19. Qxf7+ Kh8 20. Bc5 Qb8
+21. Bxg4 Bxg4 22. Bd4 Rg8 23. h3 Be2 24. Re1 Bb5 25. Rxe4 Be8 26. Qe6 Rf8 27.
+h4 Rf4 28. Rhe1 Bc6 29. R4e3 Rxh4 1-0
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.05.30"]
+[Round "2"]
+[White "Wen, Yang"]
+[Black "Wang Hao"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2497"]
+[BlackElo "2684"]
+[PlyCount "42"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Qd3 Bg5 11. Rd1 Nc6 12. a3 Bxb3 13. cxb3 Nd4 14. b4 g6 15.
+O-O O-O 16. Bg4 f5 17. Bh3 Kh8 18. exf5 gxf5 19. f4 Bf6 20. Bxf5 Nxf5 21. Qxf5
+Bg7 1/2-1/2
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.05.31"]
+[Round "3"]
+[White "Li Chao"]
+[Black "Yu Shaoteng"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2320"]
+[BlackElo "2505"]
+[PlyCount "45"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 Bg4 5. c4 cxd4 6. Qb3 Bxf3 7. Qxb7 Nd7 8.
+gxf3 e6 9. cxd5 Rb8 10. Qxa7 Bb4+ 11. Bd2 Nxe5 12. Be2 Ne7 13. Qxd4 N7c6 14.
+Qe3 Bxd2+ 15. Qxd2 Nb4 16. Nc3 Nbd3+ 17. Kf1 Qh4 18. Qe3 Qh3+ 19. Kg1 Rxb2 20.
+f4 Nxf4 21. Qxf4 Rxe2 22. Qa4+ Ke7 23. Qa3+ 1/2-1/2
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.05.31"]
+[Round "3"]
+[White "Wang Hao"]
+[Black "Liang Chong"]
+[Result "1-0"]
+[ECO "B17"]
+[WhiteElo "2684"]
+[BlackElo "2484"]
+[PlyCount "93"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Be7 8.
+O-O h6 9. Nxe6 fxe6 10. Bg6+ Kf8 11. Qe2 Bd6 12. Ne5 Qe7 13. f4 Kg8 14. c4 Nf8
+15. Bf7+ Qxf7 16. Nxf7 Kxf7 17. g4 h5 18. g5 Ng8 19. c5 Bc7 20. Qc4 Ne7 21. f5
+Nd5 22. fxe6+ Ke8 23. Qb3 Rb8 24. Qh3 g6 25. Bd2 Rh7 26. Qd3 Rg7 27. Rae1 Nxe6
+28. Re2 Ke7 29. Rfe1 Kf7 30. Qf3+ Kg8 31. Rxe6 Bxe6 32. Rxe6 Rf8 33. Qe4 Kh7
+34. h4 Bf4 35. Rf6 Nxf6 36. gxf6 Bxd2 37. fxg7 Rf7 38. Qxg6+ Kxg6 39. g8=Q+ Rg7
+40. Qe6+ Kh7+ 41. Kf2 Ba5 42. Kf3 Bc7 43. b4 a5 44. b5 cxb5 45. d5 a4 46. d6
+Ba5 47. Qe8 1-0
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.05.31"]
+[Round "3"]
+[White "Zhang Pengxiang"]
+[Black "Li Shilong"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2640"]
+[BlackElo "2512"]
+[PlyCount "36"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
+O-O 9. O-O Be6 10. Bb3 Qc7 11. h3 Rc8 12. Rc1 Nbd7 13. Re1 b5 14. Bg5 Rab8 15.
+Nd5 Bxd5 16. Bxf6 Nxf6 17. Bxd5 Nxd5 18. Qxd5 Qc4 1/2-1/2
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.01"]
+[Round "4"]
+[White "Li Chao"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2320"]
+[BlackElo "2689"]
+[PlyCount "208"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 g6 5. e5 Ng4 6. Bxc6 dxc6 7. h3 Nh6 8. d3
+Bg7 9. Bf4 Nf5 10. Ne4 Nd4 11. O-O b6 12. a4 O-O 13. a5 Bf5 14. Re1 Ne6 15. Bd2
+Bxe4 16. Rxe4 b5 17. Ng5 Nxg5 18. Bxg5 f6 19. Bd2 f5 20. Re1 Qd5 21. f4 Rfd8
+22. a6 c4 23. Be3 e6 24. dxc4 Qxc4 25. Qf3 Bf8 26. Qf2 b4 27. Ra5 Rd5 28. b3
+Qc3 29. Rxd5 cxd5 30. Bd4 Qc7 31. Kh2 Be7 32. Rc1 Qc6 33. Ra1 Qc7 34. g4 Kf7
+35. Ra2 Qd7 36. Ra4 Qc7 37. Ra1 Qd7 38. Re1 Qb5 39. gxf5 gxf5 40. Ra1 Ke8 41.
+Rg1 Rc8 42. Rg8+ Kd7 43. Rg7 Ke8 44. Rxh7 Qxa6 45. Rh8+ Kf7 46. Rh7+ Ke8 47.
+Rh8+ Kf7 48. Rxc8 Qxc8 49. Bxa7 Qf8 50. Be3 Qh6 51. Qf3 Qh8 52. Bd4 Qh4 53. Bf2
+Qh8 54. Kg2 Qc8 55. Qd3 Qa8 56. Bd4 Qg8+ 57. Kf1 Qh8 58. Ke2 Qc8 59. Kd1 Qh8
+60. Qf3 Qh4 61. Bf2 Qh8 62. Kc1 Qa8 63. Kb2 Qa3+ 64. Kb1 Qa6 65. Qd1 Kg6 66.
+Qg1+ Kf7 67. Qe1 Kg6 68. Qd1 Kh6 69. Bd4 Kg6 70. Kc1 Qa8 71. Qf1 Kf7 72. Qb5
+Qc8 73. Kb1 Kg6 74. Kb2 Kh5 75. Qe2+ Kg6 76. Qg2+ Kf7 77. Qf1 Bc5 78. Qg1 Be7
+79. Qd1 Kg6 80. Qa1 Bh4 81. Qg1+ Kf7 82. Qd1 Be7 83. Qg1 Bh4 84. Kc1 Be7 85.
+Kd2 Qh8 86. Qe3 Qc8 87. Qg3 Qh8 88. Kc1 Qc8 89. Qf3 Kg6 90. Bf2 Qa6 91. Bd4 Qc8
+92. Qf1 Bh4 93. Kb2 Be7 94. Qb5 Kh5 95. Qb6 Bf8 96. Qa7 Kg6 97. h4 Bh6 98. h5+
+Kxh5 99. Qf7+ Kh4 100. Qf6+ Kh5 101. Qf7+ Kh4 102. Qh7 Kh5 103. Qf7+ Kh4 104.
+Qh7 Kh5 1/2-1/2
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Ni Hua"]
+[Black "Li Shilong"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2704"]
+[BlackElo "2512"]
+[PlyCount "71"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2
+Nbd7 9. f4 Rc8 10. O-O-O b5 11. Kb1 Be7 12. f5 Bc4 13. h3 d5 14. exd5 Bb4 15.
+Bg5 Bxc3 16. Bxf6 Qxf6 17. Qxc3 O-O 18. Bxc4 Rxc4 19. Qd3 e4 20. Qe3 Qxf5 21.
+Rhf1 Qg6 22. Nd4 f5 23. b3 Rcc8 24. Rd2 Rf7 25. Rdf2 f4 26. Rxf4 Rxf4 27. Rxf4
+Nf6 28. Nf5 Nxd5 29. Qd4 Nc3+ 30. Kb2 Qg5 31. Rg4 Nd1+ 32. Kb1 Rd8 33. Nh6+ Kf8
+34. Rf4+ Ke8 35. Rxe4+ Kf8 36. Qb4+ 1-0
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Zhang Pengxiang"]
+[Black "Li Chao"]
+[Result "1/2-1/2"]
+[ECO "B56"]
+[WhiteElo "2640"]
+[BlackElo "2320"]
+[PlyCount "10"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 1/2-1/2
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.03"]
+[Round "6"]
+[White "Li Chao"]
+[Black "Wang Hao"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2320"]
+[BlackElo "2684"]
+[PlyCount "72"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Qc7 5. O-O Nd4 6. d3 a6 7. Ba4 b5 8. Bb3
+Nxb3 9. axb3 Bb7 10. Bg5 e6 11. Re1 d6 12. d4 b4 13. Nd5 Nxd5 14. exd5 Bxd5 15.
+dxc5 Qxc5 16. c3 bxc3 17. bxc3 h6 18. Be3 Qc7 19. c4 Bb7 20. Bd4 Qc6 21. Re3
+Be7 22. Bxg7 Rg8 23. Bb2 Rg4 24. h3 Rg6 25. Qe2 O-O-O 26. b4 Rdg8 27. g3 Bg5
+28. b5 Qb6 29. c5 Qxb5 30. Qxb5 axb5 31. Nxg5 Rxg5 32. cxd6 Rc5 33. Rc3 Rxc3
+34. Bxc3 Kd7 35. Ra7 Kc6 36. Bf6 b4 1/2-1/2
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.04"]
+[Round "7"]
+[White "Ni Hua"]
+[Black "Li Chao"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "2704"]
+[BlackElo "2320"]
+[PlyCount "53"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Nxd5 cxd5 13. Qxd5 Qc7 14. Qc5
+Qb8 15. b3 Be6 16. Ba6 Qb6 17. Bd3 Rfc8 18. Qxc8+ Rxc8 19. Bxb6 axb6 20. Rhe1
+Bc3 21. Re3 Rc7 22. Bc4 Bf6 23. Bxe6 Bg5 24. Bxf7+ Kg7 25. Rde1 Bxe3+ 26. Rxe3
+Kxf7 27. a4 1-0
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.04"]
+[Round "7"]
+[White "Wang Hao"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2684"]
+[BlackElo "2689"]
+[PlyCount "22"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Qa5+ 10. Bd2 Qd8 11. Bg5 Qa5+ 1/2-1/2
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.04"]
+[Round "7"]
+[White "Wen, Yang"]
+[Black "Liang Chong"]
+[Result "1-0"]
+[ECO "B17"]
+[WhiteElo "2497"]
+[BlackElo "2484"]
+[PlyCount "71"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bc4 e6 7. Qe2 Nb6 8.
+Bd3 h6 9. N5f3 c5 10. Be3 Nbd5 11. O-O-O a6 12. Bd2 Qc7 13. Nh3 b5 14. dxc5
+Bxc5 15. Ne5 Bb7 16. Kb1 O-O 17. g4 Ne3 18. Bxe3 Qxe5 19. Bxc5 Qxc5 20. Rhg1 g5
+21. f4 Rad8 22. Rgf1 Kg7 23. Rde1 Rd4 24. Qf2 Nd7 25. Qd2 Rd5 26. fxg5 hxg5 27.
+Rf5 exf5 28. Qxg5+ Kh7 29. gxf5 f6 30. Qh5+ Kg8 31. Qg6+ Kh8 32. Re4 Rd4 33.
+Qh5+ Kg8 34. Qg4+ Kh8 35. Rxd4 Ne5 36. Qg1 1-0
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.04"]
+[Round "7"]
+[White "Zhang Pengxiang"]
+[Black "Yu Shaoteng"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2640"]
+[BlackElo "2505"]
+[PlyCount "9"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 1/2-1/2
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.05"]
+[Round "8"]
+[White "Yu Shaoteng"]
+[Black "Liang Chong"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2505"]
+[BlackElo "2484"]
+[PlyCount "105"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Be7 8.
+Qe2 h6 9. Ne4 c5 10. Nxc5 Bxc5 11. dxc5 Nxc5 12. Bc4 a6 13. Qe5 Ncd7 14. Qg3 b5
+15. Be2 Bb7 16. Qxg7 Rg8 17. Qxh6 Rxg2 18. Bg5 Qa5+ 19. c3 Ne4 20. Qh8+ Nf8 21.
+Bh4 b4 22. cxb4 Qxb4+ 23. Kf1 Rg4 24. Rd1 Rc8 25. Rg1 Nd2+ 26. Nxd2 Rxh4 27.
+Qe5 Rd4 28. Nb3 Rxd1+ 29. Bxd1 Bd5 30. Rg4 Qb5+ 31. Ke1 Ng6 32. Qf6 Qd3 33. Rd4
+Qb1 34. h4 Qxb2 35. h5 Nf8 36. Nd2 Rc1 37. Ne4 Nh7 38. Qe5 Qa1 39. Qb8+ Ke7 40.
+Qd6+ Ke8 41. Rd2 Qb1 42. f3 Rc6 43. Qe5 Bxe4 44. fxe4 Qb4 45. h6 Rc4 46. Qd6
+Rxe4+ 47. Kf2 Qxd6 48. Rxd6 Rh4 49. Rxa6 Rxh6 50. a4 Nf6 51. Bf3 Rh2+ 52. Ke3
+Nd5+ 53. Bxd5 1/2-1/2
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.06"]
+[Round "9"]
+[White "Wang Hao"]
+[Black "Yu Shaoteng"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2684"]
+[BlackElo "2505"]
+[PlyCount "75"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 Bg4 5. dxc5 Nc6 6. Bb5 Qa5+ 7. Nc3 e6 8. Be3
+Nge7 9. a3 O-O-O 10. b4 Bxf3 11. gxf3 Qc7 12. Bxc6 Nxc6 13. Bd4 a6 14. f4 f6
+15. exf6 Qxf4 16. fxg7 Bxg7 17. Bxg7 Rhg8 18. Qd2 Qf3 19. Rg1 Rd7 20. Qe2 Qf5
+21. O-O-O Rgxg7 22. Rg3 Rdf7 23. Na4 Rg6 24. Nb6+ Kc7 25. Rd2 Ne5 26. Kb1 Ng4
+27. h3 Ne5 28. Rxg6 hxg6 29. Qe3 Nd7 30. Qg3+ Qf4 31. Qxg6 Rf6 32. Qg7 Rf7 33.
+Qc3 Nxb6 34. cxb6+ Kd7 35. a4 Qd6 36. a5 Rf4 37. Rd4 Qe5 38. Rxd5+ 1-0
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.08"]
+[Round "11"]
+[White "Ni Hua"]
+[Black "Yu Shaoteng"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2704"]
+[BlackElo "2505"]
+[PlyCount "99"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 Bg4 5. c4 cxd4 6. cxd5 Qxd5 7. Nc3 Qd7 8. Bb5
+Nc6 9. Qxd4 Nxd4 10. Nxd4 a6 11. Bxd7+ Bxd7 12. Nd5 Rc8 13. Nb6 Rc7 14. e6 Bxe6
+15. Bf4 Rc5 16. b4 Rc4 17. Nxc4 Bxc4 18. Rc1 b5 19. a3 f6 20. Nc6 e5 21. Be3
+Bd6 22. Na5 Bd5 23. O-O Ne7 24. Rfd1 Kd7 25. Bc5 Rb8 26. f3 g5 27. Nb3 Ra8 28.
+Bxd6 Kxd6 29. Nc5 Ra7 30. g4 Ng6 31. Ne4+ Ke6 32. Nc5+ Kd6 33. Ne4+ Ke6 34. Rc8
+Nf4 35. Re8+ Kf7 36. Nd6+ Kg7 37. Nf5+ Kf7 38. Rh8 Ke6 39. Rd8 Bxf3 40. R1d6+
+Kf7 41. Rh8 Bxg4 42. Rxh7+ Kg6 43. Rxa7 Kxf5 44. Raxa6 Ke4 45. Rxf6 Kf3 46. a4
+e4 47. axb5 e3 48. b6 e2 49. Ra3+ Ke4 50. Rxf4+ 1-0
+
+[Event "CHN-ch"]
+[Site "Beijing"]
+[Date "2008.06.08"]
+[Round "11"]
+[White "Wen, Yang"]
+[Black "Wang Yue"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2497"]
+[BlackElo "2689"]
+[PlyCount "48"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Qc7 5. Qe2 e5 6. Bxc6 dxc6 7. d3 g6 8. h3
+a5 9. a4 b6 10. Be3 Bg7 11. b3 Nd7 12. Qd2 h6 13. Ng1 Nf8 14. Nge2 Ne6 15. f4
+exf4 16. Nxf4 Qe5 17. Nfe2 Qf6 18. Rf1 Qh4+ 19. Rf2 Nd4 20. Rc1 Bxh3 21. Kf1
+Bg4 22. Kg1 g5 23. Rcf1 Be5 24. g3 Qh5 0-1
+
+[Event "CHN-ch (Women)"]
+[Site "Beijing"]
+[Date "2008.05.29"]
+[Round "1"]
+[White "Gu Xiaobing"]
+[Black "Wang, Xiaohui"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2225"]
+[BlackElo "2211"]
+[PlyCount "219"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nd4 4. Bc4 g6 5. Nc3 Bg7 6. Nxd4 cxd4 7. Qf3 Nh6 8.
+Ne2 O-O 9. d3 Ng4 10. Qg3 d6 11. h4 h5 12. Bb3 Kh7 13. O-O e5 14. f3 Ne3 15.
+Bxe3 dxe3 16. f4 Bg4 17. Rae1 Bxe2 18. Rxe2 exf4 19. Qxf4 Be5 20. Qxe3 Qxh4 21.
+g4 Qxg4+ 22. Rg2 Qh4 23. d4 Bf6 24. c3 Rae8 25. Bd5 Re7 26. Rf3 Rfe8 27. Rh3
+Rxe4 28. Bxe4 Qxe4 29. Qxe4 Rxe4 30. Rf2 Kg7 31. Rhf3 Re6 32. d5 Re1+ 33. Kg2
+Be5 34. Rxf7+ Kh6 35. Re7 h4 36. Rxb7 g5 37. Rf1 Re2+ 38. Kf3 Rd2 39. Kg4 Rg2+
+40. Kf3 h3 41. Rb4 Kh5 42. Rh1 Rg3+ 43. Kf2 Rg2+ 44. Kf1 Rg3 45. c4 g4 46. c5
+dxc5 47. Re4 Bxb2 48. Ke2 Rg2+ 49. Kd3 h2 50. d6 Bf6 51. Re6 c4+ 52. Kxc4 Bh4
+53. d7 Rd2 54. Kc3 Rxd7 55. Rxh2 Kg5 56. Re8 Rh7 57. Kd3 Kf4 58. Rc2 Rd7+ 59.
+Ke2 Bg5 60. Rc4+ Kg3 61. Ree4 Rd2+ 62. Ke1 Kf3 63. Re5 Bh6 64. Rf5+ Ke3 65. Rc6
+Rh2 66. Re6+ Kd4 67. Rf2 Rh1+ 68. Ke2 g3 69. Rg2 Bf4 70. Ra6 Bb8 71. Ra4+ Kd5
+72. Kf3 Rh2 73. Rg1 Rf2+ 74. Ke3 Bc7 75. Rd1+ Ke5 76. Re4+ Kf6 77. Rg4 Bb6+ 78.
+Ke4 g2 79. Rd6+ Ke7 80. Rdg6 Rxa2 81. Rxg2 Rxg2 82. Rxg2 Kd6 83. Rd2+ Kc6 84.
+Ke5 a5 85. Rc2+ Bc5 86. Rc4 Kb6 87. Kd5 Bb4 88. Rc8 Bd2 89. Rc6+ Kb7 90. Kc5 a4
+91. Rb6+ Ka7 92. Kb5 a3 93. Rd6 a2 94. Ra6+ Kb7 95. Rxa2 Bf4 96. Rf2 Bg3 97.
+Rf3 Bh2 98. Rf6 Bg3 99. Rb6+ Ka7 100. Kc6 Bf4 101. Rb4 Bg3 102. Rb7+ Ka8 103.
+Rb3 Be5 104. Rd3 Bf4 105. Rd7 Be3 106. Kc7 Bf4+ 107. Kc8 Bg3 108. Rb7 Bf4 109.
+Rb3 Ka7 110. Ra3+ 1/2-1/2
+
+[Event "CHN-ch (Women)"]
+[Site "Beijing"]
+[Date "2008.05.29"]
+[Round "1"]
+[White "Hou, Yifan"]
+[Black "Ding Yixin"]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2549"]
+[BlackElo "2292"]
+[PlyCount "73"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Nc6 8. Bg2
+Be7 9. Be3 Nd7 10. O-O O-O 11. a4 Nde5 12. Qe2 Nxd4 13. Bxd4 Nc6 14. Be3 Bd7
+15. f4 Rc8 16. Kh1 Qc7 17. g5 Rfe8 18. Qf2 f6 19. h4 Rf8 20. Qe2 Na5 21. f5 Nc4
+22. Bh3 Nxe3 23. Qxe3 Qc5 24. Qg3 exf5 25. Bxf5 Bxf5 26. Rxf5 Qb4 27. Re1 Qxb2
+28. Nd5 Bd8 29. gxf6 Rf7 30. fxg7 Qxg7 31. Qh3 Qh6 32. Rxf7 Kxf7 33. Rf1+ Ke8
+34. Nf6+ Bxf6 35. Qe6+ Kd8 36. Qxd6+ Ke8 37. Qe6+ 1-0
+
+[Event "CHN-ch (Women)"]
+[Site "Beijing"]
+[Date "2008.05.29"]
+[Round "1"]
+[White "Xu Tong"]
+[Black "Zhao Xue"]
+[Result "0-1"]
+[ECO "B91"]
+[WhiteElo "2188"]
+[BlackElo "2523"]
+[PlyCount "206"]
+[EventDate "2008.05.29"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 Be7 8. Bg2
+O-O 9. a4 Bg4 10. Qd3 Nc6 11. Be3 Rc8 12. O-O Be6 13. Bg5 Nd4 14. Qd1 Nxb3 15.
+cxb3 Qa5 16. Bxf6 Bxf6 17. Qxd6 Bxb3 18. Nd5 Bxd5 19. Qxd5 Qb4 20. Ra3 Rc4 21.
+Rc3 Rd4 22. Qb3 Qxa4 23. Qxb7 Rb4 24. Qc6 Qxc6 25. Rxc6 a5 26. Ra1 Bd8 27. Ra2
+g6 28. Rc2 Bb6 29. Re2 Rc8 30. Bf3 h5 31. h4 Kg7 32. Kg2 Ra8 33. Rd2 Bd4 34.
+Bd1 a4 35. Kf1 Kf6 36. Kg2 Ke6 37. Kf1 Ra7 38. Kg2 Ke7 39. Kf1 Bc5 40. Bc2 Ra6
+41. Kg2 Ra7 42. Kf1 Bd4 43. Bd1 Kd6 44. Rd3 Kc5 45. Rda3 Rab7 46. Rxa4 Rxb2 47.
+Ra5+ Kc4 48. Be2+ Kc3 49. R5a3+ R2b3 50. Kg2 R7b6 51. Rxb3+ Rxb3 52. Kf1 Bc5
+53. Kg2 Rb4 54. Bf3 Rb6 55. Be2 Rf6 56. f3 Rb6 57. Bf1 Rb1 58. Re2 Ra1 59. f4
+Bd4 60. fxe5 Bxe5 61. Re3+ Kd4 62. Rf3 Ra7 63. Bd3 Ra2+ 64. Kh3 Rb2 65. Bf1 Rc2
+66. Rxf7 Rc3 67. Kg2 Rxg3+ 68. Kf2 Rb3 69. Rd7+ Kxe4 70. Rd8 Bf6 71. Rg8 Bxh4+
+72. Kg2 Kf5 73. Bc4 Rg3+ 74. Kh2 Kf6 75. Rf8+ Kg5 76. Rg8 Rf3 77. Bd5 Rf4 78.
+Bc6 Kh6 79. Be8 Kh7 80. Rxg6 Re4 81. Bf7 Re7 82. Re6 Rxf7 83. Kh3 Bg5 84. Ra6
+Rf3+ 85. Kg2 Rc3 86. Rb6 h4 87. Rb1 h3+ 88. Kh1 Kg6 89. Rg1 Kf5 90. Rb1 Rc2 91.
+Re1 Bf4 92. Rf1 Kg4 93. Re1 Kg3 94. Rg1+ Rg2 95. Re1 Rh2+ 96. Kg1 Rc2 97. Kh1
+Bd6 98. Re3+ Kg4 99. Re1 Bg3 100. Rf1 Bf2 101. Rd1 Be3 102. Rd4+ Kf3 103. Rd3
+Re2 0-1
+
+[Event "CHN-ch (Women)"]
+[Site "Beijing"]
+[Date "2008.05.30"]
+[Round "2"]
+[White "Ding Yixin"]
+[Black "Tan, Zhongyi"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2292"]

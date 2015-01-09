@@ -1,0 +1,600 @@
+[Site "Kavala"]
+[Date "2008.08.06"]
+[Round "8"]
+[White "Oleksienko, Michailo"]
+[Black "Janssen, Ruud"]
+[Result "1/2-1/2"]
+[ECO "C91"]
+[WhiteElo "2588"]
+[BlackElo "2503"]
+[PlyCount "132"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Be3 exd4 11. cxd4 Na5 12. Bc2 Nc4 13. Bc1 Nd7 14. b3 Ncb6 15.
+Nbd2 c5 16. h3 Bh5 17. g4 Bg6 18. Nf1 Rc8 19. d5 Bf6 20. Rb1 Bc3 21. Re3 b4 22.
+Ng3 Re8 23. Kg2 c4 24. h4 h6 25. g5 h5 26. Ne2 cxb3 27. axb3 Nc5 28. Ng3 Qd7
+29. Ng1 Be5 30. f3 a5 31. N1e2 a4 32. bxa4 Nc4 33. Rxb4 Nxe3+ 34. Bxe3 Bxg3 35.
+Kxg3 Nxe4+ 36. Bxe4 Bxe4 37. fxe4 Qg4+ 38. Kf2 Qxh4+ 39. Kf3 Qh3+ 40. Kf2 Qh4+
+41. Kf3 Qg4+ 42. Kf2 Rxe4 43. Rxe4 Qxe4 44. a5 h4 45. Qd4 Qh1 46. Bf4 h3 47.
+Bxd6 Qg2+ 48. Ke1 Re8 49. Qc4 h2 50. Bxh2 Qxh2 51. Kd1 Qe5 52. g6 fxg6 53. a6
+g5 54. Nd4 g4 55. d6+ Kh8 56. d7 Rd8 57. a7 g3 58. a8=Q Rxa8 59. Qc8+ Kh7 60.
+Qxa8 Qxd4+ 61. Ke2 Qxd7 62. Qe4+ g6 63. Qh4+ Kg7 64. Qxg3 Qf5 65. Qf3 Kf6 66.
+Qxf5+ Kxf5 1/2-1/2
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.07.31"]
+[Round "1"]
+[White "Dvirnyy, Daniyl"]
+[Black "Hrabal, Michal"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2358"]
+[BlackElo "1907"]
+[PlyCount "59"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. h3
+d6 9. c3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 c5 13. Nf1 cxd4 14. cxd4 Re8 15.
+Ng3 Bf8 16. d5 g6 17. Be3 Bg7 18. Qd2 Rc8 19. Rac1 Kh8 20. a4 Nb6 21. b3 Rb8
+22. a5 Nc8 23. Bd3 Nd7 24. b4 Ne7 25. h4 Bxd5 26. exd5 f5 27. Ng5 Rf8 28. Ne6
+Qe8 29. Nxf8 Bxf8 30. Bg5 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.07.31"]
+[Round "1"]
+[White "Karasik, Evgeni"]
+[Black "Hlavacek, Pavel"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2270"]
+[BlackElo "1889"]
+[PlyCount "63"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 d6 7. c3 Be7 8. Nbd2
+Na5 9. Bc2 c5 10. Nf1 Qc7 11. Ne3 O-O 12. O-O Bb7 13. Nf5 d5 14. Bg5 g6 15.
+Nxe7+ Qxe7 16. Nd2 Qe6 17. Qf3 Nd7 18. Bh6 Rfc8 19. Rfe1 d4 20. Qg3 b4 21. c4
+Nf6 22. Bd1 Rc7 23. f4 Nc6 24. Rf1 Re8 25. f5 Qd6 26. Qh4 Nd7 27. fxg6 fxg6 28.
+Bg4 Nf8 29. Rf6 Ne6 30. Raf1 Ncd8 31. Qf2 Qe7 32. Bxe6+ 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Frisk, Ellinor"]
+[Black "Simacek, Pavel"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2102"]
+[BlackElo "2470"]
+[PlyCount "82"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Nc3 Ngf6 5. Bc4 Be7 6. dxe5 Nxe5 7. Nxe5 dxe5
+8. O-O c6 9. Qe2 b5 10. Bd3 Be6 11. a4 a6 12. axb5 axb5 13. Rxa8 Qxa8 14. Bg5
+O-O 15. Kh1 Qd8 16. Nd1 Nd7 17. Bxe7 Qxe7 18. c3 Ra8 19. Ne3 Qc5 20. Rd1 g6 21.
+h3 Kg7 22. Qd2 Nb6 23. Rc1 Rd8 24. Qc2 Na4 25. b4 Qb6 26. Rd1 c5 27. Be2 Rc8
+28. Qd2 cxb4 29. cxb4 Nc3 30. Rf1 Nxe4 31. Qd3 Qd4 32. Qxb5 Nxf2+ 33. Rxf2 Qxe3
+34. Rf3 Rc1+ 35. Kh2 Qd4 36. Qa5 Qg1+ 37. Kg3 Qe1+ 38. Rf2 Rc3+ 39. Bf3 Qe3 40.
+Rb2 Qf4+ 41. Kf2 Rxf3+ 0-1
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Vrana, Jan"]
+[Black "Stovring, Claus"]
+[Result "1-0"]
+[ECO "C36"]
+[WhiteElo "2234"]
+[BlackElo "2042"]
+[PlyCount "35"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bc4 Nxd5 6. O-O Be7 7. d4 O-O 8.
+Bxd5 Qxd5 9. Bxf4 c5 10. Nc3 Qf5 11. Qd2 Be6 12. d5 Bd7 13. Rae1 Bf6 14. Bd6
+Rc8 15. Ne5 Qh5 16. Bxb8 Rcxb8 17. Rxf6 gxf6 18. Nxd7 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.03"]
+[Round "4"]
+[White "Macicek, Jakub"]
+[Black "Trunda, Otakar"]
+[Result "1-0"]
+[ECO "C39"]
+[WhiteElo "2121"]
+[BlackElo "1951"]
+[PlyCount "47"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 d6 6. Nxg4 Nf6 7. Nxf6+ Qxf6 8.
+Nc3 Nc6 9. Bb5 Qg6 10. Qf3 Bh6 11. d3 Bd7 12. Ne2 O-O-O 13. Nxf4 Bxf4 14. Bxf4
+Bg4 15. Qf2 f5 16. Bxc6 bxc6 17. O-O Rhg8 18. exf5 Bxf5 19. Qf3 Rdf8 20. Rf2
+Be6 21. Qxc6 Bh3 22. Bxd6 Qxd6 23. Qxd6 Rxf2 24. Qa6+ 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.03"]
+[Round "4"]
+[White "Soban, Jaroslav"]
+[Black "Marotzke, Joerg"]
+[Result "1-0"]
+[ECO "C25"]
+[WhiteElo "2151"]
+[BlackElo "1985"]
+[PlyCount "45"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 d6 5. Nge2 f5 6. O-O Nf6 7. exf5 Bxf5 8.
+Na4 Bb6 9. Nxb6 axb6 10. d4 O-O 11. Bg5 Qc8 12. dxe5 dxe5 13. f4 e4 14. Re1 Ng4
+15. Nd4 Nxd4 16. Qxd4 e3 17. h3 Nf2 18. g4 Bxg4 19. hxg4 h6 20. Be7 Qxg4 21.
+Bxf8 Nh3+ 22. Kh2 Nxf4 23. Qxg7+ 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.03"]
+[Round "4"]
+[White "Vrana, Jan"]
+[Black "Ricca, Giorgio"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "2234"]
+[BlackElo "2065"]
+[PlyCount "85"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. f4 Qh4+ 3. g3 Qe7 4. d3 d5 5. Nc3 dxe4 6. dxe4 Nf6 7. f5 Nc6 8. Be3
+Qb4 9. a3 Qd6 10. Nf3 a6 11. Bc4 Qxd1+ 12. Rxd1 Bd6 13. h3 b5 14. Bd3 Bb7 15.
+O-O Ne7 16. g4 h6 17. Bf2 Nd7 18. Ne2 h5 19. Be3 Nc5 20. Nc3 hxg4 21. hxg4 f6
+22. Kg2 O-O-O 23. Rh1 g5 24. Rxh8 Rxh8 25. b4 Nxd3 26. cxd3 Nc6 27. Nd5 Rh6 28.
+Rh1 Rxh1 29. Kxh1 Be7 30. Kg2 Kd7 31. Nxe7 Kxe7 32. Kf2 Nb8 33. Bc5+ Kf7 34.
+Ke3 Nd7 35. d4 Bc6 36. Ba7 Ke7 37. Kd3 Kd6 38. Bc5+ Nxc5+ 39. bxc5+ Ke7 40.
+dxe5 b4 41. exf6+ Kxf6 42. axb4 Bb5+ 43. Ke3 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.03"]
+[Round "5"]
+[White "Faerman, Igor"]
+[Black "Macicek, Jakub"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2245"]
+[BlackElo "2121"]
+[PlyCount "37"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. Nc3 Nxc3 6. bxc3 Be7 7. d4 Bf5 8.
+Ne3 Bg6 9. Rb1 Qc8 10. h4 h6 11. h5 Bh7 12. Qf3 c6 13. Bd3 Bxd3 14. cxd3 g6 15.
+hxg6 fxg6 16. Qe4 Kf7 17. Ng4 h5 18. Nh6+ Kf6 19. Rh3 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.03"]
+[Round "5"]
+[White "Pesce, Gabriele"]
+[Black "Kolasin, Jan"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2102"]
+[BlackElo "1942"]
+[PlyCount "82"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. exd5 exd5 5. d4 c6 6. Bd3 Bd6 7. O-O O-O 8.
+Bg5 Bg4 9. Re1 Nbd7 10. Bh4 Qb6 11. Rb1 Rfe8 12. Ne2 Qc7 13. Bg3 Bxf3 14. gxf3
+Nf8 15. c4 Ng6 16. c5 Bxg3 17. hxg3 Re7 18. Qd2 Rae8 19. Nc3 Rxe1+ 20. Rxe1
+Rxe1+ 21. Qxe1 Qe7 22. Qxe7 Nxe7 23. Kf1 Ne8 24. Ke2 f5 25. f4 Nc7 26. b4 Kf7
+27. Ke3 Kf6 28. b5 cxb5 29. Nxb5 Nxb5 30. Bxb5 Nc6 31. Kd3 g5 32. Bxc6 bxc6 33.
+fxg5+ Kxg5 34. Ke2 Kg4 35. Ke3 h5 36. a3 a6 37. a4 a5 38. Ke2 f4 39. gxf4 Kxf4
+40. f3 h4 41. Kf2 h3 0-1
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.04"]
+[Round "6"]
+[White "Dvirnyy, Daniyl"]
+[Black "Karasik, Evgeni"]
+[Result "1/2-1/2"]
+[ECO "C72"]
+[WhiteElo "2358"]
+[BlackElo "2270"]
+[PlyCount "66"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. Bxc6+ bxc6 8. d4
+Bxf3 9. Qxf3 exd4 10. Rd1 Qf6 11. Qb3 Ne7 12. Qb7 Rd8 13. Qxc7 g5 14. Rd3 g4
+15. Nd2 Rg8 16. h4 Qxh4 17. g3 Qf6 18. Nc4 Rd7 19. Qb8+ Rd8 20. Qc7 Rd7 21.
+Qb8+ Rd8 22. Qb6 Bg7 23. Bf4 Qe6 24. Qxa6 Be5 25. Nxe5 dxe5 26. Bd2 h4 27. Bb4
+hxg3 28. fxg3 Rh8 29. Qb7 Rd7 30. Qb8+ Rd8 31. Qb7 Rd7 32. Qb8+ Rd8 33. Qb7 Rd7
+1/2-1/2
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.04"]
+[Round "6"]
+[White "Maslak, Konstantin"]
+[Black "Simacek, Pavel"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2521"]
+[BlackElo "2470"]
+[PlyCount "50"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. c3 O-O 6. Nbd2 d6 7. Bb3 Be6 8. Qe2
+Qd7 9. Nf1 d5 10. Ng3 Rad8 11. O-O d4 12. Ba4 Bg4 13. Bxc6 Bxf3 14. Qxf3 Qxc6
+15. Nf5 Rfe8 16. cxd4 exd4 17. Bf4 Qb6 18. Rac1 c5 19. b3 Bf8 20. Bg5 Rd7 21.
+Qh3 Rc7 22. Qg3 Rec8 23. Rfe1 Ne8 24. Bf4 Rc6 25. Qh3 Qd8 1/2-1/2
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.04"]
+[Round "6"]
+[White "Schmid, Thomas1"]
+[Black "Ricca, Giorgio"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2173"]
+[BlackElo "2065"]
+[PlyCount "61"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Nb4 9. Be2 O-O 10. Nc3 c5 11. cxd5 Nxc3 12. bxc3 Nxd5 13. Qb3 cxd4 14. Nxd4 Qa5
+15. Bd2 Bf6 16. Rfd1 Qc5 17. Bf3 Rd8 18. Rab1 b6 19. Be1 Ba6 20. Nb5 Bxb5 21.
+Rxd5 Rxd5 22. Bxd5 Bc6 23. Bxf7+ Kh8 24. Qc4 Qd6 25. Qg4 Rf8 26. Qh5 Be5 27.
+Bb3 Be8 28. Qh3 Bd7 29. Qh5 Be8 30. Qh3 Bd7 31. Qh5 1/2-1/2
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.04"]
+[Round "6"]
+[White "Soban, Jaroslav"]
+[Black "Jancarik, Joel"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[WhiteElo "2151"]
+[BlackElo "2024"]
+[PlyCount "66"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Bg5 Na5 6. Qd2 Nxc4 7. dxc4 Bb4 8.
+f3 d6 9. Nge2 h6 10. Be3 Be6 11. Qd3 Nd7 12. a3 Bc5 13. Bd2 a5 14. Na4 Rf8 15.
+O-O-O f5 16. exf5 Bxf5 17. Qc3 Qf6 18. Nxc5 Nxc5 19. Be3 b6 20. Ng3 Bh7 21.
+Rhf1 O-O-O 22. Bxc5 dxc5 23. Rxd8+ Rxd8 24. Re1 Rd4 25. b3 Qh4 26. Rh1 Qf4+ 27.
+Kb1 Rd2 28. Rc1 Rxg2 29. Ne4 Bxe4 30. fxe4 Qxh2 31. Qd3 Rg1 32. Rd1 Rxd1+ 33.
+Qxd1 Qg3 1/2-1/2
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.04"]
+[Round "6"]
+[White "Vrana, Jan"]
+[Black "Frisk, Ellinor"]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "2234"]
+[BlackElo "2102"]
+[PlyCount "59"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6 8.
+Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 11. Bb3 Qc7 12. Qf3 Bd6 13. h3 O-O 14. Bg5
+Nd7 15. c3 b5 16. Rfe1 Bb7 17. Qe2 Nc5 18. Bc2 e5 19. Nf5 Qc6 20. f3 f6 21.
+Rad1 fxg5 22. Nxd6 Qb6 23. Qf2 Bc6 24. Rxe5 Na4 25. Bb3+ Kh8 26. Qxb6 Nxb6 27.
+Nf7+ Rxf7 28. Bxf7 Na4 29. Rd6 Bb7 30. Re7 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.05"]
+[Round "7"]
+[White "Kilpela, Panu"]
+[Black "Fiala, Jiri"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2129"]
+[BlackElo "2043"]
+[PlyCount "70"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 Nc6 5. d4 cxd4 6. cxd4 Nge7 7. a3 Qb6 8. b4
+Bd7 9. Bb2 a6 10. Bd3 Ng6 11. h4 Nf4 12. Bf1 Ng6 13. h5 Nge7 14. Bd3 Nf5 15.
+Bxf5 exf5 16. Nc3 Be6 17. Qd3 Qd8 18. Na4 b5 19. Nc5 Bxc5 20. dxc5 h6 21. Qd2
+O-O 22. Qf4 a5 23. Rb1 axb4 24. axb4 Ra4 25. Bc3 Ra3 26. Bd2 Ra2 27. Rh3 Kh7
+28. Nd4 Nxd4 29. Qxd4 Rc2 30. Bc3 Ra2 31. Qd3 Qd7 32. Re3 Kh8 33. Re2 Rfa8 34.
+Rxa2 Rxa2 35. Ra1 Rxa1+ 1/2-1/2
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.05"]
+[Round "7"]
+[White "Matousek, Petr"]
+[Black "Hlavacek, Pavel"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2126"]
+[BlackElo "1889"]
+[PlyCount "47"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Bc5 6. dxc6 Nxf2 7. Qd5 dxc6 8.
+Qxc5 Qd1+ 9. Kxf2 Qxc1 10. Qxe5+ Be6 11. Qe1 Qxb2+ 12. Nbd2 O-O-O 13. Qc1 Qb6+
+14. Kg3 h5 15. h4 Rh6 16. Ne4 Rg6+ 17. Kh2 Rg4 18. Rb1 Qa5 19. Qe3 Bxa2 20. Be2
+a6 21. Nc5 Bd5 22. Rxb7 Bxf3 23. Qxf3 Rxh4+ 24. Kg3 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.05"]
+[Round "7"]
+[White "Simacek, Pavel"]
+[Black "Vrana, Jan"]
+[Result "1-0"]
+[ECO "C22"]
+[WhiteElo "2470"]
+[BlackElo "2234"]
+[PlyCount "53"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O Re8
+8. Bc4 d6 9. Nf3 Be6 10. Bxe6 Rxe6 11. Ng5 Re8 12. f4 h6 13. h4 Kf8 14. a3 Ba5
+15. Qd3 hxg5 16. hxg5 Bxc3 17. Bxc3 Nd7 18. Rh7 Ke7 19. Bxg7 Rg8 20. Qb3 Qe8
+21. Qxb7 Rxg7 22. Rxg7 Qh8 23. Qxc6 Rd8 24. Rxf7+ Kxf7 25. Qxc7 Qf8 26. Rxd6
+Ke7 27. f5 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.05"]
+[Round "7"]
+[White "Trunda, Otakar"]
+[Black "Mathon, Dimitrij"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "1951"]
+[BlackElo "1810"]
+[PlyCount "57"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 d6 4. Nxd4 Nc6 5. Be3 Be7 6. Nc3 Nf6 7. Bc4 O-O 8.
+f3 Ne5 9. Bb3 c5 10. Nf5 Bxf5 11. exf5 c4 12. Ba4 a6 13. g4 b5 14. g5 Ne8 15.
+f4 bxa4 16. Rg1 Nd7 17. Bd4 Bf6 18. gxf6 Nexf6 19. Qf3 Re8+ 20. Kd2 Nc5 21.
+Rae1 Rxe1 22. Rxe1 Rb8 23. Nd5 Nxd5 24. Qxd5 a3 25. Rg1 Qa5+ 26. Kd1 Ne6 27.
+Qxa5 axb2 28. Bxb2 Rxb2 29. fxe6 1-0
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.06"]
+[Round "8"]
+[White "Dvirnyy, Daniyl"]
+[Black "Maslak, Konstantin"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[WhiteElo "2358"]
+[BlackElo "2521"]
+[PlyCount "17"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 Nf6 5. Bd3 c5 6. exd5 Qxd5 7. dxc5 Qxc5 8.
+O-O O-O 9. Nb3 1/2-1/2
+
+[Event "Olomouc op"]
+[Site "Olomouc"]
+[Date "2008.08.06"]
+[Round "8"]
+[White "Vrana, Jan"]
+[Black "Matousek, Petr"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2234"]
+[BlackElo "2126"]
+[PlyCount "66"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
+Ng3 Bd6 9. c4 O-O 10. Bd2 Bxg3 11. hxg3 Be4 12. Be2 c5 13. Bc3 Qc7 14. dxc5
+Rfd8 15. b4 Nxc5 16. Nd2 Na6 17. Qb3 Bd3 18. Rfe1 Bxe2 19. Rxe2 Ne8 20. Rc1 Qd7
+21. Nf3 f6 22. c5 Nec7 23. Nd4 Re8 24. Bb2 Nd5 25. b5 Nac7 26. a4 e5 27. c6
+bxc6 28. bxc6 Qg4 29. f3 Qxg3 30. Nb5 Kh8 31. Rd2 e4 32. Nxc7 exf3 33. Qxd5
+Re1+ 1/2-1/2
+
+[Event "Sochi FIDE GP"]
+[Site "Sochi"]
+[Date "2008.07.31"]
+[Round "1"]
+[White "Cheparinov, Ivan"]
+[Black "Gashimov, Vugar"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2687"]
+[BlackElo "2717"]
+[PlyCount "89"]
+[EventDate "2008.07.31"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nd6 8.
+Bf4 O-O 9. Re1 Re8 10. Nc3 c6 11. Ne2 Nd7 12. Ng3 Nf8 13. Ne5 f6 14. Nf3 Be6
+15. c3 Qd7 16. Qc2 Bf7 17. Nh4 g6 18. Bh6 Ne6 19. Nf3 Bf8 20. Qd2 Qe7 21. b3
+Bxh6 22. Qxh6 Qf8 23. Qd2 g5 24. h4 h6 25. c4 b6 26. Rac1 Rad8 27. cxd5 cxd5
+28. Nh2 Nf4 29. Ng4 Qg7 30. Rxe8+ Bxe8 31. Nf5 Nxf5 32. Bxf5 Bg6 33. Bxg6 Qxg6
+34. Rc6 Rf8 35. g3 h5 36. Nxf6+ Rxf6 37. Rxf6 Qxf6 38. gxf4 gxf4 39. Qe2 Qxh4
+40. Qe6+ Kg7 41. Qd7+ Kg6 42. Qe8+ Kg7 43. Qd7+ Kg6 44. Qe8+ Kg7 45. Qd7+
+1/2-1/2
+
+[Event "Sochi FIDE GP"]
+[Site "Sochi"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Al Modiahki, Mohamad"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[WhiteElo "2556"]
+[BlackElo "2728"]
+[PlyCount "68"]
+[EventDate "2008.07.31"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8.
+Bd3 Qa5 9. Ne2 Ng6 10. Bd2 dxc3 11. Nxc3 Qc7 12. f4 a6 13. h4 h5 14. Qg3 Nc6
+15. O-O Nce7 16. Ne2 Nf5 17. Bxf5 exf5 18. Nd4 Qc5 19. Be3 Qe7 20. Bf2 Be6 21.
+Rab1 b5 22. a4 O-O 23. axb5 axb5 24. Rxb5 Rfc8 25. Rb6 Nf8 26. Qd3 g6 27. Ra6
+Bd7 28. Rfa1 Qe8 29. Rxa8 Rxa8 30. Rxa8 Qxa8 31. Kh2 Ne6 32. Nxe6 Bxe6 33. Bd4
+Qd8 34. Qg3 Qe7 1/2-1/2
+
+[Event "Sochi FIDE GP"]
+[Site "Sochi"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Gashimov, Vugar"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[WhiteElo "2717"]
+[BlackElo "2720"]
+[PlyCount "77"]
+[EventDate "2008.07.31"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nc3 Nxe5 7. dxe5 Nxc3
+8. bxc3 Be7 9. Qh5 Be6 10. Rb1 Qd7 11. Bg5 c6 12. O-O Bxg5 13. Qxg5 O-O 14. f4
+h6 15. Qg3 f5 16. h3 b6 17. Kh2 c5 18. Rfd1 Rad8 19. Be2 Kh7 20. Rd2 Qa4 21.
+Rbd1 Qxa2 22. c4 d4 23. c3 Qa3 24. cxd4 Qxg3+ 25. Kxg3 Rxd4 26. Rxd4 cxd4 27.
+Rxd4 Kg6 28. Rd6 Kf7 29. Bf3 Ke7 30. Bd5 Bxd5 31. cxd5 Rd8 32. Rxd8 Kxd8 33.
+Kf3 a5 34. Ke3 a4 35. Kd3 a3 36. Kc3 b5 37. Kb3 b4 38. h4 h5 39. g3 1/2-1/2
+
+[Event "Sochi FIDE GP"]
+[Site "Sochi"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Karjakin, Sergey"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2727"]
+[BlackElo "2704"]
+[PlyCount "81"]
+[EventDate "2008.07.31"]

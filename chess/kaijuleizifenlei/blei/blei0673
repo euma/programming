@@ -1,0 +1,600 @@
+[ECO "B29"]
+[WhiteElo "2479"]
+[BlackElo "2242"]
+[PlyCount "97"]
+[EventDate "2008.03.02"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Zuerich"]
+[BlackTeam "Luzern"]
+[WhiteTeamCountry "SUI"]
+[BlackTeamCountry "SUI"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Ne4 f5 6. Nc3 Nc6 7. Nxd5 exd5 8. d4
+d6 9. exd6 Bxd6 10. dxc5 Bxc5 11. Be2 O-O 12. O-O f4 13. a3 a5 14. b3 Bg4 15.
+Bb2 Qd6 16. Ng5 Bf5 17. c4 d4 18. Bd3 Qg6 19. Bxf5 Qxf5 20. Nf3 Rad8 21. Re1
+Rd6 22. Qd2 g5 23. h3 h5 24. Nh2 g4 25. hxg4 hxg4 26. Qe2 g3 27. Ng4 Rg6 28. b4
+Ba7 29. c5 Rxg4 30. f3 Rg6 31. Qc4+ Kh7 32. Re4 Qh5 33. Bxd4 Nxd4 34. Qxd4 Qh2+
+35. Kf1 Qh1+ 36. Qg1 Qxg1+ 37. Kxg1 axb4 38. axb4 Bb8 39. Rd1 Rg7 40. Kf1 Rff7
+41. b5 Rg5 42. Rc4 Re7 43. Re1 Rxe1+ 44. Kxe1 Rd5 45. b6 Kg6 46. c6 bxc6 47.
+Rxc6+ Rd6 48. Rxd6+ Bxd6 49. Kf1 1/2-1/2
+
+[Event "SUI-chT"]
+[Site "Switzerland"]
+[Date "2008.09.21"]
+[Round "9.6"]
+[White "Vezzosi, Paolo"]
+[Black "Wirthensohn, Heinz"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2298"]
+[BlackElo "2372"]
+[PlyCount "76"]
+[EventDate "2008.03.02"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Mendrisio"]
+[BlackTeam "Reichenstein"]
+[WhiteTeamCountry "SUI"]
+[BlackTeamCountry "SUI"]
+
+1. d4 d5 2. Bf4 c5 3. e3 Nc6 4. Nc3 cxd4 5. exd4 Bf5 6. Nf3 e6 7. Be2 Nf6 8.
+O-O Bd6 9. Bxd6 Qxd6 10. Nb5 Qe7 11. c3 a6 12. Na3 b5 13. Nc2 Bxc2 14. Qxc2 O-O
+15. Bd3 b4 16. Rac1 Rfc8 17. Rfe1 bxc3 18. Qxc3 Qb7 19. Qd2 Nb4 20. Bb1 a5 21.
+Ne5 Nc6 22. Nxc6 Rxc6 23. Rxc6 Qxc6 24. Rc1 Qb6 25. g3 g6 26. Qc3 Rb8 27. b3
+Qb4 28. Qe3 Ne8 29. h4 a4 30. Bd3 axb3 31. axb3 Qe7 32. Rc3 h5 33. Qe5 Qd6 34.
+Kg2 Qxe5 35. dxe5 d4 36. Rc4 Rxb3 37. Rxd4 Nc7 38. Rd7 Rc3 1/2-1/2
+
+[Event "SUI-chT"]
+[Site "Switzerland"]
+[Date "2008.09.21"]
+[Round "9.3"]
+[White "Zenklusen, Rico"]
+[Black "Cvitan, Ognjen"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2378"]
+[BlackElo "2506"]
+[PlyCount "28"]
+[EventDate "2008.03.02"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Wollishofen"]
+[BlackTeam "Riehen"]
+[WhiteTeamCountry "SUI"]
+[BlackTeamCountry "SUI"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O e5 7. Ne2 Bc5 8. Bg5
+h6 9. Bxf6 Qxf6 10. Nbc3 d6 11. Nd5 Qd8 12. b4 Ba7 13. Bc4 O-O 14. Qd3 Nc6
+1/2-1/2
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.03"]
+[Round "1"]
+[White "Bojkovic, Natasa"]
+[Black "Stojanovic, Andjelija"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2408"]
+[BlackElo "2310"]
+[PlyCount "125"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 e6 7. Bc4 d6 8. O-O
+Be7 9. Qe2 O-O 10. Qe4 Ndb4 11. exd6 Qxd6 12. Nc3 Na5 13. Be2 Nd5 14. Bd3 f5
+15. Qe2 a6 16. Bd2 Nc6 17. Bc4 Bf6 18. Rad1 Bd7 19. Bg5 Bxg5 20. Nxg5 Rae8 21.
+Nf3 b5 22. Bb3 Na5 23. Qe5 Qxe5 24. Nxe5 Nxc3 25. bxc3 Bc8 26. Rfe1 Rd8 27. Nd3
+Rd6 28. Nc5 Re8 29. f4 Kf8 30. Re3 Nb7 31. Nd3 Na5 32. Rde1 Nxb3 33. axb3 Bb7
+34. Nc5 Bd5 35. Ra1 Kf7 36. Re2 Kf6 37. Rea2 Ra8 38. Kf2 h6 39. h4 g5 40. hxg5+
+hxg5 41. fxg5+ Kxg5 42. Ra5 Kf6 43. Rh1 Rg8 44. Rh6+ Kg5 45. Rh2 Rc6 46. b4 Re8
+47. Ra1 e5 48. Rah1 Bf7 49. Rh7 Bg6 50. Rd7 e4 51. d5 Rf6 52. Ne6+ Kg4 53. g3
+Rexe6 54. dxe6 Rxe6 55. Rhd1 e3+ 56. Ke2 Kxg3 57. Rg1+ Kh2 58. Rg5 f4 59. Rd8
+f3+ 60. Kxf3 Bh7 61. Rh8 Re7 62. Rh5+ Kg1 63. R8xh7 1-0
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.03"]
+[Round "1"]
+[White "Makropoulou, Marina"]
+[Black "Benderac, Ana"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2250"]
+[BlackElo "2324"]
+[PlyCount "194"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 Qc7 8.
+Ne2 Be6 9. Ng3 Nd7 10. Ne4 O-O-O 11. Nxd6+ Qxd6 12. O-O h5 13. Be3 f5 14. Qf3
+g6 15. Bf4 Qd5 16. Qxd5 Bxd5 17. f3 f6 18. h4 Rhe8 19. Kf2 Bf7 20. Rfe1 Nf8 21.
+Rxe8 Rxe8 22. b3 Ne6 23. Bd2 Nc7 24. Re1 Rxe1 25. Kxe1 Kd7 26. Kd1 Ne6 27. Kc2
+a6 28. Be3 f4 29. Bf2 Nf8 30. c4 g5 31. Kc3 g4 32. Be1 Bg6 33. Be2 Bf5 34. fxg4
+Bxg4 35. Bd3 Ke6 36. b4 f3 37. Be4 fxg2 38. Bxg2 f5 39. d5+ Kd7 40. Kd4 Ng6 41.
+dxc6+ bxc6 42. Kc5 Ne5 43. Bc3 Nd3+ 44. Kb6 Be2 45. Bxc6+ Ke7 46. b5 axb5 47.
+Bxb5 f4 48. c5 f3 49. Bxd3 Bxd3 50. Bd4 Kd8 51. a4 Be4 52. c6 Kc8 53. Bf2 Kb8
+54. a5 Ka8 55. Kc7 Bf5 56. Kd8 Bd3 57. Bg3 Bb5 58. Kd7 Bd3 59. Kd6 Ba6 60. Kc5
+Bd3 61. Bf2 Bf5 62. Kd6 Bd3 63. Kd7 Bf5+ 64. Kd8 Bd3 65. Bb6 Be4 66. Kd7 Bf5+
+67. Kc7 Bd3 68. Bf2 Bf5 69. Kb6 Bd3 70. c7 Ba6 71. Bg3 Bc8 72. Kc6 Bb7+ 73. Kd7
+Ba6 74. Kd8 Bb7 75. Ke7 Bc8 76. Bf2 Kb7 77. Kd8 Ka8 78. Be3 Ba6 79. Bd4 Bb7 80.
+Kd7 Ba6 81. Ke7 Bc8 82. Bb6 Ba6 83. Kd7 Bb7 84. Kd8 Ba6 85. Bf2 Bb7 86. Be1 Ba6
+87. Ke7 Bc8 88. Bf2 Kb7 89. Kd8 Ka8 90. Bc5 Ba6 91. Be3 Bb7 92. Kd7 Ba6 93. Kc6
+Bb7+ 94. Kb6 Bc8 95. a6 f2 96. Bxf2 Bxa6 97. Kc6 Bc8 1/2-1/2
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.03"]
+[Round "1"]
+[White "Petrenko, Svetlana"]
+[Black "Chelushkina, Irina"]
+[Result "1-0"]
+[ECO "B58"]
+[WhiteElo "2282"]
+[BlackElo "2357"]
+[PlyCount "231"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nf3 Be7 8.
+O-O O-O 9. b3 a5 10. a3 Be6 11. Bb2 Rc8 12. Qd2 h6 13. h3 Nb8 14. Qe3 Nbd7 15.
+Rad1 Qb6 16. Qc1 Nc5 17. Nd2 Qc6 18. Bb5 Qc7 19. Be2 Qb8 20. Qa1 Rfd8 21. Rfe1
+Bf8 22. Bf1 Bd7 23. a4 Bc6 24. Bc4 Na6 25. Bxa6 bxa6 26. Nc4 Bd7 27. Nd5 Nxd5
+28. exd5 Bf5 29. Re2 Bg6 30. Bc3 f5 31. Bxa5 Bh5 32. f3 e4 33. Bxd8 Rxd8 34.
+Rf2 exf3 35. gxf3 Be7 36. Qd4 Bf6 37. Qb6 Qa8 38. Nxd6 Bh4 39. Rff1 Rf8 40. Qd4
+Qd8 41. Qe5 Kh7 42. Kh2 Bf6 43. Qxf5+ Bg6 44. Qe6 Qc7 45. Kh1 Qxc2 46. Rg1 Qxb3
+47. Qg4 Bc2 48. Ne4 Be5 49. Rdf1 Qxd5 50. Qg6+ Kh8 51. Rg4 Qd3 52. Rgg1 Qd7 53.
+Qg2 Bxa4 54. Nc5 Qb5 55. Ne6 Rg8 56. f4 Bf6 57. Rc1 Bb3 58. Nc7 Qf5 59. Qf3 Bf7
+60. Qe3 Rc8 61. Nxa6 Re8 62. Qg3 Bd5+ 63. Rg2 Re2 64. Rcg1 Rxg2 65. Rxg2 Qe4
+66. Nc5 Qc4 67. Nd3 Be4 68. Nf2 Qc1+ 69. Kh2 Bd5 70. Rg1 Qc4 71. Re1 Bf7 72.
+Ng4 Qc2+ 73. Qf2 Qxf2+ 74. Nxf2 Bh4 75. Kg1 Kh7 76. Re3 Bf6 77. Kg2 Bd5+ 78.
+Kg3 h5 79. h4 Kg6 80. Rd3 Bc6 81. Rd6 Bb7 82. Nd3 Be4 83. Nc5 Bc2 84. Nd7 Bf5
+85. Ne5+ Kh7 86. Nf3 Bg4 87. Ne5 Bf5 88. Ra6 Be4 89. Ra5 Kh6 90. Nf7+ Kg6 91.
+Nd6 Bd3 92. Ra3 Bc2 93. Ra5 Bd3 94. f5+ Kh7 95. Nf7 Kg8 96. Ng5 Kf8 97. Kf4 Ke7
+98. Ra7+ Kd6 99. Nf7+ Kc5 100. Ne5 Bb5 101. Nf3 Kb6 102. Rf7 Be2 103. Ng5 Bg4
+104. Ne6 Bxh4 105. Rxg7 Kc6 106. Ng5 Kd6 107. Ne4+ Kd5 108. Rd7+ Kc6 109. Rd6+
+Kc7 110. f6 Bd7 111. Rd4 Be8 112. Kf5 Be1 113. Ng5 Bd7+ 114. Kg6 Bf2 115. Rc4+
+Kd8 116. f7 1-0
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.04"]
+[Round "2"]
+[White "Benderac, Ana"]
+[Black "Petrenko, Svetlana"]
+[Result "0-1"]
+[ECO "B19"]
+[WhiteElo "2324"]
+[BlackElo "2282"]
+[PlyCount "146"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Nf6 11. Bd2 Nbd7 12. Kf1 Qc7 13. Qe2 Be7 14. Re1 O-O-O
+15. c4 Rhe8 16. b4 Nh7 17. c5 Nhf6 18. Rh4 Nd5 19. Rg4 Bf8 20. Ne5 f5 21. Nxd7
+fxg4 22. Ne5 Nf6 23. Be3 Rd5 24. Nxg4 Nxh5 25. Nxh5 Rxh5 26. Kg1 Rf5 27. g3 g5
+28. Ne5 Rd8 29. f4 gxf4 30. Bxf4 Qg7 31. Qe4 Rd5 32. b5 cxb5 33. Nf3 Rf6 34.
+Kf2 Qg6 35. Qe2 a6 36. a4 bxa4 37. Qc4 Qf7 38. Qxa4 Qd7 39. c6 bxc6 40. Rc1 c5
+41. Qxa6+ Qb7 42. Qa1 e5 43. Nxe5 Ra6 44. Qc3 Ra2+ 45. Rc2 Qb4 46. Kf1 Qxc3 47.
+Rxc3 Rxd4 48. Ke1 Re4+ 49. Kf1 Ree2 50. Ng6 Rh2 51. Kg1 Rhg2+ 52. Kf1 Rgf2+ 53.
+Kg1 Rg2+ 54. Kf1 Raf2+ 55. Ke1 Rb2 56. Kf1 Rh2 57. Kg1 Bg7 58. Rxc5+ Kd8 59.
+Rd5+ Ke8 60. Be5 Rbg2+ 61. Kf1 Bxe5 62. Rxe5+ Kf7 63. Nf4 Rxg3 64. Rf5+ Ke7 65.
+Ne2 Rgg2 66. Re5+ Kf6 67. Re3 h5 68. Nf4 Ra2 69. Kg1 Kf5 70. Nd3 Rhd2 71. Ne1
+h4 72. Rb3 Ra1 73. Kf1 Rdd1 0-1
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.04"]
+[Round "2"]
+[White "Bojkovic, Natasa"]
+[Black "Foisor, Cristina Adela B"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2408"]
+[BlackElo "2412"]
+[PlyCount "129"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 g6 3. Nf3 Bg7 4. Bd3 Na6 5. O-O Nc7 6. Re1 d6 7. Nbd2 Nh6 8. c3
+O-O 9. a4 d5 10. exd5 cxd5 11. b3 Nf5 12. Ba3 Re8 13. h4 Nd6 14. Qc2 Ne6 15. g3
+Nf8 16. h5 Bf5 17. hxg6 hxg6 18. Bxf5 Nxf5 19. Kg2 Rc8 20. Qd3 Qc7 21. Rac1 Nh7
+22. Rh1 b6 23. Bb2 Nf8 24. Rce1 f6 25. Nh4 Nxh4+ 26. Rxh4 Qd7 27. Nf1 Rc6 28.
+Ne3 f5 29. Nc2 Re6 30. Rhh1 Rc8 31. Bc1 Re4 32. f3 Re6 33. Bd2 Rxe1 34. Rxe1
+Rc6 35. Nb4 Re6 36. Rxe6 Nxe6 37. Qb5 Qxb5 38. axb5 Nc7 39. Nc6 Nxb5 40. Nxe7+
+Kf7 41. Nxd5 Bf8 42. Kf1 Bd6 43. f4 g5 44. Be3 gxf4 45. gxf4 Nc7 46. Nxc7 Bxc7
+47. Ke2 Ke6 48. Kd3 a6 49. c4 Kd7 50. d5 Bd6 51. Kc3 Bc7 52. b4 Ke7 53. c5 bxc5
+54. bxc5 Kd7 55. Kc4 Ba5 56. Bd4 Bd2 57. Be5 Be3 58. c6+ Ke7 59. d6+ Ke6 60. d7
+Bb6 61. Kb4 Ke7 62. Bb8 Ke6 63. Kc4 Ba5 64. Kc5 Bd8 65. c7 1-0
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.04"]
+[Round "2"]
+[White "Chelushkina, Irina"]
+[Black "Rakic, Marija"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2357"]
+[BlackElo "2218"]
+[PlyCount "78"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. g3 Nf6 2. Bg2 g6 3. e4 d6 4. Ne2 Bg7 5. O-O O-O 6. a4 e5 7. a5 c6 8. d4 d5
+9. exd5 Nxd5 10. c4 Nb4 11. Bd2 N8a6 12. Qb3 Qe7 13. Ra4 exd4 14. Re1 c5 15.
+Nxd4 Qd8 16. Nb5 Bf5 17. Be4 Bxe4 18. Rxe4 Re8 19. Rxe8+ Qxe8 20. N1c3 Rd8 21.
+Nd5 Rxd5 22. cxd5 Qxb5 23. Bxb4 Nxb4 24. a6 b6 25. d6 Qd7 26. Ra1 Qxd6 27. Re1
+Kf8 28. Qf3 Bd4 29. Re2 Nxa6 30. h4 Nc7 31. h5 Qd5 32. Qg4 Ne6 33. h6 a5 34. b3
+b5 35. Re1 a4 36. bxa4 bxa4 37. Qe2 a3 38. Qa6 a2 39. Qc8+ Ke7 0-1
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.04"]
+[Round "2"]
+[White "Stojanovic, Andjelija"]
+[Black "Houska, Jovanka"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2310"]
+[BlackElo "2393"]
+[PlyCount "81"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. d4 exd4 6. exd5 cxd5 7. Bb5+ Nc6 8.
+Nxd4 Bd7 9. N2f3 Nf6 10. O-O O-O 11. Bg5 Rc8 12. c3 Re8 13. Bd3 Nxd4 14. Nxd4
+Be5 15. Bf5 Bxf5 16. Nxf5 Qb6 17. Rb1 g6 18. Nh6+ Kg7 19. Ng4 Nxg4 20. Qxg4 d4
+21. cxd4 Bxd4 22. Rbd1 Bxb2 23. Rb1 Kg8 24. Be3 Qf6 25. Qb4 Rc2 26. Qxb7 Bd4
+27. Qb3 Rec8 28. Bxd4 Qxd4 29. Rbd1 Qc4 30. g3 Kg7 31. Rfe1 Rxa2 32. Qf3 Qc6
+33. Qf4 Qf6 34. Qxf6+ Kxf6 35. Rd7 a5 36. Ree7 Rf8 37. Ra7 h5 38. h4 Kg7 39.
+Kg2 Kf6 40. Reb7 Ra3 41. Rb6+ 1/2-1/2
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.05"]
+[Round "3"]
+[White "Makropoulou, Marina"]
+[Black "Bojkovic, Natasa"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2250"]
+[BlackElo "2408"]
+[PlyCount "72"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O Nc6 8.
+Nxc6 Bxc6 9. Qe2 Bc5 10. Be3 Bxe3 11. Qxe3 Ne7 12. Rad1 O-O 13. f4 f5 14. Kh1
+Qc7 15. Rf2 Rac8 16. a3 Qb7 17. exf5 Nxf5 18. Bxf5 Rxf5 19. Ne2 Rf6 20. Nd4 Bd5
+21. Nf3 Bxf3 22. Qxf3 Qxf3 23. gxf3 d5 24. Rd4 Rc4 25. Rxc4 bxc4 26. b4 Rxf4
+27. c3 e5 28. Kg2 Kf7 29. Rb2 Ke6 30. b5 axb5 31. Rxb5 d4 32. Kf2 dxc3 33. Rb1
+Kd5 34. Ke3 Rh4 35. Rc1 Rxh2 36. Rxc3 Ra2 0-1
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.06"]
+[Round "4"]
+[White "Stojanovic, Andjelija"]
+[Black "Chelushkina, Irina"]
+[Result "1-0"]
+[ECO "B57"]
+[WhiteElo "2310"]
+[BlackElo "2357"]
+[PlyCount "81"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Nxc6 bxc6 8.
+O-O g6 9. Be3 Qxb2 10. Bd4 Qb4 11. Bxf6 exf6 12. Qd4 Ke7 13. Rab1 Qc5 14. Nd5+
+cxd5 15. Qxc5 dxc5 16. Bxd5 Ba6 17. Bxa8 Bh6 18. Bd5 Bxf1 19. Rb7+ Kd6 20. Kxf1
+a5 21. Rb6+ Ke5 22. Rb5 f5 23. Rxc5 fxe4 24. Bxf7+ Kf6 25. Bd5 Bd2 26. Bxe4 Re8
+27. f3 Re7 28. Ke2 Bb4 29. Rc6+ Re6 30. Rc7 h5 31. c3 Bd6 32. Ra7 Be5 33. Kd3
+Rd6+ 34. Kc4 Bxh2 35. Rxa5 h4 36. a4 Rd2 37. Ra6+ Bd6 38. f4 g5 39. Bd5 Ke7 40.
+fxg5 Rf2 41. Ra7+ 1-0
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.08"]
+[Round "6"]
+[White "Makropoulou, Marina"]
+[Black "Petrenko, Svetlana"]
+[Result "1-0"]
+[ECO "B85"]
+[WhiteElo "2250"]
+[BlackElo "2282"]
+[PlyCount "89"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
+Nc6 9. Be3 a6 10. a4 Qc7 11. Kh1 Bd7 12. Qe1 Na5 13. Rd1 b6 14. Qg3 Rfc8 15. e5
+Ne8 16. Nf5 Nc6 17. exd6 Bxd6 18. Nxd6 Nxd6 19. f5 Nxf5 20. Qxc7 Rxc7 21. Bxb6
+Rb7 22. a5 Nb4 23. Rf4 Nc6 24. Bf3 Nfe7 25. Rc4 Be8 26. Rc5 Rd7 27. Rxd7 Bxd7
+28. b4 f5 29. Ne2 Rc8 30. c3 e5 31. Nc1 Kf7 32. Kg1 Kf6 33. Be2 Ra8 34. Kf2 e4
+35. g3 Ne5 36. Nb3 Be6 37. Nd4 Bd5 38. Rc7 Nd3+ 39. Ke3 Nb2 40. c4 Bf7 41. Nb3
+Na4 42. Bd4+ Ke6 43. Bxg7 Rb8 44. Nd4+ Kd6 45. Rxe7 1-0
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.09"]
+[Round "7"]
+[White "Petrenko, Svetlana"]
+[Black "Stojanovic, Andjelija"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2282"]
+[BlackElo "2310"]
+[PlyCount "111"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd3 Nge7 9. c3 Qg6 10. Nd2 O-O 11. Qg3 Qxg3 12. hxg3 d5 13. Be2 f5 14. exd5
+Nxd5 15. Bc4 Be6 16. Nf3 Nc7 17. Be2 h6 18. Be3 Nd5 19. Bc5 Rfe8 20. Nd2 b6 21.
+Ba3 e4 22. Rd1 e3 23. Nc4 exf2+ 24. Kxf2 Nf6 25. Nd6 Ne4+ 26. Nxe4 fxe4 27. Rd6
+Ne5 28. Rxb6 Nd3+ 29. Ke3 Bxa2 30. Rh5 Nc1 31. Bxa6 Bf7 32. Rh4 Nb3 33. Rxe4
+Rxe4+ 34. Kxe4 Re8+ 35. Kd3 Kh7 36. Kc2 Na1+ 37. Kd1 Re3 38. Bd6 Nb3 39. Bf4
+Re8 40. Bd3+ Kg8 41. Rb8 Rxb8 42. Bxb8 Bd5 43. Be2 Nc5 44. b4 Nd7 45. Bc7 Bxg2
+46. c4 Kf7 47. Kd2 Ke7 48. Kc3 Nf6 49. Kd4 g5 50. b5 h5 51. c5 h4 52. gxh4 gxh4
+53. c6 h3 54. Bh2 Kd8 55. Kc5 Kc8 56. Bd3 1-0
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.10"]
+[Round "8"]
+[White "Bojkovic, Natasa"]
+[Black "Benderac, Ana"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2408"]
+[BlackElo "2324"]
+[PlyCount "47"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 Ne7 5. O-O g6 6. Nc3 Bg7 7. Bf4 d6 8. Qd2
+h6 9. Rfe1 g5 10. Bg3 Ng6 11. e5 Bxf3 12. exd6 cxd6 13. Bxg6 O-O 14. gxf3 fxg6
+15. Rxe6 Rxf3 16. Qe2 Rf8 17. Rxd6 Qc8 18. Nd5 Kh7 19. Qd3 Qf5 20. Nc7 Qf7 21.
+Nxa8 h5 22. Nc7 h4 23. Ne6 hxg3 24. Nxg5+ 1-0
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.10"]
+[Round "8"]
+[White "Makropoulou, Marina"]
+[Black "Houska, Jovanka"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "2250"]
+[BlackElo "2393"]
+[PlyCount "74"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Bd6 8.
+h4 h6 9. Nf4 Bxf4 10. Bxf4 Nf6 11. h5 Bh7 12. Qe2 Nbd7 13. O-O-O Nb6 14. Bb3
+Nbd5 15. Bd2 b5 16. f3 a5 17. a3 a4 18. Ba2 O-O 19. Ne4 Nxe4 20. fxe4 Nf6 21.
+Rh4 Qxd4 22. Bxh6 Qe5 23. Bd2 Rfd8 24. h6 b4 25. Bf4 Rxd1+ 26. Qxd1 Qxe4 27.
+hxg7 bxa3 28. bxa3 Nd5 29. Bxd5 cxd5 30. g3 Rc8 31. Rh2 Kxg7 32. Bh6+ Kg8 33.
+Qd2 Bg6 34. Qd1 Qe5 35. Qh1 Qa1+ 36. Kd2 Rxc2+ 37. Ke3 Qe5+ 0-1
+
+[Event "Belgrade (Women) 40th"]
+[Site "Belgrade"]
+[Date "2008.03.10"]
+[Round "8"]
+[White "Petrenko, Svetlana"]
+[Black "Rakic, Marija"]
+[Result "1/2-1/2"]
+[ECO "B05"]
+[WhiteElo "2282"]
+[BlackElo "2218"]
+[PlyCount "59"]
+[EventDate "2008.03.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. Nf3 Bg4 6. exd6 exd6 7. Be2 Be7 8.
+O-O O-O 9. Nc3 Bf6 10. Be3 c6 11. b3 d5 12. c5 N6d7 13. b4 a5 14. a3 b5 15.
+cxb6 axb4 16. axb4 Rxa1 17. Qxa1 Qxb6 18. Rb1 Bxf3 19. Bxf3 Na6 20. b5 Nc7 21.
+Na4 Qb7 22. bxc6 Qxc6 23. Rc1 Qd6 24. Qc3 Ne6 25. g3 Ra8 26. Nc5 Rc8 27. Qd2
+Nxd4 28. Bxd4 Bxd4 29. Qxd4 Rxc5 30. Rxc5 1/2-1/2
+
+[Event "Reykjavik op 23rd"]
+[Site "Reykjavik"]
+[Date "2008.03.03"]
+[Round "1"]
+[White "Almer, Julia"]
+[Black "Robson, Ray"]
+[Result "0-1"]
+[ECO "B85"]
+[WhiteElo "1914"]
+[BlackElo "2389"]
+[PlyCount "70"]
+[EventDate "2008.03.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e6 7. Be3 Be7 8.
+O-O O-O 9. f4 a6 10. a4 Qc7 11. Kh1 Re8 12. Qe1 Nxd4 13. Bxd4 e5 14. Be3 exf4
+15. Bxf4 Be6 16. Qg3 Nd7 17. h4 Ne5 18. h5 Kh8 19. Rad1 h6 20. Rd2 Qb6 21. b3
+Rac8 22. Nd5 Bxd5 23. exd5 Qb4 24. Bd1 Rc3 25. Qf2 Bf6 26. Rd4 Ng4 27. Rxb4
+Nxf2+ 28. Rxf2 Re1+ 29. Kh2 Rxd1 30. Rxb7 Rxd5 31. g4 Kg8 32. Rd7 Bh4 33. Re2
+Rd4 34. Bc1 Rxg4 35. Bb2 Rf3 0-1
+
+[Event "Reykjavik op 23rd"]
+[Site "Reykjavik"]
+[Date "2008.03.03"]
+[Round "1"]
+[White "Andersson, Christin"]
+[Black "Malisauskas, Vidmantas"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2194"]
+[BlackElo "2489"]
+[PlyCount "106"]
+[EventDate "2008.03.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. Bc4 Nb6 6. Bb3 c4 7. Bc2 d6 8. exd6
+Qxd6 9. d4 cxd3 10. Qxd3 Qxd3 11. Bxd3 e5 12. O-O f6 13. Re1 Kf7 14. Be3 Nd5
+15. Bc4 Be6 16. Nbd2 Nxe3 17. Bxe6+ Kxe6 18. Rxe3 Bc5 19. Re2 Rhd8 20. Nb3 Bb6
+21. Kf1 h5 22. Nfd2 Kf7 23. Nc4 Bc7 24. Ke1 f5 25. Rd1 Rxd1+ 26. Kxd1 Rd8+ 27.
+Rd2 Rxd2+ 28. Kxd2 e4 29. h3 b5 30. Ne3 f4 31. Nc2 Bb6 32. Ke2 Ke6 33. Nd2 Kd5
+34. f3 exf3+ 35. Nxf3 Bd8 36. Ncd4 Nxd4+ 37. Nxd4 a6 38. Kf3 g5 39. h4 g4+ 40.
+Kxf4 Bxh4 41. Kf5 b4 42. Ne2 bxc3 43. Nxc3+ Kc4 44. Kg6 Be1 45. Kxh5 g3 46. Kg4
+a5 47. Ne4 Kd3 48. Nc5+ Kc2 49. Na4 Kb1 50. a3 Ka2 51. b4 Kxa3 52. bxa5 Kxa4
+53. a6 Bf2 1/2-1/2
+
+[Event "Reykjavik op 23rd"]
+[Site "Reykjavik"]
+[Date "2008.03.03"]
+[Round "1"]
+[White "Bergsson, Snorri"]
+[Black "Meier, Georg"]
+[Result "1/2-1/2"]
+[ECO "B82"]
+[WhiteElo "2333"]
+[BlackElo "2570"]
+[PlyCount "43"]
+[EventDate "2008.03.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O d6 8. Qe2
+Nbd7 9. Kh1 Be7 10. f4 O-O 11. Bd2 b5 12. Rae1 Nc5 13. e5 Nfd7 14. Bxh7+ Kxh7
+15. Qh5+ Kg8 16. Rf3 dxe5 17. Rh3 f5 18. Qh7+ Kf7 19. Qh5+ Kg8 20. Qh7+ Kf7 21.
+Qh5+ Kg8 22. Qh7+ 1/2-1/2
+
+[Event "Reykjavik op 23rd"]
+[Site "Reykjavik"]
+[Date "2008.03.03"]
+[Round "1"]
+[White "Bjarnason, Saevar"]
+[Black "Moradiabadi, Elshan"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2226"]
+[BlackElo "2506"]
+[PlyCount "80"]
+[EventDate "2008.03.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Be2 Bb7 7. Bf3 b4 8. Na4
+Qa5 9. b3 Nf6 10. O-O Nc6 11. Nxc6 Bxc6 12. a3 bxa3 13. Bxa3 Bxa3 14. Rxa3 Qb4
+15. Qa1 Bxe4 16. Bxe4 Qxe4 17. Nb6 Rd8 18. Rxa6 O-O 19. c4 d5 20. c5 d4 21. Nc4
+d3 22. Rd1 Nd5 23. f3 Qg6 24. Qd4 Qg5 25. Qe5 Qe7 26. Nd6 Rb8 27. Ra3 Qc7 28.
+Qd4 Rb4 29. Nc4 Rb5 30. Rxd3 Rxc5 31. Rd1 h6 32. Rda1 Nf4 33. Qe3 Nd5 34. Qd4
+Rb5 35. Ra7 Qb8 36. Nd2 Nf4 37. Kh1 Rd8 38. Qe3 Rbd5 39. Nf1 Rd1 40. g3 Qb5 0-1
+
+[Event "Reykjavik op 23rd"]
+[Site "Reykjavik"]
+[Date "2008.03.03"]
+[Round "1"]
+[White "Bojkov, Dejan"]
+[Black "Gretarsson, Hjorvar Stein"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "2523"]
+[BlackElo "2247"]
+[PlyCount "109"]
+[EventDate "2008.03.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]

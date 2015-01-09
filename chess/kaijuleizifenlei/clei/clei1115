@@ -1,0 +1,600 @@
+[Black "Szymanski, Marcin"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2065"]
+[BlackElo "2412"]
+[PlyCount "80"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. c3 e5 6. Be2 a5 7. a4 Be7 8. O-O
+O-O 9. Re1 Re8 10. Bf1 Bf8 11. Qb3 d4 12. Nc4 Nd7 13. Bd2 Nc5 14. Qc2 Bg4 15.
+cxd4 exd4 16. Be2 b6 17. h3 Bh5 18. Nh2 Bg6 19. f4 Bxe4 20. dxe4 d3 21. Qc3
+dxe2 22. e5 Ne4 23. Qc1 Nd4 24. Be3 Nb3 25. Qc2 Nxa1 26. Qxe4 Nb3 27. Nf3 Bb4
+28. Rxe2 Qd1+ 29. Kh2 Qxe2 30. Ng5 Qh5 31. g4 Nc5 32. Qf3 Qh4 33. Bf2 Qh6 34.
+Bxc5 Bxc5 35. Nd2 Be7 36. Nge4 Rad8 37. Nf1 Qe6 38. Ne3 Qb3 39. g5 Rd3 40. Nf6+
+Bxf6 0-1
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.03"]
+[Round "2"]
+[White "Chrzaszcz, Malvina"]
+[Black "Owczarzak, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "1986"]
+[BlackElo "2343"]
+[PlyCount "58"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Re1 O-O 12. b3 e5 13. dxe5 Nxe5 14. Nxe5 Bxe5
+15. Bf4 Qd6 16. Qd2 Bxf4 17. Nxf4 Ng4 18. g3 Kh8 19. Be2 Nxf2 20. Bf3 Nh3+ 21.
+Nxh3 Bxh3 22. Qxd5 Qf6 23. Re3 g5 24. Rae1 Rad8 25. Qxc5 g4 26. Re6 Qxf3 27.
+Qe5+ Kg8 28. Qg5+ Kh8 29. Qe5+ Kg8 1/2-1/2
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.03"]
+[Round "2"]
+[White "Dragun, Kamil"]
+[Black "Szewczak, Andrzej"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2240"]
+[BlackElo "1902"]
+[PlyCount "123"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. O-O b5 6. Bb3 d6 7. c3 Nf6 8. d4
+Bb6 9. dxe5 Nxe5 10. Nxe5 dxe5 11. Qf3 Bg4 12. Qg3 Qd6 13. Bg5 Be2 14. Bxf6
+Qxf6 15. Re1 Bh5 16. Nd2 Rd8 17. Nf1 Rd3 18. Ne3 Rd2 19. Rf1 c6 20. Bd1 Bg6 21.
+Ng4 Qf4 22. Nxe5 Qxg3 23. hxg3 Bxe4 24. Bb3 f6 25. Nf3 Bxf3 26. gxf3 f5 27.
+Rad1 Rxd1 28. Rxd1 Ke7 29. Re1+ Kd6 30. Kg2 Rd8 31. f4 Rd7 32. Kf3 Re7 33. Rh1
+h6 34. Bc2 Ke6 35. Rh5 g6 36. Rxh6 Kf6 37. Rh1 Rd7 38. Rd1 Rxd1 39. Bxd1 a5 40.
+Ke2 Ke7 41. f3 Bc7 42. Bb3 Kf6 43. Bc2 g5 44. fxg5+ Kxg5 45. Kf2 f4 46. g4 Be5
+47. Ke2 c5 48. Kd3 a4 49. Ke4 Bg7 50. Kd5 b4 51. Bxa4 bxc3 52. bxc3 Bxc3 53.
+Kxc5 Kf6 54. Bc2 Ke7 55. g5 Ke6 56. a4 Ba5 57. Kb5 Bd8 58. g6 Bf6 59. a5 Kd7
+60. Kb6 Kc8 61. a6 Bd4+ 62. Kc6 1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.03"]
+[Round "2"]
+[White "Warakomski, Tomasz"]
+[Black "Jedryczka, Krystian"]
+[Result "1-0"]
+[ECO "C60"]
+[WhiteElo "2502"]
+[BlackElo "2265"]
+[PlyCount "101"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Nc6 7. Qe3 Qh4
+8. Nc3 Bb4 9. Bd2 O-O 10. O-O-O a6 11. Be2 d6 12. Nd5 Bc5 13. Qf4 Qxf4 14. Bxf4
+Bd7 15. Nxc7 Rac8 16. Nd5 Bxf2 17. Bxd6 Rfe8 18. Rhf1 Ba7 19. Bh5 Rxe4 20.
+Bxf7+ Kh8 21. Rde1 Rxe1+ 22. Rxe1 Bf5 23. c3 h6 24. Ne7 Nxe7 25. Rxe7 Rd8 26.
+Bc7 Rf8 27. Bf4 Be4 28. Rxe4 Rxf7 29. Kd2 Kh7 30. Be3 Bb8 31. h3 Bg3 32. c4 g5
+33. Re6 Rd7+ 34. Ke2 Bc7 35. Kf3 Bd8 36. Kg4 Kg7 37. Kf5 Rf7+ 38. Ke4 Bc7 39.
+b4 Rd7 40. Bd4+ Kh7 41. c5 Rf7 42. Be3 Bd8 43. a4 h5 44. b5 axb5 45. axb5 Bf6
+46. b6 g4 47. hxg4 hxg4 48. c6 bxc6 49. Rxf6 Rxf6 50. b7 Rf8 51. Ba7 1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.03"]
+[Round "2"]
+[White "Zaninotto, Franco"]
+[Black "Gdanski, Jacek"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2184"]
+[BlackElo "2523"]
+[PlyCount "80"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 c6 5. Bg5 Qb6 6. b3 h6 7. Bh4 Bg4 8. Be2
+Be7 9. Bxe7 Nxe7 10. O-O O-O 11. h3 Bxf3 12. Bxf3 Nd7 13. Qd3 Rfe8 14. Nd2 c5
+15. c3 cxd4 16. cxd4 Nf6 17. Rad1 Nc6 18. Nb1 Nb4 19. Qd2 Ne4 20. Bxe4 dxe4 21.
+Nc3 f5 22. Na4 Qd6 23. Nc5 Nd5 24. Nxb7 Qg6 25. Rc1 f4 26. f3 e3 27. Qe2 Kh7
+28. Nc5 Rad8 29. Nd3 Qb6 30. Rc5 Kh8 31. Rfc1 Nb4 32. Nxb4 Qxb4 33. R5c4 Qb6
+34. Rd1 Rd5 35. Rd3 Red8 36. Qd1 Qg6 37. Rdc3 Qg3 38. Qc2 Qe1+ 39. Kh2 e2 40.
+Qg6 Qg3+ 0-1
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Andriasian, Zaven"]
+[Black "Marszalek, Maciej"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2533"]
+[BlackElo "2355"]
+[PlyCount "49"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Qd5 5. Nc3 Bb4 6. Nf3 Nf6 7. Bd3 Ne4 8.
+Bd2 Bxc3 9. bxc3 Nxd2 10. Qxd2 c5 11. O-O Nd7 12. Rfe1 Qd6 13. Re3 Nf6 14. Ne5
+Bd7 15. Rae1 Qe7 16. Rg3 Rg8 17. d5 Nxd5 18. Bxh7 Rf8 19. c4 Nb6 20. Rxg7 O-O-O
+21. Qf4 Qd6 22. Rxf7 Bc6 23. Nxc6 Rxf7 24. Qxf7 Qxc6 25. Bd3 1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Demidowicz, Maria"]
+[Black "Paprocki, Jaroslaw"]
+[Result "0-1"]
+[ECO "C65"]
+[WhiteElo "2032"]
+[BlackElo "2218"]
+[PlyCount "88"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 Bb6 7. Bg5 h6 8. Bh4
+d6 9. Qd3 Qe7 10. Nbd2 Nb8 11. Rfe1 c6 12. Ba4 Nbd7 13. Nc4 Bc7 14. Ne3 Re8 15.
+Nf5 Qf8 16. Bc2 Nh5 17. Nd2 Nf4 18. Qf3 g6 19. Ne3 Qg7 20. Kh1 a6 21. Rad1 b5
+22. Ndf1 Nb6 23. Ng3 Bd7 24. Ne2 g5 25. dxe5 dxe5 26. Rxd7 Nxd7 27. Nf5 Qf6 28.
+Bg3 Nxe2 29. Qxe2 Nc5 30. h4 Ne6 31. Bb3 Ng7 32. Ne3 gxh4 33. Ng4 Qg5 34. Bh2
+h5 35. Ne3 Bb6 36. Qf3 Ra7 37. Nf5 Nxf5 38. exf5 e4 39. Rxe4 Rxe4 40. Qxe4 Re7
+41. Qxc6 Re1+ 42. Bg1 Bxf2 43. Bxf7+ Kg7 44. f6+ Kh6 0-1
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Gumula, Daniel"]
+[Black "Staniszewski, Piotr"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2277"]
+[BlackElo "2416"]
+[PlyCount "91"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5 7. Bb3 O-O 8. d4
+d6 9. Nbd2 Re8 10. O-O exd4 11. cxd4 Bg4 12. Qe3 Bf8 13. e5 dxe5 14. dxe5 Nd5
+15. Qe4 Be6 16. Rd1 Nce7 17. Nf1 c6 18. Ng3 Qb6 19. h4 Rad8 20. h5 c5 21. Ng5
+g6 22. hxg6 hxg6 23. Qh4 Bg7 24. Qh7+ Kf8 25. N5e4 Ng8 26. Bxd5 Bxd5 27. Be3
+Bxe4 28. Nxe4 Rxd1+ 29. Rxd1 Rxe5 30. Nxc5 Rxc5 31. b4 Rh5 32. Qxh5 Qxe3 33.
+fxe3 gxh5 34. Rd8+ Ke7 35. Rxg8 Bc3 36. Ra8 Bxb4 37. Rxa6 h4 38. Kf2 Bd6 39.
+Kf3 b4 40. Kg4 Bg3 41. Rb6 Be1 42. Kf5 Bc3 43. Rb7+ Ke8 44. e4 Kf8 45. e5 Ke8
+46. Kf6 1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Kaliszewski, Tomasz"]
+[Black "Szczepkowska, Karina"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2141"]
+[BlackElo "2285"]
+[PlyCount "97"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. c3 Na5 11. Bc2 c5 12. Nbd2 Nc6 13. Nf1 b4 14. Ne3 Bc8 15. h3
+Rb8 16. d4 cxd4 17. cxd4 h6 18. Nd5 Re8 19. dxe5 dxe5 20. Bb3 Bf8 21. Be3 Na5
+22. Nxf6+ Qxf6 23. Bd5 Be6 24. Rc1 Red8 25. Bc5 Bd6 26. Bxd6 Rxd6 27. Rc5 Nb7
+28. Rc2 Rbd8 29. Rd2 Nc5 30. Qc2 Rc8 31. Red1 Rc7 32. Qc4 a5 33. Qb5 Rc8 34.
+Rc1 Bd7 35. Rxc5 Bxb5 36. Rxc8+ Kh7 37. axb5 Qe7 38. Rdc2 a4 39. R2c7 Rd7 40.
+b6 a3 41. bxa3 bxa3 42. Rxd7 Qxd7 43. b7 a2 44. Rh8+ Kxh8 45. b8=Q+ Kh7 46. Qb2
+f5 47. Nxe5 Qc7 48. Bxa2 fxe4 49. Bb1 1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Leszner, Liliana"]
+[Black "Jaskowski, Tadeusz"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2140"]
+[BlackElo "2040"]
+[PlyCount "87"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Be7 4. O-O Nf6 5. d3 O-O 6. c3 d6 7. a4 a5 8. Qb3
+Nd7 9. Be3 Nc5 10. Qc2 Bg4 11. Nbd2 Bh5 12. Bd5 Ne6 13. Qb3 Qc8 14. Rfc1 Ncd8
+15. d4 Nf4 16. Bxf4 exf4 17. e5 c6 18. exd6 Bxd6 19. Be4 Kh8 20. Nc4 Bc7 21.
+Qa3 Kg8 22. Bxh7+ Kxh7 23. Qxf8 Bxf3 24. gxf3 Qh3 25. Qe7 Ne6 26. Re1 Bd8 27.
+Qxb7 Bh4 28. Qxc6 Ng5 29. Nd2 Bxf2+ 30. Kxf2 Qxh2+ 31. Kf1 Nh3 32. Ne4 Rb8 33.
+b4 f5 34. Rac1 Kh8 35. Qg6 Qh1+ 36. Ke2 Qh2+ 37. Kd3 fxe4+ 38. Kxe4 Rd8 39. Ke5
+Qa2 40. Qh5+ Kg8 41. Qxh3 Kf7 42. Ke4 g5 43. Kd3 axb4 44. Qe6+ 1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Owczarzak, Jerzy"]
+[Black "Lada, Marek"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2343"]
+[BlackElo "2226"]
+[PlyCount "39"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 a6 7. Be3 Qb6 8. a3 Nc6
+9. dxc5 Bxc5 10. Na4 Qa5+ 11. b4 Qxa4 12. bxc5 f6 13. exf6 Nxf6 14. Bd3 Bd7 15.
+O-O O-O 16. Qb1 h6 17. h3 Rab8 18. Qb2 Qa5 19. Rae1 Qc7 20. c4 1/2-1/2
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Pietocha, Pawel"]
+[Black "Al Huwar, Jasem"]
+[Result "0-1"]
+[ECO "C03"]
+[WhiteElo "2036"]
+[BlackElo "2260"]
+[PlyCount "66"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. c3 c5 5. exd5 exd5 6. dxc5 Bxc5 7. Nb3 Bb6 8.
+Bd3 Nf6 9. Nf3 O-O 10. O-O Bg4 11. Bf4 Nc6 12. Bc2 Bh5 13. Qd2 Ne4 14. Bxe4
+dxe4 15. Ng5 Re8 16. Rfe1 f5 17. g4 Bxg4 18. Bd6 Nd4 19. Nxd4 Qxd6 20. Qc2 Qd5
+21. h3 Bh5 22. h4 h6 23. Nh3 Bc7 24. Qb3 Qxb3 25. axb3 Rad8 26. Kg2 Be5 27. Ra5
+g6 28. Rxe5 Rxe5 29. Nf4 Kf7 30. Kg3 Kf6 31. Nxh5+ gxh5 32. Kf4 Rg8 33. Ne2 Rd5
+0-1
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Tvarijonas, Povilas"]
+[Black "Jaroch, Karol"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2285"]
+[BlackElo "2158"]
+[PlyCount "77"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Qf3 Nf6 7. h3 Qe7+ 8.
+Ne2 Ne4 9. Bf4 Bxf4 10. Qxf4 O-O 11. Nd2 f5 12. O-O-O g5 13. Qf3 Qd6 14. Bc2
+Ne7 15. Qe3 Qh6 16. f4 Qa6 17. Bb3 Qf6 18. Nxe4 fxe4 19. Qxe4 Be6 20. Qf3 gxf4
+21. Rde1 Qg5 22. Rhf1 Ng6 23. Kb1 Nh4 24. Qf2 Nxg2 25. Rg1 f3 26. Ka1 Kh8 27.
+Nc1 Bg8 28. Re5 Qh4 29. Qf1 Qxh3 30. Rh1 Qg4 31. Nd3 c6 32. Bc2 Rae8 33. Bb1
+Rxe5 34. Nxe5 Qg3 35. Ng6+ Kg7 36. Nxf8 Kxf8 37. Bd3 h5 38. Be2 f2 39. Rg1 1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Winski, Lukasz"]
+[Black "Warakomska, Anna"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2045"]
+[BlackElo "2211"]
+[PlyCount "132"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. c3 O-O 8. a4
+Bb7 9. O-O b4 10. d4 exd4 11. e5 d3 12. Qxd3 Ne8 13. Rd1 d6 14. e6 fxe6 15.
+Bxe6+ Kh8 16. Nbd2 bxc3 17. bxc3 Nf6 18. Nc4 Qe8 19. Re1 Rd8 20. Bg5 Qh5 21. h4
+h6 22. Rab1 Ba8 23. Bf5 Ne5 24. Nfxe5 dxe5 25. Qg3 Bd6 26. Bxf6 Rxf6 27. Nxd6
+cxd6 28. Be4 Bxe4 29. Rxe4 Qf5 30. f3 Rg6 31. Qf2 Rf8 32. Kf1 d5 33. Reb4 e4
+34. Rb8 Rgf6 35. Rxf8+ Rxf8 36. Rb6 exf3 37. gxf3 Qxf3 38. Qxf3 Rxf3+ 39. Kg2
+Rf4 40. Rb4 Rc4 41. a5 Rxc3 42. Rb6 Ra3 43. Rxa6 d4 44. Rd6 Rxa5 45. Rxd4 Ra3
+46. Rd6 Kh7 47. Rb6 Ra5 48. Kg3 Rf5 49. Kg4 Rf6 50. Rb7 Ra6 51. Rc7 Kg6 52. Rb7
+Kf6 53. Rb8 g6 54. Rb5 Ra4+ 55. Kg3 Re4 56. Rb6+ Re6 57. Rb5 Re5 58. Rb6+ Kf5
+59. h5 gxh5 60. Rxh6 Kg5 61. Ra6 Re3+ 62. Kh2 Re4 63. Kh3 Re5 64. Rb6 h4 65.
+Rb8 Re3+ 66. Kh2 Re4 1/2-1/2
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Bielecki, Pawel"]
+[Black "Parczewski, Janusz"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2063"]
+[BlackElo "2031"]
+[PlyCount "89"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. h4 Bd7
+9. g3 Nh6 10. Bh3 Be7 11. O-O O-O 12. Re1 Nf5 13. Bxf5 exf5 14. Kg2 Rac8 15.
+Qe2 Qg6 16. Nf1 Nb3 17. Rb1 Nxc1 18. Rbxc1 f4 19. Qd2 fxg3 20. Nxg3 Qg4 21. h5
+Qh3+ 22. Kg1 h6 23. Qf4 g5 24. Qe3 g4 25. Nd2 Bg5 26. Qe2 Bf4 27. Ra1 Bf5 28.
+Ndf1 Bd3 29. Qd1 Rc6 30. b3 Rfc8 31. bxc4 Bxc4 32. Qb1 Bxf1 33. Nxf1 g3 34.
+fxg3 Bxg3 35. Re2 Bf4 36. Rg2+ Bg5 37. Qxb7 Qxc3 38. Qb2 Qd3 39. Rg3 Qe4 40.
+Qb4 Rc4 41. Qd6 Qxd4+ 42. Kh1 R4c6 43. Qe7 Qxa1 44. Rxg5+ hxg5 45. Qxg5+ 0-1
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Brzeski, Maciej"]
+[Black "Owczarzak, Jerzy"]
+[Result "1-0"]
+[ECO "C91"]
+[WhiteElo "2208"]
+[BlackElo "2343"]
+[PlyCount "173"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. c3 Be7 8. d4
+d6 9. Re1 O-O 10. Nbd2 h6 11. Qe2 Re8 12. a4 Bf8 13. axb5 axb5 14. Rxa8 Qxa8
+15. Qxb5 exd4 16. cxd4 Na7 17. Qf5 Bxe4 18. Rxe4 Rxe4 19. Nxe4 Qxe4 20. Qxe4
+Nxe4 21. d5 g6 22. Be3 Nc8 23. Nd4 Bg7 24. Nb5 Bxb2 25. Bxh6 Nc5 26. Ba2 Na6
+27. Be3 Ne7 28. Bc4 Kf8 29. Bf4 Be5 30. Bxe5 dxe5 31. d6 cxd6 32. Nxd6 Nb4 33.
+Nxf7 Nbc6 34. Nd6 Nf5 35. Ne4 Ke7 36. g3 Nd6 37. Bd3 Nf5 38. Kg2 Kf7 39. Kh3
+Kg7 40. Nc5 Nd6 41. Kg4 Nb4 42. Bb1 Nd5 43. h4 Nf6+ 44. Kf3 Kh6 45. Ne6 Nf7 46.
+g4 g5 47. Kg3 Ne8 48. Bc2 Ng7 49. Nxg7 Kxg7 50. h5 Nd6 51. Kf3 Kh6 52. Ke3 Kg7
+53. f3 Kf6 54. h6 Nf7 55. h7 Kg7 56. Kd2 Kf6 57. Kd3 Nh8 58. Ke4 Ke6 59. Bb3+
+Kf6 60. Kd5 Nf7 61. Bc2 Nh8 62. Kd6 Nf7+ 63. Kd7 Kg7 64. Ke6 Nd8+ 65. Kxe5 Nc6+
+66. Kd6 Nd4 67. Be4 Ne2 68. Ke5 Ng1 69. Ke6 Nh3 70. Ke5 Ng1 71. Kf5 Nh3 72. Bd3
+Ng1 73. Ke4 Nh3 74. Bf1 Nf4 75. Kf5 Kxh7 76. Kxg5 Nd5 77. f4 Kg7 78. Bc4 Nc3
+79. Kf5 Na4 80. g5 Nc5 81. Kg4 Nd7 82. Be6 Nf8 83. f5 Nh7 84. Ba2 Nf8 85. f6+
+Kh8 86. Kf5 Nd7 87. Bb1 1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Charleshouse, Glenn L"]
+[Black "Pietocha, Pawel"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2202"]
+[BlackElo "2036"]
+[PlyCount "81"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Nc6 6. Bg2 Be7 7. O-O O-O 8. Re1
+Qc7 9. e5 Nd7 10. Qe2 Re8 11. Nf1 f6 12. exf6 Bxf6 13. Ne3 Nb6 14. Ng4 e5 15.
+Nxf6+ gxf6 16. Nh4 Nd4 17. Qd1 Qg7 18. c3 Nf5 19. Nxf5 Bxf5 20. a4 Rad8 21. a5
+Nc8 22. d4 cxd4 23. cxd4 Ne7 24. dxe5 fxe5 25. Qb3 Rd7 26. Be3 Be6 27. Bxa7 Nc6
+28. Bc5 d4 29. Qb6 Nd8 30. Rad1 Bf7 31. Qb5 Bh5 32. Rd2 Ne6 33. Bb4 Ng5 34. f4
+exf4 35. Rxe8+ Bxe8 36. Bd5+ Kh8 37. Qc4 fxg3 38. hxg3 Qe5 39. Qxd4 Nf3+ 40.
+Bxf3 Rxd4 41. Rxd4 0-1
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Kultiyasov, Mikhail"]
+[Black "Jaskowski, Tadeusz"]
+[Result "1-0"]
+[ECO "C61"]
+[WhiteElo "2141"]
+[BlackElo "2040"]
+[PlyCount "95"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O a5 6. a3 g6 7. d3 Bg7 8. f4
+c6 9. Bc4 d6 10. Nd2 Ne7 11. f5 gxf5 12. Qh5 d5 13. exd5 cxd5 14. Bb5+ Bd7 15.
+Bxd7+ Qxd7 16. Nf3 O-O 17. Bh6 Bxh6 18. Qxh6 Qc6 19. Qg5+ Ng6 20. Nxd4 Qb6 21.
+c3 f4 22. Rf2 Kh8 23. Qxd5 Rad8 24. Qf5 Rd6 25. Nf3 f6 26. Re1 Qd8 27. d4 Rd5
+28. Qe4 b5 29. b3 Rd7 30. Rfe2 Rc7 31. Qd3 Qc8 32. Rc2 b4 33. axb4 axb4 34. c4
+Rd8 35. Rce2 Ra7 36. Qd2 Qb7 37. h4 h5 38. Re6 Kg7 39. d5 Ra3 40. Qd4 Rf8 41.
+Ng5 Rxb3 42. Rb6 Qa8 43. Ne6+ Kh6 44. Nxf8 Qxf8 45. Rxf6 Qg7 46. Qxf4+ Kh7 47.
+Rxg6 Qxg6 48. Re7+ 1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Shkapenko, Pavel"]
+[Black "Jedryczka, Krystian"]
+[Result "1-0"]
+[ECO "C90"]
+[WhiteElo "2404"]
+[BlackElo "2265"]
+[PlyCount "85"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Re8 12. Nf1 Bf8 13. Ng3 Nc6 14. a4 Rb8 15. h3
+h6 16. d4 cxd4 17. cxd4 b4 18. Be3 Bd7 19. d5 Na5 20. Bd3 Bc8 21. Nd2 g6 22.
+Qe2 Ra8 23. f3 Nd7 24. Ngf1 Bg7 25. Rec1 Bb7 26. Rc2 Rc8 27. Rac1 Rxc2 28. Rxc2
+Qa8 29. Nc4 Nxc4 30. Rxc4 a5 31. Nd2 f5 32. exf5 Bxd5 33. Rc7 Qd8 34. Ra7 gxf5
+35. Bxf5 Nf6 36. Qb5 Qb8 37. Qxb8 Rxb8 38. Rxa5 Bf7 39. Rb5 Ra8 40. Rxb4 d5 41.
+Bc5 d4 42. Bd6 Ne8 43. Rb8 1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Warakomski, Tomasz"]
+[Black "Bromberger, Stefan"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2502"]
+[BlackElo "2490"]
+[PlyCount "115"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 h6 11. Re1 Ng6 12. Ne4 Bd7 13. b3 Kc8 14. Bb2
+a5 15. a4 Nf4 16. Nd4 Bb4 17. Re3 Rd8 18. Rf3 Ne6 19. Rd1 Nxd4 20. Rxd4 Be6 21.
+g4 Rxd4 22. Bxd4 b6 23. Bb2 Kb7 24. Rd3 g5 25. Bc1 Be7 26. Kh2 Bd5 27. Ng3 Re8
+28. c4 Be6 29. Nf5 Bf8 30. f4 gxf4 31. Bxf4 h5 32. Nd4 Bc8 33. gxh5 Rd8 34. h6
+Bxh6 35. Bxh6 c5 36. Bg5 Rxd4 37. Rf3 Be6 38. h4 Re4 39. Bf6 c6 40. h5 Re2+ 41.
+Kg3 Re1 42. h6 Rh1 43. Bg7 b5 44. Rf4 Rh3+ 45. Kg2 Rh5 46. Kg3 Rh3+ 47. Kg2 Rh5
+48. Kf2 Rh2+ 49. Ke3 Rh3+ 50. Kd2 Rh2+ 51. Ke1 Rh1+ 52. Kf2 Rh2+ 53. Kg1 Rh3
+54. Rf2 bxc4 55. bxc4 Bxc4 56. Rh2 Rxh2 57. Kxh2 Bd3 58. Kg3 1/2-1/2
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Wisniowska, Klaudia"]
+[Black "Szewczak, Andrzej"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "1905"]
+[BlackElo "1902"]
+[PlyCount "92"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. O-O b5 6. Bb3 d6 7. c3 Nf6 8. d4
+Bb6 9. a4 Bg4 10. d5 Ne7 11. h3 Bh5 12. Qd3 O-O 13. Bg5 Nd7 14. Qe2 f6 15. Be3
+Bxe3 16. Qxe3 Nc5 17. Bc2 bxa4 18. g4 Be8 19. Nbd2 g5 20. h4 h6 21. hxg5 fxg5
+22. Nxe5 Rf4 23. f3 Qb8 24. Nd3 Nb3 25. Bxb3 axb3 26. Nxf4 gxf4 27. Qxf4 Ng6
+28. Qxh6 a5 29. Kg2 Qb5 30. c4 Qb4 31. Ra3 a4 32. Nxb3 Qxc4 33. Nd2 Qe2+ 34.
+Rf2 Qd1 35. Rc3 Ra7 36. Qe3 c5 37. Rf1 Nf4+ 38. Qxf4 Qe2+ 39. Rf2 Qb5 40. Nc4
+Rh7 41. Nxd6 Qb8 42. Rxc5 Bd7 43. e5 a3 44. bxa3 Qd8 45. Qf6 Qb8 46. Rc1 Qb3
+1-0
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Andriasian, Zaven"]
+[Black "Gajewski, Grzegorz"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2533"]
+[BlackElo "2575"]
+[PlyCount "39"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Be6 8. Nbd2
+Qd7 9. Nf1 Rfe8 10. Ng3 a6 11. Bxe6 Qxe6 12. c4 a5 13. Ng5 Qg4 14. f3 Qd7 15.
+Rf1 Nd4 16. Be3 Ne6 17. Nxe6 Qxe6 18. f4 exf4 19. Bxf4 g6 20. Qd2 1/2-1/2
+
+[Event "Warsaw Najdorf Memorial op-A"]
+[Site "Warsaw"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Deszczynski, Adam"]
+[Black "Al Huwar, Jasem"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2357"]
+[BlackElo "2260"]
+[PlyCount "106"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. c3 c5 6. Be2 Bb7 7. O-O Nc6 8. e5
+Nd7 9. d4 Be7 10. Re1 Qc7 11. a3 a5 12. Nf1 O-O 13. Bf4 Ba6 14. Bxa6 Rxa6 15.
+Bg5 Rb8 16. Bxe7 Nxe7 17. Ng5 Nf8 18. Ne3 Neg6 19. g3 b5 20. h4 h6 21. Nf3 c4
+22. Nh2 Rab6 23. Qh5 b4 24. axb4 axb4 25. Nhg4 Nh7 26. Nxh6+ gxh6 27. Ng4 Qe7
+28. Re3 bxc3 29. bxc3 Rb1+ 30. Rxb1 Rxb1+ 31. Kh2 Qa3 32. Rf3 Qc1 33. Nxh6+ Kh8
+34. Nxf7+ Kg7 35. Kh3 Rb7 36. Ng5 Nxg5+ 37. hxg5 Qh1+ 38. Kg4 Qxh5+ 39. Kxh5
+Rb1 40. Rf6 Rh1+ 41. Kg4 Nf8 42. f4 Rc1 43. g6 Rxc3 44. Rf7+ Kg8 45. Re7 Rd3
+46. g7 Ng6 47. Rxe6 Kxg7 48. f5 Rxd4+ 49. Kg5 Nxe5 50. Rxe5 c3 51. Re7+ Kf8 52.
+Kf6 Rc4 53. Re1 c2 0-1

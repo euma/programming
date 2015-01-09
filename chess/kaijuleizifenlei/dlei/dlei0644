@@ -1,0 +1,600 @@
+[Round "9"]
+[White "Pavlovski, Yaroslav"]
+[Black "Skomorokhin, Roman"]
+[Result "0-1"]
+[ECO "D29"]
+[WhiteElo "2263"]
+[BlackElo "2378"]
+[PlyCount "96"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Nf6 5. Bxc4 a6 6. O-O b5 7. Bb3 Nbd7 8. a4
+Bb7 9. Qe2 c5 10. axb5 axb5 11. Rxa8 Qxa8 12. dxc5 Bxc5 13. Nbd2 O-O 14. Bc2
+Rc8 15. Bd3 b4 16. Nb3 Bf8 17. Rd1 Bd5 18. Nbd2 Qa1 19. Nc4 Bxc4 20. Bxc4 Nb6
+21. Nd2 Ne4 22. Nb3 Qa4 23. Nd2 Qa1 24. Nb3 Qa2 25. Nd2 Rxc4 26. Nxc4 Nxc4 27.
+Qc2 Ned6 28. h3 h6 29. Rd4 e5 30. Rd1 e4 31. Rd4 g6 32. Qd1 Qb1 33. b3 Ne5 34.
+Rd2 Nd3 35. Rc2 Nb5 36. Qd2 Nc3 37. Kh2 h5 38. h4 Qxb3 39. f3 Bd6+ 40. Kg1 Qd5
+41. fxe4 Qxe4 42. Kf1 Qf5+ 43. Kg1 Bg3 44. e4 Qxe4 45. Qe3 Bf2+ 46. Rxf2 Qxe3
+47. Bxe3 Nxf2 48. Kxf2 Nd1+ 0-1
+
+[Event "Nezhmetdinov Memorial 30th"]
+[Site "Kazan"]
+[Date "2008.06.09"]
+[Round "9"]
+[White "Zabotin, Alexander"]
+[Black "Efanov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2496"]
+[BlackElo "2348"]
+[PlyCount "82"]
+[EventDate "2008.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Be2 dxc4 8.
+Bxc4 a6 9. O-O b5 10. Be2 Bb7 11. e4 e5 12. Rd1 Qc7 13. g3 O-O 14. Bg5 h6 15.
+dxe5 Bxe5 16. Nxe5 hxg5 17. Nxd7 Nxd7 18. Qd2 Nf6 19. Qxg5 b4 20. Na4 Nxe4 21.
+Qf5 c5 22. Rd7 Qc6 23. Rxb7 Qxb7 24. Bf3 Rae8 25. Nxc5 Nd6 26. Qf4 Qe7 27. Nxa6
+b3 28. axb3 Qe5 29. Qxe5 Rxe5 30. b4 Nc4 31. Ra2 Rd8 32. b3 Nd2 33. Bc6 Nxb3
+34. Rb2 Nd4 35. b5 Nxc6 36. bxc6 Re1+ 37. Kg2 Rc1 38. c7 Rc8 39. Rd2 R1xc7 40.
+Nxc7 Rxc7 41. h4 g6 1/2-1/2
+
+[Event "FIN-ch"]
+[Site "Mantta"]
+[Date "2008.06.02"]
+[Round "1"]
+[White "Nyback, Tomi"]
+[Black "Karttunen, Mika"]
+[Result "1-0"]
+[ECO "D19"]
+[WhiteElo "2587"]
+[BlackElo "2414"]
+[PlyCount "75"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FIN"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Qe2 Bg6 10. Ne5 Nbd7 11. Nxg6 hxg6 12. Rd1 Qa5 13. Na2 Be7 14. Bd2 Qc7
+15. b4 e5 16. a5 Bd6 17. g3 Rfe8 18. Qf3 a6 19. Rac1 e4 20. Qe2 Qd8 21. Bc3 Qe7
+22. d5 cxd5 23. Bxd5 Nxd5 24. Rxd5 Nf6 25. Bxf6 Qxf6 26. Rc4 Re6 27. Nc3 Qe7
+28. Qc2 f5 29. Na4 Rf8 30. Nc5 Bxc5 31. Rcxc5 b6 32. Rc7 Qf6 33. Qc4 b5 34. Qc5
+g5 35. Rdd7 Qh6 36. Qd5 Rff6 37. Rd8+ Kh7 38. Rcc8 1-0
+
+[Event "FIN-ch"]
+[Site "Mantta"]
+[Date "2008.06.03"]
+[Round "2"]
+[White "Karttunen, Mika"]
+[Black "Pudas, Teemu"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2414"]
+[BlackElo "2169"]
+[PlyCount "117"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FIN"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 Bf5 3. c3 e6 4. b4 Nd7 5. a4 a6 6. Nbd2 b5 7. Nb3 c6 8. Bf4
+Ngf6 9. axb5 axb5 10. Na5 Ne4 11. Qc1 Ra6 12. Nd2 Nxd2 13. Qxd2 Qa8 14. e3 Be7
+15. Be2 Bd8 16. O-O Bxa5 17. Qa2 Nb6 18. bxa5 Na4 19. Qb3 Rxa5 20. Qb4 Ra6 21.
+Ra3 Nb6 22. Rfa1 Rxa3 23. Rxa3 Qb7 24. g4 Bg6 25. Ra5 Nc8 26. Qc5 Kd8 27. Kg2
+Re8 28. h4 f6 29. h5 Bf7 30. Qa3 Qe7 31. Qa1 e5 32. dxe5 fxe5 33. Bg3 g5 34.
+hxg6 hxg6 35. Ra6 Kd7 36. Qa5 Qd8 37. Qxd8+ Rxd8 38. Bxe5 Re8 39. f4 Re7 40.
+Kf3 Nd6 41. Bxd6 Kxd6 42. Bxb5 Rc7 43. Ba4 Kc5 44. Kg3 Be8 45. Ra8 Re7 46. Kf3
+Kc4 47. Rc8 Bd7 48. Rg8 Be8 49. Bc2 Bf7 50. Rc8 Be8 51. Bxg6 Bxg6 52. Rxc6+ Kd3
+53. Rxg6 Rxe3+ 54. Kf2 Re2+ 55. Kg3 Kxc3 56. Rc6+ Kd3 57. f5 d4 58. f6 Re8 59.
+g5 1-0
+
+[Event "FIN-ch"]
+[Site "Mantta"]
+[Date "2008.06.04"]
+[Round "3"]
+[White "Nyback, Tomi"]
+[Black "Luukkonen, Tommi"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2587"]
+[BlackElo "2263"]
+[PlyCount "63"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FIN"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 b6 10. O-O Bb7 11. Qd3 Ba6 12. Qc2 cxd4 13. Bxa6 Nxa6 14. cxd4
+Qd7 15. Ba3 Rac8 16. Qe2 Qa4 17. Bxe7 Rfe8 18. Bd6 Rc2 19. Qd3 Rxa2 20. Rfc1
+Bh6 21. Rc4 Qd7 22. e5 b5 23. Rc3 Ra5 24. Nd2 b4 25. Ne4 Bg7 26. Rc2 Qe6 27.
+Qc4 Qd5 28. Qc6 Qxc6 29. Rxc6 Ra2 30. Kf1 Nb8 31. Rc7 a5 32. Rbc1 1-0
+
+[Event "FIN-ch"]
+[Site "Mantta"]
+[Date "2008.06.06"]
+[Round "5"]
+[White "Karttunen, Mika"]
+[Black "Kosmo, Santul"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "2414"]
+[BlackElo "2219"]
+[PlyCount "158"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FIN"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. Nf3 c5 3. e3 Nf6 4. Bd3 d5 5. c3 Nc6 6. Ne5 Nxe5 7. dxe5 Nd7 8. f4
+Qh4+ 9. g3 Qh3 10. Bf1 Qh6 11. e4 dxe4 12. Nd2 f5 13. exf6 Nxf6 14. Bg2 Be7 15.
+Nxe4 Nxe4 16. Bxe4 O-O 17. O-O Qh3 18. a4 Rb8 19. a5 Rd8 20. Qe2 Bf6 21. Be3 b6
+22. axb6 axb6 23. Ra7 Rd7 24. Qb5 Rd8 25. Qc6 Qh5 26. Bf3 Qf5 27. g4 Qd3 28.
+Qe4 Qxe4 29. Bxe4 Rd7 30. Rfa1 Bb7 31. f5 exf5 32. Bf4 fxe4 33. Bxb8 Kf7 34.
+Bf4 Ke6 35. g5 Be7 36. Be3 Bd6 37. b4 cxb4 38. cxb4 Bxb4 39. Rb1 Ba5 40. Bxb6
+Rd1+ 41. Kf2 Rxb1 42. Bxa5 Kf5 43. Bc3 Kf4 44. Bd2+ Kg4 45. Ra3 Rh1 46. Rg3+
+Kh4 47. Be1 Rxh2+ 48. Kg1 Re2 49. Re3+ Rxe1+ 50. Rxe1 Kxg5 51. Rb1 Bc8 52. Rb8
+Bf5 53. Rb7 Kf6 54. Kf2 g5 55. Ke3 Bg6 56. Rb6+ Kf5 57. Rb5+ Kg4 58. Rb6 Kg3
+59. Ra6 Kg4 60. Rb6 Bf5 61. Rb1 Kh5 62. Rb5 Bg6 63. Ra5 Kg4 64. Ra6 Kg3 65. Ra1
+h5 66. Rg1+ Kh4 67. Rg2 g4 68. Kf4 Kh3 69. Rg3+ Kh2 70. Rc3 Bf7 71. Rc2+ Kg1
+72. Rc7 Be8 73. Re7 Bc6 74. Kg3 Kf1 75. Re6 Bb7 76. Re7 Bc6 77. Re6 Bb7 78. Re7
+Bc6 79. Re6 Bb7 1/2-1/2
+
+[Event "FIN-ch"]
+[Site "Mantta"]
+[Date "2008.06.06"]
+[Round "5"]
+[White "Nyback, Tomi"]
+[Black "Hurme, Harri M"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "2587"]
+[BlackElo "2221"]
+[PlyCount "77"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FIN"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 c5 5. cxd5 exd5 6. Bg2 Be7 7. O-O O-O 8. Nc3
+Nc6 9. Bg5 h6 10. Bxf6 Bxf6 11. dxc5 d4 12. Ne4 Re8 13. Nfd2 Be5 14. Nc4 Re7
+15. Ned6 Bf6 16. Nxc8 Rxc8 17. Nd6 Rcc7 18. Rc1 g6 19. a3 Be5 20. Nc4 Bg7 21.
+b4 a6 22. Nd6 Qd7 23. Qd3 Ne5 24. Qb3 Qg4 25. Rc2 h5 26. h3 Qd7 27. Nxb7 h4 28.
+Nd6 hxg3 29. Qxg3 Qa4 30. Rd2 d3 31. exd3 Qxa3 32. d4 Qxb4 33. Rdd1 Nc6 34.
+Bxc6 Rxc6 35. Qh4 Rcc7 36. Rb1 g5 37. Qxg5 Qxd4 38. Nf5 Qe5 39. Rb8+ 1-0
+
+[Event "FIN-ch"]
+[Site "Mantta"]
+[Date "2008.06.07"]
+[Round "6"]
+[White "Tuominen, Risto"]
+[Black "Nyback, Tomi"]
+[Result "0-1"]
+[ECO "D40"]
+[WhiteElo "2296"]
+[BlackElo "2587"]
+[PlyCount "118"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FIN"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. Bd3 dxc4 7. Bxc4 Be7 8.
+Nf3 O-O 9. O-O a6 10. a4 Nc6 11. Bg5 Bd7 12. Re1 Rc8 13. Rc1 Re8 14. Bb3 Nd5
+15. Bxe7 Ncxe7 16. Nxd5 Nxd5 17. Bxd5 Rxc1 18. Qxc1 exd5 19. Rxe8+ Qxe8 20. b3
+Qe4 21. h3 f6 22. Qe1 Kf7 23. Qb4 Bc6 24. Qd6 g5 25. Qc7+ Qe7 26. Qc8 Kg7 27.
+h4 h6 28. hxg5 hxg5 29. Qf5 Qe4 30. Qc8 Qe7 31. Qf5 Qb4 32. Qe6 Qf8 33. Ne1 Qe8
+34. Qxe8 Bxe8 35. Nd3 a5 36. g4 Bg6 37. Nc1 Bc2 38. f3 Bd1 39. Kf2 b6 40. Ke3
+Kf7 41. Na2 Bxb3 42. Nc3 Ke6 43. f4 Kd6 44. fxg5 fxg5 45. Kd2 Kc6 46. Kc1 Bc4
+47. Kc2 Ba6 48. Nd1 Kd6 49. Nf2 Ke6 50. Kd2 Bc8 51. Kc3 Bd7 52. Kb3 Kf6 53. Ka3
+Bxg4 54. Nxg4+ Kf5 55. Ne5 g4 56. Kb3 g3 57. Nf3 Ke4 58. Ng1 Kd3 59. Nf3 Ke2
+0-1
+
+[Event "FIN-ch"]
+[Site "Mantta"]
+[Date "2008.06.08"]
+[Round "7"]
+[White "Lehtinen, Heikki"]
+[Black "Hurme, Harri M"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2368"]
+[BlackElo "2221"]
+[PlyCount "135"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FIN"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8.
+Nge2 b6 9. Ng3 Re8 10. Nf5 c6 11. O-O Nf8 12. Nxe7+ Qxe7 13. e4 h6 14. Bxf6
+Qxf6 15. exd5 cxd5 16. Nxd5 Qd6 17. Ne3 Bb7 18. Qg4 Rad8 19. Rfd1 Kh8 20. Bc2
+g6 21. Rac1 Re7 22. Bb1 f5 23. Qh3 Kg7 24. d5 Nd7 25. a3 Nf6 26. Nc4 Qf4 27. d6
+Re2 28. Qg3 Qxg3 29. hxg3 Ba6 30. b3 Ng4 31. Rc2 Bxc4 32. bxc4 Rxc2 33. Bxc2
+Ne5 34. Bb3 Kf6 35. f4 Nd7 36. Ba4 Nc5 37. Bc6 Ne4 38. Bxe4 fxe4 39. g4 Ke6 40.
+Kf2 Kd7 41. Ke3 Rc8 42. Rd4 a6 43. Kxe4 Re8+ 44. Kd5 Re2 45. f5 gxf5 46. gxf5
+Rxg2 47. Ke5 Re2+ 48. Kf6 Ra2 49. Rd3 Rc2 50. Kg6 Rxc4 51. Kxh6 Rf4 52. Kg6 Rf1
+53. f6 Rg1+ 54. Kh6 Rf1 55. Kg7 Rg1+ 56. Kf8 b5 57. f7 Rg5 58. Re3 a5 59. Re7+
+Kd8 60. Ra7 b4 61. a4 b3 62. Rb7 Rg3 63. Rb5 Rg4 64. Rxb3 Rxa4 65. Kg7 Rg4+ 66.
+Kf6 Rf4+ 67. Ke6 Kc8 68. d7+ 1-0
+
+[Event "FIN-ch"]
+[Site "Mantta"]
+[Date "2008.06.10"]
+[Round "9"]
+[White "Kosmo, Santul"]
+[Black "Hurme, Harri M"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[WhiteElo "2219"]
+[BlackElo "2221"]
+[PlyCount "56"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "FIN"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Nbd7 8. Rc1
+b6 9. Bd3 c5 10. O-O Bb7 11. cxd5 Nxd5 12. Bg3 cxd4 13. exd4 N7f6 14. Bb1 Nxc3
+15. Rxc3 Be4 16. Be5 Bxb1 17. Qxb1 Nd5 18. Rd3 Rc8 19. Nd2 f6 20. Bg3 Nb4 21.
+Re3 e5 22. Nb3 Nd5 23. Ree1 exd4 24. Nxd4 Qd7 25. Nf5 Rfd8 26. Qe4 Bf8 27. h3
+Qf7 28. Rd1 g6 1/2-1/2
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.02"]
+[Round "1.2"]
+[White "Siluk, Zygmunt"]
+[Black "Kulpinski, Piotr"]
+[Result "1-0"]
+[ECO "D13"]
+[WhiteElo "2032"]
+[BlackElo "2010"]
+[PlyCount "79"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nf3 Nf6 5. Nc3 Nc6 6. e3 e6 7. Be2 Bd6 8. O-O
+O-O 9. Re1 a6 10. Bd2 Ne4 11. Bd3 f5 12. g3 g5 13. Kg2 h5 14. h4 gxh4 15. Nxh4
+Qg5 16. Bxe4 fxe4 17. Ne2 Bd7 18. Nf4 Nxd4 19. Rh1 Be8 20. Bc3 Nb5 21. Be1 Bxf4
+22. exf4 Rxf4 23. Bd2 e5 24. Qc1 d4 25. Bxf4 exf4 26. Qxf4 Qxf4 27. gxf4 Bc6
+28. Nf5 e3+ 29. f3 Rd8 30. Rxh5 Kf7 31. Rah1 Rg8+ 32. Kf1 Bxf3 33. Nh6+ Kf8 34.
+Nxg8 Bxh1 35. Rxh1 d3 36. Nh6 e2+ 37. Kf2 Nd4 38. Ng4 d2 39. Ne3 Nc2 40. Kxe2
+1-0
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.02"]
+[Round "1.4"]
+[White "Wojcieszyn, Zdzislaw"]
+[Black "Dukaczewski, Piotr"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "2057"]
+[BlackElo "2327"]
+[PlyCount "90"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. d4 c6 5. cxd5 exd5 6. Bg2 Bd6 7. Nf3 O-O 8. Qc2
+Re8 9. O-O Bg4 10. Bg5 Nbd7 11. a3 h6 12. Bxf6 Nxf6 13. h3 Bd7 14. b4 Qc8 15.
+Kh2 Bf5 16. Qd2 b5 17. Rfc1 Qd7 18. Nh4 Bh7 19. f4 a5 20. bxa5 b4 21. axb4 Bxb4
+22. Qb2 Reb8 23. a6 Qe7 24. Qa2 Qe3 25. Nd1 Qxd4 26. Rxc6 Rb5 27. Nf3 Qa7 28.
+Rac1 Ra5 29. Qb3 Bf8 30. Ne5 Rb8 31. Qe3 d4 32. Qd2 Rxa6 33. Rc7 Ra2 34. Rxa7
+Rxd2 35. Nf3 Rxe2 36. Nxd4 Rd2 37. Nf3 Rdd8 38. Ne5 Be4 39. Nf2 Bxg2 40. Kxg2
+Rb2 41. Kf3 Rb3+ 42. Ke2 Nh5 43. Ne4 Rd4 44. Nf2 Nxg3+ 45. Ke1 Bb4+ 0-1
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.04"]
+[Round "3.3"]
+[White "Wojcieszyn, Zdzislaw"]
+[Black "Kulpinski, Piotr"]
+[Result "1/2-1/2"]
+[ECO "D48"]
+[WhiteElo "2057"]
+[BlackElo "2010"]
+[PlyCount "98"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. O-O Bb7 10. Qe2 c5 11. Rd1 Qc7 12. b3 cxd4 13. Nb1 dxe3 14. Bxe3 Bd6 15.
+Nbd2 O-O 16. Rac1 Qb8 17. h3 Rc8 18. Bd4 Ba3 19. Rxc8+ Qxc8 20. g4 Nd5 21. Be4
+Nf4 22. Qe3 Bxe4 23. Nxe4 Qc2 24. Rd2 Qc1+ 25. Kh2 Qc7 26. Qc3 Qxc3 27. Bxc3
+Nb6 28. Bd4 Nbd5 29. Kg3 Rc8 30. Be5 Ng6 31. Bd6 Bc1 32. Rd1 Bb2 33. Rd2 Bc1
+34. Rd1 h6 35. Nd4 Ndf4 36. h4 h5 37. f3 e5 38. Nf5 Kh7 39. gxh5 Nxh5+ 40. Kg4
+Nf6+ 41. Nxf6+ gxf6 42. h5 Nf4 43. Be7 Rg8+ 44. Kh4 Bb2 45. Bxf6 Bc3 46. Ne3
+Bd4 47. Ng4 Bc3 48. Ne3 Bd4 49. Ng4 Bc3 1/2-1/2
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.07"]
+[Round "6.1"]
+[White "Ciula, Edward"]
+[Black "Dukaczewski, Piotr"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2009"]
+[BlackElo "2327"]
+[PlyCount "105"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 a6 4. a4 Nc6 5. d5 Na5 6. e4 Bd7 7. Nf3 Nb3 8. Rb1
+Nxc1 9. Rxc1 b5 10. Nd4 Qb8 11. Be2 e5 12. dxe6 fxe6 13. Bg4 Qb6 14. O-O Nf6
+15. e5 Nxg4 16. Qxg4 Bc5 17. a5 Qa7 18. Nxe6 Rg8 19. Rcd1 c6 20. Nxg7+ Rxg7 21.
+Qxg7 O-O-O 22. Ne4 Bd4 23. Rd2 c5 24. Rfd1 Qc7 25. Nxc5 Bxe5 26. Rxd7 Rxd7 27.
+Qxd7+ Qxd7 28. Rxd7 Bxb2 29. Rxh7 Ba3 30. Nxa6 Bd6 31. Kf1 b4 32. Nxb4 Bxb4 33.
+Rh4 Bxa5 34. Rxc4+ Kd7 35. Re4 Bd8 36. g4 Be7 37. f4 Ke8 38. h4 Kf7 39. h5 Bd6
+40. g5 Ba3 41. Kg2 Bb2 42. Kf3 Bc3 43. f5 Bd2 44. Kg4 Bc3 45. Re6 Bb2 46. Rb6
+Bd4 47. Rb7+ Kg8 48. f6 Be5 49. Kf5 Bd6 50. Kg6 Kh8 51. Rd7 Bf8 52. Rd8 Kg8 53.
+f7+ 1-0
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.09"]
+[Round "6.1"]
+[White "Ciula, Edward"]
+[Black "Lipski, Tadeusz"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "2009"]
+[BlackElo "2128"]
+[PlyCount "119"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. e3 e5 5. Bxc4 exd4 6. Qb3 Nh6 7. e4 dxc3 8.
+Bxh6 Qe7 9. Be3 cxb2 10. Rb1 Qb4+ 11. Qxb4 Bxb4+ 12. Kf1 Ba3 13. Ne2 O-O 14.
+Nc3 Na5 15. Bd3 c6 16. Rd1 Be6 17. Bb1 Bc4+ 18. Kg1 Bb4 19. Na4 Rfd8 20. Rxd8+
+Rxd8 21. g3 Bb5 22. Nxb2 Ba3 23. Bc1 Nc4 24. Nxc4 Rd1+ 25. Kg2 Rxh1 26. Kxh1
+Bxc1 27. Nd6 Ba6 28. e5 Ba3 29. Ne4 Kf8 30. f4 Ke7 31. Kg2 h6 32. Kf3 Ke6 33.
+g4 Kd5 34. Ng3 Kc4 35. Bc2 Kc3 36. Bb3 Bc4 37. Ne4+ Kb4 38. Bxc4 Kxc4 39. Nd6+
+Kd3 40. Nxf7 c5 41. e6 c4 42. Ne5+ Kc3 43. Ke4 b5 44. Kd5 Kd2 45. Nf3+ Ke3 46.
+Nd4 Kxf4 47. Nxb5 Be7 48. Kxc4 Kxg4 49. Nxa7 Kh3 50. Nc6 Ba3 51. e7 Bxe7 52.
+Nxe7 g5 53. a4 Kxh2 54. a5 g4 55. Nf5 h5 56. a6 g3 57. Nh4 Kh3 58. a7 Kxh4 59.
+a8=Q Kg4 60. Qe4+ 1-0
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.08"]
+[Round "7.5"]
+[White "Ruszczycki, Jacek"]
+[Black "Kulpinski, Piotr"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2048"]
+[BlackElo "2010"]
+[PlyCount "14"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c3 d5 3. f4 e6 4. Nf3 Be7 5. e3 O-O 6. Be2 c6 7. O-O Nbd7 1/2-1/2
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.09"]
+[Round "8.2"]
+[White "Wojcieszyn, Zdzislaw"]
+[Black "Falkowski, Dawid"]
+[Result "0-1"]
+[ECO "D07"]
+[WhiteElo "2057"]
+[BlackElo "1978"]
+[PlyCount "80"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. e3 e6 5. Nc3 Nf6 6. cxd5 exd5 7. Bb5 Bd6 8.
+Qa4 Bd7 9. Qb3 O-O 10. O-O Re8 11. Bd3 Bg4 12. Kh1 Ne4 13. Bxe4 dxe4 14. Ng1
+Re6 15. g3 a6 16. d5 Rh6 17. Nxe4 Ne5 18. f4 Ng6 19. Nxd6 Qxd6 20. e4 Ne7 21.
+Be3 f5 22. Qxb7 Rd8 23. Rac1 fxe4 24. Rxc7 Nf5 25. Bc5 Qxd5 26. Qxd5+ Rxd5 27.
+Kg2 Rd2+ 28. Rf2 e3 29. Rxd2 exd2 30. Rd7 d1=Q 31. Rxd1 Bxd1 32. h3 Rc6 33. b4
+Nd6 34. Nf3 Bxf3+ 35. Kxf3 Kf7 36. g4 Nb7 37. Bd4 Rc2 38. a3 Ra2 39. h4 Rxa3+
+40. Ke4 Rb3 0-1
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.09"]
+[Round "8.3"]
+[White "Kulpinski, Piotr"]
+[Black "Dukaczewski, Piotr"]
+[Result "0-1"]
+[ECO "D28"]
+[WhiteElo "2010"]
+[BlackElo "2327"]
+[PlyCount "58"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. c4 dxc4 5. Bxc4 c5 6. O-O a6 7. Qe2 Nc6 8. Rd1
+b5 9. Bb3 Qc7 10. Nc3 Bb7 11. d5 exd5 12. Nxd5 Nxd5 13. Bxd5 Be7 14. b3 O-O 15.
+Bb2 Rad8 16. Rac1 Nb4 17. Bxb7 Qxb7 18. Ba1 Rxd1+ 19. Rxd1 Qe4 20. Ne1 Rc8 21.
+f3 Qe6 22. e4 c4 23. a3 Nc6 24. bxc4 bxc4 25. Rc1 Na5 26. Bb2 Bc5+ 27. Kh1 Ba7
+28. f4 Qb6 29. Nc2 Qxb2 0-1
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.09"]
+[Round "8.6"]
+[White "Zoltek, Tadeusz"]
+[Black "Suder, Ryszard"]
+[Result "1/2-1/2"]
+[ECO "D73"]
+[WhiteElo "2209"]
+[BlackElo "2161"]
+[PlyCount "14"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c6 5. Nc3 d5 6. cxd5 cxd5 7. d4 Ne4
+1/2-1/2
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.10"]
+[Round "9.6"]
+[White "Ruszczycki, Jacek"]
+[Black "Siluk, Zygmunt"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2048"]
+[BlackElo "2032"]
+[PlyCount "20"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c3 c6 3. e3 Bf5 4. f4 e6 5. Nf3 Nd7 6. Be2 Bxb1 7. Rxb1 Ngf6 8. O-O
+Be7 9. b4 b5 10. a4 a6 1/2-1/2
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.11"]
+[Round "10.3"]
+[White "Siluk, Zygmunt"]
+[Black "Dukaczewski, Piotr"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2032"]
+[BlackElo "2327"]
+[PlyCount "72"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. e3 O-O 6. Ne5 c5 7. cxd5 exd5 8. Be2
+Nc6 9. Nxc6 bxc6 10. O-O Re8 11. Qc2 Qc7 12. Bf3 Bd6 13. g3 Bh3 14. Bg2 Qc8 15.
+Ne2 Bf5 16. Qd1 Qa6 17. Re1 Rab8 18. dxc5 Bxc5 19. Nd4 Bg6 20. b3 Bf8 21. Ne2
+Ne4 22. f3 Nc5 23. Bf1 Qb6 24. Nf4 Bf5 25. g4 Bd7 26. Qd4 Bd6 27. Nd3 Nxd3 28.
+Qxb6 axb6 29. Bxd3 Be5 30. Rb1 Bc3 31. Re2 c5 32. Bb2 Bxb2 33. Rbxb2 b5 34. Kf2
+c4 35. bxc4 dxc4 36. Be4 b4 0-1
+
+[Event "Wagrowiec"]
+[Site "Wagrowiec"]
+[Date "2008.06.11"]
+[Round "10.5"]
+[White "Ciula, Edward"]
+[Black "Kulpinski, Piotr"]
+[Result "0-1"]
+[ECO "D66"]
+[WhiteElo "2009"]
+[BlackElo "2010"]
+[PlyCount "76"]
+[EventDate "2008.06.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. Nf3 Be7 6. e3 O-O 7. Bd3 c6 8. O-O
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. Rc1 a6 12. Qe2 c5 13. Rfd1 cxd4 14. Nxd4 Nd5
+15. Nxd5 Bxg5 16. Nc7 e5 17. Nb3 Rc8 18. Bf5 Rxc7 19. Rxc7 Qxc7 20. Rxd7 Qc6
+21. Qg4 Bc8 22. Rd1 Qc2 23. Bxc8 Rxc8 24. f4 f5 25. Qf3 e4 26. Qf1 Bxf4 27.
+exf4 Qxb2 28. Qf2 Rc2 29. Rd8+ Kf7 30. Qa7+ Kg6 31. Rd6+ Kh5 32. Qf7+ Kg4 33.
+Rg6+ Kxf4 34. g3+ Ke3 35. Qa7+ Kf3 36. Nd4+ Qxd4+ 37. Qxd4 Rc1+ 38. Qd1+ Rxd1#
+0-1
+
+[Event "Alushta Summer-3"]
+[Site "Alushta"]
+[Date "2008.06.03"]
+[Round "1"]
+[White "El Gindy, Essam"]
+[Black "Rausis, Igors"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[WhiteElo "2507"]
+[BlackElo "2512"]
+[PlyCount "41"]
+[EventDate "2008.06.03"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "UKR"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nf3 Nf6 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rfc1 Rac8 13. h3 a6 14. a3 Nd7
+15. Na4 e5 16. dxe5 Ndxe5 17. Nxe5 Nxe5 18. Qd4 h6 19. Rxc8 Rxc8 20. Rd1 Nc4
+21. Qg4 1/2-1/2
+
+[Event "Alushta Summer-3"]

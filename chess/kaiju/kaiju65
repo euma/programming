@@ -1,0 +1,50 @@
+D45	Acclerated Meran, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 a6
+D45	Normal Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7
+D45	Rubinstein; anti-Meran	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7
+6.Ne5
+D45	Stoltz Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Qc2
+D45	Center Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Qc2 Bd6 7.e4
+D45	Mikhalchishin Line, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Qc2 Bd6 7.e4 dxe4 8.Nxe4 Nxe4 9.Qxe4 e5 10.dxe5
+D45	Shabalov Attack, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Qc2 Bd6 7.g4
+D46	D46	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3
+D46	Romi Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7
+6.Bd3 Bb4
+D46	Chigorin Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7
+6.Bd3 Bd6
+D46	Bogoljubow Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Bd3 Be7
+D47	Meran Variation, QGD; D47	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4
+D47	Lundin; Neo-Meran	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7
+6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 b4
+D47	Wade Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7
+6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+D47	Larsen Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7 9.e4 b4 10.Na4 c5
+D48	Reynolds Variation, QGD; D48	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6
+D48	Pirc Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7
+6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 b4
+D48	Old Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5
+D48	Reynolds Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 d5
+D48	Old Meran Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.O-O
+D49	Blumenfeld Variation, QGD; D49	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5
+D49	Sozin Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7
+6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5
+D49	Stahlberg Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5
+12.Nxe5 axb5
+D50	Modern Variation, QGD; D50	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5
+D50	Uhlmann Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Nf3 h6
+6.Bh4 O-O 7.Rc1 dxc4
+D50	Been & Koomen; Dutch & Peruvian	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5
+D50	Pseudo-Tarrasch Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5

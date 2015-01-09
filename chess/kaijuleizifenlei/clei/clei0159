@@ -1,0 +1,600 @@
+[BlackElo "1737"]
+[PlyCount "72"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Ng8 8.
+g3 f6 9. Bf4 Rb8 10. b3 d6 11. exd6 cxd6 12. Qxe7+ Bxe7 13. Bg2 Bd7 14. Nd2 g5
+15. Be3 a6 16. O-O-O Nh6 17. Rhe1 Nf5 18. Ne4 Kf7 19. Bc5 Rbe8 20. Bxd6 Nxd6
+21. Nxd6+ Bxd6 22. Rxe8 Ba3+ 23. Kd2 Rxe8 24. Kc3 Ke7 25. b4 c5 26. bxc5 Bxc5
+27. Bf1 Bb5 28. Bxb5 axb5 29. f4 Rd8 30. Re1+ Kf7 31. fxg5 fxg5 32. Rf1+ Ke6
+33. g4 Rf8 34. Re1+ Kd5 35. Rd1+ Ke4 36. Rb1 Rf3+ 0-1
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "5"]
+[White "Paravian, David"]
+[Black "Antipov, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[BlackElo "1887"]
+[PlyCount "105"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. c3 d5 5. exd5 Qxd5 6. Qf3 Nf6 7. Bg2 Ne5 8.
+Qxd5 exd5 9. Nf3 Nd3+ 10. Ke2 Nxc1+ 11. Rxc1 Bd6 12. d4 O-O 13. Nbd2 Bf5 14.
+dxc5 Rfe8+ 15. Kf1 Bxc5 16. Nb3 Bd3+ 17. Kg1 Bb6 18. Re1 Ne4 19. Nbd4 Nd6 20.
+Ne5 Be4 21. Ng4 Bxd4 22. cxd4 Nb5 23. Ne3 Bxg2 24. Kxg2 Nxd4 25. Nxd5 Red8 26.
+Ne3 Re8 27. Rad1 Rad8 28. Nd5 Rxe1 29. Rxe1 Kf8 30. Ne3 Nc6 31. Rd1 Rxd1 32.
+Nxd1 Ke7 33. Kf3 f5 34. Ke3 Ne5 35. h3 Kd6 36. f4 Nc6 37. g4 Ne7 38. Kd4 Nd5
+39. gxf5 Nxf4 40. Nf2 Ne2+ 41. Kc4 Ke5 42. Kc5 Nf4 43. b4 Kxf5 44. Kd6 b6 45.
+Kc6 g5 46. Kb7 Nd5 47. b5 Nc3 48. Kxa7 Nxa2 49. Kxb6 Nc3 50. Kc5 Nxb5 51. Kxb5
+h5 52. Kc4 Kf4 53. Kd3 1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "5"]
+[White "Sidorchuk, Roman"]
+[Black "Kuchkin, Maksim"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2161"]
+[BlackElo "2086"]
+[PlyCount "63"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 f6 7. O-O fxe5 8. Nxe5
+Nxe5 9. dxe5 Qc7 10. f4 Nh6 11. Na3 O-O-O 12. Kh1 Kb8 13. Be3 Nf5 14. Bg1 h5
+15. Bd3 g6 16. Nc2 h4 17. Bxf5 gxf5 18. h3 Bc6 19. Ne1 Rg8 20. Bf2 Qh7 21. Nf3
+Be7 22. b4 Rg6 23. bxc5 Rdg8 24. Nd4 Be8 25. Rb1 Bxc5 26. Nxe6 Bxf2 27. Qxd5
+Qd7 28. Rxb7+ Qxb7 29. Qd6+ Ka8 30. Nc7+ Kb8 31. Ne6+ Ka8 32. Nc7+ 1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "5"]
+[White "Zaryvkina, Anastasia"]
+[Black "Miloserdova, Irina"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2063"]
+[BlackElo "2015"]
+[PlyCount "116"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. c3 dxe4 6. dxe4 Bc5 7. Bc4 O-O 8.
+O-O Nc6 9. Qc2 Bd7 10. b4 Be7 11. Nb3 h6 12. Rd1 Qc8 13. e5 Ne8 14. Qe4 f5 15.
+Qd3 Nb8 16. Nfd4 Kh8 17. Qf3 c6 18. Qh5 Kh7 19. g4 Nc7 20. g5 Qe8 21. Qxe8 Rxe8
+22. gxh6 gxh6 23. Ne2 Nd5 24. Bxd5 cxd5 25. Nbd4 Nc6 26. Nxc6 Bxc6 27. Nd4 Bd7
+28. a3 Rg8+ 29. Kf1 Rg6 30. Be3 Rf8 31. f4 Rfg8 32. Rd2 Bh4 33. Rc1 Rc8 34. Rg2
+Be7 35. Rxg6 Kxg6 36. Ke2 Kf7 37. Kd3 a5 38. Rb1 axb4 39. axb4 Ra8 40. Rb2 Ra3
+41. Nc2 Bb5+ 42. Kd2 Ra6 43. Nd4 Bc4 44. Nc2 Bd8 45. Bf2 Ra8 46. Ne3 Bb5 47.
+Nc2 Bc7 48. Nd4 Bc4 49. Nc2 Ke7 50. Rb1 Ra2 51. Ra1 Rxa1 52. Nxa1 Bb5 53. Nc2
+Bd7 54. Ne3 Bb5 55. Kc2 Kd7 56. Kb3 Kc6 57. Nc2 Kd7 58. Na3 Bf1 1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "6"]
+[White "Talybov, Shukiur"]
+[Black "Safonov, Roman"]
+[Result "1/2-1/2"]
+[ECO "C62"]
+[WhiteElo "2026"]
+[BlackElo "2108"]
+[PlyCount "124"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Bxc6 Bxc6 6. Nc3 Nf6 7. Qe2 exd4 8.
+Nxd4 Bd7 9. Bf4 Be7 10. O-O-O O-O 11. f3 Nh5 12. Be3 Bg5 13. g4 Nf4 14. Qd2 Ne6
+15. f4 Nxd4 16. Bxd4 Bf6 17. g5 Bxd4 18. Qxd4 Bc6 19. Rhg1 Qe7 20. h4 Kh8 21.
+h5 f6 22. h6 g6 23. Rde1 Rae8 24. Nd5 Bxd5 25. Qxd5 b6 26. Qd4 Qe6 27. Kb1 Re7
+28. Qc3 Kg8 29. f5 Qe5 30. gxf6 Qxc3 31. fxe7 Qxe1+ 32. Rxe1 Re8 33. f6 Kf7 34.
+Rf1 g5 35. Kc1 g4 36. Kd2 g3 37. Ke3 g2 38. Rg1 Kxf6 39. Rxg2 Rxe7 40. Kf4 Rf7
+41. Ke3 Ke6 42. Rg5 a6 43. c3 c5 44. b3 Rf6 45. Rh5 Kf7 46. a4 Kg6 47. Rh1 Kg5
+48. Kd3 b5 49. axb5 axb5 50. b4 Rf3+ 51. Kd2 cxb4 52. cxb4 Rb3 53. Kc2 Rxb4 54.
+Rd1 Rxe4 55. Rxd6 b4 56. Rb6 Rh4 57. Kd2 Rh2+ 58. Ke1 Rb2 59. Kd1 b3 60. Kc1
+Rc2+ 61. Kd1 Rc3 62. Kd2 Rh3 1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "7"]
+[White "Gvanceladze, Anna"]
+[Black "Eliseev, Urii"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[WhiteElo "2069"]
+[BlackElo "2138"]
+[PlyCount "62"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1 8.
+Rxd1 fxe5 9. h3 Bxf3 10. gxf3 Bd6 11. Be3 Ne7 12. Nd2 O-O 13. Kf1 Kf7 14. Ke2
+Ng6 15. Rg1 Be7 16. c3 Ke6 17. b4 b6 18. a3 Rf7 19. Rg3 Rff8 20. Rgg1 Rf7 21.
+Rg3 Rd8 22. Rgg1 Bf6 23. Rgc1 h6 24. Rc2 Bg5 25. c4 Nf4+ 26. Bxf4 Rxf4 27. Nb3
+Kd7 28. Rd2+ Kc8 29. Rxd8+ Kxd8 30. c5 Be7 31. Rc1 Kd7 1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "7"]
+[White "Kirillov, Dmitry"]
+[Black "Miloserdova, Irina"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "2041"]
+[BlackElo "2015"]
+[PlyCount "114"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ndf3 c5 6. c3 Nc6 7. Bd3 Qb6 8. Ne2
+cxd4 9. cxd4 Be7 10. O-O O-O 11. Nf4 Re8 12. Re1 Nf8 13. Nh5 Ng6 14. Bxg6 hxg6
+15. Nf4 Bd7 16. b3 Rec8 17. Bb2 Rc7 18. h4 Rac8 19. h5 gxh5 20. Nxh5 Nb4 21.
+Ba3 Qa5 22. Bxb4 Bxb4 23. Re3 Be7 24. Nh2 g6 25. Ng4 Qa3 26. Qf3 Bg5 27. Nhf6+
+Kg7 28. Nxd7 Rxd7 29. Rc3 Rdc7 30. Rxc7 Rxc7 31. Nf6 Rc1+ 32. Rxc1 Qxc1+ 33.
+Kh2 Qf4+ 34. Qxf4 Bxf4+ 35. g3 Bd2 36. Ne8+ Kf8 37. Nd6 Bc3 38. Nxb7 Bxd4 39.
+f4 Ke7 40. Kg2 Kd7 41. Kf3 f6 42. exf6 Bxf6 43. Nc5+ Kd6 44. Nd3 Kc6 45. a4 a5
+46. g4 Kd6 47. Ke3 Bc3 48. Nf2 Kc5 49. Nd3+ Kd6 50. Nc1 Bb4 51. Ne2 Bc5+ 52.
+Kd3 Bf2 53. Nc1 Kc5 54. Ke2 Bd4 55. Nd3+ Kd6 56. Kf3 Bf6 57. Ke3 Bc3 1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "7"]
+[White "Nguyen Viet Tuong"]
+[Black "Kuchkin, Maksim"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "2301"]
+[BlackElo "2086"]
+[PlyCount "64"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 f6 8. exf6
+Qxf6 9. Nf3 h6 10. Qc2 Bd6 11. Bg6+ Kd8 12. dxc5 Bxc5 13. O-O Nde5 14. Nxe5
+Nxe5 15. Bd3 Ng4 16. Nd4 e5 17. Nb3 Bb6 18. Qe2 e4 19. Bc2 Qe5 20. g3 Qh5 21.
+h4 g5 22. c4 gxh4 23. Bf4 hxg3 24. Bxg3 Qh3 25. c5 Bc7 26. Rad1 Bxg3 27. Rxd5+
+Kc7 28. fxg3 Qxg3+ 29. Kh1 Qh3+ 30. Kg1 Rg8 31. Rf7+ Kb8 32. Qxe4 Nf6+ 0-1
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "7"]
+[White "Safonov, Roman"]
+[Black "Sysoykina, Lidia"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2108"]
+[BlackElo "1737"]
+[PlyCount "77"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 d6 7. O-O O-O 8.
+h3 Nxd4 9. Qxd4 Nd7 10. Nd5 Nb6 11. Nxe7+ Qxe7 12. Bd3 f5 13. Bd2 f4 14. f3 Nd7
+15. Qc4+ Kh8 16. Qxc7 Qf6 17. Bc3 Ne5 18. Rad1 Qg5 19. Qxd6 Bxh3 20. Rd2 Nf7
+21. Qd4 Be6 22. Bc4 Rad8 23. Bd5 Bxd5 24. exd5 Nd6 25. Qxa7 Nc4 26. Rd3 Ne3 27.
+Rf2 Nxd5 28. Qc5 Rf5 29. Re2 h5 30. Qd4 Rdf8 31. Re5 Ne3 32. Rd2 Qg3 33. Re2
+Rxe5 34. Qxe5 Rd8 35. Qxh5+ Kg8 36. Be1 Rd1 37. Qe8+ Kh7 38. Qh5+ Kg8 39. Qe8+
+1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "8"]
+[White "Bayrak, Kaan Baris"]
+[Black "Voronkov, Denis"]
+[Result "0-1"]
+[ECO "C01"]
+[BlackElo "1996"]
+[PlyCount "68"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Nf6 6. O-O O-O 7. Bg5 h6 8.
+Bh4 Bg4 9. h3 Bh5 10. c3 Nbd7 11. Nbd2 c5 12. dxc5 Nxc5 13. Bc2 g5 14. Bg3 Bxg3
+15. fxg3 Qb6 16. Kh1 Nce4 17. Qe1 Rfe8 18. Nxe4 Nxe4 19. Bxe4 dxe4 20. Nd4 Qxb2
+21. Rf2 Qa3 22. g4 Bg6 23. Qe3 Qc5 24. Rf6 Rac8 25. Rc1 b5 26. h4 b4 27. c4
+Red8 28. Rd1 Qe5 29. Rf2 gxh4 30. Rdd2 Rxc4 31. Nb3 Rdc8 32. Rd7 a5 33. Rfd2
+Kh7 34. Rd1 Rc3 0-1
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "8"]
+[White "Karabayir, Mustafa Yilmaz"]
+[Black "Magdalinskaya, Evgenia"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "1850"]
+[BlackElo "1824"]
+[PlyCount "107"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Be7 8. O-O
+O-O 9. f4 cxd4 10. cxd4 f6 11. Nf3 Qb6 12. Kh1 a6 13. a3 Qd8 14. f5 fxe5 15.
+fxe6 e4 16. exd7 Bxd7 17. Nf4 exd3 18. Qxd3 Bf5 19. Qb3 b5 20. Qxd5+ Qxd5 21.
+Nxd5 Bd6 22. Be3 Rae8 23. Rae1 Bd3 24. Rf2 Be4 25. Nc3 Bxf3 26. gxf3 Nxd4 27.
+Kg2 Nf5 28. Bd2 Rxe1 29. Bxe1 Nh4+ 30. Kf1 Nxf3 31. Ne4 Nxh2+ 32. Kg2 Rxf2+ 33.
+Bxf2 Be5 34. Kh3 Nf3 35. Kg4 Nd4 36. Nc5 Nc2 37. b3 Nxa3 38. Nxa6 Bd6 39. b4
+Nc4 40. Bg3 h5+ 41. Kh3 Bxg3 42. Kxg3 g5 43. Nc7 Nd6 44. Ne6 Ne4+ 45. Kf3 Nf6
+46. Nxg5 Nd5 47. Ne4 Nxb4 48. Nf6+ Kf7 49. Nxh5 Ke6 50. Ke4 Kd6 51. Nf4 Kc5 52.
+Ne6+ Kc6 53. Nd4+ Kc5 54. Nxb5 1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "8"]
+[White "Miloserdova, Irina"]
+[Black "Shafarostov, Artem"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "2015"]
+[BlackElo "1920"]
+[PlyCount "87"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. O-O exd4 6. Nxd4 g6 7. Nc3 Bg7 8.
+Bxc6 bxc6 9. Bf4 Nf6 10. e5 Nh5 11. Bg3 Nxg3 12. hxg3 Bxe5 13. f4 Bxd4+ 14.
+Qxd4 O-O 15. Ne4 f5 16. Ng5 Qf6 17. Qc4+ d5 18. Qc5 Qd6 19. Qc3 Rab8 20. b3 c5
+21. Rfe1 Rfe8 22. Nf3 d4 23. Qd2 Bc6 24. Ne5 Be4 25. g4 Qd5 26. Rad1 g5 27.
+gxf5 gxf4 28. Ng4 Qd6 29. f6 h5 30. Nf2 Bg6 31. Nh3 Qxf6 32. Rf1 Qf5 33. Rf2
+Qe4 34. Nxf4 Bf7 35. Rdf1 Qe3 36. Qa5 Rb7 37. Qxc5 Qe5 38. Qc6 Rb6 39. Qf3 Qe3
+40. Qd1 Rf6 41. Kh1 Re4 42. Nd3 Bg6 43. Kg1 Rh4 44. Re1 1-0
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "8"]
+[White "Paravian, David"]
+[Black "Eliseev, Urii"]
+[Result "1/2-1/2"]
+[ECO "C97"]
+[BlackElo "2138"]
+[PlyCount "139"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Bg5 Bd7 13. dxe5 dxe5 14. Nxe5 Bxh3 15.
+Bf4 Bd6 16. Ng6 Rfd8 17. Qc1 hxg6 18. e5 Be6 19. exd6 Qc6 20. Nd2 Bd5 21. f3
+Ne8 22. Ne4 Nc4 23. Rd1 Ncxd6 24. Nxd6 Nxd6 25. b3 Ne8 26. Qe3 Nf6 27. Rac1 Be6
+28. Qf2 Rd5 29. b4 c4 30. a4 Bf5 31. Rxd5 Nxd5 32. Be5 Bxc2 33. Rxc2 bxa4 34.
+Qc5 Qb5 35. Rd2 Nf6 36. Qd4 Ne8 37. Ra2 a5 38. Qc5 Qxc5+ 39. bxc5 f6 40. Bd4
+Kf7 41. Kf2 Ke6 42. Rxa4 Kd5 43. c6 Kxc6 44. Rxc4+ Kb5 45. Rc5+ Ka4 46. Ke3 Kb3
+47. Rb5+ Kc4 48. Rc5+ Kb3 49. Rb5+ Kc4 50. Rc5+ Kb3 51. Rb5+ Ka2 52. c4 Nd6 53.
+Rb2+ Ka3 54. Kd3 Nf5 55. Rb5 a4 56. Bc5+ Ka2 57. Kc2 a3 58. g4 Nh4 59. Rb3 Ra4
+60. Rb4 Rxb4 61. Bxb4 Nxf3 62. Bc3 Ng5 63. c5 Ne6 64. c6 f5 65. gxf5 gxf5 66.
+Bxg7 f4 67. Bf8 f3 68. Bc5 f2 69. Bxf2 Nd4+ 70. Bxd4 1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "8"]
+[White "Pustovoitova, Daria"]
+[Black "Kozlov, Gennady"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2166"]
+[BlackElo "2224"]
+[PlyCount "105"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Bd7 5. Nf3 Nc6 6. a3 c4 7. Nbd2 f6 8. Be2 Qc7
+9. O-O Nge7 10. Re1 Ng6 11. exf6 gxf6 12. b3 cxb3 13. c4 Nf4 14. cxd5 Nxd5 15.
+Bc4 O-O-O 16. Ne4 Na5 17. Bxd5 exd5 18. Nxf6 Ba4 19. Ne5 Qg7 20. Qf3 Bd6 21.
+Qxd5 Bxe5 22. Qxe5 Nc6 23. Qe6+ Kb8 24. d5 Na5 25. d6 Bd7 26. Qe7 Rhg8 27. Nxg8
+Qxg8 28. Qg5 Nc4 29. Qxg8 Rxg8 30. Rb1 Ba4 31. Re4 b5 32. Rd4 Rd8 33. g4 Kb7
+34. Bb2 Kc6 35. d7 a5 36. f4 Kc5 37. Rc1 Kb6 38. Ba1 Kc6 39. Rcxc4+ bxc4 40.
+Rxc4+ Kb5 41. Rd4 b2 42. Bxb2 Bb3 43. Rd6 Kc5 44. Be5 Ba4 45. Ra6 Bxd7 46.
+Rxa5+ Kc4 47. h3 h5 48. gxh5 Bxh3 49. h6 Bf5 50. Ra7 Rd1+ 51. Kh2 Be4 52. Ra4+
+Kd5 53. Rxe4 1-0
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "8"]
+[White "Safonov, Roman"]
+[Black "Kuzin, Sergey"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "2108"]
+[BlackElo "2043"]
+[PlyCount "79"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Nxe5 Nxc4 8.
+Nxc4 d6 9. O-O Nf6 10. e5 dxe5 11. Nxe5 O-O 12. Ba3 Bxa3 13. Nxa3 c6 14. Qb3
+Qd5 15. Nac4 Ne4 16. f3 Ng5 17. Ne3 Qxb3 18. axb3 f6 19. Nd3 Re8 20. Kf2 Nf7
+21. Nc5 Nd6 22. d5 Rd8 23. dxc6 bxc6 24. Rfd1 Nf7 25. Rxd8+ Nxd8 26. Nc4 Ne6
+27. Ne4 Nc7 28. Na5 f5 29. Nc5 Ne6 30. Nxe6 Bxe6 31. Nxc6 Bxb3 32. Rxa7 Rf8 33.
+Nd4 Bc4 34. Rc7 Ba2 35. c4 Rf6 36. c5 f4 37. c6 Rf8 38. Ra7 Bd5 39. Rd7 Bxc6
+40. Nxc6 1-0
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "9"]
+[White "Mikhailov, Viacheslav"]
+[Black "Piskun, Alexey"]
+[Result "1-0"]
+[ECO "C06"]
+[BlackElo "2072"]
+[PlyCount "65"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6 7. Ne2 Ba6 8. Bxa6
+Nxa6 9. Nf3 Be7 10. O-O Nc7 11. Ng3 h5 12. Ne1 g6 13. f4 Nf8 14. Nf3 Nh7 15.
+Qd3 O-O 16. Ne1 Ne8 17. f5 exf5 18. Bh6 c4 19. Qf3 Ng7 20. Nc2 h4 21. Ne2 Qd7
+22. Nf4 Rfd8 23. Ne3 Bg5 24. Bxg7 Bxf4 25. Qxf4 Kxg7 26. Qxh4 Rh8 27. Qg3 Kf8
+28. Rf4 Ke7 29. Re1 Ke6 30. Rh4 Qe7 31. Nxd5 Kxd5 32. Qf3+ Ke6 33. Qc6+ 1-0
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "9"]
+[White "Nguyen Viet Tuong"]
+[Black "Grigorieva, Olga"]
+[Result "1-0"]
+[ECO "C63"]
+[WhiteElo "2301"]
+[PlyCount "107"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nc3 Bg4 7. h3 Bxf3 8.
+Qxf3 Nf6 9. d3 Qd6 10. Bg5 O-O-O 11. Bxc6 Qxc6 12. O-O-O Kb8 13. Kb1 Bb4 14.
+Ne2 Rhf8 15. Qg3 Rde8 16. Rhf1 h6 17. Bxf6 Qxf6 18. a3 Bd6 19. Qg4 a6 20. Nc3
+Qf7 21. f3 Bc5 22. Rfe1 g5 23. Rd2 Re7 24. Rde2 Rfe8 25. h4 Qg8 26. Qh5 gxh4
+27. Qxh4 Rh7 28. Rxe5 Rxe5 29. Rxe5 Qxg2 30. Qd8+ Ka7 31. Re8 Kb6 32. Nxd5+ Kc6
+33. Re6+ Bd6 34. Ne7+ Rxe7 35. Qxe7 Qxf3 36. Qe8+ Kb6 37. Re1 h5 38. Qe3+ Qxe3
+39. Rxe3 h4 40. d4 Kc6 41. c4 Kd7 42. Kc2 Bg3 43. Kd3 Kd6 44. b4 c6 45. c5+ Kd7
+46. Kc4 Kd8 47. d5 cxd5+ 48. Kxd5 Kd7 49. a4 Kd8 50. c6 bxc6+ 51. Kxc6 Bf2 52.
+Re5 Bg3 53. Rh5 Be1 54. Rd5+ 1-0
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "9"]
+[White "Oparin, Grigoriy"]
+[Black "Safonov, Roman"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2005"]
+[BlackElo "2108"]
+[PlyCount "108"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. g3 f6 10. exf6 Nxf6 11. Nc3 Qxe2+ 12. Bxe2 Bb4 13. Be3 Ne4 14. Rc1
+O-O 15. O-O Bxc3 16. bxc3 Nd6 17. Rfd1 Rae8 18. Bf1 Rf7 19. c5 Bxf1 20. cxd6
+Bc4 21. dxc7 d6 22. Rxd6 Rxc7 23. a4 Re6 24. Rd8+ Kf7 25. h4 Re4 26. a5 Bd5 27.
+Ra8 Ra4 28. Rxa7 Rxa7 29. Bxa7 Rxa5 30. Be3 Ra4 31. Kh2 Re4 32. Ra1 Re7 33. g4
+g6 34. Kg3 h5 35. Ra4 Re4 36. Ra7+ Re7 37. Ra3 hxg4 38. Kxg4 Re4+ 39. Kg3 Re7
+40. Ra4 Re4 41. Ra5 Re7 42. Bg5 Rb7 43. Ra4 Rb3 44. Bd2 Rb2 45. Be3 Rc2 46.
+Ra7+ Ke6 47. Bd4 Rc1 48. Kf4 Re1 49. Rg7 Bb3 50. Rg8 Kf7 51. Rc8 Bd5 52. Kg5
+Rg1+ 53. Kh6 Rg4 54. Rc7+ Ke6 1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "9"]
+[White "Pasiev, Rakhim"]
+[Black "Paravian, David"]
+[Result "1-0"]
+[ECO "C58"]
+[WhiteElo "2137"]
+[PlyCount "57"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Qf3 Be7 9. Nc3 O-O 10. Bd3 Bg4 11. Qg3 Re8 12. O-O c5 13. Nxh7 Nxh7 14. Bxh7+
+Kxh7 15. Qxg4 g6 16. d3 Kg7 17. Qg3 Nc6 18. Be3 Rb8 19. Rab1 f5 20. f4 Bd6 21.
+Nd5 e4 22. Qf2 Qa5 23. a3 exd3 24. cxd3 Rbd8 25. Bd2 Qa6 26. Bc3+ Nd4 27. Bxd4+
+cxd4 28. Qxd4+ Kh6 29. Rf3 1-0
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "9"]
+[White "Repina, Varvara"]
+[Black "Surikov, Roman"]
+[Result "1/2-1/2"]
+[ECO "C79"]
+[WhiteElo "2158"]
+[BlackElo "1983"]
+[PlyCount "117"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. c3 Nxb3 7. axb3 d6 8. O-O
+Nf6 9. Re1 Bb7 10. d3 g6 11. Nbd2 Bg7 12. b4 O-O 13. Nb3 Qe7 14. Na5 Rfb8 15.
+Bg5 h6 16. Bh4 Qe8 17. Nd2 Nh5 18. f3 Nf4 19. Nxb7 Rxb7 20. Nb3 f5 21. Bf2 Qf7
+22. Ra3 fxe4 23. dxe4 h5 24. Qc2 Rbb8 25. Rea1 g5 26. Be3 Rf8 27. Bxf4 Qxf4 28.
+Qd2 Qf6 29. Qe2 Bh6 30. Nd2 g4 31. fxg4 Bxd2 32. Qxd2 hxg4 33. Qe2 Qf4 34. g3
+Qf3 35. Qxf3 Rxf3 36. Rxa6 Raf8 37. Ra8 Rd3 38. Rxf8+ Kxf8 39. Ra8+ Ke7 40. Rg8
+Rd1+ 41. Kf2 Rd2+ 42. Ke3 Rxh2 43. Rxg4 Rxb2 44. Rg7+ Kd8 45. g4 Rc2 46. Kd3
+Rg2 47. g5 Rg3+ 48. Kc2 Rg2+ 49. Kb3 Rg4 50. g6 c6 51. Rg8+ Ke7 52. g7 Kf7 53.
+Rc8 Rxg7 54. Rxc6 Ke6 55. c4 Rg3+ 56. Kc2 Rg2+ 57. Kd3 Rg3+ 58. Ke2 bxc4 59.
+Rxc4 1/2-1/2
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "9"]
+[White "Shafarostov, Artem"]
+[Black "Bayrak, Kaan Baris"]
+[Result "1-0"]
+[ECO "C26"]
+[WhiteElo "1920"]
+[PlyCount "83"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. g3 Bc5 5. Bg2 d6 6. O-O O-O 7. d3 h6 8. Na4
+Bb6 9. Nxb6 cxb6 10. Re1 Bg4 11. h3 Bxf3 12. Bxf3 Nd4 13. Bg2 Rc8 14. c3 Ne6
+15. Be3 Nc5 16. Qd2 Re8 17. f3 d5 18. Rad1 dxe4 19. dxe4 Qxd2 20. Rxd2 Rcd8 21.
+Red1 Rxd2 22. Rxd2 Kf8 23. Kf2 Ke7 24. Ke2 Rc8 25. Bf2 Rc6 26. Ke3 Rd6 27. Rxd6
+Kxd6 28. b3 Nfd7 29. Bf1 a5 30. Bc4 f6 31. f4 Ne6 32. Kf3 Nc7 33. Kg4 Ne6 34.
+Bd5 Nec5 35. Kf5 Nf8 36. b4 axb4 37. cxb4 Nd3 38. Bxb6 Nxb4 39. Bxb7 Nxa2 40.
+Ba5 h5 41. Bd5 Kd7 42. Bxa2 1-0
+
+[Event "Moscow Petrosian Memorial U18"]
+[Site "Moscow"]
+[Date "2008.01.??"]
+[Round "9"]
+[White "Sysoykina, Lidia"]
+[Black "Kuchkin, Maksim"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "1737"]
+[BlackElo "2086"]
+[PlyCount "77"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Bc5 5. Be2 dxe4 6. dxe4 Bxf2+ 7. Kxf2 Ng4+
+8. Kg1 Ne3 9. Qe1 Nxc2 10. Qg3 Nxa1 11. Qxg7 Rf8 12. Nc4 Nc6 13. Bh6 Qe7 14.
+Qxf8+ Qxf8 15. Bxf8 Kxf8 16. Ne3 Nb4 17. Kf2 Nac2 18. Nxc2 Nxc2 19. Rc1 Nb4 20.
+Rxc7 Nc6 21. Ng5 Ne5 22. Nxh7+ Kg7 23. Ng5 Kf6 24. Nf3 Ng6 25. e5+ Kg7 26. g3
+b6 27. Bb5 a5 28. Be8 Nh8 29. Ng5 Ba6 30. Bc6 Rb8 31. Nxe6+ Kg8 32. Nf4 Rd8 33.
+Ke3 Rd1 34. Ra7 Bc4 35. b3 Be6 36. Ra8+ Kh7 37. Be4+ Ng6 38. Bxg6+ fxg6 39.
+Nxe6 1-0
+
+[Event "Nizhnij Novgorod Dubinin Memorial"]
+[Site "Nizhnij Novgorod"]
+[Date "2008.01.??"]
+[Round "?"]
+[White "Baryshev, Sergey"]
+[Black "Gur, Oleg"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "1881"]
+[BlackElo "1941"]
+[PlyCount "52"]
+[EventDate "2008.01.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. f4 d5 3. e5 c5 4. Nf3 Nc6 5. c4 d4 6. a3 f6 7. Bd3 Qc7 8. Qc2 fxe5
+9. Bxh7 exf4 10. Bg6+ Kd8 11. O-O Nf6 12. b4 cxb4 13. Ng5 Ne5 14. Be4 d3 15.
+Bxd3 Bc5+ 16. Kh1 Nfg4 17. Nh3 f3 18. axb4 fxg2+ 19. Kxg2 Bd4 20. Rf4 Bxa1 21.
+Nc3 Bxc3 22. dxc3 g5 23. Rd4+ Ke8 24. Bxg5 Nxd3 25. Rxg4 Ne1+ 26. Kf2 Nxc2 0-1
+
+[Event "Nizhnij Novgorod Dubinin Memorial"]
+[Site "Nizhnij Novgorod"]
+[Date "2008.01.??"]
+[Round "?"]
+[White "Baryshev, Sergey"]
+[Black "Paley, Alexander"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "1881"]

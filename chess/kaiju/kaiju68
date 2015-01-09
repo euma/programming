@@ -1,0 +1,50 @@
+D70	Neo-Grunfeld Defense	1.d4 Nf6 2.c4 g6 3.Nf3 d5
+D70	Iago Defense	1.d4 Nf6 2.c4 Nc6
+D71	Counterthrust Variation	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7
+D71	Exchange Variation, Neo-Grunfeld	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2
+Bg7 5.cxd5 Nxd5
+D71	D71	1.d4 Nf6 2.c4 Nc6 3.g3 d5
+D72	D72	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.cxd5 Nxd5 6.e4 Nb6
+D73	D73	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3
+D74	Delayed Exchange Variation, Neo-Grunfeld; D74	1.d4 Nf6 2.c4 g6 3.g3
+d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O
+D75	D75	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O
+c5
+D76	D76	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O
+Nb6
+D77	Classical Variation, Neo-Grunfeld; D77	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2
+Bg7 5.Nf3 O-O 6.O-O
+D78	Original Defesne, Neo-Grunfeld; D78	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2
+Bg7 5.Nf3 O-O 6.O-O c6
+D78	Modern Defense, Neo-Grunfeld	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7
+5.Nf3 O-O 6.O-O dxc4
+D78	Polgar Variation, Neo-Grunfeld	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7
+5.Nf3 O-O 6.O-O Nc6
+D79	D79	1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O c6 7.cxd5
+D79	Ultra-delayed Exchange Variation, Neo-Grunfeld	1.d4 Nf6 2.c4 g6 3.g3
+d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O c6 7.cxd5 cxd5
+D80	Grunfeld Defense; D80	1.d4 Nf6 2.c4 g6 3.Nc3 d5
+D80	Stockholm Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5
+D80	Lundin Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4
+5.Nxe4 dxc3 6.Qd2 c5
+D80	Makogonov Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7
+5.Nf3 O-O 6.b4
+D80	Opocensky Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7
+5.Nf3 O-O 6.Bd2
+D80	Paris Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7
+5.Nf3 O-O 6.Bd3
+D80	Schlechter Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7
+5.Nf3 O-O 6.Bd3 c6
+D80	Flohr Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7
+5.Nf3 O-O 6.Bd3 c6 7.O-O Bf5
+D80	Smyslov Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7
+5.Nf3 O-O 6.Bd3 c6 7.O-O Bg4
+D80	Vienna Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7
+5.Nf3 O-O 6.Qb3
+D80	Pachman Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7
+5.Nf3 O-O 6.Qb3 dxc4 7.Bxc4 Nbd7 8.Ng5
+D80	Botvinnik Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7
+5.Nf3 O-O 6.Qb3 e6
+D80	Schlechter Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 c6
+D80	Kemeri Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.g3
+D80	Gibbon Gambit; Grunfeld Spike	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.g4

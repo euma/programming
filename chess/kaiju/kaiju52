@@ -1,0 +1,50 @@
+5.c3 f5
+C74	Kopaiev Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6
+5.c3 f5 6.exf5 Bxf5 7.O-O
+C75	C75	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7
+C76	C76	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 g6
+C77	C77	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+C77	Treybel; Flohr; Exchange Var Deferred	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.Bxc6
+C77	Bayreuth Variation, ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.Bxc6
+C77	Jaffe Gambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.c3
+C77	Anderssen Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3
+C77	Duras Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 d6 6.c4
+C77	Mackenzie Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d4
+C77	Center Attack, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d4 exd4
+C77	Nimzovich; Tarrasch Var, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.Nc3
+C77	Wormald Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.Qe2
+C78	Normal Variation, Ruy Lopez; C78	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.O-O
+C78	Arkangelsk; Counterthrust Var, Ruy	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.O-O b5 
+C78	Shannon Gambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O b5 6.Bb3 Bb7 7.Ng5 d5
+C78	Wing Attack, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5
+6.Bb3 Be7 7.a4
+C78	Neo-Steinitz Defense, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O b5 6.Bb3 d6
+C78	Moeller Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Bc5
+C79	Central Countergambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.O-O d5
+C79	Russian Defense, Ruy Lopez; C79; Lasker Defense	1.e4 e5 2.Nf3 Nc6
+3.Bb5 a6 4.Ba4 Nf6 5.O-O d6
+C79	Brix Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O g6
+C80	Tarrasch; Open Variation, Ruy Lopez; C80	1.e4 e5 2.Nf3 Nc6
+3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4
+C80	Schlechter Defense, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.a4 Nxd4
+C80	Berger Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.a4 Nxd4 9.Nxd4 exd4 10.Nc3
+C80	Harksen Gambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.c4
+C80	Bernstein Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6

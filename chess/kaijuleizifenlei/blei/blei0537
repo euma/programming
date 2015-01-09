@@ -1,0 +1,600 @@
+[WhiteElo "2100"]
+[BlackElo "1955"]
+[PlyCount "111"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Bc4 Nf6 5. Qe2 O-O 6. O-O c6 7. Bb3 b5 8. Rd1
+Qc7 9. e5 Nd5 10. c4 bxc4 11. Bxc4 a5 12. Na3 Bg4 13. Nb5 Qb7 14. Nc3 Nxc3 15.
+bxc3 Bxf3 16. Qxf3 dxe5 17. Ba3 exd4 18. cxd4 Na6 19. Rab1 Qd7 20. Qe2 Nc7 21.
+Qxe7 Qxe7 22. Bxe7 Rfe8 23. Bd6 Nb5 24. Bxb5 cxb5 25. d5 b4 26. Bc7 Re7 27. d6
+Rd7 28. Rd5 Bf8 29. g3 Ra6 30. Rxa5 Rxa5 31. Bxa5 Rxd6 32. Bxb4 Rb6 33. a3 Rb5
+34. Kf1 Bxb4 35. axb4 Kf8 36. f4 Ke7 37. Ke2 Kd6 38. Kd3 Kd5 39. Kc3 Kc6 40.
+Rb2 h5 41. Rd2 Rf5 42. Kc4 h4 43. Rd4 hxg3 44. hxg3 Rh5 45. g4 Rh1 46. b5+ Kb6
+47. Rd6+ Kc7 48. Rf6 Rc1+ 49. Kb3 Rb1+ 50. Kc3 Rxb5 51. Rxf7+ Kd8 52. Rf6 g5
+53. f5 Rc5+ 54. Kd3 Rd5+ 55. Ke3 Ra5 56. Rg6 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.07"]
+[Round "2"]
+[White "Vitman, Andrei"]
+[Black "Chagasov, Oleg"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "2030"]
+[BlackElo "1946"]
+[PlyCount "67"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 Nc6 6. O-O dxe5 7. dxe5 e6 8. h3
+Bh5 9. c4 Nb6 10. Qb3 Bxf3 11. Bxf3 Nd4 12. Qc3 c5 13. a4 Qc7 14. Re1 Nxf3+ 15.
+Qxf3 Nxc4 16. Nc3 a6 17. Bf4 O-O-O 18. Ne4 Nxb2 19. Nd6+ Bxd6 20. exd6 Qc6 21.
+Qb3 Nxa4 22. Rxa4 b5 23. Rd1 Kd7 24. Ra5 Ra8 25. Qg3 Rhg8 26. Qh4 f6 27. Qh5
+Raf8 28. Qxh7 f5 29. Bh6 Kd8 30. Bxg7 Qb7 31. Bf6+ Kc8 32. d7+ Kb8 33. d8=Q+
+Rxd8 34. Rxd8+ 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.07"]
+[Round "3"]
+[White "Dobronravova, Irina"]
+[Black "Bogatenko, Roman"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "1970"]
+[PlyCount "41"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. d3 Nc6 3. g3 Nf6 4. Bg2 d6 5. Ne2 e6 6. O-O Be7 7. Nd2 O-O 8. f4
+Bd7 9. Nf3 h6 10. h3 d5 11. e5 Nh7 12. Nc3 a6 13. h4 f6 14. exf6 Bxf6 15. Bd2
+Qb6 16. Kh2 Nd4 17. Rb1 Nxf3+ 18. Qxf3 Rfe8 19. Rfe1 Bc6 20. Qg4 d4 21. Ne4 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.07"]
+[Round "3"]
+[White "Gedyk, Dmitry"]
+[Black "Pozdniakov, Vladimir"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2254"]
+[BlackElo "2250"]
+[PlyCount "43"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Nbd7 8. Nc3
+Qc7 9. Be3 b6 10. Rc1 Bb7 11. f3 g6 12. f4 Bg7 13. f5 gxf5 14. exf5 e5 15. Nd5
+Qd8 16. Ne6 fxe6 17. fxe6 Bxd5 18. exd7+ Qxd7 19. cxd5 O-O 20. Bf5 Qd8 21. Rc6
+Re8 22. Qd3 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.07"]
+[Round "3"]
+[White "Lunga, Oleg"]
+[Black "Bereziy, Petr"]
+[Result "0-1"]
+[ECO "B06"]
+[PlyCount "12"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 2. Bc4 Bg7 3. Qf3 e6 4. Ne2 Nc6 5. Nbc3 Ne5 6. Qe3 Nxc4 0-1
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.07"]
+[Round "3"]
+[White "Shkurkin, Nikolai"]
+[Black "Avdeev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2167"]
+[BlackElo "2277"]
+[PlyCount "62"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 e5 7. Nc3 Qe7 8. Bg5
+f6 9. Be3 Nh6 10. Qd2 Nf7 11. a3 b6 12. O-O O-O 13. Nh2 Bb7 14. a4 a5 15. f4
+exf4 16. Bxf4 Rad8 17. Qe2 Bc8 18. Rae1 Rde8 19. Kh1 Nd8 20. Nf3 Ne6 21. Be3
+Qd6 22. Qd2 Nd4 23. Bf4 Qd8 24. Nxd4 cxd4 25. Nd1 c5 26. b3 Rf7 27. Nb2 Rfe7
+28. Nc4 Re6 29. Qf2 Ba6 30. Nd2 Bf8 31. Kg1 Be7 1/2-1/2
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.08"]
+[Round "4"]
+[White "Adamson, Konstantin"]
+[Black "Kolobova, Darja"]
+[Result "1-0"]
+[ECO "B09"]
+[WhiteElo "2170"]
+[BlackElo "1955"]
+[PlyCount "59"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. e5 Ne8 8. O-O
+Bg4 9. Be3 Qc8 10. a3 e6 11. h3 Bxf3 12. Qxf3 Ne7 13. Bf2 Nf5 14. Rae1 c5 15.
+dxc5 dxc5 16. Bxf5 exf5 17. Nd5 Kh8 18. c4 b6 19. Bh4 Nc7 20. Be7 Re8 21. Bf6
+Ne6 22. Qg3 Qb7 23. a4 a6 24. Qh4 Kg8 25. Bg5 Nxg5 26. fxg5 Rxe5 27. Nf6+ Bxf6
+28. gxf6 Re6 29. Re5 Rd8 30. Rxe6 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.08"]
+[Round "4"]
+[White "Golovan, Igor"]
+[Black "Toder, Alexander"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2153"]
+[BlackElo "2006"]
+[PlyCount "82"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 h6 7. Be3 Ne7 8. Qd2 h5
+9. f3 hxg4 10. fxg4 Nd7 11. O-O-O Qa5 12. h4 O-O-O 13. h5 Bh7 14. Kb1 c5 15.
+Ne4 Qxd2 16. Nd6+ Kb8 17. Rxd2 cxd4 18. Bxd4 Bg8 19. Nc3 Nc6 20. Ndb5 a6 21.
+Na3 Nxd4 22. Rxd4 Nxe5 23. Be2 Bc5 24. Rdd1 b5 25. b4 Bxb4 26. Kb2 Bh7 27. Ncb1
+Be4 28. Rhf1 Rc8 29. c3 Ba5 30. Nc2 Rc7 31. Rd2 Rhc8 32. Nb4 Ka7 33. a3 Bb6 34.
+Nc2 Nc4+ 35. Bxc4 bxc4 36. Nd4 Bc5 37. Ka2 Bd3 38. Re1 Rh8 39. a4 g6 40. Rh2
+Bxd4 41. cxd4 gxh5 0-1
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.08"]
+[Round "4"]
+[White "Manchenko, Vladimir"]
+[Black "Savostjanov, Igor"]
+[Result "0-1"]
+[ECO "B25"]
+[WhiteElo "2027"]
+[BlackElo "2044"]
+[PlyCount "68"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. f4 e6 6. Nf3 Nge7 7. O-O O-O 8. d3
+d6 9. Rb1 f5 10. Be3 Qa5 11. Bd2 Qd8 12. a3 Nd4 13. Ne2 Nec6 14. c3 Nxf3+ 15.
+Bxf3 fxe4 16. dxe4 e5 17. Be3 Be6 18. Bg2 Qd7 19. b4 c4 20. Qd2 Rad8 21. Rbd1
+Kh8 22. a4 Bh3 23. Bxh3 Qxh3 24. b5 Ne7 25. Bxa7 Ra8 26. Be3 Ng8 27. fxe5 dxe5
+28. Bc5 Rfc8 29. Bb4 Nf6 30. a5 Bh6 31. Nf4 exf4 32. gxf4 Qg4+ 33. Qg2 Qxg2+
+34. Kxg2 Nxe4 0-1
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.08"]
+[Round "4"]
+[White "Pinigin, Vladimir"]
+[Black "Barakin, Gennady"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2068"]
+[BlackElo "2002"]
+[PlyCount "57"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Nf3 Ng6 5. h4 h5 6. Be2 Be7 7. g3 Nf6 8. Nc3
+d6 9. Bg5 Bg4 10. Nd2 Bxe2 11. Qxe2 a6 12. a4 Qd7 13. Nc4 Qg4 14. Ne3 Qxe2+ 15.
+Kxe2 Nf8 16. Nf5 g6 17. Nxe7 Kxe7 18. f3 N8h7 19. Be3 Rag8 20. b4 b6 21. Kf2
+Rb8 22. Ne2 Nd7 23. c4 f5 24. Nc3 Nhf6 25. Bg5 Kf7 26. Ke2 fxe4 27. fxe4 Ng4
+28. Rab1 Kg7 29. a5 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.08"]
+[Round "4"]
+[White "Skokov, Boris"]
+[Black "Tolkachiov, Vladimir"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2100"]
+[BlackElo "2103"]
+[PlyCount "57"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 Nc6 7. Nxc6 bxc6 8.
+e5 Ng4 9. e6 d5 10. exf7+ Kxf7 11. Nxd5 e6 12. Ne3 Qxd1+ 13. Nxd1 Bd6 14. h3
+Ne5 15. Bb3 a5 16. f4 a4 17. fxe5 axb3 18. O-O+ Ke8 19. cxb3 Bxe5 20. Be3 Bf6
+21. Bc5 Ba6 22. Re1 Kf7 23. Nc3 Rhd8 24. Rad1 Bd3 25. Re3 Bg6 26. Rde1 e5 27.
+a3 Rd2 28. R1e2 Rad8 29. b4 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.09"]
+[Round "5"]
+[White "Chagasov, Oleg"]
+[Black "Pinigin, Vladimir"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "1946"]
+[BlackElo "2068"]
+[PlyCount "41"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qc7 4. c3 Nf6 5. Qe2 a6 6. Bxc6 Qxc6 7. e5 Nd5 8. d4
+cxd4 9. Nxd4 Qg6 10. O-O e6 11. c4 Nb4 12. Rd1 Be7 13. Nc3 O-O 14. a3 Nc6 15.
+Nxc6 dxc6 16. Rd3 f6 17. Rg3 Qf5 18. Bh6 Rf7 19. exf6 Bxf6 20. Ne4 Be7 21. Rd1
+1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.09"]
+[Round "5"]
+[White "Karabut, Vladimir"]
+[Black "Pozdniakov, Vladimir"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2119"]
+[BlackElo "2250"]
+[PlyCount "33"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 g6 2. e4 Bg7 3. g3 c6 4. Bg2 d5 5. exd5 cxd5 6. Nf3 Nc6 7. c3 e6 8. O-O
+Nge7 9. Re1 O-O 10. Bf4 Bd7 11. Nbd2 Rc8 12. Nb3 b6 13. Bf1 Ra8 14. Nc1 Qc8 15.
+Nd3 Rd8 16. Nde5 Be8 17. h4 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.09"]
+[Round "5"]
+[White "Sharov, Fedor"]
+[Black "Manchenko, Vladimir"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2029"]
+[BlackElo "2027"]
+[PlyCount "65"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Bd3 O-O 6. h3 Nc6 7. Qe2 e5 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Bg5 h6 11. Be3 c6 12. Qd2 Kh7 13. g4 Nd7 14. O-O-O b5 15.
+f4 exf4 16. Bxf4 Ne5 17. Qe3 Qe7 18. Kb1 Be6 19. Ne2 c5 20. Nc3 c4 21. Be2 Qb7
+22. Qc5 b4 23. Qb5 Qxb5 24. Nxb5 c3 25. Rd6 Bc4 26. Bxc4 Nxc4 27. Rd7 a6 28.
+Nd6 Nxb2 29. Nxf7 Nc4 30. e5 g5 31. Bg3 Rae8 32. Re1 Kg6 33. e6 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.09"]
+[Round "6"]
+[White "Adamson, Konstantin"]
+[Black "Chagasov, Oleg"]
+[Result "1-0"]
+[ECO "B29"]
+[WhiteElo "2170"]
+[BlackElo "1946"]
+[PlyCount "53"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Nc6 6. h3 Nxc3 7. bxc3 Bd7
+8. O-O a6 9. Bxc6 Bxc6 10. Ne5 Rc8 11. Rb1 Qd5 12. Nxc6 Rxc6 13. Rxb7 Rg6 14.
+Rb8+ Kd7 15. g3 e6 16. Kh2 Kc7 17. c4 Qc6 18. Rb3 Bd6 19. d4 cxd4 20. Qxd4 Qc5
+21. Qe4 Qc6 22. Qe3 Rb8 23. Bd2 Qc5 24. Qxc5+ Bxc5 25. Bf4+ e5 26. Bxe5+ Bd6
+27. Bd4 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.09"]
+[Round "6"]
+[White "Dobronravova, Irina"]
+[Black "Strizhachenko, Yuri"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1970"]
+[BlackElo "2140"]
+[PlyCount "74"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. Nc3 d5 3. e5 c5 4. f4 Nc6 5. Nf3 Nge7 6. g3 Nf5 7. Bg2 Be7 8. d3 h5
+9. Ne2 Qb6 10. c3 Bd7 11. h3 O-O-O 12. Rb1 Rdg8 13. Bd2 f6 14. a3 fxe5 15. fxe5
+g5 16. g4 Nh4 17. O-O hxg4 18. hxg4 Nxf3+ 19. Rxf3 Nxe5 20. Rg3 Rh4 21. b4 Nxg4
+22. bxc5 Qxc5+ 23. d4 Qc7 24. Qb3 Bc6 25. c4 Qd7 26. Nc3 Nf6 27. Nb5 Bxb5 28.
+cxb5 Ne4 29. Bxe4 dxe4 30. b6 axb6 31. Qxb6 Kb8 32. Rgb3 Rg4+ 33. Kf1 Rf8+ 34.
+Ke2 Rg2+ 35. Ke1 Rg1+ 36. Ke2 Rxb1 37. Rxb1 Qd5 0-1
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.09"]
+[Round "6"]
+[White "Ermoshenko, Vitaly"]
+[Black "Lunga, Oleg"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1952"]
+[PlyCount "39"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 Nf6 5. Bc4 Bc5 6. Nxe5 O-O 7. Bg5 Nc6 8.
+cxd4 Nxd4 9. O-O h6 10. Bh4 g5 11. Nd3 Nxe4 12. Nxc5 Nxc5 13. Qxd4 Qc7 14. Bg3
+Qc6 15. Bd5 Qb5 16. Nc3 Qb6 17. Bd6 Qxd6 18. Bxf7+ Rxf7 19. Qxd6 Ne6 20. Nd5
+1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.09"]
+[Round "6"]
+[White "Golovan, Igor"]
+[Black "Arkhipov, Valentin"]
+[Result "1-0"]
+[ECO "B86"]
+[WhiteElo "2153"]
+[PlyCount "39"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. g4
+h6 9. Rg1 Bd7 10. h4 Nc6 11. g5 hxg5 12. hxg5 Nxd4 13. Qxd4 e5 14. Qd3 Ng4 15.
+Qf3 f5 16. Rxg4 f4 17. Rg1 Bxg5 18. Bd2 Rh3 19. Qg2 Rh5 20. O-O-O 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.09"]
+[Round "6"]
+[White "Manchenko, Vladimir"]
+[Black "Korostelev, Nikolay"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2027"]
+[PlyCount "12"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. a4 Qa5 5. Bd2 e5 6. b4 Qd8 0-1
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.09"]
+[Round "6"]
+[White "Selin, Vladimir"]
+[Black "Dobronravov, Oleg"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "2309"]
+[BlackElo "2098"]
+[PlyCount "31"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. d3 Nc6 3. g3 g6 4. Bg2 Bg7 5. f4 e6 6. Nf3 Nge7 7. c3 O-O 8. Be3 b6
+9. O-O Ba6 10. Bf2 Rc8 11. Re1 d6 12. Na3 Qd7 13. Nc2 Kh8 14. Qd2 f5 15. exf5
+gxf5 16. d4 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.09"]
+[Round "6"]
+[White "Vitman, Andrei"]
+[Black "Shkurkin, Nikolai"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "2030"]
+[BlackElo "2167"]
+[PlyCount "44"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. c3 Nd7 6. Be2 Qb6 7. O-O Ne7 8. h3
+Bxf3 9. Bxf3 c5 10. dxc5 Qxc5 11. Re1 Qc7 12. Qd4 Nc6 13. Qa4 Ncxe5 14. Nd2
+Nxf3+ 15. Nxf3 a6 16. Qd4 Nf6 17. Bg5 Bc5 18. Qh4 Ne4 19. Re2 Nxg5 20. Nxg5 Be7
+21. Qh5 Bxg5 22. Qxg5 O-O 0-1
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.10"]
+[Round "7"]
+[White "Arkhipov, Valentin"]
+[Black "Pinigin, Vladimir"]
+[Result "1-0"]
+[ECO "B22"]
+[BlackElo "2068"]
+[PlyCount "48"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 e6 7. Nc3 Qa5 8.
+Bc4 Nf6 9. O-O Be7 10. Re1 O-O 11. Bd2 Qd8 12. Bf4 a6 13. a4 Nd5 14. Bg3 Bb4
+15. Qd3 Nce7 16. Ng5 Nf5 17. f4 h6 18. Nf3 Qa5 19. Rac1 Bd6 20. Ne5 Nb4 21. Qe4
+Nxg3 22. hxg3 Qb6 23. Kh2 Nc6 24. d5 Na5 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.10"]
+[Round "7"]
+[White "Bereziy, Petr"]
+[Black "Mikhailovsky, Viktor"]
+[Result "0-1"]
+[ECO "B24"]
+[BlackElo "2074"]
+[PlyCount "66"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 Nf6 5. d3 Bg4 6. f3 Bd7 7. Nge2 Qc8 8. Be3
+a6 9. a4 Bh3 10. Bxh3 Qxh3 11. Nf4 Qd7 12. Qd2 e6 13. O-O Be7 14. a5 O-O 15.
+Na4 Bd8 16. Nb6 Bxb6 17. axb6 Qd8 18. c3 a5 19. d4 Qe7 20. dxc5 dxc5 21. Qf2
+Nd7 22. Nd3 c4 23. Nf4 Rfd8 24. Qe2 Nde5 25. Rfd1 a4 26. Ra3 g5 27. Ng2 Nd3 28.
+f4 Rd7 29. fxg5 Nxb2 30. Rxd7 Qxa3 31. Qf2 Ne5 32. Rxb7 Qa1+ 33. Ne1 Nbd3 0-1
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.10"]
+[Round "7"]
+[White "Chagasov, Oleg"]
+[Black "Dobronravova, Irina"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "1946"]
+[BlackElo "1970"]
+[PlyCount "67"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nd7 5. Bc4 e6 6. Bg5 Ne7 7. Qd2 a6 8. Bh6
+O-O 9. h4 b5 10. Bb3 c5 11. h5 c4 12. hxg6 fxg6 13. Bxg7 Kxg7 14. Qh6+ Kf7 15.
+Ng5+ Ke8 16. Nxe6 Qa5 17. Nxf8 Nxf8 18. O-O cxb3 19. axb3 Qd8 20. Nxb5 Qb6 21.
+Nc3 Qxd4 22. Rad1 Qe5 23. Nd5 Ra7 24. Nb6 Bg4 25. Nc4 Qf6 26. Nxd6+ Kd7 27. e5
+Qe6 28. f3 Bh5 29. Qxf8 Kc7 30. Nb5+ Kb7 31. Nxa7 Kxa7 32. Qd8 Nc8 33. Qc7+ Ka8
+34. Rd8 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.10"]
+[Round "7"]
+[White "Dobronravov, Oleg"]
+[Black "Skokov, Boris"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteElo "2098"]
+[BlackElo "2100"]
+[PlyCount "21"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 c5 4. d4 cxd4 5. Nxd4 Nc6 6. e4 Bb4 7. Nxc6 bxc6 8.
+Bd3 Qa5 9. Bd2 Qc7 10. O-O a5 11. Qe2 1-0
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.10"]
+[Round "8"]
+[White "Bereziy, Petr"]
+[Black "Barakin, Gennady"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[BlackElo "2002"]
+[PlyCount "54"]
+[EventDate "2008.02.06"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nb8 4. Nf3 d6 5. Be2 Nf6 6. c3 Be7 7. Nbd2 O-O 8. Qc2
+c6 9. c4 Na6 10. a3 c5 11. Nf1 Nc7 12. Ng3 Rb8 13. b4 Na6 14. b5 Nc7 15. O-O
+Nfe8 16. a4 g6 17. Bh6 Ng7 18. h3 Nce8 19. Qa2 f5 20. exf5 gxf5 21. Ng5 Rf6 22.
+Bxg7 Nxg7 23. f4 e4 24. Nh5 Rg6 25. Nxg7 Rxg7 26. Ne6 Bxe6 27. dxe6 Bf6 1/2-1/2
+
+[Event "Omsk City-ch"]
+[Site "Omsk"]
+[Date "2008.02.10"]
+[Round "8"]
+[White "Pinigin, Vladimir"]
+[Black "Bogatenko, Roman"]
+[Result "1/2-1/2"]
+[ECO "B44"]

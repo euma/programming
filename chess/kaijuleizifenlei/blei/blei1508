@@ -1,0 +1,600 @@
+[ECO "B52"]
+[WhiteElo "2562"]
+[BlackElo "2391"]
+[PlyCount "173"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4 8.
+Nxd4 Bg7 9. h3 O-O 10. Be3 Rc8 11. b3 Nc6 12. O-O Qd8 13. Re1 a6 14. Rc1 Rab8
+15. a4 Nd7 16. Nf3 Nc5 17. Bg5 h6 18. Bh4 Qa5 19. Nd5 Re8 20. Rb1 g5 21. Bg3
+Nd7 22. b4 Qd8 23. Ne3 Nde5 24. Nf5 Nxf3+ 25. Qxf3 Nd4 26. Nxd4 Bxd4 27. e5
+dxe5 28. Bxe5 Bxe5 29. Rxe5 Qd6 30. Rd5 Qc6 31. Qd3 Rbc8 32. c5 Kg7 33. Re1 e6
+34. Qd4+ Kg6 35. Rd7 Rc7 36. Qd3+ Kg7 37. Qc3+ Kg8 38. Rxc7 Qxc7 39. Qf6 Kh7
+40. Rd1 Re7 41. Qd4 Qc6 42. Qd3+ Kg7 43. Qc3+ e5 44. a5 f6 45. Rd6 Qe4 46. Qd2
+Qf4 47. Qxf4 exf4 48. Kf1 Kf7 49. Rb6 h5 50. c6 bxc6 51. Rxa6 Re4 52. Rb6 Ke7
+53. a6 Rc4 54. a7 Rc1+ 55. Ke2 Ra1 56. Rb7+ Ke6 57. Kd3 Kd5 58. Rd7+ Ke6 59.
+Rh7 Kd5 60. Kc3 Ra3+ 61. Kb2 Ra6 62. Kb3 Ra1 63. f3 Ra6 64. Rf7 Ke6 65. Rb7 Kd5
+66. Rf7 Ke6 67. Rh7 Kd5 68. h4 Ra1 69. Kb2 Ra6 70. Kb3 Ra1 71. hxg5 fxg5 72.
+Rd7+ Ke6 73. Rg7 g4 74. Kc4 Kd6 75. Kd3 gxf3 76. gxf3 h4 77. Rh7 Ra4 78. Rxh4
+Rxa7 79. Rxf4 Ra4 80. Rd4+ Ke5 81. f4+ Kf5 82. Kc4 Ra6 83. Kc5 Ke6 84. Rd6+ Kf5
+85. Rxc6 Ra2 86. b5 Kxf4 87. Re6 1-0
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.29"]
+[Round "2"]
+[White "Grover, Sahaj"]
+[Black "Shchekachev, Andrei"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2300"]
+[BlackElo "2520"]
+[PlyCount "105"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. O-O d6 8. Nc3
+Nf6 9. f4 Nc6 10. Qf3 O-O 11. Bd2 Nb4 12. Rae1 Bd7 13. e5 Nxd3 14. cxd3 Nd5 15.
+Nxd5 exd5 16. Ba5 Qb8 17. Bb4 a5 18. Ba3 b5 19. Bxd6 Bxd6 20. exd6 Qxd6 21. Re5
+a4 22. Nd4 Qb4 23. Qf2 a3 24. bxa3 Qxa3 25. Rxd5 Bc8 26. Rxb5 Qxd3 27. Re5 Qc4
+28. Re2 Ra4 29. Rd2 h6 30. Nb3 Qc7 31. f5 Rg4 32. Rc1 Qb8 33. Rd4 Rg5 34. Rc5
+Bb7 35. g3 Ba8 36. Qf4 Qb7 37. Rcd5 Qa7 38. Ra5 Qb7 39. Rad5 Qa7 40. Ra5 Qb7
+41. Rdd5 g6 42. Rab5 Qa7+ 43. Rd4 Qxa2 44. Nd2 gxf5 45. Rb8 Qa7 46. Rxf8+ Kxf8
+47. Qe3 Kg7 48. Kf2 Rg6 49. Rf4 Qxe3+ 50. Kxe3 Re6+ 51. Kf2 Kg6 52. Nf3 Be4 53.
+Nd4 1/2-1/2
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.29"]
+[Round "2"]
+[White "Jablonski, Noham"]
+[Black "Moradiabadi, Elshan"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2260"]
+[BlackElo "2499"]
+[PlyCount "82"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+g6 9. b3 Bg7 10. Bb2 Nbd7 11. Nc3 O-O 12. Rac1 b6 13. Rfd1 Bb7 14. Bb1 Rad8 15.
+b4 Rfe8 16. Na4 Qb8 17. f3 Ba8 18. Nb3 Bc6 19. Nc3 Ne5 20. b5 axb5 21. Nxb5 d5
+22. cxd5 Bxb5 23. Qxb5 exd5 24. exd5 Neg4 25. d6 Ne3 26. Rd2 Re6 27. Ba3 Bh6
+28. Nd4 Rexd6 29. Bxd6 Qxd6 30. Nb3 Ned5 31. Rc6 Bxd2 32. Rxd6 Be3+ 33. Kh1
+Rxd6 34. g3 h5 35. Kg2 Bh6 36. a4 h4 37. a5 bxa5 38. Qxa5 Ne3+ 39. Kf2 hxg3+
+40. hxg3 Rd1 41. Be4 Rh1 1/2-1/2
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.29"]
+[Round "2"]
+[White "Kosteniuk, Alexandra"]
+[Black "Shoker, Samy"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2523"]
+[BlackElo "2377"]
+[PlyCount "59"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Bg5 h6 5. Be3 a6 6. Nf3 Nd7 7. a4 b6 8. d5 Ngf6
+9. Nd4 O-O 10. f3 Qe8 11. Qd2 Kh7 12. Bc4 Bb7 13. O-O Ne5 14. Bb3 Rb8 15. Qe2
+Nfd7 16. Ba2 c5 17. dxc6 Nxc6 18. Rfd1 Nc5 19. Bc4 e6 20. Nb3 Qe7 21. Nxc5 bxc5
+22. Bxa6 Nd4 23. Bxd4 Bxd4+ 24. Kh1 Bxa6 25. Qxa6 Rxb2 26. Ne2 Be5 27. f4 Bg7
+28. Qd3 Qb7 29. Ng3 Ra8 30. f5 1/2-1/2
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.29"]
+[Round "2"]
+[White "Nepeina Leconte, Maria"]
+[Black "Badii, Madjid"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[WhiteElo "2336"]
+[BlackElo "2220"]
+[PlyCount "77"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 e6 7. Bg2 Bd7 8. O-O
+a6 9. Nce2 Be7 10. c4 O-O 11. b3 g6 12. h3 Nxd4 13. Qxd4 e5 14. Qe3 b5 15. cxb5
+axb5 16. Bb2 Qc8 17. Kh2 Qb7 18. f4 Bc6 19. fxe5 dxe5 20. Bxe5 Nxe4 21. a4 bxa4
+22. bxa4 Ra5 23. Bd4 Ng5 24. Rab1 Qd7 25. Bxc6 Qxc6 26. Rb5 Rxb5 27. axb5 Qe6
+28. Nf4 Qxe3 29. Bxe3 Bd6 30. Nd5 Ne4 31. Nf6+ Nxf6 32. Rxf6 Re8 33. Bf2 Re2
+34. Kg1 Be5 35. Rc6 Rb2 36. b6 h5 37. Rc5 f6 38. Rc4 Kf7 39. g4 1/2-1/2
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.29"]
+[Round "2"]
+[White "Pham Minh Hoang"]
+[Black "Bergez, Luc"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "2479"]
+[BlackElo "2367"]
+[PlyCount "60"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd3 Qg6 9. Be3 Nf6 10. Nd2 d5 11. Bc5 dxe4 12. Qe3 Be6 13. Bc4 Qxg2 14. O-O-O
+Qh3 15. Bxe6 Qxe6 16. b3 O-O-O 17. Nc4 Nd4 18. Kb2 Qc6 19. Ba7 b5 20. Nxe5
+Qxc2+ 21. Ka1 Qxd1+ 22. Rxd1 Nc2+ 23. Kb2 Nxe3 24. Rc1+ Kb7 25. Bxe3 Rd5 26.
+Nxf7 Rf8 27. Ng5 Ng4 28. Ne6 Rc8 29. Nc5+ Rcxc5 30. Bxc5 Ne5 0-1
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.29"]
+[Round "2"]
+[White "Sochacki, Wojtek"]
+[Black "Almeida Quintana, Omar"]
+[Result "1/2-1/2"]
+[ECO "B68"]
+[WhiteElo "2245"]
+[BlackElo "2527"]
+[PlyCount "66"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bd3 Qa5 12. Kb1 b4 13. Ne2 Qc5 14. Rhe1 h6
+15. Bh4 O-O 16. Ng3 Rfd8 17. f5 e5 18. Bxf6 Bxf6 19. Nh5 Kh7 20. Nxf6+ gxf6 21.
+Re3 Ne7 22. Ng1 Bc6 23. Ne2 d5 24. exd5 Bxd5 25. Ng3 Rd6 26. Qe2 Rad8 27. Re1
+Rg8 28. Be4 Qa5 29. Bxd5 Nxd5 30. Rb3 Nf4 31. Qc4 Qd8 32. a3 bxa3 33. Rxa3 Kg7
+1/2-1/2
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.29"]
+[Round "2"]
+[White "Sohier, Julien"]
+[Black "Fedorchuk, Sergey A"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2270"]
+[BlackElo "2671"]
+[PlyCount "51"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 b5 7. O-O Bb7 8. Bd2
+Nf6 9. Qe2 b4 10. Nb1 Nc6 11. Nb3 d5 12. exd5 Nxd5 13. a3 Bd6 14. h3 O-O 15.
+Qe4 g6 16. c4 Nde7 17. Qh4 Ne5 18. c5 Nxd3 19. cxd6 Qxd6 20. Bxb4 Qd5 21. Qg3
+Nf5 22. Qf3 Qxf3 23. gxf3 Nxb4 24. axb4 Bxf3 25. Nc3 Rfb8 26. Na5 0-1
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.30"]
+[Round "3"]
+[White "Badii, Madjid"]
+[Black "Onkoud, Abdelaziz"]
+[Result "0-1"]
+[ECO "B70"]
+[WhiteElo "2220"]
+[BlackElo "2396"]
+[PlyCount "120"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. h3 O-O 8. Bb3
+a6 9. O-O b5 10. Nd5 Bb7 11. Nxf6+ Bxf6 12. Bh6 Re8 13. Re1 Nd7 14. c3 Nc5 15.
+Bc2 Qb6 16. Qd2 Nd7 17. Nf3 Rac8 18. Bg5 Bg7 19. Be3 Qc7 20. Bd4 Ne5 21. Bb3
+Nc4 22. Bxc4 Qxc4 23. Bxg7 Kxg7 24. Nd4 h6 25. f3 Qc5 26. Kh1 Red8 27. Nc2 h5
+28. Ne3 d5 29. exd5 Bxd5 30. Nxd5 Rxd5 31. Qe2 e6 32. Rad1 Rcd8 33. Rxd5 Rxd5
+34. Rd1 Qc4 35. Qc2 Qxa2 36. Rxd5 Qxd5 37. b3 Qf5 38. Qa2 Qd3 39. c4 b4 40.
+Qa1+ Qc3 41. Qa4 h4 42. Kh2 e5 43. Kh1 Qc1+ 44. Kh2 Qa3 45. Qe8 Qxb3 46. Qxe5+
+Kh7 47. Qf4 Qc3 48. c5 Kg7 49. c6 a5 50. c7 b3 51. Qd6 a4 52. Qb6 b2 53. c8=Q
+Qxc8 54. Qxb2+ Kg8 55. Qa3 Qc4 56. Kh1 Qb3 57. Qd6 Qc3 58. Qd8+ Kg7 59. Qxh4 a3
+60. Qa4 Qb2 0-1
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.30"]
+[Round "3"]
+[White "Carpentier, Pierre"]
+[Black "Kosteniuk, Alexandra"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2213"]
+[BlackElo "2523"]
+[PlyCount "80"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. d3 d4 5. Nce2 e5 6. Bg2 Nc6 7. f4 h5 8. Nf3 Bg4
+9. h3 Bxf3 10. Bxf3 h4 11. g4 exf4 12. Nxf4 Bd6 13. O-O Be5 14. Nd5 Qd6 15. Bg2
+Nge7 16. a3 Nxd5 17. exd5 Ne7 18. Qf3 f6 19. Bd2 Rd8 20. c4 dxc3 21. Bxc3 O-O
+22. Bxe5 fxe5 23. Qe4 Rxf1+ 24. Rxf1 Qxd5 25. Qxd5+ Nxd5 26. Re1 Nf4 27. Rxe5
+Rxd3 28. Bxb7 Rd1+ 29. Kh2 Rd2+ 30. Kh1 Rxb2 31. Be4 Re2 32. Bd5+ Kh7 33. Rxe2
+Nxe2 34. Bc4 Nf4 35. Bf1 Kg6 36. Kg1 Kf6 37. Kf2 Ke5 38. Ke3 g5 39. a4 a5 40.
+Kd2 Kd4 0-1
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.30"]
+[Round "3"]
+[White "Fedorchuk, Sergey A"]
+[Black "Bernard, Christophe"]
+[Result "1-0"]
+[ECO "B63"]
+[WhiteElo "2671"]
+[BlackElo "2361"]
+[PlyCount "53"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Be7 9. f3 O-O 10. h4 Bd7 11. Kb1 b5 12. Nxc6 Bxc6 13. Ne2 Rc8 14. Nd4 Bb7
+15. g4 d5 16. e5 Nd7 17. Qh2 Re8 18. Bxe7 Qxe7 19. g5 Nb6 20. h5 Nc4 21. g6
+fxg6 22. hxg6 h6 23. Bh3 Qd7 24. f4 Rc7 25. f5 exf5 26. Bxf5 Qe7 27. Be6+ 1-0
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.30"]
+[Round "3"]
+[White "Pile, Richard"]
+[Black "Schabanel, Stephane"]
+[Result "1-0"]
+[ECO "B66"]
+[WhiteElo "2318"]
+[BlackElo "2265"]
+[PlyCount "61"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 h6 10. Be3 b5 11. Nxc6 Bxc6 12. Ne2 Qc7 13. Nd4 Bb7 14. Kb1 Rd8
+15. Bd3 e5 16. Nf5 d5 17. exd5 Nxd5 18. Rhe1 g6 19. Bd4 f6 20. Nh4 Kf7 21. Nxg6
+Rg8 22. Nxf8 Rdxf8 23. Be3 h5 24. Qf2 Nxe3 25. Rxe3 Qc5 26. Rde1 a5 27. a3 Rb8
+28. Qh4 Rg5 29. f4 exf4 30. Qxf4 Rd8 31. Re6 1-0
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.30"]
+[Round "3"]
+[White "Quezada Perez, Yuniesky"]
+[Black "Roser, Kevin"]
+[Result "1/2-1/2"]
+[ECO "B63"]
+[WhiteElo "2567"]
+[BlackElo "2409"]
+[PlyCount "65"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Qb6 7. Nb3 e6 8.
+Qd2 Be7 9. O-O-O O-O 10. f3 Rd8 11. Be3 Qc7 12. Nb5 Qb8 13. N5d4 e5 14. Nxc6
+bxc6 15. Qc3 d5 16. Bc5 Bxc5 17. Nxc5 Qc7 18. Bd3 d4 19. Qa3 Qe7 20. Qa5 Nd7
+21. Nb3 Nb6 22. c3 dxc3 23. Qxc3 a5 24. Kb1 Be6 25. Nc5 Rd4 26. Rc1 Na4 27.
+Qxd4 exd4 28. Nxa4 Qb4 29. Nc5 a4 30. Rhd1 Qb6 31. f4 Bg4 32. Rd2 Ra5 33. Rdc2
+1/2-1/2
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.30"]
+[Round "3"]
+[White "Rabeyrin, Jean Jacques"]
+[Black "Peyrat, Olivier"]
+[Result "0-1"]
+[ECO "B44"]
+[WhiteElo "2303"]
+[BlackElo "2229"]
+[PlyCount "130"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. Bf4 e5 7. Be3 a6 8. N5c3
+Nf6 9. Bg5 Be7 10. Bxf6 Bxf6 11. Nd2 Be6 12. Nc4 Nd4 13. Bd3 Bg5 14. O-O Rc8
+15. Nd5 O-O 16. c3 Bxd5 17. exd5 Nb5 18. Qb3 Rb8 19. Rad1 Nc7 20. Be2 Ne8 21.
+Nb6 Qc7 22. a4 f5 23. a5 Kh8 24. Qc2 e4 25. f4 exf3 26. Rxf3 g6 27. b4 Nf6 28.
+h3 Rbe8 29. Kh2 Qe7 30. Bf1 h5 31. c4 Ne4 32. c5 dxc5 33. bxc5 Nxc5 34. d6 Qe5+
+35. Kh1 Ne4 36. d7 Rd8 37. Re1 Qxa5 38. Rb1 h4 39. Bd3 Ng3+ 40. Kg1 Qe5 41. Qf2
+Bf6 42. Rf4 Kg7 43. Re1 Qd6 44. Bc2 Rf7 45. Rc4 Rdxd7 46. Nxd7 Rxd7 47. Qf4
+Qxf4 48. Rxf4 b5 49. Rf3 Rd2 50. Bb1 a5 51. Rd3 Rb2 52. Rd7+ Kh6 53. Bd3 a4 54.
+Re6 Kg5 55. Ra6 Nh5 56. Rd5 Nf4 57. Rdd6 Be5 58. Rd7 Rxg2+ 59. Kh1 Rg3 60. Bxb5
+Rxh3+ 61. Kg1 a3 62. Bc6 Rc3 63. Rda7 Bd4+ 64. Kh1 Bxa7 65. Be8 Bf2 0-1
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.30"]
+[Round "3"]
+[White "Shirazi, Kamran G"]
+[Black "Grover, Sahaj"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2448"]
+[BlackElo "2300"]
+[PlyCount "53"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. c4 Nf6 5. Nc3 Bxb5 6. cxb5 d5 7. e5 Ne4 8. e6
+f6 9. Qe2 Nxc3 10. dxc3 g6 11. h4 Qb6 12. b3 a6 13. c4 dxc4 14. bxc4 axb5 15.
+cxb5 Bg7 16. a4 O-O 17. O-O Rd8 18. Ra3 Qd6 19. Re1 Qd5 20. Qc2 f5 21. Bb2 Bxb2
+22. Qxb2 Rd6 23. Qa1 Qc4 24. h5 Rxe6 25. h6 Rxe1+ 26. Qxe1 Qf7 27. Rd3 1-0
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.06.30"]
+[Round "3"]
+[White "Vachier Lagrave, Maxime"]
+[Black "Romanov, Evgeny"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2632"]
+[BlackElo "2547"]
+[PlyCount "67"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 d5 6. Nc3 dxe4 7. Nxe4 Be7 8.
+O-O Nf6 9. Re1 O-O 10. c3 Nbd7 11. Qf3 Re8 12. Ng5 Nf8 13. Bf4 Qb6 14. a4 Bd7
+15. a5 Qa7 16. Be5 b5 17. Ne4 Nxe4 18. Bxe4 Rad8 19. Nc6 Bxc6 20. Bxc6 Nd7 21.
+Bf4 Rf8 22. Rad1 b4 23. Qg3 bxc3 24. Bh6 Bf6 25. Be3 Nc5 26. b4 c2 27. Rxd8
+Rxd8 28. bxc5 Rd1 29. Rf1 g6 30. Qf4 Be7 31. Qc4 Bxc5 32. Bxc5 Qc7 33. Be3 Rd6
+34. Bd5 1-0
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.07.01"]
+[Round "4"]
+[White "David, Alberto"]
+[Black "Vachier Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[WhiteElo "2562"]
+[BlackElo "2632"]
+[PlyCount "57"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 Bg4 8. d3
+g6 9. Nbd2 Bh6 10. h3 Bxf3 11. Nxf3 Bxc1 12. Rxc1 O-O 13. d4 e5 14. Qd2 Kg7 15.
+b4 cxd4 16. cxd4 Qb6 17. dxe5 dxe5 18. a3 Rad8 19. Qb2 Rfe8 20. Rc5 Nd7 21. Rd5
+Nf6 22. Nxe5 Rxd5 23. exd5 Qd4 24. Qxd4 Nxd4 25. f4 Rd8 26. Rd1 Rxd5 27. Rc1
+Nd7 28. Nxd7 Rxd7 29. Kf2 1/2-1/2
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.07.01"]
+[Round "4"]
+[White "Fedorchuk, Sergey A"]
+[Black "Guilleux, Fabien"]
+[Result "1-0"]
+[ECO "B86"]
+[WhiteElo "2671"]
+[BlackElo "2391"]
+[PlyCount "43"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8.
+Bg5 Nc5 9. f4 Qc7 10. Qf3 Be7 11. O-O-O b5 12. Rhe1 Bb7 13. f5 b4 14. Na4 e5
+15. Nxc5 dxc5 16. Ba4+ Kf8 17. Ne6+ fxe6 18. Bxf6 gxf6 19. Rd7 Qb6 20. Qh5 Bc8
+21. Qh6+ Kf7 22. Rxe7+ 1-0
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.07.01"]
+[Round "4"]
+[White "Kosteniuk, Alexandra"]
+[Black "Quezada Perez, Yuniesky"]
+[Result "1-0"]
+[ECO "B49"]
+[WhiteElo "2523"]
+[BlackElo "2567"]
+[PlyCount "111"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Be3 Bb4 9. Na4 Be7 10. Nxc6 bxc6 11. Nb6 Rb8 12. Nxc8 Qxc8 13. Bd4 c5 14. Be5
+Rb6 15. b3 Nxe4 16. Bxg7 Rg8 17. Be5 d6 18. Qd3 f5 19. Bb2 Bf6 20. Bxf6 Nxf6
+21. c4 e5 22. Rad1 Kf7 23. Qc2 Qe6 24. Rfe1 h5 25. Qd2 Qc8 26. Qc3 h4 27. Qh3
+Rh8 28. Bd3 Rh5 29. f4 Qe6 30. fxe5 dxe5 31. Qe3 e4 32. Be2 Rh8 33. Qxc5 Rc6
+34. Qe3 Qe5 35. Rf1 Qc5 36. Qxc5 Rxc5 37. b4 Re5 38. Rd6 Rb8 39. a3 a5 40. b5
+Ke7 41. Ra6 Rd8 42. Rxa5 Rd2 43. Ra7+ Ke6 44. Re1 f4 45. Bf1 Rg5 46. Ra6+ Kf7
+47. Rxf6+ Kxf6 48. Rxe4 Kf5 49. Re2 Rd3 50. Ra2 Rb3 51. a4 Ke4 52. a5 Kd4 53.
+a6 Rg8 54. Kf2 Kc5 55. a7 Ra8 56. Be2 1-0
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.07.01"]
+[Round "4"]
+[White "Mayaud, Raphael"]
+[Black "Brunner, Nicolas"]
+[Result "1/2-1/2"]
+[ECO "B24"]
+[WhiteElo "2201"]
+[BlackElo "2404"]
+[PlyCount "53"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 d6 6. O-O e5 7. a3 Nge7 8. b4
+b6 9. f4 Bb7 10. f5 f6 11. d3 Nd4 12. Nxd4 cxd4 13. Ne2 gxf5 14. exf5 Bxg2 15.
+Kxg2 h5 16. c3 Qd7 17. cxd4 Nxf5 18. dxe5 dxe5 19. d4 h4 20. Qd3 Qd5+ 21. Qf3
+Qxf3+ 22. Rxf3 Nxd4 23. Nxd4 exd4 24. Bb2 Rd8 25. Rd1 Kf7 26. Rxd4 Rxd4 27.
+Bxd4 1/2-1/2
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.07.01"]
+[Round "4"]
+[White "Nepeina Leconte, Maria"]
+[Black "Brih, Said"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2336"]
+[BlackElo "2208"]
+[PlyCount "59"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 g6 7. Bc4 Nb6 8. Bb3
+Bg7 9. Bf4 d6 10. exd6 O-O 11. h3 Bf5 12. O-O exd6 13. Nc3 Nb4 14. Nb5 Nc8 15.
+Qd2 a5 16. Rfc1 Nd3 17. Rc7 a4 18. Bg5 Qe8 19. Bc4 Qe4 20. Nc3 Qxf3 21. gxf3
+Nb4 22. Ne4 Nc6 23. Bf6 Nb6 24. Bxf7+ Rxf7 25. Rxf7 Kxf7 26. Bxg7 Kxg7 27. Nxd6
+Be6 28. Re1 Bxa2 29. Ne8+ Kg8 30. Qh6 1-0
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.07.01"]
+[Round "4"]
+[White "Payen, Arnaud"]
+[Black "Romieux, Sebastien"]
+[Result "1/2-1/2"]
+[ECO "B62"]
+[WhiteElo "2372"]
+[BlackElo "2240"]
+[PlyCount "99"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Bb5 Bd7 8.
+Ba4 h6 9. Bh4 a6 10. Nxc6 Bxc6 11. Bxc6+ bxc6 12. e5 dxe5 13. Qf3 e4 14. Nxe4
+Qa5+ 15. c3 Nxe4 16. Qxe4 Qd5 17. f3 Be7 18. Bxe7 Qxe4+ 19. fxe4 Kxe7 20. Rd1
+Rab8 21. b3 Rb5 22. Ke2 Re5 23. Rd4 c5 24. Ra4 f5 25. Rd1 Rc8 26. Kf3 c4 27. b4
+Rc6 28. Rd4 g5 29. g3 fxe4+ 30. Ke3 Rf5 31. Rxe4 Kf6 32. Rd4 Rf1 33. Ra5 Re1+
+34. Kd2 Rh1 35. h4 e5 36. hxg5+ hxg5 37. Rd8 Re6 38. Rf8+ Kg6 39. Ke2 Rc1 40.
+g4 Rc2+ 41. Ke1 Rxc3 42. Ra8 Re3+ 43. Kf2 Re4 44. R5xa6 Kf6 45. b5 c3 46. Rf8+
+Ke7 47. Re8+ Kxe8 48. Rxe6+ Kd7 49. Rc6 Rb4 50. Rxc3 1/2-1/2
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.07.01"]
+[Round "4"]
+[White "Roser, Kevin"]
+[Black "Shchekachev, Andrei"]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[WhiteElo "2409"]
+[BlackElo "2520"]
+[PlyCount "77"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Be7 9. f4 Nxd4 10. Qxd4 b5 11. Be2 Bb7 12. Bf3 Rc8 13. a3 O-O 14. h4 Qc7
+15. Kb1 Rfd8 16. Qe3 e5 17. fxe5 dxe5 18. Rxd8+ Rxd8 19. Bxf6 Bxf6 20. Nd5 Bxd5
+21. exd5 Qe7 22. Qe4 g6 23. h5 Bg7 24. hxg6 hxg6 25. g4 Rb8 26. Rd1 Qd6 27. Rd3
+Rc8 28. Qe1 f5 29. gxf5 gxf5 30. Rc3 Rxc3 31. Qxc3 e4 32. Qc8+ Qf8 33. Qe6+ Qf7
+34. Bh5 Qxe6 35. dxe6 Kf8 36. Bg6 e3 37. Bh5 Ke7 38. c3 Kxe6 39. Kc2 1/2-1/2
+
+[Event "Paris-ch op"]
+[Site "Paris"]
+[Date "2008.07.01"]
+[Round "4"]
+[White "Rozentalis, Eduardas"]
+[Black "Bergez, Luc"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2582"]
+[BlackElo "2367"]
+[PlyCount "92"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. h3 Bh5 6. Be2 e6 7. O-O Nc6 8. c4
+Nb6 9. Nbd2 Be7 10. c5 Nd5 11. Bb5 O-O 12. Bxc6 bxc6 13. Nc4 Bf6 14. Be3 Rb8

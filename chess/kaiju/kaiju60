@@ -1,0 +1,50 @@
+D11	Slav Bishop's Game	1.d4 d5 2.c4 c6 3.Nf3 Bf5
+D11	Bonet Gambit, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Bg5
+D11	Quiet Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3
+D11	Breyer Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nbd2
+D12	Schallopp Defense, Slav; D12	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5
+D12	Amsterdam Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5
+5.cxd5 cxd5 6.Nc3
+D12	Rotterdam Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5
+5.cxd5 cxd5 6.Qb3  
+D12	Landau Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 cxd5
+6.Qb3 Qc8 7.Bd2 e6 8.Na3
+D12	Pin Defense, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bg4
+D13	Exchange Variation, Slav; D13	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5
+D14	Symmetrical Line, Slav; D14	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5
+5.Nc3 Nc6 6.Bf4 Bf5
+D14	Trifunovic Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5
+5.Nc3 Nc6 6.Bf4 Bf5 7.e3 e6 8.Qb3 Bb4
+D15	Three Knights Variation, Slav; D15	1.d4 d5 2.c4 c6 3.Nf3 Nf6
+4.Nc3
+D15	Chameleon Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6
+D15	Advance System, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 c5
+D15	Two Knights Attack, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4
+D15	Alekhine Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4
+5.e3
+D15	Alekhine Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4
+5.e3 b5 6.a4 b4
+D15	Geller Variation; Geller-Tolush Var, Slav	1.d4 d5 2.c4 c6 3.Nf3
+Nf6 4.Nc3 dxc4 5.e4
+D15	Schlechter Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 g6
+D15	Suchting Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 Qb6
+D16	Alapin Variation, Slav; D16	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4
+5.a4
+D16	Steiner Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bg4
+D16	Soultanbeieff Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4
+5.a4 e6
+D16	Smyslov Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Na6
+D17	Czech Defense; Open Slav Defense; D17	1.d4 d5 2.c4 c6 3.Nf3 Nf6
+4.Nc3 dxc4 5.a4 Bf5
+D17	Krause Attack, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5
+6.Ne5
+D17	Wiesbaden Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4
+5.a4 Bf5 6.Ne5 e6
+D17	Sharp Line, Wiesbaden Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6
+4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 Bb4 8.e4
+D17	Fazekas Gambit, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5
+6.Ne5 Na6 7.e4
+D17	Carlsbad Variation, Slav	1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4
+5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7 8.g3 e5
+D17	Baarn Variation, Slav; Bled Attack	1.d4 d5 2.c4 c6 3.Nf3 Nf6
+4.Nc3 dxc4 5.a4 Bf5 6.Nh4

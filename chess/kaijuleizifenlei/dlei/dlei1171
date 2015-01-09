@@ -1,0 +1,600 @@
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 a6 6. b3 Bb4 7. Bd2 O-O 8. a3 Be7
+9. Qc2 Nbd7 10. Be2 Qc7 11. O-O e5 12. cxd5 cxd5 13. Rfc1 Qb8 14. dxe5 Nxe5 15.
+Na4 b5 16. Nc5 Nfg4 17. h3 Nxf3+ 18. Bxf3 Qh2+ 19. Kf1 Nf6 20. Bc3 Be6 21. Qb2
+Ne8 22. Be5 Bf6 23. Bxf6 Nxf6 24. Qd4 a5 25. Ke2 Qb8 26. Nxe6 fxe6 27. Rc6 Qe8
+28. Rac1 e5 29. Bxd5+ Kh8 30. Qc5 Nxd5 31. Qxd5 Qh5+ 32. Ke1 Qf5 33. R6c2 b4
+34. axb4 axb4 35. g4 Qf6 36. Qxa8 Rxa8 37. Rc8+ Qd8 38. Rxd8+ Rxd8 39. Rc4 Rb8
+40. Rc5 Kg8 41. Rxe5 Kf7 42. Ke2 Kf6 43. Rf5+ Ke6 44. Rf4 Rb7 45. Kd3 g6 46.
+Kc4 Ke5 47. Kc5 g5 48. Rc4 Rf7 49. f4+ gxf4 50. exf4+ Rxf4 51. Rxf4 Kxf4 52.
+Kxb4 Kg3 53. Kc5 Kxh3 54. b4 Kxg4 55. b5 1-0
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.13"]
+[Round "1"]
+[White "Fernandez Aguado, Enrique"]
+[Black "Panelo Munoz, Marcelo A"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2337"]
+[BlackElo "2414"]
+[PlyCount "71"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. a3 Qb8 12. h3 Rc8 13. e4 c5 14. Bxb5 cxd4 15.
+Bxd7 Bxe4 16. Qxe4 dxc3 17. Qa4 Nxd7 18. Qxd7 Rd8 19. Qa4 cxb2 20. Rb1 Bxa3 21.
+Qxa3 bxc1=Q 22. Rfxc1 Qf4 23. Qa6 h6 24. Rc4 Qf5 25. Rbc1 Rd5 26. Rd4 Rxd4 27.
+Nxd4 Qf4 28. Ne2 Qb4 29. Ra1 g6 30. Ng3 h5 31. Nf1 Qe4 32. Ne3 Qb4 33. Qc6 Rd8
+34. Qc7 Rd2 35. Qxa7 Qb2 36. Nc4 1-0
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.13"]
+[Round "1"]
+[White "Gonzalez, Raul Omar"]
+[Black "Garcia Jimenez, Francisco Javier"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2318"]
+[BlackElo "2297"]
+[PlyCount "77"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Nbd7 4. d4 e6 5. O-O b6 6. Bf4 Bb7 7. Nbd2 Be7 8.
+Ne5 c5 9. e3 Nxe5 10. Bxe5 O-O 11. g4 Rc8 12. h3 Bd6 13. f4 Qe7 14. c3 Nd7 15.
+Bxd6 Qxd6 16. Qe1 Ba6 17. Rf3 f6 18. Qg3 b5 19. a3 Nb6 20. Nb3 Na4 21. dxc5
+Nxc5 22. Nxc5 Qxc5 23. Rd1 Bb7 24. Rf2 a5 25. Rfd2 f5 26. Rd4 Qb6 27. Bf1 Rc5
+28. Bd3 fxg4 29. hxg4 Qc7 30. g5 g6 31. Rd2 Re8 32. Rf2 e5 33. fxe5 Qxe5 34.
+Rdf4 d4 35. exd4 Qxg5 36. Rg4 Qd5 37. Rxg6+ Kh8 38. Rh2 Rc7 39. Qxc7 1-0
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.15"]
+[Round "3"]
+[White "Panelo Munoz, Marcelo A"]
+[Black "Garcia Jimenez, Francisco Javier"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "2414"]
+[BlackElo "2297"]
+[PlyCount "84"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. a4 e6 6. Bg5 a5 7. e3 Na6 8. Be2 Be7
+9. O-O O-O 10. Qb3 Nb4 11. Rfd1 b6 12. cxd5 cxd5 13. Na2 Nxa2 14. Rxa2 Bd7 15.
+Ne5 h6 16. Bh4 g5 17. Bg3 Ne4 18. Bd3 Nxg3 19. hxg3 Be8 20. e4 f6 21. Ng4 Bc6
+22. Ne3 Rc8 23. Raa1 Qd7 24. Bb5 Bxb5 25. axb5 dxe4 26. d5 Rc5 27. dxe6 Qxb5
+28. Qxb5 Rxb5 29. Rd7 Bc5 30. Ng4 Rxb2 31. e7 Re8 32. Nxf6+ Kf7 33. Nxe8 Kxe8
+34. Rb7 Rxf2 35. Kh2 Rf7 36. Rd1 Rxe7 37. Rb8+ Kf7 38. Rh8 Kg7 39. Rdd8 e3 40.
+Rdf8 a4 41. Rhg8+ Kh7 42. Kh3 Bd4 0-1
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.16"]
+[Round "4"]
+[White "Avila Jimenez, Javier"]
+[Black "Fernandez Aguado, Enrique"]
+[Result "0-1"]
+[ECO "D80"]
+[WhiteElo "2286"]
+[BlackElo "2337"]
+[PlyCount "68"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Nxe4 dxe4 6. Qd2 Bg7 7. O-O-O h6 8.
+Bh4 O-O 9. e3 Qe8 10. Ne2 e5 11. d5 g5 12. Bg3 Bf5 13. Nc3 Na6 14. Be2 Nc5 15.
+Kb1 a5 16. Nb5 Qd7 17. Qc3 f6 18. Qa3 b6 19. Qc3 Rfd8 20. Ka1 Bf8 21. h4 g4 22.
+f4 exf4 23. Bxf4 c6 24. Nc7 Rac8 25. Qxf6 Bg7 26. Qxc6 Na4 27. Qxd7 Rxd7 28.
+Nb5 Nxb2 29. Kb1 Nd3 30. Na3 b5 31. Nxb5 Rxc4 32. Nd4 Rb7+ 33. Ka1 Rxd4 34.
+Bxh6 Bh8 0-1
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.17"]
+[Round "5"]
+[White "Gonzalez, Raul Omar"]
+[Black "Almeida Toledano, Daniel"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2318"]
+[BlackElo "2303"]
+[PlyCount "99"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. d4 Bg7 5. O-O O-O 6. c3 c6 7. Bf4 Nbd7 8. Qc1
+Qb6 9. Nbd2 Nh5 10. Be3 f5 11. Nb3 a5 12. Ne5 Nxe5 13. dxe5 Qd8 14. f4 a4 15.
+Nd4 e6 16. Bf3 Bd7 17. b4 axb3 18. axb3 c5 19. Nc2 Rc8 20. Qd2 Qc7 21. Ra7 Rfd8
+22. Rfa1 Bf8 23. R1a2 Ng7 24. Qe1 Bb5 25. Qf2 Qd7 26. Kg2 Rc7 27. R7a5 b6 28.
+R5a3 Bc6 29. Ra6 Rb7 30. h3 Ne8 31. Qe1 Nc7 32. Ra7 Nb5 33. Rxb7 Qxb7 34. Qa1
+Ra8 35. Rxa8 Qxa8 36. Qxa8 Bxa8 37. Bd2 Kf7 38. g4 Ke8 39. Kg3 Be7 40. e3 Kd7
+41. Be2 Nc7 42. g5 Bc6 43. h4 Bb5 44. Bd1 Bd3 45. h5 Ke8 46. hxg6 hxg6 47. Ne1
+Bb5 48. Nf3 Kd8 49. Kf2 Be8 50. Be2 1/2-1/2
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.17"]
+[Round "5"]
+[White "Panelo Munoz, Marcelo A"]
+[Black "Avila Jimenez, Javier"]
+[Result "1-0"]
+[ECO "D91"]
+[WhiteElo "2414"]
+[BlackElo "2286"]
+[PlyCount "95"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 d5 4. Nc3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Qd2 h6 9. Nf3 exd5 10. b4 O-O 11. e3 Bf5 12. Be2 c6 13. O-O Nd7 14. b5 Nf6 15.
+bxc6 bxc6 16. Rfc1 Qd6 17. Bd3 Bxd3 18. Qxd3 Qa3 19. Ne5 c5 20. Nxd5 Qxd3 21.
+Ne7+ Kh7 22. Nxd3 cxd4 23. exd4 Nd7 24. Nc6 Rfe8 25. Rab1 Nb6 26. Nde5 f6 27.
+Nf3 Re2 28. Nb4 f5 29. h4 a5 30. Nd3 Nd5 31. Rc5 Nb4 32. Nc1 Rc2 33. Rxc2 Nxc2
+34. Rb7 Nb4 35. a4 Rc8 36. Nb3 Nd3 37. d5 Rd8 38. Nfd4 Nf4 39. g3 Nh5 40. Rb5
+Kh8 41. Ne6 Rd7 42. Rxa5 Nf6 43. Ra8+ Kh7 44. Nbc5 Rxd5 45. Ra7 Rd1+ 46. Kg2
+Nh5 47. Nxg7 Nxg7 48. Ne6 1-0
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.18"]
+[Round "6"]
+[White "Avila Jimenez, Javier"]
+[Black "Garcia Jimenez, Francisco Javier"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "2286"]
+[BlackElo "2297"]
+[PlyCount "19"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Nf6 8.
+c4 Qd6 9. d5 Nb4 10. Qa4+ 1-0
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.19"]
+[Round "7"]
+[White "Gonzalez, Raul Omar"]
+[Black "Randazzo, Adrian"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2318"]
+[BlackElo "2224"]
+[PlyCount "193"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 Bf5 4. Bg2 e6 5. c3 c6 6. Nbd2 Bd6 7. Nf1 Nbd7 8. Bf4
+Bxf4 9. gxf4 Ne4 10. Ng3 Bg6 11. e3 Qb6 12. Qe2 h6 13. Nh4 Nxg3 14. hxg3 Bh7
+15. Bf3 O-O-O 16. Ng2 Nf6 17. O-O Be4 18. Bxe4 Nxe4 19. Kh2 h5 20. f3 Nd6 21.
+e4 h4 22. Nxh4 Rh5 23. Kg2 Rdh8 24. Rh1 dxe4 25. fxe4 Nxe4 26. Qxe4 Qxb2+ 27.
+Kf3 g5 28. fxg5 Rxg5 29. Qe3 Rhg8 30. Rag1 Qxa2 31. Rg2 Qd5+ 32. Kf2 Rg4 33.
+Nf3 f6 34. Rh6 Qf5 35. Rh4 R4g6 36. Re4 Kd7 37. c4 Rg4 38. Rxg4 Rxg4 39. Qb3
+Kc7 40. Qc3 Rg7 41. Rh2 b6 42. Qa3 Kb7 43. Qc3 Qg6 44. Rh3 Qb1 45. Rh4 Qa2+ 46.
+Nd2 e5 47. dxe5 fxe5 48. Ke2 Rf7 49. Rh2 e4 50. Ke3 Rd7 51. Kxe4 Qa4 52. Nf3
+Qd1 53. Ne5 Rg7 54. Rf2 Qh1+ 55. Qf3 Qb1+ 56. Kf4 Qc1+ 57. Kf5 Qg5+ 58. Ke4 Qc1
+59. g4 Re7 60. Kf5 Rc7 61. g5 Qb1+ 62. Qe4 Qg1 63. Rf4 Qh2 64. Qf3 Qc2+ 65. Kg4
+Qc1 66. g6 Qg1+ 67. Kf5 a5 68. Rg4 Qb1+ 69. Kf6 Qb4 70. g7 Qd6+ 71. Kf5 Re7 72.
+Qg3 Qe6+ 73. Ke4 Qxc4+ 74. Kf3 Qd5+ 75. Re4 Qb3+ 76. Re3 Qd1+ 77. Kf2 Qd2+ 78.
+Kg1 Qd1+ 79. Kh2 Qd2+ 80. Kg1 Qc1+ 81. Re1 Qc5+ 82. Kf1 Qb5+ 83. Nd3 Qf5+ 84.
+Kg1 Rxe1+ 85. Nxe1 Qc5+ 86. Kf1 Qc4+ 87. Nd3 Qf7+ 88. Kg1 Qg8 89. Ne5 a4 90.
+Qg5 a3 91. Qe7+ Ka6 92. Qxa3+ Kb5 93. Qd3+ Kc5 94. Qc3+ Kd6 95. Qd4+ Ke7 96.
+Qh4+ Ke6 97. Qc4+ 1-0
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.19"]
+[Round "7"]
+[White "Panelo Munoz, Marcelo A"]
+[Black "Almeida Toledano, Daniel"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2414"]
+[BlackElo "2303"]
+[PlyCount "49"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 a6 6. b3 Bb4 7. Bd2 Nbd7 8. Bd3
+O-O 9. O-O Bd6 10. Rc1 h6 11. h3 Re8 12. e4 dxc4 13. bxc4 e5 14. c5 Bf8 15. Na4
+exd4 16. Re1 Qc7 17. Bb1 Rb8 18. Nxd4 Ne5 19. Nf3 Be6 20. Bf4 Nfd7 21. Nd4 Rbd8
+22. Nxe6 Rxe6 23. Qb3 Qa5 24. Be3 Qb5 25. f4 1-0
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.20"]
+[Round "8"]
+[White "Gonzalez, Raul Omar"]
+[Black "Fernandez Aguado, Enrique"]
+[Result "1/2-1/2"]
+[ECO "D87"]
+[WhiteElo "2318"]
+[BlackElo "2337"]
+[PlyCount "19"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 1/2-1/2
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.21"]
+[Round "9"]
+[White "Fernandez Aguado, Enrique"]
+[Black "Randazzo, Adrian"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[WhiteElo "2337"]
+[BlackElo "2224"]
+[PlyCount "14"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. Nc3 a6 7. a4 Be7 1/2-1/2
+
+[Event "Canovelles Tancats-B"]
+[Site "Canovelles"]
+[Date "2008.09.21"]
+[Round "9"]
+[White "Panelo Munoz, Marcelo A"]
+[Black "Gonzalez, Raul Omar"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[WhiteElo "2414"]
+[BlackElo "2318"]
+[PlyCount "12"]
+[EventDate "2008.09.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 g6 6. e3 Nbd7 1/2-1/2
+
+[Event "FIN-SWE m"]
+[Site "Mariehamn"]
+[Date "2008.09.13"]
+[Round "1"]
+[White "Andersson, Sven Olof"]
+[Black "Mottonen, Ari"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2065"]
+[BlackElo "2069"]
+[PlyCount "112"]
+[EventDate "2008.09.13"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "FIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 c5 4. Bg2 cxd4 5. Nxd4 d5 6. O-O Be7 7. c4 O-O 8.
+cxd5 exd5 9. Nc3 Nc6 10. e4 Nxd4 11. Qxd4 dxe4 12. Qe5 Bd6 13. Qd4 Bf5 14. Bg5
+Be7 15. Qe5 Bg6 16. Rfd1 Qe8 17. Bh3 Bd8 18. Qb5 Qxb5 19. Nxb5 h6 20. Be3 a6
+21. Nd6 b5 22. Rac1 Bh5 23. Rd2 Ba5 24. Rdc2 Nd5 25. Nb7 Nxe3 26. fxe3 Bb6 27.
+Kf2 Ra7 28. Nd6 Rd8 29. Rc8 Kh7 30. Rxd8 Bxd8 31. Bf5+ Bg6 32. Bxg6+ Kxg6 33.
+Nxe4 Rc7 34. Rxc7 Bxc7 35. Kf3 Kf5 36. Nc5 a5 37. Nd7 Ke6 38. Nc5+ Kd5 39. Nd3
+Kc4 40. Ke2 a4 41. Kd2 g5 42. Kc2 Bd6 43. b3+ axb3+ 44. axb3+ Kd5 45. Nf2 h5
+46. Kd3 f5 47. e4+ Ke5 48. exf5 Kxf5 49. Ne4 Be7 50. h3 h4 51. gxh4 gxh4 52.
+Ke3 Ke5 53. Nc3 Bg5+ 54. Kf3 b4 55. Na2 Be7 56. Kg4 Kd4 1/2-1/2
+
+[Event "FIN-SWE m"]
+[Site "Mariehamn"]
+[Date "2008.09.13"]
+[Round "1"]
+[White "Gamback, Bjorn"]
+[Black "Tuominen, Risto"]
+[Result "0-1"]
+[ECO "D41"]
+[WhiteElo "2203"]
+[BlackElo "2266"]
+[PlyCount "56"]
+[EventDate "2008.09.13"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "FIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. cxd5 Nxd5 6. Nc3 Nc6 7. Bc4 e6 8.
+Nf3 Be7 9. O-O O-O 10. Ne4 b6 11. Be3 Bb7 12. Rc1 Nxe3 13. fxe3 Nxd4 14. Nxd4
+Bxe4 15. Qg4 Bg6 16. Rfd1 Bc5 17. b4 Bxd4 18. Rxd4 Qe7 19. Ba6 Rad8 20. Rcd1 h5
+21. Qe2 Rxd4 22. Rxd4 e5 23. Rd5 Qxb4 24. Rxe5 Rd8 25. Rb5 Qa4 26. Rb2 Rd1+ 27.
+Kf2 Qh4+ 28. Kf3 Be4# 0-1
+
+[Event "FIN-SWE m"]
+[Site "Mariehamn"]
+[Date "2008.09.13"]
+[Round "1"]
+[White "Gunnarsson, Leif"]
+[Black "Konttinen, Timo"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[PlyCount "49"]
+[EventDate "2008.09.13"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "FIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e6 4. Bxc4 g6 5. Nf3 Bg7 6. O-O Ne7 7. Nc3 O-O 8. Be3
+b6 9. Qd2 Bb7 10. Bh6 Nd7 11. Rad1 Nf6 12. Bxg7 Kxg7 13. Qe3 Qc8 14. Rd2 c5 15.
+dxc5 Qxc5 16. Qxc5 bxc5 17. Bd3 Rfd8 18. Rfd1 Rac8 19. Bc2 Rxd2 20. Rxd2 Nc6
+21. h3 Rd8 22. Rxd8 Nxd8 23. Ne5 Nc6 24. Nxc6 Bxc6 25. f3 1/2-1/2
+
+[Event "FIN-SWE m"]
+[Site "Mariehamn"]
+[Date "2008.09.13"]
+[Round "1"]
+[White "Iinattiniemi, Kari"]
+[Black "Johansson, Christian"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1996"]
+[BlackElo "2136"]
+[PlyCount "23"]
+[EventDate "2008.09.13"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "FIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 c6 3. c3 Bf5 4. Bg5 h6 5. Bh4 Qb6 6. Qb3 Nd7 7. Nbd2 a5 8. e3
+a4 9. Qxb6 Nxb6 10. a3 e6 11. Be2 Bd6 12. O-O 1/2-1/2
+
+[Event "FIN-SWE m"]
+[Site "Mariehamn"]
+[Date "2008.09.13"]
+[Round "1"]
+[White "Johansson, Jukka"]
+[Black "Svenningsson, Jorgen"]
+[Result "0-1"]
+[ECO "D92"]
+[WhiteElo "2117"]
+[PlyCount "36"]
+[EventDate "2008.09.13"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "FIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5 8.
+Bxc7 Nc6 9. e3 Bf5 10. Qa4 Qd7 11. Ba5 Nxd4 12. Qxd7 Nxf3+ 13. gxf3 Bxd7 14.
+O-O-O Ba4 15. Rd2 Rac8+ 16. Kb1 b6 17. Bb4 Rfd8 18. Bd3 Rxd3 0-1
+
+[Event "FIN-SWE m"]
+[Site "Mariehamn"]
+[Date "2008.09.13"]
+[Round "1"]
+[White "Munukka, Timo"]
+[Black "Jansson, Gilbert"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2052"]
+[BlackElo "1931"]
+[PlyCount "65"]
+[EventDate "2008.09.13"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "FIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 O-O 8.
+Qd2 c5 9. Rb1 cxd4 10. cxd4 Nc6 11. d5 Ne5 12. h3 f5 13. f4 Nf7 14. e5 b6 15.
+Bc4 Bb7 16. Nf3 Rc8 17. Bb3 Ba6 18. Kf2 Kh8 19. Rhc1 Rxc1 20. Rxc1 Qb8 21. Qb4
+g5 22. g3 g4 23. hxg4 fxg4 24. e6 Nd6 25. Ng5 Nf5 26. Qe4 Qe8 27. Nf7+ Kg8 28.
+Qxf5 Qb5 29. Bc4 Qb2+ 30. Qc2 Qa3 31. Bxa6 Qxa6 32. Ng5 Qa5 33. Qxh7# 1-0
+
+[Event "FIN-SWE m"]
+[Site "Mariehamn"]
+[Date "2008.09.13"]
+[Round "1"]
+[White "Pessi, Juha"]
+[Black "Winfridsson, Hakan"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2166"]
+[BlackElo "2111"]
+[PlyCount "89"]
+[EventDate "2008.09.13"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "FIN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Be2 c5 9. Rb1 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Rxb7 Bxf3 14.
+Bxf3 Bxd4 15. Rxe7 Nc6 16. Rd7 Qe6 17. Rd5 Bg7 18. Bf4 Ne5 19. Be2 Rfc8 20.
+Bxe5 Bxe5 21. Bg4 Qf6 22. Bxc8 Rxc8 23. g3 Rc7 24. Kg2 Bc3 25. Rd8+ Kg7 26. Qd6
+Qxd6 27. Rxd6 Re7 28. Rc1 Bb4 29. Ra6 h5 30. Rc4 Rb7 31. f4 Bf8 32. Rc2 Re7 33.
+e5 Rb7 34. Kf3 Kh7 35. Ke4 Rd7 36. h3 Bb4 37. g4 hxg4 38. hxg4 g5 39. f5 Be1
+40. e6 Re7 41. Rca2 fxe6 42. Rxa7 exf5+ 43. Kxf5 Rxa7 44. Rxa7+ Kh6 45. Ra6+
+1-0
+
+[Event "Velden op"]
+[Site "Velden"]
+[Date "2008.09.13"]
+[Round "1"]
+[White "Schmittdiel, Eckhard"]
+[Black "Aigner, Georg"]
+[Result "1-0"]
+[ECO "D26"]
+[WhiteElo "2431"]
+[BlackElo "2046"]
+[PlyCount "83"]
+[EventDate "2008.09.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 c5 5. e3 e6 6. Bxc4 Be7 7. O-O O-O 8. Qe2
+Nc6 9. Rd1 Qc7 10. a3 a6 11. dxc5 Bxc5 12. b4 Bd6 13. Bb2 Ne5 14. Nxe5 Bxe5 15.
+f4 Bd6 16. Rac1 Qe7 17. Qd3 Rd8 18. Ne4 Nxe4 19. Qxe4 Rb8 20. Be5 Bxe5 21. Qxe5
+Bd7 22. Qc7 Qe8 23. Be2 Bc6 24. Qb6 Rd5 25. Rxd5 exd5 26. Kf2 Qd8 27. Qxd8+
+Rxd8 28. Bxa6 d4 29. exd4 Rxd4 30. Bxb7 Bxb7 31. Rc7 Ba6 32. b5 g6 33. bxa6
+Rxf4+ 34. Ke3 Ra4 35. a7 Kg7 36. Kd3 Rxa3+ 37. Kc4 Ra1 38. Kc5 Kf6 39. Kb6 Rb1+
+40. Ka6 Ra1+ 41. Kb7 Rb1+ 42. Kc8 1-0
+
+[Event "Velden op"]
+[Site "Velden"]
+[Date "2008.09.14"]
+[Round "2"]
+[White "Bauder, Herbert"]
+[Black "Behrmann, Joachim"]
+[Result "0-1"]
+[ECO "D52"]
+[WhiteElo "2094"]
+[BlackElo "2212"]
+[PlyCount "92"]
+[EventDate "2008.09.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. cxd5 Nxd5 8.
+Qd2 N7b6 9. Bd3 Nxc3 10. bxc3 Na4 11. O-O Qxc3 12. Qxc3 Nxc3 13. Rfc1 Nd5 14.
+e4 Nb6 15. a4 a5 16. Be3 f5 17. e5 Bb4 18. Bd2 Be7 19. Bc4 h6 20. h4 Kf7 21.
+Bb3 Rd8 22. Rab1 Nd5 23. Bxd5 Rxd5 24. Be3 Bb4 25. g3 Bd7 26. Ne1 Bxe1 27. Rxe1
+b5 28. Rec1 b4 29. Rc5 Rd8 30. f4 Rxc5 31. dxc5 Bc8 32. Kf2 Ba6 33. Rb2 Rd3 34.
+Rd2 h5 35. Rxd3 Bxd3 36. Bd2 Ke7 37. Ke3 Bc2 38. Kd4 Bxa4 39. Kc4 Kd7 40. Bc1
+Kc7 41. Bb2 Kb7 42. Bc1 Ka6 43. Bd2 Bd1 44. Be3 Be2+ 45. Kb3 Kb5 46. Kb2 a4 0-1
+
+[Event "Velden op"]
+[Site "Velden"]
+[Date "2008.09.17"]
+[Round "5"]
+[White "Behrmann, Joachim"]
+[Black "Hrzica, Rok"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2212"]
+[BlackElo "2285"]
+[PlyCount "60"]
+[EventDate "2008.09.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. b3 Bg4 7. h3 Bxf3 8. gxf3 e6
+9. Bd3 Nbd7 10. f4 Bb4 11. Bd2 bxc4 12. bxc4 c5 13. cxd5 cxd4 14. Ne4 Bxd2+ 15.
+Qxd2 dxe3 16. Nd6+ Kf8 17. fxe3 Nxd5 18. O-O Nc5 19. Nc4 Nf6 20. Qb4 Qxd3 21.
+Qxc5+ Kg8 22. Rad1 Qg6+ 23. Kh2 Ne4 24. Qc6 Qg3+ 25. Kh1 Qxh3+ 26. Kg1 Qg4+ 27.
+Kh2 Qh5+ 28. Kg2 Qg4+ 29. Kh2 Qe2+ 30. Kg1 Qg4+ 1/2-1/2
+
+[Event "Velden op"]
+[Site "Velden"]
+[Date "2008.09.17"]
+[Round "5"]
+[White "Nuster, Erwin"]
+[Black "Genser, Harald"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[WhiteElo "2183"]
+[BlackElo "2342"]
+[PlyCount "81"]
+[EventDate "2008.09.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. Nf3 dxc4 5. e3 b5 6. a4 Bb4 7. Bd2 a5 8. axb5
+Bxc3 9. Bxc3 cxb5 10. b3 Bb7 11. bxc4 b4 12. Bb2 Nf6 13. Ne5 Nfd7 14. Nd3 Qh4
+15. Nf4 O-O 16. d5 e5 17. g3 Qd8 18. Nd3 f6 19. Bh3 Qc7 20. Be6+ Kh8 21. Qh5 g6
+22. Qh6 Na6 23. Bxd7 Qxd7 24. f4 Qf5 25. Nxe5 Qe4 26. O-O Nc5 27. Bd4 Nb3 28.
+Nf3 Nxd4 29. exd4 Qe3+ 30. Rf2 Rf7 31. Re1 Qd3 32. Rfe2 Qxe2 33. Rxe2 a4 34.
+Nh4 Kg8 35. Nxg6 a3 36. Ne7+ Kh8 37. c5 b3 38. Ng6+ Kg8 39. Ne7+ Kh8 40. Ng6+
+Kg8 41. Ne7+ 1/2-1/2
+
+[Event "Velden op"]
+[Site "Velden"]
+[Date "2008.09.18"]
+[Round "6"]
+[White "Genser, Harald"]
+[Black "Gneiss, Karl"]
+[Result "1-0"]
+[ECO "D61"]
+[WhiteElo "2342"]
+[BlackElo "2109"]
+[PlyCount "39"]

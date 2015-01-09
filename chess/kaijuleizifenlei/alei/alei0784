@@ -1,0 +1,600 @@
+[WhiteElo "2193"]
+[BlackElo "2275"]
+[PlyCount "79"]
+[EventDate "2008.06.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 g6 2. g3 Bg7 3. c4 d6 4. Bg2 Nf6 5. O-O O-O 6. Nc3 e5 7. d3 Nc6 8. Rb1
+a5 9. a3 Re8 10. Qc2 Bg4 11. b4 axb4 12. axb4 Qd7 13. b5 Nd4 14. Nxd4 exd4 15.
+Ne4 Nh5 16. Re1 f5 17. Ng5 h6 18. f3 hxg5 19. fxg4 Nf6 20. Bxb7 Nxg4 21. Bxg5
+Be5 22. Bxa8 Rxa8 23. c5 d5 24. e3 dxe3 25. h3 Nf2 26. Rxe3 Nxh3+ 27. Kg2 Re8
+28. Kxh3 f4+ 29. Kg2 fxe3 30. d4 Bxd4 31. Qxg6+ Bg7 32. c6 Qf7 33. Qxf7+ Kxf7
+34. Kf3 d4 35. Bf4 e2 36. Bd2 d3 37. g4 Be5 38. g5 Kg6 39. Rh1 Kf5 40. Rh4 0-1
+
+[Event "Koszalin op"]
+[Site "Koszalin"]
+[Date "2008.06.15"]
+[Round "9"]
+[White "Kot, Jerzy"]
+[Black "Zakoscielna, Kinga"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2293"]
+[BlackElo "2069"]
+[PlyCount "64"]
+[EventDate "2008.06.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. g3 e5 2. Bg2 d5 3. Nf3 Bd6 4. O-O Nc6 5. d3 h6 6. c4 dxc4 7. dxc4 Be6 8. Qc2
+Qe7 9. a3 a5 10. Nbd2 Nf6 11. b3 O-O 12. Bb2 Nd7 13. e3 f5 14. Rfc1 Nc5 15. Bc3
+e4 16. Ne1 Be5 17. f4 Bxc3 18. Qxc3 Rfd8 19. Bf1 Rxd2 20. Qxd2 Nxb3 21. Qb2
+Nxa1 22. Qxb7 Rb8 23. Qxc6 Nb3 24. Rd1 Kh7 25. Nc2 Rb6 26. Qa4 c5 27. Bh3 Qf7
+28. Bf1 Qf6 29. Ne1 Qc3 30. Ng2 Nd2 31. Qe8 Nf3+ 32. Kh1 Qc2 0-1
+
+[Event "Koszalin op"]
+[Site "Koszalin"]
+[Date "2008.06.15"]
+[Round "9"]
+[White "Siemaszko, Robert"]
+[Black "Bregoszewski, Leon"]
+[Result "1-0"]
+[ECO "A54"]
+[BlackElo "1876"]
+[PlyCount "109"]
+[EventDate "2008.06.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 d6 4. d4 exd4 5. Nxd4 c6 6. g3 Be7 7. Bg2 O-O 8. b4
+Be6 9. Nxe6 fxe6 10. b5 d5 11. bxc6 bxc6 12. cxd5 exd5 13. O-O Nbd7 14. e4 Qa5
+15. Bb2 Bb4 16. Qc2 Qc5 17. exd5 cxd5 18. Qb3 Bxc3 19. Qxc3 Rac8 20. Qxc5 Nxc5
+21. Bxf6 Rxf6 22. Bxd5+ Kh8 23. Rac1 Rd6 24. Bg2 Rdd8 25. Rc2 Nd3 26. Rxc8 Rxc8
+27. Rd1 Nc5 28. Rc1 g6 29. Kf1 Kg7 30. Rc4 Rc7 31. Be4 Kf6 32. f3 g5 33. Ke2 h6
+34. Ke3 Ke6 35. Kd4 Kd6 36. Bd5 Na6 37. Rxc7 Nxc7 38. Bc4 a5 39. f4 Ne8 40.
+fxg5 hxg5 41. h4 Ng7 42. Ke4 gxh4 43. gxh4 Ke7 44. Be2 Ne6 45. Ke5 Nc5 46. Bc4
+Nd7+ 47. Kd5 Nf6+ 48. Kc6 Ne4 49. Bd3 Nc3 50. a3 Ke6 51. h5 Kf6 52. Kb6 a4 53.
+Ka5 Kg5 54. Bg6 Kh6 55. Kb4 1-0
+
+[Event "Ampolla op 4th"]
+[Site "Ampolla"]
+[Date "2008.06.08"]
+[Round "3.2"]
+[White "Barsov, Alexei"]
+[Black "Burgos Figueroa, Carlos Ernesto"]
+[Result "1-0"]
+[ECO "A58"]
+[WhiteElo "2480"]
+[BlackElo "2356"]
+[PlyCount "83"]
+[EventDate "2008.06.08"]
+[EventType "swiss (rapid)"]
+[EventRounds "8"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 d6 7. g3 Bg7 8. Bg2
+O-O 9. Nf3 Bxa6 10. O-O Nbd7 11. Rb1 Qa5 12. Bd2 Nb6 13. Qc2 Nc4 14. Be1 Rfb8
+15. a4 Qb6 16. Nd2 Nd7 17. Nxc4 Bxc4 18. Qe4 Ne5 19. Bd2 f5 20. Qh4 Qa6 21.
+Qxe7 Re8 22. Qh4 Bxe2 23. Nxe2 Qxe2 24. Bc3 Nf3+ 25. Bxf3 Qxf3 26. Bxg7 Kxg7
+27. Rfe1 Qxd5 28. Re7+ Rxe7 29. Qxe7+ Kg8 30. Re1 c4 31. h4 Rf8 32. h5 gxh5 33.
+Qg5+ Kh8 34. Re7 Qd1+ 35. Kg2 Qd5+ 36. f3 Qg8 37. Qh6 Rf7 38. Qxd6 Rxe7 39.
+Qxe7 Qd5 40. Qf8+ Qg8 41. Qxg8+ Kxg8 42. a5 1-0
+
+[Event "Ampolla op 4th"]
+[Site "Ampolla"]
+[Date "2008.06.08"]
+[Round "4.4"]
+[White "Pomes Marcet, Juan"]
+[Black "Djuric, Stefan"]
+[Result "0-1"]
+[ECO "A65"]
+[WhiteElo "2388"]
+[BlackElo "2460"]
+[PlyCount "104"]
+[EventDate "2008.06.08"]
+[EventType "swiss (rapid)"]
+[EventRounds "8"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Bd3 c5 6. d5 e6 7. Nge2 exd5 8. cxd5
+Re8 9. O-O d6 10. Ng3 Ng4 11. h3 Ne5 12. Be2 a6 13. a4 Qh4 14. Be3 f5 15. exf5
+gxf5 16. Qd2 Ng6 17. Nh5 Nd7 18. Nxg7 Kxg7 19. Bg5 Qd4 20. Bh6+ Kg8 21. Rad1
+Qxd2 22. Rxd2 Nde5 23. Rdd1 b6 24. Bc1 Bd7 25. f4 Nf7 26. g4 fxg4 27. hxg4 Bxa4
+28. Nxa4 Rxe2 29. Nxb6 Rb8 30. Nd7 Rb3 31. Nf6+ Kf8 32. Rf2 Re7 33. f5 Nh4 34.
+Nxh7+ Ke8 35. g5 Ne5 36. g6 Nef3+ 37. Kh1 Nxf5 38. Ng5 Ng3+ 39. Kg2 Nh4+ 40.
+Kh2 Nxg6 41. Rg1 Ne2 42. Re1 Nxc1 43. Rxc1 Ne5 44. Rg1 Rg7 45. Rf8+ Ke7 46. Rf2
+a5 47. Rgg2 a4 48. Re2 Kd7 49. Ne6 Nf3+ 50. Kh1 Rh7+ 51. Rh2 Rxh2+ 52. Rxh2
+Nxh2 0-1
+
+[Event "Ampolla op 4th"]
+[Site "Ampolla"]
+[Date "2008.06.08"]
+[Round "4.5"]
+[White "Belles Garcia, Vicente"]
+[Black "Pogorelov, Ruslan"]
+[Result "0-1"]
+[ECO "A17"]
+[WhiteElo "2133"]
+[BlackElo "2423"]
+[PlyCount "68"]
+[EventDate "2008.06.08"]
+[EventType "swiss (rapid)"]
+[EventRounds "8"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. g3 O-O 5. Bg2 d5 6. O-O dxc4 7. e3 Nc6 8. Qe2
+Qd3 9. Qxd3 cxd3 10. a3 Bxc3 11. dxc3 e5 12. b4 e4 13. Nd4 Ne5 14. f3 exf3 15.
+Nxf3 Nxf3+ 16. Bxf3 Bh3 17. Rd1 Rad8 18. Bxb7 Bg4 19. Rd2 Bf5 20. c4 Be4 21.
+Bxe4 Nxe4 22. Rd1 d2 23. Bb2 Rd3 24. Bd4 a6 25. b5 Ra8 26. a4 axb5 27. cxb5 Rb3
+28. Kf1 Rb4 29. a5 Rxb5 30. a6 c5 31. Be5 f6 32. Bc7 Ra7 33. Ba5 Rxa6 34. Ke2
+Raxa5 0-1
+
+[Event "Ampolla op 4th"]
+[Site "Ampolla"]
+[Date "2008.06.08"]
+[Round "5.2"]
+[White "Djuric, Stefan"]
+[Black "Munoz Pantoja, Miguel"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2460"]
+[BlackElo "2478"]
+[PlyCount "39"]
+[EventDate "2008.06.08"]
+[EventType "swiss (rapid)"]
+[EventRounds "8"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 e6 6. O-O Nge7 7. e3 O-O 8. d4
+cxd4 9. Nxd4 Nxd4 10. exd4 d5 11. cxd5 exd5 12. Bg5 Be6 13. Re1 Re8 14. Qd2 Qd7
+15. Bxe7 Rxe7 16. Nxd5 Bxd5 17. Rxe7 Qxe7 18. Bxd5 Rd8 19. Re1 Qd7 20. Qd1
+1/2-1/2
+
+[Event "Ampolla op 4th"]
+[Site "Ampolla"]
+[Date "2008.06.08"]
+[Round "5.4"]
+[White "Pogorelov, Ruslan"]
+[Black "Komljenovic, Davor"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2423"]
+[BlackElo "2462"]
+[PlyCount "84"]
+[EventDate "2008.06.08"]
+[EventType "swiss (rapid)"]
+[EventRounds "8"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 c5 2. c4 b6 3. g3 Bb7 4. Bg2 Nf6 5. O-O e6 6. Nc3 Be7 7. Re1 d6 8. e4 a6
+9. d4 cxd4 10. Nxd4 Qc7 11. Be3 O-O 12. Rc1 Nbd7 13. f4 Rfe8 14. g4 Nf8 15. g5
+N6d7 16. Nd5 exd5 17. cxd5 Qb8 18. Nc6 Bxc6 19. dxc6 Nc5 20. c7 Qxc7 21. b4
+Rab8 22. Qe2 Nfe6 23. bxc5 dxc5 24. Qg4 Rbd8 25. f5 Nd4 26. f6 Bf8 27. Bf4 Bd6
+28. Bxd6 Qxd6 29. Rc3 g6 30. h4 Qe6 31. Qg3 Qe5 32. Qf2 Ne2+ 33. Qxe2 Qxc3 34.
+h5 Rd2 35. Qf1 Qg3 36. Rb1 Qe3+ 37. Kh1 Qxg5 38. hxg6 hxg6 39. Qf3 Rxg2 40.
+Qxg2 Qxf6 41. Qg4 b5 42. Rd1 Qe6 0-1
+
+[Event "Ampolla op 4th"]
+[Site "Ampolla"]
+[Date "2008.06.08"]
+[Round "7.4"]
+[White "Pogorelov, Ruslan"]
+[Black "Moskalenko, Viktor"]
+[Result "0-1"]
+[ECO "A90"]
+[WhiteElo "2423"]
+[BlackElo "2572"]
+[PlyCount "104"]
+[EventDate "2008.06.08"]
+[EventType "swiss (rapid)"]
+[EventRounds "8"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 f5 2. d4 Nf6 3. g3 e6 4. Bg2 d5 5. O-O Bd6 6. c4 c6 7. b3 Qe7 8. Bb2 O-O
+9. Qc1 b5 10. Qc2 Bb7 11. c5 Bc7 12. Bc1 Nbd7 13. Bf4 Bxf4 14. gxf4 b4 15. a3
+a5 16. axb4 axb4 17. Rxa8 Rxa8 18. Qd2 Ba6 19. Re1 Rb8 20. Qa2 Bb5 21. Qa5 Qd8
+22. Qxd8+ Rxd8 23. Bf1 Ne4 24. Nbd2 Ra8 25. e3 Bxf1 26. Kxf1 h6 27. Nxe4 fxe4
+28. Ne5 Nxe5 29. fxe5 Ra3 30. Rb1 Ra2 31. Kg2 g5 32. Kg3 Kg7 33. Rf1 Ra3 34.
+Rb1 Kg6 35. h4 Ra2 36. Rh1 h5 37. hxg5 Kxg5 38. Rg1 Kh6 39. Rf1 Ra3 40. Rb1 Ra2
+41. Rg1 Ra3 42. Rb1 Ra8 43. Kh2 h4 44. Kh3 Kh5 45. Rg1 Rf8 46. Rg7 Rxf2 47. Re7
+Rf3+ 48. Kh2 Rxe3 49. Rxe6 Re2+ 50. Kh3 e3 51. Rf6 Re1 52. Kg2 h3+ 0-1
+
+[Event "Ampolla op 4th"]
+[Site "Ampolla"]
+[Date "2008.06.08"]
+[Round "8.5"]
+[White "Burgos Figueroa, Carlos Ernesto"]
+[Black "Pomes Marcet, Juan"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2356"]
+[BlackElo "2388"]
+[PlyCount "79"]
+[EventDate "2008.06.08"]
+[EventType "swiss (rapid)"]
+[EventRounds "8"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 Nd7 4. g3 Bxf3 5. exf3 e5 6. Bg2 Bd6 7. O-O Ngf6 8.
+d3 O-O 9. Re1 Re8 10. Nd2 c6 11. c4 Bc5 12. a3 a5 13. Qc2 Qb6 14. Re2 Bd4 15.
+Rae1 h6 16. Bc3 Bxc3 17. Qxc3 d4 18. Qc2 Qc5 19. Bh3 Qxa3 20. f4 e4 21. Nxe4
+Nxe4 22. Bxd7 Red8 23. Rxe4 Rxd7 24. Re8+ Rxe8 25. Rxe8+ Kh7 26. Qe2 Qc5 27.
+Qe4+ g6 28. h4 h5 29. Re5 Qb4 30. Rxh5+ Kg7 31. Re5 Qxb3 32. Rxa5 Qb4 33. Re5
+b5 34. Qxc6 Qb1+ 35. Kg2 Ra7 36. Qxb5 Qxd3 37. Re8 Qa3 38. Qe5+ f6 39. Qxd4 Kf7
+40. Re3 1-0
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.08"]
+[Round "1"]
+[White "Eljanov, Pavel"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "2687"]
+[BlackElo "2746"]
+[PlyCount "79"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qb3 Nb6 7. d4 Bg7 8.
+Bf4 O-O 9. e3 Be6 10. Qa3 N8d7 11. Rd1 c6 12. Ng5 Bd5 13. e4 e5 14. dxe5 Bxe5
+15. Bxe5 Nxe5 16. h4 Qe8 17. h5 f6 18. Nf3 Nbc4 19. Bxc4 Nxc4 20. Qb3 Nd2 21.
+Qxb7 Rf7 22. Qb4 Rb8 23. Qd4 Bxe4 24. Rxd2 Bxf3+ 25. Kf1 Bxh5 26. Ne4 Qe5 27.
+Qxe5 fxe5 28. Rh4 Rf4 29. Rxf4 exf4 30. f3 Kf8 31. Rd7 Rxb2 32. Rxa7 Rb1+ 33.
+Kf2 Rb2+ 34. Kf1 Rb1+ 35. Kf2 Rb2+ 36. Kg1 Rb1+ 37. Kh2 Rb2 38. Kg1 Rb1+ 39.
+Kh2 Rb2 40. Kg1 1/2-1/2
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.10"]
+[Round "3"]
+[White "Eljanov, Pavel"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "2687"]
+[BlackElo "2740"]
+[Annotator "Eljanov"]
+[PlyCount "77"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qb3 Nb6 7. d4 Bg7 8.
+Bf4 $5 {One of the popular possiblities to escape the Grünfeld nowadays. Eine
+der beliebten Möglichkeiten heutzutage, Grünfeld zu entfliehen.} O-O 9. e3 Be6
+10. Qa3 N8d7 11. Rd1 Nd5 $5 $146 {I calculated this move during my game
+against Svidler 2 rounds earlier. Diesen Zug hatte ich zwei Runden zuvor in
+meiner Partie gegen Svidler berechnet.} ({But Petya choose Petya wählte
+allerdings ohne großes Nachdenken} 11... c6 {without much thinking and I
+forgot completely about the 11...Nd5 move and did not analyse it during my
+preparation for Shirov! , worauf ich die Möglichkeit 11...Nd5 komplett vergaß
+und während meiner Vorbereitung auf Shirov nicht analysierte!} 12. Ng5 Bd5 $5
+13. e4 e5 $5 14. dxe5 Bxe5 15. Bxe5 Nxe5 16. h4 (16. f4 $5) 16... Qe8 17. h5 f6
+18. Nf3 Nbc4 19. Bxc4 Nxc4 20. Qb3 Nd2 21. Qxb7 Rf7 22. Qb4 Rb8 23. Qd4 Bxe4
+24. Rxd2 Bxf3+ 25. Kf1 Bxh5 26. Ne4 Qe5 27. Qxe5 fxe5 28. Rh4 Rf4 29. Rxf4 exf4
+30. f3 Kf8 31. Rd7 Rxb2 32. Rxa7 Rb1+ 33. Kf2 Rb2+ 34. Kf1 Rb1+ 35. Kf2 Rb2+
+36. Kg1 Rb1+ 37. Kh2 Rb2 38. Kg1 Rb1+ 39. Kh2 Rb2 40. Kg1 {1/2 Eljanov,P (2687)
+-Svidler,P (2745)/Foros 2008}) 12. Nxd5 Bxd5 13. Be2 c6 14. O-O Re8 $1 {The
+move e5 is coming, so Black is quite ok here. Der Zug e5 kommt, also steht
+Schwarz hier ganz okay.} 15. Bg3 Qb6 16. b3 e5 {But this obvious move is a
+little inaccuracy, Black is not forced yet to hurry and can try to put some
+pressure on the queenside. Aber dieser offensichtliche Zug ist eine kleine
+Ungenauigkeit; Schwarz braucht noch nichts zu überstürzen und kann versuchen,
+etwas Druck auf den Damenflügel zu entfalten.} (16... a5 $5 17. Bc4 Qb4 18. Qc1
+e6 19. a3 Qe7 $132) 17. Nxe5 Nxe5 18. dxe5 Bxe5 19. Bc4 $1 {Unfortunately for
+him Alexei thought that the position was completely equal, but it is not
+completely so. Zu seinem Pech hielt Alexei die Stellung für völlig
+ausgeglichen, das stimmt aber nicht ganz.} Bxc4 (19... Rad8 20. Bxd5 cxd5 21.
+Bxe5 Rxe5 22. Rd4 Re4 23. Rfd1 Rxd4 24. Rxd4 Rc8 25. g4 $5 $14 {I remember
+this move in a similar situation from... a game of Alexei against Naiditsch in
+Khanty-Mansiysk 2005, that he won convincingly! An diesen Zug erinnere ich
+mich in einer ähnlichen Situation aus... einer Partie von Alexei gegen
+Naiditsch in Khanty-Mansiysk 2005, welche er überzeugend gewann.}) 20. bxc4
+Bxg3 (20... Qc7 21. Bxe5 (21. Rd3 Bxg3 22. hxg3 b6 23. Rfd1 Rad8 $11) 21...
+Rxe5 22. Rd4 $14 {/=}) 21. hxg3 Re4 $2 ({Alexei failed to find the precise way
+to equalise: Alexei versäumte es, den präzisen Ausgleichsweg zu finden:} 21...
+Red8 $1 22. c5 (22. Qe7 Re8 23. Qf6 Re6 24. Qf4 Re7 $11) 22... Qb5 (22... Qc7
+23. Rd6 $14) 23. Rxd8+ (23. Rd6 Rxd6 24. cxd6 Qd5 $1) 23... Rxd8 24. Qxa7 Kg7
+25. Qa3 Rd5 26. Qc3+ Kg8 27. Rc1 Qe2 $1 $11 {- the key move! I cannot defend
+from perpetual check - and the pawn on a2 is hanging. - der Schlüsselzug. Ich
+kann das Dauerschach nicht verhindern - und der Bauer auf a2 hängt.}) (21...
+Rad8 22. c5 (22. Rb1 Qa6 23. Qxa6 bxa6 24. Rb7 Rd2 25. a4 Ra2 $11) 22... Qa6
+23. Qxa6 bxa6 24. Rd6 Rxd6 25. cxd6 Rd8 26. Rd1 f5 (26... Rd7 27. e4 f6 28. f4
+Kf7 29. f5 $14) 27. d7 c5 28. Kf1 Kf7 29. Rd5 c4 30. Rc5 Rxd7 31. Rxc4 $14) 22.
+Rd7 $1 Rae8 (22... Rxc4 23. Qe7 $16) 23. c5 Qb5 24. Qxa7 Ra4 25. Qb6 $1 {I
+believe that this move is the strongest! Dieser Zug ist meines Erachtens am
+stärksten!} ({as after , denn nach} 25. Qxb7 Qxb7 26. Rxb7 Rxa2 27. Rc1 (27.
+Rd1 Re5 $1 $132) 27... Rd8 $1 28. Rb6 Rdd2 29. Rf1 Rdc2 30. Rxc6 Ra5 {the
+endgame is theoretically drawn. ist das Endspiel theoretisch remis.}) 25...
+Qxb6 26. cxb6 Rb8 27. Rb1 $1 {Another important decision. Noch eine wichtige
+Entscheidung.} (27. Rfd1 Rb4 28. Re7 Rxb6 29. Rdd7 Rb1+ 30. Kh2 Rf8 31. g4 $14
+{I have some pressure, but do not believe that it could be enough to win. Ich
+habe etwas Druck, glaube aber nicht, dass das zum Sieg ausreichen könnte.} (31.
+Rxb7 Rxb7 32. Rxb7 Ra8 33. Rb2 f5 $132)) 27... Rxa2 28. Rb4 c5 {Black's
+position is rather unpleasant and even with the help of a silicon friend it's
+hard to guess which move is better. Die Stellung von Schwarz ist ziemlich
+unangenehm, und selbst mit der Hilfe eines Silikonfreundes ist es schwer zu
+erraten, welcher Zug besser ist.} (28... Ra6 29. g4 $1 g5 (29... c5 30. Rf4 f5
+31. gxf5 Rxb6 32. f6 $16) 30. Kh2 Kg7 (30... c5 31. Rb5 $16) 31. Kg3 Kf6 32.
+Rc7 Kg6 33. Rb3 Kf6 34. e4 $16 {Practically it's lost for Black because of the
+absence of counterplay. Dies ist praktisch verloren für Schwarz aufgrund der
+völligen Abwesenheit von Gegenspiel.}) 29. Re4 (29. Rf4 $5 {was a good
+alternative: war eine gute Alternative:} f5 30. g4 Rb2 31. gxf5 Rxb6 32. f6 $16
+) 29... Rb2 30. Ree7 Rb1+ 31. Kh2 Rxb6 32. Rxf7 Rc6 $2 {Clearly the decisive
+mistake! Eindeutig der entscheidende Fehler!} (32... h5 {was the best try,
+where I need to find a correct concept and have to calculate deeply variations
+like: war der beste Versuch, wonach ich erst noch ein korrektes Konzept finden
+und tief Varianten berechnen muss, zum Beispiel:} 33. Rg7+ (33. g4 $1) 33...
+Kf8 34. g4 $1 (34. Rh7 Kg8 35. Rdg7+ Kf8 36. Rc7 Kg8 37. Rhd7 Rf6 38. f4 b5 39.
+Rxc5 b4 40. Rcc7 Re6 41. Rg7+ Kh8 42. Rh7+ Kg8 $132) 34... hxg4 35. Kg3 (35.
+Rdf7+ Ke8 36. Rc7 Kf8 37. Kg3 Rc8 $1) 35... Rf6 (35... Rc8 36. Rh7 Kg8 37.
+Rdg7+ Kf8 38. Kxg4 c4 39. Rxb7 Rxb7 40. Rh8+ Ke7 41. Rxc8 $16) (35... Rd8 36.
+Rdf7+ Ke8 37. Rc7 Kf8 38. Kxg4 $16) 36. Rh7 Kg8 37. Rdg7+ Kf8 38. Rc7 Kg8 39.
+Rxb7 Rxb7 40. Rxb7 Rc6 41. Kxg4 c4 42. Rb2 $16 {and there is still no
+guarantee of anything! Rook endings are very tricky and in one of these lines
+there could be a draw. und noch immer ist nichts garantiert! Turmendspiele
+sind sehr knifflig, und in einem dieser Abspiele könnte sich ein Remis
+verbergen.}) 33. Rg7+ Kf8 34. Rxh7 Ke8 (34... Kg8 35. Rhg7+ $1 Kh8 36. Rxb7
+Rxb7 37. Rxb7 c4 38. Kg1 c3 39. Rb1 $18) 35. Rd5 $1 {I had something like 3
+minutes on the clock, so it's a good practical decision as the endgame after
+35...Rbc8 should be lost. Ich hatte noch etwa 3 Minuten auf der Uhr, daher ist
+dies eie gute praktische Entscheidung, denn das Endspiel nach 35...Rbc8 sollte
+verloren sein.} Rcc8 (35... Rbc8 36. Rxb7 c4 37. Rdd7 $1 Kf8 38. Rd2 (38. Rh7
+Kg8) 38... c3 39. Rc2 $18) 36. Re5+ $5 {Again the safest way, which becomes
+the quickest thanks to my opponent! Wieder der sicherste Weg, der auch der
+schnellste wird, dank der Hilfe meines Gegners!} ({But computer engines are
+uncompromising judges! After Aber Computerengines sind kompromisslose Richter!
+nach} 36. e4 $1 {I'm simply mating: setze ich einfach matt:} c4 37. e5 c3 38.
+Rd6 $1 (38. Rdd7 Rc5) 38... c2 (38... Rc6 39. Rh8+ Ke7 40. Rxb8 $18) 39. Rxg6
+Kf8 40. e6 $18) 36... Kf8 37. Rxc5 $1 Rxc5 38. Rh8+ Ke7 39. Rxb8 {And here
+Alexei strangely enough resigned! Und hier gab Alexei seltsamerweise auf!} ({
+After nach} 39. Rxb8 b5 {I would have to demonstrate precise technique! I
+don't know which move I'd have chosen with something like 1 minute per move.
+Most likely I would have chosen between the logical moves 40.g4 and 40.f4.
+hätte ich noch präzise Technik demonstieren müssen! Ich weiß nicht, welche
+Fortsetzung ich bei etwa einer Minute pro Zug gewählt hätte.
+Höchstwahrscheinlich hätte ich zwischen den logischen Zügen 40.g4 und 40.f4
+gewählt.} 40. f4 (40. Rb6 g5 (40... Kd7 41. Rxg6 b4 (41... Kc7 42. Rg4 Rc4 43.
+Rg7+ Kb6 44. Rd7 b4 45. Rd1 Kb5 46. f4 b3 47. g4 Kb4 48. g5 b2 49. Rb1 Kb3 50.
+Kg3 Kc2 51. Rxb2+ Kxb2 52. g6 $18) 42. Rb6 Rc4 43. f4 Kc7 44. Ra6 Rc3 45. Ra4
+b3 46. e4 $18) 41. Kh3 Kd7 42. Kg4 Kc7 43. Ra6 Rc2 44. f4 gxf4 45. gxf4 Rxg2+
+46. Kf5 Rg8 $132) (40. g4 Kd6 41. Kg3 (41. f4 $1) 41... Kc7 42. Ra8 b4 43. Ra1
+b3 44. Rb1 Rb5 45. f4 Kd6 46. e4 Ke6 47. g5 Rb4 48. Kf3 b2 49. Ke3 Kd6 50. Kd3
+Kc5 51. f5 gxf5 52. exf5 Kd6 53. Kc3 Rg4 54. Rxb2 Rxg5 $14) 40... Kd6 41. g4 ({
+is maybe easiest (but I'm not sure that 40.f4 would have become my choice!)
+ist vielleicht am einfachsten (wobei ich nicht sicher bin, ob 40.f4 meine Wahl
+geworden wäre!)} 41. e4 $5 Kc7 42. Ra8 b4 43. Ra2 b3 44. Rb2 Rc3 45. Kh3 Re3
+46. e5 Kc6 47. Kg4 Kd5 48. Kg5 $1 Rxg3+ 49. Kf6 $18) 41... Kc7 42. Ra8 b4 43.
+Kg3 b3 44. Ra1 b2 $1 (44... Kd6 45. Rb1 Rb5 46. e4 b2 47. e5+ Ke6 48. Kh4 Kf7
+49. Kg5 Rb8 50. g3 Rb3 51. Kh6 Rb6 52. g5 Rb8 53. Kh7 Rb7 54. g4 $18) 45. Rb1
+Rc2 46. Kh4 Rxg2 47. Kg5 Kd6 {And here it looks study-like: Und hier wird es
+studienmäßig:} 48. Kf6 $1 {The only way to win. Der einzige Gewinnweg.} (48. e4
+Ke6 49. e5 Rf2 50. Rd1 Rd2 $11) ({Amazingly, after} 48. Kxg6 Rxg4+ 49. Kf6 Rg2
+50. e4 Rh2 51. e5+ Kd7 52. e6+ Ke8 53. f5 Rh6+ $1 54. Ke5 Rh2 {I don't see any
+chances to win as my king cannot find a safe haven. Ich sehe keine
+Gewinnchancen, denn mein König findet keinen sicheren Hafen.} 55. Rg1 Kf8 56.
+f6 Re2+ 57. Kd5 Rd2+ 58. Kc6 Rc2+ 59. Kd7 Rd2+ 60. Kc6 Rc2+ 61. Kd5 Rd2+ 62.
+Kc4 Rc2+ 63. Kb3 Re2 64. e7+ Kf7 65. Rf1 b1=Q+ 66. Rxb1 Kxf6 $11) 48... Kd5 49.
+g5 Kc4 50. Kxg6 $18) 1-0
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.17"]
+[Round "9"]
+[White "Jakovenko, Dmitrij"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2711"]
+[BlackElo "2765"]
+[PlyCount "31"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. b3 O-O 8. Bb2
+d6 9. e3 Nbd7 10. d4 Ne4 11. Nxe4 Bxe4 12. Qe2 Qc7 13. Rfd1 Qb7 14. Ne1 Nf6 15.
+Rac1 cxd4 16. Bxd4 1/2-1/2
+
+[Event "Foros Aerosvit 3rd"]
+[Site "Foros"]
+[Date "2008.06.18"]
+[Round "10"]
+[White "Van Wely, Loek"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "2677"]
+[BlackElo "2740"]
+[Annotator "Marin,M"]
+[PlyCount "42"]
+[EventDate "2008.06.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. Nf3 g6 {This is a good complement to the Grünfeld Defence. Classic players
+like Adorjan and Jansa used to play this way. Of course, Black has to be ready
+to play the Pirc or the Modern.} 2. c4 Bg7 3. e4 ({In the event of} 3. d4 {
+Black would be in time to transpose to the Grünfeld with} Nf6 4. Nc3 d5) (3.
+Nc3 c5 4. d4 cxd4 5. Nxd4 {is known to offer Black good play after} Nc6 6. Nc2
+Bxc3+ $5 $132) 3... e5 4. d4 exd4 5. Nxd4 Nc6 $5 {Slightly unusual.} ({Black's
+initial idea was} 5... Nf6 6. Nc3 O-O 7. Be2 Re8 8. f3 c6 {, practically
+winning a whole tempo if compared to the King's Indian, because the queen's
+pawn will advance to d5 in one move.} 9. Bg5 (9. Nc2 d5 {Adamski,J-Adorjan,A/
+Polanica Zdroj 1970/MCL/[Belov] (0-1, 76)}) (9. O-O d5 {Spassov,L (2480)-Sax,G
+(2565)/Budapest 1977/MCL (1/2-1/2, 29)}) 9... h6 10. Bh4 d5 {Gurevich,M (2694)
+-Jansa,V (2458)/Forchheim 2000/CBM 076/[Gurevich,M] (1/2-1/2, 44)}) 6. Be3 (6.
+Nxc6 bxc6 {would define White's intentions in the centre too soon. After} 7.
+Nc3 d6 8. Be3 {Black can already deviate from the Modern paths (8...Ne7) and
+return to the King's Indian setup with} Nf6 9. Be2 O-O 10. O-O Re8 {, where
+the exchange on c6 may well have been premature.}) 6... Qf6 $5 (6... Nge7 7.
+Nc3 d6 8. Be2 {would transpose to a popular line of the Modern Defence.}) 7.
+Nxc6 dxc6 $5 {An interesting plan. In a pawn ending, Black would practically
+be a pawn down, but with the board populated by pieces, things are not that
+one-sided. The good control over the d5- and d6 squares (and, in the event of
+an eventual ...c5, over the weak d4-square), as well as the possibility of
+rapid development of the c8-bishop, compensate for the structural defect.} 8.
+Nc3 Qe7 9. Bd3 $146 (9. Qd2 f5 {illustrates one of Black's main ideas, the
+rapid development of the queenside.} 10. exf5 (10. f3 Nf6 11. Bd3 fxe4 12. Nxe4
+Nxe4 13. Bxe4 Be6 14. O-O-O O-O 15. Qc2 Bf5 $11) 10... Bxf5 11. O-O-O (11. Be2
+Rd8 12. Qc1 Nf6 13. O-O O-O 14. Re1 Rfe8 $32) 11... Nf6 12. Bd3 Rd8 13. Qe2
+Rxd3 14. Rxd3 Bxd3 15. Qxd3 Ng4 16. Bd4 O-O $17 {Tratar,M (2466)-Cicak,S (2500)
+/Campillos 2006/CBM 111 ext (1/2-1/2, 59)}) (9. Be2 $5 {deserves attention,
+since the bishop will eventually land on this square anyway. For instance,} Nf6
+10. f3 {would win a tempo over the line starting with 10.f3 below.}) 9... Nf6
+10. h3 {Apparently, the most solid way of preventing ..Ng4. However, in the
+game we will see that the relative weakness of the h3-pawn offers Black ideas
+for counterplay.} (10. O-O $6 {alows Black win a couple of tempi if compared
+to the game after} Ng4 11. Bf4 O-O 12. h3 Ne5 13. Be2 Be6 $15) (10. f3 {safely
+defends the e4-pawn, but restricts the light-squared bishop even more.} O-O 11.
+O-O Nd7 12. Qc2 Ne5 13. Be2 Be6 14. b3 g5 $13) 10... Nd7 11. O-O O-O 12. Qc2
+Ne5 {Obviously, the knight's placement should be improved. For the time being,
+Ivanchuk gives up the plan of installing it on d4, which would have been
+connected with practical problems and prefers to consolidate it on another
+active central square.} (12... Nc5 $5 13. Be2 $140 f5 $132 (13... Ne6 14. Rad1
+c5 15. Nd5 $36)) 13. Be2 g5 {A method known from the Benoni Defence.} 14. Rad1
+(14. f4 gxf4 15. Bxf4 Be6 $132 {[%csl Ge5]} (15... Nxc4 $6 16. Bxc4 Qc5+ 17.
+Kh1 Qxc4 18. Bxc7 Be6 19. Rf3 $36) 16. b3 Rad8 $132) 14... Be6 15. b3 Rfe8 $132
+{Black has achieved comfortable development and White's "extra pawn" is not
+making itself felt yet.} 16. Bh5 $6 {This strategically ambitious move
+unexpectedly gives Black the opportunity of launching a strong attack.[%csl
+Rf5][%cal Gc3e2,Ge2g3]} (16. Rfe1 $5 Qf6 $5 {[%csl Gc3][%cal Ge5c4]} (16... g4
+$6 17. hxg4 Bxg4 (17... Nxg4 18. Bxg4 Bxg4 19. f3 $14) 18. f4 $5 $36 (18. f3
+$14)) 17. Na4 b6 18. Qc1 h6 $132 {[%cal Gf6g6,Gf7f5,Gc6c5,Ge5c6,Gc6d4]}) (16.
+Rd2 $5 Qf6 17. Rc1 $5 Qg6 $132 {[%cal Gh7h5,Gg5g4,Gf7f5]}) 16... g4 $1 $36 {
+[%csl Rh5]} (16... Qf6 17. Ne2 $14) 17. Bxg4 (17. f4 Qh4 $1 $15) 17... Bxg4 18.
+hxg4 Nxg4 19. Bf4 Be5 20. Qe2 $2 {Just a blunder in an unpleasant position.} (
+20. Ne2 Qh4 21. Qc1 Bxf4 22. Qxf4 Rxe4 $1 23. Qg3 Qxg3 24. Nxg3 Re7 $15 {[%csl
+Gc6,Gc7,Gf7,Gh7]}) (20. Qc1 Rad8 21. Ne2 h5 22. Ng3 Rxd1 23. Rxd1 Qc5 24. Rf1
+Bd4 $36) 20... Qh4 $1 21. Qf3 Nh2 $1 0-1
+
+[Event "GER-ch Net qual3 U14"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "1"]
+[White "Bauer, Bjoern Benny"]
+[Black "Wanninger, Carl"]
+[Result "1-0"]
+[ECO "A25"]
+[PlyCount "59"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e5 3. e3 exd4 4. exd4 Nc6 5. Nc3 Bb4 6. Bg5 h6 7. Bh4 O-O 8.
+Nf3 g5 9. Bg3 Ne4 10. Qc2 Bxc3+ 11. bxc3 Nxg3 12. fxg3 d5 13. cxd5 Qxd5 14. Be2
+Re8 15. O-O Bf5 16. Qd2 Be4 17. c4 Qd7 18. d5 Ne7 19. Ne5 Qd6 20. Nxf7 Qc5+ 21.
+Kh1 Nf5 22. g4 Nd4 23. Nxh6+ Kh7 24. Qxg5 Bxg2+ 25. Kxg2 Rxe2+ 26. Kh3 Rxh2+
+27. Kxh2 Qd6+ 28. Kg2 Rf8 29. Nf7 Qa3 30. Rh1+ 1-0
+
+[Event "GER-ch Net qual3 U14"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "1"]
+[White "Wendland, Tobias"]
+[Black "Schulze, Marc Andre"]
+[Result "0-1"]
+[ECO "A57"]
+[PlyCount "86"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. b3 g6 5. Nc3 a6 6. e4 d6 7. Nf3 Bg7 8. Bb2 Nxe4
+9. Nxe4 Bxb2 10. Rb1 Bg7 11. Bd3 O-O 12. O-O Nd7 13. Qd2 Nb6 14. Rfc1 bxc4 15.
+bxc4 a5 16. Rb3 a4 17. Rbb1 Ba6 18. Qa5 Nxd5 19. Qxd8 Rfxd8 20. Rd1 f5 21. Neg5
+Nc3 22. Rbc1 Nxd1 23. Rxd1 e5 24. Bc2 Bxc4 25. Bb1 h6 26. Nh3 e4 27. Nd2 Bf7
+28. Nf4 d5 29. Nf1 d4 30. Rc1 c4 31. Nd2 c3 32. Nf1 d3 33. Bxd3 exd3 34. g3 d2
+35. Rd1 c2 36. Rxd2 Rxd2 37. Nxd2 c1=Q+ 38. Nf1 Bc4 39. Kg2 Qxf1+ 40. Kf3 g5
+41. Nh3 g4+ 42. Ke3 Qe2+ 43. Kf4 Qe4# 0-1
+
+[Event "GER-ch Net qual3 U14"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "2"]
+[White "Schied, Daniel"]
+[Black "Wanninger, Carl"]
+[Result "0-1"]
+[ECO "A51"]
+[PlyCount "70"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e5 3. d5 c6 4. Nc3 Bb4 5. Bd2 Bxc3 6. Bxc3 cxd5 7. cxd5 d6 8.
+f3 O-O 9. e4 Nh5 10. g4 Qh4+ 11. Ke2 Nf4+ 12. Ke3 Qg5 13. Kf2 Qh4+ 14. Ke3 Nd7
+15. Be1 Qg5 16. Kf2 Nb6 17. h4 Qf6 18. g5 Qg6 19. Ne2 f6 20. Nxf4 exf4 21. Bd2
+fxg5 22. hxg5 Qxg5 23. Ke2 Nc4 24. Qc2 b5 25. b3 Ne5 26. Rh2 Ba6 27. Kf2 Qg3+
+28. Ke2 Qxh2+ 29. Ke1 Nxf3+ 30. Kd1 Qg1 31. Qd3 Nxd2 32. Kxd2 Qf2+ 33. Be2 f3
+34. Rf1 Qxe2+ 35. Qxe2 fxe2 0-1
+
+[Event "GER-ch Net qual3 U14"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "4"]
+[White "Wanninger, Carl"]
+[Black "Hahn, Markus"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "96"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. a3 g6 2. d4 Bg7 3. e4 e6 4. Nf3 d6 5. Be3 Ne7 6. c4 Nd7 7. Nc3 b6 8. Be2 Bb7
+9. O-O O-O 10. Rb1 e5 11. d5 a5 12. b4 axb4 13. axb4 f5 14. exf5 Nxf5 15. Qd2

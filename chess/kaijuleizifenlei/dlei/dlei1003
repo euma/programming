@@ -1,0 +1,600 @@
+15. Qxb3 b6 16. O-O Ba6 17. Rfe1 e5 18. dxe5 Bxe5 19. Bxe5 Qxe5 20. Rbd1 Bb7
+21. f3 Rad8 22. a4 Ba8 23. c4 f5 24. exf5 Qxf5 25. Ng3 Qf6 26. Qe3 Bc6 27. a5
+Rde8 28. Ne4 Qf7 29. axb6 axb6 30. Qd3 Bxe4 31. fxe4 Re5 32. Rf1 Qe7 33. Rxf8+
+Kxf8 34. Qf3+ Kg7 35. Re1 Qd7 36. Rf1 1/2-1/2
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.15"]
+[Round "4"]
+[White "Loiseau, Quentin"]
+[Black "Derieux, Christian"]
+[Result "0-1"]
+[ECO "D41"]
+[WhiteElo "2028"]
+[BlackElo "2149"]
+[PlyCount "104"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. d4 e6 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bd3 b6 12. Rc1 Bb7 13. h4 Nc6 14. e5
+Ne7 15. Ng5 h6 16. Bh7+ Kh8 17. Be4 Bxe4 18. Nxe4 Nf5 19. Rd1 Qd5 20. f3 Rad8
+21. O-O Qxd4+ 22. Qxd4 Rxd4 23. Rxd4 Nxd4 24. Rd1 Nc6 25. f4 Rd8 26. Nd6 Kg8
+27. Rc1 Nb4 28. Rc7 Nxa2 29. Rxa7 Nc3 30. g3 f6 31. Re7 fxe5 32. fxe5 Rb8 33.
+Kf2 b5 34. Rb7 Rxb7 35. Nxb7 Kf7 36. Ke3 Ke7 37. Nd6 b4 38. Kd3 Kd7 39. Kc4 Nd5
+40. Ne4 Ne3+ 41. Kxb4 Kc6 42. Kc3 Kd5 43. Kd3 Nf5 44. Nc3+ Kxe5 45. Ne2 h5 46.
+Kd2 Ke4 47. Nf4 Nxg3 48. Nxe6 Nf5 49. Ng5+ Kf4 50. Ke2 Kg3 51. Ne6 g6 52. Nf8
+Nxh4 0-1
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.15"]
+[Round "4"]
+[White "Zaninetti, Laurent"]
+[Black "Vignier, Pascal"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "2013"]
+[BlackElo "2068"]
+[PlyCount "84"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 e6 7. a3 Be7 8. e3
+Nh5 9. Be5 Nxe5 10. Nxe5 Nf6 11. Bd3 O-O 12. O-O Nd7 13. f4 f5 14. Nxd7 Bxd7
+15. Kh1 Rc8 16. Qb3 Rb8 17. Qc2 b5 18. g4 g6 19. gxf5 gxf5 20. Rg1+ Kh8 21. Qe2
+Qe8 22. Qg2 Qf7 23. Qe2 Be8 24. Rac1 Qf6 25. Qf3 Bg6 26. Rc2 Rbc8 27. Rgc1 Rg8
+28. Ne2 Rxc2 29. Rxc2 Be8 30. Nc1 Qh4 31. Qf2 Bh5 32. Qf1 Bg4 33. Qf2 Qxf2 34.
+Rxf2 Bh4 35. Rf1 Rc8 36. Kg2 Rc3 37. a4 bxa4 38. h3 Bh5 39. Ba6 Rc2+ 40. Kg1 a3
+41. Nd3 a2 42. Nb4 Bf2+ 0-1
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Batteux, Mickael"]
+[Black "Hurpeau, Jean Marc"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2030"]
+[BlackElo "1966"]
+[PlyCount "63"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. Qd2 Nbd7 7. h3 O-O 8. Be2
+Re8 9. Ne5 Nf8 10. g4 N6d7 11. O-O-O f6 12. Nxd7 Nxd7 13. e4 Qa5 14. exd5 Nb6
+15. Bc7 Bd7 16. dxc6 bxc6 17. Bxb6 axb6 18. Bc4+ Kh8 19. Ne2 Qxd2+ 20. Rxd2
+Rad8 21. f4 e5 22. dxe5 fxe5 23. Rhd1 b5 24. Rxd7 Rxd7 25. Rxd7 bxc4 26. fxe5
+Bh6+ 27. Kd1 Rxe5 28. h4 Be3 29. Nd4 Re4 30. Nxc6 Rxg4 31. Ke2 Bc1 32. Rd4
+1/2-1/2
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Cartigny, Patrick"]
+[Black "Bekhouche, Christophe"]
+[Result "0-1"]
+[ECO "D20"]
+[WhiteElo "2020"]
+[BlackElo "1973"]
+[PlyCount "46"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. c4 dxc4 6. Bxc4 Ne7 7. O-O O-O 8.
+Nc3 Bg4 9. Be3 Nbc6 10. Re1 Nf5 11. h3 Bxf3 12. Qxf3 Nfxd4 13. Bxd4 Nxd4 14.
+Qd3 Nc6 15. Qf5 g6 16. Qc2 Ne5 17. Bb3 Qg5 18. Qe4 Nc6 19. Nd5 Rae8 20. Qf3 Re5
+21. Nf6+ Kg7 22. Ne4 Qe7 23. Re3 Nd4 0-1
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Csomos, Romain"]
+[Black "Cramer, Stephen"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2011"]
+[BlackElo "2090"]
+[PlyCount "51"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Bf4 Nf6 5. e3 Nbd7 6. Nc3 c6 7. Rc1 Be7 8. h3
+Nf8 9. Nf3 Ng6 10. Bh2 O-O 11. Bd3 Re8 12. O-O Bd6 13. Bxd6 Qxd6 14. Kh1 Bd7
+15. a3 b6 16. Ne2 Ne4 17. Bxe4 Rxe4 18. Ng3 Ree8 19. Qd3 Qe7 20. Qc2 Qf6 21.
+Nh2 Qh4 22. Nf3 Qf6 23. Nh2 Qd6 24. Nf3 Qf6 25. Kh2 Qd6 26. Kh1 1/2-1/2
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "David, Frederic"]
+[Black "Leitner, Walter"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2054"]
+[BlackElo "2126"]
+[PlyCount "115"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c6 4. e3 Bg4 5. Be2 e6 6. O-O Be7 7. h3 Bh5 8. Nbd2
+Nbd7 9. c4 O-O 10. Rc1 dxc4 11. Nxc4 Nb6 12. Nce5 Nfd5 13. Bh2 f6 14. Nd3 Bd6
+15. Nc5 Bxh2+ 16. Nxh2 Bxe2 17. Qxe2 Qe7 18. Nf3 Rab8 19. Qd2 Rfd8 20. e4 Nc7
+21. Qa5 Nc8 22. Qa4 Nb5 23. Qc4 Kf7 24. a4 Nb6 25. Qd3 Nc7 26. Rfd1 Nd7 27.
+Nxd7 Rxd7 28. Qb3 h6 29. g3 Qd6 30. Kg2 Na6 31. Qc2 Nb4 32. Qb3 a5 33. Rc5 b6
+34. Rcc1 Rbd8 35. e5 Qd5 36. Qxd5 Rxd5 37. exf6 gxf6 38. Rf1 R8d6 39. Rc3 Ke7
+40. Re1 Kd7 41. Re4 c5 42. dxc5 Rxc5 43. Rh4 Rxc3 44. bxc3 Na2 45. Rxh6 Nxc3
+46. Rxf6 Nxa4 47. Ne5+ Ke8 48. h4 Nc3 49. h5 Ne4 50. Rg6 Ke7 51. h6 Nf6 52.
+Rg7+ Ke8 53. h7 Nxh7 54. Rxh7 b5 55. Ra7 a4 56. Kf3 Rd4 57. Ke3 Rb4 58. Ra8+
+1-0
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Duchateau, Thomas"]
+[Black "Cao, Philippe"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2088"]
+[BlackElo "1991"]
+[PlyCount "75"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 Be7 8.
+Bd3 O-O 9. Qc2 Re8 10. Bf4 Nf8 11. h3 Ne6 12. Bh2 Bd7 13. g4 g6 14. O-O-O b5
+15. Kb1 b4 16. Na4 Rc8 17. Ba6 Qa5 18. Bxc8 Rxc8 19. Ne5 Be8 20. Nd3 Ne4 21. f3
+N4g5 22. Rde1 f6 23. h4 Nf7 24. Rc1 Nd6 25. Bxd6 Bxd6 26. Nac5 Nxc5 27. Nxc5
+Qc7 28. f4 Qe7 29. Qd3 Bf7 30. Qa6 Rc7 31. Rhe1 Qd8 32. Qa5 Qc8 33. Na6 Rb7 34.
+Ka1 Kg7 35. g5 Be8 36. Qxd5 Be7 37. Qe4 Qd8 38. Nc5 1-0
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Manoeuvre, Antoine"]
+[Black "Debray, Tristan"]
+[Result "1-0"]
+[ECO "D16"]
+[WhiteElo "2095"]
+[BlackElo "2145"]
+[PlyCount "45"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. f3 Nfd7 8.
+Nxc4 e5 9. e4 Qh4+ 10. g3 Qf6 11. dxe5 Qxf3 12. Nd6+ Bxd6 13. Qxd6 Qxh1 14. Bg5
+f6 15. exf6 gxf6 16. Bxf6 Nxf6 17. Qe6+ Kd8 18. Qxf6+ Kd7 19. Qf5+ Ke7 20. Qe5+
+Kd7 21. Qxh5 Rf8 22. O-O-O+ Ke7 23. Qe5+ 1-0
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Moullier, Igor"]
+[Black "Zaninetti, Laurent"]
+[Result "1/2-1/2"]
+[ECO "D16"]
+[WhiteElo "2041"]
+[BlackElo "2013"]
+[PlyCount "46"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bg4 6. Ne5 Nbd7 7. Nxg4 Nxg4 8.
+e3 Ngf6 9. Bxc4 e6 10. O-O Bb4 11. Qb3 Qb6 12. Rd1 O-O 13. Bd2 Rad8 14. Ne2 Bd6
+15. Bxe6 Bxh2+ 16. Kxh2 fxe6 17. Qxe6+ Kh8 18. Bc3 Qc7+ 19. Kg1 Rde8 20. Qh3
+Nd5 21. Qg3 Qd8 22. Nf4 Nxf4 23. exf4 Nf6 1/2-1/2
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Rodon, Gurvan"]
+[Black "Lemoine, Benoit"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[WhiteElo "1989"]
+[BlackElo "2092"]
+[PlyCount "83"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 c5 6. dxc5 Qa5 7. cxd5 Ne4 8.
+Bd2 Bxc3 9. Bxc3 Nxc3 10. Qd2 Qxc5 11. Qxc3 Qxc3+ 12. bxc3 Bf5 13. Nd4 Bc8 14.
+e4 Nd7 15. Kd2 Nc5 16. Ke3 b6 17. Bb5+ Bd7 18. Bxd7+ Kxd7 19. Rhc1 Rhc8 20. Rc2
+Nb7 21. c4 Rc7 22. Rac1 Nc5 23. f4 Kc8 24. e5 Kb7 25. g4 Ka6 26. Rf1 Rac8 27.
+Nb5 Rd7 28. f5 Nb7 29. Nd4 Rc5 30. Nb3 Rc8 31. Rfc1 Rg8 32. e6 fxe6 33. fxe6
+Rdd8 34. Rf2 Nd6 35. Kd4 Rgf8 36. Rcf1 Rxf2 37. Rxf2 Rc8 38. Nd2 Ka5 39. Rf3
+Ka6 40. Ra3+ Kb7 41. Rf3 h5 42. h3 1/2-1/2
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Schweitzer, Adrien"]
+[Black "Gozzoli, Cyrille"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "2041"]
+[BlackElo "2104"]
+[PlyCount "82"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. g3 Bf5 5. Nc3 e6 6. Bg2 Nbd7 7. O-O Bd6 8. b3
+h6 9. Bb2 O-O 10. Re1 Re8 11. Qd2 Ne4 12. Nxe4 Bxe4 13. Rad1 Qe7 14. Ne5 Nxe5
+15. dxe5 Bb4 16. Bc3 Bxc3 17. Qxc3 Bxg2 18. Kxg2 Qc5 19. Rd4 a5 20. f4 b5 21.
+Qd3 dxc4 22. bxc4 b4 23. Rb1 Reb8 24. Qe4 Rd8 25. Rbd1 Rxd4 26. Rxd4 a4 27. Qd3
+b3 28. axb3 axb3 29. Rd8+ Rxd8 30. Qxd8+ Qf8 31. Qb6 Qa3 32. Qd8+ Kh7 33. Qd3+
+g6 34. Qd7 Kg7 35. Qd8 Qa7 36. Qd2 Qb7 37. Qb2 c5+ 38. Kh3 Qb4 39. e4 Qxc4 40.
+Qa3 Qb4 41. Qa8 b2 0-1
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Smith, Matthieu"]
+[Black "Beghin, Ronan"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2064"]
+[BlackElo "2110"]
+[PlyCount "73"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. Nbd2 c5 4. e3 Nc6 5. c3 e6 6. Bd3 Bd6 7. dxc5 Bxc5 8.
+O-O e5 9. e4 O-O 10. exd5 Qxd5 11. Bc4 Qd6 12. Nb3 Bg4 13. Qxd6 Bxd6 14. Be2
+Rad8 15. Re1 Rfe8 16. Bg5 a5 17. h3 Bc8 18. Bb5 Bc7 19. Bxc6 bxc6 20. Rad1 Rxd1
+21. Rxd1 Ne4 22. Be3 f5 23. Nc5 Nf6 24. Na4 Nd5 25. Bc5 Ba6 26. b3 Bb5 27. c4
+Bxa4 28. cxd5 Bb5 29. d6 Bd8 30. Nd2 Bd3 31. Nc4 e4 32. d7 Re6 33. Bb6 Bxb6 34.
+Nxb6 Rd6 35. Rc1 Kf7 36. Rxc6 Rd4 37. Rc8 1-0
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Vaillant, Stephane"]
+[Black "Hirt, Jean"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2016"]
+[BlackElo "2053"]
+[PlyCount "22"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 Bf5 5. Qb3 Qb6 6. c5 Qxb3 7. axb3 Na6 8.
+Ra4 Bc2 9. e3 Bxb3 10. Ra3 Bc4 11. Bxc4 dxc4 1/2-1/2
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.16"]
+[Round "5"]
+[White "Zarrouati, Pierre"]
+[Black "Veron, Cyprien"]
+[Result "1-0"]
+[ECO "D47"]
+[WhiteElo "2188"]
+[BlackElo "2098"]
+[PlyCount "75"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Be2 Nbd7 6. Nc3 dxc4 7. Bxc4 b5 8. Be2
+a6 9. O-O c5 10. a4 b4 11. Nb1 Bb7 12. Nbd2 Be7 13. Nc4 O-O 14. Nfe5 cxd4 15.
+exd4 a5 16. Bg5 Nd5 17. Bxe7 Qxe7 18. Bf3 N7b6 19. Re1 Rfc8 20. Rc1 Nxc4 21.
+Nxc4 Qd8 22. Qd2 Bc6 23. Bxd5 exd5 24. Ne3 Bxa4 25. Nf5 Rxc1 26. Qxc1 g6 27.
+Ne7+ Kg7 28. Qg5 Bb3 29. Nf5+ Kg8 30. Re7 Qf8 31. Nh6+ Kg7 32. Ng4 a4 33. Qe5+
+Kg8 34. Nf6+ Kg7 35. Nd7+ Kg8 36. Nxf8 Rxf8 37. Rb7 Rc8 38. Rb8 1-0
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Baudon, Sebastien"]
+[Black "Jactel, Nikolas"]
+[Result "0-1"]
+[ECO "D89"]
+[WhiteElo "2009"]
+[BlackElo "2141"]
+[PlyCount "84"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. d4 g6 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 Bg4 11. f3 Na5 12. Bd3 cxd4 13. cxd4 Be6 14. Qa4 a6
+15. Rac1 b5 16. Qc2 Bc4 17. Rfd1 Bxd3 18. Rxd3 Nc4 19. Bf2 Qa5 20. Rcd1 Rac8
+21. Qb1 Rfd8 22. Nc1 Nd6 23. Nb3 Qa4 24. Nc5 Qa5 25. e5 Nc4 26. Nb7 Qc7 27.
+Nxd8 Qxd8 28. Qb4 e6 29. Be1 Bf8 30. Qb3 Qd5 31. Bh4 Rc6 32. f4 Qe4 33. d5 exd5
+34. Re1 Bc5+ 35. Kh1 Ne3 36. Rdxe3 Bxe3 37. Qxe3 Qxe3 38. Rxe3 d4 39. Re1 d3
+40. Kg1 d2 41. Kf1 dxe1=Q+ 42. Bxe1 Rc2 0-1
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Bollard, Maxime"]
+[Black "Le Montagner, Yoann"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[WhiteElo "1980"]
+[BlackElo "2014"]
+[PlyCount "145"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Nc3 e6 5. cxd5 exd5 6. Bf4 Bd6 7. Bg3 Nge7 8.
+e3 O-O 9. Bd3 Re8 10. Bxh7+ Kxh7 11. Ng5+ Kg6 12. Qxg4 f5 13. Qh4 Rh8 14. Ne6
+Rxh4 15. Nxd8 Bxg3 16. fxg3 Rh8 17. Ne6 Nb4 18. Kd2 c6 19. h4 Kf6 20. Nc5 b6
+21. Nd7+ Ke6 22. a3 Nc2 23. Kxc2 Kxd7 24. b4 Rh5 25. Ne2 Rah8 26. Nf4 R5h6 27.
+Nh3 Rf8 28. a4 f4 29. Nxf4 Nf5 30. Ra3 g5 31. Ne2 gxh4 32. g4 Nd6 33. g5 Rg6
+34. Nf4 Rxg5 35. Rxh4 Rf7 36. Rh3 Nc4 37. Ra2 Nxe3+ 38. Rxe3 Rxf4 39. Kc3 Rfg4
+40. Rf2 Rg7 41. Ref3 Rg3 42. Kd3 a5 43. bxa5 bxa5 44. Rxg3 Rxg3+ 45. Rf3 Rxg2
+46. Rf7+ Ke6 47. Ra7 Rg3+ 48. Kc2 Kf5 49. Rxa5 Ke4 50. Rc5 Ra3 51. Rxc6 Rxa4
+52. Rh6 Rc4+ 53. Kd2 Rxd4+ 54. Ke2 Ke5 55. Rh8 Rg4 56. Re8+ Kd4 57. Re7 Rg2+
+58. Kd1 Kc4 59. Ke1 Ra2 60. Re8 d4 61. Rh8 Kc3 62. Rc8+ Kd3 63. Rd8 Ra1+ 64.
+Kf2 Rd1 65. Rd7 Rc1 66. Rd8 Rc5 67. Ke1 Kc3 68. Ke2 Rc4 69. Rd7 Rc5 70. Rd8
+Re5+ 71. Kd1 d3 72. Rd7 Re4 73. Rd8 1/2-1/2
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Garrel, Alain"]
+[Black "Forgues, Valerie"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "2107"]
+[BlackElo "1999"]
+[PlyCount "63"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c3 e6 4. Bg5 Nbd7 5. e3 c5 6. Nbd2 Bd6 7. Bd3 Qc7 8. O-O
+O-O 9. Rc1 b6 10. c4 Qb8 11. cxd5 Nxd5 12. Ne4 cxd4 13. Nxd6 Qxd6 14. Nxd4 Nc5
+15. Bb1 Qe5 16. Nf3 Qxb2 17. Nd4 Nc3 18. Bxh7+ Kxh7 19. Qh5+ Kg8 20. Bf6 N3e4
+21. Bxg7 Kxg7 22. Qg4+ Kf6 23. Qh4+ Kg7 24. Qg4+ Kf6 25. Qh4+ Ke5 26. Rc2 Qa3
+27. Rd1 Nd3 28. Nc6+ Kd5 29. Rc3 Qxc3 30. Nb4+ Kd6 31. Nxd3 Bb7 32. Qf4+ 1-0
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Grandadam, Nicolas"]
+[Black "Favarel, Antoine"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2112"]
+[BlackElo "2074"]
+[PlyCount "70"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bf4 c6 7. Qc2 Be7 8.
+h3 Nf8 9. e3 Ng6 10. Bh2 Bd6 11. Bxd6 Qxd6 12. Bd3 Be6 13. O-O O-O 14. Rab1 a6
+15. b4 Nd7 16. a4 Rac8 17. a5 Rc7 18. Na4 Qe7 19. Nc5 Nxc5 20. bxc5 Qf6 21. Nd2
+Nh4 22. f4 Bf5 23. g4 Bxd3 24. Qxd3 Rd7 25. Nf3 Nxf3+ 26. Rxf3 Re8 27. Rb3 Re4
+28. Kg2 Qe7 29. Qb1 Kf8 30. Qg1 Ke8 31. Rf1 Kd8 32. Rfb1 Kc8 33. Qf2 g5 34. f5
+h5 35. Qg3 h4 1/2-1/2
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Ider, Borya"]
+[Black "Platel, Alexandre"]
+[Result "1/2-1/2"]
+[ECO "D74"]
+[WhiteElo "2065"]
+[BlackElo "2190"]
+[PlyCount "67"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. c4 c6 7. cxd5 Nxd5 8. e4
+Nb6 9. h3 N8d7 10. Nc3 e5 11. d5 cxd5 12. exd5 h6 13. Be3 Kh7 14. a4 f5 15. Qb3
+e4 16. Nd4 Nc5 17. Qb5 Nd3 18. a5 Bd7 19. Qb3 Nc8 20. a6 bxa6 21. Ne6 Bxe6 22.
+dxe6 Nd6 23. Rxa6 Rb8 24. Qd5 Nc8 25. Qd7 Qxd7 26. exd7 Nb6 27. Rxa7 Nc4 28.
+Nd5 Rbd8 29. b3 Nxe3 30. fxe3 Nc5 31. Nb6 Be5 32. Rd1 Bb8 33. Ra5 Nd3 34. Rd5
+1/2-1/2
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Lambert, Romain"]
+[Black "Buscara, Sevan"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "1953"]
+[BlackElo "2159"]
+[PlyCount "76"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. e3 b5 6. b3 Bg4 7. h3 Bxf3 8. Qxf3 e5
+9. dxe5 Bb4 10. Bd2 Bxc3 11. Bxc3 Ne4 12. Bb4 bxc4 13. Bxc4 Qb6 14. a3 a5 15.
+Bd6 Nxd6 16. exd6 O-O 17. Be2 Qc5 18. O-O Qxd6 19. Rfd1 Nd7 20. Qf5 Rab8 21.
+Qc2 Rb6 22. e4 d4 23. Qd2 c5 24. Rab1 Rfb8 25. Qxa5 Qe7 26. b4 Qxe4 27. Bg4 Ra8
+28. Bf3 Rxa5 29. Bxe4 Raa6 30. bxc5 Nxc5 31. Rxb6 Rxb6 32. Rxd4 g6 33. Bf3 Ra6
+34. Rc4 Ra5 35. Bc6 Nd3 36. Rc3 Nf4 37. Kh2 Ne6 38. Bf3 Nd4 1/2-1/2
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Prodhomme, Boris"]
+[Black "Gretry, Patrice"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2151"]
+[BlackElo "2029"]
+[PlyCount "49"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5 7. a4 e6 8. axb5
+Nxc3 9. bxc3 cxb5 10. Ng5 Bb7 11. Qh5 g6 12. Qg4 Be7 13. Be2 Nd7 14. Bf3 Bxf3
+15. Qxf3 O-O 16. h4 Nb6 17. Qh3 Kg7 18. Ra6 Qd5 19. h5 Rh8 20. Qg4 h6 21. Nxf7
+Kxf7 22. Qxg6+ Kf8 23. Rh3 Bg5 24. Ba3+ Be7 25. Qf6+ 1-0
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Venner, Laurent"]
+[Black "Koch, Alain"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2029"]
+[BlackElo "2090"]
+[PlyCount "68"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Bd6 5. Bg3 Ne4 6. Bxd6 cxd6 7. c4 Qa5+ 8.
+Nbd2 dxc4 9. Bxc4 d5 10. Be2 Nc6 11. O-O Nxd2 12. Nxd2 O-O 13. a3 Bd7 14. b4
+Qd8 15. Nb3 b6 16. Rc1 Ne7 17. Ba6 Bc8 18. Bd3 Bb7 19. f4 g6 20. g4 f5 21. g5
+Nc8 22. h4 Nd6 23. h5 Rc8 24. Nd2 Rxc1 25. Qxc1 Kg7 26. Qc2 Qc8 27. hxg6 Qxc2
+28. Bxc2 hxg6 29. Bd3 Rc8 30. Nf3 Rc3 31. Ne5 Nf7 32. Nxf7 Kxf7 33. Bb5 a6 34.
+Bd7 Ke7 0-1
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Veron, Cyprien"]
+[Black "Denous, Cyprien"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "2098"]
+[BlackElo "2028"]
+[PlyCount "105"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. d4 Nc6 3. c4 Bg4 4. e3 e6 5. Be2 Bb4+ 6. Nc3 Nf6 7. O-O O-O 8.
+cxd5 Nxd5 9. Bd2 Qe7 10. e4 Nb6 11. a3 Bxc3 12. bxc3 Bxf3 13. gxf3 f5 14. e5 g5
+15. Kh1 Kh8 16. Rg1 Rg8 17. Qc1 h6 18. h4 gxh4 19. Bxh6 Rxg1+ 20. Qxg1 Rg8 21.
+Qh2 Rg6 22. Bd2 Nd8 23. Rg1 Rxg1+ 24. Qxg1 Qg7 25. Bg5 Qf8 26. Qh2 Nf7 27.
+Qxh4+ Kg8 28. f4 c5 29. Be7 Qh6 30. Bh5 Kg7 31. Bxc5 Nd5 32. Kg1 Qxf4 33. Qxf4
+Nxf4 34. Bf3 b6 35. Be7 Ng5 36. Bxg5 Nh3+ 37. Kg2 Nxg5 38. c4 Kf8 39. Kg3 Ke7
+40. Bg2 Nf7 41. Kf4 Nd8 42. d5 Kd7 43. Bf3 a6 44. dxe6+ Nxe6+ 45. Kxf5 Nd4+ 46.
+Ke4 Nc2 47. Bg4+ Ke7 48. a4 Nb4 49. f4 a5 50. f5 Na6 51. f6+ Ke8 52. e6 Nc5+
+53. Kd5 1-0
+
+[Event "FRA-ch op-A"]
+[Site "Pau"]
+[Date "2008.08.17"]
+[Round "6"]
+[White "Zaninetti, Laurent"]
+[Black "Vaillant, Stephane"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[WhiteElo "2013"]
+[BlackElo "2016"]
+[PlyCount "41"]
+[EventDate "2008.08.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]

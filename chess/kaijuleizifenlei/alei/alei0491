@@ -1,0 +1,600 @@
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Nf3 Bc5 7. Nc3 a5 8.
+Bd3 O-O 9. b3 d6 10. Bb2 f5 11. Bb1 fxe4 12. Qd5+ Kh8 13. Bxe4 Qe8 14. Ne2 Nd7
+15. Qd3 Nb4 16. Qc3 Nf6 17. Ng5 Nxa2 18. Qg3 h6 19. h4 Nb4 20. O-O-O a4 21. f5
+Bf2 22. Qxf2 Nxe4 23. Qd4 Nf6 24. Rde1 Qe5 25. Qxe5 dxe5 26. Kd2 Bxf5 27. Bxe5
+Nd3 28. Ref1 Nxe5 29. Rxf5 Ne4+ 30. Ke3 Rxf5 31. Kxe4 Rf7 32. Nf4 hxg5 33.
+hxg5+ Kg8 34. Kxe5 Re8+ 0-1
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.20"]
+[Round "2"]
+[White "Pichl, Michael"]
+[Black "Koch, Stefan"]
+[Result "1-0"]
+[ECO "A09"]
+[WhiteElo "2077"]
+[BlackElo "2143"]
+[PlyCount "105"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O Nf6 5. d3 e5 6. c4 d4 7. a3 Bd6 8. e4 O-O
+9. Nbd2 Ne8 10. Rb1 a5 11. b3 Be7 12. Ne1 Nd6 13. Qe2 Bd7 14. f4 f6 15. Ndf3 b5
+16. Bd2 Rb8 17. Nh4 bxc4 18. dxc4 a4 19. Nd3 axb3 20. Nxc5 Nf7 21. Nxd7 Qxd7
+22. Nf5 g6 23. Bh3 Qa7 24. Nxe7+ Qxe7 25. Rfc1 Qxa3 26. Qd3 Qc5 27. Kg2 Kg7 28.
+Be6 Nd6 29. Bd5 Nb4 30. Bxb4 Rxb4 31. Rxb3 Rxb3 32. Qxb3 Re8 33. Qd3 Rb8 34.
+Rc2 Nf7 35. Rf2 Nd6 36. fxe5 fxe5 37. Qf3 d3 38. Qf6+ Kh6 39. Qxe5 Re8 40. Qf4+
+Kg7 41. Qf6+ Kh6 42. e5 d2 43. Qf4+ Kg7 44. Rxd2 Nf5 45. e6 Rf8 46. Qe5+ Kh6
+47. Re2 Re8 48. Kh3 Qg1 49. Qf4+ Kg7 50. Rf2 h5 51. Qe5+ Kh6 52. Rxf5 gxf5 53.
+Qf6+ 1-0
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.20"]
+[Round "2"]
+[White "Seidel, Thomas"]
+[Black "Bohatschek, Daniel"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2041"]
+[BlackElo "1917"]
+[PlyCount "55"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Bd3 O-O 5. O-O d6 6. Nbd2 Nc6 7. c3 e5 8. h3
+Qe7 9. dxe5 dxe5 10. e4 a6 11. Qc2 Nh5 12. Nb3 Be6 13. Bg5 f6 14. Be3 Rfd8 15.
+Nc5 b5 16. Nxe6 Qxe6 17. a4 Rab8 18. axb5 axb5 19. Qe2 Nf4 20. Bxf4 exf4 21.
+Bxb5 Ne5 22. Nxe5 Qxe5 23. Bc4+ Kh8 24. Rad1 Bf8 25. Rxd8 Rxd8 26. f3 Bc5+ 27.
+Kh1 Qd6 28. Bb3 1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.20"]
+[Round "2"]
+[White "Wehner, Janis"]
+[Black "Gulich, Christian"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[WhiteElo "2184"]
+[BlackElo "2063"]
+[PlyCount "88"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 f5 6. e3 Nf6 7. Nh3 O-O 8. O-O d6
+9. f4 h6 10. Rb1 Rb8 11. Bd2 Be6 12. Qa4 Qd7 13. Nd5 Qf7 14. Nxf6+ Bxf6 15. b4
+a6 16. Rfc1 d5 17. b5 Nd8 18. bxa6 c6 19. axb7 Rxb7 20. cxd5 Bxd5 21. Rxb7 Qxb7
+22. Bxd5+ cxd5 23. Bb4 Rf7 24. fxe5 Bxe5 25. Qe8+ Kh7 26. Qxe5 Qxb4 27. Qxd5
+Qd2 28. Rc8 Qxe3+ 29. Kh1 Ne6 30. Rc2 Kg7 31. Rf2 Rc7 32. Kg2 Nd4 33. Nf4 Rc6
+34. Qd7+ Kg8 35. Qd8+ Kf7 36. Qd7+ Kg8 37. Nd5 Qxd3 38. Ne7+ Kf8 39. Qd8+ Kf7
+40. Nxc6 Qe4+ 41. Kg1 Qe1+ 42. Rf1 Qe3+ 43. Rf2 Qe1+ 44. Rf1 Qe3+ 1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.20"]
+[Round "3"]
+[White "Horatschek, Stefan"]
+[Black "Wehner, Janis"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2084"]
+[BlackElo "2184"]
+[PlyCount "26"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. Nbd2 d5 7. Ne5 O-O 8. c4
+c6 9. e4 dxc4 10. Ndxc4 Nbd7 11. Be3 c5 12. Nxd7 Nxd7 13. Qe2 cxd4 1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.20"]
+[Round "3"]
+[White "Kirschbaum, Gunnar"]
+[Black "Welde, Kevin"]
+[Result "1-0"]
+[ECO "A50"]
+[WhiteElo "2160"]
+[BlackElo "1842"]
+[PlyCount "75"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. e4 Bb4 5. Bd3 Bb7 6. f3 d5 7. cxd5 Bxc3+ 8.
+bxc3 exd5 9. e5 Nfd7 10. f4 c5 11. Nf3 h6 12. O-O Ba6 13. f5 Bxd3 14. Qxd3 Nc6
+15. Bf4 c4 16. Qc2 b5 17. Rae1 Nf8 18. Qf2 Qa5 19. e6 fxe6 20. fxe6 Ng6 21. Ne5
+Ncxe5 22. Bxe5 Nxe5 23. Rxe5 O-O-O 24. e7 Rde8 25. Qf3 a6 26. Qxd5 Kb8 27. Rf8
+Qxc3 28. Rxh8 Qc1+ 29. Kf2 Qd2+ 30. Re2 Qf4+ 31. Qf3 Qxd4+ 32. Kf1 Qd1+ 33. Re1
+Qxf3+ 34. gxf3 Rxh8 35. e8=Q+ Rxe8 36. Rxe8+ Kc7 37. Re6 a5 38. Ke2 1-0
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.20"]
+[Round "3"]
+[White "Kirste, Olaf"]
+[Black "Mehlhorn, Uwe"]
+[Result "1/2-1/2"]
+[ECO "A42"]
+[WhiteElo "2045"]
+[BlackElo "2160"]
+[PlyCount "77"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 d6 4. e4 Nd7 5. Be3 c6 6. Bd3 a6 7. a4 a5 8. Nge2
+Ngf6 9. f3 O-O 10. Qd2 e5 11. d5 Nc5 12. Bc2 cxd5 13. cxd5 Bd7 14. g4 Ne8 15.
+Ng3 Qc8 16. Bh6 f6 17. Be3 Rf7 18. Qe2 b6 19. Nb5 Bf8 20. h4 Bxb5 21. Qxb5 Rb8
+22. h5 Rc7 23. hxg6 hxg6 24. Qe2 Rbb7 25. Kf2 Rh7 26. Kg2 Rbc7 27. Rxh7 Rxh7
+28. Rh1 Qd7 29. Rxh7 Kxh7 30. Qc4 Bh6 31. Bf2 Bd2 32. Ne2 Nc7 33. Nc3 N7a6 34.
+Nb5 Nb4 35. b3 Kg7 36. Bb1 Kf8 37. Nc3 Ke7 38. Na2 Nxa2 39. Bxa2 1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.20"]
+[Round "3"]
+[White "Koch, Stefan"]
+[Black "Sieber, Stephan"]
+[Result "1-0"]
+[ECO "A88"]
+[WhiteElo "2143"]
+[BlackElo "2223"]
+[PlyCount "55"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O d6 6. c4 O-O 7. Nc3 Qe8 8. Bg5
+c6 9. Qc1 Qf7 10. Bxf6 Bxf6 11. b3 e5 12. e3 g5 13. dxe5 dxe5 14. Rb1 g4 15.
+Nd2 Bg5 16. Ne2 e4 17. Nf4 Nd7 18. Rd1 Ne5 19. h4 gxh3 20. Bxh3 Rd8 21. c5 Be6
+22. Bg2 h5 23. Nc4 Bxc4 24. bxc4 Bxf4 25. exf4 Nd3 26. Qe3 Qe7 27. Bh3 Rf8 28.
+Rxd3 1-0
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.20"]
+[Round "3"]
+[White "Michalowski, Peter"]
+[Black "Hannes, Diana"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2073"]
+[BlackElo "1976"]
+[PlyCount "43"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d3 b6 4. g3 Bb7 5. Bg2 Nf6 6. O-O d5 7. exd5 Nxd5 8. b3
+Qf6 9. d4 Nc6 10. c4 Nde7 11. Bg5 Qf5 12. dxc5 Rd8 13. Qe2 Nb4 14. Nbd2 bxc5
+15. Bxe7 Bxe7 16. Nh4 Bxh4 17. Bxb7 Qc2 18. Qe4 Bg5 19. a3 Bxd2 20. axb4 Qxe4
+21. Bxe4 Bxb4 22. Rxa7 1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.20"]
+[Round "3"]
+[White "Roessner, Uwe"]
+[Black "Bohatschek, Daniel"]
+[Result "0-1"]
+[ECO "A15"]
+[WhiteElo "1962"]
+[BlackElo "1917"]
+[PlyCount "80"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. g3 Nf6 2. Bg2 g6 3. c4 Bg7 4. Nf3 c5 5. O-O O-O 6. d3 Na6 7. Nc3 d6 8. Rb1
+Rb8 9. a3 Nc7 10. b4 Nd7 11. Qc2 b6 12. b5 e5 13. Ng5 Bb7 14. Nge4 f5 15. Bg5
+Nf6 16. Nxf6+ Bxf6 17. Bxf6 Qxf6 18. a4 Bxg2 19. Kxg2 Ne6 20. Nd5 Qg5 21. Qc1
+f4 22. a5 bxa5 23. Ra1 Nd4 24. Qb2 Nxe2 25. Rxa5 f3+ 26. Kh1 Rb7 27. Rfa1 Rff7
+28. Ra6 Rbd7 29. b6 axb6 30. Qxb6 Qf5 31. Ne3 Qh5 32. Qc6 Qh3 33. Qd5 Nf4 34.
+Qe4 Rf5 35. Ra8+ Kf7 36. gxf4 Rh5 37. Qd5+ Kg7 38. Rg8+ Kh6 39. Rxg6+ hxg6 40.
+Ng4+ Qxg4 0-1
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.21"]
+[Round "4"]
+[White "Pichl, Michael"]
+[Black "Gulich, Christian"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2077"]
+[BlackElo "2063"]
+[PlyCount "72"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 f5 2. d3 Nf6 3. e4 d6 4. e5 Ng4 5. d4 dxe5 6. h3 e4 7. hxg4 exf3 8. gxf3
+c6 9. Bc4 Nd7 10. g5 g6 11. Qe2 Bg7 12. c3 c5 13. dxc5 Nxc5 14. Bf4 Be6 15.
+Bb5+ Bd7 16. Be5 Ne6 17. Bxg7 Nxg7 18. Bc4 Qc7 19. Nd2 O-O-O 20. O-O-O e5 21.
+Rh4 Bc6 22. Rdh1 Nh5 23. Be6+ Kb8 24. Rxh5 gxh5 25. Bxf5 Be8 26. Qe4 Qg7 27. f4
+Bc6 28. Qe1 Bxh1 29. Qxh1 Qf7 30. Qe4 exf4 31. Qxf4+ Qc7 32. Qf3 Rhf8 33. Ne4
+Qe5 34. Nf6 Qe1+ 35. Kc2 Qd2+ 36. Kb3 Qxg5 0-1
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.21"]
+[Round "4"]
+[White "Wehner, Janis"]
+[Black "Kirste, Olaf"]
+[Result "1/2-1/2"]
+[ECO "A24"]
+[WhiteElo "2184"]
+[BlackElo "2045"]
+[PlyCount "63"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d3 c6 6. e4 d6 7. Nge2 e5 8. O-O
+Bg4 9. h3 Be6 10. f4 exf4 11. gxf4 Qc8 12. Kh2 Nh5 13. Bf3 Bxh3 14. Rg1 Nf6 15.
+f5 Bxf5 16. exf5 Qxf5 17. Ng3 Qd7 18. Bg5 Na6 19. Rf1 Rae8 20. Bxf6 Bxf6 21.
+Bxc6 bxc6 22. Rxf6 Qe7 23. Qf3 Nc5 24. d4 Nd7 25. Rf4 Qe3 26. Qxe3 Rxe3 27. Re4
+Re8 28. Rxe8+ Rxe8 29. Kg2 f5 30. b4 Re3 31. Nce2 h5 32. Kf2 1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.21"]
+[Round "5"]
+[White "Roessner, Uwe"]
+[Black "Assmann, Winfried"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "1962"]
+[BlackElo "1657"]
+[PlyCount "72"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. g3 d5 2. Bg2 Nf6 3. c4 e6 4. Nf3 c5 5. O-O Nc6 6. cxd5 exd5 7. d3 Be7 8. b3
+O-O 9. Bb2 Be6 10. Nbd2 Rc8 11. Rc1 b6 12. a3 Qd7 13. Re1 Rfd8 14. Rc2 h6 15.
+Qa1 d4 16. Rec1 Na5 17. Ne5 Qb5 18. a4 Qe8 19. Nec4 Bxc4 20. bxc4 Nc6 21. Ba3
+Bd6 22. Nf3 Rd7 23. Bh3 Re7 24. Bxc8 Qxc8 25. Qb1 Ne5 26. Kg2 Qb7 27. a5 Nfg4
+28. axb6 Nxf3 29. exf3 Ne5 30. bxa7 Qxf3+ 31. Kg1 Rxa7 32. Bxc5 Rb7 33. Rb2
+Nxd3 34. Rxb7 Qxf2+ 35. Kh1 Qf3+ 36. Kg1 Qf2+ 1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.21"]
+[Round "5"]
+[White "Seidel, Thomas"]
+[Black "Sieber, Stephan"]
+[Result "0-1"]
+[ECO "A81"]
+[WhiteElo "2041"]
+[BlackElo "2223"]
+[PlyCount "96"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. Bg5 h6 7. Bxf6 Bxf6 8. c3
+d6 9. Nbd2 Nc6 10. d5 Ne5 11. Nd4 Bg7 12. e3 Qe8 13. N2b3 c5 14. dxc6 Nxc6 15.
+Qe2 Bd7 16. Nxc6 bxc6 17. Rfd1 Rc8 18. Nd4 c5 19. Nf3 Bc6 20. Ne1 Bxg2 21. Nxg2
+Rb8 22. Rd2 Rb7 23. Qc4+ Qf7 24. Qxf7+ Kxf7 25. Re1 Rd8 26. Nf4 e6 27. Ree2 d5
+28. Nd3 Rc7 29. Kg2 e5 30. f4 e4 31. Nf2 d4 32. cxd4 cxd4 33. exd4 Rxd4 34. Nd1
+Rcd7 35. Rxd4 Rxd4 36. Ne3 Rd3 37. b3 Bd4 38. Nc4 Ke6 39. Rc2 g5 40. Nb2 Rf3
+41. fxg5 hxg5 42. Nc4 f4 43. gxf4 gxf4 44. b4 Rd3 45. a4 f3+ 46. Kg3 f2+ 47.
+Kg2 e3 48. b5 Rd1 0-1
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.21"]
+[Round "5"]
+[White "Wendling, Hannes"]
+[Black "Bohatschek, Daniel"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2125"]
+[BlackElo "1917"]
+[PlyCount "85"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Ne2 a6 3. c4 Nc6 4. d3 g6 5. g3 Bg7 6. Bg2 d6 7. Nbc3 Nf6 8. O-O
+O-O 9. f4 Rb8 10. a4 Bd7 11. h3 Nd4 12. Nxd4 cxd4 13. Ne2 e5 14. g4 Ne8 15. b3
+f6 16. Ng3 Rf7 17. b4 Qb6 18. Bd2 Qd8 19. Rf2 Bf8 20. h4 h6 21. Qf3 Qc8 22. f5
+g5 23. hxg5 hxg5 24. Bf1 Rh7 25. Be2 Nc7 26. Bd1 Be8 27. Bb3 Bf7 28. Qd1 Qd7
+29. Rh2 Rxh2 30. Kxh2 Kg7 31. Kg2 Be7 32. Qc2 b6 33. Rh1 Rh8 34. Rxh8 Kxh8 35.
+Qd1 Kg7 36. Qh1 Qe8 37. Bc2 Qh8 38. Qc1 Qb8 39. Nf1 Qg8 40. Nh2 Qh8 41. Nf3 Qd8
+42. Bd1 Be8 43. Bb3 1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.22"]
+[Round "6"]
+[White "Grube, Jan"]
+[Black "Jaesche, Thomas"]
+[Result "1-0"]
+[ECO "A36"]
+[WhiteElo "1836"]
+[BlackElo "1900"]
+[PlyCount "73"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. f4 f5 6. Nf3 Nf6 7. O-O O-O 8. Rb1
+Rb8 9. b3 b6 10. e3 Bb7 11. d4 cxd4 12. exd4 e6 13. Ba3 Re8 14. Bd6 Rc8 15. Ne5
+Bf8 16. Nb5 a6 17. Bxf8 Rxf8 18. Nd6 Rb8 19. Nxb7 Rxb7 20. Nxc6 dxc6 21. Bxc6
+Rc7 22. d5 Qd6 23. Qf3 Ne4 24. Rb2 Rd8 25. Re1 b5 26. Qe3 Rb8 27. Ree2 Qa3 28.
+Qd4 Qd6 29. Qe5 Qe7 30. Rxe4 fxe4 31. d6 Qd8 32. dxc7 Qd1+ 33. Kg2 Qf3+ 34. Kh3
+Rf8 35. Bxe4 Qd1 36. Qxe6+ Kg7 37. c8=Q 1-0
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.22"]
+[Round "6"]
+[White "Pichl, Michael"]
+[Black "Friedrich, Gerd"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2077"]
+[BlackElo "1904"]
+[PlyCount "55"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 g6 4. O-O Bg7 5. d3 h5 6. h3 e5 7. Nbd2 Be6 8. e4 Nd7
+9. d4 exd4 10. exd5 Bxd5 11. Re1+ Kf8 12. Nb3 Bxf3 13. Bxf3 Ne5 14. Bg2 d3 15.
+Be3 Nh6 16. Qd2 dxc2 17. Qxc2 Nf5 18. Bf4 f6 19. Rad1 Qb6 20. Nc5 Kg8 21. Bxe5
+fxe5 22. Rd7 Qb4 23. Nd3 Qb6 24. Nxe5 Re8 25. Qc4+ Kh7 26. Qf7 c5 27. Rxb7 Qa5
+28. Qxg6+ 1-0
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.22"]
+[Round "6"]
+[White "Wehner, Janis"]
+[Black "Michalowski, Peter"]
+[Result "0-1"]
+[ECO "A16"]
+[WhiteElo "2184"]
+[BlackElo "2073"]
+[PlyCount "64"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nb6 6. Nf3 Bg7 7. O-O O-O 8.
+d3 Nc6 9. Be3 h6 10. Qd2 Kh7 11. a4 a5 12. Rfc1 Nb4 13. Bxb6 cxb6 14. d4 Bd7
+15. e4 e6 16. Re1 Bc6 17. Rad1 Rc8 18. Bf1 f5 19. Ne5 fxe4 20. Nxc6 Nxc6 21.
+Rxe4 e5 22. d5 Nd4 23. Bg2 Rc7 24. f4 Nb3 25. Qc2 Nc5 26. fxe5 Nxe4 27. Qxe4
+Qg5 28. e6 Bxc3 29. bxc3 Rxc3 30. e7 Re8 31. d6 Rc1 32. Qd4 Qc5 0-1
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.23"]
+[Round "7"]
+[White "Grube, Jan"]
+[Black "Assmann, Winfried"]
+[Result "1-0"]
+[ECO "A54"]
+[WhiteElo "1836"]
+[BlackElo "1657"]
+[PlyCount "53"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. g3 Nc6 5. Bg2 Be7 6. O-O O-O 7. d4 Bf5 8. d5
+Nb8 9. Bd2 Nbd7 10. b4 Nb6 11. Qb3 c6 12. dxc6 bxc6 13. Ng5 Rc8 14. e4 Bd7 15.
+Na4 h6 16. Nh3 Nxe4 17. Bxe4 Bxh3 18. Nxb6 axb6 19. Rfe1 Kh8 20. Qf3 Qc7 21.
+Qh5 Qd7 22. Bxh6 Bg4 23. Bxg7+ Kxg7 24. Qh7+ Kf6 25. Qh4+ Kg7 26. Qh7+ Kf6 27.
+Qh6# 1-0
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.23"]
+[Round "7"]
+[White "Hannes, Diana"]
+[Black "Pichl, Michael"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "1976"]
+[BlackElo "2077"]
+[PlyCount "76"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. c4 Nc6 5. dxc5 Qa5+ 6. Nc3 Bxc3+ 7. bxc3 Nf6 8.
+e5 Nxe5 9. Bb2 Nxf3+ 10. Qxf3 Qxc5 11. Be2 d6 12. O-O O-O 13. h3 Be6 14. Rfe1
+Rfc8 15. Qxb7 Nd7 16. Bc1 Rab8 17. Qa6 Qc7 18. Be3 Nc5 19. Qa3 Bf5 20. Rad1 Rb6
+21. g4 Be4 22. f3 Ra6 23. Qc1 Ba8 24. Rd2 Ra4 25. Rb2 Qc6 26. Qc2 d5 27. Kg2
+Ra5 28. cxd5 Qxd5 29. Qd2 Qc6 30. Rb4 Ne6 31. Rc4 Nc5 32. Rd1 Qe6 33. Kf1 Bxf3
+34. Rd4 Bxe2+ 35. Kf2 Ne4+ 36. Rxe4 Qxe4 37. Qxe2 Re5 38. Rd4 Qh1 0-1
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.23"]
+[Round "7"]
+[White "Koch, Stefan"]
+[Black "Wehner, Janis"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2143"]
+[BlackElo "2184"]
+[PlyCount "92"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. e3 g6 3. f4 Bg7 4. Nf3 d6 5. Be2 O-O 6. O-O Nbd7 7. h3 Qe8 8. g4
+e5 9. Nc3 c6 10. Kg2 Qe7 11. g5 Ne8 12. h4 Nb6 13. Rh1 Bg4 14. Kg3 f5 15. Ng1
+Bxe2 16. Ngxe2 Nc7 17. Qg1 Ne6 18. h5 Rfe8 19. b3 c5 20. dxe5 dxe5 21. hxg6
+hxg6 22. a4 Rad8 23. a5 Nd5 24. Nxd5 Rxd5 25. Ra4 exf4+ 26. Nxf4 Qxg5+ 27. Kf3
+Qxg1 28. Rxg1 Nxf4 29. exf4 Kf7 30. Rc4 Re6 31. Rh1 b5 32. axb6 axb6 33. Ra4
+Rd7 34. Ra8 Re8 35. Ra6 Rd6 36. Ra7+ Re7 37. Ra8 Bd4 38. Rh7+ Ke6 39. Rh6 Kf7
+40. Rh7+ Ke6 41. Rh6 Kd5 42. c4+ Kc6 43. Rc8+ Kb7 44. Rg8 Bc3 45. Rgxg6 Rxg6
+46. Rxg6 Re1 1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.23"]
+[Round "8"]
+[White "Friedrich, Gerd"]
+[Black "Roessner, Uwe"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "1904"]
+[BlackElo "1962"]
+[PlyCount "52"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d6 2. Nf3 Nf6 3. c3 Nbd7 4. Nbd2 e5 5. e4 Be7 6. Bd3 O-O 7. Nf1 Ne8 8.
+Ne3 g6 9. Qb3 Ng7 10. Ng4 Nf6 11. Nh6+ Kh8 12. Ng5 Be6 13. d5 Nfh5 14. dxe6
+Bxg5 15. Nxf7+ Rxf7 16. exf7 Bxc1 17. Rxc1 Qg5 18. Qc2 Qxg2 19. Rf1 Nf4 20. Bc4
+Ngh5 21. f3 Qg5 22. Kd1 Ng2 23. Re1 Nxe1 24. Kxe1 Nf4 25. Qd2 Rf8 26. Kd1 Qf6
+1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.23"]
+[Round "8"]
+[White "Pichl, Michael"]
+[Black "Horatschek, Stefan"]
+[Result "1/2-1/2"]
+[ECO "A12"]
+[WhiteElo "2077"]
+[BlackElo "2084"]
+[PlyCount "40"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. d3 Bf5 5. O-O h6 6. b3 e6 7. Bb2 Be7 8. Nbd2
+O-O 9. c4 a5 10. a3 Na6 11. Qc2 Qb6 12. Bc3 Rfc8 13. Qb2 Qd8 14. b4 axb4 15.
+axb4 Nc7 16. b5 cxb5 17. cxb5 Rxa1 18. Rxa1 Nxb5 19. Be5 Qd7 20. Rb1 Nd6
+1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.23"]
+[Round "9"]
+[White "Kirste, Olaf"]
+[Black "Michalowski, Peter"]
+[Result "1/2-1/2"]
+[ECO "A18"]
+[WhiteElo "2045"]
+[BlackElo "2073"]
+[PlyCount "83"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Nfd7 5. d4 dxc4 6. Bxc4 Nb6 7. Bb3 Bd7 8.
+Nf3 Bc6 9. O-O Na6 10. a3 Bxf3 11. Qxf3 c6 12. Rd1 Nc7 13. Ne4 Nbd5 14. Bg5 Qd7
+15. Rac1 h6 16. Bh4 g5 17. Bg3 O-O-O 18. Nd6+ Bxd6 19. exd6 Ne8 20. Bxd5 exd5
+21. Qxd5 Nxd6 22. Qa5 b6 23. Qa6+ Kb8 24. b4 Ka8 25. Be5 Rhe8 26. f3 Qb7 27.
+Qa4 b5 28. Qc2 Nc4 29. Qc3 Qd7 30. a4 a6 31. axb5 axb5 32. Ra1+ Kb7 33. Qb3 Ra8
+34. h3 Nxe5 35. Rxa8 Rxa8 36. dxe5 Ra1 37. Rxa1 Qd4+ 38. Kh2 Qxe5+ 39. f4 Qxa1
+40. Qxf7+ Kb6 41. fxg5 Qe5+ 42. Kg1 1/2-1/2
+
+[Event "Thueringen-ch"]
+[Site "Finsterbergen"]
+[Date "2008.03.23"]
+[Round "9"]
+[White "Messerschmidt, Nick"]
+[Black "Taudte, Stefan"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[WhiteElo "1907"]
+[BlackElo "2113"]
+[PlyCount "89"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]

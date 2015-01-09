@@ -1,0 +1,600 @@
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2156"]
+[BlackElo "2218"]
+[PlyCount "89"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Leipzig Gohlis II"]
+[BlackTeam "Jenapharm Jena"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Bc4 Nc6 3. d3 Nf6 4. Nf3 Bc5 5. c3 d6 6. O-O O-O 7. a4 a6 8. Re1
+Qe7 9. Bb3 Ba7 10. Nbd2 Be6 11. Bc2 Rad8 12. Nf1 d5 13. Qe2 dxe4 14. dxe4 Ng4
+15. Ne3 Nxe3 16. Bxe3 Bxe3 17. Qxe3 f6 18. Nh4 Rfe8 19. Nf5 Qf8 20. b4 Rd7 21.
+a5 Ne7 22. Ba4 c6 23. Nxe7+ Qxe7 24. Rad1 Red8 25. Qe2 Qf7 26. Rxd7 Rxd7 27.
+Rd1 Kf8 28. Rxd7 Qxd7 29. Qd1 Qxd1+ 30. Bxd1 Ke7 31. Kf1 Kd6 32. Be2 Bb3 33.
+Bd3 c5 34. Ke1 Kc6 35. Kd2 Bf7 36. Kc1 Bg8 37. Kb2 Bf7 38. Ka3 Be6 39. Be2 Bf7
+40. Bd3 Bg6 41. Bc2 Kd6 42. f3 Be8 43. Bd3 Bf7 44. Be2 Be6 45. Bd3 1/2-1/2
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.19"]
+[Round "6.8"]
+[White "Braeuer, Franz"]
+[Black "Hentze, Markus"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "1919"]
+[PlyCount "70"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Jenapharm Jena"]
+[BlackTeam "Leipzig Gohlis II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. c3 d6 8. d3
+O-O 9. Bg5 Be6 10. Bd5 Bxd5 11. exd5 Nb8 12. Nbd2 Nbd7 13. Ne4 h6 14. Bxf6 Nxf6
+15. Nxf6+ Qxf6 16. b4 e4 17. Nd2 Qxc3 18. O-O exd3 19. Qf3 Qxd2 20. bxc5 dxc5
+21. Rfd1 Qe2 22. Qg3 c4 23. Qxc7 Rfe8 24. d6 Qe5 25. Qc6 Rec8 26. Qb6 Rd8 27.
+a4 Rxd6 28. Qb7 Re8 29. axb5 axb5 30. f4 Qd5 31. Qc7 Rde6 32. f5 Re5 33. f6
+Qc5+ 34. Qxc5 Rxc5 35. fxg7 Re7 0-1
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.19"]
+[Round "6.5"]
+[White "Limpert, Michael"]
+[Black "Salewski, Bernd"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2148"]
+[BlackElo "2059"]
+[PlyCount "69"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lok Leipzig II"]
+[BlackTeam "Naumburg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Bd3 Bc6 6. Nf3 Nf6 7. Qe2 Nxe4 8.
+Bxe4 Bxe4 9. Qxe4 c6 10. O-O Be7 11. Ne5 O-O 12. Be3 Nd7 13. c4 Qc7 14. f4 Nf6
+15. Qf3 Bd6 16. Rad1 Rac8 17. g4 c5 18. g5 Bxe5 19. dxe5 Nd7 20. Rd6 b6 21.
+Rfd1 Nb8 22. Bd2 g6 23. Bc3 Rfe8 24. h4 Re7 25. Qd3 Kf8 26. h5 Ke8 27. hxg6
+hxg6 28. Qh3 Rd7 29. Qh8+ Ke7 30. Qf6+ Ke8 31. f5 exf5 32. Re1 Kf8 33. e6 Qxd6
+34. Qh8+ Ke7 35. Bf6# 1-0
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "7.2"]
+[White "Womacka, Mathias"]
+[Black "Hoepfl, Thomas"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2467"]
+[BlackElo "2355"]
+[PlyCount "57"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Chemnitz"]
+[BlackTeam "Halle USV"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bf4 O-O 7. Qd2 Nc6 8.
+O-O-O Nxd4 9. Qxd4 Be6 10. f3 Nd7 11. Qe3 Qb8 12. g4 Ne5 13. Bg3 c6 14. g5 b5
+15. f4 Nc4 16. Bxc4 Bxc4 17. f5 Qb6 18. Qf4 b4 19. Na4 Qa5 20. b3 Rfe8 21. Kb1
+Bf8 22. Nb2 Bb5 23. Rhe1 Qa3 24. Qc1 Rad8 25. h4 c5 26. Nd3 Qxc1+ 27. Kxc1 Bc6
+28. Nf2 d5 29. exd5 1/2-1/2
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "7.3"]
+[White "Engelmann, Jakob"]
+[Black "Quast, Michael"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[WhiteElo "2120"]
+[BlackElo "2283"]
+[PlyCount "23"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Halle USV"]
+[BlackTeam "Chemnitz"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O Qh4 8.
+c4 O-O-O 9. c5 g5 10. Nc3 Nf6 11. Qf3 Bg7 12. Bf5 1/2-1/2
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "7.5"]
+[White "Jahn, Constanze"]
+[Black "Lorenz, Gerd"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2188"]
+[BlackElo "2289"]
+[PlyCount "19"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Halle USV"]
+[BlackTeam "Chemnitz"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d6 2. Nc3 Nf6 3. Nf3 e5 4. g3 Be7 5. Bg2 O-O 6. d4 Nc6 7. h3 Nd7 8. d5
+Ncb8 9. g4 c6 10. Be3 1/2-1/2
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "7.8"]
+[White "Azimov, Stas"]
+[Black "Luther, Juergen"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2178"]
+[BlackElo "2184"]
+[PlyCount "36"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Chemnitz"]
+[BlackTeam "Halle USV"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. dxc5 Bxc5 7. Bd3 Qc7 8. Qe2
+a5 9. O-O h6 10. Nbd2 a4 11. Re1 Nge7 12. Nf1 Rb8 13. Ng3 g6 14. Bd2 b5 15.
+Rac1 Na5 16. Be3 Bxe3 17. Qxe3 Nc4 18. Qe2 Qb6 1/2-1/2
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "7.1"]
+[White "Klawa, Patrick"]
+[Black "Andre, Gordon"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2289"]
+[BlackElo "2318"]
+[PlyCount "92"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Coswig"]
+[BlackTeam "Magdeburg AE"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. e5 Nfd7 6. d4 c5 7. c3 Be7 8. Bd3
+Ba6 9. Nf1 Bxd3 10. Qxd3 Nc6 11. Ne3 Qc8 12. O-O cxd4 13. cxd4 Nb4 14. Qb1 Qa6
+15. Bd2 O-O 16. a3 Nc6 17. Bc3 Rac8 18. h4 f6 19. exf6 Rxf6 20. Ng5 Rh6 21. Qd1
+Rxh4 22. Nxe6 Re4 23. Nxd5 Rxe6 24. Qb3 Kh8 25. Nb4 Nxd4 26. Bxd4 Qc4 27. Qxc4
+Rxc4 28. Bc3 Nc5 29. Rac1 Rg4 30. Rfe1 Rge4 31. Rxe4 Nxe4 32. Bd4 Kg8 33. Rc7
+a5 34. Nd5 Bf8 35. f3 Nc5 36. Nf4 Rd6 37. Be5 Rd1+ 38. Kh2 Nd3 39. Nxd3 Rxd3
+40. Rb7 Rd5 41. Bc3 Rd6 42. g4 Re6 43. Kg3 Be7 44. g5 h6 45. gxh6 gxh6 46. Kg4
+Rc6 1-0
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "7.3"]
+[White "Pichler, Manfred"]
+[Black "Proehl, Holger"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[WhiteElo "2120"]
+[BlackElo "2408"]
+[PlyCount "22"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Halle USV II"]
+[BlackTeam "Loeberitz"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 dxe4 6. Nxe4 Qa5+ 7. Nc3 cxd4 8.
+Nxd4 Bd7 9. Nxc6 bxc6 10. Qf3 Rc8 11. Bd3 Nf6 1/2-1/2
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "7.6"]
+[White "Bilawer, Andreas"]
+[Black "Jahner, Marius Florin"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2147"]
+[BlackElo "2045"]
+[PlyCount "105"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Loeberitz"]
+[BlackTeam "Halle USV II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. g3 Nc6 5. Bg2 Nf6 6. Ngf3 Be7 7. O-O O-O 8. Re1
+b5 9. e5 Nd7 10. Nf1 a5 11. h4 Ba6 12. Bf4 Qb6 13. N1h2 Rac8 14. Ng5 Bxg5 15.
+hxg5 c4 16. Qh5 cxd3 17. Ng4 Qd8 18. Bf3 b4 19. Kg2 dxc2 20. Be2 Bxe2 21. Rxe2
+Re8 22. Rh1 Kf8 23. Rxc2 g6 24. Qxh7 Ke7 25. Rh6 Nd4 26. Rxc8 Qxc8 27. Nf6 Nf8
+28. Ng8+ Kd8 29. Qxf7 Qc7 30. Qf6+ Kc8 31. Rh1 Kb7 32. Rc1 Qh7 33. Nh6 Nd7 34.
+Qf7 Re7 35. Qxh7 Rxh7 36. Be3 Nc6 37. f4 Nb6 38. Bxb6 Kxb6 39. Ng4 Rc7 40. Nf6
+Rc8 41. g4 Rd8 42. Kf3 Kb5 43. b3 Rh8 44. Nd7 Rh3+ 45. Kg2 Rc3 46. Rf1 Nd4 47.
+Nf8 Rc2+ 48. Rf2 Rxf2+ 49. Kxf2 a4 50. f5 axb3 51. axb3 exf5 52. e6 Nc6 53.
+Nxg6 1-0
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "7.4"]
+[White "Limpert, Michael"]
+[Black "Middelhoff, Cornelius"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2148"]
+[BlackElo "2176"]
+[PlyCount "123"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lok Leipzig II"]
+[BlackTeam "Jenapharm Jena"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Nxe5 O-O 5. Be2 Re8 6. Nd3 Bxc3 7. dxc3 Nxe4
+8. O-O d6 9. Re1 Nd7 10. Bf1 Ndc5 11. Be3 b6 12. f3 Nxd3 13. cxd3 Nc5 14. d4
+Ne6 15. Bd3 Bb7 16. Qd2 d5 17. Re2 Qd6 18. Rae1 Bc6 19. f4 Nf8 20. f5 f6 21.
+Bf4 Rxe2 22. Rxe2 Qd7 23. g4 h6 24. Qe1 Kf7 25. h4 a6 26. Re3 Bb5 27. Bc2 c5
+28. g5 hxg5 29. hxg5 fxg5 30. Bxg5 Re8 31. Qh4 Rxe3 32. Bxe3 c4 33. Bf4 Qe7 34.
+Qxe7+ Kxe7 35. Bc7 Nd7 36. Kf2 Bc6 37. Kf3 b5 38. Kf4 Nf6 39. Ba5 Nd7 40. Kg5
+Kf7 41. Bd1 Nf6 42. Bf3 Ne4+ 43. Kf4 g6 44. fxg6+ Kxg6 45. Ke5 Kf7 46. Bb4 Ke8
+47. Bg4 Bd7 48. Bh5+ Kd8 49. Bf7 Nf2 50. Bxd5 Nd3+ 51. Kd6 Nxb2 52. Bb7 Nd3 53.
+Ba5+ Ke8 54. Bxa6 Nc1 55. a3 Nb3 56. Bb4 Kd8 57. Bb7 Be8 58. Bc5 Bh5 59. Bb6+
+Ke8 60. Bc6+ Kf7 61. Bxb5 Be2 62. a4 1-0
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "7.6"]
+[White "Schoetzig, Andreas"]
+[Black "Muekke, Jens Frieder"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2207"]
+[BlackElo "2021"]
+[PlyCount "42"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Leipzig Gohlis II"]
+[BlackTeam "Naumburg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nc3 Ne7 6. Qh5 Nbc6 7. Nf3 Be6 8.
+O-O Qd7 9. h3 h6 10. Nb5 O-O-O 11. c3 g5 12. Nxd6+ Qxd6 13. Re1 Rdg8 14. Ne5
+Nxe5 15. Rxe5 Ng6 16. Re1 Qd7 17. Qf3 Nh4 18. Qg3 Nf5 19. Qe5 Nh4 20. Qg3 Nf5
+21. Qe5 Nh4 1/2-1/2
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "8.5"]
+[White "Kyas, Juergen"]
+[Black "Brauer, Christian"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2227"]
+[BlackElo "2132"]
+[PlyCount "27"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Chemnitz"]
+[BlackTeam "Ebersbach"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Be7 5. O-O O-O 6. Re1 d6 7. c3 Na5 8. Bb5
+a6 9. Ba4 b5 10. Bc2 c5 11. Nbd2 Re8 12. Nf1 Bf8 13. h3 Bb7 14. Bg5 1/2-1/2
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "8.6"]
+[White "Bores, Roman"]
+[Black "Schenk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C04"]
+[WhiteElo "2196"]
+[BlackElo "2271"]
+[PlyCount "25"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ebersbach"]
+[BlackTeam "Chemnitz"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. c4 dxc4 7. Nxc4 Bb4+ 8.
+Bd2 O-O 9. Be2 b6 10. O-O Bb7 11. a3 Bxd2 12. Qxd2 a5 13. Rfd1 1/2-1/2
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "8.1"]
+[White "Proehl, Holger"]
+[Black "Klawa, Patrick"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2408"]
+[BlackElo "2289"]
+[PlyCount "113"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Loeberitz"]
+[BlackTeam "Coswig"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Be2 O-O 7. O-O Re8 8.
+f4 Bf8 9. Bf3 a6 10. Re1 c5 11. Nb3 Nc6 12. Be3 Qc7 13. a4 Rb8 14. a5 b5 15.
+axb6 Rxb6 16. Kh1 Rb4 17. Nd5 Nxd5 18. exd5 Ne7 19. Bd2 Rb8 20. Bc3 Bb7 21. Na5
+Nf5 22. Be4 Nh6 23. b3 f5 24. Bf3 Ng4 25. Bxg4 fxg4 26. Nxb7 Qxb7 27. Qd3 Qb5
+28. Qxb5 axb5 29. Kg1 Kf7 30. Ra7+ Kg6 31. Rf1 Re7 32. f5+ Kf7 33. Rfa1 Rbb7
+34. Rxb7 Rxb7 35. Kf2 Be7 36. Ra6 Bf6 37. Bxf6 Kxf6 38. Rxd6+ Ke5 39. Rd8 Kxf5
+40. Rc8 Ke5 41. Rxc5 b4 42. Ke3 g6 43. Rc4 Kxd5 44. Rxg4 Kc5 45. h4 Rf7 46.
+Rc4+ Kb5 47. g4 Rf1 48. g5 Rf7 49. Ke4 Re7+ 50. Kd5 Re2 51. Rc7 Rh2 52. Rb7+
+Ka5 53. Rxh7 Rxc2 54. Ke6 Rc3 55. Kf6 Rxb3 56. Kxg6 Kb6 57. Re7 1-0
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "8.2"]
+[White "Hoepfl, Thomas"]
+[Black "Fritsch, Andreas"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "2355"]
+[BlackElo "2137"]
+[PlyCount "87"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Halle USV"]
+[BlackTeam "Naumburg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qf7 6. d3 d5 7. Ne5 Qe6 8.
+Bf4 e3 9. fxe3 Nf6 10. d4 Bd6 11. Qf3 Bb4 12. Bd3 c6 13. O-O O-O 14. a3 Ba5 15.
+b4 Bb6 16. Na4 Bd8 17. Nc5 Qe8 18. Rae1 b6 19. Nb3 Ba6 20. Nd2 Bxd3 21. cxd3
+Nfd7 22. Qg3 Bf6 23. Ng4 Qd8 24. Bd6 Kh8 25. Bxf8 Nxf8 26. Nxf6 gxf6 27. Qf4
+Nbd7 28. e4 Ne6 29. Qd6 Ndf8 30. Qxd8 Rxd8 31. exd5 Rxd5 32. Rxf6 Rxd4 33.
+Rfxe6 Nxe6 34. Rxe6 Rxd3 35. Nc4 b5 36. Na5 Rxa3 37. Nxc6 a6 38. Re7 Rc3 39.
+Rc7 Rc4 40. h3 h5 41. Kf2 h4 42. Kf3 a5 43. bxa5 Ra4 44. Rb7 1-0
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "8.4"]
+[White "Neukirch, Detlef"]
+[Black "Salewski, Bernd"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2278"]
+[BlackElo "2059"]
+[PlyCount "69"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Halle USV"]
+[BlackTeam "Naumburg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 Bb5 7. c4 Bxc4 8. Bxc4
+Qb4+ 9. Nbd2 dxc4 10. a3 Qb5 11. Qe2 cxd4 12. Nxd4 Qd5 13. N4f3 Nd7 14. Nxc4
+Rc8 15. Ne3 Qe4 16. b4 Ne7 17. Bb2 a6 18. O-O Nc6 19. Rac1 b5 20. Nd2 Qf4 21.
+g3 Qg5 22. Qf3 Ndb8 23. Nb3 Qd8 24. Rfd1 Qb6 25. Qg4 h5 26. Qf3 Be7 27. Na5 h4
+28. gxh4 O-O 29. Nb3 Bxh4 30. Nc5 Ne7 31. Rd6 Nbc6 32. Nd7 Nxe5 33. Qd1 Bxf2+
+34. Kxf2 Ng4+ 35. Qxg4 1-0
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "8.2"]
+[White "Fuchs, Judith"]
+[Black "Offinger, Robert"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2116"]
+[BlackElo "2275"]
+[PlyCount "59"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Leipzig Gohlis II"]
+[BlackTeam "Magdeburg AE"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. a3 Qa5 10. dxc5 Bxc5 11. Bxc5 Nxc5 12. Nd4 Qb6 13. Nxc6 Qxc6 14. b4 Ne4 15.
+Nxe4 dxe4 16. Rc1 O-O 17. c4 bxc4 18. Qe3 Bb7 19. Bxc4 Rad8 20. O-O Qd7 21.
+Rfe1 a5 22. bxa5 Qa4 23. Qb6 Ba8 24. Qb4 Qc6 25. Be2 Qd5 26. Red1 Qa2 27. Rxd8
+Rxd8 28. Bc4 Qd2 29. Qxd2 Rxd2 30. Bd5 1-0
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "8.4"]
+[White "Limpert, Michael"]
+[Black "Niering, Martin"]
+[Result "1-0"]
+[ECO "C13"]
+[WhiteElo "2148"]
+[BlackElo "2199"]
+[PlyCount "65"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lok Leipzig II"]
+[BlackTeam "Magdeburg Rochade"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. g3 f5 8.
+Nc3 Bf6 9. Nf3 c5 10. Ne2 Nc6 11. c3 cxd4 12. Nexd4 Bd7 13. Bg2 Qb6 14. O-O h5
+15. Qe2 Nxd4 16. Nxd4 O-O-O 17. a4 a6 18. b4 Bxd4 19. cxd4 Kb8 20. Qe5+ Qc7 21.
+Qf6 Qd6 22. d5 h4 23. b5 hxg3 24. hxg3 axb5 25. axb5 f4 26. Qd4 Rc8 27. b6 Bb5
+28. Rfe1 fxg3 29. fxg3 Qxg3 30. Qe5+ Qxe5 31. Rxe5 exd5 32. Rxd5 Bc6 33. Rda5
+1-0
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "8.8"]
+[White "Attig, Uwe"]
+[Black "Karassek, Juergen"]
+[Result "0-1"]
+[ECO "C63"]
+[PlyCount "106"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lok Leipzig II"]
+[BlackTeam "Magdeburg Rochade"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. exf5 e4 5. Qe2 Qe7 6. Bxc6 dxc6 7. Nd4 Qe5 8.
+Ne6 Bxe6 9. fxe6 Bd6 10. d3 exd3 11. Qxe5 Bxe5 12. c3 O-O-O 13. Be3 Ne7 14. f4
+Nd5 15. Kd2 Bxf4 16. Bxf4 Nxf4 17. Re1 Rhe8 18. Na3 b5 19. Re4 Rxe6 20. Rae1
+Rf6 21. Rf1 Nxg2 22. Rxf6 gxf6 23. Rg4 Ne3 24. Rf4 Nd5 25. Rd4 Rd6 26. Kxd3 Ne7
+27. c4 b4 28. Nc2 c5 29. Rxd6 cxd6 30. Ne3 Kd7 31. Ke4 Ke6 32. h4 f5+ 33. Kf4
+Ng6+ 34. Kg5 f4 35. Ng4 f3 36. h5 Ne5 37. Ne3 f2 38. b3 h6+ 39. Kf4 a5 40. Ke4
+Ng4 41. Nf1 Nf6+ 42. Kf3 Nxh5 43. Kxf2 Ke5 44. Ke3 Nf6 45. Ng3 h5 46. Ne2 Ne4
+47. Nf4 Nf6 48. Ne2 h4 49. Kf3 Kf5 50. Nf4 Ne4 51. Ne2 Nc3 52. Nc1 Kg5 53. Kg2
+Kf4 0-1
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "9.2"]
+[White "Womacka, Mathias"]
+[Black "Escher, Thomas"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2467"]
+[BlackElo "2240"]
+[PlyCount "54"]
+[EventDate "2007.09.23"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Chemnitz"]
+[BlackTeam "Coswig"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 O-O 10. Nc3 Be6 11. Ne5 f6 12. Bg4 Bxg4 13. Nxg4 Qd7 14. a3 Nxc3 15.
+bxc3 Nc6 16. cxd5 Qxd5 17. Ne3 Qf7 18. Rb1 Rab8 19. Qa4 a6 20. Bb2 b5 21. Qc2
+Na5 22. a4 f5 23. axb5 axb5 24. Ra1 Nc4 25. Nxc4 Qxc4 26. Rfe1 Bd6 27. Qe2 Qxe2
+1/2-1/2
+
+[Event "Oberliga Ost-A 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "9.3"]
+[White "Poenisch, Eckehard"]
+[Black "Quast, Michael"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2235"]
+[BlackElo "2283"]
+[PlyCount "39"]

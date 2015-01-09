@@ -1,0 +1,600 @@
+[Site "Yuzhny"]
+[Date "2008.09.21"]
+[Round "3"]
+[White "Fiodorov, Mikhail"]
+[Black "Fingerov, Dmitry"]
+[Result "0-1"]
+[ECO "D20"]
+[WhiteElo "2230"]
+[BlackElo "2365"]
+[PlyCount "142"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 exd4 7. Qxd4 Qxd4
+8. Nxd4 a6 9. a4 c5 10. Nc2 Nf6 11. Nc3 Be6 12. Ne3 Nc6 13. Bxc4 Bxc4 14. Nxc4
+O-O-O 15. f3 Rd4 16. Ne3 Nb4 17. O-O Rhd8 18. Rfc1 Nd3 19. Rc2 Rb4 20. Rb1 Kb8
+21. b3 Nf4 22. Nc4 Rd3 23. Kf1 Nd7 24. Nb2 Rdd4 25. g3 Ne6 26. Nc4 Nb6 27. Nxb6
+Rxb6 28. Nd5 Rd6 29. Nf4 Rd2 30. Rbb2 Rxc2 31. Rxc2 Nd4 32. Rc3 Rb6 33. Rxc5
+Rxb3 34. Rd5 Nxf3 35. Kg2 g5 36. Ne2 g4 37. h3 Ne1+ 38. Kf1 gxh3 39. Rh5 Nf3
+40. Rxh3 Ng5 41. Rh4 Re3 42. Kf2 Rxe4 43. Rh5 f6 44. a5 Re5 45. Rh6 Rxa5 46.
+Ke3 Re5+ 47. Kd3 Rd5+ 48. Kc4 Rd6 49. Nc3 Ka7 50. Nd5 Rc6+ 51. Kd4 f5 52. Rxc6
+bxc6 53. Ne7 Kb6 54. Nxf5 Kb5 55. Kc3 Kc5 56. g4 Ne4+ 57. Kb3 Kd5 58. Ne7+ Kd6
+59. Nf5+ Ke5 60. Ne7 Kd6 61. Nf5+ Ke6 62. Nd4+ Kd5 63. Nf5 c5 64. Ne7+ Kd4 65.
+Nc6+ Kd3 66. Ne5+ Ke3 67. Nc6 Kf4 68. Nb8 Kxg4 69. Nxa6 h5 70. Nc7 h4 71. Nd5
+Kf3 0-1
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.21"]
+[Round "3"]
+[White "Kamenets, Anatolij"]
+[Black "Kurayan, Ruslan"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "2265"]
+[BlackElo "2155"]
+[PlyCount "62"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 g6 5. e3 Bg7 6. Bd3 O-O 7. O-O dxc4 8. Bxc4
+Bf5 9. Qb3 b5 10. Be2 a5 11. a4 b4 12. Nbd2 Nbd7 13. Nc4 c5 14. Rd1 cxd4 15.
+Nxd4 Qc7 16. Bd2 Nc5 17. Qa2 Bd3 18. Be1 Bxe2 19. Nxe2 Ng4 20. Ng3 Rfd8 21.
+Rab1 Ne5 22. Nxe5 Qxe5 23. Rdc1 Nd3 24. Rc2 Rac8 25. Rxc8 Rxc8 26. b3 Rc1 27.
+Rxc1 Nxc1 28. Qc2 Qa1 29. f4 Bc3 30. Bxc3 bxc3 31. Ne4 Nd3+ 0-1
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.21"]
+[Round "3"]
+[White "Shkuro, Iuri"]
+[Black "Loy, Konstantin"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2428"]
+[BlackElo "2104"]
+[PlyCount "39"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 e6 4. Bd3 Bd6 5. b3 Nbd7 6. Bb2 O-O 7. O-O Qe7 8. Ne5
+Ne8 9. c4 Nxe5 10. dxe5 Bc5 11. Nc3 c6 12. a3 dxc4 13. bxc4 Nc7 14. Ne4 b5 15.
+Nf6+ Kh8 16. Nxh7 Qh4 17. Nxf8 Bxf8 18. Rc1 Bb7 19. cxb5 c5 20. Rc4 1-0
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.21"]
+[Round "3"]
+[White "Simachenko, Anatoly"]
+[Black "Bagiryan, Vigen"]
+[Result "0-1"]
+[ECO "D12"]
+[PlyCount "126"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 Bf5 5. e3 e6 6. Qb3 Qc7 7. Be2 dxc4 8. Bxc4
+Nbd7 9. O-O Be7 10. Re1 Nb6 11. Bf1 O-O 12. e4 Bg4 13. Ne5 Bh5 14. Be3 Rfd8 15.
+Rac1 Rac8 16. Be2 Bxe2 17. Rxe2 Qb8 18. Nf3 h6 19. e5 Nfd5 20. Ne4 Nxe3 21.
+Qxe3 Nd5 22. Qb3 Bf8 23. a3 Nf4 24. Rec2 Qa8 25. g3 Nd5 26. Qd3 Rd7 27. b4 a6
+28. Qb3 Qa7 29. Nc5 Rdd8 30. Kg2 Qb6 31. Qd3 Rb8 32. Qe4 a5 33. Rb2 axb4 34.
+axb4 Bxc5 35. dxc5 Qc7 36. Nd4 Ra8 37. b5 Ra4 38. b6 Qe7 39. Rd2 Qg5 40. f4
+Nxf4+ 41. Qxf4 Qxf4 42. gxf4 Raxd4 43. Rxd4 Rxd4 44. Kf3 Rd8 45. Rc2 Kh7 46.
+Ke4 f6 47. h4 f5+ 48. Ke3 Kg6 49. Rg2+ Kf7 50. Rc2 Rd7 51. h5 Rd5 52. Rd2 Rxd2
+53. Kxd2 g6 54. Ke3 gxh5 55. Kf3 h4 56. Kf2 Kg7 57. Kf3 Kh7 58. Kg2 Kg6 59. Kf2
+Kh5 60. Kf3 h3 61. Kg3 h2 62. Kxh2 Kg4 63. Kg2 Kxf4 0-1
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.22"]
+[Round "4"]
+[White "Bylino, Oleg"]
+[Black "Klepikov, Valentin"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2170"]
+[BlackElo "1940"]
+[PlyCount "61"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 a6 5. Qb3 dxc4 6. Qxc4 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O b5 10. Qb3 Bg4 11. Be3 e6 12. Rfd1 Qe7 13. h3 Bxf3 14. Bxf3 Nbd7 15.
+a4 b4 16. Ne2 a5 17. Rac1 Rac8 18. Rd2 e5 19. dxe5 Nxe5 20. Bc5 Nxf3+ 21. Qxf3
+Qxe4 22. Bxf8 Qxf3 23. gxf3 Bxf8 24. Rdc2 c5 25. Nd4 Nd5 26. Nb3 Nb6 27. Nxa5
+Nxa4 28. Nc4 Rd8 29. Ra1 b3 30. Re2 Ra8 31. Ra3 1-0
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.22"]
+[Round "4"]
+[White "Chumak, Alexey"]
+[Black "Shtanko, Boris"]
+[Result "0-1"]
+[ECO "D26"]
+[PlyCount "91"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c6 6. O-O Bd6 7. Nc3 O-O 8. e4
+Bb4 9. Qe2 b5 10. Bd3 g6 11. Bg5 Be7 12. Rad1 Nh5 13. Bh6 Re8 14. e5 Bb7 15.
+Be4 a6 16. a3 Nd7 17. Nb1 Nb6 18. Rc1 Rc8 19. Rfd1 Nd5 20. g3 Qb6 21. b4 a5 22.
+bxa5 Qxa5 23. Bd2 Qa4 24. Bc2 Qa7 25. Be4 Ra8 26. Ne1 Qxd4 27. Bxd5 exd5 28.
+Bc3 Qb6 29. Bb2 c5 30. Nc3 c4 31. Nxd5 Bxd5 32. Rxd5 Bxa3 33. Rb1 Qc6 34. Qf3
+Bxb2 35. Rxb2 Ra1 36. Re2 c3 37. Kg2 b4 38. Nc2 Rb1 39. Qd3 Rd8 40. Ne3 Rxd5
+41. Nxd5 Rb2 42. Re4 Qc5 43. Ne3 Rd2 44. Qa6 c2 45. Qa8+ Kg7 46. Ng4 0-1
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.22"]
+[Round "4"]
+[White "Korneev, Ivan"]
+[Black "Mazurov, Sergey"]
+[Result "1-0"]
+[ECO "D31"]
+[PlyCount "73"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Bd3 e6 5. Nc3 Nbd7 6. cxd5 cxd5 7. Nf3 Bb4 8.
+Qc2 Bxc3+ 9. bxc3 O-O 10. O-O Nb6 11. Ne5 h6 12. f3 Nfd7 13. f4 Nxe5 14. fxe5
+f5 15. exf6 Rxf6 16. Qe2 Rxf1+ 17. Qxf1 Qf6 18. Qe2 Bd7 19. Ba3 e5 20. Rf1 Qc6
+21. dxe5 Qxc3 22. Bb2 Qc5 23. Bd4 Qe7 24. Qh5 Rf8 25. Rc1 Qf7 26. Qh4 Bc6 27.
+Qg3 g5 28. h4 Qh5 29. hxg5 Qxg5 30. Qh3 Bd7 31. e6 Bc8 32. Rc7 Bd7 33. exd7 Rd8
+34. Qe6+ Kf8 35. Bf6 Qh5 36. Qe7+ Kg8 37. Qg7# 1-0
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.22"]
+[Round "4"]
+[White "Penza, Denis"]
+[Black "Miljutin, Oleg"]
+[Result "1/2-1/2"]
+[ECO "D33"]
+[WhiteElo "1967"]
+[BlackElo "2167"]
+[PlyCount "64"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 c4 7. Bg2 Bb4 8. O-O
+Nge7 9. Bd2 O-O 10. b3 Qa5 11. Rc1 b5 12. Nb1 Qxa2 13. Bxb4 Nxb4 14. bxc4 bxc4
+15. Nc3 Qa5 16. Ne5 Be6 17. e4 dxe4 18. Nxe4 Rac8 19. Nd6 Rc7 20. Ndxc4 Qa2 21.
+Ne3 Rxc1 22. Qxc1 Rc8 23. Qa1 f6 24. Nf3 Nc2 25. Qxa2 Bxa2 26. Rc1 Nxe3 27.
+Rxc8+ Nxc8 28. fxe3 Nd6 29. Nd2 a5 30. Bc6 Kf8 31. Kf2 Ke7 32. Ke2 Kd8 1/2-1/2
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.22"]
+[Round "4"]
+[White "Simachenko, Anatoly"]
+[Black "Ivasenko, Andrey"]
+[Result "1-0"]
+[ECO "D66"]
+[PlyCount "91"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 Nbd7 6. Rc1 O-O 7. e3 h6 8. Bh4
+c6 9. Bd3 Qc7 10. O-O Re8 11. cxd5 exd5 12. Bg3 Qd8 13. h3 Nf8 14. a3 Bd6 15.
+Bxd6 Qxd6 16. Qc2 Be6 17. b4 Rac8 18. Rb1 b5 19. Nd2 Qd7 20. Be2 Ng6 21. Rbc1
+Bf5 22. Bd3 Bxd3 23. Qxd3 Qd8 24. Nb3 Nd7 25. Na5 Nb6 26. Ne2 Nc4 27. Nb7 Qe7
+28. Nc5 Nf8 29. Ng3 g6 30. Rfe1 Ne6 31. e4 Nxc5 32. dxc5 Rcd8 33. exd5 Qxe1+
+34. Rxe1 Rxe1+ 35. Kh2 Rxd5 36. Qf3 Ra1 37. Ne4 Rdd1 38. Qf4 Rh1+ 39. Kg3 Rxa3+
+40. f3 Rb1 41. Qxh6 f5 42. Qxg6+ Kf8 43. Qxf5+ Ke7 44. Nd6 Rxb4 45. Qf7+ Kd8
+46. Qe8+ 1-0
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "5"]
+[White "Arkhipov, Vladimir"]
+[Black "Bogdanovich, Stanislav"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2115"]
+[BlackElo "2299"]
+[PlyCount "41"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. b3 Bd6 5. Bb2 O-O 6. Bd3 Nbd7 7. Nbd2 b6 8. Ne5
+Bb7 9. f4 Ne4 10. O-O Nxd2 11. Qxd2 Nf6 12. f5 exf5 13. Rxf5 Nd7 14. Raf1 Nxe5
+15. dxe5 Be7 16. Qf2 Qe8 17. Rh5 g6 18. Qf4 f5 19. exf6 Bc6 20. Rf3 Qf7 21.
+Bxg6 1-0
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "5"]
+[White "Daryev, Sergey"]
+[Black "Bagiryan, Vigen"]
+[Result "0-1"]
+[ECO "D12"]
+[WhiteElo "2037"]
+[PlyCount "112"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 Bf5 5. cxd5 Nxd5 6. e3 e6 7. Bc4 Bb4 8. Bd2
+O-O 9. O-O Bg4 10. a3 Bd6 11. Ne4 Bc7 12. Ng3 Qf6 13. Be2 Bxf3 14. Bxf3 Nd7 15.
+e4 Nf4 16. e5 Qh4 17. Qc1 Nd3 18. Qc3 Nf4 19. Qe3 Ng6 20. Nh5 Bb6 21. Qb3 Qxd4
+22. Bc3 Qh4 23. Rae1 Qg5 24. Qd1 Ndxe5 25. h4 Nxf3+ 26. Qxf3 Nxh4 27. Qg3 Qxg3
+28. Nxg3 h6 29. Nh5 Nf5 30. g4 Nd4 31. Kg2 Rfe8 32. a4 a5 33. f4 f6 34. Re4 e5
+35. Rfe1 Kf7 36. f5 Red8 37. Ng3 Rd5 38. Nf1 Nb3 39. Ne3 Bxe3 40. R4xe3 Nc5 41.
+Ra1 b6 42. Be1 Rad8 43. b4 Nd3 44. Rxd3 Rxd3 45. bxa5 bxa5 46. Bxa5 Ra8 47. Be1
+Rd4 48. a5 Rxg4+ 49. Kh3 Rg1 50. Kh4 Rxe1 51. Rxe1 Rxa5 52. Rc1 c5 53. Kh5 e4
+54. Rc4 e3 55. Re4 c4 56. Kg4 Re5 0-1
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "5"]
+[White "Dmitriev, Igor"]
+[Black "Golovlev, Nikolay"]
+[Result "1/2-1/2"]
+[ECO "D73"]
+[WhiteElo "2364"]
+[BlackElo "2332"]
+[PlyCount "155"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 d5 4. c4 c6 5. Qb3 Bg7 6. Nc3 dxc4 7. Qxc4 O-O 8. Nf3
+Be6 9. Qd3 Na6 10. O-O Bf5 11. Qd1 Ne4 12. Nh4 Nxc3 13. bxc3 Be6 14. Re1 Bc4
+15. f4 f5 16. e4 fxe4 17. Bxe4 e6 18. Nf3 Bd5 19. Ng5 Rf6 20. Ba3 Nc7 21. Bd3
+Nb5 22. Bb2 Nd6 23. Qe2 b5 24. Ba3 Nc4 25. Bc5 a5 26. Rac1 Qd7 27. Rc2 Bf8 28.
+Bxf8 Raxf8 29. Qg4 Nd6 30. Rce2 Nf5 31. Ne4 Bxe4 32. Bxe4 b4 33. Bxf5 Rxf5 34.
+Qf3 bxc3 35. Qxc3 g5 36. Rxe6 gxf4 37. Re7 Qd5 38. R1e5 Qxa2 39. Qf3 Kh8 40.
+Qg4 R5f7 41. Rxf7 Qxf7 42. Qxf4 Qxf4 43. gxf4 Rxf4 44. Rxa5 Rxd4 45. Ra7 Rf4
+46. Rc7 Rf6 47. Kg2 h6 48. h4 Kg8 49. h5 Kf8 50. Kg3 Ke8 51. Kg4 Kd8 52. Ra7
+Kc8 53. Rg7 Kd8 54. Ra7 c5 55. Ra5 Rc6 56. Kf3 Kc7 57. Ra7+ Kb6 58. Rg7 Kb5 59.
+Rg6 Rc8 60. Ke3 Kc4 61. Kd2 Rd8+ 62. Kc2 Rf8 63. Rxh6 Rf2+ 64. Kd1 Rh2 65. Rg6
+Kc3 66. Rg3+ Kb2 67. Rg5 c4 68. Rb5+ Kc3 69. Rg5 Rh1+ 70. Ke2 Kb2 71. Rb5+ Kc2
+72. Rc5 c3 73. Kf3 Kd3 74. Kg4 c2 75. Kg5 Ra1 76. Rxc2 Kxc2 77. h6 Kd3 78. h7
+1/2-1/2
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "5"]
+[White "Polishchuk, Oleg"]
+[Black "Fingerov, Dmitry"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "2228"]
+[BlackElo "2365"]
+[PlyCount "84"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 c6 2. d4 d5 3. Nc3 Nf6 4. cxd5 cxd5 5. Nf3 Nc6 6. Ne5 e6 7. Nxc6 bxc6 8.
+Bg5 Bd7 9. e3 Qb6 10. Bxf6 Qxb2 11. Qc1 Qxc1+ 12. Rxc1 gxf6 13. Ba6 Rb8 14. O-O
+Bd6 15. Na4 Ke7 16. Rc3 Rb4 17. Nc5 Bxc5 18. Rxc5 e5 19. Ra5 Kd6 20. a3 Rb2 21.
+Rc1 Rhb8 22. h4 h6 23. Bf1 R8b7 24. Rd1 Bg4 25. f3 Bd7 26. e4 Be6 27. exd5 Bxd5
+28. dxe5+ fxe5 29. Ba6 Rb1 30. Rxb1 Rxb1+ 31. Kf2 Rb2+ 32. Kg3 f5 33. Bc8 f4+
+34. Kh3 Kc7 35. Rxa7+ Kxc8 36. Rh7 c5 37. Rxh6 Kd7 38. h5 c4 39. Rh7+ Kd6 40.
+h6 c3 41. Rh8 Rb7 42. Rc8 Be6+ 0-1
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "5"]
+[White "Pyslar, Sergey"]
+[Black "Chumak, Alexey"]
+[Result "1-0"]
+[ECO "D46"]
+[PlyCount "86"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c6 4. e3 Nf6 5. Nc3 Nbd7 6. Bd3 b6 7. Ne5 Nxe5 8. dxe5
+Nd7 9. O-O Nxe5 10. cxd5 Nxd3 11. Qxd3 cxd5 12. Rd1 Bc5 13. Ne2 Bb7 14. Qb5+
+Qd7 15. Qxd7+ Kxd7 16. Bd2 Rac8 17. Rac1 Bd6 18. a3 Rxc1 19. Rxc1 Rc8 20. f4 f6
+21. g3 e5 22. Kf2 g6 23. Rxc8 Bxc8 24. Nc3 Kc6 25. Ke2 Ba6+ 26. Kf3 Bd3 27. e4
+dxe4+ 28. Nxe4 Be7 29. Nf2 Bb1 30. Ne4 Kd5 31. Nc3+ Kc4 32. Nxb1 Bc5 33. fxe5
+fxe5 34. Ke4 Bg1 35. h3 Bh2 36. g4 Kb3 37. Bc3 Kc2 38. Nd2 b5 39. Nf3 Bg3 40.
+Nxe5 a5 41. Nc6 Bc7 42. Nxa5 Bxa5 43. Bxa5 Kxb2 1-0
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "5"]
+[White "Shmat, Sergey"]
+[Black "Penza, Denis"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2093"]
+[BlackElo "1967"]
+[PlyCount "43"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. dxe5 d4 5. Ne4 Qa5+ 6. Bd2 Qxe5 7. Ng3 Nf6 8.
+Nf3 Qd6 9. Qc2 Be7 10. e3 dxe3 11. fxe3 O-O 12. O-O-O Rd8 13. Be2 Qc7 14. Bc3
+Nbd7 15. Nf5 Bf8 16. g4 g6 17. Rdg1 Ne8 18. h4 b5 19. h5 b4 20. hxg6 fxg6 21.
+Rxh7 bxc3 22. Ne7+ 1-0
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "5"]
+[White "Svoboda, Indrzhikh"]
+[Black "Chernichenko, Olga"]
+[Result "1-0"]
+[ECO "D00"]
+[PlyCount "155"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. d4 Nf6 3. Nc3 Nbd7 4. e3 e6 5. Bd3 c5 6. b3 a6 7. a4 cxd4 8. exd4
+Bb4 9. Bd2 Qa5 10. Na2 Bxd2+ 11. Qxd2 Qxd2+ 12. Nxd2 Nf8 13. Nc3 Bd7 14. O-O
+Ng6 15. Ne2 O-O 16. Nf3 Bc6 17. Ne5 Nxe5 18. dxe5 Nd7 19. f4 Nc5 20. Nd4 Bd7
+21. Be2 Rac8 22. Bf3 g6 23. g3 Rc7 24. h4 h5 25. Rad1 Rfc8 26. Rf2 Be8 27. Rg2
+Kf8 28. g4 hxg4 29. Rxg4 a5 30. Rg5 Na6 31. Rd2 Nb4 32. Bd1 Rc3 33. h5 gxh5 34.
+Rxh5 Rg3+ 35. Kf2 Rg8 36. Rh3 Rc5 37. f5 Bd7 38. fxe6 fxe6 39. Kf1 Nc6 40. Rh7
+Rg7 41. Rf2+ Kg8 42. Rxg7+ Kxg7 43. Nxc6 Rxc6 44. Bh5 Bc8 45. Ke1 Kh6 46. Bf7
+Bd7 47. Kd2 b6 48. Rf6+ Kg5 49. c3 Kg4 50. Bg8 Bc8 51. Kd3 Ba6+ 52. Kd4 Bc8 53.
+Bh7 Rc7 54. Bd3 Rg7 55. c4 dxc4 56. Bxc4 Rd7+ 57. Ke3 Rc7 58. Rf8 Bb7 59. Bd3
+Rg7 60. Be4 Ba6 61. Ra8 Rc7 62. Rg8+ Kh4 63. Bd3 Rc3 64. Kf4 Kh3 65. Bxa6 Rxb3
+66. Bb5 Rb4+ 67. Ke3 Rb3+ 68. Kf2 Rb2+ 69. Be2 Kh4 70. Rg4+ Kh3 71. Rg6 Kh4 72.
+Rxe6 Kg5 73. Ke3 Kf5 74. Re8 Rb4 75. Bd3+ Kg5 76. Rg8+ Kh6 77. Bb5 Kh7 78. Rb8
+1-0
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "6"]
+[White "Fingerov, Dmitry"]
+[Black "Kovalev, Denis"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2365"]
+[BlackElo "2436"]
+[PlyCount "15"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. e3 e6 5. Bd3 a6 6. O-O c5 7. dxc5 Bxc5 8. a3
+1/2-1/2
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "6"]
+[White "Korneev, Ivan"]
+[Black "Simachenko, Anatoly"]
+[Result "0-1"]
+[ECO "D30"]
+[PlyCount "158"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. e3 Nf6 4. Bd3 c6 5. Nf3 Bd6 6. c5 Bc7 7. Qc2 O-O 8. O-O
+Nbd7 9. Nc3 e5 10. dxe5 Nxe5 11. Nxe5 Bxe5 12. f4 Bc7 13. e4 g6 14. e5 Nh5 15.
+b4 f5 16. Bb2 Qh4 17. Ne2 Ng7 18. Qc3 Ne6 19. Rf3 Qe7 20. Nd4 Ng7 21. Re1 Ne6
+22. a4 Nxd4 23. Qxd4 Be6 24. b5 Ba5 25. Ra1 b6 26. Ba3 Rfe8 27. bxc6 bxc5 28.
+Bxc5 Qxc5 29. Qxc5 Bb6 30. Qxb6 axb6 31. Bb5 Rec8 32. Rc1 Rc7 33. Rd3 Rd8 34.
+Rd4 Kf8 35. Kf2 Ke7 36. Ke3 Bg8 37. Rd2 Bf7 38. Kd4 Ra8 39. Ra2 Ra5 40. Be2 Be8
+41. Bb5 Ke6 42. h3 h5 43. g3 Rc8 44. Rac2 Ra7 45. Ke3 Bf7 46. Kf3 Rg8 47. g4 g5
+48. gxf5+ Kxf5 49. Bd3+ Ke6 50. Re2 gxf4 51. Kxf4 Be8 52. Bf5+ Ke7 53. Rec2 Bf7
+54. Bd7 d4 55. Rd2 Rf8 56. Ke4 Bg6+ 57. Kxd4 Rf4+ 58. Kd5 Rfxa4 59. Rc4 Rxd7+
+60. cxd7 Bf7+ 61. Kc6 Rxc4+ 62. Kxb6 Kd8 63. Rd6 Re4 64. Kc6 Rxe5 65. Rd4 Be6
+66. Kd6 Re3 67. h4 Bxd7 68. Rb4 Rd3+ 69. Ke5 Ke7 70. Kf4 Bg4 71. Rb5 Ke6 72.
+Rb6+ Rd6 73. Rb8 Kf7 74. Rb7+ Rd7 75. Rb6 Rd4+ 76. Kg5 Rd5+ 77. Kh6 Ke7 78. Rb3
+Ke6 79. Rc3 Ke5 0-1
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "6"]
+[White "Neschetny, Viktor"]
+[Black "Polishchuk, Oleg"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2141"]
+[BlackElo "2228"]
+[PlyCount "70"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. e3 b5 7. Bd2 a5 8. axb5
+Bxc3 9. Bxc3 cxb5 10. b3 Bb7 11. bxc4 b4 12. Bd2 Nf6 13. Bd3 O-O 14. O-O Nbd7
+15. Qc2 Qc7 16. Rfc1 e5 17. Nxe5 Nxe5 18. dxe5 Qxe5 19. f4 Qe7 20. Re1 Ne4 21.
+Bc1 f5 22. Bb2 Bc6 23. Bd4 a4 24. Qb2 a3 25. Qa2 Rfb8 26. Bc2 Kh8 27. Bb3 Nc5
+28. Bxc5 Qxc5 29. Rad1 Re8 30. Kf2 Re4 31. g3 Rae8 32. Qd2 Qa7 33. Qxb4 Rxe3
+34. c5 Qe7 35. Bc4 a2 0-1
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "6"]
+[White "Penza, Denis"]
+[Black "Shichanin, Nikolay"]
+[Result "1/2-1/2"]
+[ECO "D64"]
+[WhiteElo "1967"]
+[PlyCount "64"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 Nf6 3. Nf3 e6 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 O-O 7. Rc1 c6 8. Qc2
+Ne8 9. Bf4 Ndf6 10. Bd3 dxc4 11. Bxc4 Nd5 12. Bg3 Nef6 13. h3 a5 14. O-O b5 15.
+Be2 Qb6 16. a3 Nxc3 17. Qxc3 Bb7 18. Qd3 b4 19. axb4 Ba6 20. Qc2 Bxe2 21. Qxe2
+axb4 22. Qc4 Rfc8 23. Bh4 h6 24. Nd2 Ra5 25. Qb3 Rh5 26. Bxf6 gxf6 27. Qd1 Rg5
+28. Ne4 Rg6 29. Qf3 Kh7 30. Ng3 c5 31. dxc5 Rxc5 32. Rxc5 Qxc5 1/2-1/2
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "6"]
+[White "Podrez, Sergey"]
+[Black "Trofimova, Anastasia"]
+[Result "1-0"]
+[ECO "D06"]
+[BlackElo "1991"]
+[PlyCount "103"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Bf5 3. c4 Bxb1 4. Rxb1 c6 5. Qb3 Qb6 6. e3 e6 7. Qxb6 axb6 8.
+a3 dxc4 9. Bxc4 b5 10. Bd3 b4 11. axb4 Bxb4+ 12. Bd2 Bxd2+ 13. Kxd2 Nf6 14. Ra1
+Rxa1 15. Rxa1 O-O 16. Ra7 b5 17. Ne5 Nd5 18. Be4 f6 19. Bxd5 cxd5 20. Nd3 Nc6
+21. Rb7 Rb8 22. Rxb8+ Nxb8 23. Kc3 Nc6 24. Nb4 Na5 25. Na6 Kf7 26. Nc7 Ke7 27.
+Nxb5 Kd7 28. b3 Kc6 29. Na3 Kb6 30. Nc2 Kb5 31. g4 Nb7 32. Ne1 Nd6 33. f3 Nf7
+34. h4 g5 35. h5 f5 36. Nd3 Nh6 37. Ne5 fxg4 38. fxg4 Ng8 39. Nf7 h6 40. b4 Kb6
+41. Kb2 Kc6 42. Ka3 Kd7 43. b5 Kc7 44. Kb3 Kd7 45. Kb4 Ke7 46. b6 Kd7 47. Kb5
+Kc8 48. Kc6 Ne7+ 49. Kd6 Ng8 50. Kxe6 Kb7 51. Nd6+ Kxb6 52. Kf7 1-0
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.23"]
+[Round "6"]
+[White "Zhugan, Vladimir"]
+[Black "Vladichenko, Anatoly"]
+[Result "0-1"]
+[ECO "D00"]
+[PlyCount "106"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nc3 e6 3. Nf3 c5 4. e3 Nc6 5. Bb5 Bd7 6. Bxc6 bxc6 7. O-O Bd6 8.
+dxc5 Bxc5 9. Re1 Qc7 10. e4 Ne7 11. Na4 Bb6 12. Nxb6 axb6 13. exd5 cxd5 14. Ne5
+O-O 15. Bf4 Qb7 16. Nxd7 Qxd7 17. c4 Rfd8 18. cxd5 Nxd5 19. Be3 Qb5 20. Bd4 Nf6
+21. a4 Qc4 22. Qf3 Qxd4 23. b3 Qd3 24. Re3 Qd5 25. Qe2 Rac8 26. h3 h6 27. b4
+Rc4 28. a5 bxa5 29. bxa5 Rd4 30. Kh2 Qd6+ 31. g3 Rd2 32. Qf3 Rd3 33. a6 Rxe3
+34. Qxe3 Nd5 35. Qb3 Qb6 36. Qxb6 Nxb6 37. Rb1 Nd7 38. a7 Kf8 39. Rb7 Ke8 40.
+f4 Ke7 41. g4 Kd6 42. h4 Kc6 43. Rb2 Ra8 44. Rc2+ Nc5 45. Ra2 Kb6 46. Rb2+ Kxa7
+47. Ra2+ Kb7 48. Rxa8 Kxa8 49. f5 Kb7 50. Kg3 Kc6 51. Kf4 Kd6 52. g5 h5 53. g6
+f6 0-1
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.24"]
+[Round "7"]
+[White "Chumak, Alexey"]
+[Black "Remez, Serhiy"]
+[Result "0-1"]
+[ECO "D20"]
+[BlackElo "1988"]
+[PlyCount "66"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e5 4. Bxc4 Nc6 5. Bb5 Qd5 6. Bxc6+ Qxc6 7. d5 Qg6 8.
+g3 Bd7 9. Nc3 Bd6 10. Qe2 Ne7 11. e4 O-O 12. Be3 f5 13. Nf3 h6 14. Nh4 Qf7 15.
+exf5 Nxd5 16. Ng6 Nxc3 17. bxc3 Qd5 18. O-O Bc6 19. f3 Rxf5 20. c4 Qe6 21. Nh4
+Rf7 22. g4 Raf8 23. Nf5 Rxf5 24. gxf5 Qxf5 25. Qf2 Bxf3 26. c5 Be7 27. Qg3 Rf6
+28. h4 e4 29. Kh2 Rg6 30. Rxf3 exf3 31. Bg5 hxg5 32. Qxc7 Bxc5 33. Re1 Bd6+ 0-1
+
+[Event "Yuzhny op"]
+[Site "Yuzhny"]
+[Date "2008.09.24"]
+[Round "7"]
+[White "Fingerov, Dmitry"]
+[Black "Chudinovskih, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[WhiteElo "2365"]
+[BlackElo "2371"]
+[PlyCount "45"]
+[EventDate "2008.09.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+

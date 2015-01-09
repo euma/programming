@@ -1,0 +1,600 @@
+[Round "4"]
+[White "Strikovic, Aleksa"]
+[Black "Dolezal, Cristian"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2530"]
+[BlackElo "2436"]
+[PlyCount "105"]
+[EventDate "2008.04.05"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bb4 9. Qd2 Nc5 10. Bd3 Bd7 11. O-O Nxd4 12. Bxd4 Ne4 13. Qe3 Bxc3 14. bxc3 O-O
+15. c4 f5 16. exf6 gxf6 17. f5 e5 18. cxd5 Nd6 19. Bxa7 e4 20. Bb6 Qb8 21. Be2
+Nxf5 22. Qxe4 Qd6 23. Bf2 b5 24. Bd3 Ra4 25. Qf3 Rf4 26. Qh3 Rf7 27. Be3 Nxe3
+28. Qxe3 Rxf1+ 29. Rxf1 Qxd5 30. Be4 Qe5 31. Re1 Kg7 32. Bf3 Qxe3+ 33. Rxe3 Bf5
+34. Rb3 Ra7 35. Rxb5 Kg6 36. Rb2 Be6 37. Be4+ Kg7 38. Bd3 f5 39. Kf2 Kf6 40.
+Ke3 Kg5 41. c4 Ra3 42. Kd4 h5 43. Bc2 h4 44. Bb3 f4 45. c5 Bf5 46. c6 Ra8 47.
+Bd5 h3 48. gxh3 Bxh3 49. Ke5 Re8+ 50. Kd6 Re1 51. c7 Rd1 52. Rb8 f3 53. Rf8 1-0
+
+[Event "Merida Ruy Lopez IM"]
+[Site "Merida"]
+[Date "2008.04.08"]
+[Round "6"]
+[White "Cabezas Ayala, Ivan"]
+[Black "Carrasco Martinez, Juan Manuel"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2321"]
+[BlackElo "2417"]
+[PlyCount "65"]
+[EventDate "2008.04.05"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Rb1
+c4 9. Qc1 Nc6 10. h4 f6 11. Nf3 fxe5 12. Nxe5 Nf6 13. Nxc6 bxc6 14. Bf4 Qa5 15.
+Qe3 O-O 16. Bd6 Rf7 17. f3 Bd7 18. Be2 Ne8 19. Be5 Qxa3 20. g4 Qf8 21. h5 a5
+22. Kd2 a4 23. g5 Rf5 24. g6 h6 25. Rb7 Rd8 26. Ra7 a3 27. Rb1 Rxh5 28. Rbb7
+Qe7 29. f4 Rh4 30. Qg3 Kf8 31. Bf3 a2 32. Ke2 h5 33. Rxa2 1-0
+
+[Event "Merida Ruy Lopez IM"]
+[Site "Merida"]
+[Date "2008.04.09"]
+[Round "7"]
+[White "Guerra Tulcan, Lenin"]
+[Black "Cabezas Ayala, Ivan"]
+[Result "1/2-1/2"]
+[ECO "C56"]
+[WhiteElo "2274"]
+[BlackElo "2321"]
+[PlyCount "54"]
+[EventDate "2008.04.05"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. Be3 Bc5 10. Nd2 Nxd2 11. Qxd2 Bb6 12. Nb3 f6 13. O-O O-O 14. f4
+fxe5 15. fxe5 Qg5 16. Rxf8+ Rxf8 17. Re1 Re8 18. c4 Bxe3+ 19. Qxe3 Qxe3+ 20.
+Rxe3 dxc4 21. Nc5 Be6 22. Nxe6 Rxe6 23. Re4 c5 24. Rxc4 Rxe5 25. Ra4 Re2 26. b3
+c4 27. Rxc4 Rxa2 1/2-1/2
+
+[Event "Merida Ruy Lopez IM"]
+[Site "Merida"]
+[Date "2008.04.10"]
+[Round "8"]
+[White "Dolezal, Cristian"]
+[Black "Garcia Romero, Benjamin Abel"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2436"]
+[BlackElo "2250"]
+[PlyCount "47"]
+[EventDate "2008.04.05"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. g3 e6 3. d3 d5 4. Nd2 Nc6 5. Bg2 Be7 6. Nh3 Nf6 7. O-O O-O 8. f4 e5
+9. Nf2 d4 10. a4 g6 11. Nc4 exf4 12. gxf4 Ne8 13. f5 Nd6 14. Bh6 Nxc4 15. dxc4
+Re8 16. Ng4 f6 17. Ra3 g5 18. e5 Nxe5 19. Nxe5 fxe5 20. Bd5+ Kh8 21. f6 Bxf6
+22. Qh5 Re6 23. Raf3 Be7 24. Bg7+ 1-0
+
+[Event "Merida Ruy Lopez IM"]
+[Site "Merida"]
+[Date "2008.04.10"]
+[Round "8"]
+[White "Rocha, Sergio"]
+[Black "Cabezas Ayala, Ivan"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2412"]
+[BlackElo "2321"]
+[PlyCount "65"]
+[EventDate "2008.04.05"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. c3 Bd7 6. Nbd2 g6 7. Nf1 Bg7 8. Bg5
+h6 9. Bh4 O-O 10. h3 Qe8 11. g4 Nd8 12. Bc4 Be6 13. Ne3 Bxc4 14. Bxf6 Bxf6 15.
+dxc4 Ne6 16. h4 Bg7 17. Qc2 a6 18. O-O-O b5 19. h5 Qc6 20. g5 hxg5 21. Nd5 Rfe8
+22. Rdg1 Qxc4 23. hxg6 fxg6 24. Nxg5 Nf4 25. Kb1 Nxd5 26. exd5 e4 27. f3 Qxd5
+28. fxe4 Qe5 29. Qb3+ d5 30. exd5 Qf5+ 31. Ka1 Qd3 32. Ne6 Re7 33. d6 1-0
+
+[Event "Merida Ruy Lopez IM"]
+[Site "Merida"]
+[Date "2008.04.10"]
+[Round "8"]
+[White "Strikovic, Aleksa"]
+[Black "Carrasco Martinez, Juan Manuel"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2530"]
+[BlackElo "2417"]
+[PlyCount "87"]
+[EventDate "2008.04.05"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d3 d5 3. Qe2 dxe4 4. dxe4 b6 5. Nf3 Ba6 6. c4 Nd7 7. Nc3 Ne7 8. Be3
+Nc6 9. O-O-O Qc8 10. h4 Bb4 11. Qc2 O-O 12. h5 f6 13. Nb5 Bc5 14. Nfd4 Nxd4 15.
+Nxd4 e5 16. Nf5 Bxe3+ 17. fxe3 Rf7 18. b4 Kh8 19. Be2 Nf8 20. b5 Bb7 21. c5
+bxc5 22. Bc4 Rd7 23. h6 g6 24. Ng7 Rd6 25. Bb3 Nd7 26. Qc4 Nb6 27. Qf7 Qd7 28.
+Qxd7 Rxd7 29. Rxd7 Nxd7 30. Rd1 Nb6 31. Bc2 Nc4 32. Rd7 Nxe3 33. Rxc7 Rb8 34.
+Ne8 Rxe8 35. Rxb7 Ra8 36. a4 Nc4 37. Rc7 Nd6 38. Rd7 Nc4 39. Rf7 Kg8 40. Rg7+
+Kh8 41. Bb3 Ne3 42. a5 c4 43. b6 axb6 44. axb6 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.06"]
+[Round "1"]
+[White "Pleynet, Olivier"]
+[Black "Tinomano, Johann"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "1974"]
+[BlackElo "1670"]
+[PlyCount "37"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nc3 d6 6. Be3 O-O 7. Qd2 Bg4 8. h3
+Bxf3 9. gxf3 Nd4 10. Bxd4 exd4 11. Ne2 c5 12. Rg1 Nd7 13. Qh6 Bf6 14. Nf4 Ne5
+15. Nh5 Nxf3+ 16. Ke2 Nxg1+ 17. Rxg1 g6 18. Rxg6+ hxg6 19. Qxg6+ 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.07"]
+[Round "2"]
+[White "Autran, Yann"]
+[Black "Cebalo, Miso"]
+[Result "0-1"]
+[ECO "C90"]
+[WhiteElo "1969"]
+[BlackElo "2520"]
+[PlyCount "96"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. h3 Na5 10. Nbd2 c5 11. c3 Nxb3 12. axb3 Re8 13. Nf1 h6 14. Ng3 Bf8 15. c4
+Rb8 16. Bd2 g6 17. Ba5 Qd7 18. Bc3 Bg7 19. Re3 Nh7 20. Qe1 f5 21. exf5 gxf5 22.
+Nh5 Bb7 23. Qf1 f4 24. Re2 b4 25. Bd2 Bh8 26. Ne1 Ng5 27. Kh2 Kh7 28. g4 Qc6
+29. Rd1 Ne6 30. Nc2 Rg8 31. d4 cxd4 32. Bxb4 Ba8 33. Ba3 e4 34. Nb4 Rxb4 35.
+Bxb4 Ng5 36. Ra1 Be5 37. Ra5 f3+ 38. Rxe5 dxe5 39. Rd2 Rb8 40. Be7 Rxb3 41. h4
+Nf7 42. Qc1 Qe6 43. Nf6+ Kh8 44. Qc2 Qxe7 45. Qxb3 Qxf6 46. Kh3 Kg7 47. Qb8 Bc6
+48. Qc7 h5 0-1
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.07"]
+[Round "2"]
+[White "Balducchi, Francois"]
+[Black "Dutreuil, Raphael"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "1690"]
+[BlackElo "1410"]
+[PlyCount "47"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 Nf6 5. Bd3 Nc6 6. Ne2 Be7 7. e5 Nd7 8. Nf3 c4
+9. Bc2 O-O 10. Ng3 Kh8 11. h4 h6 12. b3 b5 13. Nh5 Bb7 14. g4 a6 15. g5 g6 16.
+Ng3 h5 17. Bb1 Rc8 18. Qc2 Kg7 19. Nxh5+ Kg8 20. Nf6+ Kg7 21. h5 Rh8 22. Rh2
+gxh5 23. Rxh5 Nb6 24. Rh7+ 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.08"]
+[Round "4"]
+[White "Ferrandi, Bernard"]
+[Black "Gossart, Gerard"]
+[Result "1-0"]
+[ECO "C25"]
+[WhiteElo "1954"]
+[BlackElo "1718"]
+[PlyCount "33"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nc3 Bc5 3. Bc4 Nc6 4. f4 Bxg1 5. Rxg1 Qh4+ 6. Kf1 Na5 7. Be2 Qxf4+
+8. Bf3 Qxh2 9. Nd5 Kd8 10. d4 c6 11. Ne3 b6 12. Ng4 Ba6+ 13. Kf2 Qh4+ 14. g3
+Qe7 15. Nxe5 d6 16. b4 Nc4 17. Nxc6+ 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.08"]
+[Round "4"]
+[White "Sanchez, Joseph"]
+[Black "David, Alberto"]
+[Result "1/2-1/2"]
+[ECO "C12"]
+[WhiteElo "2507"]
+[BlackElo "2562"]
+[PlyCount "104"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+Kf8 9. Bd3 Nxd2 10. Kxd2 c5 11. h4 c4 12. Be2 b5 13. Rh3 Nc6 14. a3 Bd7 15. Rf3
+a5 16. Rb1 Rb8 17. Nh3 Ne7 18. Qf4 Be8 19. h5 Nc6 20. g4 b4 21. axb4 axb4 22.
+cxb4 Nxb4 23. Qe3 Nd3 24. Ra1 Nb4 25. Qa3 Kg8 26. Rb1 Nc6 27. Rxb8 Qxb8 28. c3
+Qa7 29. Qxa7 Nxa7 30. Rg3 Nc6 31. Rg1 Kf8 32. Ra1 Ke7 33. Ra8 Rf8 34. Bd1 Bd7
+35. Rxf8 Kxf8 36. f4 g6 37. g5 Kg7 38. gxh6+ Kxh6 39. Ng5 Nd8 40. hxg6 Kxg6 41.
+Bc2+ Kg7 42. Ke3 f5 43. exf6+ Kxf6 44. Nf3 Nf7 45. Ne5 Be8 46. Ng4+ Ke7 47. f5
+exf5 48. Bxf5 Nd6 49. Bc2 Bd7 50. Ne5 Bf5 51. Bxf5 Nxf5+ 52. Kd2 Nd6 1/2-1/2
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.08"]
+[Round "4"]
+[White "Vincenti, Francois Xavier"]
+[Black "Leibenguth, Jean"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "1645"]
+[BlackElo "1740"]
+[PlyCount "59"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. d4 Nf6 5. Nf3 Nc6 6. Bb5 Bd7 7. O-O Be7 8.
+Re1 O-O 9. Bg5 a6 10. Ba4 b5 11. Bb3 Be6 12. Ne5 Na5 13. f4 c5 14. dxc5 Bxc5+
+15. Kh1 Nxb3 16. axb3 h6 17. Bh4 b4 18. Na4 Bd6 19. Qf3 Rc8 20. c3 a5 21. Rad1
+Bxe5 22. fxe5 Bg4 23. Qg3 Qd7 24. exf6 g5 25. Rd4 Rfe8 26. Ra1 Re4 27. Rxe4
+dxe4 28. Nb6 gxh4 29. Qxh4 Qd2 30. Qxg4+ 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.09"]
+[Round "5"]
+[White "Bigonnet, Jean Michel"]
+[Black "Dufaure, Stephane"]
+[Result "1-0"]
+[ECO "C34"]
+[WhiteElo "1755"]
+[BlackElo "1499"]
+[PlyCount "51"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 exf4 5. d4 Nc6 6. Bxf4 a6 7. Bc4 Bg4 8. O-O
+Be7 9. Qd2 Na5 10. Bd3 c5 11. e5 Nh5 12. exd6 Bxd6 13. Bxd6 Qxd6 14. Rae1+ Kf8
+15. Ne4 Qc7 16. Nxc5 g6 17. Ne5 Re8 18. Rxf7+ Qxf7 19. Nxf7 Rxe1+ 20. Qxe1 Kxf7
+21. Qxa5 Rf8 22. Ne4 Nf4 23. Qc7+ Kg8 24. Ng5 Ne2+ 25. Bxe2 Bxe2 26. Qxh7# 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.09"]
+[Round "5"]
+[White "David, Alberto"]
+[Black "Bruno, Fabio"]
+[Result "1-0"]
+[ECO "C09"]
+[WhiteElo "2562"]
+[BlackElo "2450"]
+[PlyCount "137"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O Nge7 8.
+dxc5 Bxc5 9. Nb3 Bd6 10. c3 O-O 11. Bd3 Re8 12. Bg5 Bg4 13. Be2 Qd7 14. Bh4 Nf5
+15. Bg3 Bf8 16. Ne5 Nxe5 17. Bxg4 Nxg4 18. Qxg4 Re4 19. Qf3 Rae8 20. Rad1 g6
+21. Qd3 Re2 22. Rd2 Qe6 23. Rxe2 Qxe2 24. Qxe2 Rxe2 25. Rb1 f6 26. Kf1 Re6 27.
+Rd1 Ra6 28. Nc1 Bh6 29. a3 Rc6 30. Nd3 d4 31. cxd4 Nxd4 32. Bf4 Bxf4 33. Nxf4
+Rd6 34. Ne6 Rxe6 35. Rxd4 Re7 36. Ra4 a6 37. Rd4 Kf7 38. Rd6 g5 39. g4 Kg6 40.
+Rb6 h6 41. h3 Kf7 42. Kg2 Kg6 43. Kg3 Rd7 44. f3 Re7 45. h4 h5 46. hxg5 Kxg5
+47. f4+ Kg6 48. g5 Rf7 49. Kh4 Kf5 50. b4 Kg6 51. a4 Kf5 52. a5 Kg6 53. b5 axb5
+54. Rxb5 fxg5+ 55. Rxg5+ Kf6 56. Kxh5 Rh7+ 57. Kg4 Rh1 58. Rb5 Rg1+ 59. Kf3 Ra1
+60. Ke4 Ra4+ 61. Kd5 Rxf4 62. Kd6 Ra4 63. Kc7 Ke6 64. Kxb7 Rh4 65. a6 Rh7+ 66.
+Kb6 Kd6 67. a7 Rh8 68. Kb7 Rh7+ 69. Ka6 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.09"]
+[Round "5"]
+[White "Orsini, Julien"]
+[Black "Alliot, Kevin"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1340"]
+[BlackElo "1745"]
+[PlyCount "64"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Bc5 4. b3 Nf6 5. Bd5 O-O 6. Bb2 d6 7. Ng5 Bd7 8.
+Nxf7 Rxf7 9. Bxf7+ Kxf7 10. d3 Be6 11. O-O d5 12. Nd2 Qd7 13. c4 d4 14. f3 Bb4
+15. a3 Bc3 16. Qc1 Bxb2 17. Qxb2 Rb8 18. b4 Ne7 19. f4 exf4 20. Nb3 Qd6 21.
+Qxd4 Qxd4+ 22. Nxd4 Rd8 23. Nb5 Rxd3 24. Rxf4 Ng6 25. Rff1 Bxc4 26. Nxc7 Rd7
+27. Nd5 Bxf1 28. Rxf1 Rd6 29. h4 Nxh4 30. Nxf6 Rxf6 31. Rc1 Re6 32. Rc7+ Kg8
+0-1
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.09"]
+[Round "6"]
+[White "Humeau, Cyril"]
+[Black "Migheli, Gabriel"]
+[Result "1-0"]
+[ECO "C36"]
+[WhiteElo "2148"]
+[BlackElo "1785"]
+[PlyCount "57"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. f4 e5 2. e4 d5 3. exd5 exf4 4. Nf3 Nf6 5. Bc4 Be7 6. Nc3 O-O 7. d4 Nbd7 8.
+Bxf4 Nb6 9. Qd3 Nfxd5 10. Nxd5 Nxd5 11. Bxd5 Qxd5 12. Bxc7 Bb4+ 13. c3 Re8+ 14.
+Kf2 Bf5 15. Qd2 Be7 16. Rhe1 Be4 17. Bg3 Bd6 18. a3 Bxg3+ 19. hxg3 f6 20. Re3
+Bg6 21. Rae1 Qd7 22. Rxe8+ Rxe8 23. Rxe8+ Qxe8 24. d5 Qd7 25. d6 Kf8 26. Qd4 b6
+27. c4 Bf7 28. b4 Qc6 29. d7 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.10"]
+[Round "7"]
+[White "Battesti, Saveriu"]
+[Black "Humeau, Cyril"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "1947"]
+[BlackElo "2148"]
+[PlyCount "38"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. d4 Nf6 5. a3 Bxc3+ 6. bxc3 d6 7. Bb5 Bd7 8.
+Qe2 O-O 9. d5 Ne7 10. Bxd7 Nxd7 11. h4 Nc5 12. Ng5 h6 13. Qh5 f6 14. Nh3 Qe8
+15. Qe2 f5 16. f3 fxe4 17. fxe4 Qg6 18. Nf2 Qxg2 19. Rf1 Nxe4 0-1
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.11"]
+[Round "8"]
+[White "David, Alberto"]
+[Black "Macak, Stefan"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "2562"]
+[BlackElo "2342"]
+[PlyCount "61"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qc7 12. Bg5 O-O 13. Rc1 h6 14. Bh4 Nh5 15.
+Bg3 Nxg3 16. hxg3 g5 17. Bb5 Bd7 18. Nc3 Qb6 19. Qd3 Rf6 20. Bxc6 Bxc6 21. Ne5
+Kg7 22. Nxc6 Qxc6 23. Nb5 Qb6 24. Rc2 Raf8 25. Nxd6 Qxd6 26. Re1 R8f7 27. Re3
+Qf8 28. Ree2 Qd6 29. Qc3 Re7 30. Re5 b6 31. Re3 1/2-1/2
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.11"]
+[Round "8"]
+[White "Geronimi, Didier"]
+[Black "Tinomano, Johann"]
+[Result "1-0"]
+[ECO "C27"]
+[WhiteElo "1782"]
+[BlackElo "1670"]
+[PlyCount "74"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 g6 5. Qxe5+ Qe7 6. Qxe7+ Bxe7 7. Nxe4
+O-O 8. Nf3 c6 9. Bb3 d5 10. Ng3 f5 11. O-O f4 12. Ne4 Bf5 13. d3 Kh8 14. Nc3 g5
+15. Ne5 Bc5 16. Na4 Bd6 17. d4 b5 18. Nc5 a5 19. a4 b4 20. c4 bxc3 21. bxc3 Ra7
+22. Ba3 Re8 23. Rfe1 Rae7 24. Kf1 h5 25. Rac1 Kg7 26. Bc2 Bxc2 27. Rxc2 Nd7 28.
+Rce2 Bxe5 29. Nxd7 Rxd7 30. Rxe5 Rxe5 31. Rxe5 Kf6 32. Ke2 Rb7 33. Kd3 Rb3 34.
+Be7+ Kf7 35. Bxg5 Ra3 36. Bxf4 Rxa4 37. Rxh5 Ra2 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.12"]
+[Round "9"]
+[White "Barsive, Mickael"]
+[Black "Burghouwt, Petrus"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "1370"]
+[BlackElo "1816"]
+[PlyCount "44"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 Nc6 2. d4 e5 3. Nf3 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bb4+ 7. Bd2 Bg4 8.
+Be2 O-O-O 9. O-O Bxf3 10. Bxf3 Qxd4 11. Bxc6 bxc6 12. a3 Bxd2 13. Nxd2 Qxd2 14.
+Qg4+ Rd7 15. Qxg7 Qd4 16. Qf8+ Kb7 17. b4 h5 18. h3 Nh6 19. Qc5 Qxc5 20. bxc5
+Rd5 21. Rfc1 Nf5 22. Rc4 a5 0-1
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.12"]
+[Round "9"]
+[White "Bedini, Johann"]
+[Black "Gil, Jean Jacques"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1450"]
+[BlackElo "1609"]
+[PlyCount "67"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 a6 3. Nf3 b5 4. Be2 Bb7 5. Bd3 Nf6 6. Nbd2 c5 7. O-O c4 8. e5
+cxd3 9. exf6 dxc2 10. Qxc2 Qxf6 11. Re1 Be7 12. Ne4 Bxe4 13. Qxe4 Ra7 14. Be3
+d5 15. Qc2 O-O 16. Ne5 Bd6 17. Nf3 Rc7 18. Qd2 h6 19. Qa5 Rfc8 20. Ne5 Bxe5 21.
+dxe5 Qg6 22. Rac1 Rc2 23. h3 Qd3 24. Rxc2 Rxc2 25. Qd8+ Kh7 26. Qxb8 Rxb2 27.
+Qb7 Rxa2 28. Qxf7 b4 29. Qxe6 Qc2 30. Qxd5 a5 31. e6 a4 32. Rc1 Qe2 33. Qe4+ g6
+34. Rc7+ 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.12"]
+[Round "9"]
+[White "Cesari, Cathy"]
+[Black "Orsini, Julien"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "1240"]
+[BlackElo "1340"]
+[PlyCount "92"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Nc6 5. Bb5 a6 6. Bxc6+ bxc6 7. O-O dxe5 8.
+Qxd8+ Rxd8 9. Nxe5 Be2 10. Re1 Rd1 11. Rxd1 Bxd1 12. Nc3 Bxc2 13. Nxc6 Nf6 14.
+f3 Bc5+ 15. Kh1 O-O 16. Bf4 h6 17. Bxc7 Rc8 18. Ne7+ Bxe7 19. Bg3 Ba3 20. bxa3
+Rxc3 21. Rc1 Nd7 22. a4 Nb6 23. Be5 Rc5 24. Bd4 Rc6 25. h3 Nxa4 26. e5 Rc4 27.
+a3 Rxd4 28. Rxc2 Rd1+ 29. Kh2 Re1 30. Rc4 Nb2 31. Rc8+ Kh7 32. Ra8 Rxe5 33.
+Rxa6 Nc4 34. Ra7 f6 35. a4 Ra5 36. Rc7 Rxa4 37. Rc5 Ne3 38. Rc1 g5 39. Re1 Nf5
+40. Re4 Rxe4 41. fxe4 Nd6 42. g4 Nxe4 43. Kg2 Kg6 44. Kf3 f5 45. Ke3 h5 46.
+gxh5+ Kxh5 0-1
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.12"]
+[Round "9"]
+[White "Macak, Stefan"]
+[Black "Logar, Metod"]
+[Result "1-0"]
+[ECO "C99"]
+[WhiteElo "2342"]
+[BlackElo "2035"]
+[PlyCount "88"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15.
+Be3 a4 16. Nbd2 Nb4 17. Bb1 Bd7 18. a3 Nc6 19. Bd3 Rfc8 20. Rc1 Qb7 21. Qe2
+Rab8 22. Nb1 Bf8 23. Nc3 exd4 24. Nxd4 Ne5 25. Bg5 Nxd3 26. Qxd3 Ne8 27. Nc2
+Nc7 28. Bf4 Be6 29. Nb4 Ne8 30. Rcd1 Rc4 31. Be3 Rbc8 32. f4 f6 33. Kh1 Nc7 34.
+f5 Bf7 35. Bd4 Na6 36. Nbd5 Nc5 37. Qg3 Kh8 38. Ne3 Rxc3 39. Bxc3 Nxe4 40. Qf3
+d5 41. Bb4 Bxb4 42. axb4 Ng5 43. Qg3 Ne4 44. Qf4 Qb6 1-0
+
+[Event "Calvi Balagne op 05th"]
+[Site "Calvi"]
+[Date "2008.04.12"]
+[Round "9"]
+[White "Migheli, Gabriel"]
+[Black "Costa, Elodie"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "1785"]
+[BlackElo "1480"]
+[PlyCount "49"]
+[EventDate "2008.04.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Be7 5. c3 Nf6 6. Re1 Bg4 7. d4 exd4 8.
+cxd4 O-O 9. Nc3 Bxf3 10. gxf3 Nd7 11. Be3 f5 12. Ne2 fxe4 13. fxe4 Bg5 14. Ng3
+Qf6 15. e5 dxe5 16. Ne4 Qg6 17. Nxg5 h6 18. Bd3 Qd6 19. Qb3+ Kh8 20. Nf7+ Rxf7
+21. Qxf7 Rf8 22. Qg6 Nf6 23. Bxh6 gxh6 24. Qxh6+ Kg8 25. Bc4+ 1-0
+
+[Event "Dubai op 10th"]
+[Site "Dubai"]
+[Date "2008.04.06"]
+[Round "1"]
+[White "Guseinov, Gadir"]
+[Black "Natarajan, C."]
+[Result "1-0"]

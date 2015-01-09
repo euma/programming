@@ -1,0 +1,50 @@
+C27	Stanley Variation, Vienna; C27	1.e4 e5 2.Nc3 Nf6 3.Bc4
+C27	Reversed Spanish, Vienna	1.e4 e5 2.Nc3 Nf6 3.Bc4 Bb4
+C27	Bishop Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.Bc4 Bc5
+C27	Eifel Gambit, Vienna	1.e4 e5 2.Nc3 Nf6 3.Bc4 Bc5 4.Nge2 b5
+C27	Modern Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4
+C27	Boden-Kieseritzky Gambit, Vienna	1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4
+4.Nf3
+C27	Monster Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6
+5.Bb3 Be7
+C27	Alekhine Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6
+5.Bb3 Be7 6.Nf3 Nc6 7.Nxe5
+C27	Adams Gambit, Vienna	1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3
+Nc6 6.d4
+C27	Frankenstein-Dracula Var, Vienna	1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4
+4.Qh5 Nd6 5.Bb3 Nc6 6.Nb5 g6 7.Qf3 f5 8.Qd5 Qe7
+C28	Three Knights Variation, Vienna; C28	1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6
+C29	Vienna Gambit, Vienna; C29	1.e4 e5 2.Nc3 Nf6 3.f4
+C29	Steinitz Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.d3
+C29	Wurzburger Trap, Vienna	1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.d3 Qh4
+6.g3 Nxg3 7.Nf3 Qh5 8.Nd5 Bxd5 9.Nf4
+C29	Breyer Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4
+5.Nf3 Be7
+C29	Kaufmann Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4
+5.Nf3 Bg4 6.Qe2
+C29	Paulsen Attack, Vienna	1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3
+C29	Bardeleben Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4
+5.Qf3 f5
+C30	King's Gambit; C30	1.e4 e5 2.f4
+C30	Classical Defense, KGD	1.e4 e5 2.f4 Bc5  
+C30	Heath Variation, KGD; Rotlewi Countergambit	1.e4 e5 2.f4 Bc5 3.Nf3
+d6 4.b4
+C30	Marshall (Euwe) Attack, KGD	1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 Bg4
+5.fxe5 dxe5 6.Qa4+
+C30	Rubinstein Countergambit, KGD	1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 f5
+C30	Svenonius Variation, KGD	1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Nc3 Nf6
+5.Bc4 Nc6 6.d3 Bg4
+C30	Senechaud Counter-Gambit, KGD	1.e4 e5 2.f4 Bc5 3.Nf3 g5
+C30	Mafia Defense, KGD	1.e4 e5 2.f4 c5
+C30	Panteldakis Countergambit, KGD	1.e4 e5 2.f4 f5
+C30	Soller-Zilbermints Gambit, KGD	1.e4 e5 2.f4 f6 3.fxe5 Nc6
+C30	Zilbermints Double Countergambit; KGD	1.e4 e5 2.f4 g5
+C30	Queen's Knight Defense, KGD	1.e4 e5 2.f4 Nc6
+C30	Miles Defense, KGD	1.e4 e5 2.f4 Nc6 3.Nf3 f5
+C30	Zilbermints Double Gambit I, KGD	1.e4 e5 2.f4 Nc6 3.Nf3 g5
+C30	Petrov's Defense, KGD	1.e4 e5 2.f4 Nf6
+C30	Norwalde (Norwalder) Variation, KGD	1.e4 e5 2.f4 Qf6
+C30	Schubert Variation, KGD	1.e4 e5 2.f4 Qf6 3.Nc3 Qxf4 4.d4
+C30	Keene Defense, KGD	1.e4 e5 2.f4 Qh4+ 3.g3 Qe7
+C31	Falkbeer Counter-Gambit, KGD; C31	1.e4 e5 2.f4 d5  
+C31	Hinrichsen Gambit, KGD	1.e4 e5 2.f4 d5 3.d4

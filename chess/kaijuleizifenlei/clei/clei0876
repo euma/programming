@@ -1,0 +1,600 @@
+[Round "1"]
+[White "Janko, Zoltan"]
+[Black "Narayanan, Srinath"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "2235"]
+[BlackElo "2220"]
+[PlyCount "82"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qd2 dxc6 7. Nc3 Bd4
+8. Bd3 Ne7 9. O-O Ng6 10. Ne2 Bb6 11. Qc3 Qxc3 12. Nxc3 Ne5 13. Be2 Bd4 14. Na4
+a6 15. Bf4 f6 16. Rad1 Ba7 17. Rd2 Be6 18. Rfd1 Ke7 19. b3 b5 20. Nb2 Bb6 21.
+c3 Ng6 22. Bg3 a5 23. Kf1 Rhd8 24. h4 Rxd2 25. Rxd2 Ne5 26. Ke1 a4 27. bxa4 Ba5
+28. f4 Bxc3 29. fxe5 bxa4 30. exf6+ gxf6 31. Nc4 Rd8 32. Kd1 Bxd2 33. Nxd2 Bxa2
+34. Kc2 Rg8 35. Nf1 a3 36. Ne3 Rb8 37. Nf5+ Kd8 38. Nd4 Bb1+ 39. Kc1 a2 40.
+Nxc6+ Ke8 41. Bh5+ Kf8 0-1
+
+[Event "Brno Duras IM-B"]
+[Site "Brno"]
+[Date "2008.06.28"]
+[Round "3"]
+[White "Janko, Zoltan"]
+[Black "Splosnov, Sergei"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2235"]
+[BlackElo "2355"]
+[PlyCount "56"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Nb4 9. cxd5 Nxd3 10. Qxd3 Qxd5 11. Re1 Bf5 12. g4 Bg6 13. Ne5 Nxf2 14. Qg3 Ne4
+15. Nc3 Nxc3 16. bxc3 Kf8 17. Qe3 Re8 18. Ba3 Qd8 19. Bxe7+ Rxe7 20. Qf3 c6 21.
+Re2 Kg8 22. Rae1 Re6 23. Nxg6 Rxe2 24. Qxe2 hxg6 25. Qe8+ Kh7 26. Qxd8 Rxd8 27.
+Re7 b5 28. Rxf7 b4 1/2-1/2
+
+[Event "Brno Duras IM-B"]
+[Site "Brno"]
+[Date "2008.06.28"]
+[Round "3"]
+[White "Narayanan, Srinath"]
+[Black "Vesely, Jaromir"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2220"]
+[BlackElo "2074"]
+[PlyCount "59"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 Qb6 7. b4 cxd4 8. cxd4
+Nge7 9. Be3 Nf5 10. Bd3 g6 11. O-O Be7 12. Nc3 Nxe3 13. fxe3 O-O 14. Ra2 Rac8
+15. Na4 Qd8 16. Nc5 Rc7 17. Raf2 Bc8 18. Qb1 b6 19. Nb3 f5 20. exf6 Bxf6 21. b5
+Ne7 22. g4 Bg7 23. Qe1 e5 24. Nxe5 Rxf2 25. Qxf2 Bxe5 26. dxe5 Bxg4 27. Qf7+
+Kh8 28. Qf6+ Kg8 29. Rf4 Bc8 30. Bxg6 1-0
+
+[Event "Brno Duras IM-B"]
+[Site "Brno"]
+[Date "2008.06.29"]
+[Round "4"]
+[White "Murdzia, Piotr"]
+[Black "Vesely, Jaromir"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2471"]
+[BlackElo "2074"]
+[PlyCount "81"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. Qd2 Nc6 10. O-O-O g6 11. Kb1 b5 12. dxc5 Qxc5 13. Ne2 Nb6 14. Ned4 Nxd4
+15. Nxd4 Bd7 16. g4 O-O-O 17. Be2 Nc4 18. Qe1 Kb7 19. c3 Rb8 20. h4 Kc7 21. Qg1
+Qb6 22. b3 Rb7 23. Ka1 Qa5 24. Rc1 Rhb8 25. h5 Qa3 26. Rc2 g5 27. bxc4 bxc4 28.
+Qc1 Qa5 29. Bf3 Ba4 30. Qa3 Qb6 31. Rcc1 gxf4 32. g5 Bd7 33. g6 fxg6 34. hxg6
+hxg6 35. Bg4 Qb2+ 36. Qxb2 Rxb2 37. Rh7 Rg2 38. Bxe6 Rbb2 39. Rxd7+ Kc8 40.
+Ra7+ Kd8 41. Nc6+ 1-0
+
+[Event "Brno Duras IM-B"]
+[Site "Brno"]
+[Date "2008.06.30"]
+[Round "5"]
+[White "Janko, Zoltan"]
+[Black "Chladek, Vaclav"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2235"]
+[BlackElo "2161"]
+[PlyCount "49"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nc3 d6 10. exd6 Qxe2+ 11. Bxe2 cxd6 12. O-O Be7 13. Re1 Be6 14. Bf3
+Rc8 15. b3 Bf6 16. Bd2 O-O 17. Rac1 Rfd8 18. Ne4 Bd4 19. Bg5 Rd7 20. Nxd6 Rxd6
+21. c5 Rd5 22. cxb6 Rxg5 23. b7 Rd8 24. Rxc6 Rc5 25. Rd6 1-0
+
+[Event "Brno Duras IM-B"]
+[Site "Brno"]
+[Date "2008.07.01"]
+[Round "6"]
+[White "Murdzia, Piotr"]
+[Black "Splosnov, Sergei"]
+[Result "1/2-1/2"]
+[ECO "C30"]
+[WhiteElo "2471"]
+[BlackElo "2355"]
+[PlyCount "31"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nc6 5. Bc4 Nf6 6. d3 Bg4 7. h3 Bxf3 8. Qxf3
+a6 9. f5 h6 10. g4 Nd4 11. Qg2 b5 12. Bb3 a5 13. a3 Nxb3 14. cxb3 c6 15. Ke2
+Bd4 16. g5 1/2-1/2
+
+[Event "Brno Duras IM-B"]
+[Site "Brno"]
+[Date "2008.07.03"]
+[Round "8"]
+[White "Chladek, Vaclav"]
+[Black "Splosnov, Sergei"]
+[Result "0-1"]
+[ECO "C43"]
+[WhiteElo "2161"]
+[BlackElo "2355"]
+[PlyCount "90"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Be7 6. O-O Nd7 7. Nxd7 Bxd7 8.
+Nd2 Nf6 9. Nf3 Bg4 10. h3 Bh5 11. Bf4 O-O 12. Be2 Ne4 13. Re1 Bd6 14. Ne5 Qf6
+15. Be3 Bxe2 16. Qxe2 Qf5 17. Qf3 Qxf3 18. Nxf3 Rfe8 19. Nd2 f5 20. Nxe4 fxe4
+21. Re2 Re6 22. c3 Rae8 23. b3 b5 24. Rc2 Rb8 25. Kf1 Ree8 26. Ke2 Kf7 27. Rf1
+Ke6 28. Rcc1 Rf8 29. Rc2 Kd7 30. Rfc1 Rb6 31. Bd2 Ba3 32. Rd1 Bd6 33. Rdc1 Rfb8
+34. Be3 Rc6 35. Rf1 Be7 36. Rfc1 a5 37. Bd2 a4 38. b4 Rg6 39. Rg1 Bd6 40. Rcc1
+Rf8 41. Kf1 Bh2 42. Rh1 Bg3 43. Be3 Bxf2 44. Bxf2 Rgf6 45. Rc2 e3 0-1
+
+[Event "Brno Duras IM-B"]
+[Site "Brno"]
+[Date "2008.07.04"]
+[Round "9"]
+[White "Janko, Zoltan"]
+[Black "Zavadil, Michal"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2235"]
+[BlackElo "2113"]
+[PlyCount "111"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nc3 Ba6 10. Qe4 Qe6 11. b3 Bb4 12. Bd2 Bxc3 13. Bxc3 d5 14. Qh4 dxc4
+15. Be2 Nd5 16. Bxc4 g5 17. Bxd5 Qxd5 18. Qxg5 Rd8 19. Qg4 h5 20. Qf3 Qxf3 21.
+gxf3 Rd3 22. Bd2 Rxf3 23. Be3 Rg8 24. O-O-O Ke7 25. Bxa7 Ke6 26. Rd2 Bd3 27.
+Re1 Rg2 28. Re3 Rxe3 29. Bxe3 Ba6 30. f4 Rxd2 31. Kxd2 Kd5 32. b4 Ke4 33. a4
+Bc8 34. Ke2 Ba6+ 35. Kf2 Kf5 36. Bc1 Bc4 37. Ke3 Bb3 38. a5 Bc4 39. Kd4 Ba6 40.
+Kc5 Bb7 41. a6 Ba8 42. Kd4 Ke6 43. Bd2 Kf5 44. Be3 Ke6 45. Bf2 Kf5 46. Bg3 Ke6
+47. Bh4 Kf5 48. Bd8 Kxf4 49. Bxc7 Kf5 50. Kc5 Ke6 51. Kb6 Kd7 52. Bd6 c5 53.
+Kxc5 Bg2 54. b5 Bf1 55. Kb6 f6 56. Ka5 1-0
+
+[Event "Brno Duras IM-B"]
+[Site "Brno"]
+[Date "2008.07.06"]
+[Round "11"]
+[White "Narayanan, Srinath"]
+[Black "Lahner, Jakub"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2220"]
+[BlackElo "2314"]
+[PlyCount "28"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. Bb3 Ba7 7. Nbd2 O-O 8. h3
+d5 9. exd5 Nxd5 10. Ne4 f6 11. O-O Be6 12. d4 exd4 13. cxd4 Bf7 14. Nc5 Bxc5
+1/2-1/2
+
+[Event "Groningen Atlantis-A"]
+[Site "Groningen"]
+[Date "2008.06.27"]
+[Round "1"]
+[White "Becker, Martin Alexander"]
+[Black "Bojkov, Dejan"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteElo "2364"]
+[BlackElo "2492"]
+[PlyCount "117"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Na4 Be6 12. c3 Be7 13. Bc2 Re8 14. Re1 Nd7
+15. Bxe7 Rxe7 16. Qd4 Nf8 17. Nc5 Qd6 18. Re3 Rae8 19. Rae1 Bc8 20. b4 Ng6 21.
+Bxg6 hxg6 22. Rxe7 Rxe7 23. Rxe7 Qxe7 24. Qe3 Kf8 25. Qxe7+ Kxe7 26. f4 Kf6 27.
+Kf2 g5 28. fxg5+ Kxg5 29. Ke3 Kf6 30. Kd4 Ke7 31. Nd3 Kd6 32. h4 Bf5 33. Nf4
+Bg4 34. a4 Bd1 35. a5 Bg4 36. Nd3 Bf5 37. Nf2 Be6 38. Nd1 Bf5 39. Ne3 Bb1 40.
+g4 Bh7 41. g5 Bg6 42. Ng2 Be4 43. Nf4 g6 44. c4 Bf3 45. cxd5 a6 46. dxc6 Bxc6
+47. Nd3 Bb5 48. Nc5 Be2 49. Ne4+ Ke6 50. Kc5 Ke5 51. Nd6 f5 52. gxf6 Kxf6 53.
+Kb6 Ke5 54. Ne8 Kf4 55. Nc7 Kg4 56. Nxa6 Kxh4 57. Nc5 Kg5 58. a6 Bf3 59. Nb7
+1-0
+
+[Event "Groningen Atlantis-A"]
+[Site "Groningen"]
+[Date "2008.06.27"]
+[Round "1"]
+[White "Wemmers, Xander"]
+[Black "Clemens, Adrian HP"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2387"]
+[BlackElo "2326"]
+[PlyCount "168"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. g3 d5 7. e5 Ng4 8. Bg2
+O-O 9. h3 Nxe5 10. Nxd5 Bc5 11. Nb3 Bd6 12. O-O c6 13. Ne3 Bc7 14. Bd2 a5 15.
+a4 Be6 16. Qe2 Bxb3 17. cxb3 Qd3 18. Rfe1 Qxe2 19. Rxe2 Na6 20. Bc3 Nc5 21. Nf5
+f6 22. f4 Ned3 23. Rd1 Rad8 24. Re7 Rf7 25. Rxc7 Rxc7 26. Bxa5 Rdd7 27. Bxc7
+Rxc7 28. Bf1 Rd7 29. Bxd3 Nxd3 30. a5 g6 31. Ne3 Kf7 32. Kf1 Ke6 33. Nc4 Nc5
+34. Re1+ Kf7 35. Re3 Nd3 36. Ke2 Nb4 37. g4 Nd5 38. Re4 h6 39. h4 Rd8 40. Kf3
+g5 41. hxg5 hxg5 42. fxg5 fxg5 43. Re5 Nf6 44. Rxg5 Rd3+ 45. Kf4 Rxb3 46. Kf5
+Nd7 47. Ke4 Nf6+ 48. Kd4 Nd5 49. Ke5 Ne3 50. Nd6+ Kf8 51. Ke4 Nd5 52. Rf5+ Ke7
+53. Nc4 Rg3 54. Re5+ Kf6 55. Rf5+ Ke6 56. Re5+ Kf6 57. g5+ Kg6 58. Kd4 Rb3 59.
+Kc5 Rb5+ 60. Kd6 Rb4 61. Kc5 Rb5+ 62. Kd4 Rb3 63. Kc5 Rb5+ 64. Kd6 Rb4 65. Nd2
+Rxb2 66. Nf3 Ra2 67. Re6+ Kg7 68. Nd4 Rxa5 69. Rh6 Nf4 70. Ne6+ Nxe6 71. Rxe6
+Rb5 72. g6 Rb1 73. Kc5 Rb5+ 74. Kd6 c5 75. Kd5 b6 76. Kc4 Rb4+ 77. Kc3 b5 78.
+Rb6 Rb1 79. Kc2 Rb4 80. Kc3 Rc4+ 81. Kb3 Rg4 82. Rxb5 Rb4+ 83. Rxb4 cxb4 84.
+Kxb4 Kxg6 1/2-1/2
+
+[Event "Groningen Atlantis-A"]
+[Site "Groningen"]
+[Date "2008.06.28"]
+[Round "2"]
+[White "Brandenburg, Daan"]
+[Black "Becker, Martin Alexander"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[WhiteElo "2435"]
+[BlackElo "2364"]
+[PlyCount "105"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. dxe5 Nc6 6. O-O Bg4 7. Nc3 Nxc3 8.
+bxc3 Bc5 9. Bf4 O-O 10. h3 Bh5 11. Re1 d4 12. cxd4 Nxd4 13. Be4 Nxf3+ 14. Bxf3
+Qxd1 15. Raxd1 Bxf3 16. gxf3 Rad8 17. Bg5 f6 18. exf6 gxf6 19. Bh6 Rfe8 20.
+Rxe8+ Rxe8 21. Rd7 Re7 22. Rd8+ Kf7 23. Kf1 Kg6 24. Bd2 Re6 25. Rg8+ Kf7 26.
+Rh8 Kg7 27. Rb8 Rc6 28. Rxb7 Bb6 29. c3 Rc4 30. a3 Kg6 31. Ke2 Ra4 32. Bc1 Kh5
+33. Kd3 Kh4 34. c4 Ra5 35. a4 Kxh3 36. Be3 h5 37. f4 h4 38. Ke2 Kg4 39. c5 Bxc5
+40. Rxc7 Bxe3 41. fxe3 Rxa4 42. Rg7+ Kh3 43. Kf3 f5 44. Rg5 Ra5 45. Rg1 Kh2 46.
+Rg2+ Kh3 47. Rg1 Kh2 48. Rc1 Rb5 49. Rc2+ Kh3 50. Rc1 Kh2 51. Rc2+ Kh3 52. Rc1
+Kh2 53. Rc2+ 1/2-1/2
+
+[Event "Groningen Atlantis-A"]
+[Site "Groningen"]
+[Date "2008.06.29"]
+[Round "3"]
+[White "Bedouin, Xavier"]
+[Black "Wemmers, Xander"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[WhiteElo "2369"]
+[BlackElo "2387"]
+[PlyCount "88"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. Qe2 Nf6 8.
+Nb3 Nc6 9. Bg5 Qb4+ 10. Bd2 Qb6 11. O-O-O Bd7 12. Bg5 Bc5 13. Ne5 Nxe5 14. Qxe5
+Bd6 15. Qxd4 Qxd4 16. Nxd4 O-O-O 17. Rhe1 Bc5 18. f4 Ba4 19. Nf3 Rxd1+ 20. Kxd1
+h6 21. Bxf6 gxf6 22. f5 Rd8+ 23. Kc1 exf5 24. Bxf7 f4 25. Bc4 Be3+ 26. Kb1 Bc6
+27. a3 Kc7 28. Bd3 Rg8 29. Re2 h5 30. c4 Rd8 31. Kc2 Ba4+ 32. Kc3 b5 33. Bc2
+Bxc2 34. Rxc2 Kb6 35. b4 Rd1 36. cxb5 Kxb5 37. a4+ Kxa4 38. Ra2+ Kb5 39. Ra5+
+Kc6 40. Rxh5 Rc1+ 41. Kb3 Rb1+ 42. Kc3 Rc1+ 43. Kb3 Rb1+ 44. Kc3 Rc1+ 1/2-1/2
+
+[Event "Groningen Atlantis-A"]
+[Site "Groningen"]
+[Date "2008.06.30"]
+[Round "4"]
+[White "Kodentsov, Grisja"]
+[Black "Bojkov, Dejan"]
+[Result "0-1"]
+[ECO "C92"]
+[WhiteElo "2275"]
+[BlackElo "2492"]
+[PlyCount "130"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Rb8 10. d4 exd4 11. cxd4 d5 12. e5 Ne4 13. Nbd2 Bf5 14. Bc2 Nb4 15.
+Bxe4 dxe4 16. Nxe4 Qd5 17. Qe2 Nxa2 18. Bd2 Nb4 19. Rac1 Rbc8 20. Bxb4 Bxb4 21.
+Nc3 Qd7 22. Red1 c6 23. Ne4 Bxe4 24. Qxe4 Qd5 25. Qg4 a5 26. Ng5 h6 27. Ne4 Qe6
+28. Nf6+ Kh8 29. Qxe6 fxe6 30. Nd7 Rfd8 31. Nc5 Bxc5 32. dxc5 Rd5 33. Rxd5 cxd5
+34. f4 Kg8 35. Kf2 Rc6 36. Ke3 a4 37. Kd4 b4 38. f5 Kf7 39. g4 Ke7 40. h4 a3
+41. bxa3 bxa3 42. g5 hxg5 43. hxg5 exf5 44. Kxd5 Ra6 45. c6 a2 46. Ra1 f4 47.
+c7 Kd7 48. Ke4 Kxc7 49. Kxf4 g6 50. Ke4 Kd7 51. Kd5 Ra4 52. Kc5 Ke6 53. Kb5 Ra8
+54. Kb4 Kxe5 55. Kb3 Kf5 56. Kb2 Kxg5 57. Rg1+ Kh6 58. Ka1 g5 59. Rh1+ Kg6 60.
+Rg1 Ra4 61. Rg3 g4 62. Rg2 Kg5 63. Rg1 Kf4 64. Rf1+ Ke3 65. Re1+ Kf2 0-1
+
+[Event "Groningen Atlantis-A"]
+[Site "Groningen"]
+[Date "2008.07.02"]
+[Round "6"]
+[White "Bedouin, Xavier"]
+[Black "Geirnaert, Steven"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[WhiteElo "2369"]
+[BlackElo "2324"]
+[PlyCount "73"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1 8.
+Rxd1 fxe5 9. Nbd2 Nf6 10. h3 Bxf3 11. Nxf3 Nd7 12. Be3 Bd6 13. Rd3 b5 14. Nd2
+O-O 15. Kf1 Rf6 16. f3 c5 17. c4 Nf8 18. Ra3 c6 19. Rd3 Be7 20. Rc1 Rd6 21.
+Rxd6 Bxd6 22. a3 Ne6 23. Nb3 Rc8 24. Rc2 Kf7 25. Ke2 Nd4+ 26. Bxd4 cxd4 27. c5
+Be7 28. Nc1 a5 29. Nd3 Ke6 30. g3 g5 31. b3 h5 32. Rc1 Rh8 33. f4 h4 34. f5+
+Kf6 35. g4 Ra8 36. Nb2 a4 37. b4 1/2-1/2
+
+[Event "Groningen Atlantis-A"]
+[Site "Groningen"]
+[Date "2008.07.02"]
+[Round "6"]
+[White "Wemmers, Xander"]
+[Black "Bojkov, Dejan"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2387"]
+[BlackElo "2492"]
+[PlyCount "94"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d6 10. a3 Na5 11. Ba2 c5 12. Nc3 h6 13. Bd2 Rc8 14. Ne2 Re8 15. Ng3
+Bf8 16. Nf5 Nc6 17. Nh2 Nd4 18. Ne3 d5 19. c3 Ne6 20. Nhg4 Nxg4 21. Nxg4 dxe4
+22. dxe4 c4 23. Re3 Ng5 24. Rg3 Kh8 25. Bxg5 Qxd1+ 26. Rxd1 hxg5 27. Re3 Rcd8
+28. Rde1 Rd2 29. R3e2 Red8 30. Kf1 f6 31. Bb1 R2d7 32. Bc2 a5 33. Ne3 b4 34.
+axb4 axb4 35. cxb4 Bxb4 36. Ra1 Rd4 37. Nd5 Bxd5 38. exd5 R4xd5 39. g3 Ra5 40.
+Rxa5 Bxa5 41. Re4 Rc8 42. Re2 Rd8 43. Bf5 Rd1+ 44. Kg2 Rc1 45. Rc2 Rxc2 46.
+Bxc2 Bb6 47. Be4 Bd4 1/2-1/2
+
+[Event "Groningen Atlantis-A"]
+[Site "Groningen"]
+[Date "2008.07.02"]
+[Round "7"]
+[White "Brandenburg, Daan"]
+[Black "Wemmers, Xander"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[WhiteElo "2435"]
+[BlackElo "2387"]
+[PlyCount "49"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6 8.
+Nb3 Nc6 9. Nbxd4 Nxd4 10. Qxd4 Bd7 11. Bf4 Qxd4 12. Nxd4 a6 13. Be2 O-O-O 14.
+Bf3 Bc5 15. Nb3 Bb6 16. c4 Bc6 17. Bxc6 bxc6 18. Rac1 Bd4 19. Nxd4 Rxd4 20. Be3
+Rd3 21. Rfd1 Rhd8 22. Rxd3 Rxd3 23. Kf1 Ne4 24. Ke2 Rd7 25. f3 1/2-1/2
+
+[Event "Groningen Atlantis-A"]
+[Site "Groningen"]
+[Date "2008.07.03"]
+[Round "8"]
+[White "Bedouin, Xavier"]
+[Black "Bojkov, Dejan"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2369"]
+[BlackElo "2492"]
+[PlyCount "20"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Qxe2+ 8.
+Bxe2 Nbd7 9. Nc3 c6 10. O-O-O h6 1/2-1/2
+
+[Event "Groningen Atlantis-A"]
+[Site "Groningen"]
+[Date "2008.07.04"]
+[Round "9"]
+[White "Bosboom, Manuel"]
+[Black "Wemmers, Xander"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2471"]
+[BlackElo "2387"]
+[PlyCount "21"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Bc5 5. c3 a6 6. Bb3 O-O 7. O-O d6 8. Nbd2
+Be6 9. Re1 Re8 10. Nf1 h6 11. Ng3 1/2-1/2
+
+[Event "Groningen Atlantis-B"]
+[Site "Groningen"]
+[Date "2008.06.28"]
+[Round "2"]
+[White "Schoorl, Rob"]
+[Black "Van der Marel, Bert"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2257"]
+[BlackElo "2223"]
+[PlyCount "46"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4 Nb4 15.
+Bb1 c5 16. d5 g6 17. Nh2 Bg7 18. Ndf3 Qb6 19. a5 Qd8 20. Bd2 Qe7 21. Bc3 Nd7
+22. Qd2 Ne5 23. Nxe5 dxe5 1/2-1/2
+
+[Event "Groningen Atlantis-B"]
+[Site "Groningen"]
+[Date "2008.06.30"]
+[Round "4"]
+[White "Hummel, Erik Jan"]
+[Black "Houtman, Joop"]
+[Result "0-1"]
+[ECO "C29"]
+[WhiteElo "2209"]
+[BlackElo "2233"]
+[PlyCount "68"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nc3 Nf6 2. e4 e5 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 Nxd4 11. c3 Nxf3+ 12. gxf3 Qd5 13. Qg5 Be6 14.
+Be2 h6 15. Qxg7 O-O-O 16. Rg1 Bf5 17. d4 Qa5 18. Rc1 Qxa2 19. Qf6 Be6 20. Kf2
+Qb2 21. Qf4 Rhg8 22. Rg3 Rxg3 23. hxg3 a5 24. Qe3 a4 25. Re1 c5 26. Qc1 Qb6 27.
+Ke3 a3 28. Qxa3 cxd4+ 29. Kf4 d3 30. Bd1 Kb8 31. Qb4 Qf2 32. Qe7 Rg8 33. Qd6+
+Kc8 34. g4 Rxg4# 0-1
+
+[Event "Groningen Atlantis-B"]
+[Site "Groningen"]
+[Date "2008.06.30"]
+[Round "4"]
+[White "Schoorl, Rob"]
+[Black "Hartoch, Robert G"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2257"]
+[BlackElo "2228"]
+[PlyCount "127"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8. a4
+a5 9. b3 exd4 10. Nxd4 Ne5 11. Bf1 Re8 12. h3 Bf8 13. Bb2 Qc7 14. f4 Ng6 15.
+Qd2 Bd7 16. g3 Rad8 17. Bg2 Bc8 18. Qf2 Nd7 19. Rad1 Nc5 20. f5 Ne5 21. g4 Qb6
+22. Bc1 Rd7 23. Nce2 Qd8 24. Qg3 g5 25. Qf2 f6 26. Ng3 h6 27. Nh5 Bg7 28. Ba3
+Qe7 29. Nxg7 Kxg7 30. Bxc5 dxc5 31. Ne6+ Kf7 32. Nxc5 Rxd1 33. Rxd1 Rd8 34. Nd3
+Kg7 35. Rd2 Qa3 36. Ne1 Re8 37. Kh2 Qa1 38. Nd3 Qc3 39. Nxe5 Qxe5+ 40. Qg3 Kf7
+41. Qxe5 Rxe5 42. Kg3 Ke7 43. Kf3 b5 44. axb5 cxb5 45. Bf1 Bb7 46. Bd3 b4 47.
+h4 gxh4 48. Rh2 Kf8 49. Rxh4 Kg7 50. Ke3 Bc6 51. Rh1 Be8 52. Kd4 Bc6 53. Rh2
+Bb7 54. c3 bxc3 55. Rc2 Bc6 56. Rxc3 Bb5 57. Rc7+ Kg8 58. Bc4+ Bxc4 59. bxc4
+Kf8 60. Ra7 Ke8 61. c5 Kd8 62. Rxa5 Kc7 63. Ra7+ Kc6 64. Ra6+ 1-0
+
+[Event "Groningen Atlantis-B"]
+[Site "Groningen"]
+[Date "2008.07.01"]
+[Round "5"]
+[White "Houtman, Joop"]
+[Black "Schoorl, Rob"]
+[Result "0-1"]
+[ECO "C92"]
+[WhiteElo "2233"]
+[BlackElo "2257"]
+[PlyCount "111"]
+[EventDate "2008.06.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 g6 13. Nf1 exd4 14. cxd4 Nb4 15.
+Ng3 Nxc2 16. Qxc2 d5 17. e5 Ne4 18. Bf4 c5 19. dxc5 Bxc5 20. Nxe4 dxe4 21. Rad1
+Qb6 22. Ng5 Rad8 23. Nxe4 Bxe4 24. Rxe4 Bxf2+ 25. Kh2 Rxd1 26. Qxd1 Qe6 27. Qf3
+Bc5 28. Re2 Bf8 29. Qb3 Qxb3 30. axb3 Bg7 31. Kg1 h6 32. g4 g5 33. Bg3 Re6 34.
+Kf2 f6 35. exf6 Rxe2+ 36. Kxe2 Bxf6 37. Kd3 Bxb2 38. Bc7 Kf7 39. Ke4 Bc3 40.

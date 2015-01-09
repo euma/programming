@@ -1,0 +1,600 @@
+[ECO "D02"]
+[WhiteElo "2174"]
+[BlackElo "2345"]
+[PlyCount "25"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 c6 4. Bg2 Bg4 5. O-O Nbd7 6. c3 e6 7. Nbd2 Be7 8. Qb3
+Qb6 9. Re1 O-O 10. e4 Bh5 11. h3 Bg6 12. exd5 cxd5 13. Ne5 1/2-1/2
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.25"]
+[Round "4"]
+[White "Gujic, Leonard"]
+[Black "Mihalinec, Damir"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "2027"]
+[BlackElo "2249"]
+[PlyCount "94"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Re8 8. a3
+e5 9. cxd5 Nxd5 10. Nxd5 Qxd5 11. e4 Qd6 12. d5 Ne7 13. Nd2 f5 14. Nc4 Qf6 15.
+f3 f4 16. a4 g5 17. h3 Ng6 18. b3 Bf8 19. Ba3 Bd7 20. Bxf8 Qxf8 21. Qd2 Rad8
+22. Qf2 a6 23. Rfd1 h5 24. Be2 Bc8 25. Rab1 Qb4 26. Qe1 Qe7 27. b4 g4 28. fxg4
+hxg4 29. hxg4 Qg5 30. d6 c6 31. Nb6 Bxg4 32. d7 Re7 33. Rb3 Rg7 34. Rd2 Nh4 35.
+Bxg4 Qxg4 36. Qf2 f3 37. g3 Qh3 38. Rxf3 Nxf3+ 39. Qxf3 Rxg3+ 40. Qxg3+ Qxg3+
+41. Rg2 Qxg2+ 42. Kxg2 Kf7 43. Kf3 Ke7 44. Ke3 Rh8 45. Nc4 Rh3+ 46. Kd2 Rb3 47.
+Nxe5 Rxb4 0-1
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.25"]
+[Round "4"]
+[White "Kalajzic, Ivan"]
+[Black "Tomic Potrebujes, Zlatko"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2228"]
+[BlackElo "2032"]
+[PlyCount "113"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 e5 7. dxe5 Qa5 8.
+Bxf6 gxf6 9. e6 fxe6 10. a3 Be7 11. Nf3 Ne5 12. Nd4 Ng6 13. Bc4 Qe5 14. Qd2 Bd7
+15. O-O-O O-O-O 16. Qe2 Bc5 17. Nf3 Qf4+ 18. Kb1 Ne5 19. Rhf1 Nxf3 20. Qxf3
+Qxf3 21. Rxf3 Be7 22. Ne2 e5 23. Rg3 Be8 24. Be6+ Kc7 25. Rxd8 Kxd8 26. Rg7 Bg6
+27. Ng3 Ke8 28. Nf5 Bxf5 29. Bxf5 h6 30. Kc1 Kf8 31. Rg6 Kf7 32. Kd2 Rd8+ 33.
+Ke2 Bf8 34. Rg3 Rd4 35. c3 Rd8 36. b4 a5 37. Rd3 Ke7 38. bxa5 Rxd3 39. Kxd3 Kd8
+40. a4 Bd6 41. Kc4 Ba3 42. Be6 Kc7 43. Kd3 Bc5 44. Ke2 Ba3 45. Kf3 Bb2 46. c4
+Kd6 47. Bc8 Kc7 48. Bf5 Kd6 49. Kg4 Kc5 50. Bc8 Kxc4 51. Bxb7 Kb4 52. a6 Bd4
+53. Bxc6 Kc5 54. Bb5 Kd6 55. Kf5 h5 56. Kxf6 Be3 57. g3 1-0
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.25"]
+[Round "4"]
+[White "Lescan, Marijan"]
+[Black "Hibner, Branko"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1968"]
+[BlackElo "2080"]
+[PlyCount "84"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 c6 3. g3 Bf5 4. Bg2 Nf6 5. O-O Qc7 6. b3 h6 7. c4 e6 8. Ba3
+Bxa3 9. Nxa3 O-O 10. e3 Nbd7 11. Nb1 a5 12. Nc3 Qb8 13. Nh4 Bh7 14. f4 dxc4 15.
+bxc4 Nb6 16. c5 Nbd5 17. Qe1 b5 18. h3 Nxc3 19. Qxc3 Ne4 20. Qe1 b4 21. Nf3 Qc7
+22. Nd2 Nc3 23. Nc4 Bd3 24. Nb6 Ra7 25. Rf2 Be4 26. Kh2 Bxg2 27. Rxg2 g5 28. a3
+Rb8 29. Rb2 bxa3 30. Rxa3 Nb5 31. Rxa5 Rxa5 32. Qxa5 gxf4 33. gxf4 Nxd4 34.
+Rg2+ Kh7 35. Qc3 Nf5 36. Qc1 Rg8 37. Rf2 Qe7 38. e4 Qh4 39. Rf3 Nd4 40. Qf1
+Nxf3+ 41. Qxf3 Qe1 42. Nd7 Qg1# 0-1
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.25"]
+[Round "4"]
+[White "Zaja, Ivan"]
+[Black "Kozarcanin, Sead"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2457"]
+[BlackElo "2190"]
+[PlyCount "139"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 Bd6 8. e4
+dxc4 9. Bxc4 Qe7 10. e5 Bc7 11. O-O O-O 12. Rac1 a5 13. Ne4 Nd7 14. Bd3 Rd8 15.
+Bb1 Nf8 16. a3 Rb8 17. Qe3 Bd7 18. Nfd2 b5 19. Nc5 f5 20. exf6 Qxf6 21. Nde4
+Qf4 22. g3 Qxe3 23. fxe3 Bc8 24. Ba2 Bd6 25. Rf2 Bxc5 26. Nxc5 b4 27. a4 Rd6
+28. Nb3 Rd5 29. Nd2 Rd8 30. Rxc6 Bd7 31. Rc5 Bxa4 32. Rxa5 Bc6 33. Bc4 Ra8 34.
+Nb3 Rxa5 35. Nxa5 Ba8 36. Nb3 Bd5 37. Bxd5 exd5 38. Nc5 Nh7 39. Nd3 Rb8 40. Rc2
+Nf6 41. Rc5 Ng4 42. Rxd5 Nxe3 43. Re5 Ng4 44. Rc5 Rd8 45. Rc4 Ne3 46. Rxb4 Nc2
+47. Rb7 Nxd4 48. Nf4 g5 49. Nh5 Rd6 50. Rd7 Rxd7 51. Nf6+ Kf7 52. Nxd7 Ke6 53.
+Nb6 Ke5 54. Kf2 Ke4 55. Nd7 g4 56. b4 Kf5 57. Nc5 h5 58. Na6 Ke4 59. Nc7 Ke5
+60. b5 Kd6 61. b6 Kc6 62. Ke3 Nf3 63. h4 Kxb6 64. Nd5+ Kc5 65. Nf6 Kd6 66. Kf4
+Ke6 67. Nxh5 Nh2 68. Ng7+ Kf6 69. Nf5 Kg6 70. Ne3 1-0
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.26"]
+[Round "5"]
+[White "Havas, Ladislav"]
+[Black "Margitic, Zdravko"]
+[Result "1-0"]
+[ECO "D90"]
+[WhiteElo "2290"]
+[BlackElo "2184"]
+[PlyCount "79"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. cxd5 cxd5 6. Bf4 Bg7 7. e3 O-O 8. Be2
+Nc6 9. h3 b6 10. O-O Bb7 11. Rc1 Rc8 12. Qa4 a6 13. b4 b5 14. Qb3 e6 15. a4
+bxa4 16. Nxa4 Nd7 17. Bd6 Re8 18. Nc5 Nxc5 19. bxc5 Na5 20. Qb4 Bc6 21. Bxa6
+Ra8 22. Be2 f6 23. Qc3 Nb7 24. Bg3 Qa5 25. Qxa5 Rxa5 26. Ra1 Rea8 27. Rxa5 Rxa5
+28. Rb1 Ra2 29. Bb5 Bxb5 30. Rxb5 Na5 31. Rb8+ Kf7 32. Ra8 Ra1+ 33. Kh2 Nb3 34.
+Rc8 e5 35. dxe5 fxe5 36. Rc7+ Kf8 37. Rxg7 Kxg7 38. Bxe5+ Kf7 39. Bxa1 Nxa1 40.
+Nd4 1-0
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.26"]
+[Round "5"]
+[White "Matana, Zoran"]
+[Black "Gujic, Leonard"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "1947"]
+[BlackElo "2027"]
+[PlyCount "92"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. a3 a5 4. Nc3 c6 5. e4 dxe4 6. Nxe4 Nf6 7. Nxf6+ Qxf6 8.
+Nf3 h6 9. Bd3 Bd6 10. Bd2 Nd7 11. Bc3 Qd8 12. Qe2 Nf6 13. h3 Bd7 14. Ne5 Qc7
+15. O-O Bxe5 16. dxe5 Ng8 17. Qg4 Kf8 18. Qf3 Ne7 19. Rad1 c5 20. Rfe1 Bc6 21.
+Qe3 Ba4 22. Rb1 Bb3 23. f4 g6 24. g4 h5 25. Kg2 Ra6 26. Rh1 Ba4 27. Kf2 Bc6 28.
+Qxc5 b6 29. Qd6 Qc8 30. Rhg1 hxg4 31. h4 Bf3 32. c5 b5 33. Qd4 Nf5 34. Bxf5
+gxf5 35. Rh1 Kg7 36. Rh2 Rd8 37. Qe3 Be4 38. Rg1 Qc6 39. b4 Rd3 40. Qe2 Rxc3
+41. Rxg4+ Kf8 42. Rg8+ Kxg8 43. Qh5 Rc2+ 44. Kg3 Rxh2 45. Kxh2 Qd5 46. Qg5+ Kf8
+0-1
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.27"]
+[Round "6"]
+[White "Bartakovic, Tomislav"]
+[Black "Djodj, Goran"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2058"]
+[BlackElo "1962"]
+[PlyCount "63"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ c6 8.
+Nf3 O-O 9. Be2 Bg4 10. O-O Nd7 11. Bg5 Nf6 12. Qc2 Re8 13. Rfd1 Qa5 14. e5 Nd5
+15. Bd2 Qd8 16. h3 Bf5 17. Qb3 Qc8 18. c4 Nc7 19. Rac1 Be6 20. Qb2 f6 21. Bf4
+g5 22. Bg3 g4 23. hxg4 Bxg4 24. d5 f5 25. Qd2 Na6 26. Ng5 Nc5 27. Bxg4 fxg4 28.
+Qc2 h6 29. Qh7+ Kf8 30. e6 hxg5 31. Be5 Bf6 32. Qf7# 1-0
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.27"]
+[Round "6"]
+[White "Jakupec, Denis"]
+[Black "Gujic, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2191"]
+[BlackElo "2004"]
+[PlyCount "21"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Qc2 O-O 6. cxd5 exd5 7. Bg5 c6 8. e3
+Nbd7 9. Bd3 Re8 10. O-O Nf8 11. Rae1 1/2-1/2
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.28"]
+[Round "7"]
+[White "Gujic, Vladimir"]
+[Black "Vukusic, Marin"]
+[Result "1-0"]
+[ECO "D06"]
+[WhiteElo "2004"]
+[BlackElo "2146"]
+[PlyCount "69"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Bf5 3. c4 e6 4. Nc3 Nf6 5. Qb3 Nc6 6. a3 dxc4 7. Qxc4 Bd6 8.
+Bg5 Qd7 9. Bxf6 gxf6 10. e4 Bg6 11. g3 a6 12. Bg2 b5 13. Qe2 e5 14. Nd5 Qd8 15.
+dxe5 fxe5 16. Qc2 Ne7 17. Nxe7 Kxe7 18. Rd1 f6 19. Nh4 Rb8 20. Bh3 b4 21. Nf5+
+Bxf5 22. Bxf5 bxa3 23. bxa3 Qg8 24. Rxd6 Kxd6 25. O-O c5 26. Rd1+ Kc6 27. Qa4+
+Rb5 28. Qxa6+ Rb6 29. Qa4+ Rb5 30. Bd7+ Kc7 31. Qxb5 Qb8 32. Qc6+ Kd8 33. Be8+
+Ke7 34. Qd7+ Kf8 35. Qf7# 1-0
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.28"]
+[Round "7"]
+[White "Havas, Janko"]
+[Black "Gujic, Leonard"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "1930"]
+[BlackElo "2027"]
+[PlyCount "105"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 O-O 8. Qc2
+h6 9. Bh4 Re8 10. Nf3 Nbd7 11. O-O Nf8 12. Rab1 a5 13. a3 N6d7 14. Bg3 Bf6 15.
+b4 axb4 16. axb4 b5 17. Rfe1 Bb7 18. Nd2 Ne6 19. Nb3 Nb6 20. Na5 Qd7 21. Red1
+g6 22. Bxg6 fxg6 23. Qxg6+ Bg7 24. Be5 Re7 25. Nxb7 Qxb7 26. Bxg7 Nxg7 27. Qxh6
+Re6 28. Qh3 Qe7 29. Ne2 Ra4 30. Nf4 Rd6 31. Nd3 Nc4 32. Nc5 Ra8 33. Ra1 Rdd8
+34. Qh6 Qe8 35. h3 Rd6 36. Qg5 Kh7 37. Nd3 Rg6 38. Qf4 Re6 39. Qh4+ Rh6 40. Qf4
+Re6 41. Qh4+ Rh6 42. Qf4 Re6 43. Nc5 Rh6 44. Nd3 Re6 45. Ne1 Nb2 46. Rdb1 Nc4
+47. Nf3 Rd6 48. Ng5+ Kg6 49. Rxa8 Qxa8 50. Qh4 Nf5 51. Qg4 Nh6 52. Qg3 Nf5 53.
+Qg4 1/2-1/2
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.28"]
+[Round "7"]
+[White "Livaic, Damir"]
+[Black "Okrosa, Marijan"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "1965"]
+[BlackElo "2090"]
+[PlyCount "44"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 Nf6 5. Nf3 c6 6. Bg5 Be7 7. e3 O-O 8. h3
+Nbd7 9. Bd3 Re8 10. O-O Nf8 11. Qc2 Be6 12. Na4 Ng6 13. Nc5 Bc8 14. b4 Bd6 15.
+e4 Bxc5 16. dxc5 h6 17. Bxf6 Qxf6 18. exd5 Nf4 19. Rfe1 Nxh3+ 20. gxh3 Bxh3 21.
+Be4 Qf4 22. dxc6 Qg4+ 0-1
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.28"]
+[Round "7"]
+[White "Martinovic, Sasa"]
+[Black "Jelecevic, Ivo"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2395"]
+[BlackElo "2235"]
+[PlyCount "59"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 a6 7. b3 b5 8. Bd3 Bd6
+9. O-O b4 10. Ne2 O-O 11. Bb2 h6 12. Ne5 c5 13. Nxd7 Nxd7 14. cxd5 exd5 15.
+Bh7+ Kh8 16. Bf5 Bb7 17. Bxd7 Qxd7 18. dxc5 Rac8 19. Bxg7+ Kxg7 20. Qb2+ Kh7
+21. cxd6 Qxd6 22. Rfd1 Rg8 23. Nf4 d4 24. Qxd4 Qc6 25. Nd5 Rcd8 26. e4 Qe6 27.
+g3 f5 28. Rac1 Rg7 29. Nf6+ Kg6 30. Qxd8 1-0
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.28"]
+[Round "7"]
+[White "Ognjacevic, Alen"]
+[Black "Slamar, Velimir"]
+[Result "0-1"]
+[ECO "D41"]
+[WhiteElo "2083"]
+[BlackElo "2217"]
+[PlyCount "74"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bc4 Nc6 9. O-O O-O 10. Bb3 Bf6 11. a3 Nxc3 12. bxc3 b6 13. Bf4 Bb7 14. Re1 Rc8
+15. Qd3 g6 16. Rad1 Na5 17. Ba2 Bd5 18. Rd2 Bxa2 19. Rxa2 Qd5 20. Rc2 Nc4 21.
+Rce2 Rfd8 22. Ne5 Nxe5 23. Bxe5 Bxe5 24. Rxe5 Qc4 25. Qe4 Qxc3 26. Rxe6 Qxd4
+27. Qxd4 Rxd4 28. Re7 Ra4 29. Rb7 Rxa3 30. h3 Ra2 31. f3 Rcc2 32. Re8+ Kg7 33.
+Ree7 Rxg2+ 34. Kh1 Rgb2 35. Rxf7+ Kh6 36. Rxh7+ Kg5 37. f4+ Kxf4 0-1
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.28"]
+[Round "7"]
+[White "Tomic Potrebujes, Zlatko"]
+[Black "Fernandez Quintero, Jose Antonio"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2032"]
+[BlackElo "1958"]
+[PlyCount "37"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. f3 Nf6 4. Nc3 dxe4 5. fxe4 Bg4 6. Be2 Qc8 7. Nf3 e6 8. O-O
+Bb4 9. e5 Nd5 10. Ne4 Bf5 11. Ng3 Bg6 12. h4 h6 13. h5 Bh7 14. Bd3 Bxd3 15.
+Qxd3 Nd7 16. a3 Be7 17. Ne4 c5 18. c4 N5b6 19. d5 1/2-1/2
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Bartakovic, Tomislav"]
+[Black "Cupic, Lovro"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[WhiteElo "2058"]
+[BlackElo "1958"]
+[PlyCount "9"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 1/2-1/2
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Fernandez Quintero, Jose Antonio"]
+[Black "Hibner, Branko"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "1958"]
+[BlackElo "2080"]
+[PlyCount "109"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 Nf6 5. Qc2 Be7 6. e3 O-O 7. b3 Re8 8. Bd3
+Nbd7 9. O-O h6 10. Bb2 Qc7 11. Rfe1 Bb4 12. a3 dxc4 13. bxc4 Bf8 14. e4 e5 15.
+dxe5 Nxe5 16. Nxe5 Rxe5 17. Ne2 Re8 18. Bxf6 gxf6 19. Ng3 Qe5 20. Qe2 Bd6 21.
+Bc2 Be6 22. Qd2 Qf4 23. Qxf4 Bxf4 24. c5 b5 25. Rad1 a5 26. Ne2 Be5 27. f4 Bb2
+28. a4 Ba3 29. axb5 Bxc5+ 30. Kf1 cxb5 31. Rd3 Bc4 32. Rh3 Bf8 33. Rg3+ Kh8 34.
+Kf2 Bxe2 35. Rxe2 a4 36. Bd3 b4 37. Bc4 Bc5+ 38. Kf3 Re7 39. Ra2 Rea7 40. Rd2
+Re8 41. Ra2 b3 42. Rd2 Bb4 43. Rd5 Rc7 44. Rh5 Bf8 45. Bd5 Rc3+ 46. Kg4 b2 47.
+Ba2 Rc1 48. Rb5 a3 49. Kf5 Rc5+ 50. Rxc5 Bxc5 51. Rb3 Kg7 52. Rb7 Re7 53. Rxe7
+Bxe7 54. g4 Bd8 55. h4 1/2-1/2
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Havas, Janko"]
+[Black "Tomic Potrebujes, Zlatko"]
+[Result "0-1"]
+[ECO "D09"]
+[WhiteElo "1930"]
+[BlackElo "2032"]
+[PlyCount "82"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Nge7 7. Bg2 Nf5 8.
+O-O h5 9. h4 Be7 10. b3 g5 11. hxg5 h4 12. gxh4 Nxh4 13. Nxh4 Rxh4 14. Nf3 Rg4
+15. Qd3 Qd7 16. Qh7 O-O-O 17. Nh2 Rxg2+ 18. Kxg2 Nxe5 19. Qh4 Ng6 20. Qg3 Rh8
+21. Kg1 Bd6 22. f4 Bc5 23. Bd2 d3+ 24. e3 Rh3 25. Qf2 Nh4 26. b4 Bd6 27. c5 Be7
+28. e4 Bg4 29. c6 bxc6 30. Qxa7 Rg3+ 31. Kh1 Qe6 32. Qd4 Bf3+ 33. Rxf3 Nxf3 34.
+Qh8+ Kb7 35. b5 c5 36. Qe8 Nxd2 37. Qc6+ Qxc6 38. bxc6+ Kxc6 39. Nf1 Nxf1 40.
+Rxf1 c4 41. Kh2 Re3 0-1
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Kalajzic, Ivan"]
+[Black "Franciskovic, Vinko"]
+[Result "0-1"]
+[ECO "D05"]
+[WhiteElo "2228"]
+[BlackElo "2101"]
+[PlyCount "118"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 c6 3. e3 Nf6 4. Bd3 e6 5. O-O Be7 6. Nbd2 O-O 7. Re1 Nbd7 8. b3
+Re8 9. Bb2 Ng4 10. h3 Nh6 11. e4 f5 12. exd5 exd5 13. Nf1 Nf6 14. Ne5 Bd6 15.
+Bc1 Bb4 16. Bd2 Bxd2 17. Nxd2 Be6 18. c3 Ne4 19. Qc2 Qf6 20. f3 Ng3 21. Nf1 Nh5
+22. g3 g5 23. Re2 Re7 24. Rae1 Rae8 25. c4 Kh8 26. c5 Rg7 27. Qd2 Rge7 28. b4
+a6 29. a4 Bc8 30. b5 axb5 31. axb5 f4 32. g4 Ng7 33. bxc6 bxc6 34. Bc2 Ba6 35.
+Bd3 Bxd3 36. Qxd3 Nf7 37. Nxf7+ Qxf7 38. Nd2 Qf6 39. Nb3 Rxe2 40. Rxe2 Rxe2 41.
+Qxe2 Ne6 42. Kf1 Kg7 43. Qd3 Qh6 44. Ke1 Qxh3 45. Kd2 Qg2+ 46. Kc3 Qf2 47. Kb4
+Qe1+ 48. Qc3 Qe2 49. Ka3 Qe3 50. Kb4 Qe2 51. Ka3 Kf6 52. Kb4 Qb5+ 53. Ka3 Qc4
+54. Kb2 Qa4 55. Qd3 Kg7 56. Qf5 Qxb3+ 57. Kxb3 Nxd4+ 58. Kb4 Nxf5 59. gxf5 d4
+0-1
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Kukina, Mario"]
+[Black "Livaic, Damir"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "1999"]
+[BlackElo "1965"]
+[PlyCount "85"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. e3 Be7 5. Bd3 O-O 6. O-O b6 7. cxd5 exd5 8. Nc3
+Bg4 9. h3 Bh5 10. Be2 Nbd7 11. Re1 c6 12. b3 Bb4 13. Bd2 Bd6 14. Nh4 Bxe2 15.
+Qxe2 Re8 16. Nf5 Bf8 17. Qf3 g6 18. Ng3 Bg7 19. Rac1 Rc8 20. b4 Nf8 21. Rc2 Ne6
+22. Rec1 Qd7 23. Qd1 h5 24. a4 h4 25. Nf1 Ng5 26. Nh2 Nfe4 27. Nxe4 Nxe4 28.
+Qg4 Qxg4 29. hxg4 Re6 30. Nf3 Bf6 31. Be1 a6 32. Nd2 Nxd2 33. Bxd2 Be7 34. b5
+axb5 35. axb5 c5 36. dxc5 Rxc5 37. Rxc5 Bxc5 38. Bc3 Rxe3 39. Bd4 Re4 40. Bxc5
+bxc5 41. f3 Rb4 42. Rxc5 d4 43. Rd5 1/2-1/2
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Majer, Ivan"]
+[Black "Gujic, Leonard"]
+[Result "1-0"]
+[ECO "D53"]
+[WhiteElo "1955"]
+[BlackElo "2027"]
+[PlyCount "65"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 a6 6. e3 dxc4 7. a4 b6 8. Bxc4
+Bb7 9. O-O Nbd7 10. Qe2 O-O 11. Rfd1 c6 12. Rac1 Nd5 13. Bxe7 Qxe7 14. e4 Nb4
+15. e5 f5 16. exf6 Rxf6 17. Ne4 Rh6 18. Neg5 Nf8 19. Re1 Re8 20. Rc3 b5 21. Bb3
+Rh5 22. Nxe6 Nxe6 23. Bxe6+ Kf8 24. Re3 Qd8 25. Re4 Rh6 26. Re5 Re7 27. Ng5 g6
+28. Qd2 Qd6 29. Nf7 Rxf7 30. Qxh6+ Rg7 31. Bb3 Nd5 32. Bxd5 cxd5 33. Re7 1-0
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Okrosa, Marijan"]
+[Black "Heged, Vlado"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2090"]
+[BlackElo "2161"]
+[PlyCount "70"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. e4 dxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. a3 Bd6 8.
+Nf3 h6 9. Bd3 O-O 10. Qe2 Re8 11. Ne5 Nd7 12. f4 c5 13. Qe4 Qh4+ 14. g3 f5 15.
+Qxf5 exf5 16. gxh4 cxd4 17. Kd1 Nxe5 18. fxe5 Bxe5 19. Kc2 Bd7 20. Rf1 Bxh2 21.
+Bf4 Bxf4 22. Rxf4 Rad8 23. Rxd4 Ba4+ 24. Kc3 Rxd4 25. Kxd4 Bd7 26. Rf1 g6 27.
+b4 Kg7 28. b5 Kf6 29. c5 Be6 30. Re1 Rd8+ 31. Kc3 Rd5 32. Bc4 Re5 33. Rxe5 Kxe5
+34. Bxe6 Kxe6 35. b6 axb6 0-1
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Zigovecki, Vladimir"]
+[Black "Vukusic, Marin"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "1986"]
+[BlackElo "2146"]
+[PlyCount "110"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Be7 4. e3 Nf6 5. Nbd2 O-O 6. Bd3 a6 7. b3 dxc4 8. bxc4
+c5 9. Bb2 Nc6 10. O-O Qc7 11. a3 Rd8 12. Qc2 h6 13. h3 b6 14. Rfd1 Bb7 15. Ne4
+cxd4 16. exd4 Na5 17. Ne5 Nxe4 18. Bxe4 Rac8 19. Bh7+ Kf8 20. Bd3 Bd6 21. Rac1
+Qe7 22. Qc3 Bxe5 23. dxe5 Qg5 24. Qb4+ Kg8 25. Bf1 Rxd1 26. Rxd1 Nxc4 27. Bd4
+b5 28. a4 Bf3 29. Rd3 Be4 30. Rc3 Rd8 31. Be3 Qxe5 32. axb5 axb5 33. Be2 Ra8
+34. f3 Bd5 35. Kf2 Ra2 36. Rd3 Qb2 37. Qe1 Nxe3 38. Kxe3 Qe5+ 39. Kf2 g5 40.
+Qd1 Rxe2+ 41. Qxe2 Qxe2+ 42. Kxe2 Bc4 43. Kd2 Bxd3 44. Kxd3 e5 45. Kc3 f5 46.
+Kb4 e4 47. fxe4 fxe4 48. Kc3 Kf7 49. Kd4 Kf6 50. Kxe4 h5 51. g3 b4 52. g4 hxg4
+53. hxg4 b3 54. Kd3 Ke5 55. Kc3 Kf4 0-1
+
+[Event "Velika Gorica op 8th"]
+[Site "Velika Gorica"]
+[Date "2008.08.30"]
+[Round "9"]
+[White "Bulimbasic, Ivan"]
+[Black "Svrtan, Zlatko"]
+[Result "0-1"]
+[ECO "D03"]
+[WhiteElo "1869"]
+[BlackElo "2071"]
+[PlyCount "112"]
+[EventDate "2008.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 e6 4. e3 a6 5. a3 c5 6. dxc5 Bxc5 7. c3 Nc6 8. Be2
+O-O 9. O-O Be7 10. Nbd2 b5 11. Rc1 Na5 12. Ne5 Bb7 13. Qc2 h6 14. Bh4 Nc4 15.
+Ndf3 Qc7 16. Nd3 e5 17. Nde1 Rfe8 18. h3 Rad8 19. a4 Bc6 20. axb5 axb5 21. b3
+Nb6 22. c4 bxc4 23. bxc4 Ba4 24. Qa2 Ra8 25. c5 Bxc5 26. Nd3 Nc4 27. Nxc5 Qxc5
+28. Bxc4 dxc4 29. Bxf6 Bb5 30. Qc2 gxf6 31. Rfe1 Qc8 32. Nd2 Qe6 33. Qb2 Rab8
+34. Qc3 Red8 35. Ne4 f5 36. Ng3 Rd3 37. Qb4 Rb6 38. Qa5 Rdd6 39. Rcd1 Bd7 40.

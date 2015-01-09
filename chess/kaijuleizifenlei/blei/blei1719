@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 Nf6 6. Bc4 Bf5 7. Bd2 Qc7 8.
+Ne5 e6 9. g4 Bg6 10. Qe2 Nbd7 11. h4 O-O-O 12. h5 Nxe5 13. dxe5 Nxg4 14. hxg6
+Nxe5 15. gxh7 Rd4 16. Bb3 Bb4 17. O-O-O Ng6 18. a3 Be7 19. Bxe6+ Kb8 20. Bxf7
+Rxd2 21. Qxd2 Qa5 22. Bxg6 Bg5 23. f4 Rd8 24. h8=Q 1-0
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Koths, Peter"]
+[Black "Ghaem Maghami, Ehsan"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "1973"]
+[BlackElo "2597"]
+[PlyCount "42"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. f4 exf4 11. Rxf4 Nc6 12. Kh1 Rc8 13. Nd4 Ne5 14. Nf5 Re8 15.
+Nxe7+ Qxe7 16. Nd5 Bxd5 17. exd5 Ng6 18. Rxf6 Qxe3 19. Rxg6 hxg6 20. Bd3 Re5
+21. h3 Qg3 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Lauridsen, Jesper Morck"]
+[Black "Stark, Uwe"]
+[Result "1-0"]
+[ECO "B28"]
+[WhiteElo "2262"]
+[BlackElo "1888"]
+[PlyCount "139"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 e6 6. Be3 cxd4 7. cxd4 Nf6 8.
+Nc3 Qa5 9. Bd3 Nbd7 10. O-O Bd6 11. Nd2 Nd5 12. Nc4 Qc7 13. Nxd6+ Qxd6 14. Ne4
+Qe7 15. Bg5 f6 16. Bh4 O-O 17. Re1 Re8 18. Qd2 Nf8 19. Bg3 Rd8 20. Rac1 b6 21.
+Nc3 Bb7 22. Nxd5 Rxd5 23. Bc7 b5 24. Be4 Qd7 25. Bxd5 Qxd5 26. f3 Ng6 27. Qe3
+Re8 28. b3 Qf5 29. Bg3 h5 30. h4 Nf8 31. Qf4 Qg6 32. Kh2 Bd5 33. Qd2 Rd8 34.
+Rc7 Qf5 35. Qc2 Qxc2 36. Rxc2 a5 37. Rc5 a4 38. Rxb5 axb3 39. axb3 Rc8 40. Bd6
+Ng6 41. Kg3 Rc3 42. Rb8+ Kh7 43. b4 Rd3 44. Bc5 Rd2 45. b5 f5 46. b6 Nxh4 47.
+Kxh4 Rxg2 48. Kh3 Bxf3 49. Re3 Bd5 50. b7 Rb2 51. Ba3 Rb1 52. Bd6 Bxb7 53. Rxe6
+Rh1+ 54. Bh2 Bf3 55. Re3 Bg4+ 56. Kg2 Rd1 57. Be5 h4 58. Rb7 Rd2+ 59. Kf1 h3
+60. Rxg7+ Kh6 61. Rg8 Kh7 62. Rh8+ Kg6 63. Ra3 Kg5 64. Rg8+ Kh4 65. Bf6+ Kh5
+66. Rg5+ Kh6 67. Ra8 Rd1+ 68. Kf2 Rd2+ 69. Ke3 Re2+ 70. Kd3 1-0
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Liebscher, Sebastian"]
+[Black "Heberla, Bartlomiej"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1952"]
+[BlackElo "2510"]
+[PlyCount "78"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c5 4. d5 d6 5. c3 Nf6 6. Bd3 O-O 7. Nf3 e6 8. dxe6
+Bxe6 9. O-O d5 10. e5 Nfd7 11. Ng5 Qb6 12. Nxe6 fxe6 13. Kh1 Nc6 14. Qg4 Ncxe5
+15. fxe5 c4 16. Be2 Nxe5 17. Qg3 Rxf1+ 18. Bxf1 Rf8 19. Nd2 Rf2 20. b3 h5 21.
+h3 h4 22. Qxh4 Qe3 23. bxc4 Bf6 24. Qd4 Qe1 25. Ba3 Rxf1+ 26. Nxf1 Qxa1 27. Qf2
+Bg7 28. cxd5 exd5 29. Kh2 Qxc3 30. Qxa7 Qe1 31. Qb8+ Kh7 32. Bd6 Nf3+ 33. gxf3
+Qf2+ 34. Kh1 Qxf1+ 35. Kh2 Qf2+ 36. Kh1 Qxf3+ 37. Kh2 d4 38. Qc7 d3 39. Be5
+Qe2+ 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Mertens, Pauline"]
+[Black "Bente, Bjoern"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "1901"]
+[BlackElo "2259"]
+[PlyCount "94"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nf3 Nc6 6. Nc3 Bg4 7. cxd5 Nxd5 8.
+Be2 e6 9. O-O Be7 10. Ne5 Nxc3 11. bxc3 Bxe2 12. Qxe2 O-O 13. Bf4 Rc8 14. Rac1
+Qd7 15. Rfd1 Nxe5 16. Qxe5 Qa4 17. Qe2 Rc4 18. Qc2 Qxc2 19. Rxc2 Rfc8 20. Rd3
+b5 21. Kf1 b4 22. Bd2 Bf6 23. d5 Rd8 24. d6 Be5 25. d7 Kf8 26. Rc1 bxc3 27.
+Bxc3 Bxc3 28. Rcxc3 Rxc3 29. Rxc3 Rxd7 30. Ke2 Ke7 31. Ke3 Kd6 32. Ke4 Rb7 33.
+Rc2 Rc7 34. Rd2+ Kc6 35. Rc2+ Kb6 36. Re2 Rd7 37. Rc2 Kb5 38. Ke3 Kb4 39. Ke4
+a5 40. h4 h5 41. g3 a4 42. Kf4 Ka3 43. f3 Rb7 44. Rd2 f6 45. g4 Rb5 46. gxh5
+Rxh5 47. Kg4 Rd5 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Paehtz, Elisabeth"]
+[Black "Teuchert, Steffen"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2481"]
+[BlackElo "1943"]
+[PlyCount "45"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 gxf6 12. a3 Bb7 13. Kb1 Rc8 14. Rg1 Nb6
+15. g5 Nc4 16. Bxc4 Qxc4 17. f5 e5 18. Nb3 Qc7 19. Rg2 Qb6 20. Nd5 Bxd5 21.
+Rxd5 a5 22. gxf6 Bxf6 23. Qd3 1-0
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Schwarz, Hilmar"]
+[Black "Heck, Norbert"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1927"]
+[BlackElo "2312"]
+[PlyCount "56"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 g6 2. d4 Bg7 3. f4 d6 4. Nf3 c5 5. dxc5 Qa5+ 6. Bd2 Qxc5 7. c3 Nf6 8. Bd3
+Nbd7 9. Qe2 O-O 10. Be3 Qc7 11. Nbd2 Nc5 12. Bc2 b6 13. O-O Ng4 14. Bd4 e5 15.
+fxe5 dxe5 16. Bf2 Ba6 17. c4 Nxf2 18. Rxf2 Ne6 19. Qe3 Nd4 20. Bd3 Rad8 21. Rc1
+Qc5 22. Kh1 Nxf3 23. Qxc5 bxc5 24. Rxf3 Bh6 25. Rc2 Bxd2 26. Rxd2 Bxc4 27. b3
+Ba6 28. Kg1 Rd4 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Stark, Saskia"]
+[Black "Koehn, Peter"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "1926"]
+[BlackElo "2285"]
+[PlyCount "106"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 e6 3. f4 Nc6 4. Nf3 d6 5. Bc4 a6 6. a4 Be7 7. d3 Nf6 8. O-O O-O
+9. Qe1 d5 10. Ba2 Nd4 11. Nxd4 cxd4 12. Nb1 dxe4 13. dxe4 Bd7 14. Bc4 Bc6 15.
+Bd3 e5 16. Nd2 Nd7 17. Nf3 Bf6 18. Qg3 Qe7 19. fxe5 Bxe5 20. Nxe5 Nxe5 21. Bg5
+f6 22. Bf4 Rfe8 23. a5 Rad8 24. Bd2 Bd7 25. Rae1 Be6 26. b4 Rc8 27. Rf2 Bf7 28.
+h3 Bg6 29. Rb1 Qd7 30. Re2 Re7 31. b5 axb5 32. Bxb5 Qc7 33. Bb4 Re6 34. Qf2 Nf7
+35. Qxd4 Qe5 36. Qxe5 Rxe5 37. Bd3 Rce8 38. Bc3 R5e7 39. Rb4 Nd6 40. Rb6 Nxe4
+41. Bb4 Rc7 42. Bb5 Rd8 43. Ba4 h5 44. Bb3+ Kh7 45. Be1 Rd1 46. Kh2 Ra1 47. Re6
+f5 48. Rb6 Rd7 49. c4 Bf7 50. Bc2 Bxc4 51. Bxe4 fxe4 52. Rxe4 Bd5 53. Re5 Bc6
+1/2-1/2
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Svetushkin, Dmitry"]
+[Black "Langer, Wolfgang2"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2587"]
+[BlackElo "1970"]
+[PlyCount "57"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d6 2. d4 Nf6 3. f3 e5 4. d5 Be7 5. Be3 c6 6. c4 O-O 7. Nc3 Kh8 8. Qd2
+cxd5 9. cxd5 Ng8 10. Bd3 g6 11. Nge2 Nd7 12. O-O Nc5 13. Bc2 f5 14. exf5 gxf5
+15. f4 Nf6 16. Kh1 b6 17. Rad1 Ne8 18. Ng3 Ba6 19. Rg1 e4 20. b4 Nd7 21. b5 Bb7
+22. Nge2 Ng7 23. Nd4 Nf6 24. Nc6 Bxc6 25. dxc6 Qc7 26. Nd5 Nxd5 27. Qxd5 Rad8
+28. Bb3 Bf6 29. g4 1-0
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Wiese, Phil"]
+[Black "Horvath, Peter"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1949"]
+[BlackElo "2490"]
+[PlyCount "46"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Na3 Nc6 7. Be3 cxd4 8.
+Nb5 Qd8 9. Nbxd4 Nxd4 10. Qxd4 Qxd4 11. Bxd4 Bd6 12. Rd1 Ke7 13. Bd3 Rd8 14.
+O-O b6 15. Ne5 Bb7 16. Rd2 Ne4 17. Bxe4 Bxe4 18. Nc4 Bf4 19. Be3 Bxe3 20. fxe3
+Bd5 21. Ne5 f6 22. Nf3 Bxa2 23. Nd4 Bd5 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Zozulia, Anna"]
+[Black "Catrais, Michael"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2346"]
+[BlackElo "1919"]
+[PlyCount "53"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. h3 Qb6 8. Ba4
+Re8 9. e5 Nd5 10. d4 cxd4 11. cxd4 Rd8 12. Bb3 e6 13. Na3 Na5 14. Bxd5 exd5 15.
+Bg5 Re8 16. Qa4 Re6 17. Rac1 d6 18. exd6 Nc6 19. Nb5 Rxe1+ 20. Rxe1 Bd7 21. Nc7
+Ne5 22. Nxa8 Nxf3+ 23. gxf3 Bxa4 24. Nxb6 axb6 25. b3 Bc6 26. Re7 Bf8 27. Rxb7
+1-0
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Barz, Hans Werner"]
+[Black "Pitschka, Klaus"]
+[Result "0-1"]
+[ECO "B05"]
+[WhiteElo "2048"]
+[BlackElo "2301"]
+[PlyCount "86"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. c4 Nc7 7. exd6 exd6 8. O-O
+Be7 9. Nc3 Nd7 10. h3 Bh5 11. Bf4 O-O 12. d5 c5 13. Ne4 Ne8 14. Ng3 Bxf3 15.
+Bxf3 Bf6 16. Rb1 Be5 17. Bd2 Nef6 18. Qc2 g6 19. b3 b5 20. Ne4 Nxe4 21. Bxe4 a6
+22. f4 Bd4+ 23. Kh1 f5 24. Bd3 bxc4 25. bxc4 Nf6 26. g3 Ra7 27. Rfe1 Re8 28.
+Rxe8+ Qxe8 29. Re1 Re7 30. Rxe7 Qxe7 31. Qb1 Ne4 32. Bxe4 fxe4 33. Be1 Kg7 34.
+Qb6 e3 35. Qb1 Qd7 36. Qe4 h5 37. Kg2 Qa4 38. Qe7+ Kh6 39. Qg5+ Kh7 40. Qe7+
+Bg7 41. Qxe3 Qxa2+ 42. Bd2 Qxc4 43. Qf3 Qa2 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Cotenescu, Daniel"]
+[Black "Hansch, Torsten"]
+[Result "0-1"]
+[ECO "B52"]
+[WhiteElo "1996"]
+[BlackElo "2226"]
+[PlyCount "102"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Re1 g6 9. Nc3 Bg7 10. f4 O-O 11. Nf3 Rfd8 12. Qe2 Rac8 13. Kh1 Nh5 14. Bd2
+Qg4 15. Ng1 Qh4 16. Nh3 Nd4 17. Qd3 e6 18. f5 Qg4 19. Bg5 gxf5 20. exf5 f6 21.
+Re4 Qxf5 22. g4 Qf3+ 23. Qxf3 Nxf3 24. Bc1 f5 25. gxf5 exf5 26. Rb4 Bxc3 27.
+bxc3 Rxc3 28. Ng5 Nxg5 29. Bxg5 Rd7 30. Rg1 Kf7 31. Rh4 Nf6 32. Rh6 Ne4 33.
+Rxh7+ Ke6 34. Rh6+ Kd5 35. Rd1+ Ke5 36. Bh4 Rxc2 37. Re1 d5 38. Bf6+ Ke6 39.
+Bd8+ Ke5 40. Bf6+ Kd6 41. Bd4+ Kc7 42. Bxa7 b5 43. Bb6+ Kb7 44. Bd4 f4 45. a4
+Rc4 46. Rd1 f3 47. Rb6+ Kc8 48. axb5 Rh7 49. Rc6+ Rxc6 50. bxc6 Kc7 51. Rc1
+Ng3+ 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Fedorchuk, Sergey A"]
+[Black "Neumann, Michael"]
+[Result "1-0"]
+[ECO "B45"]
+[WhiteElo "2624"]
+[BlackElo "2150"]
+[PlyCount "135"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Ne4 Qc7 9. f4 Qb6 10. Bd3 Ba6 11. Bxa6 Qxa6 12. Qe2 Qxe2+ 13. Kxe2 f5 14. Nf2
+a5 15. Rd1 h6 16. Kf3 Rg8 17. Bd2 g5 18. g3 Be7 19. c4 Nc7 20. Be3 Na6 21. Rd2
+Bb4 22. Rd3 g4+ 23. Kg2 Bc5 24. h3 h5 25. Rh1 Bxe3 26. Rxe3 Nc5 27. Ra3 Kf7 28.
+hxg4 hxg4 29. Nd3 Nxd3 30. Rxd3 Rgd8 31. Rh7+ Ke8 32. Kf2 Rab8 33. b3 a4 34.
+Ke3 axb3 35. axb3 c5 36. Rh1 Ra8 37. Rh8+ Ke7 38. Rh7+ Ke8 39. Rdxd7 Rxd7 40.
+Rh8+ Ke7 41. Rxa8 Rb7 42. Ra3 Kd7 43. Kd3 Rb8 44. Ra7+ Kc6 45. Kc3 Rh8 46. Ra6+
+Kc7 47. Rxe6 Rh3 48. Rf6 Rxg3+ 49. Kb2 Rf3 50. Rxf5 g3 51. Rg5 Rxf4 52. Rxg3
+Re4 53. Rg7+ Kc6 54. Rg6+ Kc7 55. Re6 Re1 56. Kc3 Re3+ 57. Kc2 Re1 58. Kd3 Kd7
+59. Rd6+ Kc7 60. Rd5 Kc6 61. Kc3 Re3+ 62. Kb2 Re1 63. Ka2 Re3 64. Ka3 Re4 65.
+Ka4 Re1 66. Rd6+ Kc7 67. Kb5 Rxe5 68. Rc6+ 1-0
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Heberla, Bartlomiej"]
+[Black "Schoengart, Ralf"]
+[Result "1-0"]
+[ECO "B16"]
+[WhiteElo "2510"]
+[BlackElo "2103"]
+[PlyCount "51"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3 Qc7 8.
+g3 Nd7 9. Bg2 e6 10. O-O O-O-O 11. Nh4 Bg6 12. b4 Nb6 13. Nxg6 hxg6 14. Qb3 f5
+15. a4 Be7 16. b5 cxb5 17. axb5 Kb8 18. Qa2 Nc8 19. b6 Nxb6 20. Qxa7+ Kc8 21.
+Rb1 Nd5 22. c4 Nc3 23. Bxb7+ Kd7 24. Rb6 Ne2+ 25. Kg2 Nxd4 26. Qa4+ 1-0
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Klein, Raimund"]
+[Black "Lauridsen, Jesper Morck"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2037"]
+[BlackElo "2262"]
+[PlyCount "74"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 e6 6. Bc4 d6 7. Nf3 Nc6 8. O-O
+dxe5 9. dxe5 Be7 10. Qe2 Nb6 11. Rd1 Bd7 12. Bb3 O-O 13. Nc3 Na5 14. Bc2 Qc7
+15. Ng5 Bxg5 16. Bxg5 Rfc8 17. f4 Nac4 18. Qh5 g6 19. Qh4 Qc5+ 20. Kh1 Bc6 21.
+Be4 Nxb2 22. Bxc6 Nxd1 23. Rxd1 Qxc3 24. Bxb7 Qd2 25. Rg1 Rc1 26. Bxa8 Qe3 27.
+Qf2 Qxf2 28. Rxc1 Qd2 29. Rb1 Qc2 30. Be4 Qxe4 31. Rd1 Nd5 32. Bh6 Qc2 33. Rg1
+Ne3 34. h3 Nf5 35. Bg5 h6 36. Bf6 Ng3+ 37. Kh2 Nh5 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Kliebe, Harry"]
+[Black "Heinig, Wolfram"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "2056"]
+[BlackElo "2332"]
+[PlyCount "58"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Nxc6 dxc6 8.
+Be3 Nf6 9. O-O e5 10. f3 Nd7 11. Kh1 Bc5 12. Bd2 Nf8 13. Qe1 Ng6 14. Ne2 O-O
+15. f4 exf4 16. Nxf4 Nxf4 17. Bxf4 Qe7 18. Qg3 Be6 19. e5 g6 20. Bg5 Qc7 21.
+Bf6 Rfe8 22. Rf4 Be7 23. Qg5 Bd5 24. c4 Be6 25. Rh4 Qd8 26. Bxe7 Qxe7 27. Qh6
+f5 28. exf6 Qf7 29. b3 Rad8 1/2-1/2
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Kovalev, Andrei"]
+[Black "Osmanovic, Faruk"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2550"]
+[BlackElo "2132"]
+[PlyCount "55"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Re1 a6 6. Bxc6 bxc6 7. h3 e5 8. c3
+Ne7 9. d4 cxd4 10. cxd4 Ng6 11. Nc3 Be7 12. dxe5 dxe5 13. Be3 Qa5 14. Qa4 Bb4
+15. Qxa5 Bxa5 16. Red1 f5 17. exf5 Bxf5 18. Bc5 Bc7 19. Rd2 h6 20. Rad1 Rc8 21.
+Na4 Kf7 22. Bb6 Rhe8 23. Bxc7 Rxc7 24. Nc5 Bc8 25. Re1 Rce7 26. Rd6 Rc7 27. Re3
+Ke7 28. Rxg6 1-0
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Krulich, Roman"]
+[Black "Morgenstern, Petra"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2239"]
+[BlackElo "2015"]
+[PlyCount "76"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. dxc5 Qxd1+ 7. Kxd1 e5 8.
+b4 e4 9. h3 exf3 10. hxg4 Nxg4 11. Ke1 fxg2 12. Bxg2 Nc6 13. Bf4 Be7 14. Nd2
+O-O 15. Nc4 Rfe8 16. Kf1 Bf6 17. Rc1 Be5 18. Bxe5 Ngxe5 19. Nd6 Re7 20. Re1 Rb8
+21. Rh3 Ng6 22. Rhe3 Rxe3 23. Rxe3 Nce5 24. Bxb7 Ng4 25. Re1 Nf4 26. Re7 f6 27.
+f3 Ne5 28. c6 Nxc6 29. Bxc6 Rd8 30. Re8+ Rxe8 31. Bxe8 Kf8 32. Bb5 Nd5 33. Nc8
+a5 34. a4 Nc7 35. Nd6 Ke7 36. Nc4 Nxb5 37. axb5 a4 38. b6 Kd7 1-0
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Le Ruyet, Leopold"]
+[Black "Wigger, Jochen"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2047"]
+[BlackElo "2291"]
+[PlyCount "42"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. c4 Nc6 5. Nf3 e6 6. Nc3 cxd4 7. Nxd4 Bb4 8. Nxc6
+bxc6 9. Bd2 Ne7 10. a3 Ba5 11. Bd3 Ba6 12. Qe2 O-O 13. O-O dxc4 14. Bc2 Qc7 15.
+Bg5 Ng6 16. Rfe1 Rab8 17. Bb1 Rb3 18. Qc2 Rfb8 19. Bc1 Bxc3 20. bxc3 R3b5 21.
+Bf4 Rxb1 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Meissner, Felix"]
+[Black "Naumann, Alexander"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2101"]
+[BlackElo "2502"]
+[PlyCount "88"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. Bxf6 gxf6 10. e5 d5 11. exf6 b4 12. Nd1 Bc5 13. Nb3 Bb6 14. Bd3 Bb7 15.
+Nf2 Nd7 16. O-O-O Nxf6 17. Rhe1 O-O-O 18. g3 Kb8 19. Rd2 a5 20. Kb1 a4 21. Nc1
+Ne4 22. Bxe4 dxe4 23. Rxd8+ Rxd8 24. Qe2 f5 25. Nd1 Qc5 26. Qh5 Rc8 27. Ne3 Qc6
+28. Qd1 Ba6 29. Qd2 Ba5 30. Qd4 Rd8 31. Qe5+ Bc7 32. Qg7 Bb6 33. Qe7 Rd6 34.
+Qf8+ Ka7 35. Qe7+ Qd7 36. Qf8 Qc7 37. Qe8 Qd7 38. Qf8 Bb5 39. h4 Qc7 40. Nxf5
+exf5 41. Qxf5 Bc6 42. h5 Rd2 43. Re2 e3 44. h6 Bf3 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Mueller, Peter"]
+[Black "Kunz, Konstantin"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[WhiteElo "2011"]
+[BlackElo "2231"]
+[PlyCount "113"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3
+Be7 9. Bd3 Ne5 10. O-O O-O 11. Nc2 Qc7 12. Ne3 b6 13. Be2 Bb7 14. f4 Ng6 15.
+Bd3 Nd7 16. Bd2 Bf6 17. Rc1 Rac8 18. b4 Qd8 19. Ne2 Re8 20. Ng4 Be7 21. Bc3 Nf6
+22. Ng3 Nxg4 23. Qxg4 Bf6 24. Bxf6 Qxf6 25. e5 dxe5 26. Be4 Bxe4 27. Nxe4 Qe7
+28. fxe5 Nxe5 29. Qg3 f5 30. Qxe5 fxe4 31. a3 a5 32. c5 bxc5 33. bxc5 Rc6 34.
+Rfe1 Rec8 35. Rxe4 Rxc5 36. Rxc5 Qxc5+ 37. Re3 Qc1+ 38. Re1 Qc5+ 39. Re3 Qd5
+40. Qxe6+ Qxe6 41. Rxe6 Rc3 42. Re7 Rxa3 43. h3 a4 44. Ra7 h6 45. h4 h5 46. Ra5
+g6 47. Ra7 Ra1+ 48. Kh2 a3 49. Kg3 a2 50. Kh2 Kf8 51. Kg3 Ke8 52. Kh2 Kd8 53.
+Kg3 Kc8 54. Kh2 Kb8 55. Ra6 Kb7 56. Ra5 Kb6 57. Ra3 1/2-1/2
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Nuber, Korbinian"]
+[Black "Svetushkin, Dmitry"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2140"]
+[BlackElo "2587"]
+[PlyCount "157"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Bf5 5. Bf3 e6 6. Ne2 Nf6 7. Nd2 Bd6 8.
+Nc4 Bc7 9. O-O Nbd7 10. Bf4 Qb8 11. Bxc7 Qxc7 12. Ng3 Bg6 13. Qe2 O-O 14. Ne5
+Nxe5 15. dxe5 Nd5 16. Rad1 Rad8 17. Bxd5 cxd5 18. c3 Qc4 19. Qxc4 dxc4 20. f4
+Bd3 21. Rf2 f6 22. exf6 gxf6 23. Rfd2 e5 24. fxe5 fxe5 25. Ne4 Rde8 26. Re1 Rf4
+27. Nc5 Bg6 28. Nxb7 e4 29. Re3 Ref8 30. h3 h5 31. Nd6 Rf1+ 32. Kh2 h4 33. Nxe4
+Ra1 34. a3 Rb1 35. Nf2 Rf7 36. g3 Rb7 37. Ree2 hxg3+ 38. Kxg3 Rg1+ 39. Kh2 Rg5
+40. Ng4 Kg7 41. Ne5 Bf5 42. Rg2 Kf6 43. Rxg5 Kxg5 44. Rg2+ Kf4 45. Nxc4 Bd3 46.
+Rf2+ Kg5 47. Nd6 Re7 48. Rd2 Re3 49. c4 Kf4 50. c5 Ke5 51. b4 a6 52. h4 Ke6 53.
+h5 Bh7 54. c6 Rc3 55. Nb7 Bf5 56. Nc5+ Ke7 57. Rd5 Bc8 58. Rd3 Rc4 59. c7 a5
+60. Rd8 Bf5 61. c8=Q Bxc8 62. Rxc8 axb4 63. axb4 Rxb4 64. Kg3 Kf6 65. Rg8 Rb1
+66. Kg2 Rb4 67. Kh3 Rb1 68. Ne4+ Kf7 69. Rg5 Rb4 70. Rg4 Rb1 71. Ng3 Rb2 72.
+Kh4 Rh2+ 73. Kg5 Kg7 74. h6+ Kh7 75. Nh5 Ra2 76. Nf6+ Kh8 77. Kg6 Rh2 78. Kf7
+Rg2 79. Rg7 1-0
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Rutz, Matthias"]
+[Black "Maiwald, Jens Uwe"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2099"]
+[BlackElo "2500"]
+[PlyCount "50"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 g6 2. e4 d6 3. Nc3 c6 4. g3 Nf6 5. Bg2 Bg7 6. Nge2 O-O 7. O-O e5 8. h3 b5
+9. a3 Nbd7 10. Be3 Bb7 11. f4 a5 12. fxe5 dxe5 13. d5 Re8 14. dxc6 Bxc6 15. Nd5
+Bxd5 16. exd5 Nb6 17. Bg5 Nc4 18. b3 Qb6+ 19. Kh2 Ne3 20. Bxe3 Qxe3 21. Rf3 Qh6
+22. Qf1 Ng4+ 23. Kg1 e4 24. Rxf7 Ne3 25. Rxg7+ Qxg7 0-1
+
+[Event "Dresden ZMD op"]
+[Site "Dresden"]
+[Date "2008.07.20"]

@@ -1,0 +1,600 @@
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. e3 e6 5. Qc2 Be7 6. b3 a6 7. Bb2 b5 8. Rc1 Bb7
+9. Be2 Nbd7 10. d4 Bb4 11. O-O Rc8 12. c5 Qe7 13. a3 Ba5 14. b4 Bc7 15. Bd3 O-O
+16. Rfe1 Rce8 17. e4 dxe4 18. Nxe4 h6 19. Qd2 Nxe4 20. Bxe4 Nf6 21. Bb1 Nd5 22.
+Qd3 g6 23. Rcd1 Ra8 24. Bc1 Kg7 25. Ba2 Qf6 26. Ne5 Bxe5 27. dxe5 Qe7 28. Qh3
+Rh8 29. Rd4 Rh7 30. Bb1 a5 31. Rh4 Rah8 32. Qg3 axb4 33. axb4 Ra8 34. Rg4 Qe8
+35. h4 h5 36. Rd4 Ra4 37. Bd2 Qa8 38. Kh2 Ra3 39. f3 Rb3 40. Be4 Ra3 41. Bg5
+Ra1 42. Rxd5 cxd5 43. Bf6+ Kf8 44. Rxa1 Qxa1 45. Bxg6 fxg6 46. Qxg6 Qe1 47.
+Qxh7 1-0
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.19"]
+[Round "3"]
+[White "Savoglou, Nikolaos"]
+[Black "Koukoufikis, Alexandros"]
+[Result "0-1"]
+[ECO "A42"]
+[WhiteElo "2023"]
+[BlackElo "2252"]
+[PlyCount "34"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 g6 2. c4 Bg7 3. e4 d6 4. Nc3 Na6 5. Nf3 c5 6. Be3 Bd7 7. Qd2 Nf6 8. Be2
+Ng4 9. Bg5 cxd4 10. Nxd4 h6 11. Bh4 Bxd4 12. Qxd4 e5 13. Bxd8 exd4 14. Bxg4
+Kxd8 15. Bxd7 dxc3 16. Bb5 cxb2 17. Rb1 Nc5 0-1
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.20"]
+[Round "4"]
+[White "Goumas, Georgios"]
+[Black "Georgiadis, Ioannis"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2276"]
+[BlackElo "2373"]
+[PlyCount "13"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 Qd5 4. Nc3 Qd8 5. Ne4 Qd5 6. Nc3 Qd8 7. Ne4
+1/2-1/2
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.20"]
+[Round "4"]
+[White "Mylonas, Konstantinos"]
+[Black "Gortsilas, Elias"]
+[Result "0-1"]
+[ECO "A06"]
+[WhiteElo "2025"]
+[PlyCount "52"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 Bf5 4. Nf3 c6 5. Be2 h6 6. O-O e6 7. d4 Be7 8. c4 O-O
+9. Nc3 a6 10. c5 Nbd7 11. b4 Qc7 12. a4 Rfb8 13. b5 axb5 14. axb5 Rxa1 15. Qxa1
+Qc8 16. Qa4 Ra8 17. Qb4 b6 18. bxc6 Qxc6 19. Bb5 Qc7 20. cxb6 Nxb6 21. Qb3 Nc4
+22. Ra1 Rb8 23. Ra6 Ne4 24. Nxe4 Bxe4 25. Bc3 Nd6 26. Rc6 Qxc6 0-1
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.21"]
+[Round "5"]
+[White "Gelashvili, Tamaz"]
+[Black "Koukoufikis, Alexandros"]
+[Result "1-0"]
+[ECO "A12"]
+[WhiteElo "2612"]
+[BlackElo "2252"]
+[PlyCount "65"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. e3 d5 3. c4 c6 4. b3 Bg4 5. Bb2 e6 6. Be2 Nbd7 7. h3 Bh5 8. d3
+Bd6 9. cxd5 exd5 10. g4 Bg6 11. g5 Nh5 12. Rg1 h6 13. h4 Qe7 14. Nc3 O-O-O 15.
+Qc2 Kb8 16. O-O-O Ba3 17. Bxa3 Qxa3+ 18. Qb2 Qe7 19. b4 Ne5 20. Nd4 c5 21. bxc5
+Qxc5 22. Kd2 Nc6 23. Rb1 Rd7 24. Qb5 Qxb5 25. Ncxb5 Ne7 26. f4 hxg5 27. hxg5 f6
+28. Bg4 f5 29. Bd1 Bf7 30. Nf3 Rdd8 31. Nbd4 g6 32. Ne5 Bg8 33. Nec6+ 1-0
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.21"]
+[Round "5"]
+[White "Gortsilas, Elias"]
+[Black "Goumas, Georgios"]
+[Result "0-1"]
+[ECO "A05"]
+[BlackElo "2276"]
+[PlyCount "58"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d3 g6 4. g3 Bg7 5. Bg2 Nf6 6. O-O O-O 7. Nbd2 Nc6 8. c3
+Bd7 9. Re1 Rc8 10. Nf1 b5 11. Bf4 b4 12. Qd2 Qa5 13. Bh6 bxc3 14. bxc3 Bxh6 15.
+Qxh6 Qxc3 16. Ng5 Nd4 17. Ne3 Be6 18. Kh1 c4 19. Bh3 Rc7 20. Bxe6 fxe6 21. Ng4
+cxd3 22. Rec1 Qa5 23. Rc4 e5 24. Rxd4 exd4 25. Ne6 Rf7 26. Rb1 Rc8 27. Qc1
+Rxc1+ 28. Rxc1 Rf8 29. Nh6+ Kh8 0-1
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.21"]
+[Round "5"]
+[White "Pappelis, Dimitrios"]
+[Black "Tsangaris, Spyridon"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "1889"]
+[BlackElo "2010"]
+[PlyCount "77"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 Bf5 4. e3 e6 5. Be2 Be7 6. O-O O-O 7. Nh4 Bg6 8.
+Nxg6 hxg6 9. d4 Kh7 10. c4 c6 11. Nd2 Rh8 12. Rc1 a5 13. Qc2 Kg8 14. e4 dxe4
+15. Nxe4 Nxe4 16. Qxe4 Rh4 17. f4 Nd7 18. g3 Nf6 19. Qc2 Rh6 20. Rfd1 Qb6 21.
+Kg2 Rd8 22. Bf3 Ne8 23. Qe2 Bf6 24. Qf2 g5 25. fxg5 Bxg5 26. Rc2 a4 27. bxa4
+Qa5 28. Ba1 Nd6 29. d5 Nf5 30. Re2 cxd5 31. cxd5 Qxa4 32. Re5 Qa3 33. dxe6 Rxd1
+34. exf7+ Kf8 35. Rxf5 Be3 36. Qxe3 Qxe3 37. Bxg7+ Ke7 38. f8=Q+ Kd7 39. Rf7+
+1-0
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.21"]
+[Round "5"]
+[White "Soultatis, Konstantinos"]
+[Black "Nikolakopoulos, Nikolaos"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2133"]
+[BlackElo "1967"]
+[PlyCount "113"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. d5 d6 7. e4 g6 8. Nd2
+Bg7 9. Nc4 Qd8 10. a4 O-O 11. Bd3 Nbd7 12. Qd2 a5 13. g4 Nb6 14. Ne2 Nxc4 15.
+Bxc4 Nd7 16. Ng3 Nb6 17. Be2 Bd7 18. Bh6 Nxa4 19. h4 Qb6 20. Bxg7 Kxg7 21. Rb1
+c4 22. h5 Rh8 23. h6+ Kf8 24. Bxc4 Rc8 25. Bd3 Nc5 26. Ne2 Nb3 27. Qf4 Bb5 28.
+Bxb5 Qxb5 29. Qe3 Ke8 30. O-O Qc5 31. Qxc5 Rxc5 32. Rbd1 Kd7 33. f4 f6 34. e5
+fxe5 35. fxe5 dxe5 36. Kg2 Rcc8 37. Rf7 Rcf8 38. Rdf1 Rxf7 39. Rxf7 Ke8 40. Rg7
+Nc5 41. c4 Nd7 42. Nc3 Nf6 43. Kg3 Kd8 44. c5 e4 45. d6 exd6 46. cxd6 Kc8 47.
+Rc7+ Kb8 48. Rf7 Ne8 49. Nxe4 b5 50. d7 Nc7 51. Rxh7 Rf8 52. Rf7 Rh8 53. h7 Ne6
+54. Re7 Nc7 55. Nf6 Kb7 56. Ne8 Nxe8 57. d8=Q+ 1-0
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.21"]
+[Round "6"]
+[White "Delis, Georgios"]
+[Black "Georgiadis, Ioannis"]
+[Result "0-1"]
+[ECO "A44"]
+[WhiteElo "1988"]
+[BlackElo "2373"]
+[PlyCount "66"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 c5 2. d5 d6 3. c4 e5 4. e4 Be7 5. Bd3 Bg5 6. Nd2 Ne7 7. Ne2 O-O 8. O-O
+Ng6 9. a3 Nd7 10. b4 a5 11. b5 Nf6 12. a4 Nh5 13. Ng3 Nhf4 14. Nf3 Bg4 15. Be2
+Nxe2+ 16. Qxe2 Bxc1 17. Raxc1 Nh4 18. Kh1 f5 19. exf5 Bxf3 20. gxf3 Nxf5 21.
+Nxf5 Rxf5 22. Rg1 Qf6 23. Rg3 Rf8 24. Rc3 e4 25. Rc1 exf3 26. Qd2 Re5 27. Qxa5
+Qh6 28. Rcg1 Rh5 29. Rxg7+ Kh8 30. Rg8+ Rxg8 31. Rxg8+ Kxg8 32. Qd8+ Qf8 33.
+Qd7 Re5 0-1
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.21"]
+[Round "6"]
+[White "Goumas, Georgios"]
+[Black "Nikolaidis, Ioannis"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2276"]
+[BlackElo "2516"]
+[PlyCount "52"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 e6 3. e3 b6 4. Bd3 Bb7 5. O-O c5 6. b3 Nc6 7. a3 Rc8 8. Bb2
+cxd4 9. exd4 d5 10. Nbd2 g6 11. Ne5 Bg7 12. f4 O-O 13. Qf3 Ne8 14. Qh3 Nc7 15.
+Rae1 Ne7 16. Nef3 Ba6 17. c4 dxc4 18. bxc4 b5 19. c5 Nf5 20. Ne5 Bb7 21. Ne4 h5
+22. Ng5 Nd5 23. Bc1 Nf6 24. Bb2 Nd5 25. Bc1 Nde7 26. Bb2 Nd5 1/2-1/2
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.21"]
+[Round "6"]
+[White "Koukoufikis, Alexandros"]
+[Black "Aggelis, Nikolaos"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2252"]
+[BlackElo "2271"]
+[PlyCount "44"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 g6 3. b3 Bg7 4. Bb2 O-O 5. g3 b6 6. Bg2 Bb7 7. O-O c5 8. d4
+cxd4 9. Nxd4 Bxg2 10. Kxg2 d5 11. Na3 dxc4 12. Nxc4 Qd5+ 13. Nf3 Nc6 14. Qxd5
+Nxd5 15. Bxg7 Kxg7 16. Rac1 Rac8 17. Nce5 Nxe5 18. Nxe5 Rfd8 19. Rfd1 Rxc1 20.
+Rxc1 f6 21. Nf3 Rd7 22. Rc4 e5 1/2-1/2
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.22"]
+[Round "7"]
+[White "Aggelis, Nikolaos"]
+[Black "Delis, Georgios"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2271"]
+[BlackElo "1988"]
+[PlyCount "93"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 c5 2. g3 b5 3. Bg2 Bb7 4. O-O Nf6 5. b3 e6 6. Bb2 Be7 7. d4 cxd4 8. Nxd4
+Bxg2 9. Kxg2 a6 10. Nd2 Nc6 11. Nxc6 dxc6 12. c4 O-O 13. Qc2 Qb6 14. Rfd1 Ng4
+15. Ne4 Qxf2+ 16. Nxf2 Ne3+ 17. Kf3 Nxc2 18. Rac1 Na3 19. Rd7 Rfe8 20. Rxe7
+Rxe7 21. Bxa3 Rd7 22. Ke3 a5 23. Bc5 a4 24. b4 f6 25. cxb5 cxb5 26. Rd1 Rad8
+27. Rd3 f5 28. Nd1 e5 29. Nc3 g5 30. Rxd7 Rxd7 31. Nxb5 f4+ 32. gxf4 exf4+ 33.
+Ke4 Rd2 34. Nc3 Rc2 35. Kd3 Rb2 36. b5 h5 37. b6 g4 38. Nxa4 Rb5 39. Nc3 Rb2
+40. Nd1 Rb5 41. Kc4 Rb1 42. Nc3 Rb2 43. Bb4 Rd2 44. b7 Rd8 45. Bd6 f3 46. exf3
+gxf3 47. Ne4 1-0
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.22"]
+[Round "7"]
+[White "Goumas, Georgios"]
+[Black "Banikas, Hristos"]
+[Result "0-1"]
+[ECO "A15"]
+[WhiteElo "2276"]
+[BlackElo "2572"]
+[PlyCount "72"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. e3 g6 3. b4 Bg7 4. Bb2 O-O 5. c4 d6 6. d3 e5 7. Nc3 a6 8. Be2 Nc6
+9. Qb3 b5 10. O-O Rb8 11. a3 Be6 12. Qc2 Bd7 13. Rac1 Ne8 14. Nd5 f5 15. d4 e4
+16. Nd2 Ne7 17. Nxe7+ Qxe7 18. d5 Bxb2 19. Qxb2 Nf6 20. Nb3 bxc4 21. Bxc4 Rb6
+22. Nd4 Qe5 23. Qc3 Rc8 24. Nc6 Qxc3 25. Rxc3 Bxc6 26. dxc6+ Kf8 27. Be2 Re8
+28. Rb1 Re5 29. Kf1 Rc5 30. Rxc5 dxc5 31. b5 axb5 32. Bxb5 Nd5 33. a4 Nc3 34.
+Rb3 Nxb5 35. axb5 Ke7 36. Rb1 c4 0-1
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.23"]
+[Round "8"]
+[White "Kakadelis, Efstratios"]
+[Black "Pappelis, Dimitrios"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "2138"]
+[BlackElo "1889"]
+[PlyCount "66"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. Bg2 Nf6 5. d4 Be7 6. Nf3 e4 7. Ng5 c6 8. h4 Na6
+9. a3 O-O 10. O-O Nc7 11. d5 Nd7 12. Qb3 c5 13. Nh3 Ne5 14. Bg5 b6 15. Nd1 Bd7
+16. Ne3 Bxg5 17. Nxg5 h6 18. Nh3 g5 19. hxg5 hxg5 20. f4 exf3 21. exf3 f4 22.
+gxf4 gxf4 23. Ng4 Qh4 24. Nhf2 Rae8 25. Nxe5 Rxe5 26. Ne4 b5 27. Rf2 bxc4 28.
+Qb7 Qd8 29. Nxd6 Rxd5 30. Nxc4 Bb5 31. b3 Rf6 32. Raa2 Ba6 33. Qxa7 Nb5 0-1
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.23"]
+[Round "8"]
+[White "Koukoufikis, Alexandros"]
+[Black "Georgiadis, Ioannis"]
+[Result "0-1"]
+[ECO "A15"]
+[WhiteElo "2252"]
+[BlackElo "2373"]
+[PlyCount "76"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. e3 g6 3. b4 Bg7 4. Bb2 O-O 5. c4 d6 6. Nc3 e5 7. d3 Re8 8. Qc2 a5
+9. a3 axb4 10. axb4 Rxa1+ 11. Bxa1 Na6 12. b5 Nc5 13. Be2 Bf5 14. Nd2 e4 15.
+Ncxe4 Nfxe4 16. Bxg7 Nxd2 17. Bb2 Ncb3 18. Qc3 f6 19. Bd1 Nc5 20. Bc2 Bxd3 21.
+Bxd3 Nde4 22. Bxe4 Rxe4 23. O-O Qe7 24. Ra1 Kf7 25. Qc2 Rg4 26. Ra7 Qe6 27. h3
+Rxc4 28. Qd2 Ra4 29. Rxa4 Nxa4 30. Bd4 b6 31. Qd1 Nc5 32. h4 h5 33. Qf3 Ne4 34.
+Qf4 Qf5 35. Qh6 Qxf2+ 36. Kh2 Qxh4+ 37. Kg1 Qf2+ 38. Kh2 Ng5 0-1
+
+[Event "Aigialias op 1st"]
+[Site "Aigialias"]
+[Date "2008.08.24"]
+[Round "9"]
+[White "Skiadopoulos, Nikolaos"]
+[Black "Koukoufikis, Alexandros"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "2210"]
+[BlackElo "2252"]
+[PlyCount "48"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. f4 d6 2. Nf3 g6 3. e3 Bg7 4. d4 Nd7 5. Bc4 e6 6. O-O Ngf6 7. a4 O-O 8. a5 d5
+9. Bd3 c5 10. c3 c4 11. Bc2 Nb8 12. Nbd2 Nc6 13. b4 cxb3 14. Nxb3 Ne4 15. Ba3
+Re8 16. Bxe4 dxe4 17. Ne5 Nxa5 18. Nd2 f6 19. Ng4 Qd5 20. c4 Nxc4 21. Nxc4 Qxc4
+22. Nf2 Qd5 23. Rc1 Bd7 24. Rc5 Qa2 0-1
+
+[Event "Debrecen Karneval Cup"]
+[Site "Debrecen"]
+[Date "2008.08.18"]
+[Round "1"]
+[White "Miko, Valer"]
+[Black "Ats, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "A44"]
+[WhiteElo "2057"]
+[BlackElo "2148"]
+[PlyCount "19"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c5 2. d5 d6 3. e4 e5 4. c4 f5 5. Nc3 Nf6 6. Bd3 f4 7. Nf3 Be7 8. a3 O-O
+9. b4 b6 10. O-O 1/2-1/2
+
+[Event "Debrecen Karneval Cup"]
+[Site "Debrecen"]
+[Date "2008.08.18"]
+[Round "2"]
+[White "Karikas, Marianna"]
+[Black "Gal, Csaba"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "1616"]
+[BlackElo "1929"]
+[PlyCount "77"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. c4 Nf6 3. e3 d6 4. Nf3 g6 5. Nc3 Bg7 6. Bd3 O-O 7. O-O Qe8 8. e4
+fxe4 9. Nxe4 Nbd7 10. Re1 Nxe4 11. Bxe4 Nf6 12. Bc2 c6 13. h3 Kh8 14. Qe2 Ng8
+15. b3 c5 16. Bb2 cxd4 17. Bxd4 e5 18. Rad1 Bf5 19. Bb2 Bxc2 20. Qxc2 Qc6 21.
+Ba3 Rad8 22. Ng5 Rd7 23. Rd3 Bf6 24. Ne4 Be7 25. Nc3 Nf6 26. Nd5 Nxd5 27. Rxd5
+b6 28. Qd2 Rfd8 29. Rd1 Bf8 30. Qd3 Be7 31. b4 Rc8 32. c5 bxc5 33. bxc5 Kg7 34.
+cxd6 Bg5 35. Rxe5 Bf6 36. Rc5 Qb7 37. Rxc8 Qxc8 38. Re1 Qd8 39. Qe4 1-0
+
+[Event "Debrecen Karneval Cup"]
+[Site "Debrecen"]
+[Date "2008.08.19"]
+[Round "3"]
+[White "Ats, Laszlo"]
+[Black "Bakk, Zoltan"]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "2148"]
+[BlackElo "1986"]
+[PlyCount "42"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d6 2. h4 Nf6 3. Bf4 c5 4. d5 b5 5. e3 Qa5+ 6. Nc3 a6 7. Be2 Ne4 8. Qd3
+Bf5 9. g4 Nxc3 10. Qxf5 Nxe2+ 11. Kxe2 Nd7 12. h5 Qb4 13. b3 g6 14. hxg6 hxg6
+15. Rxh8 gxf5 16. Nf3 Qc3 17. Rah1 Qxc2+ 18. Nd2 O-O-O 19. gxf5 Qxf5 20. R1h5
+Qc2 21. Rg8 Nf6 0-1
+
+[Event "Debrecen Karneval Cup"]
+[Site "Debrecen"]
+[Date "2008.08.19"]
+[Round "3"]
+[White "Gal, Jozsef"]
+[Black "Maraczi, Erno"]
+[Result "1-0"]
+[ECO "A84"]
+[WhiteElo "2336"]
+[BlackElo "2127"]
+[PlyCount "53"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c6 4. Nc3 f5 5. g3 dxc4 6. Ne5 Bb4 7. Bg2 Bxc3+ 8.
+bxc3 Qa5 9. Qd2 Qa6 10. Qg5 g6 11. Nxg6 hxg6 12. Qxg6+ Kf8 13. a4 Nd7 14. Ba3+
+c5 15. dxc5 Ne7 16. c6 bxc6 17. Bxe7+ Kxe7 18. Qg7+ Kd6 19. Qxh8 Bb7 20. Qd4+
+Kc7 21. Rd1 Rd8 22. Qd6+ Kc8 23. Qxe6 Qxa4 24. Qxf5 Qb3 25. O-O Qxc3 26. Rxd7
+Rxd7 27. Rd1 1-0
+
+[Event "Debrecen Karneval Cup"]
+[Site "Debrecen"]
+[Date "2008.08.19"]
+[Round "3"]
+[White "Horvath, Karoly"]
+[Black "Rakaczki, Csaba"]
+[Result "1-0"]
+[ECO "A83"]
+[WhiteElo "2247"]
+[BlackElo "2081"]
+[PlyCount "47"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 Nc6 5. d5 Ne5 6. Qd4 Nf7 7. Bxf6 exf6 8.
+Nxe4 f5 9. Ng3 g6 10. h4 Be7 11. O-O-O O-O 12. h5 Bg5+ 13. f4 Bf6 14. Qd2 d6
+15. Nf3 Kg7 16. hxg6 hxg6 17. Bc4 b5 18. Bb3 a5 19. c3 a4 20. Bc2 Bd7 21. a3
+Re8 22. Nd4 Bxd4 23. Qxd4+ Qf6 24. Rh7+ 1-0
+
+[Event "Debrecen Karneval Cup"]
+[Site "Debrecen"]
+[Date "2008.08.21"]
+[Round "6"]
+[White "Bakk, Zoltan"]
+[Black "Kelemen, Imre"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "1986"]
+[BlackElo "2099"]
+[PlyCount "67"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. c3 c5 5. e3 O-O 6. Nbd2 d6 7. Bc4 Nc6 8. Bxf6
+exf6 9. O-O a6 10. Bb3 b5 11. dxc5 dxc5 12. Ne4 c4 13. Bc2 f5 14. Ng3 Qc7 15.
+Ne2 Rd8 16. Qc1 Bb7 17. Ned4 Re8 18. Rd1 Ne5 19. Nxe5 Bxe5 20. h3 Qe7 21. Rd2
+f4 22. e4 f3 23. g3 Bxd4 24. Rxd4 Qe6 25. Qh6 Rac8 26. b4 cxb3 27. Bxb3 Qc6 28.
+Rad1 Rxe4 29. Bxf7+ Kxf7 30. Qxh7+ Kf8 31. Rd7 Qf6 32. Rxb7 Re7 33. Rxe7 Qxe7
+34. Qh8+ 1-0
+
+[Event "Debrecen Karneval Cup"]
+[Site "Debrecen"]
+[Date "2008.08.22"]
+[Round "7"]
+[White "Horvath, Karoly"]
+[Black "Kanyadi, Zoltan"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2247"]
+[BlackElo "2103"]
+[PlyCount "52"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. d5 Qa5+ 5. c3 g5 6. Be5 f6 7. Bg3 d6 8. e3
+Bf5 9. f3 Nxg3 10. hxg3 Nd7 11. g4 Bg6 12. Nd2 Ne5 13. Nc4 Nxc4 14. Bxc4 b5 15.
+Bd3 Bg7 16. Qc2 Bf7 17. Be4 b4 18. Ne2 Rb8 19. Kf2 Kd8 20. a3 bxc3 21. bxc3 Kc7
+22. a4 Qa6 23. Rab1 h6 24. Bd3 Qa5 25. Be4 Rxb1 26. Rxb1 Rb8 1/2-1/2
+
+[Event "Debrecen Karneval Cup"]
+[Site "Debrecen"]
+[Date "2008.08.22"]
+[Round "7"]
+[White "Kelemen, Imre"]
+[Black "Uzonyi, David"]
+[Result "0-1"]
+[ECO "A13"]
+[WhiteElo "2099"]
+[BlackElo "1879"]
+[PlyCount "50"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. g3 e6 3. c4 d5 4. Bg2 c6 5. O-O Bd6 6. d3 O-O 7. a3 a5 8. Nc3
+Nbd7 9. Rb1 Ng4 10. b4 axb4 11. axb4 f5 12. b5 f4 13. bxc6 bxc6 14. cxd5 fxg3
+15. hxg3 exd5 16. Bg5 Qe8 17. Bh3 Nde5 18. Nxe5 Qxe5 19. Bxg4 Bxg4 20. Qd2 Ra3
+21. d4 Qf5 22. Be3 Bh3 23. Kh2 Bxg3+ 24. fxg3 Bxf1 25. Rxf1 Qxf1 0-1
+
+[Event "ESP-ch zone 1"]
+[Site "Logrono"]
+[Date "2008.08.18"]
+[Round "1.2"]
+[White "Miguelez Garcia, Erlantz"]
+[Black "Saldano Dayer, Horacio"]
+[Result "0-1"]
+[ECO "A33"]
+[WhiteElo "1836"]
+[BlackElo "2442"]
+[PlyCount "72"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "4"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 c5 4. Nc3 cxd4 5. Nxd4 Nc6 6. g3 Qb6 7. Ndb5 Bc5 8.
+Nd6+ Ke7 9. Nde4 Nxe4 10. Nxe4 Bb4+ 11. Bd2 d5 12. cxd5 exd5 13. Nc3 Be6 14.
+Bg2 Rhd8 15. O-O Bxc3 16. bxc3 Kf8 17. Qc2 Kg8 18. Be3 Qa6 19. Rfd1 Rac8 20.
+Qb2 b6 21. Bd4 Qa4 22. Rd2 Na5 23. Qb4 Qd7 24. Rb1 Bf5 25. e4 dxe4 26. Be3 Qe6
+27. Rbd1 Rxd2 28. Rxd2 Nc4 29. Re2 Nxe3 30. Rxe3 Rd8 31. Re1 g6 32. Bxe4 Re8
+33. f3 Qxa2 34. Rd1 Bh3 35. f4 Qe2 36. Qb1 Rxe4 0-1
+
+[Event "ESP-ch zone 1"]
+[Site "Logrono"]
+[Date "2008.08.18"]
+[Round "1.3"]
+[White "Beltran Rueda, Santiago"]
+[Black "Lopez Gil, Diego"]
+[Result "1-0"]
+[ECO "A35"]
+[WhiteElo "2436"]
+[BlackElo "1750"]
+[PlyCount "35"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]

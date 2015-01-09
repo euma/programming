@@ -1,0 +1,50 @@
+D00	Zilbermints Variation, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.Bg5 Bf5
+5.Bxf6 exf6 6.g4 Bg6 7.Qe2 Bb4 8.Qb5+
+D00	Blackmar-Diemer Gambit	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3
+D00	Wiesengren Defense, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bc5
+D00	Hans Mullers; Vienna V	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5
+D00	Soller; Vienna Var, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.Bc4
+D00	Tejler Attack, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.Bf4
+D00	Sperling Attack, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.d5
+D00	Diemer Gambit, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.fxe4
+D00	Kampars Gambit, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.g4 Bg6
+6.g5 Nd5 7.fxe4
+D00	Gunderam Attack, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 Bf5 5.g4 Bg6
+6.h4
+D00	Brombacher; Daberitz Var, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 c5
+D00	O'Kelly Variation, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 c6 
+D00	Langeheinecke Variation, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e3
+D00	Elbert Counter-Gambit, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e5
+D00	Weinsbach Declination, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e6
+D00	Pfrang Gambit, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e6 5.fxe4 Bb4
+6.Bd3 Bxc3+ 7.bxc3 Nxe4 8.Be3
+D00	Ritter Defense, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+b6 
+D00	Gunderam; Tartakower Var, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3
+5.Nxf3 Bf5
+D00	Teichmann Variation, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3
+5.Nxf3 Bg4
+D00	Kaulich Variation, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+c5
+D00	Ziegler; Gunderam's 2nd Defense, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6
+4.f3 exf3 5.Nxf3 c6
+D00	Euwe Variation, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+e6  
+D00	Zilbermints Gambit, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+e6  6.Bg5 Be7 7.Bd3 Nc6 8.O-O Nxd4 9.Kh1
+D00	Duthilleuk Gambit, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+e6 6.Bd3 Nc6 7.Bg5 Be7 8.Ne4
+D00	Bogoljubow Variation, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3
+5.Nxf3 g6
+D00	Mad Dog Attack, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+g6 6.Bc4 Bg7 7.h4
+D00	Nimzovich Attack, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+g6 6.Bc4 Bg7 7.Ne5
+D00	Kloss Attack, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+g6 6.Bc4 Bg7 7.O-O O-O 8.Kh1
+D00	Studier Attack, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+g6 6.Bc4 Bg7 7.O-O O-O 8.Qe1
+D00	Diemer Attack, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+g6 6.Bf4
+D00	Peters Attack, BDG	1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3
+g6 6.Ne5

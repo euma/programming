@@ -1,0 +1,600 @@
+[ECO "E39"]
+[WhiteElo "2474"]
+[BlackElo "2621"]
+[PlyCount "94"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 Qb6 8. e3
+Qc7 9. Bd3 Nc6 10. b4 Be7 11. Bb2 h6 12. Rg1 d5 13. cxd5 exd5 14. g4 Rd8 15. g5
+hxg5 16. Nxg5 Qxh2 17. O-O-O Bg4 18. Rde1 Ne5 19. Rh1 Nxd3+ 20. Qxd3 Qc7 21.
+Kb1 Qd7 22. Ka1 Qf5 23. Qxf5 Bxf5 24. Nb5 Ne4 25. Nxe4 Bxe4 26. Rhg1 Bf8 27.
+Nd4 Rd6 28. Rc1 Rb6 29. Rc7 Rd8 30. Ka2 Bd6 31. Ne6 g6 32. Rxb7 fxe6 33. Rg7+
+Kf8 34. f3 e5 35. Rxa7 Bf5 36. Rh1 Rd7 37. Ra8+ Kf7 38. f4 exf4 39. exf4 Bxf4
+40. Bd4 Rbb7 41. Ra6 Re7 42. Rh8 Re2+ 43. Ka1 Rh2 44. Rf6+ Ke7 45. Rhf8 Rh7 46.
+a4 Rc7 47. Bc5+ Rxc5 0-1
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.01"]
+[Round "3"]
+[White "Graf, Alexander"]
+[Black "Meijers, Viesturs"]
+[Result "0-1"]
+[ECO "E43"]
+[WhiteElo "2621"]
+[BlackElo "2496"]
+[PlyCount "64"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O O-O 9. Re1 Ne4 10. Qc2 f5 11. d5 exd5 12. cxd5 Bxd5 13. c4 Bb7 14. Nd4 Qh4
+15. Bb2 Na6 16. a3 Nac5 17. Bf1 Ng5 18. f3 Qh5 19. Rad1 Rf6 20. h3 Raf8 21. Qf2
+Rg6 22. Kh2 Nce6 23. Ne2 Bxf3 24. Rd4 Be4 25. Nf4 Nxf4 26. exf4 Ne6 27. Rdd1
+Nc5 28. Rd2 Bc6 29. Rd4 Ne4 30. Qe3 Qh4 31. Rdd1 Rg3 32. Qc1 Rxh3+ 0-1
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.01"]
+[Round "3"]
+[White "Romanishin, Oleg M"]
+[Black "Zivanic, Marko"]
+[Result "1-0"]
+[ECO "E07"]
+[WhiteElo "2530"]
+[BlackElo "2477"]
+[PlyCount "101"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. g3 Nbd7 6. Bg2 dxc4 7. O-O Be7 8. e4
+O-O 9. Bf4 Nb6 10. Qe2 c5 11. Rfd1 cxd4 12. Nxd4 Nfd7 13. Ndb5 Bc5 14. Nc7 Rb8
+15. Na6 bxa6 16. Bxb8 Qe7 17. Bf4 e5 18. Be3 Nf6 19. h3 Bb4 20. Rac1 Bxc3 21.
+Rxc3 Be6 22. b3 Qb4 23. Rdc1 Nfd7 24. bxc4 Nc5 25. Qd2 Nba4 26. R3c2 Qb8 27.
+Rd1 Qc8 28. Qa5 h6 29. Rcd2 Qc6 30. Rd6 Nb7 31. Rxc6 Nxa5 32. Rxa6 Nxc4 33. Re1
+Nc3 34. Rxa7 Nxe3 35. Rxe3 Nxa2 36. Rea3 Nb4 37. Ra8 g5 38. Rxf8+ Kxf8 39. Ra5
+Nc6 40. Rc5 Bd7 41. f3 Ke7 42. Kf2 Kf6 43. Bf1 Nd4 44. f4 gxf4 45. gxf4 Ne6 46.
+Rd5 Bc6 47. Rxe5 Nd4 48. Bd3 Ne6 49. Ke3 Bd7 50. Rd5 Bc8 51. f5 1-0
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.01"]
+[Round "3"]
+[White "Zubarev, Alexander2"]
+[Black "Georgiev, Kiril"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2517"]
+[BlackElo "2671"]
+[PlyCount "114"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Ba6 5. e3 d5 6. b3 Bd6 7. Bb2 O-O 8. Nbd2
+Nbd7 9. Bd3 c5 10. O-O Rc8 11. Qe2 cxd4 12. exd4 Bf4 13. Rad1 Re8 14. Ne5 Nxe5
+15. dxe5 Nd7 16. cxd5 Bxd3 17. Qxd3 exd5 18. Qxd5 Nxe5 19. Qxd8 Rexd8 20. Bxe5
+Bxd2 21. g3 f6 22. Bb2 Rd3 23. Bc1 Rxc1 24. Rxc1 Bxc1 25. Rxc1 a5 26. Rb1 b5
+27. Kf1 Kf7 28. h4 Kg6 29. a4 bxa4 30. bxa4 Ra3 31. Rb5 Rxa4 32. h5+ Kh6 33.
+Kg2 Ra2 34. g4 a4 35. Ra5 a3 36. Kg3 Ra1 37. Ra7 a2 38. Kf4 g6 39. hxg6 hxg6
+40. Ra6 Kg7 41. Kf3 Kf7 42. Ra7+ Ke6 43. Ra6+ Kd5 44. Ra5+ Kc4 45. Ra8 Kc3 46.
+Kg2 Kd3 47. Kf3 Kd2 48. Kg2 Ke2 49. Ra7 Kd3 50. Kf3 Kc4 51. Ra8 Kd5 52. Ra5+
+Ke6 53. Ra6+ Kf7 54. Ra7+ Kg8 55. Kg2 Kf8 56. Kf3 Ke8 57. Kg2 Kd8 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.02"]
+[Round "4"]
+[White "Burmakin, Vladimir"]
+[Black "Sulashvili, Malkhaz"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[WhiteElo "2625"]
+[BlackElo "2499"]
+[PlyCount "144"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 b6 7. cxd5 exd5 8. d4
+c5 9. Bb2 Bb7 10. Nc3 Nbd7 11. dxc5 bxc5 12. Nh4 Nb6 13. Nf5 Re8 14. Nxe7+ Qxe7
+15. e3 Rad8 16. Re1 Ne4 17. Rc1 f5 18. Qh5 g6 19. Qh6 Nd7 20. Na4 Rc8 21. Red1
+Ne5 22. f3 Nf6 23. Bxe5 Qxe5 24. Nxc5 Bc6 25. Nd3 Qe7 26. Qf4 Bb5 27. Rxc8 Rxc8
+28. Qd4 a5 29. Nf4 Rc5 30. h4 Kf7 31. Bf1 Bxf1 32. Kxf1 Qc7 33. Kg2 a4 34. bxa4
+Rc4 35. Qd3 Rxa4 36. Nxd5 Rxa2+ 37. Kh3 Qc2 38. Qxc2 Rxc2 39. Nf4 h5 40. Re1
+Ng4 41. Ng2 Nf2+ 42. Kh2 Nd3 43. Rf1 Ne5 44. Kg1 Nc4 45. e4 fxe4 46. fxe4+ Kg7
+47. Nf4 Ne5 48. Ne6+ Kh7 49. Rf2 Rc6 50. Ng5+ Kg7 51. Ra2 Ng4 52. Kg2 Rc3 53.
+Re2 Ne3+ 54. Kf3 Nf1+ 55. Kf2 Nh2 56. e5 Ng4+ 57. Kg2 Ne3+ 58. Kf3 Nf5+ 59. Kf2
+Nxg3 60. Rd2 Kf8 61. Rd7 Ke8 62. e6 Ra3 63. Rb7 Rc3 64. Rg7 Nf5 65. Rxg6 Rc2+
+66. Kf1 Nxh4 67. Rg8+ Ke7 68. Rg7+ Kd6 69. Rd7+ Kc6 70. Rd8 Nf5 71. Rc8+ Kd6
+72. Rd8+ Kc6 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.02"]
+[Round "4"]
+[White "Gelashvili, Tamaz"]
+[Black "Kuljasevic, Davorin"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2612"]
+[BlackElo "2501"]
+[PlyCount "53"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. e3 c5 3. d4 g6 4. c4 Bg7 5. Nc3 O-O 6. Be2 cxd4 7. exd4 d5 8.
+cxd5 Nxd5 9. Qb3 Nb6 10. O-O Be6 11. Qa3 Nc6 12. Rd1 Nd5 13. Be3 Ncb4 14. Rac1
+Nxe3 15. fxe3 Nd5 16. Nxd5 Bxd5 17. Ne5 Qd6 18. Bc4 Qxa3 19. bxa3 Rfd8 20. Bxd5
+Rxd5 21. Nf3 Rad8 22. Rc7 e5 23. Rxb7 exd4 24. exd4 Bxd4+ 25. Nxd4 Rxd4 26.
+Rxd4 Rxd4 27. Rxa7 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.02"]
+[Round "4"]
+[White "Kotanjian, Tigran"]
+[Black "Dimitrov, Pavel"]
+[Result "1-0"]
+[ECO "E80"]
+[WhiteElo "2578"]
+[BlackElo "2415"]
+[PlyCount "75"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 h5 6. Be3 c6 7. Bd3 Qc7 8. Nge2
+Nbd7 9. O-O a6 10. b4 b6 11. Qd2 c5 12. a3 cxd4 13. Nxd4 e6 14. Rac1 Ne5 15.
+Be2 Bb7 16. Ndb5 axb5 17. Nxb5 Qe7 18. Qxd6 Qxd6 19. Nxd6+ Ke7 20. Nxb7 Rhb8
+21. Na5 bxa5 22. b5 a4 23. c5 Ne8 24. c6 Nd6 25. Bc5 Rd8 26. Rfd1 Bh6 27. Rc3
+Rac8 28. c7 Rd7 29. b6 Nc6 30. Bb5 Bg7 31. Rcd3 Bd4+ 32. Rxd4 Nxd4 33. Rxd4 e5
+34. Bxd7 exd4 35. Bxc8 d3 36. Ba6 d2 37. Be2 Kd7 38. Bxd6 1-0
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.02"]
+[Round "4"]
+[White "Milanovic, Danilo"]
+[Black "Romanishin, Oleg M"]
+[Result "1-0"]
+[ECO "E48"]
+[WhiteElo "2529"]
+[BlackElo "2530"]
+[PlyCount "129"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nge2 O-O 7. O-O d5 8. cxd5
+exd5 9. a3 Bd6 10. b4 Re8 11. Rb1 Nbd7 12. f3 Nf8 13. b5 a6 14. a4 a5 15. Qe1
+Ng6 16. Qf2 Bb4 17. Rb3 Qd7 18. g4 h6 19. Ng3 Rad8 20. Na2 Bd6 21. Nf5 Bf8 22.
+Bd2 Ne7 23. Nxe7+ Qxe7 24. Rc1 g6 25. Rbc3 Rd7 26. Qg3 Rc8 27. h4 h5 28. g5 Ne8
+29. Bf1 Rd6 30. Bh3 Rcd8 31. Qe5 Bc8 32. Bxc8 Rxc8 33. Qxe7 Bxe7 34. Rc6 Re6
+35. e4 dxe4 36. Rxe6 fxe6 37. fxe4 Nd6 38. Bf4 Kf7 39. Bxd6 Bxd6 40. e5 Be7 41.
+Kf2 Ke8 42. Ke3 Kd7 43. Rc6 Bb4 44. Nxb4 axb4 45. Rc4 b3 46. Rb4 Ra8 47. Ke4 b2
+48. Rxb2 Rxa4 49. Rf2 Ra1 50. Rf7+ Kd8 51. Rf6 Ke7 52. Rxg6 Rh1 53. Rg7+ Kd8
+54. Rh7 Rxh4+ 55. Kd3 Rh3+ 56. Kc4 h4 57. g6 Rg3 58. g7 Ke8 59. d5 Rg4+ 60. Kd3
+Kf7 61. d6 cxd6 62. exd6 Rg5 63. d7 Rd5+ 64. Ke4 h3 65. Rh8 1-0
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.02"]
+[Round "4"]
+[White "Papin, Vasily"]
+[Black "Chadaev, Nikolay"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[WhiteElo "2479"]
+[BlackElo "2535"]
+[PlyCount "45"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Qc2 Bb7 6. a3 Bxc3+ 7. Qxc3 d6 8. e3
+Nbd7 9. Bd3 Ne4 10. Qc2 f5 11. O-O O-O 12. b4 a5 13. Bb2 Ng5 14. Ne1 axb4 15.
+axb4 Rxa1 16. Bxa1 Qa8 17. Bb2 b5 18. cxb5 Qd8 19. f3 Nf6 20. Qd2 Qe8 21. Be2
+h6 22. Nd3 Ngh7 23. Rc1 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.02"]
+[Round "4"]
+[White "Pavlovic, Milos M"]
+[Black "Petrov, Marijan"]
+[Result "1/2-1/2"]
+[ECO "E91"]
+[WhiteElo "2537"]
+[BlackElo "2490"]
+[PlyCount "118"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 g6 2. e4 Bg7 3. c4 d6 4. Nc3 Nf6 5. Nf3 O-O 6. Be2 Nc6 7. d5 Nb8 8. O-O
+c6 9. Be3 Bg4 10. h3 Bxf3 11. Bxf3 Nbd7 12. Rc1 Qa5 13. Qd2 Rfc8 14. b3 a6 15.
+Rfd1 cxd5 16. Nxd5 Qxd2 17. Nxf6+ Bxf6 18. Rxd2 Rc7 19. Be2 b5 20. Rd5 b4 21.
+f4 Bc3 22. Bf3 Rac8 23. Ra5 Nc5 24. Rd1 h5 25. g3 Kf8 26. Kg2 e6 27. Bxc5 dxc5
+28. Rxa6 Ke7 29. e5 Rd8 30. Rxd8 Kxd8 31. Bc6 Ke7 32. Kf3 Kf8 33. Ra8+ Kg7 34.
+Bb5 Bb2 35. Ke4 Bc1 36. Rd8 Bb2 37. g4 hxg4 38. hxg4 Bc3 39. Rd3 Ra7 40. Ba4
+Bb2 41. Rd6 Rc7 42. f5 gxf5+ 43. gxf5 exf5+ 44. Kxf5 Re7 45. Rd5 Bd4 46. Bd7
+Bg1 47. Ke4 Bd4 48. Bf5 Ra7 49. Rxd4 cxd4 50. Kxd4 Kf8 51. c5 Ke7 52. Kc4 Rxa2
+53. Kxb4 Re2 54. Kc4 Rxe5 55. Bd3 Kd7 56. b4 Rh5 57. b5 Rh4+ 58. Kd5 Rh5+ 59.
+Kd4 Rh4+ 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.02"]
+[Round "4"]
+[White "Svetushkin, Dmitry"]
+[Black "Arsovic, Goran"]
+[Result "1-0"]
+[ECO "E84"]
+[WhiteElo "2587"]
+[BlackElo "2469"]
+[PlyCount "53"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 a6 7. Be3 Nc6 8. Qd2
+Rb8 9. d5 Ne5 10. Nd4 c5 11. Nc2 Nh5 12. a4 f5 13. Be2 f4 14. Bf2 Bd7 15. a5 b6
+16. axb6 Rxb6 17. Nd1 Qb8 18. Ra2 Bc8 19. b4 cxb4 20. Bxb6 b3 21. Rb2 Nxc4 22.
+Bxc4 Bxb2 23. Nxb2 bxc2 24. Bd4 Bd7 25. Qxc2 Rc8 26. O-O Qb4 27. Qc3 1-0
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.02"]
+[Round "4"]
+[White "Vavrak, Peter"]
+[Black "Kryvoruchko, Yuriy"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2474"]
+[BlackElo "2628"]
+[PlyCount "70"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. a3 Bxc3+ 8. bxc3
+c5 9. Bd3 cxd4 10. cxd4 Qa5+ 11. Kf1 Nc6 12. Ne2 f6 13. Bxe4 dxe4 14. exf6 Rxf6
+15. Be3 Ne7 16. Qxe4 Nf5 17. Bf4 Qa6 18. Rc1 Bd7 19. Be5 Rf7 20. Kg1 Bc6 21.
+Qg4 Qxa3 22. h4 Qb2 23. Re1 Qb4 24. Kh2 Qxc4 25. Nf4 Re8 26. Rc1 Qa2 27. Nh3
+Nh6 28. Qg5 Qe2 29. f3 Bxf3 30. Nf4 Ng4+ 31. Qxg4 Bxg4 32. Nxe2 Bxe2 33. Rc5
+Bf1 34. Kg3 a6 35. Bf4 Bxg2 0-1
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.03"]
+[Round "5"]
+[White "Halkias, Stelios"]
+[Black "Kiewra, Keaton F"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2579"]
+[BlackElo "2336"]
+[PlyCount "62"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 exd4 8. Nxd4
+Re8 9. f3 c6 10. Bf2 d5 11. exd5 cxd5 12. O-O Nc6 13. c5 Nh5 14. Qd2 Be5 15. g3
+Ng7 16. Rfd1 Be6 17. Ncb5 Nxd4 18. Bxd4 Bxd4+ 19. Nxd4 Qf6 20. Bf1 Nf5 21. Nxf5
+Qxf5 22. Qc3 Rac8 23. Rac1 Rc7 24. Rd4 Qf6 25. Ra4 Qxc3 26. Rxc3 Rec8 27. b4 b6
+28. Ba6 Rd8 29. Raa3 d4 30. Rc1 bxc5 31. Rxc5 Re7 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.04"]
+[Round "6"]
+[White "Kharitonov, Alexandr"]
+[Black "Sulypa, Alexandre"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[WhiteElo "2531"]
+[BlackElo "2476"]
+[PlyCount "34"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. cxd5 Nxd5 7. Nge2 cxd4 8.
+exd4 Nc6 9. O-O O-O 10. Nxd5 exd5 11. Be3 Bd6 12. Nf4 Bxf4 13. Bxf4 Qf6 14. Be3
+Bf5 15. Rc1 Bxd3 16. Qxd3 Rac8 17. a3 h6 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.04"]
+[Round "6"]
+[White "Nikolov, Momchil"]
+[Black "Satyapragyan, Swayangsu"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2500"]
+[BlackElo "2414"]
+[PlyCount "54"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. g3 Qe7 8. b4
+e5 9. dxe5 dxe5 10. Bb2 Re8 11. Bg2 Nc6 12. Nf3 Nd4 13. e3 c5 14. Nd2 Bf5 15.
+Rc1 Rad8 16. e4 Bg6 17. f3 Nd7 18. Kf2 Nb6 19. Rb1 Na4 20. Qc1 Nxb2 21. Qxb2
+cxb4 22. axb4 Nc6 23. Rhc1 Nxb4 24. Qxb4 Qxb4 25. Rxb4 Rxd2+ 26. Kg1 b6 27. c5
+bxc5 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.04"]
+[Round "6"]
+[White "Pavlovic, Milos M"]
+[Black "Parligras, Mircea"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2537"]
+[BlackElo "2588"]
+[PlyCount "92"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 b5 5. dxe6 fxe6 6. cxb5 d5 7. Nc3 Nbd7 8. e4
+d4 9. e5 Ng4 10. Ng5 Ndxe5 11. f4 Be7 12. Nce4 Qd5 13. fxe5 Nxe5 14. Qh5+ g6
+15. Qh3 Nf7 16. Nxf7 Qxe4+ 17. Be2 O-O 18. Qf3 Bb7 19. O-O d3 20. Qxe4 Bxe4 21.
+Bf3 Bxf3 22. Nh6+ Kg7 23. gxf3 Rfd8 24. Bd2 Bf6 25. Rab1 Bd4+ 26. Kg2 Rdb8 27.
+Ng4 Rxb5 28. Bc3 Rab8 29. a4 Rb3 30. Bxd4+ cxd4 31. Rfd1 Rxb2+ 32. Rxb2 Rxb2+
+33. Kg3 Ra2 34. Rxd3 Rxa4 35. Rb3 g5 36. Rb7+ Kg6 37. Rd7 h5 38. Ne5+ Kf5 39.
+Nd3 Ra5 40. Rf7+ Kg6 41. Rd7 e5 42. Nf2 Ra3 43. h3 Ra2 44. Rd8 a5 45. Rg8+ Kf5
+46. Rf8+ Kg6 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.05"]
+[Round "7"]
+[White "Kuljasevic, Davorin"]
+[Black "Perunovic, Milos"]
+[Result "1/2-1/2"]
+[ECO "E29"]
+[WhiteElo "2501"]
+[BlackElo "2589"]
+[PlyCount "53"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 c5 7. Bd3 Nc6 8.
+Ne2 b6 9. e4 Ne8 10. O-O Bb7 11. f4 f5 12. exf5 exf5 13. dxc5 bxc5 14. Be3 Qa5
+15. Rb1 Ba6 16. Rb5 Qd8 17. Rxc5 Qe7 18. Bf2 g6 19. Rd5 Rf7 20. Qa4 Nc7 21. Bc5
+Qe8 22. Rd6 Rb8 23. Qc2 Ne6 24. Bf2 Qc8 25. c5 Bxd3 26. Qxd3 Rb2 27. Rb1
+1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.05"]
+[Round "7"]
+[White "Parligras, Mircea"]
+[Black "Kiewra, Keaton F"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "2588"]
+[BlackElo "2336"]
+[PlyCount "71"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c6 7. Qd2 a6 8. a4 a5
+9. Bd3 e5 10. Nge2 Na6 11. Rd1 exd4 12. Bxd4 Nb4 13. Bb1 Be6 14. b3 d5 15. cxd5
+cxd5 16. e5 Nd7 17. f4 f6 18. exf6 Bxf6 19. O-O Bg4 20. Bxf6 Nxf6 21. f5 Qb6+
+22. Kh1 Ne4 23. Nxe4 dxe4 24. fxg6 Qxg6 25. h3 Rxf1+ 26. Rxf1 Bxe2 27. Qxe2 Nd3
+28. Bxd3 exd3 29. Qe5 Rd8 30. Qxa5 b6 31. Qd2 Rc8 32. Qf4 Rd8 33. Qh4 Qe8 34.
+Qg5+ Kh8 35. Qf6+ Kg8 36. Rf3 1-0
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.06"]
+[Round "8"]
+[White "Gelashvili, Tamaz"]
+[Black "Chadaev, Nikolay"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2612"]
+[BlackElo "2535"]
+[PlyCount "73"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 g6 2. d4 Nf6 3. e3 Bg7 4. c4 O-O 5. Be2 c5 6. Nc3 cxd4 7. exd4 d5 8.
+cxd5 Nxd5 9. Qb3 Nb6 10. O-O Be6 11. Qa3 Nc6 12. Rd1 Nd5 13. Bg5 h6 14. Be3 Qa5
+15. Qxa5 Nxa5 16. Ne4 Bf5 17. Nc5 Nxe3 18. fxe3 b6 19. Na6 Rac8 20. Rac1 Bc2
+21. Re1 Be4 22. b4 Nb7 23. Nc7 Nd6 24. Ba6 Rcd8 25. Nd2 Rd7 26. Nxe4 Nxe4 27.
+Bb5 Rdd8 28. Bc6 Nd6 29. Nd5 Nc8 30. Bb7 Rd7 31. Rxc8 Rxc8 32. Bxc8 Rxd5 33.
+Rc1 a5 34. a3 axb4 35. axb4 Bf6 36. Bb7 Rd7 37. Bc6 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.06"]
+[Round "8"]
+[White "Kharitonov, Alexandr"]
+[Black "Kryvoruchko, Yuriy"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[WhiteElo "2531"]
+[BlackElo "2628"]
+[PlyCount "19"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nge2 cxd4 7. exd4 d5 8.
+cxd5 Nxd5 9. O-O Nc6 10. Nxd5 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.06"]
+[Round "8"]
+[White "Kotanjian, Tigran"]
+[Black "Parligras, Mircea"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2578"]
+[BlackElo "2588"]
+[PlyCount "110"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+f3 h6 9. Bh4 d5 10. e3 Nbd7 11. cxd5 Nxd5 12. Bxd8 Nxc3 13. Bh4 Nd5 14. Bf2 c5
+15. e4 Ne7 16. Ne2 f5 17. exf5 Nxf5 18. dxc5 Nxc5 19. Nc3 Rfd8 20. Rd1 Rxd1+
+21. Kxd1 Nb3 22. Bc4 Rd8+ 23. Ke1 Nbd4 24. Bxd4 Nxd4 25. Kf2 Kf7 26. Rd1 Kf6
+27. Bd5 Nc6 28. Bxc6 Rxd1 29. Ne4+ Ke5 30. Bxb7 Rb1 31. b4 Ra1 32. b5 Rxa3 33.
+Kg3 Rb3 34. Ba6 Rb2 35. h4 Rc2 36. h5 Rb2 37. Kh3 Kf4 38. Nd6 Rd2 39. Nf7 Rd1
+40. Kh2 Rd5 41. g3+ Ke3 42. f4 Rxh5+ 43. Kg2 Rd5 44. Ne5 h5 45. Kh3 g5 46. Nc4+
+Ke2 47. Bc8 gxf4 48. gxf4 Rd4 49. Bxe6 Rxf4 50. Ne5 Ra4 51. Nc6 Kd3 52. Bc8 Kc4
+53. Ba6 Rxa6 54. bxa6 Kb5 55. Nxa7+ Kxa6 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.06"]
+[Round "8"]
+[White "Nikolov, Momchil"]
+[Black "Arsovic, Zoran"]
+[Result "1-0"]
+[ECO "E95"]
+[WhiteElo "2500"]
+[BlackElo "2475"]
+[PlyCount "103"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O 8. Re1
+c6 9. Bf1 h6 10. Rb1 Re8 11. d5 Nf8 12. Nd2 cxd5 13. cxd5 Re7 14. Nc4 Ne8 15.
+Be3 f5 16. f3 f4 17. Bf2 b6 18. a4 Rb7 19. b4 g5 20. a5 h5 21. axb6 axb6 22.
+Ra1 Rab8 23. Nb5 Qd7 24. Nd2 g4 25. Qa4 Bh6 26. Kh1 Qf7 27. Rec1 Bd7 28. Qa6
+Qg6 29. Na7 Nc7 30. Qd3 Re8 31. Nc4 Na8 32. b5 Nh7 33. Qa3 Bf8 34. Qa6 Reb8 35.
+Nc6 Nc7 36. Nxb8 Nxa6 37. bxa6 Rxb8 38. Nxb6 Qe8 39. a7 Rd8 40. a8=Q Rxa8 41.
+Rxa8 Qe7 42. Rc7 g3 43. Bg1 Qh4 44. Nxd7 gxh2 45. Bb6 Qe1 46. Nxf8 Qxf1+ 47.
+Kxh2 Nxf8 48. Rcc8 Kg7 49. Rxf8 Qe1 50. Rg8+ Kf7 51. Raf8+ Ke7 52. Bd8+ 1-0
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.06"]
+[Round "8"]
+[White "Pavlovic, Milos M"]
+[Black "Satyapragyan, Swayangsu"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2537"]
+[BlackElo "2414"]
+[PlyCount "98"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Nbd2 d5 6. Bg2 Be7 7. O-O O-O 8. cxd5
+exd5 9. Ne5 Bb7 10. Ndf3 Na6 11. b3 c5 12. Bb2 Nc7 13. Rc1 Ne6 14. e3 Re8 15.
+Qe2 Bd6 16. Rfd1 Qe7 17. Nh4 cxd4 18. Nf5 Qf8 19. exd4 Bb4 20. Qf3 g6 21. a3
+Be7 22. Nxe7+ Qxe7 23. h4 Rac8 24. a4 Ne4 25. Qe3 f5 26. Nd3 Rxc1 27. Rxc1 Rc8
+28. Rxc8+ Bxc8 29. Nf4 Qd6 30. Qc1 Bd7 31. Nxe6 Qxe6 32. Qc7 Nf6 33. Bf3 a6 34.
+Ba3 Ne8 35. Qb7 Nf6 36. Qxa6 f4 37. Qa8+ Be8 38. Qb8 fxg3 39. Qxg3 Qe1+ 40. Kh2
+Ne4 41. Bxe4 Qxe4 42. Bc1 Qxd4 43. Be3 Qe4 44. Bxb6 d4 45. Bc5 d3 46. Be3 Bc6
+47. Qb8+ Kg7 48. Qc7+ Kg8 49. Qb8+ Kg7 1/2-1/2
+
+[Event "Kavala op 17th"]
+[Site "Kavala"]
+[Date "2008.08.06"]
+[Round "8"]
+[White "Romanishin, Oleg M"]
+[Black "Ketzetzis, Georgios"]
+[Result "1-0"]
+[ECO "E01"]
+[WhiteElo "2530"]
+[BlackElo "2099"]
+[PlyCount "73"]
+[EventDate "2008.07.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+

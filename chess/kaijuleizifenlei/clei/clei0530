@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. h3 c5 7. c3 Ne7 8. Na3
+Nc6 9. Nc4 Be6 10. d3 h6 11. Nh2 Qg6 12. f4 exf4 13. Bxf4 Bxh3 14. Qf3 Be6 15.
+Bxc7 Bxc4 16. dxc4 Rc8 17. Bf4 Be7 18. Rad1 O-O 19. Rd5 Rfe8 20. Rf5 Bf8 21.
+Ng4 Re6 22. Bh2 Be7 23. Ne3 Bg5 1/2-1/2
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.23"]
+[Round "5"]
+[White "Marzolf, Bruno"]
+[Black "Alif, Francis"]
+[Result "1-0"]
+[ECO "C13"]
+[WhiteElo "2214"]
+[BlackElo "1783"]
+[PlyCount "45"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. Nf3 Bd7 8.
+Bc4 Nc6 9. Qe2 f5 10. Ng3 Na5 11. d5 Nxc4 12. Qxc4 Bf6 13. O-O-O b5 14. Qe2 Qe7
+15. Rhe1 Qb4 16. c3 Qa4 17. Nh5 Bd8 18. dxe6 Bxe6 19. Ng7+ Kf8 20. Nxe6+ fxe6
+21. Qxe6 Qf4+ 22. Kb1 Rg8 23. Rxd8+ 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.23"]
+[Round "5"]
+[White "Murey, Jacob"]
+[Black "Haub, Thorsten Michael"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2415"]
+[BlackElo "2467"]
+[PlyCount "83"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. e4 d5 3. e5 c5 4. c3 Nc6 5. g3 f5 6. Ne2 Bd7 7. Bg2 Nge7 8. Na3
+cxd4 9. cxd4 Qa5+ 10. Qd2 Qxd2+ 11. Bxd2 a6 12. O-O-O Nc8 13. Nc2 b5 14. Kb1
+Nb6 15. b3 a5 16. Nf4 b4 17. Bf1 Be7 18. h4 O-O 19. Bb5 Kf7 20. f3 Nxe5 21.
+Bxd7 Nexd7 22. Rde1 Bd6 23. Nxe6 Rfe8 24. Ng5+ Kg8 25. Bf4 Bxf4 26. gxf4 h6 27.
+Ne6 Kf7 28. Nc5 Rxe1+ 29. Rxe1 Re8 30. Rxe8 Kxe8 31. Nb7 Nf8 32. Ne3 a4 33.
+bxa4 Nxa4 34. Nxd5 Kd7 35. Nc5+ Nxc5 36. dxc5 Kc6 37. Nxb4+ Kxc5 38. Nd3+ Kb5
+39. Kc2 h5 40. Kd2 Ng6 41. Ke3 Nxh4 42. Kf2 1/2-1/2
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.24"]
+[Round "6"]
+[White "Baillot, Justin"]
+[Black "Burg, Antoine"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "1989"]
+[PlyCount "77"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8. Qd2
+cxd4 9. Nxd4 Bc5 10. O-O-O Nxd4 11. Bxd4 Bxd4 12. Qxd4 Qxd4 13. Rxd4 a6 14. h4
+b5 15. a4 bxa4 16. Rxa4 a5 17. b4 Nb6 18. Rxa5 Rxa5 19. bxa5 Nc4 20. Bxc4 dxc4
+21. Ne4 Ke7 22. Nc5 Bd7 23. Nxd7 Kxd7 24. Rd1+ Ke7 25. Rd6 f6 26. Kd2 Rc8 27.
+Rb6 fxe5 28. fxe5 Rc7 29. a6 Kd7 30. Rb7 Rxb7 31. axb7 Kc7 32. g4 Kxb7 33. Kc3
+Kc7 34. Kxc4 Kb6 35. Kb4 h6 36. h5 Kc6 37. c4 Kb6 38. c5+ Kc6 39. Kc4 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.24"]
+[Round "6"]
+[White "Becker, Pierre"]
+[Black "Mangin, Jean Marie"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[PlyCount "108"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 O-O 6. Bg5 Be7 7. a3 d6 8. h3
+Bd7 9. Qd2 Nd4 10. Bxf6 Nxf3+ 11. gxf3 Bxf6 12. Ne2 Bg5 13. Qd1 Kh8 14. Ng3 f5
+15. Nf1 f4 16. Qe2 Bh4 17. Nd2 Rf6 18. O-O-O b5 19. Ba2 c6 20. Rdg1 g5 21. Rh2
+Qc8 22. Qf1 Be6 23. Bxe6 Qxe6 24. Nb3 a5 25. Kd2 a4 26. Nc1 Qd7 27. Na2 d5 28.
+Ke2 c5 29. Nc3 d4 30. Nd5 Rc6 31. Qb1 Rb8 32. Rc1 Qd6 33. c4 b4 34. Qc2 b3 35.
+Qd2 Ra6 36. Rg1 Rg8 37. Qe1 h6 38. Qf1 Qd8 39. Qg2 h5 40. Qh1 Ra7 41. Rgg2 Rag7
+42. Qe1 Ra7 43. Rh1 Rag7 44. Rhg1 Ra7 45. Qd2 Rag7 46. Kd1 Ra7 47. Qe1 Rag7 48.
+Rh2 Ra7 49. Qd2 Rag7 50. Ke2 Ra7 51. Rgg2 Rag7 52. Rh1 Ra7 53. Rhg1 Rag7 54.
+Kf1 Ra7 1/2-1/2
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.24"]
+[Round "6"]
+[White "Djuric, Stefan"]
+[Black "Taddei, Benoit"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2460"]
+[BlackElo "2297"]
+[PlyCount "98"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Bc4 Be7 5. Nxd4 Nf6 6. Nc3 O-O 7. O-O c6 8.
+Re1 b5 9. Bf1 b4 10. Na4 c5 11. Nf5 Bxf5 12. exf5 Nc6 13. a3 a5 14. Bf4 d5 15.
+g3 h6 16. Bg2 Rc8 17. c3 Bd6 18. Be3 bxa3 19. Rxa3 Ne7 20. c4 dxc4 21. Qc2 Qc7
+22. Bd2 Rb8 23. Rc3 Rb4 24. Rf3 Ned5 25. Bf1 Qc6 26. Ra3 Rfb8 27. Bxc4 R4b7 28.
+Qd1 Nb4 29. Nc3 Bc7 30. Be3 Rd8 31. Qe2 Bb6 32. Rc1 Re7 33. Na4 Ba7 34. Nc3 Bb6
+35. Na4 Ba7 36. Qf1 Qc8 37. Nxc5 Rxe3 38. Rxa5 Re5 39. Bxf7+ Kh8 40. Ne6 Rxa5
+41. Rxc8 Rxc8 42. Nf4 Ng4 43. Qe1 Ne5 44. Bb3 Nc2 45. Bxc2 Rxc2 46. Qd1 Rxf2
+47. Kh1 Nf3 48. Ng2 Re5 49. f6 Re1+ 0-1
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.24"]
+[Round "6"]
+[White "Keller, Christophe"]
+[Black "Moutaux, Robert"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2199"]
+[BlackElo "1914"]
+[PlyCount "69"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Bd7 5. Nf3 Nc6 6. a3 c4 7. Nbd2 Na5 8. g3 Ne7
+9. Bg2 Nf5 10. O-O Be7 11. h4 h5 12. Re1 Qc7 13. Rb1 Nb3 14. Nxb3 Ba4 15. Nfd2
+g5 16. hxg5 Bxg5 17. Qe2 cxb3 18. Nxb3 Bxc1 19. Rexc1 a6 20. Nc5 Bb5 21. Qd2 h4
+22. c4 Bc6 23. cxd5 exd5 24. Qf4 Ne7 25. Qg4 hxg3 26. fxg3 Rg8 27. Qh3 Qc8 28.
+e6 fxe6 29. Nxe6 Qb8 30. Qh5+ Rg6 31. Nf4 Qxf4 32. gxf4 O-O-O 33. Kf2 Rdg8 34.
+Bh3+ Kb8 35. Qe5+ 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.24"]
+[Round "6"]
+[White "Langrock, Hannes"]
+[Black "Laufer, Thierry"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2395"]
+[BlackElo "2020"]
+[PlyCount "91"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 Nxd4 10. Bxd4 Bxd4 11. Qxd4 Qb6 12. Qxb6 Nxb6 13. Nb5 Ke7 14. Bd3
+Bd7 15. Nd4 Rac8 16. b3 Bc6 17. Kd2 Nd7 18. Rac1 Nc5 19. h3 a5 20. g4 h5 21.
+Rcg1 Rcg8 22. Ke3 g6 23. Be2 hxg4 24. hxg4 Nd7 25. Bf3 g5 26. c4 gxf4+ 27. Kxf4
+Nb6 28. Rc1 Kd7 29. a3 dxc4 30. Nxc6 bxc6 31. bxc4 Rxh1 32. Bxh1 Kc7 33. Bf3
+Nd7 34. Rh1 Rg7 35. Rh8 Nc5 36. Be2 Kb7 37. Ke3 Nd7 38. Kf4 Nc5 39. Rh1 Kc7 40.
+Rh3 Kd7 41. Rh8 Kc7 42. g5 Nb7 43. Bd3 Nd8 44. Kg4 f6 45. exf6 Rd7 46. Rh7 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.24"]
+[Round "6"]
+[White "Schweitzer, Viktoriya"]
+[Black "Vaillant, Stephane"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2218"]
+[BlackElo "2017"]
+[PlyCount "59"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. Bg5 Rf7 11. Qh5 g6 12. Qd1 Nbc6 13. Nf3 Qf8 14. O-O c4 15.
+Be2 h6 16. Bc1 Qg7 17. a4 Bd7 18. Ba3 g5 19. Bd6 Nf5 20. Be5 Nxe5 21. Nxe5 Re7
+22. Bg4 Rf8 23. Qe2 Ree8 24. f4 Nd6 25. fxg5 Rxf1+ 26. Rxf1 hxg5 27. a5 Ne4 28.
+Qe3 Ba4 29. Qh3 Qh8 30. Rf8+ 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.25"]
+[Round "7"]
+[White "Bruned, Boris"]
+[Black "Dubois, Martine"]
+[Result "1-0"]
+[ECO "C86"]
+[WhiteElo "2227"]
+[BlackElo "1992"]
+[PlyCount "132"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. O-O b5 7. Bb3 O-O 8. c3
+d6 9. Rd1 Bg4 10. d4 Qe8 11. a4 Na5 12. Bc2 c5 13. d5 Bd7 14. b4 Nb7 15. a5 c4
+16. h3 Qc8 17. Nh2 Kh8 18. f4 Ng8 19. f5 Qd8 20. Nf3 g5 21. g4 h6 22. Kg2 Kg7
+23. Rh1 Re8 24. Be3 Nf6 25. Nbd2 Rh8 26. Rag1 Nh7 27. Kf1 f6 28. h4 Nxa5 29.
+bxa5 Qxa5 30. Nb1 Qa2 31. Rh2 b4 32. cxb4 Rab8 33. Nc3 Qa1+ 34. Qe1 Qxe1+ 35.
+Kxe1 Rxb4 36. hxg5 fxg5 37. Rhh1 Nf6 38. Kd2 Rhb8 39. Nh2 Bd8 40. Ra1 a5 41.
+Rhb1 Be8 42. Na2 Rxb1 43. Rxb1 Rxb1 44. Bxb1 Ba4 45. Bc2 Bxc2 46. Kxc2 Nxe4 47.
+Nc3 Nf6 48. Ba7 Bc7 49. Nf1 Nxg4 50. Nb5 Bd8 51. Nxd6 Kf6 52. Nb7 Ke7 53. Nxd8
+Kxd8 54. Ne3 Nf6 55. Bb6+ Kd7 56. Bxa5 g4 57. Be1 h5 58. Bh4 Ne4 59. Nxc4 g3
+60. Ne3 Kd6 61. Kd3 Nf2+ 62. Ke2 Ne4 63. Kf3 g2 64. Kxg2 Kc5 65. Be7+ Kd4 66.
+d6 Nc5 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.25"]
+[Round "7"]
+[White "Wonner, Frank"]
+[Black "Keller, Christophe"]
+[Result "0-1"]
+[ECO "C19"]
+[WhiteElo "1855"]
+[BlackElo "2199"]
+[PlyCount "96"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Qc7 8. Nf3
+b6 9. h5 h6 10. Rh4 Ba6 11. Bxa6 Nxa6 12. Rf4 cxd4 13. cxd4 Qc3+ 14. Bd2 Qc4
+15. a4 Nb4 16. Bxb4 Qxb4+ 17. Qd2 Qxd2+ 18. Kxd2 Nc6 19. Kd3 Rc8 20. c3 O-O 21.
+Nd2 Rc7 22. Nb3 Rfc8 23. Kd2 Nb8 24. Rf3 Nd7 25. Rd3 f6 26. f4 fxe5 27. fxe5
+Nf8 28. Nc1 Nh7 29. Ne2 Ng5 30. Nf4 Kf7 31. Rf1 Ke7 32. Ng6+ Kd7 33. Re1 Kc6
+34. Nf4 Kb7 35. Ra1 Ka6 36. Kc2 Ka5 37. Ra3 Rc4 38. Rg3 R8c6 39. Nh3 Nxh3 40.
+gxh3 Rc7 41. Kb3 Rf7 42. Ra1 b5 43. axb5+ Kxb5 44. Rgg1 a5 45. Kc2 Rf2+ 46. Kd3
+Rf3+ 47. Ke2 Rfxc3 48. Rxg7 Rxh3 0-1
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.26"]
+[Round "8"]
+[White "Bruned, Yvalin"]
+[Black "Karpatchev, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2360"]
+[BlackElo "2462"]
+[PlyCount "113"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. d3 d6 8. c3 h6
+9. Be3 Bxe3 10. fxe3 O-O 11. Nbd2 Na5 12. Bc2 c5 13. O-O Rb8 14. a3 Nc6 15. Bb3
+c4 16. Ba2 cxd3 17. Qxd3 Be6 18. Bd5 Bxd5 19. exd5 Ne7 20. e4 Ng4 21. Kh1 Qb6
+22. Qe2 f5 23. Ne1 Qe3 24. Qxe3 Nxe3 25. Rf2 fxe4 26. Nxe4 Rxf2 27. Nxf2 N7xd5
+28. Ne4 Rd8 29. Nd3 a5 30. a4 b4 31. cxb4 Nc2 32. Rd1 Nde3 33. Rd2 axb4 34. Ng3
+Rc8 35. h3 b3 36. Nc1 Nd4 37. Nxb3 Nxb3 38. Rd3 Nc5 39. Rxe3 Nxa4 40. Rd3 Rd8
+41. Nf5 Nxb2 42. Rxd6 Rxd6 43. Nxd6 Kf8 44. g4 Ke7 45. Nf5+ Kf6 46. Kg2 Nd3 47.
+Kf3 Nf4 48. h4 Ne6 49. Ke4 Nc5+ 50. Kd5 Nd3 51. Ne3 Nf2 52. Kd6 Ne4+ 53. Kd5
+Nc3+ 54. Kc4 Ne2 55. Kd5 Nf4+ 56. Ke4 Ng6 57. Nf5 1/2-1/2
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.26"]
+[Round "8"]
+[White "De Vito, Flevio"]
+[Black "Becker, Pierre"]
+[Result "1-0"]
+[ECO "C87"]
+[PlyCount "71"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. h3 Nf6 5. O-O Bd7 6. Re1 Be7 7. c3 a6 8. Ba4
+O-O 9. d4 exd4 10. cxd4 d5 11. e5 Ne4 12. Nc3 Nxc3 13. bxc3 Na7 14. Bc2 g6 15.
+Bh6 Re8 16. Qd2 Nb5 17. Ng5 Be6 18. Qf4 c6 19. Qh4 Nxc3 20. f4 f5 21. Qg3 Bxg5
+22. Bxg5 Qa5 23. Bf6 Ne4 24. Bxe4 dxe4 25. Qg5 Qc7 26. Qh6 Qf7 27. Re3 Qf8 28.
+Qg5 Rac8 29. Rg3 Qf7 30. h4 Bxa2 31. h5 Be6 32. hxg6 hxg6 33. Rh3 Qh7 34. Rxh7
+Kxh7 35. Qh4+ Kg8 36. Qh8+ 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.26"]
+[Round "8"]
+[White "Keller, Christophe"]
+[Black "Sundararajan, Kidambi"]
+[Result "0-1"]
+[ECO "C28"]
+[WhiteElo "2199"]
+[BlackElo "2441"]
+[PlyCount "80"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Na5 5. Bb3 Nxb3 6. axb3 Be7 7. Nge2 d5 8.
+exd5 Nxd5 9. O-O O-O 10. Nxd5 Qxd5 11. Nc3 Qc6 12. f4 Bc5+ 13. Kh1 Bh3 14. Qf3
+Qxf3 15. Rxf3 Bg4 16. Rf1 exf4 17. Bxf4 c6 18. Ne4 Bd4 19. c3 Bb6 20. Nd6 Be2
+21. Rfe1 Bxd3 22. Re7 Bc5 23. Rxb7 Rad8 24. Nc4 Rfe8 25. h3 Re2 26. Rd1 f6 27.
+b4 Bf2 28. Bc7 Rd5 29. Nd6 h5 30. c4 Bxc4 31. Rc1 Ba6 32. Rb8+ Kh7 33. Re8 Rxe8
+34. Nxe8 h4 35. Bf4 Rd4 36. Bd6 Rd2 37. Bc5 Bg3 38. Bf8 Rd8 39. Bxg7 Rxe8 40.
+Bxf6 Bd3 0-1
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.26"]
+[Round "8"]
+[White "Marzolf, Bruno"]
+[Black "Murey, Jacob"]
+[Result "0-1"]
+[ECO "C12"]
+[WhiteElo "2214"]
+[BlackElo "2415"]
+[PlyCount "49"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. Bd3 Bd7 10. h4 c5 11. Bxe4 dxe4 12. Qxe4 Bc6 13. Qg4 Qd5 14. Nf3 Nd7 15.
+O-O O-O-O 16. Rfe1 g5 17. h5 Rhe8 18. dxc5 f5 19. exf6 Nxf6 20. Qb4 e5 21. c4
+Qd7 22. Bc3 Qg4 23. Re3 Nxh5 24. Ne1 Nf4 25. Rg3 0-1
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.26"]
+[Round "8"]
+[White "Shirazi, Kamran G"]
+[Black "Laurent, Bruno"]
+[Result "1-0"]
+[ECO "C29"]
+[WhiteElo "2448"]
+[BlackElo "2346"]
+[PlyCount "55"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. exd5 Nxd5 5. fxe5 Nxc3 6. bxc3 Qh4+ 7. Ke2 Bg4+
+8. Nf3 Nc6 9. Qe1 Qh5 10. Kd1 Nxe5 11. Be2 O-O-O 12. Nxe5 Bxe2+ 13. Qxe2 Qxe2+
+14. Kxe2 Re8 15. d4 f6 16. Be3 fxe5 17. d5 Be7 18. Rab1 b6 19. c4 Kd7 20. Rhf1
+Rhf8 21. Rxf8 Rxf8 22. Rb3 Bc5 23. Bxc5 bxc5 24. Rf3 Rf4 25. Rxf4 exf4 26. Kf3
+g5 27. Kg4 h6 28. h3 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.27"]
+[Round "9"]
+[White "Bruned, Yvalin"]
+[Black "Sumets, Andrey"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[WhiteElo "2360"]
+[BlackElo "2532"]
+[PlyCount "34"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Nb3 Nd7 7. Be2 Qc7 8.
+c4 Nf4 9. O-O Be7 10. Re1 Nxe2+ 11. Qxe2 O-O 12. Be3 b6 13. dxc5 bxc5 14. Rad1
+Bf6 15. Qd2 a5 16. Bf4 Qb7 17. Bd6 Rd8 1/2-1/2
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.27"]
+[Round "9"]
+[White "Langrock, Hannes"]
+[Black "Mitrovic, Slobodan"]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "2395"]
+[BlackElo "1966"]
+[PlyCount "119"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Bc4 d6 3. d3 Nf6 4. Nf3 h6 5. c3 Be7 6. Nbd2 Nc6 7. Qe2 Na5 8. Bb5+
+Bd7 9. Bxd7+ Qxd7 10. O-O c5 11. d4 Nc6 12. d5 Nb8 13. c4 O-O 14. Nb1 Qg4 15.
+Nc3 Nh7 16. a3 Nd7 17. Nd4 Qxe2 18. Ndxe2 a6 19. g3 g5 20. Be3 b6 21. Kg2 Nhf6
+22. f3 Nh5 23. Rh1 a5 24. b3 Ng7 25. Nb5 Rfc8 26. Nec3 Ne8 27. Kf2 f6 28. Ke2
+Kf7 29. Kd3 Nb8 30. Ra2 Bd8 31. Rha1 Be7 32. h4 Nd7 33. hxg5 hxg5 34. Rh2 g4
+35. f4 Ng7 36. Rah1 Rg8 37. Rh7 Nf8 38. R7h6 Ne8 39. fxe5 dxe5 40. Ne2 Nd6 41.
+Nxd6+ Bxd6 42. Nc3 Rd8 43. Nb5 Ng6 44. Rh7+ Rg7 45. b4 axb4 46. axb4 Bf8 47.
+Rxg7+ Kxg7 48. Nc7 Rc8 49. Ne6+ Kg8 50. Rb1 Be7 51. bxc5 bxc5 52. Rb5 Kf7 53.
+Bxc5 Nf4+ 54. Nxf4 Rxc5 55. Rxc5 Bxc5 56. Ne6 Ba3 57. c5 Ke7 58. Kc4 Kd7 59.
+Ng7 Kc7 60. Ne8+ 1-0
+
+[Event "Metz op 26th"]
+[Site "Metz"]
+[Date "2008.04.27"]
+[Round "9"]
+[White "Laurent, Bruno"]
+[Black "Keller, Christophe"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2346"]
+[BlackElo "2199"]
+[PlyCount "73"]
+[EventDate "2008.04.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 f6 8. Nf4
+Qe7 9. Nf3 fxe5 10. dxe5 Ndxe5 11. Nxe5 Nxe5 12. Qh5+ Nf7 13. O-O g6 14. Bb5+
+Kd8 15. Qe2 Bg7 16. Re1 Ne5 17. Be3 a6 18. Ba4 Bd7 19. Bxd7 Kxd7 20. b4 Qf7 21.
+bxc5 Rac8 22. Rab1 Rhe8 23. Nd3 Nc6 24. Bf4 e5 25. Bg3 Re7 26. Rb6 Ke8 27. Reb1
+Rec7 28. Bh4 Bf6 29. Bxf6 Qxf6 30. Nb4 d4 31. c4 Qf5 32. Nd5 d3 33. Qd2 Rf7 34.
+Rxb7 Nd4 35. Rxf7 Kxf7 36. Qh6 g5 37. Rb7+ 1-0
+
+[Event "BAN-ch 34th"]
+[Site "Dhaka"]
+[Date "2008.04.20"]
+[Round "1"]
+[White "Abu Sufian, Sakil"]
+[Black "Chowdhury, Sohel"]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2407"]
+[BlackElo "2190"]
+[PlyCount "89"]
+[EventDate "2008.04.20"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "BAN"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. d5 Nb8 14. c4 bxc4 15. Nxc4
+c6 16. dxc6 Nxc6 17. a5 Qc7 18. Nb6 Rab8 19. Bd2 Nd7 20. Nd5 Qd8 21. Bc4 Ne7
+22. Ne3 Nc6 23. Qb3 Re7 24. Nd5 Re6 25. Ne3 Nc5 26. Qa2 Re7 27. Nf5 Rc7 28. b4
+Nxe4 29. Rxe4 Nxb4 30. Nxh6+ gxh6 31. Rg4+ Kh8 32. Bxb4 Bxf3 33. gxf3 Rxb4 34.
+Bxf7 Rxg4+ 35. hxg4 Qf6 36. Bd5 Qf4 37. Kg2 Kg7 38. Rh1 Be7 39. Qb2 Rc5 40. Qb7
+Qf8 41. Rh5 Rb5 42. Qd7 Rxd5 43. Rf5 Qxf5 44. gxf5 Rxa5 45. Qxe7+ 1-0
+
+[Event "BAN-ch 34th"]
+[Site "Dhaka"]
+[Date "2008.04.20"]
+[Round "1"]
+[White "Minhazuddin, Ahamed"]
+[Black "Reefat, Bin Sattar"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[WhiteElo "2325"]
+[BlackElo "2487"]
+[PlyCount "133"]
+[EventDate "2008.04.20"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "BAN"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. Bd3 c5 5. c3 Nc6 6. Ne2 cxd4 7. cxd4 Nb4 8. Bb1
+dxe4 9. Nxe4 Bd7 10. N2c3 Bc6 11. O-O Be7 12. f4 Nh6 13. Ng3 g6 14. a3 Nd5 15.
+Nce4 Nf5 16. Re1 O-O 17. Nxf5 exf5 18. Nc3 Bh4 19. Re2 Re8 20. Ba2 Rxe2 21.
+Qxe2 Qd7 22. Bd2 Re8 23. Qd3 h5 24. g3 Bf6 25. Re1 Rd8 26. h4 Kg7 27. Rd1 Nxc3
+28. Bxc3 Be4 29. Qe3 Qa4 30. Rd2 Bd5 31. Bxd5 Rxd5 32. Rd3 a5 33. Kh2 Qc2+ 34.
+Qd2 Qa4 35. Qd1 Qc6 36. b3 Qd6 37. Bb2 b5 38. Qd2 b4 39. a4 Kh7 40. Kh3 Qd8 41.
+Re3 Rd6 42. Rd3 Qe8 43. Qe3 Re6 44. Qf3 Re2 45. Bc1 Qe4 46. d5 Qxf3 47. Rxf3
+Re1 48. Bd2 Rd1 49. Rd3 Bd8 50. d6 f6 51. d7 Kg7 52. Rd6 Rb1 53. Rd3 Kf7 54.
+Be3 Rb2 55. Bc5 Rc2 56. Bd4 Ke6 57. Rd1 Rc6 58. Ba1 Rc2 59. Bd4 Rc6 60. Ba1 Rd6
+61. Rxd6+ Kxd6 62. Kg2 Kxd7 63. Kf3 Ke6 64. Ke3 g5 65. Bd4 gxh4 66. gxh4 Kd5
+67. Ba7 1/2-1/2
+
+[Event "BAN-ch 34th"]
+[Site "Dhaka"]
+[Date "2008.04.20"]
+[Round "1"]
+[White "Rahman, S Manfuzur"]
+[Black "Rahman, Ziaur"]
+[Result "0-1"]
+[ECO "C16"]
+[WhiteElo "2309"]
+[BlackElo "2511"]
+[PlyCount "136"]
+[EventDate "2008.04.20"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "BAN"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. a3 Be7 6. Nf3 c5 7. Be3 h5 8. h4 Nh6
+9. Bg5 Ba6 10. Nb5 Nf5 11. Bd3 c4 12. Bxf5 Bxb5 13. Bh3 Nc6 14. g3 Qd7 15. Bxe7
+Qxe7 16. Ng5 O-O-O 17. f4 Kb7 18. Kf2 Rdf8 19. Re1 Nd8 20. Qd2 a5 21. Re3 Qc7
+22. Rae1 Bd7 23. b4 a4 24. Kg1 Nc6 25. Rf1 Qc8 26. Rfe1 Na7 27. c3 Nb5 28. Qb2
+Nc7 29. Qe2 Nb5 30. Qb2 Rhg8 31. Kh2 Rh8 32. Kg2 Qd8 33. Kh2 Qe7 34. Bg2 Nc7
+35. Bh3 Re8 36. Qe2 Qf8 37. Kg1 Qg8 38. Kh2 Ka7 39. Kg2 Rh6 40. Kh2 Kb8 41. Kg2
+Nb5 42. Qb2 Rg6 43. Kh2 Re7 44. Bg2 Nc7 45. Bh3 f6 46. Nf3 Re8 47. Qc2 Rh6 48.
+Qe2 Rh8 49. Qc2 Rf8 50. Qb1 Rh6 51. Qc2 Kb7 52. Qb1 Be8 53. exf6 Bg6 54. Qd1
+gxf6 55. f5 Bxf5 56. Bxf5 exf5 57. Re7 f4 58. gxf4 Qg4 59. Qe2 Qxf4+ 60. Kh1
+Rg6 61. Qe3 Qg3 62. Rg1 Qh3+ 63. Nh2 Qxe3 64. Rxe3 Rxg1+ 65. Kxg1 Nb5 66. Nf3
+Nxa3 67. Kf2 Nb5 68. Ke1 Rg8 0-1
+
+[Event "BAN-ch 34th"]
+[Site "Dhaka"]
+[Date "2008.04.21"]
+[Round "2"]
+[White "Ahmed, Sk Nasir"]
+[Black "Mohammad, Javed"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2315"]
+[BlackElo "2302"]
+[PlyCount "102"]
+[EventDate "2008.04.20"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "BAN"]
+[EventCategory "5"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. d3 h6 8. a4
+Rb8 9. axb5 axb5 10. Nc3 d6 11. h3 O-O 12. Ne2 Ne7 13. c3 Ng6 14. d4 Bb6 15.
+Bc2 Nh5 16. Ng3 Nxg3 17. fxg3 Be6 18. Kh2 Qe7 19. Ng1 b4 20. d5 Bd7 21. c4 c6
+22. Ne2 cxd5 23. cxd5 Bb5 24. Bd3 Qd7 25. g4 Ra8 26. Rb1 Bxd3 27. Qxd3 Bd8 28.
+Bd2 Rb8 29. Rbc1 Bg5 30. Rc4 Bxd2 31. Qxd2 Qb5 32. Rfc1 Qb6 33. Ng3 Nf4 34. Rc6
+Qd8 35. Nf5 g6 36. Rxd6 Qe8 37. Nxh6+ Kg7 38. g3 Qe7 39. Rdc6 Qg5 40. gxf4 exf4
+41. Rf1 Qxh6 42. Rxf4 Rh8 43. Qd4+ Kg8 44. Rf3 Qg5 45. Qf6 Qxf6 46. Rcxf6 Rb7
+47. e5 Kg7 48. e6 fxe6 49. dxe6 Rb6 50. Rf7+ Kh6 51. e7 Re6 1-0
+
+[Event "BAN-ch 34th"]
+[Site "Dhaka"]
+[Date "2008.04.21"]
+[Round "2"]
+[White "Chowdhury, Sohel"]
+[Black "Hossain, Enamul"]
+[Result "0-1"]
+[ECO "C95"]
+[WhiteElo "2190"]
+[BlackElo "2484"]
+[PlyCount "112"]
+[EventDate "2008.04.20"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "BAN"]
+[EventCategory "5"]
+[Source "ChessBase"]

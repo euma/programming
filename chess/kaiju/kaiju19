@@ -1,0 +1,50 @@
+4.c4
+B14	B14	1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3
+B14	Carlsbad Line, Caro-Kann	1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6
+5.Nc3 Nc6 6.Bg5 e6
+B14	Czerniak Line, Caro-Kann	1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6
+5.Nc3 Nc6 6.Bg5 Qa5
+B14	Reifir-Spielmann Line, Caro-Kann	1.e4 c6 2.d4 d5 3.exd5 cxd5
+4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6
+B15	B15	1.e4 c6 2.d4 d5 3.Nc3
+B15	Gurgenidze Variation, Caro	1.e4 c6 2.d4 d5 3.Nc3 b5
+B15	Von Hennig Gambit, Caro	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Bc4
+B15	Milner-Barry Gambit, Caro; Rasa-Studier Gambit	1.e4 c6 2.d4 d5 3.Nc3
+dxe4 4.f3
+B15	Knight Variation, Caro	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+B15	Tarrasch (Alekhine) Gambit, Caro	1.e4 c6 2.d4 d5 3.Nc3 dxe4
+4.Nxe4 Nf6 5.Bd3
+B15	Tartakower Variation, Caro	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6
+B15	Forgacs Variation, Caro Kann	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.Bc4
+B15	Gurgenidze System, Caro-Kann	1.e4 c6 2.d4 d5 3.Nc3 g6
+B15	Gurgenidze Variation, Caro	1.e4 c6 2.d4 d5 3.Nc3 g6 4.e5 Bg7 5.f4
+h5
+B15	Campomanes Attack, Caro	1.e4 c6 2.d4 d5 3.Nc3 Nf6
+B16	Finnish Variation, Caro-Kann	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 h6
+B16	Nimzovich; Bronstein-Larsen, Caro; B16	1.e4 c6 2.d4 d5 3.Nc3 dxe4
+4.Nxe4 Nf6 5.Nxf6+ gxf6
+B17	Karpov Variation, Caro-Kann; B17	1.e4 c6 2.d4 d5 3.Nc3 dxe4
+4.Nxe4 Nd7
+B17	Smyslov Variation, Caro-Kann	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7
+5.Bc4 Ngf6 6.Ng5 e6 7.Qe2 Nb6
+B17	Tiviakov-Fischer Attack, Caro-Kann	1.e4 c6 2.d4 d5 3.Nc3 dxe4
+4.Nxe4 Nd7 5.Bc4 Ngf6 6.Nxf6+ Nxf6
+B17	Kasparov Attack, Caro-Kann	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7
+5.Nf3 Ngf6 6.Ng3
+B17	Ivanchuk Defense, Caro Kann	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7
+5.Ng5 Ndf6
+B18	Classical Variation, Caro; B18	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+B18	Flohr Variation, Caro-Kann	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nh3
+B19	B19	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+B19	Seirawan Variation, Caro-Kann	1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.e5 Bh7 9.Bd3 Bxd3 10.Qxd3
+B20	Sicilian Defense; B20	1.e4 c5 
+B20	Mengarini Gambit, Sicilian	1.e4 c5 2.a3  
+B20	Mengarini Gambit, Sicilian	1.e4 c5 2.a3 Nc6 3.b4
+B20	Snyder Variation, Sicilian	1.e4 c5 2.b3
+B20	Queen Fianchetto Variation, Sicilian	1.e4 c5 2.b3 b6
+B20	Wing Gambit, Sicilian	1.e4 c5 2.b4
+B20	Marshall Variation, Sicilian	1.e4 c5 2.b4 cxb4 3.a3  

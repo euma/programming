@@ -1,0 +1,600 @@
+[BlackElo "2720"]
+[PlyCount "58"]
+[EventDate "2008.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nc3 Nxc3 7. bxc3 Nxe5
+8. dxe5 Be7 9. Qh5 Be6 10. Rb1 Qd7 11. h3 b6 12. O-O g6 13. Qh6 Bf8 14. Qh4 Be7
+15. Bg5 Bxg5 16. Qxg5 O-O 17. f4 Qd8 18. Qg3 Kh8 19. f5 gxf5 20. Bxf5 Rg8 21.
+Qf3 Bxf5 22. Qxf5 Qg5 23. Qxg5 Rxg5 24. Rxf7 Rag8 25. g4 Rxe5 26. Rxc7 Re3 27.
+Kg2 Rf8 28. Rxa7 Rff3 29. Rxb6 Rg3+ 1/2-1/2
+
+[Event "Moscow Tal Memorial 3rd"]
+[Site "Moscow"]
+[Date "2008.08.22"]
+[Round "5"]
+[White "Ivanchuk, Vassily"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2781"]
+[BlackElo "2788"]
+[PlyCount "56"]
+[EventDate "2008.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Nc6
+8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 O-O-O 11. Bb5 a6 12. Ba4 Bf6 13. Bg5 Bxg5 14.
+Qxg5 b5 15. Bb3 f6 16. Bxe6 Qxe6 17. Qf4 h5 18. h3 g5 19. Nd4 Qd5 20. Nxc6
+Qxd1+ 21. Rxd1 gxf4 22. Nxd8 Kxd8 23. Kc1 Rg8 24. Rg1 f3 25. g3 Re8 26. Rd1 Re2
+27. Rd2 Re1+ 28. Rd1 Re2 1/2-1/2
+
+[Event "Moscow Tal Memorial 3rd"]
+[Site "Moscow"]
+[Date "2008.08.22"]
+[Round "5"]
+[White "Ponomariov, Ruslan"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[ECO "C89"]
+[WhiteElo "2718"]
+[BlackElo "2741"]
+[Annotator "Marin,M"]
+[PlyCount "81"]
+[EventDate "2008.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 {There was a long time when
+White could not find anything against the Marshall Attack. The situation is
+about to change and lately Black has lost quite a few games at teh top level.}
+Bd6 13. Re1 Qh4 14. g3 Qh3 15. Be3 Bg4 16. Qd3 Rae8 17. Nd2 {Almost in any
+opening, what we use to call "the old main line" is the one which, objectively,
+offers the best chances for White, although fashion rarely has anything to do
+with it.} Qh5 {A rare move, which Leko had tried in practice before.} ({"The
+old main line" goes} 17... Re6 {Lately, there have been some interesting
+developments after} 18. Qf1 $5 Qh5 19. f3 Nxe3 20. Qf2 Nd5 21. fxg4 Qxg4 22.
+Qf3 $5 Qxf3 (22... Qg5 {Kramnik,V (2772)-Aronian,L (2759)/Yerevan 2007/CBM 118/
+[Marin,M] (1-0, 45)}) 23. Nxf3 h6 $5 (23... Rfe8 {was my recommendation in the
+notes to the aforementioned game}) 24. Rxe6 fxe6 25. Nd2 a5 26. a4 ({It may
+have been better to maintain the tension with} 26. a3 $5 $14 b4 $140 $2 27.
+axb4 axb4 28. c4 Nc7 29. Ra7 $16) 26... b4 27. c4 Nc7 28. Bc2 (28. c5 $5) 28...
+c5 29. Ne4 Rd8 30. Nxc5 Bxc5 31. dxc5 Rd4 32. b3 Na6 33. c6 Kf7 $44 {and White
+could not break Black's dark-squared blockade in Naiditsch,A (2665)-Ivanisevic,
+I (2664)/Subotica 2008 (1/2-1/2, 50)}) 18. Bc2 $5 {An interesting idea.
+Usually, White keeps the bishop on b3, in order to neutralize the d5-knight.
+However, the last few years have shown that Marshall Attack players know how
+to defend positions in which they enjoy stability on light squares (as would
+be the case of an eventual exchange on d5, even if White retains the extra
+pawn).} ({Here is a typical example:} 18. Qf1 Re7 $5 19. a4 Rfe8 20. Bxd5 Qxd5
+21. axb5 axb5 22. Bf4 $5 Rxe1 23. Rxe1 Rxe1 24. Qxe1 Bf8 25. Qe4 f6 26. Qxd5+
+cxd5 {and White did not try too hard to win this ending in Anand,V (2786)-Leko,
+P (2738)/Dortmund 2007/CBM 119/[Marin,M] (1/2-1/2, 29)}) 18... f5 19. f3 Bxf3 {
+However, Black has faced constant problems in positions where the b3-bishop
+has no counterpart. This was the case in the games quoted in the notes to the
+17th move and this will be the case in the curent game. Probably, a different
+approach is needed to defend such "just slightly" worse endings, something
+that has to be discovered yet. Or maybe there is no 100% proof solution for
+Black and this is the kind of positions White should be aiming for. The future
+will tell.} ({Less than two weeks after his win over Leko, Ponomariov faced a
+novelty from a much lower rated player:} 19... Bh3 20. Bf2 Qg6 21. Rxe8 Rxe8
+22. Re1 Rxe1+ 23. Bxe1 h5 $44 24. Bb3 Kh7 25. Bf2 Nf4 26. Qe3 h4 27. Nf1 Nd5
+28. Qd3 Nf4 29. Qe3 Nd5 30. Qd3 Nf4 31. Qe3 {1/2-1/2 Ponomariov,R (2718)
+-Gustafsson,J (2620)/Cala Mayor 2008}) 20. Nxf3 Qxf3 21. Bd2 $1 Qxd3 ({Black
+could avoid the exchange of queens only at the cost of losing activity:} 21...
+Qh5 22. Rxe8 Qxe8 23. a4 $14) 22. Bxd3 f4 23. Rxe8 Rxe8 24. Kf2 $14 {White's
+pair of bishops offer him a long term advantage. Confronted with an unpleasant
+psychological situation, Leko will go down rather painfully.} fxg3+ (24... c5
+$5 25. c4 $140 Ne3 $5) 25. hxg3 c5 26. c4 Nb6 27. cxb5 c4 28. Bf1 axb5 29. Bg2
+Rf8+ 30. Bf3 Be7 31. Ba5 Na4 $6 (31... Nd5 32. a3 Bd8 33. Bxd8 Rxd8 34. Re1 Nf6
+35. Re5 Rb8 (35... Rxd4 36. Rxb5 $14) 36. Rc5 $14) 32. b3 Bf6 33. Kg2 $1 $16
+Bxd4 $2 34. Rf1 $1 Rxf3 35. Rxf3 Nb2 36. Rf5 c3 37. Rxb5 c2 38. Rb8+ Kf7 39.
+Rc8 Nd1 40. Bd2 Bc3 41. Bc1 1-0
+
+[Event "Moscow Tal Memorial 3rd"]
+[Site "Moscow"]
+[Date "2008.08.24"]
+[Round "6"]
+[White "Leko, Peter"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "C92"]
+[WhiteElo "2741"]
+[BlackElo "2781"]
+[Annotator "Marin,M"]
+[PlyCount "86"]
+[EventDate "2008.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 ({Considering the numerous new
+ideas for Black that have been discovered lately in the main line introduced by
+} 12. a4 {, it is just logical that the advance of the d-pawn has become
+increasingly popular.}) 12... Nb8 13. Nf1 Nbd7 14. N3h2 Rc8 $5 $146 {An
+interesting novelty. One important element of Black's plan is to break open
+the centre with ...c6. However, this would weaken the d5-square and White can
+try to take advantage of it by exchanging the f6 knight (with either Ng4 or
+Bg5). The move played by Ivanchuk will be useful after a later ...c6 anyway 
+(in some line given below, ...Rxc6 is possible), but refrains from defining
+the position yet, waiting for White's reaction.} ({I have annotated several
+lines where the topical line} 14... Nc5 15. Bc2 c6 16. b4 Ncd7 17. dxc6 Bxc6
+18. Bg5 {was played.} Qc8 $5 {[%cal Yc8c3,Yc8h3]} (18... Qc7 {Carlsen,M (2765)
+-Navara,D (2672)/Baku 2008/CBM 124/[Marin,M] (1/2-1/2, 45)}) ({I have examined
+the available material after} 18... h6 {Kamsky,G (2726)-Adams,M (2729)/Baku
+2008/CBM 124/[Marin,M] (1-0, 60)}) 19. Ng3 {Svidler,P (2750)-Morozevich,A 
+(2747)/Moscow 2006/CBM 116/[Marin] (1-0, 78)} (19. Bxf6 Nxf6 20. Ng4 Nxg4 21.
+hxg4 Bd7 {This is the point behind placing the queen on c8. White cannot
+defend both the attacked pawns simultaneously. However, he will get good
+compensation in view of the centralized knight.[%csl Yc3,Yg4]} 22. Ne3 Ra7 $5
+23. Bb3 Qxc3 24. Nd5 Qc8 25. Nb6 Qd8 26. Nxd7 Qxd7 27. Bd5 g6 $11 {Hracek,Z 
+(2620)-Beliavsky,A (2640)/Germany 2000/CBM 074 ext (1/2-1/2, 39)})) 15. Ng4 ({
+I suppose that Ivanchuk's idea was to refrain from an early ...c6 in case of} 
+15. Bg5 {, trying to eliminate the enemy dark-squared bishop and activate his
+own. Here are some possible lines.} Be7 16. Ng3 g6 $5 {Since the position has
+a closed character, Black can afford to prepare the threat ...Nxd5 at his own
+convenience.} (16... Nxd5 $2 {is premature because of} 17. Bxd5 $1 $18 {[%csl
+Rb7]}) (16... Nc5 $6 {[%csl Gb7][%cal Gf6d5]} 17. Nf5 $1 Nxd5 18. Bh6 $1 $40)
+17. a4 (17. Bxf6 Bxf6 18. a4 Bh4 $11 {In this line, the white knights are far
+from the d5-square.[%cal Gc7c6]}) 17... Nc5 18. Bc2 Nxd5 ({The less ambitious} 
+18... c6 {is possible, too:} 19. Bxf6 Bxf6 20. Ng4 Bg5 21. axb5 axb5 22. dxc6
+Bxc6 23. Ne3 Bxe3 $1 24. Rxe3 Qe7 {and, once the main danger (Nd5) has been
+removed, Black is doing fine.}) 19. Bxe7 Nxe7 20. Ng4 Rf8 {and White's
+compensation is not very obvious.}) 15... Nxg4 16. Qxg4 Nc5 17. Bc2 c6 18. dxc6
+(18. b4 Na4 $1 {With the rook on c8, Black is well prepared for the structural
+modifications implied by this move.} 19. Bxa4 bxa4 20. c4 (20. dxc6 Rxc6 $1 {
+[%csl Rc4][%cal Gb7c8,Gc8e6]}) 20... cxd5 21. cxd5 {Black should not have
+problems activating his b7-bishop, if only he is careful for a while.} Qb6 (
+21... a5 22. b5 $1) (21... Rc4 {[%cal Gc4b4,Gb7d5,Gb7c8,Gc8d7,Gd7b5]} 22. Ne3
+Rxb4 23. Ba3 Rb5 {[%cal Gb7c8,Gc8d7]} 24. Qd1) 22. Be3 Qb5 23. Rac1 g6 $132)
+18... Bxc6 19. Ne3 g6 20. Rd1 (20. Nf5 {is premature because after} Kh8 21. Nh6
+Qe7 22. Be3 Bg7 {the knight is more of a source of worries.}) 20... Bh6 {A
+logical move, preparing the exchange of the potentially "bad" bishop, which,
+however, supposes some risks.} (20... h5 {looks premature.} 21. Qf3 Ne6 (21...
+b4 22. cxb4 Ne6 23. Bb3 Ng5 24. Qe2 Nxe4 25. Nd5 $16) 22. Nd5 Bxd5 23. Rxd5 (
+23. exd5 Nd4 $1) 23... Nd4 (23... b4 24. Ba4 $1) 24. Qd1 (24. cxd4 Rxc2 25.
+dxe5 Rxe5) 24... Nxc2 25. Qxc2 $14) 21. b4 {Leko consequently plays for the
+d5-square, but this plan is time consuming and weakens the c-file as well.} (
+21. Nf5 {may be the critical line.} Bxc1 22. Raxc1 h5 23. Qg3 Re6 $5 (23...
+Bxe4 $6 24. Nxd6 Bxc2 25. Qf3 $1 (25. Rxc2 Ne4 26. Qd3 Nxd6 27. Qxd6 Qa5 $1)
+25... Bxd1 26. Qxf7+ Kh8 27. Qxg6 Rf8 28. Rxd1 $16) 24. f3 Kf8 25. Ne3 (25. b4
+Nxe4 26. Bxe4 Bxe4 27. fxe4 gxf5 28. exf5 h4 29. Qe3 Rf6 30. Rf1 Ke7 {Black's
+structure is more compact and the king feels quite safe in the centre, because
+of the absence of minor pieces.}) 25... Re8 {[%cal Gc5e6,Ge6f4]} (25... h4 26.
+Qf2 $1 {[%cal Gf2d2]}) 26. h4 a5 $13 {Although the black kingside may seem a
+bit weak, the weakness induced by f3 (necessary at that moment) can have a
+long term significance.}) 21... Ne6 22. Bb3 ({Now it is too late for} 22. Nf5
+$6 Bxc1 23. Raxc1 h5 24. Qg3 Nf4 25. Rd2 d5 26. Bb3 (26. exd5 Qxd5 $5) 26...
+Qf6 27. exd5 Qxf5 28. dxc6 Rxc6 $15) 22... Kh8 23. Nd5 Bxc1 24. Raxc1 Rf8 25.
+Rc2 f5 26. exf5 (26. Qe2 Qg5) 26... gxf5 $36 {Psychologically, it must have
+been unpleasant for Leko to fight against his favourite... Sveshnikov
+structure. Moreover, Black has already solved the problem of his dark-squared
+bishop and has a strong initiative.} 27. Qh5 (27. Qf3 Qg5 $36) 27... Qd7 $6 {
+Ivanchuk underestimates the dynamic potential of White's position.} ({He
+should have played the thematic} 27... Bxd5 $1 {at once:} 28. Bxd5 Nf4 29. Qf3
+(29. Qh6 Rf6) 29... Qg5 $36 {[%cal Gc8c7,Gc7g7]}) 28. Qh6 $14 {Suddenly, it is
+not easy for Black to free himself.} Bxd5 29. Rxd5 $2 (29. Bxd5 Nf4 30. g3 Nxd5
+(30... Ng6 31. c4 $14) 31. Rxd5 $14) 29... Qe7 30. Rcd2 Rc6 31. g3 f4 $1 $40 {
+Everything is working fine now for Black. He has safely defended the d6-pawn
+and a knight  move to g5 will fit in with the pawn structure perfectly.} 32.
+Kh2 Rf6 33. Qh5 Qf8 34. R5d3 e4 35. Qd5 exd3 36. Qxc6 fxg3+ 37. fxg3 Ng5 38.
+Bd5 Qh6 39. h4 Nf3+ 40. Bxf3 Qxd2+ 41. Kh3 Qxa2 42. Qb6 (42. Bd5 Qf2) 42...
+Qe6+ 43. Kg2 Qf5 0-1
+
+[Event "Moscow Tal Memorial 3rd"]
+[Site "Moscow"]
+[Date "2008.08.24"]
+[Round "6"]
+[White "Shirov, Alexei"]
+[Black "Alekseev, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2741"]
+[BlackElo "2708"]
+[PlyCount "61"]
+[EventDate "2008.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. Bg5 Bxg5 12. Nxg5 h6 13. Nf3 h5 14.
+Rad1 Ke7 15. Ng5 Be6 16. Nxe6 fxe6 17. Rd3 Rad8 18. Rfd1 Rxd3 19. Rxd3 h4 20.
+Ne4 b6 21. f4 a5 22. Kf2 a4 23. c4 Ra8 24. Kf3 c5 25. a3 Rf8 26. Rd2 Nh6 27.
+Ng5 Nf5 28. Ne4 Nh6 29. Rd1 Nf7 30. Kg4 Nh6+ 31. Kf3 1/2-1/2
+
+[Event "Moscow Tal Memorial 3rd"]
+[Site "Moscow"]
+[Date "2008.08.25"]
+[Round "7"]
+[White "Alekseev, Evgeny"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2708"]
+[BlackElo "2742"]
+[Annotator "Kritz"]
+[PlyCount "76"]
+[EventDate "2008.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 {Die Rubinstein-Variante ist eine
+sehr solide Verteidigung. Das Maximum, was Weiß erreichen kann, ist ein etwas
+besseres Endspiel, das sehr schwer zu gewinnen sein wird.} 5. Nf3 (5. Bd3 Ngf6
+6. Qe2 $5 {Dies stellt Schwarz eine Falle.} c5 (6... Nxe4 7. Bxe4 Nf6 $2 8.
+Bxb7 Bxb7 9. Qb5+ $18) 7. Nxf6+ Nxf6 8. dxc5 Bxc5 9. Bd2 O-O 10. O-O-O {Diese
+Stellung galt lange Zeit als sehr gut für Weiß, bis Schwarz auf die Idee kam,
+seinen Zentrumsbauern zu opfern:} e5 $1 11. Nf3 e4 12. Bxe4 Qe7 13. Rhe1 Qe6
+14. Kb1 Nxe4 15. Qxe4 Bxf2 16. Re2 Qxe4 17. Rxe4 Rd8 $15 {Baramidze -
+Schlosser (Austria, 2006). Schwarz steht sogar besser.}) ({Nichts bringt auch
+die Entwicklung des Läufers auf die lange Diagonale:} 5. g3 Ngf6 6. Nxf6+ Nxf6
+7. Bg2 e5 8. Qe2 (8. dxe5 Qxd1+ 9. Kxd1 Ng4 $15) 8... Qxd4 9. Nf3 Qd5 (9... Qe4
+10. Qxe4 Nxe4 11. Nxe5 Nc5 12. Be3 f6 13. Nc4 Be6 14. Na5 O-O-O $11 {Svidler -
+Bareev (Monte Carlo, 2005)}) 10. O-O Bd6 11. Re1 Bg4 12. h3 Bxf3 13. Bxf3 e4
+14. Bxe4 Nxe4 15. Qxe4+ Qxe4 16. Rxe4+ Kd7 $11 {Svidler - Anand (Monte Carlo,
+2005)}) 5... Ngf6 6. Bd3 {Meiner Meinung nach die prinzipiellste Variante.} (6.
+Nxf6+ Nxf6 7. Bd3 c5 8. dxc5 Bxc5 9. O-O O-O 10. Bg5 b6 11. Qe2 Bb7 12. Rad1
+Qc7 13. Bxf6 gxf6 14. Be4 Rfd8 $11 {Zwar hat Weiß die etwas bessere
+Bauernstruktur, es ist trotzdem zu wenig, um einen spürbaren Vorteil zu
+erreichen.}) (6. Bg5 h6 7. Nxf6+ (7. Bxf6 Nxf6 8. Bd3 Nxe4 9. Bxe4 c5 10. c3
+cxd4 11. Qa4+ Qd7 12. Qc4 Bd6 13. Qxd4 O-O 14. O-O-O Bf4+ 15. Kb1 Qxd4 16. Nxd4
+a6 $11 {Polgar - Bareev (Enghien les Bains, 2003). Weiß hat eine symbolische
+Initiative, kann allerdings nicht richtig was angreifen.}) 7... Nxf6 8. Be3 Nd5
+9. Qd2 Bd6 10. O-O-O Qe7 11. Ne5 Bd7 $132 {Schwarz hat keine Schwierigkeiten.})
+6... c5 (6... Nxe4 7. Bxe4 Nf6 8. Bg5 Qd6 9. Bxf6 gxf6 10. c3 $14 {Dank dem
+Entwicklungsvorsprung und der besseren Bauernstruktur steht Weiß doch etwas
+besser.}) 7. O-O cxd4 (7... Nxe4 8. Bxe4 Nf6 9. Bg5 cxd4 10. Nxd4 Be7 11. Bf3
+O-O 12. Re1 (12. c4 a6 13. Bf4 Qb6 14. Nb3 Bd7 15. Qd4 Qxd4 16. Nxd4 Ra7 17.
+Bc7 Bc5 18. Nb3 Rc8 19. Be5 Bb6 20. c5 Bc7 21. Bxc7 Rxc7 22. Rac1 a5 $11 {
+Svidler - Bareev (Monte Carlo, 2004)}) 12... a6 13. c3 Qc7 14. Bh4 (14. g3 Nd5
+15. Bxe7 Nxe7 16. Qe2 Bd7 17. Qe5 Rac8 18. Rad1 Qxe5 19. Rxe5 Rc7 $11 {
+Zhigalko - Drozdovskij (Warsaw, 2006)}) 14... Bd6 15. Bxf6 gxf6 16. g3 Rd8 17.
+Bg2 Bf8 18. Qh5 Bg7 19. Rad1 Qb6 (19... Bd7 20. Nf5 $3 Bc6 (20... exf5 21. Re7
+$18) 21. Bxc6 bxc6 22. Nxg7 Kxg7 23. Rxd8 Rxd8 24. Re4 $16) 20. Nb3 Re8 21. c4
+Qc7 22. Qa5 $1 $14 {Shirov - Anand (Wijk aan Zee, 2001)}) 8. Nxd4 Nxe4 (8...
+Be7 9. Re1 O-O 10. c3 a6 11. Qf3 $1 (11. Ng5 Nc5 12. Bc2 h6 13. Ngf3 Qc7 14.
+Ne5 Bd6 15. Qe2 b5 16. h3 Bb7 $11 {Alekseev - Tratar (Crete, 2007). Das größte
+Problem von Schwarz im Rubinstein ist die Entwicklung des Läufers c8. Wenn der
+Läufer rauskommt, steht Schwarz zumindest nicht schlechter.}) 11... Nd5 12. Qg3
+Qc7 13. Qxc7 Nxc7 14. Bg5 Bxg5 15. Nxg5 Nf6 16. Ne4 Ncd5 17. c4 Nxe4 18. Bxe4
+Nf6 19. Bf3 $14 {Kritz - Tratar (Plovdiv, 2008). Der weiße Vorteil ist sehr
+klein, man muss solche Stellungen sehr dynamisch und energisch spielen, um den
+Punkt zu erzielen.}) 9. Bxe4 Nf6 10. Bf3 Be7 (10... Bc5 11. Be3 Bb6 12. c4 e5
+13. Nb5 Bxe3 14. fxe3 Qxd1 15. Rfxd1 Ke7 16. Nd6 Rb8 17. c5 Rd8 18. Rac1 $1 $14
+(18. b4 b6 19. Nb5 bxc5 20. Nxa7 Bd7 $1 21. bxc5 e4 22. c6 Ra8 23. c7 Re8 24.
+c8=Q Bxc8 25. Nc6+ Kf8 26. Be2 Ra3 $15 {Shirov - Bareev (Monaco, 2002)})) 11.
+Bf4 $5 $146 {Es ist komisch, dass dieser Zug nicht früher gespielt wurde, er
+sieht sehr logisch aus. Die weißen Läufer üben sehr unangenehmen Druck auf die
+schwarze Stellung aus.} (11. Nb5 O-O 12. Bf4 Bd7 13. c4 Bc6 14. Qe2 Bxf3 15.
+Qxf3 Qb6 16. Rad1 a6 $11 {Shirov - Anand (Moscow, 2001)}) (11. Re1 O-O 12. c3
+Qc7 (12... Qb6 13. Qb3 Rd8 14. Qxb6 axb6 15. Bf4 Ne8 16. Nb5 $14 {Macieja -
+Milov (Antalya, 2004)}) 13. Nb5 Qb6 14. a4 Bc5 15. Qe2 a6 16. Na3 Qc7 17. Nc4
+Nd5 18. Ne5 (18. Bxd5 $6 exd5 19. Ne5 Bd6 20. Nf3 Bg4 $36) 18... f6 19. Nd3 Bd6
+20. g3 Bd7 $11 {Korneev - Mirzoev (Elgoibar, 2006)}) 11... O-O 12. c3 a6 $6 {
+Schwarz bringt sich ins Gefahr.} (12... Nd5 13. Be5 Bd6 (13... Qb6 14. Qb3 f6
+15. Bxd5 exd5 16. Qxd5+ Kh8 17. Bf4 Qxb2 18. Rae1 $16) 14. Bxd6 Qxd6 15. Qb3
+Nf4 16. Nb5 Qb6 17. Rad1 e5 $1 $132) 13. Re1 {Weiß folgt der richtigen
+Strategie - er entwickelt seine Figuren und gleichzeitig passt er auf, dass
+Schwarz sich am Damenflügel nicht entfesselt und den Läufer c8 in die Freiheit
+bringt.} Ra7 $6 {Die schwarze Lage ist nicht einfach, dieser Zug sieht aber
+nun wirklich sehr gekünstelt aus.} (13... Nd5 14. Be5 $1 Bc5 (14... Bd6 15.
+Nxe6 Bxe6 16. Bxd5 Bxe5 17. Rxe5 $16) (14... Bf6 15. Bxd5 Qxd5 16. Bxf6 gxf6
+17. c4 Qxc4 18. Qg4+ Kh8 19. Qh4 $18) 15. Nb3 Ba7 16. c4 $16) (13... Qb6 14.
+Qb3 Qxb3 15. Nxb3 Rd8 16. c4 $14) 14. a4 {Weiß erhöht langsam den Druck.} Bd7
+15. Qb3 Qc8 (15... Bc5 16. Bxb7 Nh5 17. Be3 Qc7 18. Bf3 $16) 16. a5 $16 {
+Schwarz kann sich kaum noch bewegen.} Bc5 17. Rad1 (17. Be5 $5 Rd8 (17... Bxd4
+$2 18. Bxd4 Ra8 19. Bxf6 gxf6 20. Bxb7 Qb8 21. Qb6 Ra7 22. Bxa6 $18) 18. Rad1
+$16) 17... Bxd4 18. Rxd4 Bc6 19. Qb6 $6 (19. c4 $5 {wäre vielleicht etwas
+genauer gewesen.} Bxf3 20. Qxf3 Re8 21. h3 Qc5 22. Qc3 Raa8 23. Be5 $16) 19...
+Ra8 20. Bxc6 Qxc6 21. Qxc6 bxc6 22. c4 $1 {Es ist wichtig, dem schwarzen
+Springer das Feld d5 zu nehmen.} Rfd8 23. Red1 Rxd4 24. Rxd4 Kf8 25. g4 Ke8 (
+25... h6 26. Be5 Ke7 $14 {Weiß steht besser, aber es ist nicht so einfach, die
+schwarze Verteidigungslinie zu knacken.}) 26. g5 Ng8 27. Be5 f6 28. gxf6 gxf6 (
+28... Nxf6 29. Rd6 $18) 29. Bc7 Ne7 $2 (29... Rc8 $1 30. Bb6 c5 31. Rh4 (31.
+Rd6 Ke7 32. Rd3 f5 $11) 31... h6 32. Kg2 Kf7 $11) 30. Rd6 Kf7 31. Bb6 (31. Kf1
+{ist ebenfalls stark, um den König näher zum Zentrum zu bringen. Mit 29....Ne7
+hat sich Schwarz dast in eine Pattstellung gebracht.} Rc8 32. Bb6 e5 33. Rd7
+Ke6 34. Ra7 $16) 31... e5 32. Bc5 Ng6 33. Rxc6 $18 {Der Rest ist die Sache der
+Technik.} Nf4 34. Be3 Nd3 35. b3 f5 36. Rd6 e4 37. f4 Rg8+ 38. Kf1 Rg4 {
+Anscheinend hat Schwarz hier die Zeit überschritten. Die Stellung war aber
+sowieso verloren - Weiß sollte am besten mit 39.Rxa6 fortfahren und danach
+seinen a-Bauern nach vorne bewegen.} 1-0
+
+[Event "Moscow Tal Memorial 3rd"]
+[Site "Moscow"]
+[Date "2008.08.26"]
+[Round "8"]
+[White "Leko, Peter"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2741"]
+[BlackElo "2720"]
+[PlyCount "47"]
+[EventDate "2008.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Re1 Nxd3 10. Qxd3 c6 11. cxd5 cxd5 12. Qb5+ Qd7 13. Qb3 O-O 14. Nc3 Nxc3
+15. bxc3 Rd8 16. Ba3 Bf6 17. Re3 Qc7 18. Qxd5 Be6 19. Qb5 Rac8 20. h3 h6 21.
+Qe2 Qc4 22. Qe1 Qa6 23. Bc1 Qc6 24. Bd2 1/2-1/2
+
+[Event "Moscow Tal Memorial 3rd"]
+[Site "Moscow"]
+[Date "2008.08.26"]
+[Round "8"]
+[White "Ponomariov, Ruslan"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[WhiteElo "2718"]
+[BlackElo "2781"]
+[PlyCount "177"]
+[EventDate "2008.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Bb7 10. d4 Re8 11. Ng5 Rf8 12. Nf3 Re8 13. Nbd2 Bf8 14. a3 h6 15. Bc2
+Nb8 16. b4 Nbd7 17. Bb2 c6 18. Rc1 Rc8 19. Bb1 g6 20. Qb3 c5 21. dxc5 dxc5 22.
+c4 Qe7 23. bxc5 Qxc5 24. cxb5 Qxb5 25. Rxc8 Bxc8 26. Qxb5 axb5 27. Rc1 Bb7 28.
+Rc7 Ba8 29. Bd3 Bd6 30. Ra7 Bc6 31. Nb3 Bb8 32. Ra6 Bxe4 33. Bxb5 Bd5 34. Na5
+Bc7 35. Ra7 Bb6 36. Bxd7 Re7 37. Ra6 Nxd7 38. Nxe5 Bc7 39. Ra7 Nxe5 40. Bxe5
+Rxe5 41. Rxc7 Rg5 42. g4 Re5 43. Rc1 Re4 44. Rd1 Be6 45. Nc6 Ra4 46. Rd3 Kg7
+47. f3 h5 48. Kf2 Kf6 49. Nd4 Bc4 50. Re3 Ba6 51. Nc6 Bc8 52. Nb4 Ra5 53. Kg3
+hxg4 54. hxg4 Be6 55. Rc3 Ra8 56. Nd3 Ra5 57. Kf4 g5+ 58. Ke3 Ke7 59. Nc5 f5
+60. Kd4 fxg4 61. Re3 gxf3 62. Rxe6+ Kf7 63. Re3 g4 64. Ne4 Kg6 65. Rc3 Kf5 66.
+Ke3 Re5 67. Rc5 Rxc5 68. Nxc5 Ke5 69. Ne4 Kd5 70. Kd3 Ke5 71. Ke3 Kd5 72. Nd2
+Kc5 73. Kd3 Kb5 74. Kc3 Ka4 75. Kb2 g3 76. Nxf3 g2 77. Ka2 Ka5 78. Kb3 Kb5 79.
+a4+ Ka5 80. Ka3 Ka6 81. Kb4 Kb6 82. a5+ Ka6 83. Ka4 Ka7 84. Kb5 Kb7 85. a6+ Ka7
+86. Ka5 Kb8 87. Kb6 Ka8 88. a7 g1=B+ 89. Nxg1 1/2-1/2
+
+[Event "Moscow Tal Memorial 3rd"]
+[Site "Moscow"]
+[Date "2008.08.27"]
+[Round "9"]
+[White "Alekseev, Evgeny"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2708"]
+[BlackElo "2741"]
+[PlyCount "50"]
+[EventDate "2008.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. Nc3 O-O 10. Be3 Bg4 11. Qc2 Bf5 12. Qb3 Be6 13. O-O f5 14. exf6 Qxf6 15.
+Bxc6 bxc6 16. Ne5 Nd6 17. Nxc6 Nc4 18. Rae1 Kh8 19. Nb4 Qf7 20. Na4 Qg6 21. Kh1
+Ba5 22. a3 Bh3 23. Rg1 Bg4 24. Nc5 c6 25. f4 Rab8 1/2-1/2
+
+[Event "Moscow Tal Memorial 3rd"]
+[Site "Moscow"]
+[Date "2008.08.27"]
+[Round "9"]
+[White "Kamsky, Gata"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2723"]
+[BlackElo "2718"]
+[PlyCount "147"]
+[EventDate "2008.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O d6 6. Bxc6+ bxc6 7. h3 O-O 8.
+Nc3 Bb6 9. Re1 h6 10. Na4 c5 11. Nh2 Bd7 12. Nc3 Nh7 13. a4 Ba5 14. g4 Qe8 15.
+Re3 Bxc3 16. bxc3 Bxa4 17. Rg3 a5 18. c4 Bd7 19. f4 exf4 20. Bxf4 Qe7 21. Bd2
+a4 22. Bc3 c6 23. Nf1 f6 24. h4 Be6 25. Ne3 Qd7 26. Qf3 a3 27. Ra2 Qb7 28. Kf2
+Qb1 29. Ra1 a2 30. Qh1 Qxh1 31. Rxh1 Rfb8 32. Rgg1 Ra3 33. Ba1 Ra7 34. Bc3 Nf8
+35. g5 fxg5 36. hxg5 hxg5 37. Rxg5 Rb1 38. Rhg1 Rxg1 39. Rxg1 g6 40. Ba1 Kf7
+41. Nd1 d5 42. cxd5 cxd5 43. exd5 Bxd5 44. Nc3 Bc6 45. Bb2 Bd7 46. Ke3 Ra6 47.
+Kd2 Bf5 48. Ra1 Be6 49. Ne4 c4 50. Ng5+ Ke7 51. Nxe6 Nxe6 52. dxc4 g5 53. Be5
+Nf4 54. Kc3 Ke6 55. Bc7 Kf5 56. Kb2 g4 57. Rxa2 Rxa2+ 58. Kxa2 g3 59. Bb6 g2
+60. Bg1 Nh3 61. Bh2 Ng5 62. Bg1 Nf3 63. Bf2 Ke4 64. c5 Nd4 65. Ka3 Nxc2+ 66.
+Ka4 Nd4 67. Ka5 Ne6 68. c6 Kd3 69. Kb6 Ke2 70. Bg1 Kf1 71. Bh2 g1=B+ 72. Bxg1
+Kxg1 73. c7 Nxc7 74. Kxc7 1/2-1/2
+
+[Event "Rewal op-B 13th"]
+[Site "Rewal"]
+[Date "2008.08.20"]
+[Round "1"]
+[White "Kumor, Lukasz"]
+[Black "Furman, Justyna"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2064"]
+[BlackElo "1785"]
+[PlyCount "51"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bg5 Be7
+8. Bd3 h6 9. Bh4 c5 10. Qe2 cxd4 11. Bb5+ Bd7 12. O-O-O Qa5 13. Bxd7+ Nxd7 14.
+Bxe7 Kxe7 15. Kb1 Rhc8 16. Rxd4 Qc5 17. Rhd1 Nf6 18. Ne5 Rc7 19. f4 Rac8 20. c3
+b5 21. g4 b4 22. Rxb4 Nd5 23. Rbd4 Nb6 24. f5 Kf6 25. fxe6 fxe6 26. Qf2+ 1-0
+
+[Event "Rewal op-B 13th"]
+[Site "Rewal"]
+[Date "2008.08.20"]
+[Round "1"]
+[White "Pienkos, Slawomir"]
+[Black "Wozniak, Bartosz"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2026"]
+[BlackElo "1737"]
+[PlyCount "69"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. f4 d5 3. e5 e6 4. Nf3 Ne7 5. Bb5+ Nec6 6. O-O c4 7. d4 cxd3 8. Bxd3
+Bc5+ 9. Kh1 Nd7 10. Ng5 g6 11. Nc3 Nb6 12. Qg4 Ne7 13. Qh3 h5 14. a4 Bd7 15.
+Bd2 Nf5 16. a5 Nc8 17. Rae1 Nce7 18. Ne2 Ng8 19. g4 Nd4 20. Nxd4 Bxd4 21. f5
+gxf5 22. gxf5 exf5 23. e6 fxe6 24. Nxe6 Bxe6 25. Rxe6+ Kf7 26. Bxf5 Nf6 27. c3
+Bc5 28. Bg5 Be7 29. Bd3 d4 30. Qf5 Qd7 31. Rxf6+ Ke8 32. Bb5 Bxf6 33. Qxd7+ Kf8
+34. Bxf6 Rg8 35. Qe7# 1-0
+
+[Event "Rewal op-B 13th"]
+[Site "Rewal"]
+[Date "2008.08.20"]
+[Round "1"]
+[White "Poswiatowski, Michal"]
+[Black "Skwarnicki, Adam"]
+[Result "1-0"]
+[ECO "C17"]
+[WhiteElo "1775"]
+[BlackElo "2053"]
+[PlyCount "133"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 a6 6. a3 Bxc3 7. Bxc3 Nc6 8. Ne2
+c4 9. f4 Nh6 10. Ng3 Qh4 11. Qf3 Nf5 12. O-O-O Nxg3 13. Qxg3 Qxg3 14. hxg3 b5
+15. b3 Bd7 16. Be2 a5 17. Be1 Rc8 18. Kb1 O-O 19. g4 Rc7 20. Bf2 f6 21. exf6
+gxf6 22. Bg3 f5 23. gxf5 exf5 24. Bf1 Be6 25. Rh6 Nd8 26. Bh4 cxb3 27. cxb3 Bf7
+28. Bf6 Rd7 29. g4 Bg6 30. g5 Nf7 31. Rh2 Rc8 32. Rc1 Rxc1+ 33. Kxc1 Nd8 34.
+Rc2 Ne6 35. Be5 Rd8 36. Rc6 Bf7 37. Rb6 b4 38. axb4 axb4 39. Rxb4 Rc8+ 40. Kb2
+Nc7 41. Rb7 Na6 42. Be2 h5 43. Bxa6 h4 44. Bf1 Kf8 45. Rb8 Rxb8 46. Bxb8 Ke7
+47. Kc2 Bh5 48. Kd2 Bg4 49. Ke3 h3 50. Kf2 h2 51. Kg2 Bh3+ 52. Kxh2 Bxf1 53.
+Be5 Kf7 54. Kg3 Be2 55. Kf2 Bd1 56. b4 Ba4 57. Ke3 Be8 58. Kd3 Ke6 59. g6 Bxg6
+60. b5 Kd7 61. Kc3 Kc8 62. Kb4 Kb7 63. Kc5 Be8 64. b6 Ba4 65. Bc7 Bb3 66. Kd6
+Bc4 67. Ke6 1-0
+
+[Event "Rewal op-B 13th"]
+[Site "Rewal"]
+[Date "2008.08.20"]
+[Round "1"]
+[White "Puszkarek, Kamil"]
+[Black "Laszewski, Kazimierz"]
+[Result "0-1"]
+[ECO "C45"]
+[BlackElo "1822"]
+[PlyCount "42"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. c4 Qe7 7. Nc3 Nf6 8.
+Bd3 d6 9. O-O O-O 10. Bg5 Qe5 11. Bxf6 Qxf6 12. Qc2 Qg5 13. Kh1 f5 14. Nd5 f4
+15. Nxb6 axb6 16. f3 Rf6 17. e5 Rh6 18. exd6 Qg3 19. Kg1 Rxh2 20. dxc7 Qh4 21.
+Bxh7+ Kh8 0-1
+
+[Event "Rewal op-B 13th"]
+[Site "Rewal"]
+[Date "2008.08.20"]
+[Round "1"]
+[White "Sujkowski, Pawel"]
+[Black "Szwajkowska, Kamila"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "1850"]
+[PlyCount "49"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. cxd4 Bb4+ 8.
+Nbd2 Bc3 9. Bxf7+ Kxf7 10. Qb3+ Ke8 11. Qxc3 Nf6 12. O-O d6 13. Re1 Bd7 14. Rb1
+b6 15. e5 Nd5 16. exd6+ Kf8 17. Qc4 Nf6 18. dxc7 Qc8 19. Ba3+ Ne7 20. Bxe7+ Ke8
+21. Ng5 Be6 22. Rxe6 Qxe6 23. Qxe6 h6 24. Nc4 hxg5 25. Nd6# 1-0
+
+[Event "Rewal op-B 13th"]
+[Site "Rewal"]
+[Date "2008.08.20"]
+[Round "2"]
+[White "Gora, Jan"]
+[Black "Trepkowski, Piotr"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "1678"]
+[BlackElo "1932"]
+[PlyCount "34"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. Nb5 Bxe3 7. fxe3 Qh4+
+8. g3 Qd8 9. Qg4 Nf6 10. Nxc7+ Qxc7 11. Qxg7 Nb4 12. Qxh8+ Ke7 13. Bd3 Nxd3+
+14. Kd2 Ne5 15. Nc3 Nc4+ 16. Ke2 Qc5 17. Nd1 d6 0-1
+
+[Event "Rewal op-B 13th"]
+[Site "Rewal"]
+[Date "2008.08.20"]
+[Round "2"]
+[White "Grochocinska, Urszula"]
+[Black "Gradalski, Bartosz"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "1665"]
+[PlyCount "56"]
+[EventDate "2008.08.19"]
+[EventType "swiss"]
+[EventRounds "9"]

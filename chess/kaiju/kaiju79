@@ -1,0 +1,38 @@
+6.Be2 e5 7.d5 a5
+E93	E93	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5
+Nbd7
+E93	Keres Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.d5 Nbd7 8.Bg5 h6 9.Bh4 g5 10.Bg3 Nh5 11.h4
+E94	E94	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+E94	Ukranian Defense, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O a5
+E94	Donner Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O c6
+E94	Glek Defense, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O Na6
+E95	E95	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+Nbd7 8.Re1
+E96	E96	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+Nbd7 8.Re1 c6 9.Bf1 a5
+E97	Aronin-Taimanov Variation, KID; E97	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7
+4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6
+E97	Normal Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+E97	Bayonet Attack, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4
+E97	Yepishin's Line, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4 Nh5 10.Qc2
+E97	Sokolov's Line, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4 Nh5 10.Re1
+E97	Korchnoi Attack, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Bd2
+E98	E98	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+Nc6 8.d5 Ne7 9.Ne1
+E98	Kozul Gambit, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.Be3 f5
+E99	Benko Attack, KID; E99	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3
+E99	Benko Variation, KID	1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O
+6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3 f5 11.g4
+
+

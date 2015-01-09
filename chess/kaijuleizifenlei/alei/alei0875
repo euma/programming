@@ -1,0 +1,600 @@
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nc3 Bb4 6. Qd3 b6 7. e5 Qe7 8. Qg3
+O-O 9. O-O-O Bb7 10. h4 c5 11. Nb5 a6 12. Nd6 Bc6 13. c3 Ba5 14. Nh3 cxd4 15.
+Rxd4 b5 16. Nf4 Kh8 17. Bd3 g6 18. Nxf7+ Qxf7 19. Nxg6+ Kh7 20. Nxf8+ Kh8 21.
+Rf4 1-0
+
+[Event "Paris-ch op-A"]
+[Site "Paris"]
+[Date "2008.07.05"]
+[Round "8"]
+[White "Lefranc, Benoit"]
+[Black "Silva, Francis"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2100"]
+[BlackElo "2009"]
+[PlyCount "164"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. d3 Bf5 5. O-O Nbd7 6. Nbd2 Qb6 7. a4 e5 8. Nh4
+Bg6 9. a5 Qc7 10. Nxg6 hxg6 11. e4 dxe4 12. dxe4 Nc5 13. Qe2 Rd8 14. b4 Ne6 15.
+c3 Be7 16. Nb3 O-O 17. Be3 b6 18. axb6 axb6 19. Ra6 c5 20. b5 Ra8 21. Rfa1 Qb7
+22. Qc4 Nc7 23. Rxa8 Rxa8 24. f3 Rxa1+ 25. Nxa1 Nfe8 26. Bf1 Qa8 27. Nc2 Nd6
+28. Qb3 g5 29. g4 Qa5 30. Na3 Ne6 31. Nc2 Nc7 32. Na3 Ne6 33. Kg2 Qa8 34. Bc4
+Nf4+ 35. Bxf4 gxf4 36. Bd5 Qa7 37. Kf1 g6 38. Ke2 Kg7 39. Kd3 Bf6 40. Kc2 Qa5
+41. Kb2 Qa7 42. Bc6 c4 43. Qa2 Be7 44. Bd5 Qc7 45. Bxc4 Qc5 46. Bd5 Nxb5 47.
+Nxb5 Qxb5+ 48. Qb3 Qe2+ 49. Kb1 Qf1+ 50. Ka2 Qf2+ 51. Qb2 Qxf3 52. Qxb6 Qxc3
+53. Qb2 Qa5+ 54. Kb1 Qc7 55. h4 Bxh4 56. Qb3 Bf2 57. Qc4 Bc5 58. Kc2 Qe7 59.
+Kd1 Bd4 60. Qf1 Qh4 61. Qf3 Qg3 62. Ke2 Qg1 63. Bc6 f6 64. Bd5 Kh6 65. Bf7 Kg5
+66. Be8 Qc1 67. Bd7 Qc7 68. Be8 Qc8 69. Bf7 Qd7 70. Bg8 Qxg4 71. Bf7 Qxf3+ 72.
+Kxf3 f5 73. Bd5 Kf6 74. Bb7 Kg5 75. Bc6 Kh4 76. Bd5 Be3 77. Bc6 fxe4+ 78. Bxe4
+g5 79. Bf5 g4+ 80. Ke2 Kg3 81. Be4 Bc5 82. Kf1 f3 0-1
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.06.28"]
+[Round "1"]
+[White "Karlsson, Lars"]
+[Black "Berg, Emanuel"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "2475"]
+[BlackElo "2601"]
+[PlyCount "77"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. f4 d5 2. Nf3 g6 3. e3 Bg7 4. Be2 Nd7 5. Nc3 c6 6. d4 Nh6 7. e4 dxe4 8. Nxe4
+Nf6 9. Nxf6+ Bxf6 10. c3 Bg4 11. Qb3 Qc7 12. Ne5 Bxe2 13. Kxe2 e6 14. g4 Ng8
+15. Be3 Ne7 16. c4 O-O 17. Nf3 b5 18. c5 Nd5 19. g5 Bg7 20. h4 Nxf4+ 21. Bxf4
+Qxf4 22. h5 Qe4+ 23. Qe3 Qc2+ 24. Qd2 Qxd2+ 25. Kxd2 Rad8 26. Ke3 e5 27. dxe5
+Bxe5 28. Rad1 Bxb2 29. Rd6 Ba3 30. Rxc6 Rc8 31. Rxc8 Rxc8 32. h6 Rxc5 33. Rd1
+Kf8 34. Rd8+ Ke7 35. Ra8 Bc1+ 36. Ke4 Bxg5 37. Rxa7+ Ke8 38. Nxg5 Rxg5 39. Ra8+
+0-1
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.06.29"]
+[Round "2"]
+[White "Agrest, Evgenij"]
+[Black "Hector, Jonny"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "2567"]
+[BlackElo "2532"]
+[PlyCount "57"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Nd4 5. Bg2 Nxf3+ 6. Bxf3 Bb4 7. O-O O-O 8.
+Bg2 Re8 9. d4 h6 10. Qb3 Bxc3 11. Qxc3 d6 12. dxe5 Rxe5 13. Re1 Ne4 14. Qd4 Qe8
+15. b3 f5 16. Bb2 Qf7 17. Rac1 Bd7 18. f3 Nf6 19. Qd3 Re7 20. c5 dxc5 21. Rxc5
+c6 22. Re5 Be6 23. Bh3 Nd7 24. Rxe6 Rxe6 25. Bxf5 Re7 26. Bg6 Qe6 27. Bf5 Qf7
+28. Bg6 Qe6 29. Bf5 1/2-1/2
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.06.29"]
+[Round "2"]
+[White "Tikkanen, Hans"]
+[Black "Berg, Emanuel"]
+[Result "0-1"]
+[ECO "A67"]
+[WhiteElo "2437"]
+[BlackElo "2601"]
+[Annotator "Berg,E"]
+[PlyCount "70"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 {Since I
+started playing the Benoni last summer this was the first game in which I
+faced the sharp Pawn Storm System. Well actually, I had played against it once
+in a correspondence game by email in 2003, but this was my first encounter
+over the board.} Bg7 8. Bb5+ Nfd7 {I think this is a forced move.} (8... Nbd7 {
+leads to very complicated play, but is clearly favourable for White.}) ({and} 
+8... Bd7 {also favours White.}) 9. Be2 {An interesting move with the idea to
+meet ...a6 with a4.} ({After the direct} 9. a4 {Black can exploit the weakened
+b4-square by playing ...Na6-b4 later on.}) 9... O-O (9... Qh4+ {is another
+option in order to weaken the white kingside. However this loses some time for
+Black so I decided that an extra tempo was worth more.}) 10. Nh3 $5 $146 {A
+novelty. White's idea is to support e4 by Nf2 and then rush with the h-pawn to
+attack the black king.} (10. Nf3 {is the normal move here.}) 10... Na6 {Black
+is planning to suport the standard break ...b7-b5 by putting his knight on c7.}
+11. Nf2 Nc7 ({Here} 11... f5 {was another interesting option in order to break
+in the centre before White's h-pawn starts going.}) 12. a4 {Preventing b5 as
+after} (12. h4 b5 {the pawn is tactically protected by the queen check on a5.})
+12... a6 13. h4 Rb8 14. h5 (14. a5 {trying to give Black a weakness on a6
+doesn't bother him as he is just happy to get an open b-file after} b5 15. axb6
+{and here} Nb5 $1 16. Nxb5 axb5 17. Bxb5 Qxb6 {gives Black a lot of
+counterpaly for the pawn.}) 14... b5 {White does well in not opening the
+a-file as it would give the square b5 for the black knight on c7.} 15. Qd3 Re8
+{Black puts some pressure on the e-file and also gives a square for his king
+on f8 which can be useful later on in case of an exchange on g6 followed by
+Qh3.} 16. g4 $6 {White is storming with all his pawns, but now Black gets
+enough time to find counterplay.} (16. hxg6 {was more critical for Black.} hxg6
+({After} 16... fxg6 {Black's king is rather safe, but White has a strong pawn
+centre and after} 17. O-O {I found it hard for Black to find counterplay.
+Black has some activity on the queenside, but the knight on c7 doesn't have a
+bright future.}) 17. f5 {with a strong attack for White. There might follow} b4
+18. Ncd1 (18. fxg6 {doesn't work as after} bxc3 19. gxf7+ Kxf7 {There is no
+good way to exploit the open Black king.}) 18... gxf5 19. Qg3 Qf6 20. Rh6 $1
+Qe7 21. Rxd6 fxe4 22. Ng4 {and Black is under heavy pressure.}) 16... c4 17.
+Qf3 $6 (17. Qh3 {right away looks better.}) 17... Nc5 18. hxg6 hxg6 19. Be3 b4
+20. Ncd1 Nb3 ({An interesting aternative was} 20... c3 21. bxc3 bxc3 22. Rc1 (
+22. Ra2 $2 {allows} Nxe4 $1 23. Nxe4 Nxd5 24. f5 Nxe3 25. Qxe3 (25. Nxe3 gxf5
+26. gxf5 (26. Nxf5 Rb1+ 27. Kf2 (27. Bd1 d5 $19) 27... Rxh1 28. Qxh1 Qb6+ 29.
+Kg3 Bxf5 30. gxf5 Qe3+ $19) 26... d5 {and White will have to give back the
+piece very soon.}) 25... Bb7 26. fxg6 Rxe4 27. gxf7+ Kxf7 {and Black is
+winning.}) 22... Nxa4 $15 {Black is a pawn up and the White attack isn't that
+dangerous.} ({Still interesting is} 22... Nxe4 $5 23. Nxe4 Nxd5 ({or} 23...
+Bxg4 24. Qxg4 Rxe4 25. Bd3 Qe7 26. Bxe4 Qxe4 27. O-O Nxd5 {with three pawns
+and a strong initiative for the Rook.}) 24. f5 Nxe3 25. Nxe3 gxf5 26. Nxf5 Bxf5
+27. Qxf5 (27. gxf5 Rb4 $1 28. Nxc3 Qg5 29. Rc2 Bxc3+ 30. Rxc3 Rb2 $17) 27...
+Qe7 $36)) 21. Ra2 (21. Rb1 $2 {is bad in view of} c3 22. bxc3 bxc3 23. Bd3 Nxd5
+$1 24. Rxb3 (24. exd5 Nd2 $19) 24... Rxb3 25. exd5 Qa5 26. Bc2 Rb2 $1 27. Nxb2
+cxb2+ 28. Ke2 Qc3 29. Bd3 Bd4 30. Nd1 (30. Ne4 Bxg4 $1 31. Qxg4 Rxe4 $19) 30...
+Qc1 {with a very strong initiative for Black.}) 21... c3 22. bxc3 bxc3 23. Qh3
+{There are no real threats along the open h-file.} ({The immediate} 23. f5 {
+trying to open up in front of the black king looks more accurate.}) 23... Rb4
+$6 {Black targets the e4-pawn and plans to sacrifice an exchange. But this is
+a bit slow and gives White time to get counterplay.} ({Instead Black should go
+for the interesting piece sacrifice} 23... Nxd5 $1 24. exd5 Qa5 25. Kf1 Qxd5 {
+with excellent compensation. Now all the black pieces will take part in the
+game.}) 24. Bd3 $2 {A clear failure in time trouble. White should not worry
+about protecting the e4-pawn, but go for a straight attack with} (24. Qh7+ Kf8
+25. f5 {Black is under heavy pressure and must switch to defence with} g5 26.
+Rh5 f6 {A very sad move to play, but after} (26... Bf6) (26... Bf6 {Whie
+simply wins with} 27. Rxg5 $1 Bxg5 28. Qh8+ Ke7 29. Bxg5+ Kd7 30. Qg7 $18) 27.
+Nxc3 {White is a pawn up and has the upper hand but the position is still very
+complex so nothing is yet decided.}) 24... Nxd5 $5 {A good practical sacrifice
+which gives Black plenty of counterplay.} 25. exd5 Nc1 26. Rc2 Nxd3+ 27. Nxd3
+Rd4 $1 {With this move Black picks up the d5-pawn and then his bishop on c8
+will be very strong on the diagonal a8-h1.} 28. N3f2 {This looks a bit passive,
+but there is nothing wrong with it.} ({The other option was} 28. Rxc3 {which
+is more active and lookx more natural. White has got rid of the c3-pawn and
+Black must prove he has compensation. Of course the pair of bishops and the
+open white king is something, but he has no material for the piece at the
+moment.} {After} Rxd5 $2 {White has} ({Better is} 28... Rde4 {to maintain the
+pressure.}) 29. f5 $1 gxf5 30. Kd2 $1 {freeing the bishop on e3 with a very
+strong attack along the h-file.}) 28... Rxd5 29. Kf1 $4 {The decisive mistake.
+Now Black is allowed to stop all White's hope of an attack and also to start
+going with his connected passed pawns.} ({White is doing ok as after} 29. O-O
+Qa5 {he has} 30. Nxc3 $1 Bxc3 31. Rfc1 {and the best Black can do is} Rh5 32.
+Qf3 Bxg4 33. Nxg4 Bg7 {with two pawns for the  piece and reasonable drawing
+chances as White doesn't have a safe king.}) 29... Rh5 $1 {This move decides
+the game.} 30. Qg2 ({The best chance would be to give up the queen} 30. gxh5
+Bxh3+ 31. Rxh3 {when White has rook and two knights for the queen and two
+pawns, but after} d5 {followed by ...d4 I doubt that White can hold it in the
+long run.}) 30... Rxh1+ 31. Qxh1 d5 {Those two connected pawns in combination
+with all Black's active pieces and the vulnerable white king doesn't leave
+White with much of a chance.} 32. Qf3 ({White could give back material with} 
+32. Nxc3 d4 33. Bxd4 Bxd4 {but because of his strong pair of bishops Black is
+much much better, if not simply winning.}) 32... d4 33. Bc1 Qd7 34. Ra2 $4 {
+loses on the spot, but practically the game was already over.} ({After} 34. Re2
+Qxa4 {Black has a third pawn for the piece and White's pieces don't have much
+life.}) 34... Bb7 35. Qd3 Qd5 {In view of the double threat to the rook on a2
+and mate on g2 White resigned.} 0-1
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.06.30"]
+[Round "3"]
+[White "Hillarp Persson, Tiger"]
+[Black "Hedman, Erik"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "2491"]
+[BlackElo "2363"]
+[PlyCount "59"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nge2 Bg7 8. Ng3
+a6 9. a4 h5 10. Be2 Nbd7 11. O-O h4 12. Nh1 O-O 13. Bg5 Qb6 14. Qd2 Re8 15. f3
+h3 16. a5 Qc7 17. g4 Ne5 18. Ng3 b5 19. axb6 Qxb6 20. Be3 Re7 21. g5 Ne8 22.
+Rfb1 Qb4 23. Nd1 Rb8 24. Qxb4 Rxb4 25. Bd2 Rb3 26. Bc3 Reb7 27. f4 Ng4 28. Bxg7
+Nxg7 29. Rxa6 f5 30. Rxd6 1-0
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.06.30"]
+[Round "3"]
+[White "Karlsson, Lars"]
+[Black "Nithander, Victor"]
+[Result "0-1"]
+[ECO "A38"]
+[WhiteElo "2475"]
+[BlackElo "2319"]
+[PlyCount "70"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 c5 2. c4 Nf6 3. b3 g6 4. Bb2 Bg7 5. g3 d6 6. Bg2 e5 7. O-O Nc6 8. Nc3
+O-O 9. Ne1 Ne7 10. Nd3 Nh5 11. b4 cxb4 12. Nxb4 Be6 13. d3 Rb8 14. a4 f5 15.
+Nbd5 Nf6 16. e4 Nexd5 17. cxd5 Bc8 18. exf5 gxf5 19. d4 e4 20. Qb3 b6 21. Rfe1
+Bb7 22. f3 Kh8 23. fxe4 fxe4 24. Bh3 Qe8 25. Be6 Qg6 26. Ne2 Bh6 27. Rf1 Ng4
+28. h3 Ne3 29. Rxf8+ Rxf8 30. Ba3 Qf6 31. Nf4 Bxf4 32. gxf4 Qxf4 33. Qb2 Qg3+
+34. Kh1 Rf2 35. Bxd6 Qg2# 0-1
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.02"]
+[Round "5"]
+[White "Karlsson, Lars"]
+[Black "Hedman, Erik"]
+[Result "1-0"]
+[ECO "A36"]
+[WhiteElo "2475"]
+[BlackElo "2363"]
+[PlyCount "65"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. g3 c5 2. c4 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. a3 d6 6. e3 e6 7. Nge2 Nge7 8. Nf4
+O-O 9. O-O a6 10. Rb1 b5 11. cxb5 axb5 12. b4 cxb4 13. axb4 d5 14. d4 Nf5 15.
+Nd3 Nd6 16. Qb3 Re8 17. Nc5 Re7 18. Bb2 Nc4 19. Ra1 Rb8 20. Rfd1 Rc7 21. Ne2
+Bb7 22. Bc3 Bc8 23. Nf4 Ra7 24. Rxa7 Nxa7 25. e4 Bh6 26. exd5 Bxf4 27. dxe6 Bg5
+28. d5 Qe7 29. Ne4 fxe6 30. d6 Nxd6 31. Nxd6 Bd7 32. Ne4 Rf8 33. Nxg5 1-0
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.03"]
+[Round "6"]
+[White "Agrest, Evgenij"]
+[Black "Karlsson, Lars"]
+[Result "1-0"]
+[ECO "A10"]
+[WhiteElo "2567"]
+[BlackElo "2475"]
+[PlyCount "91"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. b3 d6 7. Nc3 e5 8. d3 c5
+9. e3 Nc6 10. Bb2 Kh8 11. a3 a6 12. Rc1 Rb8 13. Nd2 Bd7 14. Nd5 Nxd5 15. cxd5
+Na7 16. f4 exf4 17. gxf4 Bf6 18. Qc2 Bxb2 19. Qxb2 Qf6 20. Qxf6 Rxf6 21. e4
+fxe4 22. dxe4 Rg6 23. Kh1 Nb5 24. a4 Nd4 25. e5 b5 26. e6 Be8 27. Rb1 Kg8 28.
+f5 Rh6 29. a5 Kf8 30. Ne4 Ke7 31. Rf4 Bh5 32. b4 c4 33. f6+ gxf6 34. Ng3 Ne2
+35. Nf5+ Kd8 36. Rh4 Bg6 37. Rxh6 Bxf5 38. Re1 Nd4 39. Rxf6 Bg6 40. e7+ Kc7 41.
+Rxg6 hxg6 42. e8=Q Rxe8 43. Rxe8 Nc2 44. Be4 Nxb4 45. h4 c3 46. Rf8 1-0
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.03"]
+[Round "6"]
+[White "Akesson, Ralf"]
+[Black "Hillarp Persson, Tiger"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2466"]
+[BlackElo "2491"]
+[PlyCount "186"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O a6 7. d4 cxd4 8. Qxd4
+d6 9. Ng5 Bxg2 10. Kxg2 Nc6 11. Qf4 Be7 12. Nge4 Nxe4 13. Qxe4 Rc8 14. b3 Bf6
+15. Bd2 O-O 16. Rac1 Qc7 17. Rfd1 Qb8 18. a4 Rfd8 19. Bf4 Na5 20. Qb1 Qa8+ 21.
+e4 d5 22. exd5 Bxc3 23. Rxc3 exd5 24. Kg1 dxc4 25. Rxd8+ Rxd8 26. bxc4 Qc6 27.
+Qc2 Rc8 28. Be3 b5 29. axb5 axb5 30. c5 Nc4 31. Qf5 g6 32. Qf4 Re8 33. h4 Re4
+34. Qb8+ Kg7 35. Qd8 Nxe3 36. Rxe3 Rc4 37. Kh2 Qxc5 38. Rf3 Qc6 39. Qd1 b4 40.
+Qd3 h5 41. Qe3 Qe6 42. Qd2 Re4 43. Qd3 Qe7 44. Qd5 Qe6 45. Qb7 Rc4 46. Kg2 Rd4
+47. Qb5 Qd5 48. Qe2 Rd2 49. Qa6 b3 50. Qf6+ Kg8 51. Qg5 b2 52. Qxd5 Rxd5 53.
+Rb3 Rd2 54. Rb8+ Kg7 55. Kf3 Kf6 56. Ke3 Rc2 57. f3 Ke5 58. g4 Rh2 59. Rb5+ Kd6
+60. Kf4 Kc6 61. Rb8 Rd2 62. Ke3 Rc2 63. gxh5 gxh5 64. Kd4 Re2 65. Rb3 Rd2+ 66.
+Kc3 Rh2 67. Kd3 Kc5 68. Rb8 Kd5 69. Rb5+ Ke6 70. Ke3 Kd7 71. Kd3 Kd6 72. Rb7
+Ke5 73. Ke3 Rc2 74. Rb5+ Ke6 75. Kd3 Rh2 76. Ke3 Kd6 77. Kd3 Kc6 78. Rb8 Kc5
+79. Rb7 f5 80. Rb8 f4 81. Ke4 Rd2 82. Rc8+ Kb5 83. Rb8+ Kc4 84. Rc8+ Kb3 85.
+Rb8+ Kc2 86. Kxf4 b1=Q 87. Rxb1 Kxb1 88. Kg5 Rd5+ 89. Kg6 Kc2 90. f4 Kd3 91. f5
+Ke4 92. f6 Kf4 93. f7 Rf5 0-1
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.04"]
+[Round "7"]
+[White "Karlsson, Lars"]
+[Black "Smith, Axel"]
+[Result "1-0"]
+[ECO "A12"]
+[WhiteElo "2475"]
+[BlackElo "2428"]
+[PlyCount "103"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. b3 Bg4 5. Bb2 e6 6. Be2 Bd6 7. O-O O-O 8. Nc3
+Nbd7 9. d4 Re8 10. h3 Bh5 11. Ne5 Bxe2 12. Nxe2 Qe7 13. Qc2 Ba3 14. Nxd7 Nxd7
+15. Bxa3 Qxa3 16. Nc3 Qe7 17. Rfd1 Rad8 18. a4 h6 19. a5 a6 20. Na4 Rc8 21. b4
+dxc4 22. Qxc4 e5 23. dxe5 Qxe5 24. Qd4 Nf6 25. Qxe5 Rxe5 26. Nc5 Nd5 27. Rd4
+Rc7 28. Rc1 g6 29. g3 Kg7 30. e4 Nf6 31. f4 Re8 32. Kf2 h5 33. Rcd1 Kf8 34. Kf3
+Ke7 35. g4 hxg4+ 36. hxg4 Rec8 37. g5 Ng8 38. Rd7+ Ke8 39. R7d6 Ke7 40. Kg4 Ke8
+41. R1d2 Ne7 42. Rh2 Kf8 43. f5 gxf5+ 44. exf5 Nd5 45. Rdh6 Ne3+ 46. Kf4 Nd5+
+47. Kf3 Ne7 48. Rh8+ Ng8 49. f6 Rd8 50. R2h7 b6 51. Rg7 bxc5 52. Rgxg8# 1-0
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.06"]
+[Round "8"]
+[White "Agrest, Evgenij"]
+[Black "Grandelius, Nils"]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2567"]
+[BlackElo "2388"]
+[PlyCount "105"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 c5 5. a3 Ba5 6. e3 Nc6 7. Be2 O-O 8. O-O
+d6 9. d4 cxd4 10. exd4 h6 11. Rd1 d5 12. b4 Bc7 13. b5 Ne7 14. c5 Ng6 15. Bb2
+Nh7 16. Bc1 Nf4 17. Bxf4 Bxf4 18. Bd3 Nf6 19. Re1 Bc7 20. Qe2 Qe7 21. Ne5 Nd7
+22. Nxd7 Qxd7 23. Bc2 Qd8 24. Rad1 Bd7 25. Qd3 g6 26. a4 Qh4 27. g3 Qf6 28. Re3
+Qg7 29. Re2 Rac8 30. Bb3 Kh8 31. Nb1 Rfd8 32. Qf3 Ba5 33. Qe3 Be8 34. Nd2 Rd7
+35. Nf3 Kh7 36. Ne5 Re7 37. Qf3 Bd8 38. h4 Kh8 39. Kg2 h5 40. Qe3 Kg8 41. Rd3
+Kh7 42. Qd2 Kg8 43. Rde3 Rec7 44. Nf3 Bd7 45. Re1 Qf8 46. Ne5 Be8 47. Bxd5 Bf6
+48. Bf3 Rd8 49. Qa5 b6 50. cxb6 axb6 51. Qxb6 Rc2 52. d5 Rd6 53. Qa7 1-0
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.06"]
+[Round "8"]
+[White "Akesson, Ralf"]
+[Black "Karlsson, Lars"]
+[Result "1-0"]
+[ECO "A96"]
+[WhiteElo "2466"]
+[BlackElo "2475"]
+[PlyCount "76"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. d4 d6 7. b3 a5 8. Nc3 Na6
+9. Bb2 c6 10. e3 Rb8 11. Qe2 b5 12. cxb5 cxb5 13. Nxb5 Nb4 14. a4 Ba6 15. Rfc1
+Qd7 16. Bf1 Bd8 17. Nd2 Bb7 18. f3 g5 19. Nc4 g4 20. fxg4 Ne4 21. Bg2 Bg5 22.
+Rf1 Nd5 23. Rae1 Ndf6 24. gxf5 exf5 25. Ba3 Ba6 26. Bh3 Ng4 27. Qd3 Qe6 28. Nc7
+Rxb3 29. Qxb3 Qxc4 30. Qxc4+ Bxc4 31. Bxg4 Bxf1 32. Bf3 Bc4 33. Nb5 Rb8 34.
+Nxd6 Nxd6 35. Bxd6 Rb3 36. Bf4 Be7 37. Rc1 Be6 38. d5 Bf7 1-0
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.07"]
+[Round "9"]
+[White "Grandelius, Nils"]
+[Black "Smith, Axel"]
+[Result "1/2-1/2"]
+[ECO "A60"]
+[WhiteElo "2388"]
+[BlackElo "2428"]
+[PlyCount "33"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Bg2 Be7 7. Nc3 O-O 8. Nf3
+Na6 9. O-O Re8 10. Re1 Rb8 11. a4 Nb4 12. h3 b6 13. Bf4 Nh5 14. Bd2 Nf6 15. Bf4
+Nh5 16. Bd2 Nf6 17. Bf4 1/2-1/2
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.07"]
+[Round "9"]
+[White "Hillarp Persson, Tiger"]
+[Black "Tikkanen, Hans"]
+[Result "1-0"]
+[ECO "A84"]
+[WhiteElo "2491"]
+[BlackElo "2437"]
+[PlyCount "157"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 Bd6 5. b3 f5 6. Be2 Nf6 7. O-O Qe7 8. Bb2 O-O
+9. Nbd2 b6 10. Ne5 Bb7 11. Rc1 Ne4 12. Ndf3 Nd7 13. cxd5 cxd5 14. Nxd7 Qxd7 15.
+Ne5 Qe7 16. f3 Nf6 17. Bb5 a6 18. Bc6 Rac8 19. Bxb7 Qxb7 20. Qd2 Rfe8 21. h3 h5
+22. Qf2 Rxc1 23. Rxc1 Rc8 24. Nd3 Rxc1+ 25. Bxc1 Qc7 26. Qb2 Kf8 27. Bd2 Ke8
+28. Be1 g5 29. a4 Kd8 30. a5 Nd7 31. axb6 Qxb6 32. Qc2 Qc7 33. Qa2 Qb7 34. Ba5+
+Kc8 35. Qc2+ Kb8 36. Qc3 Qb5 37. Bd8 g4 38. Bg5 Kb7 39. Bf4 Qc6 40. Qd2 gxf3
+41. gxf3 Be7 42. Kf2 Qb5 43. Qc3 Qc6 44. Qb2 Qc8 45. Qd2 Qc6 46. Ke2 Qc8 47.
+Bg3 Qg8 48. Qe1 Qc8 49. Kd2 Qc6 50. Qd1 h4 51. Bf2 Qd6 52. Ke2 Bg5 53. Qg1 Qe7
+54. Be1 Qd8 55. Bb4 Be7 56. Qe1 Bg5 57. Qg1 Be7 58. Bxe7 Qxe7 59. Nf4 Nf8 60.
+Qe1 Kb6 61. Qc3 Kb7 62. Qa5 Qd6 63. Kd2 Qb6 64. Qa3 Qd8 65. Qb4+ Ka7 66. Qc5+
+Kb7 67. b4 Kb8 68. Qc6 Qc8 69. Qd6+ Ka7 70. Nd3 Qb8 71. Qe7+ Kb6 72. Ne5 Kb5
+73. Qc5+ Ka4 74. Qc2+ Kb5 75. Qc5+ Ka4 76. Nd3 Kb3 77. Qc3+ Ka4 78. Nb2+ Kb5
+79. Qc5# 1-0
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.07"]
+[Round "9"]
+[White "Karlsson, Lars"]
+[Black "Hector, Jonny"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[WhiteElo "2475"]
+[BlackElo "2532"]
+[PlyCount "145"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. g3 d5 2. f4 Nc6 3. Nf3 Bg4 4. Bg2 Bxf3 5. Bxf3 e5 6. c4 dxc4 7. Qa4 Qd7 8.
+Bxc6 bxc6 9. fxe5 f6 10. Qxc4 fxe5 11. Rf1 Nf6 12. Nc3 Rb8 13. a3 Be7 14. d3
+Rf8 15. b4 Ng4 16. Rxf8+ Kxf8 17. Ne4 Nxh2 18. Be3 a5 19. Nc5 Qh3 20. Kd2 axb4
+21. Rh1 Nf3+ 22. Kc2 Qxh1 23. Nd7+ Ke8 24. Nxb8 Ne1+ 25. Kd2 Qd5 26. Kxe1 bxa3
+27. Bc1 a2 28. Qxd5 cxd5 29. Bb2 Ba3 30. Bxe5 c5 31. Ba1 Bb4+ 32. Kd1 d4 33.
+Kc2 Bc3 34. Bb2 Ke7 35. Nc6+ Kd6 36. Nd8 a1=Q 37. Bxa1 Bxa1 38. Nb7+ Kd5 39.
+Na5 Bc3 40. e4+ Ke6 41. Nb7 Bb4 42. Nd8+ Ke7 43. Nc6+ Kd6 44. Nd8 Be1 45. g4
+Ke5 46. Kd1 Bb4 47. Nc6+ Kd6 48. Nd8 h6 49. Ke2 Ba3 50. Nb7+ Kc6 51. Na5+ Kb5
+52. Nc4 Bc1 53. Kf3 Kc6 54. Na5+ Kd7 55. e5 Bd2 56. Nc4 Be1 57. Ke4 Ke6 58. Nd6
+Ba5 59. Nf5 g6 60. Nxh6 Bc7 61. Nf5 Bxe5 62. Nh4 g5 63. Nf3 Bf4 64. Ne1 Kd6 65.
+Nc2 Bc1 66. Na1 Kc6 67. Nb3 Bf4 68. Na5+ Kb5 69. Nc4 Bc7 70. Kf3 Kb4 71. Ke2
+Kc3 72. Nd2 Bf4 73. Nc4 1/2-1/2
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.08"]
+[Round "10"]
+[White "Agrest, Evgenij"]
+[Black "Carlsson, Pontus"]
+[Result "1-0"]
+[ECO "A32"]
+[WhiteElo "2567"]
+[BlackElo "2514"]
+[PlyCount "63"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. d4 cxd4 5. Nxd4 a6 6. g3 Qc7 7. Bg2 Qxc4 8.
+O-O Nc6 9. Nb3 d5 10. Bf4 Qb4 11. a3 Qb6 12. e4 dxe4 13. Nd2 Nd5 14. Nc4 Qd8
+15. Nxe4 Nxf4 16. gxf4 Be7 17. Ned6+ Bxd6 18. Nxd6+ Ke7 19. Nc4 Qxd1 20. Rfxd1
+Rb8 21. Bxc6 bxc6 22. Ne5 Rxb2 23. Rac1 Kf6 24. h4 Rb5 25. Rxc6 Rf8 26. Rdc1
+Rb8 27. Rc7 a5 28. R1c5 g6 29. Rxa5 Rb1+ 30. Kh2 Bb7 31. f3 Kg7 32. Ra7 1-0
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.08"]
+[Round "10"]
+[White "Akesson, Ralf"]
+[Black "Grandelius, Nils"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "2466"]
+[BlackElo "2388"]
+[PlyCount "73"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 b6 4. e4 d6 5. d4 cxd4 6. Nxd4 Bb7 7. f3 Nbd7 8. Be2
+a6 9. Be3 e6 10. O-O Be7 11. a4 O-O 12. a5 Rc8 13. Nb3 bxa5 14. Nxa5 Ba8 15.
+Qd2 Qc7 16. Rfb1 Rfd8 17. Kh1 h6 18. b4 d5 19. exd5 exd5 20. Bf4 Ne5 21. Qe3 d4
+22. Bxe5 dxe3 23. Bxc7 Rxc7 24. c5 Rd2 25. Nc4 Rc2 26. Rxa6 Bd5 27. Nxd5 Nxd5
+28. Bd3 Rc3 29. Ra8+ Bf8 30. Ra3 Rxa3 31. Nxa3 Nf4 32. Bc4 Rd7 33. g3 e2 34.
+Re1 Nd3 35. c6 Nxe1 36. cxd7 Nd3 37. Nc2 1-0
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.08"]
+[Round "10"]
+[White "Tikkanen, Hans"]
+[Black "Hedman, Erik"]
+[Result "1-0"]
+[ECO "A67"]
+[WhiteElo "2437"]
+[BlackElo "2363"]
+[PlyCount "55"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Be2 O-O 10. Nf3 Na6 11. O-O Nc7 12. f5 gxf5 13. exf5 Ne5 14. Ng5 f6 15.
+Ne6 Bxe6 16. fxe6 f5 17. Bd3 Ng4 18. Bxf5 Bd4+ 19. Kh1 Qh4 20. Bxg4 Rxf1+ 21.
+Qxf1 Qxg4 22. Qf7+ Kh8 23. Bf4 Rg8 24. Bg3 Ne8 25. Re1 Qg5 26. e7 Qg6 27. Qxg6
+Rxg6 28. Ne4 1-0
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.09"]
+[Round "11"]
+[White "Karlsson, Lars"]
+[Black "Hillarp Persson, Tiger"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "2475"]
+[BlackElo "2491"]
+[PlyCount "60"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. f4 d5 2. e3 g6 3. Nf3 Bg7 4. Be2 c6 5. O-O Bg4 6. c4 e6 7. d4 Ne7 8. Nc3 O-O
+9. h3 Bxf3 10. Bxf3 Nd7 11. b3 dxc4 12. bxc4 c5 13. Rb1 cxd4 14. exd4 Nb6 15.
+Ne2 Nxc4 16. Qd3 Nd6 17. Ba3 Rb8 18. g4 Re8 19. Kh1 b6 20. f5 exf5 21. d5 fxg4
+22. Bxg4 h5 23. Rxf7 Nxf7 24. Be6 Nf5 25. Nf4 Rxe6 26. Nxe6 Ne5 27. Qb3 Qh4 28.
+d6 Qe4+ 29. Kg1 Bh6 30. Bc5 Nf3+ 0-1
+
+[Event "SWE-ch"]
+[Site "Vaxjo"]
+[Date "2008.07.10"]
+[Round "12"]
+[White "Hillarp Persson, Tiger"]
+[Black "Berg, Emanuel"]
+[Result "1/2-1/2"]
+[ECO "A21"]
+[WhiteElo "2491"]
+[BlackElo "2601"]

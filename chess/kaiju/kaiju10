@@ -1,0 +1,50 @@
+b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.f4
+A57	Modern Variation, Benko Gambit	1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6
+5.e3
+A57	Dlugy Variation, Benko Gambit	1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6
+5.f3
+A57	Zaitsev System, Benko Gambit	1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6
+5.Nc3  
+A57	Nescafe Frappe Attack, Benko Gambit	1.d4 Nf6 2.c4 c5 3.d5 b5
+4.cxb5 a6 5.Nc3 axb5 6.e4 b4 7.Nb5
+A57	Zaitsev Variation, Benko Gambit	1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6
+5.Nc3 axb5 6.e4 b4 7.Nb5 d6 8.Nf3 g6 9.Bc4
+A57	Benko Gambit Declined; Hjoerring Countergambit	1.d4 Nf6 2.c4 c5 3.d5
+b5 4.e4
+A57	Pseudo-Saemisch, Benko Gambit	1.d4 Nf6 2.c4 c5 3.d5 b5 4.f3
+A57	Mutkin Countergambit, Benko Gambit	1.d4 Nf6 2.c4 c5 3.d5 b5 4.g4
+A57	Quiet Line, Benko Gambit	1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nd2
+A57	Main Line, Benko Gambit Declined	1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3
+A58	Fully Accepted Variation, Benko Gambit; A58	1.d4 Nf6 2.c4 c5 3.d5
+b5 4.cxb5 a6 5.bxa6
+A58	Fianchetto Variation, Benko Gambit	1.d4 Nf6 2.c4 c5 3.d5 b5
+4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 g6 7.Nf3 d6 8.g3 Bg7 9.Bg2
+A59	A59	1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4
+A59	King Walk Variation, Benko Gambit	1.d4 Nf6 2.c4 c5 3.d5 b5
+4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4 Bxf1 8.Kxf1 g6 9.g3 Bg7 10.Kg2 O-O
+A60	Tal Variation, Modern Variation, Benoni; A60	1.d4 Nf6 2.c4 c5 3.d5
+e6
+A60	Modern Benoni	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6
+A61	A61	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3
+A61	Snake Variation, Benoni	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 Bd6
+A61	Penrose Variation, Benoni	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5
+5.cxd5 d6 6.Nf3 g6 7.Bd3
+A61	Uhlmann Variation, Benoni	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5
+5.cxd5 d6 6.Nf3 g6 7.Bg5
+A61	Nimzovich Variation, Knight's Tour Variation, Benoni	1.d4 Nf6 2.c4
+c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Nd2
+A62	A62	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3
+A62	Fianchetto Variation, Benoni	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5
+5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2
+A62	Hastings Defense, Benoni	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5
+5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O 9.O-O Nbd7
+A63	A63	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3
+Bg7 8.Bg2 O-O 9.O-O a6
+A64	A64	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3
+Bg7 8.Bg2 O-O 9.O-O a6 10.a4 Nbd7 11.Nd2
+A65	King Pawn lines, Benoni; A65	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5
+5.cxd5 d6 6.e4
+A66	Pawn Storm Variation, Benoni; A66	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3
+exd5 5.cxd5 d6 6.e4 g6 7.f4
+A66	Mikenas V, Benoni	1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6
+6.e4 g6 7.f4 Bg7 8.e5

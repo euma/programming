@@ -1,0 +1,600 @@
+[White "Laerum, Philipp"]
+[Black "Kussin, Niklas"]
+[Result "0-1"]
+[ECO "B21"]
+[WhiteElo "803"]
+[BlackElo "1151"]
+[PlyCount "122"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qc3 d6 5. Nf3 e6 6. Bc4 Nf6 7. Nbd2 Be7 8.
+O-O Bd7 9. e5 dxe5 10. Nxe5 Bd6 11. Ndf3 Qc7 12. Bf4 O-O 13. Bb5 Nxe5 14. Qxc7
+Nxf3+ 15. gxf3 Bxc7 16. Bxd7 Bxf4 17. Rad1 Rfd8 18. Bb5 Kf8 19. c4 Ke7 20. a4
+a6 21. Bxa6 Rxa6 22. b3 Bc7 23. h4 Rad6 24. Rc1 Rd3 25. b4 Rb3 26. b5 Rb4 27.
+c5 Rxa4 28. b6 Bb8 29. c6 bxc6 30. Rxc6 Rad4 31. Rcc1 R4d6 32. Rb1 Nd5 33. b7
+R8d7 34. Rb5 Rb6 35. Rc5 Rc7 36. Ra5 Rbxb7 37. Ra8 Rc6 38. Raa1 Rc4 39. Rab1
+Rcc7 40. Kg2 h6 41. Rbe1 Rb4 42. Kh3 Rcc4 43. Re2 Nf4+ 44. Kg3 Nxe2+ 45. Kg2
+Rc1 46. h5 Rxf1 47. Kxf1 Nf4 48. Ke1 Nxh5 49. Ke2 Nf4+ 50. Ke3 h5 51. Kd2 h4
+52. Kc3 Rb7 53. Kd2 h3 54. Kc2 h2 55. Kd2 h1=Q 56. Ke3 Qe1+ 57. Kd4 Rd7+ 58.
+Kc5 Qc1+ 59. Kb6 Rd2 60. Kb5 Rb2+ 61. Ka4 Qa1# 0-1
+
+[Event "Schleswig Holstein-ch U14 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.28"]
+[Round "7"]
+[White "Schneckenburger, Markus"]
+[Black "Schubert, Marcel"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1071"]
+[BlackElo "1067"]
+[PlyCount "55"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 e6 5. Bc4 Bd6 6. d4 Nf6 7. Bg5 Be7 8.
+O-O O-O 9. Qd3 Ng4 10. Ne4 Bxg5 11. Nexg5 g6 12. h3 Nf6 13. Rfe1 Re8 14. Re2
+Nh5 15. g3 Nc6 16. Rae1 Nb4 17. Qc3 a5 18. a3 Nc6 19. d5 Nb8 20. dxe6 f6 21.
+e7+ Kh8 22. Nf7+ Kg7 23. exd8=Q Rxd8 24. Nxd8 Bxh3 25. Re7+ Kh6 26. Nf7+ Kg7
+27. N7g5+ Kh6 28. Rxh7# 1-0
+
+[Event "Schleswig Holstein-ch U14 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.28"]
+[Round "7"]
+[White "Stieglitz, Pascal"]
+[Black "Thee, Marten Claas"]
+[Result "0-1"]
+[ECO "B30"]
+[BlackElo "799"]
+[PlyCount "48"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Bc4 Nc6 3. Nf3 e6 4. d4 d5 5. Bb5 dxe4 6. Bxc6+ bxc6 7. Ng5 cxd4 8.
+c3 Be7 9. Nxe4 Qd5 10. f3 Ba6 11. Qxd4 Qxd4 12. cxd4 Nf6 13. Nc5 Bxc5 14. dxc5
+O-O 15. Kd1 Rad8+ 16. Nd2 Rd5 17. b4 Re8 18. Rb1 h6 19. b5 Bxb5 20. Re1 e5 21.
+Ba3 e4 22. fxe4 Nxe4 23. Bc1 Bd3 24. Rb2 Nf2# 0-1
+
+[Event "Schleswig Holstein-ch U14 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.29"]
+[Round "8"]
+[White "Baqi, Tiemo"]
+[Black "Kussin, Niklas"]
+[Result "1/2-1/2"]
+[ECO "B95"]
+[WhiteElo "770"]
+[BlackElo "1151"]
+[PlyCount "34"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bd3 Be7 8. Qe2
+Qc7 9. Nf3 Nc6 10. O-O Bd7 11. Rfe1 O-O 12. e5 dxe5 13. Nxe5 Rfe8 14. Nxd7 Qxd7
+15. Ne4 Nxe4 16. Bxe7 Rxe7 17. Qxe4 g6 1/2-1/2
+
+[Event "Schleswig Holstein-ch U14 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.29"]
+[Round "8"]
+[White "Moormann, Niklas"]
+[Black "Wilms, Kira Katharina"]
+[Result "0-1"]
+[ECO "B25"]
+[BlackElo "774"]
+[PlyCount "76"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 d6 5. d3 Bg7 6. f4 a6 7. Nf3 b5 8. O-O Nh6
+9. Be3 Qb6 10. Qd2 b4 11. Na4 Qa5 12. b3 Bxa1 13. Rxa1 O-O 14. a3 Bd7 15. axb4
+cxb4 16. Bb6 Qb5 17. c4 Qh5 18. c5 a5 19. cxd6 exd6 20. Bc7 Rfe8 21. Bxd6 Bg4
+22. Qe2 Bh3 23. Rc1 Nd4 24. Qf2 Nxf3+ 25. Bxf3 Ng4 26. Bxg4 Qxg4 27. Nb6 Rad8
+28. Nc4 Rc8 29. Ra1 Red8 30. e5 Rc6 31. Nxa5 Rc3 32. Bxb4 Rcxd3 33. Rb1 R8d4
+34. Nc6 Rd7 35. Ne7+ Kg7 36. Qc2 Qf3 37. Nc6 Re3 38. Na5 Re2 0-1
+
+[Event "Schleswig Holstein-ch U14 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.29"]
+[Round "8"]
+[White "Winter, Hauke"]
+[Black "Kroencke, Merten"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "1015"]
+[BlackElo "883"]
+[PlyCount "66"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd1 Nf6 6. Bb5 Bd7 7. Bg5 Qa5 8.
+Bd2 Nxe4 9. Bxc6 Bxc6 10. Nxe4 Qe5 11. f3 Bxe4 12. fxe4 Qxe4+ 13. Qe2 Qxc2 14.
+Qb5+ Kd8 15. Qxb7 Qc8 16. Ba5+ Ke8 17. Qb5+ Qd7 18. Qxd7+ Kxd7 19. Rc1 Rc8 20.
+Rxc8 Kxc8 21. Bc3 e5 22. Nf3 Be7 23. Ke2 Kd7 24. Rc1 Rc8 25. Bd2 Rxc1 26. Bxc1
+f5 27. Ng5 Bxg5 28. Bxg5 Ke6 29. Be3 a6 30. a4 d5 31. Bc5 d4 32. b4 Kd5 33. Bf8
+g6 1/2-1/2
+
+[Event "Schleswig Holstein-ch U14 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.29"]
+[Round "8"]
+[White "Yagibol, Yasar"]
+[Black "Wrobel, Malte"]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteElo "810"]
+[BlackElo "977"]
+[PlyCount "64"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Nf6 3. Bc4 Nxd5 4. Nc3 Nxc3 5. dxc3 Qxd1+ 6. Kxd1 Nc6 7. Bf4
+e5 8. Bg3 Bc5 9. f4 Bg4+ 10. Kd2 O-O-O+ 11. Ke1 f6 12. h3 Bf5 13. Bf2 Bxf2+ 14.
+Kxf2 exf4 15. Ne2 g5 16. Rac1 Rd2 17. h4 Bxc2 18. Ke1 Rhd8 19. Bb3 Bxb3 20.
+axb3 Rxb2 21. hxg5 fxg5 22. Rh5 Re8 23. Rd1 Rexe2+ 24. Kf1 Rf2+ 25. Kg1 Rxg2+
+26. Kh1 Rgd2 27. Re1 Rxb3 28. Rxh7 b6 29. Rg7 Rxc3 30. Rxg5 a5 31. Ra1 Nd4 32.
+Kg1 Nf3+ 0-1
+
+[Event "Schleswig Holstein-ch U14 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Falke, Johannes"]
+[Black "Ananjew, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B56"]
+[WhiteElo "1041"]
+[BlackElo "819"]
+[PlyCount "35"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 d6 7. Bb5 Bd7 8.
+O-O Nf6 9. Bc4 O-O 10. f4 a6 11. a4 Kh8 12. Qd3 Ng4 13. Nde2 Nxe3 14. Qxe3 Bg4
+15. h3 Bxe2 16. Qxe2 Nd4 17. Qd3 Qb6 18. Kh2 1/2-1/2
+
+[Event "Schleswig Holstein-ch U14 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Hopson, Kevin Mike"]
+[Black "Dwinger, Malte"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "926"]
+[BlackElo "904"]
+[PlyCount "19"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Nb3 Nf6 7. g3 O-O 8.
+Bg2 d6 9. Bg5 Ng4 10. Bf3 {..} 1-0
+
+[Event "Schleswig Holstein-ch U14 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Laerum, Philipp"]
+[Black "Thee, Marten Claas"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "803"]
+[BlackElo "799"]
+[PlyCount "10"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qc3 d5 5. Nd2 e5 {..} 1/2-1/2
+
+[Event "Schleswig Holstein-ch U14 VM"]
+[Site "Neumuenster"]
+[Date "2008.03.30"]
+[Round "9"]
+[White "Wrobel, Malte"]
+[Black "Schmidt, Niko"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "977"]
+[BlackElo "855"]
+[PlyCount "18"]
+[EventDate "2008.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 Nf6 6. d3 O-O 7. Be3 d6 8. O-O
+Qa5 9. Bxc6 bxc6 1/2-1/2
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.24"]
+[Round "1"]
+[White "Huhnstock, Rico"]
+[Black "Neitzel, Mirko"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "1856"]
+[BlackElo "1633"]
+[PlyCount "52"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. h4 Bh6 14. g4 g6 15.
+Nce3 Bxe3 16. Nxe3 Rb8 17. b4 Ne7 18. h5 Bb7 19. Nd5 Bxd5 20. exd5 Qc7 21. Rc1
+Qb7 22. Bg2 Rbc8 23. Qf3 Rc4 24. Qh3 Nc8 25. Qf3 Rf4 26. Qd1 Nb6 1/2-1/2
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.24"]
+[Round "1"]
+[White "Oltzen, Samuel David"]
+[Black "Marx, Joschka"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1803"]
+[BlackElo "1912"]
+[PlyCount "92"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bd3 Bg4 7. O-O e6 8.
+Bf4 Nbd7 9. Ne4 Nxe4 10. Bxe4 Nf6 11. Qd3 Rd8 12. Ne5 Nxe4 13. Nxg4 Qf5 14.
+Rfe1 Qxf4 15. Rxe4 Qg5 16. Ne5 Bd6 17. Rae1 O-O 18. c3 Bc7 19. Qe3 Qxe3 20.
+R4xe3 Rd5 21. R1e2 Rfd8 22. g3 c5 23. dxc5 Rxc5 24. Kg2 Rcd5 25. Nc4 Kf8 26. f4
+a6 27. Re4 b5 28. Ne3 R8d7 29. Kf3 Bb6 30. Nf1 Rd3+ 31. Ne3 g6 32. h3 h5 33. g4
+hxg4+ 34. hxg4 Kg7 35. Kg2 Bxe3 36. R4xe3 Rxe3 37. Rxe3 Rd2+ 38. Kf3 Rxb2 39.
+Re2 Rxe2 40. Kxe2 Kf6 41. Kd3 e5 42. Ke4 exf4 43. Kxf4 g5+ 44. Ke4 Ke6 45. a3
+f6 46. Kd4 f5 0-1
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.25"]
+[Round "3"]
+[White "Neitzel, Mirko"]
+[Black "Marx, Joschka"]
+[Result "1/2-1/2"]
+[ECO "B41"]
+[WhiteElo "1633"]
+[BlackElo "1912"]
+[PlyCount "38"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. c4 b6 7. Nc3 Bb7 8. Qe2
+Nc6 9. Nxc6 Bxc6 10. Be3 Nf6 11. Nd5 exd5 12. exd5 O-O-O 13. dxc6 dxc6 14. O-O
+h5 15. c5 bxc5 16. Bxa6+ Kb8 17. Qc4 Ng4 18. Bf4 Bd6 19. Bxd6 Rxd6 1/2-1/2
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.25"]
+[Round "3"]
+[White "Nonnenmacher, Lars"]
+[Black "Hoeger, Bastian"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "1476"]
+[BlackElo "1684"]
+[PlyCount "30"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Be2 Nf6 7. a3 b6 8. O-O
+Bb7 9. f3 Be7 10. Be3 d6 11. Qd2 Nbd7 12. Rad1 d5 13. exd5 Nxd5 14. Nxd5 Bxd5
+15. Nf5 Bf6 1/2-1/2
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.26"]
+[Round "4"]
+[White "Lengler, Ole"]
+[Black "Huhnstock, Rico"]
+[Result "0-1"]
+[ECO "B83"]
+[WhiteElo "1744"]
+[BlackElo "1856"]
+[PlyCount "134"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 Nc6 7. Be2 Be7 8.
+O-O a6 9. Qd2 O-O 10. Rad1 Qc7 11. Bd3 b5 12. Nce2 Ne5 13. f3 Bb7 14. Nf4 Nxd3
+15. Nxd3 Rac8 16. c3 Nd7 17. Qf2 d5 18. exd5 Bxd5 19. Nb3 Bd6 20. g3 Bc4 21.
+Rfe1 a5 22. Nd4 Nc5 23. Nxc5 Bxc5 24. b3 Bxd4 25. Bxd4 Bd5 26. Rc1 Qd6 27. Qg2
+Rfe8 28. Qe2 Qc6 29. Qd3 f6 30. Rcd1 e5 31. Bf2 Bf7 32. Re2 a4 33. Qc2 Qxc3 34.
+Qxc3 Rxc3 35. bxa4 bxa4 36. Red2 h6 37. g4 Rec8 38. Rd8+ Rxd8 39. Rxd8+ Kh7 40.
+Rd2 Ra3 41. Bc5 Rxa2 42. Rxa2 Bxa2 43. h4 Kg6 44. h5+ Kf7 45. Kf2 g6 46. Kg3 f5
+47. gxf5 gxf5 48. Kf2 Kf6 49. Bd6 Bf7 50. f4 exf4 51. Bxf4 Kg7 52. Be5+ Kh7 53.
+Kf3 Bxh5+ 54. Kf4 Bg4 55. Bd4 Kg6 56. Bc3 h5 57. Kg3 Kf7 58. Kf4 Ke6 59. Ke3
+Kd5 60. Kd3 f4 61. Be1 Ke5 62. Bh4 Bd1 63. Be7 Kf5 64. Kd2 Bf3 65. Ke1 Kg4 66.
+Kf2 Be4 67. Bd6 h4 0-1
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.27"]
+[Round "5"]
+[White "Huhnstock, Rico"]
+[Black "Hoeger, Philipp"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "1856"]
+[BlackElo "1539"]
+[PlyCount "46"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Qc7 6. Nc3 Nf6 7. Bd3 d6 8. O-O
+Be7 9. Be3 O-O 10. f4 Nbd7 11. Rc1 b6 12. f5 Nc5 13. Bb1 Bb7 14. b4 e5 15. bxc5
+exd4 16. cxb6 Qxb6 17. Bxd4 Qa5 18. Nd5 Bxd5 19. exd5 Bd8 20. Kh1 Rb8 21. g4
+Nd7 22. f6 Bxf6 23. Qd3 Rfe8 1-0
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.27"]
+[Round "5"]
+[White "Lohrie, Christian"]
+[Black "Hoeger, Bastian"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "1440"]
+[BlackElo "1684"]
+[PlyCount "38"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nc3 g6 3. Bg5 Bg7 4. e4 d6 5. Qd2 h6 6. Bxf6 Bxf6 7. Nge2 Bg7 8.
+f4 a6 9. a4 b6 10. Ng3 O-O 11. Be2 c5 12. d5 Ra7 13. O-O Bd7 14. Bd3 Qe8 15. b3
+Rb7 16. Rab1 b5 17. axb5 axb5 18. Nce2 Qd8 19. f5 Be8 1/2-1/2
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.27"]
+[Round "5"]
+[White "Neitzel, Mirko"]
+[Black "Lengler, Ole"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "1633"]
+[BlackElo "1744"]
+[PlyCount "81"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Nf3 e6 8. Nc3
+Nc6 9. Be2 Nb4 10. O-O c5 11. Kh1 Nc2 12. dxc5 Bxc5 13. Qxd8+ Rxd8 14. Bg5 Nxa1
+15. Bxd8 Nc2 16. Bg5 Ne3 17. Bxe3 Bxe3 18. Nb5 Nc8 19. Nfd4 Bg6 20. Rd1 Be4 21.
+Bf3 Bxf3 22. Nxf3 a6 23. Nd6+ Nxd6 24. exd6 Bc5 25. Ng5 h6 26. d7+ Ke7 27. Nxf7
+Kxf7 28. d8=Q Rxd8 29. Rxd8 b6 30. g3 Kf6 31. Kg2 e5 32. Kf3 Kf5 33. Rd5 h5 34.
+h3 g6 35. a3 a5 36. h4 Bd4 37. b4 axb4 38. axb4 Ke6 39. Ke4 Bc3 40. c5 bxc5 41.
+bxc5 1-0
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.27"]
+[Round "6"]
+[White "Lengler, Ole"]
+[Black "Marx, Joschka"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "1744"]
+[BlackElo "1912"]
+[PlyCount "66"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Nf6 7. Bd3 b5 8. O-O
+Bb7 9. f4 b4 10. e5 bxc3 11. exf6 gxf6 12. bxc3 Qxc3 13. Nb3 Rg8 14. Rf2 f5 15.
+Qe2 Be7 16. Re1 Bh4 17. g3 Qc6 18. Rg2 Qxg2+ 19. Qxg2 Bxg2 20. Kxg2 Be7 21. Nd4
+Nc6 22. Nxc6 dxc6 23. Bxf5 h5 24. Be4 Kd7 25. Rd1+ Kc7 26. Bf3 h4 27. Bh5 hxg3
+28. hxg3 Rg7 29. Bd4 f6 30. Re1 Rag8 31. Bf2 Kd7 32. Rd1+ Kc7 33. Re1 Kd7
+1/2-1/2
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.27"]
+[Round "6"]
+[White "Nonnenmacher, Lars"]
+[Black "Huhnstock, Rico"]
+[Result "0-1"]
+[ECO "B85"]
+[WhiteElo "1476"]
+[BlackElo "1856"]
+[PlyCount "116"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 Nc6 7. Be2 Be7 8.
+O-O a6 9. f4 O-O 10. Bf3 Qc7 11. Kh1 Bd7 12. Qd2 Nxd4 13. Bxd4 Bc6 14. Rae1 b5
+15. a3 Rfd8 16. Qf2 Qb7 17. Be3 a5 18. e5 Nd5 19. Nxd5 Bxd5 20. Be2 Rdc8 21.
+Bd3 Qc6 22. Re2 g6 23. Qg3 Be4 24. Bd4 Bxd3 25. cxd3 d5 26. Ref2 Bc5 27. Bxc5
+Qxc5 28. h3 Kh8 29. Qg5 b4 30. axb4 axb4 31. Qf6+ Kg8 32. Qg5 Qd4 33. h4 h5 34.
+g4 hxg4 35. Qxg4 Qxd3 36. Rg1 Qe4+ 37. Rfg2 Rc2 38. h5 Rxg2 39. Rxg2 Kg7 40.
+Qg5 Qf5 41. Qxf5 exf5 42. hxg6 fxg6 43. Rd2 Rc8 44. Kg2 Rc4 45. Kf3 g5 46. fxg5
+Kg6 47. Rxd5 Kxg5 48. Ke3 Rc2 49. Rd2 f4+ 50. Kd3 Rxd2+ 51. Kxd2 Kf5 52. e6
+Kxe6 53. Ke2 b3 54. Kf3 Ke5 55. Kf2 Ke4 56. Ke2 f3+ 57. Ke1 Kd3 58. Kf1 Kc2 0-1
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.28"]
+[Round "7"]
+[White "Neitzel, Mirko"]
+[Black "Nonnenmacher, Lars"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1633"]
+[BlackElo "1476"]
+[PlyCount "55"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bc4 Bf5 6. Nf3 c6 7. Bd2 Qc7 8.
+O-O e6 9. Rc1 Bd6 10. Qe2 Nbd7 11. Rfe1 O-O-O 12. Ne5 Nb6 13. Bb3 Nfd5 14. Bxd5
+exd5 15. h3 f6 16. Nf3 g5 17. Nd1 Nc4 18. Ne3 Rde8 19. b3 Nxd2 20. Qxd2 Be4 21.
+Qd1 h5 22. Nd2 Bf4 23. Nxe4 Rxe4 24. Rb1 Bxe3 25. Rxe3 Rxe3 26. fxe3 Qg3 27.
+Qf3 Qxf3 28. gxf3 1/2-1/2
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.28"]
+[Round "7"]
+[White "Oltzen, Samuel David"]
+[Black "Hoeger, Bastian"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1803"]
+[BlackElo "1684"]
+[PlyCount "60"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 b6 3. d4 Bb7 4. Bd3 cxd4 5. cxd4 Nc6 6. Nf3 Nb4 7. Nc3 Nxd3+ 8.
+Qxd3 Qc8 9. Bf4 Ba6 10. Qe3 Qb7 11. Rc1 e6 12. a3 Rc8 13. b4 Qa8 14. e5 Ne7 15.
+b5 Bb7 16. a4 Nf5 17. Qd3 Bb4 18. Ke2 O-O 19. Na2 Be7 20. Rxc8 Rxc8 21. Rd1 Be4
+22. Qb3 Bd5 23. Qb2 Bxa2 24. Qxa2 Qe4+ 25. Kf1 Qxf4 26. Qb1 g6 27. h3 d6 28.
+Qb2 Qe4 29. exd6 Bxd6 30. Qd2 Rc2 0-1
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.29"]
+[Round "8"]
+[White "Lohrie, Christian"]
+[Black "Neitzel, Mirko"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "1440"]
+[BlackElo "1633"]
+[PlyCount "120"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. Bd3 O-O 12. c3 Bg5 13. O-O f5 14. f4 exf4
+15. exf5 Bxf5 16. Bxf5 Rxf5 17. g3 Ne7 18. Nxf4 Bxf4 19. Rxf4 Rxf4 20. gxf4
+Qb6+ 21. Kg2 Rf8 22. Qd2 Qc6+ 23. Kg1 Qc5+ 24. Kg2 Qd5+ 25. Qxd5+ Nxd5 26. Nc2
+Nxf4+ 27. Kg3 Ne6 28. Re1 Nc5 29. Nb4 Rf7 30. Re8+ Rf8 31. Re1 Kf7 32. Re3 Re8
+33. Rxe8 Kxe8 34. Kf3 Kd7 35. Ke3 a5 36. Nd5 Ne6 37. Kf3 Kc6 38. Ne3 Nc5 39.
+Ke2 Na4 40. Nd1 b4 41. Kd3 bxc3 42. bxc3 Kc5 43. Nf2 d5 44. Ng4 Nb2+ 45. Kc2
+Nc4 46. Kb3 Nd2+ 47. Kc2 Nf3 48. h3 Ng5 49. h4 h5 50. Ne3 Nf3 51. Ng2 g5 52.
+hxg5 Nxg5 53. Nh4 Kc4 54. Ng2 h4 55. Nxh4 Ne4 56. Nf5 Nxc3 57. Ne3+ Kd4 58.
+Nxd5 Nxd5 59. Kb3 Nb6 60. a4 Kd3 0-1
+
+[Event "Schleswig Holstein-ch U16 MT"]
+[Site "Neumuenster"]
+[Date "2008.03.29"]
+[Round "8"]
+[White "Nonnenmacher, Lars"]
+[Black "Marx, Joschka"]
+[Result "0-1"]
+[ECO "B21"]
+[WhiteElo "1476"]
+[BlackElo "1912"]
+[PlyCount "48"]
+[EventDate "2008.03.24"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. f4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bc4 d5 6. exd5 exd5 7. Bb5+ Nc6 8.
+O-O O-O 9. Bxc6 bxc6 10. Ne5 Qc7 11. Re1 Bd6 12. d3 Re8 13. d4 cxd4 14. Qxd4 c5
+15. Qf2 Ba6 16. Bd2 Rab8 17. Rab1 Re7 18. Qg3 Rbe8 19. Nf3 d4 20. Rxe7 Rxe7 21.
+Na4 Ne4 22. Qh4 Nxd2 23. Nxd2 Qa5 24. Nxc5 Qxc5 0-1
+
+[Event "Schleswig Holstein-ch U16 MT"]

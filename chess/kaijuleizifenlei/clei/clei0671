@@ -1,0 +1,600 @@
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Eigemann, Julian"]
+[Black "Briese, Annika"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteElo "1604"]
+[BlackElo "1289"]
+[PlyCount "71"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bc4 d6 8.
+O-O O-O 9. Bg5 h6 10. Bh4 Qe7 11. Re1 Qe5 12. h3 Be6 13. Bxe6 fxe6 14. Na4 Bb6
+15. Nxb6 cxb6 16. Bg3 Qxb2 17. Qxd6 Qxc2 18. Qxe6+ Kh8 19. f3 Rae8 20. Qd6 Rd8
+21. Qb4 c5 22. Qb3 Qd2 23. Rad1 Qg5 24. Bd6 Rfe8 25. e5 Nh5 26. e6 Qg6 27. Kh1
+Ng3+ 28. Bxg3 Rxd1 29. Qxd1 Qxg3 30. Re4 Qg6 31. Qd7 c4 32. Rg4 Qf6 33. Qxe8+
+Kh7 34. Rxc4 Qa1+ 35. Kh2 Qe5+ 36. f4 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Elser, Niklas"]
+[Black "Muench, Marlene"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "1858"]
+[BlackElo "1674"]
+[PlyCount "104"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nf3 Bg4 6. Be3 c6 7. Nc3 Qb6 8. Qb3
+Qxb3 9. axb3 Bxf3 10. gxf3 Bd6 11. c5 Bc7 12. b4 Nbd7 13. b5 O-O 14. Bh3 Rfe8
+15. Kd2 Nf8 16. Bf5 Ng6 17. h4 Ne7 18. Bd3 Nh5 19. Rag1 Ng6 20. Bf5 Rad8 21.
+Rg5 Nhf4 22. h5 Ne7 23. Bc2 Ne6 24. Rg2 Nxc5 25. Bh6 Ne6 26. Bxg7 Nxg7 27. h6
+Bf4+ 28. Kd1 Ng6 29. hxg7 Kxg7 30. Ne2 Bd6 31. bxc6 bxc6 32. f4 Kf6 33. Rxh7
+Nxf4 34. Nxf4 Bxf4 35. Rh5 Ke7 36. Rf5 Bh6 37. Rh2 Rh8 38. Ba4 Ke6 39. Re5+ Kd6
+40. Rf5 Bg7 41. Rg2 Bxd4 42. Rxf7 Rdg8 43. Rxg8 Rxg8 44. b3 Rg6 45. Ke2 Rf6 46.
+Rxf6+ Bxf6 47. Kd3 c5 48. f3 Kc7 49. Be8 Kb6 50. Bf7 d4 51. Kc4 a6 52. Bg6 Bg7
+1/2-1/2
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "George, Tom"]
+[Black "Schwarzat, Julian"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "1669"]
+[BlackElo "1963"]
+[PlyCount "47"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. c3 Nxe4 7. Bxe4 Nf6 8.
+Bd3 Be7 9. Nf3 O-O 10. O-O b6 11. Ne5 Bb7 12. Bg5 h6 13. Bxf6 Bxf6 14. Qc2 Bxe5
+15. dxe5 Qd5 16. f4 Rad8 17. Rad1 Qc5+ 18. Qf2 Qxf2+ 19. Rxf2 Be4 20. Rfd2 Bxd3
+21. Rxd3 Rxd3 22. Rxd3 Rc8 23. Kf2 Kf8 24. Ke3 1/2-1/2
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Gheng, Hannelore"]
+[Black "Belostotska, Elisaweta"]
+[Result "1-0"]
+[ECO "C56"]
+[WhiteElo "1439"]
+[BlackElo "715"]
+[PlyCount "61"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 d6 5. dxe5 Nxe4 6. Qd5 Be6 7. Qxe4 d5 8.
+Bxd5 Bxd5 9. Qf4 Nb4 10. O-O Nxc2 11. Qa4+ c6 12. Qxc2 Bxf3 13. gxf3 Be7 14.
+Kh1 Qd5 15. Qe4 Qe6 16. Rg1 Qh3 17. Qg4 Qxg4 18. fxg4 Rd8 19. Be3 O-O 20. Bxa7
+Rd5 21. Re1 Rfd8 22. Nc3 Rd2 23. Bb6 R8d3 24. Rad1 Rxd1 25. Rxd1 Rf3 26. Rd7
+Kf8 27. Rxb7 Bh4 28. Bc5+ Ke8 29. Ne4 Kd8 30. Nd6 Rd3 31. Bb6# 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Glatting, Lisa"]
+[Black "Hager, Julius Arman"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1762"]
+[BlackElo "901"]
+[PlyCount "111"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 Nc6 4. Bg5 Be7 5. Nc3 d6 6. h3 Be6 7. Be2 d5 8. O-O
+dxe4 9. dxe4 Qxd1 10. Raxd1 O-O 11. a3 Rfe8 12. Bb5 Rad8 13. Bxc6 bxc6 14. Nxe5
+c5 15. Nc6 Ra8 16. Nxe7+ Rxe7 17. Rd2 h6 18. Bxf6 gxf6 19. Rfd1 Ree8 20. f3 Kg7
+21. Nd5 Rec8 22. Nf4 Rf8 23. Nxe6+ fxe6 24. Rd7+ Rf7 25. Rxf7+ Kxf7 26. Rd7+
+Kg6 27. Rxc7 Rb8 28. b3 Rd8 29. Rxc5 Rd2 30. a4 e5 31. Rc7 Kg5 32. c4 a5 33.
+Ra7 Kf4 34. Kh2 h5 35. c5 Rc2 36. Rxa5 h4 37. Rb5 Ke3 38. Rb6 Kf2 39. Rxf6 Kf1
+40. Rg6 Rxc5 41. Rd6 Rc2 42. Rd1+ Kf2 43. Rb1 Re2 44. b4 Ra2 45. a5 Ra4 46. b5
+Rxa5 47. b6 Ra8 48. b7 Rb8 49. Rb3 Rg8 50. Rb2+ Kf1 51. b8=Q Rxb8 52. Rxb8 Kf2
+53. Re8 Kf1 54. Rxe5 Kf2 55. Ra5 Ke3 56. e5 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Hauffen, Kai"]
+[Black "Bui, Ha Trang"]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "1454"]
+[BlackElo "774"]
+[PlyCount "55"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Be7 5. e5 Ne4 6. Qxd4 Nc5 7. O-O O-O 8.
+Nc3 b6 9. Qf4 h6 10. Qg3 Kh7 11. Be3 Bb7 12. b4 Bxf3 13. Qxf3 Nc6 14. bxc5 Nxe5
+15. Qe4+ Kh8 16. Qxe5 bxc5 17. Bd3 Bf6 18. Qe4 g6 19. Bxh6 Re8 20. Qc4 Kh7 21.
+Bd2 c6 22. Rae1 Rh8 23. Qxc5 Qc7 24. Ne4 Kg7 25. h3 Rh7 26. Nxf6 Kxf6 27. Bc3+
+Qe5 28. Qxe5# 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Huhnstock, Rico"]
+[Black "Haecker, Katrin"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "1880"]
+[BlackElo "1663"]
+[PlyCount "57"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 d5 9. exd5 Nxd5 10. O-O O-O 11. Ne5 Nxd4 12. Nb3 Nxb3 13. Bxd5 Nxa1
+14. Bxf7+ Kh8 15. Qh5 h6 16. Rd1 Bg4 17. Qxg4 Qf6 18. Ng6+ Kh7 19. Nxf8+ Rxf8
+20. Bc4 Qxf2+ 21. Kh1 Nc2 22. Bd3+ Kh8 23. Qg6 Kg8 24. Qh7+ Kf7 25. Rf1 Qxf1+
+26. Bxf1 Nd4 27. Bc4+ Kf6 28. Qe4 Nc6 29. Qf4+ 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Kaphle, Christian"]
+[Black "Wenke, Andrea"]
+[Result "0-1"]
+[ECO "C57"]
+[WhiteElo "715"]
+[BlackElo "1440"]
+[PlyCount "102"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. d3 Be7 7. Nf3 O-O 8.
+d4 exd4 9. Nxd4 Nf6 10. c3 Bc5 11. Be3 Re8 12. O-O Nxd4 13. cxd4 Bd6 14. Bg5 h6
+15. Bh4 Re4 16. Bxf6 Qxf6 17. Bd3 Rxd4 18. Re1 Bf5 19. Re3 Bxd3 20. Rxd3 Rxd3
+21. Qxd3 Qxb2 22. Qc3 Be5 23. Qxb2 Bxb2 24. Nd2 Bxa1 25. Nb3 Be5 26. g3 Rc8 27.
+f4 Bd6 28. Nd4 c5 29. Nc2 c4 30. Kf1 c3 31. Ke2 b5 32. Kd3 f5 33. Nd4 g6 34.
+Kc2 b4 35. Kb3 a5 36. Kc2 Re8 37. Kd3 Bc5 38. Nc2 Kf7 39. Na1 Re3+ 40. Kc2 Re2+
+41. Kd3 Rxa2 42. Nb3 c2 43. Nc1 Rb2 44. Kd2 a4 45. Kd3 a3 46. Kc4 a2 47. Kxc5
+a1=Q 48. Nd3 c1=Q+ 49. Nxc1 Qxc1+ 50. Kd5 Rd2+ 51. Ke5 Qe1# 0-1
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Kempe, Markus"]
+[Black "Wolkow, Michael"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "1243"]
+[BlackElo "1566"]
+[PlyCount "48"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 d5 9. exd5 Nxd5 10. Qb3 Nce7 11. Ne5 O-O 12. O-O c6 13. f4 Nf5 14.
+Rfe1 Nxd4 15. Qd3 Nxf4 16. Qg3 Nde6 17. Rad1 Qd4+ 18. Kh1 Rd8 19. Nxf7 Kxf7 20.
+Rf1 Ke8 21. Rfe1 Rd6 22. Re4 Qxe4 23. Re1 Qxg2+ 24. Qxg2 Nxg2 0-1
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Kostka, Daniel"]
+[Black "Biefel, Christian"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "1572"]
+[BlackElo "1239"]
+[PlyCount "105"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. Nxe5 Qe7 6. Nc4 Qxe4+ 7. Ne3 Nf6
+8. O-O Bd6 9. Re1 O-O 10. d3 Qh4 11. h3 Nd5 12. Nf5 Qf6 13. Nxd6 Qxd6 14. Nd2
+Bb7 15. Ne4 Qg6 16. Nc5 Bc8 17. Qf3 d6 18. Ne4 Re8 19. Bd2 f5 20. Nc3 Nxc3 21.
+Rxe8+ Qxe8 22. Bxc3 Bd7 23. Re1 Qf7 24. Qg3 g6 25. Qg5 Be6 26. Qh6 Re8 27. h4
+c5 28. Re3 d5 29. Be5 c6 30. h5 Qf8 31. Qg5 Bf7 32. Qf6 Rxe5 33. Rxe5 Qh6 34.
+Qh4 Qc1+ 35. Kh2 Qxc2 36. hxg6 hxg6 37. Re3 Qxb2 38. Qd8+ Kg7 39. Qe7 Qxf2 40.
+Qxc5 Qf4+ 41. Kg1 Qa4 42. Qc1 Qb5 43. Rh3 c5 44. Qh6+ Kf6 45. Qh8+ Ke7 46. Qe5+
+Kd8 47. Qf6+ Kc8 48. Qxf7 Qb1+ 49. Kh2 Qb8+ 50. Rg3 f4 51. Qf8+ Kb7 52. Qxb8+
+Kxb8 53. Rxg6 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Lang, Jan Hendrik"]
+[Black "Huemmecke, Aaron"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "982"]
+[BlackElo "1466"]
+[PlyCount "34"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bg5 h6 8.
+e5 hxg5 9. exf6 Qxf6 10. Qe2+ Kd8 11. O-O-O Rb8 12. Ne4 Qxb2+ 13. Kd2 Bb4+ 14.
+Kd3 Ba6+ 15. c4 Qa3+ 16. Kc2 Qxa2+ 17. Kc1 Ba3+ 0-1
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Lang, Stephan"]
+[Black "Holle, Niklas"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "1451"]
+[BlackElo "700"]
+[PlyCount "57"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Bd6 7. e5 Be7 8.
+exf6 Bxf6 9. Qe4+ Be7 10. Bg5 O-O 11. Bxe7 d5 12. Nxd5 Qe8 13. Nxc7 Qd7 14.
+Bxf8 Kxf8 15. Nxa8 Qd8 16. Bb5 Qa5+ 17. c3 Qxb5 18. O-O-O Qa5 19. Rhe1 Be6 20.
+Qb4+ Qxb4 21. cxb4 g6 22. b3 Bg4 23. f3 Be6 24. Nc7 Bf5 25. g4 Bc8 26. Re8+ Kg7
+27. g5 f5 28. Rxc8 a6 29. Rd7# 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Neumair, Dorian"]
+[Black "Carow, Annelen"]
+[Result "0-1"]
+[ECO "C48"]
+[WhiteElo "1184"]
+[BlackElo "1542"]
+[PlyCount "46"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. Ba4 Bc5 6. O-O O-O 7. d3 d6 8. Be3
+Bg4 9. Bxd4 Bxd4 10. Nd5 Nxd5 11. exd5 Qf6 12. c3 Bb6 13. Qe2 Bxf3 14. gxf3 Qh6
+15. Kh1 f5 16. Rg1 Qh4 17. Rg2 Qxa4 18. Rag1 g6 19. Qd2 f4 20. b3 Qd7 21. d4
+Rae8 22. Qd3 Qf5 23. Qxf5 Rxf5 0-1
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Palm, Adrian"]
+[Black "Usov, Andreas"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "915"]
+[BlackElo "1461"]
+[PlyCount "100"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. O-O d6 5. Nc3 Bg4 6. h3 Bh5 7. d4 Nxd4 8. Be3
+Nxf3+ 9. gxf3 Bg5 10. Qd2 h6 11. Be2 Bxe3 12. fxe3 f5 13. exf5 Qg5+ 14. Kf2 Ne7
+15. Rg1 Qh4+ 16. Kg2 Nxf5 17. e4 Qg3+ 18. Kf1 Qxh3+ 19. Ke1 Qh4+ 20. Kd1 Nd4
+21. Rf1 O-O-O 22. Nd5 Rhf8 23. c3 Nxe2 24. Kxe2 c6 25. Ne3 Qh2+ 26. Ke1 Qxd2+
+27. Kxd2 Rxf3 28. Rg1 Rf2+ 29. Kc1 Rf3 30. Nf5 Bg4 31. Nxg7 Rg8 32. Nf5 h5 33.
+Kc2 Rd8 34. Nh6 Bd7 35. Rh1 Rh3 36. Rxh3 Bxh3 37. Rh1 Bg4 38. Nxg4 hxg4 39. Rg1
+Rg8 40. Rh1 g3 41. Rg1 d5 42. Kd3 Rg4 43. exd5 cxd5 44. Ke3 Kd7 45. Kf3 Rg6 46.
+Rxg3 Rxg3+ 47. Kxg3 Kc6 48. Kf3 Kc5 49. Ke2 b5 50. b3 b4 0-1
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Pfadenhauer, Tobias"]
+[Black "Erben, Katrin"]
+[Result "1-0"]
+[ECO "C57"]
+[WhiteElo "1759"]
+[BlackElo "946"]
+[PlyCount "17"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Qh5 g6 7. Qf3 f6 8.
+Bxd5 fxg5 9. Qf7# 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Reksten, Daniel"]
+[Black "Seyrich, Maximilian"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "1400"]
+[BlackElo "1943"]
+[PlyCount "70"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. Be2 d5 7. O-O Bd6 8.
+Be3 O-O 9. Nbd2 c5 10. c3 Nc6 11. Re1 Qc7 12. Rc1 Bg4 13. Nf1 b6 14. Qc2 Rfe8
+15. Red1 h6 16. d4 c4 17. b3 b5 18. Rb1 Ne7 19. Ng3 Bxg3 20. hxg3 Bf5 21. Qb2
+Bxb1 22. Rxb1 cxb3 23. Qxb3 a6 24. Bf4 Qc8 25. Ne5 Nc6 26. Bf3 Na5 27. Qc2 Nc4
+28. Qd3 g5 29. Be3 Nxe3 30. fxe3 Qe6 31. Rf1 Rac8 32. Kh1 Rc7 33. Rc1 Rec8 34.
+Kh2 Kg7 35. Rc2 Ne4 0-1
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Schneider, Christian"]
+[Black "Billing, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2097"]
+[BlackElo "1875"]
+[PlyCount "62"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Nc6 4. Nf3 g6 5. g3 Bg7 6. Bg2 Nge7 7. d3 d6 8. O-O
+Nd4 9. Nxd4 Bxd4+ 10. Kh1 Bg7 11. Nc3 O-O 12. Be3 Nc6 13. Qd2 Nd4 14. Nd1 Rb8
+15. c3 Nc6 16. e5 Ne7 17. Nf2 b6 18. exd6 Nf5 19. Rad1 Bb7 20. Ne4 Nxd6 21. Qf2
+Nxe4 22. dxe4 Qe7 23. Rd2 Rbd8 24. Rfd1 Qc7 25. e5 Bxg2+ 26. Kxg2 Rfe8 27. Qf3
+Bf8 28. c4 Rxd2+ 29. Rxd2 Rd8 30. b3 Rxd2+ 31. Bxd2 Qd7 1/2-1/2
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Sieker, Roland"]
+[Black "Laqua, Stefan"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2047"]
+[BlackElo "1684"]
+[PlyCount "49"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Be2 Nc6 5. c3 Bd6 6. Ngf3 Qb6 7. O-O Nge7 8. Re1
+O-O 9. Qb3 Qc7 10. Nf1 d4 11. N1d2 Ng6 12. Nc4 Nge5 13. cxd4 Nxf3+ 14. Bxf3
+Nxd4 15. Qd1 Bxh2+ 16. Kh1 Be5 17. g3 Nxf3 18. Qxf3 Rd8 19. Bd2 Bd4 20. Kg2 b6
+21. Rh1 f5 22. Bg5 Rf8 23. Rxh7 fxe4 24. Qh5 Rxf2+ 25. Kh1 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.11"]
+[Round "2"]
+[White "Wenninger, Philipp"]
+[Black "Drewes, Carina"]
+[Result "1/2-1/2"]
+[ECO "C21"]
+[WhiteElo "1868"]
+[BlackElo "1676"]
+[PlyCount "77"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Nc6 5. Nxc3 d6 6. f4 Nf6 7. Nf3 Bg4 8.
+O-O Be7 9. Qb3 O-O 10. Qxb7 Na5 11. Qa6 Nxc4 12. Qxc4 h6 13. Nd4 Qd7 14. e5 Nh7
+15. h3 Be6 16. Nxe6 fxe6 17. f5 d5 18. fxe6 Qxe6 19. Rxf8+ Bxf8 20. Qxd5 Re8
+21. Bf4 g5 22. Bg3 Bg7 23. Rd1 Nf8 24. Qxe6+ Rxe6 25. Rd5 a6 26. Rc5 Nd7 27.
+Rxc7 Nxe5 28. Rb7 Nd3 29. Rb8+ Kh7 30. Rb7 Nxb2 31. Nd5 Kh8 32. Rb8+ Kh7 33.
+Rb7 Kh8 34. Nc7 Rc6 35. Kh2 Nc4 36. Nd5 a5 37. Ne7 Rb6 38. Rc7 Ne3 39. Rc8+
+1/2-1/2
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.12"]
+[Round "3"]
+[White "Belostotska, Elisaweta"]
+[Black "Neumair, Dorian"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "715"]
+[BlackElo "1184"]
+[PlyCount "64"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Nxe4 5. Nxe4 d5 6. Bd3 dxe4 7. Bxe4 Bd6
+8. Bxc6+ bxc6 9. d4 e4 10. Ng5 f5 11. Qh5+ g6 12. Qh6 Qf6 13. c3 Bb7 14. Bd2
+O-O-O 15. O-O Ba6 16. Rfe1 Bd3 17. f3 Rde8 18. Qh4 h6 19. Qf2 hxg5 20. g3 exf3
+21. Qxf3 Be4 22. Qe2 Bxg3 23. Qa6+ Kb8 24. hxg3 Rh1+ 25. Kf2 Rh2+ 26. Kg1 Rxd2
+27. b3 Qd6 28. Kf1 Qxg3 29. Re2 Bg2+ 30. Kg1 Bh3+ 31. Kh1 Rdxe2 32. Rg1 Rh2#
+0-1
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.12"]
+[Round "3"]
+[White "Brand, Benedikt"]
+[Black "Lang, Jan Hendrik"]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "1314"]
+[BlackElo "982"]
+[PlyCount "65"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. d3 d5 6. exd5 Nxd5 7. Re1 Qd6 8.
+d4 Nb6 9. Bb5 Bb4 10. c3 Bd7 11. Bxc6 Bxc6 12. Nxe5 O-O-O 13. Qg4+ Bd7 14. Nxd7
+Qxd7 15. Qxd7+ Rxd7 16. cxb4 Rxd4 17. Be3 Rxb4 18. Bxb6 Rxb6 19. b3 Re6 20.
+Rxe6 fxe6 21. Nc3 Rd8 22. Rd1 Rd6 23. Kf1 b5 24. Rxd6 cxd6 25. Nxb5 d5 26.
+Nxa7+ Kc7 27. Nb5+ Kc6 28. Nd4+ Kd6 29. f4 e5 30. fxe5+ Kxe5 31. Nf3+ Ke4 32.
+Ke2 h6 33. a4 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.12"]
+[Round "3"]
+[White "Briese, Annika"]
+[Black "Palm, Adrian"]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "1289"]
+[BlackElo "915"]
+[PlyCount "21"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 Nc6 5. Ngf3 a6 6. Bd3 Qb6 7. exd5 exd5 8. Nf1
+cxd4 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Bb5+ 1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.12"]
+[Round "3"]
+[White "Eichin, Felix"]
+[Black "Wachinger, David"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "946"]
+[BlackElo "1179"]
+[PlyCount "116"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Be3 Nc6 5. Nf3 Qb6 6. Nc3 Bd7 7. g3 Nge7 8. Bg2
+Nf5 9. g4 Nfxd4 10. Na4 Nxf3+ 11. Bxf3 Qa5+ 12. c3 Nxe5 13. Bg2 Qxa4 14. h3
+Qxd1+ 15. Rxd1 Bb5 16. f4 Nc4 17. Bf1 a6 18. Bc1 Bd6 19. b3 Nb6 20. Bxb5+ axb5
+21. f5 O-O 22. Rd2 Rae8 23. fxe6 Rxe6+ 24. Re2 Rxe2+ 25. Kxe2 Re8+ 26. Kd1 Re4
+27. Ba3 f6 28. Re1 Rxe1+ 29. Kxe1 Kf7 30. h4 Nd7 31. Kd1 Ke7 32. Bb2 Ne5 33. g5
+fxg5 34. hxg5 g6 35. Bc1 d4 36. cxd4 cxd4 37. Bf4 Ke6 38. Kd2 Nf3+ 39. Ke2 Bxf4
+40. Kxf3 Bxg5 41. Ke4 Be3 42. Kf3 Kf5 43. a4 bxa4 44. bxa4 b6 45. Ke2 h5 46.
+Kd3 Ke6 47. Kc4 Kd6 48. Kb5 d3 49. a5 bxa5 50. Kxa5 d2 51. Kb5 d1=Q 52. Kc4
+Qd4+ 53. Kb5 Qc5+ 54. Ka4 Qb6 55. Ka3 Bd4 56. Ka4 Kc5 57. Ka3 Qb5 58. Ka2 Qb2#
+0-1
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.12"]
+[Round "3"]
+[White "Figura, Atila Gajo"]
+[Black "Ludwig, Jan"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2405"]
+[BlackElo "1957"]
+[PlyCount "81"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. b3 d5 3. Bb2 Nf6 4. e5 Nfd7 5. Qg4 c5 6. f4 Nc6 7. Nf3 b6 8. Be2
+Qc7 9. O-O Bb7 10. Na3 a6 11. c4 d4 12. Nc2 Ne7 13. Bd3 g6 14. Ng5 h5 15. Qe2
+Nf5 16. Be4 Be7 17. Bxb7 Qxb7 18. Ne4 Kf8 19. g3 Kg7 20. Ne1 Rad8 21. Qf3 Nb8
+22. Nd3 Nc6 23. h3 Nb8 24. Ba3 a5 25. Rae1 Na6 26. Bc1 Nb4 27. Nxb4 axb4 28. d3
+Rh7 29. Re2 Rdh8 30. Rg2 Qc6 31. Rff2 Qb7 32. Kf1 Qc6 33. Ke1 Qb7 34. Kd1 Qc6
+35. Kc2 Qa8 36. Kb1 Qb7 37. Rg1 Qc6 38. Qe2 Qb7 39. g4 hxg4 40. hxg4 Nh4 41. f5
+1-0
+
+[Event "GER-ch U25 op"]
+[Site "Willingen"]
+[Date "2008.05.12"]
+[Round "3"]
+[White "Guennigmann, Manuel"]
+[Black "Wisheckel, Florian"]

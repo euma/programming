@@ -1,0 +1,600 @@
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2405"]
+[BlackElo "2177"]
+[PlyCount "53"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Bc5 4. d3 Nf6 5. O-O d6 6. c3 Bg4 7. Nbd2 O-O 8. h3
+Bh5 9. Re1 Re8 10. b4 Bb6 11. a4 a6 12. Qb3 Qd7 13. a5 Ba7 14. b5 Nd8 15. b6
+Bb8 16. d4 exd4 17. cxd4 c6 18. d5 Bxf3 19. Nxf3 Rxe4 20. Bb2 Rf4 21. Bxf6 Rxf6
+22. Qe3 Kf8 23. Ng5 Rh6 24. Bd3 g6 25. Ne4 g5 26. Qd4 f6 27. Nxf6 1-0
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.08"]
+[Round "1"]
+[White "Valdes, Leonardo"]
+[Black "Marrero Lopez, Yaniet"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2409"]
+[BlackElo "2232"]
+[PlyCount "87"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. e5
+Nd7 9. Re1 Qc7 10. Qe2 b6 11. Nf1 Bb7 12. Bf4 Rac8 13. c3 b5 14. h4 d4 15. h5
+h6 16. N1d2 dxc3 17. bxc3 Rfd8 18. Rac1 Nb6 19. g4 Qd7 20. Bf1 Nd5 21. Bg3 b4
+22. Ne4 Nxc3 23. Nxc3 bxc3 24. Rxc3 Qd5 25. Bg2 Nd4 26. Qe4 Qxe4 27. dxe4 c4
+28. Nxd4 Rxd4 29. Rc2 c3 30. Re3 Bb4 31. a3 Ba5 32. Bf4 Rd1+ 33. Kh2 Ba6 34.
+Bf3 Rd2 35. Rxd2 cxd2 36. Rb3 Rc1 37. Rb8+ Kh7 38. Ra8 Rc7 39. Be3 Bc4 40. Bxa7
+Bb3 41. Be3 d1=Q 42. Bxd1 Bxd1 43. Rxa5 Bxg4 44. Ra7 1/2-1/2
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Abreu Delgado, Aryam"]
+[Black "Santos, Marcus Vinicius M"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[WhiteElo "2483"]
+[BlackElo "2402"]
+[PlyCount "78"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O Bc5 7. Qd3 Qe7 8.
+Nc3 Nb4 9. Qe2 c6 10. a3 Na6 11. Bxa6 bxa6 12. Be3 Bxe3 13. Qxe3 O-O 14. Qd3
+Bb7 15. Rfe1 d6 16. Rad1 Rad8 17. Rd2 Nh5 18. Qe3 Bc8 19. Kh1 h6 20. Ng1 Rf6
+21. Na4 Qf7 22. b3 Rf8 23. Rf1 Nf4 24. c4 Qg6 25. f3 c5 26. Nc3 Bb7 27. b4 Qf7
+28. bxc5 Qxc4 29. Rc1 dxc5 30. Nce2 Qe6 31. Rxc5 R6f7 32. Qc3 Ng6 33. Qc4 Qf6
+34. Rd7 Kh7 35. Rxf7 Rxf7 36. Rc7 Rxc7 37. Qxc7 Qb6 38. Qf7 Bc8 39. Qc4 Be6
+1/2-1/2
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Castillo Coca, Mayrebis"]
+[Black "Barrientos Chavarriaga, Sergio"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2023"]
+[BlackElo "2405"]
+[PlyCount "94"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Bc4 Nc6 3. d3 Nf6 4. Nf3 Bc5 5. O-O d6 6. Re1 a6 7. c3 Ba7 8. Nbd2
+O-O 9. Bb3 Re8 10. h3 Be6 11. Bc2 d5 12. Qe2 dxe4 13. dxe4 Nh5 14. Nf1 Qf6 15.
+Kh1 Nf4 16. Bxf4 Qxf4 17. Ne3 Rad8 18. Rad1 Rxd1 19. Rxd1 Bxe3 20. Qxe3 Qxe3
+21. fxe3 f6 22. Bb3 Bxb3 23. axb3 Kf7 24. Kg1 Ke7 25. b4 a5 26. b5 Nd8 27. Nd2
+b6 28. c4 Nb7 29. Nb1 Nc5 30. Nc3 Rd8 31. Rd5 Nd3 32. Na4 Rxd5 33. exd5 e4 34.
+b3 f5 35. Kf1 Kd6 36. g4 g6 37. gxf5 gxf5 38. Kg2 Ke5 39. Kg3 h6 40. h4 h5 41.
+d6 Kxd6 42. Nc3 Ke5 43. Nd5 Nc1 44. Nxc7 Nxb3 45. Nd5 a4 46. Nb4 a3 47. Na2 Na5
+0-1
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Delgado Ramirez, Neuris"]
+[Black "Pazos Gambarrotti, Plinio"]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "2530"]
+[BlackElo "2361"]
+[PlyCount "45"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 Nf6 6. exd5 Qxd5 7. c4 Qd6 8.
+dxc5 Qxc5 9. a3 Bd7 10. b4 Qb6 11. Bb2 Be7 12. Ba4 O-O 13. O-O Qc7 14. Rc1 Rad8
+15. Qc2 Nb8 16. Bb3 h6 17. Ba2 b6 18. Bb1 g6 19. Ne5 Be8 20. Qc3 Nc6 21. Ndf3
+Nd4 22. Nxd4 Qxe5 23. Nc6 1-0
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Gomez Garrido, Camilo"]
+[Black "Pecorelli Garcia, Humberto"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[WhiteElo "2408"]
+[BlackElo "2384"]
+[PlyCount "53"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Nxd2 12. Qxd2 Na5 13. Nd4 c5 14. Nxe6 fxe6
+15. f4 Nxb3 16. axb3 a5 17. Rad1 a4 18. bxa4 bxa4 19. f5 Rxf5 20. Rxf5 exf5 21.
+Qxd5+ Qxd5 22. Rxd5 Rb8 23. Rd7 Bf8 24. Ra7 Rxb2 25. Rxa4 Re2 26. Bf4 Kf7 27.
+Kf1 1/2-1/2
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Marrero Lopez, Yaniet"]
+[Black "Borges Feria, Yasel"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2232"]
+[BlackElo "2406"]
+[PlyCount "56"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. d3 Bd6 7. Nbd2 O-O 8.
+Nc4 Nd7 9. O-O Re8 10. Nxd6 cxd6 11. d4 Qf6 12. dxe5 dxe5 13. Be3 Nf8 14. Nd2
+Be6 15. Qf3 Qe7 16. Nb3 Bxb3 17. axb3 Qc7 18. Rfd1 Rad8 19. Rxd8 Rxd8 20. Rd1
+Rxd1+ 21. Qxd1 Qd7 22. Qxd7 Nxd7 23. Kf1 f6 24. Ke2 Kf7 25. Kd3 Ke6 26. f3 Kd6
+27. g3 Ke6 28. Kc4 Kd6 1/2-1/2
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Miranda Mesa, Elier"]
+[Black "De la Paz Perdomo, Frank"]
+[Result "0-1"]
+[ECO "C90"]
+[WhiteElo "2240"]
+[BlackElo "2483"]
+[PlyCount "90"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. c3 Re8 10. Nbd2 Bf8 11. Ng5 Re7 12. Nf1 h6 13. Nf3 Be6 14. Ng3 d5 15. d4
+dxe4 16. dxe5 Bxb3 17. Qxd8 Rxd8 18. exf6 Re6 19. fxg7 Bxg7 20. axb3 exf3 21.
+Bf4 Ne5 22. Red1 Rde8 23. gxf3 Nxf3+ 24. Kg2 Nh4+ 25. Kf1 b4 26. Bxc7 bxc3 27.
+bxc3 Bxc3 28. Rac1 Bb4 29. Bf4 Rf6 30. Rc4 a5 31. Bc7 Nf3 32. Kg2 Re1 33. Rxe1
+Nxe1+ 34. Kf1 Nd3 35. Ne4 Re6 36. Bg3 f5 37. Nc3 f4 38. Re4 Ne5 39. Na2 fxg3
+40. Nxb4 gxh2 41. Kg2 axb4 42. Rxb4 Rf6 43. f4 Nd3 44. Rd4 Nxf4+ 45. Kxh2 Kg7
+0-1
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Munoz, Lisandro"]
+[Black "Perez Rodriguez, Jennifer"]
+[Result "1-0"]
+[ECO "C56"]
+[WhiteElo "2328"]
+[BlackElo "2216"]
+[PlyCount "91"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8.
+Be3 Bd7 9. Bxc6 bxc6 10. Nd2 Nxd2 11. Qxd2 Qe7 12. O-O O-O 13. Nb3 Bb6 14. Qc3
+f6 15. f4 fxe5 16. fxe5 Rae8 17. Nc5 Bf5 18. Rae1 h6 19. b4 Qh4 20. Rf4 Qh5 21.
+a4 Rf7 22. a5 Bxc5 23. Bxc5 a6 24. Ref1 Bg6 25. Rxf7 Bxf7 26. Bd4 Qg6 27. h3
+Qe4 28. Qd2 Bg6 29. c3 Rf8 30. Re1 Qd3 31. Qxd3 Bxd3 32. e6 Be4 33. e7 Re8 34.
+Bc5 Kf7 35. Rf1+ Ke6 36. Rf8 Rxe7 37. Bxe7 Kxe7 38. Ra8 Bd3 39. Kf2 Kd6 40.
+Rd8+ Ke6 41. Rg8 g6 42. Ke3 Be4 43. g3 Kd6 44. Kd4 c5+ 45. bxc5+ Kc6 46. c4 1-0
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Sanchez, Victor Hugo"]
+[Black "Glud, Jakob Vang"]
+[Result "0-1"]
+[ECO "C46"]
+[WhiteElo "2210"]
+[BlackElo "2456"]
+[PlyCount "62"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 exd4 5. Nxd4 Bd7 6. Nxc6 Bxc6 7. Bd3 Nf6 8.
+O-O Be7 9. Re1 Nd7 10. Qh5 Ne5 11. f4 Nxd3 12. cxd3 g6 13. Qd1 O-O 14. Qb3 Bf6
+15. Rf1 a5 16. f5 a4 17. Qc4 Bg7 18. fxg6 hxg6 19. Nd5 Ra5 20. Bg5 Qxg5 21.
+Nf6+ Kh8 22. d4 Qe3+ 23. Rf2 Bxe4 24. d5 Bf5 25. Qxc7 Rc5 26. Qxd6 Rfc8 27. h3
+Rc2 28. Raf1 Qd4 29. Qf4 Bxf6 30. g4 Kg7 31. gxf5 g5 0-1
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Cancio Bello, Flavia"]
+[Black "Sanchez, Victor Hugo"]
+[Result "0-1"]
+[ECO "C24"]
+[WhiteElo "2048"]
+[BlackElo "2210"]
+[PlyCount "64"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nf3 d6 5. c3 Qe7 6. Nbd2 Be6 7. Bb3 Nbd7 8. h3
+Bb6 9. O-O h6 10. d4 c6 11. Re1 g5 12. Nf1 g4 13. d5 gxf3 14. dxe6 fxe6 15.
+Qxf3 O-O-O 16. Be3 Nc5 17. Bc2 Rdf8 18. Bxc5 Bxc5 19. Qd1 Rhg8 20. Ne3 d5 21.
+b4 Bb6 22. a4 Qg7 23. g3 dxe4 24. a5 Bxe3 25. Rxe3 Nd5 26. Qe1 Nxe3 27. Qxe3
+Rf3 28. Qxe4 Rxg3+ 29. fxg3 Qxg3+ 30. Kf1 Rf8+ 31. Ke2 Rf2+ 32. Kd1 Qxc3 0-1
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "De la Paz Perdomo, Frank"]
+[Black "Munoz, Lisandro"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "2483"]
+[BlackElo "2328"]
+[PlyCount "112"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 Nf6 5. e5 Nfd7 6. Bd3 c5 7. c3 Nc6 8. O-O
+Qb6 9. dxc5 Nxc5 10. Bc2 Qa6 11. b4 Nd7 12. Re1 Qb6 13. a4 Qc7 14. Qe2 Nxb4 15.
+cxb4 Qxc2 16. Nd4 Qg6 17. Ra3 h6 18. f4 O-O 19. Rg3 Qh7 20. Rf1 Nb6 21. a5 Nc4
+22. Nxc4 dxc4 23. Qxc4 Qe4 24. Rxg7+ Kh8 25. Rg3 b5 26. axb6 Bb7 27. Bb2 Rg8
+28. Qc2 axb6 29. Qxe4 Bxe4 30. Bc3 Rxg3 31. hxg3 Rc8 32. Bd2 Rc4 33. Nb5 Rc2
+34. Rf2 Kg8 35. Be3 Rc6 36. Rb2 Bd3 37. Na7 Rc4 38. b5 Bc5 39. Kf2 Be4 40. g4
+Bd5 41. g3 Bxe3+ 42. Kxe3 Rc3+ 43. Kd4 Rc4+ 44. Kd3 Rc7 45. Nc6 Bxc6 46. bxc6
+Rxc6 47. f5 Kg7 48. Ra2 Rc5 49. Ke4 Rc4+ 50. Kf3 Rc3+ 51. Kf4 Rc4+ 52. Kf3 Rc5
+53. Kf4 Ra5 54. Rd2 Ra4+ 55. Kf3 Ra3+ 56. Kf4 Ra4+ 1/2-1/2
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Delgado, Hector"]
+[Black "Diaz Ordonez, Ciro"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "2394"]
+[BlackElo "2245"]
+[PlyCount "41"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8. Be3
+Ne7 9. Nbd2 Ng6 10. hxg4 hxg4 11. Bg5 Qe6 12. Nh2 g3 13. fxg3 Bc5+ 14. Kh1 f6
+15. Ndf3 fxg5 16. Nxg5 O-O-O 17. d4 Bxd4 18. Qxd4 Rxd4 19. Nxe6 Rxe4 20. Rad1
+Rg4 21. Rf7 1-0
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Espinosa, Garcia Sandra"]
+[Black "Miranda, Yerisbel"]
+[Result "1/2-1/2"]
+[ECO "C86"]
+[WhiteElo "2023"]
+[BlackElo "2177"]
+[PlyCount "48"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. O-O b5 7. Bb3 d6 8. c3
+O-O 9. Re1 Na5 10. Bc2 c5 11. d4 Qc7 12. dxe5 dxe5 13. Nbd2 Be6 14. Nf1 Rfd8
+15. b3 Nc6 16. Bb2 c4 17. b4 a5 18. a3 Ng4 19. h3 Nf6 20. Ng3 Bf8 21. Reb1 a4
+22. Bc1 h6 23. Be3 Rd7 24. Rd1 Rad8 1/2-1/2
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Gallego Alcaraz, Andres Felipe"]
+[Black "Blanco, Humberto"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2269"]
+[BlackElo "2422"]
+[PlyCount "75"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
+b3 Bg7 16. d5 Qe7 17. Be3 c6 18. c4 Rec8 19. Qd2 Nc5 20. Rab1 a5 21. Bxc5 dxc5
+22. Qg5 Re8 23. Rbd1 b4 24. d6 Qe6 25. Nf5 Nd7 26. Nh6+ Kh8 27. Rd3 Qf6 28. Qe3
+Bxh6 29. Qxh6 Nf8 30. d7 Red8 31. Red1 Qe7 32. Rd6 Rxd7 33. Qxf8+ Qxf8 34. Rxd7
+Ba6 35. Nxe5 Re8 36. Rxf7 Qh6 37. Ng4 Qh4 38. Nf6 1-0
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Martinez, Lelys"]
+[Black "Hevia, Alejano Carlos A"]
+[Result "0-1"]
+[ECO "C19"]
+[WhiteElo "2499"]
+[BlackElo "2308"]
+[PlyCount "138"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Bd7 8. h5
+h6 9. Nf3 Qc7 10. a4 Nbc6 11. Ba3 Qa5 12. Qd2 cxd4 13. cxd4 Qxd2+ 14. Kxd2 Nf5
+15. a5 Nfxd4 16. Nxd4 Nxd4 17. Bc5 Nc6 18. f4 Rc8 19. Bd6 a6 20. Bd3 Na7 21.
+Rh4 Nb5 22. Bb4 Nd4 23. Rg4 Bb5 24. Bxb5+ Nxb5 25. Kd3 Rg8 26. c3 Kd7 27. Rf1
+Rc4 28. Rf3 Na7 29. Rfg3 Nc6 30. Bd6 Nxa5 31. Rxg7 Rxg7 32. Rxg7 Rxf4 33. g3
+Rf1 34. Ke2 Rf5 35. g4 Rf4 36. Ke3 Rf1 37. Ke2 Rf4 38. g5 hxg5 39. h6 Nc4 40.
+h7 Rh4 41. Rxf7+ Kc6 42. Re7 Kb6 43. Rg7 a5 44. Be7 a4 45. Bxg5 Rh2+ 46. Kf3 a3
+47. Kg3 Rh5 48. Kg4 Rh1 49. Bh4 Nxe5+ 50. Kg3 a2 51. h8=Q a1=Q 52. Qd8+ Ka7 53.
+Rxb7+ Kxb7 54. Qe7+ Kb6 55. Qxe6+ Kc5 56. Qc8+ Kb5 57. c4+ Nxc4 58. Qd7+ Kb4
+59. Qb7+ Ka4 60. Qc6+ Kb3 61. Qb7+ Kc2 62. Qh7+ Kc3 63. Bf6+ d4 64. Bxd4+ Kxd4
+65. Qd7+ Kc3 66. Qg7+ Kc2 67. Qg6+ Kb3 68. Qd3+ Qc3 69. Kf2 Qxd3 0-1
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Ordaz Valdes, Lisandra"]
+[Black "Borges Mateos, Juan"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2300"]
+[BlackElo "2474"]
+[PlyCount "14"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Nbd7
+1/2-1/2
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Ordunez, Echarte Dennys"]
+[Black "Gomez, Felix"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2224"]
+[BlackElo "2325"]
+[PlyCount "88"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. Bb3 Ba7 7. Nbd2 d6 8. h3
+h6 9. Nf1 Be6 10. Be3 Qd7 11. Bxa7 Rxa7 12. Ng3 O-O 13. O-O Re8 14. Re1 d5 15.
+Bc2 d4 16. cxd4 Nxd4 17. Nxe5 Qb5 18. Nc4 Bxc4 19. Ba4 Qxb2 20. Bxe8 Bxa2 21.
+Ba4 b5 22. Ne2 Be6 23. Rb1 Nxe2+ 24. Rxe2 Qd4 25. Bb3 Nd7 26. Ra2 Nc5 27. Bxe6
+Nxe6 28. Qc2 Qb6 29. Qb3 c6 30. g3 a5 31. Kg2 Nc5 32. Qc2 Ne6 33. f4 Nd4 34.
+Qc3 b4 35. Qc4 Nb5 36. Rc1 Nd4 37. Ra4 Rd7 38. Qa2 Qb5 39. Rc4 b3 40. Qb2 Nc2
+41. Rxc2 Qxa4 42. Rc3 Rb7 43. Rc5 Rb5 44. Rxc6 Qa2 0-1
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Abreu Delgado, Aryam"]
+[Black "Alvarez Pedraza, Aramis"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2483"]
+[BlackElo "2420"]
+[PlyCount "77"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O Re8 7. Re1 a6 8. Ba4
+h6 9. h3 b5 10. Bb3 Bb6 11. Nbd2 d5 12. exd5 Nxd5 13. d4 Nf4 14. Nf1 Nxg2 15.
+Kxg2 Qd7 16. Ng1 Bb7 17. d5 Na5 18. Be3 c5 19. f3 f5 20. d6+ Nxb3 21. axb3 Re6
+22. b4 Rxd6 23. Qe2 Rg6+ 24. Kh1 Bc7 25. bxc5 Qc6 26. Nh2 Re8 27. Rad1 Ree6 28.
+Qd2 e4 29. f4 Bxf4 30. Ne2 Bxe3 31. Qxe3 Re8 32. Nf4 Rf6 33. h4 g5 34. Rg1 g4
+35. Rd8 Kf7 36. Rgd1 Re7 37. Nf1 Qc7 38. Ng3 Qe5 39. Ngh5 1-0
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Alonso Moyano, Jonathan"]
+[Black "Otero, Diasmany"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[WhiteElo "2385"]
+[BlackElo "2442"]
+[PlyCount "65"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. exd5 cxd5 6. Bb3 Bb4+ 7. c3 Bd6 8.
+Bg5 Be6 9. O-O Nc6 10. Re1 O-O 11. Ba4 h6 12. Bh4 e4 13. dxe4 dxe4 14. Nd4 Nxd4
+15. cxd4 g5 16. Bg3 Bxg3 17. hxg3 Qb6 18. Nc3 Rfd8 19. Nxe4 Nxe4 20. Rxe4 Bf5
+21. Re5 Rxd4 22. Qe1 Be6 23. Rb5 Qa6 24. Ra5 Qd6 25. Bb3 Bxb3 26. axb3 a6 27.
+Re5 Rd8 28. Re8+ Rxe8 29. Qxe8+ Kg7 30. Re1 Rd1 31. Kh2 Rxe1 32. Qxe1 Qd4 33.
+Qe2 1/2-1/2
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Hansen, Sune Berg"]
+[Black "Santos, Marcus Vinicius M"]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "2549"]
+[BlackElo "2402"]
+[PlyCount "91"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d5 5. exd5 Nxd5 6. h3 Bc5 7. O-O O-O 8.
+Re1 Nb6 9. Bb3 a5 10. a3 Nd4 11. Nxd4 Qxd4 12. Be3 Qd6 13. Qh5 Bxe3 14. Rxe3 a4
+15. Ba2 Nd7 16. Nd2 g6 17. Qh6 Qf6 18. Ne4 Qg7 19. Qh4 Kh8 20. Ng5 Ra6 21. Rf3
+Rf6 22. Rxf6 Nxf6 23. Re1 Nh5 24. Nxf7+ Rxf7 25. Bxf7 Qxf7 26. Qd8+ Qg8 27.
+Qxc7 Ng7 28. Rxe5 Be6 29. Qxb7 Qf8 30. Qb4 Qf6 31. Rb5 Nf5 32. Qc3 Nd4 33. Rb8+
+Kg7 34. Qc7+ Kh6 35. Qd6 Kg7 36. Qc7+ Kh6 37. Qd6 Kg7 38. Rb7+ Kh6 39. Rb4 Nf5
+40. Qf4+ g5 41. Qf3 Qe5 42. Qe4 Qd6 43. Rxa4 Ne7 44. h4 Ng6 45. hxg5+ Kxg5 46.
+Qe3+ 1-0
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Jimenez, Pedro A"]
+[Black "Perez Rodriguez, Jennifer"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2320"]
+[BlackElo "2216"]
+[PlyCount "85"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 b6 8.
+O-O Bb7 9. Nb5 O-O-O 10. Bxc5 bxc5 11. Bd5 a6 12. N5a3 Nxd5 13. exd5 Ne5 14. c4
+Qh4 15. Nd2 h5 16. Nf3 Nxf3+ 17. Qxf3 f6 18. Rab1 Qg4 19. Qe3 Qd4 20. Qh3 Qg4
+21. Qc3 h4 22. h3 Qd4 23. Qf3 a5 24. Rbd1 Qe5 25. Rfe1 Qd6 26. Nb5 Qb6 27. Re7
+Ba6 28. a4 Bxb5 29. axb5 g6 30. d6 cxd6 31. Qxf6 Kc7 32. Qxg6 Rhg8 33. Qh6 Rh8
+34. Qg7 Rhe8 35. Qf7 Rh8 36. b3 Rh6 37. Rd5 a4 38. bxa4 Qa5 39. Qf4 Rg6 40.
+Rxc5+ Kb6 41. Rg5 Rxg5 42. Qxg5 Qxa4 43. Qxh4 1-0
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Llaudy Pupo, Lisandra"]
+[Black "Gomez, Felix"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2234"]
+[BlackElo "2325"]
+[PlyCount "76"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. Bb3 Ba7 7. O-O d6 8. h3 h6
+9. Nbd2 g5 10. Nh2 g4 11. hxg4 Rg8 12. Qf3 Na5 13. g5 hxg5 14. g4 Nxb3 15. Nxb3
+Be6 16. Be3 Bxe3 17. fxe3 Rg6 18. Rf2 Qd7 19. Rg2 O-O-O 20. Qh3 Rdg8 21. Nd2
+Qb5 22. c4 Qxb2 23. Nb3 Qc3 24. Rd2 b6 25. Rb1 a5 26. a4 Bd7 27. Qf1 Bxa4 28.
+Rdb2 Rh8 29. Qe2 Rgh6 30. Nf1 Bd7 31. Rc1 Qb4 32. c5 Nxg4 33. cxb6 Rh1+ 34. Kg2
+R8h2+ 35. Nxh2 Rxh2+ 36. Kf3 Rxe2 37. Rxc7+ Kd8 38. Kxe2 Qxb6 0-1
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Marrero Lopez, Yaniet"]
+[Black "Pazos Gambarrotti, Plinio"]
+[Result "1/2-1/2"]
+[ECO "C40"]
+[WhiteElo "2232"]
+[BlackElo "2361"]
+[PlyCount "63"]
+[EventDate "2008.05.08"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 e4 4. Ne5 Nf6 5. Ng4 Bc5 6. d4 exd3 7. Bxd3 Qe7+ 8.
+Ne3 d5 9. O-O O-O 10. c3 a5 11. Na3 c6 12. Nac2 Nbd7 13. Nd4 Ne5 14. Bc2 Bb6
+15. Re1 Qd6 16. Nf1 Bc7 17. Bf4 Nf3+ 18. Qxf3 Qxf4 19. Qxf4 Bxf4 20. g3 Bd6 21.
+Ne6 Re8 22. Re2 Bd7 23. Rae1 Re7 24. Nd2 Rae8 25. Nf3 g6 26. Nfd4 c5 27. Nb3
+Bb5 28. Rd2 a4 29. Nc1 Bd7 30. Rde2 Bb5 31. Rd2 Bd7 32. Rde2 1/2-1/2
+
+[Event "Capablanca Memorial op 43rd"]
+[Site "Havana"]
+[Date "2008.05.11"]
+[Round "4"]

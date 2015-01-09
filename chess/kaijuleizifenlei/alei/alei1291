@@ -1,0 +1,600 @@
+[Site "Graz"]
+[Date "2008.09.07"]
+[Round "9"]
+[White "Westermayer, Johann2"]
+[Black "Kunschek, Horst"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "1815"]
+[BlackElo "2023"]
+[PlyCount "20"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 Nc6 2. g3 e5 3. Bg2 Nf6 4. a3 d5 5. cxd5 Nxd5 6. d3 Be7 7. Nf3 O-O 8. O-O
+Be6 9. Nc3 h6 10. b4 Nxc3 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.07"]
+[Round "9"]
+[White "Zoebisch, Herbert"]
+[Black "Saxer, Bernhard"]
+[Result "1-0"]
+[ECO "A69"]
+[WhiteElo "2133"]
+[BlackElo "2008"]
+[PlyCount "81"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+a6 9. a4 Bg7 10. Be2 O-O 11. O-O Re8 12. f4 Rb8 13. Kh1 Nb6 14. Bf3 Na8 15. Nc4
+Nb6 16. Nxb6 Qxb6 17. e5 Nd7 18. a5 Qd8 19. e6 Nf6 20. f5 gxf5 21. exf7+ Kxf7
+22. Bg5 Kg8 23. Qd2 b5 24. Ne2 Qd7 25. Nf4 Ne4 26. Bxe4 Rxe4 27. Ne6 Qf7 28.
+Nxg7 Qxg7 29. Bh6 Qg6 30. Rae1 Rxe1 31. Rxe1 b4 32. Re8+ Kf7 33. Rf8+ Ke7 34.
+Qe3+ Kd7 35. Bg5 Kc7 36. Qe7+ Bd7 37. Rf7 Qxf7 38. Qxf7 c4 39. Qf6 c3 40. bxc3
+b3 41. Bf4 1-0
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.08.30"]
+[Round "1"]
+[White "Morchiashvili, Bachana"]
+[Black "Orakci, Muratcan"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "2427"]
+[PlyCount "39"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 Nbd7 7. f4 a6 8. Nf3
+b5 9. e5 dxe5 10. fxe5 Ng4 11. Bf4 g6 12. h3 Nh6 13. g4 Nb6 14. Qd2 b4 15. Ne4
+Ng8 16. d6 Bg7 17. Nxc5 Be6 18. Bxa6 Nd5 19. Bg5 f6 20. Nxe6 1-0
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.08.31"]
+[Round "2"]
+[White "Ali Marandi, Cemil Can"]
+[Black "Abasov, Nijat Azad"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "1809"]
+[BlackElo "2369"]
+[PlyCount "69"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. c3 Bg7 4. Bg5 Ne4 5. Bh4 O-O 6. e3 d5 7. Bd3 Nd7 8. O-O
+c6 9. Nfd2 f5 10. f3 Nef6 11. e4 fxe4 12. fxe4 Qb6 13. Qb3 Qxb3 14. axb3 e5 15.
+exd5 cxd5 16. dxe5 Nxe5 17. Be2 Bf5 18. Nf3 Ne4 19. Nbd2 Ng4 20. Ra5 Ne3 21.
+Rfa1 a6 22. Nxe4 dxe4 23. Nd2 Bh6 24. Nc4 Nxc4 25. Bxc4+ Kg7 26. Rd1 Be3+ 27.
+Kh1 Bb6 28. Re5 Rfe8 29. Rxf5 gxf5 30. Rd7+ Kh6 31. Rd6+ Kh5 32. g3 f4 33. Kg2
+fxg3 34. hxg3 Kg4 35. Rf6 1-0
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.08.31"]
+[Round "3"]
+[White "Jojua, Davit"]
+[Black "Valansi, Avram Alber"]
+[Result "1-0"]
+[ECO "A53"]
+[WhiteElo "2488"]
+[BlackElo "2142"]
+[PlyCount "69"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Bg4 4. g3 Bxf3 5. exf3 g6 6. d5 Nbd7 7. Bg2 c6 8. O-O
+cxd5 9. cxd5 Bg7 10. Nc3 O-O 11. f4 Nb6 12. Re1 a6 13. Be3 Nc4 14. Bd4 Nxb2 15.
+Qe2 Nd7 16. Bxg7 Kxg7 17. Qxb2 Rc8 18. Re3 Qb6 19. Qxb6 Nxb6 20. Bf1 Rc7 21.
+Rb1 Nc8 22. a4 Na7 23. a5 Rfc8 24. Na4 Kf8 25. Kg2 Rd8 26. Be2 Nc8 27. Reb3
+Rdd7 28. Bg4 f5 29. Bd1 Na7 30. Be2 Ke8 31. R3b2 Nc8 32. h3 Kf7 33. Re1 Rd8 34.
+Bd3 Re8 35. Bf1 1-0
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.08.31"]
+[Round "3"]
+[White "Sengul, Cengiz"]
+[Black "Sulashvili, Malkhaz"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2146"]
+[BlackElo "2499"]
+[PlyCount "108"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 c6 7. Bb2 b6 8. d3 Bb7
+9. Nbd2 c5 10. cxd5 exd5 11. d4 Nbd7 12. Rc1 Re8 13. Nb1 Ne4 14. Nc3 Bf6 15.
+Rc2 Nxc3 16. Bxc3 Rc8 17. dxc5 Bxc3 18. Rxc3 bxc5 19. e3 Qa5 20. Qa1 Nf6 21.
+Nd2 Ba6 22. Rfc1 Qb6 23. Bh3 Rc7 24. Qb1 Bc8 25. Bg2 Be6 26. Qb2 a5 27. Qa3
+Rec8 28. Nf3 h6 29. h3 Bf5 30. Nd2 h5 31. Re1 Be6 32. Qc1 Qb4 33. Qa1 Ne8 34.
+Rec1 d4 35. exd4 cxd4 36. Rxc7 Rxc7 37. Rxc7 Nxc7 38. Qd1 g6 39. Nf3 Nb5 40.
+Kh2 Qc3 41. Ng5 Nd6 42. Nxe6 fxe6 43. Qe2 Kf7 44. Qe5 Nf5 45. g4 hxg4 46. hxg4
+Ne7 47. g5 Qd2 48. Qf6+ Ke8 49. Bh3 e5 50. Qh8+ Kf7 51. Qf6+ Ke8 52. Qh8+ Kf7
+53. Qf6+ Ke8 54. Kg2 Qf4 1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.01"]
+[Round "4"]
+[White "Gurevich, Mikhail"]
+[Black "Klinova, Masha"]
+[Result "1-0"]
+[ECO "A21"]
+[WhiteElo "1966"]
+[BlackElo "2290"]
+[PlyCount "65"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nd5 Be7 4. d4 exd4 5. Qxd4 Nf6 6. Nxe7 Qxe7 7. Qe3 Qxe3
+8. Bxe3 Nc6 9. f3 d5 10. cxd5 Nxd5 11. Bc5 Ndb4 12. Kf2 b6 13. Bxb4 Nxb4 14. a3
+Nc6 15. e4 Bb7 16. Rd1 O-O 17. Bb5 a6 18. Bc4 Ne5 19. Bb3 Rfd8 20. Ne2 c5 21.
+Ke3 Kf8 22. Nc3 c4 23. Bc2 b5 24. h3 Bc6 25. f4 Ng6 26. g3 Ne7 27. Rxd8+ Rxd8
+28. Rd1 Ke8 29. Rxd8+ Kxd8 30. Kd4 Kc7 31. Kc5 Bd7 32. h4 h6 33. a4 1-0
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.01"]
+[Round "4"]
+[White "Mohannad Farhan, Al Qasem"]
+[Black "Mamedjarova, Zeinab"]
+[Result "1/2-1/2"]
+[ECO "A81"]
+[WhiteElo "2214"]
+[BlackElo "2326"]
+[PlyCount "46"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. g3 g6 3. Bg2 Nf6 4. c3 Bg7 5. Qb3 d5 6. Nh3 O-O 7. Nf4 c6 8. Nd2 e6
+9. Nf3 Ne4 10. h4 Bf6 11. Nd3 Nd7 12. Nfe5 Nec5 13. Nxc5 Nxc5 14. Qd1 Ne4 15.
+Bf4 Qe7 16. f3 Nd6 17. e3 Nf7 18. O-O Nxe5 19. Bxe5 Bxe5 20. dxe5 b6 21. f4 h5
+22. Rf2 a5 23. Bxd5 exd5 1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.01"]
+[Round "4"]
+[White "Topel, Zehra"]
+[Black "Magalashvili, Davit"]
+[Result "0-1"]
+[ECO "A65"]
+[WhiteElo "2240"]
+[BlackElo "2480"]
+[PlyCount "74"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Bd3 O-O 7. Nge2 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Nbd7 11. Ng3 Re8 12. Be3 Ne5 13. f3 Nxd3 14. Qxd3 Nd7
+15. f4 Rb8 16. Ra2 f5 17. Bf2 fxe4 18. Ngxe4 Nf6 19. Bh4 Bf5 20. Bxf6 Bxf6 21.
+Nxf6+ Qxf6 22. Qd2 Qd4+ 23. Qf2 b5 24. axb5 axb5 25. Rd1 Qxf2+ 26. Kxf2 b4 27.
+Ne2 Bg4 28. Rd2 Re4 29. g3 Rbe8 30. Ng1 Rd4 31. b3 Rxd2+ 32. Rxd2 Ra8 33. h3
+Bc8 34. Rd3 Ra2+ 35. Ke1 Ba6 36. Re3 c4 37. bxc4 Bxc4 0-1
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.02"]
+[Round "5"]
+[White "Atalik, Suat"]
+[Black "Esen, Baris"]
+[Result "1/2-1/2"]
+[ECO "A73"]
+[WhiteElo "2585"]
+[BlackElo "2448"]
+[PlyCount "117"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 Nfe8 12. Nc4 f5 13. exf5 Rxf5 14. Bf3 b6 15.
+Re1 Bb7 16. Bg4 Rf8 17. g3 Bd4 18. Be3 Bxc3 19. bxc3 Bxd5 20. Nd2 Qf6 21. c4
+Bc6 22. Qb1 Ng7 23. Ne4 Bxe4 24. Qxe4 Nf5 25. Bxf5 Qxf5 26. Qxf5 Rxf5 27. Bf4
+Rd8 28. Red1 Ne8 29. a5 Rf7 30. axb6 axb6 31. Ra6 Rb7 32. Rb1 Rdb8 33. Rd1 Kf7
+34. Ra2 b5 35. cxb5 Rxb5 36. Bxd6 Rd8 37. Rad2 Rxd6 38. Rxd6 Nxd6 39. Rxd6 Ke7
+40. Ra6 c4 41. Kf1 c3 42. Rc6 Rb1+ 43. Ke2 Rb2+ 44. Ke3 c2 45. Kd2 c1=Q+ 46.
+Kxc1 Rxf2 47. Rc7+ Kf6 48. Rxh7 Kg5 49. Kd1 Ra2 50. Ke1 Rb2 51. Kf1 Ra2 52. Kg1
+Rb2 53. Rf7 Kg4 54. Rf4+ Kg5 55. Rf2 Rb7 56. Kg2 Kh6 57. h4 g5 58. Rf6+ Kg7 59.
+hxg5 1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.02"]
+[Round "5"]
+[White "Grigoriev, Armen"]
+[Black "Mohannad Farhan, Al Qasem"]
+[Result "0-1"]
+[ECO "A26"]
+[WhiteElo "2314"]
+[BlackElo "2214"]
+[PlyCount "152"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 d6 2. Nc3 g6 3. e4 e5 4. d3 Bg7 5. g3 Ne7 6. Bg2 Nbc6 7. Be3 O-O 8. Qd2
+f5 9. Nd5 Nxd5 10. cxd5 Nd4 11. Bxd4 exd4 12. f4 c6 13. dxc6 bxc6 14. Ne2 fxe4
+15. dxe4 Qb6 16. Rd1 c5 17. O-O Rb8 18. b3 a5 19. Nc1 a4 20. Rde1 axb3 21. axb3
+Be6 22. f5 Bxb3 23. fxg6 hxg6 24. Qg5 Bf7 25. e5 dxe5 26. Nd3 Qd8 27. Qxd8
+Rbxd8 28. Nxc5 d3 29. Ne4 d2 30. Rd1 Bh6 31. Rf3 Bc4 32. Rxf8+ Kxf8 33. Bf3 Bb3
+34. Rf1 Ke7 35. Bd1 Bd5 36. Nf2 Bc4 37. Ng4 Bxf1 38. Kxf1 Bg7 39. Ke2 Rd4 40.
+h3 Kd6 41. Bc2 Ke7 42. Nf2 Kf7 43. Bb3+ Kf6 44. Ng4+ Kg5 45. Bc2 e4 46. Nf2 Kf5
+47. Ng4 Ke6 48. Bb3+ Kd6 49. Bc2 Kc5 50. h4 Kb4 51. Nf2 Bh6 52. Ng4 Kc3 53. Bd1
+Bg7 54. Nf2 Be5 55. Ke3 Bxg3 56. Nxe4+ Rxe4+ 57. Kxe4 Bxh4 58. Ke3 Bg5+ 59. Ke2
+Kb2 60. Ba4 Kc1 61. Bb3 Bf6 62. Ba4 g5 63. Bb3 g4 64. Ba4 Bd4 65. Bb3 Bg1 66.
+Ba4 Bh2 67. Bb3 Bg3 68. Ba4 Be1 69. Bb3 g3 70. Kf1 d1=Q 71. Bxd1 Kxd1 72. Kg2
+Ke2 73. Kg1 Kf3 74. Kf1 Ba5 75. Kg1 Bb6+ 76. Kh1 g2+ 0-1
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.02"]
+[Round "5"]
+[White "Jojua, Davit"]
+[Black "Yilmaz, Mustafa Enes"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2488"]
+[BlackElo "2362"]
+[PlyCount "0"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+ 1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.02"]
+[Round "5"]
+[White "Magalashvili, Davit"]
+[Black "Purtseladze, Maka"]
+[Result "1/2-1/2"]
+[ECO "A42"]
+[WhiteElo "2480"]
+[BlackElo "2300"]
+[PlyCount "45"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 d6 4. Nc3 Nd7 5. e4 e5 6. Be2 Ne7 7. O-O O-O 8. d5 a5
+9. Be3 f5 10. Ng5 Nf6 11. exf5 Nxf5 12. Bd2 h6 13. Nge4 Nxe4 14. Nxe4 b6 15.
+Bd3 Bd7 16. Bc3 g5 17. Ng3 Nh4 18. Qe2 Be8 19. Qc2 Qf6 20. b3 Bg6 21. Bxg6 Nxg6
+22. Ne4 Qf5 23. Rac1 1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.02"]
+[Round "5"]
+[White "Mamedjarova, Zeinab"]
+[Black "Ataman, Alper Efe"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2326"]
+[BlackElo "2198"]
+[PlyCount "63"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. Be2 b6 5. O-O Bb7 6. c4 cxd4 7. exd4 Be7 8. Nc3
+d6 9. d5 e5 10. Ne1 O-O 11. f4 Nbd7 12. Nf3 a6 13. a4 h6 14. fxe5 Nxe5 15. Nd4
+Re8 16. Qe1 Bf8 17. Qg3 Kh7 18. Nf3 Ra7 19. Nxe5 dxe5 20. Be3 Bc8 21. a5 Bc5
+22. Na4 Bd4 23. Nxb6 Rb7 24. Bxd4 exd4 25. Qd3+ Kg8 26. Bf3 Rxb6 27. axb6 Qxb6
+28. Rad1 Qxb2 29. Qxd4 Qc2 30. Rde1 Rd8 31. c5 Nxd5 32. Bxd5 1-0
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.03"]
+[Round "6"]
+[White "Valansi, Avram Alber"]
+[Black "Hamad, Ahmad"]
+[Result "0-1"]
+[ECO "A87"]
+[WhiteElo "2142"]
+[BlackElo "2276"]
+[PlyCount "66"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 g6 2. Nf3 f5 3. c4 Nf6 4. Nc3 Bg7 5. g3 O-O 6. Bg2 d6 7. O-O Qe8 8. d5
+Na6 9. Rb1 c5 10. dxc6 bxc6 11. b4 Bd7 12. e4 h6 13. exf5 Bxf5 14. Rb3 Rb8 15.
+a3 Qf7 16. Re1 c5 17. b5 Nc7 18. Bf1 Bg4 19. h3 Ne4 20. Nxe4 Bxf3 21. Qc2 Ne6
+22. Bb2 Nd4 23. Bxd4 Bxd4 24. Rxf3 Qxf3 25. a4 Qa3 26. Re2 Qa1 27. h4 Rf3 28.
+Kg2 Rbf8 29. Rd2 e6 30. Be2 Rxf2+ 31. Nxf2 Rxf2+ 32. Kh3 Qh1+ 33. Kg4 Rf5 0-1
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.04"]
+[Round "7"]
+[White "Abasov, Nijat Azad"]
+[Black "Mohannad Farhan, Al Qasem"]
+[Result "1/2-1/2"]
+[ECO "A21"]
+[WhiteElo "2369"]
+[BlackElo "2214"]
+[PlyCount "54"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. c4 e5 3. Nc3 g6 4. g3 Bg7 5. Bg2 Ne7 6. Nge2 O-O 7. d3 f5 8. O-O c6
+9. d4 Qc7 10. Be3 Nd7 11. Qb3 Kh8 12. Rad1 fxe4 13. Nxe4 Nf5 14. Ng5 Qb6 15.
+Ne6 Qxb3 16. axb3 Nxe3 17. fxe3 Rxf1+ 18. Kxf1 Bh6 19. d5 c5 20. Nc7 Rb8 21.
+Nb5 Nf6 22. h3 Ne8 23. Nxa7 Bxe3 24. Rd3 Bh6 25. Nxc8 Rxc8 26. Nc3 Bc1 27. Na4
+Nf6 1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.04"]
+[Round "7"]
+[White "Annageldyev, Orazly"]
+[Black "Bakr Jwan, J."]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2434"]
+[BlackElo "2269"]
+[PlyCount "84"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. c3 h6 5. Bh4 O-O 6. Nbd2 d6 7. e4 Qe8 8. Bc4
+e5 9. dxe5 dxe5 10. O-O Nbd7 11. Re1 Nh5 12. b4 a5 13. a3 Nf4 14. Bf1 Nb6 15.
+Nb3 Na4 16. Qc2 b6 17. Nbd2 Ba6 18. Bxa6 Rxa6 19. Nc4 axb4 20. cxb4 b5 21. Na5
+c5 22. Rad1 c4 23. Bg3 Nd3 24. Rxd3 cxd3 25. Qxd3 Nb2 26. Qc3 Nc4 27. Nxc4 bxc4
+28. Bxe5 Bxe5 29. Nxe5 Qe6 30. f4 Rfa8 31. Qxc4 Rxa3 32. Qd4 R3a7 33. h3 h5 34.
+Kh2 Kh7 35. Rd1 Qf6 36. Rf1 Ra2 37. Rf3 Rd8 38. Qe3 Rdd2 39. Rg3 Re2 40. Nd7
+Qd6 41. Qd3 Rxg2+ 42. Kh1 Rh2+ 0-1
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.04"]
+[Round "7"]
+[White "Hamad, Ahmad"]
+[Black "Gurevich, Mikhail"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "2276"]
+[BlackElo "1966"]
+[PlyCount "82"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. g3 c6 2. Bg2 d5 3. f4 Bf5 4. Nc3 Nf6 5. e3 e6 6. Nf3 Nbd7 7. b3 Bd6 8. Bb2
+Qe7 9. O-O h6 10. Qe2 Bh7 11. Rae1 O-O-O 12. d3 e5 13. fxe5 Nxe5 14. Nxe5 Bxe5
+15. d4 Bc7 16. e4 Bb6 17. e5 Bxd4+ 18. Kh1 Bxc3 19. Bxc3 Ne4 20. Bd4 Kb8 21. c4
+h5 22. cxd5 cxd5 23. Kg1 Bg6 24. Qe3 a6 25. h4 Rc8 26. Rc1 Qa3 27. Bh3 Rxc1 28.
+Rxc1 Nxg3 29. Ba7+ Ka8 30. Rc7 Qa5 31. Bb6 d4 32. Bxa5 dxe3 33. e6 fxe6 34.
+Rxg7 Ne2+ 35. Kh2 Nf4 36. Bg2 Nxg2 37. Kxg2 Be4+ 38. Kg1 Rf8 39. Rg3 Bf3 40.
+Bb6 e2 41. Bf2 e5 0-1
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.04"]
+[Round "7"]
+[White "Jojua, Davit"]
+[Black "Sanikidze, Tornike"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2488"]
+[BlackElo "2486"]
+[PlyCount "20"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e5 7. e4 Bd6 8. Re1
+O-O 9. b3 Re8 10. Bb2 a5 1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.04"]
+[Round "7"]
+[White "Magalashvili, Davit"]
+[Black "Esen, Baris"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[WhiteElo "2480"]
+[BlackElo "2448"]
+[PlyCount "15"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 e5 7. d3 Nc6 8. Rb1
+1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.06"]
+[Round "9"]
+[White "Annaberdiev, Meilis"]
+[Black "Bakr Jwan, J."]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2444"]
+[BlackElo "2269"]
+[PlyCount "56"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. Bxf6 Bxf6 6. Ne4 Qb6 7. Nxc5 Qxb2
+8. e3 Qc3+ 9. Nd2 d5 10. Bb5+ Kf8 11. O-O b6 12. Qf3 bxc5 13. Qxd5 Qxd2 14.
+Qxa8 Kg7 15. Qxb8 Ba6 16. Qxa7 Bxb5 17. c4 Bxc4 18. Rfd1 Qe2 19. Qxc5 Bxa2 20.
+Re1 Qb2 21. e4 e6 22. Qa7 Bb3 23. Qa3 Bxd4 24. Qxb2 Bxb2 25. Rab1 Bc3 26. Re3
+Ba2 27. Rb7 Bd4 28. Re2 Ra8 0-1
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.06"]
+[Round "9"]
+[White "Gurevich, Mikhail"]
+[Black "Esen, Baris"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "1966"]
+[BlackElo "2448"]
+[PlyCount "100"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. Rb1 d6 6. a3 a5 7. e3 e5 8. Nge2
+Nge7 9. d3 O-O 10. O-O Rb8 11. Bd2 Bf5 12. Qc2 Qd7 13. Nb5 b6 14. Nec3 Rfd8 15.
+Rbe1 Bh3 16. e4 Bxg2 17. Kxg2 Rf8 18. f3 f5 19. Bg5 Bf6 20. Bh6 Rf7 21. Qd2 Kh8
+22. Be3 Rbf8 23. Ne2 h5 24. h3 Rg8 25. Rh1 g5 26. g4 fxe4 27. dxe4 Nd4 28. Bxd4
+exd4 29. h4 Rh7 30. gxh5 gxh4+ 31. Kf2 Bg5 32. f4 Bh6 33. Rxh4 Rhg7 34. Rg1 Qe6
+35. Rxg7 Rxg7 36. Kf3 Nc6 37. Nbxd4 cxd4 38. Nxd4 Qxc4 39. Nxc6 Qxc6 40. Rg4
+Rxg4 41. Kxg4 Qxe4 42. Qxd6 Qe2+ 43. Kg3 Qe3+ 44. Kg4 Bg7 45. b4 Qxa3 46. h6
+Bb2 47. Qd8+ Kh7 48. Qc7+ Kg8 49. Qc8+ Kh7 50. Qc7+ Kg8 1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.06"]
+[Round "9"]
+[White "Hamad, Ahmad"]
+[Black "Soozankar, AM."]
+[Result "1-0"]
+[ECO "A27"]
+[WhiteElo "2276"]
+[BlackElo "2225"]
+[PlyCount "140"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 d6 4. Nf3 Be6 5. b3 Qd7 6. d4 exd4 7. Nxd4 Bh3 8. Nd5
+Bxf1 9. Kxf1 Nxd4 10. Qxd4 Ne7 11. Bb2 Nxd5 12. cxd5 f6 13. h4 Be7 14. h5 h6
+15. Rh4 O-O 16. Rg4 Rf7 17. Kg2 Re8 18. Rh1 Bd8 19. e3 c5 20. Qd1 Ref8 21. Rg6
+f5 22. Qf3 Bf6 23. Bxf6 Rxf6 24. Rxf6 Rxf6 25. Rh4 Qb5 26. Rc4 a6 27. Qd1 Qe8
+28. Rf4 Qe5 29. b4 Rf7 30. bxc5 dxc5 31. Qd3 b5 32. d6 c4 33. d7 cxd3 34. d8=Q+
+Rf8 35. Qxd3 Qe6 36. a4 bxa4 37. Qc4 Qxc4 38. Rxc4 Ra8 39. Rxa4 a5 40. Kf3 Kf7
+41. Kf4 Ke6 42. f3 Kf6 43. g4 fxg4 44. Kxg4 Ra6 45. e4 Ra7 46. Kf4 Ke6 47. e5
+Ra8 48. Ke4 Ra7 49. f4 Ra8 50. f5+ Ke7 51. Kd5 Rd8+ 52. Ke4 Ra8 53. Kf3 Kf7 54.
+Kf4 Ke7 55. Ke4 Ra6 56. Kd5 Ra8 57. Kc5 Rc8+ 58. Kb5 Rf8 59. Rf4 Ra8 60. Rg4
+Kf7 61. Rc4 Rb8+ 62. Kxa5 Rb1 63. Rc7+ Kf8 64. Rc8+ Ke7 65. Rc7+ Kf8 66. e6 Rh1
+67. Rf7+ Kg8 68. Rd7 Kf8 69. Kb6 Rxh5 70. Kc7 Rh1 1-0
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.06"]
+[Round "9"]
+[White "Jojua, Davit"]
+[Black "Batsiashvili, Nino"]
+[Result "1/2-1/2"]
+[ECO "A86"]
+[WhiteElo "2488"]
+[BlackElo "2348"]
+[PlyCount "31"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nc3 O-O 6. Nh3 d6 7. Bg5 Nc6 8. Qd2
+Ne4 9. Nxe4 fxe4 10. Be3 Bf5 11. Ng5 d5 12. cxd5 Qxd5 13. g4 Bxg4 14. Bxe4 Qd7
+15. d5 Ne5 16. Rc1 1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.06"]
+[Round "9"]
+[White "Magalashvili, Davit"]
+[Black "Secer, Ata"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2480"]
+[BlackElo "2320"]
+[PlyCount "105"]

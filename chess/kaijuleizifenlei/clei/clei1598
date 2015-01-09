@@ -1,0 +1,600 @@
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "1738"]
+[BlackElo "1757"]
+[PlyCount "44"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qd7 5. Nf3 b6 6. Be2 Ba6 7. O-O Ne7 8. h3 Nf5
+9. Re1 Bxe2 10. Qxe2 c4 11. Qc2 Nc6 12. Bf4 Be7 13. Nbd2 b5 14. Nf1 h6 15. N1h2
+Qc7 16. Qd2 g5 17. Bg3 Kd7 18. Ng4 Rhg8 19. Ne3 Nxg3 20. fxg3 h5 21. g4 h4 22.
+b3 Rab8 1/2-1/2
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.26"]
+[Round "4"]
+[White "Valencik, Michal"]
+[Black "Walek, Petr"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "1725"]
+[BlackElo "1489"]
+[PlyCount "52"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd2 O-O
+8. Bd3 Re8 9. O-O Bxc3 10. Bxc3 Nxe4 11. Bxe4 Rxe4 12. Qd3 d5 13. Rad1 Qg5 14.
+Ba5 Qe5 15. Rfe1 Bf5 16. Rxe4 Bxe4 17. Qb3 d4 18. Qb7 c5 19. Qb5 Qd6 20. Re1
+Bc6 21. Qe2 Qd5 22. f3 Qxa2 23. Bxc7 Qxb2 24. Qe5 Qxc2 25. Qd6 Qg6 26. Qxg6
+fxg6 0-1
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Dobes, Vojtech"]
+[Black "Lessy, Tomas"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "1848"]
+[BlackElo "1359"]
+[PlyCount "107"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Be7 5. Nf3 Nf6 6. Bd3 Nc6 7. O-O O-O 8.
+c3 Nxe4 9. Bxe4 Bd7 10. Bc2 Bd6 11. Ng5 g6 12. Ne4 Kg7 13. Qd2 Rh8 14. Nxd6
+cxd6 15. Qh6+ Kg8 16. Bg5 Qf8 17. Qh4 h6 18. Bf6 Rh7 19. f4 Qc8 20. Rae1 d5 21.
+Rf3 Kf8 22. Rg3 Qe8 23. f5 Ne7 24. Bxe7+ Qxe7 25. Qxe7+ Kxe7 26. fxg6 Rg7 27.
+Rh3 Rh8 28. gxf7 Rxf7 29. Rh5 Rf6 30. Rxd5 Rhf8 31. Rde5 Kd6 32. Bd3 Rf2 33.
+R5e2 R2f6 34. Rd2 Rf4 35. Rf1 Rxf1+ 36. Bxf1 Bc6 37. Rf2 Rxf2 38. Kxf2 e5 39.
+Ke3 Bd5 40. c4 Bc6 41. d5 Bd7 42. Ke4 b6 43. b4 Ba4 44. Bd3 Be8 45. Kf5 b5 46.
+c5+ Kxd5 47. Be4+ Kd4 48. c6 Kc4 49. Kxe5 Kxb4 50. Kd6 Bxc6 51. Kxc6 Kc4 52.
+Bd5+ Kb4 53. g4 a5 54. h4 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Fargac, Martin"]
+[Black "Jires, Jiri"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "1731"]
+[BlackElo "1480"]
+[PlyCount "95"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 O-O 9. e5 Re8 10. O-O Nh5 11. Re1 Nf4 12. d5 Na5 13. g3 Ng6 14. Bd3 b6
+15. b4 Nb7 16. Nc4 d6 17. Bxg6 hxg6 18. Qd2 Bf5 19. Nd4 dxe5 20. Nxf5 gxf5 21.
+Nxe5 Nd6 22. Nc6 Rxe1+ 23. Rxe1 Qd7 24. Re7 Qc8 25. f3 Nc4 26. Qc2 Nd6 27. Ne5
+Rb8 28. Qxc7 Qxc7 29. Rxc7 Rb7 30. Rxb7 Nxb7 31. Kf2 f6 32. Nc4 Kf7 33. Ke3 Ke7
+34. Kd4 Nd6 35. Nxd6 Kxd6 36. a4 Kd7 37. h4 Kd6 38. g4 fxg4 39. fxg4 Kd7 40. g5
+fxg5 41. hxg5 Kd6 42. g6 Ke7 43. Ke5 Kd7 44. b5 Ke7 45. d6+ Kd7 46. Kd5 Kc8 47.
+Kc6 Kd8 48. d7 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Hampl, Martin"]
+[Black "Kekely, Lukas"]
+[Result "0-1"]
+[ECO "C47"]
+[PlyCount "130"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 d6 5. d5 Nb4 6. Bc4 Be7 7. O-O O-O 8. Be3
+Bd7 9. a3 Na6 10. b4 c6 11. dxc6 Bxc6 12. b5 Bd7 13. bxa6 bxa6 14. Bxa6 Qa5 15.
+Qd3 Bc8 16. Bxc8 Rfxc8 17. Nd5 Nxd5 18. exd5 Rab8 19. Bd2 Qa4 20. Ne1 e4 21.
+Qe3 h6 22. c3 Bg5 23. Qe2 Rb2 24. f4 Bf6 25. Qe3 Qa5 26. c4 Qxd2 27. Qxd2 Rxd2
+28. Rc1 e3 29. Nf3 Ra2 30. g4 Rxa3 31. g5 hxg5 32. Nxg5 Bb2 33. Rc2 Bd4 34. Nf3
+e2+ 35. Nxd4 exf1=Q+ 36. Kxf1 Ra1+ 37. Ke2 Re8+ 38. Kd3 Ra3+ 39. Rc3 Rxc3+ 40.
+Kxc3 Re3+ 41. Kb4 Re4 42. Nc6 a6 43. f5 Rf4 44. Nb8 a5+ 45. Kxa5 Rxc4 46. Kb5
+Rc5+ 47. Kb4 Rxd5 48. Na6 Rxf5 49. Kc4 d5+ 50. Kd4 Rf6 51. Nc7 Rh6 52. Nxd5
+Rxh2 53. Ne7+ Kh7 54. Nf5 g5 55. Ke4 f6 56. Kf3 Kg6 57. Kg3 Kxf5 58. Kxh2 Kf4
+59. Kg2 g4 60. Kf2 g3+ 61. Kg2 Kg4 62. Kg1 Kh3 63. Kh1 g2+ 64. Kg1 f5 65. Kf2
+Kh2 0-1
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Krejci, Jaroslav"]
+[Black "Pech, Ondrej"]
+[Result "1-0"]
+[ECO "C48"]
+[PlyCount "67"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. Re1 O-O 8.
+h3 c6 9. Bc4 b5 10. Bb3 Bb7 11. d3 d5 12. exd5 cxd5 13. Be3 Rc8 14. Bxd4 exd4
+15. Nxb5 Qb6 16. Na3 Rfe8 17. Rxe8+ Rxe8 18. Qd2 a5 19. c4 Qb4 20. Qxb4 axb4
+21. Nb5 Re2 22. Nxd4 Rxb2 23. Rd1 Bc8 24. Nc2 Be6 25. Nxb4 h6 26. Nxd5 Re2 27.
+Nxf6+ gxf6 28. d4 Kf8 29. d5 Bf5 30. d6 Ke8 31. Ba4+ Bd7 32. Bxd7+ Kxd7 33. c5
+Rxa2 34. c6+ 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Medvec, Tomas"]
+[Black "Novak, Jiri1"]
+[Result "1-0"]
+[ECO "C39"]
+[WhiteElo "1313"]
+[BlackElo "1687"]
+[PlyCount "71"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 h5 6. Bc4 Nh6 7. d4 d6 8. Nd3 Nc6
+9. Nxf4 Qe7 10. Nc3 Ng8 11. Nfd5 Qd8 12. g3 Be6 13. Rf1 Bg7 14. Bg5 Nce7 15.
+Nb5 Bxd5 16. Bxd5 f6 17. Bf4 Nxd5 18. exd5 Qe7+ 19. Qe2 Qxe2+ 20. Kxe2 Kd7 21.
+Rae1 Ne7 22. c4 a6 23. Nc3 f5 24. Kd3 c6 25. Re6 Nc8 26. Rg6 Bf8 27. Rf6 cxd5
+28. Nxd5 b5 29. Rxf5 bxc4+ 30. Kxc4 Rb8 31. Rf7+ Ke8 32. Bg5 Nb6+ 33. Nxb6 Rxb6
+34. Ra7 Rb8 35. Re1+ Be7 36. Bxe7 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Ondracka, Vaclav"]
+[Black "Straka, Tomas"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "1521"]
+[PlyCount "129"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. O-O Nf6 6. Nc3 Bg4 7. Be3 O-O 8. Be2
+Re8 9. h3 Bxf3 10. Bxf3 exd4 11. Bxd4 Nxd4 12. Qxd4 Nd7 13. Be2 Bf6 14. Qc4 Nb6
+15. Qd3 Qe7 16. Rae1 Rad8 17. f4 Bh4 18. g3 Bf6 19. Bf3 a6 20. Re2 Bxc3 21.
+Qxc3 Na4 22. Qe1 Nc5 23. b4 Nd7 24. g4 Qf6 25. Bh1 Qb2 26. c3 Qa3 27. g5 g6 28.
+h4 Qa4 29. h5 Nf8 30. Qh4 Qb5 31. Bf3 Qd3 32. Rh2 Qxc3 33. hxg6 fxg6 34. f5 Rd7
+35. f6 Rf7 36. Re2 Re5 37. Rg2 Qe3+ 38. Kh1 Qd3 39. Rff2 Qd4 40. Rg4 Qxb4 41.
+Kg2 c5 42. Qh1 Qb5 43. Qc1 c4 44. Be2 d5 45. exd5 Qxd5+ 46. Bf3 Qb5 47. Be2 Qc5
+48. Bxc4 Rd5 49. Qc2 Qc6 50. Bxd5 Qxd5+ 51. Qe4 Qd1 52. Rg3 Qd7 53. Rd3 Qb5 54.
+Qd5 Qa4 55. Rd4 Qe8 56. Re4 Qc8 57. Re7 Qg4+ 58. Kf1 Qh3+ 59. Ke2 Qg4+ 60. Kd2
+Qb4+ 61. Kc1 Qa3+ 62. Rb2 Ne6 63. Rxe6 Qc3+ 64. Kb1 Qc8 65. Rbe2 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Palasek, Jan"]
+[Black "Rohovska, Tereza"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "1647"]
+[BlackElo "1429"]
+[PlyCount "105"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ng4 7. cxd4 Bb4+ 8.
+Nc3 Bxc3+ 9. bxc3 d5 10. Bb5 O-O 11. h3 Nh6 12. O-O Nf5 13. Qe2 f6 14. Ba3 Rf7
+15. g4 Nh6 16. exf6 Qxf6 17. Nh2 Qh4 18. Kg2 Bxg4 19. Nxg4 Nxg4 20. Qe1 Nh6 21.
+Bxc6 bxc6 22. Qe6 Qe4+ 23. Qxe4 dxe4 24. Rfe1 Re8 25. Rab1 Rf3 26. Rxe4 Rxf2+
+27. Kxf2 Rxe4 28. Rb7 g5 29. Rxc7 Nf5 30. Rxc6 Rf4+ 31. Kg1 Rh4 32. Rc5 Rf4 33.
+Bc1 Rf3 34. Bd2 Rd3 35. Rxf5 Rxd2 36. Rxg5+ Kf7 37. Ra5 Rd3 38. d5 Rxh3 39.
+Rxa7+ Kf6 40. Ra6+ Ke7 41. c4 Rc3 42. Rc6 h5 43. c5 h4 44. Re6+ Kd7 45. c6+ Kc7
+46. Re7+ Kd6 47. Rd7+ Kc5 48. c7 Kb6 49. d6 h3 50. Rd8 Kb7 51. Rb8+ Ka7 52.
+c8=Q Rxc8 53. Rxc8 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Pfeffer, Dominik"]
+[Black "Walek, Petr"]
+[Result "1-0"]
+[ECO "C49"]
+[WhiteElo "1757"]
+[BlackElo "1489"]
+[PlyCount "54"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Nd4 5. d3 Bb4 6. Ba4 b5 7. Bb3 d5 8. exd5
+Nxb3 9. axb3 Nxd5 10. Bd2 O-O 11. Nxb5 c6 12. Nc3 Bg4 13. O-O Bxc3 14. Bxc3
+Nxc3 15. bxc3 f5 16. Qe2 Re8 17. Qe3 e4 18. Nd4 Qf6 19. dxe4 Rxe4 20. Qd3 Rae8
+21. f3 Re3 22. Qc4+ Kh8 23. fxg4 f4 24. Qc5 Qg5 25. Nf5 R3e7 26. Rxa7 Qxg4 27.
+Ra8 Qxg2+ 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Richter, Michael3"]
+[Black "Gorba, Matej"]
+[Result "0-1"]
+[ECO "C57"]
+[WhiteElo "1285"]
+[BlackElo "1550"]
+[PlyCount "46"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Bxc6+ Qxc6
+8. O-O Bb7 9. Qf3 e4 10. Qb3 Nd5 11. Nxe4 f5 12. Ng3 Nf4 13. f3 g6 14. Qe3+ Ne6
+15. Re1 Kf7 16. Qe5 Bc5+ 17. Kh1 Rhe8 18. Qc3 Nd4 19. Rxe8 Rxe8 20. h3 Re1+ 21.
+Kh2 Nxc2 22. Qxc2 Bg1+ 23. Kh1 Qxc2 0-1
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Sukany, Albert"]
+[Black "Janostik, Patrik"]
+[Result "1-0"]
+[ECO "C30"]
+[PlyCount "33"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. f4 f6 3. fxe5 fxe5 4. Qh5+ g6 5. Qxe5+ Qe7 6. Qxh8 Qh4+ 7. Kd1 d5
+8. Qxg8 Bg4+ 9. Be2 h5 10. Nf3 Bxf3 11. Bxf3 dxe4 12. Qe6+ Be7 13. Qxe4 Qg5 14.
+d4 Qa5 15. Bd2 Qb6 16. Re1 Nd7 17. Qxe7# 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "5"]
+[White "Vecera, Pavel"]
+[Black "Brezniak, Adam"]
+[Result "0-1"]
+[ECO "C01"]
+[PlyCount "39"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bd6 5. Bd3 c6 6. O-O Bg4 7. h3 Bh5 8.
+Re1+ Ne7 9. Bg5 f6 10. Bd2 Qc7 11. Nc3 Nd7 12. Be2 O-O-O 13. Nh4 Bxe2 14. Qxe2
+g5 15. Nf3 h5 16. Bc1 g4 17. hxg4 hxg4 18. Nd2 Bh2+ 19. Kf1 Bg3 20. Qxe7 0-1
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Hampl, Martin"]
+[Black "Vecera, Pavel"]
+[Result "0-1"]
+[ECO "C42"]
+[PlyCount "100"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bb4 4. d3 Nf6 5. Bg5 O-O 6. d4 exd4 7. Nxd4 Nxd4 8.
+Qxd4 Bxc3+ 9. Qxc3 h6 10. Bxf6 Qxf6 11. Qxf6 gxf6 12. Bd3 Re8 13. O-O d5 14.
+exd5 Rd8 15. c4 c6 16. Be4 f5 17. Bf3 cxd5 18. Rad1 a6 19. Bxd5 Bd7 20. Bxb7
+Ra7 21. Bc6 Rc7 22. Bxd7 Rdxd7 23. Rxd7 Rxd7 24. b3 Rd2 25. Ra1 Kf8 26. Kf1 Ke7
+27. Ke1 Rc2 28. a4 Rb2 29. c5 Kd7 30. Ra3 Kc6 31. Kd1 Kxc5 32. Kc1 Rxf2 33. Kb1
+Rxg2 34. Ra2 Rxa2 35. Kxa2 f4 36. Kb2 f3 37. Kc3 f2 38. b4+ Kc6 39. b5+ axb5
+40. axb5+ Kxb5 41. Kd4 f1=Q 42. Ke5 Qe1+ 43. Kf6 Qe6+ 44. Kg7 f5 45. h4 f4 46.
+h5 f3 47. Kh7 f2 48. Kh8 f1=R 49. Kh7 Rf7+ 50. Kh8 Qe8# 0-1
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Janostik, Patrik"]
+[Black "Pech, Ondrej"]
+[Result "1-0"]
+[ECO "C20"]
+[PlyCount "75"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Bb5 a6 3. Bc4 Nf6 4. Nc3 d6 5. Nf3 Nc6 6. d3 Be6 7. b3 Nd4 8. Bg5
+Be7 9. O-O O-O 10. Re1 d5 11. Nxe5 dxc4 12. Nxc4 Bxc4 13. bxc4 c6 14. Bf4 b5
+15. Be5 Bb4 16. Qd2 Rc8 17. Rab1 Bd6 18. Bxd4 Bc5 19. Bxc5 Re8 20. a4 Rb8 21.
+Re3 g6 22. Rg3 Kg7 23. f4 Nh5 24. Rg4 Qa5 25. Bd4+ Kf8 26. Bc5+ Kg7 27. Bd6
+Qb6+ 28. c5 Qd8 29. Bxb8 Qxb8 30. f5 Nf6 31. Rh4 Kf8 32. fxg6 fxg6 33. Qh6+ Ke7
+34. Qg7+ Ke6 35. d4 Re7 36. d5+ Kd7 37. Qxf6 Qd8 38. Qxc6# 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Jires, Jiri"]
+[Black "Vozak, Lukas"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "1480"]
+[BlackElo "1346"]
+[PlyCount "132"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Bc5 6. Nc3 Nf6 7. d3 h6 8. O-O
+O-O 9. Be3 Bxe3 10. fxe3 Ng4 11. Qe2 Bb7 12. h3 Nf6 13. d4 exd4 14. exd4 Nh5
+15. Qf2 Nf4 16. Nd2 Nxd4 17. Qxf4 b4 18. Bxf7+ Kh8 19. Nf3 Nxc2 20. Rac1 bxc3
+21. Rxc2 cxb2 22. Rxb2 Bxe4 23. Ne5 Bh7 24. Qg4 Qe7 25. Ng6+ Bxg6 26. Qxg6 Qe3+
+27. Rbf2 Rab8 28. Kh1 Rb6 29. Rf3 Qe2 30. Qg4 d6 31. Bg6 Rxf3 32. Qxf3 Qxf3 33.
+Rxf3 Rb8 34. Re3 Kg8 35. Re8+ Rxe8 36. Bxe8 Kf8 37. Bc6 Ke7 38. g3 Ke6 39. Kg2
+d5 40. Kf3 Kd6 41. Bb7 a5 42. Ba6 Kc5 43. Ke3 g5 44. Be2 Kd6 45. a3 c5 46. Kd3
+Ke5 47. h4 gxh4 48. gxh4 Kf5 49. a4 Ke5 50. Kc3 Ke4 51. Bc4 dxc4 52. Kxc4 Kf4
+53. Kxc5 Kg4 54. Kb5 Kxh4 55. Kxa5 Kg3 56. Kb6 h5 57. a5 h4 58. a6 h3 59. a7 h2
+60. a8=Q Kf2 61. Qh1 Kg3 62. Kc5 Kh3 63. Kd4 Kg3 64. Ke3 Kh3 65. Kf3 Kh4 66.
+Qxh2+ Kg5 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Meduna, Eduard Jr"]
+[Black "Seidl, Stepan"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "1782"]
+[BlackElo "1901"]
+[PlyCount "43"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd2 d5 8.
+Bd3 O-O 9. O-O Bxc3 10. Bxc3 Nxe4 11. Bxe4 dxe4 12. Re1 Qe7 13. Qd4 f5 14. Qc4+
+Qe6 15. Qd4 Qf7 16. Rad1 Be6 17. f3 Bd5 18. fxe4 fxe4 19. Bb4 Rfe8 20. Rd2 Qg6
+21. Re3 Qf6 22. c4 1/2-1/2
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Musil, Jiri"]
+[Black "Zavadilova, Karolina"]
+[Result "1-0"]
+[ECO "C80"]
+[WhiteElo "1866"]
+[BlackElo "1749"]
+[PlyCount "19"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 d5 7. Nxe5 Bd7 8.
+Nxf7 Kxf7 9. Qh5+ Kf6 10. f3 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Rohovska, Tereza"]
+[Black "Krejci, Jaroslav"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "1429"]
+[PlyCount "40"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bd6 5. c3 O-O 6. d4 Re8 7. Bg5 a6 8. Ba4
+h6 9. Bh4 b5 10. Bb3 Bb7 11. Nbd2 exd4 12. cxd4 g5 13. Bg3 Bxg3 14. fxg3 Nxe4
+15. Nxe4 Rxe4 16. Qd3 Re7 17. Qg6+ Kf8 18. Qxh6+ Kg8 19. Nxg5 d5 20. Qh7+ Kf8
+1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Straka, Tomas"]
+[Black "Sukany, Albert"]
+[Result "1-0"]
+[ECO "C68"]
+[PlyCount "61"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bd6 6. d4 Bg4 7. dxe5 Bxe5 8.
+Qxd8+ Rxd8 9. Nxe5 Bh5 10. O-O f5 11. Nd3 g5 12. Nc5 Rb8 13. b3 Ne7 14. Bb2 Kf7
+15. f4 g4 16. e5 b5 17. g3 a5 18. e6+ Kg6 19. Ne2 Rhe8 20. Rfe1 h6 21. Nd7 Rbd8
+22. Bf6 c5 23. Bxe7 Rxe7 24. Ne5+ Kf6 25. Nc6 Rd6 26. Nxe7 Kxe7 27. Nc3 Be8 28.
+Ne2 Rxe6 29. Nd4 Rxe1+ 30. Rxe1+ Kf7 31. Nxf5 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Strnad, Ondrej"]
+[Black "Novakova, Veronika"]
+[Result "1-0"]
+[ECO "C64"]
+[WhiteElo "1763"]
+[BlackElo "1498"]
+[PlyCount "61"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6 8.
+Ba4 d6 9. Be3 Ne7 10. Nd2 O-O 11. Nf3 Bg4 12. Re1 Kh8 13. h3 Bh5 14. Bb3 f5 15.
+Bg5 fxe4 16. Rxe4 Bxf3 17. gxf3 Qc7 18. f4 h6 19. fxe5 d5 20. Bxe7 Qxe7 21. Rg4
+Qf7 22. Rg2 Rae8 23. Bc2 Re6 24. Qd3 g6 25. Rf1 Qf5 26. Qxf5 gxf5 27. f4 Bd8
+28. Kf2 Bh4+ 29. Ke3 Kh7 30. Rfg1 Rf7 31. Bxf5+ 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Tyn, Marek"]
+[Black "Gnida, Patrik"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "1738"]
+[BlackElo "1585"]
+[PlyCount "47"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Rc8 7. O-O cxd4 8. cxd4
+Bb4 9. Bd2 Bxd2 10. Qxd2 Nge7 11. Nc3 O-O 12. Nb5 Rb8 13. Bd3 a6 14. Nc3 Nb4
+15. Rfe1 Nxd3 16. Qxd3 Ng6 17. g3 Qb6 18. Rab1 h6 19. Nd2 Rbc8 20. Nb3 Bc6 21.
+Nc5 Rfd8 22. a3 Nf8 23. Rec1 Nd7 24. Nxd7 1/2-1/2
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Walek, Petr"]
+[Black "Fargac, Martin"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "1489"]
+[BlackElo "1731"]
+[PlyCount "41"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Bc4 Be6 7. Nc3 Bxc4
+8. Qxc4 Nf6 9. O-O h6 10. Re1 a6 11. Nd5 Nxd5 12. exd5+ Be7 13. Qe4 Qd7 14. Bd2
+b5 15. Qe6 Qxe6 16. Rxe6 Kd7 17. Rae1 Bf6 18. Bc3 Bxc3 19. Re7+ Kc8 20. Re8+
+Kd7 21. R1e7# 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.27"]
+[Round "6"]
+[White "Zezula, Rudolf"]
+[Black "Zapletal, Jiri1"]
+[Result "1-0"]
+[ECO "C64"]
+[WhiteElo "1886"]
+[BlackElo "1722"]
+[PlyCount "61"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O d6 5. c3 Nge7 6. d4 exd4 7. cxd4 Bb4 8.
+a3 Ba5 9. b4 a6 10. Bxc6+ Nxc6 11. bxa5 Nxa5 12. Qa4+ Nc6 13. d5 b5 14. Qc2 Ne7
+15. Bb2 O-O 16. Qc3 f6 17. Nbd2 Qe8 18. Qxc7 Qd7 19. Rfc1 Ra7 20. Qxd7 Bxd7 21.
+Bc3 Bg4 22. h3 Bh5 23. Nd4 Bf7 24. Bb4 Rd7 25. Nc6 Re8 26. Rc2 Ng6 27. g3 Ne5
+28. Nxe5 Rxe5 29. Rac1 h6 30. Rc6 f5 31. Bxd6 1-0
+
+[Event "Morava-ch U14"]
+[Site "Havirov"]
+[Date "2008.10.28"]
+[Round "7"]
+[White "Borufka, Roman"]
+[Black "Straka, Tomas"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "1473"]
+[PlyCount "93"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. dxe5 Nxe5 5. Nxe5 dxe5 6. Qxd8+ Kxd8 7. Bc4 f6
+8. Nc3 Bb4 9. Bd2 b6 10. O-O-O Bb7 11. Nb5 Bd6 12. Rhe1 Ke7 13. g3 Nh6 14. Bxh6
+gxh6 15. Nxd6 cxd6 16. f4 Rhf8 17. f5 Rac8 18. Be6 Rc5 19. Rd3 Bc8 20. Bd5 a5
+21. Ree3 Bd7 22. Rc3 Rfc8 23. Kd2 Rxc3 24. Rxc3 Rxc3 25. Kxc3 Kd8 26. Bg8 Bc6
+27. Kd3 Kc7 28. c4 b5 29. b3 Kb6 30. Bxh7 Kc7 31. Bg8 bxc4+ 32. Bxc4 Kb6 33. h4
+Kc5 34. a3 d5 35. exd5 Bxd5 36. b4+ axb4 37. axb4+ Kc6 38. Bxd5+ Kxd5 39. g4
+Kd6 40. Ke4 Kd7 41. Kd5 Kc7 42. b5 Kb6 43. g5 hxg5 44. hxg5 fxg5 45. f6 g4 46.
+f7 g3 47. f8=Q 1-0

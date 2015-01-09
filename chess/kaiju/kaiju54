@@ -1,0 +1,50 @@
+5.O-O Be7 6.d4 exd4 7.e5 Ne4 8.c3
+C84	Lopez Four Knights, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Nc3
+C85	Delayed Exchange Ruy Lopez Deferred; C85	1.e4 e5 2.Nf3 Nc6
+3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6
+C86	Worrall Attack, Ruy Lopez; C86	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Qe2
+C86	Schlechter Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Qe2 b5 7.Bb3 O-O 8.c3 d5
+C86	English Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Qe2 b5 7.Bb3 O-O 8.c3 d6 9.d4 Bg4
+C87	C87	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1
+C87	Averbakh Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 d6
+C87	Kecskemet; Timbuktu Var, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.O-O Be7 6.Re1 d6 7.c3 O-O 8.d4 Bd7 9.Nbd2 Be8
+C87	Romanovsky Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 d6 7.c3 O-O 8.d4 Bd7 9.Nbd2 exd4 10.cxd4 Nb4
+C88	C88	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+C88	Trajkovic Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 Bb7
+C88	Pseudo-Marshall Var, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 Bb7 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5
+C88	Rosen Attack, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7
+6.Re1 b5 7.Bb3 d6 8.d4
+C88	Anti-Marshall Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4
+C89	C89	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3
+C89	Marshall Attack, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+C89	Marshall Counter-Attack, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.d4 
+C89	Steiner Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5 e4
+C89	Kevitz Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6
+12.Bxd5 cxd5 13.d4 Bd6 14.Re3
+C89	Geller Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4
+Bd6 13.Re1 Qh4 14.g3 Qh3
+C89	Fischer Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.g3
+C90	C90	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6
+C90	Balla Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 Na5 9.Bc2 c5 10.d4 Qc7
+C90	Suetin Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.a3
+C90	Lutikov Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6

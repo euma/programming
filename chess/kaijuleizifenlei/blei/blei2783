@@ -1,0 +1,600 @@
+[WhiteElo "2061"]
+[BlackElo "2522"]
+[Annotator "Primel,D"]
+[PlyCount "66"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. e5 {La variante d'avance rendue populaire par SHORT} Bf5
+4. Nf3 (4. Nc3 e6 5. g4 $1 {Blumenfeld,B-Kasparian,G/7th ch SU sf 1931/0-1})
+4... e6 5. Be2 Nd7 (5... c5) 6. O-O Bg6 (6... Ne7 {La grande ligne}) 7. Nbd2
+Nh6 8. c3 ({RR} 8. c4 Be7 9. Qb3 Rb8 10. Qc3 O-O 11. c5 f6 12. exf6 Bxf6 13. b4
+Nf7 14. Nb3 e5 15. Be3 Re8 16. Rfe1 e4 17. Nfd2 Nh6 18. Nf1 Nf5 19. Bf4 Rc8 20.
+Ne3 Nf8 21. Bg4 Nxe3 22. fxe3 Ne6 {Karjakin,S (2727)-Carlsen,M (2775)/Moscow
+2008/CB37/0-1 (70)}) 8... Rc8 $5 $146 {Le GMI argentin a souvent des idées
+originales dans ses parties[%cal Gc6c5]} (8... Be7 9. Ne1 O-O 10. Ndf3 f6 11.
+Nd3 Kh8 12. Re1 Re8 13. Bf1 Be4 14. Bxh6 gxh6 15. Nf4 fxe5 16. Nxe6 Qc8 17.
+dxe5 Nxe5 18. Nxe5 Qxe6 19. Qh5 Rf8 20. Ng4 Bc5 21. b4 Bb6 22. c4 Rf5 23. Qh3 {
+Li,C (2548)-Lafuente,P (2489)/Pamplona 2007/CB03/1-0 (42)}) (8... Nf5) (8... c5
+{Fressinet,L (2654)-Fridman,D (2621)/EU-ch Blitz Ajaccio blitz 2007 (19)/1/2-1/
+2}) 9. Ne1 c5 10. Ndf3 Nf5 11. Nd3 {[%cal Gd3c5,Gd3f4]} cxd4 12. cxd4 Ne7 13.
+Be3 {surprotège "d4" mais le Be3 est assez passif} (13. Nf4 Be4) (13. Bg5)
+13... Nc6 14. Rc1 Be7 15. a3 O-O 16. b4 $6 Nb6 {[%cal Gb6c4]} 17. Nc5 Bxc5 $1
+18. bxc5 Nc4 $1 {Ce sacrifice de P donnant une case forte "d5" à la Q a
+probablement été oublié par les noirs lorsqu'ils ont joué b2b4} 19. Bxc4 dxc4
+20. Rxc4 Qd5 $44 21. Ra4 (21. Rc1 Bh5 $1 {[%csl Rd4][%cal Gh5f3]}) 21... Bh5
+22. Qe2 $6 {il va manquer un tempo aux blancs pour échanger les Q dans des
+bonnes conditions car l'ouverture de la colonne "f" va donner une forte
+initiative au GMI[%cal Ge2c4]} (22. h3 {[%cal Gg2g4]} f5 $1 {[%cal Gf5f4]})
+22... f6 $1 {[%cal Gf8f3,Gh5f3]} 23. Qc4 Bxf3 24. gxf3 fxe5 $1 {Transpose dans
+une finale bon N contre mauvais B} 25. Qxd5 exd5 $17 {[%csl Gc6,Re3]} 26. dxe5
+d4 $1 27. Bxd4 Rf4 $19 {[%cal Gf4a4]} 28. Rb1 Rxd4 29. Rxd4 Nxd4 30. Kg2 Rc7
+31. f4 Ne6 32. f5 Nxc5 33. f4 Rf7 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.25"]
+[Round "1"]
+[White "Katz, Frederic"]
+[Black "Gagunashvili, Merab"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2097"]
+[BlackElo "2576"]
+[Annotator "RR"]
+[PlyCount "72"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qd2 b5 (5... Bg7 6. Bh6 (6. f4) 6...
+Bxh6 7. Qxh6 Qa5 $132) 6. Bd3 Bg7 7. Nd1 $6 $146 {trop lent} ({RR} 7. h3 O-O 8.
+Nf3 Nbd7 9. O-O a6 10. Ne2 c5 11. c3 cxd4 12. cxd4 d5 13. e5 Ne4 14. Qe3 Nxg5
+15. Nxg5 Nb6 16. Qg3 Bd7 17. Nf4 e6 18. h4 h6 19. Nf3 Rc8 20. Rfe1 Qe7 21. Re2
+Rc7 {Mnatsakanian,E (2450)-Pribyl,J (2425)/Yerevan 1982/MCD/0-1 (57)}) (7. f4 {
+La grande ligne}) 7... a5 8. c3 a4 9. f4 O-O 10. Ne3 Nbd7 11. e5 Ne8 12. Nf3
+dxe5 13. fxe5 f6 $1 14. Bh4 Nb6 15. O-O Nc7 16. Be4 Ncd5 17. Bxd5+ $6 Nxd5 18.
+Nxd5 $6 {Comment justifier le plan Nc3d1e3 pour ensuite prendre en "d5"?} Qxd5
+$15 19. Qe3 Bg4 20. Bg3 Be6 21. exf6 (21. Rfe1 $142 {[%cal Ge3e6,Ge5f6]} Rae8)
+21... exf6 22. Rfe1 Rae8 23. Nd2 Bf7 24. Qf3 Rxe1+ 25. Bxe1 Re8 26. Qxd5 Bxd5
+$17 27. b3 f5 28. Kf1 axb3 29. axb3 b4 30. Nc4 bxc3 31. Bxc3 c5 32. Rd1 cxd4
+33. Bxd4 Bxc4+ 34. bxc4 Rd8 35. Bxg7 Rxd1+ 36. Ke2 Rg1 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.25"]
+[Round "1"]
+[White "Ledoux, Alain"]
+[Black "Vocaturo, Daniele"]
+[Result "0-1"]
+[ECO "B50"]
+[WhiteElo "2005"]
+[BlackElo "2383"]
+[PlyCount "46"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nf6 4. c3 a6 5. Qe2 Nc6 6. O-O Bg4 7. h3 Bh5 8. g4
+Bg6 9. d3 e6 10. Bg5 Be7 11. Nbd2 h6 12. Bf4 d5 13. Bb3 c4 14. Bc2 cxd3 15.
+Bxd3 h5 16. g5 Nd7 17. exd5 Bxd3 18. Qxd3 Nc5 19. Qe2 Qxd5 20. h4 Rd8 21. Nc4
+Nd3 22. Bc7 Qxc4 23. Bxd8 Qg4+ 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.25"]
+[Round "1"]
+[White "Noblet, Renald"]
+[Black "Tissir, Mohamed"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2037"]
+[BlackElo "2463"]
+[PlyCount "88"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 $5 4. a4 $6 Qc7 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8.
+d4 cxd4 9. Nxd4 O-O 10. Be3 d6 11. Qe2 Na5 {[%csl Rc4]} ({RR} 11... Bd7 12.
+Rad1 Rac8 13. h3 Ne5 14. g4 h6 15. Bc1 Ng6 16. f4 Rfe8 17. Qf2 Nh7 18. Rd3 Qa5
+19. Be3 Qb4 20. Nf3 Bc6 21. Nd4 Bh4 22. Qd2 Bxa4 23. Nxa4 Qxa4 24. b3 Qa2 25.
+c4 Qxd2 26. Rxd2 {Atlas,V (2470)-Rublevsky,S (2660)/Eupen 1999/EXT 2000/0-1 
+(38)}) ({RR} 11... Rb8 12. Rad1 Re8 13. f4 Bf8 14. Nb3 b6 15. g4 Bb7 16. g5 Nd7
+17. Rf3 Nb4 18. Rh3 g6 19. Qf2 Bg7 20. Bd4 e5 21. Be3 exf4 22. Bxf4 Ne5 23. Qh4
+Bc8 24. Qxh7+ Kf8 25. Rh6 Be6 26. Nd4 {Janev,E (2485)-Stanoev,A (2138)/Sofia
+2008/CB05/1-0 (37)}) 12. Rad1 Re8 13. Rfe1 Bf8 14. Bg5 Nd7 15. Kh1 Rb8 16. Be3
+b6 17. f4 Nc4 $15 18. Bc1 Bb7 19. b3 Na5 20. Bb2 Rbc8 21. Qd2 Nc6 22. Nxc6 Qxc6
+23. Re2 b5 24. axb5 axb5 25. Na2 {[%cal Ga2b4]} Qc7 26. Nb4 Nc5 27. Nd3 Red8
+28. Qe3 (28. f5) 28... d5 29. exd5 Bxd5 30. Bxd5 Rxd5 31. Nf2 Rxd1+ 32. Nxd1
+Na6 33. h3 Nb4 34. c3 Nc6 35. Kh2 Na5 36. Qe5 $2 (36. Qd3) 36... Qd7 37. Nf2
+Nxb3 38. Ng4 Nd2 39. Rf2 Nc4 40. Qg5 Be7 41. Qh5 g6 42. Qh6 Qd8 43. Bc1 f5 44.
+Ne5 Bf8 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.25"]
+[Round "1"]
+[White "Touam, Salah"]
+[Black "Meddahi, Tristian"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "1200"]
+[BlackElo "1480"]
+[PlyCount "87"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be2 Be7 8. Bc4
+b5 9. Bb3 Bb7 10. Bg5 Nbd7 11. Qe2 Nc5 12. a4 Nxb3 13. cxb3 b4 14. Na2 e5 15.
+Nf5 a5 16. Nxg7+ Kd7 17. Qb5+ Bc6 18. Qc4 d5 19. exd5 Nxd5 20. Rc1 Rc8 21. Bh6
+Bg5 22. Qg4+ Kc7 23. Bxg5 Qd7 24. Qe4 Qd6 25. Qe2 Rcg8 26. Nf5 Qd7 27. Qxe5+
+Kb7 28. Nd6+ Ka8 29. Rc5 Ka7 30. Rxa5+ Kb6 31. Nc4+ Kb7 32. O-O Ra8 33. Nd6+
+Kb6 34. Rxa8 Bxa8 35. Qd4+ Kc7 36. Qc5+ Qc6 37. Nb5+ Kd7 38. Qa7+ Bb7 39. Nxb4
+Nxb4 40. Qd4+ Qd5 41. Qxb4 Qxg5 42. Rd1+ Ke6 43. Qd6+ Kf5 44. g4+ 1-0
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.26"]
+[Round "2"]
+[White "Das, Arghyadip"]
+[Black "Jaulin, Philippe"]
+[Result "1-0"]
+[ECO "B64"]
+[WhiteElo "2404"]
+[BlackElo "2175"]
+[PlyCount "61"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 (7...
+a6) 8. O-O-O O-O 9. f4 e5 (9... Nxd4 {la grande ligne}) 10. Nf3 exf4 ({RR} 
+10... h6 11. Bxf6 Bxf6 12. f5 Nd4 13. Nd5 ({RR} 13. Nxd4 Bg5) 13... Bh4 14.
+Nxh4 Qxh4 15. Bd3 Bd7 16. c3 Nc6 17. g3 Qd8 18. h4 Ne7 19. Ne3 Qa5 20. Kb1 Rfd8
+({RR} 20... d5 21. f6 gxf6 22. Nxd5) 21. g4 d5 22. f6 gxf6 23. Nxd5 Nxd5 24.
+exd5 Kg7 25. Qg2 {Arencibia Rodriguez,W (2560)-Diaz,J (2430)/Santa Clara 1991/
+CBM 026/[Boensch,U]/1-0}) ({RR} 10... Bg4) 11. Bxf4 Qa5 12. Kb1 $146 (12. Bc4
+a6 13. Rhe1 Bg4 14. Qf2 b5 15. Bb3 Ne5 16. h3 Bxf3 17. gxf3 Rfc8 18. Nd5 Nxd5
+19. Rxd5 Nc4 20. Kb1 Qc7 21. Qg3 Bf8 22. Rc1 Rab8 23. Bxc4 bxc4 24. Bxd6 Bxd6
+25. Qxd6 Qb7 26. b3 h6 27. Rg1 {Wegener,O (2230)-Markgraf,J/Germany 1999/EXT
+2001/1-0 (34)}) 12... Be6 13. Ng5 Bg4 14. Be2 Bxe2 15. Qxe2 h6 16. Nf3 Rfe8 17.
+Bxd6 Bxd6 18. Rxd6 Qb4 $6 19. Rxf6 $1 gxf6 20. Qe3 $44 {[%csl Rh6]} Ne5 21.
+Nxe5 (21. Qxh6 Nc4 $132) 21... fxe5 22. Qxh6 Qf8 23. Qh4 Re6 24. Nd5 Qg7 25.
+Rf1 $40 Qxg2 26. Qe1 Rg6 27. Ne7+ Kg7 28. Nxg6 fxg6 29. Rf2 Qg4 30. Qe2 Qe6 31.
+Qd3 {perte au temps?} 1-0
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.26"]
+[Round "2"]
+[White "Delorme, Alban"]
+[Black "Carlsson, Pontus"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2257"]
+[BlackElo "2515"]
+[Annotator "Primel,D"]
+[PlyCount "84"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 (6... e6) 7. Nb3
+Be6 8. Be3 Be7 9. Qd2 O-O 10. O-O-O a5 $5 {Une ligne secondaire attaquant
+immédiatement le Nb3[%cal Ga5a4]} (10... Qc7 11. g4 Rc8 $1 12. g5 Nh5 $1 {la
+pratique a montré que le Nh5 fait un bon travail défensif de l'aile-roi[%cal
+Gg7g6]} 13. Kb1 Nd7 14. Qf2 b5 $132 {Adams,M (2719)-Kobalia,M (2656)/EU-Cup
+19th Rethymnon 2003 (6)/1-0}) (10... Nbd7) 11. Bb5 $8 {[%csl Ga4]} Nbd7 (11...
+Nc6) (11... Na6 {[%cal Ga6c7,Gc7b5]} 12. Kb1 Nc7 13. Bb6 $14 {[%cal Gb6d8];
+Goloshchapov,A (2446)-Neverov,V (2528)/Kharkov Region-ch 9900 1999/1/2-1/2})
+12. Qf2 (12. Kb1) 12... Rc8 13. Kb1 Rxc3 $1 14. bxc3 Qc7 (14... d5 $5 {Jaracz,
+P (2536)-Wojtaszek,R (2511)/Warsaw AIG Life rapid 3rd-4th 2004 (2)/0-1}) 15.
+Rd3 $146 {[%cal Gd3c3]} (15. g4 Ra8 (15... a4 $1 16. Bxa4 Qc4 $40 {[%cal Gc4a4]
+}) 16. g5 Nh5 17. a4 Qxc3 18. Rd3 Qc7 19. c4 Nf4 20. Rc3 Bxg5 21. Qd2 Be7 22.
+Rhc1 b6 23. Rd1 Nc5 24. Nxc5 dxc5 25. Bxf4 exf4 26. Rd3 h6 27. Ka2 Rb8 28. Qc2
+Bf6 29. Bd7 Bd4 {Hrabusa,M (2246)-Swiercz,D (2456)/Herceg Novi 2008/CB41/0-1 
+(90)}) (15. a4 $5 d5 $11) 15... a4 $1 $40 {[%cal Gc7c4]} 16. Bxa4 Qc4 17. Bxd7
+Nxd7 18. Rhd1 {Le contraste à la pendule était saisissant.  Alban a joué la
+partie quasiment en blitz et à la fin de la partie, il n'avais dépensé qu'une
+quinzaine de minutes alors que son adversaire a été rapidement en gros zeinot
+et pendant une quinzaine de coups avant le contrôle, il a joué avec moins
+d'une minute à la pendule!  Visiblement, le GMI maitrise l'incrément.} Ra8 19.
+Rd5 Nf6 (19... Qa4 $1 20. Nc1 Nf6 $17) 20. Qd2 $2 (20. Rxd6 $1 {Cette variante
+entrainait des échanges de pièces qui devait affaiblir l'attaque noire} Bxd6 (
+20... Qa4 21. Rxe6 $3 Qxa2+ 22. Kc1 fxe6 (22... Ba3+) 23. Bc5 $16) 21. Rxd6 Qa4
+22. Qd2 Qxa2+ 23. Kc1 Bxb3 24. Rd8+ Ne8 25. Rxa8 Qxa8 26. cxb3 Qa1+ 27. Kc2
+Qa2+ 28. Kd1 (28. Kd3) 28... Qxb3+ 29. Ke2 h6) 20... Qa4 21. c4 Qxa2+ 22. Kc1
+Qa3+ 23. Kb1 Qa2+ {répète les coups pour obtenir 30 secondes d'incrément car à
+chaque coup, il ne restait qu'une dizaine de secondes au GMI.} 24. Kc1 Nxd5 25.
+cxd5 Qa3+ 26. Kb1 Qa2+ 27. Kc1 Bd7 28. Qc3 {[%cal Gc1d2]} Rc8 29. Qb2 Qa6 30.
+Kb1 $2 (30. Re1) 30... Qe2 $17 31. Rd3 Qxg2 32. Nd2 Qh1+ 33. Ka2 Qxh2 34. Qxb7
+Qh3 35. c4 Bd8 36. c5 dxc5 37. Nc4 Rc7 38. Qb8 Rc8 39. Qb7 Rc7 40. Qb8 Bc8 41.
+d6 $2 {Une gaffe au mauvais moment car le GMI a passé le contrôle de temps!} (
+41. Qb5 $142 {[%csl Re8][%cal Gb5e8]} Qh2+ (41... Bd7) 42. Rd2 Bd7) 41... Rb7
+42. Qa8 Qf1 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.26"]
+[Round "2"]
+[White "Jaouen, Valentin"]
+[Black "Navarro Rivas, Rashid"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1836"]
+[BlackElo "2090"]
+[PlyCount "108"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 O-O 8.
+Bh6 g6 9. Bxf8 Qxf8 10. Ndb5 a6 11. Nd6 Nc6 12. Qg3 Nxe5 13. Nxc8 Rxc8 14. Qxe5
+Rxc3 15. O-O-O Qc5 16. Bd3 Qa5 17. Kb1 Rc6 18. Rde1 Rb6 19. Bc4 Bc3 20. Qb8+
+Kg7 21. Bb3 Bxe1 (21... Rxb3 22. cxb3 Nb4 23. a3 Qf5+ 24. Ka1 Bxb2+ 25. Kxb2
+Qc2+) 22. Qe5+ f6 23. Qxe1 Qxe1+ 24. Rxe1 Nc7 25. c3 d5 26. Bd1 Rd6 27. Bf3 b6
+28. Kc2 f5 29. g3 Kf6 30. Be2 e5 31. Rd1 b5 32. b3 e4 33. a4 g5 34. axb5 axb5
+35. Kb2 b4 36. Bf1 bxc3+ 37. Kxc3 Ke5 38. Ra1 Rc6+ 39. Kd2 Ne6 40. Be2 Nd4 41.
+Bd1 Rb6 42. Ke1 h6 43. Rb1 Nc6 44. Kd2 Ra6 45. Rb2 Nb4 46. h3 d4 47. Bh5 f4 48.
+Be2 d3 49. gxf4+ gxf4 50. Bf1 Kd4 51. h4 e3+ 52. fxe3+ fxe3+ 53. Kc1 Ra1+ 54.
+Rb1 d2+ 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.26"]
+[Round "2"]
+[White "Le Ray, Jean Yves"]
+[Black "Spassov, Liuben"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1975"]
+[BlackElo "2417"]
+[PlyCount "80"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O h6 7. c3 Ne7 8. Nbd2
+Bh7 9. Ne1 c5 10. Ndf3 cxd4 11. cxd4 Nc6 12. Nd3 Be7 13. Bd2 O-O 14. Qb3 Qb6
+15. Qxb6 Nxb6 16. b3 Rfc8 17. a4 Be4 18. a5 Nd7 19. Be3 a6 20. Rfc1 Bd8 21. Nc5
+Nxc5 22. Rxc5 Be7 23. Rcc1 Nb4 24. Ne1 Bd8 25. Bd2 Rxc1 26. Rxc1 Nc6 27. Be3
+Bxa5 28. Nd3 Bxd3 29. Bxd3 Bb6 30. Bf1 Ne7 31. Bd3 Rc8 32. Rxc8+ Nxc8 33. b4
+Na7 34. Kf1 Bd8 35. Ke2 Be7 36. Bd2 Nc6 37. Bc3 Bxb4 38. Bxb4 Nxb4 39. Bb1 b5
+40. Kd2 a5 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.26"]
+[Round "2"]
+[White "Sarrazin, Christian"]
+[Black "Serafimov, Dimitar"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2097"]
+[BlackElo "2197"]
+[PlyCount "81"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 Bf5 6. c3 e6 7. Ne2 Bd6 8. Nd2
+O-O 9. O-O Qc7 10. h3 Nbd7 11. Nc4 Rfe8 12. Nxd6 Qxd6 13. Bf4 e5 14. Bg3 Qe7
+15. dxe5 Nxe5 16. Nd4 Nxf3+ 17. Nxf3 Ne4 18. Re1 Qf6 19. Qd4 Qxd4 20. Nxd4 Bg6
+21. Bf4 a6 22. Rad1 Nc5 23. Rxe8+ Rxe8 24. b3 Nd3 25. Be3 h6 26. Nf3 f6 27. Kf1
+Bh7 28. Ne1 Ne5 29. f4 Nd3 30. Bc1 Nc5 31. Ba3 Ne4 32. c4 b5 33. cxb5 axb5 34.
+Bc1 Bg6 35. Nf3 Bf7 36. Rd7 Bd5 37. Nd4 Nc5 38. Rc7 Na6 39. Rd7 Nc5 40. Rc7 Kh8
+41. Nxc6 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.26"]
+[Round "2"]
+[White "Tissir, Mohamed"]
+[Black "Damia, Angelo"]
+[Result "1-0"]
+[ECO "B02"]
+[WhiteElo "2463"]
+[BlackElo "2222"]
+[Annotator "RR"]
+[PlyCount "99"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Bc4 Be6 (4... Nb6) (4... e6) (4... c6) 5.
+Qf3 c6 6. Nge2 Nc7 7. Bxe6 Nxe6 8. O-O g6 9. d4 Bg7 (9... Nxd4 10. Nxd4 Qxd4
+11. Rd1 $44) 10. d5 (10. Be3) 10... Nc7 $6 $146 ({RR} 10... cxd5 11. Nxd5 O-O
+12. Rd1 Qe8 13. Nef4 Nc6 14. Qh3 Ncd4 15. Nxe6 fxe6 16. Nc7 Qf7 17. Be3 Rac8
+18. Bxd4 Rxc7 19. Bxg7 {1/2-1/2 Santos Folch,A (2167)-Moreno Tejera,E (2139)/
+Mondariz 2000/EXT 2001}) 11. Rd1 cxd5 12. Nxd5 Nxd5 13. Rxd5 $14 Qc8 14. Bg5
+Nc6 15. Rad1 O-O 16. Qe3 e5 $6 (16... Re8) (16... Bxb2 $142 17. Bh6 e6 $132) (
+16... Qc7) 17. Bh6 $36 Ne7 18. Rc5 Bxh6 19. Rxc8 Bxe3 20. Rxa8 Rxa8 21. fxe3 {
+[%csl Re3]} Kf8 22. Nc3 (22. Rd7) 22... Nf5 23. Kf2 Ke8 (23... Ke7) 24. g4 Ng7
+25. Rd5 f6 26. Ne4 Ke7 27. g5 $1 fxg5 28. Rxe5+ Kf7 29. Nxg5+ $40 Kf6 30. Rd5
+h6 31. Ne4+ Ke7 32. Re5+ Kf7 33. Rd5 Ke7 34. Re5+ Kf7 35. Nd6+ Kf6 36. Rc5 Ne6
+37. Rc4 b6 38. Rc8 Rxc8 39. Nxc8 Ke5 40. Nxa7 g5 41. Nc8 b5 42. Na7 Nc7 43. Kf3
+h5 44. e4 g4+ 45. Ke3 h4 46. Nc6+ Kd6 47. Nd4 Ke5 48. Nf5 h3 49. Nh6 g3 50.
+Ng4+ 1-0
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.26"]
+[Round "2"]
+[White "Vocaturo, Daniele"]
+[Black "Abbasov, Farid"]
+[Result "1-0"]
+[ECO "B15"]
+[WhiteElo "2383"]
+[BlackElo "2578"]
+[Annotator "Primel,D"]
+[PlyCount "93"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 {Le vainqueur de l'édition 2007 du tournoi a beaucoup progressé au
+classement ELO en 1 an mais il n'était pas en forme dans le tournoi} 2. d4 Bg7
+3. Nc3 c6 4. f4 d5 5. e5 h5 {[%cal Gg8h6,Gh6g4,Gh6f5]} 6. Nf3 Nh6 7. Be3 Bg4 (
+7... Bf5) 8. h3 Nf5 9. Bf2 Bxf3 10. Qxf3 h4 {[%csl Rg3]} 11. Bd3 e6 12. O-O Bf8
+{Le Bg7 n'a plus d'avenir en g7 après e4e5 et il vaut mieux le recycler vers
+une diagonale plus active.} (12... Nd7) 13. b3 ({RR} 13. Ne2 Be7 14. b3 a5 15.
+c4 Na6 16. a3 a4 17. cxd5 Qxd5 18. Qxd5 exd5 19. bxa4 Nc7 20. Rfb1 Ra7 21. a5
+Kd7 22. a4 Rb8 23. Be1 Ne6 24. Bxf5 gxf5 25. Rb3 Bd8 26. Kh2 Nf8 27. g4 hxg3+
+28. Nxg3 Ke6 29. Nh5 {Belikov,V (2494)-Abbasov,F (2435)/Alushta 2004/CBM 100
+ext/1/2-1/2 (52)}) 13... a5 {[%cal Ga5a4]} 14. Ne2 Na6 15. c3 $146 ({RR} 15. c4
+Ba3 16. Rad1 Bb4 17. Bb1 Nc7 18. c5 Nb5 19. a4 Nc7 20. Rc1 Na6 21. Bd3 Kf8 22.
+Kh2 b6 23. Bxf5 gxf5 24. g4 hxg3+ 25. Qxg3 bxc5 26. Rg1 Ke8 27. Qg7 Rf8 28.
+dxc5 Qe7 29. Nd4 Rc8 {Korneev,O (2465)-Maciejewski,A (2350)/Katowice 1992/TD/
+1-0 (42)}) ({RR} 15. a3 a4 16. c4 axb3 17. cxd5 Qxd5 18. Be4 Qd7 19. Qxb3 Be7
+20. Rab1 Rb8 21. Qf3 O-O 22. Rfd1 Rfd8 23. Nc3 Nh6 24. Na4 Nc7 25. Nb6 Qe8 26.
+a4 Kg7 27. Rb2 Nf5 28. Kh2 Kh6 29. Qe2 Kg7 {Gallagher,J (2540)-Dzhumaev,M 
+(2495)/Bled 2002/EXT 2003/1/2-1/2 (78)}) 15... Be7 (15... c5 $2 16. Bb5+) 16.
+Rac1 Kf8 $1 {la position est fermée et les noirs peuvent se permettre de
+roquer à la main.[%cal Gf8g7]} (16... O-O $6 17. Bxf5 gxf5 18. Kh1 $36 {[%cal
+Gg2g4,Gf1g1]}) 17. Kh2 $1 {[%cal Gf1g1]} Nc7 18. a4 {[%csl Gb5]} Kg7 19. Rg1
+Qd7 20. c4 Rad8 (20... Rhd8 21. c5) 21. Be1 dxc4 (21... Ra8 $142 $11 {Ra8
+donnait l'égalité mais avec 200 points d'écart le GMI préfère jouer pour le
+gain avec dc4}) 22. Bxf5 $1 exf5 23. bxc4 (23. Bxa5 $1 Ra8 24. Bxc7 Qxc7 25.
+Rxc4 (25. d5 $14)) 23... Bb4 24. Bxb4 axb4 25. Qb3 c5 $6 26. d5 $14 {Les noirs
+commencent à manquer d'espace.[%csl Gd5,Ge5]} Ra8 27. Ra1 Ra6 28. Nc1 Rha8 $6 (
+28... b6 29. Qb2 Kh7 30. Nb3 Rxa4 31. Rxa4 Qxa4 32. Ra1 Qe8 33. Qf2 $44 {[%cal
+Gf2h4]}) 29. Qb2 $1 {[%cal Ge5e6,Gb2g7]} Qd8 30. Nb3 {[%csl Rc5]} b6 31. a5 $1
+{[%csl Rc5]} Ne8 $6 32. Rgd1 (32. axb6 $142 Qxb6 33. Rxa6 Rxa6 34. Qf2 $40 {
+[%csl Rc5]}) 32... Kg8 33. axb6 Qxb6 34. Rxa6 Rxa6 35. d6 (35. Qf2) 35... Ng7 {
+[%cal Gg7e6,Ge6d8]} 36. d7 Ra8 $8 (36... Ne6 $2 37. Nxc5 $1) 37. Rd6 $18 Qc7
+38. Nxc5 Qxc5 39. d8=Q+ Rxd8 40. Rxd8+ Kh7 41. Qd4 Ne6 42. Qxc5 Nxc5 43. Rc8
+Nd3 44. c5 b3 45. c6 Nb4 46. c7 b2 47. Rb8 1-0
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.27"]
+[Round "3"]
+[White "Carlsson, Pontus"]
+[Black "Das, Arghyadip"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "2515"]
+[BlackElo "2404"]
+[Annotator "Primel,D"]
+[PlyCount "49"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 (6. Be2) 6... a6 7.
+Qd2 {laissant la possibilité de jouer l'attaque anglaise[%cal Ge1c1]} (7. Bd3
+$142) 7... Nf6 8. O-O-O Bb4 $1 {Plus actif que b5[%cal Gf6e4]} (8... b5 $143 9.
+Bf4 $5 {Topalov,V (2707)-Movsesian,S (2661)/Sarajevo Bosnia 31st 2001 (1)/1-0})
+9. f3 O-O (9... Ne5 $142 {[%cal Gb4c3,Gd7d5]} 10. Nb3 (10. Kb1 Bxc3 (10... d5
+$6 11. Ncb5 $1) 11. bxc3 d5 $132) (10. g4 h6 11. h4 d5 $13 12. Bh3 (12. Bg2) (
+12. Bf4)) 10... b5 11. Kb1 Nc4 12. Bxc4 bxc4 13. Nc1 Rb8 {[%csl Rb2];Korneev,O
+(2583)-Delchev,A (2601)/Navalmoral op 2004 (7)/0-1}) 10. g4 b5 11. Kb1 (11. g5
+Nh5) 11... Bb7 12. g5 Ne8 13. a3 ({RR} 13. Nxc6 Bxc6 14. h4 Rc8 15. h5 f5 16.
+gxf6 Nxf6 17. Qd4 {1/2-1/2 Kozhuharov,S (2456)-Plischki,S (2358)/Marianske
+Lazne 2008/CB07}) 13... Be7 14. Nxc6 $146 (14. Bf4 Ne5 $6 (14... d6) 15. Bxb5
+$1 $36 {Motylev,A (2648)-Potkin,V (2591)/RUS-ch Higher League 60th 2007 (3)/1/
+2-1/2}) 14... Bxc6 15. Ne2 d5 $1 16. Nd4 dxe4 17. Nxc6 Qxc6 18. Qd7 Rc8 $1 {
+[%csl Rc2]} 19. Qxc6 Rxc6 20. fxe4 Nd6 {[%cal Gd6c4,Gd6e4]} 21. e5 Nc4 22. Bxc4
+Rxc4 23. h4 Re4 24. Bd4 Rc8 (24... b4) 25. c3 1/2-1/2
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.27"]
+[Round "3"]
+[White "Duboue, Peio"]
+[Black "Colin, Vincent"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[WhiteElo "1899"]
+[BlackElo "2421"]
+[PlyCount "71"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. Nc3 Nf6 7. Be2 O-O 8.
+Qd2 d6 9. f3 d5 10. O-O-O Nxd4 11. Bxd4 dxe4 12. Nxe4 Nxe4 13. fxe4 e5 14. Bc5
+Qxd2+ 15. Rxd2 Bh6 16. Bxf8 Kxf8 17. Kd1 Bxd2 18. Kxd2 Be6 19. b3 Ke7 20. Ke3
+a5 21. a4 Rc8 22. Bd3 f5 23. g3 fxe4 24. Bxe4 Bf5 25. c4 Rd8 26. Rf1 Ke6 27.
+Bd5+ Kd6 28. Be4 Ke6 29. Bd5+ Ke7 30. g4 Bxg4 31. Rf7+ Kd6 32. Rxb7 Bd7 33. Ke4
+Bf5+ 34. Ke3 Bd7 35. Ke4 Bf5+ 36. Ke3 1/2-1/2
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.27"]
+[Round "3"]
+[White "Jaulin, Philippe"]
+[Black "Gallant, Jeremy"]
+[Result "0-1"]
+[ECO "B89"]
+[WhiteElo "2175"]
+[BlackElo "1726"]
+[PlyCount "74"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nc6 8. Be3
+Be7 9. Qe2 O-O 10. O-O-O Qc7 11. Rhg1 Na5 12. g4 Nxb3+ 13. axb3 b5 14. g5 Nd7
+15. f4 Nc5 16. b4 Na4 17. Nxa4 bxa4 18. f5 d5 19. f6 Bxb4 20. exd5 exd5 21.
+fxg7 Re8 22. Qf2 a3 23. Kb1 axb2 24. Nb3 a5 25. Bf4 Qc4 26. Rd4 Re2 27. Rxc4
+Rxf2 28. Rd4 Bf5 29. Bd2 Rc8 30. Bxb4 Bxc2+ 31. Kxb2 axb4 32. Rxb4 Be4+ 33. Ka3
+Ra8+ 34. Ra4 Rxa4+ 35. Kxa4 Bc2 36. Kb4 Bxb3 37. Kxb3 Rxh2 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.27"]
+[Round "3"]
+[White "Le Pen, Steven"]
+[Black "Gallant, Aurelien"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "1728"]
+[BlackElo "1871"]
+[PlyCount "66"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Nbd7 9. Be2 b5 10. a3 Qc7 11. O-O Nb6 12. Qd2 Be7 13. Bxb6 Qxb6+ 14. Kh1 O-O
+15. Rfd1 Rac8 16. Nd5 Nxd5 17. exd5 Bf5 18. Rac1 h6 19. f4 Bf6 20. c3 Bg6 21.
+Ra1 exf4 22. Bg4 Rc4 23. Be2 Rc7 24. Nd4 Bxd4 25. Qxd4 Qxd4 26. Rxd4 Re7 27.
+Bf3 Rfe8 28. Rf1 Be4 29. Kg1 g5 30. Kf2 Bxf3 31. Kxf3 Re3+ 32. Kg4 Re2 33. Kf5
+Kg7 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.27"]
+[Round "3"]
+[White "Rogel, Thomas"]
+[Black "De Lagontrie, Jean"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "1571"]
+[BlackElo "1958"]
+[PlyCount "89"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. c3 Bg7 12. Bd3 Be6 13. Nxb5 axb5 14. Bxb5
+Bd7 15. exf5 O-O 16. Qg4 Kh8 17. a4 Ra7 18. b4 e4 19. O-O Re8 20. Rfe1 Re5 21.
+Ne3 d5 22. Rad1 Ne7 23. Bxd7 Qxd7 24. f6 Bxf6 25. Qxd7 Rxd7 26. Ng4 Re6 27.
+Nxf6 Rxf6 28. a5 Rc6 29. Rxe4 Rxc3 30. f3 Nc6 31. Rg4 h6 32. Re1 Re7 33. Ra1
+Ra7 34. Re1 Re7 35. Ra1 Rb3 36. a6 Ra7 37. Ra4 Nb8 38. Ra5 Rxa6 39. Rxd5 Kh7
+40. Rd8 Rb2 41. h3 Nc6 42. Rdg8 h5 43. R4g7+ Kh6 44. Rg3 Kh7 45. R3g7+ 1/2-1/2
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.27"]
+[Round "3"]
+[White "Savalle, Alexandre"]
+[Black "Bapst, Valentin"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "1773"]
+[BlackElo "1625"]
+[PlyCount "50"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Nc3 e5 7. Be2 Bb4 8.
+Bd2 O-O 9. Bf3 Ba6 10. a3 Bxc3 11. Bxc3 d5 12. Bxe5 Re8 13. Bxf6 Qxf6 14. c3
+Rad8 15. Qc2 dxe4 16. Be2 Bd3 17. Qd2 Bb5 18. Qe3 Bxe2 19. Qxe2 e3 20. O-O Rd2
+21. Qe1 exf2+ 22. Qxf2 Rxf2 23. Rxf2 Qd6 24. Raf1 Qc5 25. Kh1 Qxf2 0-1
+
+[Event "Rohde op 8th"]
+[Site "Sautron"]
+[Date "2008.10.27"]
+[Round "4"]
+[White "Bonn, Thomas"]
+[Black "Abbasov, Farid"]
+[Result "0-1"]
+[ECO "B27"]
+[WhiteElo "2230"]
+[BlackElo "2578"]
+[Annotator "RR"]
+[PlyCount "148"]
+[EventDate "2008.10.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. dxc5 $5 (4. Nc3 cxd4) 4... Qa5+ 5. Bd2 (5. c3
+Qxc5 6. Na3 Nf6 7. Nb5 b6 8. Be3 Qc6 {Kabanov,N (2521)-Malakhov,V (2689)/
+RUS-ch Higher League 61st 2008 (10)/1/2-1/2}) 5... Qxc5 6. Nc3 Nf6 7. Bd3 d6 8.
+h3 O-O $11 9. O-O a6 10. a4 Nbd7 $146 ({RR} 10... Qc7 11. Be3 Nbd7 12. a5 Nc5
+13. Re1 Bd7 14. Qd2 Rfe8 15. Bh6 Bh8 16. Bg5 Bc6 17. Nd4 Rac8 18. Nxc6 Qxc6 19.
+Rab1 e6 20. Qf4 Nfd7 21. Ne2 Ne5 22. Qg3 Ncxd3 23. cxd3 Qc2 24. Nf4 Qb3 25. Re3
+{Al Sayed,M (2082)-Hoffman,A (2491)/Internet ICC 2000/EXT 2001/0-1 (60)}) 11.
+a5 Qc7 12. Ra3 $6 Nc5 13. b4 Nxd3 14. cxd3 Bd7 15. Be3 Rac8 16. Qb1 Qb8 17. Rc1
+e5 18. Ra2 {reconnaissant que Ra3 était joli mais ... inutile!} Be6 19. Rac2 h6
+20. b5 Qa8 21. Qb4 d5 $5 (21... Nh5) 22. Nxe5 dxe4 23. dxe4 Nh5 24. Nf3 Rc4 25.
+Qb1 Rfc8 $44 26. Nd5 Rxc2 27. Rxc2 Rxc2 28. Qxc2 axb5 29. Bb6 (29. Qc7 $142)
+29... Qe8 30. Nc7 Qd7 31. Qc5 Bc4 32. Nd5 Kh7 33. Nd2 Ba2 34. Nf3 Nf6 35. Nc3
+Bc4 36. Ne5 Qe6 37. Nxb5 Bxb5 38. Qxb5 Nxe4 39. Nf3 $11 Nc3 40. Qd3 Ne2+ 41.
+Kh1 (41. Kh2) 41... Nf4 42. Qb5 Qe4 {[%csl Rg2]} 43. Kh2 Nd5 44. Qd7 $2 {le
+P"b6" sera trés faible face aux attaques du B de cases noires.} (44. Ba7) 44...
+Nxb6 $15 45. axb6 Kg8 46. Qb5 Bf8 47. Kg1 Bd6 $1 $36 {Le K blanc est

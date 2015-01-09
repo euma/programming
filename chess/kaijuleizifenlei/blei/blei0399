@@ -1,0 +1,600 @@
+[ECO "B36"]
+[WhiteElo "2352"]
+[BlackElo "2309"]
+[PlyCount "99"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. Nc3 cxd4 5. Nxd4 Nc6 6. e4 d6 7. Be2 Nxd4 8.
+Qxd4 Bg7 9. Bg5 O-O 10. Qd2 Be6 11. Rc1 Qa5 12. f3 Rfe8 13. Nd5 Qc5 14. Be3 Qc6
+15. O-O Nd7 16. Rfd1 a5 17. b3 Nc5 18. Kh1 b6 19. Bf1 Qb7 20. Re1 Bd7 21. Nc3
+Bc6 22. Nb5 Rad8 23. Red1 Be5 24. Rb1 Qb8 25. Nd4 Bb7 26. h3 e6 27. Bg5 f6 28.
+Be3 d5 29. cxd5 exd5 30. exd5 Bxd5 31. Bb5 Rf8 32. Qf2 Bg3 33. Qg1 Bf4 34. Ne2
+Bxe3 35. Qxe3 Bf7 36. Qe7 Qe5 37. Qxe5 fxe5 38. Nc3 Kg7 39. Kg1 Ne6 40. Kf2 Nd4
+41. Bf1 Rc8 42. Rdc1 Rc6 43. Nb5 Rfc8 44. Rxc6 Rxc6 45. Nxd4 exd4 46. Rb2 Kf6
+47. Bd3 Ke5 48. g3 Rc3 49. Ke2 Kd6 50. f4 1/2-1/2
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.29"]
+[Round "9"]
+[White "Shumilov, Ilya"]
+[Black "Pavlov, Sergey1"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2208"]
+[BlackElo "2418"]
+[PlyCount "48"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d6 2. Nf3 g6 3. e4 Bg7 4. c3 Nf6 5. Nbd2 O-O 6. Bd3 e5 7. O-O Nc6 8. Re1
+Nh5 9. Nb3 Bg4 10. Be3 a5 11. a4 Qf6 12. h3 Bxf3 13. Qxf3 Qxf3 14. gxf3 exd4
+15. cxd4 Nb4 16. Rad1 Nxd3 17. Rxd3 f5 18. Bd2 b6 19. Rc1 c5 20. e5 dxe5 21.
+dxc5 bxc5 22. Rxc5 e4 23. fxe4 fxe4 24. Rd7 Rab8 1/2-1/2
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.29"]
+[Round "9"]
+[White "Sidorchuk, Dmitry"]
+[Black "Kruglyakov, Pavlo"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[WhiteElo "2234"]
+[BlackElo "2356"]
+[PlyCount "80"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. Nf3 c5 6. e3 cxd4 7. exd4 dxc4 8.
+Bxc4 O-O 9. O-O b6 10. Rd1 Bb7 11. Ne5 Nbd7 12. Bg5 h6 13. Bh4 Rc8 14. Qe2 Be7
+15. Rac1 Ba8 16. Ba6 Rc7 17. Bb5 Nxe5 18. dxe5 Nd5 19. Bg3 Nxc3 20. Rxc3 Bd5
+21. Bf4 Rxc3 22. bxc3 Bg5 23. c4 Bxf4 24. cxd5 exd5 25. g3 Bg5 26. Qf3 Qc7 27.
+Qxd5 Rd8 28. Bd7 Qc5 29. Qe4 Kh8 30. h4 Be7 31. Kg2 Qb4 32. Qd5 Bc5 33. Rd3 Qb2
+34. Qf3 Qxe5 35. Bf5 Qf6 36. Rxd8+ Qxd8 37. Bc2 Kg8 38. Bb3 Qf6 39. Qxf6 gxf6
+40. f4 Kf8 1/2-1/2
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.30"]
+[Round "10"]
+[White "Ianovsky, Alexander"]
+[Black "Ignatenko, Vladimir"]
+[Result "1-0"]
+[ECO "B17"]
+[WhiteElo "2193"]
+[BlackElo "2143"]
+[PlyCount "83"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. f4 Ngf6 6. Ng3 e6 7. Nf3 Be7 8.
+Bd3 c5 9. c3 cxd4 10. cxd4 O-O 11. O-O b6 12. f5 Bb7 13. fxe6 fxe6 14. Ng5 Bd5
+15. Qe2 Qc8 16. Nxe6 Re8 17. Nf4 Bc5 18. Qd1 Bxd4+ 19. Kh1 Bc4 20. Bxc4+ Qxc4
+21. b3 Qxf1+ 22. Qxf1 Bxa1 23. Ba3 Bc3 24. Qc4+ Kh8 25. Qxc3 Rac8 26. Qd2 Rc2
+27. Qd1 Rxa2 28. Bc1 Nc5 29. h3 Ra1 30. Kh2 Nxb3 31. Qxb3 Rxc1 32. Nf5 Rc7 33.
+Nd6 Ree7 34. Qf3 g6 35. Nxg6+ hxg6 36. Qxf6+ Kh7 37. Qh4+ Kg7 38. Ne4 Re6 39.
+Ng5 Rec6 40. Qd4+ Kg8 41. Qd5+ Kh8 42. Qd8+ 1-0
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.30"]
+[Round "10"]
+[White "Leshchenko, Vasilij"]
+[Black "Anatskiy, Alexey"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2167"]
+[PlyCount "169"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c4 dxc4 6. Bxc4 Nd7 7. O-O Ne7 8. Nc3
+Nb6 9. Bb3 Ned5 10. Bd2 Be7 11. a3 h6 12. h3 Qd7 13. Bc2 Bxc2 14. Qxc2 Rd8 15.
+Ne4 Qc7 16. Rac1 Nd7 17. b4 a6 18. Rfe1 Rc8 19. Ng3 b5 20. Qe4 N7b6 21. Qg4 g6
+22. Rc2 Nc4 23. Ne4 Kd7 24. Bc1 a5 25. Nc5+ Bxc5 26. bxc5 a4 27. Nd2 Nxd2 28.
+Bxd2 Ra8 29. h4 h5 30. Qe2 Qc8 31. g3 Kc7 32. Kg2 Qd7 33. Bg5 Rab8 34. Bd2 Ra8
+35. Qf3 Rhb8 36. Rb1 Rd8 37. Qe4 Ne7 38. Bg5 Rdb8 39. Bxe7 Qxe7 40. Rc3 Qd7 41.
+Rf3 Rf8 42. Rd1 Rad8 43. Rdd3 Qd5 44. Qf4 Kd7 45. Kh2 Ke8 46. Qd2 Ra8 47. Rf6
+Ra7 48. Rdf3 Qe4 49. Qh6 Re7 50. Qd2 Ra7 51. R6f4 Qd5 52. Qd3 Re7 53. Qe3 Rg8
+54. Rf6 Rf8 55. Qf4 Rd7 56. Rxg6 Rh8 57. Rf6 Qxd4 58. Qg5 Qg4 59. Qc1 Qd4 60.
+Qe1 Rh7 61. Qc3 Qxc3 62. Rxc3 Rd5 63. f4 Ke7 64. Kg2 Kf8 65. Kf3 Kg7 66. Ke4
+Rh6 67. Rxh6 Kxh6 68. f5 exf5+ 69. Kxf5 Kg7 70. Ke4 Kg6 71. Rc2 f5+ 72. exf6
+Kxf6 73. Rc3 Ke6 74. Kf4 Re5 75. g4 hxg4 76. Kxg4 Re4+ 77. Kg5 Rc4 78. Rxc4
+bxc4 79. Kf4 c3 80. Ke3 c2 81. Kd2 c1=Q+ 82. Kxc1 Kf5 83. Kc2 Kg4 84. Kc3 Kxh4
+85. Kb4 1-0
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.30"]
+[Round "10"]
+[White "Popovkin, Petro"]
+[Black "Pavlov, Sergey1"]
+[Result "1/2-1/2"]
+[ECO "B05"]
+[BlackElo "2418"]
+[PlyCount "40"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. O-O Bxf3 7. Bxf3 dxe5 8.
+dxe5 e6 9. Nd2 Nd7 10. Re1 Be7 11. Qe2 O-O 12. g3 Qc7 13. Bg2 a5 14. a4 Rfd8
+15. Nf3 h6 16. h4 Bb4 17. c3 Bf8 18. h5 Nc5 19. Nd4 Nb6 20. b3 Nd5 1/2-1/2
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.30"]
+[Round "10"]
+[White "Romanov, Vladimir"]
+[Black "Perun, Sergey"]
+[Result "0-1"]
+[ECO "B21"]
+[WhiteElo "2258"]
+[BlackElo "2352"]
+[PlyCount "82"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nc3 e6 3. f4 d5 4. Nf3 dxe4 5. Nxe4 Nc6 6. Bb5 Bd7 7. O-O Be7 8. d3
+Nf6 9. c3 a6 10. Ba4 O-O 11. Bc2 Qc7 12. Qe2 Rad8 13. Bd2 Bc8 14. Rae1 b6 15.
+Ne5 Nxe4 16. Qxe4 Bb7 17. Qe2 Bh4 18. Rd1 Qe7 19. Qg4 g6 20. Nf3 Bf6 21. Rde1
+Qd7 22. Ne5 Qc7 23. Qg3 Ne7 24. Ng4 Bg7 25. h4 Nf5 26. Qh3 h5 27. Ne5 Qe7 28.
+g3 Bd5 29. b3 Bf6 30. Re2 Kg7 31. Be1 Ba8 32. Bf2 Rh8 33. Rfe1 Qb7 34. Kh2 Nh6
+35. d4 Ng4+ 36. Kg1 Nxf2 37. Rxf2 cxd4 38. cxd4 Rxd4 39. Nf3 Qc6 40. Kh2 Qc3
+41. Nxd4 Qxe1 0-1
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.30"]
+[Round "10"]
+[White "Zsiltzova Lisenko, Lubov"]
+[Black "Kovalenko, Vladimir Nikolaevic"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "2294"]
+[BlackElo "2185"]
+[PlyCount "101"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Nxc6 bxc6 8.
+e5 Nd5 9. Nxd5 cxd5 10. Qxd5 Rb8 11. Bc4 O-O 12. O-O-O d6 13. Bxa7 Be6 14. Qd3
+Bxc4 15. Qxc4 Rc8 16. Qb3 Bxe5 17. Bd4 Qa5 18. Bxe5 Qxe5 19. Qe3 Qa5 20. a3 Rc7
+21. Rhe1 Rb8 22. Re2 Qb5 23. c3 Qb3 24. Rd4 e5 25. Rxd6 Rcb7 26. Qd3 Qa2 27.
+Rd8+ Rxd8 28. Qxd8+ Kg7 29. Qd3 Qe6 30. Rd2 h5 31. Qd5 Qe7 32. h4 f5 33. g3 e4
+34. Qd8 Qf7 35. a4 Qe6 36. a5 Kh7 37. Rd6 Qc4 38. Rd7+ Rxd7 39. Qxd7+ Kh6 40.
+Qd4 Qf1+ 41. Kc2 Kh7 42. Qe3 Qb5 43. b4 Qc4 44. Kb2 Qf1 45. Qd4 Kg8 46. c4 Qe1
+47. Kb3 Qb1+ 48. Ka4 Qc2+ 49. Kb5 Qd3 50. Qd5+ Kg7 51. a6 1-0
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.31"]
+[Round "11"]
+[White "Chernozem, Sergey"]
+[Black "Bidkov, Anton"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2080"]
+[BlackElo "2187"]
+[PlyCount "61"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. c3 e5 6. Be2 h6 7. O-O Nd7 8. Re1
+Ngf6 9. Bf1 O-O 10. d4 Nxe4 11. dxe5 Re8 12. Nxe4 dxe4 13. Rxe4 Nxe5 14. Qxd8
+Nxf3+ 15. gxf3 Rxd8 16. Re1 Be6 17. Be3 b6 18. f4 Rd6 19. a4 c5 20. a5 a6 21.
+Red1 Rad8 22. Rxd6 Rxd6 23. Bxa6 bxa5 24. Rxa5 Bh3 25. Ra1 Rb6 26. b4 Bxc3 27.
+bxc5 Rc6 28. Bb5 Rxc5 29. Ra8+ Rc8 30. Rxc8+ Bxc8 31. h4 1/2-1/2
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.31"]
+[Round "11"]
+[White "Golubka, Petr"]
+[Black "Popovkin, Petro"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2270"]
+[PlyCount "33"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5
+15. Bc4 Rb8 16. Ra2 Be6 17. O-O 1/2-1/2
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.31"]
+[Round "11"]
+[White "Kernazhitsky, Leonid"]
+[Black "Zakharchenko, Arnold"]
+[Result "1-0"]
+[ECO "B09"]
+[WhiteElo "2338"]
+[BlackElo "2309"]
+[PlyCount "85"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. e5 Ng4 7. Bb5+ Bd7 8. Bxd7+
+Qxd7 9. d5 dxe5 10. h3 e4 11. Nxe4 Nf6 12. Nxf6+ Bxf6 13. O-O Qc7 14. Qe2 Nd7
+15. c4 O-O 16. Kh1 Rfe8 17. Ng5 b5 18. cxb5 Nb6 19. f5 Nxd5 20. Nxf7 Kxf7 21.
+Qe6+ Kg7 22. Qxd5 Rad8 23. Qf3 Qd7 24. fxg6 hxg6 25. a4 Rf8 26. Qf4 g5 27. Qg3
+Qd3 28. Be3 Kg6 29. Rf3 Qd5 30. Raf1 Rh8 31. Rf5 Qxf5 32. Rxf5 Kxf5 33. Qg4+
+Kg6 34. Qe4+ Kg7 35. Bxc5 Rh4 36. Qe6 Rxa4 37. Bxe7 Rd1+ 38. Kh2 Bd4 39. Bc5
+Bf6 40. Bf8+ Kg6 41. Qe8+ Kf5 42. Qc8+ Kf4 43. Qg4+ 1-0
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.31"]
+[Round "11"]
+[White "Leshchenko, Vasilij"]
+[Black "Ovcharov, Taras"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2167"]
+[BlackElo "1880"]
+[PlyCount "123"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Qxd5 4. c4 Qe4+ 5. Be3 e5 6. Nc3 Bb4 7. Qa4+ Nc6 8.
+d5 Nxd5 9. Qxb4 Ndxb4 10. Nxe4 Nc2+ 11. Kd2 Nxa1 12. Bd3 Bf5 13. Nf6+ gxf6 14.
+Bxf5 Rd8+ 15. Kc1 Na5 16. Nf3 Nxc4 17. Kb1 Nb3 18. axb3 Nxe3 19. fxe3 O-O 20.
+Rc1 c6 21. Rc4 Rd1+ 22. Kc2 Rf1 23. Rg4+ Kh8 24. Kc3 Rg8 25. Rxg8+ Kxg8 26. Bc8
+b6 27. Bb7 c5 28. g4 Rf2 29. h3 Re2 30. Kd3 Rxb2 31. Bd5 b5 32. Nd2 h5 33. gxh5
+f5 34. Kc3 Ra2 35. Nf3 e4 36. Nh4 a6 37. Bb7 f4 38. exf4 b4+ 39. Kc4 Rc2+ 40.
+Kd5 e3 41. Bxa6 Rf2 42. Kxc5 Rxf4 43. Ng2 e2 44. Bxe2 Rf2 45. Bg4 Rxg2 46. Kxb4
+Rf2 47. Kc4 f5 48. Bd1 Rd2 49. Bf3 Rh2 50. b4 Rxh3 51. Bd5+ Kf8 52. b5 Ke7 53.
+b6 Rxh5 54. b7 Rh8 55. Kc5 Kd7 56. Kb6 f4 57. Bf3 Kd6 58. Bg4 Rb8 59. Bf3 Rg8
+60. Bg4 Rb8 61. Bf3 Kd7 62. Bg4+ 1/2-1/2
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.31"]
+[Round "11"]
+[White "Pavlov, Sergey1"]
+[Black "Grinev, Valeriy"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[WhiteElo "2418"]
+[BlackElo "2266"]
+[PlyCount "53"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. g3 Nc6 5. Bg2 d6 6. d4 cxd4 7. Nxd4 Bd7 8. O-O
+Nf6 9. Nb3 Be7 10. a4 Na5 11. Nxa5 Qxa5 12. Bf4 Qc7 13. Qd2 Bc6 14. Rfd1 Rd8
+15. a5 O-O 16. Be3 Qb8 17. Bb6 Rd7 18. Qe2 Rc8 19. Bd4 Re8 20. h3 Rdd8 21. Bb6
+Rc8 22. Kh2 Nd7 23. Bd4 Bf6 24. Qd2 Rcd8 25. Be3 Nc5 26. f3 b5 27. axb6 1/2-1/2
+
+[Event "Kiev City-ch"]
+[Site "Kiev"]
+[Date "2008.01.31"]
+[Round "11"]
+[White "Stratulat, Sergey"]
+[Black "Dobrzhanskaia, Irina"]
+[Result "1-0"]
+[ECO "B09"]
+[WhiteElo "2252"]
+[BlackElo "2087"]
+[PlyCount "67"]
+[EventDate "2008.01.19"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8. Qe2
+Nc6 9. Be3 Qa5 10. O-O Bg4 11. Kh1 O-O 12. Qf2 Bxf3 13. gxf3 Nd7 14. Rg1 Nc5
+15. f5 Bxc3 16. bxc3 Qxc3 17. Qh4 Nxd3 18. cxd3 Ne5 19. Raf1 Qxd3 20. Qh6 Rac8
+21. Bg5 f6 22. Bf4 Nxf3 23. fxg6 Ng5 24. gxh7+ Kh8 25. Bxg5 Qxe4+ 26. Rg2 Qxh7
+27. Rxf6 Qxh6 28. Rxh6+ Kg7 29. h4 Rf1+ 30. Kh2 Rc4 31. Re6 Kf8 32. Rxe7 Rb4
+33. Rge2 Rf7 34. Bh6+ 1-0
+
+[Event "Krakow City-ch"]
+[Site "Krakow"]
+[Date "2008.01.19"]
+[Round "1"]
+[White "Barski, Radoslaw"]
+[Black "Szromba, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2060"]
+[BlackElo "2225"]
+[PlyCount "70"]
+[EventDate "2008.01.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 Nf6 6. Nd2 d6 7. Nf1 Be6 8. Ne3
+O-O 9. O-O Ne8 10. Ned5 Bg5 11. Qh5 Bxc1 12. Raxc1 Nf6 13. Nxf6+ Qxf6 14. Nd5
+Bxd5 15. Bxd5 Ne7 16. Bb3 b5 17. g3 a5 18. a4 b4 19. f4 g6 20. Qg4 exf4 21.
+Rxf4 Qd4+ 22. Kg2 Nc6 23. Rxf7 Rxf7 24. Bxf7+ Kxf7 25. Qd7+ Kg8 26. Qxc6 Rf8
+27. Qd5+ Qxd5 28. exd5 Rf5 29. Re1 Kf7 30. Rf1 Rxf1 31. Kxf1 Kf6 32. Kf2 Ke5
+33. Kf3 Kxd5 34. c3 Ke5 35. Ke3 d5 1/2-1/2
+
+[Event "Krakow City-ch"]
+[Site "Krakow"]
+[Date "2008.01.19"]
+[Round "1"]
+[White "Sadzikowski, Daniel"]
+[Black "Fistek, Dariusz"]
+[Result "1-0"]
+[ECO "B67"]
+[WhiteElo "2104"]
+[BlackElo "2193"]
+[PlyCount "61"]
+[EventDate "2008.01.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8. f3
+Bd7 9. O-O-O b5 10. Nxc6 Bxc6 11. Bf4 b4 12. Ne2 d5 13. Nd4 Bb7 14. e5 Nd7 15.
+Kb1 Qc7 16. Bg3 Be7 17. f4 g6 18. h4 h5 19. Bd3 Nb6 20. Bf2 Nc4 21. Qe2 Rc8 22.
+g4 a5 23. f5 gxf5 24. gxf5 Kd7 25. Nb5 Qb8 26. Bxc4 Rxc4 27. Qxc4 Ba6 28. fxe6+
+fxe6 29. Rxd5+ exd5 30. Qxd5+ Ke8 31. Qc6+ 1-0
+
+[Event "Krakow City-ch"]
+[Site "Krakow"]
+[Date "2008.01.19"]
+[Round "1"]
+[White "Zielinski, Przemyslaw"]
+[Black "Wcislo, Damian"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2321"]
+[BlackElo "2127"]
+[PlyCount "140"]
+[EventDate "2008.01.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 e6 5. Nge2 a6 6. Nxd4 cxd4 7. Ne2 b5 8.
+Bd3 Bc5 9. c3 dxc3 10. dxc3 Nf6 11. O-O Bb7 12. Ng3 h5 13. Bg5 Qc7 14. Bxf6
+gxf6 15. Qf3 Qe5 16. Rfe1 Ke7 17. Bc2 Rag8 18. b4 Bb6 19. Rad1 Rg4 20. Ne2 Bxe4
+21. Bxe4 Qxe4 22. Qxe4 Rxe4 23. Kf1 h4 24. h3 Rh5 25. Ng1 Rc4 26. Rd3 Rh8 27.
+a4 Rhc8 28. Ne2 bxa4 29. Ra1 a5 30. Rxa4 d5 31. Rd2 axb4 32. Rxb4 Rxb4 33. cxb4
+Rc4 34. Rb2 e5 35. g3 hxg3 36. Nxg3 Ke6 37. f3 f5 38. Ke2 Rc3 39. Nf1 e4 40.
+Nd2 d4 41. Rb3 d3+ 42. Kd1 Rxb3 43. Nxb3 e3 44. Nc5+ Bxc5 45. bxc5 Kd5 46. h4
+Kxc5 47. h5 Kc4 48. h6 Kc3 49. h7 e2+ 50. Ke1 Kc2 51. h8=Q d2+ 52. Kxe2 d1=Q+
+53. Kf2 Qd2+ 54. Kg3 Qd6+ 55. Kf2 Kd3 56. Qe8 Qb6+ 57. Kf1 Qe6 58. Qb5+ Ke3 59.
+Qe2+ Kf4 60. Qf2 Qe3 61. Qh2+ Kxf3 62. Qh5+ Kg3 63. Qg6+ Kf4 64. Qxf7 Qf3+ 65.
+Kg1 Kg3 66. Qg7+ Qg4 67. Qc3+ Kf4+ 68. Kf2 Qh4+ 69. Kg2 Qe7 70. Qg3+ Ke4 1-0
+
+[Event "Krakow City-ch"]
+[Site "Krakow"]
+[Date "2008.01.26"]
+[Round "2"]
+[White "Barski, Radoslaw"]
+[Black "Sadzikowski, Daniel"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2060"]
+[BlackElo "2104"]
+[PlyCount "77"]
+[EventDate "2008.01.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Nxc6 dxc6 8.
+O-O e5 9. f4 Bd6 10. f5 Nf6 11. Bg5 Be7 12. a4 Qb6+ 13. Kh1 Qxb2 14. Qe1 Qb6
+15. a5 Qc7 16. Na4 O-O 17. Nb6 Rb8 18. Nc4 Re8 19. Be3 c5 20. Qg3 Nd7 21. Rf3
+Bf6 22. Qh3 b5 23. axb6 Nxb6 24. Qh5 Nxc4 25. Bxc4 Rb4 26. Bd5 Bb7 27. Bg5 Qe7
+28. Rh3 h6 29. Bxh6 Kf8 30. Bg5 Qd7 31. Qh8+ Ke7 32. Qxg7 Bxg5 33. Qxg5+ Kd6
+34. Bxb7 Qxb7 35. Qf6+ Kd7 36. Qxf7+ Re7 37. Rd1+ Rd4 38. Rxd4+ exd4 39. Qxe7+
+1-0
+
+[Event "Krakow City-ch"]
+[Site "Krakow"]
+[Date "2008.01.26"]
+[Round "2"]
+[White "Mikrut, Dariusz"]
+[Black "Zielinski, Przemyslaw"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2413"]
+[BlackElo "2321"]
+[PlyCount "71"]
+[EventDate "2008.01.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 a6 3. a4 Nc6 4. Bc4 g6 5. f4 Bg7 6. Nf3 e6 7. f5 Nge7 8. fxe6
+fxe6 9. O-O O-O 10. d3 d5 11. Bb3 h6 12. Qe1 Nd4 13. Nxd4 Rxf1+ 14. Qxf1 cxd4
+15. Nd1 b6 16. Nf2 e5 17. Bd2 Be6 18. Re1 Qd7 19. Qe2 Rc8 20. Bb4 Nc6 21. Ba3
+Na5 22. exd5 Bxd5 23. Qg4 Rc7 24. Bxd5+ Qxd5 25. Qxg6 Rxc2 26. Qxb6 Rc6 27.
+Qb8+ Kh7 28. Ne4 Nb3 29. Qb7 Qe6 30. Bf8 Qg6 31. Bxg7 Na5 32. Qb4 Rc2 33. Ng3
+Qc6 34. Ne4 Qg6 35. g3 Qf5 36. Bf8 1-0
+
+[Event "Krakow City-ch"]
+[Site "Krakow"]
+[Date "2008.02.02"]
+[Round "3"]
+[White "Sadzikowski, Daniel"]
+[Black "Szromba, Krzysztof"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2104"]
+[BlackElo "2225"]
+[PlyCount "61"]
+[EventDate "2008.01.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nce7 9. c4 Nxd5 10. exd5 Nf6 11. cxb5 Bb7 12. bxa6 Bxa6 13. Qa4+ Ke7 14. Bxa6
+Qb6 15. Nc4 Qxa6 16. Qxa6 Rxa6 17. Bg5 Kd7 18. Bxf6 gxf6 19. b4 Rg8 20. h3 Kc7
+21. a4 e4 22. b5 Ra8 23. a5 Rg5 24. Ke2 e3 25. Rhc1 Re8 26. Nxe3+ Kb8 27. a6
+Rxd5 28. a7+ Ka8 29. Rc8+ Rxc8 30. Nxd5 Kb7 31. Nc7 1-0
+
+[Event "Krakow City-ch"]
+[Site "Krakow"]
+[Date "2008.02.09"]
+[Round "4"]
+[White "Barski, Radoslaw"]
+[Black "Zielinski, Przemyslaw"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2060"]
+[BlackElo "2321"]
+[PlyCount "157"]
+[EventDate "2008.01.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. Nd2 Nf6 7. Nf1 Bg4 8. f3
+Be6 9. Ne3 O-O 10. O-O Rb8 11. a4 Nb4 12. Ncd5 Nbxd5 13. exd5 Bd7 14. f4 exf4
+15. Rxf4 g6 16. Rf1 Nh5 17. g4 Ng7 18. d4 Qc8 19. Bb5 f5 20. Bxd7 Qxd7 21. dxc5
+dxc5 22. gxf5 Nxf5 23. Nxf5 Rxf5 24. Rxf5 Qxf5 25. Ra3 Rf8 26. Qe2 Bg5 27. Bxg5
+Qxg5+ 28. Rg3 Qxd5 29. Qd3 Qf7 30. Rg2 Qf4 31. h3 Qc1+ 32. Kh2 Qf4+ 33. Kg1 b6
+34. b3 Kg7 35. Qe2 Qc1+ 36. Kh2 Qf4+ 37. Kg1 Qd4+ 38. Kh2 Rf7 39. Kh1 Rc7 40.
+Rg4 Qc3 41. Kh2 Rd7 42. Rg2 Qd4 43. Rf2 Qd5 44. Qe3 Qd6+ 45. Kg2 Qd5+ 46. Kh2
+Qd6+ 47. Kg2 Qd5+ 48. Kh2 Qd6+ 49. Kg2 Rf7 50. Rxf7+ Kxf7 51. Qf3+ Ke6 52. Qe4+
+Qe5 53. Qc6+ Kf7 54. Qd7+ Qe7 55. Qd5+ Kg7 56. Qc4 Qe5 57. Qd3 Kf6 58. Qd8+ Qe7
+59. Qd3 Ke6 60. Qe4+ Kd6 61. Qf4+ Kd5 62. Qc4+ Kc6 63. Qg4 Qd7 64. Qe2 h5 65.
+Kh2 Qd6+ 66. Kg2 Qd5+ 67. Kg3 Kd6 68. Kh4 Qf5 69. Qd2+ Ke6 70. Qe1+ Qe5 71. Qd2
+Kf5 72. Qg5+ Ke6 73. Qxg6+ Kd7 74. Qxh5 Qe1+ 75. Kg5 Qe5+ 76. Kh6 Qh8+ 77. Kg5
+Qe5+ 78. Kg6 Qe8+ 79. Kh6 1/2-1/2
+
+[Event "Krakow City-ch"]
+[Site "Krakow"]
+[Date "2008.02.09"]
+[Round "4"]
+[White "Sadzikowski, Daniel"]
+[Black "Szczechowicz, Bartosz"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "2104"]
+[BlackElo "2257"]
+[PlyCount "68"]
+[EventDate "2008.01.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6 8.
+O-O Bd6 9. f4 Bf5 10. Nxf5 exf5 11. Ng3 g6 12. Re1+ Kf8 13. b3 Nbd7 14. Qf3 h5
+15. Bb2 h4 16. Nf1 Ne4 17. Rad1 Ndf6 18. d5 b5 19. dxc6 bxc4 20. c7 Bc5+ 21.
+Ne3 Qe7 22. b4 Bb6 23. Kf1 Re8 24. Bxf6 Qxf6 25. Nd5 Qe6 26. Rxe4 fxe4 27. Qc3
+Rh5 28. Nxb6 Qxb6 29. Qxc4 e3 30. Ke2 Qb7 31. c8=Q Qxc8 32. Qd3 Qg4+ 33. Ke1
+Qxf4 34. Qd6+ Qxd6 0-1
+
+[Event "Krakow City-ch"]
+[Site "Krakow"]
+[Date "2008.02.09"]
+[Round "5"]
+[White "Kuziola, Mateusz"]
+[Black "Fistek, Dariusz"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "2313"]
+[BlackElo "2193"]
+[PlyCount "89"]
+[EventDate "2008.01.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. g3 d6 3. Bg2 Nc6 4. d3 g6 5. f4 Bg7 6. Nf3 e5 7. c3 Nge7 8. O-O O-O
+9. Na3 Rb8 10. Be3 b6 11. d4 cxd4 12. cxd4 exf4 13. Bxf4 Bg4 14. Nc2 Rc8 15. h3
+Bxf3 16. Bxf3 f5 17. d5 Ne5 18. Nd4 Nxf3+ 19. Rxf3 fxe4 20. Ne6 Qd7 21. Nxf8
+Rxf8 22. Re3 Qf5 23. Re2 Nxd5 24. Bxd6 Rd8 25. Bf4 g5 26. Bc7 Rd7 27. Bb8 Qf8
+28. Qa4 Qxb8 29. Qxd7 Qxg3+ 30. Rg2 Qe3+ 31. Kh1 Nf4 32. Qe8+ Bf8 33. Rxg5+ Ng6
+34. Qe6+ Kg7 35. Qe5+ Kg8 36. Qg3 Qd4 37. Qb3+ Kg7 38. Qc3 Qxc3 39. bxc3 Kf6
+40. Rg4 e3 41. Rf1+ Kg7 42. h4 e2 43. Re1 h5 44. Ra4 a5 45. Rxe2 1-0
+
+[Event "Krakow City-ch"]
+[Site "Krakow"]
+[Date "2008.02.23"]
+[Round "6"]
+[White "Barski, Radoslaw"]
+[Black "Kuziola, Mateusz"]
+[Result "1-0"]
+[ECO "B16"]
+[WhiteElo "2060"]
+[BlackElo "2313"]
+[PlyCount "39"]
+[EventDate "2008.01.19"]
+[EventType "tourn"]
+[EventRounds "9"]

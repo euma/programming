@@ -1,0 +1,600 @@
+[SourceDate "2008.11.05"]
+
+1. Nf3 e6 2. c4 f5 3. g3 Nf6 4. b3 b6 5. Bg2 Bb7 6. O-O Be7 7. Bb2 O-O 8. d4
+Ne4 9. Qc2 Qc8 10. Rd1 d6 11. Nc3 Nxc3 12. Qxc3 Nd7 13. Qe3 Rf6 14. Rac1 Rh6
+15. b4 Nf6 16. d5 e5 17. c5 Ng4 18. Qb3 Qe8 19. h3 Nf6 20. Bxe5 Ne4 21. Ba1 Kh8
+22. cxb6 cxb6 23. Rc7 Bc8 24. Qe3 Bf6 25. Bxf6 Rxf6 26. Ng5 Ba6 27. Nxe4 fxe4
+28. Rd4 1-0
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Duzhakov, Ilya"]
+[Black "Lanin, Alexsej"]
+[Result "1-0"]
+[ECO "A32"]
+[WhiteElo "2276"]
+[BlackElo "2465"]
+[PlyCount "89"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Qc7 6. Nd2 a6 7. Bg2 Nc6 8. Nc2
+b6 9. O-O Bb7 10. b3 Be7 11. Bb2 O-O 12. e4 d6 13. Qe2 Nd7 14. Rac1 Bf6 15.
+Bxf6 Nxf6 16. Rfd1 Rfd8 17. Nf3 Nd7 18. Rd2 Nce5 19. Nxe5 Nxe5 20. Rcd1 Rd7 21.
+f4 Nc6 22. e5 Rad8 23. Qd3 h6 24. exd6 Rxd6 25. Qxd6 Rxd6 26. Rxd6 Ne7 27. Bxb7
+Qxb7 28. Ne3 Qf3 29. R6d3 Qe2 30. R1d2 Qe1+ 31. Kg2 g5 32. fxg5 hxg5 33. h3 Nc6
+34. Ng4 f5 35. Nf2 Ne5 36. Rd1 Qa5 37. Re3 f4 38. b4 Qxb4 39. Rxe5 Qxc4 40.
+Rxg5+ Kf7 41. gxf4 Qxf4 42. Rg3 Qc4 43. a3 b5 44. Rd7+ Kf6 45. Ng4+ 1-0
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Efremova, Daria"]
+[Black "Zakharov, Yury"]
+[Result "0-1"]
+[ECO "A47"]
+[WhiteElo "1933"]
+[BlackElo "2056"]
+[PlyCount "110"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 b6 3. Bf4 Bb7 4. e3 e6 5. Bd3 Be7 6. h3 O-O 7. Nbd2 Nd5 8. Bh2
+f5 9. c3 Nf6 10. g4 Ne4 11. gxf5 exf5 12. Rg1 c5 13. Qe2 d6 14. O-O-O Nd7 15.
+Bf4 Kh8 16. Bc2 a5 17. Nxe4 fxe4 18. Ng5 Bxg5 19. Bxg5 Qe8 20. Bf4 d5 21. Qg4
+Qf7 22. Rg2 a4 23. Rdg1 Rg8 24. Bd1 cxd4 25. exd4 a3 26. b3 Rac8 27. Kd2 Rc6
+28. Qh4 Re6 29. Be3 Nf6 30. Be2 Bc6 31. Rg5 Bd7 32. Qg3 Re7 33. Qd6 Bxh3 34.
+Rh1 Qe6 35. Qf4 Rf7 36. Re5 Qd7 37. Qh4 Bf5 38. Bh5 g6 39. Be2 Ng4 40. Rxf5
+gxf5 41. Bf4 Rg6 42. f3 exf3 43. Bxf3 Kg8 44. Rg1 Qe6 45. Re1 Qd7 46. Qh1 Nf6
+47. Kc2 Ne4 48. Bh5 Qc6 49. Re3 Rfg7 50. Bxg6 Qxg6 51. Qe1 Qg2+ 52. Qe2 Rg4 53.
+Qxg2 Rxg2+ 54. Kb1 b5 55. Rh3 Rb2+ 0-1
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Gubajdullin, Alexey"]
+[Black "Trushelyov, Victor"]
+[Result "0-1"]
+[ECO "A14"]
+[WhiteElo "2462"]
+[BlackElo "2340"]
+[PlyCount "119"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. b3 d5 6. Bb2 Be7 7. O-O O-O 8. e3
+Nbd7 9. Nc3 dxc4 10. bxc4 Ne4 11. Qc2 Nxc3 12. Bxc3 Nc5 13. d4 Be4 14. Qd1 Nb7
+15. Ne5 Bxg2 16. Kxg2 Bf6 17. Nc6 Qd7 18. Qf3 Rfc8 19. Rac1 Nd8 20. d5 Bxc3 21.
+Rxc3 Nxc6 22. dxc6 Qe7 23. Rd1 Rd8 24. Rd7 Rxd7 25. cxd7 Rd8 26. Rd3 Qc5 27.
+Qe4 a5 28. Kg1 h6 29. Qh4 f6 30. Qe4 Kf7 31. h4 f5 32. Qf3 Ke7 33. Qd1 Qxc4 34.
+Rd2 Qc6 35. Qa1 Kf7 36. Qd1 b5 37. Kh2 b4 38. Rd4 Ke7 39. Qa1 Qc2 40. Kg1 c5
+41. Rf4 Qc3 42. Qf1 Rxd7 43. g4 Qd3 44. Qg2 g5 45. Rf3 Qe4 46. hxg5 hxg5 47.
+Kh2 Qxg4 48. Rg3 Qe4 49. Qf1 g4 50. Qa1 e5 51. Qc1 Kf6 52. Rg2 c4 53. f4 c3 54.
+Qe1 Rh7+ 55. Kg1 exf4 56. Qd1 Qxe3+ 57. Rf2 Qb6 58. Kg2 Rh2+ 59. Kxh2 Qxf2+ 60.
+Kh1 0-1
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Kurilov, Viktor"]
+[Black "Ionov, Sergey"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2312"]
+[BlackElo "2543"]
+[PlyCount "140"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Qb3 O-O 8. Bg5
+Nc6 9. Nbd2 Na5 10. Qc2 h6 11. Bxf6 Bxf6 12. Ne5 Bxg2 13. Kxg2 Qc7 14. Qe4 d5
+15. Qe3 cxd4 16. cxd4 Bxe5 17. dxe5 Qc2 18. b4 d4 19. Qxd4 Rad8 20. Qf4 Rxd2
+21. bxa5 Rxe2 22. axb6 axb6 23. Rfc1 Qd3 24. Rd1 Qc3 25. Rab1 Rxa2 26. Rxb6 Ra5
+27. Qd4 Qxd4 28. Rxd4 Rxe5 29. Rdb4 g5 30. h4 Kg7 31. hxg5 hxg5 32. Rb8 Rxb8
+33. Rxb8 g4 34. Rb4 f5 35. Rb2 Kf6 36. Ra2 Rd5 37. Re2 Rd3 38. Ra2 Ke5 39. Re2+
+Kd5 40. Ra2 e5 41. Rb2 Rd1 42. Ra2 Rd4 43. Rb2 Rc4 44. Ra2 Rc3 45. Rd2+ Ke4 46.
+Re2+ Kd4 47. Rd2+ Rd3 48. Ra2 Ke4 49. Re2+ Kd5 50. Ra2 Rc3 51. Rd2+ Ke6 52. Ra2
+Rd3 53. Rb2 f4 54. gxf4 exf4 55. Re2+ Kf5 56. Re8 Rd6 57. Rf8+ Kg5 58. Rg8+ Rg6
+59. Rf8 Rh6 60. Rg8+ Rg6 61. Rf8 Rg7 62. Rh8 Rf7 63. Rg8+ Kf5 64. Re8 Rf6 65.
+Rg8 Rg6 66. Re8 Re6 67. Rf8+ Ke5 68. Rg8 Kf5 69. Rf8+ Rf6 70. Re8 Rh6 1/2-1/2
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Loginov, Valery A"]
+[Black "Zhigalko, Sergei"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2481"]
+[BlackElo "2592"]
+[PlyCount "86"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. c4 e6 5. cxd5 exd5 6. Nc3 c6 7. d3 Ngf6 8.
+O-O Bd6 9. Qc2 O-O 10. e4 Re8 11. h3 Bxf3 12. Bxf3 dxe4 13. dxe4 Qe7 14. Bg2
+Bb4 15. Bd2 Nb6 16. a3 Bxc3 17. Bxc3 Nxe4 18. Rae1 f5 19. Kh2 Qf7 20. Bxe4 fxe4
+21. Rxe4 Rxe4 22. Qxe4 Re8 23. Qd3 Nd5 24. Bd4 a6 25. f4 Qg6 26. Qxg6 hxg6 27.
+Be5 g5 28. Rf3 Kh7 29. Kg2 gxf4 30. gxf4 g5 31. Kg3 gxf4+ 32. Bxf4 Re2 33. b4
+Kg6 34. Bd6 Nf6 35. Rd3 Kf5 36. Kf3 Ra2 37. Ke3 Ne4 38. Bb8 Ng5 39. h4 Ne6 40.
+Kf3 Ra1 41. Bg3 Ra2 42. Bb8 Ra1 43. Bg3 Ra2 1/2-1/2
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Lovkov, Roman"]
+[Black "Yankovsky, Roman"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2434"]
+[BlackElo "2255"]
+[PlyCount "117"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc7 7. O-O e5 8. d3
+Be7 9. Be3 O-O 10. Rc1 b6 11. a3 f6 12. Nd2 Bb7 13. b4 cxb4 14. axb4 Rb8 15. b5
+Nd4 16. Bxb7 Rxb7 17. Rb1 Qd7 18. Qa4 Nce6 19. Qa2 Kh8 20. Nc4 h5 21. Qa4 h4
+22. Qd1 Nc7 23. Qa4 Kh7 24. Kg2 Rh8 25. f3 Kg6 26. g4 h3+ 27. Kf2 Nce6 28. g5
+Nxg5 29. Bxg5 Kxg5 30. e3 Kg6 31. exd4 Qxd4+ 32. Ne3 Qxc3 33. Qe4+ Kf7 34. Qxb7
+Qd2+ 35. Kg3 Qxe3 36. Qd5+ Ke8 37. Qa8+ Bd8 38. Qc6+ Ke7 39. Qc4 Qg5+ 40. Qg4
+Qxg4+ 41. Kxg4 Bc7 42. Rbc1 Bb8 43. Rc6 g6 44. Rfc1 Rh5 45. f4 exf4 46. Re1+
+Kf7 47. Rc8 Be5 48. Ra8 Rg5+ 49. Kf3 Kg7 50. d4 Bd6 51. Rxa7+ Kh6 52. Re6 Bb4
+53. Rxb6 Rg2 54. Rxf6 Rxh2 55. Rxf4 Be1 56. Ra1 Rf2+ 57. Kg3 Rf1+ 58. Kg4 Rh1
+59. Re4 1-0
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Massironi, Marco"]
+[Black "Barhudarian, Rafael"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2169"]
+[BlackElo "2327"]
+[PlyCount "95"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. c4 d6 5. Nc3 Qa5 6. Be3 Nf6 7. Qd2 Nc6 8. h3
+cxd4 9. Nxd4 Nxd4 10. Qxd4 O-O 11. Qd2 Be6 12. Bd3 Rfc8 13. Nd5 Qxd2+ 14. Kxd2
+Kf8 15. Rac1 Bd7 16. b4 e6 17. Nxf6 Bxf6 18. c5 dxc5 19. Bxc5+ Kg7 20. Ke2 Ba4
+21. Be3 Be7 22. Rxc8 Rxc8 23. Bxa7 e5 24. a3 Rc3 25. Ra1 b5 26. Be3 Kf6 27. Bd2
+Rc7 28. Rc1 Rxc1 29. Bxc1 Ke6 30. Be3 Kd7 31. Kd2 Kc6 32. Bc2 f5 33. f3 Bh4 34.
+Bxa4 bxa4 35. Kd3 Kb5 36. exf5 gxf5 37. g4 fxg4 38. fxg4 Bg3 39. Bc5 Bf4 40. h4
+Bc1 41. Kc2 Bxa3 42. g5 e4 43. h5 e3 44. g6 e2 45. Bf2 hxg6 46. hxg6 Bxb4 47.
+g7 Bc5 48. Bg3 1-0
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Merzliakov, Evgeniy"]
+[Black "Domogaev, Sergey"]
+[Result "0-1"]
+[ECO "A49"]
+[WhiteElo "2210"]
+[BlackElo "2354"]
+[PlyCount "76"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 c5 7. Bb2 cxd4 8. Nxd4
+d5 9. e3 Bg4 10. Nf3 Qc8 11. Re1 Nc6 12. Qe2 e5 13. h3 Bxh3 14. Nxe5 Bxg2 15.
+Kxg2 Ne4 16. Nxc6 Qxc6 17. Bxg7 Kxg7 18. Qd3 Kg8 19. f3 Nc5 20. Qc3 Rac8 21.
+Nd2 Qa6 22. Qb2 Rfe8 23. Kf2 h5 24. Rh1 Rxe3 25. Kxe3 Re8+ 26. Ne4 dxe4 27. f4
+Qb6 28. Ke2 Na4 29. Qc1 Nc3+ 30. Kf1 e3 31. Qe1 Qd4 32. Rh2 e2+ 33. Kg2 b5 34.
+a3 Qe4+ 35. Kg1 Qxc2 36. b4 Qb2 37. Kf2 Nd1+ 38. Kf3 Re3+ 0-1
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Obrezchikov, Mikhail"]
+[Black "Guzenko, Artem"]
+[Result "1-0"]
+[ECO "A61"]
+[WhiteElo "1986"]
+[BlackElo "2121"]
+[PlyCount "53"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. c4 c5 3. d5 exd5 4. cxd5 d6 5. Nf3 Nf6 6. Nc3 g6 7. Bg5 Bg7 8. h3
+O-O 9. e3 h6 10. Bh4 Re8 11. Bd3 a6 12. a4 Nbd7 13. O-O g5 14. Bg3 Nf8 15. Qc2
+Kh8 16. Nd2 Nh5 17. Bh2 Be5 18. Bxe5+ Rxe5 19. Nc4 Re7 20. Ne4 Rd7 21. Qc3+ Ng7
+22. Nf6 Rc7 23. Nxd6 Bxh3 24. Nfe8 f6 25. Nxc7 Qxc7 26. Qxf6 Bd7 27. Nf7+ 1-0
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Pankov, German"]
+[Black "Melnikov, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2375"]
+[BlackElo "2280"]
+[PlyCount "115"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 e5 4. Nf3 f6 5. Ng3 Be6 6. Bb5+ Nd7 7. Qe2 Qe7 8.
+Bc4 O-O-O 9. Bxe6 Qxe6 10. d3 g6 11. c3 c5 12. Qc2 Kb8 13. Bd2 Bd6 14. c4 h5
+15. h4 Nh6 16. Nh2 Rde8 17. O-O-O f5 18. Bxh6 Rxh6 19. Qe2 b5 20. Kb1 bxc4 21.
+dxc4 Nb6 22. Rc1 f4 23. Ngf1 Rh7 24. Nd2 Rb7 25. g4 fxg3 26. fxg3 Qh3 27. Rhg1
+Rf8 28. Rcf1 Rxf1+ 29. Qxf1 Qe6 30. Qd3 Na4 31. Nb3 Rf7 32. Rf1 Nb6 33. Nd2 Bf8
+34. Rxf7 Qxf7 35. Qf3 Qxf3 36. Nhxf3 Bh6 37. b3 Kc7 38. Kc2 Bxd2 39. Kxd2 Kd6
+40. Ng5 Ke7 41. Nf3 Kf6 42. Ne1 Nd7 43. Nd3 g5 44. hxg5+ Kxg5 45. b4 cxb4 46.
+c5 Kg4 47. c6 Nb6 48. Nxe5+ Kxg3 49. Ng6 h4 50. Nxh4 Kxh4 51. Kd3 Kg5 52. Kxd4
+Kf6 53. Kc5 Ke5 54. Kxb4 Kxe4 55. Kb5 Kd5 56. Ka6 Nc8 57. Kb7 a5 58. Ka6
+1/2-1/2
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Platonova, Lubov"]
+[Black "Sundukova, Ksenia"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "1919"]
+[PlyCount "79"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Nc6 4. g3 b6 5. Bg2 Bb7 6. Nge2 Bc5 7. h3 O-O 8. O-O
+d6 9. d3 h6 10. Kh2 Nd4 11. f4 Qe7 12. f5 a6 13. g4 Nh7 14. Ng3 f6 15. Bd2 b5
+16. Nd5 Bxd5 17. cxd5 b4 18. h4 a5 19. Ne2 Nxe2 20. Qxe2 a4 21. Rac1 a3 22. b3
+Qd7 23. Rc4 Rab8 24. Rfc1 Rb5 25. Be3 Bxe3 26. Qxe3 Rb7 27. Qd2 Rfb8 28. Qc2
+Rc8 29. Rc6 Qf7 30. Qc4 Qd7 31. Qa6 Rcb8 32. Qa5 Rb6 33. Rxc7 Qb5 34. Qa7 R6b7
+35. Rc8+ Nf8 36. Rxb8 Rxb8 37. Rc7 g5 38. Rg7+ Kh8 39. Qf7 Qxd5 40. Rg8# 1-0
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Prelovskij, Rudolf"]
+[Black "Molchanova, Tatjana"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2137"]
+[BlackElo "2337"]
+[PlyCount "111"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. Nf3 Nc6 5. a3 e5 6. d3 d6 7. h3 g6 8. g3 Be6 9.
+Bg2 Qd7 10. Nd5 Bg7 11. Bh6 O-O 12. Nxf6+ Bxf6 13. Bxf8 Rxf8 14. Qd2 Kg7 15. b4
+Bd8 16. Rb1 h6 17. g4 f5 18. exf5 gxf5 19. gxf5 Bxf5 20. Rb3 Bg6 21. Rg1 Kh7
+22. Kf1 cxb4 23. axb4 Qe6 24. b5 e4 25. bxc6 exf3 26. Rxb7+ Be7 27. Bh1 Qxh3+
+28. Ke1 Rf7 29. Qe3 Qh5 30. Bxf3 Qa5+ 31. Kf1 Qa1+ 32. Kg2 Qf6 33. Kf1 Qa1+ 34.
+Ke2 Qa2+ 35. Ke1 Qa1+ 36. Bd1 Qc3+ 37. Qd2 Qe5+ 38. Kf1 Bf5 39. Rh1 Qe6 40. Qe2
+Qf6 41. Qe3 Rg7 42. Bc2 Qa1+ 43. Rb1 Qf6 44. Ke1 Bd8 45. Kd2 Bb6 46. Qf4 Rg4
+47. Qh2 Qg5+ 48. Kc3 Qf6+ 49. Kb3 d5 50. f3 Rd4 51. Rbe1 Bd8 52. Qe5 dxc4+ 53.
+Kc3 Rf4 54. c7 Qxe5+ 55. Rxe5 Bf6 56. d4 1-0
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Shimanov, Alexandr"]
+[Black "Shchukin, Dmitry"]
+[Result "1-0"]
+[ECO "A54"]
+[WhiteElo "2476"]
+[BlackElo "2357"]
+[PlyCount "105"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 Nbd7 5. Bg5 Be7 6. Qc2 c6 7. e3 h6 8. Bh4
+Nh5 9. Bg3 Nxg3 10. hxg3 Qa5 11. a3 Nf6 12. Be2 Bg4 13. Rd1 Rd8 14. Nh4 Bxe2
+15. Kxe2 Qa6 16. Qd3 e4 17. Nxe4 Nxe4 18. Qxe4 Qxc4+ 19. Kd2 Qe6 20. Qd3 g6 21.
+e4 a6 22. f4 Bxh4 23. Rxh4 Kd7 24. Kc2 d5 25. e5 f5 26. exf6 Qxf6 27. Re1 g5
+28. Rh5 Rde8 29. Re5 gxf4 30. Rhf5 Qg7 31. gxf4 Qxg2+ 32. Kb3 Qg7 33. Qh3 Kc7
+34. Qe3 Rxe5 35. dxe5 d4 36. Qxd4 Rd8 37. Qc4 Rd5 38. Ka2 b5 39. Qb4 Qg8 40.
+Rf8 Qe6 41. Rf6 Qg8 42. Qa5+ Kb7 43. e6 Rf5 44. Qc3 a5 45. Rxh6 Rxf4 46. Qe5
+Rg4 47. Rh8 Re4 48. Qxe4 Qxh8 49. Qg6 b4 50. Qf7+ Kb6 51. e7 bxa3 52. Kxa3 Qd4
+53. Qb3+ 1-0
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Utkin, Aleksey"]
+[Black "Alavkin, Arseny"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2359"]
+[BlackElo "2476"]
+[PlyCount "102"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Nf6 4. O-O Bf5 5. d3 Nbd7 6. Nbd2 e5 7. Qe1 h6 8. e4
+dxe4 9. dxe4 Be6 10. b3 Bc5 11. Bb2 Qc7 12. Qe2 O-O 13. Nc4 Ng4 14. h3 b5 15.
+hxg4 bxc4 16. g5 h5 17. g6 fxg6 18. Ng5 Bg4 19. Qxc4+ Kh8 20. Nf7+ Kh7 21. Ng5+
+Kh8 22. Kh2 Rxf2 23. Rxf2 Bxf2 24. Qf7 Be3 25. Qxg6 Nf8 26. Qf7 Qd7 27. Qxd7
+Nxd7 28. Nf7+ Kh7 29. Nxe5 Nxe5 30. Bxe5 Rd8 31. Bc3 Bd1 32. e5 Bxc2 33. Re1
+Bd2 34. Bxd2 Rxd2 35. Kg1 Kg6 36. e6 Rd1 37. Rxd1 Bxd1 38. Bxc6 Kf6 39. Kf2
+Kxe6 40. Ke3 Ke5 41. b4 g5 42. a4 Kd6 43. Bb5 h4 44. gxh4 gxh4 45. a5 h3 46.
+Kf2 Bg4 47. Kg3 Bf5 48. Be2 Bd7 49. b5 Kc5 50. b6 axb6 51. axb6 Kxb6 1/2-1/2
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Vrublevskaya, Olga"]
+[Black "Serov, Maksim"]
+[Result "0-1"]
+[ECO "A59"]
+[WhiteElo "2106"]
+[BlackElo "2378"]
+[PlyCount "118"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. g4 h5 10. g5 Nfd7 11. Kg2 Bg7 12. f4 Na6 13. Nf3 Qa5 14. Bd2 Nb4 15.
+Qe2 Qa6 16. Qxa6 Rxa6 17. Nb5 O-O 18. Bc3 Nd3 19. Bxg7 Kxg7 20. b3 Nxf4+ 21.
+Kg3 e5 22. Rhe1 Rb8 23. a4 Ne2+ 24. Rxe2 Rxb5 25. Nd2 Rb4 26. Rc1 f5 27. gxf6+
+Nxf6 28. Rc3 Rd4 29. Rce3 Ra7 30. Nc4 Ra6 31. Nd2 Ra7 32. Nc4 Rd7 33. Nd2 Kf8
+34. Nf3 Rb4 35. Nd2 g5 36. Nc4 h4+ 37. Kh3 Rb8 38. Rg2 g4+ 39. Kxh4 Rh7+ 40.
+Kg3 Rh3+ 41. Kf2 Rxe3 42. Nxe3 Rxb3 43. Nxg4 Rb2+ 44. Kf3 Rxg2 45. Nxf6 Rxh2
+46. Nd7+ Ke7 47. Nb8 Ra2 48. a5 Kd8 49. Ke3 Kc7 50. Nc6 Ra3+ 51. Kd2 Kb7 52.
+Nd8+ Kc7 53. Nc6 Rh3 54. Ke2 Rg3 55. Kd2 Kb7 56. Nd8+ Ka6 57. Nc6 Kb5 58. Ke2
+Rg8 59. Kd3 Ra8 0-1
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.10"]
+[Round "8"]
+[White "Vunder, Andrei"]
+[Black "Eliseev, Alexey"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "2261"]
+[BlackElo "2395"]
+[PlyCount "94"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c5 2. c3 e6 3. Nf3 Nf6 4. Bg5 cxd4 5. cxd4 Qb6 6. Qc2 Nc6 7. Bxf6 gxf6 8.
+e3 d5 9. Nc3 Bd7 10. Be2 f5 11. O-O Bd6 12. Rfc1 O-O 13. Na4 Qc7 14. Nc5 Rfc8
+15. Qd2 Be8 16. b4 Qe7 17. a3 Rc7 18. Rc2 a5 19. Rac1 axb4 20. axb4 Nd8 21. b5
+b6 22. Na6 Rxc2 23. Rxc2 Nb7 24. Qc1 Na5 25. Rc8 Rxc8 26. Qxc8 Qd7 27. Qxd7
+Bxd7 28. Nd2 f4 29. g3 fxe3 30. fxe3 Kf8 31. Kf2 Ke7 32. e4 dxe4 33. Nxe4 Ba3
+34. Nc7 Nb3 35. Ke3 Bb2 36. d5 Bd4+ 37. Kd3 Be5 38. d6+ Bxd6 39. Nxd6 Kxd6 40.
+Kc3 Nc1 41. Bc4 Kxc7 42. Kb2 Kd6 43. Kxc1 Kc5 44. Bd3 h6 45. Kd2 Bxb5 46. Bh7
+Kd4 47. g4 f6 0-1
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.11"]
+[Round "9"]
+[White "Aleksandrov, Aleksej"]
+[Black "Loginov, Valery A"]
+[Result "1/2-1/2"]
+[ECO "A55"]
+[WhiteElo "2617"]
+[BlackElo "2481"]
+[PlyCount "65"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d6 2. c4 Nd7 3. e4 e5 4. Nf3 Ngf6 5. Nc3 c6 6. Be2 Be7 7. O-O O-O 8. Rb1
+a6 9. b4 Re8 10. Qc2 Qc7 11. h3 h6 12. Be3 b5 13. Rfc1 Bb7 14. a4 exd4 15. Nxd4
+bxa4 16. Nf5 Bf8 17. f3 d5 18. exd5 cxd5 19. Bf2 dxc4 20. Nxa4 Rac8 21. Bxc4
+Ne5 22. Nc5 Nxc4 23. Qxc4 Qe5 24. Qd3 Rcd8 25. Bd4 Qd5 26. Nxb7 Qxb7 27. b5
+axb5 28. Rxb5 Qd7 29. Qb1 Nd5 30. Bf2 Nf4 31. Ng3 Ne2+ 32. Nxe2 Rxe2 33. Rb2
+1/2-1/2
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.11"]
+[Round "9"]
+[White "De Luna Butz, Alberto"]
+[Black "Efremova, Daria"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "1830"]
+[BlackElo "1933"]
+[PlyCount "95"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. e3 c6 5. f3 Nd6 6. Nd2 f6 7. c4 Nf7 8. Qb3 e5
+9. dxe5 fxe5 10. Bg3 Be7 11. Ne2 O-O 12. Nc3 Bg5 13. Bf2 dxc4 14. Bxc4 b5 15.
+Be2 Nd7 16. Nde4 Be7 17. Rc1 a6 18. O-O Nf6 19. Rfd1 Qc7 20. Nxf6+ gxf6 21. Nd5
+Qb7 22. Nxe7+ Qxe7 23. Rxc6 Kh8 24. e4 Nd8 25. Bc5 Qe8 26. Bxf8 Nxc6 27. Bc5
+Be6 28. Qa3 b4 29. Qa4 Bd7 30. Bxb4 Nd4 31. Qa3 Nxe2+ 32. Kf2 Nd4 33. Bc5 Nb5
+34. Qd3 Be6 35. a4 Rc8 36. axb5 Rxc5 37. bxa6 Bc4 38. Qd8 Rc8 39. Qxf6+ Kg8 40.
+a7 Bf7 41. Ra1 Ra8 42. Ra6 Qb5 43. Rb6 Qe8 44. Rb7 Rc8 45. b4 Rc2+ 46. Kg3 Rc8
+47. b5 Ra8 48. b6 1-0
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.11"]
+[Round "9"]
+[White "Dushin, Nikolay"]
+[Black "Zakharchenko, Arnold"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "2026"]
+[BlackElo "2288"]
+[PlyCount "72"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. g3 g6 3. Bg2 Bg7 4. O-O Nc6 5. d3 d5 6. Nbd2 Nf6 7. c3 O-O 8. Re1
+e5 9. Qc2 h5 10. a3 a5 11. c4 d4 12. b3 Bf5 13. Nh4 Be6 14. Ne4 Nxe4 15. Bxe4
+Qd7 16. Rb1 g5 17. Bxc6 Qxc6 18. Ng2 Rfb8 19. Bd2 Bf8 20. e4 a4 21. b4 b5 22.
+cxb5 Qxb5 23. Rb2 Bb3 24. Qb1 cxb4 25. Bxb4 Bxb4 26. axb4 Qxb4 27. Rc1 Rc8 28.
+Ne1 Rxc1 29. Qxc1 a3 30. Rb1 a2 31. Ra1 Qc3 32. Qxc3 dxc3 33. d4 exd4 34. f3
+Bc4 35. Nc2 d3 36. Ne3 Rb8 0-1
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.11"]
+[Round "9"]
+[White "Eidelson, Rakhil"]
+[Black "Balaian, Alina"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2220"]
+[BlackElo "1934"]
+[PlyCount "61"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 e6 4. Nc3 h6 5. Bxf6 Qxf6 6. e4 a6 7. a4 d6 8. Nf3 g5
+9. Nd2 Nd7 10. dxe6 fxe6 11. Nc4 Ne5 12. Nxd6+ Bxd6 13. Qxd6 Rf8 14. Qxc5 Bd7
+15. Be2 g4 16. O-O-O b5 17. axb5 axb5 18. Kb1 Kf7 19. Bxg4 Rfc8 20. Bh5+ Kg8
+21. Qe3 Rc7 22. f4 Rca7 23. Kc1 Ra1+ 24. Nb1 Nc4 25. Qg3+ Kf8 26. e5 Qe7 27.
+Qg6 R8a2 28. Qxh6+ Kg8 29. Rd3 Rxb1+ 30. Kxb1 Rxb2+ 31. Ka1 1-0
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.11"]
+[Round "9"]
+[White "Eliseev, Alexey"]
+[Black "Pakhomov, Egor"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2395"]
+[BlackElo "2220"]
+[PlyCount "82"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. b3 Nf6 3. Bb2 e6 4. c4 Nc6 5. g3 Be7 6. Bg2 O-O 7. O-O b6 8. d4
+cxd4 9. Nxd4 Bb7 10. Nc3 a6 11. e4 Qc7 12. Rc1 Ne5 13. Qe2 d6 14. Kh1 Rfe8 15.
+f4 Ned7 16. Rce1 e5 17. Nf5 exf4 18. gxf4 Bf8 19. Qd1 g6 20. Nd4 Bg7 21. Nd5
+Qd8 22. a4 Nc5 23. Qc2 Rc8 24. Re2 Nh5 25. Ref2 Bxd5 26. exd5 Re3 27. Rf3 Rxf3
+28. Bxf3 Qh4 29. Bxh5 Qxh5 30. b4 Re8 31. Nf3 Ne4 32. Kg1 Qg4+ 33. Kh1 Qh3 34.
+Kg1 Qg4+ 35. Kh1 Bxb2 36. Qxb2 Qxf4 37. Qd4 Qg4 38. Qxb6 Qh3 39. Kg1 Nc3 40. b5
+Ne2+ 41. Kh1 Nf4 0-1
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.11"]
+[Round "9"]
+[White "Gorovykh, Eduard"]
+[Black "Matlakov, Maksim"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2390"]
+[BlackElo "2490"]
+[PlyCount "57"]
+[EventDate "2008.10.03"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. d3 Nd7 5. Nbd2 Ngf6 6. O-O g6 7. b3 Bg7 8. Bb2
+O-O 9. h3 Bxf3 10. Bxf3 Ne8 11. Bxg7 Nxg7 12. Bg2 a5 13. a3 e6 14. e4 Qf6 15.
+Nf3 Rfd8 16. exd5 cxd5 17. d4 Rac8 18. Qd2 b6 19. Rfc1 Nf5 20. c4 dxc4 21. Rxc4
+Rxc4 22. bxc4 Nc5 23. Qf4 Nd3 24. Qg5 Qxg5 25. Nxg5 Rxd4 26. Rb1 Ne5 27. Rxb6
+h6 28. Ne4 Nxc4 29. a4 0-1
+
+[Event "Chigorin Memorial 16th"]
+[Site "St Petersburg"]
+[Date "2008.10.11"]
+[Round "9"]
+[White "Grechishkin, Vitaly"]
+[Black "Guzenko, Artem"]

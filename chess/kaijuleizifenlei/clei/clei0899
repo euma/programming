@@ -1,0 +1,600 @@
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2293"]
+[BlackElo "2592"]
+[PlyCount "72"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 a6 7. Bb3 Ba7 8. O-O
+O-O 9. h3 Nh5 10. Nc4 Nf4 11. Bxf4 exf4 12. d4 Ne7 13. Re1 b5 14. Ncd2 c5 15.
+Rc1 Bb7 16. Qe2 Ng6 17. a3 Qf6 18. Bd5 Bxd5 19. exd5 c4 20. Qe4 Bb6 21. Re2 Ra7
+22. Rce1 Ne7 23. Nf1 Bd8 24. h4 g6 25. N1h2 Qf5 26. Qxf5 Nxf5 27. Re4 Ne7 28.
+Rxf4 f5 29. Ng5 Nxd5 30. Rf3 h6 31. Nh3 Bxh4 32. Nf4 Nxf4 33. Rxf4 Re7 34. Rxe7
+Bxe7 35. Rf3 Bg5 36. Rg3 Kf7 0-1
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.04"]
+[Round "4"]
+[White "Higgins, Sean K"]
+[Black "Amarasinghe, Prashantha"]
+[Result "1-0"]
+[ECO "C04"]
+[WhiteElo "2177"]
+[PlyCount "103"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Bb5 f6 7. c3 fxe5 8. dxe5
+Be7 9. Nb3 O-O 10. Qe2 Qe8 11. O-O Qh5 12. Re1 Nc5 13. Nbd4 Nxd4 14. cxd4 Ne4
+15. Bd3 Bd7 16. Bxe4 dxe4 17. Nd2 Qxe2 18. Rxe2 Bc6 19. b3 e3 20. fxe3 Bb4 21.
+Nc4 Be4 22. Ba3 Bd3 23. Bxb4 Bxe2 24. Bxf8 Rxf8 25. Rc1 b6 26. Nd2 Rf7 27. Rc6
+Re7 28. Kf2 Ba6 29. e4 Kf7 30. b4 Ke8 31. Ke3 Kd7 32. Rc3 Bb7 33. h4 h6 34. Rc1
+Rf7 35. Nf3 c6 36. g4 g6 37. Rf1 Ba6 38. Rf2 Ke7 39. Nd2 Rxf2 40. Kxf2 Bd3 41.
+Ke3 Ba6 42. Nf3 Bc4 43. a3 Ba6 44. Ne1 Kf7 45. g5 h5 46. Ng2 Bc4 47. Nf4 Bb3
+48. d5 c5 49. bxc5 bxc5 50. Nxe6 c4 51. Kd4 Bc2 52. Nc5 1-0
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.04"]
+[Round "5"]
+[White "Hansen, Eric"]
+[Black "Mohota, Nisha"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2268"]
+[BlackElo "2354"]
+[PlyCount "83"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. Nbd2 a6 7. Bb3 Ba7 8. O-O
+O-O 9. h3 Ne7 10. Re1 Ng6 11. Nf1 Nh5 12. d4 Qe8 13. Ne3 Nhf4 14. Nf5 Kh8 15.
+g3 Ne6 16. Kg2 f6 17. h4 Ne7 18. h5 Ng5 19. N3h4 Bxf5 20. exf5 c5 21. Rh1 c4
+22. Ng6+ Nxg6 23. hxg6 h6 24. Bc2 e4 25. Bxg5 fxg5 26. Qg4 d5 27. Qxg5 Kg8 28.
+Qg4 Rf6 29. f3 Qb5 30. Rab1 e3 31. Rhe1 Re8 32. f4 Qd7 33. Qf3 Rxf5 34. Qg4 Re4
+35. Bxe4 dxe4 36. Rxe3 Qe6 37. Rbe1 h5 38. Qh4 Qxg6 39. Rxe4 Qc6 40. Qd8+ Kh7
+41. Qe8 Qd5 42. Qe6 1-0
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.04"]
+[Round "5"]
+[White "Karell, Leif K"]
+[Black "Friedel, Joshua E"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "2031"]
+[BlackElo "2524"]
+[PlyCount "46"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qa5 9. Nxe4 Be6 10. Neg5 O-O-O 11. Nxe6 fxe6 12. Rxe6 h6 13. Qe2 g5 14. Bd2
+Qd5 15. Re4 Bg7 16. Ne1 d3 17. Nxd3 Bxb2 18. Rb1 Bf6 19. Qg4+ Kb8 20. Nb4 Nxb4
+21. Rexb4 b6 22. Be3 h5 23. c4 Qd3 0-1
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.04"]
+[Round "5"]
+[White "Khachiyan, Melikset"]
+[Black "Mikhalevski, Victor"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "2504"]
+[BlackElo "2592"]
+[Annotator "Mikhalevski,V"]
+[PlyCount "132"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. d4 {A relatively rare
+line. White is going for a classical endgame, which is however rather
+poisonous.} ({The most principled line is, of course,} 6. Nxe5 {0-1 Radjabov,T
+(2704)-Kazhgaleyev,M (2602)/Khanty Mansiysk 2005/CBM 111/[Finkel,A] (32)}) 6...
+exd4 7. Nxd4 c5 {Usually this position arises with the f-pawn on f6 and the
+knight on g8.} ({The young J. Nunn opted for} 7... g6 {One of the differences
+comparing to positions from 5...f6-line is the possibility of this fianchetto.}
+8. Nb3 Qxd1 9. Rxd1 Bg7 10. c3 {1/2-1/2 Hort,V (2620)-Nunn,J (2410)/Hastings
+1977/MCD (33), and Black is at least not worse after} f5 $11) 8. Ne2 {The most
+flexible retreat.} Qxd1 9. Rxd1 {In the endgame which has arisen, White will
+try to exploit the weakness of the d5-square and of his extra pawn on the
+kingside.[%csl Rd5]} Bd7 {Long castling is a typical plan in these endgames.}
+10. Nbc3 O-O-O 11. Bf4 Re8 $5 {Before bringing the light-squared bishop to c6
+I decided to move my rook to e8 in order to avoid an exchange. I think it
+should be right as White already has a development advantage, which after the
+exchange would be even bigger.} ({Black also tested the immediate} 11... Bc6
+12. Rxd8+ Kxd8 13. Bg3 h5 14. h3 f5 $6 (14... h4 $5 15. Bh2 Kc8) 15. Nf4 Rh6
+16. Bh4 $16 {1-0 Timman,J (2560)-Jackova,J (2375)/Prague 2007/CBM 119 ext (41)}
+) 12. Rd2 Bc6 13. Rad1 Ng6 14. Bg3 Be7 15. Nd5 (15. f4 {also comes in
+consideration.[%cal Gf4f5]} Bf6 {Provocking 16.e5} ({In case of} 15... Bd8 16.
+f5 {is unpleasant since} Ne5 {is met by means of} 17. Rxd8+ Rxd8 18. Rxd8+ Rxd8
+19. Bxe5 f6 20. Bf4 $14 {with better chances for White.}) 16. e5 Bd8 {[%cal
+Gg6e7,Ge7f5]} {Now} 17. f5 $2 Nxe5 18. Rxd8+ Rxd8 19. Rxd8+ Rxd8 20. Bxe5 b5 $1
+$17 {is clearly better for Black.[%cal Gb5b4]}) 15... Bd8 $11 {This is the
+setup I've chosen when I have played 11...Re8. Black managed to complete
+development retaining the advantage of the bishop pair. Surprisingly this move
+turned out to be a novelty.} ({In the only prceding game, which reached this
+position Black played} 15... Bg5 {Provoking} 16. f4 {and only then} Bd8 (16...
+Bh6 $5 {is interesting with a pressure on f4.[%csl Rf4]}) 17. e5 h5 (17... f6
+$5) 18. Bf2 b6 19. c4 a5 {0-1 Berescu,A-Brkic,A/Crete 2007/CBM 121 (64). with
+an approximately equal position, which starts to remind one of the Berlin
+sytem.}) 16. f3 {White prepares a regrouping of pieces: the bishop comes to f2,
+while the knight goes via g3 to f5.[%cal Gg3f2,Ge2g3]} Rhf8 {A small
+inaccuracy. Black prepares f5,  but underestimates White's plan.[%cal Gf7f5]} (
+{If I had anticipated this obvious plan I would probably have played} 16... Bg5
+$11 {preventing it. Now after} 17. f4 Bh6 {we transpose to 15...Bg5.}) 17. Bf2
+b6 18. c4 (18. Ng3 $5 {would underline Black's inaccuracy on the 16th move.
+[%csl Rg7][%cal Gg3f5,Gg3h5]}) 18... f5 $1 {Playing this move I had to see how
+to continue after 20.Nxe4. Only when I found 20...Bh4! I played it.} 19. Ng3
+fxe4 20. Nxe4 {White's centralization looks scary, especially taking in
+account tactical blows, such as Nxb6 with the following Nd6, but Black's next
+move releases the tension.} Bh4 $1 $11 {Usually when you have a bishop pair
+you want to keep your bishops, but in this concrete position the exchange
+brings a necessary relief.} 21. Bxh4 {Probably it would be a little bit better
+to make a waiting move, not allowing a quick access of the knight to d4.
+However it's not easy to find useful moves.} Nxh4 22. a3 {White prepares an
+exchange of the c5-pawn in order to prevent the appearance of the knight on d4.
+ON the other hand, White undoubles the black pawns on the queenside.[%cal
+Gb2b4]} Nf5 (22... a5 {was also possible, but I wasn't sure I needed to
+prevent b4.}) 23. b4 cxb4 24. axb4 Kb7 25. Nec3 (25. Kf2 $5) 25... Ne3 $1 {
+Black is starting to take the initiative.} 26. Nxe3 Rxe3 27. Rd3 $6 {After
+this exchange the queenside pawns are getting weak.} ({So White should prefer} 
+27. Rc1 $5) 27... Rxd3 28. Rxd3 Rf4 {[%csl Rc4]} 29. b5 Be8 $1 {The point. Now
+the c-pawn is weak.} 30. bxa6+ Kxa6 31. Ne4 Bc6 {In time-trouble I coudn't
+choose where to attack the knight from (c6 or g6) and decided to make a safer
+move.} ({However} 31... Bg6 $5 {deserved serious attention.} 32. Kf2 (32. Rd7 {
+can be met by means of} Rf7 $1 {, which I missed.}) 32... Bxe4 33. Rd4 Rf7 $1 (
+{The straightforward} 33... c5 {doesn't work:} 34. Rxe4 Rxe4 35. fxe4 b5 $4 {
+in view of} 36. e5 $18) 34. Rxe4 Rd7 35. Ke3 c5 $15 {and Black creates a
+passed pawn on the queenside.[%cal Gb6b5]}) 32. Nd2 (32. Kf2 Bxe4 33. Rd4 {
+transposes to 31...Bg6.}) 32... Ka5 $1 {The king comes closer to the weak
+c-pawn.[%cal Ga5b4]} 33. Kf2 Kb4 34. Ke3 Rf8 35. Rb3+ ({Probably} 35. Rd4 {
+with the idea of Ne4 was more precise.[%cal Gd2e4]} Ra8 36. Ne4 Ra3+ 37. Kf4
+Ra2 38. c5+ Ka5 39. cxb6 cxb6 40. Rd6 $132 {with counterplay.}) 35... Kc5 $15 {
+Now White is short of counterplay, however it's still not easy to break
+White's defence.} 36. Kd3 ({It would be better to play} 36. Rc3 $1 {in
+anticipation of b5.}) 36... Rd8+ 37. Kc3 Re8 38. Kd3 Rd8+ {It's never bad to
+repeat the position, especially if you're in the time-trouble.} 39. Kc3 Re8 40.
+Kd3 b5 $1 {The only chance to break through.} 41. Rc3 $1 (41. cxb5 $2 Bxb5+ 42.
+Kc3 Re3+ 43. Kb2 Re2 $19 {is hopeless for White.}) 41... b4 42. Rc1 Ba4 $6 {An
+inaccuracy. I'd prepared 43...Rd8 with the following b3, but underestimated
+White's counterplay.[%cal Ge8d8]} ({After} 42... Ra8 $1 $17 {Black's advantage
+is obvious.}) 43. Ra1 $1 Ra8 $5 ({Now I realised that after} 43... Rd8+ 44. Ke3
+Bc2 {White plays} 45. Ra5+ Kc6 46. Rb5 Rd3+ 47. Ke2 b3 48. Ne4 {my chances to
+win are slim.} ({But not} 48. Nxb3 $4 Rxb3 49. Kd2 Rxb5 50. cxb5+ Kxb5 51. Kxc2
+Kc4 $19 {with a winning pawn endgame for Black.})) 44. Ne4+ Kb6 45. Ke3 $1 {
+Now I can't unpin the bishop without exchanging the rooks.} c5 46. h4 h6 47. h5
+(47. g4 $5 {[%cal Gg4g5]}) 47... Bc6 48. Rxa8 Bxa8 49. Nd2 (49. Nd6 $2 {is
+very risky as the b-pawn is very dangerous.[%cal Gd6f5]} Ka5 (49... b3 $5 50.
+Kd3 Ka5 51. Kc3 Ka4 52. Kb2 Kb4 $19) 50. Kd3 Ka4 51. Kc2 Ka3 52. Kb1 b3 $19)
+49... Bc6 $15 50. Nb3 $1 {White transfers his knight to d3 from where it both
+controls the b-pawn and attacks the c-pawn.[%cal Gb3c1,Gc1d3]} Be8 {I'd
+decided to provoke g4, but frankly speaking I didn't see a break here.} 51. g4
+Ba4 52. Nc1 Bd1 (52... Ka5 {leads to a draw after} 53. Nd3 $1 Bc2 54. Nxc5 ({
+But not} 54. Nb2 $2 b3 55. Kd2 Kb4 $19) 54... b3 55. Nxb3+ $1 Bxb3 56. Kd4 Bd1
+({or} 56... Kb4 57. Ke5 Bxc4 58. Kd6 $11 {[%cal Gd6e7,Ge7f8]}) 57. Ke5 Bxf3 58.
+Kf5 {[%cal Gf5g6]}) 53. Nd3 Bc2 54. Nb2 ({In fact even} 54. f4 {is possible.}
+Bxd3 55. Kxd3 Kc6 56. g5 (56. Ke3 Kd6 57. Kd3 Ke6 58. Ke3 Kf6 59. Kd3 g6 60.
+hxg6 Kxg6 61. Ke4 Kg7 $1 62. Kd3 h5 $1 63. gxh5 Kh6 64. Ke4 Kxh5 65. Kd3 $1 {
+and White is just waiting with the king and achieves a draw.} ({But not} 65. f5
+$4 Kh6 $3 66. Kd3 Kg5 67. Ke4 Kf6 $19 {and Black wins the f-pawn and the game.}
+)) 56... Kd6 57. f5 hxg5 58. f6 Ke6 59. fxg7 Kf7 60. h6 g4 $19 {and Black wins.
+}) 54... Ka5 55. Kd2 $1 {White has to meet b3 with Kc3 not allowing Kb4.} Bh7
+56. f4 $11 {The position is equal. Neither side can make progress.} Be4 57. Ke3
+Bc2 58. Kd2 Bb1 {I decided to try my last chance.} (58... Be4 $11) 59. Nd3 Kb6
+(59... b3 {was possible with a draw after} 60. Nxc5 Kb4 61. Nxb3 Kxb3 62. c5
+Be4 (62... Kc4 63. c6 Be4 64. c7 Bb7 65. f5 Kd5 66. g5 $1 hxg5 67. f6 Ke6 68.
+fxg7 Kf7 69. h6 g4 70. Ke3 g3 $11) 63. Ke3 Bc6 64. f5 Bd7 $1 65. Kf4 Kc4 66. g5
+Kxc5 67. f6 hxg5+ 68. Kxg5 gxf6+ 69. Kxf6 $11) ({Or} 59... Bxd3 60. Kxd3 Ka4
+61. Kc2 Ka3 62. Kb1 Kb3 63. g5 Kxc4 64. f5 Kd5 65. f6 Ke6 66. fxg7 Kf7 67. gxh6
+$11) 60. Ne5 ({After} 60. g5 $1 {Black has to be accurate.} Bxd3 (60... b3 61.
+Kc3 Kc6 $14) 61. Kxd3 Kc6 62. f5 Kd6 63. f6 Ke6 64. fxg7 Kf7 65. gxh6 Kg8 66.
+Ke3 Kf7 67. Ke4 Kg8 68. Kf5 Kf7 $1 69. Ke4 $11) 60... Be4 (60... Kc7 $5) 61. g5
+({White could also continue waiting.} 61. Nd3 $11) 61... Kc7 62. Nf7 Bf3 $1 63.
+f5 $2 {A decisive mistake. Now White is lost.} ({After the correct} 63. gxh6
+gxh6 64. Nxh6 Bxh5 $15 {Black is just slightly better.}) 63... hxg5 $1 64. Nxg5
+Bxh5 65. Ne6+ $2 {This greedy move makes Black's task easier.} ({However even
+after the correct} 65. Ne4 Kc6 66. f6 gxf6 67. Nxf6 Bg6 $1 {Black wins
+bringing the king to d4 and winning the c4-pawn, e.g.} ({But not} 67... Bf7 68.
+Kd3 b3 $4 69. Kc3 Bxc4 70. Kb2 $11 {with a theoretical draw.[%cal Gf6e4,Ge4c3]}
+) 68. Nd5 Bf7 69. Ne3 Kd6 70. Kd3 Bg6+ 71. Kd2 Ke5 72. Nd1 Kd4 73. Nb2 Bf7 $19)
+65... Kd6 66. Nxg7 (66. Kd3 Bg4 67. Nxg7 Ke5 68. f6 Kxf6 69. Ne8+ Ke5 70. Kc2
+Bh5 71. Nc7 Kd4 72. Kb3 Bd1+ $19) 66... Bf7 $1 $19 {Suddenly the knight finds
+itself in a trap. White can't prevent Ke5-f6 and so he resigned.[%csl Rg7]
+[%cal Gd6e5,Ge5f6]} 0-1
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.04"]
+[Round "5"]
+[White "Tayar, Jonathan"]
+[Black "Ippolito, Dean"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2293"]
+[BlackElo "2445"]
+[PlyCount "43"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Bc5 5. c3 a6 6. Nbd2 Ba7 7. O-O O-O 8. Bb3
+d6 9. h3 Be6 10. Nc4 h6 11. Re1 Nd7 12. Ne3 Bxb3 13. axb3 Nc5 14. b4 Ne6 15.
+Nf5 Qf6 16. Nh2 Rfe8 17. Ng4 Qg6 18. Nh4 Qh7 19. Qf3 Ne7 20. Nf5 Kf8 21. Nxe7
+Rxe7 22. Nh2 1/2-1/2
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.05"]
+[Round "6"]
+[White "Becerra Rivero, Julio"]
+[Black "Hess, Robert L"]
+[Result "1-0"]
+[ECO "C79"]
+[WhiteElo "2598"]
+[BlackElo "2484"]
+[PlyCount "119"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. d4 Nf6 7. d5 Ne7 8. Bxd7+
+Qxd7 9. Re1 c6 10. c4 cxd5 11. cxd5 Ng6 12. Bg5 Be7 13. Nbd2 h6 14. Bxf6 Bxf6
+15. a4 Rc8 16. a5 O-O 17. Qa4 Qc7 18. Re3 Be7 19. Rc3 Qb8 20. Nc4 f5 21. Qc2
+Bd8 22. exf5 Ne7 23. Ne3 Rxc3 24. Qxc3 Nxf5 25. Nxf5 Rxf5 26. Nd2 Rf7 27. Ne4
+b6 28. Qb4 Bc7 29. Rc1 bxa5 30. Qxb8+ Bxb8 31. Rc8+ Rf8 32. Rc6 Rf4 33. f3 Rf7
+34. Nxd6 Bxd6 35. Rxd6 Rb7 36. Rxa6 Rxb2 37. Rxa5 Rd2 38. h4 Rd4 39. h5 e4 40.
+Kf2 exf3 41. Kxf3 Kf7 42. g4 g6 43. Ra7+ Kg8 44. Rd7 gxh5 45. gxh5 Kf8 46. Ke3
+Rh4 47. Rh7 Rxh5 48. Kd4 Rh1 49. Ke5 h5 50. Ke6 Kg8 51. Re7 Re1+ 52. Kd7 Ra1
+53. d6 h4 54. Re4 h3 55. Ke7 h2 56. Rg4+ Kh7 57. Rh4+ Kg6 58. Rxh2 Re1+ 59. Kd8
+Kf7 60. d7 1-0
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.05"]
+[Round "6"]
+[White "Friedel, Joshua E"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[WhiteElo "2524"]
+[BlackElo "2587"]
+[PlyCount "45"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3
+Nbc6 9. Nf3 f5 10. exf6 Rxf6 11. Bg5 e5 12. Qg3 Rxf3 13. gxf3 c4 14. Be2 Qa5
+15. Bd2 Nf5 16. Qg5 exd4 17. cxd4 c3 18. Be3 Ncxd4 19. Bxd4 Nxd4 20. Rg1 g6 21.
+Qe5 Nxc2+ 22. Kd1 Nxa1 23. Qe8+ 1/2-1/2
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.05"]
+[Round "6"]
+[White "Gonzalez, Renier"]
+[Black "Izoria, Zviad"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2507"]
+[BlackElo "2629"]
+[PlyCount "71"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d3 d5 3. Qe2 dxe4 4. dxe4 e5 5. Nf3 c6 6. c3 Qc7 7. Qc2 Nf6 8. Bg5
+Be7 9. Bc4 Nbd7 10. O-O b5 11. Be2 a6 12. a4 Bb7 13. axb5 cxb5 14. Nbd2 O-O 15.
+Rfe1 Bc5 16. Bd3 h6 17. Bh4 Rac8 18. Rac1 Qb6 19. Qb1 a5 20. Bg3 Nh5 21. b4
+axb4 22. cxb4 Bd6 23. Rxc8 Rxc8 24. Qb2 Nxg3 25. hxg3 Nf6 26. Nf1 Qc7 27. N3d2
+Ng4 28. Nh2 h5 29. Nxg4 hxg4 30. Bxb5 Qc2 31. Rb1 Bxe4 32. Bd7 Rd8 33. Bxg4 Bc7
+34. Nxe4 Qxe4 35. Bf3 Qd4 36. Qxd4 1/2-1/2
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Khachiyan, Melikset"]
+[Black "Akobian, Varuzhan"]
+[Result "0-1"]
+[ECO "C14"]
+[WhiteElo "2504"]
+[BlackElo "2610"]
+[PlyCount "46"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. Qd2 Nc6 10. O-O-O b5 11. dxc5 Nxc5 12. Bd3 b4 13. Ne2 O-O 14. Kb1 a5 15.
+Ned4 Nxd4 16. Nxd4 Ba6 17. Bxa6 Rxa6 18. h4 Ne4 19. Qe3 a4 20. Ne2 b3 21. cxb3
+axb3 22. Qxb3 Qa7 23. Nc1 Rb8 0-1
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Shabalov, Alexander"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2611"]
+[BlackElo "2631"]
+[PlyCount "99"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8. Bd3
+c4 9. Be2 Nf5 10. Bd1 Bd7 11. a4 Nc6 12. Ne2 O-O-O 13. O-O Rdg8 14. Ng3 f6 15.
+Nxf5 exf5 16. Qf3 Be6 17. exf6 gxf6 18. Bf4 Qd7 19. Bg3 h5 20. h3 f4 21. Qxf4
+h4 22. Bh2 Bxh3 23. Bf3 Bxg2 24. Bxg2 h3 25. Rfe1 hxg2 26. f3 Rh5 27. Re2 Rf5
+28. Qe3 b6 29. Rae1 Kb7 30. Rf2 Ka6 31. Qe6 Qh7 32. Rxg2 Rxg2+ 33. Kxg2 Rg5+
+34. Bg3 Qg7 35. Qc8+ Qb7 36. Qxb7+ Kxb7 37. Re6 Rg6 38. Rd6 Rg5 39. Rxf6 a5 40.
+f4 Rg7 41. f5 Na7 42. Rf8 Rd7 43. f6 Nc6 44. Kf3 Nd8 45. Bf4 Kc8 46. Kg4 Rh7
+47. Kf5 Kd7 48. Kg6 Rh4 49. Bg5 Rg4 50. Rxd8+ 1-0
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Shankland, Samuel L"]
+[Black "Ippolito, Dean"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[WhiteElo "2368"]
+[BlackElo "2445"]
+[PlyCount "51"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Nbd2 Nxd2 6. Qxd2 c5 7. Qf4 h6 8.
+Be2 Be6 9. O-O Nc6 10. Rd1 Qc7 11. Qa4 g5 12. b4 Bg7 13. bxc5 O-O 14. Bb2 Nxe5
+15. Nxe5 Bxe5 16. Bxe5 Qxe5 17. Bf3 Rfc8 18. Qa3 b6 19. cxb6 axb6 20. Qb3 Rc3
+21. Qxb6 Rxc2 22. h3 Raxa2 23. Rxa2 Rxa2 24. Bxd5 Bxd5 25. Qd8+ Kg7 26. Qxd5
+1/2-1/2
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Smirin, Ilia"]
+[Black "Stocek, Jiri"]
+[Result "1/2-1/2"]
+[ECO "C86"]
+[WhiteElo "2637"]
+[BlackElo "2559"]
+[PlyCount "71"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 d6 7. c3 O-O 8. d4
+Bd7 9. d5 Nb8 10. Bc2 c6 11. dxc6 Bxc6 12. c4 b5 13. Nc3 bxc4 14. Qxc4 Bd7 15.
+Bg5 Be6 16. Qd3 Nbd7 17. Bxf6 Bxf6 18. Qxd6 Rb8 19. Bb3 Bxb3 20. axb3 Rxb3 21.
+Rxa6 Rxb2 22. Nd5 Rb7 23. h3 h6 24. Rd1 Qb8 25. Kh2 Re8 26. Rc1 Qxd6 27. Rxd6
+Kf8 28. Rdc6 Bd8 29. Rc8 Nf6 30. Nxe5 Nxd5 31. exd5 Rxe5 32. Rxd8+ Ke7 33. Rcc8
+Rd7 34. Rg8 g6 35. Rge8+ Kd6 36. Rxe5 1/2-1/2
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Venkatesh, Marani Rajendran"]
+[Black "Hansen, Eric"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "2462"]
+[BlackElo "2268"]
+[PlyCount "81"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Bg5 O-O 13. Bh4 Nh5 14. Nc3 a6 15.
+Re1 g6 16. Bg3 Nxg3 17. hxg3 Qg7 18. Be2 g5 19. Na4 g4 20. Ne5 Nxe5 21. dxe5
+Bxe5 22. Bxg4 Bd4 23. Bf3 Bd7 24. Nc3 Rxf3 25. Qxf3 Rf8 26. Qe2 Rxf2 27. Qxf2
+Bxf2+ 28. Kxf2 Qd4+ 29. Kf1 Qb4 30. Rab1 d4 31. Ne4 Bb5+ 32. Kg1 Bd3 33. a3 Qb6
+34. Rbd1 Bc2 35. Rd2 d3+ 36. Rf2 Kg7 37. b4 Qd4 38. Nd2 Qd5 39. Nf3 Qd6 40. Re4
+Qb6 41. Nd4 1/2-1/2
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.06"]
+[Round "8"]
+[White "Gonzalez, Renier"]
+[Black "Kunte, Abhijit"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[WhiteElo "2507"]
+[BlackElo "2554"]
+[PlyCount "38"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe2 Bg4 8.
+h3 Bxf3 9. Qxf3 Nd7 10. d3 Nf8 11. Nd2 Ne6 12. Nc4 f6 13. Be3 Qd7 14. Rfb1 b5
+15. Nd2 c5 16. a4 O-O 17. axb5 axb5 18. Qd1 Qc6 19. Rxa8 Rxa8 1/2-1/2
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.06"]
+[Round "8"]
+[White "Kudrin, Sergey"]
+[Black "Shulman, Yuri"]
+[Result "1-0"]
+[ECO "C03"]
+[WhiteElo "2563"]
+[BlackElo "2623"]
+[PlyCount "97"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Bd3 c5 5. dxc5 Nf6 6. Qe2 O-O 7. Ngf3 a5 8. c3
+Na6 9. e5 Nd7 10. Bxa6 Rxa6 11. b4 f6 12. exf6 Bxf6 13. b5 Ra8 14. Ba3 Bxc3 15.
+Rc1 d4 16. O-O Nf6 17. Rfd1 e5 18. Nxe5 d3 19. Nxd3 Re8 20. Qf1 Bg4 21. Nf3
+Bxf3 22. gxf3 Nd5 23. Nf4 Qg5+ 24. Ng2 Rad8 25. c6 bxc6 26. bxc6 Be5 27. Qc4
+Bc7 28. Rd4 Kh8 29. h4 Qf5 30. f4 h6 31. Qd3 Qf7 32. Qf3 Nf6 33. Rxd8 Rxd8 34.
+Bb2 Nh5 35. f5 Rd2 36. Bc3 Rxa2 37. Rd1 Nf6 38. Nf4 Ra4 39. Ne6 Bb6 40. Bd4
+Bxd4 41. Nxd4 Ng8 42. Ne6 Rxh4 43. c7 Rc4 44. Rd8 Rxc7 45. Nxc7 Qxc7 46. Qd5
+Qc1+ 47. Kg2 Qg5+ 48. Kf1 Qc1+ 49. Ke2 1-0
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.06"]
+[Round "8"]
+[White "Negi, Parimarjan"]
+[Black "Shabalov, Alexander"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2529"]
+[BlackElo "2611"]
+[PlyCount "49"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Ne2 Be7 8. c3 f6
+9. Be3 O-O 10. g3 cxd4 11. Nexd4 Qb6 12. Qe2 fxe5 13. Nxe6 Nc5 14. Nxf8 e4 15.
+Qd2 Kxf8 16. Nd4 Bg4 17. b4 Na4 18. f5 Ne5 19. Qc2 Kg8 20. Qxa4 Bf3 21. Rg1 Ng4
+22. Bf4 Bf6 23. Qb5 Rc8 24. Qxb6 axb6 25. Kd2 1-0
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Panjwani, Raja"]
+[Black "Trower, Todd J"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2310"]
+[BlackElo "2007"]
+[PlyCount "69"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Be3 Bd6
+8. c4 O-O 9. Be2 b6 10. O-O Bb7 11. h3 Nd7 12. Qd2 e5 13. Rfd1 e4 14. Ne1 f5
+15. c5 f4 16. cxd6 fxe3 17. Qxe3 cxd6 18. Qg3 d5 19. Nc2 Rc8 20. Ne3 Rc6 21.
+Rac1 Qc8 22. Nxd5 Rf7 23. Rxc6 Qxc6 24. Ne3 b5 25. a4 Ba6 26. Bg4 Nf8 27. d5
+Qf6 28. Be6 Nxe6 29. Ng4 Qg5 30. dxe6 Rf8 31. h4 Qc5 32. Rd7 Qc1+ 33. Kh2 Qxb2
+34. Nh6+ Kh8 35. e7 1-0
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Rathnakaran, K."]
+[Black "Mikhalevski, Victor"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2453"]
+[BlackElo "2592"]
+[PlyCount "128"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. h3 Bb6 7. Nc3 Be6 8. Bb3
+O-O 9. Be3 Bxe3 10. fxe3 Bxb3 11. axb3 d5 12. exd5 Nxd5 13. Qe1 Ndb4 14. Rc1 f5
+15. Qg3 Qf6 16. Rf2 g6 17. Ng5 Kg7 18. Rcf1 h6 19. Nge4 Qe6 20. Nc5 Qe7 21.
+N5a4 Kh7 22. h4 h5 23. Qg5 Qxg5 24. hxg5 b6 25. Rd1 Rad8 26. Rfd2 Rd7 27. d4 e4
+28. Rf1 Re8 29. Nd1 Nd8 30. Nf2 Ne6 31. Nh3 c5 32. Rfd1 Red8 33. c3 Nd3 34. b4
+cxb4 35. cxb4 Nxb4 36. Nc3 Nd3 37. Ra1 Rc8 38. Ra3 Ne5 39. d5 Nc5 40. Rd4 Ncd3
+41. d6 Ng4 42. Nf4 Nxb2 43. Ne6 Nd3 44. Nc7 Nde5 45. N3b5 a5 46. Rc3 Kg8 47.
+Kf1 Kf7 48. Ke2 h4 49. Rd1 Kg8 50. Rdc1 Nd3 51. Rh1 Rh7 52. Rc6 f4 53. Rc4 f3+
+54. gxf3 exf3+ 55. Kd2 Ndf2 56. Rhc1 Ne5 57. Rd4 h3 58. Nc3 Rhxc7 59. Rf1 h2
+60. dxc7 Rxc7 61. Nd5 Rc4 62. Nf6+ Kf7 63. Rf4 Rxf4 64. exf4 Nc4+ 0-1
+
+[Event "World op 36th"]
+[Site "Philadelphia"]
+[Date "2008.07.06"]
+[Round "9"]
+[White "Shabalov, Alexander"]
+[Black "Ehlvest, Jaan"]
+[Result "1/2-1/2"]
+[ECO "C20"]
+[WhiteElo "2611"]
+[BlackElo "2603"]
+[PlyCount "2"]
+[EventDate "2008.07.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 1/2-1/2
+

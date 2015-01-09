@@ -1,0 +1,600 @@
+[White "Philippe, Christophe"]
+[Black "Borsos, Bogdan"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2407"]
+[BlackElo "2354"]
+[PlyCount "118"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O d5 9. exd5 cxd5 10. Bg5 c6 11. Na4 Qd6 12. h3 Re8 13. Bh4 Ne4 14. c3 Ba5
+15. Bxe4 Rxe4 16. Bg3 Qe7 17. Re1 Bf5 18. Rxe4 Qxe4 19. b4 Bb6 20. Nxb6 axb6
+21. a4 Qc2 22. Qxc2 Bxc2 23. a5 bxa5 24. bxa5 Bd3 25. f3 Bb5 26. Bd6 f6 27. Kf2
+Kf7 28. Ke3 Ke6 29. Bc5 Kd7 30. Kd4 Re8 31. a6 Kc7 32. a7 Kb7 33. h4 Ka8 34.
+Bb6 Kb7 35. Kc5 h5 36. f4 Ka8 37. Kd6 Re4 38. g3 Re2 39. Bd4 Re4 40. f5 Re2 41.
+Bc5 Re5 42. Bd4 Re2 43. Rg1 Re4 44. Bc5 Kb7 45. Ra1 Ka8 46. Kc7 Re5 47. Kb6
+Rxf5 48. Bd4 Rf1 49. Rxf1 Bxf1 50. Kxc6 Bg2 51. Kd6 g5 52. Ke6 gxh4 53. gxh4
+Bf3 54. Kxf6 Kb7 55. Kf5 Be4+ 56. Ke5 Bf3 57. Kf4 Bh1 58. Ke5 Bf3 59. Bc5 Bh1
+1/2-1/2
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.16"]
+[Round "5"]
+[White "Souptes, Christian"]
+[Black "Mercky, Gilles"]
+[Result "0-1"]
+[ECO "C19"]
+[BlackElo "1905"]
+[PlyCount "80"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Qa5 8. Bd2
+Nbc6 9. Bd3 c4 10. Be2 Bd7 11. O-O h6 12. Qc1 O-O-O 13. Qb2 Rdf8 14. Rfb1 Qc7
+15. Re1 f6 16. exf6 Rxf6 17. Rab1 Rhf8 18. Rf1 Ng6 19. Be3 Nf4 20. Bd1 g5 21.
+g3 Ng6 22. Kg2 b6 23. Qc1 Nge7 24. Ne5 Nf5 25. Nxc6 Bxc6 26. Bg4 Ng7 27. Be2
+Be8 28. Qd1 Bg6 29. Kg1 Be4 30. f4 g4 31. Bxg4 Rg6 32. Bf3 Bf5 33. Qe2 Qf7 34.
+Rbc1 h5 35. Bxh5 Nxh5 36. Qxh5 Rxg3+ 37. hxg3 Qxh5 38. Rf2 Be4 39. Rh2 Qg4 40.
+Bf2 Rg8 0-1
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.17"]
+[Round "6"]
+[White "Borsos, Bogdan"]
+[Black "Forthofer, Robert"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2354"]
+[BlackElo "2253"]
+[PlyCount "49"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. Qe2 dxe4 5. Nxe4 Nbd7 6. d4 Be7 7. Nxf6+ Nxf6
+8. Bg5 O-O 9. O-O-O c5 10. Kb1 Qc7 11. h4 b6 12. g4 Nxg4 13. Rg1 f5 14. Bh3
+cxd4 15. Bxe7 Qxe7 16. Bxg4 fxg4 17. Ne5 Bb7 18. Rxg4 Rad8 19. b3 Rf5 20. Rdg1
+Qf6 21. Rxg7+ Qxg7 22. Rxg7+ Kxg7 23. Qc4 Rd5 24. Qc7+ Kf8 25. Qb8+ 1-0
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.17"]
+[Round "6"]
+[White "Cellier, David"]
+[Black "Ameline, Claude"]
+[Result "1-0"]
+[ECO "C02"]
+[PlyCount "61"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Qb6 5. c3 Nc6 6. Nbd2 cxd4 7. cxd4 Nxd4 8.
+Nxd4 Qxd4 9. Bb5+ Bd7 10. Bxd7+ Kxd7 11. O-O Qxe5 12. Qa4+ Kd8 13. Nf3 Qc7 14.
+Bf4 Qc6 15. Qb3 Bd6 16. Rac1 Qd7 17. Bxd6 Qxd6 18. Qxb7 Rb8 19. Qxf7 Qe7 20.
+Qf4 Rb6 21. Ne5 Qf6 22. Nf7+ Ke8 23. Nd6+ Kd7 24. Nf5 e5 25. Qa4+ Ke6 26. g4
+Ne7 27. Qxa7 Rhb8 28. Rc7 Nxf5 29. gxf5+ Qxf5 30. Re7+ Kd6 31. Qc7# 1-0
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.17"]
+[Round "6"]
+[White "Deleau, Denis"]
+[Black "Py, Walter"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2107"]
+[BlackElo "2101"]
+[PlyCount "93"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. Na3 Nf5 7. Nc2 Be7 8. Be2
+O-O 9. h4 cxd4 10. cxd4 f6 11. g4 Nh6 12. Bxh6 gxh6 13. exf6 Bxf6 14. Qd2 e5
+15. g5 hxg5 16. hxg5 Bg7 17. Nxe5 Nxe5 18. dxe5 Bxe5 19. Ne3 Bf4 20. Bd3 d4 21.
+Bxh7+ Kg7 22. Rd1 Bxg5 23. Qd3 Qf6 24. Qxd4 Be6 25. Bb1 Rh8 26. Rg1 Kf7 27.
+Qxf6+ Bxf6 28. Bg6+ Ke7 29. b3 Rad8 30. Rxd8 Rxd8 31. Ke2 Bc3 32. Rd1 Rxd1 33.
+Nxd1 Be5 34. Be4 b6 35. Ne3 a5 36. Bd5 Bd7 37. Kd3 b5 38. Ke4 Bh8 39. f4 a4 40.
+bxa4 bxa4 41. Nc4 Ba1 42. Na5 Kf6 43. Bc6 Bf5+ 44. Ke3 Be6 45. Bxa4 Bxa2 46.
+Nb3 Bxb3 47. Bxb3 1/2-1/2
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.17"]
+[Round "6"]
+[White "Ninov, Nikolai"]
+[Black "Svetushkin, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[WhiteElo "2509"]
+[BlackElo "2568"]
+[PlyCount "17"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Bd7 5. exd5 Nd4 6. Qd1 Nxf3+ 7. Qxf3 Bd6 8.
+d4 Nf6 9. Bg5 1/2-1/2
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.17"]
+[Round "6"]
+[White "Okhotnik, Vladimir"]
+[Black "Rubino, Aniello"]
+[Result "1-0"]
+[ECO "C56"]
+[WhiteElo "2462"]
+[BlackElo "2157"]
+[PlyCount "27"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. O-O dxc3 7. e5 Ne4 8.
+Qd5 O-O 9. Qxe4 cxb2 10. Bxb2 Qe7 11. Nc3 Na5 12. Nd5 Qe8 13. Nf6+ gxf6 14. Bd3
+1-0
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.18"]
+[Round "7"]
+[White "Moreau, Lionel"]
+[Black "Avon, Hugo"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1701"]
+[PlyCount "64"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bf4 Nf6 5. Bd3 Nc6 6. c3 Bd6 7. Qe2+ Be6 8.
+Be5 O-O 9. Nf3 Ng4 10. Bxd6 Qxd6 11. Qc2 h6 12. Nbd2 a6 13. h3 Nf6 14. g4 Rfe8
+15. O-O-O Qf4 16. Kb1 b5 17. Nb3 Qxf3 18. Be2 Qxe2 19. Qxe2 Bf5+ 20. Qc2 Bxc2+
+21. Kxc2 Re2+ 22. Rd2 Rxd2+ 23. Nxd2 Re8 24. Kd3 Ne4 25. Rh2 Nxd2 26. Kxd2 b4
+27. f4 bxc3+ 28. bxc3 Na5 29. Rh1 Nc4+ 30. Kc2 Rb8 31. a4 Rb2+ 32. Kd3 Rd2# 0-1
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.18"]
+[Round "7"]
+[White "Raffaelli, Alain"]
+[Black "Barneaud, Camille"]
+[Result "0-1"]
+[ECO "C58"]
+[PlyCount "118"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Qe2 h6 7. Nf3 Nxc4 8.
+Qxc4 e4 9. Nd4 b6 10. Nc3 Bb7 11. Nc6 Qd7 12. Ne5 Qd6 13. d4 Bxd5 14. Nxd5 Nxd5
+15. Qb5+ Ke7 16. c4 Qb4+ 17. Bd2 Qxb5 18. cxb5 a6 19. bxa6 Rxa6 20. O-O Ke6 21.
+Rfc1 c5 22. Ng4 cxd4 23. b4 Bxb4 24. Bxb4 Nxb4 25. Rc4 Rxa2 26. Rac1 f5 27.
+Rxb4 fxg4 28. g3 Re8 29. Rxb6+ Kd5 30. Rb5+ Kd6 31. Rb6+ Ke7 32. Rb5 Kf7 33.
+Rf5+ Kg6 34. Rf4 Kh5 35. h3 gxh3 36. Rc5+ Kg6 37. Kh2 e3 38. Rg4+ Kh7 39. Kxh3
+Rxf2 40. Rxd4 e2 41. Rc1 e1=Q 42. Rxe1 Rxe1 43. Kg4 g5 44. Rd7+ Kg6 45. Rd6+
+Rf6 46. Rd8 h5+ 47. Kh3 g4+ 48. Kg2 Re2+ 49. Kg1 Ra6 50. Kf1 Rb2 51. Rd1 Raa2
+52. Kg1 Rg2+ 53. Kf1 Rxg3 54. Re1 h4 55. Re6+ Kf5 56. Re8 h3 57. Rf8+ Kg6 58.
+Re8 h2 59. Rh8 Rg1# 0-1
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.18"]
+[Round "7"]
+[White "Rubino, Aniello"]
+[Black "Le Moal, Marie"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "2157"]
+[BlackElo "1710"]
+[PlyCount "104"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. O-O Nxe4 7. cxd4 Bb4 8.
+a3 Be7 9. Ne5 d5 10. Re1 Nxf2 11. Nxc6 bxc6 12. Kxf2 dxc4 13. Be3 Rb8 14. Qc2
+Be6 15. Nc3 O-O 16. Kg1 Bd5 17. Re2 Bd6 18. Rf1 Rb3 19. Kh1 Qh4 20. Bg1 Rfb8
+21. Rf5 Be6 22. Rf1 Bg4 23. Ref2 Bh5 24. Nd1 Bxd1 25. Rxd1 c3 26. Rd3 Rxb2 27.
+Qxc3 Rxf2 28. Rh3 Qf4 29. Qd3 h6 30. Bxf2 Qxf2 31. Rf3 Qh4 32. g3 Qg5 33. Rf5
+Qc1+ 34. Rf1 Qxa3 35. Qc4 Qb3 36. Qxc6 a5 37. Ra1 Qb7 38. Qxb7 Rxb7 39. Rxa5
+Rb4 40. d5 Rb2 41. Ra8+ Kh7 42. Ra5 Kg6 43. Ra4 Kf5 44. Ra1 f6 45. Re1 Rd2 46.
+Rf1+ Ke4 47. Rf4+ Kxd5 48. Rg4 g5 49. Ra4 c5 50. Ra8 c4 51. Rh8 c3 52. Rxh6 c2
+0-1
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.18"]
+[Round "7"]
+[White "Svetushkin, Dmitry"]
+[Black "Borsos, Bogdan"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2568"]
+[BlackElo "2354"]
+[PlyCount "75"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Re1
+Kh8 9. Nbd2 Nd7 10. d4 b5 11. Bb3 Na5 12. Bc2 c5 13. Nf1 Nc6 14. d5 Ncb8 15. b3
+Nb6 16. h3 N8d7 17. a4 Nf6 18. a5 Nbd7 19. g4 Ne8 20. Ng3 g6 21. Kh2 Ng7 22.
+Be3 Nf6 23. Rg1 Rb8 24. Qd2 b4 25. c4 Rb7 26. Rg2 Ng8 27. Ng1 f6 28. f4 Qe8 29.
+Nf3 Bd8 30. f5 g5 31. h4 Nh6 32. Nh1 Nxg4+ 33. Rxg4 h5 34. Rgg1 g4 35. Ne1 Rg8
+36. Ng3 Qf7 37. Bxc5 dxc5 38. Qh6# 1-0
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.18"]
+[Round "8"]
+[White "Borsos, Bogdan"]
+[Black "Py, Walter"]
+[Result "1-0"]
+[ECO "C61"]
+[WhiteElo "2354"]
+[BlackElo "2101"]
+[PlyCount "101"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. d3 c6 7. Bc4 d5 8.
+exd5 cxd5 9. Re1+ Ne7 10. Bb5+ Bd7 11. Bxd7+ Qxd7 12. Nd2 O-O 13. Nb3 Bb6 14.
+a4 a6 15. a5 Ba7 16. Bd2 Ng6 17. Bb4 Rfc8 18. g3 Rc6 19. Rc1 Qf5 20. Nd2 Ne5
+21. Kg2 Rac8 22. Nf3 f6 23. Nxe5 fxe5 24. Qf3 Qxf3+ 25. Kxf3 Bb8 26. c3 Kf7 27.
+Ra1 dxc3 28. bxc3 Kf6 29. Ke3 Bd6 30. Bxd6 Rxd6 31. Rec1 d4+ 32. cxd4 exd4+ 33.
+Kd2 Rdc6 34. Rxc6+ Rxc6 35. h4 Rc5 36. Ke2 h5 37. Rb1 Rxa5 38. Rxb7 g6 39. Rb6+
+Kf5 40. Rd6 Ra4 41. Kf3 a5 42. Rd5+ Kf6 43. Ke4 Ra2 44. Kxd4 a4 45. Ke3 a3 46.
+Ra5 Ra1 47. Kf4 a2 48. Ra6+ Kf7 49. Kg5 Rd1 50. Rxa2 Rxd3 51. Ra7+ 1-0
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.18"]
+[Round "8"]
+[White "Okhotnik, Vladimir"]
+[Black "Forthofer, Robert"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2462"]
+[BlackElo "2253"]
+[PlyCount "47"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Bb4+ 5. Nc3 Qe7+ 6. Be2 Bg4 7. cxd5 Nf6 8.
+Bg5 Nbd7 9. h3 Bh5 10. Kf1 Bg6 11. Bf3 O-O 12. Nge2 Nb6 13. Nf4 Qd6 14. Nxg6
+hxg6 15. Qb3 Bxc3 16. bxc3 Nbxd5 17. c4 Nf4 18. Rd1 Ne6 19. Be3 Rab8 20. g3 c6
+21. Kg2 Nc7 22. d5 c5 23. Bf4 Qd7 24. Qa3 1-0
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.18"]
+[Round "8"]
+[White "Philippe, Christophe"]
+[Black "Svetushkin, Dmitry"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2407"]
+[BlackElo "2568"]
+[PlyCount "94"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. Nc3 d6 8. Nd5
+h6 9. c3 Be6 10. Nxf6+ Qxf6 11. O-O O-O 12. Be3 Bxe3 13. fxe3 Qe7 14. Qe1 Nb8
+15. Nh4 Bxb3 16. axb3 g6 17. Qg3 Nd7 18. b4 Kh7 19. Rf3 Rg8 20. Raf1 f6 21. Qg4
+Qf7 22. Rh3 a5 23. Rff3 Nf8 24. Nf5 h5 25. Ng3 Kh8 26. bxa5 Nh7 27. Qh4 Rxa5
+28. Nf1 Qe7 29. Rf2 Ng5 30. Rg3 Ra1 31. h3 Rga8 32. Kh2 Rc1 33. Rgf3 Nxf3+ 34.
+Rxf3 Raa1 35. Ng3 Kg7 36. d4 c5 37. d5 Qf7 38. Rf2 b4 39. cxb4 cxb4 40. b3 Rcb1
+41. Rc2 Rxb3 42. Rc6 Rb2 43. Rxd6 Raa2 44. Rb6 Rxg2+ 45. Kh1 Rgb2 46. Kg1 Ra1+
+47. Nf1 Rbb1 0-1
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.19"]
+[Round "9"]
+[White "Cellier, David"]
+[Black "Muscariello, Jean"]
+[Result "1-0"]
+[ECO "C20"]
+[PlyCount "65"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 e5 2. e4 Nf6 3. d3 Bc5 4. Be2 a6 5. Nf3 Nc6 6. O-O d6 7. Nc3 Nd4 8. Bg5
+c6 9. Nxd4 Bxd4 10. Bh5 h6 11. Bh4 g6 12. Be2 Kd7 13. Qa4 g5 14. Bg3 Ke7 15.
+Qd1 h5 16. h3 Qg8 17. Bh2 g4 18. h4 g3 19. Bf3 gxh2+ 20. Kxh2 Bg4 21. Ne2 Bxf3
+22. gxf3 Ba7 23. Ng3 Kd7 24. Qb3 Rb8 25. Qa3 Qf8 26. b4 Bd4 27. Rac1 c5 28.
+bxc5 dxc5 29. Qa4+ Ke6 30. Rb1 Qd8 31. Nf5 Nd7 32. Rxb7 Rxb7 33. Qc6# 1-0
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.19"]
+[Round "9"]
+[White "Forthofer, Robert"]
+[Black "De la Forest, Laurent"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2253"]
+[BlackElo "1870"]
+[PlyCount "51"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. c4 c6 6. Bd3 Bd6 7. O-O O-O 8. Nc3
+Bg4 9. h3 Be6 10. cxd5 Bxd5 11. Re1 Bxf3 12. Qxf3 Nbd7 13. Ne4 Qc7 14. Bg5 Be7
+15. Ng3 Rae8 16. Nh5 Nd5 17. Qe4 g6 18. Bh6 N7f6 19. Nxf6+ Nxf6 20. Qf3 Qd6 21.
+Rad1 Kh8 22. Bxf8 Rxf8 23. Qe3 Nd5 24. Qe5+ Kg8 25. Bc4 f6 26. Bxd5+ 1-0
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.19"]
+[Round "9"]
+[White "Py, Walter"]
+[Black "Jouet, Philippe"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2101"]
+[BlackElo "1893"]
+[PlyCount "93"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 b6
+8. Ne5 Bb7 9. Bb5+ c6 10. Bxc6+ Bxc6 11. Nxc6 Qd5 12. Ne5 Qxg2 13. Qf3 Qxf3 14.
+Nxf3 Rc8 15. c3 Bd6 16. Bg5 Ne4 17. Bh4 Be7 18. Bg3 Nxg3 19. hxg3 Bf6 20. a4 a6
+21. Ke2 Ke7 22. Ne5 Bxe5 23. dxe5 h6 24. Rh4 Rc5 25. Re4 Rd8 26. Rd1 Rxd1 27.
+Kxd1 b5 28. f4 Kd7 29. Rd4+ Kc6 30. Rd6+ Kb7 31. axb5 axb5 32. Kc2 g5 33. Rd7+
+Kc6 34. Rxf7 gxf4 35. gxf4 Rc4 36. Kd3 Ra4 37. b4 Ra1 38. Rf6 Kd5 39. Rxh6 Rd1+
+40. Kc2 Rf1 41. Rf6 Rh1 42. Rf7 Rh2+ 43. Kb3 Rf2 44. Rc7 Rxf4 45. Rc5+ Ke4 46.
+Rxb5 Rf5 47. Rc5 1-0
+
+[Event "Gap op 2nd"]
+[Site "Gap"]
+[Date "2008.04.19"]
+[Round "9"]
+[White "Svetushkin, Dmitry"]
+[Black "Garnier, Jean Paul"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2568"]
+[BlackElo "2059"]
+[PlyCount "61"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Bd3 d6 5. h3 Nc6 6. a3 Ba5 7. O-O O-O 8. Nd5
+Nxd5 9. exd5 Nb8 10. c4 c6 11. b4 Bc7 12. Bc2 a5 13. d4 f6 14. Bb2 axb4 15.
+axb4 Rxa1 16. Bxa1 cxd5 17. cxd5 Bb6 18. Qb1 h6 19. Nh4 Rf7 20. Bg6 Rc7 21. f4
+Rc4 22. Bh7+ Kf8 23. fxe5 dxe5 24. Ng6+ Ke8 25. Nxe5 Rc7 26. Bg8 f5 27. Bh7 Qg5
+28. d6 Rc6 29. Qb3 Rxd6 30. Qg8+ Ke7 31. Qxc8 1-0
+
+[Event "Salon de Provence op 3rd"]
+[Site "Salon de Provence"]
+[Date "2008.04.14"]
+[Round "1"]
+[White "Artiaga, Romain"]
+[Black "Sartre, Guilhem"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2002"]
+[BlackElo "1330"]
+[PlyCount "75"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O Nge7 6. c3 dxc3 7. Nxc3 d6 8.
+a3 Bg4 9. Bxf7+ Kf8 10. Bc4 Qd7 11. Be3 Bb6 12. h3 Be6 13. Nd5 Rc8 14. Ng5 Bxd5
+15. exd5 Ne5 16. Be2 Nf5 17. Bg4 Nxg4 18. Qxg4 Kg8 19. Bxb6 axb6 20. Rfe1 h5
+21. Qe4 c6 22. Rac1 c5 23. Rc3 Rf8 24. Rf3 Qc8 25. Ne6 Rf6 26. Rxf5 Rhh6 27.
+Rg5 Rf7 28. Re3 Qd7 29. Reg3 Rh7 30. Rf5 Rxf5 31. Qxf5 Qe7 32. Rf3 Rh6 33. Qf8+
+Qxf8 34. Rxf8+ Kh7 35. Rd8 Kg6 36. Rxd6 Kf5 37. Nxg7+ Kg5 38. h4+ 1-0
+
+[Event "Salon de Provence op 3rd"]
+[Site "Salon de Provence"]
+[Date "2008.04.14"]
+[Round "1"]
+[White "Costa, Jean Yves"]
+[Black "Henry, Lazare"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "1979"]
+[BlackElo "1180"]
+[PlyCount "39"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bg4 5. d5 a6 6. dxc6 axb5 7. cxb7 Rb8 8.
+Qd5 Bd7 9. Nc3 c6 10. Qd3 Rxb7 11. O-O g6 12. Bg5 Nf6 13. Rfd1 Be7 14. Bxf6
+Bxf6 15. Qxd6 Rb6 16. Nxe5 Be7 17. Qd3 Rb7 18. Qf3 O-O 19. Nxc6 Qc8 20. Nxe7+
+1-0
+
+[Event "Salon de Provence op 3rd"]
+[Site "Salon de Provence"]
+[Date "2008.04.14"]
+[Round "1"]
+[White "Faure, Alexandre"]
+[Black "Gomez, Jose4"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "1099"]
+[BlackElo "1933"]
+[PlyCount "104"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Nc3 cxd4 6. Nxd4 Nxe5 7. Bb5+ Bd7 8.
+Bxd7+ Qxd7 9. f4 Nc4 10. b3 Bb4 11. Bd2 Nxd2 12. Qxd2 Rc8 13. Nde2 Qc7 14. O-O
+Bxc3 15. Nxc3 Qxc3 16. Qd1 Qxc2 17. Qd4 Qc5 18. Qxc5 Rxc5 19. Rac1 Rxc1 20.
+Rxc1 Kd7 21. a4 Nf6 22. b4 Rc8 23. Rxc8 Kxc8 24. Kf2 Kd7 25. Kf3 d4 26. g4 d3
+27. h3 d2 28. Ke2 Ne4 29. a5 Kc6 30. f5 Kb5 31. fxe6 fxe6 32. g5 Kxb4 33. h4
+Kxa5 34. Kd1 b5 35. h5 b4 36. g6 b3 37. gxh7 b2 38. Kc2 d1=Q+ 39. Kxd1 b1=Q+
+40. Ke2 Ng3+ 41. Kf3 Qd3+ 42. Kg4 Qxh7 43. Kxg3 Qxh5 44. Kg2 Qf5 45. Kh1 e5 46.
+Kh2 e4 47. Kg1 e3 48. Kh1 e2 49. Kh2 e1=R 50. Kg2 Re2+ 51. Kh1 Qh3+ 52. Kg1
+Qg2# 0-1
+
+[Event "Salon de Provence op 3rd"]
+[Site "Salon de Provence"]
+[Date "2008.04.14"]
+[Round "1"]
+[White "Henry, Jean Jonas"]
+[Black "Riols, Jacques"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1009"]
+[BlackElo "1779"]
+[PlyCount "50"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Bc5 4. O-O Nc6 5. Nc3 O-O 6. d3 h6 7. Bg5 hxg5 8.
+Nxg5 g6 9. Bxf7+ Rxf7 10. Nxf7 Kxf7 11. Nb5 d6 12. Qf3 Bg4 13. Qg3 Qd7 14. Qh4
+Kg7 15. b4 Nxb4 16. h3 Be2 17. Rae1 Bxf1 18. Rxf1 Qxb5 19. c3 Nxd3 20. Qg3 Nxf2
+21. Qxf2 Nxe4 22. Kh1 Bxf2 23. c4 Qxc4 24. a4 Qxf1+ 25. Kh2 Bg3# 0-1
+
+[Event "Salon de Provence op 3rd"]
+[Site "Salon de Provence"]
+[Date "2008.04.14"]
+[Round "1"]
+[White "Kolb, Sebastien"]
+[Black "Montesinos, Marc"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2175"]
+[BlackElo "1700"]
+[PlyCount "87"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nd7 4. Ngf3 dxe4 5. Nxe4 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6
+8. Bg5 Be7 9. Bd3 Nd5 10. Bd2 O-O 11. O-O c6 12. c4 Nb6 13. Bc3 c5 14. Qc2 h6
+15. Rad1 Qc7 16. dxc5 Bxc5 17. Be5 Qe7 18. b3 Nd7 19. Bb2 b6 20. Qc3 Nf6 21.
+Ne5 Bb7 22. Ng4 Rad8 23. Nxf6+ Qxf6 24. Qxf6 gxf6 25. Bxf6 Rde8 26. Be2 Be7 27.
+Bxe7 Rxe7 28. Rd3 f5 29. Rfd1 Rff7 30. Bf3 Bxf3 31. Rxf3 Kg7 32. Rg3+ Kf6 33.
+f4 e5 34. Rd6+ Re6 35. fxe5+ Kxe5 36. Rxe6+ Kxe6 37. Rg6+ Rf6 38. Rxf6+ Kxf6
+39. Kf2 Ke5 40. Ke3 f4+ 41. Kf3 h5 42. h4 Kf5 43. b4 a6 44. c5 1-0
+
+[Event "Salon de Provence op 3rd"]
+[Site "Salon de Provence"]
+[Date "2008.04.15"]
+[Round "2"]
+[White "Artiaga, Harold"]
+[Black "Faure, Alexandre"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "1660"]
+[BlackElo "1099"]
+[PlyCount "101"]
+[EventDate "2008.04.14"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 d6 4. Bc4 f5 5. exf5 Bxf5 6. O-O d5 7. Bb5 e4 8. Re1
+a6 9. Bxc6+ bxc6 10. Ne5 Ne7 11. Nc3 Qd6 12. d3 Ng6 13. dxe4 dxe4 14. Qxd6 Bxd6
+15. Nxc6 Nxf4 16. Nxe4 Ne6 17. Nxd6+ cxd6 18. Nd4 Kf7 19. Nxf5 Rad8 20. Bd2 Kf6
+21. Ng3 Nd4 22. Bc3 Rhe8 23. Kf1 Rxe1+ 24. Rxe1 Rd7 25. Bxd4+ Kg6 26. Re3 Rf7+
+27. Ke2 Rc7 28. c3 Rb7 29. b3 Rd7 30. Kd3 h5 31. Kc4 h4 32. Ne2 d5+ 33. Kc5
+Rc7+ 34. Kxd5 Rd7+ 35. Kc4 Rc7+ 36. Kd3 Rc6 37. Re7 Rd6 38. Rxg7+ Kf5 39. Rf7+
+Kg6 40. Rf6+ Rxf6 41. Bxf6 Kxf6 42. g3 Kg5 43. gxh4+ Kxh4 44. c4 Kh3 45. c5
+Kxh2 46. c6 a5 47. c7 a4 48. c8=Q axb3 49. Qg8 bxa2 50. Qg3+ Kh1 51. Qg1# 1-0
+
+[Event "Salon de Provence op 3rd"]
+[Site "Salon de Provence"]
+[Date "2008.04.15"]
+[Round "2"]
+[White "Gomez, Jose4"]
+[Black "Jeanjean, Dominique"]
+[Result "1-0"]

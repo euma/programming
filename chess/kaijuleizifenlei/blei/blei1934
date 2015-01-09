@@ -1,0 +1,600 @@
+[Black "Egerton, James"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2161"]
+[BlackElo "2045"]
+[PlyCount "91"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Qd2 Nxe3 8.
+Qxe3 e5 9. Nb3 Be7 10. g3 Be6 11. Bg2 O-O 12. O-O Nd7 13. Rad1 Nb6 14. Nd2 Rc8
+15. h4 Bg4 16. Rc1 Rc6 17. b3 Qc8 18. Ndb1 Rd8 19. a4 Bf8 20. Qd2 Nd7 21. Nd5
+Nc5 22. Na3 Ne6 23. f3 Bh5 24. g4 Bxg4 25. fxg4 Nd4 26. Qd1 b5 27. c3 Ne6 28.
+axb5 axb5 29. Nxb5 Ra6 30. c4 Qc5+ 31. Kh1 Rda8 32. Qf3 f6 33. Qc3 Rb8 34. Ra1
+Rxa1 35. Rxa1 Qf2 36. Qe1 Qb2 37. Rb1 Qa2 38. Nb4 Qa8 39. Ra1 Qb7 40. Nd5 Nc5
+41. Ra7 Qc8 42. Qg3 Ne6 43. g5 fxg5 44. Bh3 Rxb5 45. cxb5 Qc1+ 46. Qg1 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Dahl, Matthew D"]
+[Black "Adithya, B."]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2054"]
+[BlackElo "2135"]
+[PlyCount "60"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 cxd4 7. cxd4 e6 8.
+Nc3 Qa5 9. O-O Nf6 10. h3 Bh5 11. Be3 Bd6 12. a3 O-O 13. Qb3 Ne7 14. Nd2 Bxe2
+15. Nxe2 Rfc8 16. Rac1 Qh5 17. Nf4 Qf5 18. g4 Nxg4 19. Rxc8+ Rxc8 20. hxg4
+Qxg4+ 21. Ng2 Nd5 22. Nc4 Bc7 23. Ne5 Qh3 24. Qd1 Bxe5 25. dxe5 Rc4 26. Bf4 g5
+27. Bg3 h5 28. f4 Qxg3 29. fxg5 Rg4 30. Qf3 Qxg2+ 0-1
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Drake, Jason"]
+[Black "Arnold, Marc Tyler"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2165"]
+[PlyCount "114"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Nb3 Qc7 8. O-O
+Bb7 9. Qe2 Nf6 10. Be3 d6 11. f3 Nbd7 12. Qf2 Be7 13. a3 O-O 14. Kh1 Rfe8 15.
+Qg3 Bf8 16. f4 g6 17. Rf2 Bg7 18. Raf1 Kh8 19. Qh4 h5 20. h3 Qd8 21. Qg3 Qe7
+22. Na5 Rab8 23. Nxb7 Rxb7 24. Bd2 Nh7 25. Qe3 h4 26. Nd1 Nhf6 27. Be2 d5 28.
+exd5 exd5 29. Qxe7 Rxe7 30. Bb4 Re8 31. Bf3 Ne4 32. Bxe4 dxe4 33. Ne3 f5 34.
+Rd2 Nf6 35. Bc3 Nh5 36. Bxg7+ Kxg7 37. Kh2 Ree7 38. Rdf2 Rbd7 39. Re1 Rd4 40.
+Nf1 Red7 41. g3 hxg3+ 42. Nxg3 Nf6 43. Nf1 Nd5 44. Ne3 Nxe3 45. Rxe3 Rd2 46.
+Rfe2 Kf6 47. h4 Ke6 48. Kg3 Rxe2 49. Rxe2 Rd1 50. Kf2 Rh1 51. Ke3 Rxh4 52. Rg2
+Kf6 53. b3 Rh8 54. Rd2 Rh3+ 55. Kd4 Rf3 56. c4 Rxb3 57. cxb5 axb5 0-1
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Goldstein, Brian"]
+[Black "Terrie, Henry L"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "2130"]
+[BlackElo "2060"]
+[PlyCount "93"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. Bd3 Nf6 8.
+O-O Ne5 9. Nf3 Nfg4 10. Nxe5 Nxe3 11. Qh5 g6 12. Qf3 Qxe5 13. fxe3 f6 14. Qxf6
+Qxf6 15. Rxf6 Bg7 16. Rf3 d6 17. Na4 Bd7 18. Nb6 Rd8 19. c3 Bc6 20. Raf1 Rf8
+21. Rh3 Rxf1+ 22. Kxf1 h6 23. Ke2 Ke7 24. Nc4 b5 25. Na5 Be8 26. Rf3 Rc8 27.
+Rf1 Rc5 28. Nb3 Rh5 29. h3 Rg5 30. Rf2 Be5 31. Kf1 Bg3 32. Rd2 Bc6 33. Nd4 Bb7
+34. Ne2 Be5 35. Nf4 h5 36. h4 Rg4 37. Be2 Rxf4+ 38. exf4 Bxf4 39. Rd4 Be3 40.
+Rd3 Bc1 41. b3 Bxe4 42. Rd4 d5 43. Rd1 Be3 44. Bd3 Bf5 45. Bxf5 gxf5 46. Ke2
+Bc5 47. Rd3 1/2-1/2
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Guadalupe, Francisco II"]
+[Black "Hiltunen, James"]
+[Result "1-0"]
+[ECO "B84"]
+[WhiteElo "2230"]
+[PlyCount "77"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. Be3
+O-O 9. f4 Nbd7 10. a4 Qc7 11. Bf3 Nb6 12. Kh1 e5 13. Nde2 Nc4 14. Bc1 exf4 15.
+Nxf4 Be6 16. b3 Ne3 17. Bxe3 Qxc3 18. Bd4 Qc7 19. a5 Rae8 20. c4 Nd7 21. Qd2
+Ne5 22. Qc3 Bg5 23. Nd3 Bf6 24. Rfd1 Rc8 25. Ra2 Rfe8 26. Nb2 Bd7 27. Qd2 Qc6
+28. Na4 Rcd8 29. Nb6 Be6 30. Qc3 Qc7 31. Rc2 Nd7 32. Bxf6 Nxf6 33. Rcd2 Bg4 34.
+Rd4 Nxe4 35. Qb2 Bxf3 36. gxf3 Nf6 37. Rg1 Qe7 38. Re4 Qf8 39. Qxf6 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Kleist, Frederick"]
+[Black "Polsky, Ryan"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "2136"]
+[PlyCount "51"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. b3 e5 4. Bb2 d6 5. c3 g6 6. Bb5 Bd7 7. O-O a6 8. Be2 Bg7
+9. Re1 Nge7 10. d4 O-O 11. Na3 f5 12. exf5 Nxf5 13. dxc5 dxc5 14. Qd5+ Kh8 15.
+Rad1 Bc8 16. Qxc5 Qf6 17. Nc4 Be6 18. Ncd2 Nh4 19. Ne4 Nxf3+ 20. Bxf3 Qh4 21.
+Bc1 Bg4 22. Bxg4 Qxg4 23. h3 Qf5 24. Qb6 Rab8 25. Ba3 Rfd8 26. Bd6 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Lopez, Nelson M"]
+[Black "Mennella, James"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2124"]
+[PlyCount "55"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d5 2. exd5 Nf6 3. Be2 Nxd5 4. d4 c6 5. c4 Nb6 6. Bf4 Be6 7. b3 g6 8. Na3
+Bg7 9. Nc2 O-O 10. h4 Bf5 11. Nf3 c5 12. Ne3 cxd4 13. Nxf5 gxf5 14. Qd3 e6 15.
+g4 fxg4 16. Ng5 Re8 17. Qxh7+ Kf8 18. Be5 f6 19. Qg6 Re7 20. Nh7+ Kg8 21. Nxf6+
+Kf8 22. Nh7+ Kg8 23. Bxg4 Nxc4 24. Bxe6+ Kh8 25. Nf8 Qa5+ 26. Kf1 Nd2+ 27. Kg2
+Bxe5 28. Qg8# 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Strenzwilk, Denis"]
+[Black "Pinkerton, James Carl"]
+[Result "0-1"]
+[ECO "B70"]
+[WhiteElo "2055"]
+[BlackElo "2102"]
+[PlyCount "68"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Nd5 Nxd5 7. Bb5+ Bd7 8.
+exd5 Bg7 9. O-O Qb6 10. Bxd7+ Nxd7 11. Be3 Qxb2 12. a4 Nc5 13. Rb1 Qa2 14. Nb5
+O-O 15. Bxc5 dxc5 16. Re1 Bf6 17. d6 e6 18. Qf3 Kg7 19. Nc7 Rad8 20. Rxb7 Rxd6
+21. Nb5 Ra6 22. Nc7 Rxa4 23. Qb3 Kg8 24. Nb5 Qxb3 25. cxb3 Rb4 26. Nd6 Rxb7 27.
+Nxb7 Bd4 28. Nd6 Rb8 29. Rb1 a5 30. Nc4 a4 31. Na5 a3 32. Nc6 a2 33. Rd1 Rxb3
+34. Nxd4 cxd4 0-1
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "West, James R"]
+[Black "Uesugi, Shinsaku"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "2209"]
+[BlackElo "2227"]
+[PlyCount "35"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. c3 d3 5. Bxd3 g6 6. O-O Bg7 7. c4 d6 8. h3
+Nf6 9. Nc3 O-O 10. Be3 Nd7 11. Be2 b6 12. Nd4 Bb7 13. f4 Nc5 14. Bf3 Rc8 15.
+Nxc6 Bxc6 16. Bd4 e5 17. Bxc5 bxc5 18. f5 1/2-1/2
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "West, Vanessa A"]
+[Black "Aigner, Michael"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "2073"]
+[BlackElo "2234"]
+[PlyCount "66"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. e5 Nd5 7. Nc3 Nc7 8.
+Bxc6 dxc6 9. Ne4 Ne6 10. d3 O-O 11. Be3 b6 12. Qd2 Re8 13. Bh6 Nd4 14. Nxd4
+Qxd4 15. Bxg7 Kxg7 16. Qg5 h6 17. Qg3 Qxb2 18. h4 Bf5 19. h5 Rad8 20. Rad1 c4
+21. e6 f6 22. hxg6 Bxe4 23. Rxe4 Qxc2 24. Rde1 cxd3 25. Qf3 d2 26. Rd1 Rd3 27.
+Qh5 Rd5 28. Qe2 Red8 29. Rc4 Qxa2 30. Rxc6 Re5 31. Qf3 Qa4 32. Rc7 Re1+ 33. Kh2
+Qh4+ 0-1
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.07"]
+[Round "6"]
+[White "Aigner, Michael"]
+[Black "Jimenez, Marc"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2234"]
+[PlyCount "123"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Nc3 Bf5 7. g4 Nxc3 8.
+bxc3 Be6 9. Be2 Nd7 10. Nd3 Bd5 11. O-O e6 12. Bf4 Be7 13. a4 O-O 14. Rb1 c5
+15. Nb2 Nf6 16. f3 Bc6 17. Qd3 Nd5 18. Bd2 Qc7 19. c4 Nf4 20. Bxf4 Qxf4 21. d5
+exd5 22. cxd5 Bd6 23. Rf2 Bxa4 24. Nxa4 Qxa4 25. c4 b6 26. Bd1 Qd7 27. Ra2 Bc7
+28. Ba4 Qd6 29. Re1 a5 30. Re3 Rad8 31. Rae2 Qf6 32. Bc2 g6 33. Re4 Bd6 34. Qe3
+Rb8 35. Qd3 Qa1+ 36. Re1 Qb2 37. Rb1 Qf6 38. f4 Rbe8 39. Rxb6 Rxe4 40. Qxe4
+Qxf4 41. Qxf4 Bxf4 42. Rb5 Bd2 43. Kf2 Bb4 44. Rb7 Rd8 45. Kf3 Kg7 46. Ba4 h6
+47. Rc7 Kf6 48. h4 Kg7 49. Ke4 Kf8 50. h5 gxh5 51. gxh5 Kg7 52. Kf5 Kf8 53. Bd7
+Ba3 54. Ke4 Bb4 55. d6 a4 56. Ra7 Ba5 57. Rxa5 Rxd7 58. Kd5 Rb7 59. Kxc5 a3 60.
+Rxa3 Rb2 61. Ra8+ Kg7 62. d7 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.07"]
+[Round "6"]
+[White "Dejmek, Mark W"]
+[Black "Shabalov, Alexander"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "2136"]
+[BlackElo "2611"]
+[PlyCount "78"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Bb4 9. f3 Ne7 10. Nde2 d5 11. e5 Nd7 12. f4 b5 13. Qe1 Ba5 14. Qf2 Bb7
+15. Bd4 Rc8 16. Ng3 Nc6 17. Bxb5 axb5 18. Nxb5 Qb8 19. Nd6+ Ke7 20. Nh5 Nxd4
+21. Rxd4 Bb6 22. Qh4+ Kf8 23. Rb4 Qc7 24. c3 Rg8 25. Nxc8 Bxc8 26. Kb1 Bc5 27.
+f5 Nxe5 28. fxe6 g5 29. Qg3 Bxe6 30. Ra4 Ke7 31. Rf1 Rg6 32. h4 h6 33. hxg5
+Rxg5 34. Qh2 Qb6 35. Nf6 Qb5 36. Raf4 Nd3 37. b3 Nxf4 38. Qxf4 Qd3+ 39. Ka1
+Qxc3+ 0-1
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Dahl, Matthew D"]
+[Black "Banawa, Jouaquin"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2054"]
+[BlackElo "2338"]
+[PlyCount "63"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 Nb6 8. Bb3
+d5 9. Nh4 e6 10. g3 Be7 11. Qg4 g6 12. Ng2 f6 13. Bh6 fxe5 14. Bg7 Rg8 15. Bxe5
+Nxe5 16. dxe5 Qc7 17. O-O Qxe5 18. Nc3 Bd7 19. Rac1 Rf8 20. Rfe1 Qf6 21. Qe2
+Kf7 22. a4 a5 23. Ne3 Bd6 24. Ng4 Qd8 25. Qd2 h5 26. Ne5+ Bxe5 27. Rxe5 Rc8 28.
+Rce1 Nc4 29. Bxc4 Rxc4 30. Rxd5 exd5 31. Qxd5+ Be6 32. Qxe6+ 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Drake, Jason"]
+[Black "Aigner, Michael"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2165"]
+[BlackElo "2234"]
+[PlyCount "102"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 Rb8 13. b3 Be6 14. g3 Bg5 15.
+Bg2 a5 16. O-O Ne7 17. Nxe7 Bxe7 18. Qd3 Qb6 19. Kh1 h5 20. Ne3 h4 21. Nf5 g6
+22. Nxe7 Kxe7 23. f4 hxg3 24. Qxg3 exf4 25. Qxf4 Qd4 26. c5 Qxc5 27. Qf6+ Kd7
+28. Rfd1 Rh5 29. Rac1 Qe5 30. Qxe5 Rxe5 31. Rd4 Rb6 32. Bf1 Rc6 33. Rcd1 Ke7
+34. Bg2 Bg4 35. Ra1 Rec5 36. h3 Rc1+ 37. Rxc1 Rxc1+ 38. Kh2 Be6 39. Rd2 Rc3 40.
+Rf2 Bd7 41. Bf1 f6 42. Bg2 Bb5 43. h4 Re3 44. Rc2 Re2 45. Rc7+ Bd7 46. Kg3 Kd8
+47. Ra7 Rxa2 48. Bf1 Be6 49. Bb5 Ra3 50. Kf4 Rxb3 51. Rxa5 Rh3 0-1
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Guadalupe, Francisco II"]
+[Black "Itkis, Hana"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2230"]
+[BlackElo "2073"]
+[PlyCount "117"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. g4 c5 6. g5 Nfd7 7. Be3 Qa5 8. Nf3
+a6 9. Qd2 Nc6 10. h4 O-O 11. O-O-O b5 12. Kb1 Nb6 13. dxc5 b4 14. cxb6 bxc3 15.
+Qd5 Qb4 16. b3 Bb7 17. Qc4 Qa3 18. Bc1 Qa5 19. h5 Rac8 20. Qa4 Qxb6 21. hxg6
+hxg6 22. e5 Qb4 23. Qxb4 Nxb4 24. Ba3 a5 25. exd6 exd6 26. Rh4 Rfe8 27. Ng1
+Rxe2 28. Nxe2 Bf3 29. Bxb4 axb4 30. Re1 Re8 31. Rxb4 Bxe2 32. a4 d5 33. Ka2 Kf8
+34. a5 d4 35. Rb6 d3 36. cxd3 Bd4 37. Rd6 Bxf2 38. Rc1 Rc8 39. Rc2 Bg3 40. Rd4
+Bd1 41. Kb1 Bxc2+ 42. Kxc2 Ke7 43. b4 Ra8 44. Re4+ Kd6 45. Kxc3 Be5+ 46. Kc4 f5
+47. gxf6 Bxf6 48. Kb5 Rb8+ 49. Ka4 g5 50. b5 Kc7 51. b6+ Kb7 52. Kb5 Ra8 53.
+Re6 Bd8 54. d4 Rc8 55. a6+ Kb8 56. Rd6 Be7 57. Re6 Bd8 58. Re8 g4 59. b7 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Hall, Odell"]
+[Black "Shao, Andy"]
+[Result "1-0"]
+[ECO "B30"]
+[PlyCount "83"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. a3 e6 4. b4 cxb4 5. axb4 Nxb4 6. c3 Nc6 7. d4 d6 8. d5
+exd5 9. exd5 Ne5 10. Nxe5 dxe5 11. Bb5+ Bd7 12. Bc4 Qc7 13. Qb3 Bd6 14. Na3 Ne7
+15. Nb5 Bxb5 16. Bxb5+ Kf8 17. O-O a6 18. Rd1 Rc8 19. Bd3 Qxc3 20. Qa4 Qd4 21.
+Qa2 Qxd5 22. Qe2 Qe6 23. Bg5 f6 24. Bd2 Nc6 25. Rac1 Ke7 26. Qe4 Qd7 27. f4 Ba3
+28. Rb1 Bc5+ 29. Kh1 Rc7 30. fxe5 Nxe5 31. Ba5 Rc6 32. Bb5 Qg4 33. Bxc6 bxc6
+34. Rb7+ Ke6 35. Qc2 h5 36. Rc1 Be3 37. Qb3+ Kd6 38. Qxe3 h4 39. Bc7+ Ke6 40.
+Bxe5 fxe5 41. Rxc6+ Kf5 42. Rf7# 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Magness, Trevor"]
+[Black "Milburn, Jerry"]
+[Result "1-0"]
+[ECO "B80"]
+[PlyCount "65"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 a6 7. f3 Nc6 8. Qd2
+Qc7 9. O-O-O Be7 10. g4 Na5 11. g5 Nd7 12. h4 Nc4 13. Bxc4 Qxc4 14. h5 b5 15.
+b3 Qc7 16. g6 Ne5 17. h6 fxg6 18. hxg7 Rg8 19. Rxh7 Bf6 20. Ndxb5 axb5 21. Nxb5
+Qc6 22. Nxd6+ Ke7 23. Qb4 Bd7 24. Nf5+ Ke8 25. Rh8 Kf7 26. Nh6+ Kxg7 27. Rxg8+
+Rxg8 28. Nxg8 Kxg8 29. Qb8+ Kf7 30. Bd4 Bg5+ 31. f4 Bxf4+ 32. Kb1 Nf3 33. Qxf4+
+1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Milovanovic, Dragan"]
+[Black "Goldstein, Brian"]
+[Result "1/2-1/2"]
+[ECO "B28"]
+[BlackElo "2130"]
+[PlyCount "39"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 a6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nf5 d6 7. Ne3 g6 8. Nc3
+Bg7 9. g3 Nge7 10. Bg2 Rb8 11. O-O b5 12. cxb5 axb5 13. a4 b4 14. Nb5 Nd4 15.
+Nc4 O-O 16. Ncxd6 Ba6 17. Bg5 h6 18. Be3 Bxb5 19. Nxb5 Nxb5 20. axb5 1/2-1/2
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Noland, Quintin"]
+[Black "Baker, Samuel"]
+[Result "1-0"]
+[ECO "B23"]
+[PlyCount "43"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Bb5 a6 5. Bxc6+ bxc6 6. Nf3 d5 7. Ne5 Qd6 8.
+O-O Nf6 9. d3 dxe4 10. Nxe4 Qd4+ 11. Nf2 Bb7 12. Bd2 Rb8 13. Bc3 Qxf4 14. Ne4
+Qe3+ 15. Kh1 Nxe4 16. dxe4 Rd8 17. Qg4 h5 18. Qf5 Rd6 19. Qxf7+ Kd8 20. Qxf8+
+Rxf8 21. Rxf8+ Kc7 22. Ba5# 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Noland, Shawn W"]
+[Black "Schoonmaker, Nicholas"]
+[Result "0-1"]
+[ECO "B84"]
+[WhiteElo "2120"]
+[BlackElo "2195"]
+[PlyCount "140"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 a6 3. f4 b5 4. Nf3 e6 5. d4 cxd4 6. Nxd4 Bb7 7. a3 d6 8. Be2
+Nf6 9. Bf3 Qc7 10. Be3 Nbd7 11. Qe2 e5 12. Nb3 Be7 13. f5 Rc8 14. Nd2 Nb6 15.
+g4 Nc4 16. Nxc4 Qxc4 17. Bd2 Qxe2+ 18. Kxe2 Rc4 19. b3 Rc5 20. Kd3 d5 21. exd5
+Nxd5 22. Bxd5 Bxd5 23. Rhe1 Bf3 24. b4 Rc7 25. Rxe5 O-O 26. Rae1 Bf6 27. Rc5
+Rd7+ 28. Ke3 Bd4+ 29. Kxf3 Bxc5 30. Ne4 Be7 31. Be3 Rc8 32. Nc5 Bxc5 33. bxc5
+Re8 34. Rb1 Rde7 35. Rb3 Re4 36. Rd3 Rc4 37. c3 Ra4 38. Bc1 f6 39. Rd4 Kf7 40.
+h4 Rc8 41. Rxa4 bxa4 42. Be3 Re8 43. Bf4 Re1 44. c6 Ke8 45. Bd6 Kd8 46. Bf8 Rc1
+47. Bxg7 Rxc3+ 48. Ke4 Rxc6 49. g5 fxg5 50. hxg5 Ke7 51. Bd4 Kf7 52. Kd5 Rc1
+53. Bc5 Rf1 54. g6+ hxg6 55. fxg6+ Kxg6 56. Kc4 Rb1 57. Bb4 Rb3 58. Bd6 Kf5 59.
+Bb4 Ke4 60. Be7 Ke3 61. Bb4 Ke2 62. Be7 Kd2 63. Bb4+ Kc2 64. Bd6 Rh3 65. Kb4
+Rh4+ 66. Ka5 Kb3 67. Be7 Re4 68. Bf8 Re2 69. Kxa6 Ra2 70. Kb5 Rxa3 0-1
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Pamatmat, Jordan"]
+[Black "Newman, Jonmark"]
+[Result "1-0"]
+[ECO "B80"]
+[PlyCount "45"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 Be7 8. Qd2
+Nc6 9. O-O-O Bd7 10. g4 h6 11. h4 Ne5 12. Be2 b5 13. g5 Ng8 14. gxh6 Nxh6 15.
+Rdg1 Bf6 16. Bg5 b4 17. Nd1 a5 18. Bxf6 Qxf6 19. f4 Nc6 20. Nxc6 Bxc6 21. Qxd6
+Bxe4 22. Bb5+ Bc6 23. Bxc6# 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Sevillano, Enrico"]
+[Black "Battaglini, Gabriel"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2505"]
+[BlackElo "2341"]
+[PlyCount "59"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. c4 e5 3. Nf3 d6 4. d4 Bg4 5. dxe5 Bxf3 6. Qxf3 dxe5 7. Qg3 Nd7 8.
+Nc3 Ngf6 9. Bd3 g6 10. O-O Bg7 11. Rd1 O-O 12. Be2 Qc7 13. Be3 Rfd8 14. h4 Nf8
+15. h5 Ne6 16. Qh4 Nf4 17. h6 Bh8 18. g3 Ne6 19. Kg2 Nd7 20. Bg4 Ndf8 21. Rac1
+Nd4 22. Bg5 Re8 23. Ne2 Nfe6 24. Bf6 Nxe2 25. Bxe2 Bxf6 26. Qxf6 Kf8 27. Bg4
+Nd4 28. c5 b6 29. f4 bxc5 30. Rxc5 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Shabalov, Alexander"]
+[Black "Kuderinov, Kirill"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2611"]
+[BlackElo "2422"]
+[PlyCount "72"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Nf6 8.
+Bg5 Be6 9. Nc4 Rc8 10. Ne3 Be7 11. g3 O-O 12. Bxf6 Bxf6 13. h4 Qa5 14. Bg2 Qb4
+15. O-O Qxb2 16. Ncd5 Bxd5 17. Nxd5 Bd8 18. Qg4 Rb8 19. c3 Kh8 20. Rfb1 Qa3 21.
+Qd7 Ba5 22. Rxb7 Rxb7 23. Qxb7 Bxc3 24. Rd1 Nd4 25. Kh2 Ba5 26. Qxa6 Qc5 27.
+Rb1 f5 28. exf5 Nxf5 29. Qd3 Nd4 30. Rb7 Qc8 31. Ra7 Be1 32. Ne7 Qe6 33. Qe3
+Bb4 34. Qg5 Bc5 35. Rb7 Qxa2 36. Nd5 Rg8 1-0
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Shen, Victor C"]
+[Black "Braunlich, Tom"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[WhiteElo "2118"]
+[BlackElo "2169"]
+[PlyCount "79"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d3 Nd7 7. a3 g6 8. g3
+Bg7 9. Bg2 Ne7 10. O-O O-O 11. Qe2 Qb6 12. Kh1 Rae8 13. f4 Kh8 14. Qd2 Qa5 15.
+b4 Qc7 16. Bb2 dxe4 17. dxe4 Rd8 18. Qe2 a6 19. a4 g5 20. e5 gxf4 21. gxf4 Nf5
+22. Ne4 f6 23. Ra3 fxe5 24. Ng5 exf4 25. Qh5 Nf6 26. Bxf6 Bxf6 27. Nxe6 Qe5 28.
+Nxf4 Rg8 29. Ng6+ Rxg6 30. Rxf5 Qe1+ 31. Rf1 Qxb4 32. Raf3 Rd5 33. Rf5 Rxf5 34.
+Qxf5 Qd2 35. Be4 Qd8 36. Qf4 Bg5 37. Qf8+ Qxf8 38. Rxf8+ Rg8 39. Rf7 Rg7 40.
+Rf8+ 1/2-1/2
+
+[Event "US op 109th"]
+[Site "Dallas"]
+[Date "2008.08.08"]
+[Round "7"]
+[White "Trammell, George"]
+[Black "Tate, Emory"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2034"]
+[BlackElo "2377"]
+[PlyCount "54"]
+[EventDate "2008.08.02"]

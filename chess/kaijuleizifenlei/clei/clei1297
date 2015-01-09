@@ -1,0 +1,600 @@
+[PlyCount "83"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. Bb3 O-O 7. O-O Bb6 8. Nbd2
+a6 9. h3 Ne7 10. Re1 Ng6 11. Nf1 h6 12. Ng3 c6 13. Be3 Bc7 14. d4 Re8 15. Qc2
+Nf8 16. Rad1 Qe7 17. dxe5 dxe5 18. Nh4 N6h7 19. Nhf5 Qf6 20. Nh5 Qg6 21. Nhxg7
+Bxf5 22. Nxf5 Ng5 23. Kf1 h5 24. Bc5 Qf6 25. h4 Nge6 26. Bxf8 Nxf8 27. Qe2 Qh8
+28. Rd3 Qh7 29. Ng3 Bd8 30. Nxh5 Kh8 31. Qf3 Bxh4 32. Nf6 Bxf6 33. Qxf6+ Qg7
+34. Rh3+ Nh7 35. Qxf7 Re7 36. Qxg7+ Kxg7 37. Rg3+ Kf6 38. Rd3 Kg7 39. Ree3 Rf8
+40. Rg3+ Kh8 41. Rg6 Rf6 42. Rg8# 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.27"]
+[Round "4"]
+[White "Selivanov, Nikita"]
+[Black "Dudnikov, Nikita"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "1964"]
+[BlackElo "1964"]
+[PlyCount "61"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ndf3 c5 6. c3 Nc6 7. Ne2 Qb6 8. a3
+a5 9. b3 Be7 10. g3 O-O 11. Bg2 Rd8 12. O-O f6 13. Bh3 Nf8 14. dxc5 Qxc5 15. b4
+Qb6 16. Be3 Qc7 17. exf6 Bxf6 18. b5 Ne5 19. Nxe5 Bxe5 20. Bd4 Bxd4 21. cxd4 a4
+22. Rb1 Bd7 23. Rb4 Ra5 24. Qd3 Qb6 25. Nc3 Rda8 26. Rfb1 Ng6 27. Nxd5 Qd6 28.
+Ne3 R5a7 29. Nc4 Qe7 30. Nb6 Rf8 31. Nxa4 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.27"]
+[Round "4"]
+[White "Semenov, Dmitri"]
+[Black "Malyi, Viacheslav"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2342"]
+[BlackElo "2028"]
+[PlyCount "95"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d3 d5 3. Nd2 b6 4. g3 Bb7 5. Bg2 Nf6 6. e5 Nfd7 7. Ngf3 c5 8. O-O
+Nc6 9. Re1 Be7 10. h4 Qc7 11. Qe2 O-O 12. Nf1 Rae8 13. Bf4 Qc8 14. Bh3 d4 15.
+c4 dxc3 16. bxc3 b5 17. N1d2 Nb6 18. Ne4 Rd8 19. Bg5 Qd7 20. Rad1 b4 21. c4 Nd4
+22. Nxd4 cxd4 23. Nf6+ gxf6 24. exf6 Qc6 25. Kh2 Bc5 26. Bh6 Qf3 27. Qxf3 Bxf3
+28. Re5 Kh8 29. Rxc5 Bxd1 30. Bg7+ Kg8 31. Rg5 h6 32. Bxh6+ Kh7 33. Bg7 Rh8 34.
+g4 Kg8 35. Bh6+ Kh7 36. Bg7 Kg8 37. Kg3 Rh7 38. Bg2 Nd7 39. Be4 Rxg7 40. Rxg7+
+Kf8 41. g5 Nc5 42. Bh7 Ke8 43. g6 fxg6 44. Bxg6+ Kf8 45. Rh7 Kg8 46. f7+ Kf8
+47. Rh8+ Ke7 48. Rxd8 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.27"]
+[Round "5"]
+[White "Burkhach, Alexander"]
+[Black "Sharovskaya, Olga"]
+[Result "1-0"]
+[ECO "C15"]
+[WhiteElo "2137"]
+[BlackElo "1905"]
+[PlyCount "33"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. O-O-O f5 7. Qg3 Bd6 8.
+Bf4 Bxf4+ 9. Qxf4 Qf6 10. Qxc7 Nd7 11. Nb5 Kf8 12. f3 e3 13. Bc4 Nh6 14. Nxa7
+Kf7 15. Nxc8 Rhxc8 16. Qxd7+ Kf8 17. Qxe6 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.27"]
+[Round "5"]
+[White "Kucherenko, Daniil"]
+[Black "Sitnikov, Anton"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2343"]
+[BlackElo "2463"]
+[PlyCount "116"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Qg4
+Kf8 9. Qd1 b6 10. dxc5 bxc5 11. Bd3 Nd7 12. Nf3 Ne7 13. O-O Ba6 14. Rb1 Nc6 15.
+Re1 h6 16. g3 Ke7 17. Bc1 Rab8 18. Rxb8 Rxb8 19. Qd2 Rb1 20. Kg2 Ke8 21. Qe2 c4
+22. Bf5 Ra1 23. Nh4 Nf8 24. Qg4 g5 25. Nf3 exf5 26. Qxf5 Ne6 27. h4 Ne7 28. Qh7
+gxh4 29. Nxh4 d4 30. Qh8+ Kd7 31. Qh7 Bb7+ 32. Kh2 Qc6 33. Qxf7 Ng5 34. e6+
+Nxe6 35. f3 Qd5 36. cxd4 Rxc1 37. Rxc1 Nxd4 38. Qxd5+ Nxd5 39. Kg2 Nxc2 40. a4
+c3 41. Nf5 Nce3+ 42. Nxe3 Nxe3+ 43. Kf2 Nd5 44. f4 Ba6 45. Kf3 Bd3 46. g4 c2
+47. f5 Ke7 48. a5 a6 49. Rh1 Bb5 50. Re1+ Kf7 51. Rc1 Ba4 52. Ke2 Nc3+ 53. Kd2
+Na2 54. Rxc2 Bxc2 55. Kxc2 Nb4+ 56. Kb3 Nc6 57. Kc4 Nxa5+ 58. Kc5 Nb7+ 0-1
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.27"]
+[Round "5"]
+[White "Petrushin, Alexander"]
+[Black "Nemets, Alexandr"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "1858"]
+[BlackElo "2191"]
+[PlyCount "61"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 exd4 7. cxd4 Bb4+ 8.
+Bd2 Bxd2+ 9. Nbxd2 Nge7 10. O-O O-O 11. d5 Na5 12. Bd3 d6 13. Nd4 c6 14. Qh5
+Ng6 15. f4 Qf6 16. e5 dxe5 17. dxc6 exd4 18. Qxa5 Qxc6 19. f5 b6 20. Qb4 Ne7
+21. Qxe7 Qc3 22. Qe2 Bb7 23. Rac1 Qb2 24. f6 Rae8 25. Qh5 h6 26. Rc2 Qa3 27.
+fxg7 Qxd3 28. gxf8=Q+ Rxf8 29. Rc7 Qxd2 30. Rxb7 Qe3+ 31. Kh1 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.27"]
+[Round "5"]
+[White "Taranenko, Anton"]
+[Black "Andreev, Volodymyr"]
+[Result "1-0"]
+[ECO "C00"]
+[BlackElo "1968"]
+[PlyCount "113"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 e6 4. g3 d5 5. Nbd2 Nf6 6. Bg2 dxe4 7. dxe4 Bd7 8.
+O-O Qc7 9. Qe2 e5 10. c3 O-O-O 11. Ng5 Bg4 12. Qc4 Bh5 13. Ngf3 h6 14. Qe2 g5
+15. Nc4 Be7 16. Qc2 Bg6 17. Re1 Nh7 18. a3 g4 19. Nfd2 Bg5 20. Nb3 b5 21. Bxg5
+Nxg5 22. Ncd2 c4 23. Nc1 a6 24. a4 Kd7 25. axb5 axb5 26. b3 Ke7 27. bxc4 bxc4
+28. Re3 Qd6 29. Ra2 Qc5 30. Kf1 Rhf8 31. Ra4 Na5 32. Qa2 f5 33. Rxa5 Rxd2 34.
+Rxc5 Rxa2 35. Nxa2 f4 36. Rxe5+ Kd6 37. gxf4 Rxf4 38. Rd5+ Ke6 39. Rd4 h5 40.
+Rxc4 h4 41. Rc6+ Kf7 42. Rc4 Ne6 43. Nb4 Kg7 44. Nd3 Rf8 45. Ne5 Bh5 46. Nd3 h3
+47. Bh1 Ra8 48. Rc6 Bf7 49. e5 Ra1+ 50. Re1 Ra2 51. Bd5 Rd2 52. Bxe6 Rxd3 53.
+Bxf7 Kxf7 54. e6+ Kg7 55. e7 g3 56. e8=Q g2+ 57. Kg1 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.28"]
+[Round "6"]
+[White "Andreev, Volodymyr"]
+[Black "Letko, Roman"]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "1968"]
+[PlyCount "61"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nc3 d6 3. Bc4 Nf6 4. d3 Be7 5. f4 exf4 6. Bxf4 Nc6 7. d4 Bg4 8. Qd2
+Qd7 9. h3 Bh5 10. a3 Bg6 11. Qe3 Nh5 12. O-O-O Nxf4 13. Qxf4 O-O-O 14. Bb5 a6
+15. Ba4 Qe6 16. d5 Qe5 17. Qf2 Nb8 18. Kb1 b6 19. Nf3 Qf6 20. Rhf1 Bf8 21. Qe2
+Kb7 22. Nd4 Qe5 23. Nc6 Nxc6 24. Bxc6+ Ka7 25. Qc4 Be7 26. Bb5 c5 27. Bxa6 Bf6
+28. Bb5 Kb8 29. Bc6 Kc7 30. Qa6 Rb8 31. Qa7+ 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.28"]
+[Round "6"]
+[White "Erendzhenov, Stanislav"]
+[Black "Dekonenko, Alexander"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2316"]
+[BlackElo "2064"]
+[PlyCount "99"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 dxe4 5. dxe4 Bc5 6. Bd3 Nc6 7. O-O e5 8.
+Nc4 Qe7 9. c3 a5 10. Bg5 O-O 11. Ne3 Bxe3 12. Bxe3 Rd8 13. Qe2 Bg4 14. Rfd1 b6
+15. h3 Bxf3 16. Qxf3 Rd6 17. Bc4 Rad8 18. Rxd6 Rxd6 19. Qf5 Qd7 20. Qxd7 Nxd7
+21. Kf1 Nf6 22. f3 h6 23. Ke1 Kf8 24. Bf2 Nd7 25. Ke2 f6 26. a3 Nd8 27. b4 Ne6
+28. g3 Ke7 29. Bd5 c6 30. Bb3 Nc7 31. a4 Ne6 32. Bxe6 Kxe6 33. bxa5 bxa5 34. g4
+c5 35. Rb1 Rb6 36. Rb5 Rxb5 37. axb5 Kd6 38. Kd3 Nb6 39. Be3 c4+ 40. Kc2 Na4
+41. h4 g5 42. h5 Kc7 43. Bf2 Kd6 44. Ba7 Kc7 45. Be3 Kd6 46. Bc1 Kc5 47. Ba3+
+Kxb5 48. Bf8 Nc5 49. Bxh6 Ne6 50. Bg7 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.28"]
+[Round "6"]
+[White "Kotliar, Nikolay"]
+[Black "Petrushin, Alexander"]
+[Result "0-1"]
+[ECO "C33"]
+[BlackElo "1858"]
+[PlyCount "57"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 Bb4 5. Nf3 Qe7 6. d3 Bxc3 7. bxc3 g5 8.
+a4 d5 9. Ba3 c5 10. e5 g4 11. d4 gxf3+ 12. gxf3 b6 13. Kd2 Nd7 14. Bb5 Bb7 15.
+a5 Rc8 16. axb6 axb6 17. Qg1 Nh6 18. Qg7 Qf8 19. Qf6 Ba6 20. Qxb6 Bxb5 21. Qxb5
+Qe7 22. Rae1 O-O 23. Qa6 Qe6 24. Qf1 Kh8 25. Qf2 Nf5 26. Re2 Ne3 27. Bc1 cxd4
+28. cxd4 Rxc2+ 29. Ke1 0-1
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.28"]
+[Round "6"]
+[White "Morozov, Vladislav"]
+[Black "Filippov, Konstantin"]
+[Result "0-1"]
+[ECO "C54"]
+[PlyCount "112"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Be3 d6 6. c3 O-O 7. Bb3 Bxe3 8.
+fxe3 d5 9. exd5 Nxd5 10. e4 Nf4 11. Bc2 Nxg2+ 12. Kf2 Nf4 13. h3 f5 14. d4 fxe4
+15. Bxe4 exd4 16. Bxc6 bxc6 17. Qxd4 Qe7 18. Qe3 Qf6 19. Nbd2 Nxh3+ 20. Kg2
+Nf4+ 21. Kf2 Bg4 22. Qe4 h6 23. Qc4+ Be6 24. Qxc6 Rad8 25. Raf1 Rd6 26. Qxc7
+Bh3 27. Qc4+ Be6 28. Qc7 Bd5 29. Ke1 Rfd8 30. Nd4 Bxh1 31. Rxh1 Rxd4 32. cxd4
+Qxd4 33. Qc4+ Kh7 34. Qxd4 Rxd4 35. Nf3 Rd5 36. b3 g5 37. Kf2 Kg6 38. Ke3 Rd6
+39. Nh4+ Kf6 40. Nf3 Re6+ 41. Kd4 h5 42. a4 g4 43. Nd2 Kf5 44. Nf1 Kg5 45. Nd2
+g3 46. Nf3+ Kg4 47. Ne5+ Kf5 48. Nf3 Kg4 49. Ne5+ Rxe5 50. Kxe5 g2 51. Rc1 h4
+52. Rc7 h3 53. Rxa7 Ng6+ 54. Kd5 g1=Q 55. Rg7 Kf5 56. Kc4 Ne5+ 0-1
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.28"]
+[Round "6"]
+[White "Tarlev, Konstantin"]
+[Black "Sitnikov, Anton"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "2486"]
+[BlackElo "2463"]
+[PlyCount "96"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. d4 exd4 6. Qxd4 Ne7 7. Nc3 Rb8 8.
+Be3 Rxb2 9. O-O Ng6 10. Nd5 Rb7 11. Nf4 Nxf4 12. Bxf4 Qf6 13. Be5 Qh6 14. Rab1
+c5 15. Qd5 Qe6 16. Rxb7 Qxd5 17. exd5 Bxb7 18. Rb1 Bxd5 19. Bxc7 d6 20. Ba5 Kd7
+21. Rb6 Be7 22. Rxa6 Bxa2 23. Ra7+ Ke6 24. Bd2 Bd5 25. Ng5+ Bxg5 26. Bxg5 Rb8
+27. Ra1 Rb4 28. Re1+ Kd7 29. f3 Rc4 30. Rc1 Bc6 31. c3 d5 32. Bd2 Ra4 33. Be3
+Kd6 34. Kf2 Ra2+ 35. Kg3 Bb5 36. h4 h5 37. Bf4+ Kc6 38. Be5 f6 39. Bf4 Bd3 40.
+Be3 Re2 41. Bg1 Ra2 42. Rd1 Be2 43. Rc1 Kb5 44. Bf2 Bd3 45. Be3 Kc4 46. Kh3 Bc2
+47. g4 Kxc3 48. Bxc5 d4 0-1
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.28"]
+[Round "6"]
+[White "Yukhno, Alexander"]
+[Black "Izmailov, Viktor"]
+[Result "1-0"]
+[ECO "C72"]
+[WhiteElo "2123"]
+[PlyCount "95"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bg4 6. O-O Qf6 7. d3 Bxf3 8. Qxf3
+Qxf3 9. gxf3 b5 10. Bb3 Na5 11. Bc2 Ne7 12. b4 Nac6 13. a4 Rb8 14. f4 exf4 15.
+Bxf4 Ng6 16. Be3 Be7 17. Nd2 O-O 18. d4 Bf6 19. f4 Rfe8 20. axb5 axb5 21. Ra6
+Nd8 22. e5 dxe5 23. fxe5 Be7 24. Bb3 Rf8 25. Ne4 Kh8 26. Bg5 Bxg5 27. Nxg5 Kg8
+28. Kg2 Nh8 29. h4 h6 30. Ne4 Re8 31. Nc5 Re7 32. h5 Kh7 33. Rf5 g6 34. Rff6
+Kg7 35. hxg6 fxg6 36. Ne6+ Nxe6 37. Raxe6 Rxe6 38. Rxe6 Kf8 39. Bd5 h5 40. Kg3
+Re8 41. Rf6+ Kg7 42. Kh4 Rf8 43. Rc6 Rf4+ 44. Kg3 g5 45. Rxc7+ Kf8 46. Rc8+ Kg7
+47. Rg8+ Kh7 48. Rxg5 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "7"]
+[White "Belyaev, Ilja"]
+[Black "Kiripov, Mergen"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2053"]
+[BlackElo "1989"]
+[PlyCount "115"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4
+Bb6 9. a4 Bg4 10. d5 Ne7 11. Re1 Ng6 12. Qd3 O-O 13. axb5 axb5 14. Rxa8 Qxa8
+15. Na3 Nd7 16. Qxb5 Nc5 17. Bd1 f5 18. exf5 Bxf5 19. Bc2 Bxc2 20. Nxc2 Qxd5
+21. b4 Qd3 22. Na3 Qxb5 23. Nxb5 Nd3 24. Rf1 Nxc1 25. Rxc1 Nh4 26. Nxh4 Bxf2+
+27. Kh1 Bxh4 28. Nxc7 Bg5 29. Rd1 Bd2 30. g3 Bxc3 31. Rxd6 Bxb4 32. Re6 Bc3 33.
+Re7 h5 34. Ne6 Rf6 35. Rxg7+ Kh8 36. Re7 Rf2 37. Re8+ Kh7 38. Ng5+ Kg6 39. Ne4
+Rc2 40. Rc8 Rc1+ 41. Kg2 Bb2 42. Rxc1 Bxc1 43. Kf3 Ba3 44. Nc3 Kg5 45. Nd5 Kf5
+46. Ne3+ Kf6 47. Ke4 Bb2 48. Nc4 Bd4 49. Nd2 Bc3 50. Nf3 Bb2 51. h3 Bc3 52. Nh2
+Be1 53. Nf1 Bc3 54. Ne3 Be1 55. g4 hxg4 56. Nxg4+ Kg5 57. Nxe5 Kh4 58. Nf3+
+1/2-1/2
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "7"]
+[White "Burkhach, Alexander"]
+[Black "Tarlev, Konstantin"]
+[Result "0-1"]
+[ECO "C92"]
+[WhiteElo "2137"]
+[BlackElo "2486"]
+[PlyCount "102"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 a5 10. a4 b4 11. d4 bxc3 12. bxc3 exd4 13. Nxd4 Bd7 14. Bc2 Re8 15.
+Nd2 Bf8 16. Nf1 g6 17. Ng3 Bg7 18. Rb1 d5 19. Nxc6 Bxc6 20. e5 Ne4 21. Qf3 Rxe5
+22. Bf4 Ng5 23. Qd3 Rxe1+ 24. Rxe1 Ne6 25. Be3 Qd6 26. Ne2 Nc5 27. Qd1 Re8 28.
+Nd4 Bd7 29. Bd2 Ne4 30. Bxe4 dxe4 31. Qc2 Qd5 32. Qb3 Qxb3 33. Nxb3 Bxa4 34.
+Nxa5 Rd8 35. Bf4 Bxc3 36. Rxe4 Bxa5 37. Rxa4 Bb6 38. Rc4 Rd7 39. g4 Kf8 40. Re4
+Re7 41. Rxe7 Kxe7 42. Bc1 Ke6 43. Kg2 Kd5 44. Kg3 Ke4 45. f3+ Kd3 46. Kf4 f6
+47. Kg3 Be3 48. Bb2 Bd4 49. Bc1 c5 50. h4 c4 51. g5 f5 0-1
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "7"]
+[White "Matvienko, Vasyl"]
+[Black "Rodionov, Georgy"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "1993"]
+[BlackElo "2043"]
+[PlyCount "35"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. O-O Nf5 8. Bd3
+cxd4 9. Bxf5 exf5 10. Nxd4 Be6 11. Re1 Be7 12. Na3 Nxd4 13. Qxd4 Qa5 14. Nc2
+O-O 15. Bf4 Rfd8 16. Qd3 Rac8 17. Nd4 g6 18. Re3 0-1
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "7"]
+[White "Nemets, Alexandr"]
+[Black "Kotliar, Nikolay"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2191"]
+[PlyCount "69"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. O-O Be7 6. Be3 Ngf6 7. Nbd2 O-O 8. c3
+h6 9. Qe2 Ng4 10. Rad1 Nxe3 11. Qxe3 Qc7 12. Nb3 Bf6 13. dxe5 dxe5 14. Nc5 Nb6
+15. Bb3 Bg4 16. h3 Bh5 17. g4 Bg6 18. a4 a5 19. Nd3 Rad8 20. Nfxe5 Bh7 21. Nxf7
+Rxf7 22. Bxf7+ Qxf7 23. Qxb6 Bxe4 24. Qe3 Re8 25. Rfe1 Bg6 26. Qxe8+ Qxe8 27.
+Rxe8+ Bxe8 28. Nc5 b6 29. Ne4 Be7 30. f4 b5 31. Nd6 Kf8 32. Nxe8 Kxe8 33. Kg2
+Kf7 34. axb5 cxb5 35. Rd5 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "7"]
+[White "Petrushin, Alexander"]
+[Black "Filippov, Konstantin"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "1858"]
+[PlyCount "74"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qa5 9. Nxe4 Be6 10. Bd2 Bb4 11. Bxb4 Qxb4 12. Neg5 O-O-O 13. Nxe6 fxe6 14.
+Rxe6 Qxb2 15. Ne5 Nxe5 16. Rb1 Nf3+ 17. gxf3 Qxa2 18. Re4 Qd5 19. Qd3 a6 20.
+Rd1 c5 21. Rde1 c4 22. Qf1 d3 23. Rd1 Rd6 24. cxd3 cxd3 25. Qh3+ Kb8 26. Rg4 g6
+27. Qg3 Ka8 28. Rd2 Rhd8 29. Re4 Qa5 30. Qf4 Rd5 31. h4 Qc3 32. Qe3 h5 33. Kg2
+Qf6 34. Re6 Qxh4 35. f4 Qg4+ 36. Kh2 g5 37. Ra2 Qxf4+ 0-1
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "7"]
+[White "Prokhorov, Alexander"]
+[Black "Nemets, Dmitry"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2156"]
+[PlyCount "108"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Bb3 Be6 7. Bc2 a6 8. O-O
+Bg4 9. h3 Bh5 10. Re1 h6 11. Nbd2 g5 12. Nf1 g4 13. hxg4 Bxg4 14. Be3 Qd7 15.
+b4 Bb6 16. a4 Rg8 17. a5 Bh3 18. Ng3 Bxe3 19. Rxe3 Bg4 20. Qd2 Ne7 21. d4 Ng6
+22. dxe5 dxe5 23. Ba4 c6 24. Qxd7+ Nxd7 25. Bb3 Nf4 26. Nh4 Rd8 27. f3 Be6 28.
+Bxe6 fxe6 29. Nf1 Nf6 30. Kh2 Ke7 31. g3 N4h5 32. Rc1 Kf7 33. Re2 Rd3 34. Rg2
+Ne8 35. Kg1 Nd6 36. Kh2 Nc4 37. Re2 Ke7 38. Rf2 Kd6 39. Ng2 Kc7 40. Ne1 Rd7 41.
+Rg2 Rgd8 42. Kh3 Nf6 43. Nh2 c5 44. Re2 Kc6 45. Ng2 Rd3 46. Ra2 Kb5 47. bxc5
+Kxc5 48. Rb1 R8d7 49. Rb3 Nd2 50. Rb6 Nxf3 51. Nxf3 Rxf3 52. Nh4 Rxc3 53. Rxe6
+Nxe4 54. Nf5 Ng5+ 0-1
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Andreev, Volodymyr"]
+[Black "Petrushin, Alexander"]
+[Result "1-0"]
+[ECO "C25"]
+[WhiteElo "1968"]
+[BlackElo "1858"]
+[PlyCount "31"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. h4 g4 6. Ng5 h5 7. Bc4 Nh6 8. d4 f6
+9. Nh3 gxh3 10. Qxh5+ Ke7 11. Nd5+ Kd6 12. Bxf4+ Ne5 13. Bxe5+ fxe5 14. Qxe5+
+Kc6 15. Ne7+ Qxe7 16. Qb5+ 1-0
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Mischuk, Dmitry"]
+[Black "Dekonenko, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[WhiteElo "2208"]
+[BlackElo "2064"]
+[PlyCount "121"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 dxe4 5. a3 Be7 6. Nxe4 Nf6 7. N2g3 b6 8.
+Be2 Nbd7 9. Bf3 Rb8 10. O-O O-O 11. Re1 Bb7 12. c4 Nxe4 13. Nxe4 Nf6 14. d5
+exd5 15. Nxf6+ Bxf6 16. cxd5 Qd7 17. Qb3 Rbd8 18. Rd1 Rfe8 19. Bf4 Be5 20. Bg5
+Rb8 21. Rac1 Bd6 22. Qc4 f6 23. Bf4 Re7 24. Be3 Rbe8 25. Qd3 Bc8 26. Qb3 Qf5
+27. Rc3 Qe5 28. g3 Bh3 29. Qc4 g5 30. Bh5 Rf8 31. Bg4 Bxg4 32. Qxg4 Qe4 33.
+Qxe4 Rxe4 34. Kg2 Rfe8 35. h3 Kf7 36. b4 Kg6 37. Rc6 h6 38. g4 f5 39. Bc5 fxg4
+40. Bxd6 gxh3+ 41. Kxh3 Rh4+ 42. Kg2 cxd6 43. Rxd6+ Kf5 44. Rd7 Ree4 45. Rf7+
+Ke5 46. d6 Rd4 47. Re7+ Kxd6 48. Rxd4+ Rxd4 49. Rxa7 Kc6 50. Rf7 Kb5 51. Rf6
+Rh4 52. Kg3 Ka4 53. Rxb6 Kxa3 54. b5 Ka4 55. Rb8 Ka5 56. Rb7 Ka4 57. b6 Ka5 58.
+Rb8 Ka6 59. f3 Ka5 60. Kg2 Ka6 61. Kg3 1/2-1/2
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Mysik, Natalia"]
+[Black "Taranenko, Anton"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2098"]
+[PlyCount "60"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5 h6 7. Nxf6+ Nxf6
+8. Bh4 Be7 9. Bd3 O-O 10. O-O c5 11. Re1 cxd4 12. Nxd4 Bc5 13. Nb3 Bb6 14. Qf3
+Bd7 15. Bxf6 Qxf6 16. Qxf6 gxf6 17. Be4 Rab8 18. Rad1 Bb5 19. Nd4 Bxd4 20. Rxd4
+f5 21. Bf3 Rbc8 22. c3 Rcd8 23. Bxb7 Rxd4 24. cxd4 Rb8 25. Bf3 Rc8 26. g3 Rc2
+27. d5 e5 28. Bg2 Kg7 29. Bf1 Rxb2 30. Bxb5 Rxb5 1/2-1/2
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Nevedomy, Ivan"]
+[Black "Nemets, Alexandr"]
+[Result "0-1"]
+[ECO "C68"]
+[BlackElo "2191"]
+[PlyCount "94"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. c3 Ne7 7. d4 Ng6 8.
+Bg5 f6 9. Be3 Bg4 10. Nbd2 O-O 11. Qb3+ Kh8 12. Qxb7 Rb8 13. Qxa6 Rxb2 14. Qxc6
+Be6 15. Nc4 Bd7 16. Qa6 Bb5 17. Qa5 Bxc4 18. Rfd1 Qa8 19. Qxa8 Rxa8 20. Nd2
+Rbxa2 21. Rxa2 Bxa2 22. Ra1 Bd5 23. Rb1 exd4 24. cxd4 Bc6 25. g3 h6 26. f4 Ra3
+27. Kf2 Ra2 28. d5 Ba4 29. Kf3 Bc2 30. Rb8+ Kh7 31. h4 Ne7 32. g4 Bd1+ 33. Kg3
+g5 34. hxg5 hxg5 35. Rb7 gxf4+ 36. Bxf4 Bxf4+ 37. Kxf4 Nxd5+ 38. exd5 Rxd2 39.
+Rxc7+ Kg6 40. Rd7 Rd4+ 41. Ke3 Rxg4 42. Rd8 Kf7 43. d6 Ba4 44. Kf3 Rg8 45. Rxg8
+Kxg8 46. Ke4 Kf7 47. Kd5 Bd7 0-1
+
+[Event "Berezovskoe op-B"]
+[Site "Berezovskoe"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Rodionov, Georgy"]
+[Black "Burkhach, Alexander"]
+[Result "1-0"]
+[ECO "C97"]
+[WhiteElo "2043"]
+[BlackElo "2137"]
+[PlyCount "97"]
+[EventDate "2008.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Re8 13. b3 cxd4 14. cxd4 Nc6 15.
+Bb2 Bf8 16. Rc1 Qb8 17. Bb1 Bb7 18. d5 Ne7 19. Nf1 Nd7 20. Ne3 g6 21. Nh2 Bg7
+22. Qg4 Bc8 23. Qh4 f6 24. Nhg4 h5 25. Nh2 Kf7 26. Rf1 Rh8 27. Rce1 g5 28. Qg3
+Nf8 29. Qf3 Nfg6 30. Bc1 Nf4 31. Nc2 Neg6 32. Bxf4 gxf4 33. Rc1 b4 34. a3 a5
+35. Qd1 Bh6 36. Nf3 Ba6 37. Re1 Qb5 38. a4 Qb6 39. Na1 Rac8 40. Qd2 Ne7 41. Bd3
+Rxc1 42. Rxc1 Bc8 43. Nc2 Rg8 44. Kh1 f5 45. Nxe5+ dxe5 46. d6 Rg6 47. Bc4+ Be6
+48. dxe7 Bxc4 49. Qd7 1-0
+

@@ -1,0 +1,600 @@
+[Site "Budapest"]
+[Date "2008.03.09"]
+[Round "8"]
+[White "Llaneza Vega, Patricia"]
+[Black "Schmidt, Raul"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2281"]
+[BlackElo "2160"]
+[PlyCount "53"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Bc4 c6 5. d4 Nf6 6. Nge2 Bf5 7. Bf4 Qd8 8.
+Ng3 Bg6 9. Qe2 Qxd4 10. Be3 Qg4 11. f3 Qc8 12. O-O-O Nbd7 13. f4 Nb6 14. Bxb6
+axb6 15. Nb5 e6 16. Qe5 Nd7 17. Nc7+ Ke7 18. Rxd7+ Kxd7 19. Rd1+ Ke7 20. Nxa8
+Qxa8 21. f5 Ke8 22. fxg6 hxg6 23. Ne4 Rh5 24. Qc7 Bc5 25. Nxc5 bxc5 26. Rd7 Rf5
+27. Qd6 1-0
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.09"]
+[Round "8"]
+[White "Lorand, Norbert"]
+[Black "Porat, Maya"]
+[Result "1-0"]
+[ECO "B26"]
+[WhiteElo "2259"]
+[BlackElo "2190"]
+[PlyCount "77"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 g6 4. g3 Bg7 5. Bg2 e6 6. d3 Nge7 7. Be3 d6 8. d4
+cxd4 9. Nxd4 O-O 10. O-O a6 11. Nxc6 Nxc6 12. Qe2 Qa5 13. Rad1 Rd8 14. f4 b5
+15. Qf2 Rb8 16. e5 d5 17. g4 b4 18. Ne2 Qxa2 19. Bb6 Re8 20. b3 Bd7 21. Nc1 Qb2
+22. Nd3 Qc3 23. Nc5 Rxb6 24. Na4 Rb5 25. Nxc3 bxc3 26. Qg3 Nb4 27. Rf3 Bf8 28.
+Kh1 Bc5 29. f5 exf5 30. gxf5 Nxc2 31. e6 fxe6 32. fxg6 h6 33. Qh4 Rf8 34. Qxh6
+Rxf3 35. Qh7+ Kf8 36. Bxf3 Ke8 37. g7 Kd8 38. g8=Q+ Kc7 39. Qxc2 1-0
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.09"]
+[Round "8"]
+[White "To, Nhat Minh"]
+[Black "Balla, Tamas"]
+[Result "1-0"]
+[ECO "B36"]
+[WhiteElo "2293"]
+[BlackElo "2341"]
+[PlyCount "99"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8.
+Qxd4 Bg7 9. Be3 O-O 10. Qd2 Be6 11. f3 a6 12. Rc1 Nd7 13. O-O Qa5 14. b3 Rfc8
+15. f4 Nc5 16. Bf3 Rab8 17. Rfd1 b5 18. Nd5 Qxd2 19. Rxd2 Bxd5 20. cxd5 b4 21.
+e5 f6 22. exd6 exd6 23. Bxc5 f5 24. Kf1 Rb5 25. Be2 Rbxc5 26. Rxc5 Rxc5 27.
+Bxa6 Rc1+ 28. Kf2 Rb1 29. Ke3 Rb2 30. Rxb2 Bxb2 31. Kd3 Kg7 32. Kc4 Ba3 33. Bc8
+h6 34. Kb5 Kf6 35. Be6 Ke7 36. g3 Kf6 37. h4 Ke7 38. h5 gxh5 39. Bxf5 h4 40.
+gxh4 Kf6 41. Be6 h5 42. Bd7 Ke7 43. Bh3 Kf6 44. Bf1 Bc1 45. Kxb4 Bxf4 46. Kb5
+Ke7 47. Kc6 Bg3 48. b4 Bxh4 49. b5 Bf2 50. b6 1-0
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.10"]
+[Round "9"]
+[White "Balla, Tamas"]
+[Black "Duong The Anh"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "2341"]
+[BlackElo "2381"]
+[PlyCount "90"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 c5 3. e3 cxd4 4. exd4 d5 5. Nc3 e6 6. Nf3 Bb4 7. Qb3 Nc6 8. Bd3
+dxc4 9. Bxc4 O-O 10. O-O Be7 11. Qd1 a6 12. Be3 Nb4 13. Ne5 b5 14. Bb3 Bb7 15.
+Qe2 Nbd5 16. f4 g6 17. g4 Rc8 18. Rac1 Nxc3 19. Rxc3 Qd6 20. g5 Nd5 21. Rd3
+Nxe3 22. Qxe3 Bd5 23. Qf2 f6 24. gxf6 Bxf6 25. Rh3 Rc7 26. a3 Bxb3 27. Rxb3 Qd5
+28. Rc3 Rxc3 29. bxc3 Bxe5 30. dxe5 Rc8 31. Qg3 Qc5+ 32. Kg2 Qxc3 33. Rf3 Qc2+
+34. Kh3 Qf5+ 35. Qg4 Rc4 36. Kg3 Rc1 37. Qxf5 gxf5 38. Rd3 Ra1 39. Kh4 Kf7 40.
+h3 Ke7 41. Kh5 Rf1 42. Rd4 Rf3 43. a4 Rxh3+ 44. Kg5 bxa4 45. Rxa4 Kf7 0-1
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.10"]
+[Round "9"]
+[White "Schmidt, Raul"]
+[Black "Szeberenyi, Adam"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[WhiteElo "2160"]
+[BlackElo "2350"]
+[PlyCount "16"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Nxd5 Qxd5 6. Bb5+ Nc6 7. O-O Bg4
+8. Bxc6+ Qxc6 1/2-1/2
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.10"]
+[Round "9"]
+[White "Szamoskozi, Gabor"]
+[Black "Lorand, Norbert"]
+[Result "1-0"]
+[ECO "B29"]
+[WhiteElo "2280"]
+[BlackElo "2259"]
+[PlyCount "45"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Bd7 6. Ne5 Bxb5 7. Qf3 f6 8.
+Nxb5 Na6 9. Qh5+ g6 10. Nxg6 hxg6 11. Qxh8 Qd7 12. O-O Nf4 13. d3 Ne2+ 14. Kh1
+Nxc1 15. Nc3 Nxd3 16. cxd3 O-O-O 17. Qg8 g5 18. Qc4 e6 19. d4 Kb8 20. dxc5 Nxc5
+21. Rad1 Nd3 22. Rd2 Be7 23. Rfd1 1-0
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.10"]
+[Round "9"]
+[White "Szegi, Tamas"]
+[Black "To, Nhat Minh"]
+[Result "1/2-1/2"]
+[ECO "B03"]
+[WhiteElo "2293"]
+[BlackElo "2293"]
+[PlyCount "118"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. Bd3 g6 6. Nf3 Bg7 7. O-O O-O 8. Re1
+Nc6 9. exd6 cxd6 10. c3 e5 11. Bg5 Qc7 12. Na3 h6 13. Bh4 Be6 14. Nb5 Qb8 15.
+dxe5 dxe5 16. Bg3 Re8 17. h3 Bd5 18. Rc1 Qd8 19. c4 Bxf3 20. Qxf3 a6 21. Nc3 f5
+22. c5 e4 23. Nxe4 Nd4 24. Nf6+ Qxf6 25. Qxb7 f4 26. Rxe8+ Rxe8 27. cxb6 fxg3
+28. fxg3 Kh7 29. Rf1 Qd6 30. Rf7 Ne6 31. Qe4 Qxb6+ 32. Kh2 Nc7 33. Qg4 Re1 34.
+Bxg6+ Qxg6 35. Qxg6+ Kxg6 36. Rxc7 Re6 37. Rb7 Be5 38. h4 Rd6 39. Rb3 Kf5 40.
+Kh3 Rd1 41. g4+ Ke4 42. g3 Rd3 43. Rxd3 Kxd3 44. g5 hxg5 45. h5 Kc2 46. b4 Bc3
+47. Kg4 Bxb4 48. Kxg5 a5 49. g4 a4 50. Kf5 a3 51. h6 Kb2 52. g5 Bd2 53. h7 Bc3
+54. Kg6 Kxa2 55. Kf7 Kb3 56. g6 a2 57. g7 Bxg7 58. Kxg7 a1=Q+ 59. Kg8 Qe5
+1/2-1/2
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.11"]
+[Round "10"]
+[White "Llaneza Vega, Patricia"]
+[Black "Szamoskozi, Gabor"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2281"]
+[BlackElo "2280"]
+[PlyCount "45"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. O-O d6 6. h3 Nf6 7. d3 O-O 8. a4 h6
+9. Re1 a6 10. Nd2 Rb8 11. Nf1 Nd4 12. Ne3 b5 13. axb5 axb5 14. Ba2 b4 15. Ncd5
+b3 16. Bxb3 Nxb3 17. cxb3 Nxd5 18. Nxd5 Bg5 19. Bxg5 Qxg5 20. Re3 Be6 21. Rg3
+Qh4 22. Ne3 Rb6 23. Nc4 1/2-1/2
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.11"]
+[Round "10"]
+[White "Lorand, Norbert"]
+[Black "Balla, Tamas"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2259"]
+[BlackElo "2341"]
+[PlyCount "94"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 a6 2. Nf3 g6 3. d4 d6 4. Bd3 Nd7 5. O-O b5 6. a4 b4 7. e5 e6 8. Ng5 Bb7
+9. f4 Ne7 10. f5 gxf5 11. Qh5 Ng6 12. Bxf5 exf5 13. e6 Nf6 14. exf7+ Kd7 15.
+Qh3 Kc8 16. Qxf5+ Nd7 17. Re1 Bg7 18. c3 Kb8 19. Ne6 Qe7 20. Bd2 Be5 21. dxe5
+Ndxe5 22. Rf1 Bd5 23. Qf6 Qxf6 24. Rxf6 Nd7 25. Bg5 Nxf6 26. Bxf6 Rc8 27. Nd4
+c5 28. Nf5 Kc7 29. cxb4 cxb4 30. Be7 Kd7 31. Bg5 Rc2 32. Nd2 Rac8 33. b3 Rc1+
+34. Rxc1 Rxc1+ 35. Kf2 Bxf7 36. Nxd6 Kxd6 37. Ne4+ Ke5 38. Bxc1 Kxe4 39. Bd2
+Ne5 40. Kg3 Nd3 41. Kh4 Bxb3 42. a5 Bd1 43. Kg5 h5 44. h3 Kd4 45. Bxb4 Nxb4 46.
+g4 hxg4 47. hxg4 Nc6 0-1
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.12"]
+[Round "11"]
+[White "Lengyel, Bela"]
+[Black "To, Nhat Minh"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2261"]
+[BlackElo "2293"]
+[PlyCount "97"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6 5. Be2 g6 6. Nc3 Bg7 7. Bf4 Nc6 8. exd6
+cxd6 9. Qd2 h6 10. O-O Bg4 11. d5 Bxf3 12. Bxf3 Nd4 13. Bd1 Nc4 14. Qc1 Qa5 15.
+Rb1 b5 16. Ne2 Nxe2+ 17. Bxe2 Qxa2 18. c3 g5 19. Be3 O-O 20. h4 Nxe3 21. Qxe3
+Qxd5 22. Bf3 Qe5 23. Bxa8 Rxa8 24. hxg5 hxg5 25. Qf3 d5 26. Rfe1 Qd6 27. Qe2 b4
+28. cxb4 e6 29. Qd2 Bf6 30. Ra1 Kg7 31. Ra3 Rb8 32. Rxa7 Rh8 33. g3 e5 34. Ra5
+Rd8 35. b5 e4 36. b6 Qc6 37. Rc1 Qxb6 38. Rcc5 Re8 39. Rab5 e3 40. fxe3 Qe6 41.
+Rxd5 Qg4 42. Qf2 Rc8 43. Rbc5 Ra8 44. Rc1 Qe4 45. Rf5 Ra6 46. Rf1 Qe7 47. e4
+Re6 48. e5 Rxe5 49. Rxf6 1-0
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.12"]
+[Round "11"]
+[White "Szamoskozi, Gabor"]
+[Black "Szeberenyi, Adam"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2280"]
+[BlackElo "2350"]
+[PlyCount "87"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Be6 9. f4 Qc7 10. g4 exf4 11. g5 Nfd7 12. Bxf4 Nc6 13. Nd5 Bxd5 14. exd5 Nce5
+15. Kh1 O-O 16. Nd4 Rfe8 17. c4 Bf8 18. Rc1 Qa5 19. a3 Rac8 20. Rc3 Nxc4 21.
+Rxc4 Qxd5+ 22. Nf3 Qxd1 23. Rxd1 Nc5 24. Bf1 b5 25. Rcc1 Ne4 26. Kg2 Rc5 27.
+Rxc5 dxc5 28. Re1 c4 29. a4 Bb4 30. Nd2 Bxd2 31. Bxd2 Re6 32. Bb4 Nxg5 33. Rxe6
+Nxe6 34. Kf2 f5 35. Ke3 Kf7 36. Bg2 f4+ 37. Ke4 Kf6 38. Bc3+ Kf7 39. axb5 axb5
+40. Ke5 Nc5 41. Bd5+ Kg6 42. Kxf4 b4 43. Bd4 Nd3+ 44. Ke3 1-0
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.12"]
+[Round "11"]
+[White "Szegi, Tamas"]
+[Black "Lorand, Norbert"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2293"]
+[BlackElo "2259"]
+[PlyCount "63"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8. Nf3
+Nd7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 e6 12. O-O-O Be7 13. Ne4 Nxe4 14. Qxe4
+Nf6 15. Qe2 Qd5 16. Kb1 Nxh5 17. g4 Nf6 18. g5 Ne4 19. gxh6 Nxd2+ 20. Rxd2 Bg5
+21. Rh5 f6 22. Nxg5 fxg5 23. hxg7 Rg8 24. f4 O-O-O 25. Rxg5 Qh1+ 26. Rd1 Qh6
+27. Qg4 Rd7 28. Rg1 Qf6 29. c3 Re7 30. f5 exf5 31. Rxf5 Rexg7 32. Rg5+ 1-0
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.13"]
+[Round "12"]
+[White "Gara, Anita"]
+[Black "Szamoskozi, Gabor"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "2325"]
+[BlackElo "2280"]
+[PlyCount "54"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. b3 b6 3. Bb2 Bb7 4. Nc3 e6 5. Qf3 Nf6 6. O-O-O d5 7. Bb5+ Nc6 8.
+exd5 exd5 9. Qg3 Qd6 10. Re1+ Kd8 11. Nf3 Qxg3 12. fxg3 d4 13. Ne4 Nxe4 14.
+Rxe4 f6 15. c3 dxc3 16. dxc3 Bd6 17. Rg4 g6 18. c4 Rf8 19. Rh4 h5 20. Re1 Kc7
+21. Re6 Bc8 22. Rxf6 Rxf6 23. Bxf6 Bf5 24. Bxc6 Kxc6 25. Be5 Re8 26. Bxd6 Kxd6
+27. Kd2 a5 1/2-1/2
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.13"]
+[Round "12"]
+[White "Llaneza Vega, Patricia"]
+[Black "Szegi, Tamas"]
+[Result "0-1"]
+[ECO "B41"]
+[WhiteElo "2281"]
+[BlackElo "2293"]
+[PlyCount "66"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Qb6 6. Nb3 Qc7 7. Nc3 Nf6 8. Be2
+Nc6 9. O-O Ne5 10. f4 Nxc4 11. e5 Ng8 12. a4 d5 13. f5 Ne7 14. Kh1 g6 15. fxe6
+Bxe6 16. Bxc4 dxc4 17. Nc5 Nf5 18. N5e4 Be7 19. Nf6+ Bxf6 20. exf6 Rd8 21. Qf3
+Rd3 22. Qf2 O-O 23. Ne4 Bd5 24. Nc3 Bc6 25. Bf4 Qd7 26. a5 h5 27. Rad1 Rd8 28.
+Rxd3 cxd3 29. Rd1 Qe6 30. Bg5 Qe5 31. Qb6 Rd7 32. Qa7 Ng3+ 33. hxg3 Qxg3 0-1
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.14"]
+[Round "13"]
+[White "Szamoskozi, Gabor"]
+[Black "Schmidt, Raul"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2280"]
+[BlackElo "2160"]
+[PlyCount "59"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Bf5 6. Ne5 Nd7 7. Nc4 Qc7 8.
+Qf3 e6 9. Bf4 Qd8 10. O-O-O Ngf6 11. h3 Nb6 12. g4 Bg6 13. Ne5 Bb4 14. Nxg6
+hxg6 15. Bg2 Bxc3 16. Qxc3 Nfd5 17. Qg3 Nxf4 18. Qxf4 g5 19. Qe5 Qf6 20. Qxf6
+gxf6 21. Rhf1 Nd5 22. Bxd5 cxd5 23. Rd3 Rc8 24. f4 Rc4 25. b3 Rc6 26. f5 Ke7
+27. Kb2 b5 28. c3 a5 29. a3 Rd8 30. Re3 1/2-1/2
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.14"]
+[Round "13"]
+[White "Szegi, Tamas"]
+[Black "Szeberenyi, Adam"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2293"]
+[BlackElo "2350"]
+[PlyCount "30"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d6 8. exd6
+Qxd6 9. cxd4 e6 10. O-O Be7 11. Nc3 O-O 12. Re1 Nb4 13. a3 N4d5 14. Nxd5 Nxd5
+15. Be3 b6 1/2-1/2
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.14"]
+[Round "13"]
+[White "To, Nhat Minh"]
+[Black "Duong The Anh"]
+[Result "0-1"]
+[ECO "B36"]
+[WhiteElo "2293"]
+[BlackElo "2381"]
+[PlyCount "93"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8.
+Qxd4 Bg7 9. Be3 O-O 10. Qd2 a5 11. O-O a4 12. f3 Qa5 13. Rab1 Be6 14. Rfc1 Rfc8
+15. Nb5 Qxd2 16. Bxd2 Nd7 17. Be3 Ne5 18. Na7 Rxc4 19. b3 Rxc1+ 20. Rxc1 axb3
+21. axb3 Nc6 22. Nxc6 bxc6 23. Rxc6 Bxb3 24. Bc4 Bxc4 25. Rxc4 f5 26. exf5 gxf5
+27. f4 Ra2 28. Kf1 Kf7 29. Bf2 Bf6 30. g3 h5 31. Kg2 h4 32. Kf3 h3 33. Rc1 Ra3+
+34. Ke2 Kg6 35. Rc2 Kh5 36. Rd2 Kg4 37. Be3 Rb3 38. Rc2 Rb2 39. Rxb2 Bxb2 40.
+Bb6 Ba3 41. Bc7 e6 42. Bb8 d5 43. Be5 Bc5 44. Kf1 Kf3 45. Bb8 d4 46. Bc7 d3 47.
+Ba5 0-1
+
+[Event "Budapest FS03 IM"]
+[Site "Budapest"]
+[Date "2008.03.14"]
+[Round "13"]
+[White "Werner, Dimo"]
+[Black "Llaneza Vega, Patricia"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2293"]
+[BlackElo "2281"]
+[PlyCount "26"]
+[EventDate "2008.03.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Nd5 Qa5+ 11. Bd2 Qd8 12. Bg5 Qa5+ 13. Bd2 Qd8 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Cheliabinsk"]
+[Date "2008.03.01"]
+[Round "1"]
+[White "Khakimov, Vadim"]
+[Black "Matsenko, Vadim"]
+[Result "1/2-1/2"]
+[ECO "B59"]
+[WhiteElo "1926"]
+[BlackElo "2175"]
+[PlyCount "73"]
+[EventDate "2008.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be6 8.
+O-O Be7 9. Kh1 d5 10. exd5 Nxd5 11. Nxd5 Bxd5 12. Re1 O-O 13. Be3 Rc8 14. a3
+Bxb3 15. cxb3 Nd4 16. Bd3 Bf6 17. Be4 b6 18. f4 Re8 19. Qd3 g6 20. Rad1 Ne6 21.
+Qb1 Qc7 22. f5 Nd4 23. fxg6 hxg6 24. Bxg6 fxg6 25. Bxd4 Kg7 26. Bc3 Qf7 27. Rd3
+Re7 28. Rde3 Rce8 29. Qe4 Rd7 30. Qg4 Qe6 31. Qg3 Qxb3 32. h3 Rd1 33. Qg4 Rxe1+
+34. Rxe1 Qe6 35. Qa4 Re7 36. Rf1 Qd7 37. Qe4 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Cheliabinsk"]
+[Date "2008.03.01"]
+[Round "1"]
+[White "Kozirev, Alexander"]
+[Black "Perezolov, Gerald"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2367"]
+[BlackElo "2132"]
+[PlyCount "107"]
+[EventDate "2008.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qe7 8.
+Qxe7+ Ngxe7 9. Nc3 Nb4 10. Kd1 d6 11. a3 Nbc6 12. Be3 Be6 13. Kd2 d5 14. exd5
+Nxd5 15. Nxd5 Bxd5 16. Rd1 O-O 17. Kc1 Be6 18. Bd3 Rac8 19. Rhe1 f5 20. f3 Rfe8
+21. Kb1 g6 22. Bc1 Kf7 23. b3 f4 24. Bb2 Bf5 25. Bxf5 gxf5 26. Rd7+ Kg6 27.
+Rxb7 e4 28. Rg7+ Kh6 29. fxe4 Re6 30. Rf1 Rxe4 31. g3 Nd4 32. Ra7 Rc6 33. Bxd4
+Rxd4 34. Rxf4 Rd1+ 35. Kb2 Rd2 36. Rc4 Rxc4 37. bxc4 Rxh2 38. c5 Re2 39. Rxa6+
+Kg5 40. Ra4 Kf6 41. c6 Re8 42. Kc3 Re3+ 43. Kd4 Rxg3 44. c7 Rg8 45. Kc5 h5 46.
+Kd6 Kg5 47. Rb4 Rc8 48. Rb8 Rxc7 49. Kxc7 f4 50. a4 h4 51. a5 h3 52. a6 f3 53.
+a7 f2 54. Rb1 1-0
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Cheliabinsk"]
+[Date "2008.03.01"]
+[Round "1"]
+[White "Kuznetsov, Igor"]
+[Black "Kosov, Viacheslav"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[WhiteElo "2270"]
+[BlackElo "2108"]
+[PlyCount "56"]
+[EventDate "2008.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+O-O 9. f4 Qc7 10. Be3 b5 11. f5 e5 12. Nde2 Bb7 13. Ng3 Nbd7 14. Nd5 Nxd5 15.
+exd5 Nf6 16. Nh5 a5 17. a4 b4 18. Nxf6+ Bxf6 19. Qg4 Ba6 20. Rf2 Kh8 21. Bg5
+Qe7 22. Bxf6 Qxf6 23. Qe4 Rac8 24. Re1 Rc5 25. h3 Rfc8 26. Kh2 Bc4 27. Rd1 h6
+28. Rdd2 h5 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Cheliabinsk"]
+[Date "2008.03.01"]
+[Round "1"]
+[White "Lefebr, Vladislav"]
+[Black "Berejnoi, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1987"]
+[BlackElo "2221"]
+[PlyCount "101"]
+[EventDate "2008.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Nc6 5. d4 e6 6. Bd3 cxd4 7. cxd4 Bb4+ 8.
+Nc3 Nf6 9. O-O Qd8 10. Bg5 h6 11. Bh4 Be7 12. a3 Nd5 13. Bg3 Nxc3 14. bxc3 Qa5
+15. c4 Bf6 16. Bc2 Qc3 17. Ba4 O-O 18. Bd6 Rd8 19. Rc1 Qa5 20. c5 Bd7 21. Rc4
+Qa6 22. Qc2 Na5 23. Rc3 b5 24. Qd3 Nc4 25. Bc2 Nxd6 26. Qh7+ Kf8 27. cxd6 Qxd6
+28. Re1 Rac8 29. Rce3 Bc6 30. Ne5 Bd5 31. Be4 Bxe4 32. Rxe4 Ke7 33. Nf3 Rh8 34.
+Qf5 Rhd8 35. Qxb5 Qc6 36. Qa5 Qb6 37. Qd2 Rd5 38. g3 Rcd8 39. Rd1 Kf8 40. Qf4
+Qb3 41. Rc1 Rf5 42. Re3 Qd5 43. Rc5 Rxf4 44. Rxd5 Rxd5 45. gxf4 Bxd4 46. Nxd4
+Rxd4 47. Rf3 f5 48. Kg2 Ke7 49. Kg3 Ra4 50. h4 Kf6 51. Re3 1/2-1/2
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Cheliabinsk"]
+[Date "2008.03.01"]
+[Round "1"]
+[White "Losovatsky, Mikhail"]
+[Black "Bashkov, Viacheslav"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "2120"]
+[BlackElo "2319"]
+[PlyCount "53"]
+[EventDate "2008.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nf6 7. a3 Nc6 8. Be3
+Be7 9. O-O O-O 10. Kh1 d6 11. Bf4 Bd7 12. Nb3 b5 13. Bf3 Rac8 14. a4 b4 15. Ne2
+Na5 16. Nxa5 Qxa5 17. c3 Bc6 18. Qe1 Rfd8 19. Nd4 Ba8 20. Be2 Qb6 21. Be3 Qa5
+22. Bd2 Qb6 23. Nc2 bxc3 24. Bxc3 d5 25. a5 Qc7 26. e5 Ne4 27. Bd4 0-1
+
+[Event "Cheliabinsk Region-ch"]
+[Site "Cheliabinsk"]
+[Date "2008.03.01"]
+[Round "1"]
+[White "Matsenko, Andrei"]
+[Black "Zakharov, Igor N"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "1950"]
+[BlackElo "2200"]
+[PlyCount "102"]
+[EventDate "2008.03.01"]

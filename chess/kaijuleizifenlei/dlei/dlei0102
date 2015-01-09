@@ -1,0 +1,600 @@
+[WhiteElo "2052"]
+[BlackElo "2025"]
+[PlyCount "89"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bann"]
+[BlackTeam "Bad Mergentheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Qc2 O-O 8. Bd3
+Nbd7 9. Nge2 Re8 10. O-O Nf8 11. f3 Nh5 12. Bxe7 Qxe7 13. e4 dxe4 14. fxe4 Nf6
+15. e5 Nd5 16. Nxd5 cxd5 17. Nc3 Be6 18. Nb5 Rec8 19. Qf2 Ng6 20. Nd6 Rc7 21.
+Rac1 a6 22. Rxc7 Qxc7 23. h4 Nf8 24. Qd2 Qe7 25. g3 Bh3 26. Rxf7 Qxf7 27. Nxf7
+Kxf7 28. Qa5 Be6 29. Qc7+ Nd7 30. Qxb7 Rb8 31. Qxa6 Rxb2 32. Bxh7 Rb6 33. Qf1+
+Ke7 34. Qc1 Kd8 35. Kf2 Rb4 36. Qg5+ Kc7 37. Ke3 Ra4 38. Qe7 Ra6 39. Bd3 Rb6
+40. a4 Bh3 41. Bb5 g6 42. Kf4 Kc8 43. g4 Nb8 44. Qc5+ Kb7 45. Kg3 1-0
+
+[Event "BL2-Sued 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.8"]
+[White "Schmidt, Horst"]
+[Black "Sievers, Andy"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2186"]
+[PlyCount "60"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bad Mergentheim"]
+[BlackTeam "Bann"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. Nbd2 b6 7. c4 Bb7 8. cxd5
+Bxd5 9. Qc2 Na6 10. e4 Bb7 11. a3 e6 12. b4 Rc8 13. Rb1 Qe7 14. Re1 Nb8 15. e5
+Nd5 16. Ne4 h6 17. Bd2 Kh7 18. Qc1 f5 19. Nf6+ Nxf6 20. exf6 Qxf6 21. Ng5+ hxg5
+22. Bxb7 Rce8 23. Bxg5 Qf7 24. Bc6 Nxc6 25. Qxc6 Bxd4 26. Rbc1 Bf6 27. Bxf6
+Qxf6 28. Qxc7+ Rf7 29. Qe5 Qxe5 30. Rxe5 Kg7 {(=)} 1/2-1/2
+
+[Event "BL2-Sued 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.1"]
+[White "Schenk, Andreas"]
+[Black "Gramlich, Sebastian"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2509"]
+[BlackElo "2312"]
+[PlyCount "69"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Baden-Baden II"]
+[BlackTeam "Schwegenheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Bd3 Bb6 12. O-O Bg4 13. h3 Bh5 14. b4 d4
+15. e4 f6 16. Bc4+ Bf7 17. Qb3 Qe7 18. Rfe1 Ne5 19. Bxe5 fxe5 20. a4 a5 21.
+Reb1 axb4 22. Qxb4 Bc5 23. Bxf7+ Rxf7 24. Qc4 b6 25. a5 bxa5 26. Rb5 Bd6 27.
+Rbxa5 Rxa5 28. Rxa5 h6 29. Qd5 Bc7 30. Rc5 Bd6 31. Nxe5 Bxe5 32. Qxe5 d3 33.
+Qxe7 Rxe7 34. f3 Ra7 35. Rc1 1-0
+
+[Event "BL2-Sued 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.5"]
+[White "Wintzer, Joachim"]
+[Black "Rodewis, Thomas"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2349"]
+[BlackElo "2383"]
+[PlyCount "77"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Heidelberg Kirchheim"]
+[BlackTeam "Bayern Muenchen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. e3 Bg4 5. f3 Bc8 6. Bd3 Nbd7 7. cxd5 cxd5 8.
+Qb3 e6 9. f4 Be7 10. Nf3 O-O 11. O-O Nb6 12. a4 a5 13. Bd2 Bd7 14. Rfc1 Ne8 15.
+Ne5 Nd6 16. Nxd7 Nxd7 17. Nb5 Qb6 18. Rc7 Rfd8 19. Rac1 Ne8 20. R7c3 Bb4 21.
+R3c2 Bd6 22. Rc3 Ndf6 23. Qd1 Bb4 24. R3c2 Nd6 25. Bxb4 axb4 26. Nxd6 Rxd6 27.
+Rc8+ Rxc8 28. Rxc8+ Rd8 29. Rc5 Ne8 30. Rb5 Qa7 31. Rxb4 Rc8 32. h3 Nd6 33. Bb5
+Qa5 34. Rb3 g6 35. Kh2 Ne4 36. Ra3 Qb4 37. Rb3 Qa5 38. Ra3 Qb4 39. Rb3 1/2-1/2
+
+[Event "BL2-Sued 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.1"]
+[White "Ikonnikov, Vyacheslav"]
+[Black "Niklasch, Oliver"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2555"]
+[BlackElo "2406"]
+[PlyCount "61"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Heidelberg Handschuhsheim"]
+[BlackTeam "Schmiden Cannstatt"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 c5 8. cxd5
+exd5 9. Bd3 Qa5 10. O-O c4 11. Bf5 Re8 12. Nd2 g6 13. Bxd7 Nxd7 14. f3 Bxc3 15.
+bxc3 Nb6 16. Rac1 Bd7 17. h4 Rac8 18. e4 f5 19. Rce1 Qa4 20. Qc1 Qc6 21. e5 Be6
+22. h5 Nd7 23. hxg6 hxg6 24. f4 Kf7 25. Nf3 Rh8 26. Bf6 Rh5 27. Ng5+ Kg8 28.
+Qa3 Re8 29. Qxa7 Qa6 30. Qxa6 bxa6 31. Rb1 1-0
+
+[Event "BL2-Sued 0708"]
+[Site "Germany"]
+[Date "2008.04.20"]
+[Round "9.7"]
+[White "Melzer, Oliver"]
+[Black "Schlager, Thomas"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2214"]
+[BlackElo "2291"]
+[PlyCount "42"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Untergrombach"]
+[BlackTeam "Karlsruhe"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 Bg4 4. Bb5 Qd6 5. c4 dxc4 6. Qa4 Bxf3 7. gxf3 e6 8.
+Nd2 a6 9. Bxc6+ Qxc6 10. Qxc6+ bxc6 11. Nxc4 c5 12. dxc5 Bxc5 13. Bd2 Ne7 14.
+Bc3 f6 15. O-O-O Nd5 16. Bd4 Be7 17. Kc2 Nb4+ 18. Kb1 O-O-O 19. a3 Nc6 20. Bc3
+Rxd1+ 21. Rxd1 Rd8 1/2-1/2
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.3"]
+[White "Fridman, Rafael"]
+[Black "Lanka, Zigurds"]
+[Result "1/2-1/2"]
+[ECO "D75"]
+[WhiteElo "2424"]
+[BlackElo "2474"]
+[PlyCount "21"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bochum SG"]
+[BlackTeam "Schott Mainz"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 g6 4. c4 Bg7 5. Nc3 O-O 6. O-O d5 7. cxd5 Nxd5 8. d4
+cxd4 9. Nxd4 Nxc3 10. bxc3 Nc6 11. Nxc6 1/2-1/2
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.6"]
+[White "Kabatianski, Alexandr"]
+[Black "Heisel, Guido"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "2427"]
+[BlackElo "2282"]
+[PlyCount "79"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Turm Emsdetten"]
+[BlackTeam "Duisburg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Qa4 Nf6 5. Nc3 Qd7 6. e3 Bxf3 7. gxf3 e6 8.
+Bd2 dxc4 9. Bxc4 Nd5 10. Be2 Nb6 11. Qc2 O-O-O 12. O-O-O Kb8 13. Kb1 f5 14. f4
+Nb4 15. Qb3 N4d5 16. Bf3 Nxc3+ 17. bxc3 Qa4 18. Qxa4 Nxa4 19. Kc2 Rd6 20. c4
+Rb6 21. Rb1 c5 22. Ba5 Rxb1 23. Rxb1 b6 24. Bd2 Kc7 25. Kb3 b5 26. cxb5 Nb6 27.
+dxc5 Bxc5 28. Rc1 Kd6 29. Bc6 Nd5 30. a4 h6 31. Bxd5 Kxd5 32. Bb4 Bxb4 33. Kxb4
+g5 34. a5 Rb8 35. Rc4 gxf4 36. Rd4+ Ke5 37. Rxf4 Rg8 38. b6 axb6 39. axb6 Rg1
+40. Kb5 $138 1-0
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.5"]
+[White "Malykin, Vitaly"]
+[Black "Trella, Thomas"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2387"]
+[BlackElo "2292"]
+[PlyCount "39"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Koeln Porz"]
+[BlackTeam "Gerresheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. e3 c5 5. a3 dxc4 6. Bxc4 a6 7. O-O b5 8. Bd3
+Nbd7 9. Qe2 Bb7 10. Rd1 Qb6 11. a4 c4 12. Bc2 Nd5 13. Nc3 b4 14. Nxd5 exd5 15.
+e4 O-O-O 16. exd5 Bxd5 17. Be4 Qe6 18. Ng5 Qc6 19. Bxd5 Qxd5 20. b3 1-0
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.3"]
+[White "Krivoshey, Sergei"]
+[Black "Becker, Martin Alexander"]
+[Result "1/2-1/2"]
+[ECO "D56"]
+[WhiteElo "2484"]
+[BlackElo "2365"]
+[PlyCount "96"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hofheim"]
+[BlackTeam "Solingen II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. Qb3 Nxc3 10. bxc3 Rd8 11. Bd3 dxc4 12. Bxc4 c5 13. O-O b6 14. Ne5 Bb7
+15. Rfd1 Nc6 16. Nxc6 Bxc6 17. a4 Rac8 18. Bf1 cxd4 19. cxd4 Bd5 20. Qb2 Rc7
+21. Rdc1 Rdc8 22. Rxc7 Qxc7 23. f3 f5 24. a5 bxa5 25. Qd2 Qc3 26. Qxc3 Rxc3 27.
+Rxa5 Rxe3 28. Rxa7 Rb3 29. Ra4 Rc3 30. Kf2 f4 31. Be2 Kf7 32. Ra7+ Kf6 33. g3
+Rc2 34. Ke1 Rc1+ 35. Kf2 Rc2 36. Kf1 Bc4 37. Bxc4 Rxc4 38. Rd7 Rc2 39. Kg1 fxg3
+40. hxg3 Rd2 41. Kf1 h5 42. Kg1 g6 43. Kf1 Kg5 44. Re7 Kf6 45. Rd7 g5 46. Rh7
+Kg6 47. Re7 Kf6 48. Rh7 Kg6 1/2-1/2
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.5"]
+[White "Zude, Erik"]
+[Black "Balduan, Markus"]
+[Result "0-1"]
+[ECO "D21"]
+[WhiteElo "2412"]
+[BlackElo "2324"]
+[PlyCount "80"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hofheim"]
+[BlackTeam "Solingen II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. g3 b5 5. Bg2 Bb7 6. O-O e6 7. b3 cxb3 8. Qxb3
+Nf6 9. a4 b4 10. a5 Be7 11. Bf4 O-O 12. Rc1 Bd6 13. Bxd6 Qxd6 14. Nbd2 Nc6 15.
+e3 Rab8 16. Rc5 Ba8 17. Rac1 Nd7 18. R5c2 Nxa5 19. Qb1 Nf6 20. Ra2 Rb5 21. e4
+Qb6 22. Bf1 b3 23. Rb2 Rb4 24. Qd3 Rd8 25. Qe3 e5 26. Qg5 Rbxd4 27. Qxe5 R4d7
+28. Qf5 Qb4 29. e5 Qg4 30. Bh3 Qxf5 31. Bxf5 Rd5 32. Rxc7 Ne8 33. Rc1 g6 34.
+Bc8 Rd3 35. e6 fxe6 36. Bxe6+ Kg7 37. Rc5 Nb7 38. Re5 Kf6 39. Re2 Nc5 40. Ne1
+Rxd2 0-1
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.01.20"]
+[Round "5.6"]
+[White "Berg, Michael"]
+[Black "Brendel, Oliver"]
+[Result "1/2-1/2"]
+[ECO "D98"]
+[WhiteElo "2339"]
+[BlackElo "2387"]
+[PlyCount "92"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Solingen II"]
+[BlackTeam "Hofheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6 8.
+Be2 Bg4 9. d5 Na5 10. Qb4 Bxf3 11. Bxf3 c6 12. O-O cxd5 13. exd5 Rc8 14. Re1
+Re8 15. Be3 b6 16. Rad1 Nc4 17. Bc1 Qd6 18. Qxd6 Nxd6 19. Be2 Kf8 20. Ba6 Rc5
+21. Be3 Ra5 22. Bf1 Nde4 23. Nxe4 Nxe4 24. a4 Nd6 25. b3 Rd8 26. g4 Ne4 27. Bg2
+f5 28. Bxe4 fxe4 29. Bf4 Raxd5 30. Rxd5 Rxd5 31. Rxe4 Rd1+ 32. Kg2 Rb1 33. Rb4
+Bc3 34. Rb5 Bd4 35. Be3 Bxe3 36. fxe3 Ke8 37. Kf3 Kd7 38. h4 Kc6 39. Kf4 a6 40.
+Rb4 b5 41. axb5+ axb5 42. Kg5 e5 43. Kh6 Kc5 44. Re4 Kd5 45. Rb4 Kc5 46. Re4
+Kd5 1/2-1/2
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.02.10"]
+[Round "6.3"]
+[White "Dambacher, Martyn"]
+[Black "Fridman, Rafael"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "2463"]
+[BlackElo "2424"]
+[PlyCount "50"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Gerresheim"]
+[BlackTeam "Bochum SG"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Bd3 Bg7 6. Qc2 O-O 7. Nf3 c5 8. dxc5
+Na6 9. Nxd5 Nxd5 10. cxd5 Qxd5 11. Bxa6 bxa6 12. e4 Qe6 13. O-O Bb7 14. Re1
+Rac8 15. Bf4 Rfd8 16. Ng5 Qf6 17. Be3 Ba8 18. Rab1 h6 19. Nf3 Qe6 20. Nd2 Qxa2
+21. Nc4 Rb8 22. Ra1 Qb3 23. Qxb3 Rxb3 24. f3 Rb4 25. Rec1 Bc6 1/2-1/2
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.02.10"]
+[Round "6.8"]
+[White "Backwinkel, Paul"]
+[Black "Wacker, Peter"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2347"]
+[BlackElo "2269"]
+[PlyCount "130"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bochum SG"]
+[BlackTeam "Gerresheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c3 c6 3. Bf4 Bf5 4. Nd2 Nf6 5. Ngf3 h6 6. Qb3 Qb6 7. h3 Nbd7 8. e3
+e6 9. Be2 Be7 10. O-O O-O 11. c4 c5 12. cxd5 Qxb3 13. Nxb3 Nxd5 14. Bg3 N5f6
+15. Rac1 Rac8 16. Rfd1 Be4 17. Nfd2 Bd5 18. dxc5 Nxc5 19. Nxc5 Bxc5 20. Bf3
+Bxf3 21. Nxf3 Ne4 22. Be5 Rfd8 23. Rxd8+ Rxd8 24. Bd4 Bxd4 25. Nxd4 Rd7 26.
+Rc8+ Kh7 27. f3 Nd6 28. Rc2 Nf5 29. Nxf5 exf5 30. Kf2 h5 31. h4 Kg6 32. Kg3 Kf6
+33. Kf4 g6 34. b4 Rd5 35. a4 Rd6 36. Rc7 Rb6 37. Rc4 Rd6 38. a5 Rd7 39. Rc5 a6
+40. b5 axb5 41. Rxb5 Rc7 42. Rb6+ Ke7 43. Rb5 Kf6 44. e4 fxe4 45. fxe4 Ke6 46.
+Rb6+ Ke7 47. Ke3 Rd7 48. e5 Ke8 49. Ke4 Ke7 50. g3 Rc7 51. Kd5 Rd7+ 52. Rd6 Rc7
+53. e6 f6 54. Rb6 g5 55. Rb1 gxh4 56. gxh4 f5 57. Rg1 Kf6 58. Rg8 Rc1 59. Rf8+
+Ke7 60. Rf7+ Ke8 61. Rxf5 Rc6 62. Rxh5 Rxe6 63. Rh8+ Ke7 64. Rh7+ Ke8 65. Rxb7
+Ra6 1-0
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.02.10"]
+[Round "6.6"]
+[White "Koehler, Ronald"]
+[Black "Dann, Matthias"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "2267"]
+[BlackElo "2118"]
+[PlyCount "88"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Griesheim"]
+[BlackTeam "Schott Mainz"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. cxd5 exd5 6. Bg5 Bd6 7. e3 h6 8. Bh4
+Bg4 9. Be2 Nbd7 10. Rb1 Qe7 11. O-O g5 12. Bg3 Bxg3 13. hxg3 Ne4 14. Nxe4 dxe4
+15. Nd2 Bxe2 16. Qxe2 O-O 17. b4 a6 18. Qc4 Rae8 19. a4 Nb6 20. Qb3 Nd5 21. b5
+axb5 22. axb5 f5 23. Rfc1 Qf6 24. Nf1 Rf7 25. Qc4 Re6 26. bxc6 bxc6 27. Rc2 Kh7
+28. Qa6 f4 29. gxf4 gxf4 30. exf4 Nxf4 31. Rb7 Rg7 32. Ne3 c5 33. Qa7 Rxb7 34.
+Qxb7+ Re7 35. Qc8 cxd4 36. Nf5 Rf7 37. Rc7 d3 38. Nd6 Rxc7 39. Qxc7+ Kg6 40.
+Nxe4 Ne2+ 41. Kh1 Qa1+ 42. Kh2 Qg1+ 43. Kh3 Qh1+ 44. Kg4 Qh5# 0-1
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.02.10"]
+[Round "6.4"]
+[White "Balduan, Markus"]
+[Black "Brandenburg, Daan"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2324"]
+[BlackElo "2483"]
+[PlyCount "136"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Solingen II"]
+[BlackTeam "Turm Emsdetten"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Bd6 5. Bg3 O-O 6. Nbd2 c5 7. c3 Nc6 8. Bd3
+b6 9. O-O Bxg3 10. hxg3 Bb7 11. Qe2 Qe7 12. dxc5 bxc5 13. e4 Nd7 14. exd5 exd5
+15. Qxe7 Nxe7 16. Rfe1 Nc6 17. Bf5 Nb6 18. a4 g6 19. Bd3 a6 20. Ne5 Nxe5 21.
+Rxe5 Bc6 22. b3 Rfd8 23. a5 Nc8 24. Nf3 Nd6 25. b4 cxb4 26. Nd4 Be8 27. cxb4
+Nc4 28. Ree1 Rab8 29. Rab1 Kf8 30. Rec1 Rdc8 31. Re1 Bd7 32. f3 Rc7 33. Rec1
+Ke7 34. Kf2 Kd6 35. g4 Ke5 36. Ne2 Be6 37. f4+ Kd6 38. Kg3 Rcb7 39. f5 gxf5 40.
+gxf5 Bd7 41. Bxc4 dxc4 42. Rxc4 Bxf5 43. Rd1+ Ke7 44. Nf4 Kf8 45. Rd5 Bb1 46.
+Rd6 Rxb4 47. Rxb4 Rxb4 48. Rxa6 Be4 49. Ra7 Ra4 50. Kh3 Bc6 51. g3 Bf3 52. Nd3
+h5 53. Ne5 Bd5 54. Nd7+ Kg7 55. Nb6 Be6+ 56. Kg2 Ra2+ 57. Kf3 Kg6 58. Ra8 Rb2
+59. Kf4 Rb5 60. Nc8 Bxc8 61. Rxc8 Rxa5 62. Rg8+ Kf6 63. Rb8 Ra4+ 64. Kf3 Kf5
+65. Rb5+ Kg6 66. Rb6+ f6 67. Rb5 Ra3+ 68. Kf4 Ra4+ 1/2-1/2
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.3"]
+[White "Fridman, Rafael"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2424"]
+[BlackElo "2559"]
+[PlyCount "41"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Bochum SG"]
+[BlackTeam "Koeln Porz"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bg4 5. Ne5 Bh5 6. d4 e6 7. Nd2 Nbd7 8.
+Ndf3 Bd6 9. Nd3 O-O 10. c3 Re8 11. Nfe5 Qc7 12. Bf4 Bg6 13. Nxg6 hxg6 14. Bxd6
+Qxd6 15. f4 c5 16. e3 Rac8 17. g4 Ne4 18. Ne5 Nf8 19. Nd3 Nd7 20. Ne5 Nf8 21.
+Nd3 1/2-1/2
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.4"]
+[White "Dambacher, Martyn"]
+[Black "Tazbir, Marcin"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[WhiteElo "2463"]
+[BlackElo "2464"]
+[PlyCount "99"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Gerresheim"]
+[BlackTeam "Griesheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Qd6 8.
+Bd3 Nge7 9. Ne2 O-O 10. O-O f5 11. Qb1 b6 12. f3 Be6 13. Be1 Rad8 14. Bf2 Na5
+15. e4 fxe4 16. Bxe4 Bf5 17. Bg3 Nac6 18. d5 Bxe4 19. fxe4 Rxf1+ 20. Qxf1 Rf8
+21. Qe1 Nd8 22. Kh1 Qf6 23. c4 Nb7 24. Qc3 Ng6 25. Ng1 Nc5 26. Re1 h5 27. Nf3
+h4 28. Bxe5 Nxe5 29. Qxe5 Qxe5 30. Nxe5 Nxe4 31. Ng6 Rf6 32. Kg1 Nd6 33. Ne5
+Rf4 34. g3 hxg3 35. hxg3 Rd4 36. Nc6 Rxc4 37. Re7 Nb5 38. Rd7 Kf8 39. Rd8+ Kf7
+40. Ne5+ Ke7 41. Rd7+ Ke8 42. Rxg7 Rc5 43. Nd7 Rxd5 44. Nf6+ Kf8 45. Nxd5 Kxg7
+46. a4 Nd4 47. Nxc7 Ne2+ 48. Kf2 Nc3 49. Nb5 Nxa4 50. Nxa7 1/2-1/2
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.4"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Krivoshey, Sergei"]
+[Result "0-1"]
+[ECO "D17"]
+[WhiteElo "2434"]
+[BlackElo "2484"]
+[PlyCount "70"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Turm Emsdetten"]
+[BlackTeam "Hofheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Qc1 Be6 12. Nxe5 Nxe5 13. Bg2 Qa5 14. O-O
+f6 15. Rd1 Bb3 16. Rd4 Bc5 17. Bxe5 fxe5 18. Rg4 O-O 19. Ne4 Be7 20. Qh6 Rf7
+21. Nd2 Bc2 22. Be4 Bxe4 23. Nxe4 Rd8 24. Qe3 Rd4 25. Ng5 Rxg4 26. Nxf7 Qd5 27.
+Qf3 Rd4 28. Qxd5 Rxd5 29. e4 Rc5 30. b4 Rc4 31. Nxe5 Rxe4 32. f4 Bxb4 33. Rd1
+Re1+ 34. Rxe1 Bxe1 35. Nf3 Bc3 0-1
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.8"]
+[White "Richter, Christian"]
+[Black "Nogly, Christoph"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2399"]
+[BlackElo "2301"]
+[PlyCount "91"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Turm Emsdetten"]
+[BlackTeam "Hofheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Nbd7 5. Bf4 Bb4 6. Qb3 c5 7. e3 Qa5 8. Rc1
+b5 9. cxd5 c4 10. Qc2 exd5 11. Nd2 O-O 12. Be2 Re8 13. O-O Bb7 14. Rfe1 Bc6 15.
+Bf3 Bxc3 16. bxc3 Ne4 17. Bd1 Qd8 18. f3 Nxd2 19. Qxd2 g5 20. Bg3 f5 21. Bc2
+Qf6 22. Re2 Re6 23. Rce1 Rae8 24. Qd1 R8e7 25. Bc7 Qf8 26. Ba5 Qf7 27. Bd8 Re8
+28. Bxg5 a5 29. Bf4 Rf8 30. Qb1 Qh5 31. Kh1 Rf7 32. Rg1 Nf8 33. h3 Ng6 34. Bh2
+f4 35. Rge1 Rfe7 36. Bxg6 Qxg6 37. Bxf4 Qxb1 38. Rxb1 Rb7 39. a3 Kf7 40. Reb2
+Kg6 41. Kh2 Re8 42. g4 Rbe7 43. Kg3 h5 44. Be5 Rb7 45. f4 Rh7 46. f5+ 1-0
+
+[Event "BL2-West 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.1"]
+[White "Andersson, Ulf"]
+[Black "Fleck, Juergen"]
+[Result "1-0"]
+[ECO "D23"]
+[WhiteElo "2528"]
+[BlackElo "2431"]
+[PlyCount "79"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Gerresheim"]
+[BlackTeam "Duisburg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Qb3 dxc4 5. Qxc4 Bf5 6. g3 e6 7. Bg2 Be7 8. O-O

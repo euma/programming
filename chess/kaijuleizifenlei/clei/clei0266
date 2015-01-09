@@ -1,0 +1,600 @@
+[Round "2"]
+[White "Morozov, Boris"]
+[Black "Lisinov, Viacheslav"]
+[Result "0-1"]
+[ECO "C12"]
+[WhiteElo "2000"]
+[PlyCount "92"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. h4
+Nxd2 9. Qxd2 c5 10. Nf3 Qa5 11. Bd3 Nc6 12. dxc5 Qxc5 13. a4 a6 14. Kf1 Bd7 15.
+Re1 Rc8 16. h5 Ne7 17. Qf4 Qxc3 18. Rh3 Nf5 19. g4 Ne7 20. Rg3 d4 21. g5 Nd5
+22. Qg4 Rf8 23. gxh6 gxh6 24. Nxd4 Qb4 25. c4 Ne7 26. Qf4 Qb6 27. Rg7 Bxa4 28.
+Ne2 Rd8 29. Nc1 Qd4 30. Qxh6 Qh4 31. Qg5 Qh1+ 32. Ke2 Qh3 33. h6 Bc6 34. h7 Kd7
+35. Qf4 Qh5+ 36. Kd2 Ke8 37. Kc2 Rxd3 38. Nxd3 Nf5 39. Rg8 Qxh7 40. Rxf8+ Kxf8
+41. Kc3 Qh3 42. Qg5 Ke8 43. Kd2 Nd4 44. Qg8+ Ke7 45. Re3 Qh4 46. Qb8 Nf3+ 0-1
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Nazarian, Artur"]
+[Black "Glushkov, Lev"]
+[Result "1-0"]
+[ECO "C15"]
+[WhiteElo "2012"]
+[PlyCount "65"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 c5 5. a3 Bxc3 6. Bxc3 c4 7. Qe2 Ne7 8.
+O-O-O Nbc6 9. f4 b5 10. f5 exf5 11. exd5 Qxd5 12. g3 a5 13. Bg2 Qd6 14. d5 Nd8
+15. Bxg7 Rg8 16. Be5 Qg6 17. d6 Ra7 18. Bd4 Rd7 19. Bc5 Ne6 20. Bf2 Qh6+ 21.
+Kb1 Ng6 22. Bc6 Ba6 23. Nf3 b4 24. Nd4 Ngf8 25. Nb5 Bxb5 26. Bxb5 c3 27. Qc4
+Rg4 28. Qc8+ Nd8 29. Rhe1+ Re4 30. Bb6 f6 31. Qxd8+ Kf7 32. Bxd7 bxa3 33. Rxe4
+1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Paravian, David"]
+[Black "Golubev, Igor"]
+[Result "1-0"]
+[ECO "C11"]
+[BlackElo "2111"]
+[PlyCount "95"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Qd3 dxe4 5. Nxe4 Nc6 6. c3 Nxe4 7. Qxe4 Qd5 8.
+Bd3 Qxe4+ 9. Bxe4 Bd7 10. Nf3 f6 11. Bf4 O-O-O 12. O-O-O g5 13. Be3 Ne7 14.
+Rhe1 Nd5 15. c4 Nxe3 16. fxe3 h6 17. Bc2 Be7 18. e4 c5 19. d5 exd5 20. exd5 Bd6
+21. h3 Rde8 22. Nd2 f5 23. Bd3 Rhf8 24. Rxe8+ Rxe8 25. Rf1 Bf4 26. g3 Re3 27.
+gxf4 Rxd3 28. fxg5 Rxh3 29. gxh6 Rxh6 30. Nf3 Kc7 31. Ne5 Bc8 32. Rg1 f4 33.
+Rg7+ Kb6 34. Rf7 Rh1+ 35. Kc2 Rh5 36. Rf6+ Ka5 37. Nd3 Bf5 38. Kc3 Bxd3 39.
+Kxd3 Rh2 40. b4+ Kxb4 41. d6 Rh3+ 42. Kc2 Kxc4 43. Rxf4+ Kb5 44. Rf7 Kc6 45.
+Rc7+ Kb6 46. Rf7 Rh6 47. d7 Rd6 48. Rf6 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Piatin, Oleg"]
+[Black "Grinenko, Viktor"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2161"]
+[BlackElo "1931"]
+[PlyCount "109"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 cxd4 7. cxd4 Bd7 8. Nc3
+f6 9. exf6 Nxf6 10. Bd3 Rc8 11. Na4 Qc7 12. b4 Bd6 13. O-O O-O 14. Bg5 Ng4 15.
+h3 Nh2 16. Nxh2 Bxh2+ 17. Kh1 Bf4 18. Bxf4 Rxf4 19. g3 Rxd4 20. b5 Rxd3 21.
+Qxd3 Ne5 22. Qb3 Nc4 23. Ra2 Nd6 24. b6 Qc6 25. Nb2 Nc4 26. Rd1 e5 27. Kh2 Qe6
+28. g4 Nxb6 29. a4 Rf8 30. Rd2 Qh6 31. Qe3 Qd6 32. a5 e4+ 33. Kg1 Nc8 34. Qd4
+Bc6 35. Nd1 Rf3 36. Ne3 Rxh3 37. Rd1 Qh6 38. Kf1 Rh1+ 39. Ke2 Bb5+ 40. Kd2
+Rxd1+ 41. Kxd1 Bc6 42. Nf5 Qg5 43. Ne3 Nd6 44. Qxa7 Nb5 45. Qb8+ Kf7 46. Rc2
+Qf6 47. Rc1 Qxf2 48. Rxc6 bxc6 49. Qb7+ Kf6 50. Qxc6+ Kg5 51. Qxd5+ Kf4 52.
+Qxb5 Kxe3 53. Qc5+ Kf3 54. Qf5+ Ke3 55. Qc5+ 1/2-1/2
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Pozdnyakov, Andrey"]
+[Black "Kochetkov, Iliya"]
+[Result "0-1"]
+[ECO "C97"]
+[WhiteElo "1784"]
+[BlackElo "2058"]
+[PlyCount "44"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. b3 cxd4 13. cxd4 Nc6 14. Na3 exd4 15.
+Nxd4 Nxd4 16. Qxd4 Nd7 17. e5 dxe5 18. Qe4 Nf6 19. Qxe5 Bd6 20. Qd4 Rd8 21. Qh4
+Bxa3 22. Bxa3 Qxc2 0-1
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Seliverstov, Vitaliy"]
+[Black "Petrushin, Alexander I"]
+[Result "0-1"]
+[ECO "C25"]
+[WhiteElo "2174"]
+[BlackElo "2426"]
+[PlyCount "68"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 Nc6 2. Nc3 e5 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d6 6. Nf3 Bg4 7. Bxf4 Nf6 8.
+Bg3 Qh5 9. Kf2 g6 10. Bb5 Bg7 11. Re1 O-O 12. a3 Nxd4 13. Bf1 Nd7 14. h3 Bxf3
+15. gxf3 f5 16. f4 Qxd1 17. Rexd1 Nxc2 18. Rac1 Nd4 19. e5 dxe5 20. fxe5 f4 21.
+Rxd4 fxg3+ 22. Kg1 Nxe5 23. Rd5 Rf2 24. Bg2 c6 25. Rd6 Nc4 26. Rdd1 Ne3 27. Be4
+Raf8 28. Bd3 Rg2+ 29. Kh1 Rh2+ 30. Kg1 Rxb2 31. Ne4 g2 32. Ng5 Be5 33. Re1 Rf1+
+34. Bxf1 Bh2+ 0-1
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Senkov, Alexandr"]
+[Black "Komissarov, Stanislav"]
+[Result "1-0"]
+[ECO "C13"]
+[BlackElo "1986"]
+[PlyCount "77"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 dxe4 5. Bxf6 Qxf6 6. Nxe4 Qd8 7. Bd3 Be7 8.
+Nf3 O-O 9. h4 b6 10. Qe2 f6 11. Neg5 f5 12. Nxe6 Bxe6 13. Qxe6+ Kh8 14. Ne5 Qe8
+15. Bc4 g6 16. h5 Rf6 17. Nxg6+ hxg6 18. hxg6+ Kg7 19. Rh7+ Kxg6 20. Qxe7 Qxe7+
+21. Rxe7 Nc6 22. Rd7 Rh8 23. O-O-O Rh2 24. Rxc7 Rd6 25. c3 Kg5 26. Rg1 Kf4 27.
+b4 Nd8 28. Rxa7 Rc6 29. Bb3 Rxc3+ 30. Kd2 Rc8 31. d5 Ke5 32. Rg7 Kf6 33. Rg8
+Rh7 34. Re1 Rd7 35. Ree8 Rd6 36. Rgf8+ Kg6 37. Ke3 Rb8 38. Kf4 Rc8 39. Rxf5 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Shishkov, Konstantin"]
+[Black "Steyn, Valery"]
+[Result "0-1"]
+[ECO "C24"]
+[BlackElo "1984"]
+[PlyCount "20"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Bg5 d6 5. a3 O-O 6. Bxf6 Qxf6 7. Qf3 Qg6 8.
+Qg3 Qh6 9. Qh3 Bxh3 10. Nxh3 Qc1+ 0-1
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Shubin, Gennady"]
+[Black "Gumirov, Konstantin L"]
+[Result "1/2-1/2"]
+[ECO "C64"]
+[WhiteElo "1881"]
+[BlackElo "2187"]
+[PlyCount "93"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qf6 5. d4 exd4 6. e5 Qg6 7. cxd4 Bb6 8.
+O-O d5 9. Nc3 Nge7 10. Nh4 Qg4 11. Qxg4 Bxg4 12. Bxc6+ bxc6 13. h3 Bd7 14. Be3
+h6 15. Na4 g5 16. Nxb6 cxb6 17. Nf3 g4 18. hxg4 Bxg4 19. Nh2 Bd7 20. Rad1 O-O-O
+21. Rd3 Rdg8 22. Rc1 Kb7 23. Nf3 Nf5 24. b4 Rg6 25. Kf1 Rhg8 26. g3 c5 27. Rdc3
+c4 28. Nh4 Nxh4 29. gxh4 Bf5 30. h5 Rg1+ 31. Ke2 Bg4+ 32. Kd2 Bxh5 33. Bxh6
+R1g2 34. Be3 Bf3 35. Rf1 Be4 36. Rcc1 a5 37. a3 Ra8 38. Ra1 Bd3 39. Rh1 Kc6 40.
+Kc3 Rag8 41. Rh6+ Bg6 42. bxa5 bxa5 43. Rb1 Ra8 44. a4 Kc7 45. Rb5 Rd8 46. Rxa5
+Rg1 47. Rc5+ 1/2-1/2
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Simkin, Alexander"]
+[Black "Mukhin, Viktor"]
+[Result "1/2-1/2"]
+[ECO "C98"]
+[WhiteElo "1934"]
+[BlackElo "2147"]
+[PlyCount "112"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. Nf1 cxd4 14. cxd4 exd4 15.
+Bf4 Nd7 16. Rc1 Bf6 17. Bb3 Be5 18. Bxe5 dxe5 19. Rxc6 Qxc6 20. Bd5 Qd6 21.
+Bxa8 Nb6 22. Bd5 Nxd5 23. exd5 f6 24. Ng3 Qxd5 25. b3 Be6 26. Qd2 Bxh3 27. gxh3
+Qxf3 28. Rc1 Qd5 29. Qd3 Qe6 30. Qf5 Qxf5 31. Nxf5 g6 32. Ng3 f5 33. Kf1 Rf6
+34. Ke2 h5 35. Kd2 h4 36. Ne2 Rd6 37. Rc5 e4 38. Nf4 d3 39. Nd5 Kf7 40. Nb4 f4
+41. Nd5 g5 42. Nc3 Re6 43. Rxg5 e3+ 44. fxe3 Rxe3 45. Rf5+ Ke6 46. Rxf4 Rxh3
+47. Rf2 Ke5 48. Nd1 Rg3 49. Ne3 Ke4 50. Nf5 Rh3 51. Nd6+ Kd5 52. Nf7 Rg3 53.
+Nh6 Rh3 54. Ng4 Rg3 55. Ne3+ Ke4 56. Nf1 Rg1 1/2-1/2
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Skoriak, Ivan"]
+[Black "Islamov, Marat"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "2059"]
+[BlackElo "2210"]
+[PlyCount "92"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Qb6 9. Nf3 Be7 10. O-O O-O 11. a3 a5 12. Qc2 f5 13. exf6 Nxf6 14. Rd1 Bd7 15.
+Be3 Rac8 16. Qb1 Qc7 17. h3 Bd6 18. Ng5 h6 19. Nh7 Nxh7 20. Bxh7+ Kh8 21. Bg6
+Ne7 22. Rc1 Bc6 23. Qc2 Nf5 24. Qd2 Nxe3 25. fxe3 Rf6 26. Bh5 Rcf8 27. Bf3 Qf7
+28. Rf1 Qg6 29. Kh1 Bb5 30. Qe1 Qg5 31. Rd1 Bxe2 32. Bxe2 Qxe3 33. Rf3 Rxf3 34.
+Bxf3 Qf4 35. Qg1 Qg3 36. Rd3 Rc8 37. Be2 Qg5 38. Bg4 Rc1 39. Rd1 Rxd1 40. Qxd1
+Qf4 41. Qg1 e5 42. dxe5 Bxe5 43. Bf3 d4 44. Bxb7 Qg3 45. Ba6 d3 46. b4 d2 0-1
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Surov, Anatoly"]
+[Black "Mihnenko, Nikita"]
+[Result "1-0"]
+[ECO "C38"]
+[BlackElo "1978"]
+[PlyCount "125"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. Bc4 d6 5. O-O g5 6. d4 Bg7 7. c3 Nf6 8. e5
+dxe5 9. Bxf7+ Kxf7 10. Nxe5+ Kg8 11. h4 Nd5 12. Ng6 Rh7 13. Nd2 Bf5 14. h5 Bxg6
+15. hxg6 Rh8 16. Qg4 Qd7 17. Qe2 Nc6 18. Re1 Nf6 19. Ne4 Nxe4 20. Qc4+ Kf8 21.
+Rxe4 Bf6 22. b3 Kg7 23. Bxf4 Rhe8 24. Rxe8 Rxe8 25. Bg3 Kxg6 26. Rd1 Qe7 27.
+Re1 Qf7 28. Qd3+ Kg7 29. Rf1 Qg6 30. Qb5 Qc2 31. d5 Re2 32. Bf2 Ne5 33. Qxb7
+Ng4 34. Qxc7+ Kg6 35. Qg3 Nxf2 36. Qf3 Ne4 37. Qf5+ Kg7 38. Qd7+ Kh8 39. Qe8+
+Kg7 40. Qd7+ Kf8 41. Qd8+ Kf7 42. Qd7+ Kg6 43. Qe8+ Kg7 44. Qd7+ Kh8 45. Qh3
+Rxg2+ 46. Qxg2 Qxg2+ 47. Kxg2 Bxc3 48. Rf7 Bd4 49. Re7 Nd6 50. Re6 Nf7 51. d6
+Kg7 52. d7 Bb6 53. Kg3 Nd8 54. Re8 h5 55. Kf3 Bc7 56. Ke4 g4 57. Kf5 g3 58.
+Re7+ Kh6 59. Re2 h4 60. Kg4 Nb7 61. Kxh4 Kg7 62. Kh3 Nd8 63. a4 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Voronov, Vadim"]
+[Black "Vassiliev, Michael"]
+[Result "1-0"]
+[ECO "C56"]
+[WhiteElo "1973"]
+[PlyCount "35"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 d6 5. dxe5 Nxe4 6. O-O Be7 7. Qd5 O-O 8.
+Qxe4 dxe5 9. Nc3 a6 10. Nd5 Bd6 11. Bg5 Qd7 12. Rad1 Qf5 13. Qe3 e4 14. Nh4 Qe5
+15. Bf4 Qxb2 16. Bxd6 cxd6 17. c3 Qa3 18. Qxe4 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Zimin, Alexey"]
+[Black "Pozdeev, Nikita"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2206"]
+[BlackElo "1983"]
+[PlyCount "57"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. Qd2 Nc6 10. dxc5 Qxc5 11. O-O-O b5 12. Kb1 b4 13. Ne2 Bb7 14. Ned4 Qa5
+15. f5 Nc5 16. fxe6 fxe6 17. Ng5 Nxd4 18. Qxd4 h6 19. Nf3 O-O 20. h4 Rab8 21.
+Bd3 Na4 22. Ka1 Bc6 23. Qg4 Be8 24. Qxe6+ Bf7 25. Qxa6 Ra8 26. Qxa5 Rxa5 27.
+Nd4 Nc5 28. Nc6 Raa8 29. Nxb4 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Andreev, Nikita"]
+[Black "Pokhlebin, Sergej"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2168"]
+[BlackElo "1987"]
+[PlyCount "48"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nc6 4. d3 Bc5 5. c3 d6 6. h3 Ne7 7. O-O O-O 8. Bg5
+Ng6 9. Re1 Qe7 10. Na3 Be6 11. Qc2 h6 12. Be3 Bxe3 13. Rxe3 d5 14. exd5 Nxd5
+15. Ree1 Qf6 16. d4 exd4 17. Nxd4 Ngf4 18. Nxe6 fxe6 19. Bxd5 exd5 20. Re3 Rae8
+21. Qd1 Qg5 22. Qf3 Rxe3 23. fxe3 Nd3 24. h4 Qe5 0-1
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Artamonov, Valery"]
+[Black "Piskov, Vladimir"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2230"]
+[BlackElo "2073"]
+[PlyCount "59"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 e6 2. e4 d5 3. exd5 exd5 4. d4 Nf6 5. Nc3 Be6 6. Nf3 c6 7. Ng5 Be7 8. Bd3
+O-O 9. O-O Qd7 10. Re1 Bg4 11. Qc2 h6 12. Nh7 Rd8 13. h3 dxc4 14. Nxf6+ Bxf6
+15. Bh7+ Kh8 16. hxg4 Qxg4 17. Bf5 Qxd4 18. Be3 Qh4 19. Rad1 Na6 20. Ne4 Be5
+21. Qxc4 Rxd1 22. Rxd1 Qh5 23. g4 Qh3 24. f3 Qxf3 25. Qd3 Re8 26. Bxa7 Qf4 27.
+Qd2 Qf3 28. Rf1 Qh3 29. Qg2 Qxg2+ 30. Kxg2 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Avdonin, Boris"]
+[Black "Romanov, Sergey"]
+[Result "1-0"]
+[ECO "C78"]
+[BlackElo "2094"]
+[PlyCount "77"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 Nxe4 8. d4
+exd4 9. cxd4 Be7 10. d5 Na5 11. Bc2 Nf6 12. Re1 O-O 13. Qd3 Nc4 14. b3 Nb6 15.
+Ng5 g6 16. Nc3 Bb7 17. Bb2 Nfxd5 18. Nxd5 Nxd5 19. Nxh7 f5 20. Nxf8 Qxf8 21. b4
+Bf6 22. Bb3 c6 23. Bd4 Kg7 24. Bxd5 cxd5 25. Rac1 Bxd4 26. Qxd4+ Kf7 27. Re3
+Re8 28. Rce1 Re6 29. a3 Qc8 30. h4 Qc4 31. Qh8 Qc8 32. Qh7+ Kf6 33. h5 gxh5 34.
+Qh6+ Ke7 35. Qg5+ Kd6 36. Qf4+ Ke7 37. Qxf5 Qg8 38. Qf4 Bc6 39. Qc7 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Belekhov, Dmitry"]
+[Black "Struve, Mikhail"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1838"]
+[PlyCount "21"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e6 2. d4 d5 3. exd5 Qxd5 4. Nf3 b6 5. Bd3 Nc6 6. c3 Bd6 7. O-O b5 8. Re1
+a6 9. Be4 Qh5 10. Bxc6+ Ke7 11. Bxa8 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Bobrov, Valentin"]
+[Black "Nazarian, Artur"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2230"]
+[BlackElo "2012"]
+[PlyCount "55"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 a6 5. Bg5 Ne7 6. Nc3 Nbc6 7. Qe3 f6 8.
+Bh4 g5 9. Bg3 h5 10. h3 Bh6 11. Nd5 Nxd5 12. exd5+ Ne5 13. Nd4 Qe7 14. Be2 g4
+15. Bf4 gxh3 16. Bxh6 hxg2 17. Rg1 Bg4 18. Bf4 Bxe2 19. Qxe2 O-O-O 20. Rxg2 h4
+21. O-O-O h3 22. Rg3 h2 23. Rh1 Rh7 24. Bxe5 Qxe5 25. Qg4+ Kb8 26. c4 f5 27.
+Qg5 Re8 28. Re3 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Bolshakov, Dmitry"]
+[Black "Surov, Anatoly"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2252"]
+[PlyCount "97"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Bxd5 cxd5 9. Qxd5 Rb8 10. O-O Bg5 11. e6 Bxc1 12. exf7+ Kf8 13. Rxc1 Bb7 14.
+Qf5 Qf6 15. Qxf6 gxf6 16. Nc3 Kxf7 17. f3 Rhg8 18. Kf2 a6 19. b3 Rg6 20. Ne2
+Rbg8 21. Nf4 Rg5 22. c4 Rf5 23. g3 h5 24. h4 d6 25. Rc3 a5 26. Re1 Re8 27. Rxe8
+Kxe8 28. Re3+ Kf7 29. Ne6 Rxf3+ 30. Rxf3 Bxf3 31. Nxc7 Be4 32. Nb5 Ke6 33. Ke3
+Bb1 34. Nc3 Bg6 35. Kf4 Bf5 36. Nb5 Bb1 37. a3 a4 38. Nc3 Bc2 39. bxa4 Bd3 40.
+Ke3 Bxc4 41. Ke4 d5+ 42. Kd4 Kd6 43. a5 f5 44. Nd1 Kc6 45. Ne3 Bb3 46. Nxf5 Kb5
+47. Ng7 Bd1 48. Kxd5 Kxa5 49. Ke5 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Chepel, Mykola"]
+[Black "Borzov, Roman"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "2132"]
+[BlackElo "2019"]
+[PlyCount "39"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 Nbd7 5. Bc4 Be7 6. Qe2 O-O 7. d3 c6 8. O-O
+b5 9. Bb3 Qc7 10. f5 b4 11. Nd1 d5 12. Kh1 a5 13. a4 dxe4 14. dxe4 Nc5 15. Bc4
+Ncxe4 16. g4 h6 17. Rg1 Bb7 18. Bxh6 gxh6 19. Qe3 Kh7 20. g5 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Chukhlantseva, Anna"]
+[Black "Lagashin, Pavel"]
+[Result "0-1"]
+[ECO "C42"]
+[BlackElo "2015"]
+[PlyCount "28"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8.
+Re1 Bg4 9. c3 f5 10. Nbd2 O-O 11. Qb3 Kh8 12. Qxb7 Rf6 13. Ne5 Nxe5 14. dxe5
+Rb6 0-1
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Davydenko, Andrey"]
+[Black "Tereschenko, Valerij"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[WhiteElo "2173"]
+[PlyCount "56"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d3 5. Bxd3 d6 6. O-O Nf6 7. h3 Be7 8. Be3
+O-O 9. Nbd2 Ne5 10. Nxe5 dxe5 11. Nc4 Nd7 12. Qe2 Bg5 13. Rfd1 Bxe3 14. Qxe3
+Qe7 15. Qg3 Re8 16. Bc2 f6 17. Ne3 Nb6 18. Bb3+ Kh8 19. Rd2 Be6 20. Rad1 a5 21.
+Bxe6 Qxe6 22. Nd5 Nxd5 23. Rxd5 c6 24. Rd7 Re7 25. Rxe7 Qxe7 26. Qd3 Kg8 27.
+Qd7 Kf7 28. Kf1 Re8 1/2-1/2
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Elishev, Ivan"]
+[Black "Kruchev, Boris"]
+[Result "0-1"]
+[ECO "C52"]
+[WhiteElo "2120"]
+[BlackElo "2260"]
+[PlyCount "50"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Nf6 8. e5
+d5 9. exf6 dxc4 10. fxg7 Rg8 11. Re1+ Be6 12. Ng5 Qf6 13. Ne4 Qg6 14. Bg5 Rxg7
+15. Qf3 Kf8 16. Bf6 Bd5 17. g3 Re8 18. Nbd2 Bxc3 19. Nd6 Rxe1+ 20. Rxe1 cxd6
+21. Qf4 Bb4 22. Rb1 Bxd2 23. Qxd6+ Kg8 24. Rxb7 h5 25. Qxd5 Qxf6 0-1
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]
+[Date "2008.02.04"]
+[Round "3"]
+[White "Glushkov, Lev"]
+[Black "Morozov, Boris"]
+[Result "1-0"]
+[ECO "C27"]
+[BlackElo "2000"]
+[PlyCount "45"]
+[EventDate "2008.02.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 c6 4. d3 d5 5. Bb3 Bb4 6. exd5 cxd5 7. Bd2 O-O 8.
+Nge2 Nc6 9. O-O Bg4 10. f3 Bh5 11. Bg5 Ne7 12. Bxf6 gxf6 13. Qc1 Kh8 14. g4 Rg8
+15. Ng3 Bg6 16. h4 f5 17. h5 fxg4 18. Qg5 Bxc3 19. Qf6+ Rg7 20. h6 Qb6+ 21.
+Qxb6 axb6 22. hxg7+ Kxg7 23. bxc3 1-0
+
+[Event "Moscow op-B 04th"]
+[Site "Moscow"]

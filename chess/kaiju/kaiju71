@@ -1,0 +1,50 @@
+E06	E06	1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7
+E06	Tarrasch Defense, Catalan	1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 c5
+5.Nf3 Nc6
+E07	E07	1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O Nbd7
+E07	Botvinnik Variation, Catalan	1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7
+5.Nf3 O-O 6.O-O Nbd7 7.Nc3 c6 8.Qd3
+E08	E08	1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O Nbd7 7.Qc2
+E08	Zagoriansky Variation, Catalan	1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7
+5.Nf3 O-O 6.O-O Nbd7 7.Qc2 c6 8.Rd1 b6 9.a4
+E09	E09	1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O Nbd7 7.Qc2
+c6 8.Nbd2
+E09	Sokolsky Variation, Catalan	1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7
+5.Nf3 O-O 6.O-O Nbd7 7.Qc2 c6 8.Nbd2 b6 8.Nbd2 b6 9.b3 a5 10.Bb2 Ba6
+E10	Anti-Nimzo-Indian; E10	1.d4 Nf6 2.c4 e6 3.Nf3
+E10	Dzindzi-Indian Defense	1.d4 Nf6 2.c4 e6 3.Nf3 a6
+E10	Blumenfeld Variation	1.d4 Nf6 2.c4 e6 3.Nf3 c5
+E10	Blumenfeld Countergambit	1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5
+E10	Dus-Chotimursky Variation	1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5
+5.Bg5
+E10	Spielmann Variation, Blumenfeld	1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5
+5.Bg5 exd5 6.cxd5 h6
+E10	Blumenfeld Countergambit Accepted	1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5
+b5 5.dxe6 fxe6 6.cxb5 d5
+E10	Rubinstein Variation, Blumenfeld	1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5
+b5 5.e4
+E10	Dory (Doery) Defense	1.d4 Nf6 2.c4 e6 3.Nf3 Ne4
+E11	Bogoljubow Defense; Bogo-Indian Defense; E11	1.d4 Nf6 2.c4 e6 3.Nf3
+Bb4+
+E11	Monticelli Trap	1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 b6 6.g3
+Bb7 7.Bg2 O-O 8.Nc3 Ne4 9.Qc2 Nxc3 10.Bg5
+E11	Nimzovich Variation, Bogo-Indian	1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+
+4.Bd2 Qe7
+E11	Grunfeld Variation, Bogo-Indian	1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2
+E12	Queen's Indian Defense; E12	1.d4 Nf6 2.c4 e6 3.Nf3 b6
+E12	Petrosian Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3
+E12	Farago Defense, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.Qc2 Bb7
+E12	Murey Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5
+6.cxd5 Nxd5 7.Qc2 c5 8.e4 Nxc3 9.bxc3 Nc6 10.Bb2 cxd4 11.cxd4 Rc8 12.Rd1 Bd6
+E12	Miles Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Bf4
+E12	Kasparov Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3
+E12	Kasparov-Petrosian Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6
+4.Nc3 Bb7 5.a3
+E12	Polovodin Gambit, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5
+6.cxd5 Nxd5 7.e4
+E12	Hedgehog Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 g6
+E12	Botvinnik Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7
+5.Bg5 h6 6.Bh4 g5 7.Bg3 Nh5
+E13	E13	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5 h6 6.Bh4 Bb4
+E14	Spassky System, QID; E14	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3
+E14	Averbakh Variation, QID	1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 c5

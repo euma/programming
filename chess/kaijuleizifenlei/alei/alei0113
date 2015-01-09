@@ -1,0 +1,600 @@
+[BlackTeam "Ettlingen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 f5 2. d3 d6 3. g3 Nf6 4. Bg2 g6 5. c4 Bg7 6. Nc3 e5 7. O-O O-O 8. Bd2
+Nc6 9. Rb1 a5 10. a3 h6 11. b4 axb4 12. axb4 g5 13. b5 Ne7 14. c5 e4 15. cxd6
+Qxd6 16. Ne1 Rd8 17. Qc2 Ng4 18. Nd1 c5 19. Be3 Nxe3 20. Nxe3 Be6 21. dxe4 Ra2
+22. Nc4 Rxc2 23. Nxd6 Rxe2 24. Nxb7 Rb8 25. Nxc5 Bc4 26. b6 Bd4 27. Ned3 fxe4
+28. Bxe4 Rxe4 29. Nxe4 Bxd3 30. Rbd1 Bxf1 1/2-1/2
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.2"]
+[White "Gebhardt, Ulrich"]
+[Black "Hess, Markus"]
+[Result "0-1"]
+[ECO "A56"]
+[WhiteElo "2193"]
+[BlackElo "2178"]
+[PlyCount "64"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ettlingen"]
+[BlackTeam "Ladenburg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Bd3 O-O 7. Nf3 Ne8 8. h3 g6
+9. Bh6 Ng7 10. g4 Nd7 11. Qd2 Nf6 12. Ke2 Kh8 13. Rag1 a6 14. a4 Bd7 15. Ne1
+Ng8 16. h4 f6 17. Bxg7+ Kxg7 18. g5 fxg5 19. hxg5 Rf4 20. Ng2 Rg4 21. Ke1 Bxg5
+22. Qd1 Qf6 23. Be2 Rf8 24. f4 Rg3 25. fxg5 Qf2+ 26. Kd2 Rxg2 27. Rxg2 Qxg2 28.
+Rg1 Qf2 29. Rf1 Qd4+ 30. Kc2 Qxd1+ 31. Nxd1 Rxf1 32. Bxf1 Bxa4+ 0-1
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.4"]
+[White "Vinke, Andreas"]
+[Black "Schell, Peter"]
+[Result "0-1"]
+[ECO "A34"]
+[WhiteElo "2177"]
+[BlackElo "2108"]
+[PlyCount "104"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Karlsruhe II"]
+[BlackTeam "Walldorf"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 b6 2. Nf3 Bb7 3. Nc3 c5 4. e3 e6 5. d4 d6 6. d5 e5 7. Bd3 Nd7 8. O-O a6
+9. Nd2 g6 10. f4 Bg7 11. f5 Ngf6 12. Nde4 Qe7 13. a4 Nxe4 14. Nxe4 f6 15. fxg6
+hxg6 16. Qg4 Nf8 17. Ng3 Qf7 18. a5 Bc8 19. Qf3 f5 20. axb6 Qe7 21. Bc2 e4 22.
+Qf2 Be5 23. h3 Nh7 24. Bd2 Ng5 25. Ne2 Rxh3 26. Nf4 Rh6 27. Bc3 Nf7 28. Ba4+
+Kf8 29. Bxe5 Nxe5 30. Qg3 Qh7 31. Kf2 Qg7 32. Rab1 Rb8 33. Qg5 Nf7 34. Qg3 g5
+35. Ne6+ Bxe6 36. dxe6 Rxe6 37. Bd7 Rf6 38. Ke2 f4 39. exf4 gxf4 40. Qh3 Ne5
+41. Ba4 Ke7 42. Rg1 Rxb6 43. Qc8 Qg4+ 44. Qxg4 Nxg4 45. Rh1 Ne5 46. Rh8 Rg6 47.
+Kf1 Nxc4 48. Re8+ Kf6 49. Kg1 d5 50. Rd1 Rxb2 51. Rxd5 Rgxg2+ 52. Kh1 Rh2+ 0-1
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.1"]
+[White "Zuse, Klaus Peter"]
+[Black "Hildenbrand, Peter"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2274"]
+[BlackElo "2202"]
+[PlyCount "0"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Kirchheim II"]
+[BlackTeam "Leimen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+ 1-0
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.4"]
+[White "Kraemer, Enrico"]
+[Black "Halt, David"]
+[Result "0-1"]
+[ECO "A67"]
+[BlackElo "2027"]
+[PlyCount "160"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Leimen"]
+[BlackTeam "Kirchheim II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 a6 10. Bd3 Qh4+ 11. g3 Qe7 12. Nf3 Nf6 13. O-O Bg4 14. Qe2 Nbd7 15.
+Bd2 O-O 16. Rae1 Rfe8 17. Kg2 Rac8 18. b3 Qd8 19. h3 Bxf3+ 20. Qxf3 Qc7 21. Nd1
+Qb8 22. a5 b5 23. axb6 Qxb6 24. Bc4 Re7 25. Re2 Ne8 26. Rfe1 Nc7 27. Bc3 Nb5
+28. Bxg7 Kxg7 29. Bxb5 axb5 30. Qc3+ f6 31. Nf2 b4 32. Qd3 Qa5 33. Ng4 Rce8 34.
+Ne3 Nb6 35. Nc4 Qa6 36. Ne5 Qxd3 37. Nxd3 Kf7 38. Kf3 Ra7 39. e5 fxe5 40. fxe5
+Nxd5 41. exd6 Rd8 42. Ne5+ Kg7 43. d7 Ra3 44. Rb2 Nb6 45. Ke4 Nxd7 46. Nxd7
+Rxd7 47. Rc1 Re7+ 48. Kd3 Rf7 49. Rxc5 Rf3+ 50. Kc4 Rxg3 51. Kxb4 Ra7 52. h4
+Rb7+ 53. Ka4 Rg4+ 54. Ka5 Rxh4 55. b4 Rf4 56. b5 Ra7+ 57. Kb6 Rff7 58. Rc6
+Rab7+ 59. Ka5 Ra7+ 60. Ra6 Rab7 61. Ra8 h5 62. b6 h4 63. Ka6 g5 64. Ra7 Rxa7+
+65. bxa7 Rxa7+ 66. Kxa7 Kf6 67. Kb6 g4 68. Kc5 h3 69. Kd4 g3 70. Rb3 g2 71.
+Rxh3 g1=Q+ 72. Re3 Kf5 73. Kd3 Kf4 74. Re2 Qg6+ 75. Kd2 Qd6+ 76. Ke1 Qb4+ 77.
+Kd1 Kf3 78. Rc2 Ke3 79. Kc1 Kd3 80. Rb2 Qe1# 0-1
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.6"]
+[White "Rehl, Danny"]
+[Black "Popovic, Dan Arwed"]
+[Result "1-0"]
+[ECO "A12"]
+[WhiteElo "2197"]
+[PlyCount "87"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Leimen"]
+[BlackTeam "Kirchheim II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 Nf6 2. c4 c6 3. b3 d5 4. cxd5 cxd5 5. Bb2 Nc6 6. g3 Bf5 7. Bg2 e6 8. O-O
+Rc8 9. d3 Bd6 10. Nc3 O-O 11. Nb5 Bb8 12. Qd2 a6 13. Nbd4 Nxd4 14. Bxd4 Qe7 15.
+Qb2 Rfd8 16. b4 Ne8 17. Rac1 h6 18. Rc3 Rxc3 19. Qxc3 f6 20. Rc1 Nd6 21. Nh4
+Bg4 22. Qd2 Bh5 23. Bc5 Qd7 24. Rc2 Nc8 25. Qc1 b6 26. Bd4 e5 27. Be3 d4 28.
+Bxh6 Ne7 29. Nf3 gxh6 30. Nd2 Bxe2 31. Ne4 Bxd3 32. Nxf6+ Kf7 33. Nxd7 Bxc2 34.
+Nxe5+ Ke6 35. Nc4 Bg6 36. Qe1+ Kf7 37. Ne5+ Bxe5 38. Qxe5 d3 39. Bf3 d2 40.
+Qf4+ Kg7 41. Bd1 Rd7 42. Qe5+ Kf8 43. Qe6 Rd3 44. Qxb6 1-0
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.4"]
+[White "Roth, Markus"]
+[Black "Landenberger, Martin"]
+[Result "1-0"]
+[ECO "A89"]
+[WhiteElo "2230"]
+[BlackElo "2151"]
+[PlyCount "49"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Slavija KA"]
+[BlackTeam "Ladenburg II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. d4 d6 7. Nc3 Nc6 8. d5
+Na5 9. Qd3 c5 10. Ng5 Rb8 11. e4 Ng4 12. Bf4 h6 13. Ne6 Bxe6 14. dxe6 g5 15. h3
+gxf4 16. hxg4 fxg4 17. gxf4 Rxf4 18. Nd5 Rf8 19. e5 Nc6 20. Rae1 Nxe5 21. Rxe5
+dxe5 22. Qg6 b5 23. Be4 Rf4 24. Qh7+ Kf8 25. Nxf4 1-0
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.5"]
+[White "Banacki, Roger"]
+[Black "Andersen, Hans Christoph"]
+[Result "1/2-1/2"]
+[ECO "A10"]
+[BlackElo "2191"]
+[PlyCount "107"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ladenburg II"]
+[BlackTeam "Slavija KA"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 f5 2. Nc3 Nf6 3. e4 fxe4 4. d3 e5 5. a3 Nc6 6. dxe4 Be7 7. Be3 d6 8. h3
+O-O 9. Bd3 Be6 10. Nge2 Nd7 11. b4 Bg5 12. Qd2 Bxe3 13. Qxe3 a5 14. b5 Ne7 15.
+Na4 Ng6 16. g3 b6 17. Nec3 Nf6 18. O-O-O Nd7 19. Rdf1 Qf6 20. Be2 Nc5 21. Nxc5
+dxc5 22. h4 Rae8 23. h5 Ne7 24. Nd5 Bxd5 25. cxd5 Nc8 26. h6 g6 27. Bg4 Nd6 28.
+Be2 a4 29. f3 Qe7 30. Kc2 Qd7 31. Rb1 c4 32. Rb4 Nxb5 33. Rxc4 Re7 34. Kb2 Nd4
+35. Rb4 Nxe2 36. Qxe2 Ref7 37. Rf1 Qh3 38. f4 Qxg3 39. f5 Qg5 40. Qe1 Qxh6 41.
+Rh1 Qf4 42. Rf1 Qh2+ 43. Rf2 Qh3 44. Qd2 Qh4 45. Rg2 Rg7 46. d6 cxd6 47. Qxd6
+gxf5 48. Rxg7+ Kxg7 49. Rxa4 Qf6 50. Ra7+ Rf7 51. Rxf7+ Kxf7 52. Qc7+ Qe7 53.
+Qxb6 fxe4 54. Qb3+ 1/2-1/2
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.7"]
+[White "Hoffmann, Dominik"]
+[Black "Marek, Mariusz"]
+[Result "0-1"]
+[ECO "A05"]
+[BlackElo "2133"]
+[PlyCount "158"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ladenburg II"]
+[BlackTeam "Slavija KA"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 g6 2. g3 c5 3. Bg2 Bg7 4. O-O Nc6 5. d3 Nf6 6. c3 O-O 7. Nbd2 e5 8. Qc2
+d5 9. e4 h6 10. Re1 Be6 11. Nf1 Qd7 12. Ne3 Rfd8 13. a3 d4 14. Nc4 Ne8 15. cxd4
+Nxd4 16. Nxd4 Qxd4 17. Bf1 b6 18. Be3 Qd7 19. f4 exf4 20. Bxf4 Nc7 21. a4 Na6
+22. Rad1 Nb4 23. Qc1 g5 24. Bd6 Bd4+ 25. Kh1 Re8 26. e5 Bd5+ 27. Bg2 Bxg2+ 28.
+Kxg2 Qc6+ 29. Kh3 Re6 30. Qd2 g4+ 31. Kxg4 Rg6+ 32. Kh3 Kh7 33. Qe2 Qxa4 34.
+Qf3 Qd7+ 35. Kg2 Rag8 36. Rf1 Kg7 37. Ne3 Bxe3 38. Qxe3 Nc2 39. Qe4 Rg4 40. e6
+Rxe4 41. exd7 Re2+ 42. Kf3 Nd4+ 43. Kf4 Rd8 44. Be5+ Kg6 45. Bxd4 cxd4 46. Rfe1
+Rf2+ 47. Kg4 Rxd7 48. Rc1 Rxb2 49. Re4 Rb5 50. Kf4 Rf5+ 51. Kg4 a5 52. Rc4 Rfd5
+53. Rc6+ R7d6 54. Rc8 a4 55. Ree8 Kf6 56. Rh8 Rg5+ 57. Kf4 Rg6 58. Ra8 b5 59.
+Rhb8 Rd5 60. Ke4 Rgg5 61. Rb7 Rge5+ 62. Kf4 Re6 63. g4 Kg6 64. Raa7 Re1 65.
+Rb6+ Re6 66. Rbb7 Rf6+ 67. Ke4 Rg5 68. h3 h5 69. Kxd4 hxg4 70. hxg4 Rxg4+ 71.
+Ke3 Rb4 72. Rd7 Rb3 73. Kd4 a3 74. Ra8 b4 75. Rg8+ Kf5 76. Rd5+ Kf4 77. Rdg5
+Rg6 78. R8xg6 fxg6 79. Rxg6 a2 0-1
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.3"]
+[White "Sulzbach, Sven"]
+[Black "Doll, Stefan"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[WhiteElo "2195"]
+[BlackElo "2266"]
+[PlyCount "94"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lindenhof"]
+[BlackTeam "Untergrombach II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 c5 2. d5 f5 3. c4 g6 4. Bd2 Bg7 5. Bc3 Nf6 6. Nf3 d6 7. e3 Na6 8. Be2 O-O
+9. O-O Bd7 10. Nbd2 Nc7 11. Qc2 b5 12. b3 bxc4 13. bxc4 e5 14. dxe6 Nxe6 15.
+Rfd1 Qe7 16. Rab1 Bc6 17. Qb3 Bh6 18. Ba1 Ne4 19. Bd3 Rae8 20. Qb2 Bg7 21. Qc2
+Nxd2 22. Nxd2 Bxa1 23. Rxa1 Qg5 24. Bf1 f4 25. Qd3 fxe3 26. fxe3 Ng7 27. Qxd6
+Re6 28. Qg3 Qxg3 29. hxg3 Rxe3 30. Nb3 Rf5 31. Rd6 Be4 32. g4 Rg5 33. Rd8+ Kf7
+34. Rd7+ Kf6 35. Rxa7 Rxg4 36. Nxc5 Nf5 37. Nxe4+ Rexe4 38. Rxh7 Ne3 39. Rc7
+Kg5 40. Re1 Rgf4 41. a4 Re5 42. Rb7 Nxc4 43. Rxe5+ Nxe5 44. a5 Ra4 45. a6 Ra2
+46. Rc7 Kf4 47. Rc8 g5 1/2-1/2
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.02.17"]
+[Round "6.5"]
+[White "Lutz, Juergen"]
+[Black "Scholl, Juergen"]
+[Result "1/2-1/2"]
+[ECO "A59"]
+[WhiteElo "1991"]
+[PlyCount "80"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lindenhof"]
+[BlackTeam "Untergrombach II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8.
+Kxf1 g6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Nb6 13. Re1 Nfd7 14. Qc2 h6
+15. b3 c4 16. Be3 Rc8 17. Bd4 e5 18. dxe6 fxe6 19. Bxg7 Kxg7 20. Rad1 cxb3 21.
+Qxb3 Rxf3 22. Kxf3 Qf6+ 23. Kg2 Rxc3 24. Qb4 Rc2 25. Rd2 Rxd2 26. Qxd2 Nc4 27.
+Qb4 Ndb6 28. a4 Qd4 29. Qb5 Qd2 30. Rb1 Qc2 31. a5 Qxe4+ 32. Kg1 Nd5 33. a6 Nd2
+34. Qb2+ Kf7 35. Qb7+ Kf6 36. Qb2+ e5 37. a7 Nc7 38. Rc1 Nf3+ 39. Kf1 Nh2+ 40.
+Kg1 Nf3+ 1/2-1/2
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.03.02"]
+[Round "7.4"]
+[White "Mueller, Erich"]
+[Black "Kiefhaber, Veronika"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "2206"]
+[PlyCount "60"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ladenburg"]
+[BlackTeam "Karlsruhe II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. f4 d5 2. Nf3 g6 3. e3 Bg7 4. Be2 Nf6 5. O-O O-O 6. d3 c5 7. Qe1 Nc6 8. Qh4
+b6 9. Nbd2 Qc7 10. e4 dxe4 11. dxe4 Nd4 12. Bd1 Bb7 13. c3 Nxf3+ 14. Bxf3 Rad8
+15. f5 Ba6 16. Re1 Nd7 17. Nf1 Ne5 18. Be2 Bxe2 19. Rxe2 Rd1 20. Re1 Rxe1 21.
+Qxe1 c4 22. Qe2 Rd8 23. Be3 Nd3 24. Bf2 Qc6 25. Rd1 Rd6 26. Bg3 Rd7 27. h3 b5
+28. Nh2 gxf5 29. exf5 Qc5+ 30. Bf2 Nxf2 0-1
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.03.02"]
+[Round "7.8"]
+[White "Hoffmann, Dominik"]
+[Black "Khalil, Alaa El din"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[PlyCount "47"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ladenburg"]
+[BlackTeam "Karlsruhe II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bf5 4. O-O Nf6 5. d3 h6 6. Nbd2 Nbd7 7. c3 e5 8. Qc2
+Bd6 9. e4 Be6 10. Re1 Qc7 11. d4 dxe4 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. Nxe4 O-O
+15. Nxf6+ Bxf6 16. Bf4 Qa5 17. a3 Rad8 18. b4 Qb5 19. Bf1 Bc4 20. a4 Qa6 21. b5
+cxb5 22. axb5 Qxb5 23. Rxa7 Bxf1 24. Rxf1 1/2-1/2
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.03.02"]
+[Round "7.1"]
+[White "Hirschberg, Valerian"]
+[Black "Engel, Berthold"]
+[Result "1/2-1/2"]
+[ECO "A53"]
+[WhiteElo "2026"]
+[BlackElo "2235"]
+[PlyCount "44"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Untergrombach II"]
+[BlackTeam "Kirchheim II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 d6 2. g3 e5 3. c4 Nf6 4. Nc3 Be7 5. Bg2 O-O 6. O-O c6 7. d4 Qc7 8. e4
+Bg4 9. Be3 Nbd7 10. h3 Bxf3 11. Qxf3 a6 12. a4 Rfe8 13. Qe2 Rad8 14. g4 Nf8 15.
+a5 N6d7 16. Rfd1 Rc8 17. b4 Ne6 18. dxe5 dxe5 19. c5 Ndf8 20. Na4 Rcd8 21. Nb6
+Ng6 22. Nc4 Kf8 1/2-1/2
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.03.02"]
+[Round "7.4"]
+[White "Feil, Stephan"]
+[Black "Kraemer, Enrico"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2165"]
+[PlyCount "92"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ladenburg II"]
+[BlackTeam "Leimen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 g6 6. Bg2 Bg7 7. O-O Nge7 8. Re1
+b6 9. a3 O-O 10. Qe2 a5 11. Nf1 Ba6 12. e5 Qc7 13. Bf4 Rfd8 14. Ne3 h5 15. Qd2
+b5 16. h3 d4 17. Nf1 c4 18. g4 hxg4 19. hxg4 Rac8 20. Rac1 Nd5 21. Bg5 Rd7 22.
+Qe2 b4 23. dxc4 bxa3 24. bxa3 Nc3 25. Qd3 Nxe5 26. Nxe5 Bxe5 27. Nd2 Bg7 28.
+Bf1 Qc5 29. Bf4 Bb7 30. Nb3 Qc6 31. Qh3 Ra8 32. Re5 Qb6 33. Nc5 Rdd8 34. Nxb7
+Qxb7 35. Bg2 Qc7 36. Qh2 Rac8 37. Bf1 Qe7 38. Rxa5 Ra8 39. Rxa8 Rxa8 40. Bd6
+Qg5 41. Qg2 Rd8 42. f4 Qa5 43. Bb4 Qa7 44. Bd3 Bh6 45. Qh2 Bg7 46. Kf2 f5
+1/2-1/2
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.03.02"]
+[Round "7.5"]
+[White "Neidhardt, Helge"]
+[Black "Landenberger, Martin"]
+[Result "0-1"]
+[ECO "A43"]
+[BlackElo "2151"]
+[PlyCount "52"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Leimen"]
+[BlackTeam "Ladenburg II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 c5 2. d5 f5 3. Nc3 Nf6 4. Bg5 Qb6 5. Qd2 h6 6. Bxf6 Qxf6 7. O-O-O d6 8.
+e4 g5 9. Bb5+ Kd8 10. f4 fxe4 11. fxg5 Qg6 12. Re1 hxg5 13. Nxe4 g4 14. Kb1 Nd7
+15. Qg5 Ne5 16. Qxg6 Nxg6 17. Ne2 Ne5 18. Nf4 Bh6 19. g3 Bf5 20. Re2 a6 21. Ba4
+b5 22. Nxc5 bxa4 23. Nxa4 Nf3 24. Ne6+ Bxe6 25. dxe6 Bg7 26. Re4 Nd2+ 0-1
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.03.02"]
+[Round "7.8"]
+[White "Probst, Andreas"]
+[Black "Schulz, Christian"]
+[Result "1/2-1/2"]
+[ECO "A87"]
+[PlyCount "53"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ladenburg II"]
+[BlackTeam "Leimen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 g6 5. O-O Bg7 6. c4 O-O 7. Nc3 c6 8. Qc2 d5
+9. b3 Ne4 10. Ba3 Re8 11. Rad1 Nd7 12. Na4 g5 13. Ne1 Nf8 14. f3 Nd6 15. e3 Ng6
+16. Bb2 Nf7 17. f4 b6 18. Nf3 Bb7 19. Ne5 Nfxe5 20. dxe5 Qe7 21. Rf2 Rac8 22.
+Rfd2 g4 23. Bd4 Bf8 24. c5 b5 25. Nc3 a5 26. Ne2 Ra8 27. a3 1/2-1/2
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.5"]
+[White "Wuest, Hans Heiner"]
+[Black "Mader, Michael"]
+[Result "1-0"]
+[ECO "A30"]
+[BlackElo "2061"]
+[PlyCount "85"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Kirchheim II"]
+[BlackTeam "Ettlingen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 Nc6 4. Bg2 d5 5. cxd5 Nxd5 6. O-O e5 7. Nc3 Nb6 8. d3
+Be7 9. Be3 Bg4 10. Rc1 Rc8 11. Na4 Nd4 12. Bxd4 exd4 13. Ne5 Bd7 14. Nxb6 axb6
+15. Bxb7 Rc7 16. Bg2 O-O 17. Qb3 Bf6 18. Nc4 b5 19. Nd2 Bg5 20. Qc2 Be6 21. f4
+Be7 22. a4 Qd7 23. b3 Rfc8 24. axb5 Qxb5 25. Nc4 Rb8 26. Rb1 Ra7 27. f5 Bc8 28.
+Ne5 Bb7 29. Qc4 Qxc4 30. bxc4 Bd6 31. Nd7 Bxg2 32. Nxb8 Bxf1 33. Kxf1 Ra8 34.
+Nc6 Kf8 35. Rb5 Ra1+ 36. Kf2 Rh1 37. Kg2 Re1 38. Rb2 Ra1 39. Nd8 Ra6 40. Nb7
+Be7 41. Rb5 Rc6 42. Kf3 Ke8 43. Ke4 1-0
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.1"]
+[White "Nadj, Christian"]
+[Black "Preiss, Martin"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "2171"]
+[BlackElo "2283"]
+[PlyCount "100"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Slavija KA"]
+[BlackTeam "Karlsruhe II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 f5 2. h3 Nf6 3. g4 d5 4. Nf3 e6 5. Nc3 Be7 6. Bf4 O-O 7. e3 Ne4 8. gxf5
+exf5 9. h4 c6 10. Nd2 Nd7 11. Ncxe4 fxe4 12. c4 Nf6 13. Be2 Bd6 14. Bxd6 Qxd6
+15. cxd5 cxd5 16. Qb3 Rf7 17. O-O-O Bg4 18. f3 exf3 19. Bxf3 Rc8+ 20. Kb1 Bf5+
+21. Ka1 Bc2 22. Qb5 a6 23. Qa5 Bxd1 24. Rxd1 Qc7 25. Qxc7 Rfxc7 26. Kb1 Kf7 27.
+e4 dxe4 28. Nxe4 Nxe4 29. Bxe4 g6 30. a4 Rd8 31. a5 Re8 32. Bd5+ Kg7 33. Ka2
+Re2 34. Rd3 Rh2 35. Be6 Rcc2 36. Rb3 Kf6 37. Rb6 Rcd2 38. Bc8+ Ke7 39. Rxb7+
+Kd8 40. Be6 Rxd4 41. Bb3 Rhxh4 42. Rb6 Ra4+ 43. Bxa4 Rxa4+ 44. Kb1 Rxa5 45.
+Rd6+ Ke7 46. Rc6 Kf7 47. Rc7+ Kg8 48. Ra7 h5 49. Kc2 h4 50. Kd3 h3 0-1
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.7"]
+[White "Nadj, Djula"]
+[Black "Arlt, Reinhard"]
+[Result "0-1"]
+[ECO "A85"]
+[BlackElo "2204"]
+[PlyCount "58"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Slavija KA"]
+[BlackTeam "Karlsruhe II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 f5 2. c4 g6 3. Nc3 Nf6 4. Nf3 Bg7 5. Bf4 d6 6. e3 O-O 7. Bd3 c6 8. O-O
+Nh5 9. Re1 Qe8 10. Qd2 e5 11. dxe5 dxe5 12. e4 Nxf4 13. exf5 Nxd3 14. Qxd3 Bxf5
+15. Ne4 Na6 16. Qe3 Qe7 17. a3 b6 18. h4 Rad8 19. Rad1 Rxd1 20. Rxd1 Bg4 21.
+Neg5 h6 22. Ne4 Bxf3 23. gxf3 Qxh4 24. Kf1 Nc7 25. Rd6 Qh3+ 26. Ke2 Ne6 27. Ng3
+Nd4+ 28. Kd2 Rxf3 29. Qe1 Rxg3 0-1
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.1"]
+[White "Mehne, Claudius"]
+[Black "Schrepp, Martin"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2213"]
+[BlackElo "2288"]
+[PlyCount "0"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lindenhof"]
+[BlackTeam "Ladenburg"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+ 1-0
+
+[Event "Verbandsliga Nord Baden 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.4"]
+[White "Mueller, Erich"]
+[Black "Belica, Matej"]
+[Result "0-1"]
+[ECO "A02"]
+[WhiteElo "2206"]
+[BlackElo "2095"]
+[PlyCount "79"]
+[EventDate "2007.10.14"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ladenburg"]
+[BlackTeam "Lindenhof"]

@@ -1,0 +1,50 @@
+6.d4 d6 7.Qd3
+C38	Hanstein Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.O-O
+C39	C39	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4
+C39	Kieseritzky Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5
+C39	Paulsen Defense, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Bg7
+C39	Campbell; Brentano; Morphy Var, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5
+4.h4 g4 5.Ne5 d5
+C39	Green; Kolisch Variation, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4
+5.Ne5 d6
+C39	Long Whip Variation, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4
+5.Ne5 h5
+C39	Cotter Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h6
+6.Nxf7
+C39	Neumann Defense, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nc6
+C39	Berlin Defense, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6
+C39	Anderssen Defense, Kieseritsky Gambit, KGA	1.e4 e5 2.f4 exf4
+3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6
+C39	Anderssen-Cordel Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4
+5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6 8.d4 Nh5 9.Bxf4 Nxf4
+C39	Rice Gambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6
+6.Bc4 d5 7.exd5 Bd6 8.O-O
+C39	Rice Gambit Accepted, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4
+5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6 8.O-O Bxe5
+C39	Paulsen Defense Deferred, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4
+5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bg7
+C39	Rubinstein Variation, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4
+5.Ne5 Nf6 6.d4
+C39	Riviere Variation, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6
+6.Nxg4 d5
+C39	Rosenthal; Stockwhip Var, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4
+5.Ne5 Qe7
+C39	Allgaier; Cotter Cambit, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4
+5.Ng5
+C39	Walker (Urusov) Attack, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4
+5.Ng5 h6 6.Nxf7 Kxf7 7.Bc4+
+C39	Urusov Attack, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6
+6.Nxf7 Kxf7 7.Bc4+ d5 8.Bxd5+ Ke8 9.d4
+C39	Thorold Attack, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6
+6.Nxf7 Kxf7 7.d4
+C39	Horny Defense, KGA	1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6
+6.Nxf7 Kxf7 7.Qxg4 Nf6 8.Qxf4
+C40	King's Knight Opening; C40	1.e4 e5 2.Nf3
+C40	Glatz Gambit; Busch-Gass Gambit	1.e4 e5 2.Nf3 Bc5
+C40	Chiodini Gambit	1.e4 e5 2.Nf3 Bc5 3.Nxe5 Nc6
+C40	Jalalabad Defense	1.e4 e5 2.Nf3 c5
+C40	Gunderam Gambit	1.e4 e5 2.Nf3 c6
+C40	Queen's Pawn Counter-Gambit; Elephant Gambit	1.e4 e5 2.Nf3 d5
+C40	Maroczy; Elephant Gambit	1.e4 e5 2.Nf3 d5 3.exd5 Bd6
+C40	Halasz-Jacobsen Gambit	1.e4 e5 2.Nf3 d5 3.exd5 Bd6
+C40	Maroczy Gambit	1.e4 e5 2.Nf3 d5 3.exd5 Bd6

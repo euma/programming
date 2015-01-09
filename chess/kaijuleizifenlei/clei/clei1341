@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. d4 c5 5. dxc5 e6 6. Nf3 Nc6 7. Bf4 Be7 8. Bb5
+g5 9. Bg3 h5 10. h3 Nxc5 11. Nd4 Qb6 12. O-O Nd7 13. Nb3 a6 14. Bd3 h4 15. Bh2
+Ndxe5 16. Kh1 Nc4 17. Qc1 Bd7 18. f4 gxf4 19. Bxc4 dxc4 20. Qxf4 cxb3 21. Qxf7+
+Kd8 22. Rad1 Kc8 23. axb3 Qe3 24. Rf3 Qc5 25. Na4 Qb4 26. c3 Qxb3 27. Rxd7 Rd8
+28. Rc7+ Kb8 29. Rxc6+ Ka7 30. Bg1+ Kb8 31. Qxe7 1-0
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.14"]
+[Round "9"]
+[White "Vegh, Endre"]
+[Black "Lengyel, Bela"]
+[Result "1/2-1/2"]
+[ECO "C98"]
+[WhiteElo "2298"]
+[BlackElo "2286"]
+[PlyCount "46"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Na5 14. b3 Bd7 15. Nf1
+Nb7 16. Ng3 g6 17. Nh2 c4 18. b4 a5 19. Qf3 Rfc8 20. Bg5 Qd8 21. a3 Ra6 22.
+Rac1 axb4 23. axb4 Rca8 1/2-1/2
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.15"]
+[Round "10"]
+[White "Werner, Dimo"]
+[Black "Simonyi, Zoltan"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2329"]
+[BlackElo "2247"]
+[PlyCount "69"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Bg4 8. h3
+Bh5 9. c3 Qd7 10. Nbd2 Bg6 11. a5 a6 12. Nf1 Nd8 13. Nh4 Nh5 14. Nxg6 hxg6 15.
+d4 Nc6 16. Nh2 Rad8 17. Nf3 Bf6 18. Be3 Nf4 19. Bxf4 exf4 20. Qb3 Be7 21. Bd5
+Rb8 22. e5 Nd8 23. Rad1 Kh7 24. Qc2 c6 25. exd6 Qxd6 26. Ba2 f5 27. h4 Qc7 28.
+b4 Bf6 29. Re2 Nf7 30. Rde1 Nd6 31. Re6 Ne4 32. R1xe4 fxe4 33. Qxe4 Qf7 34. h5
+Kh6 35. Re5 1-0
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.16"]
+[Round "11"]
+[White "Kang Kai"]
+[Black "Lengyel, Bela"]
+[Result "1/2-1/2"]
+[ECO "C98"]
+[BlackElo "2286"]
+[PlyCount "27"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. dxc5 dxc5 14. Nf1 1/2-1/2
+
+[Event "Budapest FS09 IM-B"]
+[Site "Budapest"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Farago, Sandor"]
+[Black "Li, Panru"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2271"]
+[BlackElo "2104"]
+[PlyCount "85"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. f4 Qb6 8. Nf3
+Be7 9. h4 cxd4 10. cxd4 O-O 11. Nc3 f6 12. Bd3 fxe5 13. fxe5 Ndxe5 14. dxe5
+Nxe5 15. Qe2 Ng4 16. Bg5 Bd6 17. O-O-O Nf2 18. Be3 Qxe3+ 19. Qxe3 Bf4 20. Qxf4
+Rxf4 21. Ng5 Nxd1 22. Bxh7+ Kh8 23. Nxd1 Bd7 24. g3 Rc4+ 25. Kd2 Rf8 26. Bg6
+Kg8 27. Bh7+ Kh8 28. Bd3 Rg4 29. Rg1 e5 30. Be2 Rd4+ 31. Ke3 Ra4 32. a3 d4+ 33.
+Kd2 Bc6 34. Bd3 b5 35. Re1 b4 36. axb4 Rxb4 37. Rxe5 Ba4 38. Ne6 Re8 39. Bg6
+Rc8 40. Rh5+ Kg8 41. Rf5 Rb7 42. Nc5 Rb4 43. Bf7+ 1-0
+
+[Event "Budapest FS09 IM-B"]
+[Site "Budapest"]
+[Date "2008.09.11"]
+[Round "6"]
+[White "Moskovic, David M"]
+[Black "Li, Panru"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2293"]
+[BlackElo "2104"]
+[PlyCount "106"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Be7 6. Bg2 O-O 7. O-O Nc6 8. Re1
+b5 9. e5 Nd7 10. Nf1 a5 11. h4 b4 12. Bf4 f6 13. exf6 gxf6 14. Bh3 e5 15. Bh6
+Rf7 16. Be6 Nf8 17. Bxf7+ Kxf7 18. Ne3 Be6 19. Nh2 Qd7 20. Bxf8 Rxf8 21. f4 Rg8
+22. Qh5+ Kf8 23. f5 Bf7 24. Qh6+ Ke8 25. Neg4 Qxf5 26. Rf1 Qg6 27. Rxf6 Bxf6
+28. Nxf6+ Ke7 29. Nxg8+ Bxg8 30. Qxg6 hxg6 31. Re1 Kd6 32. Nf3 Be6 33. Kf2 a4
+34. Ng5 Bf5 35. Nf7+ Ke6 36. Nh6 Kf6 37. g4 Be6 38. Rf1 a3 39. Ke3+ Kg7 40. g5
+axb2 41. Rb1 c4 42. dxc4 dxc4 43. Rxb2 c3 44. Rb1 Bxa2 45. Ra1 b3 46. cxb3 Nb4
+47. Rc1 Bxb3 48. Rxc3 Nd5+ 49. Kd2 Nxc3 50. Kxc3 Bd1 51. Kd3 Bf3 52. Ke3 e4 53.
+Kd4 Kf8 1/2-1/2
+
+[Event "Budapest FS09 IM-B"]
+[Site "Budapest"]
+[Date "2008.09.13"]
+[Round "8"]
+[White "Moskovic, David M"]
+[Black "Ruecker, Benjamin"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[WhiteElo "2293"]
+[BlackElo "2246"]
+[PlyCount "98"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 Bc5 5. Bg2 d6 6. d3 a6 7. O-O h6 8. h3 Ba7
+9. Be3 Bxe3 10. fxe3 Ne7 11. Nh4 c6 12. d4 Qc7 13. Kh2 Ng6 14. Nf5 Bxf5 15.
+exf5 Nf8 16. Ne2 N8d7 17. c4 a5 18. Nc3 Rd8 19. Qd3 O-O 20. Rac1 exd4 21. exd4
+Rfe8 22. Rfe1 Qb8 23. Qd2 Rxe1 24. Rxe1 Re8 25. Bf3 Rxe1 26. Qxe1 Qa7 27. Qd2
+Nb6 28. b3 d5 29. Be2 Qb8 30. Bd3 dxc4 31. bxc4 Qd8 32. Qe3 Qd6 33. Ne4 Nxe4
+34. Qxe4 Nd7 35. c5 Qf8 36. Bc4 Nf6 37. Qe5 Qd8 38. a4 Kf8 39. Kg2 Qe7 40.
+Qxe7+ Kxe7 41. Kf3 Nd7 42. Ke4 b6 43. cxb6 Nxb6 44. Bb3 Kf6 45. h4 h5 46. Kf4
+g6 47. fxg6 fxg6 48. Ke4 Nd7 49. Bd1 Nb6 1/2-1/2
+
+[Event "Budapest FS09 IM-B"]
+[Site "Budapest"]
+[Date "2008.09.15"]
+[Round "10"]
+[White "Moskovic, David M"]
+[Black "Galyas, Miklos"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2293"]
+[BlackElo "2463"]
+[PlyCount "16"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nc6 5. Nc3 Bb4 6. Bb5 Nge7 7. O-O O-O 8.
+h3 Bf5 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.06"]
+[Round "1"]
+[White "Kulikov, Aleksandr"]
+[Black "Rubtsov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2398"]
+[BlackElo "2327"]
+[PlyCount "15"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nc6 5. Nc3 Nf6 6. Bb5 Be7 7. O-O O-O 8.
+h3 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.07"]
+[Round "2"]
+[White "Bojarinov, Victor A"]
+[Black "Marsak, Viktor D"]
+[Result "1/2-1/2"]
+[ECO "C73"]
+[WhiteElo "2313"]
+[BlackElo "2067"]
+[PlyCount "50"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. O-O g6 8. Be3
+Nh6 9. h3 Nf7 10. c3 Bg7 11. dxe5 fxe5 12. c4 O-O 13. Nc3 Be6 14. b3 Qd7 15.
+Kh2 h6 16. Qe2 g5 17. Ng1 Nh8 18. Rad1 Ng6 19. g3 Qf7 20. Qh5 Ne7 21. Qxf7+
+Rxf7 22. Rd2 c5 23. Nd5 Nc6 24. Kg2 a5 25. Rfd1 Nd4 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.07"]
+[Round "2"]
+[White "Budruev, Mikhail"]
+[Black "Kruchinin, Anatoly V"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[BlackElo "1836"]
+[PlyCount "23"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nc6 5. Bb5 Bg4 6. h3 Bh5 7. O-O Nf6 8.
+Re1+ Be7 9. Nc3 O-O 10. Bg5 h6 11. Bh4 a6 12. Ba4 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.07"]
+[Round "2"]
+[White "Zavalishin, Vladimir"]
+[Black "Shilnikov, Igor S"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "1919"]
+[BlackElo "1963"]
+[PlyCount "54"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8.
+Nxd4 Bd7 9. Be3 Nxe5 10. Bxd7+ Nxd7 11. Nd2 Nxd2 12. Qxd2 O-O 13. b4 Bb6 14.
+Bg5 Nf6 15. Nf5 Ne4 16. Bxd8 Nxd2 17. Rfd1 Ne4 18. Bh4 c6 19. a4 g6 20. Nh6+
+Kg7 21. Ng4 f5 22. a5 Bc7 23. f3 Nc3 24. Rd3 Ne2+ 25. Kf2 Nf4 26. Re3 fxg4 27.
+Re7+ Rf7 0-1
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Pyatnitsyn, Maxim"]
+[Black "Budruev, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[PlyCount "15"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. d3 Nf6 3. Nf3 d6 4. Be2 Be7 5. O-O O-O 6. Bg5 h6 7. Bh4 Nc6 8. Nbd2
+1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Vardanjan, Arman"]
+[Black "Zavalishin, Vladimir"]
+[Result "0-1"]
+[ECO "C77"]
+[BlackElo "1919"]
+[PlyCount "63"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. c3 d5 8. Nbd2
+O-O 9. O-O Bg4 10. Re1 Na5 11. Bc2 c5 12. h3 dxe4 13. hxg4 exd3 14. Bb1 Nxg4
+15. Nxe5 Nxe5 16. Rxe5 Bd6 17. Re3 c4 18. Nf1 Re8 19. b3 Bc5 20. Rh3 Qf6 21.
+Rf3 Qxc3 22. Bd2 Qxa1 23. Bxa5 Re2 24. bxc4 bxc4 25. Nd2 Rae8 26. Nxc4 Rb8 27.
+Nd2 Rxd2 28. Qxd2 Rxb1+ 29. Kh2 Rh1+ 30. Kg3 Bd6+ 31. Rf4 g5 32. Qxd3 0-1
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Volkov, Ilya"]
+[Black "Mazhukin, Evgeny"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2140"]
+[BlackElo "1781"]
+[PlyCount "47"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. e5 b6 4. Nf3 Qd7 5. Bd3 Ba6 6. O-O c5 7. c3 Be7 8. Qe2
+Bxd3 9. Qxd3 Nh6 10. Na3 c4 11. Qc2 O-O 12. Bg5 Bxg5 13. Nxg5 Qe7 14. Nf3 Nd7
+15. Nb5 f6 16. Nd6 fxe5 17. dxe5 Rf5 18. Rfe1 a6 19. Re2 Raf8 20. Qa4 a5 21.
+Qc6 g5 22. Qc7 g4 23. Nd4 Qg5 24. Nxe6 1-0
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Zanozin, Anatoly"]
+[Black "Krytov, Sergey"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2132"]
+[PlyCount "55"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Qf6 7. Qb3 Bc5 8.
+O-O Bb6 9. a4 Nc6 10. a5 Bxa5 11. Qxb7 Rb8 12. Qa6 Bb6 13. Nc3 Nge7 14. Nd5 Qg6
+15. Nxe7 Kxe7 16. b3 Nd4 17. Ba3+ c5 18. b4 Nf3+ 19. Kh1 Nh4 20. Rg1 cxb4 21.
+Bxb4+ Kd7 22. Rad1+ Kc7 23. Bd6+ Qxd6 24. Rxd6 Kxd6 25. Rd1+ Ke7 26. Qa3+ Kf6
+27. Qd6+ Kg5 28. Qxe5+ 1-0
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Krylov, Dima"]
+[Black "Mazhukin, Evgeny"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "1807"]
+[BlackElo "1781"]
+[PlyCount "70"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Be7 4. Bd3 Nf6 5. Nf3 O-O 6. O-O b6 7. Be3 Bb7 8. exd5
+Nxd5 9. Nxd5 Bxd5 10. c4 Bb7 11. Rc1 Bf6 12. b3 Na6 13. d5 exd5 14. cxd5 Nb4
+15. a3 Nxd5 16. Qc2 g6 17. Rfd1 Nxe3 18. fxe3 Qe7 19. e4 c5 20. Re1 Rfd8 21.
+Qe2 Bd4+ 22. Nxd4 Rxd4 23. Bc4 Rad8 24. e5 Be4 25. Rf1 Bf5 26. Qf3 Re4 27. Bd3
+Rxe5 28. Bxf5 Rxf5 29. Qc3 Rxf1+ 30. Rxf1 Re8 31. Rd1 Qe3+ 32. Qxe3 Rxe3 33.
+Rd8+ Kg7 34. Ra8 a5 35. Rb8 Rxb3 0-1
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Teterin, Sergey"]
+[Black "Svetlov, Dmitry"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[WhiteElo "2118"]
+[BlackElo "2306"]
+[PlyCount "22"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Ng3 e4 7. Ne5 Qf6 8. d4
+exd3 9. O-O Nge7 10. Re1 dxc2 11. Qxc2 Bd7 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Chunakov, Valery"]
+[Black "Kruchinin, Anatoly V"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[BlackElo "1836"]
+[PlyCount "24"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nc6 5. Bb5 Nf6 6. O-O Be7 7. Bxc6+ bxc6
+8. c3 O-O 9. Re1 Bf5 10. Bg5 h6 11. Bh4 Rb8 12. Qc2 c5 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Sorokin, Nikolay A"]
+[Black "Krylov, Dima"]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "1754"]
+[BlackElo "1807"]
+[PlyCount "50"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. Nc3
+d6 9. h3 Bb7 10. a3 Re8 11. d4 exd4 12. Nxd4 Nxd4 13. Qxd4 Qd7 14. Be3 Rad8 15.
+Rad1 c6 16. f3 d5 17. exd5 Nxd5 18. Nxd5 cxd5 19. Bf4 Bf6 20. Qf2 Rxe1+ 21.
+Rxe1 Bxb2 22. Qc5 h6 23. Re5 f6 24. Re3 Bc1 25. Rd3 Bxf4 0-1
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Vardanjan, Arman"]
+[Black "Krytov, Sergey"]
+[Result "0-1"]
+[ECO "C62"]
+[PlyCount "42"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 d6 5. O-O Bd7 6. d4 exd4 7. Nxd4 g6 8.
+Bc4 Bg7 9. Nxc6 Nxc6 10. Re1 O-O 11. Ne2 Ne5 12. Bd5 c6 13. Bb3 Qc7 14. c3 Be6
+15. Bc2 Rad8 16. Nd4 Qb6 17. Kh1 Ng4 18. Nxe6 Nxf2+ 19. Kg1 Nh3+ 20. Kh1 Qg1+
+21. Rxg1 Nf2# 0-1
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Volkov, Ilya"]
+[Black "Petukhov, Vasily"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2140"]
+[BlackElo "2151"]
+[PlyCount "91"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. O-O Nf5 8. Be3
+Be7 9. a3 a5 10. a4 Qb6 11. Qd2 c4 12. Qc2 Na7 13. Nbd2 Qc6 14. b3 cxb3 15.
+Qxb3 b5 16. axb5 Nxb5 17. Rfc1 a4 18. Qb2 a3 19. Qb3 Nxe3 20. fxe3 O-O 21. c4
+dxc4 22. Bxc4 Qa6 23. Qd3 Rfc8 24. Ne4 Qa5 25. Nfd2 Bc6 26. Nb3 Bxe4 27. Qxe4
+Qb4 28. Qd3 Nc7 29. e4 Rd8 30. d5 f6 31. exf6 Bxf6 32. Ra2 exd5 33. exd5 Qd6
+34. Rd1 Na6 35. Bxa6 Rxa6 36. Qe3 Rb6 37. Na5 Rb5 38. Nc4 Rxd5 39. Rxd5 Qxd5
+40. Qe2 Rc8 41. Rc2 Qd4+ 42. Kf1 Rf8 43. Ke1 Qa1+ 44. Qd1 Bc3+ 45. Ke2 Re8+ 46.
+Kd3 0-1
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Vybornova, Anna"]
+[Black "Obrezchikov, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[BlackElo "1992"]
+[PlyCount "38"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Bd2 c6 6. Nf3 Qc7 7. Bc4 Nf6 8.
+O-O Bd6 9. Re1 O-O 10. Ne4 Bf4 11. Nxf6+ gxf6 12. Bxf4 Qxf4 13. Bd3 Nd7 14. Qd2
+Qxd2 15. Nxd2 e5 16. dxe5 fxe5 17. Nf3 f6 18. Bc4+ Kh8 19. Red1 Nc5 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.11"]
+[Round "6"]
+[White "Marsak, Viktor D"]
+[Black "Zavalishin, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C56"]
+[WhiteElo "2067"]
+[BlackElo "1919"]
+[PlyCount "60"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Nxd4 Ne5 6. Bb3 Bc5 7. f4 Nxe4 8.
+Be3 Ng6 9. Qd3 d5 10. Nc3 O-O 11. Nxd5 Nf6 12. Nxf6+ Qxf6 13. O-O Rd8 14. c3
+Bb6 15. Qc4 c5 16. Nf3 Be6 17. Qe4 Bxb3 18. axb3 Re8 19. Ne5 Nxe5 20. fxe5 Qxe5
+21. Qxe5 Rxe5 22. Bf2 Re2 23. b4 Rxb2 24. bxc5 Bd8 25. Rfe1 Bg5 26. Rxa7 Rd8
+27. Bd4 Bf6 28. Ra4 Kf8 29. Bxf6 gxf6 30. Rb4 Rc2 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.11"]
+[Round "6"]
+[White "Patkina, Ekaterina"]
+[Black "Vybornova, Anna"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[WhiteElo "1948"]
+[PlyCount "43"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 d5 5. exd5 Bb4+ 6. c3 Qe7+ 7. Be2 dxc3 8.
+bxc3 Bd6 9. O-O O-O 10. Re1 c6 11. c4 Bg4 12. Nc3 cxd5 13. Bg5 Nbd7 14. Nxd5
+Qd8 15. Qd4 Bxf3 16. Bxf3 h6 17. Nxf6+ Nxf6 18. Bxf6 Qxf6 19. Qxf6 gxf6 20.
+Bxb7 Rab8 21. Rab1 Rfd8 22. h3 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.11"]
+[Round "6"]
+[White "Pyatnitsyn, Maxim"]
+[Black "Kruchinin, Anatoly V"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[BlackElo "1836"]
+[PlyCount "59"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nc6 2. d4 d5 3. e5 e6 4. Nf3 Nge7 5. c3 a6 6. Bd3 Nf5 7. O-O Be7 8. Bc2
+h6 9. Re1 g5 10. Re2 g4 11. Ne1 b5 12. Bf4 Bg5 13. Qd2 Rg8 14. Bxg5 Qxg5 15.
+Qxg5 Rxg5 16. Nd2 Bd7 17. Nb3 Nce7 18. Nc5 a5 19. Ned3 h5 20. g3 h4 21. Kg2 b4
+22. a3 bxc3 23. bxc3 Bb5 24. Rb1 Bc6 25. Ba4 hxg3 26. hxg3 Bxa4 27. Nxa4 Nc6
+28. Rb7 Ncxd4 29. cxd4 Nxd4 30. Reb2 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.12"]
+[Round "7"]
+[White "Budruev, Mikhail"]
+[Black "Mazhukin, Evgeny"]
+[Result "0-1"]
+[ECO "C11"]
+[BlackElo "1781"]
+[PlyCount "84"]
+[EventDate "2008.09.06"]

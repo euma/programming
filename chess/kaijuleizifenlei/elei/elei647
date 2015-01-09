@@ -1,0 +1,600 @@
+[PlyCount "69"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. g3 Nd7 5. Bg2 c5 6. d5 Ngf6 7. Nc3 O-O 8. O-O
+Nb6 9. Nd2 e5 10. a3 a5 11. Rb1 a4 12. b4 axb3 13. Qxb3 Ra6 14. e4 Ne8 15. Qc2
+f5 16. exf5 gxf5 17. Nb5 f4 18. Be4 Bh3 19. Re1 h5 20. Rb3 Qg5 21. Nf3 Qg4 22.
+Nh4 Bh6 23. Kh1 Ra4 24. Rc3 Rf6 25. Rg1 f3 26. Bxh6 Rxh6 27. Bxf3 Qd7 28. Be4
+Ng7 29. f3 Rf6 30. g4 hxg4 31. fxg4 Bxg4 32. Qg2 Rxc4 33. Qxg4 Rxe4 34. Qxe4
+Rf4 35. Qg2 1-0
+
+[Event "Ostroda op"]
+[Site "Ostroda"]
+[Date "2008.08.07"]
+[Round "5"]
+[White "Szymczak, Zbigniew"]
+[Black "Baturo, Tomasz"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[WhiteElo "2295"]
+[BlackElo "2059"]
+[PlyCount "68"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. c4 e6 3. g3 c6 4. Qc2 Nf6 5. Bg2 Nbd7 6. O-O Bd6 7. d4 O-O 8. Nbd2
+Re8 9. b3 e5 10. cxd5 cxd5 11. dxe5 Nxe5 12. Bb2 Bg4 13. Nxe5 Bxe5 14. Bxe5
+Rxe5 15. Nf3 Re7 16. Rac1 Qb6 17. Qb2 Rae8 18. e3 Bf5 19. Nd4 Be4 20. Rfd1 h6
+21. Rd2 Rc7 22. Bxe4 dxe4 23. Rxc7 Qxc7 24. Nb5 Qb6 25. Nd6 Re6 26. Nc4 Qc5 27.
+Rd8+ Kh7 28. Qd4 Qh5 29. Rd6 Re7 30. Qd1 Qh3 31. Qf1 Qf5 32. Rd4 Ng4 33. h3 Ne5
+34. Nxe5 Rxe5 1/2-1/2
+
+[Event "Ostroda op"]
+[Site "Ostroda"]
+[Date "2008.08.10"]
+[Round "9"]
+[White "Baturo, Tomasz"]
+[Black "Miroslaw, Michal"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[WhiteElo "2059"]
+[BlackElo "2316"]
+[PlyCount "115"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Qc2 c6 5. g3 Nbd7 6. Bg2 Bd6 7. O-O O-O 8. Rd1
+Qe7 9. Nbd2 Re8 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 e5 13. dxe5 Nxe5 14. Nxe5
+Bxe5 15. Bf4 Bg4 16. Re1 Bf6 17. Qxe7 Rxe7 18. Rxe7 Bxe7 19. h3 Be6 20. Rd1 Rd8
+21. Rxd8+ Bxd8 22. Bf1 Be7 23. Kg2 Bf5 24. Be5 Bb1 25. a3 a5 26. Kf3 Bc5 27.
+Bc3 a4 28. Ke2 f6 29. h4 Kf7 30. Bh3 Ke7 31. Bc8 Ba2 32. Kd3 Bxf2 33. Bxb7 Kd7
+34. h5 Bxg3 35. Ba6 Bb1+ 36. Ke3 Kd6 37. h6 gxh6 38. Bxf6 Be5 39. c5+ Ke6 40.
+Bxe5 Kxe5 41. Be2 Ba2 42. Bf3 Bd5 43. Bd1 Bb3 44. Bf3 Bd5 45. Bd1 h5 46. Bxh5
+Bc4 47. Bd1 Bb5 48. b3 axb3 49. Bxb3 h6 50. a4 Ba6 51. Bf7 Bf1 52. Kf2 Bd3 53.
+Ke3 Ba6 54. a5 Bb5 55. Bb3 Bf1 56. Bf7 Ba6 57. Bb3 Bb5 58. Bf7 1/2-1/2
+
+[Event "Ostroda op"]
+[Site "Ostroda"]
+[Date "2008.08.10"]
+[Round "9"]
+[White "Lachowicz, Tomasz"]
+[Black "Zmarzly, Aleksandra"]
+[Result "1/2-1/2"]
+[ECO "E13"]
+[WhiteElo "1935"]
+[BlackElo "1929"]
+[PlyCount "48"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Bxc3+ 9. bxc3 d6 10. c5 Qe7 11. cxd6 cxd6 12. Qa4+ Nbd7 13. Ba6 Bxa6 14. Qxa6
+O-O 15. Qa3 Ne4 16. Nd2 Ndf6 17. f3 Nxg3 18. hxg3 Kg7 19. Nc4 Rfd8 20. e4 Ng8
+21. Rc1 Qc7 22. Ne3 d5 23. e5 f5 24. f4 Qf7 1/2-1/2
+
+[Event "Ostroda op"]
+[Site "Ostroda"]
+[Date "2008.08.10"]
+[Round "9"]
+[White "Musialkiewicz, Pawel"]
+[Black "Rak, Tomasz"]
+[Result "0-1"]
+[ECO "E38"]
+[WhiteElo "1854"]
+[BlackElo "2069"]
+[PlyCount "74"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 O-O 6. Nf3 d6 7. a3 Bxc3+ 8. Qxc3
+Nc6 9. Be2 Qc7 10. O-O e5 11. d5 Ne7 12. Nd2 Ng6 13. Bf3 Nh4 14. e4 Bd7 15. b4
+b6 16. Re1 Kh8 17. Be2 Ng8 18. f4 f5 19. fxe5 dxe5 20. Nf3 Nxf3+ 21. Bxf3 f4
+22. Bb2 Rae8 23. Rad1 Qd6 24. bxc5 bxc5 25. Ba1 Nf6 26. Rb1 g5 27. Bd1 g4 28.
+Kh1 Rg8 29. Bc2 g3 30. Rf1 Rg4 31. hxg3 fxg3 32. Rf3 Nxe4 33. Bxe4 Qh6+ 34. Kg1
+Qh2+ 35. Kf1 Qh1+ 36. Ke2 Rxe4+ 37. Re3 Qxg2+ 0-1
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.05"]
+[Round "1"]
+[White "Just, Fred"]
+[Black "Khanukov, Boris"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2073"]
+[BlackElo "2305"]
+[PlyCount "48"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. g3 d5 6. Bg2 Nbd7 7. cxd5 Nxd5 8.
+O-O Be7 9. Re1 Nxc3 10. bxc3 c5 11. a4 O-O 12. Qb3 Re8 13. Ba3 Bd5 14. Qb2 Nf6
+15. Rad1 cxd4 16. Nxd4 Qc8 17. e4 Bc4 18. Bb4 g6 19. Qa3 Bxb4 20. cxb4 e5 21.
+Nf3 Qc7 22. Qb2 Red8 23. Bh3 Rxd1 24. Rxd1 Ba6 0-1
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.05"]
+[Round "1"]
+[White "Karner, Irmgard"]
+[Black "Wiemer, Juergen"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[WhiteElo "1591"]
+[BlackElo "1915"]
+[PlyCount "47"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O 5. Nf3 d5 6. e3 Nc6 7. Be2 Re8 8. O-O
+a6 9. a3 Bxc3 10. Bxc3 Ne4 11. Rc1 Nxc3 12. Rxc3 Ne7 13. c5 Ng6 14. Bd3 f5 15.
+Qc2 Bd7 16. Nd2 Rf8 17. f4 Qe8 18. Nf3 Qe7 19. Qf2 Rfc8 20. Rfc1 Rcb8 21. Qd2
+Qe8 22. h3 Nh8 23. Ne5 Bc6 24. Qf2 1/2-1/2
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.05"]
+[Round "1"]
+[White "Mitzel, Robert"]
+[Black "Bischof, Rainer"]
+[Result "0-1"]
+[ECO "E40"]
+[WhiteElo "1927"]
+[BlackElo "1813"]
+[PlyCount "52"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Ne4 5. Qc2 f5 6. Bd3 O-O 7. Bxe4 fxe4 8.
+Nge2 d5 9. a3 Bxc3+ 10. Nxc3 Qg5 11. Rg1 c6 12. b4 Nd7 13. Bb2 Nb6 14. cxd5
+exd5 15. O-O-O Bf5 16. h3 Nc4 17. Rde1 b5 18. Qe2 a5 19. f3 axb4 20. axb4 Qe7
+21. fxe4 Bxe4 22. Nxe4 Qxe4 23. Rgf1 Rxf1 24. Rxf1 Ra2 25. Rf4 Qe7 26. Qg4
+Qxe3+ 0-1
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.06"]
+[Round "2"]
+[White "Jugow, Alexander"]
+[Black "Gerhardt, Peter Michael"]
+[Result "1/2-1/2"]
+[ECO "E91"]
+[WhiteElo "2068"]
+[BlackElo "2015"]
+[PlyCount "49"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c6 7. Nf3 Qc7 8. Qd2
+a6 9. O-O e5 10. dxe5 dxe5 11. Rfd1 Be6 12. Rac1 Nbd7 13. b3 Nc5 14. Qe3 b6 15.
+Nxe5 Ncxe4 16. Nxe4 Nxe4 17. Ng4 Nxg5 18. Qxg5 Bxg4 19. Bxg4 Rad8 20. Bf3 Bd4
+21. h4 c5 22. Re1 Qd6 23. Bd5 Qf6 24. Rc2 Rde8 25. Rxe8 1/2-1/2
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.06"]
+[Round "2"]
+[White "Khanukov, Boris"]
+[Black "Hoeschele, Hans Ulrich"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2305"]
+[BlackElo "2055"]
+[PlyCount "89"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. e3 Be7 6. Bd3 d6 7. e4 Nbd7 8. O-O
+e5 9. d5 a5 10. Re1 Nc5 11. Bc2 O-O 12. a3 Bc8 13. Rb1 Bg4 14. b4 Ncd7 15. h3
+Bh5 16. Qd3 Ne8 17. Nd2 Bg5 18. Nb3 axb4 19. axb4 Bxc1 20. Rexc1 Qg5 21. Qg3
+Qh6 22. Ra1 Rxa1 23. Rxa1 Qf6 24. Bd3 Qf4 25. Nb5 Bg6 26. Ra7 Qf6 27. Nxc7 Nxc7
+28. Rxc7 Qd8 29. Ra7 f5 30. exf5 Bxf5 31. Bxf5 Rxf5 32. Qg4 g6 33. Nd2 Nf6 34.
+Qh4 Rh5 35. Qg3 b5 36. Qa3 Qb6 37. c5 dxc5 38. bxc5 b4 39. cxb6 bxa3 40. b7 Nd7
+41. Ne4 Rf5 42. Rxa3 Rf8 43. Ra8 Kf7 44. Nc5 Nb8 45. Ne6 1-0
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.06"]
+[Round "2"]
+[White "Krueger, Erich"]
+[Black "Fronczek, Heinrich"]
+[Result "1-0"]
+[ECO "E74"]
+[WhiteElo "2141"]
+[BlackElo "2202"]
+[PlyCount "83"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 g6 6. Be2 Bg7 7. Bg5 h6 8. Be3 O-O
+9. g4 Ne8 10. Qd2 Kh7 11. h4 f5 12. gxf5 gxf5 13. exf5 Bxf5 14. Bd3 Bxd3 15.
+Qxd3+ Kg8 16. Nge2 Qf6 17. O-O-O Nd7 18. Ng3 Qf3 19. Rhg1 Kh8 20. Nce4 a6 21.
+Nd2 Qf7 22. Qe2 Rg8 23. Nh5 Bf8 24. Rxg8+ Qxg8 25. Qf3 Qg6 26. Ng3 Nef6 27. h5
+Qg4 28. Qxg4 Nxg4 29. Nde4 Ndf6 30. Nxf6 Nxf6 31. Nf5 Kh7 32. Rh1 b5 33. b3
+bxc4 34. bxc4 Rb8 35. Rh4 Rb7 36. Kc2 Rf7 37. Ng3 Be7 38. Rh1 Ng4 39. Ne4 Rf3
+40. Kb2 Nxe3 41. fxe3 a5 42. Re1 1-0
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.06"]
+[Round "2"]
+[White "Mueller, Helmut1"]
+[Black "Karner, Irmgard"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[WhiteElo "1767"]
+[BlackElo "1591"]
+[PlyCount "59"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d6 2. d4 Nf6 3. c4 c6 4. Nc3 g6 5. e4 Bg7 6. Be2 Bg4 7. Be3 Bxf3 8. Bxf3
+O-O 9. O-O Nbd7 10. Qd2 Nb6 11. Be2 Qc7 12. Rac1 Nbd7 13. f4 e6 14. e5 Ne8 15.
+Ne4 h6 16. b4 b6 17. c5 d5 18. Nd6 b5 19. f5 exf5 20. Bxh6 Nxd6 21. cxd6 Qb6
+22. Bxg7 Kxg7 23. Kh1 a5 24. a3 axb4 25. axb4 Ra3 26. Rf4 Raa8 27. Rh4 Rh8 28.
+Rxh8 Rxh8 29. Ra1 Rh4 30. Rd1 1/2-1/2
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.07"]
+[Round "3"]
+[White "Bachmann, Karlheinz"]
+[Black "Ophoff, Rigobert"]
+[Result "1-0"]
+[ECO "E95"]
+[WhiteElo "2133"]
+[BlackElo "1878"]
+[PlyCount "53"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. O-O e5 8. Re1
+c6 9. Bf1 Re8 10. d5 cxd5 11. cxd5 a6 12. a4 b6 13. Nd2 Bb7 14. Nc4 Qc7 15. Be3
+Rab8 16. Rc1 Bf8 17. f3 Rec8 18. b4 Qd8 19. Qd2 Be7 20. Bd3 Ba8 21. Rc2 Ne8 22.
+Rec1 Bb7 23. Qf2 Ba8 24. Qd2 Ng7 25. Nd1 Ne8 26. g3 f6 27. Nf2 1-0
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.07"]
+[Round "3"]
+[White "Fronczek, Heinrich"]
+[Black "Meiwald, Gerhard"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2202"]
+[BlackElo "1898"]
+[PlyCount "82"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 c5 8. dxc5
+Bxc5 9. Qc2 Qc7 10. Nxc4 Nbd7 11. e3 Rb8 12. a4 Be7 13. Qe2 a6 14. Nc3 b5 15.
+axb5 axb5 16. Na5 b4 17. Nc6 bxc3 18. Nxe7+ Kh8 19. bxc3 Qxc3 20. Ba3 Re8 21.
+Rfc1 Qe5 22. Nc6 Qb5 23. Qxb5 Rxb5 24. Na7 Ba6 25. Nxb5 Bxb5 26. Rab1 Bd3 27.
+Rb3 Bg6 28. Bd6 Ne4 29. Bxe4 Bxe4 30. Rc7 Nf6 31. Rxf7 Kg8 32. Ra7 Rd8 33. Rb8
+Rxb8 34. Bxb8 h6 35. Be5 Bg6 36. f3 Be8 37. e4 Nd7 38. Bc3 Kf7 39. f4 g5 40.
+Kf2 g4 41. Ke3 h5 1-0
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.07"]
+[Round "3"]
+[White "Josting, Friedel"]
+[Black "Packroff, Hermann"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "1791"]
+[BlackElo "2042"]
+[PlyCount "126"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 g6 2. Bf4 Bg7 3. e3 Nf6 4. h3 O-O 5. Nf3 b6 6. Be2 Bb7 7. O-O d6 8. c4
+Nbd7 9. Nc3 Ne4 10. Nxe4 Bxe4 11. Nd2 Bb7 12. Bf3 Bxf3 13. Nxf3 e5 14. Bg5 f6
+15. Bh4 e4 16. Nd2 Qe8 17. f4 f5 18. Qc2 Qf7 19. Rad1 c6 20. Nb3 Rfc8 21. Qe2
+Bf6 22. Bxf6 Nxf6 23. Rc1 Qd7 24. Rfd1 Kg7 25. c5 Nd5 26. Nd2 Nb4 27. Nc4 Nd3
+28. Rc3 bxc5 29. dxc5 d5 30. Na5 Qe7 31. Nb3 Rab8 32. Rd2 Kh8 33. a3 Rb5 34.
+Rdc2 Rb7 35. Nc1 Nxc1 36. Rxc1 Qf6 37. Qd2 Rd8 38. Rd1 Rdb8 39. b4 Rb5 40. Qd4
+Kg7 41. Qxf6+ Kxf6 42. Rb1 a5 43. Rcb3 g5 44. g3 gxf4 45. gxf4 Ke6 46. Kf2 d4
+47. exd4 Kd5 48. Ke3 axb4 49. axb4 Kc4 50. R3b2 Rxb4 51. Rxb4+ Rxb4 52. Rd1
+Rb3+ 53. Ke2 Rd3 54. Rg1 Kxd4 55. Rg5 Re3+ 56. Kd2 Rxh3 57. Rxf5 Rh2+ 58. Ke1
+Ke3 59. Kf1 Kf3 60. Kg1 Rc2 61. Kh1 e3 62. Rh5 Rc1+ 63. Kh2 e2 0-1
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.07"]
+[Round "3"]
+[White "Just, Joachim"]
+[Black "Neumann, Erwin"]
+[Result "1-0"]
+[ECO "E18"]
+[WhiteElo "1928"]
+[BlackElo "1779"]
+[PlyCount "81"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. g3 b6 3. Bg2 d5 4. c4 e6 5. Nc3 Bb7 6. Nf3 Be7 7. O-O O-O 8. Ne5
+Nbd7 9. Qa4 c5 10. Nxd7 Nxd7 11. cxd5 cxd4 12. Qxd4 Bf6 13. Qd2 Bxc3 14. bxc3
+Bxd5 15. Bxd5 exd5 16. Qxd5 Nc5 17. c4 Qf6 18. Bg5 Qe6 19. Qxe6 Nxe6 20. Be3
+Rac8 21. Rfc1 Rfd8 22. a4 Nd4 23. Ra2 Nf5 24. Ra3 Kf8 25. g4 Nxe3 26. fxe3 Rc5
+27. Rd3 Rdc8 28. Rd4 Ra5 29. Ra1 Ke7 30. Kf2 Rac5 31. Re4+ Kf6 32. Rc1 Ra5 33.
+Rd1 g6 34. Rd7 Rxa4 35. Rf4+ Ke6 36. Rfxf7 Rcxc4 37. h3 a5 38. Rxh7 Ra2 39. Kf3
+Rc1 40. Kf4 Rxe2 41. Rhe7+ 1-0
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.07"]
+[Round "3"]
+[White "Kluger, Hans Peter"]
+[Black "Wuensch, Ulrich"]
+[Result "0-1"]
+[ECO "E11"]
+[WhiteElo "1772"]
+[BlackElo "1983"]
+[PlyCount "150"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. a3 Bxd2+ 6. Nbxd2 d6 7. g3 e5 8.
+dxe5 dxe5 9. Bg2 O-O 10. e3 Bg4 11. Qb3 c6 12. O-O Na6 13. Qc3 Rfe8 14. b4 e4
+15. Ng5 Bf5 16. Nb3 h6 17. Nh3 Bg4 18. Kh1 Red8 19. Nd4 c5 20. bxc5 Nxc5 21.
+Ng1 Rac8 22. h3 Bd7 23. Rfd1 Nd3 24. Rxd3 exd3 25. Bxb7 Rc7 26. Bf3 Ne4 27.
+Bxe4 Qxe4+ 28. Kh2 Bc6 29. Ndf3 Ba8 30. c5 Qd5 31. Qd4 Rxc5 32. Rd1 Qxd4 33.
+Nxd4 Rc3 34. a4 Ra3 35. g4 Bb7 36. Kg3 Ba6 37. Ngf3 Rxa4 38. Ne5 Ra3 39. Nec6
+Rd7 40. Ne5 Rd5 41. Nec6 Rd7 42. Ne5 Rb7 43. Rd2 Rb1 44. Nec6 Rb7 45. Ne5 f6
+46. Ng6 Bc4 47. h4 Ra2 48. Rd1 Rbb2 49. Nf4 d2 50. Nf3 g5 51. Nh5 Kf7 52. hxg5
+hxg5 53. Nd4 Bd3 54. f4 Rb1 55. fxg5 fxg5 56. Rxd2 Rxd2 57. Nf3 Rdd1 58. Nxg5+
+Ke7 59. Nf3 a5 60. Nf4 Be4 61. Nd4 Rh1 62. Nfe2 Bh7 63. Nc6+ Kd6 64. Nxa5 Bd3
+65. Nf4 Ba6 66. Kf3 Rhf1+ 67. Ke4 Rb4+ 68. Kf5 Rb5+ 69. Kf6 Rxa5 70. g5 Bd3 71.
+g6 Rxf4+ 72. exf4 Rf5+ 73. Kg7 Rxf4 74. Kh6 Ke6 75. Kg7 Rg4 0-1
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.07"]
+[Round "3"]
+[White "Koch, Herbert"]
+[Black "Mueller, Waldemar"]
+[Result "0-1"]
+[ECO "E73"]
+[WhiteElo "1763"]
+[BlackElo "2004"]
+[PlyCount "64"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. c4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. h3 a6 8. Bg5 h6 9.
+Bh4 Bd7 10. Qb3 b6 11. Nf3 Ra7 12. a4 g5 13. Bg3 Rb7 14. Nd2 O-O 15. h4 g4 16.
+f3 Nh5 17. Kf2 Qf6 18. Nf1 Qg6 19. fxg4 Bxg4 20. Bxg4 Qxg4 21. Qd1 f5 22. Kg1
+Qxd1 23. Rxd1 f4 24. Be1 Rbf7 25. Rh3 Nd7 26. Rf3 Nhf6 27. g3 Ng4 28. gxf4 exf4
+29. Bd2 Bd4+ 30. Kg2 Nde5 31. Ne2 Nxf3 32. Kxf3 Ne5+ 0-1
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.08"]
+[Round "4"]
+[White "Bakhmatov, Eduard"]
+[Black "Krueger, Erich"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2262"]
+[BlackElo "2141"]
+[PlyCount "89"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5 7. d5 a5 8. Nd2 Na6
+9. g4 Nc5 10. h4 Ne8 11. h5 f5 12. hxg6 hxg6 13. gxf5 gxf5 14. exf5 Bxf5 15.
+Nf1 Qf6 16. Be3 Qg6 17. Ng3 Nd3+ 18. Bxd3 Bxd3 19. Qd2 Nf6 20. Rh4 e4 21. O-O-O
+Kf7 22. Rg1 Rh8 23. Rxh8 Rxh8 24. Nge2 Qh5 25. Nf4 Qh2 26. Rg2 Qh1+ 27. Nd1 b6
+28. f3 exf3 29. Rg1 Bf5 30. Rxh1 Rxh1 31. Qf2 Bg4 32. Ne6 Ne4 33. Ng5+ Nxg5 34.
+Bxg5 Be5 35. Bd2 Bh5 36. Kc2 Rh2 37. Qe3 Re2 38. Qg5 Bg6+ 39. Kb3 f2 40. Qg2
+Be4 41. Qf1 Bf3 42. Nxf2 Bxb2 43. Kxb2 Rxd2+ 44. Kc3 Be2 45. Qb1 1-0
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.08"]
+[Round "4"]
+[White "Boehme, Erich"]
+[Black "Thielemann, Joachim"]
+[Result "0-1"]
+[ECO "E72"]
+[WhiteElo "1722"]
+[BlackElo "1841"]
+[PlyCount "88"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 c6 5. g3 Bg7 6. Bg2 O-O 7. Nge2 Nbd7 8. O-O
+Rb8 9. a4 a6 10. d5 c5 11. h3 Nb6 12. Qd3 Ne8 13. b3 f5 14. Ra2 Nd7 15. f4 fxe4
+16. Nxe4 Ndf6 17. Ng5 Bf5 18. Qe3 Nc7 19. g4 Bd7 20. Bb2 b5 21. axb5 axb5 22.
+Ne6 Bxe6 23. dxe6 bxc4 24. Bxf6 Rxb3 25. Bc3 Rxc3 26. Qd2 Rd3 27. Qc2 d5 28. f5
+Qd6 29. Ra7 Be5 30. Qc1 Kg7 31. h4 Bh2+ 32. Kh1 h6 33. fxg6 Nxe6 34. Rxf8 Nxf8
+35. h5 Ne6 36. Nc3 Bf4 37. Qe1 Bg5 38. Qf1 Qf4 39. Qxf4 Nxf4 40. Nb5 Rd1+ 41.
+Kh2 Rd2 42. Nd6 Nxh5 43. gxh5 Bf4+ 44. Kh3 Bxd6 0-1
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.08"]
+[Round "4"]
+[White "Gerhardt, Peter Michael"]
+[Black "Schippan, Bernhard"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2015"]
+[BlackElo "2255"]
+[PlyCount "110"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. e3 g6 5. Be2 Bg7 6. O-O O-O 7. Nc3 e5 8. dxe5
+dxe5 9. Qc2 c6 10. b3 Re8 11. Bb2 Qc7 12. Rad1 Bf8 13. Nd2 a5 14. Nde4 Nxe4 15.
+Nxe4 f5 16. Rxd7 Bxd7 17. Nf6+ Kf7 18. Nxe8 Rxe8 19. Rd1 Bc5 20. Qd2 Bc8 21.
+Bc3 b6 22. Qb2 Qe7 23. g3 Kg8 24. Bf3 Bb7 25. Qd2 Bb4 26. a4 Kf7 27. Bxb4 axb4
+28. Qd7 Qxd7 29. Rxd7+ Re7 30. Rd6 Rc7 31. Rd8 Ke7 32. Rh8 Kd6 33. Rd8+ Rd7 34.
+Rxd7+ Kxd7 35. Kf1 Kd6 36. Ke1 g5 37. Kd2 h6 38. Bg2 Bc8 39. Bf3 Be6 40. Kc2 e4
+41. Bh5 Bd7 42. Bg6 Ke5 43. Bh7 Kf6 44. g4 c5 45. Kd2 Kg7 46. Bxf5 Bxf5 47.
+gxf5 Kf6 48. Ke2 Kxf5 49. Kf1 Kg4 50. Kg2 h5 51. h3+ Kh4 52. f4 exf3+ 53. Kxf3
+Kxh3 54. e4 g4+ 55. Kf2 Kh2 0-1
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.08"]
+[Round "4"]
+[White "Homes, Helmut"]
+[Black "Schurig, Wilhelm"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "1719"]
+[BlackElo "1858"]
+[PlyCount "30"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. c4 Nf6 5. Nc3 O-O 6. Be2 Na6 7. O-O e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Nxe5 Nxe4 11. Nxe4 Bxe5 12. Rb1 Bf5 13. Bf3 Nc5 14. Re1
+Nxe4 15. g4 Nd2 0-1
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.08"]
+[Round "4"]
+[White "Hottes, Dieter"]
+[Black "Orlova, Liubov"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "2051"]
+[BlackElo "1859"]
+[PlyCount "89"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Bb4+ 6. Nbd2 O-O 7. O-O d5 8. Qe2
+Nbd7 9. a3 Bd6 10. b4 c5 11. dxc5 bxc5 12. b5 a6 13. e4 Ne5 14. Nxe5 Bxe5 15.
+Rb1 dxe4 16. Nxe4 Nxe4 17. Bxe4 Bxh2+ 18. Kxh2 Qh4+ 19. Kg1 Qxe4 20. Qxe4 Bxe4
+21. Rb3 axb5 22. cxb5 Rfb8 23. Bf4 Bd5 24. Bxb8 Bxb3 25. Bc7 Bd5 26. Ra1 Ra4
+27. b6 g6 28. Rd1 Rd4 29. Ra1 Ra4 30. Rd1 Rd4 31. Ra1 Bb7 32. a4 Rb4 33. a5 Ba6
+34. Bd6 Rb5 35. Bc7 Kg7 36. f4 c4 37. Rc1 Rb4 38. Rc2 Bb7 39. Kf2 Ra4 40. Bd6
+Bd5 41. Bc7 Bb7 42. Ke3 Rxa5 43. Rxc4 Ra3+ 44. Kd4 Ra2 45. Rb4 1/2-1/2
+
+[Event "GER-ch Seniors-A 20th"]
+[Site "Erfurt"]
+[Date "2008.08.08"]
+[Round "4"]
+[White "Khanukov, Boris"]
+[Black "Mueller, Rudolf"]
+[Result "1-0"]
+[ECO "E52"]
+[WhiteElo "2305"]
+[BlackElo "2107"]
+[PlyCount "117"]
+[EventDate "2008.08.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. Nf3 Bb7 5. e3 Bb4 6. Bd2 O-O 7. Bd3 d5 8. cxd5
+exd5 9. O-O c5 10. a3 Bxc3 11. Bxc3 c4 12. Bc2 Ne4 13. Bb4 Re8 14. a4 Nc6 15.
+Ba3 Re6 16. Nd2 Nxd2 17. Qxd2 Rh6 18. f3 Ba6 19. Rf2 Rc8 20. Re1 Na5 21. Qc3
+Nc6 22. Rd1 Qc7 23. g3 Nd8 24. e4 Bb7 25. e5 a6 26. f4 Ne6 27. h4 b5 28. f5 Nf8
+29. a5 Re8 30. Bb4 Bc8 31. Qe3 f6 32. e6 Nd7 33. Qf3 Nb8 34. Bd2 Kh8 35. Bf4
+Qb7 36. Bxh6 gxh6 37. Qh5 Rg8 38. Qxh6 Rxg3+ 39. Rg2 Rxg2+ 40. Kxg2 Qg7+ 41.
+Qxg7+ Kxg7 42. Kf3 Nc6 43. Ke3 Kf8 44. Rg1 Ne7 45. h5 Ng8 46. Kf4 Bb7 47. Bd1
+Bc6 48. Bf3 b4 49. b3 c3 50. Be2 Bb7 51. Bd3 Bc8 52. Rg2 Bb7 53. Ra2 Ne7 54. h6
+Nc6 55. Ke3 Ke8 56. Rg2 Nxa5 57. Rg8+ Ke7 58. Rg7+ Ke8 59. Rxh7 1-0
+

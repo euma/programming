@@ -1,0 +1,600 @@
+[Site "Alushta"]
+[Date "2008.06.04"]
+[Round "3"]
+[White "El Gindy, Essam"]
+[Black "Chos, Alexey"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2507"]
+[BlackElo "2406"]
+[PlyCount "51"]
+[EventDate "2008.06.03"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "UKR"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. e3 e6 4. Nc3 Nf6 5. Nf3 Bb4 6. Bd3 O-O 7. O-O Nbd7 8. Qc2
+h6 9. Bd2 dxc4 10. Bxc4 b5 11. Be2 Bb7 12. Rfd1 a6 13. Ne5 Qe7 14. Bf3 Nxe5 15.
+dxe5 Nd7 16. a3 Ba5 17. Ne4 Bxd2 18. Rxd2 Nxe5 19. Be2 c5 20. Qxc5 Qh4 21. Nd6
+Bd5 22. f4 Nd7 23. Qc7 Nf6 24. Rf1 Rad8 25. Rd4 e5 26. Nf5 1-0
+
+[Event "Alushta Summer-3"]
+[Site "Alushta"]
+[Date "2008.06.04"]
+[Round "3"]
+[White "Shvyrjov, Igor"]
+[Black "Rausis, Igors"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2432"]
+[BlackElo "2512"]
+[PlyCount "71"]
+[EventDate "2008.06.03"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "UKR"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e6 4. Nf3 c5 5. Bxc4 a6 6. O-O Nf6 7. a4 Nc6 8. Qe2
+Qc7 9. Rd1 Be7 10. dxc5 O-O 11. b3 e5 12. Nc3 e4 13. Nd4 Bg4 14. f3 exf3 15.
+gxf3 Bh5 16. Ba3 Rfe8 17. b4 Ne5 18. Nd5 Nxd5 19. Bxd5 Rad8 20. Be4 g6 21. Bb2
+Bg5 22. Nc2 a5 23. Rxd8 Rxd8 24. Bd4 f5 25. Bxe5 Qxe5 26. Bxb7 axb4 27. Qc4+
+Kf8 28. f4 Qb2 29. Qxb4 Qxc2 30. fxg5 Rd1+ 31. Rxd1 Qxd1+ 32. Kf2 Qe2+ 33. Kg1
+Qxe3+ 34. Kh1 Qc1+ 35. Kg2 Qc2+ 36. Kf1 1/2-1/2
+
+[Event "Alushta Summer-3"]
+[Site "Alushta"]
+[Date "2008.06.05"]
+[Round "4"]
+[White "Chos, Alexey"]
+[Black "Shtyrenkov, Veniamen"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2406"]
+[BlackElo "2348"]
+[PlyCount "67"]
+[EventDate "2008.06.03"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "UKR"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Qa5 10. Nd2 Bb4 11. cxd5 exd5 12. Bd3 d4 13. O-O Bxc3 14. Nc4 Qh5
+15. bxc3 Nd5 16. Bg3 dxe3 17. Rae1 Be6 18. fxe3 Nde7 19. Nd6 b6 20. Rb1 Nd5 21.
+Qd2 Qh6 22. Be4 Nce7 23. c4 Qxe3+ 24. Qxe3 Nxe3 25. Rfe1 N3f5 26. Bxa8 Rxa8 27.
+Rbc1 Nxg3 28. hxg3 Nf5 29. Nxf5 Bxf5 30. c5 bxc5 31. Rxc5 Be6 32. Rb1 g6 33.
+Rb7 a5 34. a4 1-0
+
+[Event "Alushta Summer-3"]
+[Site "Alushta"]
+[Date "2008.06.05"]
+[Round "5"]
+[White "Shvyrjov, Igor"]
+[Black "Chos, Alexey"]
+[Result "1/2-1/2"]
+[ECO "D18"]
+[WhiteElo "2432"]
+[BlackElo "2406"]
+[PlyCount "78"]
+[EventDate "2008.06.03"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "UKR"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Nh4 Bg4 10. f3 Nd5 11. fxg4 Qxh4 12. Qf3 Nd7 13. Bd2 a5 14. Rad1 Bd6 15.
+g3 Qe7 16. Bd3 Nb4 17. Bb1 Bc7 18. Ne4 f5 19. Nc3 Rae8 20. Rde1 g6 21. Re2 fxg4
+22. Qxg4 Rxf1+ 23. Kxf1 e5 24. Kg2 Nf6 25. Qh4 exd4 26. exd4 Qxe2+ 27. Nxe2
+Rxe2+ 28. Kh3 Rxd2 29. Qxf6 Rxb2 30. Qe6+ Kg7 31. Bxg6 hxg6 32. Qe7+ Kh6 33.
+Qxc7 Nd3 34. Qxa5 Nf2+ 35. Kg2 Ng4+ 36. Kf3 Nxh2+ 37. Ke4 Ng4 38. Qc5 Rb3 39.
+Qf8+ Kg5 1/2-1/2
+
+[Event "Alushta Summer-3"]
+[Site "Alushta"]
+[Date "2008.06.06"]
+[Round "6"]
+[White "El Gindy, Essam"]
+[Black "Shtyrenkov, Veniamen"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "2507"]
+[BlackElo "2348"]
+[PlyCount "67"]
+[EventDate "2008.06.03"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "UKR"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O Be6 8. Ng5
+Bf5 9. b3 h6 10. Nf3 Ne4 11. Bb2 Nxc3 12. Bxc3 Nd7 13. Rc1 Bg4 14. h3 Bxf3 15.
+Bxf3 e6 16. Bb4 Re8 17. Bd6 Bf8 18. Bxf8 Kxf8 19. Qd2 Kg7 20. Qb4 Rb8 21. Qd6
+Qe7 22. Qxe7 Rxe7 23. Rfd1 a5 24. a3 Ra8 25. Rc3 Nf6 26. Rb1 Ne4 27. Bxe4 dxe4
+28. Rc2 Kf6 29. Rd2 Rd7 30. Kf1 Ke7 31. Ke2 Rad8 32. Rdb2 e5 33. dxe5 Ke6 34.
+f4 1/2-1/2
+
+[Event "Alushta Summer-3"]
+[Site "Alushta"]
+[Date "2008.06.06"]
+[Round "7"]
+[White "Shvyrjov, Igor"]
+[Black "El Gindy, Essam"]
+[Result "0-1"]
+[ECO "D34"]
+[WhiteElo "2432"]
+[BlackElo "2507"]
+[PlyCount "118"]
+[EventDate "2008.06.03"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "UKR"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 Bf5 10. dxc5 d4 11. Nb5 d3 12. Nd6 Bxd6 13. cxd6 h6 14. Bf4 Nd5 15.
+Qd2 Re8 16. exd3 g5 17. Be3 Qxd6 18. Ne1 Rad8 19. a3 Qe6 20. Rc1 Bg6 21. d4
+Nxe3 22. fxe3 Qxe3+ 23. Qxe3 Rxe3 24. Bxc6 bxc6 25. Rxc6 Rb3 26. Rf2 Rxd4 27.
+Rc1 a5 28. Nf3 Rd5 29. Re1 f6 30. Re7 Rd1+ 31. Kg2 Bf7 32. Re1 Rxe1 33. Nxe1
+Bd5+ 34. Kg1 Kf7 35. Rd2 Be4 36. Kf2 f5 37. Re2 Kf6 38. g4 h5 39. gxf5 Kxf5 40.
+Ng2 Rf3+ 41. Ke1 Ke5 42. Re3 Kd4 43. Re2 a4 44. Rd2+ Rd3 45. Re2 h4 46. Kf2 Bf3
+47. Rc2 Bd1 48. Rc8 Rd2+ 49. Kf1 Bb3 50. Rd8+ Bd5 51. Ne1 g4 52. Kg1 Rxb2 53.
+Nd3 Rg2+ 54. Kf1 Kxd3 55. Rxd5+ Ke4 56. Rg5 Kf4 57. Ra5 Rxh2 58. Rxa4+ Kf3 59.
+Kg1 Rb2 0-1
+
+[Event "Alushta Summer-3"]
+[Site "Alushta"]
+[Date "2008.06.09"]
+[Round "12"]
+[White "Matsegora, Taras"]
+[Black "Shtyrenkov, Veniamen"]
+[Result "1-0"]
+[ECO "D09"]
+[WhiteElo "2207"]
+[BlackElo "2348"]
+[PlyCount "125"]
+[EventDate "2008.06.03"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "UKR"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Nge7 6. Bg2 Ng6 7. Bg5 Qd7 8. O-O
+h6 9. e6 Qxe6 10. Bc1 Qxc4 11. Nbd2 Qa6 12. Nb3 d3 13. exd3 Be7 14. d4 O-O 15.
+d5 Rd8 16. Nfd4 Nce5 17. Re1 Bg4 18. f3 Bd7 19. f4 Bg4 20. Qc2 Nd3 21. Re3 Nb4
+22. Qf2 Bf6 23. f5 Ne5 24. h3 Bd1 25. Bd2 Bxb3 26. Rxb3 Ned3 27. Qe3 Re8 28.
+Ne6 fxe6 29. Bxb4 exf5 30. Qxd3 Qxd3 31. Rxd3 Bxb2 32. Rb1 Be5 33. Bc3 Bd6 34.
+Rxb7 Re2 35. a4 Rae8 36. Rb2 R2e3 37. Rxe3 Rxe3 38. Bd4 Ra3 39. Bxa7 Rxa4 40.
+Bf2 g5 41. Bf1 Ra3 42. Kg2 Kf7 43. Be2 Kg6 44. g4 f4 45. Rd2 Kf6 46. Bd4+ Kf7
+47. Bd3 Rb3 48. Bf2 Ra3 49. Be4 Ra4 50. Kf3 Ra3+ 51. Rd3 Ra1 52. Rb3 Rh1 53.
+Ke2 Ra1 54. Kf3 Ke7 55. h4 Rc1 56. h5 Be5 57. Ra3 Bd6 58. Ra8 Rc3+ 59. Ke2 Be5
+60. Rg8 Rc4 61. Bd3 Rc3 62. Rg6 f3+ 63. Kd2 1-0
+
+[Event "Alushta Summer-3"]
+[Site "Alushta"]
+[Date "2008.06.10"]
+[Round "14"]
+[White "Matsegora, Taras"]
+[Black "Rausis, Igors"]
+[Result "0-1"]
+[ECO "D10"]
+[WhiteElo "2207"]
+[BlackElo "2512"]
+[PlyCount "62"]
+[EventDate "2008.06.03"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "UKR"]
+[EventCategory "6"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Bd3 e5 5. dxe5 dxc4 6. Be2 Qxd1+ 7. Bxd1 Ng4 8.
+f4 Bc5 9. Ke2 Bf5 10. h3 Nh6 11. Nc3 Bd3+ 12. Kf3 Nd7 13. Ne4 Be7 14. Ne2 O-O-O
+15. N2c3 f6 16. exf6 gxf6 17. Be2 Nf7 18. Bxd3 cxd3 19. Bd2 h5 20. g4 f5 21.
+gxf5 Nh6 22. Rhg1 Nxf5 23. Rac1 Kb8 24. a3 Nb6 25. Nd1 Nd5 26. Ng5 Rhg8 27. e4
+Nd4+ 28. Kf2 Bxg5 29. exd5 Bh4+ 30. Kf1 Rxg1+ 31. Kxg1 Nf3+ 0-1
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.04"]
+[Round "1"]
+[White "Dengler, Dijana"]
+[Black "Vujic Katanic, Branka"]
+[Result "0-1"]
+[ECO "D04"]
+[WhiteElo "2105"]
+[BlackElo "2104"]
+[PlyCount "84"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c5 4. b3 Qa5+ 5. Bd2 Qb6 6. Nc3 cxd4 7. exd4 Nc6 8.
+Bb5 Bg4 9. O-O e6 10. a4 Bxf3 11. Qxf3 Qxd4 12. Bf4 Bb4 13. Na2 Be7 14. Rfe1
+O-O 15. c3 Qb6 16. b4 Qd8 17. Nc1 a5 18. Nd3 Ne4 19. Bxc6 bxc6 20. Ne5 axb4 21.
+Nxc6 Qd7 22. Ne5 Qb7 23. cxb4 Qxb4 24. Reb1 Rxa4 25. Nc6 Rxa1 26. Rxa1 Qb7 27.
+Ne5 Bf6 28. Re1 h6 29. Ng4 Qb4 30. Rf1 Qc3 31. Qe2 h5 32. Nxf6+ Qxf6 33. Bc1
+Qf5 34. h3 Rc8 35. Be3 e5 36. Qa6 d4 37. Bc1 Rc2 38. Qa8+ Kh7 39. f3 Ng3 40.
+Re1 Ne2+ 41. Kf1 Nxc1 42. Qa3 Qd3+ 0-1
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.04"]
+[Round "1"]
+[White "Petrovic, Marija"]
+[Black "Mladenovic, Jelena"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2167"]
+[BlackElo "2133"]
+[PlyCount "62"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. e3 e6 5. Nbd2 Nc6 6. Bb5 Be7 7. Ne5 Bd6 8.
+Nxc6 bxc6 9. Bxc6+ Nd7 10. Bxa8 Qxa8 11. Bxd6 cxd6 12. O-O O-O 13. c3 Nb6 14.
+a4 Bg4 15. f3 Bh5 16. b4 Rc8 17. Qb3 Bg6 18. b5 Rb8 19. a5 Nd7 20. Qb4 Bd3 21.
+Qxd6 Bxf1 22. Nxf1 Nf8 23. Rb1 Rd8 24. Qb4 Rb8 25. Nd2 a6 26. b6 Nd7 27. b7 Qa7
+28. Qd6 Rxb7 29. Rb4 h6 30. Rb3 Qb8 31. Qxb8+ Rxb8 1-0
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.04"]
+[Round "1"]
+[White "Urosevic, Marija"]
+[Black "Hadziselimovic, Maja"]
+[Result "1-0"]
+[ECO "D63"]
+[WhiteElo "2114"]
+[BlackElo "1698"]
+[PlyCount "63"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 h6 7. Bf4 O-O 8. Rc1
+c5 9. cxd5 exd5 10. Be2 a6 11. O-O b5 12. dxc5 Nxc5 13. Nd4 Bb7 14. Nf5 Rc8 15.
+Bg4 Ne6 16. Qf3 Nxf4 17. Nxe7+ Qxe7 18. Bxc8 Nd3 19. Bxb7 Nxc1 20. Bxa6 Ra8 21.
+Bxb5 Nxa2 22. Nxd5 Nxd5 23. Qxd5 Rb8 24. Bc4 Nb4 25. Qf3 Rd8 26. Rd1 Rxd1+ 27.
+Qxd1 Qe4 28. b3 Nc6 29. h3 g6 30. Qd3 Qe7 31. Qxg6+ Kf8 32. Qxh6+ 1-0
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.06"]
+[Round "3"]
+[White "Dengler, Dijana"]
+[Black "Baban, Ana Mihaela"]
+[Result "1-0"]
+[ECO "D04"]
+[WhiteElo "2105"]
+[PlyCount "35"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bg4 4. c4 e6 5. Qb3 Qc8 6. Ne5 Bf5 7. Nc3 Bd6 8. cxd5
+exd5 9. Nxd5 Nbd7 10. Nxf6+ gxf6 11. Qxf7+ Kd8 12. Nxd7 Bxd7 13. Qxf6+ Be7 14.
+Qxh8+ Be8 15. Bd2 h5 16. Be2 h4 17. Bh5 Kd7 18. Bg4+ 1-0
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.08"]
+[Round "5"]
+[White "Dengler, Dijana"]
+[Black "Dedijer, Mira"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2105"]
+[BlackElo "1969"]
+[PlyCount "129"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c3 c6 3. Bf4 Bf5 4. Nd2 Nf6 5. e3 e6 6. Ngf3 Be7 7. Be2 Ne4 8. Qb3
+Qb6 9. Qxb6 axb6 10. Nxe4 Bxe4 11. O-O b5 12. Nd2 Bg6 13. Bxb8 Rxb8 14. a3 O-O
+15. g3 f6 16. h4 e5 17. Kg2 Bd6 18. Rae1 Rbe8 19. Rh1 Re7 20. h5 Bf5 21. Bf3
+Rfe8 22. Rc1 exd4 23. cxd4 Ra8 24. Nb3 Be4 25. Bxe4 Rxe4 26. Nc5 Bxc5 27. Rxc5
+b4 28. axb4 Ra2 29. Rb1 Kf7 30. b5 Re6 31. bxc6 bxc6 32. Rc3 Ke7 33. b4 Ra7 34.
+b5 cxb5 35. Rxb5 Rd6 36. Rcb3 f5 37. Kf3 Kf6 38. Rb7 Rd7 39. R3b6+ Kg5 40. Rxa7
+Rxa7 41. Rd6 Kxh5 42. Rxd5 Kg5 43. g4 g6 44. gxf5 gxf5 45. e4 Ra3+ 46. Kg2 Kf4
+47. exf5 Ke4 48. Rd7 Kxf5 49. Rxh7 Rd3 50. Rh4 Kg5 51. Re4 Kf5 52. f3 Rd2+ 53.
+Kg3 Rd1 54. Kf2 Rd3 55. Ke2 Ra3 56. d5 Ra2+ 57. Ke3 Ra3+ 58. Ke2 Ra2+ 59. Kd1
+Ra5 60. Rd4 Ke5 61. Re4+ Kf5 62. Ke2 Rxd5 63. Ra4 Re5+ 64. Kf2 Re6 65. Ra7
+1/2-1/2
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.08"]
+[Round "5"]
+[White "Vujic Katanic, Branka"]
+[Black "Nesic, Dragana"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2104"]
+[BlackElo "1884"]
+[PlyCount "51"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c5 5. O-O Nc6 6. cxd5 exd5 7. d4 c4 8. b3
+b5 9. a4 Na5 10. bxc4 bxc4 11. Bg5 Nb3 12. Ra2 Be7 13. Ne5 h6 14. Bxf6 Bxf6 15.
+Nxc4 Nxd4 16. Ne3 Ba6 17. Nxd5 Bc4 18. Nxf6+ Qxf6 19. Bxa8 Bxa2 20. e3 O-O 21.
+Bg2 Nf5 22. Qd2 Bb3 23. Qb4 Qb6 24. Qf4 Qa5 25. Bc6 Rb8 26. Qxb8+ 1-0
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Benderac, Ana"]
+[Black "Hadziselimovic, Maja"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2334"]
+[BlackElo "1698"]
+[PlyCount "73"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. f3 h6 5. Bxf6 Qxf6 6. e4 Bb4 7. e5 Qg6 8. Qd2
+Nc6 9. O-O-O f6 10. f4 fxe5 11. fxe5 Bd7 12. Nf3 O-O-O 13. Bd3 Qg4 14. h3 Bxc3
+15. hxg4 Bxd2+ 16. Kxd2 Nb4 17. Bg6 Rdf8 18. Ke3 Be8 19. Nh4 Rhg8 20. Rdf1 Kd7
+21. c3 Nc6 22. Bh7 Rh8 23. Ng6 Bxg6 24. Bxg6 Ne7 25. Bf7 g6 26. Rf6 c6 27. Rhf1
+g5 28. Bxe6+ Ke8 29. Rxf8+ Rxf8 30. Bd7+ Kxd7 31. Rxf8 Ng6 32. Rf7+ Kc8 33. Rf6
+Nf4 34. g3 Ng2+ 35. Kf2 Nf4 36. gxf4 gxf4 37. Rxh6 1-0
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Dedijer, Sanja"]
+[Black "Vujic Katanic, Branka"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2067"]
+[BlackElo "2104"]
+[PlyCount "13"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 1/2-1/2
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Petrovic, Marija"]
+[Black "Stojanovic, Andjelija"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "2167"]
+[BlackElo "2346"]
+[PlyCount "18"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 e6 3. c3 b6 4. Bg5 Bb7 5. Nbd2 d5 6. e3 Be7 7. Bd3 O-O 8. Qc2
+Nbd7 9. O-O c5 1/2-1/2
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Urosevic, Marija"]
+[Black "Madl, Ildiko"]
+[Result "0-1"]
+[ECO "D21"]
+[WhiteElo "2114"]
+[BlackElo "2379"]
+[PlyCount "92"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 c5 3. c4 dxc4 4. e3 cxd4 5. exd4 Be6 6. Nc3 Nf6 7. Ng5 Bd5 8.
+Nxd5 Qxd5 9. Qf3 e6 10. Qc3 Nc6 11. a3 Qxd4 12. Qxc4 Bc5 13. Qxd4 Nxd4 14. Bd3
+Nb3 15. Rb1 Rd8 16. Bb5+ Ke7 17. O-O Rd5 18. Nf3 Bxf2+ 19. Rxf2 Rxb5 20. Bg5
+Rc8 21. Rd1 h6 22. Bxf6+ gxf6 23. h3 Rc1 24. Rxc1 Nxc1 25. Rd2 Nb3 26. Rc2 Rc5
+27. Re2 a5 28. Kf2 f5 29. Ne1 Rd5 30. Nf3 a4 31. Rc2 Rc5 32. Re2 f6 33. Kg3 Rc4
+34. Kf2 f4 35. Ne1 Nd4 36. Rd2 e5 37. Nd3 Rc2 38. Rxc2 Nxc2 39. Kf3 Kd6 40. Ke4
+Ne3 41. g4 b6 42. Nb4 Ke6 43. Nd3 Nc4 44. Kf3 f5 45. Kf2 fxg4 46. hxg4 Kd5 0-1
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.10"]
+[Round "7"]
+[White "Maksimovic, Suzana"]
+[Black "Zdilar, Emilija"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "2264"]
+[PlyCount "49"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nc6 4. Nf3 Bg4 5. Bxc4 e6 6. Be3 Bb4+ 7. Nc3 Nf6 8.
+e5 Ne4 9. Rc1 O-O 10. O-O Nxc3 11. bxc3 Be7 12. Bd3 h6 13. Qc2 Bxf3 14. gxf3
+Bg5 15. f4 Bh4 16. Be4 Qd7 17. Kh1 Kh8 18. Rb1 Rab8 19. Rg1 f5 20. exf6 Bxf6
+21. Qe2 b6 22. Qb5 a6 23. Qxc6 Qxc6 24. Bxc6 Rbd8 25. a4 1-0
+
+[Event "BIH-chT (Women)"]
+[Site "Neum"]
+[Date "2008.06.10"]
+[Round "7"]
+[White "Stanisic, Silvija"]
+[Black "Nesic, Dragana"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[BlackElo "1884"]
+[PlyCount "22"]
+[EventDate "2008.06.04"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Bf5 5. Nf3 Nc6 6. e3 a6 7. Nc3 e6 8. a3
+Nf6 9. Be2 Bd6 10. Bxd6 Qxd6 11. O-O O-O 1/2-1/2
+
+[Event "GER-ch Net qual2 U14"]
+[Site "playchess.com INT"]
+[Date "2008.06.04"]
+[Round "1"]
+[White "Bauer, Bjoern Benny"]
+[Black "Paul, Nico"]
+[Result "1-0"]
+[ECO "D31"]
+[PlyCount "55"]
+[EventDate "2008.06.04"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nc6 4. e3 f5 5. Nf3 Nf6 6. cxd5 exd5 7. Bd3 Qd7 8. O-O
+b5 9. Bxb5 Na5 10. Bxd7+ Kxd7 11. Qa4+ Kd8 12. Qxa5 Nd7 13. Nxd5 h5 14. Qxc7+
+Ke8 15. Ng5 Ba6 16. Re1 Nb6 17. Nxb6 axb6 18. Qxb6 Rc8 19. Qxa6 Rh6 20. Qxc8+
+Ke7 21. Bd2 Rg6 22. Qxf5 Rxg5 23. Qxg5+ Ke8 24. Rac1 Kf7 25. Qxh5+ Kg8 26. Rc8
+g6 27. Qxg6+ Kh8 28. Rxf8# 1-0
+
+[Event "GER-ch Net qual2 U14"]
+[Site "playchess.com INT"]
+[Date "2008.06.04"]
+[Round "1"]
+[White "Cofman, Veaceslav"]
+[Black "Bashylin, Seva"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "1913"]
+[PlyCount "100"]
+[EventDate "2008.06.04"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 Nf6 5. Nf3 c6 6. Bf4 Bg4 7. e3 Bd6 8. Bg3
+Bxg3 9. hxg3 O-O 10. Bd3 h6 11. Qc2 Re8 12. Ne5 Nbd7 13. Nxg4 Nxg4 14. Qe2 Ngf6
+15. Qf3 Qe7 16. g4 Ne4 17. Bxe4 dxe4 18. Qf5 Qb4 19. Rb1 Nb6 20. g5 Re6 21.
+gxh6 gxh6 22. Rh4 Nd5 23. a3 Qa5 24. b4 Qxa3 25. Nxd5 cxd5 26. Qxd5 Qd3 27.
+Rg4+ Kf8 28. Qc5+ Re7 29. Rc1 Rd8 30. Rh4 Rdd7 31. Rxh6 Rc7 32. Qxc7 Rxc7 33.
+Rxc7 Qb1+ 34. Kd2 Qb2+ 35. Rc2 Qxb4+ 36. Kd1 Qb1+ 37. Kd2 Qb4+ 38. Kd1 Qb3 39.
+Rh8+ Kg7 40. Rhc8 a5 41. R8c3 Qb1+ 42. Ke2 Qb5+ 43. Ke1 a4 44. Kd2 Qa5 45. Ra2
+b5 46. Kc2 b4 47. Rc5 b3+ 48. Kb2 Qd2+ 49. Ka3 Qxa2+ 50. Kb4 b2 0-1
+
+[Event "GER-ch Net qual2 U14"]
+[Site "playchess.com INT"]
+[Date "2008.06.04"]
+[Round "1"]
+[White "Mundorf, Johannes"]
+[Black "Ghajar Khosravi, Ariaan"]
+[Result "1-0"]
+[ECO "D33"]
+[PlyCount "87"]
+[EventDate "2008.06.04"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 exd5 6. g3 Nc6 7. Bg2 cxd4 8.
+Nxd4 Bc5 9. Be3 Nxd4 10. Bxd4 Bxd4 11. Qxd4 Be6 12. O-O Qd7 13. Rfd1 Rd8 14. e4
+dxe4 15. Qxd7+ Rxd7 16. Nxe4 Rxd1+ 17. Rxd1 Nxe4 18. Bxe4 O-O 19. a3 b6 20. Rd6
+Rc8 21. Kg2 Kf8 22. Rc6 h6 23. Kf3 Ke7 24. Kf4 Rxc6 25. Bxc6 Kd6 26. Bf3 Bd5
+27. Be2 Be6 28. Ke4 Bd5+ 29. Kd4 Bb7 30. f4 Ke6 31. Bc4+ Ke7 32. Bd5 Bxd5 33.
+Kxd5 Kd7 34. a4 g6 35. g4 f6 36. h4 a6 37. b4 h5 38. gxh5 gxh5 39. f5 a5 40. b5
+Kc7 41. Ke6 Kd8 42. Kxf6 Ke8 43. Kg7 Ke7 44. f6+ 1-0
+
+[Event "GER-ch Net qual2 U14"]
+[Site "playchess.com INT"]
+[Date "2008.06.04"]
+[Round "1"]
+[White "Stukenbrok, Nils"]
+[Black "Zier, Oliver"]
+[Result "0-1"]
+[ECO "D31"]
+[BlackElo "1941"]
+[PlyCount "52"]
+[EventDate "2008.06.04"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Qc2 Bf6 6. e3 Ne7 7. Bd3 g6 8.
+Nge2 Bf5 9. O-O O-O 10. Rb1 Na6 11. b4 c6 12. a4 Nc7 13. Ba3 Re8 14. b5 Bxd3
+15. Qxd3 Nf5 16. bxc6 bxc6 17. Rb7 Qc8 18. Rfb1 Ne6 19. Ng3 Nxg3 20. hxg3 Qd8
+21. Qa6 c5 22. Rxa7 Rxa7 23. Qxa7 cxd4 24. exd4 Bxd4 25. Nb5 Bxa7 26. Nxa7 Qa5
+0-1
+
+[Event "GER-ch Net qual2 U14"]
+[Site "playchess.com INT"]
+[Date "2008.06.04"]
+[Round "1"]
+[White "Thomas, Tobias"]
+[Black "Pfleger, Juergen"]
+[Result "0-1"]
+[ECO "D20"]
+[BlackElo "1787"]
+[PlyCount "98"]

@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 a6 3. c3 e6 4. d4 cxd4 5. cxd4 Nf6 6. Bd3 Nc6 7. Nc3 Bb4 8. O-O
+Bxc3 9. bxc3 O-O 10. Bg5 h6 11. Bh4 Qc7 12. Bxf6 gxf6 13. Nh4 Qf4 14. g3 Qg5
+15. f4 Qg7 16. Qh5 f5 17. exf5 Nxd4 18. cxd4 Qxd4+ 19. Kg2 Qxd3 20. Qxh6 d5 21.
+Ng6 fxg6 22. fxg6 Qc2+ 23. Rf2 Qc7 24. h4 Qg7 25. Qg5 Qxa1 26. h5 Qf6 27. Qg4
+Qf5 28. Qh4 Bd7 29. g4 Qe4+ 30. Kh3 Qh1+ 31. Rh2 Qf3+ 32. Qg3 Rxf4 33. h6 Qxg3+
+34. Kxg3 Ra4 35. Rc2 Rc4 36. Rg2 e5 37. Kh4 Rxg4+ 0-1
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "4"]
+[White "Zelannikovas, Viktoras"]
+[Black "Braver, Moisej"]
+[Result "1-0"]
+[ECO "B24"]
+[PlyCount "125"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Ne2 Nc6 3. Nbc3 Nf6 4. g3 e6 5. Bg2 d5 6. exd5 exd5 7. d4 cxd4 8.
+Nxd4 Bg4 9. Qd3 Bb4 10. Bg5 O-O 11. O-O Ne5 12. Qb5 Bxc3 13. bxc3 Qd7 14. Bxf6
+Qxb5 15. Nxb5 gxf6 16. Nc7 Rac8 17. Nxd5 Kg7 18. Rab1 b6 19. Rfe1 Bf3 20. Re3
+Bxg2 21. Kxg2 Ng4 22. Rd3 Ne5 23. Re3 Ng4 24. Rd3 Ne5 25. Rd4 Nc6 26. Rg4+ Kh8
+27. Nxf6 Ne7 28. Re1 Ng8 29. Nxg8 Rxg8 30. Ra4 Rxc3 31. Rxa7 Rxc2 32. Rxf7 Rg7
+33. Re8+ Rg8 34. Ree7 Rd8 35. Rxh7+ Kg8 36. Rhg7+ Kh8 37. Ra7 Rxa2 38. Rxa2
+Kxg7 39. Rb2 Rb8 40. g4 b5 41. h4 b4 42. Kf3 Rf8+ 43. Kg3 Rb8 44. Kf4 Rf8+ 45.
+Kg5 Rb8 46. f4 Rb5+ 47. f5 b3 48. h5 Rb8 49. Kh4 Rb4 50. Kg3 Rb5 51. Kf4 Rb4+
+52. Kg5 Rb5 53. h6+ Kf7 54. h7 Kg7 55. Rh2 Rb8 56. f6+ Kh8 57. Rb2 Rb5+ 58. Kg6
+Rb6 59. g5 Rb7 60. f7 Rb6+ 61. Kh5 Rh6+ 62. Kg4 Kg7 63. gxh6+ 1-0
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Alekberovas, Anaras"]
+[Black "Poderis, Justinas"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2069"]
+[BlackElo "1990"]
+[PlyCount "57"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d5 4. exd5 Nf6 5. Bc4 Nbd7 6. Qf3 Nb6 7. Bb3 O-O 8.
+Bf4 Re8 9. Be5 Bd7 10. Nge2 Bg4 11. Qg3 Qd7 12. f3 Bf5 13. Nf4 a6 14. O-O-O Nc8
+15. Qf2 g5 16. Nd3 Bxd3 17. Rxd3 b5 18. Ne4 Qf5 19. Nxf6+ exf6 20. Bxc7 Ne7 21.
+d6 Nc6 22. Rc3 Na7 23. g4 Qd7 24. Bd5 b4 25. Rc5 Nb5 26. Bc6 Qe6 27. d5 Qe5 28.
+d7 Nxc7 29. dxe8=Q+ 1-0
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Braver, Moisej"]
+[Black "Brovka, Laurynas"]
+[Result "0-1"]
+[ECO "B24"]
+[PlyCount "72"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 d6 5. d3 e6 6. Bg5 Be7 7. Nge2 b6 8. O-O
+Bb7 9. Re1 O-O 10. Nf4 h6 11. Bxf6 Bxf6 12. Rb1 Re8 13. Nce2 Qc7 14. c4 Nd4 15.
+Nxd4 Bxd4 16. Ne2 Bf6 17. Nf4 Rad8 18. a3 Bd4 19. Ne2 Be5 20. b4 cxb4 21. axb4
+d5 22. f4 Bf6 23. e5 Be7 24. cxd5 Bxd5 25. Bxd5 Rxd5 26. Qa4 Red8 27. d4 Qd7
+28. Qxd7 R8xd7 29. Rec1 Rb5 30. Rc8+ Kh7 31. Rc4 a5 32. Nc3 Rxb4 33. Rbxb4 Bxb4
+34. Na4 b5 35. Nb6 bxc4 36. Nxd7 c3 0-1
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Dubovikas, Tomas"]
+[Black "Baltranas, Marius"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2192"]
+[BlackElo "1869"]
+[PlyCount "37"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. g4 b4 11. Nd5 exd5 12. exd5 Bb7 13. Re1+ Be7 14. Bg2 Bxd5
+15. Rxe7+ Kf8 16. Qxd5 Nxd5 17. Bxd5 Qc5 18. Rxf7+ Kg8 19. Rf5+ 1-0
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Gercas, Arnas"]
+[Black "Buivys, Martynas"]
+[Result "1-0"]
+[ECO "B33"]
+[BlackElo "1807"]
+[PlyCount "127"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 O-O 13. Bd3 Be6 14. Nce3 Ne7
+15. O-O Nxd5 16. Nxd5 Bxd5 17. exd5 f5 18. Qe2 e4 19. Bc2 Qb6 20. Kh1 g6 21. f3
+e3 22. f4 Bh4 23. g3 Bf6 24. Rae1 Rfe8 25. Rf3 Qc5 26. Bb3 a5 27. Rxe3 Rxe3 28.
+Qxe3 Qxe3 29. Rxe3 Kg7 30. Re2 a4 31. Bd1 a3 32. bxa3 Rxa3 33. Bb3 Bxc3 34.
+Re7+ Kh6 35. h3 Ra8 36. Rd7 Bb4 37. Rb7 Re8 38. Rxb5 Be1 39. Kg2 Re3 40. g4
+fxg4 41. hxg4 Rg3+ 42. Kf1 Bd2 43. g5+ Kh5 44. Bd1+ Kh4 45. Rb7 Re3 46. Kf2 h5
+47. gxh6 Re8 48. h7 Bxf4 49. Rg7 Rh8 50. Rxg6 Be5 51. Rh6+ Kg5 52. Rh1 Kf4 53.
+Bc2 Rb8 54. Rb1 Rc8 55. Bb3 Rc7 56. Rh1 Rc8 57. Ke2 Kg5 58. Kf3 Kg6 59. Ke4 Rf8
+60. Ke3 Kg5 61. Bc4 Ra8 62. Kd3 Ra3+ 63. Bb3 Ra8 64. Rg1+ 1-0
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Kasperavicius, Jokubas"]
+[Black "Urbanavicius, Rytis"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1790"]
+[PlyCount "132"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 Nc6 4. g3 d5 5. exd5 exd5 6. Bg2 d4 7. Nd5 Nge7 8.
+Nef4 Nxd5 9. Nxd5 Be6 10. Nf4 Bd6 11. Nxe6 fxe6 12. d3 O-O 13. O-O Qf6 14. h4
+Rae8 15. Bg5 Qf7 16. Be4 Be7 17. Bd2 Ne5 18. f4 Nc6 19. Qf3 Rb8 20. a3 Bf6 21.
+Rae1 Kh8 22. Bxc6 bxc6 23. b3 Qd7 24. Re4 Rfe8 25. Rfe1 Re7 26. Qg4 Rbe8 27. b4
+Kg8 28. bxc5 Qd5 29. Qe2 Qa2 30. Bb4 Qd5 31. Qf2 Qh5 32. Kg2 Qg4 33. Qf3 Qxf3+
+34. Kxf3 h5 35. Ke2 Kf7 36. Kd2 Rb8 37. Ba5 Rb5 38. Bd8 Re8 39. Bxf6 Kxf6 40.
+Rxd4 Rxc5 41. Ra4 Re7 42. Re5 Rxe5 43. fxe5+ Kf5 44. Re4 c5 45. Kc3 Rc7 46. Kc4
+Rc8 47. a4 a6 48. Kc3 Rc7 49. Kd2 Rc8 50. Ke3 Rc7 51. Kf3 Rf7 52. Rf4+ Kg6 53.
+Rxf7 Kxf7 54. c3 Ke7 55. Kf4 Kf7 56. d4 cxd4 57. cxd4 Kg6 58. Ke4 Kf7 59. d5
+exd5+ 60. Kxd5 Ke7 61. e6 g6 62. Ke5 Ke8 63. Kf6 Kf8 64. Kxg6 Ke7 65. Kxh5 Kxe6
+66. Kg6 Kd5 1-0
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Kytra, Jokubas"]
+[Black "Latinis, Marius"]
+[Result "0-1"]
+[ECO "B45"]
+[WhiteElo "1723"]
+[PlyCount "58"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Ne4 Qc7 9. f4 Qb6 10. Bd3 Be7 11. Qg4 O-O 12. Qh3 Ba6 13. c4 f5 14. cxd5 fxe4
+15. Bxe4 Qb4+ 16. Kf2 Qxe4 17. dxe6 Bc5+ 18. Kg3 Qd3+ 19. Kh4 Be7+ 20. Kg4
+Qxh3+ 21. Kxh3 dxe6 22. Be3 c5 23. Rac1 Rac8 24. Rhd1 Bb5 25. b3 Rc7 26. a4 Bc6
+27. Kg3 Bd5 28. Rd3 Rb8 29. Rdc3 Rxb3 0-1
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Laurusas, Tomas"]
+[Black "Liatukas, Mikas"]
+[Result "0-1"]
+[ECO "B84"]
+[WhiteElo "2036"]
+[BlackElo "2209"]
+[PlyCount "98"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. a4 b6 8. f4
+Be7 9. Bf3 Ra7 10. O-O O-O 11. Be3 Rc7 12. Qe2 Bb7 13. Rad1 Rxc3 14. bxc3 Bxe4
+15. Bc1 d5 16. c4 Qc8 17. cxd5 exd5 18. Kh1 Re8 19. Bb2 Nbd7 20. Bxe4 Nxe4 21.
+Nf5 Bf6 22. Ba3 Ng3+ 23. Nxg3 Rxe2 24. Nxe2 Qc4 25. Rfe1 h6 26. a5 b5 27. Bd6
+Bb2 28. h3 Nf6 29. c3 Ne4 30. Rd4 Qb3 31. Bb4 Bxc3 32. Nxc3 Nxc3 33. Bxc3 Qxc3
+34. Red1 Qxa5 35. Rxd5 Qa4 36. R5d3 a5 37. f5 b4 38. Rb1 Qc2 39. Rdb3 Qxf5 40.
+R1b2 Qe5 41. Ra2 Qd5 42. Rab2 Qd4 43. Rb1 Kf8 44. R3b2 Qc3 45. Ra2 b3 46. Re2
+a4 47. Rd1 Kg8 48. Rf2 b2 49. Rf3 Qxf3 0-1
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Macenis, Andrius"]
+[Black "Snuviskis, Tadas"]
+[Result "1-0"]
+[ECO "B28"]
+[WhiteElo "2078"]
+[PlyCount "55"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d6 4. d4 Nd7 5. Bd3 b5 6. O-O e5 7. a4 c4 8. Bc2 Bb7
+9. b3 Ngf6 10. Nbd2 cxb3 11. Bxb3 Be7 12. Qe2 bxa4 13. Bxa4 O-O 14. Bc2 Qc7 15.
+Bb2 d5 16. Nxe5 Nxe5 17. dxe5 Qxe5 18. Nf3 Qc7 19. e5 Ne4 20. Rac1 h6 21. Bb1
+Ng5 22. Nxg5 Bxg5 23. f4 Be7 24. Qc2 Qb6+ 25. Kh1 g6 26. f5 Kh7 27. e6 fxe6 28.
+f6 1-0
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Narmontas, Tauras"]
+[Black "Rudys, Mantas"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2230"]
+[BlackElo "1657"]
+[PlyCount "101"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 O-O 13. a4 bxa4 14. Rxa4 a5
+15. Bc4 Be6 16. Qd3 Ne7 17. O-O Kh8 18. Nce3 g6 19. f4 exf4 20. Nxf4 Qb6 21.
+Kh1 Bxf4 22. Rxf4 Qxb2 23. Qd4+ Kg8 24. h3 Nc6 25. Qd1 Ne5 26. Bxe6 fxe6 27.
+Rxf8+ Rxf8 28. Qxd6 Qc1+ 29. Kh2 Qxe3 30. Qxe5 Qf4+ 31. Qxf4 Rxf4 32. Kg3 e5
+33. Rxa5 Rxe4 34. Kf3 Rc4 35. Ra3 Kg7 36. Ke3 Kf6 37. g3 Rc7 38. Ke4 Rd7 39.
+Ra6+ Kg7 40. Rc6 Re7 41. c4 Kf7 42. c5 Kg7 43. Rb6 Rc7 44. Kd5 e4 45. Re6 Rd7+
+46. Kc4 Rd3 47. c6 Rxg3 48. c7 Rg1 49. Rc6 Rc1+ 50. Kd5 Rd1+ 51. Kxe4 1-0
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Ralys, Vincas"]
+[Black "Slikas, Laurynas"]
+[Result "1/2-1/2"]
+[ECO "B86"]
+[WhiteElo "1835"]
+[BlackElo "1958"]
+[PlyCount "73"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Qf3
+Qc7 9. Qg3 Nc6 10. Be3 g6 11. h4 h5 12. O-O-O Bd7 13. f4 O-O-O 14. Rhe1 Ng4 15.
+Bg1 Nxd4 16. Bxd4 Rhe8 17. f5 gxf5 18. exf5 d5 19. Qf3 Bc5 20. Bxc5 Qxc5 21.
+Rd3 Bc6 22. fxe6 fxe6 23. Re2 Rf8 24. Qg3 e5 25. Na4 Qa5 26. Nc3 Rf1+ 27. Rd1
+Rxd1+ 28. Nxd1 Qc5 29. Nc3 Qd4 30. Rd2 Qe3 31. Qxe3 Nxe3 32. Nd1 Nxd1 33. Kxd1
+Kc7 34. Rf2 d4 35. Rf5 Kd6 36. Rf6+ Kc5 37. Rf5 1/2-1/2
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Samofalov, Artiom"]
+[Black "Silkus, Algirdas"]
+[Result "0-1"]
+[ECO "B22"]
+[BlackElo "1913"]
+[PlyCount "70"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 Qxd5 5. Nf3 Nc6 6. Bb5 cxd4 7. Bxc6+ bxc6 8.
+Qxd4 Ba6 9. Qxd5 cxd5 10. Be3 Nf6 11. Nbd2 Ng4 12. Bd4 f6 13. h3 Nh6 14. Nb3
+Nf5 15. Bc5 Nd6 16. Nfd4 Kf7 17. Nc6 Nc4 18. Bxf8 Rhxf8 19. Nc5 Rfc8 20. Nxa6
+Rxc6 21. Nb4 Rc7 22. Nd3 Rb8 23. b3 Nd6 24. Rc1 Rbc8 25. O-O Rxc3 26. Rxc3 Rxc3
+27. Nb4 a5 28. Na6 Ke7 29. g3 Rc6 30. Nb8 Rb6 31. Rc1 Rxb8 32. Rc7+ Kf8 33. Rc6
+Rd8 34. Ra6 d4 35. Kf1 d3 0-1
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Stankevic, Robertas"]
+[Black "Klastaitis, Benas"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1938"]
+[PlyCount "46"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Be2 g6 5. c4 Nb6 6. Be3 Bg7 7. Na3 O-O 8.
+Nc2 Bf5 9. Nf3 c6 10. Qd2 N8d7 11. O-O-O Qc7 12. h4 c5 13. Bf4 e5 14. dxe5 Nxe5
+15. Bxe5 Bxe5 16. Nxe5 Qxe5 17. f4 Qe6 18. Bf3 Nxc4 19. Qc3 Bxc2 20. Rde1 Qf5
+21. Qxc4 Bd3 22. Qa4 b5 23. g4 Qf6 0-1
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.30"]
+[Round "5"]
+[White "Vasylius, Kestutis"]
+[Black "Garnelis, Julius"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[WhiteElo "2070"]
+[BlackElo "2141"]
+[PlyCount "69"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 5. Bb5 dxe4 6. Nxc6 Qxd1+ 7. Kxd1 a6
+8. Nxe7+ Kxe7 9. Bc4 Bg4+ 10. Ke1 Be6 11. Nd2 f5 12. b3 Nf6 13. Ke2 b5 14. Ba3+
+Kf7 15. Bxe6+ Kxe6 16. Bxf8 Rhxf8 17. c4 bxc4 18. bxc4 Rab8 19. Rab1 Rfc8 20.
+Rb3 Rxb3 21. axb3 Nd7 22. Ra1 Rc6 23. f3 exf3+ 24. Nxf3 Rb6 25. Ra5 Kd6 26.
+Rd5+ Kc7 27. Nd4 g6 28. Kd3 Rd6 29. Ra5 Nb8 30. Kc3 Rxd4 31. Rc5+ Nc6 32. Rxc6+
+Kxc6 33. Kxd4 a5 34. g3 Kd6 35. Kd3 1/2-1/2
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.31"]
+[Round "6"]
+[White "Balciunas, Ignas"]
+[Black "Gercas, Arnas"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[PlyCount "76"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 O-O 13. Bd3 Be6 14. Nce3 Ne7
+15. Qc2 Bxd5 16. Nxd5 Nxd5 17. exd5 g6 18. O-O f5 19. a4 Qb6 20. axb5 axb5 21.
+Qb3 Rxa1 22. Rxa1 Rb8 23. Qb4 Bd8 24. g3 Bc7 25. b3 Qb7 26. c4 bxc4 27. Qxb7
+Rxb7 28. Bxc4 Bb6 29. Ra8+ Kg7 30. Kf1 Ra7 31. Rxa7+ Bxa7 32. Ke2 Bc5 33. f3
+Kf6 34. h3 h6 35. Bb5 e4 36. f4 g5 37. Bd7 gxf4 38. gxf4 Bb4 1/2-1/2
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.31"]
+[Round "6"]
+[White "Garnelis, Julius"]
+[Black "Klimciauskas, Domantas"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2141"]
+[BlackElo "2138"]
+[PlyCount "134"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 Nf6 6. Bb5+ Nc6 7. O-O Be7 8.
+dxc5 Bxc5 9. Re1+ Ne4 10. Be3 O-O 11. Bxc5 Nxc5 12. Nd4 Qb6 13. Bxc6 bxc6 14.
+b4 Ne4 15. f3 Nd6 16. Nd2 Nb5 17. N2b3 Nxc3 18. Qc2 Nb5 19. Qc5 Qxc5 20. bxc5
+Nxd4 21. Nxd4 Bd7 22. Re7 Rfd8 23. Rb1 Kf8 24. Re3 Rdb8 25. Rxb8+ Rxb8 26. Rb3
+Rxb3 27. axb3 a5 28. Kf2 f5 29. f4 Kf7 30. Ke3 Ke7 31. Nf3 Kf6 32. Kd4 h6 33.
+g3 Be8 34. Ne5 Ke6 35. Kc3 Kf6 36. Kd4 Ke6 37. Kd3 Kf6 38. Kc3 Ke6 39. Nf3 Bd7
+40. Nd4+ Kf6 41. Nf3 g5 42. Ne5 Be8 43. Kd4 Ke6 44. Ke3 Kf6 45. Kd3 Ke6 46. Kd4
+Kf6 47. Ke3 Ke6 48. Nf3 Kf6 49. Ne5 Ke6 50. Kd3 Kf6 51. Kc3 Ke6 52. Nf3 Kf6 53.
+Kb2 gxf4 54. gxf4 Bd7 55. Ka3 Ke6 56. Nd4+ Kf6 57. Nf3 Ke6 58. Nd4+ Kf6 59. Ka4
+Kg6 60. Nf3 Kh5 61. h3 d4 62. b4 axb4 63. Kxb4 d3 64. Kc3 Be6 65. Nd4 Bd7 66.
+Nf3 Be6 67. Nd4 Bd7 1/2-1/2
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.31"]
+[Round "6"]
+[White "Klastaitis, Benas"]
+[Black "Tiuninas, Algirdas"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[BlackElo "1965"]
+[PlyCount "151"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Bc4 Bg7 5. Nf3 e6 6. d3 Nge7 7. O-O d5 8. Bb3
+O-O 9. a3 a6 10. Ne2 b5 11. c3 Rb8 12. Be3 d4 13. cxd4 Nxd4 14. Nexd4 cxd4 15.
+Bf2 Qb6 16. g4 a5 17. e5 Rd8 18. Bh4 Rd7 19. Bxe7 Rxe7 20. g5 Bb7 21. h4 h5 22.
+gxh6 Bxh6 23. Ng5 Bxg5 24. hxg5 a4 25. Ba2 Kg7 26. Rf2 Rh8 27. Rh2 Qc6 28. Rc1
+Qh1+ 29. Rxh1 Rxh1+ 30. Kf2 Rxd1 31. Rxd1 Rc7 32. Bb1 Bd5 33. Re1 Rc8 34. Kg3
+Kf8 35. Kf2 Ke7 36. Rg1 Kd7 37. Re1 Rc6 38. Ke2 Rc8 39. Kf2 b4 40. axb4 Rb8 41.
+Bc2 Rxb4 42. Re2 Kc6 43. Bd1 Kb5 44. Ke1 Ka5 45. Rd2 Rb8 46. Rh2 Rb7 47. Rd2
+Rb8 48. Rh2 Rc8 49. Kd2 Kb4 50. Rf2 Rh8 51. Kc1 Rh1 52. Kd2 Bb3 53. Bc2 Rh4 54.
+Bb1 Rh1 55. Bc2 Ra1 56. Re2 Ra2 57. Kc1 Ra1+ 58. Kd2 Rf1 59. Bxb3 Kxb3 60. Re4
+Kxb2 61. Rxd4 a3 62. Rb4+ Ka1 63. Kc2 a2 64. Kc3 Rb1 65. Ra4 Rb8 66. Kc2 Rb7
+67. Rd4 Rc7+ 68. Rc4 Rb7 69. Ra4 Rb2+ 70. Kc1 Rf2 71. Rb4 Rf1+ 72. Kc2 Rb1 73.
+Ra4 Rb7 74. Rc4 Rb6 75. Ra4 Rc6+ 76. Rc4 1/2-1/2
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.31"]
+[Round "6"]
+[White "Liatukas, Mikas"]
+[Black "Dubovikas, Tomas"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2209"]
+[BlackElo "2192"]
+[PlyCount "74"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Qc7 6. Nc3 a6 7. Be2 Nf6 8.
+O-O b5 9. Bf3 Nc6 10. Nd5 exd5 11. exd5 Ne5 12. Re1 d6 13. Bf4 Nfd7 14. c4 bxc4
+15. Nd4 Bb7 16. Rc1 Be7 17. Nf5 Bf6 18. g4 O-O-O 19. g5 Nxf3+ 20. Qxf3 Be5 21.
+Rxc4 Qxc4 22. Rc1 Qxc1+ 23. Bxc1 Rhe8 24. Bd2 Kb8 25. Bb4 Nc5 26. Ne3 Nd3 27.
+Ba5 Rc8 28. b3 Rc1+ 29. Nf1 Nf4 30. Bd2 Bxd5 31. Qe3 Ne2+ 32. Qxe2 Bxh2+ 33.
+Kxh2 Rxe2 34. Bxc1 Re1 35. Ne3 Rxc1 36. Nxd5 Rc5 37. Nb4 Rb5 0-1
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.31"]
+[Round "6"]
+[White "Macenis, Andrius"]
+[Black "Vasylius, Kestutis"]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[WhiteElo "2078"]
+[BlackElo "2070"]
+[PlyCount "34"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Ne4 Bb7 9. Be2 c5 10. O-O Qc7 11. Nd6+ Bxd6 12. exd6 Qc6 13. f3 c4 14. Qd4 O-O
+15. Bxc4 Qxd6 16. Bb3 Qb6 17. Qxb6 Nxb6 1/2-1/2
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.31"]
+[Round "6"]
+[White "Narmontas, Matas"]
+[Black "Alekberovas, Anaras"]
+[Result "1-0"]
+[ECO "B88"]
+[WhiteElo "2367"]
+[BlackElo "2069"]
+[PlyCount "55"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8. f3
+a6 9. Bb3 Qc7 10. Qe2 O-O 11. g4 Nd7 12. O-O-O Nc5 13. h4 b5 14. Kb1 Bd7 15.
+Qg2 Nxd4 16. Bxd4 b4 17. Ne2 a5 18. g5 Bb5 19. g6 hxg6 20. h5 Nxb3 21. hxg6
+fxg6 22. Qxg6 Bf6 23. Qh7+ Kf7 24. Bxf6 Kxf6 25. Qh4+ Kf7 26. Qh5+ Kg8 27. Rdg1
+Nd2+ 28. Ka1 1-0
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.31"]
+[Round "6"]
+[White "Rudys, Mantas"]
+[Black "Brovka, Laurynas"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "1657"]
+[PlyCount "39"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. c3 fxe4 12. Bxb5 axb5 13. Nxb5 Qa5 14. b4
+Qa4 15. Nbc7+ Kd8 16. Nxa8 Qxa8 17. O-O Bb7 18. Qg4 Nb8 19. Qg5+ Kd7 20. Nb6+
+1-0
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.31"]
+[Round "6"]
+[White "Silkus, Algirdas"]
+[Black "Kasperavicius, Jokubas"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1913"]
+[BlackElo "1790"]
+[PlyCount "80"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. a4 Bg4 7. Be2 e6 8. Ne5
+Bxe2 9. Nxe2 Nc6 10. Bf4 Nxe5 11. Bxe5 Qc6 12. O-O Bd6 13. Bxd6 cxd6 14. c3 O-O
+15. Qc2 Rac8 16. Rae1 b5 17. axb5 axb5 18. Nf4 b4 19. Re3 Nd5 20. Rf3 h6 21.
+Nh5 f5 22. Rg3 Rf7 23. Qe2 Qd7 24. c4 Nb6 25. b3 Kf8 26. Nf4 Rf6 27. Nh5 Rf7
+28. Re3 Re8 29. Re1 Rfe7 30. Nf4 Kf7 31. Qh5+ Kg8 32. Nd3 Qb7 33. Qg6 e5 34.
+dxe5 f4 35. Nxf4 Rxe5 36. Rxe5 Rxe5 37. Rxe5 dxe5 38. Qe8+ Kh7 39. Qxe5 Qd7 40.
+Qe4+ g6 1-0
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.01.31"]
+[Round "6"]
+[White "Zelannikovas, Viktoras"]
+[Black "Kytra, Jokubas"]
+[Result "0-1"]
+[ECO "B24"]
+[BlackElo "1723"]
+[PlyCount "72"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Ne2 d6 3. Nbc3 Nf6 4. g3 Nc6 5. Bg2 e6 6. d3 Be7 7. Bg5 O-O 8. Qd2
+a6 9. h3 Bd7 10. Nd1 Qc7 11. c3 d5 12. Bxf6 Bxf6 13. O-O dxe4 14. dxe4 Rad8 15.
+Ne3 Ne5 16. Qc2 Bb5 17. c4 Bc6 18. Rad1 b5 19. b3 Bb7 20. f4 Nc6 21. e5 Be7 22.
+Qb2 Qb6 23. g4 Nd4 24. f5 Bxg2 25. Kxg2 Qc6+ 26. Kh2 Nf3+ 27. Kg3 Bh4+ 28. Kf4
+g5+ 29. fxg6 fxg6+ 30. Nf5 g5+ 31. Ke3 exf5 32. gxf5 Rxd1 33. Rxd1 Nxe5 34. Rd5
+Bf2+ 35. Kd2 Nf3+ 36. Kd1 Qf6 0-1
+
+[Event "LTU-ch U20"]
+[Site "Vilnius"]
+[Date "2008.02.01"]
+[Round "7"]
+[White "Alekberovas, Anaras"]
+[Black "Liatukas, Mikas"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2069"]
+[BlackElo "2209"]
+[PlyCount "93"]
+[EventDate "2008.01.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "LTU"]

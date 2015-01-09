@@ -1,0 +1,600 @@
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bf4 c5 5. dxc5 Nc6 6. Nbd2 Nxc5 7. e3 g6 8.
+h4 Bg7 9. Bb5 Qb6 10. Qe2 Bg4 11. c4 a6 12. Bxc6+ bxc6 13. cxd5 cxd5 14. e4
+dxe4 15. Nxe4 Qb4+ 16. Kf1 Qxe4 17. Be3 Nd3 18. Rd1 Nxb2 19. Bd4 Bxf3 20. gxf3
+Qxe2+ 21. Kxe2 O-O 22. Bxg7 Kxg7 23. Rd4 Rfd8 24. Rb4 Nd3 25. Re4 Rac8 26. Rxe7
+Nf4+ 0-1
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "3"]
+[White "Sadorra, Julio Catalino"]
+[Black "Sukandar, Irine Kharisma"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2470"]
+[BlackElo "2262"]
+[PlyCount "83"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c6 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 Be7 8.
+Bd3 g6 9. Qc2 Nh5 10. Bxe7 Qxe7 11. O-O-O Ndf6 12. h3 Be6 13. g4 Ng7 14. Ne5
+Nd7 15. e4 Nxe5 16. dxe5 d4 17. Ne2 O-O-O 18. f4 Bxa2 19. b4 Be6 20. f5 Qxb4
+21. fxe6 Nxe6 22. Qc4 Qa5 23. Rhf1 Rhf8 24. Rf6 Qxe5 25. Rdf1 Ng5 26. Qc2 Rd6
+27. Rxd6 Qxd6 28. Qa4 Qc5+ 29. Kd2 Ne6 30. h4 Kb8 31. Ra1 g5 32. h5 Rd8 33. Qa5
+a6 34. Qxc5 Nxc5 35. Rf1 Rd7 36. Rf5 Ne6 37. Bc4 d3 38. Nc1 Nd4 39. Rf6 c5 40.
+Nxd3 Nc6 41. Bd5 c4 42. Nc5 1-0
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "3"]
+[White "Sagar, Shah"]
+[Black "Senador, Emmanuel"]
+[Result "0-1"]
+[ECO "D07"]
+[WhiteElo "2218"]
+[BlackElo "2390"]
+[PlyCount "92"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. a3 Nc6 5. e3 Nge7 6. b4 Be6 7. Nf3 Nf5 8. Be2
+dxe3 9. Qxd8+ Rxd8 10. fxe3 h6 11. Bd2 g5 12. b5 Nb8 13. Nc3 Bc5 14. Ne4 Bxe3
+15. Bb4 Kd7 16. Nc5+ Bxc5 17. Bxc5 b6 18. Bf2 Kc8 19. g4 Ne7 20. Nd4 Nd7 21.
+Bg3 Nc5 22. Nxe6 fxe6 23. O-O Ne4 24. a4 Rhf8 25. Rxf8 Rxf8 26. Be1 Rf4 27. a5
+Ng6 28. axb6 axb6 29. Ra8+ Kd7 30. Rg8 Nxe5 31. h3 Nf3+ 32. Bxf3 Rxf3 33. Kg2
+Rb3 34. Rg6 Kd6 35. h4 Rb1 36. hxg5 hxg5 37. Bg3+ Nxg3 38. Kxg3 Rb3+ 39. Kf2
+Rc3 40. Rxg5 Rxc4 41. Ke3 Rc5 42. Rxc5 bxc5 43. Ke4 Ke7 44. Kd3 e5 45. Ke4 c4
+46. Ke3 Kf6 0-1
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "3"]
+[White "Shen, Siyuan"]
+[Black "Yeap, Eng Cheam"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2316"]
+[BlackElo "2055"]
+[PlyCount "40"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c6 4. Nd2 Qb6 5. Rb1 Bf5 6. Ngf3 h6 7. b4 Nbd7 8. Be2
+e6 9. O-O Be7 10. Rb3 O-O 11. c4 dxc4 12. Nxc4 Qd8 13. b5 cxb5 14. Rxb5 Be4 15.
+Bg3 a6 16. Rb2 b5 17. Ncd2 Bh7 18. Qb3 Kh8 19. Bd3 Nc5 20. dxc5 Qxd3 1/2-1/2
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "3"]
+[White "Udani, Ian"]
+[Black "Amru, Muhd Tariq"]
+[Result "1-0"]
+[ECO "D93"]
+[BlackElo "2022"]
+[PlyCount "105"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c5 7. dxc5 Qa5 8. Rc1
+dxc4 9. Qa4 Qxc5 10. Bxc4 Bd7 11. Qb3 Nc6 12. Qb5 Qxb5 13. Bxb5 a6 14. Be2 Bf5
+15. O-O Ne4 16. Nxe4 Bxe4 17. Nd2 Bf5 18. g4 Be6 19. b3 Ne5 20. Nc4 Nxc4 21.
+Bxc4 Bxg4 22. Bd5 Rad8 23. Bxb7 Rd2 24. f3 Bh3 25. Rf2 Rfd8 26. Rxd2 Rxd2 27.
+Bc8 e5 28. Bg3 Be6 29. Bxe6 fxe6 30. a4 Rb2 31. Rc8+ Kf7 32. Rc7+ Kf8 33. Rb7
+Bh6 34. Bf2 Rb1+ 35. Kg2 Rb2 36. Kg3 Re2 37. f4 exf4+ 38. exf4 Bxf4+ 39. Kf3
+Rc2 40. h4 e5 41. b4 e4+ 42. Kxf4 Rxf2+ 43. Kxe4 Rh2 44. Rxh7 Kg8 45. Rb7 Rxh4+
+46. Ke5 a5 47. b5 Rxa4 48. b6 Rb4 49. Kd6 g5 50. Kc5 Rb1 51. Ra7 Kf8 52. b7
+Rc1+ 53. Kd4 1-0
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "4"]
+[White "Bakri, Alia Anin Azwa"]
+[Black "Lee, Hai Wen"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "1934"]
+[PlyCount "112"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. e3 b6 5. cxd5 Nxd5 6. Nxd5 Qxd5 7. Nf3 Bb7 8.
+Be2 Bd6 9. O-O Nd7 10. b3 Nf6 11. h3 g5 12. Ne1 O-O-O 13. Bb2 h5 14. Bc4 Qf5
+15. Bd3 Be4 16. f3 Bxd3 17. Qxd3 Qxd3 18. Nxd3 Nd5 19. Kf2 h4 20. e4 Nf4 21.
+Nxf4 Bxf4 22. Rfd1 Rhg8 23. Bc1 Bg3+ 24. Ke2 f5 25. Be3 g4 26. Rd2 f4 27. Bg1
+gxh3 28. gxh3 Rg6 29. Kf1 Rdg8 30. Rg2 Rg5 31. Rd1 Rd8 32. Rgd2 Rdg8 33. Rg2
+Kb7 34. Rc1 R5g7 35. a4 Rg5 36. b4 Rc8 37. Rb1 c6 38. Rc1 Rgg8 39. Rgc2 Rge8
+40. b5 cxb5 41. Rxc8 Rxc8 42. Rxc8 Kxc8 43. axb5 Kb7 44. Ke2 a5 45. bxa6+ Kxa6
+46. Kd3 Be1 47. Kc4 Ka5 48. Kb3 Kb5 49. d5 e5 50. d6 Kc6 51. d7 Kxd7 52. Bxb6
+Kc6 53. Ba7 Kb7 54. Bc5 Kc6 55. Kc4 Bg3 56. Be7 Bf2 1/2-1/2
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "4"]
+[White "Bancod, Ronald"]
+[Black "Xu Tong"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "2375"]
+[BlackElo "2249"]
+[PlyCount "147"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 e6 4. Nbd2 Be7 5. e3 O-O 6. Bd3 h6 7. Bf4 c5 8. c3
+Nc6 9. Qe2 Qb6 10. O-O-O Qa5 11. Bb1 cxd4 12. exd4 b5 13. Ne5 Bb7 14. Nb3 Qb6
+15. Qd3 Rfd8 16. Rhe1 Nb8 17. Re3 Ne4 18. f3 Nf6 19. Rde1 Bc8 20. g4 a5 21. h4
+Kf8 22. g5 hxg5 23. hxg5 Ng8 24. Rh1 Bd6 25. Rh8 Nc6 26. Nxc6 Qxc6 27. Bxd6+
+Qxd6 28. Qh7 Ke7 29. Re5 Bd7 30. Qxg7 Rf8 31. Bh7 Qb8 32. Nc5 Qe8 33. f4 Kd6
+34. Bxg8 Rxg8 35. Rxg8 Qxg8 36. Nb7+ Kc7 37. Qxg8 Rxg8 38. Nxa5 Ra8 39. Nb3
+Rxa2 40. f5 Kd6 41. Nc5 Ra1+ 42. Kc2 Rg1 43. Kb3 Rg2 44. f6 Rd2 45. Na6 Rg2 46.
+Nb4 Bc6 47. Nd3 Bd7 48. Kb4 Rg3 49. Ne1 Bc6 50. Nc2 Rg2 51. Kb3 Bd7 52. Ne3 Rg3
+53. Kb4 Rg1 54. b3 Bc6 55. Nc2 Rg2 56. Na3 Rg3 57. Nb1 Rg1 58. Nd2 Rg3 59. Nf1
+Rg1 60. Ne3 Rg3 61. Ka3 Rg1 62. b4 Bd7 63. Kb2 Bc6 64. Kc2 Kd7 65. Kd2 Kd6 66.
+Ke2 Bd7 67. Nf1 Rg2+ 68. Kf3 Rc2 69. Re3 Rc1 70. Nh2 e5 71. dxe5+ Ke6 72. Kf4
+Rg1 73. Nf3 Rf1 74. Re1 1-0
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "4"]
+[White "Capel, Evan Timothy"]
+[Black "Tan, Justin"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2005"]
+[BlackElo "2281"]
+[PlyCount "119"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 Bf5 6. O-O Nbd7 7. Nbd2 Qc7 8.
+Nxc4 Nb6 9. Bf4 Qd8 10. Nce5 Nfd5 11. e4 Nxf4 12. exf5 Nxg2 13. Ng5 Qd5 14.
+Ngxf7 Rg8 15. Ng5 O-O-O 16. Qg4 Qxd4 17. Qxd4 Rxd4 18. Kxg2 Rd5 19. f4 g6 20.
+fxg6 hxg6 21. Rad1 Rxd1 22. Rxd1 Nd5 23. Kf3 Bg7 24. Re1 Bf6 25. Kg4 Nb4 26. a3
+Nc2 27. Re4 c5 28. Ngf3 Kc7 29. h4 Kd6 30. Re2 Nd4 31. Nxd4 cxd4 32. Nd3 Kd5
+33. Kf3 Rc8 34. Nb4+ Kd6 35. Rd2 a5 36. Nc2 Kd5 37. Ne3+ Kd6 38. Ke4 Rc1 39.
+Nc2 Kc5 40. g4 Bxh4 41. Nxd4 Rc4 42. b3 Rc3 43. Rc2 Rxc2 44. Nxc2 Bf6 45. a4 e6
+46. Kd3 Bb2 47. Ne3 Bc1 48. Ng2 Bb2 49. Nh4 e5 50. fxe5 Bxe5 51. Nxg6 Bf6 52.
+Nf4 Bh4 53. g5 Bxg5 54. Ne6+ Kb4 55. Kc2 b5 56. axb5 Kxb5 57. Nd4+ Kb4 58. Nc6+
+Kb5 59. Nd4+ Kb4 60. Ne6 1/2-1/2
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "4"]
+[White "Draup, Hj Abang Azman"]
+[Black "Haslindah, Ruslan"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "1708"]
+[PlyCount "97"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c6 2. c4 d5 3. Nc3 dxc4 4. Nf3 Nd7 5. Bf4 Ngf6 6. e4 Nb6 7. Be2 e6 8. a3
+Be7 9. O-O O-O 10. Ne5 Bd6 11. Qd2 Qc7 12. Bg3 Rd8 13. Qe3 Nfd7 14. f4 c5 15.
+Nb5 cxd4 16. Nxc7 dxe3 17. Nxa8 Bxe5 18. fxe5 Nxa8 19. Rfd1 b5 20. Bf4 Re8 21.
+Rd6 Nab6 22. Bxe3 Nxe5 23. Rad1 h6 24. Rd8 Rxd8 25. Rxd8+ Kh7 26. Bxb6 Bb7 27.
+Bxa7 Bxe4 28. Kf2 Kg6 29. Bd4 Nc6 30. Rd6 Bd5 31. Bc3 f6 32. Bf3 Ne7 33. Bxd5
+exd5 34. Rd7 Kf7 35. Ke3 Ke6 36. Rxe7+ Kxe7 37. Kd4 Kd6 38. Bb4+ Kc6 39. Bf8 g6
+40. Bxh6 Kd6 41. Bg7 f5 42. Be5+ Kc6 43. Bf4 b4 44. axb4 Kb5 45. Kxd5 Kxb4 46.
+Ke6 Kb3 47. Be5 c3 48. bxc3 f4 49. Kf6 1-0
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "4"]
+[White "Irwanto, Sadikin"]
+[Black "Kojima, Shinya"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2453"]
+[BlackElo "2253"]
+[PlyCount "87"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Bd3
+dxc4 9. Bxc4 g6 10. O-O Bg7 11. b4 O-O 12. Rc1 Qe7 13. Qb3 b6 14. Rfd1 Bb7 15.
+Be2 Rab8 16. a4 Rfd8 17. b5 c5 18. d5 exd5 19. Nxd5 Bxd5 20. Rxd5 Nf6 21. Rxd8+
+Rxd8 22. Bc4 Ne4 23. Rd1 Rxd1+ 24. Qxd1 Qf6 25. h3 Qb2 26. Bxf7+ Kh7 27. Qf1
+Bf6 28. Bd5 Nc3 29. Bc4 Qc2 30. h4 h5 31. g3 Qxa4 32. Qd3 Qd1+ 33. Qxd1 Nxd1
+34. Kf1 Nb2 35. Bd5 Nd3 36. Ke2 Nb4 37. Bc4 Kg7 38. Nd2 Bd8 39. Ne4 Bc7 40. Kd2
+Bb8 41. f4 Bc7 42. Ng5 Kf6 43. e4 Bd8 44. e5+ 1-0
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "4"]
+[White "Jones, Brian"]
+[Black "Karavade, Eesha"]
+[Result "1/2-1/2"]
+[ECO "D92"]
+[WhiteElo "2087"]
+[BlackElo "2297"]
+[PlyCount "27"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 dxc4 7. e4 Bg4 8.
+Bxc4 Nh5 9. Be3 e5 10. dxe5 Qxd1+ 11. Rxd1 Nc6 12. Be2 Nxe5 13. Nxe5 Bxe2 14.
+Nxe2 1/2-1/2
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "4"]
+[White "Li Shilong"]
+[Black "Li, Chao B"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2511"]
+[BlackElo "2590"]
+[PlyCount "62"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Qd2 O-O 9. Rc1 Qa5 10. Nf3 Rd8 11. d5 e6 12. c4 Qxd2+ 13. Nxd2 Na6 14. f3 b6
+15. Nb1 f5 16. Nc3 Re8 17. Kd2 Bb7 18. Bd3 Nb4 19. a3 Nxd3 20. Kxd3 Rad8 21.
+Rhe1 Ba6 22. Bg5 Rd7 23. a4 fxe4+ 24. fxe4 Rf8 25. Rf1 Re8 26. Rce1 h6 27. Bd2
+Ra8 28. Rb1 Re7 29. Rbe1 Rd7 30. Rb1 Re7 31. Rbe1 Rd7 1/2-1/2
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "4"]
+[White "Yu, Jeffrey Hong Cheung"]
+[Black "Erowan, Masrin"]
+[Result "1-0"]
+[ECO "D26"]
+[BlackElo "2020"]
+[PlyCount "87"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O Nc6 7. Nc3 a6 8. d5
+exd5 9. Nxd5 b5 10. Nxf6+ Qxf6 11. Bd5 Rb8 12. Bd2 Ne5 13. Nxe5 Qxe5 14. Bc3
+Qc7 15. Qh5 Qe7 16. Rad1 Bb7 17. Qf3 Bxd5 18. Rxd5 f6 19. Ba5 Qe6 20. Rfd1 Be7
+21. Qh5+ g6 22. Qh6 Kf7 23. b3 Rb7 24. Qh4 Bf8 25. Qf4 Be7 26. Qh6 Bf8 27. Qf4
+Rg8 28. e4 Rg7 29. Bc3 Be7 30. f3 Kg8 31. Kh1 Rf7 32. Qd2 f5 33. exf5 Rxf5 34.
+Qh6 Bf8 35. Rd8 Rff7 36. Qd2 Qe7 37. Qf2 Rf5 38. Be1 Re5 39. Qd2 Re2 40. Qd5+
+Qf7 41. Qxc5 Rbe7 42. Bc3 Qe6 43. Qd4 Kf7 44. Qh8 1-0
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.19"]
+[Round "4"]
+[White "Zhang, Ziyang"]
+[Black "Hasan, Mehdi"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2441"]
+[BlackElo "2264"]
+[PlyCount "145"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 a6 6. O-O b5 7. Bb3 c5 8. a4 b4
+9. e4 Bb7 10. e5 Nd5 11. Nbd2 cxd4 12. Nc4 Nd7 13. Bg5 Qb8 14. a5 h6 15. Bh4
+Bc5 16. Ba4 Qc7 17. Rc1 O-O 18. Nd6 Bc6 19. Bxc6 Qxc6 20. Nxd4 Qc7 21. Ne4 Rac8
+22. Nb3 Qa7 23. Nbxc5 Nxc5 24. Qd4 Nf4 25. Nf6+ gxf6 26. Qxf4 Kh7 27. Bxf6 Qb7
+28. Qe3 Rg8 29. g3 Qe4 30. Be7 Qxe3 31. fxe3 Nd3 32. Rxf7+ Kg6 33. Rcf1 Rc2 34.
+g4 Rg7 35. R1f6+ Kh7 36. Rxg7+ Kxg7 37. Bf8+ Kg8 38. Bxh6 Nxe5 39. g5 Kh7 40.
+b3 Rb2 41. Bf8 Rxb3 42. Rxe6 Rxe3 43. Rh6+ Kg8 44. Bxb4 Re4 45. Bc3 Rg4+ 46.
+Kf2 Rxg5 47. Bxe5 Rxe5 48. Rxa6 Kg7 49. Kg3 Rb5 50. Kg4 Rc5 51. h4 Re5 52. h5
+Kh7 53. h6 Rd5 54. Kf4 Rb5 55. Ke4 Rc5 56. Kd4 Rh5 57. Kc4 Rf5 58. Kb4 Rf4+ 59.
+Kc5 Rf5+ 60. Kc4 Rf4+ 61. Kd5 Rf5+ 62. Ke6 Rb5 63. Kd7 Rf5 64. Ra8 Kxh6 65. a6
+Kg7 66. Re8 Ra5 67. Re6 Kf7 68. Rb6 Kf8 69. Kc7 Re5 70. a7 Re7+ 71. Kb8 Re8+
+72. Kb7 Re7+ 73. Ka6 1-0
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.20"]
+[Round "5"]
+[White "Balendran, S."]
+[Black "Chua, Aaron"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1906"]
+[PlyCount "46"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Bd6 4. Bxd6 cxd6 5. Qg4 g6 6. Qg3 Qb6 7. b3 Nf6 8. Bd3
+Na6 9. c3 Bd7 10. Nd2 Rc8 11. Ne2 Ke7 12. O-O h5 13. Qg5 h4 14. e4 Rh5 15. Qe3
+g5 16. exd5 Nxd5 17. Qf3 Rh6 18. Ne4 Rg8 19. h3 f5 20. c4 g4 21. c5 gxf3 22.
+cxb6 fxe2 23. Bxe2 fxe4 0-1
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.20"]
+[Round "5"]
+[White "Gibbons, Robert"]
+[Black "Wong, Hao"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "2080"]
+[PlyCount "46"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 e6 4. Bg5 d5 5. Nbd2 Nc6 6. e3 a6 7. Bd3 b6 8. O-O
+Bb7 9. Bh4 Qc7 10. Bg3 Bd6 11. Bxd6 Qxd6 12. Rc1 c4 13. Bb1 h6 14. Re1 O-O-O
+15. e4 Nd7 16. e5 Qe7 17. b3 Na5 18. Qe2 g5 19. Red1 b5 20. Bc2 Bc6 21. b4 Nb7
+22. Ra1 Kc7 23. Nf1 g4 1/2-1/2
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.20"]
+[Round "5"]
+[White "Jia, Haoxiang"]
+[Black "Wan, Yunguo"]
+[Result "1/2-1/2"]
+[ECO "D77"]
+[WhiteElo "2303"]
+[BlackElo "2471"]
+[PlyCount "81"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d5 6. O-O dxc4 7. Na3 c3 8. bxc3
+c5 9. e3 Nc6 10. Qe2 Bf5 11. Rd1 Be4 12. Bf1 Qa5 13. Bb2 Rfd8 14. Nd2 cxd4 15.
+Nxe4 Nxe4 16. cxd4 Rac8 17. Nc4 Qa4 18. d5 Na5 19. Bxg7 Kxg7 20. Qb2+ Nf6 21.
+Nxa5 Qxa5 22. Bg2 Rc7 23. Rac1 Rdc8 24. Rxc7 Rxc7 25. d6 Rd7 26. Bxb7 Qc5 27.
+Bf3 Rxd6 28. Rxd6 Qxd6 29. Qd4 Qa6 30. g4 h6 31. h4 Qa5 32. Kg2 e5 33. Qc4 Qb6
+34. Bd1 Qb7+ 35. f3 Nd5 36. Qe4 Qb2+ 37. Kg3 Qd2 38. Qxe5+ Kh7 39. Qe8 Qe1+ 40.
+Kh2 Qf2+ 41. Kh1 1/2-1/2
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.20"]
+[Round "5"]
+[White "Karavade, Eesha"]
+[Black "Ismail, Ahmad"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2297"]
+[BlackElo "2111"]
+[PlyCount "65"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. e3 Bf5 5. Nc3 e6 6. Be2 Bd6 7. Nh4 Bg6 8. Nxg6
+hxg6 9. h3 Nbd7 10. Qc2 e5 11. cxd5 cxd5 12. dxe5 Nxe5 13. Qb3 O-O 14. O-O g5
+15. Nxd5 g4 16. Nxf6+ Qxf6 17. hxg4 Qh4 18. g3 Qh3 19. Qd5 Rad8 20. Qg2 Qh7 21.
+e4 Bc5 22. Bf4 Nd3 23. Bxd3 Rxd3 24. Rac1 b6 25. Rfd1 Rfd8 26. Rxd3 Rxd3 27. e5
+Rd8 28. Qf3 Qh3 29. Rd1 Re8 30. Rd7 f6 31. b4 Be7 32. Qd5+ Kf8 33. exf6 1-0
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.20"]
+[Round "5"]
+[White "Kojima, Shinya"]
+[Black "Garma, Chito"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2253"]
+[BlackElo "2346"]
+[PlyCount "134"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 e6 2. c4 d5 3. d4 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. Nc3
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Bf4 Be6 12. Nxe6 fxe6 13. e4 d4 14. e5 Ne8 15.
+Nb5 g5 16. Bc1 Qb6 17. a4 a6 18. Bxc6 bxc6 19. Na3 Qc5 20. Re1 Ng7 21. Qd3 Rf5
+22. Nc4 Raf8 23. f4 gxf4 24. Bxf4 Bg5 25. Nd6 Rxf4 26. gxf4 Bxf4 27. Nc4 Rf5
+28. Re4 Qd5 29. Qxd4 c5 30. Qxd5 exd5 31. Rxf4 Rxf4 32. Nb6 Rg4+ 33. Kf2 Rf4+
+34. Kg2 Rd4 35. Rf1 c4 36. Rf6 Rd2+ 37. Rf2 Rd3 38. Rf6 Nh5 39. Rxh6 Nf4+ 40.
+Kf2 Rb3 41. a5 Nd3+ 42. Kf1 Rxb2 43. Nxd5 Rb5 44. Ne3 c3 45. Rxa6 Rb1+ 46. Ke2
+Nxe5 47. Ra8+ Kf7 48. Rc8 Rb2+ 49. Kf1 Rxh2 50. a6 Ra2 51. Rc7+ Kg6 52. a7 Kg5
+53. Rxc3 Rxa7 54. Rc5 Kf4 55. Nd5+ Kg3 56. Rc3+ Nf3 57. Ke2 Ra2+ 58. Ke3 Ra5
+59. Ke4 Ra4+ 60. Kf5 Ra5 61. Ke4 Ra4+ 62. Kf5 Rd4 63. Ke6 Re4+ 64. Kd6 Kf2 65.
+Rc2+ Kg3 66. Rc3 Kf2 67. Rc2+ Kg3 1/2-1/2
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.20"]
+[Round "5"]
+[White "Lee, Hai Wen"]
+[Black "Pereira, Johnharry"]
+[Result "0-1"]
+[ECO "D00"]
+[BlackElo "1942"]
+[PlyCount "84"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. e3 e6 3. Bd3 c5 4. c3 d5 5. f4 b6 6. Nf3 Be7 7. O-O O-O 8. Nbd2
+Bb7 9. b3 Ne4 10. Bb2 f5 11. Qe2 Nd7 12. Ne5 Nxe5 13. dxe5 Nxd2 14. Qxd2 Qc7
+15. Be2 Rae8 16. Qc2 c4 17. b4 a5 18. a3 b5 19. g4 Qc6 20. gxf5 exf5 21. Bf3 g5
+22. h3 Qc7 23. Rad1 Rf7 24. Rf2 Qb6 25. Bc1 Kf8 26. Rd4 axb4 27. axb4 gxf4 28.
+exf4 Bxb4 29. Rfd2 Bc5 30. Kh2 Bxd4 31. Rxd4 b4 32. Qd2 b3 33. Bb2 Qg6 34. Ba3+
+Kg8 35. Bxd5 Bxd5 36. Rxd5 Rfe7 37. Rd6 Qh5 38. Rc6 Qf3 39. Rxc4 Rg7 40. Bc5
+Qg3+ 41. Kh1 Qxh3+ 42. Qh2 Qf3+ 0-1
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.20"]
+[Round "5"]
+[White "Sadorra, Julio Catalino"]
+[Black "Goldenberg, Igor"]
+[Result "1/2-1/2"]
+[ECO "D44"]
+[WhiteElo "2470"]
+[BlackElo "2386"]
+[PlyCount "58"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. d4 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 b5 8. e5 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. g3 Bb7 12. Bg2 Qb6 13. exf6 O-O-O 14. O-O Bh6
+15. Be3 Nxf6 16. Qf3 Bg7 17. Qf4 Qc7 18. Qg5 Rhg8 19. a4 Nd5 20. Nxd5 cxd5 21.
+Bf4 Bxd4 22. Bxc7 Rxg5 23. Bxd8 Kxd8 24. axb5 Kc7 25. Rab1 Kb6 26. Rfd1 Bc5 27.
+Rdc1 Bd4 28. Rd1 Bc5 29. Rdc1 Bd4 1/2-1/2
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.20"]
+[Round "5"]
+[White "Wahono, Awam"]
+[Black "Zhang, Ziyang"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2387"]
+[BlackElo "2441"]
+[PlyCount "42"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. c3 Qb6 6. Qc1 Nh5 7. Bg3 Bg4 8. Nbd2
+e6 9. Bd3 Rc8 10. O-O Be7 11. Qb1 Nxg3 12. hxg3 Bh5 13. Nh2 Bg6 14. Ndf3 a6 15.
+Rd1 O-O 16. Bxg6 hxg6 17. Ng4 Bd6 18. Ng5 Be7 19. Nf3 Bd6 20. Ng5 Be7 21. Nf3
+Bd6 1/2-1/2
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.20"]
+[Round "5"]
+[White "Xiu, Deshun"]
+[Black "Laylo, Darwin"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "2410"]
+[BlackElo "2504"]
+[PlyCount "128"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O Bf5 8. cxd5
+Nxd5 9. Qb3 Nb6 10. Rd1 N8d7 11. Ng5 Nf6 12. e4 Bg4 13. e5 Bxe2 14. Nxe2 Nfd5
+15. Qh3 h6 16. Ne4 Qc8 17. Qh4 g5 18. Qh5 f6 19. h4 Qe8 20. Qxe8 Rfxe8 21. hxg5
+hxg5 22. Nc5 Rab8 23. Ng3 Nc7 24. Nf5 Nbd5 25. exf6 Bxf6 26. Rd3 b6 27. Ne4 Ne6
+28. Rg3 Kf7 29. Nxf6 Kxf6 30. Nh6 Rh8 31. Ng4+ Kf5 32. Bd2 Ndf4 33. Re1 Nxd4
+34. Re5+ Kg6 35. Bxf4 gxf4 36. Rd3 c5 37. Rxe7 Rbe8 38. Rxe8 Rxe8 39. Kf1 Rh8
+40. f3 Rh1+ 41. Kf2 Rb1 42. Rd2 Kg5 43. Ne5 Nf5 44. Ke2 Ng3+ 45. Kd3 Nf1 46.
+Re2 Rd1+ 47. Kc2 Ra1 48. a3 Ne3+ 49. Kb3 Rd1 50. Nc6 Rd7 51. g3 Rd3+ 52. Ka2
+fxg3 53. Ne5 Rd1 54. Rxe3 g2 55. Re4 g1=Q 56. Rg4+ Qxg4 57. fxg4 Kf4 58. Nc6
+Rd7 59. Kb3 Rc7 60. Nb8 Kxg4 61. Kc4 Kf4 62. Kb5 Ke4 63. a4 Kd5 64. b3 Kd4 0-1
+
+[Event "Kuala Lumpur op 5th"]
+[Site "Kuala Lumpur"]
+[Date "2008.08.20"]
+[Round "5"]
+[White "Zamahari, Abang Draup"]
+[Black "Bakri, Alia Anin Azwa"]
+[Result "0-1"]
+[ECO "D45"]
+[BlackElo "1934"]
+[PlyCount "86"]
+[EventDate "2008.08.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. e3 e6 3. c4 Nf6 4. Nc3 Be7 5. Nf3 O-O 6. Bd3 dxc4 7. Bxc4 c6 8. O-O
+b5 9. Be2 Bb7 10. a3 Nbd7 11. b4 a5 12. bxa5 Rxa5 13. Bb2 Qa8 14. Qb3 Qa7 15.
+Ne5 Ra8 16. Nb1 b4 17. Rc1 Nxe5 18. dxe5 Nd7 19. Bf3 Nxe5 20. Bxe5 Rxe5 21.

@@ -1,0 +1,600 @@
+[WhiteElo "2041"]
+[BlackElo "2260"]
+[PlyCount "58"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. c4 O-O 7. Nc3 d6 8. Qc2
+c5 9. dxc5 bxc5 10. Rd1 Nc6 11. Bg5 Qb8 12. Rd2 h6 13. Bxf6 Bxf6 14. Rad1 Be7
+15. e4 e5 16. Nd5 Bd8 17. Bh3 Nd4 18. Nxd4 cxd4 19. Qa4 a5 20. Bd7 Bxd5 21.
+cxd5 Bb6 22. Bc6 Ra7 23. Qb5 Qd8 24. h4 f5 25. Qe2 Raf7 26. Bb5 f4 27. Bd3 Qd7
+28. Kh2 Bd8 29. Bb5 fxg3+ 0-1
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.03.16"]
+[Round "8"]
+[White "Kemp, Peter"]
+[Black "Ross, Chris Neil"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2178"]
+[BlackElo "2141"]
+[PlyCount "109"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Nbxd2 d6 6. g3 O-O 7. Bg2 Qe7 8.
+O-O e5 9. e4 a5 10. d5 Ne8 11. Ne1 f5 12. exf5 Bxf5 13. Qe2 Rf7 14. Rc1 Nd7 15.
+Rc3 Nef6 16. Re3 Nc5 17. f3 b6 18. Ne4 Ncxe4 19. fxe4 Bg4 20. Bf3 Bd7 21. Nc2
+Raf8 22. Bg2 Bg4 23. Qd3 Nd7 24. Ree1 Nc5 25. Qe3 Rxf1+ 26. Rxf1 Rxf1+ 27. Bxf1
+Qe8 28. b3 Qh5 29. Bg2 h6 30. Na3 Bd7 31. Bf3 Qe8 32. Be2 Qg6 33. Bf3 Qe8 34.
+Be2 Kh7 35. Nb1 g5 36. Nc3 Qg6 37. Bf3 g4 38. Bg2 h5 39. Qf2 Kg7 40. Qe3 Kh7
+41. Qf2 Kg7 42. Qe3 Qf6 43. Bf1 Kg6 44. Nd1 Qg5 45. Kf2 h4 46. Qxg5+ Kxg5 47.
+Ke3 Na6 48. Nc3 Nb4 49. Bd3 Na6 50. Bb1 hxg3 51. hxg3 c5 52. a3 Kf6 53. Bd3 Nc7
+54. Kd2 Kg5 55. Be2 1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.03.16"]
+[Round "8"]
+[White "Lunn, Matthew"]
+[Black "Fraser, Joe"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "1822"]
+[BlackElo "1987"]
+[PlyCount "56"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 f4 13. Bb2 Kh8 14. h3 h6 15. Ne6
+Bxe6 16. dxe6 Nc8 17. c5 dxc5 18. Qxd8 Rxd8 19. Nd5 Nxd5 20. exd5 cxb4 21. Rac1
+Nd6 22. Rxc7 Rac8 23. Rxc8 Rxc8 24. Bxe5 Bxe5 25. Rxe5 Kg7 26. e7 Kf7 27. Bg4
+Re8 28. Re6 h5 1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.1"]
+[White "Mansson, James"]
+[Black "Elliston, Robert V"]
+[Result "0-1"]
+[ECO "E92"]
+[WhiteElo "2172"]
+[BlackElo "2114"]
+[PlyCount "78"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d6 2. d4 Nd7 3. e4 g6 4. c4 Bg7 5. Nc3 e5 6. Be2 Ngf6 7. Be3 O-O 8. Qd2
+Ng4 9. Bg5 f6 10. Bh4 Nh6 11. Rd1 Nf7 12. h3 c6 13. d5 c5 14. Rb1 Bh6 15. Qc2
+Kg7 16. g4 Bf4 17. a3 Ng5 18. Bxg5 fxg5 19. b4 b6 20. Qa4 Bb7 21. Nb5 Nf6 22.
+bxc5 dxc5 23. Qc2 Ba6 24. Nc3 Ne8 25. Qa4 Bc8 26. Kf1 Nd6 27. Kg2 Qf6 28. Kf1
+Bd2 29. Nd1 Nxe4 30. Qc2 Qf4 31. Qb2 Re8 32. Qb5 Qf7 33. Qb2 Bf4 34. Nc3 Nd6
+35. Re1 Ba6 36. Nd2 Bxd2 37. Qxd2 Qf4 38. Qc2 Rf8 39. Bd3 Bxc4 0-1
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.1"]
+[White "Richardson, Keith B"]
+[Black "Ynojosa Aponte, Felix Jose"]
+[Result "1-0"]
+[ECO "E52"]
+[WhiteElo "2194"]
+[BlackElo "2089"]
+[PlyCount "115"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 d5 4. d4 Bb4 5. e3 O-O 6. Bd3 b6 7. cxd5 Qxd5 8. O-O
+Bxc3 9. bxc3 Bb7 10. Re1 Nbd7 11. e4 Qh5 12. Bf4 c5 13. Ne5 Qxd1 14. Raxd1 Nxe5
+15. dxe5 Nd7 16. Bb5 Nb8 17. Rd6 h6 18. f3 Rc8 19. Red1 Rc7 20. Rd8+ Kh7 21.
+Kf2 Nc6 22. Rxa8 Bxa8 23. g4 Bb7 24. a4 g5 25. Bg3 Ne7 26. h4 a6 27. Be2 Bc8
+28. Rb1 Rc6 29. h5 Kg7 30. f4 Bb7 31. Ke3 Nc8 32. f5 Kf8 33. Rf1 exf5 34. exf5
+Rc7 35. Bf3 Bxf3 36. Kxf3 Rd7 37. Ke2 Ke7 38. Rd1 Rb7 39. Ke3 b5 40. axb5 axb5
+41. Ke4 Nb6 42. f6+ Ke8 43. Rb1 Na4 44. Be1 Rb6 45. Kf5 Rb8 46. e6 c4 47. Bd2
+Nc5 48. exf7+ Kxf7 49. Re1 Rb7 50. Bxg5 hxg5 51. h6 Kf8 52. Re7 Kg8 53. Kg6 Rb8
+54. f7+ Kf8 55. Re8+ Rxe8 56. fxe8=Q+ Kxe8 57. h7 Kd7 58. h8=Q 1-0
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.1"]
+[White "Richmond, Robert"]
+[Black "Wippermann, Till"]
+[Result "0-1"]
+[ECO "E45"]
+[WhiteElo "2243"]
+[BlackElo "2443"]
+[PlyCount "78"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+Nc6 9. Be2 O-O 10. O-O dxc4 11. Bxc4 Bxc4 12. bxc4 Na5 13. Qa4 Qd7 14. c5 Rfd8
+15. Rb1 Nd5 16. Qxd7 Rxd7 17. Na4 Rb8 18. Bb2 Nc4 19. Rfd1 b5 20. e4 bxa4 21.
+exd5 exd5 22. Bc3 Rdd8 23. Rb4 a5 24. Rxa4 Rb5 25. Kf1 Re8 26. Re1 Kf8 27.
+Rxe8+ Kxe8 28. Ke2 Kd7 29. Kd3 Rb3 30. Kc2 Rb8 31. Kd3 c6 32. Kc2 f5 33. h4 g6
+34. g3 Re8 35. Kd3 Re4 36. Rxa5 Nxa5 37. Bxa5 f4 38. Bd2 f3 39. a4 Re2 0-1
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.1"]
+[White "Stepanyan, Henrik"]
+[Black "Gibbs, Daniel C"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "1920"]
+[BlackElo "1990"]
+[PlyCount "49"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. e4 O-O 6. Be2 e5 7. d5 a5 8. O-O Na6
+9. Bg5 h6 10. Bxf6 Qxf6 11. Qd2 Nc5 12. Qe3 Bd7 13. Ne1 Qf4 14. Nc2 f5 15. f3
+Qxe3+ 16. Nxe3 fxe4 17. fxe4 h5 18. Rad1 Bh6 19. Nc2 Rxf1+ 20. Rxf1 Bd2 21. Nb1
+Bg5 22. Nc3 {=} Rf8 23. Rxf8+ Kxf8 24. Bf3 Nd3 25. b3 1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.2"]
+[White "Quinn, John M"]
+[Black "Girdlestone, Paul C"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[WhiteElo "2157"]
+[BlackElo "2240"]
+[PlyCount "38"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 d5 8. Bg5
+dxc4 9. e4 Qc7 10. Bxf6 gxf6 11. Bxc4 a6 12. O-O Nc6 13. Rad1 Ne7 14. Ba2 b5
+15. Rd3 Bb7 16. Rfd1 Ng6 17. Qd2 Qf4 18. Qxf4 Nxf4 19. Rd7 Bc6 1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.4"]
+[White "Davies, Matthew"]
+[Black "Zhang, Marco"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "1937"]
+[BlackElo "1925"]
+[PlyCount "30"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 b6 3. Nf3 Bb7 4. e3 e6 5. Be2 c5 6. Nc3 d5 7. O-O Nbd7 8. b3
+Bd6 9. Bb2 O-O 10. Rc1 Rc8 11. Nb5 Bb8 12. Ne5 a6 13. Na3 Qc7 14. Bd3 Ne4 15.
+f4 Ndf6 1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.4"]
+[White "Davis, Lee"]
+[Black "Lilley, Graham"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[WhiteElo "2068"]
+[BlackElo "2129"]
+[PlyCount "62"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nf3 O-O 5. O-O d6 6. c4 Nc6 7. Nc3 Bg4 8. h3
+Bxf3 9. exf3 Nd7 10. Be3 e5 11. dxe5 Ncxe5 12. Qe2 Nb6 13. c5 dxc5 14. Bxc5 Re8
+15. Rad1 Qc8 16. Qc2 Qf5 17. Qxf5 gxf5 18. f4 Nec4 19. Bxb7 Nxb2 20. Bxa8 Nxd1
+21. Rxd1 Bxc3 22. Bf3 Kg7 {=} 23. Kg2 Bf6 24. Rd3 Rd8 25. Ra3 Nc8 26. Bxa7 Nxa7
+27. Rxa7 Rd2 28. Rxc7 Bd4 29. Bd5 Rxf2+ 30. Kh1 Rf1+ 31. Kg2 Rf2+ 1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.4"]
+[White "Lunn, Matthew"]
+[Black "Duggan, Chris"]
+[Result "1/2-1/2"]
+[ECO "E37"]
+[WhiteElo "1822"]
+[BlackElo "2058"]
+[PlyCount "48"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 Nc6 8.
+e3 e5 9. Nf3 Bf5 10. Bd3 exd4 11. exd4 O-O 12. O-O Re8 13. Be3 dxc4 14. Qxc4
+Qf6 15. d5 Nd6 16. Qc2 {=} Ne7 17. Bxf5 Ndxf5 18. Rad1 Nxe3 19. fxe3 Qb6 20.
+Kh1 c6 21. Ng5 g6 22. d6 Nd5 23. Qf2 f5 24. Qh4 h5 1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.5"]
+[White "Duvall, Ian"]
+[Black "Djabri, Katherine"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2045"]
+[BlackElo "2035"]
+[PlyCount "68"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 Nc6 7. O-O e5 8. d5
+Ne7 9. b4 Ne8 10. c5 h6 11. Nd2 f5 12. f3 f4 13. Nc4 g5 14. Ba3 Rf6 15. Rc1 h5
+16. Qb3 g4 17. Nxe5 Rh6 18. Nc4 Ng6 19. Rfd1 Qh4 20. Bf1 Qg5 21. e5 Nxe5 22.
+Ne4 Qg6 23. cxd6 cxd6 24. Nxe5 Bxe5 25. Kh1 Bf5 26. Bd3 Rh7 27. Nf2 g3 28. Bxf5
+Qxf5 29. Qd3 Qf7 30. Ne4 Rg7 31. h3 Rd8 32. Rd2 Nc7 33. Bb2 Bxb2 34. Rxb2 Kf8
+1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.6"]
+[White "Cooke, Charlie"]
+[Black "Staples, Daniel J"]
+[Result "1/2-1/2"]
+[ECO "E34"]
+[WhiteElo "1845"]
+[BlackElo "2050"]
+[PlyCount "178"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. e3 c5 6. Nf3 Qa5 7. Bd2 Nc6 8. a3
+cxd4 9. exd4 Bd7 10. Rc1 Bxc3 11. Bxc3 Qc7 12. Bd3 dxc4 13. Bxc4 Qf4 14. O-O
+Ne4 15. Rfe1 Nxc3 16. Qxc3 O-O 17. d5 exd5 18. Bxd5 Rae8 19. Rxe8 Rxe8 20. Re1
+Rxe1+ 21. Qxe1 Qf5 22. Be4 Qf6 23. Qd2 Qe7 24. Qd3 h6 25. h3 Be8 26. Bd5 Ne5
+27. Nxe5 Qxe5 28. Qe4 Qxe4 29. Bxe4 b6 30. f4 Kf8 31. Kf2 Ke7 32. Ke3 Kd6 33.
+Kd4 Bb5 34. h4 Bf1 35. Bf3 a5 36. b4 Bb5 37. Bd5 f6 38. Bf3 Bd7 39. g3 Be6 40.
+Bg2 Bd7 41. Bf3 Bb5 42. Bg4 Bc6 43. Be2 Bd5 44. Ke3 Bc6 45. Kd4 g5 46. hxg5
+hxg5 47. Bg4 Bd5 48. Bf5 Bf3 49. Bc8 Bd5 50. Bf5 Bf3 51. Bc8 Kc6 52. Ba6 Kd6
+53. Bc8 Kc6 54. Ba6 gxf4 55. gxf4 Kd6 56. Bc8 Bd5 57. Bf5 Kc6 58. Bd7+ Kd6 59.
+Bf5 Bb7 60. Bg4 Bd5 61. Bc8 Bf3 62. Ba6 Kc6 63. Bd3 axb4 64. axb4 Kd6 65. Bc4
+Bc6 66. Bf7 Bf3 67. Bc4 Bc6 68. Bf7 Bf3 69. Bc4 Bg4 70. Bf7 Bf3 71. Bc4 Kc6 72.
+Bd3 Bg4 73. Bc4 Kd6 74. Bf7 Be6 75. Be8 Bb3 76. Bh5 Ke6 77. Bg6 Bd1 78. Be4 Bg4
+79. Bg6 Bf5 80. Be8 Bg4 81. Bg6 Bf5 82. Be8 Bc2 83. Bh5 Kf5 84. Ke3 Bb3 85. Bf3
+Bc2 86. Bd5 Bd1 87. Be4+ Kg4 88. Bg6 Bb3 89. Be4 Bc4 1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.03"]
+[Round "9.6"]
+[White "Pakenham, John"]
+[Black "Bogoda, Sagara T"]
+[Result "0-1"]
+[ECO "E71"]
+[WhiteElo "1680"]
+[BlackElo "1250"]
+[PlyCount "116"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 O-O 6. h3 h6 7. Bf4 Nc6 8. Nf3
+Nh5 9. Be3 e5 10. Be2 f5 11. d5 Ne7 12. O-O Nf6 13. Bd3 f4 14. Bd2 g5 15. Nh2
+h5 16. Be2 Qe8 17. f3 Qg6 18. a4 Kf7 19. b4 Rh8 20. Kf2 g4 21. hxg4 hxg4 22.
+Nxg4 Bxg4 23. fxg4 Nxe4+ 24. Nxe4 Qxe4 25. Bf3 Qd4+ 26. Ke1 e4 27. Be2 Qxa1 28.
+Rxf4+ Ke8 29. Qxa1 Bxa1 30. Rxe4 Kd7 31. g5 Rh1+ 32. Kf2 Rf8+ 33. Kg3 Be5+ 34.
+Kg4 Nf5 35. Rxe5 dxe5 36. Bd3 Rh4+ 37. Kf3 Rd4 38. Ke2 Ng3+ 39. Ke3 Nf1+ 40.
+Bxf1 Rxd2 41. Be2 Rxe2+ 42. Kxe2 Rg8 43. Ke3 Rxg5 44. Ke4 Rxg2 45. Kxe5 Rg4 46.
+d6 Rxc4 47. dxc7 Rxb4 48. Kd5 Kxc7 49. Kc5 Rxa4 50. Kb5 Ra1 51. Kb4 a5+ 52. Kb3
+a4+ 53. Kb2 Rd1 54. Ka3 b5 55. Ka2 b4 56. Kb2 Rd2+ 57. Kb1 a3 58. Ka1 b3 0-1
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.04"]
+[Round "10.2"]
+[White "Feavyour, John"]
+[Black "Mordue, A Tyson"]
+[Result "0-1"]
+[ECO "E92"]
+[WhiteElo "2094"]
+[BlackElo "2317"]
+[PlyCount "82"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Re8 10. O-O-O h6 11. Bh4 Na6 12. h3 Nh5 13. Rd8 Rxd8 14. Bxd8
+Nf4 15. Rd1 Nxg2 16. Be7 Bxh3 17. Bf1 Nf4 18. Bxh3 Nxh3 19. Rd2 Nf4 20. Rd7 Rc8
+21. Nb5 Nb8 22. Rd2 Nc6 23. Bc5 a6 24. Nc3 Rd8 25. Nd5 Ne6 26. Be3 Ncd4 27.
+Bxd4 exd4 28. e5 Kf8 29. b3 c6 30. Nb4 h5 31. Kc2 Ke7 32. Nd3 c5 33. Re2 Rh8
+34. Nh4 Bh6 35. b4 Rc8 36. bxc5 Kd7 37. Nf3 Bf8 38. Re4 Bxc5 39. Nxc5+ Rxc5 40.
+Kd3 Ra5 41. Nxd4 Nc5+ 0-1
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.04"]
+[Round "10.3"]
+[White "Hosken, Nigel"]
+[Black "Kendall, Paul SN"]
+[Result "1/2-1/2"]
+[ECO "E31"]
+[WhiteElo "2021"]
+[BlackElo "2066"]
+[PlyCount "100"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 d6 8. e3
+Qe7 9. Bd3 Nbd7 10. Ne2 Kd8 11. dxe6 Qxe6 12. Nf4 Qe5 13. Nd5 g5 14. Bg3 Qe6
+15. Qf3 g4 16. Qf5 Nxd5 17. cxd5 Qe7 18. Qxg4 Ne5 19. Qe2 Bg4 20. f3 Bd7 21.
+O-O Kc7 22. e4 h5 23. Bb5 h4 24. Bxe5 Qxe5 25. Bxd7 Kxd7 26. Rab1 Rab8 27. Qd3
+h3 28. f4 Qh5 29. g3 Qg6 30. Rfe1 Rhg8 31. Qf3 Kc7 32. Rb2 f6 33. e5 fxe5 34.
+fxe5 Rbf8 35. Qe3 b6 36. c4 Kb7 37. e6 Qg4 38. e7 Re8 39. Qe4 Qd7 40. Rbe2 Rg4
+41. Qe6 Kc7 42. Qxd7+ Kxd7 {=} 43. Re4 Rg5 44. Rh4 b5 45. cxb5 Rxd5 46. Rxh3 c4
+47. a4 Rd2 48. g4 Ra2 49. Rd1 Rxe7 50. Rh6 Re6 1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.04"]
+[Round "10.3"]
+[White "Stepanyan, Henrik"]
+[Black "Zitha, Ben"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "1920"]
+[BlackElo "1847"]
+[PlyCount "135"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. Be3 Na6 7. Be2 e5 8. d5
+Ng4 9. Qd2 Nxe3 10. Qxe3 Nb4 11. Qd2 a5 12. O-O Bd7 13. Ne1 f5 14. exf5 gxf5
+15. f3 Rf6 16. Nd3 Nxd3 17. Bxd3 Kh8 18. Rf2 Qe7 19. Re1 Rg8 20. Ree2 Bh6 21.
+Qc2 Qf7 22. Kf1 Rg7 23. a3 Bf4 24. g3 Bh6 25. Ke1 Rg8 26. Qb1 Bg7 27. Qc2 h5
+28. Kd1 Bh6 29. Rg2 h4 30. gxh4 Rxg2 31. Rxg2 Qh5 32. Qf2 Bf4 33. Be2 Rh6 34.
+Qg1 Qf7 35. Qa7 Rxh4 36. Qxb7 Rxh2 37. Qa8+ Kh7 38. Rxh2+ Bxh2 39. Qxa5 Qg7 40.
+Qa7 Bf4 41. Qf2 Bh6 42. Bd3 Qg5 43. Kc2 Kg7 44. Kb3 Qe3 45. Qxe3 Bxe3 46. Kc2
+Kf8 47. b4 Ke7 48. Kb3 Kd8 49. Ne2 Kc8 50. Ng3 f4 51. Ne4 Be8 52. c5 dxc5 53.
+bxc5 Bh5 54. Be2 Bf7 55. Kc4 Kb8 56. c6 Ka7 57. Ng5 Be8 58. Kb5 Bg6 59. Ne6 Kb8
+60. Nf8 Bf7 61. Ne6 Bh5 62. d6 cxd6 63. c7+ Kc8 64. Kb4 Bc5+ 65. Kb3 Bxf3 66.
+Bxf3 Bb6 67. Kb4 Kd7 68. Kb5 1-0
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.04"]
+[Round "10.4"]
+[White "Marley, Andrew"]
+[Black "Gibson, Christopher A"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "1840"]
+[BlackElo "2039"]
+[PlyCount "83"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Bg5 Bb7 5. e3 c5 6. Nc3 cxd4 7. exd4 Be7 8. Bd3
+O-O 9. O-O d5 10. Ne5 dxc4 11. Bxc4 Nc6 12. Ne2 Nb4 13. a3 Nbd5 14. Qd3 Nh5 15.
+Bd2 Bg5 16. f4 Be7 17. f5 exf5 18. Rxf5 Nhf6 19. Raf1 Qd6 20. Bg5 Rad8 21. Qf3
+Bc8 22. Bxf6 Nxf6 23. Rf4 Be6 24. Bxe6 Qxe6 25. Nc6 Rd7 26. Ng3 Bd6 27. Rh4 {=}
+Bxg3 28. hxg3 Qd5 29. Qxd5 Nxd5 30. Re4 h6 31. Rfe1 Rc7 32. Ne7+ Nxe7 33. Rxe7
+Rc2 34. b4 Rd8 35. Rxa7 Rxd4 36. Ree7 Rdd2 37. Rxf7 Rxg2+ 38. Kf1 Rxg3 39. Rfb7
+Rf3+ 40. Ke1 Rg3 41. Kd1 Ra2 42. Rb8+ 0-1
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.04"]
+[Round "10.4"]
+[White "Thomas, Robert K"]
+[Black "Adams, Mark"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2153"]
+[BlackElo "2019"]
+[PlyCount "28"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 b6 6. a3 Bxc3+ 7. Qxc3 Ba6 8.
+e3 d6 9. Nf3 Nbd7 10. Rc1 c5 11. Be2 Rc8 12. Nd2 b5 13. O-O bxc4 14. Bxc4 Bxc4
+1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.04"]
+[Round "10.4"]
+[White "Truman, Richard G"]
+[Black "Duggan, Chris"]
+[Result "1-0"]
+[ECO "E42"]
+[WhiteElo "2032"]
+[BlackElo "2058"]
+[PlyCount "45"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 c5 6. a3 Ba5 7. Rb1 Na6 8. Bd2
+O-O 9. d5 d6 10. Ng3 Rb8 11. Bd3 Bxc3 12. Bxc3 Nc7 13. e4 b5 14. O-O bxc4 15.
+Bxc4 exd5 16. exd5 Bb7 17. Nf5 Ncxd5 18. Bxd5 Bxd5 19. Bxf6 Qxf6 20. Qxd5 Rxb2
+21. Rxb2 Qxb2 22. Qxd6 c4 23. Ne7+ 1-0
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.04"]
+[Round "10.5"]
+[White "Judkins, Brian"]
+[Black "Terry, Sean"]
+[Result "1/2-1/2"]
+[ECO "E86"]
+[WhiteElo "1945"]
+[BlackElo "1855"]
+[PlyCount "50"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 c6 5. Be3 Nf6 6. f3 O-O 7. Nge2 e5 8. Qd2
+Nbd7 9. d5 Qc7 10. g4 h5 11. gxh5 Nxh5 12. Ng3 Nf4 13. h4 Nf6 14. Nce2 N6h5 15.
+Nxh5 Nxh5 16. Bh6 b5 17. Bxg7 Kxg7 18. cxb5 cxd5 19. Qxd5 Be6 20. Qd2 Qb6 21.
+Rc1 Bxa2 22. Rc6 Qxb5 23. Nf4 Qxc6 24. Nxh5+ Kh7 25. Nf6+ Kg7 1/2-1/2
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.04"]
+[Round "10.6"]
+[White "Clarke, Sean A"]
+[Black "Griffiths, Hywel"]
+[Result "1-0"]
+[ECO "E68"]
+[WhiteElo "1875"]
+[BlackElo "1693"]
+[PlyCount "71"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 d6 5. g3 Nbd7 6. Bg2 O-O 7. O-O Re8 8. e4
+e5 9. d5 Nc5 10. Re1 a5 11. Qc2 Nh5 12. Be3 b6 13. Nd2 f5 14. Bxc5 bxc5 15.
+exf5 Bxf5 16. Qd1 Qd7 17. Qa4 Nf6 18. Qxd7 Bxd7 19. Nde4 Rab8 20. b3 Rb4 21.
+Reb1 a4 22. bxa4 Rxc4 23. Rb7 Rc8 24. a5 Rb4 25. a6 Rb6 26. Rxb6 cxb6 27. Nxd6
+Ra8 28. Bf1 e4 29. Rb1 b5 30. Ndxe4 Nxe4 31. Nxe4 c4 32. Nc5 Be8 33. d6 Bc6 34.
+a4 c3 35. axb5 c2 36. Rc1 1-0
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.05"]
+[Round "11"]
+[White "Asbury, Jon A"]
+[Black "Cork, David J"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "1870"]
+[BlackElo "2019"]
+[PlyCount "129"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. Nge2 Nc6 8. Qd2
+cxd4 9. Nxd4 Ne5 10. Be2 Re8 11. O-O a6 12. Rfd1 Qc7 13. b3 Bd7 14. Rac1 Rac8
+15. Nd5 Nxd5 16. cxd5 Qb8 17. Rc2 Rxc2 18. Qxc2 Rc8 19. Qb2 Qa7 20. Qd2 Qb8 21.
+Rc1 h5 22. Rc2 h4 23. Qc1 h3 24. Rxc8+ Bxc8 25. g4 Bd7 26. Kf2 e6 27. f4 Qd8
+28. fxe5 Qh4+ 29. Kg1 exd5 30. Bg5 Qh8 31. Qc7 Bxe5 32. Qd8+ Kh7 33. Qxh8+ Kxh8
+34. Nf3 Bc3 35. Bd2 Bb2 36. Ng5 Bd4+ 37. Kf1 dxe4 38. Nxf7+ Kg7 39. Ng5 Be5 40.
+Nxh3 Bxh2 41. Bc3+ Be5 42. Bxe5+ dxe5 43. Kf2 a5 44. Ke3 Be6 45. Kxe4 Kf6 46.
+g5+ Kg7 47. Nf2 a4 48. Bc4 axb3 49. axb3 Bf5+ 50. Kxe5 Bc2 51. b4 Kf8 52. Bd3
+Bb3 53. Bxg6 Ke7 54. Be4 b6 55. g6 Kf8 56. Bd5 Bc2 57. Kf6 Bxg6 58. Kxg6 Ke7
+59. Ne4 Kd7 60. Kf6 Kc7 61. b5 Kd7 62. Kf7 Kc7 63. Ke7 Kb8 64. Kd7 Ka7 65. Kc6
+1-0
+
+[Event "BCF-chT4 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.05.05"]
+[Round "11"]
+[White "Auckland, Elliott"]
+[Black "Doran, Michael J"]
+[Result "1-0"]
+[ECO "E43"]
+[WhiteElo "1974"]
+[BlackElo "1980"]
+[PlyCount "105"]
+[EventDate "2007.09.15"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. f3 c5 7. Nge2 Nc6 8. O-O
+cxd4 9. exd4 d5 10. a3 Be7 11. cxd5 exd5 12. Be3 O-O 13. Ng3 Re8 14. Nf5 Bf8
+15. Qd2 Rc8 16. Rae1 Na5 17. Qf2 Nc4 18. Bg5 Rxe1 19. Rxe1 Rc6 20. Nd1 Nd6 21.
+Nde3 Nxf5 22. Nxf5 Bc8 23. Qh4 g6 24. Bb5 Bxf5 25. Bxc6 Be7 26. g4 Be6 27. f4

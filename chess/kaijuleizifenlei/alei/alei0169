@@ -1,0 +1,600 @@
+d3 c5 9. Re1 Nc6 10. a4 Qc7 11. Qe2 O-O 12. Nh4 Nd4 13. Qd1 Nd5 14. Nxg6 hxg6
+15. Ne2 Nc6 16. Bd2 Rad8 17. Nc3 Bf6 18. Rb1 Nb6 19. Re4 Nxc4 20. Rxc4 Qe7 21.
+Re4 Rd7 22. Ne2 Rfd8 23. Qe1 Nd4 24. Nxd4 Rxd4 25. b3 Rxe4 26. Qxe4 Qc7 27. Bf4
+Qc8 28. Re1 a6 29. Qf3 b5 30. axb5 axb5 31. Re4 Qa6 32. h3 Qa2 33. Qe2 Ra8 34.
+Be5 Bxe5 35. Rxe5 Qa1+ 36. Kh2 Qc3 37. Qe3 Qxc2 38. Qxc5 Qd2 39. Qe3 Qa5 40.
+Qc5 Qd2 41. Qe3 Qa5 42. Qc5 Qd2 {(=)} 1/2-1/2
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.02.10"]
+[Round "6.3"]
+[White "Sonnenberger, Joerg"]
+[Black "Salov, Sergei"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "2108"]
+[BlackElo "2278"]
+[PlyCount "72"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Rostock"]
+[BlackTeam "Luebeck"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. f4 d5 2. Nf3 g6 3. e3 Bg7 4. d4 Nf6 5. c4 c5 6. Nc3 cxd4 7. Nxd4 O-O 8. Be2
+dxc4 9. Bxc4 Nbd7 10. O-O e5 11. Ndb5 exf4 12. exf4 a6 13. Nd6 b5 14. Bb3 Nc5
+15. Nxc8 Rxc8 16. Be3 Nxb3 17. Qxb3 Re8 18. Rad1 Qc7 19. Bd4 Ng4 20. Bxg7 Kxg7
+21. Rd2 Qc5+ 22. Kh1 Nf2+ 23. Rdxf2 Qxf2 24. Qd1 Rcd8 25. Qb1 Qd2 26. f5 b4 27.
+Ne4 Qd3 28. f6+ Kg8 29. Qxd3 Rxd3 30. Nc5 Rd2 31. Nxa6 Rxb2 32. Rd1 h5 33. h3
+Ree2 34. Rd8+ Kh7 35. Rd7 Rxg2 36. Rxf7+ Kh6 0-1
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.02.10"]
+[Round "6.8"]
+[White "Hansen, Evgenia"]
+[Black "Holzmann, Joerg"]
+[Result "0-1"]
+[ECO "A86"]
+[WhiteElo "2159"]
+[PlyCount "86"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Luebeck"]
+[BlackTeam "Rostock"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 d6 4. g3 g6 5. Bg2 Bg7 6. d5 O-O 7. Nh3 Na6 8. Be3
+Bd7 9. O-O c6 10. Qd2 Ng4 11. Bd4 Bh6 12. f4 c5 13. Bf2 Nc7 14. a4 Nxf2 15.
+Nxf2 Ne8 16. Rfe1 Nf6 17. Rad1 Bg7 18. Qc2 Rb8 19. h3 a6 20. b3 b5 21. axb5
+axb5 22. e4 fxe4 23. Ncxe4 bxc4 24. bxc4 Nxe4 25. Nxe4 Bf5 26. Rb1 Qd7 27. Kh2
+Qa7 28. Re3 Rxb1 29. Qxb1 Qa4 30. Bf1 Bd4 31. Re1 Qb4 32. Bd3 Rb8 33. Qd1 Ra8
+34. Re2 Ra1 35. Qc2 Qa3 36. g4 Bxe4 37. Bxe4 Be3 38. Qd3 Bxf4+ 39. Kg2 Qc1 40.
+Kf3 Be5 41. Rc2 Qf4+ 42. Kg2 Qh2+ 43. Kf3 Qg3+ 0-1
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.02.10"]
+[Round "6.3"]
+[White "Nonnenmacher, Thomas"]
+[Black "Kesten, Sebastian"]
+[Result "0-1"]
+[ECO "A26"]
+[WhiteElo "2206"]
+[BlackElo "2046"]
+[PlyCount "64"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Pinneberg"]
+[BlackTeam "Neukloster"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nf3 f5 7. O-O Nf6 8. Bd2
+O-O 9. Rb1 a5 10. a3 h6 11. b4 axb4 12. axb4 Be6 13. b5 Ne7 14. c5 Nd7 15. cxd6
+cxd6 16. Ne1 d5 17. e4 Nc5 18. Qc1 dxe4 19. dxe4 Nb3 20. Rxb3 Bxb3 21. Bxh6 Bc4
+22. Nd5 Rc8 23. Bxg7 Kxg7 24. Qc3 Nxd5 25. exd5 Qf6 26. Nd3 e4 27. Qxf6+ Kxf6
+28. Nf4 Bxf1 29. Bxf1 g5 30. Ne6 Rg8 31. b6 Ke5 32. Nc7 Rg6 0-1
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.5"]
+[White "Koelsch, Maximilian"]
+[Black "Schulenburg, Fabian"]
+[Result "1-0"]
+[ECO "A36"]
+[WhiteElo "2098"]
+[BlackElo "2149"]
+[PlyCount "145"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Luebeck"]
+[BlackTeam "Diogenes"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. c4 c5 3. Nc3 d6 4. g3 Nc6 5. Bg2 g6 6. d3 Bg7 7. Nge2 Nge7 8. h4 a6
+9. h5 Rb8 10. a4 Nb4 11. Be3 Nec6 12. O-O O-O 13. f4 Nd4 14. Bf2 e5 15. Nxd4
+exd4 16. Nd5 Nxd5 17. cxd5 b5 18. b4 cxb4 19. a5 Qc7 20. Be1 b3 21. Bb4 f5 22.
+Rc1 Qd8 23. Rc6 Rf6 24. Qxb3 fxe4 25. dxe4 Bb7 26. Rfc1 Kh8 27. Rc7 Rc8 28.
+Rxc8 Bxc8 29. Qc2 Bg4 30. e5 dxe5 31. fxe5 Rf5 32. e6 Qg5 33. Bd2 Qf6 34. Qc8+
+Bf8 35. Bb4 Kg8 36. Qxf8+ Qxf8 37. Bxf8 Rxf8 38. e7 Re8 39. d6 d3 40. Bd5+ Kg7
+41. Rf1 d2 42. Bc6 Rc8 43. d7 Bxd7 44. Bxd7 Rc1 45. h6+ Kxh6 46. Bg4 Re1 47.
+Kf2 Rxe7 48. Rd1 Re4 49. Bc8 Ra4 50. Rxd2 Rxa5 51. Rd7 Ra3 52. Rb7 Kg5 53. Rxh7
+Ra2+ 54. Kf3 Ra3+ 55. Kg2 Ra2+ 56. Kh3 a5 57. Rb7 b4 58. Be6 Ra1 59. Bc4 Rh1+
+60. Kg2 Ra1 61. Rb5+ Kf6 62. Kf3 Ra3+ 63. Kf4 Rc3 64. Rb6+ Kg7 65. Rb7+ Kh6 66.
+Be6 Rc6 67. Bg8 g5+ 68. Kf5 Rc5+ 69. Kf6 Rc6+ 70. Be6 Ra6 71. g4 Rc6 72. Ke5 a4
+73. Bf5 1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.7"]
+[White "Reimer, Wolf"]
+[Black "Neumann, Michael"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2059"]
+[BlackElo "2144"]
+[PlyCount "73"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Luebeck"]
+[BlackTeam "Diogenes"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 c5 4. d5 d6 5. f4 a6 6. Nf3 Bg4 7. Be2 Nd7 8. O-O Qc7
+9. Re1 Nh6 10. e5 Bxf3 11. Bxf3 dxe5 12. fxe5 Nxe5 13. Bf4 Nf5 14. d6 exd6 15.
+Nd5 Qd8 16. Bg4 Nd4 17. c3 Ndc6 18. Qb3 O-O 19. Be2 Rb8 20. Rad1 b5 21. Qc2 a5
+22. Qc1 b4 23. Bg5 f6 24. Bh4 Qd7 25. a4 Kh8 26. Bb5 Qg4 27. Bg3 Rbd8 28. Qc2
+Qc8 29. Re4 f5 30. Ree1 Rd7 31. Nb6 Qb7 32. Nxd7 Nxd7 33. Rxd6 Nce5 34. Rxd7
+Nxd7 35. Re7 b3 36. Qd2 f4 37. Bxf4 1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.2"]
+[White "Jaster, Robert"]
+[Black "Ritscher, Jan Paul"]
+[Result "1/2-1/2"]
+[ECO "A84"]
+[WhiteElo "2255"]
+[BlackElo "2295"]
+[PlyCount "110"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Rostock"]
+[BlackTeam "Hamburg Schachfreunde"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Nf3 Nf6 5. Bf4 c6 6. e3 Be7 7. Be2 O-O 8. O-O
+Ne4 9. Qc2 Nd7 10. Ne5 Bf6 11. Nxd7 Bxd7 12. Nxe4 fxe4 13. f3 Bxd4 14. exd4
+Rxf4 15. fxe4 Rxe4 16. Bd3 Rh4 17. Rf3 Qb6 18. c5 Qb4 19. Raf1 Qxd4+ 20. Kh1 e5
+21. Bxh7+ Rxh7 22. Qg6 Rh6 23. Qf7+ Kh8 24. Qxd7 Qxc5 25. Qxb7 Rg8 26. b4 Qd6
+27. Qxa7 e4 28. Rf4 Qe5 29. h3 e3 30. Qd4 Qxd4 31. Rxd4 Ra8 32. b5 Rxa2 33.
+bxc6 Rxc6 34. Rxd5 Rg6 35. Rf8+ Kh7 36. Rh5+ Rh6 37. Rxh6+ Kxh6 38. Re8 Ra3 39.
+Kh2 Kg5 {(=)} 40. Kg3 Kg6 41. Kf3 Kf7 42. Rxe3 Ra8 43. Rb3 Kg8 44. Rb5 Rc8 45.
+Kf4 Kh7 46. Kg5 Rc3 47. Kh4 Rc4+ 48. Kg3 Rc3+ 49. Kh2 Ra3 50. h4 Ra8 51. Kh3
+Ra4 52. g3 Rc4 53. h5 g6 54. hxg6+ Kxg6 55. g4 Rc1 1/2-1/2
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.3"]
+[White "Dietz, Juergen"]
+[Black "Sonnenberger, Joerg"]
+[Result "1-0"]
+[ECO "A02"]
+[WhiteElo "2237"]
+[BlackElo "2108"]
+[PlyCount "47"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hamburg Schachfreunde"]
+[BlackTeam "Rostock"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. f4 f5 2. e4 fxe4 3. Nc3 d5 4. Qh5+ g6 5. Qxd5 Nf6 6. Qxd8+ Kxd8 7. b3 Nc6 8.
+Bb2 Bg4 9. h3 Nd4 10. hxg4 Nxc2+ 11. Kd1 Nxa1 12. Bxa1 Bg7 13. Nxe4 Nxe4 14.
+Bxg7 Nf2+ 15. Ke1 Nxh1 16. Bxh8 Ng3 17. Bd3 Ke8 18. Bc3 Rd8 19. Bc2 c5 20. Nf3
+b5 21. Be5 h5 22. Bxg6+ Kd7 23. gxh5 Rg8 24. Nh4 1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.4"]
+[White "Jeske, Eckhard"]
+[Black "Hermann, Matthias"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "2176"]
+[BlackElo "2262"]
+[PlyCount "156"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Rostock"]
+[BlackTeam "Hamburg Schachfreunde"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. g3 Bg7 5. Bg2 c6 6. Nge2 Na6 7. O-O h5 8. h3 h4
+9. g4 Nxg4 10. hxg4 Bxg4 11. Kh2 Qc7 12. f4 g5 13. d3 O-O-O 14. fxg5 d5+ 15.
+Bf4 e5 16. Bd2 dxc4 17. dxc4 Rd3 18. Qe1 Rhd8 19. Rd1 Nc5 20. Nc1 Rg3 {(=)} 21.
+Be3 Bxd1 22. Bxc5 Bg4 23. Bf2 Qe7 24. Bxg3 hxg3+ 25. Qxg3 Qxg5 26. Kg1 Bh6 27.
+N1e2 Rd2 28. Rf2 Rxb2 29. Bf3 Be6 30. Qxg5 Bxg5 31. Rg2 Be3+ 32. Kh2 Bxc4 33.
+Nd1 Bf4+ 34. Nxf4 Rxg2+ 35. Nxg2 Bxa2 36. Nge3 Kc7 37. Kg3 b5 38. Kf2 a5 39.
+Ke2 Kd6 40. Kd2 a4 41. Nc3 Be6 42. Bg4 Bb3 43. Bd1 Be6 44. Bg4 Bb3 45. Nc2 Kc5
+46. Ne2 f6 47. Kc3 Kb6 48. Nc1 Bf7 49. Nb4 Bg6 50. Bf5 Be8 51. Ncd3 Bf7 52. Nf2
+a3 53. Nfd3 Bc4 54. Nc2 a2 55. Nc1 c5 56. Kb2 b4 57. Ne3 Bf7 58. Nxa2 Kb5 59.
+Bd7+ Ka5 60. Ng4 c4 61. Nc1 Kb6 62. Nxf6 Kc5 63. Ne2 c3+ 64. Kc2 Kc4 65. Ba4
+Bg6 66. Bb3+ Kc5 67. Kd3 Kb5 68. Nd7 Be8 69. Nxe5 Kc5 70. Nd4 Bh5 71. Nd7+ Kd6
+72. Nf6 Bg6 73. Nd5 Kc5 74. Ne6+ Kb5 75. Nef4 Bh7 76. Kd4 Ka5 77. Nf6 Bxe4 78.
+Nxe4 Kb5 1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.5"]
+[White "Zimmermann, Martin"]
+[Black "Kross, Gunnar"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "2206"]
+[BlackElo "2089"]
+[PlyCount "119"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hamburg Schachfreunde"]
+[BlackTeam "Rostock"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Nbd2 Be7 5. Bd3 O-O 6. O-O c5 7. c3 Ba6 8. Bxa6
+Nxa6 9. Qe2 Qc8 10. e4 d5 11. exd5 Nxd5 12. Ne4 Re8 {(=)} 13. Bg5 Bf8 14. Rad1
+cxd4 15. Rxd4 Nc5 {(=)} 16. Rfd1 Be7 17. c4 Nxe4 18. Qxe4 Bxg5 19. Nxg5 Nf6 20.
+Qd3 h6 21. Ne4 Nxe4 22. Qxe4 Qa6 23. a3 Rac8 24. h3 Qa4 25. Qd3 Qc6 26. b3 e5
+27. Rd7 a5 28. a4 Re6 29. Qf5 Rf8 30. R1d5 e4 31. Qf4 Qc8 32. R5d6 e3 33. fxe3
+Qe8 34. Rxe6 fxe6 35. Qd6 Qg6 36. Rd8 Rxd8 37. Qxd8+ Kh7 38. Qxb6 Qe4 39. Qd4
+Qb1+ 40. Kh2 Qxb3 41. Qe4+ g6 42. Qxe6 Qb8+ 43. Kg1 Qb1+ 44. Kf2 Qc2+ 45. Kg3
+h5 46. Qf7+ Kh8 47. Qe8+ Kg7 48. Qe5+ Kf7 49. Qd5+ Kf6 50. Qd4+ Ke6 51. c5 g5
+52. Qd6+ Kf5 53. c6 h4+ 54. Kh2 g4 55. Qf4+ Ke6 56. Qxg4+ Kf7 57. Qd7+ Kg6 58.
+c7 Qf2 59. Qg4+ Kh6 60. Qf4+ 1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.7"]
+[White "Oelmeyer, Gerrit"]
+[Black "Foerster, Jonas"]
+[Result "1-0"]
+[ECO "A28"]
+[WhiteElo "2027"]
+[BlackElo "2124"]
+[PlyCount "79"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hamburg Schachfreunde"]
+[BlackTeam "Rostock"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 e5 4. Nf3 Nc6 5. Be2 Bg7 6. O-O O-O 7. d3 h6 8. Rb1
+d6 9. h3 Nh5 10. Nd5 Ne7 11. Be3 c6 12. Nxe7+ Qxe7 13. Qd2 Kh7 14. Nh2 Qh4 15.
+Nf3 Qf6 16. Nh2 Nf4 17. Bg4 Be6 18. Bxe6 fxe6 19. Ng4 Qh4 20. b4 h5 21. Nh2 Qe7
+22. Kh1 g5 23. Qd1 Qf7 24. a4 a6 25. a5 d5 26. Bc5 Rg8 27. Nf3 Bf6 28. d4 exd4
+29. e5 Be7 30. Bxd4 g4 31. Qc2+ Rg6 32. Ng1 gxh3 33. g3 Ng2 34. Nxh3 Qf3 35.
+Ng1 Ne3+ 36. Nxf3 Nxc2 37. cxd5 cxd5 38. Bc5 Bg5 39. Rb3 Rc8 40. Rc3 {(Zü.)}
+1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.1"]
+[White "Pajeken, Wolfgang"]
+[Black "Lamprecht, Frank"]
+[Result "1/2-1/2"]
+[ECO "A84"]
+[WhiteElo "2351"]
+[BlackElo "2389"]
+[PlyCount "20"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hamburger SK II"]
+[BlackTeam "Koenigsspringer"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. e3 f5 5. Bd3 Nf6 6. Qc2 Bd6 7. h3 Nbd7 8. Nc3
+Ne4 9. g4 Ndf6 10. Bd2 O-O {(=)} 1/2-1/2
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.6"]
+[White "Wagner, Friedrich"]
+[Black "Bente, Bjoern"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2209"]
+[BlackElo "2220"]
+[PlyCount "66"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Koenigsspringer"]
+[BlackTeam "Hamburger SK II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 c6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Bf5 5. cxd5 cxd5 6. Qb3 Qc7 7. Nc3 e6 8. d3
+Nc6 9. O-O Be7 10. Bf4 Qd7 11. Nb5 O-O 12. Rac1 Rfc8 13. Rfd1 Bg4 14. Kf1 Bxf3
+15. Bxf3 a6 16. Nc3 Nd4 17. Qa4 Nxf3 18. exf3 Rc6 19. d4 Rac8 20. Qb3 Rc4 21.
+Ne2 Rxc1 22. Rxc1 Rxc1+ 23. Nxc1 Qc6 24. Nd3 Nd7 25. Ke2 Kf8 26. Bd2 b5 27. Bb4
+Bxb4 28. Qxb4+ Ke8 29. b3 Qc2+ 30. Qd2 Qxd2+ 31. Kxd2 Kd8 32. f4 Kc7 33. f5 a5
+{(=)} 1/2-1/2
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.1"]
+[White "Kesten, Sebastian"]
+[Black "Scheerer, Christoph"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2046"]
+[BlackElo "2426"]
+[PlyCount "80"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Neukloster"]
+[BlackTeam "Kiel Meerbauer"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 e6 2. Nf3 c5 3. e3 Nf6 4. Bd3 b6 5. Qe2 Bb7 6. Nbd2 d5 7. c3 Nbd7 8. O-O
+Be7 9. Ne5 Nxe5 10. dxe5 Nd7 11. f4 Qc7 12. e4 c4 13. Bc2 b5 14. Kh1 Bc5 15.
+exd5 Bxd5 16. b4 cxb3 17. axb3 Be7 18. c4 bxc4 19. bxc4 Bc6 20. Ba3 Bxa3 21.
+Rxa3 Nc5 22. Rfa1 a5 23. Qe3 O-O 24. Nb3 Nxb3 25. Bxb3 Qb7 26. Qf2 Rfd8 27. Ba4
+g6 28. h3 Bxa4 29. Rxa4 Rd3 30. Kh2 Rad8 31. R1a2 R3d4 32. c5 Rxa4 33. Rxa4 Qb5
+34. Qc2 Rc8 35. Rc4 Rc6 36. Qd3 Rc8 37. c6 Kg7 38. Qc3 {(=)} Qa6 39. c7 a4 40.
+Rc5 a3 1/2-1/2
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.3"]
+[White "Jasnikowski, Zbigniew"]
+[Black "Hoffmann, Michael2"]
+[Result "1-0"]
+[ECO "A38"]
+[WhiteElo "2407"]
+[BlackElo "2247"]
+[PlyCount "79"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Neukloster"]
+[BlackTeam "Kiel Meerbauer"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c5 5. Bg2 cxd4 6. Nxd4 Nc6 7. O-O O-O 8.
+Nc3 Qa5 9. Nc2 d6 10. h3 Ne5 11. Ne3 Be6 12. Ncd5 Nxd5 13. cxd5 Bc8 14. Bd2 Qa6
+15. Bc3 Nc4 16. Qc1 Nxe3 17. Qxe3 Bxc3 18. Qxc3 Bf5 19. e4 Rac8 20. Qe3 Bd7 21.
+e5 dxe5 22. Qxe5 Qd6 23. Qe3 b6 24. Rfe1 Rfe8 25. Rac1 Rxc1 26. Rxc1 Rc8 {(=)}
+27. Re1 Re8 28. h4 h5 29. a3 a5 30. Qg5 Kg7 31. Qe3 Qf6 32. b4 axb4 33. axb4
+Qd6 34. Qc3+ Kg8 35. Ra1 Rc8 36. Qb2 e6 37. Qf6 Qxb4 38. Ra7 Qd6 39. Be4 Rc7
+40. Qd8+ 1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.4"]
+[White "Jochens, Arne"]
+[Black "Knuth, Hannes"]
+[Result "1-0"]
+[ECO "A24"]
+[WhiteElo "2255"]
+[BlackElo "2266"]
+[PlyCount "73"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Kiel Meerbauer"]
+[BlackTeam "Neukloster"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. g3 Nf6 2. Bg2 g6 3. c4 Bg7 4. Nc3 d6 5. d3 c6 6. e4 e5 7. Nge2 O-O 8. O-O
+Be6 9. Kh1 Ng4 10. h3 Nh6 11. Be3 f5 12. Qd2 f4 13. gxf4 Qh4 14. f5 gxf5 15.
+Bg5 Qh5 16. Ng3 Qg6 17. exf5 Nxf5 18. Be4 h6 19. Be7 Nxg3+ 20. fxg3 Rxf1+ 21.
+Rxf1 Qxg3 22. Rf3 Qxf3+ 23. Bxf3 Bxh3 24. Bxd6 Nd7 25. Qh2 Be6 26. Ne4 Rd8 27.
+Qh4 Re8 28. Bh5 Ra8 29. Qe7 Nf8 30. Qxb7 Rd8 31. Qxa7 Kh8 32. Qc7 Rc8 33. Qb7
+Bf5 34. a4 Nh7 35. a5 Ng5 36. Nxg5 hxg5 37. Bg6 1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.6"]
+[White "Kim, Oi Sin"]
+[Black "Friedrich, Paul Robert"]
+[Result "1-0"]
+[ECO "A50"]
+[WhiteElo "2072"]
+[BlackElo "2053"]
+[PlyCount "123"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Kiel Meerbauer"]
+[BlackTeam "Neukloster"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 b6 2. d4 Bb7 3. Nc3 Nf6 4. d5 g6 5. e4 d6 6. Bd3 Bg7 7. Bg5 Nbd7 8. Nge2
+Rc8 9. Nb5 a6 10. Nbd4 O-O 11. Rc1 Nc5 12. f3 e5 13. Nc2 a5 14. Ne3 Qe8 15. Nc3
+Nh5 16. Bc2 f6 17. Bh4 Bh6 18. Bf2 Qe7 19. a3 Nf4 20. O-O Rf7 21. b4 axb4 22.
+axb4 Nd7 23. Ra1 Nf8 24. Ra7 Rb8 25. h4 Bc8 26. Nb5 Qd8 27. Qb1 f5 28. Kh2 Ne2
+29. Qe1 Bf4+ 30. Kh1 Bxe3 31. Bxe3 Ng3+ 32. Qxg3 f4 33. Qg5 Qxg5 34. hxg5 fxe3
+35. Re1 Rb7 36. Rxe3 Rxa7 37. Nxa7 Ba6 38. Bb3 Kg7 39. Nc6 Bc8 40. Re2 Rf4 41.
+Kg1 Bd7 42. Nd8 h6 43. gxh6+ Kf6 44. Ra2 Ke7 45. Ra8 Nh7 46. Nc6+ Bxc6 47. dxc6
+Rf8 48. Ra7 Rc8 49. Ba4 Nf8 50. Bd1 Ne6 51. f4 exf4 52. Bg4 Rh8 53. Bxe6 Kxe6
+54. Rxc7 Rxh6 55. Rb7 Rh8 56. Rxb6 Rc8 57. b5 Ke5 58. Rb7 Kd4 59. c7 Kc5 60. b6
+Kc6 61. Rb8 Kd7 62. Kf2 1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.03.09"]
+[Round "7.4"]
+[White "Rabeler, Gert"]
+[Black "Stelting, Thorsten"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "2256"]
+[BlackElo "2254"]
+[PlyCount "92"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Pinneberg"]
+[BlackTeam "St Pauli"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. g3 d5 2. Bg2 e5 3. c4 Nf6 4. cxd5 Nxd5 5. Nc3 Ne7 6. Nf3 Nbc6 7. O-O g6 8.
+d3 Bg7 9. Bg5 h6 10. Bxe7 Qxe7 11. Nd2 O-O 12. Rc1 Qd8 13. Bxc6 bxc6 14. Qa4 h5
+15. Rc2 Kh7 16. Qxc6 Bd7 17. Qc5 Re8 18. Nf3 c6 19. Ne4 f6 20. Rfc1 Bh6 21. Rd1
+Re6 22. Qc4 Qe7 23. Nc5 Rd6 24. Nxd7 Qxd7 25. Qa4 Re8 26. Rc4 f5 27. Rb1 Re7
+28. Qc2 Qe6 29. b4 e4 30. dxe4 fxe4 31. Nd4 Qf6 32. e3 h4 33. Rxc6 Rxc6 34.
+Qxc6 Qe5 35. Rc1 hxg3 36. hxg3 Bxe3 37. fxe3 Qxg3+ 38. Kh1 Qh3+ 39. Kg1 Qxe3+
+40. Kg2 Qd2+ 41. Kg3 Qxd4 42. Qc3 Qd6+ 43. Kg2 g5 44. Rh1+ Kg6 45. Rh8 Qc6 46.
+Kg3 Rd7 0-1
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.1"]
+[White "Hochgraefe, Markus"]
+[Black "Ritscher, Jan Paul"]
+[Result "1-0"]
+[ECO "A90"]
+[WhiteElo "2368"]
+[BlackElo "2295"]
+[PlyCount "59"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Diogenes"]
+[BlackTeam "Hamburg Schachfreunde"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 d5 5. O-O Bd6 6. c4 c6 7. b3 b5 8. Bf4 O-O
+9. Nbd2 Bxf4 10. gxf4 Nbd7 11. e3 bxc4 12. bxc4 Qa5 13. Qc2 Ba6 14. Rfc1 Rac8
+15. Qc3 Qxc3 16. Rxc3 Bxc4 17. Nxc4 Ne4 18. Rc2 dxc4 19. Rxc4 c5 {(=)} 20. Rac1
+Nb6 21. R4c2 cxd4 22. Nxd4 Rxc2 23. Rxc2 Re8 24. Rc7 a5 25. Ra7 e5 26. Nxf5
+exf4 27. Rxg7+ Kf8 28. Rxh7 fxe3 29. fxe3 Re5 30. Rh8+ 1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.2"]
+[White "Dietz, Juergen"]
+[Black "Stephan, Axel"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "2237"]
+[BlackElo "2274"]
+[PlyCount "76"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hamburg Schachfreunde"]
+[BlackTeam "Diogenes"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 Bg4 4. Be2 c6 5. b3 Bxf3 6. Bxf3 Nbd7 7. Bb2 Qc7 8.
+d4 e6 9. O-O c5 10. c4 dxc4 11. bxc4 cxd4 12. Bxd4 Bc5 13. Nc3 a6 14. Rb1 Rb8
+15. g4 h6 16. Rf2 Bxd4 17. Qxd4 e5 18. fxe5 Nxe5 19. Nd5 Nxd5 20. Bxd5 O-O 21.
+Rf5 Rfe8 22. Qf4 Re7 23. Rf1 b5 24. g5 hxg5 25. Rxg5 Rb6 26. cxb5 axb5 27. e4
+Kf8 28. Rxe5 Qxe5 29. Qxe5 Rxe5 30. Rxf7+ Ke8 31. Rxg7 Rh6 32. Rg2 b4 33. Rb2
+Rb6 34. Kf2 Rh5 35. Ke3 Rh3+ 36. Kd4 Ke7 37. Kc5 Rb8 38. Rf2 Rc8+ {(ZÜ)} 1-0
+
+[Event "OLNN 0708"]
+[Site "Germany"]
+[Date "2008.04.06"]
+[Round "8.4"]
+[White "Zimmermann, Martin"]
+[Black "Gottuk, Stefan"]
+[Result "1/2-1/2"]
+[ECO "A87"]
+[WhiteElo "2206"]
+[BlackElo "2246"]
+[PlyCount "86"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Hamburg Schachfreunde"]
+[BlackTeam "Diogenes"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]

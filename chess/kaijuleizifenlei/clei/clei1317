@@ -1,0 +1,600 @@
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "1536"]
+[BlackElo "1580"]
+[PlyCount "105"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Ng8 5. a3 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Bxd4
+Nge7 9. Bc5 Ng6 10. Bxf8 Kxf8 11. Qe2 a6 12. O-O-O b5 13. h4 h5 14. Qe3 Qe7 15.
+Bd3 Rh6 16. Ne2 Rb8 17. Rh3 Na5 18. Ng5 Qc7 19. Bxg6 Rxg6 20. Rf3 Rxg5 21. hxg5
+Nc4 22. Qc3 Qxe5 23. Qxe5 Nxe5 24. Rh3 g6 25. b3 Bb7 26. f4 Nc6 27. Nd4 Nxd4
+28. Rxd4 Rc8 29. Kb2 Ke7 30. a4 Kd6 31. axb5 axb5 32. Rc3 Rxc3 33. Kxc3 Kc5 34.
+Rd1 b4+ 35. Kd3 Ba6+ 36. Ke3 Bb7 37. g3 Kd6 38. Kd4 Ba6 39. Ra1 Be2 40. Ke3 Bb5
+41. Ra7 Be8 42. Kd4 Bb5 43. Rxf7 Be2 44. Rf6 Bd1 45. Kd3 Bf3 46. Kd4 Be4 47. c3
+bxc3 48. Kxc3 Ke7 49. b4 Bf5 50. Kd4 Kd7 51. Rxf5 exf5 52. Kxd5 Kc7 53. Ke6 1-0
+
+[Event "Amantea op-B 6th"]
+[Site "Amantea"]
+[Date "2008.09.05"]
+[Round "6"]
+[White "Caporale, Giuseppe Guido"]
+[Black "Grudina, Marco"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "1820"]
+[BlackElo "1897"]
+[PlyCount "175"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. Bb2 Bg4 10. h3 Bxf3 11. Qxf3 Qf6 12. Qb3 Nge7 13. e5 dxe5 14. dxe5
+Qf4 15. Na3 O-O 16. Rae1 Na5 17. Qc2 Nxc4 18. Nxc4 Qf5 19. Re4 Nc6 20. Qe2 Rfe8
+21. Kh1 Rad8 22. Nxb6 axb6 23. f4 Qd7 24. e6 fxe6 25. Qg4 e5 26. f5 Nd4 27.
+Rfe1 Qxf5 28. Rxd4 Qxg4 29. Rxg4 Rd5 30. Rg5 h6 31. Rgxe5 Rdxe5 32. Rxe5 Rxe5
+33. Bxe5 c6 34. a4 g6 35. Bc7 b5 36. axb5 cxb5 37. Bd6 Kf7 38. Kg1 Ke6 39. Bf8
+h5 40. Kf2 Kd5 41. Ke2 Kc4 42. Kd2 b4 43. Kc2 Kb5 44. Kb3 Kc6 45. Bxb4 Kd5 46.
+Kc2 Kc4 47. Be7 Kd4 48. Kd2 Ke4 49. Ke2 Ke5 50. Ke3 Ke6 51. Bd8 Ke5 52. Bc7+
+Kf5 53. Kd4 g5 54. g3 b5 55. Ke3 b4 56. Bd6 b3 57. Ba3 Ke5 58. Bb2+ Kf5 59. Bh8
+Kg6 60. Ke4 Kh7 61. Bc3 Kg6 62. Bb2 g4 63. h4 Kh6 64. Kf5 Kh7 65. Kg5 Kg8 66.
+Kxh5 Kh7 67. Kxg4 Kg6 68. h5+ Kh6 69. Bc1+ Kh7 70. Kg5 Kg7 71. Bb2+ Kh7 72. g4
+Kg8 73. Kg6 Kf8 74. h6 Ke7 75. h7 Kd6 76. h8=Q Kd5 77. Kf5 Kc4 78. Qc3+ Kd5 79.
+Qxb3+ Kc6 80. Ba3 Kd7 81. Qe6+ Kc7 82. Ke5 Kb7 83. Kd5 Kc7 84. Bd6+ Kb7 85.
+Qd7+ Kb6 86. Qc6+ Ka5 87. Qb7 Ka4 88. Qb4# 1-0
+
+[Event "Amantea op-B 6th"]
+[Site "Amantea"]
+[Date "2008.09.05"]
+[Round "6"]
+[White "Chiappetta, Dario"]
+[Black "Ielapi, Gianbattista"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "1745"]
+[BlackElo "1686"]
+[PlyCount "75"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. d4 Bd7 6. d5 Ne7 7. Bxd7+ Qxd7 8.
+O-O g6 9. Be3 Bg7 10. h3 O-O 11. Qd3 Nh5 12. Qd2 f5 13. Bh6 f4 14. Bxg7 Kxg7
+15. Ng5 Rg8 16. Qe2 Nf6 17. Qc4 Rac8 18. Rad1 h6 19. Nf3 g5 20. Kh2 Kh7 21. Qb5
+c6 22. dxc6 bxc6 23. Qd3 Rg6 24. Nxe5 dxe5 25. Qxd7 Nxd7 26. Rxd7 Re6 27. Na4
+c5 28. Rxa7 Kg6 29. Rd1 Kf6 30. Rdd7 h5 31. Nc3 Re8 32. Rac7 g4 33. h4 Rg8 34.
+Rxe7 g3+ 35. fxg3 fxg3+ 36. Kh3 Rd6 37. Nd5+ Kg6 38. Rxe5 1-0
+
+[Event "Amantea op-B 6th"]
+[Site "Amantea"]
+[Date "2008.09.05"]
+[Round "6"]
+[White "Mazzuca, Aldo"]
+[Black "Paese, Salvatore"]
+[Result "0-1"]
+[ECO "C27"]
+[WhiteElo "1425"]
+[BlackElo "1324"]
+[PlyCount "30"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. f3 Nc6 5. d3 d6 6. Bg5 O-O 7. Nd5 Nd4 8. c3
+Ne6 9. g3 Nxg5 10. Qd2 Nxd5 11. Bxd5 c6 12. Bb3 Qf6 13. f4 exf4 14. gxf4 Bxg1
+15. Rxg1 Nf3+ 0-1
+
+[Event "Amantea op-B 6th"]
+[Site "Amantea"]
+[Date "2008.09.07"]
+[Round "8"]
+[White "Berardi, Emiliano"]
+[Black "Alo, Lucio"]
+[Result "1-0"]
+[ECO "C60"]
+[WhiteElo "1440"]
+[BlackElo "1454"]
+[PlyCount "141"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O d6 5. d4 exd4 6. Nxd4 Bd7 7. Bg5 h6 8.
+Bh4 Ne5 9. Bxd7+ Qxd7 10. Nc3 N7g6 11. Bg3 Be7 12. f4 Nc4 13. Qc1 Bf6 14. Nf5
+Bxc3 15. bxc3 O-O 16. Rb1 Qc6 17. Re1 Rfe8 18. Nd4 Qd7 19. Rb4 Nb6 20. Nf5 Qc6
+21. Qe3 Qd7 22. Qd3 c5 23. Rbb1 Rad8 24. Rbd1 Re6 25. Nh4 d5 26. f5 Ne5 27.
+fxe6 Nxd3 28. exd7 Nxe1 29. Rxe1 dxe4 30. Bc7 Rxd7 31. Bxb6 axb6 32. Rxe4 Kf8
+33. Nf3 Rd1+ 34. Kf2 Ra1 35. a4 Ra2 36. Kg3 Rxc2 37. Rc4 Ra2 38. Ne5 Ke7 39.
+Re4 Kf6 40. Nd7+ Kf5 41. Rf4+ Kg5 42. Nxb6 Ra3 43. Rc4 Rb3 44. Rxc5+ f5 45. a5
+g6 46. Nd7 h5 47. h4+ Kh6 48. Kf4 Rb2 49. g3 Rf2+ 50. Ke3 Rf1 51. Rc7 Re1+ 52.
+Kf2 Rb1 53. Nc5 Rb2+ 54. Kf3 b6 55. Rb7 Rb5 56. Nd7 Rxa5 57. Nf6 g5 58. Ng8+
+Kg6 59. Rxb6+ Kg7 60. Nf6 Rc5 61. Nxh5+ Kh7 62. hxg5 Rxc3+ 63. Kf4 Rc5 64. Rb7+
+Kg8 65. g6 Rc4+ 66. Kxf5 Rc5+ 67. Kf6 Rc6+ 68. Kg5 Rc5+ 69. Kh6 Rc8 70. Nf6+
+Kf8 71. g7# 1-0
+
+[Event "Amantea op-B 6th"]
+[Site "Amantea"]
+[Date "2008.09.07"]
+[Round "8"]
+[White "Carrozza, Gregorio"]
+[Black "Sansosti, Simona"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "1580"]
+[BlackElo "1425"]
+[PlyCount "63"]
+[EventDate "2008.08.31"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 O-O 6. O-O h6 7. a3 a6 8. Na4
+Be7 9. Nc3 Bc5 10. h3 b5 11. Bd5 Re8 12. Be3 Be7 13. Bxc6 dxc6 14. Nxe5 Bb7 15.
+f4 c5 16. Qf3 h5 17. Rad1 Bd6 18. d4 Qe7 19. Rde1 b4 20. axb4 cxb4 21. Nd5 Nxd5
+22. exd5 f5 23. Nc6 Qf7 24. c4 a5 25. b3 a4 26. bxa4 Rxa4 27. Ne5 Bxe5 28. fxe5
+g6 29. e6 Qf6 30. g4 Rxe6 31. gxf5 Kh7 32. fxe6 1-0
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.08.31"]
+[Round "1"]
+[White "Golovin, Leonid"]
+[Black "Derbenev, Andrey"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2457"]
+[BlackElo "2302"]
+[PlyCount "96"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. g3 dxe4 6. dxe4 e5 7. Bg2 Bc5 8.
+O-O O-O 9. c3 a5 10. a4 Be6 11. Qe2 Nd7 12. Nc4 f6 13. Ne3 Ne7 14. Rd1 c6 15.
+Nc4 Qc7 16. Bd2 Nb6 17. Nxb6 Bxb6 18. Rdb1 Nc8 19. b3 Qf7 20. c4 Rd8 21. Be3
+Bxe3 22. Qxe3 Qc7 23. c5 Ne7 24. Bf1 Rd7 25. Rd1 Rad8 26. Rxd7 Rxd7 27. Qc3 Ng6
+28. Ra2 Nf8 29. Rd2 Rxd2 30. Nxd2 Qd8 31. Bc4 Qd4 32. Qxd4 exd4 33. Kf1 Kf7 34.
+Ke2 Nd7 35. Kd3 Nxc5+ 36. Kxd4 b6 37. f3 Ke7 38. Kc3 Kd6 39. Bxe6 Nxe6 40. Nc4+
+Kc5 41. f4 Nf8 42. Nb2 b5 43. Nd3+ Kd6 44. Kd4 Ne6+ 45. Kc3 g6 46. h3 Nf8 47.
+Kd4 Ne6+ 48. Kc3 Nf8 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.01"]
+[Round "2"]
+[White "Derbenev, Andrey"]
+[Black "Yarysh, Grigorij"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2302"]
+[BlackElo "2304"]
+[PlyCount "79"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 Nc6 6. Bc4 Be7 7. O-O O-O 8.
+Re1 Bd7 9. Nde2 Ne5 10. Bb3 Re8 11. f3 c6 12. Be3 Qc7 13. Kh1 b5 14. Nf4 Rad8
+15. a4 b4 16. Nce2 Bf8 17. Nd3 c5 18. c4 bxc3 19. Nxc3 c4 20. Nxe5 dxe5 21. Bc2
+Be6 22. Qe2 a6 23. a5 Bc5 24. Bg5 Be7 25. Bxf6 Bxf6 26. Nd5 Bxd5 27. exd5 Rxd5
+28. Qe4 Rd2 29. Qxh7+ Kf8 30. f4 Rd4 31. Ba4 Red8 32. fxe5 Bh4 33. Re4 Rxe4 34.
+Qxe4 Bf2 35. e6 Bd4 36. Bd7 fxe6 37. Rf1+ Bf6 38. Bxe6 c3 39. bxc3 Qxc3 40. Qb7
+1-0
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.01"]
+[Round "2"]
+[White "Fomichenko, Svetlana"]
+[Black "Nazaryev, Sergey"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "2269"]
+[BlackElo "2180"]
+[PlyCount "62"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. Be3 f6 12. f4 Ne4 13. f5 fxe5 14. Qh5+ Ke7
+15. Nd2 Nxd2 16. f6+ gxf6 17. Nf5+ Bxf5 18. Bxc5+ Ke6 19. Qxf5+ Kf7 20. Qxe5
+Nxf1 21. Rxf1 h5 22. Qf4 Rg8 23. Qf5 Rg6 24. Re1 Rg5 25. Qh7+ Rg7 26. Qxh5+ Kg8
+27. Qf5 Qd7 28. Qxf6 Re8 29. Rxe8+ Qxe8 30. Qf2 Qe4 31. Bxa7 Qg4 0-1
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.01"]
+[Round "2"]
+[White "Kostromin, Mikhail"]
+[Black "Galojan, Lilit"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[WhiteElo "2363"]
+[BlackElo "2290"]
+[PlyCount "54"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d3
+b5 9. Bb3 Na5 10. Bc2 c5 11. Nbd2 O-O 12. h3 Bd7 13. Nf1 Re8 14. Ng3 Nc6 15. d4
+Bf8 16. d5 Ne7 17. Nh4 Ng6 18. Nhf5 Nf4 19. Qf3 g6 20. Ne3 h5 21. Nef1 Bh6 22.
+Ne2 g5 23. Qg3 Kh8 24. Qh2 Rg8 25. Kh1 Qe7 26. Ne3 h4 27. g4 c4 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.01"]
+[Round "2"]
+[White "Stambulian, Arsen"]
+[Black "Maiorov, Oleg"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2393"]
+[BlackElo "2444"]
+[PlyCount "27"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5 Nc6
+8. Bb5 Bd7 9. O-O O-O-O 10. Nc3 Nxe5 11. Bxd7+ Nxd7 12. Qxe7 Bxe7 13. Bf4 Nb6
+14. Rad1 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.02"]
+[Round "4"]
+[White "Fomichenko, Svetlana"]
+[Black "Bagrationi, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2269"]
+[BlackElo "2252"]
+[PlyCount "84"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nxf6+ Nxf6 7. Nf3 h6
+8. Bf4 c5 9. c3 Qb6 10. Qc2 Be7 11. Be2 O-O 12. O-O cxd4 13. Nxd4 Nd5 14. Bg3
+Bf6 15. Rfd1 Bd7 16. a4 Rfe8 17. a5 Qc5 18. Nb3 Qc8 19. c4 Ne7 20. Nd2 Nf5 21.
+Ne4 Bd4 22. Nd6 Nxd6 23. Rxd4 Nf5 24. Rd2 Nxg3 25. hxg3 e5 26. Bf3 Bc6 27. Bd5
+Bxd5 28. Rxd5 Qg4 29. Rad1 e4 30. R1d4 Re6 31. Rd7 Rae8 32. Rxb7 Qg5 33. Rd5 f5
+34. Rdd7 Rg6 35. Qa4 Rf8 36. Qb4 Qc1+ 37. Kh2 Rc8 38. Rb8 Rxb8 39. Qxb8+ Kh7
+40. Rd8 Rf6 41. Rh8+ Kg6 42. Qe8+ Rf7 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.02"]
+[Round "4"]
+[White "Karabakhtsian, Adroniks"]
+[Black "Galojan, Lilit"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2248"]
+[BlackElo "2290"]
+[PlyCount "50"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Be7 5. c3 O-O 6. Nbd2 d5 7. exd5 Nxd5 8.
+O-O Nb6 9. Bb5 Bd6 10. Re1 Re8 11. Nc4 Nxc4 12. Bxc4 Bg4 13. Qb3 Qf6 14. Ng5
+Nd8 15. Ne4 Qg6 16. Re3 Be6 17. Qa4 Kf8 18. Rg3 Qh5 19. Rg5 Qe2 20. Bd2 h6 21.
+Re1 Qxe1+ 22. Bxe1 hxg5 23. Nxg5 Bxc4 24. Qxc4 Ne6 25. Ne4 Rad8 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.02"]
+[Round "4"]
+[White "Kostromin, Mikhail"]
+[Black "Petrov, Artur"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2363"]
+[BlackElo "2261"]
+[PlyCount "65"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 O-O 10. O-O-O a6 11. Kb1 Qc7 12. Qf2 Bxd4 13. Bxd4 b5 14. Bd3 b4 15.
+Ne2 a5 16. Qh4 g6 17. Qh6 Ba6 18. g4 Nxd4 19. Nxd4 Rfc8 20. h4 Nf8 21. Rde1
+Bxd3 22. cxd3 Qc5 23. f5 exf5 24. Nxf5 Ne6 25. Rc1 Qa7 26. h5 Rxc1+ 27. Qxc1
+gxf5 28. gxf5 Qe7 29. fxe6 fxe6 30. Qf4 Rf8 31. Rg1+ Kh8 32. Qg4 Qf7 33. Rc1
+1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.02"]
+[Round "4"]
+[White "Sergeev, Albert"]
+[Black "Maiorov, Oleg"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2379"]
+[BlackElo "2444"]
+[PlyCount "35"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. Ng5 Rf8 11. Nf3 Bb7 12. d4 Re8 13. Ng5 Rf8 14. Nf3 h6 15. a4
+Re8 16. axb5 axb5 17. Rxa8 Qxa8 18. Na3 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.02"]
+[Round "5"]
+[White "Maiorov, Oleg"]
+[Black "Fomichenko, Svetlana"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2444"]
+[BlackElo "2269"]
+[PlyCount "32"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Be7 12. h3 h6 13. Bf4 Bd6 14. Rfe1 Bxf4
+15. Qxf4 Re8 16. Rxe8+ Qxe8 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.03"]
+[Round "6"]
+[White "Yarysh, Grigorij"]
+[Black "Galojan, Lilit"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteElo "2304"]
+[BlackElo "2290"]
+[PlyCount "73"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 h6 12. Bf4 Bd6 13. h3 Be6 14. Rfe1 Bxf4
+15. Qxf4 Qb8 16. Qf3 c5 17. b3 Qb4 18. Ne2 Rfe8 19. Nf4 Rad8 20. Rad1 Kf8 21.
+Re2 Rd6 22. Red2 Rb6 23. c4 d4 24. Be4 a5 25. Bc6 Re7 26. Bb5 Rb8 27. Nd3 Qa3
+28. Ne1 Rc8 29. Nc2 Qxa2 30. Nxd4 Qa3 31. Nxe6+ fxe6 32. Qc3 Qb4 33. Qc2 Kf7
+34. f3 Qa3 35. Qc3 e5 36. Ra1 Qb4 37. Qc2 1-0
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.03"]
+[Round "7"]
+[White "Maiorov, Oleg"]
+[Black "Derbenev, Andrey"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2444"]
+[BlackElo "2302"]
+[PlyCount "42"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d3 d5 3. Qe2 dxe4 4. dxe4 Nc6 5. Nf3 e5 6. c3 Nf6 7. Bg5 Be7 8.
+Nbd2 O-O 9. Nc4 Nd7 10. Bxe7 Qxe7 11. Ne3 Nb6 12. O-O-O f6 13. Nd5 Qf7 14. Qb5
+Be6 15. Be2 Rfd8 16. Nxb6 Rxd1+ 17. Rxd1 axb6 18. a3 Na5 19. Nd2 Rd8 20. b4 Nc6
+21. Nf1 Rxd1+ 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.04"]
+[Round "8"]
+[White "Yarysh, Grigorij"]
+[Black "Petrov, Artur"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2304"]
+[BlackElo "2261"]
+[PlyCount "35"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. g3 a5 7. b3 cxd4 8. cxd4 Bb5
+9. Bxb5+ Qxb5 10. Nc3 Qa6 11. a4 Bb4 12. Bd2 Bxc3 13. Bxc3 Nc6 14. Qe2 Qxe2+
+15. Kxe2 Rc8 16. Rhc1 Nge7 17. Rab1 Kd7 18. Ng5 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.05"]
+[Round "10"]
+[White "Yarysh, Grigorij"]
+[Black "Maiorov, Oleg"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2304"]
+[BlackElo "2444"]
+[PlyCount "26"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O d5 9. exd5 cxd5 10. Bg5 c6 11. Qf3 h6 12. Bxf6 Qxf6 13. Qxf6 gxf6
+1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.05"]
+[Round "11"]
+[White "Maiorov, Oleg"]
+[Black "Galojan, Lilit"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2444"]
+[BlackElo "2290"]
+[PlyCount "23"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Qd2 h6 8.
+Nc2 Bxe3 9. Nxe3 d6 10. Be2 O-O 11. O-O Re8 12. Qc2 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.05"]
+[Round "11"]
+[White "Sergeev, Albert"]
+[Black "Derbenev, Andrey"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2379"]
+[BlackElo "2302"]
+[PlyCount "131"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Qf3 Nf6 7. h3 O-O 8. Ne2
+Re8 9. Bg5 Be7 10. Nd2 Nb8 11. O-O-O Nbd7 12. Rhe1 Nf8 13. Nf4 c6 14. Nh5 Nxh5
+15. Bxe7 Rxe7 16. Qxh5 Bd7 17. Nf3 f6 18. Rxe7 Qxe7 19. Re1 Qd6 20. Qh4 Ng6 21.
+Bxg6 hxg6 22. Qg3 Qxg3 23. fxg3 Kf7 24. g4 g5 25. Kd2 Kf8 26. Re3 Be8 27. Ke2
+Bg6 28. Kf2 Kf7 29. Ng1 b6 30. Ne2 Bb1 31. a3 a5 32. Ng3 g6 33. Nf1 Be4 34. Nd2
+Bc2 35. Re1 Rc8 36. Rc1 Bd3 37. Ke3 Ba6 38. Kf2 c5 39. Nf3 Bd3 40. Rd1 Bc2 41.
+Rd2 Be4 42. Rd1 Ke6 43. Ke3 Kd6 44. Rf1 Re8 45. Kd2 Rc8 46. Ke3 Ke6 47. Rd1 Rc7
+48. Re1 Kd6 49. Rf1 Re7 50. Kd2 Re8 51. Re1 Rc8 52. Rf1 Ke6 53. Ke3 Bxf3 54.
+Rxf3 f5 55. Rf2 fxg4 56. hxg4 cxd4+ 57. cxd4 Rc1 58. Kd3 Rd1+ 59. Rd2 Rf1 60.
+Re2+ Kd6 61. Re5 Rd1+ 62. Kc3 Rc1+ 63. Kd2 Rg1 64. Rxg5 Rxg2+ 65. Kc3 Rg3+ 66.
+Kc2 1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.05"]
+[Round "11"]
+[White "Stambulian, Arsen"]
+[Black "Golovin, Leonid"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "2393"]
+[BlackElo "2457"]
+[PlyCount "26"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. c3 Qd3 8.
+hxg4 hxg4 9. Nxe5 Bd6 10. Nxd3 Bh2+ 11. Kh1 Bd6+ 12. Kg1 Bh2+ 13. Kh1 Bd6+
+1/2-1/2
+
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "2008.09.06"]
+[Round "12"]
+[White "Petrov, Artur"]
+[Black "Bagrationi, Alexander"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2261"]
+[BlackElo "2252"]
+[PlyCount "56"]
+[EventDate "2008.08.31"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "RUS"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d3 h6
+9. Nbd2 O-O 10. Re1 Be6 11. Bxe6 fxe6 12. Nf1 Bb6 13. Be3 Bxe3 14. Nxe3 Ne7 15.
+Qb3 Qd7 16. d4 Nxe4 17. dxe5 d5 18. Rad1 Rxf3 19. gxf3 Ng5 20. Kg2 Ng6 21. Qb4

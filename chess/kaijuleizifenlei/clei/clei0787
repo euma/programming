@@ -1,0 +1,600 @@
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 O-O 6. Bg5 h6 7. Bh4 Na5 8. Bb3
+Be7 9. Nxe5 Nxb3 10. axb3 d5 11. O-O d4 12. Ne2 c5 13. Bxf6 Bxf6 14. Nf3 Bg4
+15. Nd2 Be7 16. h3 Be6 17. f4 f5 18. Ng3 Qc7 19. e5 g6 20. Qe2 Kg7 21. c3 Rad8
+22. c4 a6 23. Nf3 Bd7 24. Nd2 Bc6 25. Ra3 Kh7 26. Rfa1 Qd7 27. Nf3 Qe6 28. Nd2
+Rg8 29. Ngf1 g5 30. Nh2 gxf4 31. Rf1 Rxg2+ 32. Qxg2 Bxg2 33. Kxg2 Rg8+ 34. Kf2
+Qg6 35. Ndf3 Qg2+ 36. Ke1 Qxb2 37. Ra5 Rg2 38. Nxd4 Qd2# 0-1
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "4"]
+[White "Begri, Felix"]
+[Black "Kohnen, Katharina"]
+[Result "1-0"]
+[ECO "C27"]
+[PlyCount "205"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 c5 4. f4 exf4 5. Nf3 h6 6. e5 Ng8 7. d3 d6 8. Bxf4
+dxe5 9. Bxe5 Qe7 10. Qe2 Nc6 11. Bg3 Qxe2+ 12. Nxe2 Nf6 13. O-O-O Be7 14. Ne5
+Nxe5 15. Bxe5 O-O 16. Bxf6 Bxf6 17. c3 b6 18. Bd5 Rb8 19. Rhf1 Bg4 20. Rd2 Rfe8
+21. Nf4 Re7 22. h3 Bd7 23. Rdf2 Rbe8 24. Nh5 Bg5+ 25. Kc2 Be6 26. Bxe6 Rxe6 27.
+Ng3 R8e7 28. Nf5 Rd7 29. g3 Be3 30. Nxe3 Rxe3 31. g4 Rxh3 32. Rf3 Rh2+ 33. Kb3
+Rg2 34. Rf4 Rd5 35. Rxf7 Rxg4 36. Rxa7 Rxd3 37. Re1 Rg6 38. Re8+ Kh7 39. Raa8
+Rgd6 40. Rh8+ Kg6 41. Rag8 Rh3 42. Re8 Kg5 43. Rhg8 g6 44. Re5+ Kf4 45. Re1 g5
+46. Rf8+ Kg4 47. Re4+ Kh5 48. Rg8 Rh4 49. Re2 Kg4 50. a4 h5 51. Rf8 Kg3 52. a5
+bxa5 53. Rf5 Rf4 54. Rxg5+ Kf3 55. Rh2 Rb6+ 56. Kc2 Re4 57. Rhxh5 Re2+ 58. Kd3
+Rbxb2 59. Rxc5 Rbd2+ 60. Kc4 Ra2 61. Rxa5 Rxa5 62. Rxa5 Re4+ 63. Kb3 Ke3 64. c4
+Kd4 65. Rd5+ Ke3 66. Kb4 Re6 67. Kb5 Ke4 68. Rh5 Kd4 69. c5 Re8 70. Rh4+ Kd5
+71. Rh5+ Ke6 72. Rh6+ Kd7 73. Rb6 Rc8 74. c6+ Kc7 75. Rb7+ Kd8 76. Kb6 Ke8 77.
+c7 Kd7 78. Ra7 Kd6 79. Rb7 Kd7 80. Ra7 Kd6 81. Ra1 Kd7 82. Rd1+ Ke8 83. Kb7
+Rxc7+ 84. Kxc7 Ke7 85. Re1+ Kf6 86. Kd6 Kf5 87. Re8 Kf4 88. Kd5 Kf5 89. Rf8+
+Kg4 90. Ke5 Kg3 91. Ke4 Kg2 92. Ke3 Kg1 93. Ke2 Kg2 94. Rg8+ Kh3 95. Kf2 Kh4
+96. Kf3 Kh5 97. Kf4 Kh6 98. Kf5 Kh7 99. Rg1 Kh6 100. Rg2 Kh7 101. Kf6 Kh8 102.
+Kf7 Kh7 103. Rh2# 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "4"]
+[White "Fuchs, Judith"]
+[Black "Laubert, Johannes"]
+[Result "1-0"]
+[ECO "C15"]
+[WhiteElo "2151"]
+[BlackElo "2031"]
+[PlyCount "67"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Nf6 7. Qxg7 Rg8 8.
+Qh6 c5 9. Ne2 Nbd7 10. Bg5 Rg6 11. Qh4 Qa5 12. Bd2 Qa4 13. Rc1 Qxa3 14. h3 cxd4
+15. cxd4 Qe7 16. Nf4 Rg8 17. Bc4 e5 18. dxe5 Nxe5 19. Bb5+ Bd7 20. Bxd7+ Nexd7
+21. O-O Ne5 22. Kh1 Ng6 23. Nxg6 hxg6 24. Bg5 Qb4 25. Bxf6 Kd7 26. Rb1 Qc4 27.
+Qg4+ Kc6 28. Rfe1 Rge8 29. Red1 Re6 30. Bg5 f5 31. Qf4 a5 32. Bd8 Rc8 33. Rb6+
+Kc5 34. Qe3+ 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "4"]
+[White "Gheng, Hannelore"]
+[Black "Mundorf, Johannes"]
+[Result "1-0"]
+[ECO "C10"]
+[PlyCount "157"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Nf3 c5 7. dxc5 Nxc5 8.
+Nxc5 Bxc5 9. O-O Kd7 10. Ne5+ Ke7 11. Kh1 Nd7 12. f4 f6 13. Nxd7 Qxd7 14. f5 e5
+15. c3 Rd8 16. Rf3 e4 17. Qe2 Kf8 18. Qxe4 Rb8 19. Be3 Bxe3 20. Rxe3 b6 21.
+Rae1 Bb7 22. Qe6 Qxe6 23. fxe6 Ke7 24. Bxh7 Rd2 25. b4 Rxa2 26. Be4 Bxe4 27.
+Rxe4 Rd8 28. h3 Rdd2 29. Rg4 g5 30. h4 gxh4 31. Rg7+ Kf8 32. e7+ Kxg7 33. e8=Q
+Rxg2 34. Rg1 h3 35. Rxg2+ hxg2+ 36. Kg1 f5 37. Qh5 Kf6 38. Qf3 Ke5 39. Qe3+ Kf6
+40. Qd4+ Kg5 41. Qe3+ Kg4 42. Qe5 Rb2 43. c4 Ra2 44. c5 bxc5 45. bxc5 Rc2 46.
+c6 Rxc6 47. Qe2+ Kf4 48. Qf2+ Ke5 49. Kxg2 a6 50. Qf3 Rc2+ 51. Kg3 a5 52. Qe3+
+Kf6 53. Qb6+ Kg5 54. Qxa5 Re2 55. Qd8+ Kh5 56. Kf4 Rf2+ 57. Kg3 Re2 58. Qf6 f4+
+59. Qxf4 Re1 60. Qg4+ Kh6 61. Qf4+ Kh5 62. Qf5+ Kh6 63. Qf6+ Kh5 64. Qf7+ Kh6
+65. Kg4 Rg1+ 66. Kh3 Rh1+ 67. Kg2 Re1 68. Qf6+ Kh5 69. Qf5+ Kh6 70. Qf4+ Kh5
+71. Qf3+ Kh6 72. Kf2 Re7 73. Qf6+ Kh5 74. Qxe7 Kg4 75. Qf6 Kh5 76. Qg7 Kh4 77.
+Qg6 Kh3 78. Qg5 Kh2 79. Qg2# 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "4"]
+[White "Heimann, Andreas"]
+[Black "Harff, Marcel"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2403"]
+[BlackElo "2159"]
+[PlyCount "147"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. dxc5 Qxc5 10. Qd4 Nc6 11. Qxc5 Nxc5 12. Bd3 b5 13. Ne2 f6 14. Ned4 Nxd4
+15. Nxd4 fxe5 16. fxe5 O-O 17. Rf1 Bd7 18. Kd2 Na4 19. b3 Nc5 20. a3 Rae8 21.
+Ke3 Nb7 22. Rxf8+ Rxf8 23. Rf1 Rxf1 24. Bxf1 Kf7 25. Bd3 Nc5 26. Kf4 h6 27. h4
+Ke7 28. Ke3 Be8 29. Ne2 Nd7 30. Kd4 Bh5 31. Nf4 Bg4 32. c3 Bd1 33. b4 Kf7 34.
+Bg6+ Ke7 35. Nd3 Be2 36. Nc5 Nb6 37. Nxa6 Nc4 38. Kc5 Nxa3 39. Nb8 Nc4 40. Kd4
+Bf1 41. g3 Be2 42. Nc6+ Kd7 43. Na5 Nb6 44. Bc2 Nc8 45. Kc5 Ne7 46. Nb3 Nc6 47.
+Nd4 Nxd4 48. cxd4 Ke7 49. Bg6 Bc4 50. g4 Be2 51. g5 hxg5 52. hxg5 Bc4 53. Kc6
+Be2 54. Kc7 Bc4 55. Bc2 Be2 56. Bb3 Bc4 57. Bd1 Kf7 58. Kd6 Bd3 59. Bg4 Kg6 60.
+Bxe6 Kxg5 61. Bf7 Bf5 62. Bxd5 Kf4 63. e6 Bxe6 64. Bxe6 g5 65. Kc5 g4 66. Bxg4
+Kxg4 67. Kxb5 Kf5 68. Kc6 Ke6 69. d5+ Ke7 70. Kc7 Kf6 71. d6 Ke5 72. d7 Kd4 73.
+d8=Q+ Kc4 74. Qd6 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "4"]
+[White "Kaphle, Stephan"]
+[Black "Pantusenko, Valeria"]
+[Result "1-0"]
+[ECO "C97"]
+[WhiteElo "2139"]
+[PlyCount "45"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 b5 8. Bb3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nb7 13. Nf1 Bd7 14. dxe5 dxe5 15.
+Qe2 Bc6 16. N3h2 Nd6 17. Ng3 Qb7 18. Ng4 Nxg4 19. Qxg4 Rad8 20. Bh6 Bf6 21. Nh5
+Ne8 22. Nxf6+ Kh8 23. Nxe8 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "4"]
+[White "Kappe, Benedikt"]
+[Black "Haidar, Marcel"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2013"]
+[PlyCount "53"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Bb6 6. Nxc6 bxc6 7. Bxb6 cxb6
+8. Bc4 Ne7 9. Nc3 O-O 10. Qh5 d5 11. exd5 cxd5 12. O-O-O d4 13. Nb5 Ng6 14.
+Nxd4 Qf6 15. Kb1 Bb7 16. f3 Rac8 17. Bb3 Rc5 18. Qg4 Rg5 19. Qd7 Rd8 20. Qxb7
+Rxd4 21. Rxd4 Rxg2 22. Qc8+ Nf8 23. Rd8 Qe7 24. Rhd1 Rxh2 25. a4 h6 26. Rxf8+
+Qxf8 27. Rd8 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "5"]
+[White "Laubert, Johannes"]
+[Black "Eimer, Matthias"]
+[Result "1-0"]
+[ECO "C03"]
+[WhiteElo "2031"]
+[PlyCount "147"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 Nf6 5. e5 Nfd7 6. c3 c5 7. Bd3 b6 8. Qe2
+cxd4 9. cxd4 a5 10. O-O Ba6 11. Nb1 Bxd3 12. Qxd3 O-O 13. Nc3 Nc6 14. Nb5 Nb4
+15. Qe2 Rc8 16. a3 Na6 17. Be3 Nc7 18. Rac1 Nxb5 19. Qxb5 Rc7 20. Rxc7 Qxc7 21.
+Rc1 Qb7 22. Qc6 Qxc6 23. Rxc6 Rb8 24. Rc7 Rd8 25. Bg5 Bxg5 26. Nxg5 h6 27. Nf3
+Kf8 28. Kf1 Ke8 29. Ke2 Rb8 30. Kd3 Kd8 31. Rc6 b5 32. Nd2 Nb6 33. b3 Nc8 34.
+f4 Rb6 35. Rc1 b4 36. a4 Ne7 37. g4 Kd7 38. Rc5 Ra6 39. Nf3 Nc6 40. f5 Nd8 41.
+h4 Nb7 42. Rb5 Kc6 43. fxe6 fxe6 44. g5 Nd8 45. Rc5+ Kd7 46. Rc2 Rc6 47. Rg2
+Rc3+ 48. Ke2 Ke7 49. gxh6 gxh6 50. Nd2 Nf7 51. Rg8 Rh3 52. Nf3 Rh2+ 53. Kd3 Rh3
+54. Ke3 h5 55. Ra8 Rg3 56. Ra7+ Kf8 57. Rxa5 Nh6 58. Kf2 Nf5 59. Rb5 Rh3 60.
+Rxb4 Nxh4 61. Nxh4 Rxh4 62. Rb8+ Ke7 63. Ke3 Re4+ 64. Kd3 h4 65. Rh8 Rg4 66. a5
+Rg3+ 67. Kc2 Rg2+ 68. Kc3 Rg3+ 69. Kb4 h3 70. a6 Rd3 71. a7 Rxd4+ 72. Kb5 Rd1
+73. a8=Q Rb1 74. Qb7# 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "5"]
+[White "Pantusenko, Valeria"]
+[Black "Haidar, Marcel"]
+[Result "1-0"]
+[ECO "C48"]
+[PlyCount "75"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 a6 5. Bxc6 dxc6 6. Nxe5 Qd4 7. Nf3 Qb6 8.
+O-O Be6 9. e5 Nd5 10. Ne4 O-O-O 11. Qe2 Nb4 12. d3 Bg4 13. Bg5 f6 14. exf6 gxf6
+15. Bxf6 Rg8 16. Bxd8 Bxf3 17. Qxf3 Kxd8 18. Qf6+ Be7 19. Qf7 Rf8 20. Qxh7 Nxc2
+21. Rac1 Nd4 22. Rfe1 Ne6 23. Ng3 Rxf2 24. Kh1 Rf6 25. Ne4 Nf8 26. Qh8 Rg6 27.
+Rf1 Ke8 28. Rf3 Qb5 29. Rcf1 Qb4 30. a3 Qa4 31. Rxf8+ Kd7 32. Nc3 Qc2 33. Qd4+
+Rd6 34. Qg4+ Re6 35. Re1 Qb3 36. Rf7 Kd8 37. Qxe6 Qxb2 38. Qxe7+ 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "6"]
+[White "Friedrich, Ricardo"]
+[Black "Schmitt, Philipp"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[WhiteElo "1914"]
+[BlackElo "2011"]
+[PlyCount "163"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6 8.
+Bd3 c4 9. Be2 Qa5 10. Bd2 Qa4 11. h4 Bd7 12. h5 h6 13. O-O O-O-O 14. Nh2 Kb8
+15. Bg4 Ka8 16. Bf4 f6 17. Re1 f5 18. Bh3 Rdf8 19. Nf3 Be8 20. Nh4 Nd8 21. Qd2
+Bxh5 22. Nf3 g5 23. Nxg5 hxg5 24. Bxg5 Nec6 25. Bf6 Rhg8 26. Qh6 Bg4 27. Bxg4
+fxg4 28. Rab1 Nf7 29. Qh7 Qa6 30. Re3 Ng5 31. Qd7 Ne4 32. Qxe6 Nxf6 33. exf6
+Nb8 34. Qxd5 Qc6 35. Qe5 Qxf6 36. Qg3 Nc6 37. Rbe1 Qf7 38. Re6 Qh7 39. d5 Rh8
+40. Kf1 Nd8 41. Re7 Qxc2 42. Kg1 Qf5 43. d6 Qf4 44. Qxf4 Rxf4 45. Re8 Rff8 46.
+d7 Kb8 47. Rxf8 Rxf8 48. Re8 Rf7 49. Rxd8+ Kc7 50. Rg8 Rxd7 51. Rxg4 Rd3 52.
+Rxc4+ Kb6 53. Kf1 Kb5 54. Rb4+ Kc6 55. Rc4+ Kb5 56. Rd4 Rxc3 57. Rd7 Kc6 58.
+Rd2 Rxa3 59. g4 Rf3 60. Kg2 Rf8 61. g5 b5 62. g6 a5 63. Re2 Rg8 64. Re6+ Kd5
+65. Ra6 a4 66. Kf3 a3 67. Rxa3 Rxg6 68. Rd3+ Kc4 69. Ke2 b4 70. Kd2 b3 71. Rd8
+Rf6 72. Rc8+ Kb4 73. Ke3 b2 74. Rb8+ Ka3 75. f4 Ka2 76. Ra8+ Kb3 77. Rb8+ Kc2
+78. Rc8+ Kd1 79. Rd8+ Kc2 80. Rc8+ Kd1 81. Rb8 Kc2 82. Rc8+ 1/2-1/2
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "6"]
+[White "Fuchs, Judith"]
+[Black "Goetz, Martin"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2151"]
+[BlackElo "2080"]
+[PlyCount "33"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nf6 6. Nf3 Bg4 7. O-O O-O 8.
+Bg5 Nc6 9. Bxf6 Qxf6 10. Nxd5 Qd6 11. Nxb4 Qxb4 12. Bxh7+ Kh8 13. Be4 Qxb2 14.
+Rb1 Qxa2 15. h3 Bh5 16. Rxb7 Na5 17. Rb5 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "6"]
+[White "Hentze, Markus"]
+[Black "Rudolf, Sebastian"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "1932"]
+[BlackElo "2123"]
+[PlyCount "72"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. dxe5 dxe5 5. Bc4 c6 6. O-O Be7 7. Nc3 Ngf6 8.
+Bg5 O-O 9. Qe2 Qc7 10. Bh4 b5 11. Bb3 Bb7 12. Bg3 Rfe8 13. Rad1 Bf8 14. a3 a5
+15. Ng5 Re7 16. f4 h6 17. fxe5 Nxe5 18. Nf3 Nxf3+ 19. Rxf3 Qb6+ 20. Bf2 Qc7 21.
+Bd4 Nh7 22. Bc5 Ng5 23. Rf2 Rd7 24. Rxd7 Qxd7 25. Be3 b4 26. Bxg5 bxc3 27. Bc1
+Bc5 28. Be3 Bxe3 29. Qxe3 cxb2 30. Rf1 Rf8 31. Qc3 Ba6 32. Rb1 Qa7+ 33. Kh1 Qf2
+34. Qxb2 Bf1 35. Bxf7+ Kh8 36. c4 Bxg2# 0-1
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "6"]
+[White "Mader, Kai"]
+[Black "Reinsdorf, Christoph"]
+[Result "1/2-1/2"]
+[ECO "C31"]
+[PlyCount "53"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. f4 d5 3. d3 dxe4 4. Nc3 exd3 5. Bxd3 Nc6 6. Nf3 Bd6 7. O-O Be6 8.
+fxe5 Nxe5 9. Nxe5 Bxe5 10. Bd2 c6 11. Re1 Bd4+ 12. Be3 Bxe3+ 13. Rxe3 Nf6 14.
+Ne4 Nxe4 15. Rxe4 Qb6+ 16. Kh1 O-O-O 17. b3 Bd5 18. Re7 Qf2 19. Qg1 Qf6 20.
+Rae1 Rd7 21. Rxd7 Kxd7 22. Qxa7 Kc7 23. Qa5+ Kd7 24. Qa7 Kc7 25. Qa5+ Kd6 26.
+Qb4+ Kc7 27. Qa5+ 1/2-1/2
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "7"]
+[White "Borrink, Joern"]
+[Black "Graf, Felix"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2050"]
+[BlackElo "2177"]
+[PlyCount "84"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. a3 Nc6 6. Nf3 c4 7. Nbd2 Na5 8. b4 cxb3
+9. Rb1 Bd7 10. c4 Ba4 11. c5 Qc7 12. Bb2 Ne7 13. Bc3 Nec6 14. Bd3 Be7 15. O-O
+O-O 16. h3 b5 17. Qe2 a6 18. Nh2 Rae8 19. f4 f6 20. Ng4 fxe5 21. Nxe5 Nxe5 22.
+fxe5 Nc4 23. Qh5 g6 24. Bxg6 hxg6 25. Qxg6+ Kh8 26. Qh6+ Kg8 27. Qxe6+ Kg7 28.
+Nxc4 bxc4 29. Bd2 Bd7 30. Qh6+ Kg8 31. Qg6+ Kh8 32. Bh6 Rxf1+ 33. Rxf1 Rg8 34.
+Qh5 Be8 35. Qf3 Bg6 36. Qxd5 b2 37. Qxc4 b1=Q 38. Rxb1 Bxb1 39. Bf4 Qc6 40. g3
+Be4 41. Qf7 Qb7 42. Qh5+ Bh7 0-1
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "7"]
+[White "Eimer, Matthias"]
+[Black "Miller, Eduard"]
+[Result "1-0"]
+[ECO "C44"]
+[PlyCount "181"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 exd4 5. e5 Ne4 6. Qe2 Nc5 7. cxd4 Ne6 8. d5
+Ned4 9. Nxd4 Nxd4 10. Qe4 Bc5 11. Be3 Bb4+ 12. Nc3 c5 13. Bxd4 cxd4 14. Qxd4
+Bxc3+ 15. bxc3 O-O 16. Bd3 d6 17. O-O dxe5 18. Qxe5 Re8 19. Qd4 Bd7 20. Rfe1
+Qa5 21. Bc4 Rad8 22. Bb3 g6 23. Re3 Rxe3 24. Qxe3 Bf5 25. Re1 b6 26. h3 Qb5 27.
+Qe7 Rd7 28. Qe8+ Kg7 29. Qe5+ f6 30. Qe2 Qc5 31. g4 Qxc3 32. gxf5 gxf5 33. Kh2
+Qc7+ 34. Kh1 Qf4 35. Rg1+ Kf8 36. Qe3 Qh4 37. Qg3 Qe4+ 38. Kh2 Ke7 39. Qg7+ Kd6
+40. Qf8+ Kc7 41. Qg8 Qf4+ 42. Qg3 Qxg3+ 43. fxg3 Kd6 44. Rg2 Ke5 45. Rd2 Ke4
+46. Kg2 f4 47. gxf4 Kxf4 48. Kf2 Ke4 49. Re2+ Kd3 50. Re6 f5 51. Rf6 a5 52.
+Rxf5 b5 53. Rh5 b4 54. Rh4 Kc3 55. Rc4+ Kb2 56. Rd4 Ka3 57. Ke3 a4 58. Bc4 b3
+59. axb3 axb3 60. Rd3 Kb4 61. Rxb3+ Kxc4 62. Rd3 Kc5 63. Ke4 Kd6 64. Rb3 Ke7
+65. Ke5 Ra7 66. Rg3 Kf7 67. Rf3+ Ke7 68. Rf5 Ra5 69. Rh5 Ra1 70. Rxh7+ Ke8 71.
+Kd6 Rc1 72. Rh5 Kf7 73. Re5 Kf6 74. Re6+ Kf5 75. Ke7 Rd1 76. d6 Kg5 77. d7 Kh4
+78. d8=Q Rxd8 79. Kxd8 Kxh3 80. Rg6 Kh4 81. Rg8 Kh5 82. Ke7 Kh6 83. Kf7 Kh7 84.
+Rg1 Kh6 85. Kf6 Kh5 86. Kf5 Kh4 87. Rg8 Kh3 88. Kf4 Kh2 89. Kf3 Kh1 90. Kf2 Kh2
+91. Rh8# 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "7"]
+[White "Erben, Larissa"]
+[Black "Pantusenko, Valeria"]
+[Result "1-0"]
+[ECO "C96"]
+[WhiteElo "1934"]
+[PlyCount "63"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. h3 b5 8. Bb3
+O-O 9. c3 Na5 10. Bc2 c5 11. d4 Nc6 12. Nbd2 exd4 13. cxd4 Re8 14. Nf1 d5 15.
+e5 Ne4 16. Bxe4 dxe4 17. Rxe4 cxd4 18. b3 Qd5 19. Ng3 Bf5 20. Re1 Bb4 21. Nxf5
+Bxe1 22. Nxe1 Rxe5 23. Ng3 Rae8 24. Nf3 R5e6 25. Bb2 d3 26. Qd2 Rh6 27. Qc3 Rg6
+28. Rc1 b4 29. Qd2 Rxg3 30. fxg3 Re2 31. Qg5 Rxb2 32. Qxd5 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "7"]
+[White "Gheng, Hannelore"]
+[Black "Kugler, Florian"]
+[Result "0-1"]
+[ECO "C56"]
+[BlackElo "1864"]
+[PlyCount "64"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 Nxd4 5. Bxf7+ Kxf7 6. Nxe5+ Ke8 7. Qxd4 d6
+8. Nf3 c5 9. Qc4 a6 10. O-O b5 11. Qd3 Be6 12. b3 Be7 13. Bb2 c4 14. bxc4 Bxc4
+15. Qd4 Bxf1 16. Kxf1 Rc8 17. Nbd2 Qc7 18. Rc1 Rf8 19. e5 dxe5 20. Nxe5 Qd6 21.
+Qe3 Rd8 22. Ne4 Nxe4 23. Qxe4 g6 24. Nc6 Rc8 25. Nxe7 Qxe7 26. Qg4 Qc7 27. Re1+
+Kf7 28. Qf3+ Kg8 29. Qb3+ Rf7 30. Kg1 Qxc2 31. Re8+ Rxe8 32. Qxc2 Re1# 0-1
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "7"]
+[White "Kaphle, Sebastian"]
+[Black "Haidar, Marcel"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2102"]
+[PlyCount "91"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nc3 Nf6 4. d3 Na5 5. Nge2 Nxc4 6. dxc4 Bc5 7. O-O d6 8.
+b3 O-O 9. Kh1 Ng4 10. f3 Nf2+ 11. Rxf2 Bxf2 12. Qd3 f5 13. Be3 Bxe3 14. Qxe3
+fxe4 15. Nxe4 Bf5 16. N2g3 Bg6 17. Rd1 h5 18. Nc3 Bxc2 19. Rd2 Bg6 20. c5 Qf6
+21. Nge4 Bxe4 22. Nxe4 Qg6 23. cxd6 cxd6 24. Rxd6 Qf5 25. Qd2 Rac8 26. Qd1 Rc7
+27. Rd8 Rcf7 28. Rxf8+ Rxf8 29. Kg1 Qe6 30. Kf2 Qb6+ 31. Kf1 Rd8 32. Qe2 Qd4
+33. g3 Qd1+ 34. Kf2 Qh1 35. Qc4+ Kh8 36. h4 Qh2+ 37. Ke3 Qg1+ 38. Ke2 Qd1+ 39.
+Kf2 Rf8 40. Ng5 Qd2+ 41. Qe2 Qd4+ 42. Kg2 Rc8 43. f4 exf4 44. Qxh5+ Kg8 45.
+Qh7+ Kf8 46. Ne6+ 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "7"]
+[White "Kappe, Benedikt"]
+[Black "Hagedorn, Florian"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2013"]
+[PlyCount "63"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 b6 2. d4 e6 3. Bd3 Nc6 4. Nf3 f6 5. e5 f5 6. c4 d6 7. exd6 Bxd6 8. O-O
+Nf6 9. Nc3 Ng4 10. d5 Nce5 11. Nxe5 Bxe5 12. f4 Bd4+ 13. Kh1 Qh4 14. h3 Nf2+
+15. Rxf2 Qxf2 16. Nb5 Kd8 17. Nxd4 Qxd4 18. Qe2 exd5 19. cxd5 Re8 20. Qc2 Re1+
+21. Kh2 Qg1+ 22. Kg3 g5 23. fxg5 f4+ 24. Bxf4 Rxa1 25. Qxc7+ Ke8 26. Bb5+ Kf8
+27. Qd8+ Kf7 28. Qf6+ Kg8 29. Qd8+ Kg7 30. Be5+ Kg6 31. Qf6+ Kh5 32. Be8# 1-0
+
+[Event "GER-ch Net qual3 U18"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "7"]
+[White "Schnoor, Ekkehard"]
+[Black "Laubert, Johannes"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "1997"]
+[BlackElo "2031"]
+[PlyCount "96"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 dxc3 12. Qd3 Bd7 13. Nxc3 a6 14. Ne2
+Nf5 15. h3 O-O-O 16. g4 Nh4 17. Be3 d4 18. Bf2 Ng6 19. Bg2 Na5 20. O-O Bb5 21.
+Qd1 Bxe2 22. Qxe2 Nxf4 23. Qe4 Nxg2 24. Kxg2 Rd5 25. Bg3 Nc4 26. Rae1 Ne3+ 27.
+Rxe3 dxe3 28. Qxe3 Kb8 29. Bf2 Qc6 30. Qa7+ Kc7 31. Kg1 Rgd8 32. Bh4 R8d7 33.
+Bf2 Rd1 34. Qc5 Qxc5 35. Bxc5 Rxf1+ 36. Kxf1 Rd1+ 37. Kg2 Rc1 38. Kf3 Rxc2 39.
+Be3 b5 40. h4 Kc6 41. h5 Kd5 42. h6 Rc8 43. g5 Kxe5 44. Kg4 a5 45. Kh5 Kf5 46.
+Bd2 Rc2 47. Bf4 Kxf4 48. g6 Rh2# 0-1
+
+[Event "GER-ch Net qual3 U25"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "2"]
+[White "Spreer, Lutz"]
+[Black "Siedentopf, Daniel"]
+[Result "0-1"]
+[ECO "C18"]
+[BlackElo "2180"]
+[PlyCount "92"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Bg5 Qa5 8. Qd2
+Nbc6 9. Nf3 cxd4 10. Nxd4 Ng6 11. f4 h6 12. Nxc6 bxc6 13. f5 exf5 14. Be3 f4
+15. Bd4 c5 16. Bf2 O-O 17. Bd3 Nxe5 18. O-O f3 19. Bg3 fxg2 20. Kxg2 Nxd3 21.
+cxd3 Qd8 22. Be5 Qg5+ 23. Qxg5 hxg5 24. Rf3 Be6 25. Rg3 f6 26. Bd6 Rfc8 27. Rb1
+Rc6 28. Be7 Rb6 29. Re1 Rc8 30. Rge3 Kf7 31. Bxc5 Rxc5 32. d4 Ra5 33. Rg3 Rxa3
+34. h4 gxh4 35. Rf3 g5 36. Ref1 Bg4 37. Re3 Rb2+ 38. Kg1 Raa2 39. Rfe1 Kg6 40.
+Re8 Rh2 41. Rg8+ Kf7 42. Ree8 Rag2+ 43. Kf1 h3 44. Rgf8+ Kg6 45. Rg8+ Kf5 46.
+Rgf8 Rh1# 0-1
+
+[Event "GER-ch Net qual3 U25"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "4"]
+[White "Eber, Fabian"]
+[Black "Haecker, Alexander"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1802"]
+[BlackElo "2234"]
+[PlyCount "64"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c3 Nc6 5. Nf3 Bd6 6. Bd3 Nge7 7. O-O Bg4 8.
+Bg5 Qd7 9. Bxe7 Nxe7 10. b4 O-O-O 11. Nbd2 h5 12. b5 g5 13. Nb3 Ng6 14. Nc5 Qe7
+15. Re1 Qf6 16. Qa4 Bxc5 17. dxc5 Bxf3 18. c6 Be4 19. Qxa7 bxc6 20. Bxe4 dxe4
+21. Qa6+ Kd7 22. bxc6+ Ke7 23. Qa3+ Rd6 24. Rxe4+ Kf8 25. Rd1 Kg7 26. Rxd6 Qxd6
+27. Qxd6 cxd6 28. a4 Rc8 29. a5 Rxc6 30. Ra4 Ra6 31. Kf1 Ne5 32. Ke2 Nc6 0-1
+
+[Event "GER-ch Net qual3 U25"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "5"]
+[White "Elser, Niklas"]
+[Black "Opitz, Alexander"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "1858"]
+[BlackElo "2229"]
+[PlyCount "108"]
+[EventDate "2008.06.08"]
+[EventType "swiss (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. O-O Nxe4 7. cxd4 d5 8.
+dxc5 dxc4 9. Qe2 Qd3 10. Re1 f5 11. Ng5 O-O 12. Qxd3 cxd3 13. Nxe4 fxe4 14. Nc3
+Bf5 15. Nxe4 Nd4 16. Ng3 Nc2 17. Be3 Nxa1 18. Rxa1 Rad8 19. Rd1 Be6 20. a3 Bb3
+21. Rd2 Rfe8 22. Kf1 b6 23. Nf5 Bc4 24. b4 Re5 25. Ng3 Rde8 26. h3 bxc5 27.
+bxc5 Rb8 28. Kg1 Rb3 29. Bd4 Re1+ 30. Kh2 g6 31. c6 Rxa3 32. Rb2 Rb3 33. Ra2 a6
+34. Rd2 Rbb1 35. h4 a5 36. Bc3 a4 37. h5 Red1 38. hxg6 hxg6 39. Ne4 Rxd2 40.
+Bxd2 a3 41. Bf4 a2 42. Bxc7 a1=Q 43. Bf4 Qa6 44. c7 Be6 45. Nc5 Qc6 46. Nxd3
+Rb7 47. Ne5 Qxc7 48. Nxg6 Qf7 49. Ne5 Qxf4+ 50. g3 Qxe5 51. Kg2 Rb2 52. Kf3
+Qe2+ 53. Kf4 Qxf2+ 54. Kg5 Qxg3+ 0-1
+
+[Event "GER-ch Net qual3 U25"]
+[Site "playchess.com INT"]
+[Date "2008.06.08"]
+[Round "5"]
+[White "Kraemer, Martin"]
+[Black "Hirnreise, Jens"]
+[Result "1-0"]
+[ECO "C61"]
+[WhiteElo "2436"]

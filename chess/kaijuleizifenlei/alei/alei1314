@@ -1,0 +1,600 @@
+[Result "0-1"]
+[ECO "A13"]
+[WhiteElo "2441"]
+[BlackElo "2583"]
+[PlyCount "72"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. c4 Nf6 2. g3 c5 3. Bg2 d5 4. Nf3 dxc4 5. Na3 Nc6 6. Nxc4 e6 7. O-O Be7 8. b3
+O-O 9. Bb2 Bd7 10. d4 Qc7 11. Rc1 Rfd8 12. dxc5 Bxc5 13. Nce5 Be8 14. Qc2 Bd6
+15. Nxc6 Qxc6 16. Bxf6 Qxc2 17. Rxc2 gxf6 18. Ne1 Rab8 19. Nd3 b6 20. a4 Rbc8
+21. Rfc1 Rxc2 22. Rxc2 Kf8 23. Bb7 Bd7 24. Ba6 Ke7 25. Rc4 e5 26. Nb4 Bxb4 27.
+Rxb4 Be6 28. Kg2 Rd2 29. Bc4 Bd7 30. f3 Rd4 31. Kf2 f5 32. Ke1 f4 33. gxf4 exf4
+34. e3 fxe3 35. Ke2 Kd6 36. Kxe3 Kc5 0-1
+
+[Event "ESP-chT Hon Gp1"]
+[Site "Cala Mayor"]
+[Date "2008.09.03"]
+[Round "1"]
+[White "Kuzubov, Yuriy"]
+[Black "Spraggett, Kevin"]
+[Result "1-0"]
+[ECO "A64"]
+[WhiteElo "2578"]
+[BlackElo "2601"]
+[PlyCount "75"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. h3 Rb8 13. Nc4 Ne5 14. Nxe5 Rxe5 15.
+e4 b5 16. axb5 axb5 17. f4 Re8 18. e5 dxe5 19. fxe5 Rxe5 20. Bf4 Nh5 21. Bxe5
+Bxe5 22. Qf3 f5 23. g4 Nf6 24. gxf5 Bxf5 25. Ra6 Qd7 26. d6 c4 27. Nd5 Re8 28.
+Nxf6+ Bxf6 29. Qd5+ Kh8 30. Rc6 Bxb2 31. Rc7 Qe6 32. d7 Qe3+ 33. Kh1 Rd8 34.
+Rc8 Bf6 35. Qf7 Qe7 36. Rxd8+ Qxd8 37. Re1 Bxd7 38. Rd1 1-0
+
+[Event "ESP-chT Hon Gp1"]
+[Site "Cala Mayor"]
+[Date "2008.09.04"]
+[Round "2"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Kuzubov, Yuriy"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "2425"]
+[BlackElo "2578"]
+[PlyCount "84"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nf3 d6 6. Nc3 Bd7 7. Qd2 g5 8. e5
+Qd8 9. Ne4 Be7 10. h3 Bc6 11. Qe3 Nd7 12. O-O-O Bxe4 13. Qxe4 d5 14. Qe3 c6 15.
+Kb1 Qb6 16. h4 g4 17. Ne1 c5 18. c3 O-O-O 19. Be2 h5 20. Nd3 Kb8 21. f3 c4 22.
+Nc1 f5 23. exf6 Nxf6 24. fxg4 hxg4 25. Ka1 Qd6 26. g3 Rdg8 27. Rde1 Ne4 28.
+Rhg1 Bf8 29. Rg2 Bh6 30. Qg1 Nd2 31. Qh1 e5 32. dxe5 Qg6 33. Bd3 cxd3 34. Rd1
+Qe4 35. a3 Re8 36. Re1 Qf3 37. Qg1 Ne4 38. Rf1 d2 39. Ne2 Qd3 40. Nf4 Bxf4 41.
+gxf4 g3 42. Rd1 Rxh4 0-1
+
+[Event "ESP-chT Hon Gp1"]
+[Site "Cala Mayor"]
+[Date "2008.09.04"]
+[Round "2"]
+[White "Granda Zuniga, Julio E"]
+[Black "Glud, Jakob Vang"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "2599"]
+[BlackElo "2441"]
+[PlyCount "83"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. Nf3 Nf6 2. c4 c6 3. g3 d5 4. Qc2 Bg4 5. Bg2 Nbd7 6. O-O e6 7. b3 Bc5 8. Bb2
+O-O 9. e3 Re8 10. d4 Bd6 11. Ne5 Bf5 12. Qe2 Qc7 13. Nxd7 Qxd7 14. Nd2 a5 15.
+a3 a4 16. c5 Bc7 17. b4 e5 18. dxe5 Bxe5 19. Bxe5 Rxe5 20. Nf3 Re7 21. Nd4 Bh3
+22. Rab1 Re5 23. Rfc1 Rh5 24. Bh1 Bf5 25. Nxf5 Qxf5 26. Bg2 Re8 27. b5 Rh6 28.
+bxc6 bxc6 29. Rb4 Nd7 30. Rxa4 Ne5 31. e4 dxe4 32. Rxe4 Rhe6 33. Rd1 g6 34. a4
+h5 35. a5 Ng4 36. Rxe6 Rxe6 37. Qb2 Kh7 38. h3 Nf6 39. Qd4 Re7 40. a6 Ra7 41.
+Qc4 Nd7 42. Be4 1-0
+
+[Event "ESP-chT Hon Gp1"]
+[Site "Cala Mayor"]
+[Date "2008.09.05"]
+[Round "3"]
+[White "Argandona Riveiro, Inigo"]
+[Black "Gomez Esteban, Juan Mario"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2375"]
+[BlackElo "2503"]
+[PlyCount "55"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O e6 6. Nc3 a6 7. d4 cxd4 8. Qxd4
+d6 9. Bg5 Nbd7 10. Rfd1 Be7 11. Qd2 O-O 12. Bf4 Ne8 13. Rac1 Rc8 14. b3 Qc7 15.
+Qe3 Qb8 16. Bh3 Bxf3 17. exf3 Nef6 18. Nd5 exd5 19. Qxe7 Rfe8 20. Qxd6 Qxd6 21.
+Bxd6 dxc4 22. Bf4 cxb3 23. Rxc8 Rxc8 24. axb3 Re8 25. Bxd7 Rd8 26. Rc1 Nxd7 27.
+Rd1 Kf8 28. Bd6+ 1-0
+
+[Event "ESP-chT Hon Gp1"]
+[Site "Cala Mayor"]
+[Date "2008.09.05"]
+[Round "3"]
+[White "Roiz, Michael"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2680"]
+[BlackElo "2720"]
+[PlyCount "53"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. Nf3 c5 2. g3 g6 3. Bg2 Bg7 4. c4 Nc6 5. Nc3 e6 6. e3 Nge7 7. d4 cxd4 8. Nxd4
+d5 9. cxd5 Nxd4 10. exd4 Nxd5 11. O-O O-O 12. Qb3 Ne7 13. d5 exd5 14. Nxd5 Be6
+15. Rd1 Nxd5 16. Bxd5 Bxd5 17. Rxd5 Qe7 18. Be3 b6 19. Rad1 Rad8 20. Qb5 Rxd5
+21. Rxd5 Rd8 22. b3 Bf6 23. Rxd8+ Qxd8 24. Qc6 Kg7 25. Kg2 Bd4 26. Bf4 g5 27.
+Bc1 1/2-1/2
+
+[Event "ESP-chT Hon Gp1"]
+[Site "Cala Mayor"]
+[Date "2008.09.07"]
+[Round "5"]
+[White "Glud, Jakob Vang"]
+[Black "Spraggett, Kevin"]
+[Result "0-1"]
+[ECO "A32"]
+[WhiteElo "2441"]
+[BlackElo "2601"]
+[PlyCount "66"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. g3 cxd4 5. Nxd4 a6 6. Bg2 Qc7 7. b3 Bb4+ 8. Bd2
+Be7 9. O-O d6 10. Nc3 O-O 11. Rc1 Nbd7 12. h3 Re8 13. e4 Ne5 14. Be3 Bd7 15. f4
+Ng6 16. Qd2 Rac8 17. Qf2 h6 18. g4 Nh7 19. Nf3 Bf6 20. h4 Bxc3 21. Rxc3 Nf6 22.
+Nh2 Bc6 23. h5 Nf8 24. Bb6 Qe7 25. Qe2 e5 26. f5 N8h7 27. Re1 Bxe4 28. Bxe4 d5
+29. Bg2 Qb4 30. Re3 Qxb6 31. Kh1 e4 32. cxd5 Ng5 33. Rd1 Rcd8 0-1
+
+[Event "ESP-chT Hon Gp1"]
+[Site "Cala Mayor"]
+[Date "2008.09.07"]
+[Round "5"]
+[White "Roiz, Michael"]
+[Black "Rublevsky, Sergei"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2680"]
+[BlackElo "2699"]
+[PlyCount "146"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. c4 e6 5. cxd5 exd5 6. h3 Bh5 7. O-O Ngf6 8.
+d3 Be7 9. Qc2 O-O 10. Nc3 c6 11. e4 Nc5 12. g4 Bg6 13. Ne5 dxe4 14. dxe4 Nfd7
+15. Rd1 Qc8 16. Nxd7 Nxd7 17. Be3 f6 18. Nb5 Rd8 19. Nd6 Qc7 20. Qb3+ Kh8 21.
+Nf7+ Bxf7 22. Qxf7 Ne5 23. Qb3 Bd6 24. Rd4 Ng6 25. Rad1 Bh2+ 26. Kh1 Be5 27.
+R4d3 h6 28. Bf1 Rxd3 29. Qxd3 Bxb2 30. e5 Nxe5 31. Qe4 Rd8 32. Rxd8+ Qxd8 33.
+f4 Nf7 34. Bd3 Qd5 35. Qxd5 cxd5 36. Bxa7 Bc1 37. Bf5 Nd6 38. Be6 Nb5 39. Bb6
+Nc3 40. Ba5 d4 41. Bxc3 dxc3 42. f5 h5 43. gxh5 Kh7 44. Kg2 Kh6 45. Bb3 Kg5 46.
+Bc2 Kf4 47. Kf2 Ba3 48. Ke2 Kg3 49. Kd3 Bb4 50. Kc4 Ba5 51. Kb3 Kxh3 52. a4 Kg4
+53. Be4 b6 54. Bd3 Kxh5 55. Kc4 Kg4 56. Kb3 Kf4 57. Kc2 Ke5 58. Kb3 Kd4 59. Bb1
+Kc5 60. Bd3 Bb4 61. Bb5 Kd4 62. Kc2 Bf8 63. Bd7 Kc4 64. Bb5+ Kb4 65. Bd7 Bd6
+66. Bb5 Be5 67. Bd7 Bd4 68. Bb5 g5 69. fxg6 f5 70. Bd7 f4 71. Bb5 f3 72. Bc6 f2
+73. Bb5 Bg7 0-1
+
+[Event "ESP-chT Hon Gp2"]
+[Site "Sabadell"]
+[Date "2008.09.03"]
+[Round "1"]
+[White "Brunello, Sabino"]
+[Black "Shengelia, Davit"]
+[Result "1-0"]
+[ECO "A44"]
+[WhiteElo "2482"]
+[BlackElo "2569"]
+[PlyCount "81"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 c5 2. d5 g6 3. c4 e5 4. e4 d6 5. Nc3 Bg7 6. Bd3 Ne7 7. h4 f5 8. h5 f4 9.
+hxg6 Nxg6 10. Be2 Nd7 11. Bg4 Nf6 12. Bxc8 Qxc8 13. Qf3 h5 14. a4 Qg4 15. Qh3
+Bh6 16. Nf3 Kd7 17. a5 a6 18. Ke2 Rag8 19. Bd2 Kc7 20. Kd3 Ne7 21. Nh4 Bg5 22.
+Nf3 Bh6 23. Rag1 Rh7 24. Nh4 Bg5 25. Nf3 Bh6 26. Nh4 Rhg7 27. f3 Qxh3 28. Rxh3
+Kd7 29. Be1 Rg5 30. Rh2 Bf8 31. Ne2 Bh6 32. b4 cxb4 33. Bxb4 Rc8 34. Rb1 Rgg8
+35. Ba3 Rc7 36. c5 dxc5 37. Rb6 c4+ 38. Kc2 Bg5 39. Bxe7 Bxh4 40. Bxf6 Bf2 41.
+Rb1 1-0
+
+[Event "ESP-chT Hon Gp2"]
+[Site "Sabadell"]
+[Date "2008.09.04"]
+[Round "2"]
+[White "Krasenkow, Michal"]
+[Black "Rodriguez Vila, Andres"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "2639"]
+[BlackElo "2531"]
+[PlyCount "81"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 d6 2. Nf3 f5 3. c4 Nf6 4. Nc3 g6 5. Bg5 Bg7 6. e3 O-O 7. Qb3 Nc6 8. Rd1
+Bd7 9. c5+ Kh8 10. d5 Ne5 11. Nxe5 dxe5 12. Qxb7 h6 13. Bxf6 Rxf6 14. c6 Be8
+15. Nb5 a6 16. Nxc7 Rb8 17. Qa7 Rd6 18. Be2 Rxb2 19. Nxe8 Qxe8 20. Qxa6 e4 21.
+O-O Be5 22. Qc4 Qb8 23. g3 Rd8 24. Rc1 Qc7 25. Rb1 Rdb8 26. Rxb2 Rxb2 27. Bd1
+h5 28. Bb3 Kg7 29. Rc1 Kh6 30. d6 exd6 31. Qf7 d5 32. Bxd5 h4 33. Qxc7 Bxc7 34.
+gxh4 Kh5 35. Bf7 Rd2 36. Rc5 Kg4 37. Bxg6 f4 38. exf4 Kxf4 39. Rf5+ Kg4 40. Kg2
+Bxh2 41. Kxh2 1-0
+
+[Event "ESP-chT Hon Gp2"]
+[Site "Sabadell"]
+[Date "2008.09.05"]
+[Round "3"]
+[White "Rodriguez Vila, Andres"]
+[Black "Brunello, Sabino"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2531"]
+[BlackElo "2482"]
+[PlyCount "73"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nc3 Bb4 6. Qd3 d5 7. e5 Qd8 8.
+Nge2 c5 9. a3 Qa5 10. O-O-O c4 11. Qg3 Bf8 12. Nf4 Nc6 13. Nh5 Rh7 14. Bxc4
+dxc4 15. d5 Ne7 16. d6 Nf5 17. Qf3 Qxe5 18. Rhe1 Nd4 19. d7+ Bxd7 20. Qxb7 Qg5+
+21. f4 Bc6 22. Qxa8+ Bxa8 23. fxg5 hxg5 24. Rxd4 Rxh5 25. Red1 Bc6 26. Rxc4
+Bxg2 27. Rc8+ Ke7 28. Rdd8 Rxh2 29. Re8+ Kd6 30. Rxf8 f5 31. Rh8 Rh4 32. Rcg8
+f4 33. Rxh4 gxh4 34. Rxg7 h3 35. Rh7 f3 36. Ne4+ Ke5 37. Rh4 1-0
+
+[Event "ESP-chT Hon Gp2"]
+[Site "Sabadell"]
+[Date "2008.09.06"]
+[Round "4"]
+[White "Jakovenko, Dmitrij"]
+[Black "Gashimov, Vugar"]
+[Result "1-0"]
+[ECO "A60"]
+[WhiteElo "2709"]
+[BlackElo "2717"]
+[PlyCount "89"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 Bd6 6. Nc3 Bc7 7. Bg5 d6 8. e3
+O-O 9. Bd3 a6 10. O-O Bg4 11. Qc2 h6 12. Bh4 b5 13. Nd2 c4 14. Bf5 Bxf5 15.
+Qxf5 Nbd7 16. a4 Ba5 17. Nde4 Bxc3 18. bxc3 Qe7 19. Nxf6+ Nxf6 20. Bxf6 Qxf6
+21. Qxf6 gxf6 22. Rfb1 Rab8 23. axb5 axb5 24. Ra6 Rfc8 25. Kf1 b4 26. cxb4 c3
+27. Rc6 Rxc6 28. dxc6 Rb6 29. b5 Rxb5 30. c7 Rxb1+ 31. Ke2 Rb2+ 32. Kf3 c2 33.
+c8=Q+ Kg7 34. Qc3 Ra2 35. e4 Kg6 36. g4 Kg7 37. h4 Kg6 38. h5+ Kg7 39. Ke3 d5
+40. exd5 Ra5 41. Kd4 Ra4+ 42. Kd3 Ra5 43. Kc4 Ra4+ 44. Kb5 Rd4 45. Kc5 1-0
+
+[Event "ESP-chT Hon Gp2"]
+[Site "Sabadell"]
+[Date "2008.09.06"]
+[Round "4"]
+[White "Shengelia, Davit"]
+[Black "Krasenkow, Michal"]
+[Result "1/2-1/2"]
+[ECO "A84"]
+[WhiteElo "2569"]
+[BlackElo "2639"]
+[PlyCount "62"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 d5 2. Nf3 c6 3. e3 e6 4. c4 Bd6 5. Bd3 f5 6. b3 Nf6 7. O-O Qe7 8. a4 a5
+9. Ba3 Bxa3 10. Nxa3 O-O 11. Nc2 b6 12. Qe2 c5 13. Ne5 Nbd7 14. Rfd1 Bb7 15.
+Nxd7 Nxd7 16. cxd5 exd5 17. Na3 g6 18. Nb5 Rae8 19. Qd2 Qf6 20. Bf1 Re7 21.
+Rac1 g5 22. g3 f4 23. exf4 gxf4 24. Bg2 f3 25. Bh3 Re2 26. Qd3 Qh6 27. Bxd7
+Rxf2 28. Kxf2 Qxh2+ 29. Ke3 Qh6+ 30. Kf2 Qh2+ 31. Ke3 Qh6+ 1/2-1/2
+
+[Event "ESP-chT Hon Gp2"]
+[Site "Sabadell"]
+[Date "2008.09.07"]
+[Round "5"]
+[White "Comas Fabrego, Luis"]
+[Black "Alonso Moyano, Jonathan"]
+[Result "1-0"]
+[ECO "A87"]
+[WhiteElo "2495"]
+[BlackElo "2372"]
+[PlyCount "59"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c4 Bg7 5. Nf3 d6 6. O-O O-O 7. d5 c5 8. Nc3 Na6
+9. Rb1 Rb8 10. b3 Nc7 11. a4 a6 12. b4 Nd7 13. Qc2 b5 14. axb5 axb5 15. bxc5
+Nxc5 16. Nxb5 Nxb5 17. cxb5 Bd7 18. Qc4 e5 19. dxe6 Bxe6 20. Qb4 Ba2 21. Rb2
+Bxb2 22. Bxb2 Ne4 23. Nd4 Qb6 24. Bxe4 fxe4 25. Ba1 Kf7 26. Qb2 Bd5 27. Nc6
+Bxc6 28. Qf6+ Ke8 29. Qe6+ Kd8 30. Qxd6+ 1-0
+
+[Event "ESP-chT Hon Gp2"]
+[Site "Sabadell"]
+[Date "2008.09.07"]
+[Round "5"]
+[White "Hernandez Carmenates, Holden"]
+[Black "Dominguez Perez, Lenier"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "2582"]
+[BlackElo "2708"]
+[PlyCount "82"]
+[EventDate "2008.09.03"]
+[EventType "team"]
+[EventRounds "5"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. c4 c5 2. Nf3 Nc6 3. g3 e5 4. Nc3 g6 5. Bg2 Bg7 6. O-O d6 7. a3 a5 8. Ne1 Be6
+9. d3 Nge7 10. Nc2 d5 11. cxd5 Nxd5 12. Ne3 Nde7 13. Nc4 O-O 14. Bg5 f6 15. Be3
+b6 16. Qa4 Qc7 17. Rfc1 Rab8 18. Rab1 Nd4 19. Bxd4 exd4 20. Nb5 Qd7 21. b4 axb4
+22. axb4 Bh6 23. Rc2 Nd5 24. bxc5 bxc5 25. Rcb2 Nb4 26. Nca3 f5 27. Qa7 Qxa7
+28. Nxa7 Bd7 29. Nc2 Bd2 30. Nxd4 Bc3 31. Nb3 Bxb2 32. Nxc5 Bd4 33. Nxd7 Bxa7
+34. Ra1 Bd4 35. Rb1 Bxf2+ 36. Kf1 Bd4 37. Nxf8 Kxf8 38. e4 fxe4 39. Bxe4 Na6
+40. Rc1 Nc5 41. Bd5 Rb2 0-1
+
+[Event "RUS-ch Higher League 61st"]
+[Site "Novokuznetsk"]
+[Date "2008.09.03"]
+[Round "1"]
+[White "Bocharov, Dmitry"]
+[Black "Garakov, Mikhael"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2582"]
+[BlackElo "2439"]
+[PlyCount "117"]
+[EventDate "2008.09.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Bc4 O-O 7. O-O Bg4 8. h3
+Bxf3 9. Qxf3 Nbd7 10. Qd1 Ne8 11. a4 Nc7 12. Re1 b6 13. Nb5 a6 14. Nxc7 Qxc7
+15. Qe2 Qb7 16. f4 Nf6 17. e5 Ne8 18. Bd3 dxe5 19. fxe5 Qxd5 20. c3 Ra7 21. Bg5
+Qa8 22. Rad1 Kh8 23. h4 f6 24. Be3 fxe5 25. h5 e4 26. Bb1 gxh5 27. a5 bxa5 28.
+Bxc5 Rc7 29. Bb6 Rc8 30. Bxe4 Qb8 31. Qxa6 Nf6 32. Bf3 e5 33. Qxa5 e4 34. Be2
+Rc6 35. Bd4 Qxb2 36. Qf5 Qb8 37. Rf1 Qc8 38. Qg5 Re6 39. Rf5 Qe8 40. Rdf1 Qg6
+41. Qh4 e3 42. Bc4 e2 43. Bxe6 exf1=Q+ 44. Rxf1 h6 45. Rf5 Nh7 46. Qf4 Bxd4+
+47. Qxd4+ Qg7 48. Qc5 h4 49. c4 Qa1+ 50. Kh2 Qg7 51. Qd6 Nf6 52. Qf4 Kh7 53.
+Kh3 Qg6 54. Qxh4 Kg7 55. Rf3 Kh8 56. c5 Nh7 57. Qd4+ Nf6 58. c6 Qg7 59. c7 1-0
+
+[Event "RUS-ch Higher League 61st"]
+[Site "Novokuznetsk"]
+[Date "2008.09.05"]
+[Round "3"]
+[White "Korotylev, Alexey"]
+[Black "Garakov, Mikhael"]
+[Result "1-0"]
+[ECO "A79"]
+[WhiteElo "2609"]
+[BlackElo "2439"]
+[PlyCount "193"]
+[EventDate "2008.09.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. Kh1 Nc7 12. a4 b6 13. f3 Rb8 14. Nc4 Ba6 15. Bg5
+h6 16. Bh4 Qd7 17. Re1 Nh5 18. Qd2 g5 19. Bf2 Nf4 20. Bf1 Bxc4 21. Bxc4 a6 22.
+Bf1 b5 23. axb5 axb5 24. h4 b4 25. Nd1 Nb5 26. hxg5 hxg5 27. g3 Ng6 28. Qxg5
+Re5 29. Qg4 Qxg4 30. fxg4 Ree8 31. Ra6 Ne5 32. b3 Nf3 33. Bxb5 Rxb5 34. Re2 Ng5
+35. Ne3 Nxe4 36. Nf5 Rbb8 37. Kg2 Bc3 38. Rc6 Nd2 39. Rxd2 Bxd2 40. Nxd6 Re5
+41. Nf5 Bg5 42. Rxc5 Rd8 43. d6 Rxc5 44. Bxc5 Rc8 45. Bxb4 Rb8 46. Ne7+ Kh7 47.
+Bc3 Rxb3 48. Bd4 Rd3 49. Nc6 Ra3 50. d7 Ra6 51. Be3 Bf6 52. d8=Q Bxd8 53. Nxd8
+Kg6 54. Nb7 Re6 55. Kf3 Rf6+ 56. Bf4 Rb6 57. Nc5 Rb5 58. Nd7 Rb3+ 59. Be3 Rb5
+60. Bc5 Kg5 61. Be7+ Kg6 62. Kf4 Rb7 63. Ne5+ Kg7 64. Bd8 Rb4+ 65. Kf5 Rb3 66.
+Bf6+ Kg8 67. Kf4 Rb4+ 68. Kg5 Rb3 69. Kh4 Rb4 70. Nd3 Rb3 71. Ne5 Rb4 72. Bg5
+Rb1 73. Kh3 Rh1+ 74. Kg2 Rb1 75. Bf4 Rb3 76. g5 Kg7 77. Kh3 Rb5 78. Kg4 Rb4 79.
+Nc6 Rc4 80. Ne7 Re4 81. Nf5+ Kf8 82. Nh4 Rb4 83. Kf5 Rb6 84. Be5 Kg8 85. g6
+fxg6+ 86. Nxg6 Kf7 87. Nf4 Rb1 88. g4 Rf1 89. g5 Rg1 90. g6+ Kg8 91. Nh5 Rf1+
+92. Kg5 Rg1+ 93. Ng3 Rg2 94. Kf6 Rf2+ 95. Nf5 Kf8 96. Bd4 Rf1 97. Kg5 1-0
+
+[Event "RUS-ch Higher League 61st"]
+[Site "Novokuznetsk"]
+[Date "2008.09.05"]
+[Round "3"]
+[White "Kosov, Ivan"]
+[Black "Kabanov, Nikolai"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "2405"]
+[BlackElo "2521"]
+[PlyCount "196"]
+[EventDate "2008.09.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 c5 4. Nc3 Nc6 5. Nf3 e5 6. d3 Nge7 7. Nd2 a6 8. a4
+O-O 9. Nf1 d6 10. Ne3 Rb8 11. O-O Nd4 12. Bd2 b6 13. Ned5 Nxd5 14. Nxd5 Bg4 15.
+Re1 Qd7 16. Bc3 a5 17. b3 g5 18. Bxd4 cxd4 19. Qd2 Qd8 20. b4 axb4 21. Rab1 f5
+22. Qxb4 f4 23. Nxb6 Kh8 24. a5 Qf6 25. Qd2 e4 26. dxe4 Be6 27. Rf1 Qd8 28. Qb4
+d3 29. e3 f3 30. Bh1 g4 31. Rfd1 Qc7 32. Rxd3 Be5 33. Rdb3 Rb7 34. a6 Ra7 35.
+Qb5 Qc5 36. Nd5 Rfa8 37. Rd1 Rxa6 38. Qxc5 dxc5 39. h3 h5 40. hxg4 hxg4 41. Bg2
+fxg2 42. Kxg2 R8a7 43. Rb5 Rc6 44. Rh1+ Kg7 45. Rh5 Bd6 46. e5 Be7 47. Rb8 Bf7
+48. Rf5 Rg6 49. e4 Bg5 50. Rc8 Be6 51. Rxc5 Bxf5 52. exf5 Rh6 53. f6+ Kg6 54.
+Ne7+ Kf7 55. Nc8 Be3 56. Nd6+ Ke6 57. f7 Rh8 58. fxe3 Ra2+ 59. Kg1 Ra1+ 60. Kg2
+Ra2+ 61. Kg1 Rha8 62. Ne4 Kxf7 63. Rc6 Re2 64. Rf6+ Ke7 65. Nc3 Ra1+ 66. Rf1
+Rxf1+ 67. Kxf1 Rc2 68. Ne2 Rxc4 69. Nd4 Kf7 70. Ke2 Rc3 71. Kd2 Ra3 72. Ke2 Kg6
+73. Kf2 Ra5 74. e6 Ra2+ 75. Kf1 Kf6 76. Kg1 Rd2 77. Kf1 Rb2 78. Kg1 Ra2 79. Kf1
+Rh2 80. Kg1 Rh7 81. Kg2 Ke5 82. Kg1 Ke4 83. Kf2 Ra7 84. Kg1 Ra8 85. Kf2 Rb8 86.
+Ke2 Rb2+ 87. Kf1 Ra2 88. Kg1 Ra5 89. Kf2 Kd3 90. Kg1 Re5 91. e7 Rxe7 92. Nf5
+Re5 93. Nh6 Rg5 94. Nf7 Rh5 95. Kg2 Kxe3 96. Nd6 Rc5 97. Nf7 Rc2+ 98. Kg1 Kf3
+0-1
+
+[Event "RUS-ch Higher League 61st"]
+[Site "Novokuznetsk"]
+[Date "2008.09.06"]
+[Round "4"]
+[White "Smirnov, Artem"]
+[Black "Kosov, Ivan"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2452"]
+[BlackElo "2405"]
+[PlyCount "85"]
+[EventDate "2008.09.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O a6 7. Re1 Qc7 8. e4 d6
+9. d4 cxd4 10. Nxd4 Be7 11. Be3 Nbd7 12. Rc1 Rc8 13. f4 Qb8 14. Qe2 Qa8 15. Bf2
+O-O 16. g4 g6 17. f5 e5 18. Nc2 b5 19. cxb5 axb5 20. Nb4 Rc4 21. a3 Nc5 22.
+Ncd5 Bxd5 23. Nxd5 Nxd5 24. exd5 Rxc1 25. Rxc1 Nb3 26. Rc6 Qa4 27. Qe4 Qxe4 28.
+Bxe4 Rb8 29. f6 Bxf6 30. Rxd6 Bd8 31. Kg2 Nd2 32. Bd3 Nc4 33. Rd7 Bg5 34. b3
+Nd2 35. b4 e4 36. Be2 e3 37. Bg3 Ra8 38. h4 Bh6 39. d6 Bf8 40. Rc7 Rd8 41. d7
+Ne4 42. Bf4 Nf6 43. Rc8 1-0
+
+[Event "RUS-ch Higher League 61st"]
+[Site "Novokuznetsk"]
+[Date "2008.09.07"]
+[Round "5"]
+[White "Chuprikov, Dmitry"]
+[Black "Rychagov, Andrey"]
+[Result "1-0"]
+[ECO "A70"]
+[WhiteElo "2450"]
+[BlackElo "2549"]
+[PlyCount "61"]
+[EventDate "2008.09.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. h3 Bg7 8. Nf3
+O-O 9. Bd3 a6 10. a4 Re8 11. O-O Nbd7 12. Bf4 Qe7 13. Re1 Nh5 14. Bh2 Qf8 15.
+Bf1 b6 16. g4 Nhf6 17. Nd2 Rb8 18. f4 Bb7 19. Bg2 Kh8 20. e5 Ng8 21. Nc4 dxe5
+22. fxe5 Red8 23. Qf3 b5 24. axb5 axb5 25. Nxb5 Ne7 26. Nc3 Kg8 27. e6 Bd4+ 28.
+Kh1 Nf6 29. Bxb8 Rxb8 30. exf7+ Kg7 31. Nd6 1-0
+
+[Event "RUS-ch Higher League 61st"]
+[Site "Novokuznetsk"]
+[Date "2008.09.07"]
+[Round "5"]
+[White "Korotylev, Alexey"]
+[Black "Timofeev, Artyom"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2609"]
+[BlackElo "2650"]
+[PlyCount "76"]
+[EventDate "2008.09.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. e3 d6 6. c3 O-O 7. Be2 cxd4 8.
+exd4 h6 9. Bh4 Nh5 10. Bc4 Nc6 11. O-O g5 12. Bg3 Nxg3 13. hxg3 Bf5 14. d5 Ne5
+15. Nxe5 Bxe5 16. Nf3 Bf6 17. Bd3 Qd7 18. Nd4 Bg4 19. Qb3 Bxd4 20. cxd4 Rac8
+21. Rae1 Rc7 22. Bb5 Qc8 23. Re3 a6 24. Bd3 Re8 25. Kh2 Bf5 26. f4 g4 27. a4
+Kg7 28. Rfe1 Kf6 29. Bxf5 Qxf5 30. Rc3 Rd7 31. Rec1 h5 32. Rc8 Rdd8 33. Rxd8
+Rxd8 34. Rc7 Qe4 35. Rxb7 Rc8 36. Qd1 Rc2 37. Qf1 Qe3 38. Qg1 Qf3 0-1
+
+[Event "RUS-ch Higher League 61st"]
+[Site "Novokuznetsk"]
+[Date "2008.09.08"]
+[Round "6"]
+[White "Potkin, Vladimir"]
+[Black "Garakov, Mikhael"]
+[Result "1-0"]
+[ECO "A70"]
+[WhiteElo "2629"]
+[BlackElo "2439"]
+[PlyCount "77"]
+[EventDate "2008.09.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. h3 Bg7 8. e4
+O-O 9. Bd3 a6 10. a4 Re8 11. O-O Nbd7 12. Re1 Nh5 13. Bg5 Bf6 14. Be3 Ne5 15.
+Be2 Nxf3+ 16. Bxf3 Ng7 17. Qd2 Be5 18. a5 b5 19. axb6 Qxb6 20. Reb1 Qb4 21. Ra4
+Qb3 22. Bd1 Bxc3 23. Qc1 Qb5 24. bxc3 Qd3 25. Rb2 Bd7 26. Be2 Qxe3 27. Qxe3
+Bxa4 28. Qf4 Re7 29. Qxd6 Rxe4 30. Qxc5 a5 31. Bf3 Re1+ 32. Kh2 Be8 33. c4 a4
+34. Qa3 Nf5 35. c5 Nd4 36. c6 Rc1 37. Rb4 Nxf3+ 38. gxf3 Rd1 39. Rxa4 1-0
+
+[Event "RUS-ch Higher League 61st"]
+[Site "Novokuznetsk"]
+[Date "2008.09.10"]
+[Round "7"]
+[White "Khismatullin, Denis"]
+[Black "Ovetchkin, Roman"]
+[Result "1-0"]
+[ECO "A21"]
+[WhiteElo "2613"]
+[BlackElo "2558"]
+[PlyCount "83"]
+[EventDate "2008.09.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.10.01"]
+
+1. c4 e5 2. Nc3 Bb4 3. g3 Bxc3 4. bxc3 d6 5. Bg2 Ne7 6. d3 O-O 7. Nh3 Nbc6 8.
+O-O Bd7 9. f4 Qc8 10. Nf2 Ng6 11. fxe5 Ncxe5 12. Qb3 Rb8 13. Qa3 Bc6 14. Qxa7
+Bxg2 15. Kxg2 b6 16. Qa4 Qb7+ 17. Kg1 Rbe8 18. Qb5 c5 19. Rb1 Nd7 20. Rb2 Re6
+21. Qa4 h5 22. Qd1 h4 23. g4 d5 24. cxd5 Qxd5 25. e4 Qa8 26. g5 Qa5 27. Qb3
+Nge5 28. d4 Nf3+ 29. Kg2 cxd4 30. Kxf3 Rc8 31. Kg2 dxc3 32. Rc2 b5 33. Rd1 Nb6
+34. Rd3 Na4 35. a3 Rc4 36. Be3 Qa8 37. Qxb5 Rcxe4 38. Nxe4 Qxe4+ 39. Kf2 Re5
+40. Rd8+ Kh7 41. Qd3 Rf5+ 42. Kg1 1-0
+
+[Event "RUS-ch Higher League 61st"]

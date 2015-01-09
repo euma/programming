@@ -1,0 +1,600 @@
+16. Bf6 Bxf6 17. exf6 g5 18. Qd6 Bb7 19. g3 Rh6 20. Qb4 Bc8 {Wenn man nicht
+wieder 21.Qd6 spielt, verliert man einfach den Bauer f6 für nichts.} 21. Qd6
+Bb7 22. Qb4 {1/2-1/2 Alekseev - Navara (Lausanne, 2004)}) 12... Qa5 13. Bh6 Qb4
+14. Qxb4 Bxb4 15. c3 Ba5 16. b4 Bc7 17. f4 a5 18. b5 Nb6 19. Nxb6 Bxb6+ 20. Kf1
+cxb5 21. Bxb5+ Bd7 {In dem entstandenen Endspiel hat Weiß etwas bessere
+Aussichten, weil Schwarz ziemlich viele schwache Felder hat, und dazu einen
+a5-Bauern, der ebenfalls angegriffen werden kann.} 22. Rab1 Rb8 (22... Bxb5+
+23. Rxb5 Bc7 24. c4 dxc4 25. Rc5 O-O-O 26. Rxc4 Rd7 27. Bg5 Kb7 28. Rb1+ Bb6
+29. f5 $1 $16 {Ponomariov - Rublevsky (Poikovsky, 2006)}) 23. c4 Ba7 24. Ba6
+Bc6 25. cxd5 exd5 (25... Bxd5 26. Rxb8+ Bxb8 27. Rc1 $18) 26. f5 $14 {Bacrot -
+Rublevsky (Khanty Mansyisk, 2005)}) 11... Qc7 {Dieser Zug ist eine Neuerung.
+Bis jetzt wurden andere Züge ausprobiert:} (11... O-O {scheint am logischsten.}
+12. c4 a5 13. Qg4 f5 14. exf6 Nxf6 15. Qe2 Bd6 16. Bg5 e5 17. cxd5 cxd5 18. Nc3
+Be6 19. Rad1 Qb8 $132 {Karjakin - Rublevsky (Foros, 2006). Schwarz bekam gutes
+Spiel Dank dem starken Zentrum und Aktivität seiner Figuren.}) (11... Nb6 12.
+Nxb6 Qxb6 13. c4 dxc4 $6 (13... O-O 14. Qg4 f5 15. exf6 Bxf6 $132) 14. Bxc4 O-O
+15. Qb3 Qd4 $14 {Motylev - Horvath (Saint Vincent, 2005)}) 12. Bf4 (12. Qg4 g6
+13. Bf4 c5 14. c4 d4 $132 {Bekommt Schwarz diese Bauernstruktur aufs Brett,
+ohne dass Weiß konkret schnelle Initiative entwickeln kann, so ist die
+Stellung ungefähr gleich.}) (12. Qe2 c5 13. c4 d4 14. b3 Bb7 15. Be4 Bxe4 16.
+Qxe4 O-O 17. Bf4 $132) 12... g5 $5 {Mamedyarov nutzt die Gelegenheit, das
+Spiel so scharf wie möglich zu gestalten.} (12... c5 {bringt Ausgleich.} 13. c4
+d4 14. Qh5 g6 15. Qh6 Bf8 16. Qh4 Be7 17. Bg5 Bxg5 18. Qxg5 Bb7 19. b3 (19. Qh6
+Nxe5 20. Qg7 Nxd3 $1 21. Rxe6+ (21. Qxh8+ Ke7 22. Qxh7 Nxe1 23. Rxe1 Qc6 $19)
+21... Kd7 22. Qxf7+ Kc8 23. Re7 Qc6 24. f3 Rd8 $15) 19... O-O 20. Be4 Rab8 21.
+Bxb7 Rxb7 22. Rad1 $11) 13. Bg3 h5 {Die logische Fortsetzung des Plans, sonst
+kommt Qh5.} 14. h3 c5 15. c4 d4 16. b3 Bb7 17. Nb2 O-O-O 18. Be4 Rdg8 19. Nd3
+$14 {Nach einer Reihe notwendiger Umgruppierungszüge ist eine Stellung
+entstanden, die aus strategischer Sicht doch besser für Weiß ist. Schwarz hat
+es nicht leicht, seinen Angriff am Königsflügel fortzusetzen, während Weiß
+mittels a3-b4 den Damenflügel auseinanderzureißen droht.} Rg7 20. a3 Rhg8 21.
+Bxb7+ Qxb7 22. f3 g4 23. hxg4 hxg4 24. f4 Rh7 25. Nf2 Rgh8 26. Rb1 a5 27. Qxg4
+Kc7 28. f5 Qa8 29. Ne4 Rg8 30. Qf3 Bh4 31. fxe6 fxe6 32. Bxh4 Rxh4 33. Nd2 Qd8
+34. b4 Rf8 35. Qg3 Rg8 36. Qf3 Rhg4 37. Re2 Rg3 38. Qh5 d3 39. Ne4 dxe2 40.
+Nxg3 Rxg3 41. Qxe2 Qg5 0-1
+
+[Event "Baku FIDE GP"]
+[Site "Baku"]
+[Date "2008.04.30"]
+[Round "9"]
+[White "Radjabov, Teimour"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[ECO "B41"]
+[WhiteElo "2751"]
+[BlackElo "2726"]
+[Annotator "Kritz"]
+[PlyCount "88"]
+[EventDate "2008.04.21"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "AZE"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 $5 {Dieser Zug ist in der
+heutigen Praxis eher selten zu treffen, obwohl er zu einer interessanten
+Stellung führt, in der Weiß um Vorteil kämpfen kann. Das liegt wohl daran,
+dass die Alternative 5.Bd3 Schwarz in Eröffnungsschwierigkeiten bringt.} (5.
+Bd3 {Ist der am meisten gespielte Zug heute.} Bc5 6. Nb3 Be7 (6... Ba7 7. Qe2
+Nc6 8. Be3 d6 9. O-O $14 {Mit angenehmen Spiel für Weiß. Das größte Problem
+für Schwarz ist die Schwäche des Bauern d6, der ohne seinen Hauptverteidiger -
+der schwarzfeldrige Läufer - geblieben ist.}) 7. O-O d6 8. Qg4 g6 9. Qe2 $14 {
+Die theoretischen Varianten in dieser Stellung sind sehr lang und kompliziert,
+doch es sieht so aus, als ob Weiß am Drücker ist.}) (5. Nc3 {ist der
+zweitpopulärste Zug. Auch hier erreicht Weiß aussichtsreiche Stellungen,
+obwohl Schwarz eher zum Kontern kommt als nach 5.Bd3} b5 (5... Nc6 {führt zu
+der anderen Paulsen-Variante, die als sehr solide gilt.} 6. Nxc6 bxc6 7. Bd3 d5
+8. O-O Nf6 $132 {Weiß hat Entwicklungsvorsprung, Schwarz dafür ein starkes
+Zentrum und keine Schwächen im eigenen Lager.}) (5... Qc7 6. Bd3 Nc6 7. Nxc6
+dxc6 8. O-O e5 9. f4 $14) 6. Bd3 Qb6 7. Nb3 d6 8. Be3 Qc7 9. O-O Nf6 10. f4 Be7
+11. Qf3 Bb7 $132) 5... Nf6 6. Nc3 Qc7 (6... Bb4 7. Qc2 ({Kramnik hat in dieser
+Stellung mehrmals und mit Erfolg} 7. Bd3 {gespielt. Nach} Nc6 8. a3 Bxc3+ 9.
+bxc3 d6 10. O-O Ne5 11. f4 Nxd3 12. Qxd3 e5 13. fxe5 dxe5 14. Bg5 h6 15. Bh4
+exd4 16. e5 dxc3 17. Qxd8+ Kxd8 18. exf6 $14 {bekam Weiß ein besseres Endspiel
+aufgrund des schlechten Schwarzen Königs in Kramnik - Svidler (Wijk aan Zee,
+2005)}) 7... Qc7 8. a3 Bxc3+ (8... Bc5 9. Nb3 Be7 10. f4 d6 11. Be2 Nbd7 12.
+Be3 b6 13. O-O Bb7 14. Rac1 $14 {Schlosser - Siebrecht (Leoben, 2007)}) 9. Qxc3
+Nxe4 10. Nb5 $1 axb5 11. Qxg7 Rf8 12. Bh6 Qd6 (12... Qc5 13. f3 bxc4 (13...
+Qf2+ 14. Kd1 $18) 14. Bxc4 $1 Ng5 (14... Nf6 15. Qxf6 Qxc4 16. Rc1 $18) 15.
+Qxf8+ Qxf8 16. Bxf8 Kxf8 17. h4 $18) 13. cxb5 $1 {Weiß hat's nicht eilig, der
+Turm f8 läuft nicht weg.} b6 14. f3 Nc5 15. b4 Na4 16. Rc1 Bb7 17. Rc7 $1 Ra7
+18. Bd3 f5 19. Kf2 Qe7 20. Qxe7+ Kxe7 21. Bxf8+ Kxf8 22. Bc2 Nb2 23. Rb1 $18)
+7. a3 {Prophylaxe gegen 7....Bb4.} (7. Be2 $6 Bb4 8. Qd3 Nc6 $36) (7. Bd3 Nc6
+8. Nxc6 (8. Be3 Nxd4 9. Bxd4 Bc5 10. Bxc5 Qxc5 11. O-O d6 $11) 8... dxc6 9. O-O
+e5 10. h3 (10. Be3 Ng4 11. Bd2 Bc5 $132) 10... Bc5 $132) 7... b6 8. Be3 (8. Be2
+Bb7 9. f3 d6 {führt zur Partiefortsetzung.}) 8... Bb7 {Die nächsten Züge für
+beide Seiten sind mehr oder weniger erzwungen - beide streben eine
+Igelstellung an und müssen die Entwicklung beenden. Die Zugfolge spielt dabei
+keine große Rolle.} 9. f3 d6 10. Rc1 Nbd7 11. Be2 Be7 12. O-O O-O {Der Igel
+ist auf dem Brett. Jetzt müssen sich beide Spieler entscheiden, welchen Plan
+sie wählen. Als Bestes für Weiß gilt die Idee b4-Nb3 und dann zu versuchen c5
+vorzubereiten. Das beste Gegenspiel für Schwarz besteht darin, auf der
+geschwächten Diagonale h2-b8 zu spielen. Er erreicht sein Spiel mittels
+Rac8-Qb8-Bd8-Bc7.} 13. b4 Rac8 14. Nb3 $5 {Dieser Zug wurde bis jetzt auf
+hohem Niveau noch nicht ausprobiert. Früher hat Weiß versucht, sich mittels
+Qd2-Rfd1 (oder Rc2-Rfc1)-Bf1-Qf2 aufzustellen und erst dann Nb3-c5 zu spielen.
+Die Erfahrung hat gezeigt, dass Schwarz schnell genug sein Gegenspiel aufbaut
+und damit gleiche Chancen hat.} (14. Qd2 Qb8 15. Rc2 (15. Rfd1 Bd8 16. Kh1 Re8
+17. Nb3 Bc7 $132 {/\d5}) 15... Bd8 16. Kh1 Bc7 $132 {/\d5}) 14... Qb8 (14...
+Ne5 $2 15. Na4 Ned7 16. Qd4 $16 {Schwarz verliert sehr viel Zeit während Weiß
+seine Stellung verbessert.}) 15. Kh1 {Früher oder später muss Weiß Kh1 spielen,
+um das Feld g1 für den Läufer (oder manchmal sogar die Dame) zu räumen, um das
+Feld h2 zu verteidigen.} Rfe8 16. Na4 Bd8 {Wenn der weiße Springer das Feld c3
+verlässt und damit die Kontrolle über das Feld d5 geschwächt wird, muss man
+immer den Vorstoß d5 in Betracht ziehen. Leider klappt es in dieser Stellung
+nicht:} (16... d5 $5 17. exd5 (17. cxd5 exd5 18. Nxb6 (18. exd5 Nxd5 19. Rxc8
+Qxc8 20. Bd4 Qc6 $15) 18... Nxb6 19. Bxb6 dxe4 20. Bd4 Rxc1 21. Qxc1 Qd6 $36)
+17... exd5 18. c5 $1 (18. Nxb6 Nxb6 19. Bxb6 dxc4 20. Bxc4 Bxf3 $1 21. Qxf3
+Qxb6 $11) 18... bxc5 (18... b5 19. Nc3 Ne5 20. Bf2 Nc4 21. Re1 $1 Nxa3 22. Ra1
+Nc4 23. Bg3 Qa8 24. Nxb5 $16) 19. Naxc5 Nxc5 20. Bxc5 $14 {Der schwarze Bb7
+hat auf Dauer keine guten Perspektiven, so dass der weiße Vorteil unumstritten
+ist.}) 17. Bg1 $14 {Weiß steht etwas besser. Die Schwäche h2 hat er momentan
+sicher verteidigt. Auf dem Damenflügel steht alles bereit und der Angriff kann
+jeder Zeit mittels c5 losgehen.} h5 18. Bf2 Bc7 19. Nd4 Ne5 20. c5 dxc5 21.
+bxc5 b5 22. c6 Nxc6 23. Nxc6 Bxc6 24. Rxc6 bxa4 25. Bg1 Be5 26. Qxa4 Rxc6 27.
+Qxc6 Rc8 28. Qxa6 Rc2 29. Bd3 Rd2 30. Rc1 Qb2 31. Qc8+ Kh7 32. Rc2 Rxc2 33.
+Qxc2 Qxa3 34. f4 Bxf4 35. e5+ g6 36. exf6 Qd6 37. Qc5 Qxc5 38. Bxc5 Be5 39. Be7
+h4 40. Bc4 g5 41. Bxe6 Kg6 42. Bc8 Bxf6 43. Bxf6 Kxf6 44. g4 hxg3 1-0
+
+[Event "Baku FIDE GP"]
+[Site "Baku"]
+[Date "2008.05.02"]
+[Round "10"]
+[White "Gashimov, Vugar"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2679"]
+[BlackElo "2732"]
+[PlyCount "112"]
+[EventDate "2008.04.21"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "AZE"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Bg5 h6 8.
+Be3 Nf6 9. Nf3 e5 10. Qd3 Be7 11. Nh4 d5 12. exd5 Nxd5 13. Nf5 Bb4 14. O-O-O
+Bxc3 15. bxc3 O-O 16. c4 Nxe3 17. Qxd8 Raxd8 18. Nxe3 f6 19. Rd3 Kf7 20. Rhd1
+Rxd3 21. cxd3 Rd8 22. f3 b5 23. a3 Ke6 24. Rd2 f5 25. Kc2 f4 26. Ng4 bxc4 27.
+dxc4 Rxd2+ 28. Kxd2 e4 29. fxe4 Bxe4 30. g3 Kf5 31. Nf2 fxg3 32. hxg3 Bb7 33.
+Ke3 h5 34. Kd4 g5 35. Ke3 a5 36. c5 Bc6 37. Nd3 h4 38. gxh4 gxh4 39. Nf4 Kg4
+40. Nd3 Kf5 41. Nf4 Ba8 42. Nh3 Ke5 43. Nf4 Be4 44. c6 Bf5 45. Kf3 Kd6 46. Ng2
+h3 47. Nf4 Bg4+ 48. Kf2 Kxc6 49. Nxh3 Bxh3 50. Ke3 Kb5 51. Kd2 Ka4 52. Kc1 Kxa3
+53. Kb1 a4 54. Ka1 Kb3 55. Kb1 a3 56. Ka1 Bf5 1/2-1/2
+
+[Event "Baku FIDE GP"]
+[Site "Baku"]
+[Date "2008.05.02"]
+[Round "10"]
+[White "Kamsky, Gata"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2726"]
+[BlackElo "2689"]
+[PlyCount "87"]
+[EventDate "2008.04.21"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "AZE"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Qc7 5. O-O Nd4 6. Re1 a6 7. Bf1 e5 8. Bc4
+d6 9. h3 Be7 10. d3 h6 11. a4 O-O 12. Nh2 Be6 13. Ng4 Nxg4 14. hxg4 Qd7 15. Nd5
+Rae8 16. c3 Nc6 17. f3 Bh4 18. Re2 Ne7 19. Nxe7+ Rxe7 20. Be3 b5 21. axb5 axb5
+22. Bxe6 Qxe6 23. Ra6 Rc7 24. Bf2 Bxf2+ 25. Rxf2 Rb8 26. Qa1 Rd7 27. Rd2 Qe7
+28. Qa2 Qg5 29. Rd1 Qe3+ 30. Kf1 b4 31. c4 g6 32. Qb1 Qg5 33. Qc1 Qh4 34. Ke2
+Qh2 35. Kf2 Qh4+ 36. Ke2 Qh2 37. Rg1 Kg7 38. Kf2 Qh4+ 39. g3 Qe7 40. Rh1 Rh8
+41. Qa1 Qg5 42. Qc1 Qe7 43. Qa1 Qg5 44. Qc1 1/2-1/2
+
+[Event "Baku FIDE GP"]
+[Site "Baku"]
+[Date "2008.05.02"]
+[Round "10"]
+[White "Radjabov, Teimour"]
+[Black "Cheparinov, Ivan"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "2751"]
+[BlackElo "2696"]
+[Annotator "Ftacnik"]
+[PlyCount "86"]
+[EventDate "2008.04.21"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "AZE"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. b4 a5
+9. bxa5 Qxa5 10. Bb2 d4 11. Nb3 {Black players have learned, how to handle
+this position. Despite loss of flexibility closing the center was proven
+promissing.} Qc7 12. c3 dxc3 13. Bxc3 c5 14. Nfd2 {Radjabov is playing general
+moves without realizing, that Cheparinov is improving his position with each
+move.} (14. Qc2 Na6 15. Na5 $5 b5 16. Bd2 Bd7 17. Rfc1 Nc6 18. Nxc6 Qxc6 $11) (
+14. a4 Rd8 15. Qb1 Na6 16. Rc1 Nc6 $11) 14... b5 $1 15. Qc2 (15. a4 $5 Rxa4 (
+15... b4 16. Bb2 Be6 17. Nc4 Bxc4 18. dxc4 Rd8 $15) 16. Rxa4 bxa4 17. Na5 Rd8
+18. Qxa4 Rxd3 19. Qc2 Rd7 $15) 15... Na6 16. Rfc1 (16. Ba5 Qc6 17. Rfc1 Bd7 18.
+Nf3 Rfc8 $15) 16... Be6 17. Nf1 $6 {The knight is heading to d5 square, but
+opponent will be quicker.} (17. a4 $5 bxa4 18. Na5 Bd7 $15) 17... Nc6 18. Ne3 (
+18. Nxc5 Nxc5 19. Bd2 Nd4 20. Qxc5 Qb8 21. Kh1 (21. Rd1 Re8 $19) 21... Rc8 22.
+Qe7 Rxc1 23. Rxc1 Ra7 24. Qg5 Rxa2 $17) 18... c4 $1 {A very disturbing move
+for White, since Black has great control of excellent tactical possibilities.}
+19. dxc4 bxc4 20. Nd5 (20. Nd2 Nab4 21. Bxb4 (21. Qd1 Nxa2 22. Nd5 Qd7 23. Nxc4
+Nxc1 24. Rxc1 Ra2 $17) 21... Nxb4 22. Qb1 Rfb8 23. Ndxc4 Nxa2 24. Rxa2 Rxb1 25.
+Rxa8+ Rb8 26. Raa1 $17) 20... cxb3 21. Nxc7 (21. Qxb3 Qd6 22. Qb6 Bd7 $19)
+21... bxc2 22. Nxa8 (22. Nxe6 fxe6 23. Rxc2 Nd4 $19) 22... Nd4 $1 {Radjabov
+was hoping to resist in the position with a rook for two light pieces.
+Unfortunatelly just eliminating c2 pawn will prove very costly.} (22... Rxa8
+23. Rxc2 Nab4 24. Rb2 Nxa2 25. Bd2 Bf8 $17) 23. Nb6 Rb8 (23... Ne2+ 24. Kf1
+Nxc3 25. Rxc2 Rb8 $17) 24. Ba5 (24. Na4 Ne2+ 25. Kf1 Bc4 26. Ke1 Nxc1 27. Rxc1
+Rb1 28. Kd2 Bh6+ 29. f4 exf4 $19) (24. Nd5 Bxd5 25. exd5 Ne2+ 26. Kf1 Nxc1 27.
+Rxc1 Rb1 28. Bd2 Nb4 29. Ke2 Rxc1 30. Bxc1 Nxa2 31. Kd2 Bh6+ 32. Kxc2 Nxc1 33.
+d6 Kf8 $19) 24... Bh6 25. Bf1 Bxc1 26. Rxc1 (26. Bxa6 Bb2 $19) 26... Nc6 $1 {
+Due to the basic rank problems white is unable to save the piece.} 27. Rxc2 (
+27. Bxa6 Nxa5 28. Nd5 Rb1 $19) (27. Nc4 Nxa5 28. Nxa5 Rb1 29. Rxc2 Bh3 $19)
+27... Nxa5 28. Nd5 Nb4 29. Rc5 (29. Rb2 Nac6 30. Bc4 Kg7 $19) 29... Nbc6 30. a4
+Kg7 {In the technical phase black does not have to hurry, any exchange of
+pieces will be to his benefit.} 31. Kg2 Rb7 (31... Rb2 32. Ne3 Ra2 33. Bb5 Nd4
+34. Rxe5 Nab3 $19) 32. h4 Ra7 33. Nc3 Bd7 34. Bb5 Nb3 35. Rd5 (35. Rxc6 Bxc6
+36. Bxc6 Rc7 $19) 35... Nbd4 {Now Cheparinov is just a step from breaking free,
+the game is over.} 36. f4 (36. Bf1 Bg4 $19) 36... exf4 37. gxf4 Nxb5 38. axb5 (
+38. Nxb5 Rb7 39. Nc3 Be6 $19) 38... Ne7 39. Rc5 Rb7 40. h5 Nc8 41. hxg6 hxg6
+42. Kg3 Na7 43. f5 (43. b6 Rxb6 44. Rc7 Bc6 45. Rxa7 Rb3 $19) 43... Nxb5 0-1
+
+[Event "Baku FIDE GP"]
+[Site "Baku"]
+[Date "2008.05.03"]
+[Round "11"]
+[White "Karjakin, Sergey"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2732"]
+[BlackElo "2751"]
+[PlyCount "82"]
+[EventDate "2008.04.21"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "AZE"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. a4 bxa4 14. Ncb4
+Nxb4 15. Nxb4 Bd7 16. Bxa6 Qa5 17. Qxd6 Rb6 18. Qd3 Be7 19. Nd5 Rxb2 20. O-O
+Qc5 21. Rad1 a3 22. c4 Bg4 23. Bb5+ Rxb5 24. cxb5 Bxd1 25. Rxd1 O-O 26. b6 Bd6
+27. h4 h6 28. Nf6+ gxf6 29. Qxd6 Qxd6 30. Rxd6 a2 31. Rd1 Rb8 32. Ra1 Rxb6 33.
+Rxa2 Rb4 34. f3 Rc4 35. Kf2 Kg7 36. Kg3 Rb4 37. Ra6 Rb2 38. Rc6 Ra2 39. Rd6 Rb2
+40. Rc6 Ra2 41. Rd6 Rb2 1/2-1/2
+
+[Event "Baku FIDE GP"]
+[Site "Baku"]
+[Date "2008.05.03"]
+[Round "11"]
+[White "Navara, David"]
+[Black "Gashimov, Vugar"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[WhiteElo "2672"]
+[BlackElo "2679"]
+[PlyCount "115"]
+[EventDate "2008.04.21"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "AZE"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8.
+Qxd4 Bg7 9. Bg5 O-O 10. Rc1 h6 11. Bd2 Nd7 12. Qe3 Nc5 13. O-O a5 14. b3 Bd7
+15. f4 f5 16. Bf3 Rc8 17. exf5 gxf5 18. Ne2 Bc6 19. Bc3 Bxc3 20. Rxc3 Kh7 21.
+Nd4 Bxf3 22. Qxf3 Qd7 23. Re3 Rf6 24. Kh1 e6 25. Rfe1 e5 26. Qd5 e4 27. Ne2 Rg8
+28. Nc3 Rfg6 29. R1e2 b6 30. h3 h5 31. Qd1 Kh6 32. Rd2 Nd3 33. Nd5 Qg7 34. Qf1
+Rg3 35. Rxg3 Qxg3 36. Qa1 Rf8 37. Kg1 h4 38. Re2 Qg7 39. Qxg7+ Kxg7 40. g4 fxg4
+41. Rxe4 g3 42. f5 Rxf5 43. Rxh4 Nc1 44. Re4 Nxa2 45. Kg2 Rf2+ 46. Kxg3 Rb2 47.
+Re3 Nc1 48. Nxb6 Rxb3 49. Rxb3 Nxb3 50. Kf4 Kh6 51. Ke3 Kh5 52. Kd3 a4 53. Nxa4
+Na5 54. c5 dxc5 55. Nxc5 Kh4 56. Kc3 Kxh3 57. Nb3 Nxb3 58. Kxb3 1/2-1/2
+
+[Event "Baku FIDE GP"]
+[Site "Baku"]
+[Date "2008.05.04"]
+[Round "12"]
+[White "Kamsky, Gata"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2726"]
+[BlackElo "2746"]
+[Annotator "Ftacnik"]
+[PlyCount "80"]
+[EventDate "2008.04.21"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "AZE"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Bxf6
+gxf6 9. Qh5 Qc5 $1 10. Qxc5 dxc5 11. Nb3 {It is hard to believe, that 9.Qh5
+move will find too many followers. Black playes with two bishops and his pawn
+structure is only minimally compromised.} (11. Nf3 b5 (11... b6 12. a4 Nc6 13.
+O-O-O Bb7 14. g3 Bg7 15. Bg2 Ke7 16. Rhe1 Na5 17. b3 Rhd8 18. Rxd8 Rxd8 19. f5
+c4 20. b4 Nc6 21. b5 Ne5 22. Nxe5 fxe5 23. fxe6 fxe6 {1/2 Rogers,I (2529)
+-Lautier,J (2658)/Netherlands 2001 (40)}) 12. e5 (12. a4 b4 13. Nb1 Bb7 14.
+Nbd2 Nc6 15. Nb3 Bd6 16. g3 f5 17. Nfd2 O-O-O 18. e5 Be7 19. Bg2 h5 20. h4 Kc7
+21. Kf2 f6 {0-1 Torok,S (2334)-Galyas,M (2428)/Hungary 2006 (60)}) 12... Bb7
+13. exf6 Nd7 14. f5 Nxf6 15. fxe6 fxe6 16. a4 b4 17. Nd1 Rg8 18. Ne3 Bh6 19.
+Nc4 Bf4 20. Rd1 Ke7 21. Ke2 Ne4 $17 {0-1 Crawley,A-Wojtkiewicz,A (2595)/Kona
+1998 (31)}) 11... Bd6 12. g3 Ke7 13. Bg2 Ra7 $1 14. O-O-O Rd8 (14... b5 15.
+Rhe1 Nd7 16. Na5 $36) 15. a4 b6 16. Nd2 {Kamsky will suffer during the whole
+game due to the failure of finding a proper plan. It is very hard to suggest a
+set up of pieces that would lead anywhere.} (16. Rhe1 Rad7 17. e5 fxe5 18. fxe5
+Bc7 19. a5 Rxd1+ 20. Nxd1 b5 21. Nxc5 Bxa5 $15) 16... Rad7 17. Nc4 Bc7 18.
+Rxd7+ Bxd7 19. Re1 Be8 $1 {A fine move by Svidler, that excludes all the
+tricks with the potential jump of the knight to d5.} (19... Nc6 $2 20. Nd5+
+exd5 21. exd5+ $16) (19... b5 20. Nd5+ exd5 21. exd5+ Kf8 22. d6 $1 Bxd6 23.
+Nxd6 bxa4 24. Nb7 $14) 20. Na3 Kf8 21. Bf1 Bc6 22. b3 (22. Rd1 Rd4 $15) 22...
+Bb7 23. Rd1 Rd4 $1 {A small challenge, that black finds impossible to accept.
+White pawn on e4 is quite vulnerable.} 24. Bd3 (24. Nc4 Nc6 25. Rd2 Ke7 $15)
+24... Nc6 25. Ne2 Rd8 26. c3 Ke7 27. Bc2 Rb8 $1 28. Bd3 Na7 29. c4 $2 {Kamsky
+finally commits a serious positional mistake, his bishop on d3 turns into a
+very poor piece.} (29. Nc4 Nc8 30. Kc2 Nd6 31. Nxd6 Bxd6 $15) 29... Nc6 30. Nc2
+h5 31. h4 (31. Kb2 h4 32. g4 h3 $17) 31... Rg8 32. Kd2 Nd4 $1 {Consequent play
+enabled by the opening of the second front. White is obliged to defend the
+vulnerable g3 pawn.} 33. Ncxd4 cxd4 34. b4 (34. Rf1 e5 35. fxe5 fxe5 36. Rf5
+Rh8) (34. Nxd4 Rxg3 35. Ne2 Rh3 $19) (34. Rg1 Bd6 $17) 34... e5 35. c5 $2 $138
+{In time trouble Kamsky finally loses control and lashes out in the hope for
+counterplay. Opening of the play favours the black bishops.} (35. f5 Rg4 $17) (
+35. fxe5 fxe5 36. Rf1 Bd6 37. b5 axb5 38. cxb5 Rg4 $17) 35... bxc5 36. Rc1 (36.
+bxc5 Ba5+ $1 37. Kc2 Rc8 $19) (36. fxe5 fxe5 37. Rc1 Bb6 38. bxc5 Ba5+ 39. Kc2
+Rg4 $17) 36... f5 $1 37. exf5 (37. Rxc5 Bd6 38. Rc4 fxe4 $19) 37... e4 38. Bc4
+(38. Rxc5 Bd6 39. Rc4 exd3 40. Kxd3 Bf3 41. Rxd4 Bxe2+ 42. Kxe2 Rxg3 $19) 38...
+d3 39. Nc3 (39. Bxd3 Rd8 40. Rxc5 Rxd3+ $19) 39... Rxg3 40. Nxe4 $2 {The final
+blunder is not changing anything, the position was lost.} (40. Rf1 e3+ 41. Kxd3
+e2+ 42. Kxe2 Rxc3 $19) 40... Bxf4+ 0-1
+
+[Event "Baku FIDE GP"]
+[Site "Baku"]
+[Date "2008.05.04"]
+[Round "12"]
+[White "Radjabov, Teimour"]
+[Black "Navara, David"]
+[Result "0-1"]
+[ECO "B85"]
+[WhiteElo "2751"]
+[BlackElo "2672"]
+[Annotator "Kritz"]
+[PlyCount "94"]
+[EventDate "2008.04.21"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "AZE"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+
+1. e4 {Ftacnik} c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 {Dieser Zug
+richtet sich gegen die Idee des weißen Spielers, die Variante mit der langen
+Rochade zu spielen. Doch er lässt das Nehmen auf c6 zu, das Weiß eine
+angenehmere Stellung verspricht.} (5... Qc7 6. Be3 a6 7. Qd2 Nf6 8. O-O-O Bb4
+9. f3 $132 {Ist heutzutage die populärste Variante im Paulsen-System.}) 6. Be2
+d6 7. O-O Nf6 8. Be3 Be7 9. f4 O-O {Die Partie mündete aus Paulsen kommend in
+einem typischen Scheveningen. Jetzt ist der entscheidende Moment - Weiß muss
+zwischen zwei grundsätzlich unterschiedlichen Fortsetzungen wählen, ob er
+Schwarz zu b5 kommen lässt oder mittels 10.a4 den schwarzen Vorstoß am
+Damenflügel verhindert.} 10. a4 (10. Qe1 {Dieser Zug sofort verspricht Weiß
+gar nichts.} Nxd4 11. Bxd4 b5 12. a3 Bb7 13. Qg3 g6 $1 {Die Statistik in
+dieser Stellung ist vernichtend schlecht für Weiß - nur 24%, das spricht für
+sich...} 14. Bf3 (14. Bd3 Nh5 15. Qe3 Qd7 16. Kh1 Rae8 17. Qh3 Bf6 18. Bxf6
+Nxf6 19. e5 dxe5 20. fxe5 Nh5 $15 {Murdzia - Kempinski (Warsaw, 2003). Weiß
+hat keinen Angriff, der Bauer e5 bleibt jedoch für immer schwach und
+symbolisiert damit den schwarzen Vorteil.}) 14... a5 15. Nxb5 Nxe4 16. Qe1 f5
+$1 ({Weniger genau ist} 16... Qd7 17. c4 Nc5 18. Rd1 Rfc8 19. Qe3 Bxf3 20. Rxf3
+Nb7 21. f5 Rxc4 22. fxg6 fxg6 23. Rdf1 $40 {Sutovsky - Van Wely (Dagomys, 2008)
+. und Weiß bekam eine sehr starke Initiative, die ihn nach wenigen Zügen zum
+Sieg führte.}) 17. Rd1 Qc8 18. Qe2 a4 19. c4 Rf7 20. Rc1 Bf8 21. Rfd1 Qe8 22.
+Bc3 Nxc3 23. Rxc3 Bxf3 24. Rxf3 d5 $132 {Svidler - Akopian (Groningen, 1996).
+und Schwarz hatte keine Probleme.}) (10. Kh1 $5 Qc7 11. Qe1 {Jetzt ist es eine
+ganz andere Sache. Wie man später sehen wird, ist wa von großer Bedeutung,
+dass die Dame das Feld d8 verlassen hat.} Nxd4 12. Bxd4 b5 (12... e5 13. fxe5
+dxe5 14. Qg3 Bd6 15. Rxf6 exd4 16. Qxd6 Qxd6 17. Rxd6 dxc3 18. b3 $1 Be6 19.
+Rb6 Rab8 20. Rd1 $36 {Schwarz kommt nicht dazu, den e4-Bauer anzugreifen.
+Seinerseits verfügt Weiß über viele Wege, seine Initiative zu entfalten.}) 13.
+a3 Bb7 14. Qg3 Bc6 (14... g6 {Hier is es nicht mehr so gut, weil durch den Zug
+10....Qc7 das Feld f6 geschwächt wurde und Weiß mit} 15. f5 e5 16. Be3 $14 {
+fortfahren kann, wonach der Bauer e4 unantastbar ist.}) 15. Rae1 Qb7 16. Bd3 b4
+17. Nd1 bxa3 18. bxa3 $14 {Die weißen Perspektiven sind etwas besser, weil
+Schwarz momentan zu keinem Gegenspiel kommt.}) 10... Bd7 {Ein relativ seltener
+Zug. Die Hauptvariante ist 10....Qc7.} (10... Qc7 11. Kh1 (11. Qe1 {leitet
+eine forcierte Remisvariante ein:} Nxd4 12. Bxd4 e5 13. fxe5 dxe5 14. Qg3 Bc5
+15. Bxc5 Qxc5+ 16. Kh1 Kh8 (16... Qc6 17. Qxe5 $16) (16... Qe7 17. Rad1 $36)
+17. Rxf6 gxf6 18. Qh4 Rg8 (18... Qc6 19. Nd5 $14) 19. Qxf6+ Rg7 20. Qd8+ Rg8
+21. Qf6+ $11) 11... Re8 {mit unzähligen Möglichkeiten für beide Seiten.}) 11.
+Nb3 {Die Idee des Zuges 10....Bb7 ist offensichtlich - Schwarz will auf d4
+nehmen und danach den Läufer auf c6 entwickeln. Deswegen spielt Weiß 11.Nb3,
+um die Verwirklichung dieser Idee zu verhindern.} (11. Kh1 Nxd4 12. Qxd4 Bc6
+13. a5 (13. b4 e5 $1 14. Qd3 (14. fxe5 dxe5 15. Qxe5 Bxb4 $17) 14... Qc7 15. b5
+axb5 16. axb5 Rxa1 17. Rxa1 exf4 18. Bxf4 (18. Bd4 Bd7 19. b6 Qc8 20. Nd5 Nxd5
+21. exd5 Bf5 $15 {Petrosian - Yegiazarian (Yerevan, 2005)}) 18... Bd7 $11 {
+/\Be6}) 13... Qc7 14. f5 Rac8 15. Qd3 Rfe8 16. Bb6 Qd7 17. Bf3 Bd8 18. Bd4 Qc7
+19. fxe6 fxe6 $11 {Leko - Lautier (Wijk aan Zee, 2002). Weiß hat keinen
+Angriff am Königsflügel und Schwarz steht sehr solide hinter seinen
+Zentrumsbauern.}) 11... Na5 {Schwarz verfolgt die gleiche Idee -
+Springertausch und Entwicklung des Läufers auf c6.} (11... b6 12. Bf3 Qc7 13.
+g4 Bc8 14. g5 Nd7 15. Bg2 $14 {gibt Weiß gute Chancen, mittels Qh5-Rf3 einen
+gefährlichen Angriff zu konstruieren.}) 12. Nd2 $1 {Es sieht komisch aus, dass
+der Springer freiwillig aus dem Zentrum nach d2 gekommen ist, doch strategisch
+gesehen hat er auf d2 eine wichtige Funktion - er verteidigt den Bauern e4 und
+gleichzeitig das Feld c4.} (12. Nxa5 Qxa5 13. Qe1 Kh8 14. Qg3 Bc6 15. Bd4 Rae8
+16. Kh1 Bd8 17. e5 dxe5 18. Bxe5 Be7 $11 {S. Polgar - Boensch (Bad Homburg,
+1996). Schwarz hatte keine Schwierigkeiten.}) (12. e5 Ne8 13. Nxa5 Qxa5 14. Ne4
+Qc7 {Es ist offensichtlich, dass Weiß e5 zu frueh gespielt hat - er hat keine
+konkreten Drohungen aufbauen können, so dass Schwarz sich leicht befreien kann:
+} 15. a5 d5 16. Bb6 Qc8 17. Ng5 g6 18. Nf3 Ng7 19. Kh1 Bc5 20. Bxc5 Qxc5 21.
+Nd4 Bb5 $11 {De Firmian - Izoria (Las Vegas, 2006)}) 12... Be8 $146 {Ftacnik:
+'Navara is retreating with the bishop to the e8 square, even though he most
+likely met the promissing idea of Bc6 during the preparation.' Bis jetzt wurde
+dieser Zug nicht gespielt. Schwarz bereitet den Vorstoß d5 vor.} (12... Bc6 13.
+Qe1 (13. Bd3 d5 14. e5 d4 15. exf6 Bxf6 16. Nde4 Be7 17. f5 exf5 18. Rxf5 dxe3
+19. b4 Bxe4 20. Nxe4 Nc6 21. Bc4 Qd4 $15 {Nisipeanu - Rublevsky (Foros, 2006)})
+(13. b4 d5 14. bxa5 d4 15. e5 Ne8 $132) 13... d5 14. Rd1 Bb4 15. exd5 Nxd5 16.
+Nxd5 Qxd5 17. Qf2 $14 {Hou Yifan - Balogh (Paks, 2007). Schwarz hat Probleme,
+weil seine Figuren nicht gut stehen, vor allem der Springer a5 steht völlig im
+Abseits.}) 13. Bd3 (13. Qe1 d5 14. Rd1 $14 {verspricht Weiß ein kleines Plus.
+Dass der schwarze Läufer auf e8 steht, hat einen Vorteil so wie auch einen
+Nachteil. Der Vorteil ist der, dass der Springer a5 das Feld c6 hat. Der
+Nachteil ist, dass der Läufer auf e8 den Turm f8 aus dem Spiel ausschaltet.})
+13... d5 14. e5 (14. exd5 Nxd5 15. Nxd5 Qxd5 $11 {Demnächst spielt Schwarz Nc6
+und hat keine Probleme.}) 14... d4 {Ftacnik: 'This is the main tactical idea
+of counterplay, even though the future may wittness also perfectly playable
+retreat Nd7.'} (14... Nd7 {Ftacnik} 15. Qf3 Nc5 $13) 15. exf6 (15. Bf2 dxc3 16.
+exf6 Bxf6 $17) 15... Bxf6 16. Nde4 Be7 $1 {Erzwungen, Schwarz kann keine der
+weißen Figuren nehmen.} (16... dxe3 $4 17. Qh5 $1 {Doppelangriff auf h7 und a5!
+} g6 18. Nxf6+ Qxf6 19. Qxa5 $18) (16... dxc3 $4 17. Qh5 $1 g6 18. Nxf6+ Qxf6
+19. Qxa5 $18) 17. f5 (17. Bd2 dxc3 18. Bxc3 $14 {verspricht Weiß einen kleinen
+positionellen Vorteil, weil Schwarz noch einige Entwicklungsprobleme lösen
+muss.}) 17... exf5 $2 {Ftacnik: 'The slip of attention will have grave and
+lasting consequences. Black had to choose between three moves, but only one
+has promissed successfull equalisation.'} (17... dxe3 $1 {Ftacnik} 18. f6 (18.
+fxe6 f5 $15) 18... e2 $1 19. Bxe2 (19. Qxe2 gxf6 20. Rad1 (20. Qg4+ $2 Kh8 21.
+Nxf6 Bxf6 22. Qh5 Bd4+ 23. Kh1 f5 $19) 20... f5 $17) 19... gxf6 20. Qxd8 Rxd8
+21. Nxf6+ Kg7 22. Nce4 Bc6 $15) (17... dxc3 $2 {Ftacnik} 18. f6 $1 gxf6 19.
+Qg4+ Kh8 20. Nxf6 Bxf6 21. Qh5 $18) 18. Rxf5 dxe3 {Mit der Aufgabe des
+schwarzfeldrigen Läufers hat Weiß praktisch die Verpflichtung auf sich
+genommen, den schwarzen König Matt zu setzen. Wenn es dem Weißen nicht gelingt,
+wird er in einem schlechten Endspiel landen. So kam es dann auch in der Partie.
+} 19. Nd5 Nc6 (19... Bc6 {Ftacnik} 20. Nxe7+ Qxe7 21. Nf6+ Kh8 22. Nxh7 e2 23.
+Qe1 $16) 20. Nef6+ $1 {Ftacnik: 'Shocking clarification of the situation.
+Radjabov has set up all his forces for the kingside attack with the clear
+target in the vulnerable h7 square.'} Bxf6 (20... Kh8 {Ftacnik} 21. Qh5 h6 22.
+Nxe8 Rxe8 23. Rxf7 Qd6 24. Qf5 g6 25. Rh7+ Kxh7 26. Qf7+ Kh8 27. Bxg6 Qxg6 28.
+Qxg6 $18) 21. Nxf6+ Kh8 (21... gxf6 $4 22. Qg4+ Kh8 23. Rh5 $18) 22. Qh5 (22.
+Nxh7 $2 g6 (22... Kxh7 23. Rh5+ Kg8 24. Rh8+ Kxh8 25. Qh5+ Kg8 26. Qh7#) 23.
+Nxf8 gxf5 24. Qh5+ Kg7 25. Bxf5 e2 $15 {Es ist eher Schwarz, der hier
+Gewinnchancen besitzt. Die weißen Figuren sind zu weit in die schwarzen Reihen
+eingedrungen und können keine Drohungen aufstellen.}) 22... h6 (22... gxf6 $2 {
+Ftacnik} 23. Rg5 Qxd3 24. Qh6 $1 $18) 23. Raf1 $2 {Ftacnik: 'In order to win
+the aggressor needed to hit the main weakness h6.' Hiermit hat Weiß seine
+Chance vergeben.} (23. Ng4 $1 {gewann forciert.} f6 $8 (23... Qd6 24. Rf6 $18)
+24. Qh3 {Es ist nicht zu sehen, wie Schwarz sich gegen das Opfer auf h6
+verteidigen kann.} Bg6 (24... Kg8 25. Nxh6+ gxh6 26. Qxh6 Qe7 27. Bc4+ Rf7 28.
+Rh5 $18) (24... h5 25. Rxh5+ Bxh5 26. Qxh5+ Kg8 27. Bh7+ Kh8 28. Bg6+ Kg8 29.
+Qh7#) (24... e2 25. Nxh6 Qb6+ 26. Rf2 $1 $18) (24... Qd4 25. Nxh6 g6 26. Rxf6
+e2+ 27. Kh1 Rxf6 28. Nf5+ $18) (24... Bd7 {Ftacnik} 25. Nxh6 Qe7 26. Ng4+ Kg8
+27. Rg5 Bxg4 (27... fxg5 28. Qh7+ Kf7 29. Qg6+ Kg8 30. Nh6+ Kh8 31. Qh7#) 28.
+Qh7+ Kf7 29. Rxg7+ $18) 25. Nxh6 Qc7 (25... gxh6 26. Qxh6+ Bh7 27. Rh5 Rf7 28.
+Bxh7 Qf8 29. Qxf8+ Rfxf8 30. Be4+ $16) 26. Ng4+ Kg8 27. Bc4+ Rf7 (27... Bf7 28.
+Nxf6+ gxf6 29. Qg4+ (29. Rh5 $18 {Ftacnik}) 29... Kh8 30. Qh4+ Kg8 31. Qxf6
+Bxc4 32. Rg5+ Kh7 33. Rh5+ Kg8 34. Rh8#) 28. Nxf6+ gxf6 29. Rxf6 Ne5 30. Bxf7+
+Bxf7 31. Qxe3 $18) 23... Nb4 $2 {Ftacnik: 'It would have been unjust o blame
+the grandmasters, that in this very tense moment they could not read the
+position perfectly and discover very narrow path to the equality after the
+knight jump Nd4!'} (23... Nd4 $1 {Ftacnik} 24. Nxe8 (24. c3 e2 25. Bxe2 Nxf5
+26. Qxf5 Qxf6 27. Qc5 Qxf1+ 28. Kxf1 Bxa4 $15) (24. R5f4 e2 $15) 24... e2 $1 (
+24... Rxe8 25. Rxf7 e2 26. Qg6 $18) 25. Rf6 (25. Re1 Qxe8 26. Rf6 Qe3+ $19)
+25... Nf3+ $3 26. gxf3 Qd4+ 27. Kg2 exf1=Q+ 28. Kxf1 Kg8 (28... Raxe8 $2 29.
+Rxh6+ gxh6 30. Qxh6+ Kg8 31. Bh7+ $18) 29. Rxh6 $1 gxh6 30. Qxh6 f5 31. Qg6+
+Kh8 32. Qh6+ $11) (23... e2 {Ftacnik} 24. Qxe2 Nd4 25. Qe4 $1 (25. Qh5 $2 Nxf5
+26. Qxf5 Qd4+ 27. Kh1 g6 28. Qh3 Kg7 $17) 25... Nxf5 26. Rxf5 g6 27. Qe3 Kg7
+28. Qe5 Kh8 29. Rh5 gxh5 30. Qf5 $18) 24. Rg5 (24. Nxe8 {Ftacnik} Rxe8 25. Rxf7
+Nxd3 26. R1f6 Qxf6 27. Rxf6 e2 28. Rxh6+ gxh6 29. Qxh6+ $11) (24. Qh4 {Ftacnik}
+e2 (24... Nxd3 25. Rh5 $18) 25. Bxe2 Nxc2 26. R1f4 Qd2 27. Bf1 Qe3+ 28. Kh1 Qe1
+29. Rf2 Qb4 30. Qh3 $18) 24... e2 (24... Qb6 {Ftacnik} 25. Be2 Qe6 26. Qh4 $18)
+(24... Nxd3 {Ftacnik} 25. Rxg7 Kxg7 26. Qg4+ Kh8 27. Qf5 $18) 25. Bxe2 Qd2 {
+Ftacnik: 'Black's counterplay is rolling with an appearant success, but it
+will not be enough to obtain balance. '} (25... Bxa4 $5 {Ftacnik} 26. b3 (26.
+Rxg7 Qd4+ 27. Rf2 Kxg7 28. Qf5 Bxc2 $19) (26. c3 Bc2 27. Rxg7 $1 (27. cxb4 Bg6
+28. Qh4 Qd2 29. Re5 gxf6 30. Qxf6+ Kh7 $14) 27... Kxg7 28. Qe5 Kh8 29. cxb4 Rc8
+$14) 26... Bc6 (26... Qd4+ 27. Kh1 Bc6 28. Ng4 $16) (26... Qd2 27. Rg3 Bb5 28.
+Qg4 $16) 27. Rxg7 Qd4+ 28. Rf2 Kxg7 29. Qf5 Rfd8 30. c3 Qxc3 31. Qh7+ Kf8 32.
+Qh8+ Ke7 33. Ng8+ $18) 26. Rg3 (26. Rxg7 $1 {Ftacnik} Qd4+ (26... Kxg7 27. Qe5
+Qg5 (27... Kh8 28. Nxe8+ f6 29. Rxf6 $18) 28. Rf5 Qg6 29. Bh5 Nc6 30. Qc3 $18)
+27. Kh1 Kxg7 28. c3 Qe3 29. Qf5 Rh8 30. Qg4+ (30. Nh5+ Kf8 (30... Kg8 31. Bc4
+$18) 31. Nf4 $18) 30... Qg5 31. Qd4 Nc6 32. Nxe8+ Kg8 33. Nf6+ Kg7 34. Nh5+ Kg8
+35. Qb6 $16) 26... Nxc2 27. Bd3 (27. Rf2 {Ftacnik} Qe1+ (27... Qd4 28. Qf5 g6
+29. Qxc2 $18) 28. Bf1 Qe6 29. Nxe8 Raxe8 30. Rxc2 $18) (27. Kh1 {Ftacnik} Bc6
+28. Qg4 Rg8 29. Rd1 $16) 27... Ne3 28. Qg5 $2 {Ftacnik: 'Radjabov was nearly
+for sure expecting, that the opponent will politely resign in the face of such
+a mighty blow. With a bit less euphorie he would most likely have found
+centralizing queen move, that could have nicely crowned his attacking effort.'}
+(28. Qe5 $1 {Ftacnik} Qxd3 (28... Nxf1 29. Nxe8 f6 30. Qe7 Rg8 31. Rxg7 $18)
+29. Rxe3 Qd8 30. Rg3 $18) 28... Qxg2+ $1 29. Rxg2 hxg5 30. Rxg5 g6 (30... gxf6
+$4 {Ftacnik} 31. Rxf6 $18) 31. Rf3 {Ftacnik: 'It was psycholigically very
+difficult to readjust to the fight in the equal position. Given the next stage
+it seems that white never regained his objectivity back.'} (31. Rf4 {Ftacnik}
+Kg7 32. Rg3 Nd1 33. Nh5+ (33. Bc2 Nxb2 34. Rh3 Rh8 35. Rxh8 Kxh8 36. Rb4 Bxa4 (
+36... Nxa4 37. Rxb7 Rc8 38. Bxa4 Bxa4 39. Rxf7 Rc1+ 40. Kf2 Rc2+ 41. Kg3 Rc3+
+42. Kh4 g5+ 43. Kxg5 Rh3 $11) 37. Rxb2 Bxc2 38. Rxc2 Kg7 $11) 33... Kh6 34.
+Bxg6 Rg8 35. Be4 Rxg3+ 36. Nxg3 Nxb2 $11) 31... Kg7 32. h4 (32. Rgg3 {Ftacnik}
+Bc6 33. Nh5+ Kh6 $17) 32... Rd8 (32... Bc6 {Ftacnik} 33. Nh5+ Kh6 34. Rxe3 gxh5
+$11) 33. Nh5+ Kh6 34. Nf4 Nf5 (34... Rd4 {Ftacnik} 35. Nxg6 Bc6 36. Rxe3 (36.
+Rf6 Rxh4 37. Rg3 Rh1+ 38. Kf2 Nd5 $13) 36... fxg6 37. Rxg6+ Kh5 $11) 35. Bxf5
+gxf5 36. Rxf5 $6 (36. Rh5+ {Ftacnik} Kg7 37. Rxf5 Rd6) 36... Rg8+ 37. Kf2 Rg4
+38. Rh5+ $2 {Ftacnik: 'It was still not necessary to succumb, White had ways
+to keep the balance.'} (38. b3 {Ftacnik} Rd2+ 39. Ke3 Rb2 40. Kd4 Rxh4 41. Kc5
+$11) (38. Rb3 {Ftacnik} Bc6 39. Rg3 Rd2+ 40. Ke3 Rxg3+ 41. Kxd2 $11) 38... Kg7
+39. Rg5+ (39. b3 {Ftacnik} Bc6 40. Rg3 Rd2+ 41. Ke1 Rxg3 42. Kxd2 Rxb3 $17)
+39... Rxg5 40. hxg5 Rd2+ 41. Kg3 Rxb2 42. a5 (42. Ra3 {Ftacnik} a5 $17) 42...
+Rb5 {Ftacnik: 'The tragedy is complete; Radjabov will play with the deficit of
+two pawns.'} 43. Kh4 Rxa5 44. Nh5+ Kg8 45. Nf6+ Kf8 46. Kh5 Ra1 47. Rh3 Bc6 0-1
+
+[Event "EU-ch (Women) 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.21"]
+[Round "1"]
+[White "Akatova, Ekaterina"]
+[Black "Kazimova, Narmin Nizami Qizi"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2320"]
+[BlackElo "2071"]
+[PlyCount "112"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8. Qd2
+Nbd7 9. g4 Nb6 10. g5 Nfd7 11. a4 Nc4 12. Bxc4 bxc4 13. h4 Bb7 14. h5 Qa5 15.
+Rh2 Ne5 16. Qe2 Qb4 17. O-O-O Rb8 18. f4 Nd7 19. g6 Ba8 20. gxf7+ Kxf7 21. f5
+e5 22. Ne6 d5 23. Nxf8 d4 24. Bxd4 Qxb2+ 25. Kd2 exd4 26. Qxc4+ Kxf8 27. Qxd4
+Qb6 28. Ke3 Qxd4+ 29. Rxd4 Ne5 30. Rhd2 Kf7 31. Kf4 Rhe8 32. Nd5 Bxd5 33. Rxd5
+Rb1 34. Rf2 Nc4 35. Re2 Rb4 36. Rd4 Rxa4 37. e5 Nb6 38. e6+ Kf6 39. Rxa4 Nxa4
+40. h6 Nc3 41. Rh2 g6 42. fxg6 hxg6 43. h7 Rh8 44. Rh3 Nd5+ 45. Ke4 Kxe6 46.
+Ra3 Nc7 47. Rh3 Kf6 48. c4 Kg7 49. Ke5 Rxh7 50. Re3 Rh4 51. c5 Rc4 52. Kd6 Nb5+
+53. Kc6 Nc3 54. Re7+ Kf6 55. Ra7 Na4 56. Rxa6 Nxc5 0-1
+
+[Event "EU-ch (Women) 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.21"]
+[Round "1"]
+[White "Calzetta Ruiz, Monica"]
+[Black "Skripchenko, Almira"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2264"]
+[BlackElo "2443"]
+[PlyCount "80"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Nf3 b5 6. h3 Bb7 7. Bd3 Nd7 8. a4 b4
+9. Ne2 Ngf6 10. Ng3 O-O 11. c3 bxc3 12. bxc3 a5 13. O-O Nb6 14. Qc2 Nfd7 15.
+Rfb1 e6 16. Qc1 Bc6 17. Bc2 Nc4 18. Bh6 Ndb6 19. Bxg7 Kxg7 20. Bb3 Qd7 21. Nh5+
+Kh8 22. Nf6 Qe7 23. Qg5 Qd8 24. e5 Kg7 25. Nh5+ Kh8 26. Nf6 Kg7 27. Nh5+ Kh8
+28. Qh6 gxh5 29. Ng5 Qxg5 30. Qxg5 Rg8 31. Qf6+ Rg7 32. Bxc4 Nxc4 33. g3 Nd2
+34. Rb2 Ne4 35. Qh4 Rag8 36. Kh2 Ng5 37. Qxh5 Nf3+ 38. Kg2 Rg5 39. Qxf3 Bxf3+
+40. Kxf3 dxe5 1/2-1/2
+
+[Event "EU-ch (Women) 9th"]
+[Site "Plovdiv"]
+[Date "2008.04.21"]
+[Round "1"]
+[White "De Rosa, Maria"]
+[Black "Romanko Guseva, Marina"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2094"]
+[BlackElo "2325"]
+[PlyCount "74"]
+[EventDate "2008.04.21"]
+[EventType "swiss"]

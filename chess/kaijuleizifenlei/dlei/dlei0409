@@ -1,0 +1,600 @@
+[Result "0-1"]
+[ECO "D52"]
+[WhiteElo "2137"]
+[BlackElo "1944"]
+[PlyCount "94"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Nf3 Qa5 8.
+Nd2 Bb4 9. Qc2 O-O 10. Bd3 Ne4 11. Bxe4 dxe4 12. Bh4 f5 13. O-O Nf6 14. a3 Be7
+15. b4 Qd8 16. Qb3+ Kh8 17. Na4 Nd5 18. Bxe7 Qxe7 19. b5 f4 20. bxc6 bxc6 21.
+exf4 Nxf4 22. Qe3 Bh3 23. Rfe1 Bxg2 24. Nxe4 Bxe4 25. Qxe4 Qg5+ 26. Kh1 Nh3 27.
+Qg2 Nxf2+ 28. Kg1 Qh4 29. Nc5 Rf6 30. Ne4 Nh3+ 31. Kh1 Rg6 32. Ng3 Rf8 33. Re4
+Qxe4 34. Nxe4 Rxg2 35. Kxg2 Nf4+ 36. Kf3 Nd5+ 37. Ke2 h6 38. Nd2 Re8+ 39. Kf2
+Nc3 40. Nf3 Re2+ 41. Kg3 Re4 42. Ne5 c5 43. h4 h5 44. Nf7+ Kg8 45. Ng5 Re3+ 46.
+Kf2 cxd4 47. Rc1 Ne4+ 0-1
+
+[Event "Muensterland-ch"]
+[Site "Saerbeck"]
+[Date "2008.03.23"]
+[Round "5.1"]
+[White "Muschik, Benedikt"]
+[Black "Wienen, Hermann"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2226"]
+[BlackElo "1944"]
+[PlyCount "83"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Nf3 Be7 5. c3 Nbd7 6. Ne5 O-O 7. Bd3 c5 8. Nd2
+c4 9. Bc2 Nxe5 10. dxe5 Nd7 11. Qh5 f5 12. g4 g6 13. Qh6 Nc5 14. gxf5 exf5 15.
+Nf3 Qb6 16. O-O-O Be6 17. Ng5 Bxg5 18. Bxg5 Nd7 19. Be7 Rf7 20. Bd6 a5 21. h4
+Nf8 22. h5 Rg7 23. Rdg1 Kf7 24. Rg5 Nd7 25. hxg6+ hxg6 26. Qh4 Nf8 27. Rhg1 Qd8
+28. Qg3 Qd7 29. Bxf8 Rxf8 30. Rxg6 Rxg6 31. Qxg6+ Ke7 32. Qh7+ Rf7 33. Qh4+ Ke8
+34. Rg8+ Rf8 35. Rxf8+ Kxf8 36. Qh8+ Ke7 37. Qf6+ Ke8 38. Ba4 Qxa4 39. Qxe6+
+Kf8 40. Qxf5+ Kg7 41. a3 b5 42. Qc2 1-0
+
+[Event "WLS-ch"]
+[Site "Cardiff"]
+[Date "2008.03.21"]
+[Round "1"]
+[White "Summers, Charles B"]
+[Black "James, David J"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2050"]
+[BlackElo "2198"]
+[PlyCount "71"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "WLS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 e3 5. Bxe3 e6 6. Bd3 Be7 7. Nge2 Nd5 8.
+Qd2 Nd7 9. O-O-O c6 10. Nxd5 exd5 11. Ng3 Nf6 12. h4 Be6 13. Bg5 h6 14. Bf4 Qd7
+15. Rde1 Kf8 16. h5 Ne8 17. Re2 Nd6 18. Rhe1 Nc4 19. Bxc4 dxc4 20. Qe3 Re8 21.
+Qe5 Qd5 22. c3 b5 23. Qc7 Qd7 24. Qxd7 Bxd7 25. Rxe7 Rxe7 26. Bd6 Be6 27. f4
+Ke8 28. Bxe7 Kxe7 29. f5 Rf8 30. Re2 Kd6 31. Ne4+ Kd5 32. fxe6 fxe6 33. Nc5 Rf5
+34. Nxe6 Kd6 35. Nxg7 Rg5 36. Re6+ 1-0
+
+[Event "WLS-ch"]
+[Site "Cardiff"]
+[Date "2008.03.22"]
+[Round "2"]
+[White "Brown, Tom"]
+[Black "Jameson, David"]
+[Result "0-1"]
+[ECO "D48"]
+[BlackElo "2033"]
+[PlyCount "38"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "WLS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. O-O Bb7 10. e4 c5 11. Re1 cxd4 12. Nxd4 Bc5 13. Nb3 Bb6 14. e5 Nd5 15.
+Qg4 Nxc3 16. Qxg7 Qh4 17. g3 Bxf2+ 18. Kxf2 Qxh2+ 19. Ke3 Nd5+ 0-1
+
+[Event "WLS-ch"]
+[Site "Cardiff"]
+[Date "2008.03.23"]
+[Round "4"]
+[White "James, David J"]
+[Black "Jameson, David"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2198"]
+[BlackElo "2033"]
+[PlyCount "66"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "WLS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. d4 c6 3. c4 e6 4. b3 Nd7 5. e3 Ngf6 6. Be2 Bd6 7. Bb2 O-O 8. Nbd2
+b6 9. O-O Bb7 10. Ne5 Rc8 11. f4 c5 12. Rc1 Qe7 13. Bf3 cxd4 14. exd4 Rc7 15.
+Qe2 Rfc8 16. g3 h6 17. Bg2 Ba6 18. Rfe1 Bb4 19. Bc3 Bxc3 20. Rxc3 dxc4 21. bxc4
+Nxe5 22. fxe5 Nd5 23. Rcc1 Qd7 24. Qd3 Nb4 25. Qe4 Bxc4 26. Nxc4 Rxc4 27. Rxc4
+Rxc4 28. Rd1 Nc6 29. Qe2 Rxd4 30. Rc1 Ne7 31. Qc2 g6 32. Qc7 Rd1+ 33. Bf1 Qd4+
+0-1
+
+[Event "WLS-ch"]
+[Site "Cardiff"]
+[Date "2008.03.23"]
+[Round "4"]
+[White "Morris, Gareth"]
+[Black "Blackburn, Suzie G"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "2118"]
+[BlackElo "1856"]
+[PlyCount "140"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "WLS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. c4 Nf6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c5 7. cxd5 exd5 8. h3
+Nc6 9. Nc3 Ne4 10. Be3 Bf6 11. dxc5 Nxc3 12. bxc3 Bxc3 13. Rc1 Bf6 14. Nd4 Nxd4
+15. Bxd4 Be6 16. Qd3 Bxd4 17. Qxd4 Qd7 18. Kh2 Rfd8 19. Rfd1 Rac8 20. Rd3 Rc7
+21. Ra3 a6 22. Rac3 h6 23. Rb1 Rdc8 24. Rbc1 Kh8 25. e3 Rc6 26. h4 R6c7 27. Bf3
+Qd8 28. Kg2 Rc6 29. a3 R6c7 30. Rb1 Qd7 31. Kf1 Kg8 32. Ke2 Rc6 33. Rbc1 R6c7
+34. a4 Qd8 35. Kd2 Qe7 36. Ke2 Qd7 37. Kf1 Qd8 38. Kg2 Rc6 39. Bd1 Qa5 40. Bb3
+Qd8 41. f4 Kh8 42. Rf1 Qd7 43. Kh2 Rd8 44. a5 Rc7 45. Ba4 Qc8 46. Bb3 Qd7 47.
+Rf2 Bf5 48. Ba4 Qe6 49. Bc2 Bxc2 50. Rfxc2 Rdc8 51. Rb2 Kg8 52. Rb6 Qd7 53. Rb2
+Qe6 54. Rd2 Qe7 55. Rdc2 Qd7 56. Kg2 Rd8 57. Rf2 Qf5 58. Kf3 Qh5+ 59. Kg2 Qf5
+60. Rd2 Rdd7 61. Rcd3 Re7 62. Qxd5 Qxd5+ 63. Rxd5 Rxe3 64. Rd8+ Kh7 65. R8d7
+Rxc5 66. Rxf7 Rcc3 67. g4 Rg3+ 68. Kf2 Rcf3+ 69. Ke2 Rg2+ 70. Kxf3 Rxd2 1-0
+
+[Event "WLS-ch"]
+[Site "Cardiff"]
+[Date "2008.03.23"]
+[Round "5"]
+[White "Blackburn, Suzie G"]
+[Black "Rayner, Francis"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "1856"]
+[BlackElo "2201"]
+[PlyCount "94"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "WLS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 Nbd7 7. O-O b6 8. e4
+dxe4 9. Nxe4 Bb7 10. Re1 Re8 11. Nxf6+ Nxf6 12. c3 Rc8 13. Ne5 Nd5 14. Bh4 c6
+15. Qf3 Rf8 16. Bc4 Rc7 17. Bg3 Rc8 18. Re2 e6 19. Rae1 c5 20. dxc5 Rxc5 21.
+Bxd5 Rxd5 22. Qf4 Rd1 23. Qa4 Qd5 24. Nf3 Rxe1+ 25. Rxe1 b5 26. Qb4 Rd8 27. h3
+a6 28. a3 h6 29. Be5 Bxe5 30. Rxe5 Qd1+ 31. Re1 Qd5 32. Qd4 Qxd4 33. Nxd4 Kg7
+34. f3 Kf6 35. Kf2 Bd5 36. f4 g5 37. fxg5+ hxg5 38. Nf3 Bc4 39. Kg3 Rd5 40. Kg4
+Bd3 41. Kg3 e5 42. Re3 e4 43. Nd4 Kg6 44. h4 gxh4+ 45. Kxh4 Rh5+ 46. Kg3 Rh1
+47. Nc6 Rb1 1/2-1/2
+
+[Event "WLS-ch"]
+[Site "Cardiff"]
+[Date "2008.03.23"]
+[Round "5"]
+[White "Morris, Gareth"]
+[Black "Williams, Leighton"]
+[Result "0-1"]
+[ECO "D20"]
+[WhiteElo "2118"]
+[BlackElo "2389"]
+[PlyCount "56"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "WLS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nc6 4. Be3 Nf6 5. f3 e5 6. d5 Nd4 7. Bxc4 c6 8. dxc6
+bxc6 9. Ne2 Bc5 10. Kf2 Qb6 11. b4 Qxb4 12. Qc1 O-O 13. Re1 Nc2 14. Qxc2 Bxe3+
+15. Kf1 Bb6 16. Rc1 Ng4 17. fxg4 Qc5 18. Nf4 Qg1+ 19. Ke2 Qf2+ 20. Kd1 Bxg4+
+21. Be2 Rfd8+ 22. Nd3 Qf1+ 23. Kd2 Ba5+ 24. Ke3 Rxd3+ 25. Kxd3 Rd8+ 26. Kc4
+Be6+ 27. Kc5 Qf2+ 28. Kxc6 Qb6# 0-1
+
+[Event "WLS-ch"]
+[Site "Cardiff"]
+[Date "2008.03.24"]
+[Round "6"]
+[White "Bennett, Patrick"]
+[Black "Smith, Olivia"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[WhiteElo "2131"]
+[BlackElo "1953"]
+[PlyCount "47"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "WLS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 e6 5. Bxc4 Bb4+ 6. Bd2 Qe7 7. O-O O-O 8.
+a3 Bxd2 9. Qxd2 c5 10. Nc3 Nc6 11. Qe2 b6 12. Rfd1 Bb7 13. Rac1 Rfd8 14. Ba2
+Rac8 15. dxc5 bxc5 16. Na4 Rxd1+ 17. Qxd1 Ne4 18. Bb1 Nb8 19. Qd3 Nd7 20. b4
+Ndf6 21. bxc5 Nxc5 22. Nxc5 Rxc5 23. Rxc5 Qxc5 24. Qd8+ 1/2-1/2
+
+[Event "WLS-ch"]
+[Site "Cardiff"]
+[Date "2008.03.24"]
+[Round "6"]
+[White "James, David J"]
+[Black "Blackburn, Suzie G"]
+[Result "1/2-1/2"]
+[ECO "D63"]
+[WhiteElo "2198"]
+[BlackElo "1856"]
+[PlyCount "141"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "WLS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 O-O 6. e3 b6 7. Rc1 Nbd7 8. cxd5
+exd5 9. Be2 Bb7 10. O-O c5 11. dxc5 bxc5 12. Qb3 Qb6 13. Qa3 Rfc8 14. b3 a6 15.
+Na4 Qa7 16. Rfd1 Bf8 17. Rc2 Ne4 18. Bf4 Nb6 19. Nxb6 Qxb6 20. Qc1 Rd8 21. Ne1
+Nf6 22. Bg5 h6 23. Bxf6 Qxf6 24. Nd3 c4 25. bxc4 dxc4 26. Rxc4 Rac8 27. Rxc8
+Rxc8 28. Qd2 Be4 29. Ne1 Qb6 30. Qd4 Qg6 31. Bf3 Bf5 32. Qa4 Qb6 33. g3 Be7 34.
+Bd5 Bg6 35. Qb3 Qxb3 36. Bxb3 Bb4 37. Kg2 a5 38. f3 Kf8 39. e4 Ke7 40. Nd3 Ba3
+41. Ne5 Rc7 42. Kf2 Bb2 43. Nd3 Ba3 44. Nf4 Rb7 45. Ke3 Bh7 46. Rd5 g5 47. Nd3
+Ra7 48. Ne5 Rc7 49. Rxa5 Bc1+ 50. Kd3 f5 51. Ra6 g4 52. fxg4 fxe4+ 53. Ke2 Kf8
+54. Rc6 Rxc6 55. Nxc6 Bg6 56. Ne5 Be8 57. Bc2 e3 58. a4 Ke7 59. Nc4 Kf6 60.
+Nxe3 h5 61. gxh5 Bxh5+ 62. Kf2 Bd2 63. h3 Bf7 64. h4 Be6 65. Kf3 Be1 66. Be4
+Bf7 67. Ng2 Bd2 68. g4 Be8 69. Ne3 Bxa4 70. g5+ Kg7 71. h5 1/2-1/2
+
+[Event "WLS-ch"]
+[Site "Cardiff"]
+[Date "2008.03.24"]
+[Round "7"]
+[White "Summers, Charles B"]
+[Black "Bennion, David"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2050"]
+[BlackElo "2070"]
+[PlyCount "68"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "WLS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bg4 6. h3 Bxf3 7. Qxf3 c6 8.
+g4 Qxd4 9. Be3 Qd6 10. Bc4 e6 11. O-O Qc7 12. g5 Nd5 13. Bd4 Nxc3 14. Bxc3 Bd6
+15. Bxg7 Rg8 16. Bh6 Na6 17. Rae1 Nc5 18. Re2 Rg6 19. h4 O-O-O 20. Qxf7 Be7 21.
+Qf3 Kb8 22. Kh1 e5 23. Bd3 Nxd3 24. cxd3 Rgd6 25. Re3 Qd7 26. Rxe5 Rxd3 27. Re3
+Rxe3 28. Qxe3 Qd5+ 29. Qf3 Qc4 30. Qf4+ Qxf4 31. Rxf4 Rd2 32. Rf7 Bd6 33. Rxh7
+Rh2+ 34. Kg1 Rxh4 1-0
+
+[Event "WLS-ch"]
+[Site "Cardiff"]
+[Date "2008.03.24"]
+[Round "7"]
+[White "Williams, Leighton"]
+[Black "Jameson, David"]
+[Result "1-0"]
+[ECO "D61"]
+[WhiteElo "2389"]
+[BlackElo "2033"]
+[PlyCount "109"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "WLS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. Bg5 Be7 6. e3 O-O 7. Qc2 h6 8. Bf4
+Nbd7 9. h3 b6 10. cxd5 Nxd5 11. Bg3 Nxc3 12. bxc3 Bb7 13. Bd3 c5 14. O-O Bf6
+15. e4 Qc8 16. Qe2 a5 17. e5 Be7 18. Nd2 Rd8 19. f4 Ba6 20. f5 Bxd3 21. Qxd3
+cxd4 22. cxd4 Nc5 23. Qe3 exf5 24. Rac1 Qd7 25. dxc5 Bxc5 26. Rxc5 bxc5 27. Nc4
+Qd4 28. Rc1 Qxe3+ 29. Nxe3 Rd3 30. Nxf5 g6 31. Nxh6+ Kg7 32. Bf4 Rc8 33. Ng4 c4
+34. Rc2 c3 35. Kf2 Rd4 36. Bh6+ Kh7 37. Be3 Rb4 38. Bc1 g5 39. a3 Rb5 40. Bxg5
+Rb2 41. Ne3 Kg6 42. h4 Rc5 43. Bf4 Rd5 44. Kf3 Rd3 45. Rc1 c2 46. Ke4 Rxa3 47.
+h5+ Kh7 48. Kf5 Rc3 49. Nd5 Rd3 50. Nf6+ Kh8 51. Ra1 Rd4 52. Be3 Rd3 53. Bh6
+Rb5 54. Bf8 Rd1 55. h6 1-0
+
+[Event "West of England-ch"]
+[Site "Exmouth"]
+[Date "2008.03.22"]
+[Round "4"]
+[White "Dilleigh, Steve"]
+[Black "Thompson, Ian D"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2139"]
+[BlackElo "2313"]
+[PlyCount "104"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+
+8. Be2 Na6 9. Ba5 f6 10. Nf3 b6 11. Bc3 Bb7 12. b4 Rd8 13. Qb3 Ne7 14. Qb2 c5
+15. a3 Ng6 16. b5 Nc7 17. Qb1 Nf4 18. Qxe4 Bxe4 19. Nd2 Bd3 20. Bf3 e5 21. g3
+Nfe6 22. O-O-O Nd4 23. Bg2 O-O 24. Be4 Bxe4 25. Nxe4 f5 26. Ng5 h6 27. Bxd4
+Rxd4 28. Rxd4 exd4 29. Nf3 Re8 30. Kd2 Kf7 31. a4 a5 32. bxa6 Nxa6 33. a5 bxa5
+34. Ra1 Kf6 35. Rxa5 Re6 36. Ne1 Nb4 37. Nd3 Nxd3 38. Kxd3 Rc6 39. f4 g5 40. h4
+gxh4 41. gxh4 Kg6 42. Ra8 Kh5 43. Rf8 Kg4 44. h5 Kxf4 45. Rg8 Re6 46. Rg6 Ke5
+47. Rg8 Kf6 48. Rc8 Re5 49. Rg8 Kf7 50. Rg6 Re6 51. Rg1 f4 52. Rf1 Re3+ 0-1
+
+[Event "West of England-ch"]
+[Site "Exmouth"]
+[Date "2008.03.23"]
+[Round "5"]
+[White "Bass, John"]
+[Black "Brusey, Alan"]
+[Result "1-0"]
+[ECO "D48"]
+[WhiteElo "2086"]
+[BlackElo "2078"]
+[PlyCount "61"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. e4 c5 11. d5 c4 12. Bc2 b4 13. dxe6 fxe6 14. Na4 e5 15. Qe2
+Qc7 16. Bg5 Rc8 17. Rac1 Qa5 18. Rfd1 Be7 19. Nd2 Qb5 20. Kf1 Rf8 21. Bxf6 Nxf6
+22. b3 cxb3 23. Bxb3 Rxc1 24. Rxc1 Ng4 25. f3 Ne3+ 26. Kf2 Ng4+ 27. Ke1 Nf6 28.
+Qxb5+ axb5 29. Nc5 Bc8 30. Nd3 Nd7 31. Rxc8+ 1-0
+
+[Event "West of England-ch"]
+[Site "Exmouth"]
+[Date "2008.03.23"]
+[Round "5"]
+[White "Dilleigh, Steve"]
+[Black "Bolt, Graham"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2139"]
+[BlackElo "2109"]
+[PlyCount "50"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 O-O 8.
+Be2 c5 9. Rb1 cxd4 10. cxd4 b6 11. O-O Bg4 12. Be3 Nc6 13. d5 Na5 14. a3 Bxf3
+15. Bxf3 Qd6 16. Qa4 Rac8 17. Rfc1 e6 18. Bd2 exd5 19. exd5 Rfd8 20. Bxa5 Rxc1+
+21. Rxc1 bxa5 22. Qxa5 Qb8 23. Qc7 Be5 24. Qxb8 Rxb8 25. Re1 Bd6 1/2-1/2
+
+[Event "West of England-ch"]
+[Site "Exmouth"]
+[Date "2008.03.23"]
+[Round "6"]
+[White "Young, Craig A"]
+[Black "Dilleigh, Steve"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2072"]
+[BlackElo "2139"]
+[PlyCount "62"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. a3 Qa5 10. Nd2 Be7 11. Nb3 Qb6 12. cxd5 exd5 13. Rd1 Be6 14. Be2 Rac8
+15. O-O Na5 16. Nxa5 Qxa5 17. Qd2 Rfd8 18. Bf3 Qb6 19. Be5 Ne4 20. Bxe4 dxe4
+21. Bd4 Qc6 22. Ne2 Bc4 23. Rfe1 Bxe2 24. Qxe2 a6 25. h3 Bf6 26. Bxf6 Qxf6 27.
+Rc1 Qe6 28. Red1 Rxd1+ 29. Qxd1 g6 30. Rxc8+ Qxc8 31. Qd4 Qc1+ 1/2-1/2
+
+[Event "West of England-ch"]
+[Site "Exmouth"]
+[Date "2008.03.24"]
+[Round "7"]
+[White "Dilleigh, Steve"]
+[Black "Littlejohns, David"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2139"]
+[BlackElo "2090"]
+[PlyCount "60"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 c6 2. Nf3 Nf6 3. c4 d5 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 f6 12. O-O Be6 13. Nxe5 fxe5 14. Bg5 h6
+15. Be3 Bc5 16. Bxc5 Nxc5 17. b4 Nb3 18. Ra3 Nd4 19. e3 Nf5 20. Qh5+ Qf7 21.
+Qxf7+ Bxf7 22. b5 Rc8 23. bxc6 bxc6 24. Ne4 Bd5 25. Nc5 Bxg2 26. Kxg2 Ke7 27.
+Rc1 Rhd8 28. Rac3 Rd2 29. Rb1 Nd6 30. Kg1 Re2 1/2-1/2
+
+[Event "West of England-ch"]
+[Site "Exmouth"]
+[Date "2008.03.24"]
+[Round "7"]
+[White "Young, Craig A"]
+[Black "Taylor, Geoffrey P"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "2072"]
+[BlackElo "2028"]
+[PlyCount "106"]
+[EventDate "2008.03.21"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bf4 c6 7. e3 Be7 8. h3
+O-O 9. Bd3 Re8 10. O-O Nf8 11. Ne5 Bd6 12. Bh2 Be6 13. f4 Rc8 14. f5 Bd7 15.
+Kh1 Bb8 16. Qf3 Qb6 17. Rab1 Rcd8 18. b4 Bc8 19. Bf4 Bd6 20. a3 Qc7 21. Rfc1
+Qe7 22. Re1 a5 23. b5 c5 24. b6 c4 25. Bc2 Bxa3 26. Nb5 Bb4 27. Rg1 Ne4 28.
+Bxe4 dxe4 29. Qe2 Bxf5 30. Nc7 Ne6 31. Qxc4 Nxf4 32. exf4 e3 33. Rb3 Bd2 34.
+Nxe8 Rxe8 35. d5 Rf8 36. Rd1 Qh4 37. Nf3 Qf2 38. Nxd2 e2 39. Rg1 e1=Q 40. Rxe1
+Qxe1+ 41. Nf1 Rc8 42. Re3 Qxe3 43. Nxe3 Rxc4 44. Nxc4 a4 45. Kg1 Bd3 46. Na3
+Be4 47. d6 Kf8 48. Kf2 Ke8 49. g4 Kd7 50. Ke3 Bg2 51. Nc4 Bxh3 52. g5 Be6 53.
+Na5 Bd5 0-1
+
+[Event "Berlin-ch"]
+[Site "Berlin"]
+[Date "2008.03.22"]
+[Round "1"]
+[White "Lueders, Gerhard"]
+[Black "Salzberg, Gregor"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2275"]
+[BlackElo "2137"]
+[PlyCount "75"]
+[EventDate "2008.03.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. Nf3 d5 3. c4 c6 4. Nc3 Nf6 5. e3 Nbd7 6. Bd3 Bd6 7. O-O O-O 8. e4
+dxe4 9. Nxe4 Be7 10. Qe2 h6 11. Rd1 Qc7 12. g3 Nxe4 13. Bxe4 Nf6 14. Bf4 Bd6
+15. Ne5 g5 16. Bd2 Nxe4 17. Qxe4 f5 18. Qe2 Bxe5 19. Qxe5 Qxe5 20. dxe5 b6 21.
+f4 g4 22. Bc3 Ba6 23. b3 Rfd8 24. Rd6 Rxd6 25. exd6 Rd8 26. Rd1 Rd7 27. Bf6 c5
+28. h3 h5 29. hxg4 hxg4 30. Be7 Bb7 31. Rd2 Be4 32. Re2 Kf7 33. Rh2 Kg7 34. Kf2
+Rb7 35. Ke1 Bc6 36. Kd2 Rb8 37. Kc2 Rh8 38. Bf6+ 1-0
+
+[Event "Berlin-ch"]
+[Site "Berlin"]
+[Date "2008.03.23"]
+[Round "2"]
+[White "Von Herman, Ulf"]
+[Black "Lueders, Gerhard"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2365"]
+[BlackElo "2275"]
+[PlyCount "59"]
+[EventDate "2008.03.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c6 7. Rc1 Nbd7 8. h3
+Re8 9. Bd3 dxc4 10. Bxc4 b5 11. Bd3 a6 12. a4 Bb7 13. O-O Rc8 14. Qe2 b4 15.
+Ne4 Nxe4 16. Bxe4 Nf6 17. Bd3 Qa5 18. Ne5 c5 19. Nc4 Qd8 20. dxc5 Rxc5 21. e4
+Bc6 22. Be3 Bxe4 23. Bxe4 Nxe4 24. Bxc5 Nxc5 25. Rfd1 Qa8 26. Nd6 Rd8 27. Rxc5
+Bxd6 28. Rc4 Kf8 29. Rcd4 Qc6 30. Qd2 1-0
+
+[Event "Berlin-ch"]
+[Site "Berlin"]
+[Date "2008.03.25"]
+[Round "4"]
+[White "Gazmaga, Stefan"]
+[Black "Lueders, Gerhard"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2121"]
+[BlackElo "2275"]
+[PlyCount "118"]
+[EventDate "2008.03.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 Nbd7 7. Qc2 O-O 8.
+Bd3 Re8 9. Nf3 Nf8 10. O-O c6 11. h3 Be6 12. Rfc1 N6d7 13. Bf4 g5 14. Bh2 Ng6
+15. Bf5 Ndf8 16. Ne2 Bxf5 17. Qxf5 Ne6 18. Qd3 Ng7 19. a3 h6 20. b4 a6 21. Rab1
+Qd7 22. a4 b5 23. a5 Nf5 24. Nd2 Bd6 25. Qc3 Rac8 26. Nb3 Bxh2+ 27. Kxh2 Nd6
+28. Nc5 Qf5 29. Kg1 g4 30. Ng3 Qg5 31. hxg4 Qxg4 32. Qd3 Nh4 33. Qe2 Qg7 34.
+Qh5 Ndf5 35. Rc2 Nxe3 36. Qxh4 Nxc2 37. Nf5 Qg6 38. Ne7+ Rxe7 39. Qxe7 Nxd4 40.
+Rd1 Nf3+ 41. Kf1 Qc2 42. Qe2 Nh2+ 43. Ke1 Qc3+ 44. Rd2 Qxb4 45. Nd3 Qxa5 46. f3
+Kf8 47. Kf2 Re8 48. Qd1 Re6 49. Kg1 Qc7 50. f4 c5 51. Kxh2 c4 52. Ne5 c3 53.
+Rxd5 c2 54. Qc1 f6 55. Qa3+ b4 56. Qxb4+ Kg8 57. Nd7 Qc8 58. Rc5 Qxd7 59. Rxc2
+Qd6 1/2-1/2
+
+[Event "Berlin-ch"]
+[Site "Berlin"]
+[Date "2008.03.25"]
+[Round "4"]
+[White "Keil, Uwe"]
+[Black "Muskewitz, Bernd"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2138"]
+[BlackElo "2061"]
+[PlyCount "74"]
+[EventDate "2008.03.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 c5 3. dxc5 e6 4. c4 Nf6 5. Bg5 Bxc5 6. e3 Qa5+ 7. Nc3 Ne4 8.
+Qc2 Nxg5 9. Nxg5 d4 10. exd4 Bxd4 11. Nge4 Nc6 12. O-O-O O-O 13. h4 f5 14. Ng5
+Nb4 15. Qb3 Bxf2 16. Kb1 h6 17. Nf3 Nc6 18. Be2 e5 19. Rd5 Qc7 20. Rdd1 Be6 21.
+Nd5 Qf7 22. Rhf1 Bd4 23. g4 f4 24. g5 h5 25. Ka1 b6 26. g6 Qxg6 27. Ng5 Kh8 28.
+Nc7 Na5 29. Qa4 Bg4 30. Bxg4 hxg4 31. Nxa8 Rxa8 32. Qd7 Qc2 33. Rxd4 exd4 34.
+Qxg4 Nxc4 35. Qh5+ Kg8 36. Qf7+ Kh8 37. Qh5+ Kg8 1/2-1/2
+
+[Event "Berlin-ch"]
+[Site "Berlin"]
+[Date "2008.03.25"]
+[Round "4"]
+[White "Vandre, Wolfgang"]
+[Black "Salzberg, Gregor"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2170"]
+[BlackElo "2137"]
+[PlyCount "36"]
+[EventDate "2008.03.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. Bg5 c6 5. e3 Nbd7 6. cxd5 exd5 7. Bd3 Be7 8.
+Nf3 O-O 9. Qc2 Re8 10. O-O Nf8 11. Rab1 a5 12. a3 Ne4 13. Bxe7 Qxe7 14. Bxe4
+dxe4 15. Nd2 f5 16. b4 axb4 17. axb4 Be6 18. b5 cxb5 1/2-1/2
+
+[Event "Berlin-ch"]
+[Site "Berlin"]
+[Date "2008.03.26"]
+[Round "5"]
+[White "Haemmerlein, Thomas"]
+[Black "Kiesekamp, Marcos"]
+[Result "0-1"]
+[ECO "D40"]
+[WhiteElo "2169"]
+[BlackElo "2294"]
+[PlyCount "58"]
+[EventDate "2008.03.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. Nf3 d5 3. e3 c5 4. c4 Nf6 5. Nc3 a6 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O Nbd7 10. Qe2 Qb6 11. Rd1 Rc8 12. Ng5 Qc6 13. f4 h6 14. Nf3 b4 15. d5

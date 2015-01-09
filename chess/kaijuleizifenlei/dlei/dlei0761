@@ -1,0 +1,600 @@
+[ECO "D53"]
+[BlackElo "2033"]
+[PlyCount "64"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Be7 7. Be2 dxc4 8.
+Bxc4 b5 9. Bd3 a6 10. a3 c5 11. O-O O-O 12. Ne4 cxd4 13. Nxd4 Bb7 14. Nxf6+
+Nxf6 15. Rc1 Qb6 16. Qe2 Rfd8 17. Rfd1 h6 18. Bh4 Rd7 19. Nb3 Bd5 20. Nd4 g6
+21. Qc2 Kg7 22. b4 Qb7 23. f3 a5 24. Bxb5 e5 25. Bxd7 exd4 26. Bc6 Bxc6 27.
+Qxc6 Qxc6 28. Rxc6 dxe3 29. b5 g5 30. Bg3 Nh5 31. Re1 Nxg3 32. hxg3 Bd8 1-0
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Kutueva, Natalia"]
+[Black "Anisimov, Nikolay M"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "1925"]
+[BlackElo "2257"]
+[PlyCount "72"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Qc2 c6 8. Bd3
+h6 9. Bh4 Re8 10. Nf3 Nbd7 11. O-O Ne4 12. Bxe7 Qxe7 13. Bxe4 dxe4 14. Nd2 f5
+15. Rae1 b6 16. Qa4 Nf6 17. f3 Bb7 18. fxe4 fxe4 19. b4 Kh8 20. Rf5 Qd6 21. Rf4
+c5 22. bxc5 bxc5 23. Nc4 Qe7 24. Ne5 Qc7 25. Nb5 Qb6 26. Nd6 Re6 27. Nec4 Qa6
+28. Qxa6 Bxa6 29. Ne5 g5 30. Rf5 cxd4 31. exd4 Kg8 32. Ndc4 Rd8 33. Rd1 Nd5 34.
+Re1 Ne7 35. Rf7 Rxd4 36. Re2 Nd5 0-1
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Orlovtsev, Alexander"]
+[Black "Babakhin, Anton"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2058"]
+[BlackElo "1974"]
+[PlyCount "100"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. e3 Nf6 3. f4 Bf5 4. Nf3 e6 5. Be2 Bd6 6. O-O O-O 7. b3 c5 8. Ne5
+Nc6 9. a3 Rc8 10. Bb2 cxd4 11. exd4 Bxc2 12. Qe1 Bxb3 13. Bd3 Qb6 14. Qe3 Ba4
+15. Rf2 Bb5 16. g4 Bxd3 17. Qxd3 Bxe5 18. fxe5 Nxg4 19. Rg2 Ngxe5 20. Qg3 Ng6
+21. Nc3 Nxd4 22. Kh1 Nf5 23. Qe1 Nfh4 24. Rf2 Qc6 25. Rc1 d4+ 26. Ne4 Qd5 27.
+Kg1 Rxc1 28. Bxc1 Nf5 29. Ng5 Ne5 30. Qe2 h6 31. Nh3 d3 32. Qd1 Rc8 33. Nf4 Qc5
+34. Bd2 Nh4 35. Kf1 Nhf3 36. Rxf3 Nxf3 37. Qxf3 Qxa3 38. Qe3 Qa1+ 39. Kg2 Rc2
+40. Kg3 Qa2 41. Bb4 Rxh2 42. Qd4 Rb2 43. Qd8+ Kh7 44. Qxd3+ Kg8 45. Qd8+ Kh7
+46. Qd3+ g6 47. Bc3 e5 48. Nxg6 Rg2+ 49. Kf3 Qf2+ 50. Ke4 Rxg6 0-1
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Paltusov, Sergei"]
+[Black "Budruev, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "D47"]
+[PlyCount "98"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. e3 e6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Be7 9. O-O O-O 10. b3 Bb7 11. Bb2 a6 12. Rc1 c5 13. Ne5 cxd4 14. exd4 b4 15.
+Ne2 Nxe5 16. dxe5 Nd5 17. Be4 Qb6 18. Bd4 Qa5 19. Bb1 Rfd8 20. Qd3 g6 21. Qg3
+Rd7 22. h4 Rad8 23. f4 Nc7 24. Be3 Qd5 25. h5 Bf8 26. Qg5 Bh6 27. Qg3 Qb5 28.
+Rf2 Rd1+ 29. Kh2 Rxc1 30. Bxc1 Rd1 31. Bc2 Rd8 32. hxg6 hxg6 33. Qh4 Rd7 34.
+Qxh6 Qc5 35. Qh4 Qxc2 36. f5 exf5 37. Bh6 Qxa2 38. Nf4 Qxb3 39. Nh5 f6 40.
+Nxf6+ Kf7 41. Nxd7 Ne8 42. Bg5 Ng7 43. Bf6 Nh5 44. e6+ Qxe6 45. Nc5 Qd6+ 46.
+Kg1 Qxc5 47. Bd4 Qc1+ 48. Kh2 Qc7+ 49. Kg1 Qc1+ 1/2-1/2
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Prosvirnin, Lev"]
+[Black "Makarov, Viatcheslav"]
+[Result "0-1"]
+[ECO "D95"]
+[WhiteElo "2241"]
+[PlyCount "59"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 d5 4. Nf3 Bg7 5. e3 c6 6. Qb3 O-O 7. Be2 dxc4 8. Bxc4
+b5 9. Be2 Be6 10. Qc2 Na6 11. a3 Nc7 12. O-O Nfd5 13. e4 Nxc3 14. bxc3 Ne8 15.
+Be3 Nd6 16. Nd2 Qc7 17. Rfd1 Rac8 18. Qb2 Rfd8 19. Rac1 Qa5 20. Qb4 Qc7 21. Qb1
+a6 22. c4 Qb8 23. c5 Ne8 24. Nb3 Nf6 25. f3 Nd7 26. Na5 Qc7 27. Qb4 Ra8 28. d5
+Bxd5 29. Nb3 Bxb3 30. Qxb3 0-1
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Rakov, Anatoly"]
+[Black "Demidov, Alexandr"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2074"]
+[BlackElo "2261"]
+[PlyCount "58"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. c3 Be7 5. h3 O-O 6. Nbd2 b6 7. e3 Bb7 8. Ne5
+Nbd7 9. Qa4 Nxe5 10. dxe5 Nd7 11. Be2 a6 12. Qc2 c5 13. O-O Qb8 14. Bh2 Nxe5
+15. f4 Nd7 16. e4 Rd8 17. Rae1 Nf8 18. Bh5 c4 19. f5 e5 20. exd5 f6 21. Nxc4
+Bxd5 22. Ne3 Bc5 23. Kh1 Bxe3 24. Rxe3 Ra7 25. Rd1 Rad7 26. Rdd3 Qb7 27. Kg1
+Kh8 28. c4 Be4 29. Rxd7 Rxd7 1-0
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Samojlov, Anton"]
+[Black "Gordievsky, Dmitry"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "2258"]
+[BlackElo "2201"]
+[PlyCount "79"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Qa4 Bxf3 5. gxf3 e6 6. e3 a6 7. Bd2 Nf6 8.
+cxd5 exd5 9. Nc3 Be7 10. O-O-O O-O 11. Ne2 b5 12. Qc2 Nb4 13. Bxb4 Bxb4 14. Nf4
+Bd6 15. Nd3 c6 16. Kb1 Qb6 17. h4 b4 18. Rc1 Rfc8 19. Bh3 Rc7 20. Qa4 c5 21.
+dxc5 Bxc5 22. Nxb4 Bxb4 23. Rxc7 Qxc7 24. Qxb4 Rb8 25. Qd4 h6 26. Bf5 Qd6 27.
+Qc3 g6 28. Bc2 Rb4 29. a3 Rc4 30. Qd3 h5 31. Bb3 Rc8 32. Rd1 Rd8 33. Qd4 Rd7
+34. e4 Qf4 35. e5 Qxd4 36. Rxd4 Ne8 37. Rxd5 Re7 38. f4 Ng7 39. Rd6 Nf5 40.
+Rxg6+ 1-0
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Smirnov, Alexander1"]
+[Black "Granovski, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[WhiteElo "2206"]
+[BlackElo "2356"]
+[PlyCount "22"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 1/2-1/2
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Sotnikov, Maxim"]
+[Black "Gladisheva, Tatjana"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[WhiteElo "1979"]
+[BlackElo "2235"]
+[PlyCount "33"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Nc3 c6 4. Bg5 Bf5 5. e3 e6 6. Bd3 h6 7. Bh4 Be7 8. Ne5
+Ne4 9. Bxe7 Qxe7 10. Bxe4 dxe4 11. Qe2 O-O 12. O-O-O b5 13. f3 f6 14. Ng4 exf3
+15. gxf3 a5 16. Rhg1 Kh8 17. e4 1/2-1/2
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "7"]
+[White "Venglinskiy, Sergey"]
+[Black "Muhamadiev, Dualet"]
+[Result "0-1"]
+[ECO "D10"]
+[PlyCount "81"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. e3 e4 5. c5 b6 6. b4 a5 7. cxb6 Bxb4 8. Bd2 Nd7
+9. Qg4 Qf6 10. Qg3 Nxb6 11. Rb1 Bd6 12. f4 Nd7 13. Nh3 Ne7 14. Nf2 Nf5 15. Qh3
+Nb8 16. g4 Ne7 17. Qg3 Na6 18. h4 Nb4 19. Bh3 g5 20. hxg5 Qxg5 21. Bf1 Nf5 22.
+Qh3 Nc2+ 23. Kd1 Nfxe3+ 24. Bxe3 Nxe3+ 25. Qxe3 Bxf4 26. Qe2 Qg7 27. Nfxe4
+Qxd4+ 28. Nd2+ Be3 29. Qd3 Bxg4+ 30. Kc2 Bf5 31. Qxf5 Qxd2+ 32. Kb3 Rb8+ 33.
+Bb5 a4+ 34. Kxa4 cxb5+ 35. Rxb5 Qd4+ 36. Kb3 Rxb5+ 37. Nxb5 Qc4+ 38. Ka3 Bc5+
+39. Kb2 Qxb5+ 40. Kc2 Qe2+ 41. Kc3 0-1
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Dementiev, Oleg I"]
+[Black "Kinoshenko, Konstantin"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1991"]
+[PlyCount "61"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. e3 e6 5. c4 Bd6 6. Ne5 c6 7. Qb3 Qb6 8. c5
+Qxb3 9. axb3 Be7 10. Be2 Nbd7 11. O-O Nxe5 12. Bxe5 Kd7 13. f3 h5 14. Nc3 Rhc8
+15. b4 a6 16. Ra2 Rg8 17. Ra4 Rac8 18. b5 cxb5 19. Nxb5 Kd8 20. Nc3 Nd7 21. Bg3
+h4 22. Be1 Bf6 23. b4 Ke7 24. b5 axb5 25. Nxb5 g5 26. Ra7 Rb8 27. Bb4 Kd8 28.
+Nd6 Rg7 29. Nxb7+ Kc8 30. Nd6+ Kd8 31. Bb5 1-0
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Gilyov, Dmitry"]
+[Black "Tsygankov, Alexandr"]
+[Result "1-0"]
+[ECO "D32"]
+[WhiteElo "2095"]
+[BlackElo "2032"]
+[PlyCount "100"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. Qxd5 Bd7 8.
+Nf3 Nf6 9. Qb3 Be6 10. Qa4 Qb6 11. e3 O-O-O 12. Be2 h6 13. O-O g5 14. a3 g4 15.
+Nd4 Nxd4 16. exd4 a6 17. Be3 Bb3 18. d5 Qxe3 19. Bxg4+ Kb8 20. fxe3 Bxa4 21.
+Rxf6 Be8 22. e4 Bg7 23. Rff1 Rg8 24. Bf5 Be5 25. Rac1 f6 26. Rc2 Rg7 27. Rfc1
+Bf4 28. Rd1 Be5 29. Kf2 Rc7 30. Rcd2 Rd6 31. g3 Rc4 32. Ne2 Ba4 33. Rc1 Bb5 34.
+Rxc4 Bxc4 35. Nd4 a5 36. Nf3 Ka7 37. Nxe5 fxe5 38. Kg2 Kb6 39. g4 Kc5 40. h4
+Bb5 41. g5 Be8 42. Kg3 Bh5 43. Rc2+ Kd4 44. Rc7 Rb6 45. gxh6 Rxh6 46. Rxb7 Rh8
+47. d6 Ke3 48. Rg7 Rb8 49. d7 Bf3 50. Bg4 Bxe4 1-0
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Gorishniy, Yuri"]
+[Black "Rakov, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[WhiteElo "2066"]
+[BlackElo "1912"]
+[PlyCount "73"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 dxc4 8.
+Bxf6 Nxf6 9. Nxc4 Qg5 10. Qf3 Qg4 11. Be2 Qxf3 12. Bxf3 Be7 13. O-O O-O 14.
+Rab1 Rb8 15. b4 Nd5 16. Nxd5 cxd5 17. Ne5 f6 18. Nd3 b6 19. Rfc1 Bd6 20. e4
+dxe4 21. Bxe4 Bb7 22. Bxb7 Rxb7 23. Ne1 Rd8 24. Nf3 g5 25. h3 h5 26. Rc6 Kf7
+27. Re1 Re7 28. a3 g4 29. hxg4 hxg4 30. Nd2 Bf4 31. Nb3 Bb8 32. Rec1 e5 33. Rc8
+Red7 34. Rxd8 Rxd8 35. Rd1 Ke6 36. Kf1 f5 37. Ke2 1/2-1/2
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Gubajdullin, Alexey"]
+[Black "Dobrov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[WhiteElo "2441"]
+[BlackElo "2519"]
+[PlyCount "24"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c6 2. d4 d5 3. cxd5 cxd5 4. Nf3 Nf6 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Nd7 9. O-O Qb6 10. Nh4 g6 11. Nxf5 gxf5 12. Rc1 Be7 1/2-1/2
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Ismagulova, Tatiana"]
+[Black "Akimov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[PlyCount "52"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Bg5 e6 5. e3 Be7 6. Bd3 O-O 7. O-O Nbd7 8. Nc3
+b6 9. Qc2 h6 10. Bh4 c5 11. cxd5 exd5 12. Rac1 cxd4 13. Nxd4 Ne5 14. Be2 Be6
+15. Bg3 Nfd7 16. Ncb5 Bc5 17. Nb3 a6 18. Nxc5 bxc5 19. Nc3 d4 20. exd4 cxd4 21.
+Ne4 Bf5 22. Bd3 Nxd3 23. Qxd3 Re8 24. Rfe1 Rc8 25. Rxc8 Qxc8 26. f3 Bxe4
+1/2-1/2
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Ivanov, Gleb E"]
+[Black "Kotov, Anton"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "1923"]
+[PlyCount "34"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 c5 3. e3 e6 4. Be2 d5 5. O-O Nc6 6. b3 cxd4 7. Nxd4 Bd6 8. Bb2
+O-O 9. Nd2 Qc7 10. c4 Bd7 11. Rc1 Rac8 12. Bd3 Qb8 13. Re1 Nb4 14. Bb1 Bf4 15.
+Rc3 Nc6 16. Rd3 dxc4 17. bxc4 b5 1/2-1/2
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Kutueva, Natalia"]
+[Black "Matveev, Vladimir"]
+[Result "1-0"]
+[ECO "D09"]
+[WhiteElo "1925"]
+[BlackElo "2222"]
+[PlyCount "56"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Qd7 7. O-O O-O-O 8.
+Qb3 Na5 9. Qb5 Qxb5 10. cxb5 Nc4 11. Nbd2 Nxd2 12. Bxd2 f6 13. exf6 Nxf6 14.
+Bf4 Bc5 15. Rac1 Bb6 16. a4 Nd5 17. Bd2 Rhf8 18. h3 Bxf3 19. Bxf3 d3 20. Bg4+
+Kb8 21. exd3 Nf6 22. Be2 Ne4 23. Bf4 Nc5 24. a5 Rde8 25. axb6 Rxe2 26. bxc7+
+Kc8 27. Rxc5 Rxb2 28. Rcc1 b6 1-0
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Loshakov, Dmitry"]
+[Black "Lozbenev, Pavel"]
+[Result "0-1"]
+[ECO "D03"]
+[WhiteElo "2001"]
+[BlackElo "2073"]
+[PlyCount "43"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bh4 Bf5 5. e3 c6 6. Be2 Qb6 7. Qc1 e6 8. O-O
+Nd7 9. Nbd2 Nxd2 10. Nxd2 c5 11. Nb3 Rc8 12. dxc5 Bxc5 13. Nxc5 Qxc5 14. b3 O-O
+15. Qd1 Ne5 16. Bd3 Qb4 17. a3 Qc5 18. c4 dxc4 19. Bxc4 g5 20. Bg3 b5 21. Be2
+Rfe8 22. Qe1 0-1
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Myshkin, Nikita"]
+[Black "Dolgova, Tamara"]
+[Result "1-0"]
+[ECO "D32"]
+[WhiteElo "2050"]
+[BlackElo "1907"]
+[PlyCount "80"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. e3 Nf6 8.
+Nf3 Be7 9. Be2 O-O 10. O-O Bg4 11. h3 Bh5 12. Nd4 Bg6 13. Bd3 Ne4 14. Nxc6 bxc6
+15. Nxe4 dxe4 16. Bc4 Qc7 17. Bd2 Rad8 18. Qe2 Bf6 19. Rab1 Rd7 20. Rfd1 Rfd8
+21. Bc3 Bxc3 22. bxc3 Qe5 23. Rxd7 Rxd7 24. Rd1 Rxd1+ 25. Qxd1 h6 26. Qd4 Qa5
+27. Bb3 Qa3 28. g3 Qa6 29. Qc4 Qc8 30. Kg2 c5 31. Qd5 Qf5 32. Qxf5 Bxf5 33. g4
+Bh7 34. Kg3 Kf8 35. Bc2 Ke7 36. Kf4 g5+ 37. Ke5 f6+ 38. Kd5 Bg8+ 39. Kxc5 Bxa2
+40. Bxe4 Bb3 1-0
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Nefedov, Sergei"]
+[Black "Sharafiev, Azat"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2235"]
+[BlackElo "2418"]
+[PlyCount "50"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bf5 4. e3 e6 5. Bd3 Nge7 6. O-O f6 7. c4 g5 8. Bg3
+h5 9. h4 g4 10. Ne1 Qd7 11. Nc3 Bxd3 12. Nxd3 Nf5 13. cxd5 exd5 14. Qb3 O-O-O
+15. Nf4 Nxg3 16. fxg3 Ne7 17. Rac1 c6 18. Nce2 Kb8 19. Qd3 Rh6 20. b4 Nc8 21.
+b5 cxb5 22. Nc3 a6 23. Ncxd5 Bd6 24. e4 Qf7 25. Ne2 Ne7 1/2-1/2
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Platonova, Lubov"]
+[Black "Korobitsyn, Danil"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "1930"]
+[PlyCount "37"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 Bd6 7. O-O O-O 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Nf6 11. Bc2 c5 12. dxc5 Bxc5 13. Qxd8 Rxd8 14. Bg5
+Bd7 15. Ne5 Bd4 16. Nxd7 Rxd7 17. Rad1 Rad8 18. b3 h6 19. Bxf6 1/2-1/2
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Pyatnitsyn, Maxim"]
+[Black "Dagaev, Dmitry"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "1857"]
+[BlackElo "2156"]
+[PlyCount "67"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Ba3 Nd7 8.
+Bc4 c5 9. Nf3 O-O 10. O-O Nb6 11. Bb3 cxd4 12. cxd4 Bg4 13. h3 Bxf3 14. Qxf3
+Rc8 15. Rad1 Nc4 16. Bxc4 Rxc4 17. d5 Rc3 18. Rd3 Rxd3 19. Qxd3 Be5 20. Qb5 b6
+21. Qa4 f5 22. Qxa7 Bd6 23. e5 Bxa3 24. Qxa3 Qxd5 25. Qxe7 Qxa2 26. e6 Qa8 27.
+Re1 Qe8 28. Qb7 b5 29. Qd5 Rf6 30. Qd7 Rf8 31. Rc1 b4 32. Rc7 Qxd7 33. exd7 b3
+34. Rc8 1-0
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "9"]
+[White "Avdeev, Ruslan"]
+[Black "Prohorov, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[BlackElo "2168"]
+[PlyCount "26"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. Bg5 e6 6. e3 Nbd7 7. Bd3 Be7 8. O-O
+dxc4 9. Bxc4 b5 10. Bd3 c5 11. Rc1 Bb7 12. a3 Rc8 13. Bb1 O-O 1/2-1/2
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "9"]
+[White "Blokhina, Elvira"]
+[Black "Zhuravlev, A."]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "1962"]
+[BlackElo "2118"]
+[PlyCount "69"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. Nf3 Bb4+ 8.
+Bd2 Bxd2+ 9. Qxd2 O-O 10. Bd3 Nd7 11. O-O e5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14.
+Rfe1 Qf6 15. Qc2 g6 16. Re2 Bg4 17. f3 Be6 18. Rae1 Rad8 19. Re5 Rd7 20. Bf1
+Rfd8 21. Qa4 a6 22. c5 Rd4 23. Qa5 Kg7 24. a3 R8d5 25. Rxd5 Rxd5 26. Qb4 a5 27.
+Qxa5 Qd4+ 28. Kh1 Qxb2 29. Qb4 Qf2 30. Rc1 Rd2 31. Qc3+ f6 32. Qa5 Rd7 33. Qe1
+Qxe1 34. Rxe1 Kf7 35. Kg1 1-0
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "9"]
+[White "Brujatsky, Evgeny"]
+[Black "Mikhailov, Viacheslav"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2168"]
+[BlackElo "2043"]
+[PlyCount "52"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Bb4 6. a3 Bxc3+ 7. bxc3 Qa5 8. Qc2
+Ne4 9. Bb2 Nd7 10. Bd3 f5 11. O-O O-O 12. a4 Rf6 13. Rfc1 Rh6 14. cxd5 exd5 15.
+c4 Qd8 16. cxd5 cxd5 17. Qc7 Qe8 18. Ba3 Rf6 19. Rc2 Nf8 20. Rac1 h6 21. Ne5
+Qxa4 22. Be7 Ne6 23. Qxc8+ Rxc8 24. Rxc8+ Kh7 25. g3 Nf4 26. Bf1 Qb3 1-0
+
+[Event "Volga Cup op"]
+[Site "Kostroma"]
+[Date "2008.07.??"]
+[Round "9"]
+[White "Dementiev, Oleg I"]
+[Black "Selifonova, Aleksandra"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1991"]
+[PlyCount "32"]
+[EventDate "2008.07.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 e6 5. c3 Bd6 6. Bg3 Nc6 7. Nbd2 O-O 8. Ne5

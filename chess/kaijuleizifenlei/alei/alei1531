@@ -1,0 +1,600 @@
+[Site "Lvov"]
+[Date "2008.10.23"]
+[Round "3"]
+[White "Leniart, Arkadiusz"]
+[Black "Grekh, Andrey"]
+[Result "0-1"]
+[ECO "A43"]
+[WhiteElo "2368"]
+[BlackElo "2391"]
+[PlyCount "66"]
+[EventDate "2008.10.21"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "UKR"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. Bg5 Qb6 5. a4 b4 6. a5 Qb7 7. Bxf6 exf6 8. e4
+d6 9. Nbd2 f5 10. a6 Qc7 11. Bb5+ Bd7 12. Bxd7+ Qxd7 13. exf5 Be7 14. O-O O-O
+15. Re1 Bf6 16. Ne4 Bxb2 17. f6 Qd8 18. fxg7 Bxg7 19. Rb1 Nxa6 20. Qd3 Nc7 21.
+Ng3 Qf6 22. Re4 Qc3 23. Qd1 Rae8 24. Rg4 f5 25. Rg5 h6 26. Rxf5 Qc4 27. Qd2 a5
+28. Re1 Rxe1+ 29. Qxe1 Qxc2 30. Rxf8+ Bxf8 31. Nh5 b3 32. Nf6+ Kf7 33. Ne8 b2
+0-1
+
+[Event "Lvov Vasylyshyn Memorial"]
+[Site "Lvov"]
+[Date "2008.10.23"]
+[Round "3"]
+[White "Margvelashvili, Giorgi"]
+[Black "Ipatov, Alexander"]
+[Result "0-1"]
+[ECO "A12"]
+[WhiteElo "2478"]
+[BlackElo "2472"]
+[PlyCount "46"]
+[EventDate "2008.10.21"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "UKR"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. c4 c6 3. g3 Bg4 4. Bg2 e6 5. O-O Nd7 6. b3 Bd6 7. Bb2 Ngf6 8. d3
+Qc7 9. Nbd2 h5 10. h3 h4 11. Nxh4 Bxh3 12. Bxh3 g5 13. cxd5 cxd5 14. Rc1 Qb8
+15. Nf5 exf5 16. Bxf5 Bxg3 17. Bxd7+ Kxd7 18. Bxf6 Qf4 19. e3 Qh4 20. Kg2 Qh2+
+21. Kf3 Bxf2 22. Rg1 g4+ 23. Kxg4 Qh3+ 0-1
+
+[Event "Lvov Vasylyshyn Memorial"]
+[Site "Lvov"]
+[Date "2008.10.25"]
+[Round "6"]
+[White "Sulashvili, Malkhaz"]
+[Black "Nyzhnyk, Illya"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2495"]
+[BlackElo "2444"]
+[PlyCount "107"]
+[EventDate "2008.10.21"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "UKR"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O c5 6. Nc3 Be7 7. b3 O-O 8. Bb2
+d6 9. d4 cxd4 10. Qxd4 a6 11. Rad1 Nbd7 12. e4 Qc7 13. Ba3 Nc5 14. e5 dxe5 15.
+Qxe5 Rac8 16. Qxc7 Rxc7 17. Ne5 Bxg2 18. Kxg2 Rfc8 19. f4 g6 20. Rf3 Rb7 21.
+Bxc5 Bxc5 22. Rfd3 Be7 23. Kf3 b5 24. g4 h6 25. h4 bxc4 26. Nxc4 Rc5 27. g5
+hxg5 28. hxg5 Nh5 29. Rd7 Rxd7 30. Rxd7 Kf8 31. Ne2 Rf5 32. Ne3 Ra5 33. a4 Rc5
+34. b4 Rc8 35. Rb7 Ng7 36. Nd4 Ne8 37. Rb6 Rc3 38. Nc6 Bd6 39. Ne5 Rb3 40. Rxa6
+Bxb4 41. Ra8 Bd6 42. N5c4 Bc5 43. Rc8 Ba7 44. Ke2 Ke7 45. Ng4 Rb4 46. a5 Nd6
+47. Rc7+ Kd8 48. Rxa7 Rxc4 49. Ne5 Rxf4 50. Nc6+ Kc8 51. Ne7+ Kd8 52. Nc6+ Kc8
+53. Ne7+ Kd8 54. Nc6+ 1/2-1/2
+
+[Event "Lvov Vasylyshyn Memorial"]
+[Site "Lvov"]
+[Date "2008.10.26"]
+[Round "8"]
+[White "Ipatov, Alexander"]
+[Black "Muzychuk, Mariya"]
+[Result "1/2-1/2"]
+[ECO "A85"]
+[WhiteElo "2472"]
+[BlackElo "2436"]
+[PlyCount "186"]
+[EventDate "2008.10.21"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "UKR"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 d6 4. Bg5 Nbd7 5. Qc2 g6 6. O-O-O Bg7 7. h4 h6 8.
+Bxf6 Nxf6 9. Nh3 Ng4 10. e3 O-O 11. Nf4 Kh7 12. h5 g5 13. Ng6 Rf7 14. c5 e6 15.
+Bd3 Bd7 16. Rde1 dxc5 17. dxc5 Ne5 18. Be2 Kg8 19. f4 Nxg6 20. hxg6 Rf6 21.
+fxg5 Rxg6 22. gxh6 Rxh6 23. Bf3 c6 24. g4 Qe7 25. Ne2 b6 26. Nf4 bxc5 27. gxf5
+exf5 28. Rxh6 Bxh6 29. Qg2+ Qg7 30. Qh2 Kh7 31. Rg1 Qe7 32. Kb1 Be8 33. a3 Bf7
+34. Qc2 Qf6 35. Bg4 Rg8 36. Bxf5+ Kh8 37. Ng6+ Bxg6 38. Bxg6 Rg7 39. Ka2 c4 40.
+Rg3 c3 41. Qxc3 Qxc3 42. bxc3 Kg8 43. Kb2 Kf8 44. Rf3+ Ke7 45. Be4 Rg2+ 46. Kb3
+Re2 47. Rh3 Bxe3 48. Bxc6 Kd6 49. Bb5 Re1 50. Bd3 Bb6 51. Rh6+ Re6 52. Rh8 Re3
+53. Kc4 Re5 54. a4 Rc5+ 55. Kb3 Re5 56. Bb5 Re3 57. Rh6+ Re6 58. Rh7 Re7 59.
+Rh8 Re3 60. Rc8 Ba5 61. Rc4 Rg3 62. Rc8 Rh3 63. Bf1 Rf3 64. Bg2 Rg3 65. Bh1 Rh3
+66. Rc6+ Kd7 67. Bd5 Rd3 68. Bh1 Rh3 69. Be4 Re3 70. Rc4 Kd6 71. Bb7 Rg3 72.
+Rc6+ Kd7 73. Rc5 Bb6 74. Rd5+ Kc7 75. Ba6 Kc6 76. Bc4 Bf2 77. Rd1 Bb6 78. Rd5
+Bf2 79. Rd8 Be1 80. Bd3 Rg5 81. Re8 Bf2 82. Re6+ Kc7 83. Bb5 Bb6 84. Kb4 Rg4+
+85. c4 a5+ 86. Kc3 Rg3+ 87. Kd2 Rg2+ 88. Kd3 Rg3+ 89. Ke2 Rg5 90. Kf3 Rh5 91.
+Kg4 Rc5 92. Rh6 Re5 93. Kf4 Be3+ 1/2-1/2
+
+[Event "Lvov Vasylyshyn Memorial"]
+[Site "Lvov"]
+[Date "2008.10.31"]
+[Round "15"]
+[White "Geller, Jakov"]
+[Black "Nyzhnyk, Illya"]
+[Result "1-0"]
+[ECO "A28"]
+[WhiteElo "2511"]
+[BlackElo "2444"]
+[PlyCount "93"]
+[EventDate "2008.10.21"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "UKR"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. Nc3 Nf6 3. a3 Nc6 4. e3 Be7 5. Qc2 O-O 6. Nf3 Re8 7. Be2 d6 8. d3
+Bg4 9. b4 Bf8 10. Bb2 Qd7 11. Rc1 a5 12. b5 Ne7 13. h3 Bh5 14. g4 Bg6 15. g5
+Nh5 16. Nh4 f6 17. Bf3 fxg5 18. Nxg6 hxg6 19. Bxb7 Rab8 20. Bf3 Nf6 21. Ne4 c6
+22. bxc6 Nxc6 23. Nxg5 a4 24. Ne4 Na5 25. Rg1 Nh7 26. Rxg6 d5 27. Ng5 Nf6 28.
+Rxf6 gxf6 29. Bxd5+ Kg7 30. Nf3 Nb3 31. Rd1 Rbc8 32. Qb1 Rc5 33. Ke2 Rxd5 34.
+cxd5 Qxd5 35. Qc2 Rd8 36. Rg1+ Kf7 37. Rg4 Qb5 38. Qc4+ Qxc4 39. Rxc4 Nc5 40.
+d4 Rb8 41. Bc3 Ne4 42. dxe5 Nxc3+ 43. Rxc3 Rb2+ 44. Kf1 Ra2 45. Rc7+ Ke6 46.
+Rc6+ Kd5 47. Ra6 1-0
+
+[Event "Lvov Vasylyshyn Memorial"]
+[Site "Lvov"]
+[Date "2008.10.31"]
+[Round "15"]
+[White "Sulashvili, Malkhaz"]
+[Black "Zherebukh, Yaroslav"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[WhiteElo "2495"]
+[BlackElo "2473"]
+[PlyCount "21"]
+[EventDate "2008.10.21"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "UKR"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 c5 2. d5 Nf6 3. Nf3 d6 4. c4 e6 5. Nc3 exd5 6. cxd5 g6 7. Qa4+ Bd7 8. Qb3
+Bc8 9. Qa4+ Bd7 10. Qb3 Bc8 11. Qa4+ 1/2-1/2
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.08.27"]
+[Round "1"]
+[White "Altounian, Levon"]
+[Black "Van de Mortel, Jan"]
+[Result "1-0"]
+[ECO "A37"]
+[WhiteElo "2454"]
+[BlackElo "2412"]
+[PlyCount "83"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. c4 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nc3 e5 6. a3 a5 7. d3 d6 8. Nd2 Nge7
+9. Nf1 O-O 10. Ne3 Be6 11. Ned5 Rb8 12. Rb1 Qd7 13. h4 Bg4 14. Ne3 Be6 15. h5
+Nd4 16. Ned5 Bg4 17. Bg5 Nxd5 18. Bxd5 Ne6 19. Bd2 Nc7 20. hxg6 hxg6 21. Bg2
+Be6 22. Ne4 b6 23. Bh6 f6 24. b4 axb4 25. axb4 d5 26. cxd5 Bxd5 27. bxc5 bxc5
+28. Nxc5 Qc6 29. Bxg7 Rxb1 30. Qxb1 Kxg7 31. Bxd5 Nxd5 32. Ne4 f5 33. Ng5 Ne3
+34. Rh7+ Kf6 35. fxe3 Kxg5 36. Qb4 f4 37. exf4+ exf4 38. Qxf8 Qc1+ 39. Kf2 Qe3+
+40. Kf1 Qc1+ 41. Kg2 f3+ 42. Kf2 1-0
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.08.27"]
+[Round "1"]
+[White "Bonin, Jay R"]
+[Black "Shmeliov, Denis"]
+[Result "1/2-1/2"]
+[ECO "A33"]
+[WhiteElo "2385"]
+[BlackElo "2349"]
+[PlyCount "76"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. g3 Nf6 2. c4 e6 3. Bg2 c5 4. Nf3 Be7 5. O-O O-O 6. Nc3 Nc6 7. b3 a6 8. Bb2
+Qc7 9. d4 cxd4 10. Nxd4 d6 11. Rc1 Nxd4 12. Qxd4 Bd7 13. Rfd1 Rfd8 14. h3 Rac8
+15. Qe3 Qb8 16. Qb6 d5 17. cxd5 Bc5 18. Qa5 b6 19. Qxa6 Qxg3 20. e3 Qg5 21. b4
+Bxb4 22. dxe6 Bxe6 23. Rxd8+ Rxd8 24. Qxb6 Be7 25. Qb5 Qh4 26. Rd1 Rxd1+ 27.
+Nxd1 h5 28. Qb8+ Kh7 29. Qf4 Qxf4 30. exf4 Bxa2 31. Ne3 Nd7 32. Bd5 Bxd5 33.
+Nxd5 Bd6 34. f5 f6 35. f4 Nc5 36. Ba3 Ne4 37. Bxd6 Nxd6 38. Ne7 Ne4 1/2-1/2
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.08.27"]
+[Round "1"]
+[White "Kaufman, Raymond"]
+[Black "Molner, Mackenzie"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2360"]
+[BlackElo "2337"]
+[PlyCount "50"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 Bb7 5. a4 Qa5+ 6. Bd2 b4 7. Qc2 d6 8. e4
+Nbd7 9. Bd3 g6 10. O-O Bg7 11. h3 O-O 12. Bf4 Qc7 13. Re1 Nh5 14. Bh2 e5 15.
+dxe6 fxe6 16. Nbd2 e5 17. Rad1 Nb8 18. Nf1 Rxf3 19. gxf3 Nc6 20. Be2 Rf8 21.
+Ne3 Bc8 22. Nd5 Qd8 23. Kh1 Qh4 24. Qd2 Bh6 25. f4 Bxh3 0-1
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.08.27"]
+[Round "1"]
+[White "Vigorito, David"]
+[Black "Braylovsky, Gregory"]
+[Result "1/2-1/2"]
+[ECO "A31"]
+[WhiteElo "2382"]
+[BlackElo "2354"]
+[PlyCount "90"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 c5 2. Nf3 b6 3. Nc3 Bb7 4. e4 d6 5. d4 cxd4 6. Nxd4 Nf6 7. f3 e6 8. Be2
+Be7 9. Be3 O-O 10. O-O a6 11. Qd2 Nbd7 12. a4 Rc8 13. a5 bxa5 14. Nb3 a4 15.
+Nxa4 d5 16. exd5 exd5 17. c5 d4 18. Qxd4 Nd5 19. Bf2 Bf6 20. Qc4 Ne5 21. Qc2
+Nb4 22. Qb1 Re8 23. Nb6 Rc7 24. Ra4 Nec6 25. Rd1 Qe7 26. Bf1 g6 27. Re1 Qf8 28.
+Rxe8 Qxe8 29. Nd2 Qd8 30. Ne4 Bd4 31. Qe1 Bxf2+ 32. Qxf2 a5 33. Ra1 Ne5 34. Nd6
+Bc6 35. Rxa5 Qf6 36. Ra3 Re7 37. Qd2 Nbd3 38. Rxd3 Nxd3 39. Qxd3 Qxb2 40. Nd5
+Re1 41. Qc3 Qe2 42. Nf6+ Kf8 43. Nxh7+ Kg8 44. Nf6+ Kf8 45. Nh7+ Kg8 1/2-1/2
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.08.27"]
+[Round "1"]
+[White "Wilson, Elvin"]
+[Black "Katz, Benjamin"]
+[Result "1-0"]
+[ECO "A70"]
+[WhiteElo "2277"]
+[BlackElo "2102"]
+[PlyCount "103"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. h3 Bg7 8. e4
+O-O 9. Bd3 b5 10. Bxb5 Nxe4 11. Nxe4 Qa5+ 12. Nfd2 Qxb5 13. Nxd6 Qa6 14. N2c4
+Nd7 15. O-O Nb6 16. Nxb6 Qxb6 17. Nxc8 Raxc8 18. Rb1 Rfd8 19. Bf4 Qb7 20. d6
+Bf8 21. Qd2 Bxd6 22. Bxd6 Rc6 23. Rfd1 Rcxd6 24. Qxd6 Rxd6 25. Rxd6 c4 26. Rdd1
+Qa6 27. a3 Qb5 28. Re1 Qb3 29. Rec1 Qd3 30. a4 a5 31. Ra1 Qb3 32. Ra3 Qb4 33.
+g3 Kg7 34. h4 h5 35. Rac3 Qxa4 36. Rxc4 Qb3 37. R1c2 Qd3 38. R4c3 Qd1+ 39. Kg2
+a4 40. Rc1 Qd2 41. R1c2 Qd1 42. Rc4 Qd5+ 43. Kh2 Qd3 44. Rc7 Qf5 45. Kg1 Qd3
+46. Kh2 Qf5 47. Rd2 Qe5 48. Rdd7 Qxb2 49. Rxf7+ Kg8 50. Kg2 Qb8 51. Rg7+ Kh8
+52. Rh7+ 1-0
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.03"]
+[Round "2"]
+[White "Bick, John D"]
+[Black "Readey, John"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "2225"]
+[BlackElo "2275"]
+[PlyCount "107"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. d5 e6 8. Qd2 exd5
+9. cxd5 a6 10. a4 Re8 11. Nge2 Nbd7 12. Ng3 h5 13. Be2 Nh7 14. O-O h4 15. Nh1
+f5 16. Nf2 Ne5 17. h3 Bd7 18. Nfd1 Qa5 19. f4 Nf7 20. exf5 gxf5 21. Bf2 Bf6 22.
+Ne3 Re7 23. Bd3 Nh6 24. Qc2 Rf8 25. Rfe1 Rg7 26. Ra3 Kh8 27. Kh1 Qc7 28. Qe2
+Be8 29. Nxf5 Nxf5 30. Bxf5 Qf7 31. Be6 Qg6 32. Rg1 Bxc3 33. f5 Rxf5 34. Bxf5
+Qxf5 35. Rxc3 Bf7 36. Bxh4 Bxd5 37. Qf2 Qxf2 38. Bxf2 Ng5 39. Be1 Ne4 40. Re3
+Bc6 41. Rxe4 Bxe4 42. Bc3 Kg8 43. Bxg7 Kxg7 44. Rf1 a5 45. Kh2 d5 46. Kg3 d4
+47. Kf4 Bc6 48. g4 b6 49. Ra1 c4 50. Ke5 c3 51. Kxd4 cxb2 52. Rb1 Bxa4 53. Rxb2
+b5 54. Kc5 1-0
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.03"]
+[Round "2"]
+[White "Galofre, Charles A"]
+[Black "Braylovsky, Gregory"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2320"]
+[BlackElo "2354"]
+[PlyCount "106"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. c4 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Nf6 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+d6 9. Bg5 a6 10. Bxf6 Bxf6 11. Qf4 Ra7 12. Rfd1 Be7 13. Ne4 Bxe4 14. Qxe4 O-O
+15. Nd4 Rc7 16. b3 Bf6 17. a4 h6 18. Ra2 Re8 19. Rad2 Qc8 20. e3 Be7 21. Bh3
+Bf8 22. Bg2 Nd7 23. Qb1 Nf6 24. h3 Rd8 25. Ne2 Be7 26. Kh2 Qb8 27. Qb2 Rdc8 28.
+e4 b5 29. cxb5 axb5 30. e5 dxe5 31. Qxe5 bxa4 32. bxa4 Qa7 33. Rd4 Rc5 34. Qe3
+Ra5 35. Nc3 Qb8 36. Rb1 Qc7 37. Ne4 Nd5 38. Qb3 Qa7 39. Rbd1 Rb8 40. Qc2 Qb6
+41. h4 Ra7 42. Rc4 Qa6 43. Nc5 Bxc5 44. Rxc5 Qxa4 45. Qxa4 Rxa4 46. Bxd5 exd5
+47. Rcxd5 Rb2 48. R1d2 Rxd2 49. Rxd2 Kh7 50. Rd7 f5 51. Rd6 Rg4 52. Kh3 Rg6 53.
+Rd5 Rf6 1/2-1/2
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.03"]
+[Round "2"]
+[White "Lee, Michael"]
+[Black "Wheeler, Jerry"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2290"]
+[BlackElo "2137"]
+[PlyCount "85"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 b6 2. Nc3 e6 3. Nf3 Bb7 4. g3 Nf6 5. Bg2 c5 6. O-O Be7 7. Re1 O-O 8. e4
+d6 9. d4 cxd4 10. Nxd4 Qc8 11. Be3 a6 12. Rc1 Nbd7 13. f4 Re8 14. g4 g6 15. g5
+Nh5 16. Nde2 Bf8 17. b3 Qc7 18. Bf3 Ng7 19. Ng3 Rac8 20. h4 Qb8 21. a4 Qa8 22.
+Kf2 f5 23. gxf6 Nxf6 24. Bxb6 Be7 25. Rh1 Rf8 26. Kg2 Ngh5 27. Nxh5 Nxh5 28.
+Bxh5 gxh5 29. Qf3 Kh8 30. Kh3 Bf6 31. Rhe1 Be5 32. Be3 Bxc3 33. Rxc3 Bxe4 34.
+Bd4+ e5 35. Qxe4 Qxe4 36. Rxe4 exd4 37. Rxd4 Rce8 38. Rxd6 Rxf4 39. Rxa6 Ree4
+40. Rg3 Rxh4+ 41. Kg2 Rhg4 42. Rb6 Rd4 43. a5 1-0
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.03"]
+[Round "2"]
+[White "Mikhailuk, Slava"]
+[Black "Bereolos, Peter"]
+[Result "0-1"]
+[ECO "A26"]
+[WhiteElo "2436"]
+[BlackElo "2314"]
+[PlyCount "88"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 e5 4. Bg2 d6 5. d3 Nc6 6. Rb1 a5 7. a3 Nf6 8. b4 axb4
+9. axb4 O-O 10. b5 Ne7 11. Nf3 h6 12. O-O Be6 13. Bb2 Qd7 14. Ra1 Bh3 15. e4
+Bxg2 16. Kxg2 Nh5 17. Rxa8 Rxa8 18. Ne1 f5 19. f3 c6 20. Nc2 d5 21. Nb4 d4 22.
+Na4 Nc8 23. Qb3 Bf8 24. Ra1 fxe4 25. dxe4 Qe8 26. Rc1 c5 27. Nd5 Qd8 28. b6 Nf6
+29. Ba3 Nd7 30. Qb5 Kh8 31. Rb1 Nd6 32. Qb3 Rc8 33. Nb2 Rc6 34. Nd3 Nc8 35. Qb5
+Ncxb6 36. Qa5 Be7 37. Nxe7 Qxe7 38. Nxc5 Nxc4 39. Qa8+ Qf8 40. Qxb7 Ne3+ 41.
+Kf2 Rf6 42. Nxd7 Rxf3+ 43. Ke2 Rf2+ 44. Kd3 Rd2+ 0-1
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.03"]
+[Round "2"]
+[White "Pasalic, Mehmed"]
+[Black "Shankland, Samuel L"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "2401"]
+[BlackElo "2368"]
+[PlyCount "67"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 e5 2. Nc3 Nc6 3. e3 g6 4. a3 Bg7 5. g3 f5 6. d3 d6 7. Bg2 Nf6 8. Nge2 O-O
+9. O-O Rb8 10. Rb1 Bd7 11. b4 a6 12. b5 axb5 13. cxb5 Ne7 14. a4 b6 15. Qc2 Be6
+16. f4 Qd7 17. Bd2 h6 18. Na2 Bd5 19. e4 Bb7 20. Nb4 fxe4 21. dxe4 d5 22. exd5
+Nfxd5 23. Nxd5 Bxd5 24. Bxd5+ Qxd5 25. Bb4 exf4 26. Rbd1 Qf5 27. Qxf5 Rxf5 28.
+Bxe7 f3 29. Nd4 Bxd4+ 30. Rxd4 Re8 31. Rd8 Rff8 32. Bxf8 Rxd8 33. Bxh6 Rd3 34.
+Bf4 1-0
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.03"]
+[Round "2"]
+[White "Zaikov, Oleg"]
+[Black "Shmeliov, Denis"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[WhiteElo "2380"]
+[BlackElo "2349"]
+[PlyCount "79"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. h3 Bg7 8. e4
+O-O 9. Bd3 Nh5 10. O-O Nd7 11. Bg5 Bf6 12. Be3 Re8 13. Nd2 a6 14. f4 b5 15. g4
+Ng7 16. e5 dxe5 17. f5 Bb7 18. Nde4 b4 19. Qb3 bxc3 20. Qxb7 gxf5 21. gxf5 cxb2
+22. Rab1 Kh8 23. Be2 Rg8 24. Kh2 Ne8 25. Qxb2 Qe7 26. Qb7 Nd6 27. Nxd6 Qxd6 28.
+Qc6 Be7 29. Rb7 Rad8 30. f6 Bf8 31. Rf5 c4 32. Qxd6 Bxd6 33. Bxc4 e4+ 34. Bf4
+Bxf4+ 35. Rxf4 Ne5 36. Be2 Nf3+ 37. Bxf3 exf3 38. Rxf3 Rxd5 39. Rf2 Rf8 40. Rc2
+1/2-1/2
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Ginsburg, Mark"]
+[Black "Lenderman, Alex"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "2364"]
+[BlackElo "2439"]
+[PlyCount "78"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 e5 4. g3 d6 5. Bg2 g6 6. d3 Bg7 7. a3 Nge7 8. Rb1 a5
+9. Nd2 Be6 10. Nf1 d5 11. cxd5 Nxd5 12. Ne3 Nde7 13. O-O O-O 14. Ne4 b6 15. Nc4
+Rb8 16. Bg5 f6 17. Bd2 a4 18. Kh1 Bd5 19. f3 Nd4 20. Bc3 Nec6 21. e3 Nb3 22.
+Ncd2 Qd7 23. Qe2 Rbd8 24. Nxb3 Bxb3 25. f4 f5 26. Nf2 Rfe8 27. Qf3 Re6 28. Rbc1
+exf4 29. gxf4 Rde8 30. Rfe1 Na7 31. Bxg7 Qxg7 32. Re2 Nb5 33. Qg3 Nd4 34. Ree1
+Nc2 35. Rxc2 Bxc2 36. Bd5 Qxb2 37. Qg5 Bb3 38. Bxe6+ Bxe6 39. Qh4 Qd2 0-1
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Kahn, Aaron E"]
+[Black "Bapat, Udayan"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2203"]
+[BlackElo "2110"]
+[PlyCount "73"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Bg5 e6 3. e3 h6 4. Bf4 b6 5. Nf3 Bb7 6. Nbd2 d6 7. Bd3 Nbd7 8. Qe2
+g5 9. Bg3 Nh5 10. e4 Bg7 11. c3 Qe7 12. Nc4 g4 13. Nfd2 Nxg3 14. hxg3 h5 15. a4
+a6 16. f4 gxf3 17. gxf3 h4 18. gxh4 Rxh4 19. O-O-O O-O-O 20. Ne3 a5 21. Ng2
+Rxh1 22. Rxh1 Rh8 23. Rxh8+ Bxh8 24. f4 e5 25. fxe5 dxe5 26. d5 Bf6 27. Ne3 Nc5
+28. Nf5 Qd7 29. Bb5 c6 30. Nc4 Kc7 31. dxc6 Bxc6 32. Bxc6 Qxc6 33. Nfd6 Qxa4
+34. Qh5 Qd7 35. Qxf7 Qxf7 36. Nxf7 Nxe4 37. Ncxe5 1/2-1/2
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Lian, Jayson"]
+[Black "Sinanan, Joshua C"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[WhiteElo "2154"]
+[BlackElo "2169"]
+[PlyCount "86"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Qa4+ Bd7 8. Qb3
+Qc7 9. e4 Bg7 10. h3 O-O 11. Bd3 Na6 12. O-O Rfc8 13. Bc4 Rab8 14. a4 Nb4 15.
+Re1 Re8 16. Bf4 Nh5 17. Bh2 a6 18. e5 b5 19. exd6 Qb7 20. axb5 axb5 21. Bf1 Nf6
+22. Ne5 Bf5 23. Ra5 Nc2 24. Rd1 Nd4 25. Qa2 Ra8 26. Ra1 Rxa5 27. Qxa5 Nxd5 28.
+Nxd5 Qxd5 29. Bxb5 Nxb5 30. Qxb5 Rf8 31. Nc6 Qe6 32. Ne7+ Kh8 33. Nxf5 Qxf5 34.
+d7 Bf6 35. Re1 Rd8 36. Re8+ Kg7 37. Rxd8 Bxd8 38. Bd6 Kf6 39. Bxc5 Qe6 40. Bd4+
+Ke7 41. Bc5+ Kf6 42. Be3 Ke7 43. Bc5+ Kf6 1/2-1/2
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Nakamura, Hikaru"]
+[Black "Benjamin, Joel"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2697"]
+[BlackElo "2577"]
+[PlyCount "85"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. g3 d5 2. Bg2 Nf6 3. d3 c6 4. Nc3 e5 5. e4 Bg4 6. f3 Be6 7. Nh3 Bc5 8. Qe2
+dxe4 9. dxe4 Qd4 10. Nd1 Bc4 11. c3 Qd3 12. Bf1 Qxe2+ 13. Bxe2 Be6 14. Nhf2
+Nbd7 15. f4 exf4 16. gxf4 Nb6 17. b4 Bxf2+ 18. Nxf2 Bc4 19. Rg1 O-O-O 20. Rxg7
+Rhe8 21. e5 Nfd5 22. Rxf7 Nxc3 23. Bg4+ Kb8 24. Rxh7 Nbd5 25. a3 Nf6 26. Rh3
+Nxg4 27. Rxc3 Nxf2 28. Rxc4 Nd3+ 29. Kf1 Rf8 30. e6 Rde8 31. Re4 Rf6 32. Ke2
+Rfxe6 33. Rxe6 Nxc1+ 34. Rxc1 Rxe6+ 35. Kf3 Rh6 36. Rh1 Kc7 37. h4 Kd7 38. Kg4
+Ke6 39. h5 Kf6 40. Rd1 Rh8 41. Rd6+ Ke7 42. Rg6 Kf7 43. Kg5 1-0
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Readey, John"]
+[Black "Molner, Mackenzie"]
+[Result "1/2-1/2"]
+[ECO "A33"]
+[WhiteElo "2275"]
+[BlackElo "2337"]
+[PlyCount "75"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 Be7 5. Bg2 O-O 6. O-O Nc6 7. d4 cxd4 8.
+Nxd4 Qa5 9. Bf4 e5 10. Nb3 Qb4 11. Bg5 Qxc4 12. Rc1 Qg4 13. Bxf6 Bxf6 14. Nd5
+Bd8 15. Nc5 Qg6 16. e3 d6 17. Ne4 f5 18. Nec3 Kh8 19. Qb3 e4 20. Nb5 Ne5 21.
+Rfd1 Nd3 22. Nf4 Nxf4 23. gxf4 Be6 24. Qa3 Bb6 25. Nxd6 Qh5 26. Nxb7 Rf6 27.
+Nc5 Bf7 28. Nd7 Rd8 29. Rd6 Rxd6 30. Qxd6 Bxa2 31. Qe7 Bg8 32. Nxb6 Rd1+ 33.
+Rxd1 Qxd1+ 34. Bf1 Qg4+ 35. Bg2 Qd1+ 36. Bf1 Qg4+ 37. Bg2 Qd1+ 38. Bf1 1/2-1/2
+
+[Event "USA tt"]
+[Site "ICC INT"]
+[Date "2008.09.17"]
+[Round "4"]
+[White "Andrews, Todd D"]
+[Black "Adamson, Robby"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2315"]
+[BlackElo "2346"]
+[PlyCount "138"]
+[EventDate "2008.10.22"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. e3 c5 3. Bd3 g6 4. c3 d6 5. f4 Bg7 6. Nf3 O-O 7. O-O Nc6 8. dxc5
+dxc5 9. e4 e5 10. Na3 a6 11. Be3 b6 12. Qe2 exf4 13. Bxf4 Nh5 14. Bg5 Qc7 15.
+Qd2 b5 16. Nc2 Be6 17. Qf2 f6 18. Be3 c4 19. Ncd4 Bd7 20. Bc2 Ne5 21. h3 Rae8
+22. Nh2 Nd3 23. Bxd3 cxd3 24. g4 Qg3+ 25. Qxg3 Nxg3 26. Rfd1 Nxe4 27. Nf1 Nc5
+28. Nb3 Na4 29. Rxd3 Bc8 30. Rd2 f5 31. Bc5 Nxc5 32. Nxc5 fxg4 33. hxg4 Re5 34.

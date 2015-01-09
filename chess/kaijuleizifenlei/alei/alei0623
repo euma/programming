@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 d6 5. exd6 Bxd6 6. Nd2 Qe7 7. Nxe4 Qxe4 8.
+e3 Nc6 9. Nf3 Bf5 10. Be2 O-O-O 11. Bd2 Rhe8 12. O-O h6 13. Qa4 Bd7 14. b4 Kb8
+15. b5 Ne5 16. Rac1 Bc5 17. Nxe5 Rxe5 18. Bf3 Qg6 19. Bc3 Rg5 20. Rfd1 Kc8 21.
+g3 a6 22. Bd4 Qb6 23. h4 Rg4 24. Bxc5 Rxg3+ 25. fxg3 Qxc5 26. Rd4 Re8 27. Re1
+g5 28. Bxb7+ Kxb7 29. bxa6+ 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Brustkern, Juergen"]
+[Black "Schrodt, Sebastian"]
+[Result "1-0"]
+[ECO "A66"]
+[WhiteElo "2311"]
+[BlackElo "2088"]
+[PlyCount "97"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 c5 4. d5 e6 5. e4 exd5 6. cxd5 d6 7. f4 Nbd7 8. Nf3
+Qe7 9. Bd3 a6 10. O-O Bg7 11. e5 dxe5 12. fxe5 Ng4 13. Bg5 f6 14. exf6 Bxf6 15.
+Re1 Nge5 16. Bxf6 Qxf6 17. Nxe5 Nxe5 18. Qe2 O-O 19. Qxe5 Qf2+ 20. Kh1 Bh3 21.
+Qg3 Qxb2 22. Ne4 Bf5 23. d6 Qd4 24. Rac1 Rad8 25. Bc4+ Kg7 26. Ng5 Qxd6 27. Qh4
+h6 28. Re7+ Qxe7 29. Ne6+ Qxe6 30. Bxe6 Bxe6 31. Qe7+ Bf7 32. Qxb7 Rd6 33. Rf1
+c4 34. a4 Rdd8 35. Qxa6 Be6 36. Kg1 Rxf1+ 37. Kxf1 Bf5 38. Qb7+ Rd7 39. Qb4 Rc7
+40. Qc3+ Kf7 41. Kf2 Ke6 42. g4 Bd3 43. Ke3 Rb7 44. Qa5 Rb3 45. Kd4 Kd6 46.
+Qc5+ Kd7 47. a5 Rb8 48. a6 Re8 49. Qb5+ 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Costello, Colin"]
+[Black "Rogasch, Miriam"]
+[Result "1-0"]
+[ECO "A24"]
+[WhiteElo "2026"]
+[PlyCount "77"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 Nf6 4. Bg2 c6 5. Nf3 d6 6. O-O O-O 7. d3 e5 8. Rb1
+Be6 9. b4 Nbd7 10. Ng5 Qc7 11. Nxe6 fxe6 12. b5 Nc5 13. Ba3 Nfd7 14. e3 d5 15.
+d4 e4 16. Qc2 Nd3 17. Bxf8 Rxf8 18. bxc6 bxc6 19. Bh3 Qd6 20. c5 Qe7 21. Rb7 a6
+22. Nxd5 cxd5 23. c6 Nb4 24. Rxb4 Qxb4 25. Bxe6+ Kh8 26. cxd7 Qd6 27. Qc8 Qxe6
+28. Qxf8+ Bxf8 29. d8=Q Qd6 30. Qxd6 Bxd6 31. Rc1 a5 32. Rc6 Bb4 33. Rc7 h6 34.
+Rd7 g5 35. Rxd5 Kg7 36. Re5 Kf6 37. Rxe4 Kf5 38. Re5+ Kf6 39. Rb5 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Dvorsky, Karl"]
+[Black "Jatzko, Reinhold"]
+[Result "0-1"]
+[ECO "A42"]
+[BlackElo "2029"]
+[PlyCount "66"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 g6 2. d4 Bg7 3. c4 d6 4. Nc3 e6 5. e4 Nd7 6. Be2 Ne7 7. Be3 a6 8. O-O b6
+9. Qc2 Bb7 10. Rfd1 Rc8 11. b4 O-O 12. Rab1 h6 13. d5 e5 14. a4 Ra8 15. a5 f5
+16. axb6 cxb6 17. exf5 gxf5 18. Ne1 f4 19. Bc1 Rc8 20. Qd3 Rc7 21. Ne4 Nf6 22.
+Nxf6+ Rxf6 23. Nf3 Bc8 24. Nd2 Bf5 25. Ne4 Rg6 26. Ba3 b5 27. cxb5 axb5 28.
+Rbc1 Ra7 29. Rc3 Qa8 30. Bf3 Bc8 31. Qxb5 Rxa3 32. Qe8+ Kh7 33. Rxc8 Qxc8 0-1
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Gilijamse, Joop"]
+[Black "Bukowski, Henryk"]
+[Result "1/2-1/2"]
+[ECO "A59"]
+[BlackElo "2177"]
+[PlyCount "63"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nf3 d6 6. bxa6 Bxa6 7. Nc3 g6 8. e4
+Bxf1 9. Kxf1 Nbd7 10. h3 Bg7 11. Kg1 O-O 12. Kh2 Qb6 13. Re1 Rfb8 14. Qc2 Ne8
+15. b3 Qb7 16. Bb2 Ne5 17. Nxe5 Bxe5+ 18. g3 c4 19. Ne2 cxb3 20. axb3 Rxa1 21.
+Rxa1 Rc8 22. Bc3 Qb6 23. Kg2 Nf6 24. Ra4 h5 25. Nd4 Nxe4 26. Qxe4 Rxc3 27. Nc6
+Rxb3 28. Nxe5 dxe5 29. Qxe5 Qb7 30. Qd4 e6 31. Ra5 exd5 32. Qxd5 1/2-1/2
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Gwiazda, Slawomir"]
+[Black "Bergmann, Jens"]
+[Result "1-0"]
+[ECO "A45"]
+[PlyCount "53"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 e6 4. Nd2 Qf6 5. Nxe4 Qxf4 6. Ng3 d5 7. e3 Qd6 8.
+Bd3 Qb4+ 9. c3 Qxb2 10. N1e2 Qa3 11. O-O Be7 12. Qc2 h6 13. e4 c5 14. exd5 exd5
+15. Nf4 Be6 16. Rfe1 O-O 17. Nxe6 fxe6 18. Rxe6 cxd4 19. Nf5 Rxf5 20. Bxf5 dxc3
+21. Rb1 Qc5 22. Rxb7 Nc6 23. Rxc6 Qxc6 24. Rxe7 Qc5 25. Qe2 Rf8 26. Re8 Qd6 27.
+Qe6+ 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Haemmerlein, Thomas"]
+[Black "Engelhardt, Erhard"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "2174"]
+[BlackElo "1801"]
+[PlyCount "99"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. Nf3 b6 3. g3 Bb7 4. Bg2 Nf6 5. O-O d6 6. b3 Be7 7. Bb2 O-O 8. Re1
+c5 9. Nbd2 d5 10. Ne5 Nbd7 11. Nd3 Qc7 12. Ba3 Rfe8 13. Nf3 Rac8 14. dxc5 bxc5
+15. c4 e5 16. Nd2 e4 17. Nf4 d4 18. Qc2 Bd6 19. Nd5 Nxd5 20. cxd5 f5 21. f3 e3
+22. Nc4 Bxd5 23. Qxf5 Be6 24. Qg5 Be7 25. Qh5 g6 26. Qh6 Bf8 27. Qh4 Be7 28.
+Qe4 Bf6 29. Qc2 d3 30. exd3 Bxa1 31. Rxa1 Bxc4 32. Qxc4+ Kg7 33. Bb2+ Nf6 34.
+g4 g5 35. h4 h6 36. f4 e2 37. hxg5 hxg5 38. Kf2 Qe7 39. Be4 Kf8 40. Rh1 Nxe4+
+41. dxe4 e1=Q+ 42. Rxe1 Qh7 43. fxg5 Qh4+ 44. Ke2 Qxg4+ 45. Kd2 Red8+ 46. Kc1
+Qxg5+ 47. Kb1 Rd7 48. Rf1+ Ke8 49. Bf6 Qg6 50. Qe6+ 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Hamar, Dirk"]
+[Black "Baumeister, Wolfgang"]
+[Result "0-1"]
+[ECO "A84"]
+[BlackElo "1822"]
+[PlyCount "36"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 e6 2. Nc3 f5 3. d4 d5 4. cxd5 exd5 5. g3 c6 6. Nf3 Nf6 7. Bg5 Nbd7 8. Ne5
+Qb6 9. Rb1 Be7 10. Bh3 Nxe5 11. dxe5 Ng4 12. Bxg4 Bxg5 13. Bh5+ g6 14. Bf3 d4
+15. Na4 Qa5+ 16. b4 Qxe5 17. Bxc6+ bxc6 18. f4 Qd5 0-1
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Jaskulski, Klaus"]
+[Black "Schmid, Floyd"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1869"]
+[PlyCount "67"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c3 Ba5 5. Nf3 O-O 6. Na3 d5 7. e3 Re8 8.
+Qa4 Bb6 9. Bxf6 gxf6 10. Bd3 Bd7 11. Qh4 f5 12. Ng5 Be6 13. Qxh7+ Kf8 14. Qh6+
+Ke7 15. Nxe6 fxe6 16. Qg7+ Kd6 17. Nb5+ Kc6 18. Nd4+ Kd6 19. f4 Bxd4 20. Qxd4
+Nc6 21. Qa4 Qh4+ 22. g3 Qf6 23. Rb1 b6 24. Bb5 a6 25. Bxc6 b5 26. Bxb5 axb5 27.
+Qb4+ c5 28. Qxb5 Rxa2 29. Qxe8 d4 30. Rb6+ Kd5 31. Qd7+ Ke4 32. Rxe6+ Qxe6 33.
+Qxe6+ Kd3 34. Qxa2 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Joedicke, Alec"]
+[Black "Krawatzki, Armin"]
+[Result "0-1"]
+[ECO "A00"]
+[BlackElo "1877"]
+[PlyCount "100"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. Ng3 c5 5. Bc4 Nc6 6. c3 Nf6 7. Nf3 Be7 8. b4
+O-O 9. b5 Na5 10. Nxe5 Nxc4 11. Nxc4 dxc3 12. O-O cxd2 13. Qxd2 Be6 14. Ne3 Qc7
+15. Bb2 Rfd8 16. Qe2 Qa5 17. Nef5 Qc7 18. Nh5 Nxh5 19. Qxh5 Bxf5 20. exf5 Qb6
+21. Qg4 Bf6 22. Bxf6 Qxf6 23. Rac1 b6 24. Rfe1 Re8 25. Re2 Rxe2 26. Qxe2 Kf8
+27. Qf3 Rb8 28. h3 Qb2 29. Rd1 Qxb5 30. Qg3 Qe8 31. h4 Rd8 32. Rxd8 Qxd8 33. h5
+Qd1+ 34. Kh2 Qxh5+ 35. Kg1 Qd1+ 36. Kh2 Qd8 37. Qa3 a5 38. Qb2 Qd6+ 39. g3 h6
+40. Kh3 c4 41. Qb5 c3 42. Qc4 Qc5 43. Qa6 c2 44. Qa8+ Ke7 45. Qb7+ Kf6 46. Qa8
+c1=Q 47. Qd8+ Kxf5 48. g4+ Ke4 49. Qe8+ Kd4 50. Qd8+ Kc4 0-1
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Kantans, Toms"]
+[Black "Kleine, Peter"]
+[Result "1-0"]
+[ECO "A09"]
+[WhiteElo "2144"]
+[PlyCount "81"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 d5 2. c4 d4 3. g3 c5 4. Bg2 Nc6 5. O-O Nf6 6. d3 e5 7. e3 Be7 8. exd4
+exd4 9. Re1 O-O 10. Ne5 Nxe5 11. Rxe5 Bd6 12. Re1 Rb8 13. Bg5 h6 14. Bxf6 Qxf6
+15. Nd2 Bf5 16. Ne4 Qg6 17. Qd2 b6 18. a3 Rfd8 19. b4 Bf8 20. b5 Re8 21. a4 Re7
+22. a5 Rc7 23. h3 Bd6 24. Re2 Rd7 25. Rae1 Bc7 26. Kh2 Be6 27. f4 Re8 28. Nf2
+Rde7 29. Bc6 Rf8 30. Ng4 Qh5 31. Kg2 bxa5 32. Bf3 Qg6 33. Ne5 Bxe5 34. Rxe5 Rc7
+35. Qxa5 Rcc8 36. Be4 Qf6 37. Bc6 Qg6 38. Qa3 Bf5 39. Qxc5 a6 40. Rxf5 axb5 41.
+cxb5 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Klemm, Manfred"]
+[Black "Wecke, Thoralf"]
+[Result "0-1"]
+[ECO "A46"]
+[BlackElo "1950"]
+[PlyCount "118"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d6 2. Nf3 Bg4 3. Nbd2 Nf6 4. e3 e6 5. Be2 Be7 6. O-O O-O 7. b3 c6 8. Bb2
+Nbd7 9. c4 Qc7 10. Rc1 Rad8 11. e4 Bxf3 12. Bxf3 e5 13. d5 c5 14. Qe2 Ne8 15.
+Rcd1 g6 16. g3 Ng7 17. h4 f5 18. exf5 gxf5 19. Bg2 Rf7 20. f4 Bf6 21. Nf3 e4
+22. Ng5 Re7 23. Bxf6 Nxf6 24. Qb2 Ng4 25. Rfe1 h6 26. Nh3 Nh5 27. Nf2 Nxf2 28.
+Qxf2 Rg7 29. Re3 Qe7 30. Kh2 Nf6 31. Bh3 Ng4+ 32. Bxg4 Rxg4 33. Kh3 Qg7 34. Rg1
+h5 35. Rd1 a6 36. a4 Rb8 37. Rf1 b5 38. axb5 axb5 39. Qe2 bxc4 40. Qxc4 Qd4 41.
+Rfe1 Rb4 42. Qa6 Qxd5 43. Qc8+ Kh7 44. Qe8 Rg6 45. Qe7+ Rg7 46. Qe8 Qf7 47.
+Qxf7 Rxf7 48. Rd1 Rd4 49. Rde1 Rb7 50. Rc3 Rd3 51. Re3 Rxe3 52. Rxe3 d5 53. Rc3
+Rb5 54. b4 d4 55. Rxc5 Rxc5 56. bxc5 d3 57. c6 d2 58. c7 d1=Q 59. Kh2 Qc2+ 0-1
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Kuckel, Andreas"]
+[Black "Kiesewetter, Peter"]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[WhiteElo "2026"]
+[BlackElo "1883"]
+[PlyCount "100"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 Nc6 5. Nc3 g6 6. g3 Bg7 7. Bg2 O-O 8.
+Nf3 h6 9. O-O d6 10. a3 Be6 11. Nd5 Rc8 12. Rb1 Bf5 13. Ra1 Na5 14. Nxf6+ Bxf6
+15. Nd4 Bxd4 16. Qxd4 Nb3 17. Qc3 Nxa1 18. Bxh6 e5 19. Rxa1 Re8 20. Bxb7 Rc7
+21. Ba6 Qf6 22. Qe3 d5 23. Bb5 Rb8 24. Bg5 Qd6 25. f4 dxc4 26. fxe5 Qc5 27. a4
+Qxe3+ 28. Bxe3 a6 29. Bxa6 Rxb2 30. Rc1 Rxe2 31. Bf4 Rc2 32. Rxc2 Bxc2 33. e6
+Rc6 34. e7 Re6 35. Bxc4 Rxe7 36. a5 Re1+ 37. Kf2 Ra1 38. Bc7 Be4 39. Bb6 Bb7
+40. Ke3 Kf8 41. Kd4 Ra4 42. Kc5 Ke7 43. Bc7 Ra1 44. Kb6 Ba8 45. a6 f5 46. h4
+Rb1+ 47. Kc5 Kd7 48. Bf4 Ra1 49. Kb6 Rb1+ 50. Ka7 Be4 1/2-1/2
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Lundin, Jan"]
+[Black "Seehagen, Jan"]
+[Result "1-0"]
+[ECO "A51"]
+[WhiteElo "2284"]
+[PlyCount "51"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Nbd2 Nc6 6. e3 Qe7 7. Be2 O-O 8.
+O-O Bxd2 9. Nxd2 Nxd2 10. Bxd2 Nxe5 11. Bc3 d6 12. Qd4 f6 13. Rae1 Be6 14. b3
+Rfe8 15. Bh5 Bf7 16. Bxf7+ Qxf7 17. f4 Nc6 18. Qd3 a5 19. a3 b6 20. e4 Rab8 21.
+e5 dxe5 22. fxe5 Rbd8 23. Qf3 Nd4 24. Bxd4 Rxd4 25. exf6 g6 26. Rxe8+ 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Lutz, Oliver"]
+[Black "Kornijenko, Alexander"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "2212"]
+[PlyCount "58"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 f5 2. Nf3 e6 3. Bf4 d5 4. e3 Nf6 5. Be2 c6 6. O-O Bd6 7. Ne5 O-O 8. c4
+Ne4 9. Nd2 Qf6 10. Nxe4 fxe4 11. c5 Be7 12. b4 Nd7 13. Nxd7 Bxd7 14. a4 b6 15.
+Qd2 bxc5 16. bxc5 a5 17. Rab1 Bd8 18. Rb7 Bc8 19. Rb3 Ba6 20. Bxa6 Rxa6 21.
+Rfb1 Ra7 22. Rb7 Rxb7 23. Rxb7 Rf7 24. Rb8 Qe7 25. Qxa5 Rf8 26. Qa8 Qd7 27. Bg5
+Qf7 28. Bf4 Qh5 29. h3 Qe8 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Manske, Henry"]
+[Black "Badestein, Hartmut"]
+[Result "0-1"]
+[ECO "A31"]
+[WhiteElo "1775"]
+[BlackElo "2196"]
+[PlyCount "70"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Bf4 Bg7 5. Nc3 cxd4 6. Nxd4 Nc6 7. Nxc6 bxc6 8.
+e4 O-O 9. Bd3 d5 10. O-O Nh5 11. Bd2 d4 12. Ne2 e5 13. b4 g5 14. a4 Nf4 15.
+Nxf4 gxf4 16. Qh5 Re8 17. c5 Re6 18. g3 Rh6 19. Qe2 Rh3 20. gxf4 Qh4 21. f3
+exf4 22. Rf2 Be6 23. Rg2 Kh8 24. Kf1 Qh5 25. Rf2 Bf6 26. Ra3 Bh4 27. Ba6 Bxf2
+28. Qxf2 Rxh2 29. Qxd4+ Kg8 30. Bxf4 Qh3+ 31. Ke1 Qh4+ 32. Kf1 Qxf4 33. Qg1+
+Kf8 34. Re3 Rd8 35. Bd3 Rxd3 0-1
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Mueller, Thomas1"]
+[Black "Welz, Peter"]
+[Result "0-1"]
+[ECO "A80"]
+[BlackElo "2147"]
+[PlyCount "62"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 f5 2. h3 d5 3. Bg5 g6 4. Nf3 Bg7 5. e3 Nh6 6. c4 Nf7 7. Bh4 c6 8. Nc3 Qd7
+9. cxd5 cxd5 10. Bb5 Nc6 11. Rc1 O-O 12. Qa4 e6 13. Ne2 Qd8 14. Bxc6 bxc6 15.
+Qxc6 Bd7 16. Qc5 Qb8 17. Qa3 Bb5 18. Be7 Re8 19. Rc2 e5 20. Bc5 f4 21. dxe5
+Nxe5 22. Nxf4 Nc4 23. Qb3 Qxf4 24. Qxb5 Qe4 25. Qa4 Rac8 26. b4 Rxc5 27. bxc5
+Nxe3 28. Qxe4 Nxc2+ 29. Kd2 dxe4 30. Kxc2 exf3 31. gxf3 Rc8 0-1
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Netzer, Denis"]
+[Black "Windschuegl, Martin"]
+[Result "1-0"]
+[ECO "A09"]
+[WhiteElo "1943"]
+[PlyCount "43"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 d5 2. c4 d4 3. g3 Nc6 4. Bg2 e5 5. d3 Bc5 6. Bd2 Nf6 7. b4 Bd6 8. c5 Be7
+9. O-O O-O 10. Qc2 Be6 11. b5 Nb8 12. Nxe5 Qc8 13. Rc1 Bh3 14. Qc4 Rd8 15.
+Qxf7+ Kh8 16. Qxe7 Bg4 17. Nf7+ Kg8 18. Nxd8 h6 19. Bxh6 Qd7 20. Qxg7+ Qxg7 21.
+Bxg7 Kxg7 22. Bxb7 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Poldauf, Johann"]
+[Black "Tesch, Davy"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "96"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. g3 d5 4. Bg2 Nf6 5. d3 Bc5 6. O-O O-O 7. Bg5 Be7 8. Nd2
+d4 9. Nce4 Nxe4 10. Bxe7 Qxe7 11. Bxe4 Bh3 12. Bg2 Bxg2 13. Kxg2 Rfe8 14. Re1
+a6 15. e4 dxe3 16. Rxe3 Qd6 17. Qe2 Qd5+ 18. Kg1 Nd4 19. Qd1 Nf5 20. Re2 Nd4
+21. Re1 Qc5 22. Rc1 Qd5 23. c4 Qc6 24. Re4 f5 25. Rh4 g5 26. Rh5 Qg6 27. c5 g4
+28. Rh4 Qc6 29. h3 gxh3 30. Rxh3 e4 31. Qh5 Qg6 32. Qxg6+ hxg6 33. dxe4 Ne2+
+34. Kg2 Nxc1 35. exf5 gxf5 36. Rh5 Rf8 37. Nf3 Rf6 38. Rg5+ Kf7 39. Ne5+ Ke6
+40. f4 Rd8 41. Rg7 Rd2+ 42. Kf3 Rxb2 43. Rxc7 Rxa2 44. Rxb7 Rc2 45. Rb6+ Ke7
+46. Rb7+ Kf8 47. Nd7+ Kf7 48. Nxf6+ Kxf6 0-1
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Schlesier, Tim"]
+[Black "Fuchs, Raimond"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[BlackElo "1925"]
+[PlyCount "97"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. f4 d5 2. Nf3 g6 3. e3 Bg7 4. Be2 Nf6 5. Nc3 O-O 6. O-O c5 7. d3 Nc6 8. e4 d4
+9. Nb1 e5 10. fxe5 Ng4 11. Bg5 Qb6 12. b3 Ngxe5 13. Nbd2 f5 14. Nxe5 Nxe5 15.
+exf5 Bxf5 16. Bf3 Nxf3+ 17. Qxf3 Be6 18. Qe2 Rfe8 19. Qf3 h6 20. Bh4 g5 21. Bg3
+Rad8 22. Rae1 Rf8 23. Qe4 Rxf1+ 24. Rxf1 Bf7 25. Qf5 Bg6 26. Qf3 Rf8 27. Qd5+
+Bf7 28. Qd6 Qxd6 29. Bxd6 Rc8 30. Ne4 Rc6 31. Bg3 Bg6 32. Nd2 Re6 33. Re1 Kf7
+34. Rxe6 Kxe6 35. Kf2 Bh5 36. Nf3 Kd5 37. Bb8 a6 38. h3 Bxf3 39. Kxf3 h5 40. a4
+b5 41. axb5 axb5 42. g4 h4 43. Bc7 Be5 44. Bd8 Bf4 45. Ba5 c4 46. bxc4+ bxc4
+47. Bd8 Be3 48. Bc7 cxd3 49. cxd3 1/2-1/2
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Semme, Lothar"]
+[Black "Voigt, Ingo"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "1868"]
+[BlackElo "2061"]
+[PlyCount "65"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 b6 2. c4 Bb7 3. Nc3 e6 4. e4 d5 5. cxd5 exd5 6. exd5 Nf6 7. Qa4+ Nbd7 8.
+Bg5 Bd6 9. Bxf6 Qxf6 10. Nf3 Qe7+ 11. Be2 O-O 12. O-O Nf6 13. Rfe1 Qd8 14. Bc4
+a6 15. Qc2 b5 16. Bd3 h6 17. Qb3 Kh8 18. a3 Nxd5 19. Be4 c6 20. Nxd5 cxd5 21.
+Bc2 f5 22. Qd3 Qc7 23. Nh4 Rf6 24. Nxf5 Bxh2+ 25. Kh1 g6 26. Re7 Qf4 27. g3 Qg4
+28. Kxh2 Rxf5 29. Kg2 Raf8 30. Rf1 Bc8 31. Qe3 Rh5 32. Rh1 Rxh1 33. Qe5+ 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Theilig, Reinhard"]
+[Black "Kazakos, Emmanouil"]
+[Result "0-1"]
+[ECO "A30"]
+[BlackElo "1995"]
+[PlyCount "118"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 e6 2. c4 Nf6 3. g3 b6 4. Bg2 Bb7 5. O-O c5 6. d3 Qc7 7. Nbd2 d6 8. b3
+Be7 9. Bb2 O-O 10. Rc1 Nc6 11. Re1 Rfe8 12. a3 Rad8 13. Qc2 Nd7 14. Ne4 d5 15.
+cxd5 exd5 16. Nc3 Nf6 17. e4 Qb8 18. e5 Ng4 19. e6 f6 20. Bh3 Nge5 21. Nxe5
+fxe5 22. Ne2 Bg5 23. Rcd1 Bc8 24. f4 exf4 25. Nxf4 Bxf4 26. gxf4 Qxf4 27. Qg2
+Re7 28. Bc1 Qd6 29. Bg5 Rde8 30. Bxe7 Rxe7 31. Qg3 Qxg3+ 32. hxg3 Nd4 33. Kh1
+Nxb3 34. Re5 Nd4 35. Bg2 Bxe6 36. Bxd5 Kf7 37. Rf1+ Ke8 38. Bxe6 Rxe6 39. Rxe6+
+Nxe6 40. Re1 Kd7 41. Kg2 Nd4 42. Re5 Kd6 43. Re8 Nb5 44. Rg8 g6 45. Rg7 a5 46.
+Rxh7 Nxa3 47. Rh6 b5 48. Rxg6+ Kd7 49. Ra6 a4 50. g4 Nc2 51. g5 a3 52. g6 Ke7
+53. Kh3 b4 54. Kh4 b3 55. Kg5 b2 56. Ra7+ Kd6 57. Kf6 b1=Q 58. Ra6+ Kd5 59. Kf7
+Qb7+ 0-1
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Wallmann, Bodo"]
+[Black "Zesewitz, Uwe"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "1887"]
+[PlyCount "95"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 f5 2. Nf3 Nf6 3. e3 e6 4. c4 b6 5. Nc3 Bb7 6. Be2 Bb4 7. Bd2 Bxc3 8. Bxc3
+O-O 9. O-O Qe8 10. Ne5 d6 11. Nd3 Nbd7 12. Bf3 Be4 13. Bxe4 fxe4 14. Ne1 d5 15.
+b3 Qh5 16. Qxh5 Nxh5 17. f3 g5 18. Rc1 Nhf6 19. Bb2 h5 20. cxd5 Nxd5 21. Kf2
+N7f6 22. Ke2 Rf7 23. a3 h4 24. Rc6 Re8 25. Bc1 a5 26. Nc2 g4 27. f4 Rd7 28. Bd2
+Rd6 29. Rc4 b5 30. Rc5 a4 31. Rxb5 Rb6 32. bxa4 Rxb5 33. axb5 Nb6 34. Rb1 Nc4
+35. Rb4 Nb6 36. Rb3 Nfd5 37. Nb4 Nc4 38. Nxd5 exd5 39. Bb4 Ra8 40. Kd1 Kf7 41.
+Kc1 Ke6 42. Kb1 Kd7 43. Ka2 Rb8 44. Be1 h3 45. g3 Nd6 46. a4 Nc4 47. a5 c6 48.
+bxc6+ 1-0
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Wiezer, Siegfried"]
+[Black "Schoenberger, Kay"]
+[Result "0-1"]
+[ECO "A06"]
+[WhiteElo "2042"]
+[BlackElo "1922"]
+[PlyCount "91"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 c5 4. e3 Nc6 5. Bb5 e6 6. O-O Bd6 7. Ne5 Qc7 8. f4
+a6 9. Bxc6+ bxc6 10. Nf3 O-O 11. Qe1 Nd7 12. Nc3 e5 13. Ne2 exf4 14. exf4 Re8
+15. Qg3 d4 16. Rae1 Nf6 17. Qh4 Bf5 18. d3 Nd5 19. Bc1 Nb4 20. Ng3 Bg6 21. Ne4
+Bxe4 22. dxe4 Nxc2 23. Re2 Nb4 24. e5 Bf8 25. Ng5 h6 26. Ne4 Qd8 27. Qg3 Kh8
+28. Kh1 Qd5 29. Rd1 f5 30. Nf2 Qf7 31. Nd3 Nxd3 32. Qxd3 g6 33. Rc2 Reb8 34.
+Bd2 a5 35. Rc4 Rb7 36. Ra4 Rba7 37. Qe2 Qe6 38. Qe1 Be7 39. Rc1 Qd5 40. Rcc4
+Bd8 41. Qc1 Bb6 42. a3 Qe4 43. h3 Qd3 44. b4 axb4 45. Rxa7 Rxa7 46. axb4 0-1
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.01"]
+[Round "3"]
+[White "Yuan, Yizheng"]
+[Black "Karim, Ismael"]
+[Result "0-1"]
+[ECO "A42"]
+[WhiteElo "1792"]
+[BlackElo "2394"]
+[PlyCount "40"]
+[EventDate "2008.04.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nd7 5. f4 e5 6. Nf3 exd4 7. Nxd4 Ngf6 8. Be2
+O-O 9. O-O Re8 10. Bf3 Nc5 11. Re1 c6 12. b4 Ne6 13. Be3 Nxd4 14. Bxd4 Be6 15.
+Be2 a5 16. Rb1 axb4 17. Bxf6 Bxf6 18. e5 dxe5 19. Rxb4 exf4 20. Qb3 Qd4+ 0-1
+
+[Event "Berlin Unicorn op"]
+[Site "Berlin"]
+[Date "2008.05.02"]

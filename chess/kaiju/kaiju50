@@ -1,0 +1,50 @@
+5.Bxc6+
+C65	Duras Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6
+5.c4
+C65	Mortimer Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Ne7
+C65	Mortimer Trap, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Ne7
+5.Nxe5 c6
+C65	Nyholm Attack, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d4 exd4
+5.O-O
+C65	Beverwijk Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5
+C66	Improved Steinitz Defense, Ruy Lopez; C66	1.e4 e5 2.Nf3 Nc6
+3.Bb5 Nf6 4.O-O d6
+C66	Hedgehog Defense, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6
+5.d4 Bd7 6.Nc3 Be7
+C66	Closed Bernstein Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6
+4.O-O d6 5.d4 Bd7 6.Nc3 Be7 7.Bg5
+C66	Closed Showalter Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6
+4.O-O d6 5.d4 Bd7 6.Nc3 Be7 7.Bxc6
+C66	Tarrasch Trap, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6
+5.d4 Bd7 6.Nc3 Be7 7.Re1 O-O
+C66	Closed Wolf Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6
+4.O-O d6 5.d4 Bd7 6.Nc3 exd4
+C66	Fishing Pole Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6
+4.O-O Ng4
+C67	Rio Gambit Accepted, Ruy Lopez; C67	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6
+4.O-O Nxe4
+C67	Rosenthal Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 a6
+C67	Rio de Janeiro Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6
+4.O-O Nxe4 5.d4 Be7
+C67	Minckwitz Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Be7 6.dxe5
+C67	Trifunovic Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Be7 6.Qe2 d5
+C67	Pillsbury Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Be7 6.Qe2 Nd6 7.Bxc6+ bxc6 8.dxe5 Nb7 9.b3
+C67	Zukertort Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Be7 6.Qe2 Nd6 7.Bxc6+ bxc6 8.dxe5 Nb7 9.c4
+C67	Berlin; Rio de Janerio Var, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6
+4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6 7.Bxc6+ bxc6 8.dxe5 Nb7 9.Nc3 O-O 10.Re1
+C67	Winawer Attack, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Be7 6.Qe2 Nd6 7.Bxc6+ bxc6 8.dxe5 Nb7 9.Nd4 O-O
+C67	Cordel Defense, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Be7 6.Qe2 Nd6 7.Bxc6+ bxc6 8.dxe5 Nf5
+C67	L'Hermet Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Nd6
+C67	Westerinen Line, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Ne4
+C68	Morphy Defense, Ruy Lopez; C68	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6
+C68	Exchange Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6
+C68	Lutikov Variation, Ruy Lopez Exchange	1.e4 e5 2.Nf3 Nc6 3.Bb5 a6

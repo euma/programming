@@ -1,0 +1,600 @@
+[BlackElo "2106"]
+[PlyCount "95"]
+[EventDate "2008.03.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Nc3 d5 6. cxd5 exd5 7. Bb5+ c6 8. Bd3
+Nbd7 9. O-O Bd6 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 O-O 13. Re1 h6 14. Be3 Nf6
+15. Bc2 Bb4 16. Bd2 Bxd2 17. Qxd2 c5 18. dxc5 Bxf3 19. Qxd8 Rfxd8 20. gxf3 Rd2
+21. Bb3 bxc5 22. Rac1 Re8 23. Rxe8+ Nxe8 24. Rxc5 Nd6 25. Rd5 Rxd5 26. Bxd5 g5
+27. Kf1 Kg7 28. Ke2 Kf6 29. Kd3 Ke5 30. Bc6 f5 31. b4 Nc8 32. Ba4 Nb6 33. Bb3
+Kf4 34. Ke2 Ke5 35. Ke3 Nd7 36. a4 a5 37. bxa5 Nc5 38. Bc2 f4+ 39. Kd2 Kd4 40.
+Bd1 h5 41. h3 h4 42. Bc2 Na6 43. Bd3 Nb4 44. Bb5 Kc5 45. a6 Kb6 46. Kc3 Nd5+
+47. Kd4 Nf6 48. Ke5 1-0
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.15"]
+[Round "1"]
+[White "Corsi Ferrari, Nestor"]
+[Black "Crespo, Eugenio"]
+[Result "1/2-1/2"]
+[ECO "E24"]
+[WhiteElo "2272"]
+[PlyCount "50"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 c5 5. a3 Bxc3+ 6. bxc3 d5 7. Nf3 Nc6 8. e3
+O-O 9. Bd3 a6 10. Ne5 dxc4 11. Bxc4 Qc7 12. f4 b5 13. Bd3 Bb7 14. O-O Rac8 15.
+Qf2 Nd5 16. Bd2 f5 17. a4 Nxe5 18. fxe5 c4 19. Be2 b4 20. cxb4 c3 21. Rfc1 Qe7
+22. Be1 Qxb4 23. Rab1 Qa3 24. Ra1 Qe7 25. Bf3 f4 1/2-1/2
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.15"]
+[Round "1"]
+[White "Gomez, Roberto"]
+[Black "Needleman, Alejandro"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "1907"]
+[BlackElo "2355"]
+[PlyCount "100"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. Nc3 Bg7 5. e3 O-O 6. Be2 cxd4 7. Nxd4 d6 8. O-O
+Nbd7 9. f3 Nc5 10. e4 a6 11. Be3 e5 12. Nb3 Ne6 13. Qd2 Nh5 14. g3 f5 15. exf5
+gxf5 16. Rad1 f4 17. Bf2 fxg3 18. hxg3 Ng5 19. Be3 Bh6 20. Kh2 Qd7 21. g4 Nf4
+22. Qxd6 Qxd6 23. Rxd6 Nxe2 24. Nxe2 Nxf3+ 25. Kg3 Bxe3 26. Rxf3 Bg5 27. Nc5
+Rxf3+ 28. Kxf3 Be7 29. Rd5 Bf6 30. Ne4 Kf7 31. Nd6+ Ke6 32. Nxc8 Rxc8 33. b3 b5
+34. Ng3 bxc4 35. bxc4 Rxc4 36. Ra5 Rc3+ 37. Kg2 Rc6 38. Ne4 Bd8 39. Rxa6 Rxa6
+40. Nc5+ Kd6 41. Nxa6 e4 42. Kf2 Ke5 43. Nb4 Kf4 44. a4 Kxg4 45. Ke3 Kf5 46.
+Nd5 h5 47. Nc3 Bb6+ 48. Ke2 h4 49. Kf1 h3 50. Ne2 Kg4 0-1
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.15"]
+[Round "1"]
+[White "Gonzalez, Roberto"]
+[Black "Aguilar, Andres"]
+[Result "0-1"]
+[ECO "E67"]
+[WhiteElo "2260"]
+[BlackElo "2248"]
+[PlyCount "80"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e3
+Re8 9. Qc2 c6 10. b3 Nf8 11. Ba3 e4 12. Nd2 Bf5 13. Rac1 Qe7 14. h3 h5 15. Ne2
+N8h7 16. Qc3 Qd7 17. Kh2 Ng5 18. Nf4 Kh7 19. Qb4 Rad8 20. d5 c5 21. Qb5 Qc7 22.
+h4 Nf3+ 23. Nxf3 exf3 24. Bh3 Ng4+ 25. Bxg4 hxg4 26. b4 Bd7 27. Qa5 b6 28. Qa6
+Be5 29. b5 Bf5 30. Qa4 Qe7 31. Rh1 Rh8 32. Kg1 g5 33. hxg5+ Kg7 34. Nh5+ Kg6
+35. e4 Rxh5 36. Rxh5 Kxh5 37. exf5 Kxg5 38. Re1 Qf8 39. Re4 Qh8 40. Qd1 Qh5 0-1
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.16"]
+[Round "2"]
+[White "Fernandez, Jorge Daniel"]
+[Black "Covas, Guillermo"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "2012"]
+[BlackElo "2192"]
+[PlyCount "64"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Be3 Na6 8. O-O
+Ng4 9. Bg5 Qe8 10. dxe5 dxe5 11. Nd2 h6 12. Bxg4 hxg5 13. Bxc8 Qxc8 14. Qb1 c6
+15. b4 Rb8 16. b5 Nc5 17. Nb3 Ne6 18. Ne2 g4 19. Qc1 Nf4 20. Ng3 Qd8 21. Qe3
+Qh4 22. Rfd1 cxb5 23. cxb5 a6 24. Nc5 Bh6 25. Qe1 Rbc8 26. Nd7 Rfe8 27. bxa6
+bxa6 28. Qa5 Bg5 29. Qxa6 Kg7 30. Qa7 Rh8 31. Nf1 Ne2+ 32. Kh1 Qxh2+ 0-1
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.16"]
+[Round "2"]
+[White "Miranda Romo, D."]
+[Black "Zamorano, Jorge"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2059"]
+[BlackElo "2254"]
+[PlyCount "139"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 Nf6 2. Nc3 g6 3. Nf3 Bg7 4. d4 d6 5. Bg5 O-O 6. e3 c5 7. Bd3 Nc6 8. d5
+Nb4 9. Bb1 e6 10. a3 Na6 11. O-O Nc7 12. e4 h6 13. Bh4 e5 14. h3 Qe8 15. Qd2
+Nh5 16. b4 b6 17. Bc2 Bd7 18. bxc5 bxc5 19. Rab1 Qc8 20. Kh2 Nf4 21. Bg3 g5 22.
+Rfe1 Qa6 23. Bd3 Nxd3 24. Qxd3 Rab8 25. a4 Rxb1 26. Rxb1 f5 27. exf5 Bxf5 28.
+Ne4 Qxa4 29. Nfd2 Qa6 30. Qb3 Bc8 31. Rb2 Rd8 32. Ra2 Qb6 33. Qa3 Na6 34. Rb2
+Nb4 35. f3 Bd7 36. Bf2 Kf7 37. g4 Bf8 38. h4 Be7 39. hxg5 hxg5 40. Be3 Rg8 41.
+Qc3 a5 42. Nb1 Qd8 43. Qd2 Bc8 44. Na3 Rg6 45. Kg3 Kg7 46. Nb5 Bd7 47. Na3 Qh8
+48. Bxg5 Bxg5 49. Nxg5 Qd8 50. Ne4 Rh6 51. Qg5+ Qxg5 52. Nxg5 Rh1 53. Ne4 Rg1+
+54. Kh2 Rf1 55. Kg2 Ra1 56. Nc2 Nxc2 57. Rxc2 a4 58. Nxd6 a3 59. Ne4 a2 60.
+Nxc5 Rg1+ 61. Kxg1 a1=Q+ 62. Kg2 Qd1 63. Ra2 Bc8 64. Ra7+ Kg6 65. Rc7 Qe2+ 66.
+Kg3 Qe1+ 67. Kg2 e4 68. Rc6+ Kg7 69. Rc7+ Kg6 70. Rc6+ 1/2-1/2
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.16"]
+[Round "2"]
+[White "Saralegui, Mario"]
+[Black "Scarzello, Alejandro"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[WhiteElo "2190"]
+[BlackElo "2001"]
+[PlyCount "86"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+fxe6 9. Bd3 Nc6 10. O-O Nd4 11. Ng5 e5 12. f5 a6 13. fxg6 hxg6 14. Qe1 Nh5 15.
+Rxf8+ Qxf8 16. Nd5 b5 17. Be3 Bh6 18. Qd2 Ra7 19. Rf1 Qd8 20. Nf3 Bxe3+ 21.
+Qxe3 Kg7 22. Nxd4 cxd4 23. Qf2 bxc4 24. Bxc4 Be6 25. Qd2 a5 26. b3 Qh4 27. Qc2
+Rf7 28. Rxf7+ Bxf7 29. g3 Qg4 30. Be2 Qg5 31. Qc7 Qd2 32. Bf1 Nf6 33. Nxf6 Qe3+
+34. Kg2 Kxf6 35. Qxd6+ Be6 36. Qf8+ Bf7 37. Qh8+ Ke6 38. Bc4+ Kd7 39. Qxe5 Bxc4
+40. bxc4 d3 41. Qd5+ Kc8 42. Qc6+ Kd8 43. Qd6+ Kc8 1/2-1/2
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.18"]
+[Round "5"]
+[White "Fernandez, Maria Florencia"]
+[Black "Martinez, Daniel2"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2037"]
+[PlyCount "69"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. e4 Nbd7 6. Be2 O-O 7. O-O e5 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Bg5 c6 11. Qc2 b6 12. b4 Qe7 13. b5 Bb7 14. bxc6 Bxc6 15.
+Nd5 Bxd5 16. cxd5 h6 17. Be3 Rac8 18. Qa4 Rfd8 19. Rac1 Bf8 20. Ba6 Rxc1 21.
+Rxc1 Qb4 22. Qxb4 Bxb4 23. f3 Kg7 24. Rc7 Rd7 25. Rc6 Ne8 26. f4 Bd6 27. g3 Rc7
+28. Rxc7 Bxc7 29. Bc1 f6 30. Kg2 h5 31. Kf3 Bd6 32. a4 Kf7 33. Bd2 Bc5 34. Bc3
+Nc7 35. Bc4 1/2-1/2
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.18"]
+[Round "5"]
+[White "Fidel, Roberto Oscar"]
+[Black "Prieu, Gustavo"]
+[Result "1-0"]
+[ECO "E09"]
+[WhiteElo "2168"]
+[BlackElo "1953"]
+[PlyCount "73"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. g3 e6 5. Bg2 Be7 6. O-O O-O 7. Qc2 Nbd7 8. Nbd2
+Re8 9. e4 Nxe4 10. Nxe4 dxe4 11. Qxe4 Bf6 12. Bf4 c5 13. Be5 cxd4 14. Bxd4 Bxd4
+15. Nxd4 a6 16. Rfd1 Qc7 17. Qe2 Rb8 18. Rac1 Qe5 19. Qd2 Nf6 20. Nf3 Qc7 21.
+Qd6 Qxd6 22. Rxd6 Kf8 23. Ne5 Ke7 24. Rcd1 Rf8 25. Rb6 h5 26. Nc6+ bxc6 27.
+Rxb8 Bd7 28. Rxf8 Kxf8 29. Rd3 Ke7 30. Ra3 Kd6 31. Rxa6 Kc5 32. b3 e5 33. Ra8
+Ne8 34. Bh3 f5 35. Bxf5 Nc7 36. Ra7 Kb6 37. Rxc7 1-0
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.18"]
+[Round "5"]
+[White "Meza, Hugo"]
+[Black "Gallego, Gonzalo"]
+[Result "1-0"]
+[ECO "E46"]
+[WhiteElo "2246"]
+[BlackElo "2027"]
+[PlyCount "75"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Be7 7. cxd5 exd5 8.
+Nf4 c6 9. Bd3 Bd6 10. O-O Re8 11. f3 Qc7 12. Nce2 b6 13. Bd2 Ba6 14. Bxa6 Nxa6
+15. Rc1 Qb7 16. Ng3 Rac8 17. Nf5 Bb8 18. e4 Qd7 19. Nxg7 Kxg7 20. e5 Rg8 21.
+exf6+ Kh8 22. Qe1 Qf5 23. Qh4 c5 24. Rfe1 Bd6 25. Nh3 Rge8 26. Bh6 cxd4 27.
+Rxc8 Rxc8 28. Bg7+ Kg8 29. Nf2 Bf4 30. Ng4 d3 31. Nh6+ Bxh6 32. Bxh6 Nc5 33.
+Re5 d2 34. Bxd2 Qb1+ 35. Be1 Ne6 36. Rxe6 Kh8 37. Qg3 Rg8 38. Re8 1-0
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.18"]
+[Round "5"]
+[White "Ortiz, Jorge"]
+[Black "Sandoval, Teofilo"]
+[Result "0-1"]
+[ECO "E43"]
+[WhiteElo "1912"]
+[BlackElo "2158"]
+[PlyCount "96"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. e3 Bb7 5. Be2 Ne4 6. Nc3 Bb4 7. Qc2 f5 8. O-O
+O-O 9. Bd2 a5 10. a3 Be7 11. d5 Nxd2 12. Qxd2 Na6 13. Rad1 Qe8 14. dxe6 dxe6
+15. Qd7 Bf6 16. Qxe8 Rfxe8 17. Nd4 Rad8 18. Ndb5 Kf8 19. Bf3 Bxf3 20. gxf3 Rxd1
+21. Rxd1 Rd8 22. Rxd8+ Bxd8 23. Nd4 Kf7 24. f4 Bf6 25. Kg2 g6 26. Nde2 Nc5 27.
+b4 axb4 28. axb4 Nd3 29. Nb5 Bd8 30. c5 bxc5 31. bxc5 Nxc5 32. Ned4 Na6 33. Nc6
+Bf6 34. f3 Ke8 35. e4 Kd7 36. Nbd4 Bxd4 37. Nxd4 Nc5 38. exf5 exf5 39. h4 Ne6
+40. Ne2 Kd6 41. h5 gxh5 42. Kh3 h6 43. Kh4 Ng7 44. Kg3 c5 45. Kf2 Kd5 46. Ke3
+Kc4 47. Kd2 h4 48. Ng1 Ne6 0-1
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.18"]
+[Round "5"]
+[White "Roselli Mailhe, Bernardo"]
+[Black "Contin, Daniel"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2420"]
+[BlackElo "2309"]
+[PlyCount "51"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Bd2 Be7 8. Qc2
+O-O 9. e4 Nxc3 10. Bxc3 c5 11. dxc5 bxc5 12. Rd1 Qb6 13. Ne5 Qc7 14. Bd3 Bf6
+15. Nc4 Bxc3+ 16. Qxc3 Nc6 17. O-O Rad8 18. Rfe1 Rd4 19. Nd2 Ne5 20. Nb3 Nxd3
+21. Rxd3 Rxe4 22. Rxe4 Bxe4 23. Rd4 Bd5 24. Nxc5 Rc8 25. b4 a5 26. Rg4 1/2-1/2
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.19"]
+[Round "6"]
+[White "Aguilar, Andres"]
+[Black "Gallego, Gonzalo"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2248"]
+[BlackElo "2027"]
+[PlyCount "74"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 Bb4+ 7. Bd2 Be7 8. Ne5
+Bb7 9. O-O O-O 10. Bc3 Nbd7 11. Nxd7 Qxd7 12. Nd2 c5 13. dxc5 bxc5 14. cxd5
+exd5 15. Qc2 Rac8 16. Rfd1 Qe6 17. Rac1 Rfe8 18. e3 Ba8 19. Qb2 Rb8 20. Qa1
+Rec8 21. Be5 Rb6 22. Nf3 h6 23. Rc2 Qf5 24. Ne1 Re8 25. Bb2 Bf8 26. Qc1 Kh8 27.
+Nd3 Ne4 28. Ba1 Kg8 29. Nf4 g5 30. Nh5 Qg4 31. f3 Qxh5 32. fxe4 dxe4 33. Rd7
+Bc6 34. Rdd2 Bb5 35. Qb2 f6 36. Rf2 Ree6 37. h3 Bd6 0-1
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.19"]
+[Round "6"]
+[White "Zamorano, Jorge"]
+[Black "Roselli Mailhe, Bernardo"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2254"]
+[BlackElo "2420"]
+[PlyCount "100"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Ne8 10. a4 f5 11. Nd2 Nf6 12. c5 f4 13. Nc4 g5 14. Ba3 Ng6 15. cxd6
+cxd6 16. b5 Ne8 17. Bb4 Nh4 18. Ra3 g4 19. g3 f3 20. Bd3 Rf6 21. Re1 Ng2 22.
+Bf1 Nxe1 23. Qxe1 h5 24. Ne3 Bf8 25. Nf5 Ng7 26. Nh4 Be7 27. Qe3 Rf7 28. Qh6
+Bxh4 29. gxh4 Qf6 30. Qxf6 Rxf6 31. Nd1 Bd7 32. Ne3 Rc8 33. Nc4 Ne8 34. Bd3 Rf4
+35. Bd2 Rxe4 36. Bxe4 Rxc4 37. Bd3 Rc8 38. h3 Nf6 39. hxg4 hxg4 40. Be3 e4 41.
+Bb1 Bf5 42. Kh2 Kf7 43. Bxa7 Rc1 44. Ba2 Nh5 45. Bb3 g3+ 46. fxg3 Nf6 47. g4
+Nxg4+ 48. Kg3 Rc3 49. Bd4 f2+ 50. Kg2 Rg3+ 0-1
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.20"]
+[Round "7"]
+[White "Fernandez, Maria Florencia"]
+[Black "De Dovitiis, Alejo"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2037"]
+[BlackElo "2326"]
+[PlyCount "100"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Nf3 Bb7 8.
+Bg5 d6 9. e3 Nbd7 10. Be2 Rc8 11. O-O c5 12. Rfd1 Qc7 13. Bxf6 Nxf6 14. b4 Rfd8
+15. Rac1 Qe7 16. Qb2 Ne4 17. Nd2 Nxd2 18. Qxd2 Qg5 19. d5 cxb4 20. axb4 exd5
+21. Bf3 Rc7 22. cxd5 Rdc8 23. Rxc7 Rxc7 24. Rc1 Qd8 25. h3 Qc8 26. Rxc7 Qxc7
+27. Qd4 a6 28. Be4 Bc8 29. Bd3 a5 30. bxa5 bxa5 31. Qe4 g6 32. Qe8+ Kg7 33. g4
+Bd7 34. Qe4 Qc3 35. Bc2 a4 36. Qd3 Qxd3 37. Bxd3 a3 38. Bc4 Kf6 39. f4 g5 40.
+Kf2 Ba4 41. Ba2 Bc2 42. Kg3 h6 43. Kf3 Bd1+ 44. Kg3 Be2 45. Kf2 Bd3 46. Kf3 Ke7
+47. e4 Bf1 48. fxg5 hxg5 49. Kg3 Kf6 50. e5+ Kxe5 0-1
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.21"]
+[Round "8"]
+[White "Daneri, Martin"]
+[Black "Arcos Facio, Mateo"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[WhiteElo "2210"]
+[BlackElo "2060"]
+[PlyCount "174"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. f4 O-O 6. Nf3 Nbd7 7. Be2 c6 8. Be3
+Ng4 9. Bg1 e5 10. h3 Ngf6 11. fxe5 dxe5 12. d5 cxd5 13. cxd5 Nh5 14. Bf2 Nf4
+15. O-O f5 16. exf5 gxf5 17. Bc4 Kh8 18. Qd2 Bh6 19. Kh2 Qc7 20. Bb3 Rf6 21.
+Nb5 Qd8 22. Be3 a6 23. Nc3 Bg7 24. Nxe5 Nxg2 25. Bg5 Nxe5 26. Bxf6 Qxf6 27.
+Qxg2 Bd7 28. Rae1 Nd3 29. Re3 Qd4 30. Qd2 Bh6 31. Rff3 Bxe3 32. Qxe3 Qxe3 33.
+Rxe3 Nxb2 34. Re7 Rd8 35. Kg3 Nd3 36. Kh4 Nc5 37. Bc2 b5 38. a3 a5 39. d6 Bc6
+40. Bxf5 Rxd6 41. Re5 Nd3 42. Nxb5 Nxe5 43. Nxd6 Kg7 44. Kg5 Nf3+ 45. Kf4 Nd4
+46. Bd3 Bd7 47. h4 Ne6+ 48. Ke5 Nf8 49. Nc4 a4 50. Nb6 Be8 51. Kd6 Ng6 52. Bc2
+Nxh4 53. Bxa4 Bg6 54. Bc6 Nf5+ 55. Ke5 Ne7 56. Bb7 Bc2 57. a4 Bxa4 58. Nxa4 Kg6
+59. Nc5 Kg5 60. Ne6+ Kg4 61. Kf6 Nf5 62. Bc8 Nd6 63. Bd7 h5 64. Ng7+ Kh4 65.
+Kg6 Kg3 66. Nxh5+ Kf2 67. Bc6 Nc4 68. Kf5 Ke3 69. Nf6 Kd4 70. Ke6 Kc5 71. Bd5
+Nb6 72. Bb3 Kb4 73. Ba2 Ka3 74. Bb1 Kb2 75. Bd3 Kc3 76. Bb5 Kb4 77. Be2 Nc4 78.
+Kd5 Ne3+ 79. Kd4 Nf5+ 80. Ke5 Ne3 81. Ke4 Nc4 82. Nd5+ Kc5 83. Nc3 Nd2+ 84. Kd3
+Nb3 85. Ne4+ Kd5 86. Nc3+ Kc5 87. Na4+ Kb4 1/2-1/2
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.21"]
+[Round "8"]
+[White "Saralegui, Mario"]
+[Black "Gallego, Gonzalo"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2190"]
+[BlackElo "2027"]
+[PlyCount "55"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 b6 4. e3 Bb7 5. c4 h6 6. Bh4 Bb4+ 7. Nbd2 O-O 8. Bd3
+d5 9. O-O Nbd7 10. cxd5 exd5 11. Ne5 Be7 12. Ndf3 c5 13. Rc1 Re8 14. Bb5 Qc7
+15. Bxf6 Nxf6 16. Bxe8 Rxe8 17. Qa4 Bd6 18. h3 a6 19. Ng4 Re6 20. dxc5 bxc5 21.
+Nd4 Re4 22. f3 Nxg4 23. fxe4 Nxe3 24. Qe8+ Kh7 25. Rf3 Be5 26. Ne6 Bh2+ 27. Kh1
+Qd6 28. Qxf7 1-0
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.21"]
+[Round "8"]
+[White "Vargas, Gabriela"]
+[Black "Cristobal, Manuel"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2030"]
+[BlackElo "2174"]
+[PlyCount "78"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 a5 4. Nf3 Nf6 5. a3 Bxd2+ 6. Nbxd2 d6 7. g3 Qe7 8.
+e4 e5 9. d5 a4 10. Bg2 Nbd7 11. O-O Nc5 12. Qc2 O-O 13. Ne1 Nh5 14. Nd3 Nxd3
+15. Qxd3 Qg5 16. Nf3 Qg4 17. h3 Qg6 18. Nh4 Qg5 19. Nf3 Qe7 20. Qe3 c5 21. dxc6
+bxc6 22. c5 dxc5 23. Rfc1 Ra5 24. Qc3 Rb5 25. Qxe5 Qxe5 26. Nxe5 Rxb2 27. Nxc6
+g6 28. Ne7+ Kg7 29. Rxc5 Be6 30. Nd5 Rfb8 31. Ra5 Rd2 32. Rxa4 Rbb2 33. Rb4
+Rxf2 34. Rxb2 Rxb2 35. a4 Nxg3 36. a5 Ne2+ 37. Kh1 Ng3+ 38. Kg1 Ne2+ 39. Kh1
+Ng3+ 1/2-1/2
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.22"]
+[Round "9"]
+[White "Coppola, Guido"]
+[Black "Juarez, Carlos Eleodoro"]
+[Result "1-0"]
+[ECO "E07"]
+[WhiteElo "2065"]
+[BlackElo "2170"]
+[PlyCount "55"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. g3 e6 5. Bg2 Nbd7 6. O-O Be7 7. Nc3 O-O 8. Nd2
+b6 9. Qb3 Bb7 10. e4 dxc4 11. Nxc4 Rc8 12. Rd1 b5 13. Bf4 Nb6 14. Ne5 Nfd7 15.
+d5 Nc5 16. Qc2 exd5 17. Bh3 Ne6 18. Nxf7 Kxf7 19. exd5 Nxf4 20. Be6+ Ke8 21.
+Qxh7 cxd5 22. gxf4 Qd6 23. Qh5+ g6 24. Qxg6+ Kd8 25. f5 Rc4 26. Qg2 Qc7 27.
+Nxb5 Qe5 28. Nc3 1-0
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.22"]
+[Round "9"]
+[White "Lida Garcia, Fernando"]
+[Black "Saralegui, Mario"]
+[Result "1-0"]
+[ECO "E08"]
+[WhiteElo "2049"]
+[BlackElo "2190"]
+[PlyCount "83"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Nbd7 5. O-O Be7 6. d4 c6 7. b3 O-O 8. Qc2
+Ne4 9. Ne1 f5 10. f3 Nef6 11. Nd3 Re8 12. Kh1 b6 13. cxd5 Bb7 14. dxc6 Rc8 15.
+Bb2 Bxc6 16. Qd2 Qc7 17. Na3 Qb7 18. Nc4 Bd5 19. Ne3 Bc6 20. Rfc1 Bb5 21. Rxc8
+Rxc8 22. Nf4 Nf8 23. a4 Bd7 24. d5 Rd8 25. Rd1 Bc8 26. Qc2 Bc5 27. Bxf6 gxf6
+28. dxe6 Rxd1+ 29. Nxd1 Bxe6 30. Nxe6 Nxe6 31. Qxf5 Qe7 32. f4 Nd4 33. Bd5+ Kg7
+34. Qg4+ Kh6 35. b4 Bxb4 36. e4 Bd2 37. Qg8 Bb4 38. Ne3 f5 39. Kg2 Bd2 40. Nc4
+Bc3 41. Ne5 Ne2 42. Nf7+ 1-0
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.22"]
+[Round "9"]
+[White "Meza, Hugo"]
+[Black "Roselli Mailhe, Bernardo"]
+[Result "1-0"]
+[ECO "E76"]
+[WhiteElo "2246"]
+[BlackElo "2420"]
+[PlyCount "53"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 Na6 7. e5 Nd7 8. Be2 c5
+9. exd6 exd6 10. O-O Nc7 11. f5 Nf6 12. fxg6 fxg6 13. dxc5 dxc5 14. Bf4 Qxd1
+15. Raxd1 Nce8 16. Ne5 Nh5 17. Bxh5 gxh5 18. Rd8 b6 19. Nd7 Bxd7 20. Rxa8 Bd4+
+21. Kh1 Bc6 22. Rxa7 Be3 23. Ne2 Nd6 24. Rc7 Ba8 25. Re7 Nf5 26. Re5 h4 27.
+Bxe3 1-0
+
+[Event "Mar del Plata op 39th"]
+[Site "Mar del Plata"]
+[Date "2008.03.22"]
+[Round "9"]
+[White "Ronco, Raul"]
+[Black "Aguilar, Andres"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "2105"]
+[BlackElo "2248"]
+[PlyCount "68"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 Nbd7 7. O-O e5 8. Be3
+c6 9. d5 c5 10. Ne1 Ne8 11. g4 Kh8 12. Kh1 f5 13. gxf5 gxf5 14. exf5 Ndf6 15.
+Bd3 e4 16. Nxe4 Nxe4 17. Bxe4 Bxf5 18. Bxf5 Rxf5 19. Qg4 Qd7 20. Nd3 Nf6 21.
+Qh3 Rf8 22. Nf4 Rxf4 23. Qxd7 Nxd7 24. Bxf4 Rxf4 25. Rac1 Be5 26. f3 Kg8 27.
+Kg2 Kf7 28. h3 Nf8 29. b3 Ng6 30. Rb1 Rh4 31. Rh1 Nf4+ 32. Kf1 Kf6 33. Re1 Nh5
+34. Rg1 Rxh3 0-1
+
+[Event "Niedersachsen-ch U12"]
+[Site "Rotenburg"]
+[Date "2008.03.15"]
+[Round "1"]
+[White "Kleene, Jan"]
+[Black "Bach, Jannik"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "1093"]
+[BlackElo "1366"]
+[PlyCount "86"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Bd2 b6 5. Qc2 Bb7 6. O-O-O Bxc3 7. Bxc3 d5 8.
+cxd5 Nxd5 9. Nf3 Nd7 10. e3 Qe7 11. Bc4 Rc8 12. Rhe1 c5 13. Bd3 cxd4 14. exd4
+Nb4 15. Qa4 Bd5 16. Kd2 Nxd3 17. Kxd3 Bc6 18. Qb3 Rd8 19. Kc2 Nf6 20. Ne5 Bxg2
+21. Qb5+ Nd7 22. d5 a6 23. Qxa6 Nxe5 24. Bxe5 Qc5+ 25. Kb1 Bxd5 26. Bd4 Qa5 27.
+Qxa5 bxa5 28. Bxg7 Rg8 29. Bf6 Rd7 30. Bc3 Rg2 31. Bxa5 Rxf2 32. Rd2 Bxa2+ 33.
+Kxa2 Rfxd2 34. Bxd2 Rxd2 35. Rh1 Kd7 36. Ka3 f5 37. b4 f4 38. b5 Kc7 39. Ka4 f3
+40. Ka5 Ra2+ 41. Kb4 f2 42. Kc3 Re2 43. Kd4 Re1 0-1
+
+[Event "Niedersachsen-ch U12"]
+[Site "Rotenburg"]
+[Date "2008.03.16"]
+[Round "2"]
+[White "Wolf, Felix"]
+[Black "Kopanski, Lorenz"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "1279"]
+[BlackElo "1319"]
+[PlyCount "12"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]

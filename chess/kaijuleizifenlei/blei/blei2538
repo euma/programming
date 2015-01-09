@@ -1,0 +1,600 @@
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be6 8.
+Nc4 b5 9. Ne3 Nf6 10. Ned5 Be7 11. Be3 O-O 12. Be2 Bxd5 13. Nxd5 Nxd5 14. exd5
+Na5 15. a4 Nc4 16. Bc1 Nb6 17. axb5 axb5 18. Rb1 b4 19. Bb5 Bg5 20. Bc6 Rb8 21.
+O-O Bxc1 22. Qxc1 Nd7 23. Ra1 Nc5 24. Qe3 f5 25. f4 exf4 26. Qxf4 Qf6 27. b3 g5
+28. Qd2 Rf7 29. Rae1 f4 30. Qe2 Qd4+ 31. Kh1 Rbf8 32. Qg4 Ne4 33. Qe6 Nf2+ 34.
+Rxf2 Qxf2 35. Be8 Rxe8 36. Qxe8+ Kg7 37. Qe4 f3 38. gxf3 Qxf3+ 39. Qxf3 Rxf3
+40. Re7+ Kg6 41. Rd7 Rf6 42. Kg2 h5 43. Rb7 Rf4 44. Rd7 Kf5 45. Rxd6 Rd4 46.
+Rc6 Ke4 47. d6 Kd5 48. Rc4 Rd2+ 49. Kg3 Kxd6 50. Rxb4 Rxc2 51. Rb5 Rc3+ 52. Kg2
+Rc2+ 53. Kg3 Rc3+ 54. Kg2 Rc2+ 1/2-1/2
+
+[Event "Cheliabinsk YUURGU-65"]
+[Site "Cheliabinsk"]
+[Date "2008.10.05"]
+[Round "4"]
+[White "Khruschiov, Alexey"]
+[Black "Dvoirys, Semen I"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2499"]
+[BlackElo "2552"]
+[PlyCount "71"]
+[EventDate "2008.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Ne4 Qxa2 13. Rd1 Qd5 14. Qe3 Qxe5
+15. Be2 h6 16. Bf4 Qa5+ 17. c3 Nc6 18. Nxc6 bxc6 19. Nd6+ Bxd6 20. Bxd6 Nf6 21.
+O-O Nd5 22. Qg3 Qxc3 23. Rd3 Qb2 24. Bh5 Ra7 25. Be5 Qb6+ 26. Bd4 c5 27. Rb3
+Qc6 28. Qxg7 Rf8 29. Rc1 Ne7 30. Bxc5 Qd5 31. Rbc3 Rd7 32. Bxe7 Kxe7 33. Rxc8
+Rxc8 34. Qxf7+ Kd6 35. Qf4+ Ke7 36. Rxc8 1-0
+
+[Event "Cheliabinsk YUURGU-65"]
+[Site "Cheliabinsk"]
+[Date "2008.10.06"]
+[Round "5"]
+[White "Dvoirys, Semen I"]
+[Black "Gabrielian, Artur"]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2552"]
+[BlackElo "2486"]
+[PlyCount "55"]
+[EventDate "2008.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 Nc6 7. g5 Nd7 8. Be3
+Be7 9. h4 O-O 10. Rg1 Nde5 11. f4 Nxd4 12. Bxd4 Nc6 13. Be3 a6 14. Qd2 b5 15.
+O-O-O Qa5 16. Kb1 b4 17. Ne2 Bb7 18. Ng3 Rfc8 19. f5 d5 20. fxe6 dxe4 21. exf7+
+Kf8 22. Bc4 Ne5 23. Bb3 Nf3 24. Qd7 Qc7 25. Nf5 Qxd7 26. Rxd7 Nxg1 27. Rxe7 Rc6
+28. Bd4 1-0
+
+[Event "Cheliabinsk YUURGU-65"]
+[Site "Cheliabinsk"]
+[Date "2008.10.06"]
+[Round "5"]
+[White "Fazulyanov, Sergey"]
+[Black "Khruschiov, Alexey"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2395"]
+[BlackElo "2499"]
+[PlyCount "64"]
+[EventDate "2008.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bd3 Bb7 11. Kb1 Be7 12. g4 b4 13. Nce2 Qb6 14. Bxf6 Bxf6
+15. Qe3 g6 16. g5 Bg7 17. Qg1 h6 18. gxh6 Rxh6 19. f5 Bxd4 20. Nxd4 e5 21. Qg5
+Rh5 22. Qg4 Nf6 23. Qe2 exd4 24. fxg6 fxg6 25. Rdf1 Nd7 26. Qg4 O-O-O 27. Qxg6
+Rdh8 28. Rf7 Rxh2 29. Rhf1 Ne5 30. Rf8+ Rxf8 31. Rxf8+ Kc7 32. Qe6 Qc6 0-1
+
+[Event "Cheliabinsk YUURGU-65"]
+[Site "Cheliabinsk"]
+[Date "2008.10.07"]
+[Round "6"]
+[White "Dvoirys, Semen I"]
+[Black "Fazulyanov, Sergey"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2552"]
+[BlackElo "2395"]
+[PlyCount "59"]
+[EventDate "2008.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+f5 9. exf5 Bxf5 10. Nc2 Nf6 11. Ne3 Bg6 12. Bd3 e4 13. Bb1 Ne5 14. O-O Rc8 15.
+Ned5 Rxc4 16. b3 Rc6 17. Re1 Nxd5 18. Nxd5 O-O 19. Bxe4 Bxe4 20. Rxe4 Bf6 21.
+Be3 Nd7 22. Bd4 Be5 23. f4 Bxd4+ 24. Qxd4 Rc2 25. Qd3 Rc5 26. b4 Rc8 27. Ne7+
+Kh8 28. Nxc8 Qxc8 29. Qxd6 Nf6 30. Rc4 1-0
+
+[Event "Cheliabinsk YUURGU-65"]
+[Site "Cheliabinsk"]
+[Date "2008.10.08"]
+[Round "7"]
+[White "Fazulyanov, Sergey"]
+[Black "Gabrielian, Artur"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2395"]
+[BlackElo "2486"]
+[PlyCount "80"]
+[EventDate "2008.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 Nc6 7. c3 e6 8.
+d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Nc3 Nxc3 12. bxc3 h6 13. Qd3 Be7 14. Nd2
+O-O-O 15. Nb3 f6 16. Qg6 f5 17. a4 a5 18. Ba3 Bxa3 19. Rxa3 b6 20. Rb1 Kc7 21.
+Nd2 Rhg8 22. Qg3 Rb8 23. Qd3 Rb7 24. Rab3 Rgb8 25. Qa6 Ne7 26. c4 Qxa4 27. c5
+Qxd4 28. Rxb6 Rxb6 29. cxb6+ Kd8 30. Qxa5 Qxe5 31. Qb5 Qd6 32. h3 Rb7 33. Qa6
+Rb8 34. Qa7 g5 35. b7 Nc6 36. Qb6+ Qc7 37. Qa6 g4 38. hxg4 fxg4 39. Rc1 Nb4 40.
+Qa1 Qxb7 1/2-1/2
+
+[Event "Cheliabinsk YUURGU-65"]
+[Site "Cheliabinsk"]
+[Date "2008.10.08"]
+[Round "7"]
+[White "Sveshnikov, Evgeny"]
+[Black "Efanov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2525"]
+[BlackElo "2398"]
+[PlyCount "33"]
+[EventDate "2008.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d6 8. exd6
+Qxd6 9. O-O Be6 10. Bxe6 Qxe6 11. Nxd4 Nxd4 12. Qxd4 Rd8 13. Qh4 h5 14. h3 Qc4
+15. Qxc4 Nxc4 16. b3 Nd6 17. c4 1/2-1/2
+
+[Event "Cheliabinsk YUURGU-65"]
+[Site "Cheliabinsk"]
+[Date "2008.10.09"]
+[Round "8"]
+[White "Fazulyanov, Sergey"]
+[Black "Gnusarev, Pavel"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2395"]
+[BlackElo "2364"]
+[PlyCount "58"]
+[EventDate "2008.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O Bc5 8.
+Nb3 Be7 9. Be3 d6 10. a4 b6 11. f4 Nc6 12. Qf3 O-O 13. Qh3 Bb7 14. Rae1 Nb4 15.
+Nd2 Nd7 16. f5 exf5 17. exf5 Rfe8 18. Nde4 d5 19. Bf4 Qd8 20. Nd6 Bxd6 21. Bxd6
+Rxe1 22. Rxe1 Nxd3 23. cxd3 Nc5 24. Be7 Qd7 25. Bh4 d4 26. Ne4 Nxe4 27. dxe4 d3
+28. Qg4 Qd4+ 29. Bf2 Qxb2 0-1
+
+[Event "Cheliabinsk YUURGU-65"]
+[Site "Cheliabinsk"]
+[Date "2008.10.09"]
+[Round "8"]
+[White "Khruschiov, Alexey"]
+[Black "Sveshnikov, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2499"]
+[BlackElo "2525"]
+[PlyCount "27"]
+[EventDate "2008.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 Nf6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Qa5+ 10. Bd2 Qd8 11. Bg5 Qa5+ 12. Bd2 Qd8 13. Bg5 Qa5+ 14. Bd2
+1/2-1/2
+
+[Event "Cheliabinsk YUURGU-65"]
+[Site "Cheliabinsk"]
+[Date "2008.10.10"]
+[Round "9"]
+[White "Matsenko, Sergei"]
+[Black "Fazulyanov, Sergey"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2447"]
+[BlackElo "2395"]
+[PlyCount "51"]
+[EventDate "2008.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 Qb6 5. Nb3 e6 6. Nf3 Nd7 7. Be2 a6 8. O-O c5
+9. c4 dxc4 10. Bxc4 Qc7 11. dxc5 b5 12. Be2 Nxc5 13. Be3 Nxb3 14. axb3 Qb7 15.
+Nd4 Be4 16. f3 Bd5 17. Nxb5 axb5 18. Rxa8+ Qxa8 19. Bxb5+ Bc6 20. Qa1 Kd8 21.
+Bxc6 Qxc6 22. Qa5+ Ke8 23. Rc1 Qxc1+ 24. Bxc1 Ne7 25. Qb5+ Kd8 26. Bg5 1-0
+
+[Event "Cheliabinsk YUURGU-65"]
+[Site "Cheliabinsk"]
+[Date "2008.10.10"]
+[Round "9"]
+[White "Sveshnikov, Evgeny"]
+[Black "Dvoirys, Semen I"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2525"]
+[BlackElo "2552"]
+[PlyCount "31"]
+[EventDate "2008.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. d4 cxd4 6. cxd4 d6 7. Bc4 Nb6 8. Bb5
+dxe5 9. Nxe5 Bd7 10. Nc3 Nxe5 11. dxe5 Bxb5 12. Nxb5 Qxd1+ 13. Kxd1 Nd5 14. Bd2
+e6 15. Rc1 Kd7 16. Ke2 1/2-1/2
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.02"]
+[Round "1"]
+[White "Finocchiaro, Gianluca"]
+[Black "Crepaldi, Manuele"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "2026"]
+[BlackElo "1817"]
+[PlyCount "39"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Nxc6 bxc6 7. Bc4 d6 8.
+O-O Nf6 9. e5 Ng8 10. Qf3 e6 11. Qxc6+ Bd7 12. Qxd6 Rc8 13. Bb3 Bf8 14. Qd3 Qa5
+15. Bf4 Bc5 16. Rad1 Rd8 17. Ne4 Qc7 18. Bg5 Be7 19. Bxe7 Nxe7 20. Nf6+ 1-0
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.02"]
+[Round "1"]
+[White "Giacomasso, Enrico"]
+[Black "Paoli, Mario"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteElo "1996"]
+[BlackElo "1742"]
+[PlyCount "137"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Be2 Nf6 6. Nxc6 bxc6 7. Bf3 Ba6 8.
+Qd4 Qb6 9. Qxb6 axb6 10. Be3 Rb8 11. Bf4 Rc8 12. Be3 e5 13. Bg5 Be7 14. Nd2 O-O
+15. O-O-O h6 16. Bxf6 Bxf6 17. Nb3 Rfd8 18. Bg4 Rc7 19. Bf3 Bc4 20. Nd2 Be6 21.
+Kb1 d5 22. Rhe1 d4 23. Be2 b5 24. g3 Be7 25. f4 f6 26. fxe5 fxe5 27. Nf3 Bf6
+28. b3 Ra7 29. Kb2 Rda8 30. Ra1 Bg4 31. Nxd4 exd4 32. Bxg4 Be5 33. Be6+ Kh8 34.
+b4 Ra3 35. Bb3 Bd6 36. Red1 Be5 37. Rd3 R3a7 38. Rf1 Re8 39. Rf5 Bf6 40. Rf4
+Rae7 41. a4 bxa4 42. Bxa4 Rb7 43. Bxc6 Rxb4+ 44. Ka3 Rb6 45. Bxe8 Be7+ 46. Ka2
+Ra6+ 47. Kb3 Ra8 48. Bb5 Rb8 49. Kc4 Bf6 50. Rxf6 gxf6 51. Rxd4 Kg7 52. Bd7 Rb7
+53. Bf5 Rc7+ 54. Kd3 Rc5 55. Rd7+ Kf8 56. Rh7 Ra5 57. Rxh6 Ke7 58. h4 Ra3+ 59.
+c3 Ra5 60. Rg6 Ra8 61. Rg7+ Kf8 62. Rd7 Ra1 63. Ke3 Re1+ 64. Kf4 Rf1+ 65. Kg4
+Rc1 66. Rc7 Rh1 67. Kh5 Kg8 68. Kg6 Kf8 69. Kxf6 1-0
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.02"]
+[Round "1"]
+[White "Guarneri, Joseph"]
+[Black "Gallucci, Alessio"]
+[Result "0-1"]
+[ECO "B26"]
+[WhiteElo "1907"]
+[BlackElo "2197"]
+[PlyCount "77"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 d6 7. Qd2 Nge7 8. Nge2
+Nd4 9. O-O O-O 10. Nd1 Rb8 11. c3 Nxe2+ 12. Qxe2 b6 13. d4 Bb7 14. Re1 Re8 15.
+Qd2 Nc6 16. b4 cxb4 17. cxb4 Ne7 18. Nc3 Qd7 19. b5 f5 20. Bg5 Kh8 21. Bxe7
+Rxe7 22. Rad1 Rc8 23. a4 Rc4 24. Qe3 Qc8 25. Rd3 Rec7 26. exf5 Bxg2 27. Kxg2
+Rxc3 28. fxe6 Rxd3 29. Qxd3 d5 30. Qf3 Qd8 31. Qf4 Re7 32. Qc1 Bxd4 33. Qc6 Bf6
+34. Rc1 d4 35. Qc8 Re8 36. Qb7 Qa8 37. Qc6 Rc8 38. Qxa8 Rxa8 39. Rc6 0-1
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.02"]
+[Round "1"]
+[White "Medaglia, Enzo"]
+[Black "Marguerettaz, Davy"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1794"]
+[BlackElo "2020"]
+[PlyCount "62"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. Be2 e5 6. d3 Bf5 7. O-O O-O-O 8.
+Ng5 f6 9. Bf3 Qd7 10. Ne4 c4 11. Qa4 cxd3 12. Be3 Kb8 13. b4 Nd4 14. Qd1 Nc2
+15. Nbd2 Nxa1 16. Qxa1 Bxe4 17. Nxe4 f5 18. Nd2 e4 19. Bd1 Bd6 20. Bb3 Nf6 21.
+a4 f4 22. Bd4 e3 23. fxe3 fxe3 24. Bxe3 Bxh2+ 25. Kh1 Rhf8 26. Bd4 Bg3 27. Rf3
+Qg4 28. Be6 Qxe6 29. Rxg3 Ng4 30. Qg1 Rxd4 31. Qxd4 Qe1+ 0-1
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.02"]
+[Round "1"]
+[White "Topczewski, Damian"]
+[Black "Ferrario, Enrico"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "1506"]
+[BlackElo "1946"]
+[PlyCount "63"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 Nc6 4. Ne2 g6 5. O-O Nb4 6. c3 Nxd3 7. Qxd3 Bg7 8. f4
+O-O 9. Ng3 c5 10. Na3 a6 11. Kh1 b5 12. Be3 Qc7 13. Bg1 Bd7 14. Rac1 Rac8 15.
+Nc2 c4 16. Qe2 Bg4 17. Qe1 h5 18. Ne3 h4 19. Nxg4 Nxg4 20. Ne2 f5 21. h3 Nh6
+22. e5 Kh7 23. Qxh4 Rh8 24. Bh2 Bf8 25. Ng1 Kg7 26. Qg3 Nf7 27. Nf3 e6 28. exd6
+Nxd6 29. Ng5 Re8 30. Rfe1 Qb7 31. Nxe6+ Rxe6 32. Rxe6 1-0
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.03"]
+[Round "2"]
+[White "D'Amato, Piergiorgio"]
+[Black "Medaglia, Enzo"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteElo "1925"]
+[BlackElo "1794"]
+[PlyCount "97"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be2 Nf6 6. Bf3 Be7 7. O-O Ne5 8.
+Nc3 Nxf3+ 9. Qxf3 O-O 10. Be3 a6 11. e5 Ne8 12. Rad1 Qc7 13. Qg3 b5 14. f4 f5
+15. exf6 Bxf6 16. Ne4 Bb7 17. Nxf6+ Nxf6 18. c3 Ne4 19. Qe1 Bd5 20. f5 e5 21.
+Nb3 Bb7 22. Nd2 Nc5 23. Qg3 d6 24. Nb3 Ne4 25. Qg4 Kh8 26. Nd2 Nf6 27. Qg5 Qf7
+28. Nf3 Ne4 29. Qh4 Rad8 30. Nxe5 Qf6 31. Qxf6 gxf6 32. Nf3 h5 33. Nh4 Kh7 34.
+Ng6 Rg8 35. Rf4 Rxg6 36. fxg6+ Kxg6 37. Rdf1 d5 38. Bd4 Rf8 39. Rf5 Bc6 40. h3
+b4 41. g4 hxg4 42. hxg4 Bd7 43. Rxd5 Bxg4 44. Rf4 f5 45. Rd7 Kg5 46. Rf1 bxc3
+47. Rg7+ Kh6 48. Rxg4 c2 49. Rg2 1-0
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.03"]
+[Round "2"]
+[White "Fassio, Luca"]
+[Black "Giacomasso, Enrico"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2081"]
+[BlackElo "1996"]
+[PlyCount "94"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Bd3 Nc6 7. O-O Be7 8. Be3
+Ng4 9. Bf4 Nf6 10. Na3 Qd8 11. Ne5 cxd4 12. Nxc6 bxc6 13. cxd4 Qxd4 14. Qc2 Bd7
+15. Be3 Qe5 16. Nc4 Qh5 17. Be2 Qg6 18. Qa4 c5 19. Qa6 O-O 20. Ne5 Qf5 21. Nxd7
+Nxd7 22. Bf3 Rad8 23. Qxa7 Bf6 24. Rab1 Ne5 25. Be2 Rd5 26. Rfd1 Rfd8 27. Qa4
+g5 28. Rbc1 Nd3 29. Bxd3 Rxd3 30. Rxd3 Qxd3 31. Bxc5 Bxb2 32. Rf1 Bf6 33. Qb3
+Qf5 34. Qb4 Rc8 35. Be3 Qd5 36. Qb3 Qe4 37. g3 Rc3 38. Qb6 Qd5 39. a4 h5 40.
+Rb1 h4 41. Qb5 Qf3 42. Bxg5 h3 43. Qe8+ Kg7 44. Bxf6+ Qxf6 45. Qa8 Qd4 46. Qb8
+Qe4 47. Qb7 Qxb7 0-1
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.03"]
+[Round "2"]
+[White "Marguerettaz, Davy"]
+[Black "Vallejo Pons, Francisco"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2020"]
+[BlackElo "2664"]
+[PlyCount "34"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O Nc6 8. Nb3
+Nf6 9. Bg5 Be7 10. f4 d6 11. Qe1 h6 12. Bh4 g5 13. fxg5 Ng4 14. Rf4 Nce5 15. h3
+hxg5 16. Rf1 Rxh4 17. hxg4 Nxg4 0-1
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.03"]
+[Round "2"]
+[White "Martin, Tiziano"]
+[Black "Nardelli, Marco"]
+[Result "0-1"]
+[ECO "B24"]
+[WhiteElo "1973"]
+[BlackElo "2132"]
+[PlyCount "60"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Nf3 Nge7 7. O-O O-O 8. Be3
+Nd4 9. Qd2 d5 10. Bh6 Nxf3+ 11. Bxf3 d4 12. Bxg7 Kxg7 13. Ne2 e5 14. Bg2 f6 15.
+Kh1 Qd6 16. Ng1 b5 17. a4 Bd7 18. axb5 Bxb5 19. b3 Nc6 20. f4 Nb4 21. fxe5 fxe5
+22. Rxf8 Qxf8 23. Nf3 Qe7 24. Ne1 a6 25. c3 dxc3 26. Qxc3 Rd8 27. Rd1 Qd6 28.
+Nf3 Nxd3 29. Kg1 c4 30. bxc4 Qc5+ 0-1
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.03"]
+[Round "2"]
+[White "Moncelli, Giorgio"]
+[Black "Bitossi, Massimo"]
+[Result "0-1"]
+[ECO "B04"]
+[WhiteElo "2110"]
+[BlackElo "1951"]
+[PlyCount "58"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. Qe2 O-O 8. O-O
+a5 9. c3 Bg4 10. Nbd2 dxe5 11. dxe5 a4 12. Bc2 e6 13. h3 Bf5 14. Ne4 h6 15. Be3
+N6d7 16. g4 Bxe4 17. Bxe4 Nc6 18. Rfd1 Qe7 19. Qb5 Ncxe5 20. Nxe5 Nxe5 21. Bc5
+Qg5 22. Qb4 Rfe8 23. Be3 Qh4 24. Bg2 h5 25. f4 Nf3+ 26. Bxf3 Qg3+ 27. Bg2 Qxe3+
+28. Kh1 hxg4 29. hxg4 a3 0-1
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.03"]
+[Round "2"]
+[White "Paoli, Mario"]
+[Black "Guarneri, Joseph"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1742"]
+[BlackElo "1907"]
+[PlyCount "108"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Nc3 c6 5. Be2 Nd7 6. O-O e6 7. Re1 Ne7 8. Bf4
+Qc7 9. Qd2 h6 10. Bg3 O-O 11. Bc4 a6 12. a3 b5 13. Ba2 Bb7 14. d5 cxd5 15. exd5
+e5 16. h3 Rac8 17. Rad1 Nf5 18. Bh2 Nc5 19. Rc1 Rfe8 20. b4 Nd7 21. Ne4 Nb6 22.
+Qd3 Ne7 23. Red1 f5 24. Nc5 Bxd5 25. Bxd5+ Nexd5 26. Nxa6 Qc6 27. a4 bxa4 28.
+b5 Qc4 29. Qxc4 Rxc4 30. Nd2 Rc3 31. Nb1 Rc4 32. Na3 Rd4 33. Rxd4 exd4 34. Bxd6
+Nc3 35. Kh2 Re2 36. f4 Nbd5 37. Nc5 Ne3 38. b6 Rxg2+ 39. Kh1 Ne2 40. Ne4 fxe4
+41. f5 Ng3+ 42. Bxg3 Rxg3 43. Nb5 Nd5 44. b7 Be5 45. Nxd4 Rxh3+ 46. Kg2 Rc3 47.
+Rb1 Bb8 48. Nb5 Rxc2+ 49. Kf1 gxf5 50. Nd4 Ne3+ 51. Ke1 Rc4 52. Ne6 a3 53. Ra1
+Nc2+ 54. Kd2 Nxa1 0-1
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.03"]
+[Round "2"]
+[White "Pulito, Alberto"]
+[Black "Finocchiaro, Gianluca"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2254"]
+[BlackElo "2026"]
+[PlyCount "99"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 c6 5. Nf3 Qc7 6. d4 Nf6 7. O-O e6 8.
+a4 Be7 9. Bc4 O-O 10. Qe2 Nd5 11. Ne4 Nd7 12. c3 a5 13. Bg5 N7f6 14. Rfe1 b6
+15. Rad1 Bb7 16. Nxf6+ Bxf6 17. Qe4 Bxg5 18. Nxg5 Nf6 19. Qh4 c5 20. dxc5 Qc6
+21. Qg3 Qxc5 22. Rxe6 Qf5 23. Re7 Nh5 24. Rxf7 Rxf7 25. Bxf7+ Qxf7 26. Nxf7
+Nxg3 27. hxg3 Bc6 28. Rd6 Bxa4 29. Ne5 b5 30. f4 b4 31. cxb4 axb4 32. Rb6 b3
+33. Kf2 h6 34. Ke3 Ra5 35. Kd4 Bb5 36. Kc3 Bf1 37. Kxb3 Bxg2 38. Kc4 g5 39.
+Rxh6 gxf4 40. gxf4 Bf1+ 41. Kc3 Rc5+ 42. Kd4 Rc2 43. Rb6 Kg7 44. Ke3 Re2+ 45.
+Kf3 Rd2 46. Kg4 Rg2+ 47. Kf5 Rg1 48. Rb7+ Kh8 49. Kf6 Be2 50. Ng6+ 1-0
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.03"]
+[Round "2"]
+[White "Razzano, Lorenzo"]
+[Black "Pettarini, Renato"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "1899"]
+[BlackElo "1761"]
+[PlyCount "117"]
+[EventDate "2008.10.02"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 dxc4 8. Bxc4
+Nd7 9. Nc3 Nb6 10. Bb3 Bxg5 11. hxg5 Ne7 12. Nge2 Qd7 13. Ng3 O-O-O 14. Nce4
+Bxe4 15. Nxe4 Nf5 16. O-O-O Kb8 17. g6 Qe7 18. Qg5 fxg6 19. Qxe7 Nxe7 20. Bxe6
+Rhf8 21. g3 Nf5 22. Bxf5 Rxf5 23. f4 Nd5 24. Nc5 Rf7 25. Ne6 Re8 26. Ng5 Rfe7
+27. Rd3 Nb4 28. Rb3 Nd5 29. Ne4 Rd8 30. Nd6 Nb6 31. Kc2 Nc8 32. Nxc8 Kxc8 33.
+Rd3 Red7 34. Rhd1 Rd5 35. b4 Kd7 36. Kc3 Ke6 37. Kc4 a6 38. a4 Rc8 39. Rb3 Rc7
+40. Kd3 Rcd7 41. Ke4 Rd8 42. a5 R8d7 43. Rc3 Rc7 44. Rc5 Rcd7 45. Rd3 Rd8 46.
+Rc4 R8d7 47. g4 hxg4 48. Rg3 Rf7 49. Rxg4 Kd7 50. Rxg6 Re7 51. f5 Ke8 52. Rc5
+Red7 53. Rxd5 cxd5+ 54. Kd3 Rc7 55. Rb6 Ke7 56. b5 axb5 57. Rxb5 Rd7 58. Ke3
+Kf8 59. Kf4 1-0
+
+[Event "Nichelino op"]
+[Site "Nichelino"]
+[Date "2008.10.03"]
+[Round "2"]
+[White "Topczewski, Damian"]

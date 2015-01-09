@@ -1,0 +1,600 @@
+[Black "Ballester Llagaria, Luis Eduardo"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "1737"]
+[BlackElo "2040"]
+[PlyCount "59"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 5. Bb5 dxe4 6. Nxc6 Qxd1+ 7. Kxd1 a6
+8. Nxe7+ Kxe7 9. Be2 Be6 10. c3 f5 11. Be3 Nf6 12. Kc2 Kf7 13. Nd2 Bd6 14. Bd4
+Rad8 15. f3 Rhe8 16. Rhf1 exf3 17. Nxf3 Bb3+ 18. Kxb3 Rxe2 19. Rf2 Rde8 20. Rd1
+Bc7 21. Rd2 Rxf2 22. Bxf2 Ne4 23. Rd7+ Re7 24. Rxe7+ Kxe7 25. Bd4 g5 26. Be5
+Bxe5 27. Nxe5 Nd2+ 28. Kc2 Nf1 29. Nd3 Kd6 30. Kd1 0-1
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Escudero Manzano, Alejandro"]
+[Black "Acosta Sosa, Juan Manuel"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "1825"]
+[BlackElo "1857"]
+[PlyCount "101"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. O-O d5 6. d3 Rb8 7. b3 Nf6 8. e5
+Nd7 9. Qe2 Qc7 10. Bb2 Ba6 11. Nbd2 Be7 12. Ba3 O-O 13. c4 Qa5 14. Bb2 Rfc8 15.
+Qe3 Nf8 16. h3 Ng6 17. Nh2 Bf8 18. Ng4 Rd8 19. Nf3 dxc4 20. dxc4 Rd7 21. h4 Qd8
+22. h5 Nh4 23. Nxh4 Qxh4 24. Qe2 Qg5 25. Bc1 Qd8 26. h6 Rd4 27. Be3 Qc7 28.
+Bxd4 cxd4 29. Qd3 c5 30. hxg7 Bxg7 31. f4 Qd8 32. Qh3 Bc8 33. Nh6+ Bxh6 34.
+Qxh6 Qf8 35. Qh4 Bb7 36. Qg5+ Qg7 37. Qxg7+ Kxg7 38. f5 exf5 39. Rxf5 Be4 40.
+Rg5+ Bg6 41. e6 f5 42. Rg3 Kf6 43. Re1 Re8 44. b4 cxb4 45. Rd3 Rxe6 46. Rxe6+
+Kxe6 47. Rxd4 f4 48. Rxf4 Bb1 49. Rf2 a5 50. Rd2 a4 51. Rb2 1-0
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Garcia Acosta, Roger"]
+[Black "Garcia Burguillo, Javier"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1752"]
+[PlyCount "46"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 Nc6 7. Bf4 e6 8.
+Qd2 O-O-O 9. Be3 e5 10. O-O Bxf3 11. Bxf3 exd4 12. Bxc6 bxc6 13. Ne2 Qxd2 14.
+Bxd2 c5 15. b3 g6 16. Nf4 Nd5 17. Nd3 Nb4 18. Bxb4 cxb4 19. Ne5 Rg8 20. Nxf7
+Rd5 21. f4 Bg7 22. Ng5 d3 23. Rad1 Bd4+ 1/2-1/2
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Garrido Piriz, Pablo"]
+[Black "Calle Moreau, Sergio"]
+[Result "1/2-1/2"]
+[ECO "B77"]
+[WhiteElo "1641"]
+[BlackElo "1954"]
+[PlyCount "83"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. f3 Bd7 10. Qd2 Nxd4 11. Bxd4 b5 12. h4 h5 13. Nd5 Nxd5 14. Bxg7 Kxg7
+15. Bxd5 Rc8 16. c3 Qb6 17. Rd1 Kh7 18. Qe2 b4 19. Rc1 Bb5 20. Qd2 Bd7 21. Bb3
+a5 22. Bd1 bxc3 23. Rxc3 Rxc3 24. Qxc3 Rc8 25. Qd2 Qb7 26. b3 Rc5 27. O-O Be6
+28. Bc2 Qc7 29. Bd3 d5 30. Re1 dxe4 31. Bxe4 Bf5 32. Bxf5 Rxf5 33. Qf2 Rc5 34.
+Qe3 e6 35. Qd4 Rd5 36. Qc4 Qb6+ 37. Kf1 Rd2 38. Re2 Rd1+ 39. Re1 Rd2 40. Re2
+Rd1+ 41. Re1 Rd2 42. Re2 1/2-1/2
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Gonzalez Benavides, Jose Antonio"]
+[Black "Garcia Mayorga, Jose Manuel"]
+[Result "1-0"]
+[ECO "B10"]
+[BlackElo "1607"]
+[PlyCount "95"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. cxd5 Nxd5 6. Nf3 Nc6 7. Bb5 Bg4 8.
+Bc4 e6 9. O-O Be7 10. h3 Bh5 11. Nxd5 exd5 12. Be2 O-O 13. d4 Bf6 14. Be3 Qb6
+15. b3 Rfd8 16. g4 Bg6 17. Bd3 Be4 18. Ng5 Bxg5 19. Bxg5 f6 20. Be3 Nxd4 21. f3
+Bxf3 22. Rxf3 Nxf3+ 23. Qxf3 Qe6 24. Rd1 a6 25. Bf2 Qe5 26. Bb6 Re8 27. Qg2
+Rac8 28. Kh1 Rc6 29. Bd4 Qd6 30. Bg1 Kh8 31. Bc4 Qf4 32. Rxd5 Rec8 33. Rd4 Qe5
+34. Rd5 Qa1 35. Bf1 Rc1 36. Bd3 Rd1 37. Bc4 Rxd5 38. Bxd5 Rb8 39. Bxb7 a5 40.
+Ba6 g6 41. Bc4 Kg7 42. a4 Qc3 43. Qd5 Qxh3+ 44. Bh2 Rf8 45. Qd7+ Kh6 46. Qd2+
+Kg7 47. Qd7+ Kh6 48. g5+ 1-0
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Moreno Ibanez, Miguel"]
+[Black "Montoliu Cervero, Francisco"]
+[Result "1/2-1/2"]
+[ECO "B78"]
+[BlackElo "1852"]
+[PlyCount "41"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O a6 11. Bb3 b5 12. h4 Ne5 13. g4 Nc4 14. Bxc4 bxc4 15.
+h5 Rb8 16. hxg6 fxg6 17. g5 Nh5 18. Rxh5 Qe8 19. Rdh1 gxh5 20. f4 Bg4 21. f5
+1/2-1/2
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Navarrete Espi, Samuel"]
+[Black "Chao Vale, Fernando"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "1810"]
+[BlackElo "1561"]
+[PlyCount "67"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. Nc3 Qc7 8. f4 Ne7 9.
+h5 Bc8 10. c5 Nd7 11. Be3 b6 12. Qd2 Ng8 13. b4 Ne7 14. Nf3 Bb7 15. b5 bxc5 16.
+dxc5 Qc8 17. a4 Ng8 18. Qf2 cxb5 19. Nxb5 a6 20. Nd6+ Bxd6 21. exd6 Ngf6 22.
+Ne5 Nxe5 23. fxe5 Nxg4 24. Qg3 Nxe3 25. Qxe3 d4 26. Qg1 Bxh1 27. Qxh1 Kd7 28.
+Rb1 Ra7 29. Rc1 Ke8 30. c6 Kf8 31. c7 Rxc7 32. dxc7 Ke7 33. Qc6 f6 34. Bxa6 1-0
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Ordonez Torres, Maria del Carmen"]
+[Black "Alonso Vara, Maria"]
+[Result "0-1"]
+[ECO "B85"]
+[PlyCount "72"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Be3 Be7 8. O-O
+O-O 9. a4 Nc6 10. f4 Qc7 11. Qe1 Nxd4 12. Bxd4 e5 13. Be3 exf4 14. Rxf4 Be6 15.
+Bd3 Rfe8 16. Bd4 Nd7 17. Rf1 Ne5 18. Qg3 Ng6 19. Nd5 Bxd5 20. exd5 Bf8 21. Rae1
+Rad8 22. Qf2 Rxe1 23. Rxe1 Qd7 24. Bb6 Re8 25. Rxe8 Qxe8 26. b3 Ne5 27. Qe3 Qe7
+28. Bf5 Qe8 29. c4 g6 30. Bc2 Bg7 31. c5 Nf3+ 32. gxf3 Qxe3+ 33. Kf1 Qc1+ 34.
+Kf2 Qxc2+ 35. Kg3 dxc5 36. d6 Be5+ 0-1
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Rojano Alfonso, Carlos"]
+[Black "Abal Cores, Lucas"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1884"]
+[BlackElo "1566"]
+[PlyCount "68"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Bc4 e6 6. Bd2 Qc7 7. Nf3 Nf6 8.
+Qe2 Nbd7 9. d5 cxd5 10. Nxd5 Nxd5 11. Bxd5 Nb6 12. Bb3 Bd6 13. Bc3 O-O 14.
+O-O-O Bd7 15. Ne5 Ba4 16. Ng4 Rad8 17. Nf6+ Kh8 18. g3 Bxb3 19. Qe4 Bxc2 20.
+Kxc2 gxf6 21. Kb1 Be7 22. Rc1 Nd5 23. Qxd5 Qxc3 24. Qxb7 Qd3+ 25. Ka1 Rd7 26.
+Qc6 Rfd8 27. Qa4 f5 28. Rb1 Bf6 29. a3 Qf3 30. Rhf1 Rd3 31. Ka2 Qd5+ 32. Ka1
+Qb3 33. Qxb3 Rxb3 34. Ka2 Rf3 0-1
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Sanchez Dengra, Jose Maria"]
+[Black "Ruiz Font, Elisabet"]
+[Result "1/2-1/2"]
+[ECO "B77"]
+[BlackElo "1822"]
+[PlyCount "40"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. f3 Bd7 10. Qd2 Nxd4 11. Bxd4 b5 12. O-O-O a5 13. e5 dxe5 14. Bxe5 Bc6
+15. Qe2 Qb6 16. Nd5 Bxd5 17. Bxd5 Rac8 18. Rhe1 Rfd8 19. Bd4 Rf8 20. Be5 e6
+1/2-1/2
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Santos Latasa, Jaime"]
+[Black "Delgado Osorio, Xavier"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2052"]
+[BlackElo "1897"]
+[PlyCount "115"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Bc4 e6 7. Bd2 c6 8.
+Nd5 Qd8 9. Nxf6+ gxf6 10. c3 Nd7 11. Qe2 Nb6 12. Bb3 Qc7 13. Nh4 Bg6 14. O-O-O
+O-O-O 15. g3 Bd6 16. Nxg6 hxg6 17. h4 Rh7 18. Kb1 c5 19. dxc5 Bxc5 20. Qf3 Qe7
+21. Be3 Rxd1+ 22. Rxd1 Bxe3 23. Qxe3 Rh8 24. Qd4 Rd8 25. Qxd8+ Qxd8 26. Rxd8+
+Kxd8 27. Kc2 Ke7 28. Kd3 f5 29. a4 Kd6 30. Bc2 Nd7 31. Kd4 Nf6 32. f3 e5+ 33.
+Ke3 Nd5+ 34. Kd3 Nf6 35. Bb3 Ke7 36. Ke3 Nh5 37. Kf2 Nf6 38. Bc4 b6 39. Be2 Nh5
+40. b4 Nf6 41. Bc4 e4 42. f4 Ng4+ 43. Ke2 Kf6 44. Bd5 Ke7 45. Bc4 Kf6 46. Bb3
+Ke7 47. c4 Nh6 48. c5 bxc5 49. b5 Kd6 50. a5 Kc7 51. Bd5 f6 52. Kd2 Kb8 53. Kc3
+Ng4 54. Bf7 Ne3 55. Bxg6 Nd5+ 56. Kc2 c4 57. h5 e3 58. h6 1-0
+
+[Event "ESP-ch U12"]
+[Site "Padron"]
+[Date "2008.07.09"]
+[Round "6"]
+[White "Suarez Garcia, Carlos"]
+[Black "Rubio Tent, Francisco"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1932"]
+[BlackElo "1836"]
+[PlyCount "117"]
+[EventDate "2008.07.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be2 Bf5 7. O-O e6 8.
+Nh4 Bg6 9. Nxg6 hxg6 10. g3 Qc7 11. Re1 Nbd7 12. Bf3 O-O-O 13. Ne4 Nxe4 14.
+Bxe4 Nf6 15. Bf3 Be7 16. c3 Rd7 17. Qa4 Kb8 18. Qc2 Rhd8 19. a4 a5 20. Kg2 Nd5
+21. Bxd5 cxd5 22. Bf4 Bd6 23. Bxd6 Rxd6 24. Qd3 Rb6 25. Reb1 Rc8 26. Ra3 Qd6
+27. Qd2 Rc4 28. Qf4 Qxf4 29. gxf4 Kc7 30. Kf3 Kd6 31. Ke3 Rc8 32. b4 axb4 33.
+Rxb4 Rxb4 34. cxb4 Rh8 35. b5 Rh3+ 36. f3 Rh8 37. a5 Ra8 38. Kd3 Kc7 39. Kc3
+Kd6 40. Kb4 Kc7 41. b6+ Kc6 42. Rc3+ Kd6 43. Kb5 f6 44. Rc7 e5 45. fxe5+ fxe5
+46. dxe5+ Ke6 47. Rxb7 d4 48. Ra7 Rb8 49. Kc4 Kxe5 50. Re7+ Kd6 51. Rxg7 d3 52.
+Rxg6+ Kd7 53. Kxd3 Rd8 54. a6 Kc8+ 55. Kc4 Kb8 56. Kc5 Rc8+ 57. Kb5 Rf8 58. a7+
+Ka8 59. Ka6 1-0
+
+[Event "GRE-ch 36th"]
+[Site "Kallithea"]
+[Date "2008.07.09"]
+[Round "6.4"]
+[White "Markidis, Konstantinos"]
+[Black "Papadopoulos, Nikolaos"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2315"]
+[BlackElo "2109"]
+[PlyCount "1"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Kavalas OFS"]
+[BlackTeam "Herakliou Attikis"]
+[WhiteTeamCountry "GRE"]
+[BlackTeamCountry "GRE"]
+
+1. e4 1-0
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]
+[Round "1.9"]
+[White "Willemze, Thomas"]
+[Black "Kryvoruchko, Yuriy"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2398"]
+[BlackElo "2628"]
+[PlyCount "95"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+[WhiteTeam "Kallitheas"]
+[BlackTeam "Chanion"]
+[WhiteTeamCountry "GRE"]
+[BlackTeamCountry "GRE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Nc3 Nc6 8.
+O-O Nf6 9. Qe2 d6 10. Be3 b5 11. a4 b4 12. Nd1 O-O 13. Kh1 Na5 14. Nd2 e5 15.
+Bg5 Nc6 16. Nb3 Nd4 17. Nxd4 Bxd4 18. Ne3 h6 19. Bxf6 Qxf6 20. Nd5 Qd8 21. Nxb4
+Bxb2 22. Rab1 Bc3 23. Nd5 Bd4 24. c3 Bc5 25. f4 exf4 26. Rxf4 a5 27. Bc4 Be6
+28. Rb7 Rb8 29. Rxb8 Qxb8 30. Rf1 Qd8 31. Nf4 Bxc4 32. Qxc4 Qg5 33. Nd3 Be3 34.
+Rf3 Bb6 35. Qc6 Bc5 36. Qb5 Be3 37. Qc4 Bd2 38. Rf5 Qe3 39. Rf3 Qa7 40. h3 Rb8
+41. Rf1 Qe7 42. Qd4 Rc8 43. c4 Bg5 44. Qd5 Qc7 45. Rb1 Qxc4 46. Rb8 Qa6 47. Qb5
+Rxb8 48. Qxa6 1-0
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]
+[Round "1.6"]
+[White "Lianas, Ioannis"]
+[Black "Tsivelekidis, Georgios"]
+[Result "0-1"]
+[ECO "B84"]
+[BlackElo "2132"]
+[PlyCount "91"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+[WhiteTeam "Herakliou SO"]
+[BlackTeam "Triandrias"]
+[WhiteTeamCountry "GRE"]
+[BlackTeamCountry "GRE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. f4 Nf6 6. Nc3 e6 7. Be2 b5 8. a3
+Bb7 9. Bf3 Nbd7 10. O-O Qc7 11. Qe2 Be7 12. Kh1 O-O 13. Nb3 Rac8 14. Be3 Nb6
+15. Bxb6 Qxb6 16. Rad1 Rfd8 17. Rd3 a5 18. e5 Bxf3 19. Rdxf3 Ne8 20. Nxb5 a4
+21. N3d4 dxe5 22. fxe5 Rxd4 23. Nxd4 Qxd4 24. Rxf7 Bc5 25. Qf3 h6 26. Qh5 Qxb2
+27. Rd7 Qxc2 28. Qf7+ Kh7 29. Qxe6 Bxa3 30. h3 Bb4 31. Rff7 Qc1+ 32. Kh2 Qg5
+33. Rf5 Qg6 34. Rf6 Nxf6 35. exf6 Rg8 36. Qe5 Kh8 37. f7 Rf8 38. Qc7 Kh7 39.
+Qb7 Bd6+ 40. Kg1 a3 41. Qd5 Qb1+ 42. Kf2 Bb4 43. Ra7 Qe1+ 44. Kf3 Qf1+ 45. Kg4
+Qe2+ 46. Kg3 0-1
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]
+[Round "1.3"]
+[White "Prentos, Konstantinos"]
+[Black "Georgiev, Krum"]
+[Result "0-1"]
+[ECO "B56"]
+[WhiteElo "2271"]
+[BlackElo "2446"]
+[PlyCount "66"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+[WhiteTeam "Kalamarias"]
+[BlackTeam "Thes/Nikis o Galaxias"]
+[WhiteTeamCountry "GRE"]
+[BlackTeamCountry "GRE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bd7 6. Be2 e6 7. Be3 Bc6 8. f3
+Be7 9. Qd2 O-O 10. g4 a6 11. g5 Nfd7 12. O-O-O b5 13. Bd3 Bb7 14. h4 Nc5 15.
+Rdg1 Nbd7 16. h5 Rc8 17. Kb1 Ne5 18. g6 Bf6 19. f4 b4 20. h6 fxg6 21. Qh2 Rf7
+22. hxg7 Rxg7 23. fxe5 dxe5 24. Nce2 exd4 25. e5 dxe3 26. exf6 Qxf6 27. Rf1 Qe7
+28. Rhg1 Nxd3 29. cxd3 Qd7 30. Rd1 Qc7 31. Qxc7 Rgxc7 32. Rg3 Rc2 33. Rxe3 Rxe2
+0-1
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]
+[Round "1.2"]
+[White "Tsekouras, Theodoros"]
+[Black "Banikas, Hristos"]
+[Result "0-1"]
+[ECO "B49"]
+[WhiteElo "2204"]
+[BlackElo "2572"]
+[PlyCount "152"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+[WhiteTeam "Kalamatas o Poseidon"]
+[BlackTeam "Kydon Chanion"]
+[WhiteTeamCountry "GRE"]
+[BlackTeamCountry "GRE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. Be2 a6 7. Be3 b5 8.
+Nxc6 Qxc6 9. e5 Bb7 10. Bf3 Qc7 11. Bxb7 Qxb7 12. O-O Ne7 13. Qd3 Rc8 14. f4
+Nf5 15. Bf2 h5 16. Ne4 Be7 17. Rad1 Qc6 18. c3 O-O 19. Rfe1 Rfd8 20. Qe2 g6 21.
+Rd3 d6 22. exd6 Nxd6 23. Nxd6 Rxd6 24. Bd4 Rd5 25. Red1 Rcd8 26. Qe4 R8d6 27.
+Rg3 Kf8 28. Rf1 Ke8 29. h3 h4 30. Re3 Rf5 31. Qxc6+ Rxc6 32. Re5 Bf6 33. Re4
+Rc4 34. Rd1 Rd5 35. Kf2 Kd7 36. Ke3 Ra4 37. Rd2 Bxd4+ 38. Rexd4 Rxa2 39. Rxd5+
+exd5 40. Rxd5+ Kc6 41. Rd2 a5 42. Kd3 a4 43. Rc2 Kc5 44. Re2 Kd6 45. Rd2 Ra1
+46. Kc2+ Kc5 47. Rf2 Kd5 48. Kd3 Rd1+ 49. Ke2 Rg1 50. Kd3 Re1 51. Kd2 Ra1 52.
+Kd3 Ra2 53. Rd2 a3 54. bxa3 Rxa3 55. Kc2+ Kc6 56. Kb2 Ra4 57. Rf2 Kd5 58. f5 g5
+59. Kb3 f6 60. Rd2+ Kc5 61. Rf2 Re4 62. Kc2 Kc4 63. Kd2 Re8 64. Rf3 Ra8 65. g3
+Ra2+ 66. Kd1 hxg3 67. Rxg3 Rf2 68. Ke1 Rxf5 69. Ke2 Rf4 70. Re3 Rf5 71. Rg3
+Re5+ 72. Kd2 Rd5+ 73. Kc2 Rf5 74. Rg4+ Kd5 75. Rd4+ Ke6 76. Kd2 Rd5 0-1
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]
+[Round "1.1"]
+[White "Katsiris, Ioannis"]
+[Black "Papaioannou, Ioannis"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2136"]
+[BlackElo "2591"]
+[PlyCount "142"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. dxc5 Qxc5 7. Na3 Nbd7 8.
+Be3 Qc8 9. Be2 a6 10. O-O e6 11. Nc4 Bxf3 12. gxf3 Nd5 13. f4 b5 14. Nd2 Be7
+15. Bf3 N7f6 16. Ne4 Nxe4 17. Bxe4 Nxe3 18. fxe3 Rb8 19. Qf3 O-O 20. Rac1 g6
+21. b3 Bc5 22. c4 b4 23. Kh1 Qd8 24. Rcd1 Qf6 25. Bb1 Rbd8 26. e4 Rxd1 27. Rxd1
+Rd8 28. Rxd8+ Qxd8 29. Qd3 Qf6 30. f5 Qg5 31. Qf1 e5 32. h3 Qe3 33. fxg6 hxg6
+34. Bd3 Kg7 35. Kg2 Qg5+ 36. Kh2 Qd2+ 37. Qe2 Qc1 38. Qf1 Qe3 39. Kh1 a5 40.
+Kg2 Qg5+ 41. Kh2 Qd2+ 42. Qe2 Qc1 43. Qf1 Qb2+ 44. Qe2 Qa1 45. Qg2 Be3 46. Bf1
+Qb1 47. Kh1 Kf8 48. Qf3 Bd4 49. Qe2 Qc1 50. Kh2 Qg5 51. Qg4 Qe3 52. Qg2 Bc5 53.
+Kh1 Ke7 54. h4 Kf8 55. Be2 Be7 56. h5 gxh5 57. Bxh5 Qe1+ 58. Kh2 Qh4+ 59. Qh3
+Qxe4 60. Qf3 Qxf3 61. Bxf3 f5 62. Bd5 Kg7 63. Kg3 Kf6 64. Kf3 Bc5 65. Bb7 e4+
+66. Kf4 Bd6+ 67. Ke3 Ke5 68. Bc6 Bc5+ 69. Ke2 f4 70. Be8 f3+ 71. Ke1 Kf4 0-1
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]
+[Round "1.1"]
+[White "Selianiti, Eleana"]
+[Black "Nemcova, Katerina"]
+[Result "0-1"]
+[ECO "B71"]
+[BlackElo "2372"]
+[PlyCount "100"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Bb5 Bd7 8.
+Nxc6 Bxc6 9. Bxc6+ bxc6 10. Be3 Qa5 11. O-O Bg7 12. Rb1 O-O 13. h3 Rab8 14. Qd3
+Nd7 15. a3 Rb7 16. Nd1 Nc5 17. Bxc5 Qxc5+ 18. Kh1 a5 19. c3 a4 20. Re1 Rfb8 21.
+Re2 Rb3 22. Rc1 Bh6 23. g3 e5 24. Qf3 Rd8 25. Rcc2 Rb7 26. Qf2 Qxf2 27. Rxf2
+exf4 28. gxf4 Re7 29. Rce2 Rde8 30. Rd2 Rxe4 31. Rxd6 Bf8 32. Rd3 Bc5 33. Rf1
+Re2 34. c4 Ba7 35. Nc3 Rc2 36. Rfd1 Rxb2 37. Nxa4 Rc2 38. Rc3 Rf2 39. c5 Rxf4
+40. Nb6 Rf2 41. Rcc1 Rf3 42. a4 Rxh3+ 43. Kg2 Ra3 44. Rd4 Bxb6 45. cxb6 Re2+
+46. Kf1 Rb2 47. Rd8+ Kg7 48. Rb8 Rxa4 49. b7 Ra7 50. Rc8 Raxb7 0-1
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]
+[Round "1.2"]
+[White "Kiriakopoulos, Antonios"]
+[Black "Souleidis, Georgios"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2055"]
+[BlackElo "2431"]
+[PlyCount "86"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3 c4 7. Bc2 Qc7 8. Qe2
+g5 9. e6 fxe6 10. Nxg5 Qe5 11. d4 cxd3 12. Bxd3 Qxe2+ 13. Bxe2 d6 14. Na3 a6
+15. Nc4 Nxc4 16. Bxc4 d5 17. Be2 Bg7 18. O-O O-O 19. Bg4 Rf6 20. f4 e5 21. f5
+h6 22. Ne6 Bxe6 23. fxe6 Raf8 24. Be3 d4 25. cxd4 exd4 26. Bd2 Ne5 27. Rxf6
+Bxf6 28. Bf3 Nxf3+ 29. gxf3 Rc8 30. Rc1 Rxc1+ 31. Bxc1 Kg7 32. Kf2 Kg6 33. Ke2
+h5 34. Kd3 Kf5 35. b4 Kxe6 36. Ke4 Kd6 37. f4 e6 38. Bb2 d3 39. Be5+ Bxe5 40.
+fxe5+ Kc6 41. Kxd3 Kd5 42. b5 axb5 43. Kc3 Kxe5 0-1
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]
+[Round "1.2"]
+[White "Sandalakis, Angelos"]
+[Black "Diamanteas, Petros"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2341"]
+[PlyCount "27"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 b6 3. Nf3 Bb7 4. Bd3 c5 5. O-O c4 6. Bxc4 Bxe4 7. Nc3 Bb7 8. d5
+Qc7 9. Qd3 a6 10. Rd1 b5 11. Bb3 h6 12. dxe6 dxe6 13. Bf4 Qc8 14. Bxe6 1-0
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]
+[Round "1.3"]
+[White "Kotronia, Antonia"]
+[Black "Hrisoglou, Sofia"]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[WhiteElo "1752"]
+[BlackElo "1564"]
+[PlyCount "124"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O d4 12. Ne2 Bg4 13. f3 Be6 14. Nf4 Bd7
+15. Re1 Qb6 16. b4 Rfe8 17. Bb2 a6 18. Qd2 Rad8 19. Kh1 Be6 20. Nxe6 fxe6 21.
+Qf2 Qc7 22. Bc4 Qd6 23. Rad1 Kh8 24. f4 Nd5 25. Bxd4 Qxf4 26. Bxd5 Qxf2 27.
+Bxf2 exd5 28. Rxe8+ Rxe8 29. Rxd5 Re2 30. Bc5 Rxc2 31. Rd7 Rc1+ 32. Bg1 Kg8 33.
+h3 Ra1 34. Rxb7 Rxa3 35. Bc5 Rb3 36. Rb6 Ne5 37. Rxa6 Nd3 38. Rb6 Nb2 39. Rb8+
+Kf7 40. Rb7+ Kg8 41. Bd4 g6 42. Rg7+ Kf8 43. Rxh7 Nd3 44. Bc5+ Kg8 45. Rh4 Kf7
+46. Rg4 Kf6 47. h4 Kf5 48. Rg5+ Kf6 49. b5 Nf4 50. Bd4+ Kf7 51. Bf2 Nd3 52. Bg1
+Nf4 53. b6 Ne2 54. Bf2 Nc3 55. Ra5 Ne4 56. Ra7+ Kf6 57. Bd4+ Kf5 58. Re7 Nd6
+59. Be5 Nc8 60. b7 Nxe7 61. b8=Q Rxb8 62. Bxb8 Kg4 1/2-1/2
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]
+[Round "1.4"]
+[White "Nikomanis, Andreas"]
+[Black "Mastrovasilis, Athanasios"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "1984"]
+[BlackElo "2518"]
+[PlyCount "58"]
+[EventDate "2008.07.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O Bc5 8.
+Nb3 Be7 9. f4 d6 10. Be3 Nbd7 11. Qf3 b6 12. Qg3 h5 13. f5 e5 14. Kh1 Bb7 15.
+Nd2 b5 16. Bg1 Kf8 17. Qf3 Nb6 18. a4 b4 19. a5 Nbd7 20. Na2 d5 21. exd5 Bxd5
+22. Qe2 Qb7 23. c3 h4 24. h3 Nh5 25. Bh2 Ndf6 26. Nxb4 Bxb4 27. cxb4 Ng3+ 28.
+Bxg3 hxg3 29. Kg1 Qa7+ 0-1
+
+[Event "GRE-chT 36th"]
+[Site "Kallithea"]
+[Date "2008.07.06"]

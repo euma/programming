@@ -1,0 +1,600 @@
+[Site "Ekaterinburg"]
+[Date "2008.03.21"]
+[Round "7"]
+[White "Ogloblin, Nikolay"]
+[Black "Pridorozhni, Aleksei"]
+[Result "1/2-1/2"]
+[ECO "D28"]
+[WhiteElo "2369"]
+[BlackElo "2510"]
+[PlyCount "33"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 e6 5. Bxc4 Nf6 6. O-O c5 7. Qe2 cxd4 8. Rd1
+Nc6 9. exd4 Be7 10. Nc3 Nb4 11. Bg5 O-O 12. Ne5 b5 13. Bb3 Bb7 14. a4 bxa4 15.
+Bxa4 Nfd5 16. Bc1 Nf6 17. Bg5 1/2-1/2
+
+[Event "Ekaterinburg UrFO-ch"]
+[Site "Ekaterinburg"]
+[Date "2008.03.21"]
+[Round "7"]
+[White "Ovetchkin, Roman"]
+[Black "Vokarev, Sergey"]
+[Result "1-0"]
+[ECO "D87"]
+[WhiteElo "2556"]
+[BlackElo "2502"]
+[PlyCount "121"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Qc7 11. Rc1 Rd8 12. Qd2 Qa5 13. Qb2 Qb6 14. Qxb6
+axb6 15. Rfd1 Bd7 16. dxc5 Na5 17. Bb3 b5 18. Nd4 Nc4 19. Bxc4 bxc4 20. Rd2 e5
+21. Nf3 Bc6 22. Rxd8+ Rxd8 23. Nd2 Ra8 24. Rc2 Ra4 25. g4 f6 26. f3 Kf7 27. Kf2
+Ke6 28. Ke1 Kd7 29. Rb2 Kc7 30. Kd1 Ra3 31. Nxc4 Rxc3 32. Rb4 Bb5 33. Rxb5 Rxc4
+34. Ra5 f5 35. gxf5 gxf5 36. exf5 Rh4 37. Bg1 Rf4 38. Ke2 Rxf5 39. Ra4 h5 40.
+Be3 Bf6 41. Ra8 Bg5 42. Bf2 Bf4 43. h4 Rf6 44. a4 Rg6 45. a5 Rf6 46. Rh8 Rf5
+47. Be1 Bc1 48. Bf2 Bf4 49. Rg8 Rf6 50. Rg7+ Kc6 51. Re7 Bh2 52. Rh7 Rf5 53.
+Rh6+ Kc7 54. c6 bxc6 55. a6 e4 56. fxe4 Ra5 57. Rh7+ Kd6 58. a7 Ra2+ 59. Kf3
+Be5 60. Rxh5 Ra3+ 61. Kg4 1-0
+
+[Event "Ekaterinburg UrFO-ch"]
+[Site "Ekaterinburg"]
+[Date "2008.03.21"]
+[Round "7"]
+[White "Rassokhina, Ekaterina"]
+[Black "Akimov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2032"]
+[BlackElo "2401"]
+[PlyCount "78"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 a6 5. Nc3 b5 6. b3 Bg4 7. Be2 Nbd7 8. O-O e6
+9. a4 b4 10. Nb1 a5 11. Nbd2 Bd6 12. Bb2 O-O 13. Qc2 Qe7 14. Rae1 c5 15. Ne5
+Bxe2 16. Rxe2 Rfc8 17. Nxd7 Nxd7 18. e4 dxc4 19. Nxc4 cxd4 20. Bxd4 Ne5 21.
+Bxe5 Bxe5 22. Rd1 Qc7 23. g3 Bc3 24. Re3 e5 25. Nd6 Bd4 26. Qxc7 Rxc7 27. Nb5
+Rd7 28. Nxd4 Rc8 29. Red3 Rc3 30. R3d2 exd4 31. Rxd4 Rxd4 32. Rxd4 g6 33. Rd5
+Rxb3 34. Rxa5 Ra3 35. Ra8+ Kg7 36. a5 b3 37. Rb8 h5 38. Kg2 Rxa5 39. Rxb3 Ra2
+1/2-1/2
+
+[Event "Ekaterinburg UrFO-ch"]
+[Site "Ekaterinburg"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Gabdullin, Mikhail"]
+[Black "Logachev, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2224"]
+[PlyCount "49"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 c5 3. c3 cxd4 4. cxd4 Nc6 5. Nc3 Bg4 6. h3 Bxf3 7. exf3 e6 8.
+Be3 Bd6 9. Bd3 Nge7 10. O-O O-O 11. Rc1 e5 12. Ne2 exd4 13. Nxd4 Be5 14. Bb5
+Nxd4 15. Bxd4 Bxd4 16. Qxd4 Qa5 17. a4 a6 18. b4 Qd8 19. Bd3 Qd6 20. b5 axb5
+21. axb5 Rfc8 22. Rxc8+ Rxc8 23. Re1 b6 24. g3 Ng6 25. f4 1/2-1/2
+
+[Event "Ekaterinburg UrFO-ch"]
+[Site "Ekaterinburg"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Lobanov, Andrey"]
+[Black "Yuferev, Oleg"]
+[Result "0-1"]
+[ECO "D24"]
+[WhiteElo "2084"]
+[BlackElo "2294"]
+[PlyCount "70"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. a4 Nc6 6. d5 Na5 7. Bg5 h6 8. Bxf6
+exf6 9. Nd2 Bb4 10. e4 Qe7 11. Be2 Bd7 12. O-O b5 13. Qc2 O-O 14. Rfb1 Rfe8 15.
+Bf3 Qe5 16. g3 f5 17. Re1 fxe4 18. Rxe4 Bf5 19. Rxe5 Bxc2 20. Rxe8+ Rxe8 21.
+axb5 axb5 22. Nf1 Rb8 23. d6 cxd6 24. Nd5 Nb3 25. Ra6 Bc5 26. Nfe3 Bd3 27. Nf5
+Nd4 28. Nxd4 Bxd4 29. Ne7+ Kh7 30. Nc6 Re8 31. Bd5 Bc5 32. b4 cxb3 33. Bxb3
+Re1+ 34. Kg2 b4 35. Nxb4 Bxb4 0-1
+
+[Event "Ekaterinburg UrFO-ch"]
+[Site "Ekaterinburg"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Yuzhakov, Oleg"]
+[Black "Shcherbin, Matvei"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2303"]
+[BlackElo "2232"]
+[PlyCount "47"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Bf5 4. f3 c5 5. dxc5 d4 6. e4 dxc3 7. Qxd8+ Kxd8 8.
+exf5 cxb2 9. Rb1 Nbd7 10. Rxb2 Nxc5 11. Bc4 e6 12. fxe6 fxe6 13. Ne2 Bd6 14.
+O-O a6 15. Nd4 Kd7 16. Rd1 Rhe8 17. Bf4 Na4 18. Bxe6+ Rxe6 19. Nxe6 Ne8 20.
+Nc5+ Kc6 21. Nxa4 Bxf4 22. Rb3 Be5 23. Nb6 Rb8 24. Nd7 1-0
+
+[Event "Ekaterinburg UrFO-ch"]
+[Site "Ekaterinburg"]
+[Date "2008.03.23"]
+[Round "9"]
+[White "Ogloblin, Nikolay"]
+[Black "Efanov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2369"]
+[BlackElo "2348"]
+[PlyCount "136"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Bd3 Nbd7 6. O-O Bd6 7. Nc3 dxc4 8.
+Bxc4 b5 9. Bd3 b4 10. Ne4 Nxe4 11. Bxe4 Bb7 12. Bd2 O-O 13. Qa4 f5 14. Bd3 c5
+15. Qd1 Bd5 16. Qe2 cxd4 17. exd4 Rc8 18. Rfe1 Qf6 19. Ne5 Nxe5 20. dxe5 Qg6
+21. f3 Bc5+ 22. Be3 Qg5 23. a3 Bxe3+ 24. Qxe3 Qxe3+ 25. Rxe3 bxa3 26. Rxa3 Rc1+
+27. Kf2 Rb8 28. Re2 Rc7 29. Ra5 g6 30. Rb5 Rxb5 31. Bxb5 g5 32. Rd2 Rc5 33. Bd3
+Bb3 34. Re2 a5 35. Kg3 Kf7 36. f4 Rd5 37. Ba6 h6 38. Re3 a4 39. Rd3 Rc5 40. Rd2
+Ke7 41. h4 gxf4+ 42. Kxf4 Ra5 43. Bb7 Rb5 44. Bc6 Rb4+ 45. Kg3 Rg4+ 46. Kh3 Rc4
+47. Bf3 Rc5 48. Re2 Bd1 49. Re3 Bxf3 50. gxf3 Rc2 51. Ra3 Rxb2 52. Rxa4 Rb5 53.
+Ra7+ Kf8 54. Rh7 Rxe5 55. Kg3 Kg8 56. Rxh6 Kg7 57. Kf4 Re1 58. Rh5 Kg6 59. Rg5+
+Kf6 60. Rh5 e5+ 61. Kg3 Re3 62. Kf2 Ra3 63. Rh6+ Kf7 64. Rb6 e4 65. fxe4 fxe4
+66. Rb4 Kg6 67. Rxe4 Kh5 68. Kg2 Rb3 1/2-1/2
+
+[Event "Ekaterinburg UrFO-ch"]
+[Site "Ekaterinburg"]
+[Date "2008.03.23"]
+[Round "9"]
+[White "Patrushev, Konstantin"]
+[Black "Sladkov, Alexei"]
+[Result "1/2-1/2"]
+[ECO "D93"]
+[BlackElo "2183"]
+[PlyCount "18"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 g6 4. e3 Bg7 5. c4 c6 6. Nc3 O-O 7. Qb3 Qa5 8. Bd3
+Na6 9. h3 dxc4 1/2-1/2
+
+[Event "Ekaterinburg UrFO-ch"]
+[Site "Ekaterinburg"]
+[Date "2008.03.23"]
+[Round "9"]
+[White "Rassokhina, Ekaterina"]
+[Black "Gabdullin, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2032"]
+[BlackElo "2224"]
+[PlyCount "58"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Nbd2 dxc4 6. Nxc4 b5 7. Nce5 Be7 8.
+Bd3 Nfd7 9. Bd2 Bb7 10. b4 a5 11. a3 axb4 12. axb4 Nxe5 13. Nxe5 Rxa1 14. Qxa1
+f6 15. Nf3 Na6 16. Qb1 Qd6 17. O-O g6 18. Qb3 Nxb4 19. Bxb4 Qxb4 20. Qxe6 Qd6
+21. Qb3 Bc8 22. Rc1 Be6 23. Qc2 Kf7 24. Nd2 Rd8 25. Ne4 Qa3 26. Qd1 Bb3 27. Bc2
+Bc4 28. Ra1 Qb2 29. Rb1 Qa3 1/2-1/2
+
+[Event "Ekaterinburg UrFO-ch"]
+[Site "Ekaterinburg"]
+[Date "2008.03.23"]
+[Round "9"]
+[White "Solovjev, Nikolay1"]
+[Black "Gusjkov, Yuri P"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2328"]
+[BlackElo "2308"]
+[PlyCount "51"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bf4 e6 3. Nf3 c5 4. c3 d5 5. e3 Nc6 6. Ne5 Nxe5 7. dxe5 Nd7 8. Nd2
+Be7 9. Bd3 Nf8 10. h4 Bd7 11. Qg4 Rg8 12. e4 Qb6 13. O-O-O Rc8 14. h5 c4 15.
+Bc2 Qa5 16. exd5 exd5 17. Bf5 Qxa2 18. Nb1 Be6 19. Bxe6 fxe6 20. Rxd5 Rc6 21.
+Rd2 Nd7 22. b4 Qa4 23. Rhd1 Nb6 24. Rd6 Kf7 25. Qxe6+ Kf8 26. Rd8+ 1-0
+
+[Event "Ekaterinburg UrFO-ch"]
+[Site "Ekaterinburg"]
+[Date "2008.03.23"]
+[Round "9"]
+[White "Yuferev, Oleg"]
+[Black "Zakharov, Sergei D"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2294"]
+[BlackElo "2385"]
+[PlyCount "134"]
+[EventDate "2008.03.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 c6 5. Nbd2 b6 6. Bg2 a5 7. O-O Ba6 8. Qc2
+Be7 9. b3 Nbd7 10. e4 Rc8 11. e5 Ng4 12. Re1 c5 13. cxd5 cxd4 14. Qe4 f5 15.
+exf6 Ngxf6 16. Qxd4 exd5 17. Ba3 Nc5 18. Rxe7+ Kxe7 19. Re1+ Kf7 20. Ng5+ Kg8
+21. Bxc5 Rxc5 22. Qe5 Bc8 23. Ne6 Bxe6 24. Qxe6+ Kf8 25. Nf3 Qc7 26. Ne5 Rc1
+27. Rxc1 Qxc1+ 28. Bf1 Qc7 29. Bb5 Qe7 30. Qc8+ Ne8 31. Qf5+ Kg8 32. Nc6 Qd6
+33. Nd4 g6 34. Qc8 Kf7 35. Bc6 Rf8 36. Qb7+ Kf6 37. Qxb6 Kg7 38. Qxa5 Nf6 39.
+Qc3 Kg8 40. Qc1 Qe5 41. Qe3 Qxe3 42. fxe3 Kf7 43. h3 Ke7 44. a4 Kd6 45. a5 Ne4
+46. b4 Nd2 47. Bb7 Nc4 48. Nc2 g5 49. e4 dxe4 50. Bxe4 h6 51. Bg2 Ke5 52. a6
+Nb6 53. b5 Rc8 54. Bc6 Rd8 55. Ne3 Rf8 56. Ng4+ Kd4 57. Nxh6 Rh8 58. Nf5+ Ke5
+59. Ne3 Rxh3 60. Kg2 Rh7 61. Kf3 Rf7+ 62. Kg4 Kd4 63. Nf5+ Ke5 64. Nh6 Rg7 65.
+Nf5 Rg6 66. a7 Rg8 67. Ne3 Na8 1-0
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.15"]
+[Round "1.1"]
+[White "Jobava, Beglar"]
+[Black "Nigalidze, Gaioz"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[WhiteElo "2446"]
+[BlackElo "2420"]
+[PlyCount "66"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 O-O 6. e3 h6 7. Bxf6 Bxf6 8. Qd2
+b6 9. cxd5 exd5 10. Rd1 c6 11. Be2 Nd7 12. e4 dxe4 13. Nxe4 Re8 14. Nxf6+ Nxf6
+15. O-O Be6 16. b3 Bd5 17. Ne5 Qd6 18. Bf3 Rad8 19. Bxd5 Qxd5 20. Nf3 Ne4 21.
+Qc2 Re6 22. Rfe1 Rde8 23. Re3 Ng5 24. Ne5 R8e7 25. h4 Nh7 26. Qc4 Nf6 27. Rde1
+Rd6 28. Nf3 Rxe3 29. Rxe3 c5 30. dxc5 Qxc4 31. bxc4 Rd1+ 32. Re1 Rxe1+ 33. Nxe1
+bxc5 1/2-1/2
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.15"]
+[Round "1.1"]
+[White "Supatashvili, Khvicha"]
+[Black "Gelazonia, Parmen"]
+[Result "0-1"]
+[ECO "D20"]
+[WhiteElo "2466"]
+[BlackElo "2361"]
+[PlyCount "98"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Be6 4. Na3 c5 5. Nf3 Nf6 6. Bxc4 Bxc4 7. Nxc4 Nc6 8.
+Qb3 cxd4 9. Qxb7 Qc8 10. Qxc8+ Rxc8 11. exd4 Nxd4 12. Nd6+ exd6 13. Nxd4 Rc4
+14. Be3 Nd5 15. Ke2 Nxe3 16. fxe3 g6 17. Rac1 Rb4 18. b3 Kd7 19. Rc3 Bg7 20.
+Rhc1 Bxd4 21. exd4 Rxd4 22. Rc7+ Ke6 23. Rxa7 Re8 24. Rc3 f5 25. Rd3 Re4+ 26.
+Kf3 d5 27. Rxh7 d4 28. h4 Kf6 29. Rd7 Ke5 30. g3 Rc8 31. Re7+ Kd5 32. Rd7+ Ke5
+33. a4 Rc1 34. Re7+ Kd5 35. Rd7+ Ke5 36. a5 Rf1+ 37. Kg2 Ra1 38. b4 Rb1 39. a6
+Rxb4 40. Ra3 Re2+ 41. Kh3 Rc2 42. Re7+ Kd6 43. a7 g5 44. g4 fxg4+ 45. Kxg4 Rc8
+46. Re4 Kd5 47. Re1 Ra8 48. hxg5 Rb7 49. Rea1 Ke4 0-1
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.16"]
+[Round "1.2"]
+[White "Chigladze, Iveri"]
+[Black "Sanikidze, Tornike"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2389"]
+[BlackElo "2461"]
+[PlyCount "105"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Bb4 5. Bg5 O-O 6. e3 c5 7. dxc5 dxc4 8. Qc2
+Qa5 9. Bxf6 gxf6 10. Bxc4 Nd7 11. c6 Ne5 12. Nxe5 Qxe5 13. O-O bxc6 14. Rfd1
+Kh8 15. Rd4 Bd6 16. Rh4 f5 17. Rd1 Rg8 18. Ne2 Rb8 19. b3 Qg7 20. Ng3 Be7 21.
+Rh3 c5 22. Bf1 f6 23. Bc4 Rb6 24. f3 Rd6 25. Rxd6 Bxd6 26. f4 Qe7 27. e4 Rg4
+28. exf5 exf5 29. Qe2 Rxf4 30. Qxe7 Bxe7 31. Ne2 Re4 32. Nc3 Re5 33. Nd5 f4 34.
+Rh4 f3 35. gxf3 Bb7 36. Nf4 Rg5+ 37. Kf2 f5 38. Rh6 Rg7 39. Rh5 Rg5 40. Rh6 Rg7
+41. h4 Bf8 42. Re6 Re7 43. Rf6 Bg7 44. Rxf5 Bd4+ 45. Kg2 Kg7 46. Rg5+ Kh6 47.
+Rh5+ Kg7 48. Rg5+ Kh6 49. Ne6 Bf6 50. Rxc5 Bxh4 51. Nd4 Rg7+ 52. Kf1 Be7 53.
+Rc7 1-0
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.16"]
+[Round "1.2"]
+[White "Jojua, Davit"]
+[Black "Zarkua, Davit"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "2463"]
+[BlackElo "2377"]
+[PlyCount "40"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. e3 Bg7 6. Be2 O-O 7. O-O a6 8. a4 a5
+9. cxd5 cxd5 10. b3 Nc6 11. Ba3 Bg4 12. Rc1 Rc8 13. Ne5 Bf5 14. g4 Be6 15. Nd3
+Ne4 16. Nxe4 dxe4 17. Nc5 Bd5 18. Nxb7 Qb6 19. Nc5 Rfd8 20. Bc4 e5 1/2-1/2
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.16"]
+[Round "1.2"]
+[White "Morchiashvili, Bachana"]
+[Black "Bregadze, Levan"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2434"]
+[BlackElo "2427"]
+[PlyCount "58"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+Bg5 e5 9. e3 Bb4 10. Bd3 exd4 11. exd4 Bxd3 12. Qxd3 O-O 13. O-O Bd6 14. h3
+Rfe8 15. Qf3 h6 16. Be3 Nb6 17. Nxb6 Qxb6 18. a5 Qxb2 19. Rfc1 Qb4 20. a6 bxa6
+21. Rxa6 Rec8 22. Rxc6 Rxc6 23. Qxc6 Rd8 24. g4 Qb8 25. Rb1 Qc8 26. Qxc8 Rxc8
+27. Rb3 a5 28. Kf1 Rc4 29. Ke2 a4 1/2-1/2
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.16"]
+[Round "1.2"]
+[White "Nigalidze, Gaioz"]
+[Black "Jobava, Beglar"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2420"]
+[BlackElo "2446"]
+[PlyCount "64"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 dxc4 5. a4 Bb4 6. e3 b5 7. Be2 Bb7 8. O-O a6
+9. e4 Nd7 10. Bg5 Be7 11. Bf4 Ngf6 12. Qc2 O-O 13. Rfd1 Qb6 14. e5 Nd5 15. Ng5
+Bxg5 16. Bxg5 c5 17. a5 Qa7 18. Nxd5 Bxd5 19. Be3 Qc7 20. dxc5 Nxc5 21. Ra3
+Rac8 22. Bxc5 Qxc5 23. Rh3 h6 24. Qc3 Rfd8 25. Qg3 Kf8 26. Rh4 c3 27. b4 Qc6
+28. Rhd4 c2 29. Rc1 Be4 30. Qe3 Rxd4 31. Qxd4 Qd5 32. Qxd5 exd5 0-1
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.16"]
+[Round "1.2"]
+[White "Patsia, Zviad"]
+[Black "Mchedlishvili, Mikheil"]
+[Result "0-1"]
+[ECO "D43"]
+[WhiteElo "2213"]
+[BlackElo "2635"]
+[PlyCount "68"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Bd3
+dxc4 9. Bxc4 g6 10. O-O Bg7 11. b4 O-O 12. Qb3 Qe7 13. a3 b6 14. Rad1 Bb7 15.
+e4 a6 16. a4 Rab8 17. Rfe1 Rfd8 18. b5 cxb5 19. axb5 a5 20. e5 Rbc8 21. d5 Re8
+22. dxe6 fxe6 23. Rd6 Nc5 24. Qd1 Rf8 25. Nd4 Kh8 26. Nc6 Qg5 27. Qe2 Rf5 28.
+Bxe6 Rxe5 29. Bxc8 Rxe2 30. Rxe2 Bxc8 31. Re8+ Kh7 32. Rxc8 Bxc3 33. Rc7+ Bg7
+34. g3 a4 0-1
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.16"]
+[Round "1.2"]
+[White "Vepkhvishvili, Varlam"]
+[Black "Sturua, Zurab"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2359"]
+[BlackElo "2515"]
+[PlyCount "47"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 d5 3. c3 c6 4. Bf4 Qb6 5. Qb3 Bf5 6. Nbd2 h6 7. h3 Nbd7 8. e3
+e6 9. Be2 Be7 10. O-O O-O 11. Ne5 Rfc8 12. Ndf3 c5 13. g4 Bh7 14. g5 Nxe5 15.
+Nxe5 Qxb3 16. axb3 hxg5 17. Bxg5 Bc2 18. dxc5 Bxb3 19. Ra3 Bc4 20. Nxc4 dxc4
+21. Ra4 Rxc5 22. Bxf6 Bxf6 23. Rxc4 Rxc4 24. Bxc4 1/2-1/2
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.17"]
+[Round "1.3"]
+[White "Gelazonia, Parmen"]
+[Black "Supatashvili, Khvicha"]
+[Result "0-1"]
+[ECO "D03"]
+[WhiteElo "2361"]
+[BlackElo "2466"]
+[PlyCount "90"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Ne4 4. Bf4 c5 5. c3 Nc6 6. e3 Bg4 7. Nbd2 Nxd2 8.
+Qxd2 Bxf3 9. gxf3 cxd4 10. exd4 e6 11. Rg1 g6 12. O-O-O Bd6 13. Bg5 Be7 14. h4
+h5 15. Kb1 Bxg5 16. Rxg5 Qf6 17. Qe3 O-O-O 18. f4 Rd6 19. Bb5 Qd8 20. Re1 Ne7
+21. Bd3 Kb8 22. Qe5 Nf5 23. Qe2 Nxh4 24. Rg3 Qc7 25. Qe5 Rhd8 26. Qg5 Nf5 27.
+Bxf5 exf5 28. Rge3 R6d7 29. Re7 Qd6 30. Rxd7 Rxd7 31. Re8+ Kc7 32. a3 a6 33.
+Re3 Kb6 34. Qh4 Ka7 35. Qg5 Qc7 36. Qh4 Qc4 37. Qg3 Qb5 38. Re5 Rd6 39. Qe3 Rb6
+40. Qd2 h4 41. Re3 h3 42. b4 Re6 43. Rxe6 fxe6 44. Qe1 Qd3+ 45. Kb2 Qe4 0-1
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.17"]
+[Round "1.3"]
+[White "Jojua, Davit"]
+[Black "Zarkua, Davit"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2463"]
+[BlackElo "2377"]
+[PlyCount "65"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 g6 6. a4 Bg7 7. Be2 O-O 8. O-O Bf5
+9. Qb3 Ra7 10. a5 dxc4 11. Bxc4 Nbd7 12. Ng5 e6 13. e4 Bg4 14. h3 Bh5 15. e5
+Nd5 16. g4 Bxe5 17. dxe5 Nxe5 18. gxh5 h6 19. Bxd5 exd5 20. f4 Nc4 21. Nf3 Re8
+22. Qc2 Qd7 23. b3 Nd6 24. Qg2 Kh7 25. Kh1 Rg8 26. Ne5 Qe6 27. hxg6+ fxg6 28.
+Ba3 Nf5 29. Rae1 d4 30. Ng4 Qxb3 31. Nf6+ Kg7 32. Nxg8 Qxc3 33. Bb2 1-0
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.17"]
+[Round "1.4"]
+[White "Chigladze, Iveri"]
+[Black "Sanikidze, Tornike"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2389"]
+[BlackElo "2461"]
+[PlyCount "121"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 c5 6. dxc5 Bxc5 7. e3 Nc6 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. a3 Qf6 11. Qc2 Bb6 12. Rd1 Bf5 13. Bd3 Bg4 14. Be2
+Bf5 15. Qd2 Be4 16. O-O h6 17. b4 a6 18. Bg3 O-O 19. Qa2 d4 20. Nd2 Bf5 21. e4
+Be6 22. Qb1 Ne5 23. Bxe5 Qxe5 24. Bd3 Qd6 25. f4 Bg4 26. Rde1 Rac8 27. e5 Qd7
+28. f5 f6 29. Bc4+ Kh8 30. Be6 Qb5 31. Bxc8 Rxc8 32. exf6 gxf6 33. Qe4 d3+ 34.
+Kh1 Rg8 35. Rf4 Qe5 36. h3 Be2 37. Qxe5 fxe5 38. Re4 Bd4 39. R1xe2 dxe2 40.
+Rxe2 Rc8 41. Ne4 Kg7 42. g4 b6 43. Kg2 a5 44. bxa5 bxa5 45. h4 a4 46. g5 hxg5
+47. hxg5 Rb8 48. Kf3 Rb1 49. Rc2 Rf1+ 50. Nf2 Rb1 51. Ng4 Rf1+ 52. Nf2 Rb1 53.
+Rc7+ Kf8 54. Nd3 Rg1 55. g6 e4+ 56. Kxe4 Rg4+ 57. Kd5 Bg7 58. Nc5 Rd4+ 59. Ke6
+Rd8 60. Rd7 Kg8 61. f6 1-0
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.17"]
+[Round "1.4"]
+[White "Morchiashvili, Bachana"]
+[Black "Bregadze, Levan"]
+[Result "0-1"]
+[ECO "D17"]
+[WhiteElo "2434"]
+[BlackElo "2427"]
+[PlyCount "68"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Rd8 11. Qc1 Bd6 12. Nxd6+ Qxd6 13. Bg2 O-O 14. O-O
+a6 15. b4 Qe6 16. b5 axb5 17. axb5 cxb5 18. Nxb5 Nc6 19. Re1 Bh3 20. Bh1 Rd7
+21. Qb2 Rfd8 22. Rac1 h6 23. Nc7 Qf5 24. Qxb7 Nd4 25. Qb2 Qh5 26. f3 Qa5 27.
+Ra1 Qc5 28. e3 Nc2 29. Na6 Qc4 30. Rac1 Nxe1 31. Rxc4 Rd1 32. Qe2 R8d2 33. Qxd2
+Nxf3+ 34. Kf2 Rxd2+ 0-1
+
+[Event "GEO-ch KO 67th"]
+[Site "Tbilisi"]
+[Date "2008.03.19"]
+[Round "2.2"]
+[White "Gelashvili, Tamaz"]
+[Black "Magalashvili, Davit"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "2622"]
+[BlackElo "2449"]
+[PlyCount "92"]
+[EventDate "2008.03.15"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. e3 e6 3. b3 Be7 4. d4 d5 5. Bd3 O-O 6. O-O c5 7. Bb2 Nc6 8. Nbd2
+b6 9. a3 Bb7 10. Qe2 a6 11. Rfd1 b5 12. dxc5 Bxc5 13. c4 bxc4 14. bxc4 h6 15.
+Rac1 Be7 16. cxd5 Nxd5 17. Nc4 Na5 18. Nce5 Qe8 19. Bb1 Nf6 20. Nd4 Rc8 21. Qd3
+Rxc1 22. Rxc1 h5 23. Qd2 Qd8 24. Bc3 Qd5 25. f4 Bxa3 26. Rd1 Nc4 27. Nxc4 Qxc4
+28. Nf3 Ne4 29. Bxe4 Bxe4 30. Ne5 Qd5 31. Qe2 Qb5 32. Qd2 Rc8 33. Qd4 Qd5 34.
+Qa4 Qc5 35. Qxe4 Qxc3 36. h3 Bc5 37. Rd3 Qe1+ 38. Kh2 Be7 39. Qb7 Re8 40. Qd7
+Kf8 41. Qb7 a5 42. Qf3 h4 43. Qc6 Qg3+ 44. Kh1 Qe1+ 45. Kh2 Qg3+ 46. Kh1 Qe1+

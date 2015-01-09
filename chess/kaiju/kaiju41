@@ -1,0 +1,50 @@
+C41	Lopez Counter-Gambit, Philidor	1.e4 e5 2.Nf3 d6 3.Bc4 f5
+C41	Philidor Gambit	1.e4 e5 2.Nf3 d6 3.d4 Bd7
+C41	Alapin-Blackburne Gambit, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Bg4
+4.dxe5 Nd7
+C41	Exchange Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 exd4
+C41	Morphy Gambit, Philidor	1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Bc4
+C41	Bird Gambit, Philidor	1.e4 e5 2.Nf3 d6 3.d4 exd4 4.c3
+C41	Paulsen Attack, Philidor	1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 d5
+5.exd5
+C41	Larsen Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 g6
+C41	Boden Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 Bd7
+C41	Philidor Counter Attack	1.e4 e5 2.Nf3 d6 3.d4 f5
+C41	Zukertort Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 f5 4.Nc3
+C41	Hanham; Lord Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nd7
+C41	Delmar Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6
+5.c3
+C41	Schlechter Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6
+5.Nc3
+C41	Krause Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6
+5.O-O
+C41	Steiner Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6
+5.O-O Be7 6.dxe5
+C41	Sharp Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 Nb6
+C41	Lion Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Nc3 Nf6
+C41	Jaenisch Counter-Attack, Philidor; Nimzovich Variation	1.e4 e5 2.Nf3
+d6 3.d4 Nf6
+C41	Klein Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Bc4
+C41	Sokolsky Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.dxe5 Nxe4
+5.Nbd2
+C41	Rellstab Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.dxe5 Nxe4
+5.Qd5
+C41	Larobok Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7
+C41	Locock Variation, Philidor	1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Ng5 h6
+5.Nxf7
+C42	Petroff Defense; Russian Defense; C42	1.e4 e5 2.Nf3 Nf6
+C42	Urosov Gambit, Petroff	1.e4 e5 2.Nf3 Nf6 3.Bc4
+C42	Boden-Kieseritzky Gambit, Petroff	1.e4 e5 2.Nf3 Nf6 3.Bc4 Nxe4
+4.Nc3
+C42	Lichtenhein Defense, Petroff	1.e4 e5 2.Nf3 Nf6 3.Bc4 Nxe4 4.Nc3 d5
+C42	Russian Three Knights Var, Petroff	1.e4 e5 2.Nf3 Nf6 3.Nc3
+C42	Paulsen Attack, Petroff	1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nc4
+C42	Karklins-Martinovsky Variation, Petroff	1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6
+4.Nd3
+C42	Millenium Attack, Petroff	1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4
+5.Bd3
+C42	Kaufmann Variation, Petroff	1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4
+5.c4
+C42	French Attack, Petroff	1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d3
+C42	Classical Attack, Petroff	1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4
+5.d4

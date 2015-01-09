@@ -1,0 +1,50 @@
+D80	Zaitsev Gambit, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.h4
+D81	Accelerated Russian Variation, Grunfeld; D81	1.d4 Nf6 2.c4 g6 3.Nc3
+d5 4.Qb3
+D82	Brinckmann Attack, Grunfeld; D82	1.d4 Nf6 2.c4 g6 3.Nc3 d5
+4.Bf4  
+D83	Grunfeld Gambit; D83	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O
+D83	Capablanca Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7
+5.e3 O-O 6.Rc1
+D83	Botvinnik Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7
+5.e3 O-O 6.Rc1 c5 7.dxc5 Be6
+D83	Reshevsky Gambit, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7
+5.e3 O-O 6.Rc1 c5 7.dxc5 Qa5
+D84	D84	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.cxd5 Nxd5
+D85	Exchange Variation, Grunfeld; D85	1.d4 Nf6 2.c4 g6 3.Nc3 d5
+4.cxd5 Nxd5
+D85	Exchange Variation, Grunfeld;	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5
+5.e4 Nxc3 6.bxc3
+D85	Modern Main Line, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5
+5.e4 Nxc3 6.bxc3 Bg7 7.Nf3
+D85	Kramnik's Line, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5
+5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.h3
+D85	Kemeri Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5
+5.g3
+D85	Nadanian Attack	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Na4
+D86	Classical Main Line, Grunfeld; D86	1.d4 Nf6 2.c4 g6 3.Nc3 d5
+4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4
+D86	Simagin Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5
+5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 b6 9.h4 Ba6
+D86	Simagin Improved Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5
+4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 Nc6
+D86	Larsen Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5
+5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 Qd7
+D86	Larsen Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5
+5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 Qd7 9.O-O b6
+D87	Spassky Variation, Grunfeld; D87	1.d4 Nf6 2.c4 g6 3.Nc3 d5
+4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5
+D87	Seville Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5
+5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3
+D88	D88	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 cxd4
+D89	D89	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3
+D89	Sokolsky Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5
+5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 cxd4 11.cxd4 Bg4
+12.f3 Na5 13.Bd3 Be6 14.d5
+D90	Three Knights Variation, Grunfeld; D90	1.d4 Nf6 2.c4 g6 3.Nc3 d5
+4.Nf3
+D90	Flohr Variation, Grunfeld	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7
+5.Qa4+
+D90	Slav Fianchetto	1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Nf6 5.Nc3 g6

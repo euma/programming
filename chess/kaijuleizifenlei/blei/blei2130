@@ -1,0 +1,600 @@
+[White "Pierrot, Juan Facundo"]
+[Black "Terradas, Nicolas"]
+[Result "1-0"]
+[ECO "B17"]
+[WhiteElo "2421"]
+[PlyCount "47"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Bd6 8.
+O-O Qc7 9. Qe2 O-O 10. c3 b6 11. Ne4 Nxe4 12. Qxe4 Nf6 13. Qh4 Bb7 14. Bg5 Rfe8
+15. Bxf6 gxf6 16. Qxf6 Qe7 17. Qh6 f6 18. Rfe1 Qg7 19. Qh3 Kh8 20. Rxe6 Rxe6
+21. Qxe6 Rg8 22. g3 Qf8 23. Nh4 Bc8 24. Qe4 1-0
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.16"]
+[Round "1"]
+[White "Pineiro, Dario"]
+[Black "Bronstein, Luis Marcos"]
+[Result "0-1"]
+[ECO "B04"]
+[WhiteElo "1927"]
+[BlackElo "2383"]
+[PlyCount "80"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O
+O-O 9. Nc3 Nc6 10. Be3 Bg4 11. b3 d5 12. c5 Nc8 13. h3 Bxf3 14. Bxf3 e6 15. Qd2
+N8e7 16. Rad1 Nf5 17. Ne2 Nh4 18. Bg4 h5 19. Bg5 Bf6 20. Bxh4 Bxh4 21. Bf3 Bf6
+22. b4 b5 23. a4 a6 24. Ra1 Bg7 25. axb5 axb5 26. Qd3 Qb8 27. Rxa8 Qxa8 28.
+Qxb5 Rb8 29. Qd3 Rxb4 30. Rd1 Nxd4 31. Nxd4 Rxd4 32. Qb3 Rxd1+ 33. Bxd1 Bd4 34.
+Qf3 Bxc5 35. Qc3 Qa7 36. Qg3 Qa1 37. Qd3 h4 38. Qc2 Qd4 39. Qe2 Kg7 40. Bc2 Qf4
+0-1
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.16"]
+[Round "1"]
+[White "Saragossi, Guido"]
+[Black "Quiroga, Facundo"]
+[Result "0-1"]
+[ECO "B25"]
+[WhiteElo "1836"]
+[BlackElo "2339"]
+[PlyCount "110"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 Nf6 5. d3 g6 6. f4 Bg7 7. Nf3 O-O 8. O-O
+Rb8 9. h3 b5 10. a3 a5 11. Be3 b4 12. axb4 axb4 13. Ne2 b3 14. c3 c4 15. dxc4
+Na5 16. e5 Nd7 17. Qd5 Nc5 18. exd6 Ncb7 19. d7 Bxd7 20. Rfd1 Bc6 21. Qxd8
+Rfxd8 22. Rxd8+ Rxd8 23. Bb6 Rd3 24. Bxa5 Bxf3 25. Bxf3 Rxf3 26. Bb4 Re3 27.
+Kf2 Re4 28. Ra8+ Bf8 29. Nd4 Kg7 30. c5 e5 31. Kf3 Re1 32. Nxb3 e4+ 33. Kf2 Rb1
+34. Ba3 h5 35. Rxf8 Nxc5 36. Nxc5 Kxf8 37. Nxe4+ Ke8 38. c4 Kd7 39. c5 Kc6 40.
+Ke2 f5 41. Nd6 h4 42. gxh4 Rh1 43. b4 Rh2+ 44. Kd1 Rxh3 45. b5+ Kd5 46. b6 Rxa3
+47. b7 Rb3 48. Kc2 Rb4 49. Kc3 Kxc5 50. h5 gxh5 51. Nxf5 Rxb7 52. Ne3 h4 53. f5
+h3 54. Ng4 Rg7 55. Nh2 Rg2 0-1
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.17"]
+[Round "2"]
+[White "Bronstein, Luis Marcos"]
+[Black "Alvarez, Roberto Gabriel"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "2383"]
+[BlackElo "2109"]
+[PlyCount "117"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Bf5 7. Bd3 Bxd3 8.
+Qxd3 Be7 9. Nf3 O-O 10. O-O Nc6 11. Nd5 Bf6 12. Nxf6+ Qxf6 13. Bd2 Qg6 14. Qxg6
+hxg6 15. d5 Nb8 16. b3 N8d7 17. Rfe1 Rfe8 18. Kf1 Kf8 19. Bc3 Nf6 20. Ng5 Nbd7
+21. h3 a5 22. Rxe8+ Kxe8 23. Ke2 a4 24. Kd3 axb3 25. axb3 Rxa1 26. Bxa1 Nc5+
+27. Kc2 Ke7 28. Bd4 Ncd7 29. g4 b5 30. Kc3 bxc4 31. bxc4 Ne8 32. f4 Nf8 33. Kb4
+f6 34. Nf3 Kd7 35. Kb5 Nh7 36. h4 Nf8 37. g5 Kc8 38. Nd2 Nd7 39. Ne4 f5 40. Ng3
+Nf8 41. Kc6 Kd8 42. Bc3 Kc8 43. h5 gxh5 44. Nxh5 g6 45. Ng3 Nd7 46. Bd4 Nb8+
+47. Kb5 Kb7 48. c5 c6+ 49. Kc4 Kc7 50. Nf1 Kd7 51. Ne3 cxd5+ 52. Nxd5 Nc6 53.
+Bc3 dxc5 54. Kxc5 Nd8 55. Be5 Nf7 56. Nb6+ Ke6 57. Nc4 Nd8 58. Bc3 Kf7 59. Ne5+
+1-0
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.17"]
+[Round "2"]
+[White "Conde, Adrian"]
+[Black "Fulgenzi, Ernesto"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2039"]
+[BlackElo "2358"]
+[PlyCount "89"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d5 4. e5 c5 5. Nf3 Nc6 6. Be2 Nh6 7. Na3 O-O 8. h4 Bg4
+9. h5 Nf5 10. Nc2 cxd4 11. Ncxd4 Nfxd4 12. cxd4 Qb6 13. Be3 Qxb2 14. hxg6 hxg6
+15. Rh4 Bxf3 16. gxf3 Rac8 17. Kf1 f5 18. exf6 exf6 19. Kg2 b6 20. Bd3 f5 21.
+Bc2 Bf6 22. Rb1 Qa3 23. Rh6 Ne7 24. Bb3 Bg7 25. Rh4 Qd6 26. Bg5 Bf6 27. Qd2
+Bxg5 28. Qxg5 Qf6 29. Qh6 Qg7 30. Qg5 Kf7 31. Re1 Rc7 32. Reh1 Ke8 33. Rh7 Qxd4
+34. Re1 Qc5 35. Bxd5 Kd8 36. Be6 Qd4 37. Qh6 Re8 38. Re2 Rc3 39. Rd2 Rd3 40.
+Rxd3 Qxd3 41. Qh4 Qd6 42. Qc4 Qc6 43. Qxc6 Nxc6 44. Rd7+ Kc8 45. Re7+ 1/2-1/2
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.17"]
+[Round "2"]
+[White "D'Argenio, Osvaldo"]
+[Black "Wolff, Carlos Alberto"]
+[Result "0-1"]
+[ECO "B28"]
+[BlackElo "2035"]
+[PlyCount "130"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 e5 6. Nf3 Bb4 7. Bd2 Nf6 8.
+Bg5 Bxc3+ 9. bxc3 Qa5 10. Bxf6 Qxc3+ 11. Nd2 gxf6 12. Bd3 Nb4 13. O-O Nxd3 14.
+cxd3 Qxd3 15. Rc1 h5 16. Qc2 Qxc2 17. Rxc2 b5 18. h4 Bb7 19. f3 Ke7 20. Nb3
+Rac8 21. Rff2 d6 22. Kh2 Rxc2 23. Rxc2 Rc8 24. Rxc8 Bxc8 25. a3 Bb7 26. Na5 Ba8
+27. Kh3 Ke6 28. g4 hxg4+ 29. Kxg4 d5 30. exd5+ Bxd5 31. h5 f5+ 32. Kg3 Kf6 33.
+f4 e4 34. Kf2 Kg7 35. Ke3 Kh6 36. Kd4 Be6 37. Nc6 Kxh5 38. Nb8 Bc8 39. Nc6 Kg4
+40. Ke3 Be6 41. Nd4 Kh5 42. Nc6 Kg6 43. Nd4 Kf6 44. Ne2 Bc4 45. Nc3 Ke6 46. Kd4
+Kd6 47. Nd1 Be6 48. Nc3 Kc6 49. Nb1 Kb6 50. Nc3 a5 51. Ne2 b4 52. axb4 axb4 53.
+Nc1 Kb5 54. Ne2 Ka4 55. Nc1 Ka3 56. Ke3 b3 57. Ne2 b2 58. Nc3 Kb3 59. Nb1 Kc2
+60. Nd2 b1=Q 61. Nxb1 Kxb1 62. Kd4 Kc2 63. Ke3 Kc3 64. Ke2 Kd4 65. Ke1 Ke3 0-1
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.17"]
+[Round "2"]
+[White "Pascual, Diego"]
+[Black "Lopez, Sebastian"]
+[Result "0-1"]
+[ECO "B17"]
+[BlackElo "2117"]
+[PlyCount "98"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 g6
+8. Bc4 e6 9. Bg5 Bg7 10. Qf3 h6 11. Be3 O-O 12. g4 Nd5 13. O-O-O Qh4 14. Rhg1
+Nxe3 15. Qxe3 c5 16. Rg3 cxd4 17. Rxd4 Qxh2 18. Rd1 Qh4 19. Rh3 Qf6 20. f4 g5
+21. Nd3 gxf4 22. Qf3 Rd8 23. c3 e5 24. Rg1 Be6 25. Bxe6 Qxe6 26. Nb4 a5 27. Nc2
+Qd5 28. Qf2 Kf8 29. Rh5 Rd6 30. g5 Rad8 31. b3 hxg5 32. Rhxg5 Bf6 33. Rg8+ Ke7
+34. Rxd8 Rxd8 35. Re1 Kf8 36. Kb2 Rd6 37. Re2 b6 38. Na3 f3 39. Rc2 e4 40. Nc4
+Re6 41. Nxb6 Qc6 42. Nc4 a4 43. Qe3 axb3 44. axb3 Qd5 45. Rd2 Qg5 46. Qa7 e3
+47. Rh2 e2 48. Qb8+ Re8 49. Qd6+ Kg7 0-1
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.17"]
+[Round "2"]
+[White "Rinas, Jorge"]
+[Black "Pineiro, Dario"]
+[Result "1-0"]
+[ECO "B22"]
+[BlackElo "1927"]
+[PlyCount "103"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 d5 3. e5 d4 4. cxd4 cxd4 5. Bb5+ Nc6 6. Nf3 Bg4 7. O-O Qd5 8.
+Bxc6+ bxc6 9. Re1 e6 10. d3 Ne7 11. Re4 Bxf3 12. Qxf3 Ng6 13. Qe2 Be7 14. Nd2
+O-O 15. Nc4 f5 16. exf6 Rxf6 17. Bd2 Re8 18. g3 Bd8 19. b4 Bc7 20. f4 Ne7 21.
+a4 Nc8 22. Rc1 Nb6 23. a5 Nd7 24. Ne5 Nxe5 25. fxe5 Rf5 26. Rc5 Qa2 27. g4 Qa1+
+28. Qe1 Qxe1+ 29. Bxe1 Rf7 30. Rxd4 Bb8 31. Kg2 a6 32. Rdc4 Ref8 33. Bg3 Rf3
+34. d4 Rd3 35. Rxc6 Rd2+ 36. Kh3 Rd8 37. Rc8 R2xd4 38. Rxd8+ Rxd8 39. Rc6 Kf7
+40. Rxa6 Rd5 41. Rb6 Bxe5 42. Bxe5 Rxe5 43. Rb7+ Kf6 44. Kg3 Re2 45. h4 h6 46.
+a6 Ra2 47. b5 g5 48. h5 Ra3+ 49. Kf2 Ke5 50. a7 Kd6 51. Rb6+ Kc5 52. Ra6 1-0
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.18"]
+[Round "3"]
+[White "Conde, Adrian"]
+[Black "Quiroga, Facundo"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2039"]
+[BlackElo "2339"]
+[PlyCount "78"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Bc4 Nb6 7. Bb5+ Bd7 8. e6
+fxe6 9. Bd3 Qc7 10. Nc3 Nd5 11. Nxd5 exd5 12. Qh5+ g6 13. Bxg6+ hxg6 14. Qxh8
+Bb5 15. Ne2 Bxe2 16. Kxe2 Qc4+ 17. Kf3 Nc6 18. Be3 e5 19. Rac1 Qd3 20. Rxc6
+bxc6 21. Qf6 Qf5+ 22. Qxf5 gxf5 23. Rc1 Kd7 24. g3 exd4 25. Bxd4 c5 26. Be3 d4
+27. Bf4 Bg7 28. Ke2 Kc6 29. b3 a5 30. a4 Rb8 31. Rb1 Rb7 32. Bd2 c4 33. Bxa5 d5
+34. b4 d3+ 35. Kd2 Re7 36. b5+ Kb7 37. Rf1 Re2+ 38. Kd1 c3 39. h4 Ra2 0-1
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.18"]
+[Round "3"]
+[White "Fulgenzi, Ernesto"]
+[Black "Ferraro, Oscar"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "2358"]
+[PlyCount "69"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 e6 4. g3 Nc6 5. Bg2 Nf6 6. O-O Be7 7. d3 O-O 8. h3 a6
+9. g4 Nd7 10. Nh2 e5 11. Nd5 Bg5 12. Be3 Bxe3 13. fxe3 Ne7 14. Nxe7+ Qxe7 15.
+Qe1 Rb8 16. Qg3 b5 17. Rf2 Bb7 18. Raf1 f6 19. Nf3 d5 20. exd5 Bxd5 21. Nd2
+Bxg2 22. Qxg2 Qe6 23. b3 Nb6 24. Ne4 Rbc8 25. c4 b4 26. Rf5 Qe7 27. g5 fxg5 28.
+Nxg5 Rxf5 29. Rxf5 h6 30. Nf7 Qe6 31. Qf3 Rf8 32. Nxh6+ Kh7 33. Rxf8 Kxh6 34.
+Rh8+ Kg6 35. Qh5+ 1-0
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.18"]
+[Round "3"]
+[White "Lalanne, Pablo"]
+[Black "Toranzo, Sebastian"]
+[Result "1-0"]
+[ECO "B87"]
+[WhiteElo "2193"]
+[BlackElo "1938"]
+[PlyCount "73"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Nbd7 12. f3 Nc5 13. Qxg7 Rg8 14. Qh6 Rg6 15.
+Qh3 b4 16. Nce2 Nxb3 17. axb3 Bd7 18. Rfc1 a5 19. c3 bxc3 20. Rxc3 a4 21. Rac1
+Ra5 22. Ng3 Rc5 23. Nde2 Rxc3 24. Rxc3 e5 25. Nf5 Nxe4 26. fxe4 Qxe4 27. Neg3
+Qb1+ 28. Rc1 Qxb2 29. bxa4 d5 30. Re1 Qb4 31. Bf2 Qf4 32. Be3 Qb4 33. Rf1 d4
+34. Bf2 Qxa4 35. Qxh7 Bf8 36. Qh8 Qa5 37. Re1 1-0
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.18"]
+[Round "3"]
+[White "Medina, Exequiel"]
+[Black "Alvarez Poli, Antonio"]
+[Result "1-0"]
+[ECO "B12"]
+[PlyCount "37"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd2 Nd7 6. Nc3 a6 7. Be2 c5 8. Bf4 Ne7
+9. dxc5 Ng6 10. Bg3 Bxc5 11. O-O Qc7 12. Re1 O-O 13. Bd3 Bxd3 14. Qxd3 f6 15.
+exf6 Rxf6 16. Bxc7 Re8 17. Bg3 Nf4 18. Bxf4 Rxf4 19. Qd2 1-0
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.18"]
+[Round "3"]
+[White "Medina, Lopez"]
+[Black "Barrionuevo, Pablo"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1710"]
+[BlackElo "2363"]
+[PlyCount "52"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 g6 2. e4 d6 3. Nf3 Nf6 4. Nbd2 Bg7 5. Bd3 O-O 6. O-O Nc6 7. c3 e5 8. Re1
+Bd7 9. h3 h6 10. Nf1 a6 11. Ng3 Qe8 12. Be3 Kh8 13. Qd2 Ng8 14. dxe5 dxe5 15.
+Nh2 Rd8 16. Qc2 Be6 17. b3 Nf6 18. f4 exf4 19. Bxf4 Qe7 20. Kh1 g5 21. Be3 Qd6
+22. Rad1 Qxg3 23. Bf2 Qe5 24. Nf3 Qa5 25. a4 g4 26. e5 Nd5 0-1
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.18"]
+[Round "3"]
+[White "Pierrot, Juan Facundo"]
+[Black "Calderon Fernandez, Gervasio"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2421"]
+[BlackElo "2303"]
+[PlyCount "147"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Qd3 Nc6 11. O-O-O Be7 12. Nd5 Bxd5 13. Qxd5 Qb6 14. Rhf1
+Nb4 15. Qa5 Qxa5 16. Nxa5 Kd7 17. c3 Nc6 18. Nc4 Kc7 19. Kb1 Rad8 20. Rd3 f5
+21. exf5 d5 22. Ne3 d4 23. cxd4 Nxd4 24. Bd1 Rhf8 25. g4 g6 26. Bc2 gxf5 27.
+Rc3+ Kb8 28. Bxf5 h5 29. h3 hxg4 30. Bxg4 Nb5 31. Rc2 Nd4 32. Rcc1 Nf3 33. Bxf3
+Rxf3 34. Ng4 Rxh3 35. Nxe5 Bf6 36. Ng4 Bg7 37. Rcd1 Rxd1+ 38. Rxd1 Rf3 39. Rd2
+Bf8 40. Kc2 Rf4 41. Rd3 Rc4+ 42. Kb1 Rxg4 43. Rd8+ Kc7 44. Rxf8 Re4 45. Kc2
+Re2+ 46. Kc3 Kb6 47. a4 a5 48. b3 Ka6 49. Rf6+ b6 50. Rf7 Ra2 51. Rf3 Kb7 52.
+Kd4 Rb2 53. Rf7+ Kc6 54. Rf6+ Kb7 55. Kc3 Ra2 56. f4 Rf2 57. f5 Rf4 58. Rf8
+Rf3+ 59. Kc4 Rf4+ 60. Kd5 Rf3 61. f6 Rxb3 62. Rf7+ Ka6 63. Re7 Rf3 64. f7 b5
+65. Ke5 Re3+ 66. Kf6 Rf3+ 67. Kg5 Rxf7 68. Rxf7 bxa4 69. Kf4 Kb5 70. Ke3 Kc4
+71. Kd2 Kb3 72. Rb7+ Ka2 73. Kc2 a3 74. Rb3 1-0
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.18"]
+[Round "3"]
+[White "Valli, Americo"]
+[Black "Garcia, Ezequiel"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2008"]
+[BlackElo "2062"]
+[PlyCount "58"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 Bg7 4. e4 d5 5. exd5 Nxd5 6. Nf3 O-O 7. O-O c6 8. Re1
+Nd7 9. c4 N5b6 10. Na3 Nf6 11. Ne5 Nbd7 12. f4 Nxe5 13. fxe5 Ng4 14. h3 Nh6 15.
+g4 f5 16. exf6 exf6 17. Be3 f5 18. Qd2 Nf7 19. d5 fxg4 20. dxc6 Qxd2 21. Bxd2
+bxc6 22. Bxc6 Rb8 23. Nb5 a6 24. Bb4 Rd8 25. Ba5 Bd7 26. Bd5 Bxb5 27. Bxd8 Rxd8
+28. Bxf7+ Kxf7 29. cxb5 axb5 1/2-1/2
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.18"]
+[Round "3"]
+[White "Wolff, Carlos Alberto"]
+[Black "Perez, Maximiliano"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2035"]
+[BlackElo "2102"]
+[PlyCount "46"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. f4 Bg7 3. Nf3 d6 4. Be2 e6 5. O-O Ne7 6. d4 O-O 7. c3 b6 8. Be3 Bb7
+9. Nbd2 Nd7 10. Qe1 h6 11. Rd1 Qe8 12. Bd3 f5 13. Qg3 Nf6 14. e5 Ne4 15. Nxe4
+fxe4 16. Bc4 Nf5 17. Qe1 exf3 18. gxf3 d5 19. Bd3 a5 20. Bxf5 gxf5 21. Kh1 Qh5
+22. Qg3 Kh7 23. Rg1 Rg8 0-1
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.20"]
+[Round "4"]
+[White "Amicone, Ricardo"]
+[Black "Lopez, Sebastian"]
+[Result "0-1"]
+[ECO "B13"]
+[BlackElo "2117"]
+[PlyCount "38"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 g6 6. Bg5 Bg7 7. Nbd2 O-O 8.
+O-O Qb6 9. Qc1 Nc6 10. c3 Bg4 11. Ne5 Nxe5 12. dxe5 Nd7 13. Bxe7 Rfe8 14. e6
+Ne5 15. exf7+ Kxf7 16. Bxg6+ hxg6 17. Ba3 Be2 18. Re1 Nd3 19. Qc2 Qxf2+ 0-1
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.20"]
+[Round "4"]
+[White "Anaya, Mario Manuel"]
+[Black "Lalanne, Pablo"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[BlackElo "2193"]
+[PlyCount "78"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 Nc6 7. d4 cxd4
+8. Nxd4 g6 9. c3 Bg7 10. Nd2 O-O 11. N2f3 Rfd8 12. Bg5 Qc7 13. Qe2 h6 14. Bf4
+Nh5 15. Be3 Na5 16. Rad1 a6 17. Nd2 Rac8 18. Nf5 Kh7 19. Nxg7 Kxg7 20. f4 Nc4
+21. Nxc4 Qxc4 22. Qxc4 Rxc4 23. b3 Rcc8 24. Bb6 Re8 25. g3 f6 26. c4 Kf7 27. e5
+Rc6 28. Ba5 dxe5 29. fxe5 b6 30. Bb4 Re6 31. exf6 exf6 32. Rd7+ Kg8 33. Rxe6
+Rxe6 34. Kf2 f5 35. Rd6 Kf7 36. Rd7+ Kg8 37. Rd6 Kf7 38. Rd7+ Ke8 39. Rd6 Kf7
+1/2-1/2
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.20"]
+[Round "4"]
+[White "Barrionuevo, Pablo"]
+[Black "Pierrot, Juan Facundo"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2363"]
+[BlackElo "2421"]
+[PlyCount "96"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Be7 8. Na3
+O-O 9. h3 Bh5 10. Nc2 cxd4 11. Ncxd4 Nc6 12. Nxc6 bxc6 13. Qa4 c5 14. Be3 Qb7
+15. Ba6 Qc7 16. Bf4 Bd6 17. Bxd6 Qxd6 18. Be2 Nd5 19. Rfd1 Qb6 20. Rd2 Rab8 21.
+Ne5 Bxe2 22. Rxe2 Qc7 23. Rae1 Rfc8 24. Rd2 Rd8 25. Qc6 Rdc8 26. Qxc7 Rxc7 27.
+c4 Nb6 28. Red1 Kf8 29. b3 Ke7 30. Rd6 Rbc8 31. R6d3 f6 32. Nf3 g5 33. Nd2 Rd7
+34. Ne4 Rxd3 35. Rxd3 Nd7 36. Kf1 Ne5 37. Rd2 h5 38. Ke2 g4 39. h4 Ng6 40. g3
+Ne5 41. Nd6 Rc6 42. Nb5 a6 43. Nc3 Nf3 44. Rd1 Nd4+ 45. Ke3 Nf5+ 46. Ke2 Nd4+
+47. Ke3 Nf5+ 48. Ke2 Nd4+ 1/2-1/2
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.20"]
+[Round "4"]
+[White "Chao, Oscar Anibal"]
+[Black "Villarreal, Ivan Nicolas"]
+[Result "0-1"]
+[ECO "B53"]
+[BlackElo "1883"]
+[PlyCount "84"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 a6 5. c4 Nc6 6. Qd2 Nf6 7. Nc3 g6 8. b3
+Bg7 9. Bb2 O-O 10. Be2 Qa5 11. Nd5 Qxd2+ 12. Nxd2 Nxd5 13. Bxg7 Kxg7 14. cxd5
+Nd4 15. Rc1 f5 16. Bd3 fxe4 17. Bxe4 Bf5 18. Rc4 Rac8 19. Bxf5 Rxc4 20. Nxc4
+Rxf5 21. Ne3 Re5 22. Kd2 Nf5 23. Rc1 Nxe3 24. fxe3 Rxd5+ 25. Ke2 Kf6 26. Rf1+
+Ke6 27. Rf8 Ra5 28. a4 b5 29. axb5 Rxb5 30. Ra8 a5 31. Ra7 Kf6 32. h3 h6 33. g3
+e6 34. Kd2 Rxb3 35. Rxa5 Rb2+ 36. Kd3 Rh2 37. h4 Rh3 38. Kd4 Rxg3 39. e4 Rg4
+40. h5 gxh5 41. Rxh5 Kg6 42. Rb5 d5 0-1
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.20"]
+[Round "4"]
+[White "D'Argenio, Osvaldo"]
+[Black "Pineiro, Dario"]
+[Result "0-1"]
+[ECO "B43"]
+[BlackElo "1927"]
+[PlyCount "52"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O d6 8. Kh1
+Nf6 9. f3 Be7 10. Be3 Qc7 11. Qe1 Nbd7 12. b4 Rc8 13. Nce2 d5 14. Ng3 h5 15. h3
+h4 16. Nge2 dxe4 17. fxe4 Nxe4 18. a3 Ndf6 19. Nb3 Ng3+ 20. Nxg3 hxg3 21. Bf4
+Rxh3+ 22. Kg1 Qc6 23. Qe2 Rh2 24. Qf3 Qb6+ 25. Rf2 Bxf3 26. Bxg3 Rxg2+ 0-1
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.20"]
+[Round "4"]
+[White "De Luca, Christian"]
+[Black "Schwindt, Juan Pablo"]
+[Result "1-0"]
+[ECO "B88"]
+[WhiteElo "2125"]
+[PlyCount "49"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Ne2 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
+O-O 9. Kh1 Nc6 10. f4 Qc7 11. Be3 Na5 12. Qe2 b5 13. Rad1 Nc4 14. Bc1 Re8 15.
+Ndxb5 axb5 16. Nxb5 Qc6 17. Qxc4 Qb6 18. Nc7 Ba6 19. Nxa6 Rxa6 20. f5 d5 21.
+exd5 Nxd5 22. fxe6 fxe6 23. Qe2 Nc7 24. Rd7 Bf6 25. Rxf6 1-0
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.20"]
+[Round "4"]
+[White "Mafud, Damian"]
+[Black "Alvarez Poli, Antonio"]
+[Result "1-0"]
+[ECO "B12"]
+[PlyCount "50"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. f4 Ne7 7. Nf3 h5 8. Bd2
+Nf5 9. Nc3 a6 10. Ne2 h4 11. O-O-O Nd7 12. g4 hxg3 13. hxg3 Rxh1 14. Rxh1 g6
+15. Ng5 Qe7 16. Rh7 Ng7 17. a3 c5 18. Nc3 Nb6 19. dxc5 Qxc5 20. Be3 Qc6 21. Rh1
+Nf5 22. Bf2 Nc4 23. Nh7 O-O-O 24. Nxf8 d4 25. Ne2 Qb6 1-0
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.22"]
+[Round "5"]
+[White "Lalanne, Pablo"]
+[Black "Valli, Americo"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "2193"]
+[BlackElo "2008"]
+[PlyCount "141"]
+[EventDate "2008.08.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Nxd5 cxd5 9. Qxd5 Rb8 10. e6 Bg7 11. exd7+ Bxd7 12. Bc4 O-O 13. O-O Qc7 14. Bb3
+Rb5 15. Qe4 Bf5 16. Qe2 Rfb8 17. c3 a5 18. Qc4 Qxc4 19. Bxc4 Rc5 20. Bb3 Be6
+21. Bf4 Rxb3 22. axb3 Bxb3 23. Rfe1 e5 24. Be3 Rb5 25. Re2 f5 26. f3 a4 27. Rd2
+Rb7 28. Re1 Kf7 29. Rd6 Bf8 30. Ra6 Bc2 31. Ra7 Rxa7 32. Bxa7 Ke6 33. Rc1 Bb3
+34. Be3 Kd5 35. Re1 a3 36. bxa3 Bxa3 37. Ra1 Bd6 38. Ra7 f4 39. Bf2 h5 40. Rg7
+Bc2 41. Rd7 Kc6 42. Rd8 e4 43. fxe4 Bxe4 44. Rg8 Be7 45. Bd4 Bd6 46. Kf2 Bf5
+47. Re8 Kd5 48. Rd8 Kc6 49. Ra8 Kd5 50. Ra5+ Ke4 51. Ra4 Kd5 52. Ra6 Bc7 53.
+Kf3 Bg4+ 54. Kf2 Bf5 55. h3 Be4 56. Ra7 Bd6 57. Ra5+ Kc6 58. c4 Bc7 59. Ra6+
+Kd7 60. Rf6 g5 61. Rh6 Bd3 62. c5 h4 63. Bf6 Be4 64. Bxg5 Be5 65. Bf6 Bb8 66.
+Bd4 f3 67. gxf3 Bg3+ 68. Ke3 Bf5 69. Bf6 Bxh3 70. Bxh4 Bc7 71. Bg3 1-0
+
+[Event "Villa Ballester de Invierno op 8th"]
+[Site "Villa Ballester"]
+[Date "2008.08.22"]
+[Round "5"]
+[White "Medina, Exequiel"]

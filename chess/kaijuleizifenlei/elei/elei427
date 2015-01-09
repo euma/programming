@@ -1,0 +1,600 @@
+[WhiteElo "1728"]
+[PlyCount "97"]
+[EventDate "2008.05.30"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "URU"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nbd7 8. Qd2 a6
+9. Nh3 Ne8 10. g4 c6 11. Nf2 f5 12. gxf5 gxf5 13. Bg5 Ndf6 14. O-O-O Qc7 15. h4
+f4 16. Rg1 Kh8 17. Nd3 h6 18. Bxf6 Nxf6 19. Ne1 Bd7 20. dxc6 Bxc6 21. Qxd6 Qxd6
+22. Rxd6 Rad8 23. Rxd8 Rxd8 24. Nc2 Nh5 25. Bh3 Ng3 26. Nb4 Be8 27. Nbd5 Bh5
+28. Bg4 Bf7 29. Rg2 Be8 30. Ne2 Nxe2+ 31. Rxe2 Bc6 32. Rd2 Bf8 33. Kc2 Bc5 34.
+Nc3 Bd4 35. Nd5 Bc5 36. b3 b5 37. cxb5 axb5 38. Nc3 Bd4 39. Be6 b4 40. Ne2 Re8
+41. Nxd4 exd4 42. Bc4 Rd8 43. Kd3 Kg7 44. Rg2+ Kf6 45. Rg4 Ra8 46. Rxf4+ Ke5
+47. Rf5+ Kd6 48. Rf6+ Ke7 49. Rxc6 1-0
+
+[Event "URU-ch (Women)"]
+[Site "Montevideo"]
+[Date "2008.06.07"]
+[Round "6"]
+[White "De Leon, Daiana"]
+[Black "Donatti, Sofia"]
+[Result "0-1"]
+[ECO "E87"]
+[PlyCount "90"]
+[EventDate "2008.05.30"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "URU"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be3 O-O 6. f3 e5 7. d5 Ne8 8. Qd2 f5
+9. Bg5 Nf6 10. Bd3 f4 11. Nge2 Nbd7 12. O-O-O Nc5 13. Bc2 a6 14. Kb1 b5 15.
+cxb5 axb5 16. Nxb5 Ba6 17. Nec3 Qb8 18. Na3 Qb7 19. Na4 Rfb8 20. Qc3 Nfd7 21.
+Bh4 Bb5 22. Nxc5 Nxc5 23. Nxb5 Qxb5 24. Bf2 Na4 25. Bxa4 Qxa4 26. a3 Rb3 27.
+Qc6 Qxa3 28. Rd2 Qa1+ 29. Kc2 Rxb2+ 30. Kd3 Ra3+ 31. Ke2 Rxd2+ 32. Kxd2 Qb2+
+33. Qc2 Qxc2+ 34. Kxc2 Ra2+ 35. Kb3 Rxf2 36. Rc1 Rxg2 37. Rxc7 Rxh2 38. Rc6 Bf8
+39. Kb4 h5 40. Kb5 Rf2 41. Rc3 h4 42. Kc6 h3 43. Rc1 Rxf3 44. Rh1 Rg3 45. Rh2
+g5 0-1
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.05.31"]
+[Round "1"]
+[White "Georgiev, Vladimir"]
+[Black "Pfeifer, Andreas"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2572"]
+[BlackElo "2116"]
+[PlyCount "57"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 7. Qa4+ Bc6 8. Qc2
+O-O 9. e3 Bb7 10. Bxf6 Bxf6 11. cxd5 exd5 12. Bd3 c5 13. Bxh7+ Kh8 14. Bd3 Nc6
+15. dxc5 bxc5 16. O-O d4 17. Ne4 dxe3 18. fxe3 Rc8 19. Rad1 Qe7 20. Nxf6 Qxe3+
+21. Kh1 Nd4 22. Nxd4 cxd4 23. Qe2 Qxe2 24. Bxe2 gxf6 25. Rxd4 Rc2 26. Rh4+ Kg7
+27. Rg4+ Kh8 28. Rf5 Rc1+ 29. Bf1 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.05.31"]
+[Round "1"]
+[White "Inkiov, Ventzislav"]
+[Black "Panican, Gheorghe"]
+[Result "1-0"]
+[ECO "E76"]
+[WhiteElo "2446"]
+[BlackElo "2053"]
+[PlyCount "71"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. f4 O-O 7. Nf3 Bg4 8. Bd3
+Nbd7 9. O-O a6 10. a4 e6 11. dxe6 fxe6 12. Qe1 Bxf3 13. Rxf3 Qe7 14. Bd2 Rad8
+15. Kh1 Nb8 16. Qh4 Nc6 17. Raf1 Nd5 18. Qg4 Nxc3 19. bxc3 Rd7 20. h4 Qe8 21.
+h5 gxh5 22. Qg5 Qg6 23. Qh4 Qg4 24. Qe1 h4 25. Be2 Bf6 26. e5 Bd8 27. exd6 Rg7
+28. R1f2 Qf5 29. Bd3 Qg4 30. f5 exf5 31. Bh6 Qg6 32. Bxg7 Kxg7 33. Bxf5 Qxd6
+34. Rd2 Qf6 35. Rd7+ Rf7 36. Be6 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.05.31"]
+[Round "1"]
+[White "Naumkin, Igor"]
+[Black "Codenotti, Marco"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2494"]
+[BlackElo "2063"]
+[PlyCount "83"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 h6
+9. Bh4 Na6 10. O-O g5 11. Bg3 Nh5 12. Nd2 Nf4 13. Bg4 Bxg4 14. Qxg4 h5 15. Qd1
+g4 16. f3 Qg5 17. fxg4 hxg4 18. Kh1 Nh5 19. Rf5 Nxg3+ 20. hxg3 Qh6+ 21. Kg1
+Qe3+ 22. Rf2 f5 23. Nf1 Qb6 24. Qe2 fxe4 25. Nxe4 Nc5 26. Nfd2 Nxe4 27. Nxe4
+Rf5 28. Raf1 Raf8 29. c5 Rxf2 30. cxb6 Rxe2 31. Rxf8+ Bxf8 32. bxc7 Rxe4 33.
+c8=Q Rd4 34. Qxb7 Kh8 35. Qa8 Kg8 36. Qxa5 e4 37. Qc3 Bg7 38. Qc8+ Kh7 39. Qf5+
+Kh8 40. Qh5+ Kg8 41. Qxg4 Kh8 42. a4 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.05.31"]
+[Round "1"]
+[White "Van Hoolandt, Patrick"]
+[Black "Dussin, Davide"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2183"]
+[BlackElo "1893"]
+[PlyCount "45"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be3 c5 7. dxc5 Qa5 8. cxd6
+exd6 9. Qd2 Nc6 10. h3 Be6 11. Be2 Rac8 12. O-O Ne5 13. b3 Nxf3+ 14. Bxf3 Nxe4
+15. Nxe4 Qxd2 16. Bxd2 Bxa1 17. Rxa1 f5 18. Ng5 Bf7 19. Nxf7 Kxf7 20. Bxb7 Rc7
+21. Bd5+ Ke7 22. Re1+ Kd7 23. Ba5 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "2"]
+[White "Dussin, Davide"]
+[Black "Forato, Enrico"]
+[Result "0-1"]
+[ECO "E92"]
+[WhiteElo "1893"]
+[BlackElo "2037"]
+[PlyCount "70"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be3 e5 7. Be2 Nc6 8. h3
+exd4 9. Nxd4 Re8 10. Nxc6 bxc6 11. Qc2 Qe7 12. Bd3 Nxe4 13. Nxe4 f5 14. f3 fxe4
+15. Bxe4 Bf5 16. O-O Bxe4 17. Qxe4 Qxe4 18. fxe4 Rxe4 19. Rf3 Rxe3 20. Rxe3 Bd4
+21. Kf2 Re8 22. Rae1 Rxe3 23. Rxe3 Kf7 24. Kf3 Bxe3 25. Kxe3 c5 26. a3 a5 27.
+Ke4 Ke6 28. b3 c6 29. g3 d5+ 30. Ke3 g5 31. Kf3 Ke5 32. Ke3 h5 33. a4 h4 34.
+gxh4 gxh4 35. Ke2 Ke4 0-1
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "2"]
+[White "Ikonnikov, Vyacheslav"]
+[Black "Dvirnyy, Daniyl"]
+[Result "1/2-1/2"]
+[ECO "E99"]
+[WhiteElo "2578"]
+[BlackElo "2321"]
+[PlyCount "111"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. a4 Rf6 14. a5 a6 15. Na4 Rh6
+16. c5 Qe8 17. Kh1 Qh5 18. Bg1 Nf6 19. cxd6 cxd6 20. Nb6 Qh4 21. Nxc8 Rxc8 22.
+h3 g4 23. Bf2 Qg5 24. fxg4 Nxe4 25. Bf3 Nf6 26. Ra4 e4 27. Bxe4 Nxe4 28. Rxe4
+Qxd5 29. Qe2 Nc6 30. Nf3 Ne5 31. Bd4 Re6 32. Bxe5 dxe5 33. Rd1 Qxa5 34. Rxf4
+Rec6 35. Re4 Rc1 36. Rxc1 Rxc1+ 37. Kh2 Qd5 38. g5 b5 39. h4 Qd1 40. Qe3 Rc6
+41. Rd4 exd4 42. Qe8+ Bf8 43. Qxc6 d3 44. Qe6+ Kh8 45. Qf6+ Kg8 46. g6 hxg6 47.
+Ng5 Qb3 48. Qxg6+ Bg7 49. Qe8+ Bf8 50. Ne6 Qb4 51. Qg6+ Kh8 52. Kh3 Qd6 53.
+Qf6+ Kg8 54. Qg6+ Kh8 55. Qf6+ Kg8 56. Qg6+ 1/2-1/2
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "2"]
+[White "Kovalyov, Anton"]
+[Black "De Val, Daniele"]
+[Result "1-0"]
+[ECO "E91"]
+[WhiteElo "2525"]
+[BlackElo "2208"]
+[PlyCount "101"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. Be2 Bg4 7. Be3 Nfd7 8. Qd2
+c5 9. d5 Re8 10. O-O Na6 11. h3 Bxf3 12. Bxf3 Nc7 13. Be2 a6 14. f4 Rb8 15. a4
+e6 16. dxe6 Nxe6 17. Bd3 Nd4 18. Qf2 b5 19. axb5 axb5 20. cxb5 Nf5 21. Kh1 Nxe3
+22. Qxe3 Nb6 23. Qf3 Re7 24. Ra6 Rd7 25. Rfa1 Bd4 26. Kh2 c4 27. Bf1 d5 28.
+exd5 Bxc3 29. bxc3 Rxd5 30. Rb1 Qd7 31. Ra5 Rc8 32. Qe3 Rcc5 33. Ra6 Qc7 34.
+Be2 Rf5 35. g3 g5 36. Kh1 Rf6 37. Bf3 Qc8 38. Bg4 Qc7 39. Ra7 Qxa7 40. Qxc5
+Qa8+ 41. Kg1 gxf4 42. Qg5+ Rg6 43. Qxf4 Qa7 44. Qf2 Qc7 45. Kh2 Qe5 46. Rf1 Qd5
+47. Bh5 Na4 48. Bxg6 hxg6 49. Qd4 Qe6 50. Rf2 Nb6 51. Qf6 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "2"]
+[White "Luch, Michal"]
+[Black "Pomaro, Alberto"]
+[Result "1-0"]
+[ECO "E66"]
+[WhiteElo "2383"]
+[BlackElo "2209"]
+[PlyCount "71"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O a6 8. d5
+Na5 9. Nd2 c5 10. Qc2 Rb8 11. b3 b5 12. Bb2 e5 13. dxe6 fxe6 14. cxb5 axb5 15.
+Nce4 Bb7 16. Rad1 Qe7 17. Bxf6 Bxf6 18. Qd3 Bxe4 19. Nxe4 d5 20. Nxf6+ Qxf6 21.
+e4 d4 22. Qd2 Nb7 23. b4 e5 24. f4 Rfd8 25. bxc5 Nxc5 26. fxe5 Qxe5 27. Qf4
+Qxf4 28. gxf4 d3 29. e5 Rd4 30. Kf2 d2 31. Ke3 Rbd8 32. Bc6 Na4 33. e6 R8d6 34.
+e7 Rd3+ 35. Kf2 Re6 36. Bxb5 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "2"]
+[White "Vezzosi, Paolo"]
+[Black "Kritz, Leonid"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2351"]
+[BlackElo "2609"]
+[PlyCount "28"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 b5 6. Bg2 bxc4 7. Ne5 Bb4+ 8. Kf1
+d5 9. bxc4 O-O 10. c5 Nfd7 11. Nd3 Bxd3 12. Qxd3 Nxc5 13. dxc5 Qf6 14. a3 Bxc5
+0-1
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "3"]
+[White "De Val, Daniele"]
+[Black "Panican, Gheorghe"]
+[Result "1-0"]
+[ECO "E70"]
+[WhiteElo "2208"]
+[BlackElo "2053"]
+[PlyCount "61"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 c5 7. d5 e6 8. O-O
+exd5 9. exd5 a6 10. a4 Nbd7 11. f4 Re8 12. h3 b6 13. g4 Nf8 14. Ng3 Nxg4 15.
+hxg4 Qh4 16. Kg2 Bxg4 17. Rh1 Qxg3+ 18. Kxg3 Bxd1 19. Rxd1 f5 20. Bd2 Nd7 21.
+Re1 Nf6 22. Re6 Rxe6 23. dxe6 Re8 24. Re1 Bf8 25. Nd5 Nh5+ 26. Kf3 Bg7 27. Bc3
+Bxc3 28. bxc3 Kf8 29. e7+ Kf7 30. Rb1 Rb8 31. a5 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "3"]
+[White "Inkiov, Ventzislav"]
+[Black "Epishin, Vladimir"]
+[Result "0-1"]
+[ECO "E06"]
+[WhiteElo "2466"]
+[BlackElo "2566"]
+[PlyCount "98"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Qc2
+b6 9. Bf4 Bb7 10. Ne5 Na6 11. cxd5 cxd5 12. Nc3 Nd7 13. a3 Rc8 14. Qb3 Nxe5 15.
+Bxe5 Nb8 16. Rfd1 Nc6 17. e4 Na5 18. Qc2 Qd7 19. Qe2 Nc4 20. Rac1 Nxe5 21. dxe5
+d4 22. Na2 Rc5 23. Nb4 Rxc1 24. Rxc1 Bxb4 25. axb4 d3 26. Qe3 Rd8 27. Rd1 Ba6
+28. Bf1 h6 29. Rd2 Qb5 30. f4 Qxb4 31. Kf2 Qc4 32. h4 Qc1 33. Qe1 Qc5+ 34. Qe3
+Rd4 35. Kf3 Qc1 36. Qf2 Rb4 37. g4 Bb7 38. Bxd3 Rb3 39. Ke2 Rxb2 40. Rxb2 Qxb2+
+41. Ke3 Qxf2+ 42. Kxf2 a5 43. Ke3 Bc6 44. Kd4 Kf8 45. f5 g5 46. fxg6 fxg6 47.
+g5 hxg5 48. hxg5 Ke7 49. Bc4 Bd7 0-1
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "3"]
+[White "Van Hoolandt, Patrick"]
+[Black "De Marchi, Alessandro"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2183"]
+[BlackElo "1685"]
+[PlyCount "75"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. Qc2 d5 7. cxd5 Nxd5 8.
+Bxe7 Qxe7 9. e4 Nxc3 10. bxc3 O-O 11. Bd3 Ba6 12. O-O Bxd3 13. Qxd3 Nc6 14.
+Rfe1 e5 15. Qb5 Na5 16. Nxe5 a6 17. Qb4 Qe6 18. f4 f5 19. d5 Qh6 20. g3 fxe4
+21. Qxe4 Rae8 22. Rad1 Nb7 23. Qc4 Qd6 24. Qxa6 Nc5 25. Qe2 Na4 26. Qe3 Qa3 27.
+c4 Qxe3+ 28. Rxe3 Ra8 29. Rd2 Nc5 30. Nc6 Rfe8 31. Rxe8+ Rxe8 32. Ne5 Ra8 33.
+Kg2 Ra4 34. Kf3 Ra3+ 35. Kg4 Rc3 36. d6 cxd6 37. Rxd6 h6 38. Rxb6 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "4"]
+[White "De Marchi, Alessandro"]
+[Black "Zanin, Dario"]
+[Result "1/2-1/2"]
+[ECO "E85"]
+[WhiteElo "1685"]
+[BlackElo "2054"]
+[PlyCount "84"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. dxe5 dxe5 8. Qxd8
+Rxd8 9. Rd1 Rxd1+ 10. Kxd1 c6 11. c5 Be6 12. Kc2 Nbd7 13. Nge2 Bf8 14. b4 a5
+15. a3 axb4 16. axb4 Ne8 17. Kb2 b6 18. cxb6 Bxb4 19. Nc1 Ba3+ 20. Kc2 Nd6 21.
+Nb3 f5 22. exf5 Nxf5 23. Be2 Nd6 24. Bd3 c5 25. Nd2 Nxb6 26. Re1 Re8 27. Ra1
+Bb4 28. Ra6 Rb8 29. Nde4 Bc8 30. Ra7 Rb7 31. Rxb7 Nxb7 32. Ba6 Bxc3 33. Kxc3
+Nd5+ 34. Kd2 Nf4 35. g3 Ne6 36. Nxc5 Nexc5 37. Bxc5 Nxc5 38. Bxc8 Kf7 39. Kc3
+Ke7 40. Kd2 Kd6 41. Bh3 Kd5 42. Ke3 h6 1/2-1/2
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "4"]
+[White "Granda Zuniga, Julio E"]
+[Black "Fedorchuk, Sergey A"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2609"]
+[BlackElo "2671"]
+[PlyCount "78"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. O-O
+O-O 9. a3 Be7 10. Qc2 c5 11. dxc5 bxc5 12. Nc3 Nc6 13. Rfd1 Qb8 14. Nb5 Rd8 15.
+e3 d5 16. Bc3 Ne4 17. Bb2 Ba6 18. a4 Bb7 19. Rac1 Nb4 20. Qe2 Na2 21. Rb1 Nb4
+22. Ne5 f6 23. Nd7 Rxd7 24. Bxe4 f5 25. Bg2 Qf8 26. Rbc1 Qf7 27. Rd2 Rad8 28.
+Be5 Bf8 29. Rcd1 Bc6 30. h3 h6 31. g4 g6 32. gxf5 gxf5 33. cxd5 exd5 34. Qf3
+Qe6 35. Qg3+ Kh7 36. Nc7 Qf7 37. Kh2 Be7 38. h4 Rg8 39. Qh3 Rg4 0-1
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "4"]
+[White "Ikonnikov, Vyacheslav"]
+[Black "Bertaglia, Luca"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2578"]
+[BlackElo "2064"]
+[PlyCount "68"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Na6 8. Re1
+Bg4 9. d5 Nc5 10. Qc2 a5 11. Be3 b6 12. a3 a4 13. Bxc5 bxc5 14. Nd2 Bd7 15. Nb5
+Ne8 16. Nb1 f5 17. N1c3 Nf6 18. exf5 gxf5 19. Nxa4 e4 20. Nac3 Re8 21. Qd2 e3
+22. fxe3 Bh6 23. Bf3 Bxb5 24. Nxb5 Ne4 25. Qc2 Re5 26. a4 Ra5 27. Re2 Qe7 28.
+Rae1 Kf8 29. Bxe4 Rxe4 30. Qc3 Rxa4 31. Qh8+ Kf7 32. Qxh7+ Bg7 33. Nc3 Raxc4
+34. Nxe4 Rxe4 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "4"]
+[White "Jovanic, Ognjen"]
+[Black "De Val, Daniele"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2504"]
+[BlackElo "2208"]
+[PlyCount "143"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 O-O 5. a3 Bxd2+ 6. Bxd2 Ne4 7. Bf4 d6 8.
+e3 f5 9. Be2 Nd7 10. h3 b6 11. O-O Bb7 12. Bh2 Qe8 13. Qc2 Qg6 14. Rfd1 Ndf6
+15. c5 Bd5 16. cxd6 cxd6 17. Rac1 Ng4 18. Rf1 Nxh2 19. Kxh2 f4 20. Bd3 fxe3 21.
+fxe3 Qg3+ 22. Kh1 Nf6 23. Kg1 Bb7 24. Qf2 Qxf2+ 25. Rxf2 Rac8 26. Rfc2 Rxc2 27.
+Rxc2 Rc8 28. Ng5 Rxc2 29. Bxc2 e5 30. dxe5 dxe5 31. Kf2 g6 32. Nf3 Nd7 33. b4
+Bc6 34. g4 Kf7 35. g5 Ke6 36. e4 Nf8 37. Nd2 Ke7 38. Nc4 Nd7 39. a4 b5 40. Na5
+Kd6 41. Ke3 Nf8 42. h4 Bd7 43. Nb7+ Kc7 44. Nc5 Bc6 45. a5 Kd6 46. Bb3 Be8 47.
+Bg8 Bc6 48. Nd3 Bd7 49. Nc5 Bc6 50. Kf3 Be8 51. Kg4 Bc6 52. Bf7 Ke7 53. Bb3 Kd6
+54. Kf3 Bd7 55. Ke3 Bc6 56. Nd3 Bd7 57. Nf2 Be6 58. Bd1 Bd7 59. Be2 Kc7 60. Nd1
+Bc6 61. Nc3 a6 62. Nd5+ Bxd5 63. exd5 Kd6 64. Ke4 Nd7 65. Bg4 Nf8 66. Bh3 h6
+67. gxh6 Nh7 68. Be6 Nf6+ 69. Kf3 Ke7 70. Bc8 e4+ 71. Ke2 Kd6 72. Bxa6 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "4"]
+[White "Omeri, Silvan"]
+[Black "Rigo, Gianfrancesco"]
+[Result "1-0"]
+[ECO "E13"]
+[WhiteElo "2201"]
+[BlackElo "2023"]
+[PlyCount "95"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 b6 2. d4 Bb7 3. Nc3 e6 4. Nf3 Nf6 5. Bg5 Bb4 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Qc2 d6 10. Bd3 Bxc3+ 11. bxc3 f5 12. d5 exd5 13. cxd5 Bxd5 14. Nd4 Qf6
+15. f3 Nxg3 16. hxg3 Nd7 17. Bxf5 Nc5 18. Bg6+ Bf7 19. Bxf7+ Qxf7 20. g4 Rd8
+21. Qf5 Rd7 22. Qxf7+ Rxf7 23. Kd2 Rfh7 24. Nf5 Kf7 25. Rh5 Kg6 26. Rah1 Nd7
+27. e4 Nf6 28. R5h3 h5 29. gxh5+ Rxh5 30. Rxh5 Rxh5 31. Rxh5 Kxh5 32. Ke3 Kg6
+33. Ne7+ Kf7 34. Nd5 c6 35. Nb4 c5 36. Nc6 a6 37. Nb8 a5 38. c4 Ke6 39. g3 Nh5
+40. Kf2 Ke7 41. Nc6+ Kd7 42. Na7 Ke6 43. Nc8 Ke5 44. Nxb6 g4 45. Nd5 Ng7 46.
+Ne7 gxf3 47. Kxf3 Kd4 48. Nc6+ 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.01"]
+[Round "4"]
+[White "Vezzosi, Paolo"]
+[Black "Van Hoolandt, Patrick"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2351"]
+[BlackElo "2183"]
+[PlyCount "57"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. e3 Bb7 6. Bd3 O-O 7. O-O c5 8.
+dxc5 Bxd2 9. Bxd2 bxc5 10. Qc2 d6 11. Bc3 e5 12. Ng5 h6 13. Ne4 Ne8 14. Ng3 Nc6
+15. a3 Ne7 16. f4 exf4 17. Rxf4 d5 18. Raf1 f6 19. Nh5 Qd6 20. Rg4 Qe6 21. Rg3
+dxc4 22. Bg6 Nxg6 23. Qxg6 Be4 24. Nxg7 Bxg6 25. Nxe6 Kf7 26. Nxf8 Bd3 27. Nd7
+Bxf1 28. Kxf1 Rc8 29. Rf3 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "De Val, Daniele"]
+[Black "De Filomeno, Simone"]
+[Result "1-0"]
+[ECO "E70"]
+[WhiteElo "2208"]
+[BlackElo "2088"]
+[PlyCount "85"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Bd3 d6 6. Nge2 e5 7. d5 Nh5 8. Be3
+f5 9. f3 f4 10. Bf2 Na6 11. a3 Nc5 12. Bc2 a5 13. b4 axb4 14. axb4 Rxa1 15.
+Qxa1 Na6 16. Qa3 Qg5 17. Rg1 Qe7 18. c5 Bf6 19. Bd3 dxc5 20. bxc5 Bh4 21. Bxa6
+bxa6 22. Nd1 Bxf2+ 23. Nxf2 Bd7 24. Kd2 Bb5 25. Nc3 Qh4 26. Nh3 Bd7 27. d6 cxd6
+28. cxd6 Rd8 29. Rd1 Bxh3 30. gxh3 Qf2+ 31. Ne2 Nf6 32. Qb3+ Kg7 33. Qe6 Rd7
+34. Qxe5 Qxf3 35. Nc3 Qe3+ 36. Kc2 f3 37. Qxf6+ Kxf6 38. Nd5+ Ke6 39. Nxe3 Rxd6
+40. Rxd6+ Kxd6 41. Kd3 Ke6 42. Nc4 a5 43. Ke3 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Dgebuadze, Alexandre"]
+[Black "Kovalyov, Anton"]
+[Result "0-1"]
+[ECO "E14"]
+[WhiteElo "2528"]
+[BlackElo "2525"]
+[PlyCount "162"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 c5 6. b3 Be7 7. Bb2 d6 8. c4
+cxd4 9. exd4 Nbd7 10. O-O O-O 11. Re1 Re8 12. a3 Bf8 13. Rc1 g6 14. Rc2 Bg7 15.
+Ng5 Rc8 16. Nde4 Nxe4 17. Nxe4 Nf6 18. Nxf6+ Bxf6 19. Qa1 Bg7 20. Be4 Bxe4 21.
+Rxe4 d5 22. Ree2 dxc4 23. bxc4 Re7 24. h3 Rec7 25. d5 Bxb2 26. Qxb2 exd5 27.
+cxd5 Rxc2 28. Rxc2 Rxc2 29. Qxc2 Qxd5 30. Qc7 Qd1+ 31. Kh2 Qd4 32. Qxa7 Qxf2
+33. Qb8+ Kg7 34. Qe5+ Qf6 35. Qb5 Qf4+ 36. Kh1 Qc1+ 37. Kh2 Qc7+ 38. Kh1 h5 39.
+a4 Kf6 40. Qb2+ Ke6 41. Qb3+ Ke7 42. Qe3+ Kd7 43. Qd3+ Kc8 44. Qe4 Kd8 45. Qa8+
+Ke7 46. Qe4+ Kf8 47. Qb4+ Kg7 48. Qd4+ Kg8 49. Qb4 Qa7 50. Qd4 Qc7 51. Qb4 Kg7
+52. Qd4+ f6 53. Qb4 g5 54. Qb5 Qc1+ 55. Kh2 Qf4+ 56. Kh1 Qd4 57. Qc6 g4 58.
+hxg4 hxg4 59. g3 Kh6 60. Kg2 Kg5 61. Qc1+ Kf5 62. Qc8+ Ke5 63. Qe8+ Kd6 64.
+Qf8+ Kd5 65. Qf7+ Kc5 66. Qe7+ Kc4 67. Qe2+ Kc3 68. Qa6 Qd2+ 69. Kg1 Qe3+ 70.
+Kg2 Qe4+ 71. Kh2 Qc2+ 72. Kg1 Qd1+ 73. Kh2 Qd2+ 74. Kh1 Qd5+ 75. Kh2 Qh5+ 76.
+Kg1 Qc5+ 77. Kg2 Kd2 78. Qa8 Ke3 79. Qe8+ Qe5 80. Qc8 Qe4+ 81. Kh2 Kf2 0-1
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Naumkin, Igor"]
+[Black "Vezzosi, Paolo"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2494"]
+[BlackElo "2351"]
+[PlyCount "65"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 d6 6. Bg2 Nbd7 7. O-O e5 8. Nc3
+exd4 9. Nxd4 O-O 10. Qc2 c6 11. Rad1 Ne5 12. b3 Re8 13. Bc1 Bd7 14. Ne4 Rc8 15.
+c5 dxc5 16. Nxc5 Qb6 17. Nxd7 Nexd7 18. Nf5 Re6 19. Bb2 Rce8 20. Nxg7 Rxe2 21.
+Qc1 R8e5 22. Bxe5 Rxe5 23. Bh3 Kxg7 24. Bxd7 Nd5 25. Rd3 Bc5 26. Qb2 f6 27. Bg4
+Qb4 28. Bf3 h5 29. Qd2 b6 30. Kg2 Qxd2 31. Rxd2 Kg6 32. Rfd1 Ne7 33. h4 1-0
+
+[Event "Conegliano op"]
+[Site "Conegliano"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Van Hoolandt, Patrick"]
+[Black "Tonus, Alex"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[WhiteElo "2183"]
+[BlackElo "1919"]
+[PlyCount "139"]
+[EventDate "2008.05.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]

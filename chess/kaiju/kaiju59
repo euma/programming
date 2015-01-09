@@ -1,0 +1,50 @@
+D03	Grunfeld Variation, QP	1.d4 d5 2.Nf3 Nf6 3.Bg5 g6
+D03	Gossip Variation, QP	1.d4 d5 2.Nf3 Nf6 3.Bg5 Ne4
+D04	Colle System; D04	1.d4 d5 2.Nf3 Nf6 3.e3
+D04	Bishop Defense, QP; Anti-Colle	1.d4 d5 2.Nf3 Nf6 3.e3 Bf5
+D05	Classical Defense, Colle System; D05	1.d4 d5 2.Nf3 Nf6 3.e3 e6
+D05	Zukertort Variation, QP	1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3
+D05	Rubinstein Attack, Colle	1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3 c5
+5.b3
+D06	Queen's Gambit; Aleppo Gambit; D06	1.d4 d5 2.c4
+D06	Zilbermints Gambit, QGD	1.d4 d5 2.c4 b5
+D06	Brieger Defense; Sahovic Defense, QGD; Baltic Defense	1.d4 d5 2.c4
+Bf5
+D06	Pseudo-Slav, QGD	1.d4 d5 2.c4 Bf5 3.Nc3 e6 4.Nf3 c6
+D06	Pseudo-Chigorin, QGD	1.d4 d5 2.c4 Bf5 3.Nc3 e6 4.Nf3 Nc6
+D06	Queen Attack, Baltic Defens, QGD	1.d4 d5 2.c4 Bf5 3.Nc3 e6
+4.Qb3
+D06	Austrian Defense; Summetrical Defense, QGD	1.d4 d5 2.c4 c5
+D06	Gusev Countergambit, QGD	1.d4 d5 2.c4 c5 3.cxd5 Nf6
+D06	Haberditz Variation, QGD	1.d4 d5 2.c4 c5 3.cxd5 Nf6 4.e4 Nxe4
+5.dxc5 Qa5+
+D06	Salvio Countergambit, QGD	1.d4 d5 2.c4 c5 3.dxc5 d4
+D06	Alekhine Defense, QGD	1.d4 d5 2.c4 g6 
+D06	Tartakower Gambit, QGD	1.d4 d5 2.c4 Nc6 3.Nc3 e5
+D06	Modern Gambit, Chigorin Defense	1.d4 d5 2.c4 Nc6 3.Nc3 Nf6 4.Nf3 dxc4
+D06	Alekhine Variation, Chigorin Defense	1.d4 d5 2.c4 Nc6 3.Nf3 Bg4
+4.Qa4
+D06	Lazard Gambit, Chigorin Defense	1.d4 d5 2.c4 Nc6 3.Nf3 e5
+D06	Marshall Defense; Knight Defense, QGD	1.d4 d5 2.c4 Nf6  
+D06	Cocquio Counter Gambit, QGD; Tan Gambit	1.d4 d5 2.c4 Nf6 3.cxd5 c6
+D07	Chigorin Defense, QGD; D07	1.d4 d5 2.c4 Nc6
+D07	Exchange Variation, Chigorin Defense	1.d4 d5 2.c4 Nc6 3.cxd5 Qxd5
+D07	Costa's Line	1.d4 d5 2.c4 Nc6 3.cxd5 Qxd5 4.e3 e5 5.Nc3 Bb4 6.Bd2
+Bxc3 7.Bxc3 exd4 8.Ne2
+D07	Janowski Variation, QGD	1.d4 d5 2.c4 Nc6 3.Nc3 dxc4 4.Nf3
+D08	Albin Countergambit; Cavalotti Var, QGD; D08	1.d4 d5 2.c4 e5
+D08	Lasker Trap, QGD	1.d4 d5 2.c4 e5 3.dxe5 d4 4.e3 Bb4+ 5.Bd2 dxe3
+D08	Normal Line, Albin Countergambit, QGD	1.d4 d5 2.c4 e5 3.dxe5 d4
+4.Nf3
+D08	Tartakower Defense, QGD	1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 c5
+D08	Alapin Variation, QGD	1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2
+D09	Fianchetto Variation, Albin Countergambit; D09	1.d4 d5 2.c4 e5 3.dxe5
+d4 4.Nf3 Nc6 5.g3
+D10	Slav Defense; Czech Defense, QGD; D10	1.d4 d5 2.c4 c6
+D10	Exchange Variation, Slav	1.d4 d5 2.c4 c6 3.cxd5
+D10	Slav Pawn Game	1.d4 d5 2.c4 c6 3.e3
+D10	Diemer Gambit, Slav	1.d4 d5 2.c4 c6 3.e4
+D10	Alekhine Attack, Slav	1.d4 d5 2.c4 c6 3.Nc3 dxc4 4.e4
+D10	Winawer Counter Gambit, Slav	1.d4 d5 2.c4 c6 3.Nc3 e5
+D10	Anti-Winawer Gambit, Slav	1.d4 d5 2.c4 c6 3.Nc3 e5 4.e4
+D11	Modern Line, Slav; D11	1.d4 d5 2.c4 c6 3.Nf3

@@ -1,0 +1,600 @@
+[WhiteElo "2285"]
+[BlackElo "2548"]
+[PlyCount "114"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Gross Lehna (W)"]
+[BlackTeam "Vidnoe Spartak (W)"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4
+Ba7 9. dxe5 Nxe5 10. Nxe5 dxe5 11. Qxd8+ Kxd8 12. Nd2 Ke7 13. Nf3 Bb7 14. Bg5
+h6 15. Bh4 c5 16. Nxe5 c4 17. Bc2 g5 18. Bg3 Rhd8 19. Rad1 Ke6 20. Nf3 Bxe4 21.
+Rde1 Kf5 22. Rxe4 Nxe4 23. Re1 Rd3 24. Ne5 Bxf2+ 25. Bxf2 Kxe5 26. Bd4+ Kd5 27.
+Rf1 Re8 28. Rf5+ Kd6 29. Bxd3 cxd3 30. Rf3 d2 31. Rd3 Kc6 32. g4 Nxc3 33. Rxd2
+Nxa2 34. Bg7 Nb4 35. Rf2 Re1+ 36. Kg2 Nd5 37. Rxf7 Nf4+ 38. Kf3 Ne6 39. Kf2 Rb1
+40. Bh8 Rh1 41. Kg2 Rd1 42. Rf6 Rd6 43. Kg3 Nd8 44. Rf5 a5 45. Bf6 Ne6 46. Rf3
+Rd1 47. Re3 Kd6 48. Kf2 Nf4 49. Be5+ Kd5 50. Bg7 Rd2+ 51. Kg1 Rg2+ 52. Kh1 Rxg4
+53. Re5+ Kc6 54. Re4 Rh4 55. Bf6 a4 56. Bc3 Rh3 57. Kg1 a3 0-1
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.17"]
+[Round "1"]
+[White "Voicu, Carmen"]
+[Black "Kosintseva, Nadezhda"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2239"]
+[BlackElo "2468"]
+[PlyCount "116"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Gross Lehna (W)"]
+[BlackTeam "Vidnoe Spartak (W)"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. O-O h6 8. Re1
+d6 9. h3 O-O 10. Nbd2 Be6 11. Bc2 d5 12. Qe2 dxe4 13. Nxe4 Re8 14. Bd2 Nxe4 15.
+dxe4 Qf6 16. Red1 Ne7 17. Nh2 Ng6 18. Ng4 Qh4 19. Qf3 Rad8 20. Ne3 Nf4 21. Nf5
+Bxf5 22. exf5 Nd5 23. Qe2 e4 24. Be1 Qf4 25. c4 Nf6 26. Rxd8 Rxd8 27. Bc3 Bd4
+28. Rd1 c5 29. Bd2 Qxf5 30. Be3 Qe5 31. b3 Rd6 32. Re1 Re6 33. g3 h5 34. Kg2
+Re8 35. a3 b6 36. b4 h4 37. gxh4 Nh5 38. Rg1 Nf4+ 39. Bxf4 Qxf4 40. h5 e3 41.
+f3 Re5 42. Kf1 Rxh5 43. Rg4 Qf6 44. Qg2 Re5 45. Ke2 Re8 46. f4 Bb2 47. Qd5 Rd8
+48. Qe4 Bc1 49. Qh7+ Kf8 50. Rg5 g6 51. Re5 Bb2 52. Qh6+ Kg8 53. Rxe3 Qd4 54.
+Bxg6 Qd1+ 55. Kf2 Rd2+ 56. Kg3 Qg1+ 57. Kh4 Bf6+ 58. Kh5 Qd1+ 0-1
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.17"]
+[Round "1"]
+[White "Paehtz, Elisabeth"]
+[Black "Steil Antoni, Fiona"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2471"]
+[BlackElo "2166"]
+[PlyCount "84"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Saratov Economist (W)"]
+[BlackTeam "Vandoeuvre (W)"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. c3 Nf6 6. Bb3 a6 7. h3 Ba7 8. Nbd2
+O-O 9. Nf1 d5 10. Qe2 h6 11. g4 Re8 12. Ng3 Be6 13. g5 dxe4 14. dxe4 hxg5 15.
+Bxg5 Bxb3 16. axb3 Qd6 17. Rg1 g6 18. Nh4 Nh7 19. Be3 Qf6 20. Nhf5 Bxe3 21.
+Nxe3 Ne7 22. O-O-O Rad8 23. Ngf5 Ng5 24. Ng4 Qe6 25. Ngh6+ Kf8 26. Rxg5 gxf5
+27. Nxf5 Nxf5 28. exf5 Rxd1+ 29. Qxd1 Qh6 30. Qh5 Qxh5 31. Rxh5 Ke7 32. Kd2 Rg8
+33. Rh4 Kf6 34. Rg4 Rh8 35. h4 Kxf5 36. f3 Rh6 37. Ke3 Rg6 38. Rc4 c6 39. Kf2
+Rd6 40. Ke2 Rg6 41. Kf2 Rd6 42. Ke2 Rg6 1/2-1/2
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.18"]
+[Round "2"]
+[White "Dragovic, Nada"]
+[Black "Fischer, Claudia"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2011"]
+[PlyCount "89"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Ugljevik Rudar (W)"]
+[BlackTeam "Bischwiller (W)"]
+[WhiteTeamCountry "BIH"]
+[BlackTeamCountry "FRA"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O e6 5. d3 Nf6 6. a4 Be7 7. Nbd2 O-O 8. e4
+dxe4 9. dxe4 Qc7 10. Ng5 e5 11. c3 Ng4 12. Nc4 Nf6 13. h3 h6 14. Nf3 Be6 15.
+Qe2 Rad8 16. Nfd2 b6 17. f4 Bc8 18. Ne3 Qb8 19. f5 Rfe8 20. g4 Nh7 21. Nd5 Bh4
+22. Nf3 Bg3 23. g5 Qd6 24. h4 h5 25. Be3 Rd7 26. Rad1 Qf8 27. Nd2 Red8 28. Qxh5
+Qd6 29. g6 Nf8 30. gxf7+ Rxf7 31. Nc4 Qd7 32. Nf6+ Rxf6 33. Rxd7 Rxd7 34. Bg5
+Rff7 35. Qf3 Bf4 36. Rd1 Rc7 37. Bf1 g6 38. Nd6 Rg7 39. Bc4+ Kh7 40. Ne8 Bxg5
+41. hxg5 Kh8 42. Nxc7 gxf5 43. Qh5+ Rh7 44. Qe8 Ne7 45. Qxf8+ 1-0
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.18"]
+[Round "2"]
+[White "Makka, Ioulia"]
+[Black "Lian, Marina"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2220"]
+[BlackElo "1869"]
+[PlyCount "61"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Panevezys (W)"]
+[BlackTeam "Herzliya (W)"]
+[WhiteTeamCountry "LTU"]
+[BlackTeamCountry "ISR"]
+
+1. e4 e6 2. Qe2 c5 3. Nf3 Nc6 4. c3 g6 5. g3 Bg7 6. Bg2 Nge7 7. d3 d6 8. O-O
+O-O 9. Na3 Rb8 10. Nc2 b5 11. d4 b4 12. dxc5 bxc3 13. bxc3 dxc5 14. Qe3 Qa5 15.
+Bd2 Rb2 16. Rfc1 Rd8 17. Bf1 Qa4 18. Nce1 c4 19. Qf4 e5 20. Qe3 h6 21. Be2 Rxa2
+22. Rxa2 Qxa2 23. Rc2 Qb3 24. Qc5 Be6 25. Be3 a5 26. Nd2 Qa4 27. Nxc4 Bxc4 28.
+Qxc4 Qa1 29. Rc1 Qb2 30. Bf1 Ra8 31. Nd3 1-0
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.18"]
+[Round "2"]
+[White "Paulet, Iosefina"]
+[Black "Ovod, Evgenija"]
+[Result "0-1"]
+[ECO "C65"]
+[WhiteElo "2307"]
+[BlackElo "2429"]
+[PlyCount "224"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Iasi Politehnica (W)"]
+[BlackTeam "Vidnoe Spartak (W)"]
+[WhiteTeamCountry "ROM"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. c3 O-O 6. d4 Bb6 7. Bg5 h6 8. Bh4
+d6 9. Qd3 Qe7 10. Nbd2 Nb8 11. Ba4 c6 12. Rfe1 Nbd7 13. Nc4 Bc7 14. Ne3 Re8 15.
+Rad1 Qf8 16. Nd2 Nh5 17. Nf5 g6 18. Qf3 Nf4 19. Ne3 Nd3 20. Rf1 Nxb2 21. Bb3
+Nxd1 22. Ng4 d5 23. exd5 e4 24. Nxe4 Rxe4 25. Qxe4 Nxc3 26. Qc2 Nxd5 27. Bxd5
+Bxh2+ 28. Kxh2 Qd6+ 29. Kg1 Qxd5 30. Re1 Kg7 31. Qc3 g5 32. Ne3 Qe4 33. d5+ Kh7
+34. f3 Qg6 35. Bg3 Nb6 36. dxc6 Qxc6 37. Qd4 Qg6 38. Rc1 Be6 39. Ng4 Bxg4 40.
+fxg4 Rc8 41. Rf1 Rc6 42. Qd8 Re6 43. Qc7 Rf6 44. Re1 Qd3 45. Be5 Qd2 46. Bc3
+Qf2+ 47. Kh1 Nd5 48. Qe5 Qh4+ 49. Kg1 Qf2+ 50. Kh1 Nxc3 51. Qxc3 Qh4+ 52. Kg1
+Qf2+ 53. Kh1 Rd6 54. Qb4 Rd4 55. Qb1+ Kg7 56. Rf1 Qh4+ 57. Kg1 Qxg4 58. Qxb7
+Rd7 59. Qb3 Qd4+ 60. Kh1 Qh4+ 61. Kg1 Qd4+ 62. Kh1 a5 63. a4 Qh4+ 64. Kg1 Qd4+
+65. Kh1 Qh4+ 66. Kg1 Qb4 67. Qc2 Qd4+ 68. Kh1 Qh4+ 69. Kg1 Qd4+ 70. Kh1 Rd6 71.
+Qb3 Qh4+ 72. Kg1 Qd4+ 73. Kh1 Rf6 74. Rxf6 Kxf6 75. Qf3+ Kg7 76. Qc6 Qa1+ 77.
+Kh2 Qe5+ 78. Kh1 g4 79. Qb5 Kf6 80. Qf1+ Qf5 81. Qa1+ Kg6 82. Qd4 h5 83. Qd6+
+Kh7 84. Qg3 Qe4 85. Qc7 Qd5 86. Qc2+ Kh6 87. Qc3 Qf5 88. Qh8+ Kg5 89. Qd8+ f6
+90. Qd2+ Kg6 91. Qa2 Qf1+ 92. Kh2 Qf4+ 93. Kh1 Kg5 94. Qd5+ Kh4 95. Qd1 g3 96.
+Qd4 Kg5 97. Qc5+ Qe5 98. Qe3+ Kg6 99. Qd3+ f5 100. Qb1 h4 101. Qb6+ Kh5 102.
+Qb1 h3 103. Qd1+ Kg6 104. gxh3 Qe4+ 105. Kg1 Qe3+ 106. Kh1 Qe4+ 107. Kg1 f4
+108. h4 Kf5 109. Qd7+ Qe6 110. Qb5+ Kg4 111. Qb1 Qe3+ 112. Kh1 Qf3+ 0-1
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.18"]
+[Round "2"]
+[White "Kovanova, Baira"]
+[Black "Socko, Monika"]
+[Result "0-1"]
+[ECO "C49"]
+[WhiteElo "2379"]
+[BlackElo "2434"]
+[PlyCount "120"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Saratov Economist (W)"]
+[BlackTeam "Monte Carlo (W)"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "MNC"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 Bd7 9. h3 h6 10. Bd2 Qe7 11. Qe2 a6 12. Bxc6 Bxc6 13. Nh4 Bd7 14. c4 b5
+15. cxb5 axb5 16. Nf5 Bxf5 17. exf5 Ra4 18. a3 Qd7 19. f4 e4 20. g4 Re8 21. g5
+exd3 22. Qxd3 Ne4 23. gxh6 Qxf5 24. hxg7 Qg6+ 25. Kh2 Rd4 26. Qxd4 Qg3+ 27. Kh1
+Qxh3+ 28. Kg1 Qg4+ 29. Kh2 Nxd2 30. Qxd2 Re2+ 31. Qxe2 Qxe2+ 32. Kg3 Kxg7 33.
+Rf2 Qe3+ 34. Rf3 Qd2 35. c3 Qb2 36. Rh1 Qxa3 37. f5 Kf6 38. Rh6+ Kg5 39. Rh1
+Kf6 40. Rh6+ Ke7 41. f6+ Kd7 42. Rh4 Qa8 43. Re3 Qd5 44. Rf4 Kc6 45. Rff3 Kb6
+46. Re7 c5 47. Kf2 c4 48. Kg3 b4 49. cxb4 Kb5 50. Kg4 Kxb4 51. Rf5 Qg2+ 52. Kf4
+c3 53. Rxf7 Qc6 54. Re7 c2 55. Re4+ Kb3 56. Re3+ Kb2 57. f7 c1=Q 58. f8=Q Q6c4+
+59. Kf3 Q1f1+ 60. Kg3 Qg1+ 0-1
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Fischer, Julie"]
+[Black "Vovinkina, Natalia"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "1664"]
+[BlackElo "2147"]
+[PlyCount "61"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Bischwiller (W)"]
+[BlackTeam "Haifa Madatech (W)"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "ISR"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Be2 f6 7. O-O Bd7 8. exf6
+Nxf6 9. Re1 cxd4 10. cxd4 Bd6 11. Nc3 a6 12. Na4 Qc7 13. Nc5 Nxd4 14. Nxd7
+Nxe2+ 15. Qxe2 Qxd7 16. Qxe6+ Qxe6 17. Rxe6+ Kd7 18. Re2 Rac8 19. Bg5 Rhe8 20.
+Rxe8 Nxe8 21. Rc1 Nc7 22. g3 Re8 23. Kf1 Ne6 24. Rd1 Nc7 25. Be3 b5 26. Bb6 Kc6
+27. Ba5 g6 28. Rc1+ Kb7 29. Rd1 Kc6 30. Rc1+ Kb7 31. Rd1 1/2-1/2
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Genzling, Sylvie"]
+[Black "Pitam, Ela"]
+[Result "1-0"]
+[ECO "C15"]
+[WhiteElo "1936"]
+[BlackElo "2295"]
+[PlyCount "91"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Bischwiller (W)"]
+[BlackTeam "Haifa Madatech (W)"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "ISR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 dxe4 5. a3 Be7 6. Nxe4 Nf6 7. Qd3 Bd7 8.
+Bf4 Nc6 9. O-O-O Nd5 10. Bg3 f5 11. N4c3 O-O 12. Nxd5 exd5 13. h4 Na5 14. Nf4
+c6 15. Kb1 Qb6 16. Qc3 Kh8 17. h5 Rfe8 18. Ng6+ hxg6 19. hxg6+ Kg8 20. Be5 Bh4
+21. Rxh4 Rxe5 22. dxe5 Re8 23. Qh3 Kf8 24. Rh8+ Ke7 25. Rxe8+ Bxe8 26. Qxf5 d4
+27. Be2 c5 28. Qg5+ Kf8 29. Rh1 Bxg6 30. Rh8+ Kf7 31. Qf4+ Ke6 32. Bg4+ Kd5 33.
+Bf3+ Kc4 34. Be2+ Kd5 35. Qf3+ Ke6 36. Qg4+ Ke7 37. Qg5+ Kf7 38. Rh3 c4 39.
+Rf3+ Ke8 40. Qf4 Qc5 41. Rh3 Qb6 42. Rh8+ Ke7 43. Qf8+ Ke6 44. Qg8+ Kxe5 45.
+Qxg7+ Kd5 46. Bf3+ 1-0
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Kovanova, Baira"]
+[Black "Skogvall, Martina"]
+[Result "1-0"]
+[ECO "C09"]
+[WhiteElo "2379"]
+[BlackElo "2130"]
+[PlyCount "93"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Saratov Economist (W)"]
+[BlackTeam "Gross Lehna (W)"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Qe7+ 7. Be2 g6 8.
+O-O Bg7 9. Re1 Be6 10. c4 Nf6 11. Nb3 cxd4 12. Nfxd4 O-O 13. Nxe6 fxe6 14. Be3
+d4 15. Nxd4 Nxd4 16. Qxd4 b6 17. Qh4 Qb4 18. Rab1 Rad8 19. a3 Qa4 20. Bd1 Qa5
+21. Bb3 Kh8 22. Bc2 Kg8 23. Red1 Rde8 24. Rd3 Qf5 25. h3 e5 26. Rd2 Qc8 27. c5
+bxc5 28. Qc4+ Kh8 29. Qxc5 Rf7 30. Qxc8 Rxc8 31. Rbd1 a5 32. Bb3 Rff8 33. Rc2
+Rb8 34. Ba4 h6 35. Rd6 g5 36. Ra6 Ra8 37. Rxa8 Rxa8 38. Rc5 Ne4 39. Rc7 Rb8 40.
+b4 axb4 41. axb4 Bf8 42. b5 Ra8 43. Bc2 Nd6 44. b6 Nc4 45. Bf5 Ra1+ 46. Kh2 e4
+47. Rc8 1-0
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Kovalevskaya, Ekaterina"]
+[Black "Padurariu, Ioana Smaranda"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2439"]
+[BlackElo "2179"]
+[PlyCount "119"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Podgorica T-com (W)"]
+[BlackTeam "Iasi Politehnica (W)"]
+[WhiteTeamCountry "YUG"]
+[BlackTeamCountry "ROM"]
+
+1. e4 e6 2. Qe2 c5 3. Nf3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. d3 d6 8. c3 e5
+9. a3 O-O 10. b4 a6 11. Be3 b6 12. Qd2 Bb7 13. Ra2 cxb4 14. axb4 d5 15. Na3 d4
+16. cxd4 exd4 17. Bh6 Qd6 18. Nc4 Qxb4 19. Qf4 b5 20. Nd6 Bc8 21. Nxc8 Raxc8
+22. Rxa6 Qb3 23. Bh3 Ra8 24. Rb6 Qxd3 25. Bxg7 Kxg7 26. Ne5 Qc3 27. Bd7 Qc5 28.
+Bxc6 Qxb6 29. Bxa8 Qd6 30. Bd5 Nxd5 31. exd5 Qxd5 32. Rd1 Rd8 33. Nd3 Rd7 34.
+Qe5+ Qxe5 35. Nxe5 Rd5 36. Nd3 Kf6 37. f3 g5 38. Kf2 h5 39. Ke2 Rd8 40. Rb1 Rd5
+41. Rb2 h4 42. g4 Kg6 43. Rc2 Rd8 44. Rc6+ f6 45. Ne5+ Kg7 46. Rc7+ Kg8 47. Nd7
+Re8+ 48. Kd2 Re6 49. Rb7 Ra6 50. Kd3 Ra3+ 51. Ke4 Kf7 52. Ne5+ Ke6 53. Rb6+ Ke7
+54. Nc6+ Kf7 55. Nxd4 h3 56. Rb7+ Ke8 57. Rh7 b4 58. Rxh3 b3 59. Rh8+ Kd7 60.
+Rb8 1-0
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Peptan, Corina"]
+[Black "Muzychuk, Anna"]
+[Result "0-1"]
+[ECO "C96"]
+[WhiteElo "2430"]
+[BlackElo "2508"]
+[PlyCount "74"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Iasi Politehnica (W)"]
+[BlackTeam "Podgorica T-com (W)"]
+[WhiteTeamCountry "ROM"]
+[BlackTeamCountry "YUG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 d5 11. Nxe5 dxe4 12. d4 c5 13. Nd2 cxd4 14. Nxe4 dxc3 15.
+Qxd8 Rxd8 16. Nxc3 Be6 17. a3 Rac8 18. Bg5 h6 19. Ng6 Bd6 20. Bxf6 gxf6 21.
+Rad1 Kg7 22. Nh4 Nc4 23. Nf5+ Bxf5 24. Bxf5 Rc5 25. Ne4 Rxf5 26. b3 Re5 27.
+bxc4 bxc4 28. Kf1 Re6 29. Rd4 Be7 30. Rxd8 Bxd8 31. f3 f5 32. Nc5 Rc6 33. Na4
+c3 34. Rc1 Ba5 35. Ke2 Rc4 36. Kd3 Rxa4 37. Ra1 Bb4 0-1
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Steil Antoni, Fiona"]
+[Black "Daulyte, Deimante"]
+[Result "1/2-1/2"]
+[ECO "C56"]
+[WhiteElo "2166"]
+[BlackElo "2278"]
+[PlyCount "74"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Vandoeuvre (W)"]
+[BlackTeam "Panevezys (W)"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "LTU"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qa5 9. Nxe4 Be6 10. Bd2 Bb4 11. Nxd4 Nxd4 12. c3 Be7 13. cxd4 Qd5 14. Bb4
+Bf6 15. Nxf6+ gxf6 16. Re3 h5 17. Qf3 Qxf3 18. Rxf3 Rh6 19. Re1 Rd8 20. Bc3 Rd5
+21. a3 h4 22. Rf4 Kd7 23. Ree4 Rdh5 24. Re3 Rg6 25. g3 a5 26. Ree4 hxg3 27.
+fxg3 Bd5 28. Rh4 Bxe4 29. Rxh5 b6 30. Kf2 f5 31. Rh7 Ke7 32. Rh8 Bd5 33. h4 Rg4
+34. Rh5 Ke6 35. Rh6+ Ke7 36. Rh5 Ke6 37. Rh6+ Ke7 1/2-1/2
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Chelushkina, Irina"]
+[Black "Stefanova, Antoaneta"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2360"]
+[BlackElo "2548"]
+[PlyCount "116"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Rudovci Radnicki (W)"]
+[BlackTeam "Vidnoe Spartak (W)"]
+[WhiteTeamCountry "YUG"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Bb7 8. axb5
+axb5 9. Rxa8 Bxa8 10. d3 O-O 11. Nc3 b4 12. Nd5 h6 13. Ne3 Re8 14. Bd2 Na5 15.
+Ba4 Bf8 16. c3 c5 17. Qe1 Qb6 18. c4 Bc6 19. Bd1 g6 20. Nh4 Bg7 21. g3 Nh7 22.
+Nhg2 Bb7 23. h4 Qd6 24. Nd5 f5 25. h5 fxe4 26. hxg6 Qxg6 27. Nh4 Qf7 28. dxe4
+Nxc4 29. Bb3 Bxd5 30. exd5 Nxd2 31. Qxd2 e4 32. Bd1 Ng5 33. Bg4 Bd4 34. Qf4
+Qxd5 35. Nf5 Kh7 36. Ne3 Qc6 37. Kg2 Kg8 38. b3 Be5 39. Qf5 d5 40. Be2 Kg7 41.
+Rh1 Bd4 42. Qxd5 Qxd5 43. Nxd5 Ra8 44. Nf4 Ra2 45. Rf1 Kf6 46. Rh1 Nf7 47. f3
+e3 48. Kf1 Rb2 49. Nd5+ Kg7 50. Rh4 Rxb3 51. Nf4 Rb1+ 52. Kg2 Rb2 53. Kf1 Rd2
+54. Rg4+ Kf8 55. Ng6+ Ke8 56. Re4+ Kd8 57. Nf4 b3 58. Ne6+ Kc8 0-1
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Daulyte, Deimante"]
+[Black "Cherenkova, Kristina"]
+[Result "0-1"]
+[ECO "C67"]
+[WhiteElo "2278"]
+[BlackElo "2245"]
+[PlyCount "98"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Panevezys (W)"]
+[BlackTeam "Attikis Aspropirgos (W)"]
+[WhiteTeamCountry "LTU"]
+[BlackTeamCountry "GRE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Bd7 10. Bg5+ Kc8 11. h3 h6 12. Bf4 b6 13. Rad1 Be6 14. Bh2
+Kb7 15. Rd2 Bb4 16. a3 Bxc3 17. bxc3 Rad8 18. Rfd1 Rxd2 19. Rxd2 c5 20. Ne1 Ne7
+21. f4 g6 22. Kf2 Kc6 23. Bg3 Nd5 24. Rd3 c4 25. Rf3 Bf5 26. Bh4 Be4 27. Rg3
+Kb5 28. Bf6 Re8 29. Bg7 h5 30. Nf3 Ka4 31. Nd2 Bxc2 32. Nxc4 Nxf4 33. Rf3 g5
+34. h4 Bg6 35. hxg5 Nd3+ 36. Ke2 b5 37. Nd2 Nc5 38. c4 c6 39. Bf6 Ne6 40. Kd1
+Nd4 41. Rf4 c5 42. cxb5 Kxb5 43. Ne4 Rb8 44. Be7 Bxe4 45. Rxe4 Kc4 46. Kc1 Kd3
+47. Bd6 Rb6 48. g6 Kxe4 49. g7 Kd3 0-1
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Fakhretdinova, Margarita"]
+[Black "Makka, Ioulia"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2147"]
+[BlackElo "2220"]
+[PlyCount "139"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Attikis Aspropirgos (W)"]
+[BlackTeam "Panevezys (W)"]
+[WhiteTeamCountry "GRE"]
+[BlackTeamCountry "LTU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. Bd3 f6 10. exf6 Bxf6 11. Qf2 cxd4 12. Bxd4 Nxd4 13. Nxd4 Qb6 14. Nce2
+Qxb2 15. O-O Nc5 16. Qe3 Qb6 17. Rab1 Qd6 18. Nf3 a6 19. Ned4 Bd7 20. Ne5 b5
+21. Rbe1 Rac8 22. Rf3 Nxd3 23. cxd3 Rc7 24. Nb3 Bc8 25. d4 Qa3 26. Rf2 Bh4 27.
+g3 Be7 28. Qd3 Bb4 29. Rd1 Rc3 30. Qe2 Be7 31. Rf3 b4 32. Rxc3 bxc3 33. Rc1 a5
+34. Rc2 Bb4 35. Qb5 Bd6 36. Qxa5 Qxa5 37. Nxa5 Ba6 38. Nac6 Bxe5 39. dxe5 Bc4
+40. Rxc3 Bxa2 41. Nd4 Re8 42. Rc7 Bb1 43. Kf2 Bd3 44. Ke3 Bb1 45. Kd2 Bg6 46.
+Kc3 Kf8 47. Kb4 Bf7 48. Rc6 Rb8+ 49. Kc5 Re8 50. f5 exf5 51. e6 Bh5 52. Kxd5
+Bg4 53. Ke5 Ra8 54. Rc7 h5 55. Nc6 Re8 56. Rf7+ Kg8 57. Ne7+ Kh8 58. Nxf5 g6
+59. Nd4 Kg8 60. Kf6 Kh8 61. e7 Kg8 62. Rg7+ Kh8 63. Rxg6 Kh7 64. Rxg4 hxg4 65.
+Kf7 Ra8 66. e8=Q Rxe8 67. Kxe8 Kg6 68. Ke7 Kg7 69. Ke6 Kg6 70. Ke5 1-0
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Gaponenko, Inna"]
+[Black "Atalik, Ekaterina"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[WhiteElo "2473"]
+[BlackElo "2432"]
+[PlyCount "34"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Podgorica T-com (W)"]
+[BlackTeam "EPAM (W)"]
+[WhiteTeamCountry "YUG"]
+[BlackTeamCountry "BLR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1 8.
+Rxd1 fxe5 9. Nbd2 O-O-O 10. Re1 Bd6 11. h3 Bh5 12. Nh4 Bb4 13. c3 Be7 14. Nhf3
+Bd6 15. Nh4 Be7 16. Nhf3 Bd6 17. Nh4 Be7 1/2-1/2
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Muzychuk, Anna"]
+[Black "Hoang Thanh Trang"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2508"]
+[BlackElo "2483"]
+[PlyCount "55"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Podgorica T-com (W)"]
+[BlackTeam "EPAM (W)"]
+[WhiteTeamCountry "YUG"]
+[BlackTeamCountry "BLR"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. c4 Be7 6. Nc3 Nc6 7. h3 O-O 8. Be2
+Be6 9. c5 Ne4 10. O-O b6 11. Bb5 Na5 12. cxb6 axb6 13. Qc2 Nxc3 14. Qxc3 Bd6
+15. Bg5 Qc8 16. Rfe1 h6 17. Bh4 Nc4 18. Ne5 Bxe5 19. dxe5 c6 20. Bxc4 dxc4 21.
+a3 Bd5 22. Re3 Qf5 23. Rf1 Rfe8 24. f4 Qh5 25. Be1 f5 26. exf6 Rxe3 27. Qxe3
+Qg6 28. Qg3 1/2-1/2
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Zatonskih, Anna"]
+[Black "Maric, Alisa"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2440"]
+[BlackElo "2405"]
+[PlyCount "53"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "EPAM (W)"]
+[BlackTeam "Podgorica T-com (W)"]
+[WhiteTeamCountry "BLR"]
+[BlackTeamCountry "YUG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6
+8. Bg5 Qd6 9. Bxf6 gxf6 10. c3 Bd7 11. Nd2 c6 12. Qf3 f5 13. Nc4 Qc7 14. Bd3 c5
+15. O-O O-O-O 16. Ne5 Bc6 17. Nxc6 Qxc6 18. Qxc6+ bxc6 19. Ba6+ Kc7 20. dxc5
+Bxc5 21. Rfd1 Rxd1+ 22. Rxd1 Rd8 23. Rxd8 Kxd8 24. Kf1 Kd7 25. Ke2 h6 26. h3
+Bd6 27. Ke3 1/2-1/2
+
+[Event "EU-Cup (Women) 13th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Congiu, Mathilde"]
+[Black "Petrenko, Svetlana"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2230"]
+[BlackElo "2285"]
+[PlyCount "111"]
+[EventDate "2008.10.17"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Vandoeuvre (W)"]
+[BlackTeam "Gross Lehna (W)"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 Nc6 7. O-O O-O 8.

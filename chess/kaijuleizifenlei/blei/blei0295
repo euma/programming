@@ -1,0 +1,600 @@
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 g6 6. cxd4 Bg7 7. Bc4 Nb6 8. Bb3
+Nc6 9. Nc3 O-O 10. Bf4 d6 11. h3 dxe5 12. dxe5 Na5 13. O-O Nxb3 14. Qxb3 Be6
+15. Qd1 Rc8 16. Rc1 Nd5 17. Nxd5 Qxd5 18. b3 Rxc1 19. Qxc1 Rc8 20. Qb2 Bxh3 21.
+Qa3 Bg4 22. Nh2 Be2 23. Re1 Bxe5 24. Bxe5 Qxe5 25. Nf3 Qe4 26. Qxa7 Qb4 27.
+Rxe2 Rc1+ 28. Kh2 Qf4+ 29. g3 Qxf3 30. Qb8+ Kg7 31. Qe5+ Kh6 32. Qe3+ Qxe3 33.
+Rxe3 e6 34. Re2 Kg5 35. Re5+ Kf6 36. Re2 e5 37. Kh3 h5 38. Rd2 Ke6 39. Kh4 f6
+40. Kh3 e4 41. Rd4 f5 42. Rb4 Rc2 43. Rb6+ Ke5 44. Rxg6 Rxa2 45. Rg7 Rxf2 46.
+Rxb7 e3 47. Re7+ Kd4 48. Kh4 f4 49. gxf4 Rxf4+ 50. Kxh5 Re4 0-1
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.05"]
+[Round "9"]
+[White "Rayner, Francis"]
+[Black "Tahirov, Farhad"]
+[Result "0-1"]
+[ECO "B09"]
+[WhiteElo "2201"]
+[BlackElo "2540"]
+[PlyCount "66"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. e6
+Bxb5 9. exf7+ Kd7 10. Nxb5 Qa5+ 11. Nc3 cxd4 12. Nxd4 h5 13. h3 Nc6 14. Nde2
+Nh6 15. Qd3 Nb4 16. Qe4 Nc6 17. Qxg6 Nf5 18. Bd2 Rh6 19. Qg5 Bf6 20. Qg8 Rh8
+21. f8=N+ Rxf8 22. Qb3 Bh4+ 23. Kd1 Qa6 24. Ne4 Rhg8 25. Qd5 Qb6 26. Ng5 Bxg5
+27. fxg5 Ne3+ 28. Bxe3 Qxe3 29. h4 Rf2 30. Re1 Rgf8 31. Qd2 Qe4 32. g3 R8f5 33.
+Qc3 Rd5+ 0-1
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.05"]
+[Round "9"]
+[White "Rendle, Thomas"]
+[Black "Zhou, Yang Fan"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "2397"]
+[BlackElo "2068"]
+[PlyCount "92"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 Nc6 5. d4 cxd4 6. cxd4 Nxe4 7. d5 Qa5+ 8.
+Nc3 Nxc3 9. bxc3 Ne5 10. Nxe5 dxe5 11. Qb3 Qc7 12. O-O g6 13. Bb5+ Bd7 14. Rb1
+b6 15. Bc4 Rc8 16. Ba6 Rb8 17. Ba3 Bg7 18. c4 Bf5 19. Bb5+ Bd7 20. Ba6 Bf5 21.
+Bb5+ Bd7 22. Rfd1 Bxb5 23. Qxb5+ Qd7 24. c5 Qxb5 25. Rxb5 O-O 26. cxb6 Rb7 27.
+Rdb1 Ra8 28. bxa7 Rxb5 29. Rxb5 Rxa7 30. Rb3 Bf6 31. f3 Kf8 32. Kf1 Ra5 33. Rd3
+Ke8 34. Ke2 Bg5 35. Kd1 Ra4 36. h3 f5 37. Kc2 e4 38. fxe4 fxe4 39. Rc3 Rd4 40.
+Bc1 Rxd5 41. Bxg5 Rxg5 42. g4 h5 43. gxh5 gxh5 44. a4 Kd7 45. Rc4 Rg3 46. Rxe4
+Kc6 1/2-1/2
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.05"]
+[Round "9"]
+[White "Rety, John"]
+[Black "O'Neill, Tom C"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1970"]
+[BlackElo "1551"]
+[PlyCount "65"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 e6 5. d4 Nc6 6. Bc4 Nb6 7. Be2 h6 8. O-O
+Be7 9. Nbd2 cxd4 10. cxd4 Nd5 11. Bc4 Qb6 12. Bxd5 exd5 13. Nb3 Qd8 14. Qc2 Bg5
+15. Be3 d6 16. Qd2 Bg4 17. Nxg5 hxg5 18. Bxg5 Qd7 19. exd6 Qxd6 20. Bf4 Qg6 21.
+Rfe1+ Be6 22. Nc5 Ne7 23. Nxe6 fxe6 24. Qe3 Kd7 25. Qe5 Nf5 26. Qc7+ Ke8 27.
+Qxb7 Nh4 28. Qxa8+ Kf7 29. Qb7+ Kf6 30. Bg3 Qd3 31. Be5+ Kg6 32. Qxg7+ Kf5 33.
+g4# 1-0
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.05"]
+[Round "9"]
+[White "Ringor, Rodrigo"]
+[Black "Raddatz, Michael"]
+[Result "1-0"]
+[ECO "B45"]
+[BlackElo "2037"]
+[PlyCount "113"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 Bb4 7. Bd3 O-O 8.
+O-O Ne5 9. Nce2 Nfg4 10. Bf4 Nxd3 11. Qxd3 e5 12. Qg3 d6 13. Nf5 Bxf5 14. exf5
+h5 15. Bc1 Qf6 16. h3 Nh6 17. Bg5 Nxf5 18. Bxf6 Nxg3 19. fxg3 gxf6 20. Rxf6 Kg7
+21. Raf1 Rad8 22. R6f5 Kg6 23. Rf6+ Kg7 24. h4 Rd7 25. Kh2 Ba5 26. R6f5 Rh8 27.
+Rg5+ Kf8 28. Rff5 Rc7 29. c3 Rc4 30. Kg1 Bb6+ 31. Kf1 Ra4 32. a3 Ra5 33. Rxh5
+Rxh5 34. Rxh5 Rd5 35. Ke1 Be3 36. Rf5 Ke7 37. Rf3 Bd2+ 38. Kf1 e4 39. Nf4 Rb5
+40. Rf2 Rxb2 41. Re2 f5 42. Kf2 Kf7 43. Nd5 Ke6 44. c4 Ke5 45. h5 Kd4 46. h6
+e3+ 47. Kg1 Kd3 48. Rxe3+ Bxe3+ 49. Nxe3 Kxe3 50. h7 Rc2 51. h8=Q Rxc4 52. Qh6+
+Ke2 53. Qxd6 Rc3 54. Qe5+ Re3 55. Qxf5 a6 56. Qc2+ Ke1 57. Qf2+ 1-0
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.05"]
+[Round "9"]
+[White "Rudd, Jack"]
+[Black "Gibson, Christopher A"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "2332"]
+[BlackElo "2032"]
+[PlyCount "55"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. e5 dxe5 5. Nxe5 a6 6. g3 Nbd7 7. d4 Nxe5 8.
+dxe5 Qxd1+ 9. Nxd1 Nd5 10. Ne3 Nxe3 11. Bxe3 e6 12. Bg2 Be7 13. O-O-O O-O 14.
+Rd3 Rd8 15. Rxd8+ Bxd8 16. Bxc5 Bc7 17. Rd1 h6 18. f4 f6 19. Bd6 Bd8 20. c4 Kf7
+21. c5 fxe5 22. fxe5 Be7 23. c6 b5 24. Rf1+ Ke8 25. c7 Bxd6 26. exd6 Ra7 27.
+Bc6+ Bd7 28. c8=R# 1-0
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Canonne, Antoine"]
+[Black "Mansson, James"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2059"]
+[BlackElo "2161"]
+[PlyCount "126"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nc3 a6 3. a4 Nc6 4. f4 g6 5. Nf3 Bg7 6. d3 d6 7. Be2 e6 8. O-O Nge7
+9. Bd2 O-O 10. Qe1 Nd4 11. Bd1 Nxf3+ 12. Bxf3 Nc6 13. Qc1 Nd4 14. Ne2 Nxf3+ 15.
+Rxf3 d5 16. Bc3 d4 17. Bd2 f5 18. e5 b6 19. Qe1 Bb7 20. Rg3 b5 21. Kh1 Qd5 22.
+Ng1 c4 23. Nf3 Bc6 24. a5 Rfd8 25. Rh3 h6 26. Qg3 Be8 27. Ne1 Rac8 28. Qf3 Qxf3
+29. Rxf3 Bc6 30. Rh3 Bf8 31. Kg1 Bd5 32. Kf2 Kg7 33. Rc1 c3 34. bxc3 dxc3 35.
+Be3 Ba3 36. Rd1 Bb2 37. Bb6 Rd7 38. Re3 b4 39. Re2 g5 40. fxg5 hxg5 41. h3 Kg6
+42. Nf3 Bxf3 43. Kxf3 b3 44. Ke3 Ba3 45. d4 b2 46. Ree1 Rd5 47. Rf1 Bb4 48. g4
+f4+ 49. Ke4 Bxa5 50. Bc5 Rh8 51. Rf3 Rb8 52. Rb1 Rh8 53. Rh1 Rh7 54. Rff1 Bc7
+55. Bb4 Ba5 56. Bc5 Rb7 57. Rb1 Bb4 58. Bd6 Bxd6 59. exd6 Rxd6 60. h4 Rb4 61.
+hxg5 Rdxd4+ 62. Ke5 Re4+ 63. Kd6 Kxg5 0-1
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Coates, David H"]
+[Black "Garnett, John S"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[WhiteElo "2029"]
+[BlackElo "2032"]
+[PlyCount "36"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8.
+Qxd4 Bg7 9. Be3 O-O 10. Qd2 Be6 11. f3 Qa5 12. Rc1 Rfc8 13. b3 a6 14. O-O b5
+15. Nd5 Qxd2 16. Bxd2 Nxd5 17. cxd5 Bd4+ 18. Kh1 Bd7 1/2-1/2
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Cohen, Ronnie"]
+[Black "Adair, James"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[WhiteElo "1967"]
+[BlackElo "2044"]
+[PlyCount "63"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 Rb8 7. O-O b5 8. h3 b4
+9. Nd5 e6 10. Ne3 Nge7 11. f4 Nd4 12. g4 f5 13. Ng3 fxe4 14. dxe4 O-O 15. a4
+Qc7 16. Rf2 Bd7 17. Bf1 Nc8 18. Kg2 a5 19. Bd3 Nb6 20. c3 Nc6 21. Bd2 Ne7 22.
+f5 c4 23. Be2 b3 24. Qf1 exf5 25. exf5 Bc6+ 26. Kg1 Be5 27. Nh1 d5 28. f6 Nec8
+29. g5 Nd7 30. Ng4 Bd6 31. Bf4 Bxf4 32. Rxf4 1/2-1/2
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Dickson, George A"]
+[Black "Jain, Akash"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2160"]
+[BlackElo "2000"]
+[PlyCount "73"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 d6 7. Bc4 Nc6 8. O-O
+Be7 9. Nc3 Nxc3 10. bxc3 dxe5 11. Nxe5 Nxe5 12. dxe5 Qa5 13. Rb1 O-O 14. Qe2 a6
+15. Qe4 Qa4 16. Bd3 Qxe4 17. Bxe4 Rb8 18. Be3 b5 19. Rb3 Bb7 20. Bxb7 Rxb7 21.
+a4 b4 22. cxb4 Rxb4 23. Rxb4 Bxb4 24. Rc1 a5 25. Rc7 Rd8 26. Kf1 h6 27. Ke2 Rd5
+28. f4 Kf8 29. g4 g6 30. h3 h5 31. Ra7 hxg4 32. hxg4 g5 33. Ra8+ Ke7 34. Ra7+
+Ke8 35. Ra8+ Ke7 36. Ra7+ Kf8 37. Ra8+ 1/2-1/2
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Formanek, Edward W"]
+[Black "Rayner, Francis"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[WhiteElo "2276"]
+[BlackElo "2201"]
+[PlyCount "102"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 d6 8. O-O
+Bd7 9. a4 Nf6 10. Nb3 Be7 11. a5 Ne5 12. Nd2 Rc8 13. Re1 O-O 14. h3 Rfd8 15.
+Qe2 Be8 16. f4 Nc6 17. Nb3 Nd7 18. Be3 Nc5 19. Qc4 Na7 20. Nd4 Qb8 21. Qe2 Nc6
+22. Nxc6 Bxc6 23. b4 Nd7 24. Na4 Bf6 25. Ra3 Bb5 26. Qd1 Rc4 27. Qb1 Rdc8 28.
+Re2 Rxe4 29. Bxe4 Bxe2 30. Nb6 Nxb6 31. Bxb6 d5 32. Bd3 Bxd3 33. Rxd3 Qd6 34.
+Bc5 Qc6 35. Qb3 Qb5 36. Kf2 g6 37. Ke3 Bg7 38. Kd2 Bf8 39. Bxf8 Kxf8 40. Rc3
+Rc6 41. Rxc6 Qxc6 42. Qb2 Qa4 43. Qh8+ Ke7 44. c3 h5 45. Qb8 Qc6 46. g4 hxg4
+47. hxg4 Qb5 48. g5 Qc6 49. Qe5 Qd6 50. Qf6+ Ke8 51. Ke3 Qc6 1/2-1/2
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Fruteau, Sabine"]
+[Black "Bates, Richard"]
+[Result "0-1"]
+[ECO "B53"]
+[WhiteElo "2169"]
+[BlackElo "2378"]
+[PlyCount "130"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 a6 5. c4 Nc6 6. Qd2 Nf6 7. Nc3 g6 8. Be2
+Bg7 9. O-O O-O 10. Rd1 Bg4 11. Rb1 Rc8 12. b3 b5 13. cxb5 axb5 14. Bxb5 Bxf3
+15. gxf3 Ne5 16. Kg2 Nh5 17. Ne2 Rc5 18. Bc4 Nxc4 19. bxc4 Rxc4 20. Bb2 Bxb2
+21. Rxb2 Qc7 22. Rdb1 Rc8 23. Rb7 Qd8 24. Qg5 Nf6 25. Ng3 e6 26. Qb5 Kg7 27. a4
+h5 28. h4 R8c5 29. Qb6 Qxb6 30. R1xb6 g5 31. hxg5 Rxg5 32. Rb5 d5 33. Kh3 Rxa4
+34. f4 Rxg3+ 35. fxg3 Nxe4 36. Rb2 Kg6 37. R7b4 Ra1 38. Kg2 Kf5 39. Rb7 Nd6 40.
+Rd7 Ra6 41. Re2 Kg6 42. Rd8 Nf5 43. Rg8+ Kf6 44. Rb2 Ra3 45. Kh2 Rf3 46. Kg2
+Rc3 47. Kh2 d4 48. Rd2 Re3 49. Rd8 Re4 50. Rd7 Kg6 51. Kg2 Re3 52. R7xd4 Nxd4
+53. Rxd4 Kf5 54. Kh3 Re2 55. Ra4 f6 56. Ra8 Re1 57. Ra5+ Ke4 58. Kg2 Re2+ 59.
+Kh3 Kf3 60. Ra3+ Re3 61. Ra2 e5 62. fxe5 fxe5 63. Ra8 Kf2 64. Rg8 e4 65. Kh4
+Rf3 0-1
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Fryer, David William"]
+[Black "Jackson, Oliver"]
+[Result "0-1"]
+[ECO "B26"]
+[WhiteElo "2065"]
+[BlackElo "2219"]
+[PlyCount "92"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nc3 e6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. Be3 d6 7. Qd2 Rb8 8. Nge2
+b5 9. O-O b4 10. Nd1 a5 11. f4 Nge7 12. g4 f5 13. gxf5 exf5 14. Ng3 Qc7 15. a3
+O-O 16. e5 dxe5 17. Bxc5 Nd4 18. axb4 axb4 19. Bxb4 exf4 20. Bxe7 f3 21. Bxf8
+fxg2 22. Bxg7 gxf1=Q+ 23. Kxf1 Qxg7 24. Qf4 Rb6 25. Ra8 Rc6 26. c3 Ne6 27. Qa4
+Qd7 28. d4 Nf8 29. Qa2+ Kg7 30. Ra7 Bb7 31. d5 Rc7 32. c4 f4 33. Ne4 Qh3+ 34.
+Kg1 Qg4+ 35. Kf2 Qxd1 36. Nd6 Qd4+ 37. Kf1 Qd3+ 38. Kf2 Qe3+ 39. Kf1 Qh3+ 40.
+Kg1 Qd7 41. c5 Qg4+ 42. Kf2 Qh4+ 43. Kf1 Qh3+ 44. Kg1 Qe3+ 45. Kf1 Qf3+ 46. Kg1
+Bxd5 0-1
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Goodger, Martyn"]
+[Black "Houska, Jovanka"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "2067"]
+[BlackElo "2404"]
+[PlyCount "78"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 Nxd5 6. Nf3 Nc6 7. Bb5 e6 8.
+O-O Be7 9. d4 O-O 10. Re1 Bd7 11. Bd3 Nf6 12. a3 Rc8 13. Bc2 Qa5 14. Qd3 Rfd8
+15. Bg5 g6 16. Rad1 Be8 17. Qe3 Nd5 18. Nxd5 Rxd5 19. Bxe7 Nxe7 20. Bb3 Nf5 21.
+Qe2 Ba4 22. Bxd5 Bxd1 23. Qe5 Bxf3 24. Bxf3 Qd2 25. Bxb7 Rc1 26. Kf1 Qxb2 27.
+Rxc1 Qxc1+ 28. Qe1 Qxa3 29. g3 Qb2 30. Be4 Nxd4 31. Kg2 Qb5 32. Qa1 Qb6 33. h4
+h5 34. Qa4 Nb5 35. Qa2 Kg7 36. Qb2+ Qd4 37. Qxb5 Qxe4+ 38. f3 Qc2+ 39. Kh3 Qf5+
+0-1
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Haslinger, Stewart"]
+[Black "Abu Sufian, Sakil"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "2502"]
+[BlackElo "2361"]
+[PlyCount "45"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 Qc7 14. Qc5
+Nxc3 15. Qxc3 Be6 16. h4 c5 17. h5 Rfd8 18. Bd3 Qf4+ 19. Kb1 Qd4 20. hxg6 hxg6
+21. Qa5 Qb4 22. Qc7 Rab8 23. Qe5 1-0
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Lyell, Mark"]
+[Black "Ringor, Rodrigo"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2197"]
+[PlyCount "96"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. d4 d6 6. Bb5 a6 7. Bxc6+ bxc6 8.
+dxc5 dxc5 9. O-O Qc7 10. c4 Nb6 11. Nbd2 Bf5 12. Re1 Rd8 13. b3 e6 14. Nh4 Bd3
+15. Qg4 g6 16. Ne4 Bxe4 17. Rxe4 Bg7 18. Bg5 Rd4 19. Bf6 Bxf6 20. exf6 Qe5 21.
+Rxe5 Rxg4 22. Rxc5 Nd7 23. Rxc6 O-O 24. Nf3 Nxf6 25. Rxa6 Rd8 26. Kf1 Ne4 27.
+Rc1 Nd2+ 28. Nxd2 Rxd2 29. c5 Re4 30. Re1 Red4 31. f3 Rc2 32. Rd6 Rxd6 33. cxd6
+Rxa2 34. Rd1 Ra8 35. d7 Rd8 36. Ke2 Kf8 37. g4 Ke7 38. Ke3 Rxd7 39. Rxd7+ Kxd7
+40. g5 Ke7 41. Kd4 Kd6 42. f4 Kc6 43. Ke5 Kb5 44. Kf6 Kb4 45. Kxf7 Kxb3 46.
+Kxe6 Kc4 47. Kf6 Kd4 48. Kg7 Ke4 1-0
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "O'Neill, Tom C"]
+[Black "Kakkanas, Evangelos"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "1551"]
+[BlackElo "2064"]
+[PlyCount "46"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nb5 Qb8 6. c4 a6 7. N5c3 e6 8. f4
+Qc7 9. Be3 b6 10. f5 Nf6 11. Be2 Bc5 12. Bxc5 bxc5 13. O-O O-O 14. Na3 Rb8 15.
+g4 Qe5 16. g5 Nxe4 17. Nxe4 Qxe4 18. Bd3 Qd4+ 19. Kh1 Ne5 20. g6 Bb7+ 21. Qf3
+Bxf3+ 22. Rxf3 Nxf3 23. gxh7+ Kh8 0-1
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Raddatz, Michael"]
+[Black "Young, Melvyn Jack"]
+[Result "0-1"]
+[ECO "B60"]
+[WhiteElo "2037"]
+[BlackElo "1954"]
+[PlyCount "104"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Bc4 Qa5 8.
+Bxf6 gxf6 9. Bb3 e6 10. Nf3 Bd7 11. Qe2 Rg8 12. O-O-O Rc8 13. Kb1 Ne5 14. Nh4
+b5 15. f4 Nc4 16. Bxc4 Rxc4 17. Rd3 b4 18. Rg3 Rxg3 19. Qxc4 Rg4 20. Nd5 exd5
+21. exd5 Rxh4 22. g3 Rh6 23. b3 Kd8 24. h4 Qb5 25. Qd4 Qc5 26. Qd3 Rh5 27. Rd1
+Bf5 28. Qe2 Qxc2+ 29. Qxc2 Bxc2+ 30. Kxc2 f5 31. Rd4 a5 32. Rd3 Rh6 33. Re3 Rg6
+34. Kd3 Rg8 35. Kc4 Bg7 36. Re2 Kd7 37. Kb5 Bc3 38. Rg2 Be1 39. Rg1 Bc3 40. Rg2
+Ra8 41. Re2 Re8 42. Rg2 h5 43. Kxa5 Re1 44. Kb5 Rd1 45. g4 fxg4 46. Ka4 Rxd5
+47. Rc2 Rd2 48. Rc1 Rxa2+ 49. Kb5 g3 50. Kc4 Rf2 51. Rg1 Rxf4+ 52. Kd5 Rd4# 0-1
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Rudd, Jack"]
+[Black "Roy Chowdhury, Saptarshi"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2332"]
+[BlackElo "2418"]
+[PlyCount "111"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. O-O h6 7. Nd5 Nf6 8. Nd2
+O-O 9. f4 exf4 10. Nxf4 Ne5 11. Bb3 b5 12. Kh1 Bb7 13. Qe2 Rc8 14. a4 c4 15.
+dxc4 bxc4 16. Ba2 Qc7 17. c3 Rfe8 18. Bb1 Bf8 19. a5 d5 20. exd5 Nxd5 21. Ne4
+Nxf4 22. Bxf4 Qc6 23. a6 Ba8 24. Bxe5 Rxe5 25. Qf2 f5 26. Nd2 Bc5 27. Qg3 Re2
+28. Nf3 Rf8 29. Ba2 Bd6 30. Bxc4+ Kh8 31. Qxd6 Qxd6 32. Bxe2 Qc6 33. Rad1 g5
+34. Rd4 Re8 35. Bd3 Qf6 36. Rd7 Rd8 37. Rxd8+ Qxd8 38. Bxf5 Bxf3 39. gxf3 Qd6
+40. Kg2 Qxa6 41. Rf2 Kg7 42. Be4 Kf6 43. Rd2 Ke5 44. Bd3 Qc6 45. Re2+ Kf6 46.
+Re4 a5 47. h4 Qb6 48. hxg5+ hxg5 49. Re2 Qc5 50. Be4 Qd6 51. Kf2 Qc5+ 52. Ke1
+a4 53. Kd2 a3 54. bxa3 Qxa3 55. Bd5 Qa5 56. Be6 1/2-1/2
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Satyapragyan, Swayangsu"]
+[Black "Bindrich, Falko"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2404"]
+[BlackElo "2512"]
+[PlyCount "56"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 Bd7 7. Bg2 Nc6 8. O-O
+e6 9. a4 Be7 10. Nb3 Na5 11. Nxa5 Qxa5 12. Re1 Bc6 13. Bf4 O-O 14. Qd2 Qc7 15.
+e5 dxe5 16. Bxe5 Qc8 17. Ne4 Nd5 18. Qd4 f6 19. Bd6 Rd8 20. Qc5 Rxd6 21. Nxd6
+Qd7 22. c4 Bxd6 23. Qd4 Be5 24. Qd2 Nb6 25. Qxd7 Bxd7 26. Rac1 Nxa4 27. Bxb7
+Rb8 28. Bxa6 Nc5 0-1
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Sugden, John N"]
+[Black "Kwiatkowski, Feliks J"]
+[Result "0-1"]
+[ECO "B25"]
+[WhiteElo "2116"]
+[BlackElo "2237"]
+[PlyCount "100"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 b6 10. Bf2 Ba6 11. Re1 Qd7 12. g4 d5 13. e5 f6 14. exf6 Rxf6 15. Bg3
+Re8 16. Qd2 Rff8 17. Nd1 d4 18. Ng5 Nd5 19. Bxd5 Qxd5 20. Nf2 Bb7 21. Nge4 e5
+22. Rf1 Re7 23. f5 gxf5 24. gxf5 Rxf5 25. Ng4 Qe6 26. Rxf5 Qxf5 27. Ngf6+ Kh8
+28. Rf1 Qg6 29. Qe2 Bc8 30. Kh1 Bb7 31. Nh5 Rf7 32. Rg1 Qe6 33. Bh4 Ne7 34.
+Rxg7 Rxg7 35. Bf6 Nf5 36. Qg4 Qxf6 37. Nhxf6 Rxg4 38. Nxg4 Nd6 39. Ngf2 Nxe4
+40. dxe4 Kg7 41. Kg2 Kf6 42. Kf3 Bc8 43. Ke2 Kg5 44. Kf3 Ba6 45. Kg3 Be2 46.
+Nh3+ Kh5 47. Kf2 Kg4 48. Ng1 Bd1 49. c3 Bc2 50. Nf3 Kf4 0-1
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Wilson, Alexandra"]
+[Black "Calvert, David Ian"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2061"]
+[BlackElo "2058"]
+[PlyCount "9"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. g3 1/2-1/2
+
+[Event "Hastings op"]
+[Site "Hastings"]
+[Date "2008.01.06"]
+[Round "10"]
+[White "Zhou, Yang Fan"]
+[Black "Marusenko, Petr"]
+[Result "0-1"]
+[ECO "B70"]
+[WhiteElo "2068"]
+[BlackElo "2304"]
+[PlyCount "59"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. O-O Bg7 8.
+Bg5 O-O 9. Nb3 Bd7 10. Re1 a5 11. a4 Rc8 12. Bf1 Nb4 13. Nd4 Qb6 14. Ncb5 Qc5
+15. Qd2 Bxb5 16. Bxb5 Nxc2 17. Rac1 Qxd4 18. Rxc2 Qxd2 19. Rxd2 h6 20. Be3 Nxe4
+21. Rde2 d5 22. Bb6 e6 23. Bxa5 Bd4 24. Rd1 Bc5 25. Be1 Rc7 26. Bd3 Nd6 27. b4
+Ba7 28. a5 Nf5 29. Bxf5 gxf5 30. Rc2 0-1
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.01"]
+[Round "6"]
+[White "Cuadras Avellana, Jorge"]
+[Black "Terrieux, Kevin"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2332"]
+[BlackElo "2367"]
+[PlyCount "52"]
+[EventDate "2007.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Ne7 12. Nxe7 Bxe7 13. Nc2 Bb7 14. Bd3 d5
+15. exd5 Qxd5 16. Ne3 Qc5 17. Qc2 g6 18. Be4 Bxe4 19. Qxe4 Rd8 20. O-O f5 21.
+Qb7 Qc8 22. Qxc8 Rxc8 23. Rfd1 Kf7 24. Nd5 Rhd8 25. Kf1 Ke6 26. Nxe7 Kxe7
+1/2-1/2
+
+[Event "Illes Medes op 2nd"]
+[Site "L'Estartit"]
+[Date "2008.01.01"]
+[Round "6"]
+[White "Dijon, Frederic"]
+[Black "Christensen, Thomas"]

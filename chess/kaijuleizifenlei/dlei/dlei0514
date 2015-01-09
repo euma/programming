@@ -1,0 +1,600 @@
+[Round "4"]
+[White "Sallwey, Rainer"]
+[Black "Sarkozy, Benjamin"]
+[Result "0-1"]
+[ECO "D05"]
+[WhiteElo "1568"]
+[BlackElo "1787"]
+[PlyCount "56"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 e6 4. Bd3 d5 5. c3 Nc6 6. Nbd2 Qc7 7. Qe2 Bd6 8. e4
+cxd4 9. cxd4 dxe4 10. Nxe4 Be7 11. O-O O-O 12. Bd2 Qb6 13. Bc3 Nd5 14. Rac1 Bd7
+15. Bb1 Rfd8 16. Rfd1 Rac8 17. a3 Na5 18. b4 Bb5 19. Qc2 Nc4 20. Nc5 g6 21. a4
+Na3 22. Qb2 Nxb1 23. Qxb1 Be2 24. Re1 Bxf3 25. gxf3 Nxc3 26. Rxc3 Rxd4 27. Rb3
+Rcd8 28. Kg2 R8d5 0-1
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.05.26"]
+[Round "4"]
+[White "Schreiner, Roland"]
+[Black "Ostermeier, Thorsten"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "1956"]
+[BlackElo "1943"]
+[PlyCount "65"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nc3 Nf6 5. e3 Bd6 6. Bd3 Nbd7 7. O-O O-O 8. Qc2
+dxc4 9. Bxc4 e5 10. Rd1 Qe7 11. b3 a6 12. Bb2 b5 13. Bd3 Bb7 14. Ne4 exd4 15.
+Nxd6 Qxd6 16. Bxd4 Qe7 17. Rac1 Rac8 18. Bf5 Rc7 19. Qb2 g6 20. Bxd7 Nxd7 21.
+Ne5 Qe6 22. h3 f5 23. Nd3 a5 24. Nf4 Qf7 25. Be5 Nxe5 26. Qxe5 Re8 27. Qc3 Ra8
+28. Nd5 Rcc8 29. Nf6+ Kf8 30. Rd7 c5 31. Nxh7+ Kg8 32. Rxf7 Kxf7 33. Qf6+ 1-0
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Bongardt, Torsten"]
+[Black "Breitbach, Stephan"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1417"]
+[BlackElo "1330"]
+[PlyCount "48"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 c5 4. c3 Nc6 5. e3 Nf6 6. Bb5 Qb6 7. Bxc6+ bxc6 8. b3
+cxd4 9. exd4 Ba6 10. Nbd2 c5 11. Rc1 cxd4 12. Nxd4 Ba3 13. Rb1 Bd3 14. Nc2 Bc5
+15. Bg3 Qc6 16. Rc1 O-O 17. Nf3 Qa6 18. Ne5 Bb5 19. a4 Be8 20. Qd3 Qb7 21. b4
+Bd6 22. b5 Ne4 23. f4 Qc7 24. Nb4 Bxb4 0-1
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Diekmann, Hans Joachim"]
+[Black "Biegel, Thomas"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2199"]
+[BlackElo "2030"]
+[PlyCount "37"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. Nc3 g6 5. d4 Bg7 6. Be2 O-O 7. O-O dxc4 8. Bxc4
+Bg4 9. h3 Bxf3 10. Qxf3 Nbd7 11. Rd1 Qc7 12. e4 e5 13. d5 cxd5 14. Bxd5 Nb6 15.
+Bb3 h6 16. Bxh6 Rad8 17. Bg5 Rxd1+ 18. Rxd1 Nh5 19. Nb5 1-0
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Faqiry, Ramatullah"]
+[Black "Mustafa, Wail"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "1984"]
+[BlackElo "2104"]
+[PlyCount "48"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 Nbd7 5. cxd5 cxd5 6. Bf4 a6 7. Rc1 e6 8.
+Qa4 Qb6 9. e3 Qxb2 10. Kd1 Bb4 11. Nb5 O-O 12. Rc2 Nb6 13. Rxb2 Nxa4 14. Rxb4
+axb5 15. Kc2 Bd7 16. Bxb5 Rfc8+ 17. Kd3 Rc3+ 18. Ke2 Bxb5+ 19. Rxb5 Rc2+ 20.
+Kf1 b6 21. a3 Ne4 22. Bg3 Nac3 23. Ne1 Nd2+ 24. Kg1 Ne2# 0-1
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Hausmann, Hans Ulrich"]
+[Black "Bender, Manfred"]
+[Result "1-0"]
+[ECO "D13"]
+[WhiteElo "1950"]
+[BlackElo "1821"]
+[PlyCount "111"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 a6 7. e3 e6 8. Bd3
+Bd6 9. Ne5 Qc7 10. Rc1 O-O 11. O-O Qb8 12. Nxc6 bxc6 13. Bxd6 Qxd6 14. Na4 e5
+15. dxe5 Qxe5 16. Rxc6 Bd7 17. Rxa6 Rxa6 18. Bxa6 Bxa4 19. Qxa4 Qxb2 20. Qb3
+Qxb3 21. axb3 Rb8 22. Rb1 Rb4 23. Kf1 Kf8 24. Bd3 h6 25. Ke2 Ke7 26. Kd2 Ne4+
+27. Bxe4 dxe4 28. Kc3 Rb7 29. Kd4 f5 30. Rb2 Ke6 31. b4 g5 32. Kc5 f4 33. Kc6
+Rb8 34. b5 Rc8+ 35. Kb7 Rd8 36. b6 Rd3 37. Rc2 fxe3 38. fxe3 Rxe3 39. Kc7 Rd3
+40. b7 Rd7+ 41. Kc8 Rxb7 42. Kxb7 Kd5 43. Kc7 e3 44. Kd7 Kd4 45. Ke6 Kd3 46.
+Rc1 e2 47. Kf5 Kd2 48. Ra1 e1=Q 49. Rxe1 Kxe1 50. g4 Kf2 51. Kg6 Kf3 52. h3 Kg3
+53. Kxh6 Kf4 54. Kg6 Kg3 55. Kxg5 Kxh3 56. Kh5 1-0
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Koch, Ulrich"]
+[Black "Bischoff, Ulrich"]
+[Result "0-1"]
+[ECO "D05"]
+[WhiteElo "1859"]
+[BlackElo "2101"]
+[PlyCount "35"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c5 4. c3 e6 5. Bd3 Nc6 6. O-O Bd6 7. Nbd2 O-O 8. Re1
+Qc7 9. h3 h6 10. dxc5 Bxc5 11. b3 e5 12. e4 Rd8 13. Qe2 d4 14. Bb2 Nh5 15. Bb5
+d3 16. Qf1 Ng3 17. Qxd3 Rxd3 18. Bxd3 0-1
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Lietzau, Olaf"]
+[Black "Benikhis, Avram"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "1652"]
+[BlackElo "1774"]
+[PlyCount "88"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 Bf5 3. c4 e6 4. Nc3 Nc6 5. e3 Nb4 6. e4 dxe4 7. Ne5 e3 8. Bxe3
+Nc2+ 9. Ke2 Nxa1 10. Qxa1 f6 11. Nf3 h5 12. h3 c6 13. g3 Qa5 14. Bg2 Qa6 15.
+Nd2 Nh6 16. Be4 Bxe4 17. Ncxe4 Nf5 18. Rf1 O-O-O 19. b3 Be7 20. Rd1 Nxe3 21.
+fxe3 b6 22. Kf2 f5 23. Nc3 h4 24. Kg2 hxg3 25. Nf3 Bf6 26. Ne2 g5 27. Nxg3 Qb7
+28. Qb1 g4 29. hxg4 fxg4 30. Nh2 Rdg8 31. Qe4 Qd7 32. Rh1 Rh4 33. b4 a6 34. a4
+Qd6 35. b5 Rh3 36. Nhf1 Rxh1 37. Kxh1 axb5 38. cxb5 Qd5 39. bxc6 Kc7 40. Kg2
+Ra8 41. Kf2 Qxe4 42. Nxe4 Bh4+ 43. Ke2 Rxa4 44. Kd3 Ra2 0-1
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Paulicks, Frank"]
+[Black "Stulken, Dietmar"]
+[Result "1-0"]
+[ECO "D02"]
+[BlackElo "1352"]
+[PlyCount "120"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 Bf5 4. Nd2 e6 5. Ngf3 Bd6 6. Ne5 Nfd7 7. Ndf3 f6 8.
+Nd3 Bxf4 9. Nxf4 Qe7 10. Qd2 Qd6 11. c4 c5 12. cxd5 exd5 13. Be2 c4 14. b3 b5
+15. bxc4 bxc4 16. O-O O-O 17. Nh4 Be6 18. a4 a5 19. Qc2 Nb6 20. Nf5 Bxf5 21.
+Qxf5 g6 22. Qh3 f5 23. Bf3 N8d7 24. Qh6 Rf7 25. Bh5 Rf6 26. Qg5 Rf7 27. Rab1
+Nf6 28. Bf3 Rb8 29. Rb5 Ne4 30. Bxe4 fxe4 31. Rfb1 Rf5 32. Qh6 Nd7 33. Rxb8+
+Nxb8 34. Ne6 Rf7 35. Ng5 Rg7 36. Rb5 Nc6 37. g3 Qd7 38. Qh3 Qxh3 39. Nxh3 Rd7
+40. Nf4 Na7 41. Rxa5 c3 42. Rc5 Rb7 43. Rxc3 Rb1+ 44. Kg2 Ra1 45. Nxd5 Rxa4 46.
+Nf6+ Kf7 47. Nxe4 Nb5 48. Rb3 Na3 49. f4 Nc2 50. Kf3 Ne1+ 51. Kg4 Nc2 52. Rb7+
+Ke6 53. Nc5+ Kf6 54. Nxa4 Nxe3+ 55. Kf3 Nd5 56. Rxh7 Ne7 57. Nb6 Ke6 58. d5+
+Nxd5 59. Nxd5 Kxd5 60. h4 Ke6 1-0
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Sarkozy, Benjamin"]
+[Black "Rausch, Wolfgang"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "1787"]
+[BlackElo "2197"]
+[PlyCount "65"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 c6 5. Nbd2 Be7 6. e3 O-O 7. Bd3 dxc4 8.
+Nxc4 Nbd7 9. O-O Nd5 10. Bxe7 Qxe7 11. Rc1 Rd8 12. Bb1 Nf8 13. Nce5 f6 14. Nd3
+Qc7 15. h4 b6 16. e4 Ne7 17. Qb3 Bd7 18. Rfd1 Be8 19. d5 c5 20. dxe6 Rac8 21.
+Qc4 Bh5 22. Nde1 Qc6 23. e5 f5 24. Rxd8 Rxd8 25. Ng5 Qd5 26. Bd3 Qxe5 27. Nf7
+Bxf7 28. exf7+ Kh8 29. Nf3 Qf6 30. Re1 g6 31. Rxe7 Qxe7 32. Qc3+ Rd4 33. Nxd4
+1-0
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Smith Meyer, Geir"]
+[Black "Honert, Stefan"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1610"]
+[BlackElo "1289"]
+[PlyCount "65"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Bf4 e6 3. e3 c5 4. c3 Nf6 5. Nd2 Nc6 6. Bd3 Bd6 7. Bg5 cxd4 8. exd4
+O-O 9. Ngf3 Re8 10. O-O h6 11. Bh4 e5 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. Nf3 Bg4
+15. Bb5 Re6 16. Qd3 Bxf3 17. Qxf3 Qd6 18. Bg3 Bxg3 19. hxg3 a6 20. Ba4 Ne4 21.
+Rad1 Rd8 22. Rd4 Rf6 23. Qe3 Nc5 24. Bc2 Ne6 25. Rd2 Qc5 26. Qd3 g6 27. b4 Qb6
+28. Rb1 Ng5 29. c4 Ne4 30. c5 Qe6 31. Re2 Qf5 32. Qd4 Nxg3 33. fxg3 1-0
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.02"]
+[Round "5"]
+[White "Uwira, Oliver"]
+[Black "Schramm, Christian"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2305"]
+[BlackElo "2331"]
+[PlyCount "98"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 c5 5. Nc3 Be6 6. Bb5+ Nc6 7. dxc5 Bxc5
+8. Nge2 O-O 9. O-O a6 10. Ba4 b5 11. Bb3 d4 12. Ne4 Bb6 13. exd4 Nxd4 14. Nxd4
+Qxd4 15. Qxd4 Bxd4 16. c3 Bb6 17. Rfe1 Rfd8 18. Rad1 Kf8 19. Kf1 Ke7 20. Ng3 g6
+21. Ne2 Rxd1 22. Rxd1 Rd8 23. Rxd8 Bxd8 24. Nd4 Bb6 25. Nc2 Bc5 26. Ke2 Kd6 27.
+Ne3 a5 28. Nc2 a4 29. Bxe6 fxe6 30. b4 axb3 31. axb3 e5 32. f3 f5 33. b4 Bg1
+34. h3 e4 35. fxe4 fxe4 36. Na3 Kc6 37. g4 Ba7 38. g5 Bg1 39. c4 bxc4 40. Nxc4
+Ba7 41. Ne3 Kd6 42. Ng4 Ke6 43. Nf6 Kf5 44. Nxh7 Kf4 45. Nf6 Kxg5 46. Nxe4+ Kh4
+47. Nf2 Kg3 48. Nd3 g5 49. Ne5 Kxh3 1/2-1/2
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Froehlich Dill, Astrid"]
+[Black "Schirmer, Karl Heinz"]
+[Result "1-0"]
+[ECO "D50"]
+[WhiteElo "1997"]
+[BlackElo "1716"]
+[PlyCount "120"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Bg5 d5 5. e3 O-O 6. Bd3 Nbd7 7. cxd5 exd5 8.
+Nge2 c6 9. O-O Be7 10. Rc1 Ne8 11. Bxe7 Qxe7 12. Nf4 Qg5 13. b4 Ndf6 14. b5 Nd6
+15. bxc6 bxc6 16. Nce2 Bd7 17. Ng3 g6 18. f3 h5 19. Qd2 h4 20. Nh1 Nf5 21. Bxf5
+Qxf5 22. g4 Qg5 23. Nf2 Nh7 24. N2h3 Qe7 25. Rfe1 Ng5 26. Nxg5 Qxg5 27. h3 f5
+28. Qd3 Kh7 29. Kh2 fxg4 30. fxg4 Kh6 31. Rf1 Rab8 32. Rc2 Rb6 33. Rcf2 Rfb8
+34. Nxg6 Rb2 35. Ne5 Be8 36. Kg1 Rxf2 37. Rxf2 Bg6 38. Qxg6+ Qxg6 39. Nxg6 Kxg6
+40. Rc2 Rb6 41. Kf2 Kg5 42. Kf3 Ra6 43. Ke2 Kg6 44. Kd3 Ra3+ 45. Kd2 Ra6 46.
+Kc1 Kg5 47. Kb1 Rb6+ 48. Rb2 Ra6 49. Rb3 Ra4 50. Kb2 Ra5 51. Rc3 Rb5+ 52. Kc2
+Ra5 53. a3 Ra6 54. Kb2 Rb6+ 55. Rb3 Ra6 56. Kc3 Ra4 57. Kd3 Rc4 58. Rc3 Ra4 59.
+e4 Kf4 60. e5 Ra6 1-0
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Geringer, Waldemar"]
+[Black "Henzner, Reiner"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "1886"]
+[BlackElo "2094"]
+[PlyCount "107"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Bc4 c5 9. Be3 cxd4 10. cxd4 Bg4 11. e5 b5 12. Be2 Nc6 13. O-O a6 14. h3 Be6 15.
+a4 b4 16. Rc1 Na5 17. Ng5 Bd5 18. Bf3 Nc4 19. Bxd5 Qxd5 20. Qb3 Nxe3 21. Qxe3
+Bh6 22. f4 Bxg5 23. fxg5 Rfd8 24. Rf4 Rac8 25. Rcf1 b3 26. Rxf7 b2 27. R7f2 Rb8
+28. Rb1 Qa2 29. Qd3 Rxd4 30. Qc2 Rdb4 31. Kh2 Qe6 32. Qc3 Qa2 33. Qc2 a5 34. g3
+Qd5 35. Qc3 Qe4 36. Rbxb2 Rxb2 37. Rxb2 Rxb2+ 38. Qxb2 Qxa4 39. e6 Qb4 40. Qf2
+Qb8 41. Qf7+ Kh8 42. h4 Qd8 43. Kh3 a4 44. h5 gxh5 45. Kh4 a3 46. Kxh5 a2 47.
+Qf1 Qa8 48. Qa1+ Kg8 49. Kh6 Qf8+ 50. Kh5 Qe8+ 51. Kh4 Qa4+ 52. g4 Qc2 53. g6
+hxg6 54. Qd4 0-1
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Gottlieb, Herbert"]
+[Black "Thole, Markus"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "1658"]
+[BlackElo "1749"]
+[PlyCount "93"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. Nf3 Nf6 3. e3 b6 4. Nbd2 Bb7 5. Bd3 c5 6. O-O Nc6 7. c3 d5 8. Re1
+Be7 9. e4 dxe4 10. Nxe4 cxd4 11. cxd4 O-O 12. a3 Nxd4 13. Nxd4 Qxd4 14. Nxf6+
+Qxf6 15. Qh5 g6 16. Qe2 Bc5 17. Bh6 Rfd8 18. Rad1 Rd5 19. b4 Bd6 20. Be3 Rh5
+21. h3 Rd8 22. Ba6 Bc6 23. Qc2 Ba8 24. Be2 Rd5 25. Rxd5 Bxd5 26. Rd1 Be5 27.
+Qd2 Qe7 28. Bg5 Bf6 29. Bh6 Rc8 30. Rc1 Rxc1+ 31. Qxc1 Qb7 32. Qf4 Bg7 33. Bxg7
+Kxg7 34. Qe5+ f6 35. Qg3 e5 36. h4 Qc8 37. h5 Qc1+ 38. Kh2 g5 39. Qd3 Qf4+ 40.
+Kg1 Qc1+ 41. Bd1 Qc4 42. Qf5 Be6 43. h6+ Kf8 44. Qxf6+ Ke8 45. Ba4+ b5 46.
+Bxb5+ Qxb5 47. Qxe6+ 1-0
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Honert, Stefan"]
+[Black "Scheerer, Michael"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "1289"]
+[BlackElo "1435"]
+[PlyCount "31"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c6 7. Bd3 Nbd7 8. O-O
+dxc4 9. Bxc4 Nb6 10. Bb3 Nbd5 11. Bg3 Nxc3 12. bxc3 Ne4 13. Rc1 Qa5 14. Qd3
+Nxg3 15. hxg3 Bd6 16. e4 1/2-1/2
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Mussler, Thomas"]
+[Black "Jung, Bernhard"]
+[Result "1/2-1/2"]
+[ECO "D32"]
+[WhiteElo "2168"]
+[BlackElo "1899"]
+[PlyCount "81"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 c5 3. dxc5 e6 4. c4 Bxc5 5. Nc3 Nc6 6. e3 Nf6 7. cxd5 exd5 8.
+Be2 O-O 9. O-O d4 10. Na4 b6 11. Nxc5 bxc5 12. exd4 cxd4 13. Bb5 Bb7 14. Bxc6
+Bxc6 15. Nxd4 Bb7 16. Be3 Qd5 17. Qf3 Qd7 18. Qf5 Qe7 19. Bg5 Qe4 20. Qxe4 Nxe4
+21. Be3 Rac8 22. Rfc1 Rxc1+ 23. Rxc1 Rc8 24. Rxc8+ Bxc8 25. Nc6 Be6 26. f3 Nd6
+27. a3 a6 28. Kf2 Nc4 29. Bd4 f6 30. Bc3 Bd7 31. Nd4 Kf7 32. Ke2 Nd6 33. Kd3
+Nb5 34. Nxb5 axb5 35. Kd4 Ke6 36. Kc5 g6 37. g3 f5 38. f4 Be8 39. Be5 Bd7 40.
+h3 Be8 41. h4 1/2-1/2
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Paulicks, Frank"]
+[Black "Liebert, Monika"]
+[Result "0-1"]
+[ECO "D02"]
+[BlackElo "1042"]
+[PlyCount "96"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 Nc6 4. Nf3 Bg4 5. Nbd2 e6 6. h3 Bf5 7. g4 Bg6 8. Ne5
+Bd6 9. g5 Nh5 10. Nxg6 hxg6 11. Be2 Nxf4 12. exf4 Bxf4 13. Nf3 Bxg5 14. c3 Qf6
+15. Bb5 Bh6 16. Bxc6+ bxc6 17. Nd2 O-O 18. Qc2 e5 19. O-O-O Qxf2 20. dxe5 Rfe8
+21. Rhf1 Qe3 22. Rf3 Qxe5 23. Kb1 f5 24. a3 Rab8 25. h4 Rb6 26. Qa4 a6 27. Qc2
+Reb8 28. b4 c5 29. h5 Qf6 30. hxg6 Qxg6 31. Rxf5 cxb4 32. Rf8+ Kh7 33. Qxg6+
+Kxg6 34. Rxb8 Rxb8 35. cxb4 a5 36. Rg1+ Kh7 37. Ka2 axb4 38. Rb1 Bxd2 39. a4 c5
+40. Rd1 b3+ 41. Kb2 Bf4 42. Rxd5 c4 43. Rc5 Rb7 44. Rxc4 g5 45. a5 Be3 46. a6
+Rd7 47. Kxb3 Kh6 48. Rb4 Kh5 0-1
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.09"]
+[Round "6"]
+[White "Winand, Edgar"]
+[Black "Moranda, Katarzyna"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "1778"]
+[BlackElo "1858"]
+[PlyCount "93"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 e6 4. b3 c5 5. Bb2 Nc6 6. a3 Be7 7. Bd3 O-O 8. Nbd2
+b6 9. Qe2 Qc7 10. Ne5 Bb7 11. f4 Nd7 12. O-O f6 13. Qh5 f5 14. Nxd7 Qxd7 15. g4
+cxd4 16. exd4 Qe8 17. Qh3 Qg6 18. g5 h6 19. Kh1 hxg5 20. fxg5 Qxg5 21. Rg1 Qf6
+22. Qh5 g5 23. Rxg5+ Qxg5 24. Rg1 Qxg1+ 25. Kxg1 Rf7 26. Nf3 Bd6 27. Bc1 f4 28.
+Ng5 Rg7 29. Bh7+ Kf8 30. Kf1 Ba6+ 31. c4 Nd8 32. Qh6 Be7 33. Bg6 Bxg5 34. Qxg5
+dxc4 35. b4 Nf7 36. Qf6 c3+ 37. Kf2 Kg8 38. Bxf4 Rf8 39. Ke3 Nd8 40. Qg5 Nc6
+41. Qh5 Ne7 42. Bc2 Nd5+ 43. Ke4 Rxf4+ 44. Ke5 Bc4 45. Qe8+ Rf8 46. Qxe6+ Rgf7
+47. Qg6+ 1/2-1/2
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.16"]
+[Round "7"]
+[White "Barisch, Florian"]
+[Black "Cors, Heinz Friedrich"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1713"]
+[BlackElo "2016"]
+[PlyCount "72"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. e3 d5 3. f4 c5 4. c3 Nc6 5. Bd3 Bg4 6. Nf3 e6 7. O-O Bd6 8. Qe1
+Bxf3 9. Rxf3 Ne4 10. Qe2 f5 11. Rh3 Qb6 12. Rf3 Qc7 13. Rf1 O-O 14. Nd2 c4 15.
+Bc2 b5 16. a3 a5 17. Nxe4 dxe4 18. Bd2 Ne7 19. Rfc1 Nd5 20. Bd1 Rf6 21. Kh1 Rh6
+22. Bc2 Kh8 23. Qf2 g5 24. g3 Rg6 25. Rg1 Rb8 26. Bd1 Rbg8 27. Be2 Rb8 28. Ra2
+Rgg8 29. Rga1 Rb7 30. Qf1 Qc6 31. Rc1 gxf4 32. gxf4 Rbg7 33. Rd1 Nxf4 34. exf4
+e3+ 35. Bf3 Rg1+ 36. Qxg1 Qxf3+ 0-1
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.16"]
+[Round "7"]
+[White "Behnick, Eckhard"]
+[Black "Zuyev, Igor"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2156"]
+[BlackElo "2265"]
+[PlyCount "82"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nc6 3. g3 Bg4 4. Bg2 e6 5. O-O Nf6 6. b3 Bd6 7. Bb2 O-O 8. Ne5
+Bxe5 9. dxe5 Nd7 10. f4 Ne7 11. h3 Bh5 12. g4 Bg6 13. Nd2 f5 14. e3 fxg4 15.
+hxg4 c6 16. Nf3 Qb6 17. Nd4 c5 18. Ne2 Rad8 19. Ng3 Nb8 20. Bh3 d4 21. e4 c4
+22. Kh2 Nbc6 23. Ba3 cxb3 24. axb3 Nb4 25. g5 Bf7 26. Bxb4 Qxb4 27. Rxa7 Qb6
+28. Ra4 Be8 29. Ra2 Bb5 30. Rf3 Ng6 31. Nh5 Rf7 32. Kg3 Rdf8 33. Bg4 Rc7 34.
+Rf2 Rc3+ 35. Bf3 Qd8 36. Qd2 Re3 37. Kg4 h6 38. Nf6+ gxf6 39. gxf6 Rxf6 40.
+exf6 Qxf6 41. Kh3 Be2 0-1
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.16"]
+[Round "7"]
+[White "Bongardt, Torsten"]
+[Black "Krueger, Manfred"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1417"]
+[BlackElo "1690"]
+[PlyCount "90"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. e3 Be7 5. Bd3 Nh5 6. Be5 Nf6 7. O-O Nbd7 8. c4
+c6 9. Nbd2 b6 10. cxd5 cxd5 11. Rc1 Nxe5 12. Nxe5 Bd7 13. Nxd7 Qxd7 14. Qb3 O-O
+15. Bb5 Qd8 16. Rc2 Rc8 17. Rfc1 Rxc2 18. Rxc2 Qb8 19. Ba6 Bd6 20. h3 Qd8 21.
+Rc6 Qe7 22. Qc2 Nd7 23. Bd3 Nf6 24. Rc8 g6 25. Ba6 Ne8 26. Nb1 Nc7 27. Bb7 Ne8
+28. Qc6 f5 29. Nc3 Nf6 30. Nb5 Rxc8 31. Qxc8+ Kg7 32. Qa8 Qd7 33. Bc6 Qe7 34.
+Nxa7 Qc7 35. Nb5 Qe7 36. Nxd6 Qxd6 37. Qb7+ Kh6 38. Qxb6 Ne4 39. Qb5 f4 40. f3
+Ng3 41. Qc5 Qb8 42. Qa3 Qb6 43. Bd7 Qc7 44. Qf8+ Kh5 45. Qc8 Qa5 0-1
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.16"]
+[Round "7"]
+[White "Gauf, Wolfgang"]
+[Black "Klyszcz, Michael"]
+[Result "1/2-1/2"]
+[ECO "D74"]
+[WhiteElo "1758"]
+[BlackElo "2038"]
+[PlyCount "120"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nd7 8. e4
+N5b6 9. Nc3 c5 10. Rb1 cxd4 11. Nxd4 a6 12. Nd5 Nf6 13. Nxb6 Qxb6 14. Nb3 Be6
+15. Be3 Qb5 16. Nd4 Qd7 17. Nb3 Ng4 18. Qxd7 Bxd7 19. Bd4 Ne5 20. Nc5 Bc6 21.
+Rfd1 Rfd8 22. Bc3 Nc4 23. Bxg7 Kxg7 24. b3 Ne5 25. Rbc1 Kf8 26. h3 g5 27. a4
+Ke8 28. Bf1 Nf3+ 29. Kg2 Nd2 30. f3 Nxf1 31. Kxf1 Rxd1+ 32. Rxd1 b6 33. Nd3 f5
+34. Nb4 Bb7 35. Nd5 Rc8 36. Ke2 fxe4 37. fxe4 b5 38. axb5 axb5 39. Ke3 Kf7 40.
+Rd3 Ke6 41. h4 gxh4 42. gxh4 Rc5 43. Rc3 Rxc3+ 44. Nxc3 Bc6 45. b4 Ke5 46. Ne2
+Bxe4 47. Nd4 Bf5 48. Nxb5 Kd5 49. Nd4 Bd7 50. b5 e5 51. Ne2 Bxb5 52. Nc3+ Kc5
+53. Nxb5 Kxb5 54. Ke4 Kc6 55. Kxe5 Kd7 56. Kf6 Ke8 57. Kg7 Ke7 58. h5 Ke8 59.
+h6 Ke7 60. Kxh7 Kf7 1/2-1/2
+
+[Event "Frankfurt-ch"]
+[Site "Frankfurt"]
+[Date "2008.06.16"]
+[Round "7"]
+[White "Graebner, Walter"]
+[Black "Dubois de Luchet, Erich"]
+[Result "1/2-1/2"]
+[ECO "D18"]
+[WhiteElo "2053"]
+[BlackElo "1967"]
+[PlyCount "105"]
+[EventDate "2008.04.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]

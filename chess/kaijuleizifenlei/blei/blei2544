@@ -1,0 +1,600 @@
+[WhiteElo "2122"]
+[BlackElo "2147"]
+[PlyCount "87"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3 cxd4 6. cxd4 b6 7. Nc3 Nxc3 8.
+bxc3 Ba6 9. Bxa6 Nxa6 10. Ng5 Be7 11. Ne4 O-O 12. Qa4 Nc7 13. Ba3 Ne8 14. Bxe7
+Qxe7 15. Qb4 Qxb4 16. cxb4 f5 17. Nd2 Nc7 18. Nc4 Nb5 19. O-O Rac8 20. Rfc1
+Nxd4 21. Kf1 Rc6 22. Nd6 Nc2 23. b5 Rc5 24. Rab1 g5 25. Kg1 Nb4 26. Rxc5 bxc5
+27. a4 Nd3 28. Nc4 Nb4 29. a5 Rb8 30. b6 axb6 31. axb6 Kf8 32. Ra1 Nc6 33. Ra6
+Ke7 34. g3 f4 35. gxf4 gxf4 36. Kg2 Nd4 37. Ra5 Rg8+ 38. Kh3 Nf3 39. Ra3 Ng5+
+40. Kg4 f3 41. b7 h5+ 42. Kxh5 Ne4 43. Ra8 Rg5+ 44. Kh4 1-0
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.04"]
+[Round "2.1"]
+[White "Papp, Gabor"]
+[Black "Loeffler, Stefan"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2509"]
+[BlackElo "2411"]
+[PlyCount "49"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Bf5 7. O-O Nd7 8.
+Nf3 h6 9. c4 Nb4 10. Nc3 Nc2 11. Rb1 Nb4 12. Be3 Bxb1 13. Qxb1 e6 14. a3 Na6
+15. d5 e5 16. Rd1 c5 17. d6 g6 18. b4 f5 19. bxc5 e4 20. Qxb7 Bg7 21. c6 O-O
+22. cxd7 f4 23. Nxe4 fxe3 24. Qxa6 exf2+ 25. Nxf2 1-0
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.04"]
+[Round "2.2"]
+[White "Alvir, Aco"]
+[Black "Vlcek, Stanislav"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "2386"]
+[BlackElo "2312"]
+[PlyCount "85"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Bd3 g6 5. O-O Bg7 6. Bc2 Nc6 7. h3 e5 8. d4
+exd4 9. cxd4 O-O 10. Nc3 cxd4 11. Nxd4 Nxe4 12. Nxc6 Nxc3 13. Nxd8 Nxd1 14.
+Nxf7 Nxb2 15. Nh6+ Kh8 16. Rb1 Nc4 17. Rd1 Rb8 18. Be4 Bf5 19. Nxf5 gxf5 20.
+Bd5 b5 21. Bg5 h6 22. Bf4 a6 23. Rbc1 Ne5 24. Rc7 Rbc8 25. Ra7 Nc6 26. Rxa6 Nb4
+27. Rxd6 Nxd5 28. R1xd5 Ra8 29. Rxb5 Rxa2 30. Bxh6 Bxh6 31. Rxh6+ Kg7 32. Rbb6
+Rf7 33. Rbg6+ Kf8 34. Rf6 f4 35. Rxf7+ Kxf7 36. Rb6 Ra1+ 37. Kh2 Ra2 38. f3 Ra4
+39. h4 Kg7 40. Re6 Ra7 41. Kh3 Rf7 42. Kg4 Kh7 43. Re5 1-0
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.04"]
+[Round "2.2"]
+[White "Bozinovic, Boban"]
+[Black "Steinert, Martin"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2095"]
+[BlackElo "2058"]
+[PlyCount "72"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 c6 5. Nf3 Bg4 6. Be3 b5 7. a3 a6 8. h3 Bxf3
+9. Qxf3 Nd7 10. e5 d5 11. g4 e6 12. f5 c5 13. fxe6 fxe6 14. Nxd5 exd5 15. e6
+Ndf6 16. g5 Qe7 17. gxf6 Nxf6 18. O-O-O O-O 19. dxc5 Qxe6 20. Bg2 Rae8 21. Bd4
+Ne4 22. Qg4 Bxd4 23. Qxe6+ Rxe6 24. Rxd4 Rf2 25. Bxe4 dxe4 26. Re1 Rf4 27. Re3
+h5 28. Kd2 Kf7 29. b4 g5 30. Rd7+ Kf6 31. Kc3 Ke5 32. Rh7 Rh4 33. Rg7 g4 34.
+hxg4 Rxg4 35. Rh7 h4 36. Rh5+ Kf4 0-1
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.04"]
+[Round "2.3"]
+[White "Hangweyrer, Manfred"]
+[Black "Pisk, Petr"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "2338"]
+[BlackElo "2327"]
+[PlyCount "69"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nf6 4. d3 e6 5. O-O Be7 6. Nbd2 Nc6 7. c3 O-O 8. Bb3
+b6 9. Re1 Ne5 10. Bc2 Ba6 11. Nf1 Nxf3+ 12. Qxf3 Rc8 13. Ng3 Kh8 14. Bd2 b5 15.
+Rac1 Bb7 16. Bb1 a5 17. d4 cxd4 18. cxd4 Qb6 19. Qd3 g6 20. Bg5 b4 21. h3 e5
+22. Qf3 Kg7 23. Rcd1 exd4 24. Qf4 Ng8 25. Bxe7 Nxe7 26. e5 Nd5 27. Nf5+ Kh8 28.
+Qh6 Rg8 29. Nxd6 Rc7 30. Be4 Ba8 31. Qh4 h5 32. Qg5 Kh7 33. Qxh5+ Kg7 34. Qg5
+Kh7 35. Rd3 1-0
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.04"]
+[Round "2.4"]
+[White "Zoernpfenning, Siegfried"]
+[Black "Sadilek, Maximilian"]
+[Result "1-0"]
+[ECO "B26"]
+[WhiteElo "2115"]
+[BlackElo "2164"]
+[PlyCount "93"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e6 7. O-O Nge7 8. Be3
+O-O 9. Qd2 Nd4 10. Nf4 Rb8 11. Nd1 e5 12. Ne2 d5 13. c3 Nxe2+ 14. Qxe2 b6 15.
+c4 d4 16. Bg5 f6 17. Bd2 b5 18. b3 bxc4 19. dxc4 Qc7 20. Nb2 Bd7 21. Nd3 a5 22.
+f4 Be6 23. fxe5 fxe5 24. Rxf8+ Rxf8 25. Rf1 a4 26. Rxf8+ Bxf8 27. Qf1 Bg7 28.
+Qc1 axb3 29. axb3 Qa7 30. h4 Nc6 31. Kh2 Bg4 32. Qb2 Bf8 33. Nf2 Be6 34. Bh3
+Bxh3 35. Kxh3 Qa8 36. Qb1 Qa3 37. Nd3 Be7 38. Qd1 Qa2 39. Bh6 Qa8 40. Qg4 Kf7
+41. Qd7 Qa1 42. Qd5+ Ke8 43. Qxc6+ Kd8 44. Bc1 Bxh4 45. Nxc5 Ke7 46. Qe6+ Kf8
+47. Bh6# 1-0
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.04"]
+[Round "2.5"]
+[White "Fusi, Christoph"]
+[Black "Weissenbeck, Manuel"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[WhiteElo "2280"]
+[BlackElo "2279"]
+[PlyCount "109"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. c4 g6 6. Nc3 Bg7 7. Be3 Nf6 8. Be2
+O-O 9. f3 b6 10. Qd2 Bb7 11. O-O Nbd7 12. Rac1 Rc8 13. Nd5 e6 14. Nxf6+ Bxf6
+15. Rfd1 Re8 16. b4 Qe7 17. Nb3 d5 18. f4 dxc4 19. Rxc4 Rxc4 20. Bxc4 b5 21.
+Be2 Nb8 22. e5 Bg7 23. Bc5 Qh4 24. g3 Qh3 25. Bf1 Qg4 26. Bg2 Bxg2 27. Kxg2 g5
+28. h3 Qh5 29. Re1 h6 30. Qe2 Qg6 31. Qe4 Qxe4+ 32. Rxe4 Nc6 33. Bd6 gxf4 34.
+gxf4 Ra8 35. a3 Bf8 36. Re3 Ne7 37. Rg3+ Kh7 38. Bxe7 Bxe7 39. Rc3 Ra7 40. Kf3
+Kg6 41. Ke4 Bh4 42. Rc6 Kg7 43. f5 exf5+ 44. Kxf5 Bf2 45. Ke4 h5 46. Rf6 Bh4
+47. Rd6 Bf2 48. Kd5 h4 49. Rf6 Be1 50. Nd4 Kg8 51. Nf5 a5 52. Kc5 axb4 53. axb4
+Ra3 54. Nh6+ Kg7 55. Nf5+ 1/2-1/2
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.04"]
+[Round "2.5"]
+[White "Neumeier, Klaus"]
+[Black "Bawart, Markus"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2319"]
+[BlackElo "2378"]
+[PlyCount "21"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 b6 8.
+Nbd2 f6 9. Nc4 Be6 10. Ne3 Nh6 11. h3 1/2-1/2
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.04"]
+[Round "2.5"]
+[White "Videki, Sandor"]
+[Black "Sommerbauer, Norbert"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[WhiteElo "2428"]
+[BlackElo "2471"]
+[PlyCount "23"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 Nge7 7. Nb3 d6 8. Bg2
+Bd7 9. O-O Nc8 10. a4 Be7 11. Qe2 O-O 12. f4 1/2-1/2
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.04"]
+[Round "2.6"]
+[White "Posch, Werner"]
+[Black "Gattermayer, Robert"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2234"]
+[BlackElo "2078"]
+[PlyCount "80"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. b3
+Nd7 9. a4 a5 10. Ba3 Re8 11. Bd6 c5 12. Rc1 d4 13. Nc4 Nc6 14. Bh3 Nb6 15. Bxc8
+Nxc4 16. dxc4 Qxd6 17. Bxb7 Rad8 18. Bxc6 Qxc6 19. Qd3 f5 20. Rce1 Qf6 21. Nh4
+f4 22. f3 Qg5 23. Kf2 Qh5 24. Rh1 Rf8 25. Ng2 Bh6 26. g4 Qh3 27. Reg1 Bg5 28.
+Ke2 Kh8 29. Qd2 Rd7 30. Ne1 d3+ 31. Nxd3 Rd4 32. Qxa5 Rxe4+ 33. Kd2 Qxf3 34.
+Qxc5 Rd8 35. Re1 Re3 36. Kc1 Bh4 37. Nxe5 Qb7 38. Rd1 Re8 39. Nd3 Qg7 40. Kb1
+f3 1/2-1/2
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.05"]
+[Round "3.1"]
+[White "Steiner, Adam"]
+[Black "Vass, Frantisek"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2212"]
+[BlackElo "2402"]
+[PlyCount "89"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd2 c6 6. Bc4 Bf5 7. Nf3 Nbd7 8.
+Qe2 e6 9. d5 cxd5 10. Nxd5 Qd8 11. Nd4 Bg6 12. O-O-O Nxd5 13. Bxd5 Qc7 14. Bg5
+Be7 15. Bxe7 Kxe7 16. Bxe6 fxe6 17. Nxe6 Qxc2+ 18. Qxc2 Bxc2 19. Kxc2 Rac8+ 20.
+Kb3 Kxe6 21. Rhe1+ Ne5 22. f4 Rc5 23. Rd2 Rhc8 24. a4 Rf8 25. g3 g5 26. fxe5
+Rf3+ 27. Ka2 Rc4 28. Rd6+ Ke7 29. Rh6 Rxa4+ 30. Kb1 Rf7 31. Rc1 Kf8 32. e6 Re7
+33. Rf6+ Kg7 34. Rcf1 b6 35. Rf7+ Rxf7 36. Rxf7+ Kg6 37. Rc7 Re4 38. e7 a5 39.
+Rc6+ Kf5 40. g4+ Kxg4 41. Rc4 Rxc4 42. e8=Q Rb4 43. Qd7+ Kf3 44. Qh3+ Kf2 45.
+Qg3+ 1-0
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.05"]
+[Round "3.3"]
+[White "Pichler, Michael"]
+[Black "Sadilek, Maximilian"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2166"]
+[BlackElo "2164"]
+[PlyCount "76"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 e5 3. Nf3 Nc6 4. Bc4 Nf6 5. O-O Nxe4 6. Re1 d5 7. Bb5 Bd6 8. d3
+Nf6 9. Nxe5 O-O 10. Bxc6 bxc6 11. Bg5 Qc7 12. Bxf6 gxf6 13. Nf3 Kh8 14. Qa4 c4
+15. dxc4 Rg8 16. Kh1 Bd7 17. cxd5 Rg4 18. Qa6 Rag8 19. g3 cxd5 20. Nbd2 R8g6
+21. Qd3 Kg7 22. Nd4 R4g5 23. N2f3 Rh5 24. Nh4 Rxh4 25. gxh4 Bxh2 26. Rg1 Bxg1
+27. Rxg1 Qf4 28. Rxg6+ hxg6 29. b4 Qxf2 30. Qf3 Qxh4+ 31. Kg2 Qg5+ 32. Kf2 Qd2+
+33. Kg3 Qxa2 34. Qe3 Qc4 35. Kf2 a6 36. Ke1 Qc7 37. Kd2 Qe5 38. Qd3 Qf4+ 0-1
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.05"]
+[Round "3.4"]
+[White "Pacher, Milan"]
+[Black "Kleiser, Gregor"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2357"]
+[BlackElo "2326"]
+[PlyCount "122"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Nbd7 9. a4 O-O 10. a5 Qc7 11. O-O Nc5 12. Bxf6 Bxf6 13. Nd5 Qc6 14. Nxc5 dxc5
+15. Ra3 Be6 16. Nxf6+ gxf6 17. Qd2 Kh8 18. Qh6 Bd7 19. Rd1 Rg8 20. Rad3 Rg6 21.
+Qh4 Be6 22. b3 Rag8 23. Bf1 Qc7 24. h3 Qxa5 25. Rf3 Kg7 26. Bc4 Bxc4 27. bxc4
+Rd8 28. Rd5 b5 29. cxb5 axb5 30. Kh2 c4 31. Rf5 Rxd5 32. exd5 Qe1 33. Rf3 Rg5
+34. Rg3 Qd2 35. Qe4 Rxg3 36. fxg3 Qd4 37. Qf5 Qxd5 38. Qg4+ Kf8 39. Qc8+ Ke7
+40. Qc7+ Qd7 41. Qc5+ Ke6 42. c3 Kf5 43. Qe3 Qd3 44. Qf2+ Kg6 45. Qb2 e4 46.
+Qxb5 Qxc3 47. Qe8 e3 48. Qg8+ Kf5 49. Qxh7+ Ke6 50. Qe4+ Kd6 51. Qf4+ Kc5 52.
+Qc7+ Kb4 53. Qb7+ Ka3 54. Qxf7 Kb3 55. Qh5 Kc2 56. Qe2+ Kc1 57. h4 Qd3 58. Qe1+
+Kc2 59. h5 e2 60. h6 c3 61. Qa1 Kd2 0-1
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.05"]
+[Round "3.4"]
+[White "Zoernpfenning, Siegfried"]
+[Black "Hangweyrer, Manfred"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2115"]
+[BlackElo "2338"]
+[PlyCount "28"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Nc6 4. Be3 e5 5. Nc3 Bb4 6. Qd2 Qa5 7. Nf3 Nf6 8.
+a3 Ne4 9. Qc1 Bxc3+ 10. bxc3 Qxc3+ 11. Bd2 Nxd2 12. Nxd2 Nxd4 13. Bd3 O-O 14.
+O-O Qxd3 0-1
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.05"]
+[Round "3.5"]
+[White "Alvir, Aco"]
+[Black "Vyskocil, Neklan"]
+[Result "0-1"]
+[ECO "B99"]
+[WhiteElo "2386"]
+[BlackElo "2315"]
+[PlyCount "62"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+Nbd7 9. O-O-O b5 10. Bd3 Bb7 11. Rhe1 Be7 12. Qg3 b4 13. Nd5 exd5 14. exd5 Kd8
+15. Nf5 Bf8 16. Re2 Qc5 17. Qe1 Kc7 18. Bh4 g6 19. Bf2 Qa5 20. Ne3 Qxa2 21.
+Qxb4 Nc5 22. Nc4 Nxd5 23. Qe1 Nxd3+ 24. cxd3 Rc8 25. Bd4 Bh6 26. g3 Rhd8 27. b3
+Qxb3 28. Rb2 Qa4 29. Kb1 Bc6 30. Bb6+ Kd7 31. Bxd8 Qxd1+ 0-1
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.05"]
+[Round "3.5"]
+[White "Manik, Mikulas"]
+[Black "Blatny, Pavel"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2448"]
+[BlackElo "2416"]
+[PlyCount "43"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 2. d4 c6 3. Nc3 d5 4. h3 Bg7 5. Nf3 Nf6 6. Bd3 dxe4 7. Nxe4 Nxe4 8.
+Bxe4 Nd7 9. c3 O-O 10. O-O e5 11. dxe5 Nxe5 12. Nxe5 Qxd1 13. Rxd1 Bxe5 14. Bh6
+Re8 15. Bc2 Bg7 16. Bxg7 Kxg7 17. Rd2 Be6 18. Bb3 Kf8 19. Rad1 Bxb3 20. axb3 h5
+21. Kf1 Re7 22. Rd7 1/2-1/2
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.05"]
+[Round "3.6"]
+[White "Bachofner, Andreas"]
+[Black "Sulyok, Michael"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2245"]
+[BlackElo "2227"]
+[PlyCount "19"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Nc6 7. d5 Nb8 8. Re1
+e6 9. h3 a5 10. a4 1/2-1/2
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.05"]
+[Round "3.6"]
+[White "Brandner, Stefan"]
+[Black "Koffler, Daniel"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2296"]
+[BlackElo "2250"]
+[PlyCount "70"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. g3 g6 2. Bg2 Bg7 3. e4 c5 4. Ne2 Nc6 5. c3 e5 6. Na3 Nge7 7. O-O O-O 8. d3
+d6 9. Be3 f5 10. f4 Rb8 11. d4 fxe4 12. d5 Nf5 13. Nc2 Ncd4 14. cxd4 Nxe3 15.
+Nxe3 exd4 16. Nc4 b5 17. Nd2 d3 18. Nxe4 dxe2 19. Qxe2 Re8 20. g4 Bb7 21. f5
+Bd4+ 22. Kh1 Kg7 23. Qd2 Bxd5 24. f6+ Kh8 25. Ng5 Bxf6 26. Bxd5 Bxg5 27. Qc3+
+Re5 28. Rf7 Bf6 29. Rf1 Bg7 30. Rxg7 Kxg7 31. Rf7+ Kh8 32. Qh3 h5 33. gxh5 Re1+
+34. Rf1 Rxf1+ 35. Qxf1 Qg5 0-1
+
+[Event "AUT-chT2O 0809"]
+[Site "Austria"]
+[Date "2008.10.05"]
+[Round "3.6"]
+[White "Rudolf, Herbert"]
+[Black "Bachofner, Christian"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "2137"]
+[BlackElo "2110"]
+[PlyCount "21"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 d6 5. c4 Nf6 6. Nc3 e6 7. Nf3 Be7 8. O-O
+Nc6 9. h3 O-O 10. Be3 a6 11. Rc1 1/2-1/2
+
+[Event "Bundesliga 0809"]
+[Site "Germany"]
+[Date "2008.10.04"]
+[Round "1.3"]
+[White "Nisipeanu, Liviu Dieter"]
+[Black "Flumbort, Andras"]
+[Result "1-0"]
+[ECO "B87"]
+[WhiteElo "2684"]
+[BlackElo "2489"]
+[PlyCount "41"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Baden-Baden"]
+[BlackTeam "Trier"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qc7 10. Re1 Qb7 11. Qg3 b4 12. Nd5 exd5 13. Bxd5 Nxd5 14. Qxg7 Rf8
+15. exd5 Qxd5 16. Bg5 Ra7 17. Bxe7 Rxe7 18. Rxe7+ Kxe7 19. Re1+ Kd7 20. Qxf8
+Qxd4 21. Re7+ 1-0
+
+[Event "Bundesliga 0809"]
+[Site "Germany"]
+[Date "2008.10.04"]
+[Round "1.5"]
+[White "Caruana, Fabiano"]
+[Black "Kolbus, Dietmar"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2640"]
+[BlackElo "2414"]
+[PlyCount "89"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Baden-Baden"]
+[BlackTeam "Trier"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2
+Nbd7 9. O-O-O b5 10. f3 Nb6 11. Qf2 Nfd7 12. f4 Qc7 13. f5 Bxb3 14. axb3 Be7
+15. g4 h6 16. h4 Nc5 17. Kb1 O-O-O 18. Qe1 Kb8 19. Nd5 Nxd5 20. Rxd5 Qb7 21.
+Qb4 Rc8 22. Be2 Rc6 23. Rhd1 Rhc8 24. c3 R8c7 25. g5 hxg5 26. hxg5 f6 27. g6
+Rc8 28. Qa3 Nxe4 29. Bf3 Ng3 30. Qb4 Nxf5 31. Bc1 Rh8 32. Bg2 Rh4 33. Qa5 Qb6
+34. Qa2 Rh2 35. R5d2 Rc8 36. b4 Ne3 37. Qe6 Rxg2 38. Rxg2 Nxd1 39. Qxe7 Ne3 40.
+Bxe3 Qxe3 41. Qxd6+ Kb7 42. Qd5+ Kb8 43. Qd6+ Kb7 44. Qd5+ Kb8 45. Qd6+ 1/2-1/2
+
+[Event "Bundesliga 0809"]
+[Site "Germany"]
+[Date "2008.10.04"]
+[Round "1.6"]
+[White "Jeitz, Christian"]
+[Black "Dautov, Rustem"]
+[Result "0-1"]
+[ECO "B15"]
+[WhiteElo "2251"]
+[BlackElo "2601"]
+[PlyCount "76"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Trier"]
+[BlackTeam "Baden-Baden"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. Nf3 Bg7 5. e5 Bg4 6. Bf4 Qb6 7. Na4 Qa5+ 8. Nc3
+f6 9. Be2 Nh6 10. exf6 exf6 11. Qd2 Nf5 12. O-O O-O 13. h3 Bxf3 14. Bxf3 Qd8
+15. a4 Na6 16. a5 Nd6 17. b3 f5 18. Na4 Ne4 19. Bxe4 fxe4 20. Bg5 Qd6 21. Rad1
+Rf5 22. c4 Raf8 23. Be3 Qe6 24. cxd5 cxd5 25. Nc5 Nxc5 26. dxc5 d4 27. Bxd4 Rd5
+28. Qb4 Rfd8 29. Qxb7 Bxd4 30. c6 Bxf2+ 31. Kxf2 Rxd1 32. Rxd1 Rxd1 33. Qb8+
+Kg7 34. Qxa7+ Kh6 35. Qe3+ g5 36. c7 Qf7+ 37. Kg3 Qxc7+ 38. Kg4 Qd7+ 0-1
+
+[Event "Bundesliga 0809"]
+[Site "Germany"]
+[Date "2008.10.04"]
+[Round "1.1"]
+[White "Bezold, Michael"]
+[Black "Nataf, Igor Alexandre"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2513"]
+[BlackElo "2530"]
+[PlyCount "34"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Bayern Muenchen "]
+[BlackTeam "Berlin SF"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. Qe2 d5 7. c4 Ng6 8. O-O
+Bd6 9. Nc3 O-O 10. h3 d4 11. e5 Nxe5 12. Nxe5 dxc3 13. bxc3 Bxe5 14. Qxe5 Qxd3
+15. Qxc5 Ba6 16. Be3 Qxc4 17. Rfd1 Qxc5 1/2-1/2
+
+[Event "Bundesliga 0809"]
+[Site "Germany"]
+[Date "2008.10.04"]
+[Round "1.8"]
+[White "Thinius, Marco"]
+[Black "Unzicker, Ferdinand"]
+[Result "0-1"]
+[ECO "B64"]
+[WhiteElo "2421"]
+[BlackElo "2313"]
+[PlyCount "70"]
+[EventDate "2008.10.03"]
+[EventType "team"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+[WhiteTeam "Berlin SF"]
+[BlackTeam "Bayern Muenchen "]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Ndb5 Nxe4 12. Bxe7 Nxd2 13. Bxd8 Nxf1 14.
+Bc7 Ne3 15. Rxd6 a6 16. Na3 Bc8 17. Rd2 b5 18. Re1 Nf5 19. Ne4 h5 20. c3 Re8
+21. Nc2 Nce7 22. g3 Bb7 23. Ba5 Nc6 24. Bb6 Nce7 25. Nc5 Bd5 26. Nb4 a5 27.
+Nxd5 Nxd5 28. Bxa5 Nde3 29. Bb4 Nc4 30. Rd7 Rxa2 31. b3 Ra1+ 32. Kc2 Rxe1 33.
+bxc4 bxc4 34. Rd2 Ra8 35. Kb2 Rea1 0-1
+
+[Event "Bundesliga 0809"]
+[Site "Germany"]

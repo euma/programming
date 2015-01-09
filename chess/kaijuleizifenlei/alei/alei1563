@@ -1,0 +1,600 @@
+[EventType "team-tourn"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Wien Husek"]
+[BlackTeam "Maria Saal"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bg4 5. d3 Nbd7 6. h3 Bh5 7. Qe1 e6 8. e4
+Bxf3 9. Bxf3 Bd6 10. Bg2 O-O 11. f4 dxe4 12. dxe4 e5 13. f5 Be7 14. Nd2 Nc5 15.
+Kh2 a5 16. Qe2 a4 17. a3 h6 18. g4 Nh7 19. Rd1 Bg5 20. Nf3 Bxc1 21. Raxc1 Qe7
+22. h4 Rad8 23. Rg1 Rd4 24. Nxd4 Qxh4+ 25. Bh3 Ng5 26. Qg2 exd4 27. Rge1 d3 28.
+Re3 d2 29. Rd1 Rd8 30. e5 Rd4 31. Rxd2 Rxd2 32. Qxd2 Nce4 33. Qg2 Nf2 34. Rf3
+Ngxh3 35. Rxh3 Nxg4+ 36. Kg1 Qe1+ 37. Qf1 Qxe5 38. Qf3 Qe1+ 39. Kg2 Qd2+ 40.
+Kg3 Nf6 41. Rh2 Qe1+ 42. Kg2 Ne4 43. Qf4 Qe2+ 44. Kh3 Ng5+ 45. Kg3 Qe1+ 46. Kg2
+Qb1 47. Qxa4 Qd1 48. Qf4 Qxc2+ 49. Qf2 Qe4+ 50. Kf1 Qd3+ 51. Kg2 Qd5+ 52. Kf1
+Qd1+ 53. Kg2 Qg4+ 54. Kf1 Ne4 55. Qe3 Qxf5+ 56. Ke1 Nf6 57. Kd2 Qb1 58. Re2
+Qxb2+ 59. Kd1 Qb1+ 60. Kd2 Qf5 61. Qd3 Qa5+ 62. Kc2 b5 63. Qd6 Qa4+ 64. Kb2 Nd5
+65. Re8+ Kh7 66. Qxc6 Qd4+ 67. Kb3 Qd3+ 68. Kb2 b4 69. axb4 Qd4+ 70. Kc1 Qa1+
+71. Kd2 Qb2+ 72. Ke1 Qxb4+ 73. Kf1 Qf4+ 74. Ke2 Qg4+ 75. Ke1 Qg1+ 76. Ke2 Nf4+
+77. Kd2 Qd4+ 78. Ke1 Qg1+ 79. Kd2 Qg2+ 80. Qxg2 Nxg2 81. Kd3 g5 82. Ke4 Kg6 83.
+Rg8+ Kf6 84. Rh8 Kg7 85. Ra8 Nh4 86. Ke5 f6+ 87. Ke6 f5 88. Ke5 Kg6 89. Ra6+
+Kh5 90. Rb6 f4 91. Ke4 Kg4 92. Rxh6 Kg3 93. Ra6 f3 94. Ra1 g4 95. Ke3 Ng2+ 96.
+Kd3 Nf4+ 97. Ke3 Ng2+ 98. Kd3 Kh2 99. Rf1 g3 100. Ke4 f2 101. Kf3 Ne1+ 102. Ke2
+Kg2 0-1
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "2"]
+[White "Vaganian, Rafael A"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2590"]
+[BlackElo "2719"]
+[PlyCount "45"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O Nd7 5. d3 e5 6. e4 dxe4 7. dxe4 Ngf6 8.
+Qe1 Bd6 9. a4 O-O 10. Nbd2 Re8 11. h3 Bh5 12. Nh4 Bc7 13. Nc4 Nc5 14. Nf5 Bg6
+15. Bd2 b5 16. Na5 bxa4 17. Rd1 Ncxe4 18. Bb4 Qc8 19. Ne7+ Rxe7 20. Bxe7 Qa6
+21. b4 axb3 22. Nxb3 Re8 23. Qe3 0-1
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "3"]
+[White "Gelfand, Boris"]
+[Black "Kazhgaleyev, Murtas"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2719"]
+[BlackElo "2640"]
+[PlyCount "0"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+ 1-0
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "3"]
+[White "Morozevich, Alexander"]
+[Black "Amin, Bassem"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "2787"]
+[BlackElo "2560"]
+[PlyCount "34"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 f5 2. Bf4 Nf6 3. e3 e6 4. Be2 d6 5. c4 Be7 6. Bh5+ Nxh5 7. Qxh5+ g6 8.
+Qe2 Bf6 9. Nc3 O-O 10. h4 c6 11. Nf3 Qe7 12. Bg5 e5 13. O-O-O Na6 14. Bxf6 Qxf6
+15. Qd2 e4 16. Ng5 h6 17. Nh3 Be6 1-0
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "4"]
+[White "Kazhgaleyev, Murtas"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[WhiteElo "2640"]
+[BlackElo "2719"]
+[PlyCount "59"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 c5 7. d5 e6 8. Bd3 exd5
+9. cxd5 Re8 10. Nf3 c4 11. Bc2 b5 12. a3 Na6 13. O-O Nc5 14. Re1 Qb6 15. Be3
+Bb7 16. Bd4 Nfd7 17. Bxg7 Kxg7 18. Qd4+ f6 19. Qe3 a5 20. Nd4 b4 21. Na4 Qd8
+22. Nc6 Qc7 23. axb4 axb4 24. Nxb4 Nb6 25. Nxc5 Rxa1 26. Rxa1 dxc5 27. Nc6 Nxd5
+28. Qxc5 Qxc6 29. Qxc6 Bxc6 30. exd5 1/2-1/2
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "5"]
+[White "Gelfand, Boris"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "2719"]
+[BlackElo "2727"]
+[PlyCount "104"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
+Rb1 O-O 9. b4 Nxb4 10. Nxe5 c6 11. Ba3 a5 12. Bb2 Be6 13. a3 N4d5 14. Nxd5 Bxd5
+15. e4 Ba2 16. Ra1 Be6 17. Qc2 f6 18. Nf3 Bc4 19. Rfc1 Qd3 20. Bd4 Qxc2 21.
+Rxc2 c5 22. Be3 Bb3 23. Rxc5 Nc4 24. Rc7 Bxa3 25. Rxb7 a4 26. Nd4 Rfb8 27. e5
+Bb2 28. Bd5+ Kh8 29. exf6 Rxb7 30. Bxb7 Rb8 31. fxg7+ Kxg7 32. Nxb3 Bxa1 33.
+Nc5 a3 34. Bd5 Nxe3 35. fxe3 Rb5 36. d4 Bc3 37. Kf2 Rb2+ 38. Kf3 a2 39. Bxa2
+Rxa2 40. h4 Ra3 41. Ke4 Bd2 42. Nd3 Kf6 43. g4 Kg7 44. g5 Kf7 45. Ne5+ Kg7 46.
+Nc4 Ra2 47. Kd5 Be1 48. h5 Rg2 49. h6+ Kf8 50. e4 Rxg5+ 51. e5 Bf2 52. Ke4 Rg4+
+0-1
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "5"]
+[White "Kamsky, Gata"]
+[Black "Amin, Bassem"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2729"]
+[BlackElo "2560"]
+[PlyCount "43"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 d6 6. Be2 Nfd7 7. Nc3 h6 8. g4
+b6 9. e4 e5 10. dxe5 dxe5 11. Be3 c6 12. Qd2 Kh7 13. O-O-O Qe7 14. h4 Nc5 15.
+g5 h5 16. Qd6 Qxd6 17. Rxd6 Nb7 18. Rdd1 Be6 19. Nd2 Nd7 20. Bc4 Rfd8 21. b4
+Nf8 22. a4 0-1
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "6"]
+[White "Amin, Bassem"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2560"]
+[BlackElo "2719"]
+[PlyCount "80"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d3 g6 4. g3 Bg7 5. Bg2 Nc6 6. O-O e5 7. c3 Nge7 8. a3 O-O
+9. b4 b6 10. Nbd2 h6 11. Bb2 Be6 12. Nc4 b5 13. Ne3 cxb4 14. axb4 a5 15. bxa5
+Rxa5 16. d4 Rxa1 17. Qxa1 exd4 18. cxd4 d5 19. e5 b4 20. Rc1 Qa5 21. Qxa5 Nxa5
+22. Rc5 Nc4 23. Nd1 Ra8 24. Ne1 Nxb2 25. Nxb2 Ra1 26. Kf1 Nf5 27. Bxd5 Bf8 28.
+Bxe6 Bxc5 29. dxc5 fxe6 30. Ke2 Nd4+ 31. Ke3 Rxe1+ 32. Kxd4 Rc1 33. Nd3 b3 34.
+f4 Rc2 35. g4 Kf7 36. f5 exf5 37. Kd5 b2 38. Nxb2 Rxb2 39. e6+ Ke7 40. Ke5 Rc2
+0-1
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "6"]
+[White "Sasikiran, Krishnan"]
+[Black "Vaganian, Rafael A"]
+[Result "0-1"]
+[ECO "A90"]
+[WhiteElo "2694"]
+[BlackElo "2590"]
+[PlyCount "68"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 5. Nd2 Bd6 6. Nh3 c6 7. O-O O-O 8. Qc2
+Qe7 9. Nf3 Ne4 10. Bf4 Bxf4 11. Nxf4 g5 12. Nd3 Nd7 13. Rab1 a5 14. Nfe5 Nxe5
+15. Nxe5 Nd6 16. e3 Nf7 17. Nd3 b6 18. Rfc1 Ba6 19. b3 Rac8 20. Qd2 Kg7 21. f3
+Qf6 22. Nf2 Rfd8 23. c5 bxc5 24. Rxc5 a4 25. Rbc1 axb3 26. axb3 Bb5 27. Bf1 Rb8
+28. Bxb5 Rxb5 29. Qa5 f4 30. Ng4 Qf5 31. exf4 gxf4 32. Kg2 fxg3 33. hxg3 h5 34.
+Nf2 Rf8 0-1
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "7"]
+[White "Morozevich, Alexander"]
+[Black "Rublevsky, Sergei"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2787"]
+[BlackElo "2702"]
+[PlyCount "100"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. g3 d5 2. Bg2 Nf6 3. Nf3 Bg4 4. d3 Nbd7 5. h3 Bh5 6. g4 Bg6 7. Nh4 e6 8. e3
+Bb4+ 9. Nd2 Ng8 10. Nxg6 hxg6 11. a3 Bd6 12. c4 c6 13. b4 Ne7 14. Nf3 a5 15. c5
+Bc7 16. Bb2 f6 17. Nd4 Kf7 18. f4 axb4 19. axb4 Rxa1 20. Bxa1 e5 21. Ne2 b6 22.
+fxe5 Nxe5 23. O-O bxc5 24. bxc5 g5 25. Bxe5 Bxe5 26. d4 Bc7 27. Qa4 Qd7 28. Rb1
+Rb8 29. Rxb8 Bxb8 30. e4 dxe4 31. Qb3+ Nd5 32. Qxb8 Nf4 33. Nxf4 Qxd4+ 34. Kh2
+gxf4 35. Qc7+ Kg8 36. Qd6 Qe3 37. Qe6+ Kf8 38. Qxe4 Qg3+ 39. Kh1 g5 40. Qf3
+Qe1+ 41. Kh2 Kg7 42. Qd3 Qe5 43. Qd7+ Kh6 44. Qd6 Qc3 45. Qxc6 Qg3+ 46. Kg1
+Qe3+ 47. Kf1 Qc1+ 48. Ke2 Qe3+ 49. Kd1 Qd3+ 50. Ke1 Qe3+ 1/2-1/2
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "8"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Sasikiran, Krishnan"]
+[Result "0-1"]
+[ECO "A56"]
+[WhiteElo "2731"]
+[BlackElo "2694"]
+[PlyCount "70"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. g3 a6 7. a4 b6 8. Bg2 O-O 9.
+f4 Nbd7 10. Nf3 g6 11. O-O Nh5 12. f5 gxf5 13. exf5 Nhf6 14. Bh6 Re8 15. Nd2
+Bf8 16. Bg5 h6 17. Bh4 Be7 18. g4 Kh7 19. g5 hxg5 20. Bxg5 Rg8 21. Nde4 Rg7 22.
+h4 Kg8 23. Rf3 Nxe4 24. Nxe4 Nf6 25. Ng3 Nh7 26. Nh5 Nxg5 27. Rg3 Bxf5 28. Nxg7
+Kxg7 29. hxg5 Bxg5 30. Qe2 Bg6 31. Be4 Bf4 32. Rg4 Qf6 33. Bxg6 fxg6 34. Kg2
+Rh8 35. a5 Rh2+ 0-1
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "8"]
+[White "Radjabov, Teimour"]
+[Black "Morozevich, Alexander"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2751"]
+[BlackElo "2787"]
+[PlyCount "129"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d6 5. e3 h6 6. Bh4 g5 7. Bg3 Nh5 8. c3
+e6 9. Bd3 Qe7 10. Qc2 Nd7 11. O-O-O a6 12. h4 g4 13. Ng1 Nxg3 14. fxg3 Nf6 15.
+Ne2 Nh5 16. Rhf1 Bd7 17. Bg6 Nf6 18. Bd3 O-O-O 19. Kb1 Bc6 20. e4 Nh5 21. Nb3
+Ba4 22. Qd2 c5 23. Qe3 cxd4 24. cxd4 Kb8 25. Rc1 Rc8 26. Nd2 Nf6 27. Nc4 Bb5
+28. Nd2 Bc6 29. Rc3 h5 30. Qf2 Rhf8 31. a3 Nd7 32. Rb3 d5 33. exd5 Bxd5 34. Rb4
+Qd6 35. Ne4 Qc7 36. N4c3 Nb6 37. Nf4 Bc6 38. Bxa6 Rfd8 39. Bb5 Bf8 40. Rb3 Bg7
+41. Nfe2 f5 42. Bxc6 Qxc6 43. Qf4+ Ka8 44. Ka1 Nc4 45. Rb4 Nd6 46. Rd1 Qxg2 47.
+d5 e5 48. Ra4+ Kb8 49. Qe3 Qf3 50. Qb6 e4 51. Rc1 Rc7 52. Ra8+ Kxa8 53. Qxc7
+Bf6 54. Nf4 Qe3 55. Rc2 Be5 56. Qxd8+ Ka7 57. Qa5+ Kb8 58. Ne6 Nc4 59. Qb4 Nd2
+60. Qf8+ Ka7 61. Nb5+ Ka6 62. Nbc7+ Ka7 63. Qa8+ Kb6 64. Rc6+ bxc6 65. Qa6# 1-0
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "8"]
+[White "Svidler, Peter"]
+[Black "Kazhgaleyev, Murtas"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "2727"]
+[BlackElo "2640"]
+[PlyCount "65"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qb3 Nb6 7. d4 Bg7 8.
+Bf4 Be6 9. Qa3 O-O 10. e4 Bg4 11. Ne5 Bc8 12. Rd1 N8d7 13. Nf3 Nf6 14. h3 c6
+15. Be2 Be6 16. b3 Nh5 17. Bg5 h6 18. Bxe7 Qc7 19. Bd6 Qd7 20. Bxf8 Bxf8 21.
+Qc1 Qc7 22. O-O Nf4 23. Rfe1 Re8 24. Bf1 g5 25. Ne2 Ng6 26. d5 Bc8 27. dxc6
+bxc6 28. Ned4 c5 29. Nf5 Bb7 30. Qc2 Nd7 31. Bb5 Rd8 32. Bxd7 Rxd7 33. Qd2 1-0
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "9"]
+[White "Kazhgaleyev, Murtas"]
+[Black "Amin, Bassem"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "2640"]
+[BlackElo "2560"]
+[PlyCount "50"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 f5 2. c4 e6 3. Nc3 Nf6 4. e3 b6 5. Bd3 Bb7 6. f3 Bb4 7. Bd2 O-O 8. Qc2
+Kh8 9. Nge2 Bxc3 10. Bxc3 d6 11. O-O-O Nbd7 12. Rhf1 Qe7 13. h3 Rae8 14. g4 e5
+15. Bxf5 exd4 16. Bxd4 c5 17. Bxf6 Qxe3+ 18. Qd2 Nxf6 19. Nc3 Bxf3 20. Qxe3
+Rxe3 21. Rxd6 Bg2 22. Rf2 Bxh3 23. g5 Ng8 24. Rf3 Re5 25. Kd2 Rfe8 1-0
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "10"]
+[White "Ivanchuk, Vassily"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[ECO "A95"]
+[WhiteElo "2786"]
+[BlackElo "2590"]
+[PlyCount "67"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e6 2. Nc3 f5 3. d4 Nf6 4. Nf3 Be7 5. g3 O-O 6. Bg2 d5 7. O-O c6 8. Bf4
+Bd7 9. Qb3 Qb6 10. Qc2 Ne4 11. Na4 Qd8 12. Ne5 Be8 13. f3 Nd6 14. Nc5 Qc8 15.
+Rac1 g5 16. Bd2 Nf7 17. Ned3 Bf6 18. e3 Nd6 19. b3 Bf7 20. Ne5 Be8 21. Bb4 a5
+22. Ba3 b5 23. Ne4 Nxe4 24. Bxf8 Nxg3 25. hxg3 Kxf8 26. cxb5 Bxe5 27. dxe5 Qd8
+28. f4 gxf4 29. gxf4 cxb5 30. Qc7 Qxc7 31. Rxc7 Na6 32. Rxh7 Nb4 33. Rc1 Bg6
+34. Rh8+ 1-0
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "11"]
+[White "Vaganian, Rafael A"]
+[Black "Dominguez Perez, Lenier"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[WhiteElo "2590"]
+[BlackElo "2719"]
+[PlyCount "52"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. d3 d6 7. Nd2 Nge7 8. Nf1
+Rb8 9. Ne3 a6 10. h4 h6 11. a4 Nb4 12. Ned5 Nbxd5 13. Nxd5 Be6 14. Bd2 O-O 15.
+a5 f5 16. Rb1 f4 17. Nxe7+ Qxe7 18. b4 fxg3 19. fxg3 e4 20. Bxe4 Be5 21. Bxh6
+Qf6 22. Kd2 Bc3+ 23. Kc2 Bxb4 24. Bd2 Bd7 25. Ra1 b6 26. Rf1 Qe5 1/2-1/2
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "12"]
+[White "Ivanchuk, Vassily"]
+[Black "Sasikiran, Krishnan"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2786"]
+[BlackElo "2694"]
+[PlyCount "85"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 b6 2. Nf3 Bb7 3. g3 c5 4. Bg2 g6 5. O-O Bg7 6. Nc3 Nf6 7. d3 O-O 8. e4 d6
+9. Rb1 Nc6 10. a3 Nd7 11. Be3 a6 12. d4 cxd4 13. Nxd4 Rc8 14. b3 Nc5 15. Nde2
+e6 16. Qc2 Qc7 17. Rfd1 Rfd8 18. h3 Nd7 19. Bg5 Nf6 20. Qd2 Rd7 21. Rbc1 Na5
+22. Qa2 Qb8 23. Be3 Ba8 24. Na4 Rb7 25. Bf4 Ne8 26. b4 Nxc4 27. Rxc4 Rxc4 28.
+Qxc4 b5 29. Qb3 bxa4 30. Qxa4 Rb6 31. Be3 Rc6 32. Nd4 Bxd4 33. Rxd4 e5 34. Rd2
+Qc8 35. Kh2 Kg7 36. Qd1 Qc7 37. Qe2 Nf6 38. Qd3 Bb7 39. a4 Ne8 40. b5 axb5 41.
+axb5 Rc3 42. Qe2 Qc4 43. b6 1-0
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "12"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Amin, Bassem"]
+[Result "1-0"]
+[ECO "A52"]
+[WhiteElo "2731"]
+[BlackElo "2560"]
+[PlyCount "41"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e3 Nxe5 5. Nc3 Nbc6 6. f4 Ng6 7. Bd3 Bc5 8.
+a3 a5 9. Qh5 d6 10. Nf3 Nce7 11. Bd2 f5 12. O-O-O Be6 13. Ng5 Qd7 14. g4 fxg4
+15. Nxe6 Qxe6 16. f5 Qe5 17. Qxg4 Nf8 18. Nb5 Bb6 19. Bc3 Qxe3+ 20. Kb1 h5 21.
+Qh4 1-0
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "13"]
+[White "Amin, Bassem"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2560"]
+[BlackElo "2711"]
+[PlyCount "83"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. Re1 d6 8. c3
+Bd7 9. d4 O-O 10. h4 cxd4 11. cxd4 Qb6 12. d5 Nd4 13. Nc3 exd5 14. Bg5 Nxf3+
+15. Bxf3 Rfe8 16. Bxe7 Bxc3 17. bxc3 Rxe7 18. Qxd5 Be6 19. Qg5 Rc7 20. h5 Rxc3
+21. Qf6 Rc2 22. Bd1 Rd2 23. h6 Kf8 24. Bb3 Re8 25. Rac1 Qd8 26. Qg7+ Ke7 27. e5
+Qb6 28. exd6+ Kxd6 29. Qf6 Qd4 30. Qf3 Bg4 31. Qg2 Rxe1+ 32. Rxe1 Be6 33. Bxe6
+fxe6 34. Qf3 Qd5 35. Qf4+ e5 36. Qf8+ Ke6 37. Qg8+ Kf5 38. Qxh7 Qd4 39. Qf7+
+Kg5 40. h7 e4 41. Qf4+ Kh5 42. Qh4# 1-0
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "13"]
+[White "Svidler, Peter"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[WhiteElo "2727"]
+[BlackElo "2786"]
+[PlyCount "71"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 Bb4 4. Qc2 c5 5. a3 Ba5 6. g3 Nc6 7. Bg2 O-O 8. O-O
+d6 9. d3 Rb8 10. Rb1 a6 11. Bd2 b5 12. cxb5 axb5 13. b4 cxb4 14. Na2 Bd7 15.
+Nxb4 Nxb4 16. Bxb4 Qb6 17. Qd2 Bxb4 18. Qxb4 Rfc8 19. Nd2 Qc5 20. Nb3 Qxb4 21.
+axb4 Bc6 22. Rfc1 Bxg2 23. Rxc8+ Rxc8 24. Kxg2 e5 25. Kf1 Nd5 26. Nd2 f5 27. e4
+Rc2 28. exd5 Rxd2 29. Rb3 g6 30. Ke1 Ra2 31. Rc3 Ra4 32. Rc6 Rxb4 33. Rxd6 Rd4
+34. Ke2 b4 35. Ke3 b3 36. Rb6 1/2-1/2
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "13"]
+[White "Vaganian, Rafael A"]
+[Black "Radjabov, Teimour"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2590"]
+[BlackElo "2751"]
+[PlyCount "77"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 e6 4. O-O Be7 5. d3 Nf6 6. Nbd2 Nbd7 7. e4 Qc7 8. Qe2
+dxe4 9. dxe4 e5 10. a4 a5 11. Nc4 b6 12. b3 Ba6 13. Bb2 O-O 14. Rfd1 Bc5 15.
+Bh3 Rfe8 16. Rd2 Bb4 17. Rdd1 Bc5 18. Rd2 Bb4 19. Rdd1 Rad8 20. Bf1 Bc5 21. h3
+h6 22. Qe1 Bb4 23. Qe3 Bc5 24. Qe1 Bd4 25. Nxd4 exd4 26. Rxd4 c5 27. Rdd1 Nxe4
+28. Qe3 Ndf6 29. Rxd8 Qxd8 30. Bxf6 Nxf6 31. Qf4 Re6 32. Qf3 Ne4 33. Rd1 Qe7
+34. Qf4 Qf6 35. Qxf6 Rxf6 36. Rd8+ Kh7 37. Bd3 Bb7 38. Nd6 Rxd6 39. Rxd6 1-0
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "14"]
+[White "Kamsky, Gata"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2729"]
+[BlackElo "2719"]
+[PlyCount "62"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 c5 5. e3 b6 6. Nbd2 Bb7 7. Bd3 cxd4 8.
+exd4 Be7 9. O-O d6 10. Bxf6 Bxf6 11. Re1 O-O 12. Ne4 Be7 13. c3 Nd7 14. Bc2 Nf6
+15. Nxf6+ Bxf6 16. Qd3 g6 17. Qe3 Bg7 18. a4 a6 19. Bd3 Rb8 20. Be4 Qc7 21.
+Bxb7 Qxb7 22. h4 b5 23. axb5 axb5 24. Qf4 Qc6 25. Ra7 b4 26. cxb4 Qb6 27. Rd7
+Qxb4 28. Qxd6 Qxd6 29. Rxd6 Rxb2 30. d5 exd5 31. Rxd5 Rb7 1/2-1/2
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "14"]
+[White "Radjabov, Teimour"]
+[Black "Kazhgaleyev, Murtas"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2751"]
+[BlackElo "2640"]
+[PlyCount "82"]
+[EventDate "2008.11.08"]
+[EventType "tourn (blitz)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e3 d6 6. c3 c5 7. Bd3 Nc6 8. O-O
+h6 9. Bxf6 exf6 10. e4 cxd4 11. cxd4 d5 12. exd5 Qxd5 13. Bc4 Qd8 14. d5 Na5
+15. Rc1 f5 16. b3 Bd7 17. Re1 Re8 18. Rxe8+ Bxe8 19. Qe2 b6 20. Re1 Nb7 21. Ne5
+Nd6 22. Ndf3 b5 23. Bd3 Qc7 24. Nc6 Bxc6 25. Rc1 Re8 26. Qd1 Ne4 27. dxc6 Nc3
+28. Qd2 Qxc6 29. h3 Qc5 30. Bf1 a5 31. Rc2 Kh7 32. h4 Re7 33. h5 g5 34. Qd3 b4
+35. Rd2 Ne4 36. Rc2 Bc3 37. Qc4 Nd6 38. Bd3 Kg7 39. g3 Kf6 40. Kg2 g4 41. Nd2
+Re1 1/2-1/2
+
+[Event "Wch Blitz 4th"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "15"]
+[White "Amin, Bassem"]
+[Black "Dominguez Perez, Lenier"]
+[Result "0-1"]
+[ECO "A05"]

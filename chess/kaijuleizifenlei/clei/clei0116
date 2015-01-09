@@ -1,0 +1,600 @@
+[ECO "C41"]
+[WhiteElo "2218"]
+[BlackElo "2112"]
+[PlyCount "136"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Jeen"]
+[BlackTeam "Neuville en Ferrain"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. h3 O-O 7. Be3 c6 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Qf3 Qc7 11. O-O Bd7 12. Rad1 Rad8 13. Bg5 Bc8 14. Bxf6
+Bxf6 15. Ne2 Rxd1 16. Rxd1 Rd8 17. Ng3 Rxd1+ 18. Qxd1 Qd7 19. Qf3 b5 20. Bb3
+Qe8 21. Nf5 Be6 22. Bxe6 Qxe6 23. b3 Qd7 24. Nh6+ gxh6 25. Qxf6 Qd1+ 26. Kh2
+Qxc2 27. Qxe5 Qxf2 28. Qe8+ Kg7 29. Qxc6 Qxa2 30. Qxb5 Qf2 31. Qd3 Qf4+ 32. Kg1
+Kf8 33. Qd8+ Kg7 34. Qd4+ Kf8 35. Qd8+ Kg7 36. Qd4+ Kf8 37. Qxa7 Qc1+ 38. Kh2
+Qf4+ 39. Kh1 Qxe4 40. Qc5+ Ke8 41. b4 f5 42. b5 f4 43. Qc6+ Qxc6 44. bxc6 Kd8
+45. Kg1 Kc7 46. Kf2 Kxc6 47. Kf3 Kd6 48. Kxf4 Ke6 49. Kg4 Kf6 50. Kh5 Kg7 51.
+g3 Kh8 52. Kxh6 Kg8 53. h4 Kh8 54. g4 Kg8 55. Kg5 Kg7 56. Kf5 Kf7 57. Ke5 Ke7
+58. Kd5 Kd7 59. g5 Ke7 60. Ke5 Kf7 61. Kf5 Kg7 62. h5 Kf7 63. Ke5 Ke7 64. g6
+Kf8 65. Kf6 Kg8 66. Kg5 hxg6 67. hxg6 Kg7 68. Kf5 Kg8 1/2-1/2
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.03.15"]
+[Round "8.5"]
+[White "Dessenne, Francois"]
+[Black "Giroux, Fabrice"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "2082"]
+[BlackElo "2165"]
+[PlyCount "107"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Neuville en Ferrain"]
+[BlackTeam "Jeen"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Nc3 a6 13. Bg5 O-O 14. Rc1 Nh5 15.
+Ne5 Nf4 16. Bxf4 Rxf4 17. g3 Rf6 18. f4 Qb6 19. Nxc6 bxc6 20. Rf2 g6 21. Bf1
+Bd7 22. Na4 Qa7 23. Nc5 Bc8 24. Qa4 Qb6 25. Rc3 e5 26. fxe5 Rxf2 27. Kxf2 Bxc5
+28. Rxc5 Qxb2+ 29. Rc2 Qa1 30. Qxc6 Qxd4+ 31. Kg2 Kg7 32. Qf6+ Kh6 33. Qf8+ Kh5
+34. Be2+ Bg4 35. Bxg4+ Qxg4 36. Qxa8 Qe4+ 37. Kf1 Qxc2 38. Qxd5 Qc1+ 39. Ke2
+Qc2+ 40. Ke3 Qxh2 41. Qf3+ Kh6 42. Qf8+ Kh5 43. Qf4 Qg1+ 44. Ke4 Qb1+ 45. Kd4
+Qb2+ 46. Kc5 Qb5+ 47. Kd6 Qb6+ 48. Ke7 Qc7+ 49. Kf6 Qd8+ 50. Kg7 Qe7+ 51. Kg8
+Qe8+ 52. Kxh7 Qe7+ 53. Kg8 Qe8+ 54. Kg7 1/2-1/2
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.03.15"]
+[Round "8.1"]
+[White "Cappon, John"]
+[Black "Jessel, Stephen"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2215"]
+[BlackElo "2309"]
+[PlyCount "60"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lille"]
+[BlackTeam "Le Vesinet"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 O-O 10. O-O-O a6 11. Nb3 Bb4 12. a3 Be7 13. g4 b5 14. g5 b4 15. axb4
+Bxb4 16. Qf2 a5 17. Na4 Ba6 18. Bxa6 Rxa6 19. Rhg1 Qc7 20. Rg3 Rc8 21. Kb1 Be7
+22. Bc5 Nxc5 23. Nbxc5 Bxc5 24. Qxc5 Qb7 25. Rc3 Na7 26. Qe3 Rac6 27. f5 Nb5
+28. Rb3 Qa6 29. fxe6 fxe6 30. h4 Rxc2 1/2-1/2
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.03.15"]
+[Round "8.3"]
+[White "Roger, Mehdi"]
+[Black "Glod, Philippe"]
+[Result "0-1"]
+[ECO "C37"]
+[WhiteElo "2199"]
+[BlackElo "2174"]
+[PlyCount "44"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lille"]
+[BlackTeam "Le Vesinet"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3 Bg7 5. d4 d6 6. Bb5+ Bd7 7. Bxd7+ Nxd7 8.
+O-O h6 9. Qd3 Ne7 10. d5 O-O 11. Nd4 c5 12. dxc6 bxc6 13. Nce2 Ne5 14. Qh3 Qc8
+15. Qxc8 Rfxc8 16. b3 Rd8 17. Ba3 Ng4 18. Rfd1 Be5 19. h3 Ne3 20. Rd2 Ng6 21.
+Kf2 d5 22. Rg1 dxe4 {suite illisible} 0-1
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.03.15"]
+[Round "8.8"]
+[White "Millet, Maud"]
+[Black "Darondel, Marlene"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "1910"]
+[BlackElo "1499"]
+[PlyCount "81"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Le Vesinet"]
+[BlackTeam "Lille"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Bc4 O-O 5. d3 d6 6. O-O Nc6 7. a3 Bc5 8. Na4
+Qe8 9. Nxc5 dxc5 10. h3 a6 11. Be3 a5 12. Bxc5 Ne7 13. Nxe5 h6 14. Bxe7 Qxe7
+15. Ng6 Qe8 16. Nxf8 Qxf8 17. e5 Nd7 18. d4 Nb6 19. Ba2 Bf5 20. Rc1 Be4 21. c4
+c6 22. Qg4 Bd3 23. Rfd1 Bxc4 24. Bxc4 Nxc4 25. Rxc4 Qe7 26. d5 cxd5 27. Rxd5 b6
+28. Qd7 Re8 29. Qxe7 Rxe7 30. Rc6 a4 31. Rxb6 g6 32. Ra6 f5 33. Rxg6+ Kf8 34.
+Rf6+ Ke8 35. e6 Rc7 36. Rdxf5 Rc1+ 37. Kh2 Re1 38. Rxh6 Kd8 39. Rf7 Rxe6 40.
+Rxe6 Kc8 41. Re8# 1-0
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.03.16"]
+[Round "9.2"]
+[White "Depoorter, Enguerran"]
+[Black "Mircescu, Ovidiu"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2208"]
+[BlackElo "2148"]
+[PlyCount "61"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Neuville en Ferrain"]
+[BlackTeam "Arcueil"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 Bg4 7. Be2 d5 8. Ne5
+Bxe2 9. Qxe2 Qe7 10. O-O Nbd7 11. Nc3 c6 12. Bg5 h6 13. Bxf6 Nxf6 14. Rfe1
+O-O-O 15. b4 Qc7 16. Rab1 Bd6 17. b5 c5 18. b6 axb6 19. Nb5 Qe7 20. Na7+ Kc7
+21. Qb5 Nd7 22. Nxd7 Qxd7 23. Qxb6+ Kb8 24. Nc6+ Kc8 25. Na7+ Kb8 26. Nc6+ Kc8
+27. Nxd8 Rxd8 28. dxc5 Bf8 29. Re3 Qc7 30. Reb3 Rd7 31. c6 1-0
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.03.16"]
+[Round "9.2"]
+[White "Jacquet, Francois"]
+[Black "Sohier, Julien"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2220"]
+[BlackElo "2272"]
+[PlyCount "47"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Franconville"]
+[BlackTeam "Club 608"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+Qa5 9. Bd2 Nbc6 10. Nf3 f5 11. exf6 Rxf6 12. Qh5 Nf5 13. c4 Qa4 14. cxd5 exd5
+15. O-O Ncxd4 16. Nxd4 Qxd4 17. Bg5 Rf7 18. Rad1 Qa4 19. Rfe1 c4 20. Bf1 Bd7
+21. Rxd5 Qc6 22. Rxd7 Qxd7 23. Bxc4 h6 24. Be7 1-0
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.03.16"]
+[Round "9.5"]
+[White "Eche, Sylvain"]
+[Black "Moncaubeig, Bruno"]
+[Result "1-0"]
+[ECO "C56"]
+[WhiteElo "2186"]
+[BlackElo "2136"]
+[PlyCount "59"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Club 608"]
+[BlackTeam "Franconville"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Qh4 10. Be3 Be7 11. f3 Ng5 12. f4 Ne4 13. Nd2 Bg4 14. N2f3 Qh6
+15. Qd3 c5 16. Nb5 Qc6 17. Nxc7+ Qxc7 18. Qxd5 Rb8 19. Qxe4 Rxb2 20. f5 Rb4 21.
+c4 Bxf3 22. Rxf3 Qb7 23. Qg4 g6 24. f6 h5 25. Qf4 Bf8 26. e6 Bh6 27. Qe5 Bxe3+
+28. Rxe3 Rb2 29. exf7+ Kxf7 30. Qe6+ 1-0
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.03.16"]
+[Round "9.8"]
+[White "Wilson, Alexandra"]
+[Black "Belafkih, Kimia"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "2070"]
+[BlackElo "1430"]
+[PlyCount "25"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Rueil Malmaison"]
+[BlackTeam "Henin Beaumont"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. h3 Nf6 5. O-O a6 6. Ba4 Bd7 7. Re1 g6 8. c3
+Bg7 9. d4 exd4 10. cxd4 O-O 11. Nc3 Re8 12. Bg5 h6 13. Bh4 1-0
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.03.16"]
+[Round "9.3"]
+[White "Wittmann, Marc"]
+[Black "Roger, Mehdi"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2253"]
+[BlackElo "2199"]
+[PlyCount "68"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Issy les Moulineaux"]
+[BlackTeam "Lille"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 cxb4 5. a3 Nc6 6. axb4 Bxb4 7. c3 Be7 8. d4
+f6 9. Bd3 fxe5 10. dxe5 Nh6 11. Bxh6 gxh6 12. Na3 Bxa3 13. Rxa3 Qe7 14. Ra4 Bd7
+15. O-O Qg7 16. Re1 Rg8 17. g3 O-O-O 18. c4 Be8 19. cxd5 Rxd5 20. Qc2 Bg6 21.
+Nd4 Bxd3 22. Qxd3 Nxd4 23. Rxd4 Rgd8 24. Qc3+ Kb8 25. Rxd5 Rxd5 26. f4 Qc7 27.
+Qe3 Qc2 28. Re2 Rd1+ 29. Kg2 Qb1 30. Qc5 Qd3 31. Qf8+ Kc7 32. Qe7+ Kb8 33. Qe8+
+Kc7 34. Qe7+ Kb8 1/2-1/2
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.03.16"]
+[Round "9.8"]
+[White "Gremillet, Anne Marie"]
+[Black "Zoeller, Laure"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "1499"]
+[BlackElo "1991"]
+[PlyCount "16"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lille"]
+[BlackTeam "Issy les Moulineaux"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. g4 Nf6 4. Bd3 Nxg4 5. Ng5 Qxg5 6. Rg1 d6 7. Nc3 Qh4 8.
+b3 Qxf2# 0-1
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.05"]
+[Round "10.1"]
+[White "Cappon, John"]
+[Black "Mircescu, Ovidiu"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2222"]
+[BlackElo "2162"]
+[PlyCount "81"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lille"]
+[BlackTeam "Arcueil"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Nc6
+8. Qd2 Bg4 9. Be2 Qd7 10. O-O-O O-O-O 11. h3 Bh5 12. Rhe1 a6 13. Qd5 Bg6 14.
+Nd4 Nxd4 15. Qxd4 Kb8 16. Bg4 f5 17. Bf3 Bf6 18. Qd5 Qb5 19. Qxb5 axb5 20. Rd5
+c6 21. Rxd6 Rxd6 22. Bxd6+ Kc8 23. Bf4 Bf7 24. a3 Re8 25. Rxe8+ Bxe8 26. Be3
+Kd7 27. Kd2 h5 28. Be2 Bf7 29. Bd3 Be6 30. Ke2 Be7 31. Bc1 Kd6 32. b3 g6 33. c4
+bxc4 34. Bxc4 Bxc4+ 35. bxc4 Bf6 36. Kd3 Bh4 37. Be3 Bf6 38. f3 Bd8 39. Bd4 Ba5
+40. Bg7 Ke6 41. Bd4 1/2-1/2
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.05"]
+[Round "10.6"]
+[White "Cheron, Stephane"]
+[Black "Burgnies, Stephane"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "1991"]
+[BlackElo "2121"]
+[PlyCount "56"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Arcueil"]
+[BlackTeam "Lille"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Be7 12. Rfe1 Rb8 13. Ne2 Rxb2 14. Nd4
+Rb6 15. Nf5 Bxf5 16. Qxf5 Ne4 17. Bxe7 Qxe7 18. c4 g6 19. Qf4 Re8 20. cxd5 cxd5
+21. Rac1 Qa3 22. Rc7 Rf6 23. Qe3 Nd6 24. Re7 Re6 25. Rxe8+ Nxe8 26. Qc1 Qxd3
+27. h3 Rxe1+ 28. Qxe1 Qe4 0-1
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.05"]
+[Round "10.3"]
+[White "Laurent, Bruno"]
+[Black "Sohier, Julien"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2346"]
+[BlackElo "2272"]
+[PlyCount "101"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Arras"]
+[BlackTeam "Club 608"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. Nf3 Nf6 5. e5 Ne4 6. Ne2 f6 7. Ng3 fxe5 8. Bb5
+exd4 9. Nxe4 dxe4 10. Nxd4 Qd5 11. Nxc6 Qxb5 12. Qd8+ Kf7 13. Qxc7+ Kf6 14.
+Qf4+ Qf5 15. Ne5 Qxf4 16. Bxf4 Bd6 17. Ng4+ Kf5 18. Bxd6 Kxg4 19. O-O-O b6 20.
+Rd4 Kf5 21. Re1 Bb7 22. f3 e5 23. fxe4+ Ke6 24. Rd3 Rad8 25. Bb4 Rxd3 26. cxd3
+Rd8 27. Kd2 Rd7 28. Bc3 Rf7 29. Ke3 Ba6 30. Rc1 g6 31. a4 Rd7 32. d4 exd4+ 33.
+Bxd4 Bb7 34. a5 bxa5 35. Rc5 a6 36. Re5+ Kf7 37. Rxa5 Re7 38. e5 Rc7 39. Bc3
+Rc4 40. g3 Ke6 41. Ra1 Rc7 42. Ra4 Ke7 43. Rh4 Ke8 44. Rb4 Bc6 45. Rb6 Bb5 46.
+Kf4 Bd3 47. Kg5 h5 48. Re6+ Re7 49. Rc6 a5 50. e6 Ra7 51. Kf6 1-0
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.05"]
+[Round "10.7"]
+[White "Manet, Eric"]
+[Black "Metral, Jean Paul"]
+[Result "0-1"]
+[ECO "C14"]
+[WhiteElo "2015"]
+[BlackElo "2197"]
+[PlyCount "72"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Arras"]
+[BlackTeam "Club 608"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Bxe7 Qxe7 7. Nxe4 dxe4 8.
+Qd2 O-O 9. O-O-O b6 10. f3 Bb7 11. fxe4 Bxe4 12. Bd3 Bxd3 13. Qxd3 c5 14. dxc5
+Qxc5 15. Nf3 h6 16. Qd4 Qa5 17. Kb1 Nc6 18. Qe4 Nb4 19. a3 Nd5 20. c4 Nc7 21.
+Rd7 Na6 22. Qe2 Nc5 23. Rd4 Rab8 24. Rg4 b5 25. Qe3 bxc4 26. Qxh6 Rxb2+ 27.
+Kxb2 Na4+ 28. Kc1 Qc3+ 29. Kd1 Rd8+ 30. Ke2 Qc2+ 31. Kf1 Rd1+ 32. Ne1 Qf5+ 33.
+Qf4 Qd3+ 34. Kf2 Rd2+ 35. Kg1 Qe2 36. Qe4 Qf2# 0-1
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.05"]
+[Round "10.6"]
+[White "Abouan, Stephane"]
+[Black "Geffroy, Laurent"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2031"]
+[BlackElo "2237"]
+[PlyCount "84"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Franconville"]
+[BlackTeam "Issy les Moulineaux"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. d3 d5 3. Qe2 Nc6 4. Nf3 dxe4 5. dxe4 e5 6. c3 Bc5 7. Qc2 Nf6 8. Bb5
+Qe7 9. Bg5 O-O 10. Nbd2 Bxf2+ 11. Ke2 Bc5 12. Raf1 Bd7 13. Kd1 h6 14. Bh4 Qd6
+15. h3 a6 16. Be2 b5 17. g4 Be3 18. g5 Nh5 19. gxh6 gxh6 20. Bf2 Bxf2 21. Rxf2
+Nf4 22. Nh4 Ne7 23. Bg4 Rad8 24. Rg1 Kh8 25. Rh2 Qd3 26. Qxd3 Nxd3 27. Kc2 Nf4
+28. Ndf3 f6 29. Ng2 Bc6 30. Nd2 Nxg2 31. Rhxg2 f5 32. Bh5 fxe4 33. Re2 Rf4 34.
+Rge1 Kg7 35. Nxe4 Bxe4+ 36. Rxe4 Rxe4 37. Rxe4 Kf6 38. a4 Nd5 39. axb5 axb5 40.
+Be2 c6 41. c4 bxc4 42. Rxc4 Ne3+ 0-1
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.05"]
+[Round "10.7"]
+[White "Stambul, Adam"]
+[Black "Mbakam Fangang, John"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2148"]
+[BlackElo "1900"]
+[PlyCount "55"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Issy les Moulineaux"]
+[BlackTeam "Franconville"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Be7 7. Bd2 Nf6 8.
+Ng3 Nbd7 9. Qe2 b6 10. O-O-O Bb7 11. Rhe1 h6 12. Ne5 O-O 13. Nh5 Nxe5 14. dxe5
+Nxh5 15. Qxh5 f5 16. exf6 Rxf6 17. Bc3 Qe8 18. Qxe8+ Rxe8 19. Bxf6 Bxf6 20. Bg6
+Rf8 21. f3 Bd5 22. Be4 Bxa2 23. b3 a5 24. Bc6 Ba1 25. Rxe6 Rf5 26. Re7 Rc5 27.
+Rd8+ Kh7 28. Be4+ 1-0
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.05"]
+[Round "10.8"]
+[White "Eid, Amine"]
+[Black "Zoeller, Laure"]
+[Result "1/2-1/2"]
+[ECO "C27"]
+[WhiteElo "1797"]
+[BlackElo "1972"]
+[PlyCount "26"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Franconville"]
+[BlackTeam "Issy les Moulineaux"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Bc5 4. d3 d6 5. f4 Ng4 6. f5 Qh4+ 7. g3 Bf2+ 8. Kd2
+Bxg3 9. hxg3 Qxh1 10. Qxg4 Qxg1 11. Qxg7 Qh2+ 12. Kd1 Qh1+ 13. Kd2 Qh2+ 1/2-1/2
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.05"]
+[Round "10.3"]
+[White "Regoli, Stephane"]
+[Black "Friess, Nicolas"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2224"]
+[BlackElo "2205"]
+[PlyCount "73"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Jeen"]
+[BlackTeam "Henin Beaumont"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. g3 dxe4 6. dxe4 Bc5 7. Bd3 Nc6 8.
+Nb3 Bd6 9. Qe2 e5 10. c3 O-O 11. Ng5 a5 12. h4 Nb8 13. a4 Qe8 14. Bb5 Qe7 15.
+f3 Bb7 16. g4 Na6 17. Kf2 Nd7 18. Kg3 h6 19. Nh3 Nac5 20. Nxc5 Nxc5 21. Bc4 Ne6
+22. h5 Kh7 23. Be3 Bc5 24. Bc1 Rad8 25. Nf2 Nf4 26. Bxf4 exf4+ 27. Kh3 f5 28.
+gxf5 Be3 29. Rad1 Qg5 30. Ng4 Qxh5+ 31. Kg2 Qg5 32. f6 Rxd1 33. Qxd1 Bxe4 34.
+Qd7 Rxf6 35. Qd5 Rf8 36. Qe6 Bf5 37. Qd5 {suite illisible} 0-1
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.05"]
+[Round "10.1"]
+[White "Maitesian, Sergei"]
+[Black "Deslandes, Pascal"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2290"]
+[BlackElo "2294"]
+[PlyCount "128"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Le Touquet"]
+[BlackTeam "Le Vesinet"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Nf6 6. Bg2 Be7 7. O-O Qc7 8. Re1
+b6 9. e5 Nd7 10. Qe2 Bb7 11. c3 g5 12. h3 h5 13. g4 hxg4 14. hxg4 Nf8 15. Nf1
+Ng6 16. d4 cxd4 17. cxd4 Rg8 18. Be3 Nf4 19. Qb5 O-O-O 20. Rac1 Kb8 21. Bxf4
+gxf4 22. N1h2 Qd7 23. Bf1 f5 24. exf6 Bxf6 25. Qd3 Rg7 26. Qd2 Qd6 27. Bb5 Rdg8
+28. Bxc6 Bxc6 29. Rxc6 Rxg4+ 30. Nxg4 Rxg4+ 31. Kf1 Qxc6 32. Qe2 Rg7 33. Qxe6
+Qc4+ 34. Qe2 Rc7 35. Qxc4 Rxc4 36. Ne5 Bxe5 37. dxe5 Kc7 38. e6 Re4 39. e7 Kd7
+40. e8=Q+ Kxe8 41. Rd1 Re5 42. Kg2 Re2 43. Rxd5 Rxb2 44. a4 a5 45. Re5+ Kd7 46.
+Kf3 Rb4 47. Re4 Rxe4 48. Kxe4 f3 49. Kxf3 b5 50. Ke4 b4 51. Kd3 Ke6 52. Ke4 Kf6
+53. Kd4 Kf5 54. Ke3 Ke5 55. Kd3 Kf4 56. Ke2 Ke4 57. Kd2 Kd4 58. Kc2 Kc4 59. Kd2
+Kb3 60. f4 Kc4 61. Ke3 Kc3 62. f5 b3 63. f6 b2 64. f7 b1=Q 0-1
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.05"]
+[Round "10.5"]
+[White "Roelens, Stephane"]
+[Black "Imbert, Christophe"]
+[Result "0-1"]
+[ECO "C35"]
+[WhiteElo "1610"]
+[BlackElo "2132"]
+[PlyCount "48"]
+[EventDate "2007.10.21"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Le Touquet"]
+[BlackTeam "Le Vesinet"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. d3 d5 6. exd5 Nxd5 7. Bxd5 Qxd5 8.
+Bxf4 Qe6+ 9. Kf2 Qb6+ 10. Be3 Qxb2 11. Bd4 Bc5 12. Qe2+ Be6 13. Bxc5 Qxa1 14.
+Nd4 Nd7 15. Nxe6 fxe6 16. Qxe6+ Kd8 17. Qe7+ Kc8 18. Re1 Nxc5 19. Qxc5 Qf6+ 20.
+Kg1 Qb6 21. Qf2 Rf8 22. Qxb6 axb6 23. Nc3 Ra3 24. Nd5 Rxa2 0-1
+
+[Event "FRA-chT2 Nord 0708"]
+[Site "France"]
+[Date "2008.04.06"]
+[Round "11.8"]

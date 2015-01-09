@@ -1,0 +1,600 @@
+[Site "Aguascalientes"]
+[Date "2008.03.21"]
+[Round "6"]
+[White "Blanco Fernandez, Alvaro"]
+[Black "Borges Mateos, Juan"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2310"]
+[BlackElo "2448"]
+[PlyCount "91"]
+[EventDate "2008.03.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MEX"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. Nf3 c5 3. c4 cxd4 4. Nxd4 a6 5. g3 Qc7 6. Nd2 b6 7. Bg2 Bb7 8. N4f3
+Nf6 9. O-O Be7 10. b3 O-O 11. Bb2 d6 12. Rc1 Nbd7 13. Re1 Rac8 14. b4 Qb8 15.
+e4 Rc7 16. h3 Rfc8 17. Qe2 Qa8 18. Nd4 Qa7 19. Kh2 g6 20. N4b3 Qa8 21. a3 h6
+22. Qe3 Kh7 23. Bf1 Qb8 24. Bd3 Ba8 25. f4 Ne8 26. Nf3 Bf6 27. e5 Bg7 28. Nh4
+dxe5 29. fxe5 Kg8 30. Rf1 a5 31. Bd4 axb4 32. axb4 Ra7 33. Rce1 Ra2+ 34. Kg1
+Qb7 35. Nf3 b5 36. Na5 Rxa5 37. bxa5 bxc4 38. Bc2 Nc7 39. h4 Nd5 40. Qf2 Qc7
+41. Ng5 Rf8 42. Nxf7 Nb4 43. Bxg6 Qc6 44. Be4 Qa6 45. Qf3 Nd3 46. Qh5 1-0
+
+[Event "Mexican op 54th"]
+[Site "Aguascalientes"]
+[Date "2008.03.21"]
+[Round "6"]
+[White "Nogueiras Santiago, Jesus"]
+[Black "Espinosa Flores, Rafael"]
+[Result "1-0"]
+[ECO "A28"]
+[WhiteElo "2549"]
+[BlackElo "2386"]
+[PlyCount "73"]
+[EventDate "2008.03.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MEX"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bc5 5. Nxe5 Nxe5 6. d4 Bb4 7. dxe5 Nxe4 8.
+Qd4 Nc5 9. Bd2 d6 10. exd6 O-O 11. O-O-O cxd6 12. Nb5 Bxd2+ 13. Qxd2 Qh4 14.
+Qe3 Be6 15. Nxd6 b6 16. Be2 Rad8 17. Rd4 Qf6 18. Rhd1 Rd7 19. f4 Qh6 20. h3 a5
+21. R1d2 a4 22. g4 a3 23. Qxa3 Rxd6 24. Rxd6 Qxf4 25. Qf3 Qe5 26. R6d4 g5 27.
+Bd1 b5 28. b4 Na6 29. Qc3 bxc4 30. Rxc4 Qb5 31. Rcd4 Qb8 32. Qa3 Nc7 33. Qa5 h6
+34. Qe5 Qa7 35. Rd8 Qa3+ 36. Qb2 Qe3 37. Rxf8+ 1-0
+
+[Event "Mexican op 54th"]
+[Site "Aguascalientes"]
+[Date "2008.03.22"]
+[Round "7"]
+[White "Almeida Saenz, Alfonso"]
+[Black "Carreto Nieto, Giovanni"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2426"]
+[BlackElo "2212"]
+[PlyCount "65"]
+[EventDate "2008.03.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MEX"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. f3 Nf6 5. Nc3 e6 6. e4 Bb4 7. Bd3 O-O 8. a3
+Be7 9. Nce2 c5 10. c3 Nc6 11. e5 Nd7 12. Qb1 g6 13. Bh6 cxd4 14. cxd4 Qb6 15.
+h4 Nxd4 16. f4 Nb3 17. h5 Qa5+ 18. Kf2 Qc5+ 19. Kg3 Qe3+ 20. Nf3 Ndc5 21. hxg6
+Nxd3 22. gxh7+ Kh8 23. Qg1 Qxe2 24. Bxf8 Bxf8 25. Rf1 Bd7 26. Ng5 Be8 27. Rf3
+Nd2 28. Re3 Nf1+ 29. Qxf1 Qxe3+ 30. Nf3 Qd2 31. Ng5 Qe2 32. Qg1 Nxe5 33. Qb1
+0-1
+
+[Event "Mexican op 54th"]
+[Site "Aguascalientes"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Cordova, Emilio"]
+[Black "Espinosa Flores, Rafael"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2493"]
+[BlackElo "2386"]
+[PlyCount "82"]
+[EventDate "2008.03.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MEX"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. Nc3 h6 5. Bd2 e5 6. e4 d6 7. Bd3 g6 8. Na4 Qd8
+9. c4 Bg7 10. Qc1 h5 11. Ne2 h4 12. h3 Nh5 13. b4 b6 14. bxc5 dxc5 15. O-O Bxh3
+16. gxh3 Qd7 17. Nec3 Qxh3 18. Be2 Nd7 19. Qd1 Ng3 20. Bf3 Nxf1 21. Bg2 Qh2+
+22. Kxf1 Nf6 23. Qf3 h3 24. Bh1 Nh5 25. Nb5 O-O 26. Ke2 f5 27. Rf1 fxe4 28. Qe3
+Rf3 29. Bxf3 Ng3+ 30. Kd1 Nxf1 31. Qxe4 Qxf2 32. Qe2 Qxe2+ 33. Kxe2 Nxd2 34.
+Kxd2 Rf8 35. Ke2 h2 36. Bg2 Rf4 37. Nd6 Rh4 38. Bh1 Rg4 39. Ne4 Rg1 40. Nf2 e4
+41. d6 Kf7 0-1
+
+[Event "Mexican op 54th"]
+[Site "Aguascalientes"]
+[Date "2008.03.22"]
+[Round "8"]
+[White "Davalos Prieto, Abel"]
+[Black "Quezada Perez, Yuniesky"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "2269"]
+[BlackElo "2546"]
+[PlyCount "84"]
+[EventDate "2008.03.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MEX"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 e4 6. Nh4 O-O 7. Bg2 Re8 8. O-O
+d6 9. d3 exd3 10. Qxd3 Nxd5 11. cxd5 Ne5 12. Qb3 Bc5 13. Nf3 Nxf3+ 14. Qxf3 Bd7
+15. Bd2 Bd4 16. Bc3 Bxc3 17. bxc3 c5 18. dxc6 Bxc6 19. Qd3 Bxg2 20. Kxg2 Rc8
+21. Rab1 b6 22. Rb4 Qf6 23. Rc1 Rc5 24. Rc2 d5 25. Rd4 Qc6 26. Qf3 g6 27. Rcd2
+Re5 28. R2d3 Qe6 29. e3 Re4 30. Qd1 Re5 31. Qf3 Kg7 32. h4 h5 33. Qd1 Qc6 34.
+f4 Rf5 35. Qd2 Ra5 36. Kf2 Qb5 37. Rb4 Qa6 38. Rb2 Qc8 39. Rd4 Rc5 40. Rc2 Qc6
+41. e4 dxe4 42. Rd6 Rfd5 0-1
+
+[Event "Mexican op 54th"]
+[Site "Aguascalientes"]
+[Date "2008.03.23"]
+[Round "9"]
+[White "Almeida Saenz, Alfonso"]
+[Black "Aguirre Manzo, Leopoldo Antonio"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2426"]
+[BlackElo "2102"]
+[PlyCount "60"]
+[EventDate "2008.03.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MEX"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. f3 Nf6 5. c4 e6 6. Nc3 a6 7. e4 dxc4 8. Bxc4
+b5 9. Bb3 c5 10. Nge2 cxd4 11. Qxd4 Qxd4 12. Nxd4 Nbd7 13. Bg3 Bb7 14. O-O-O
+Rc8 15. Kb1 Bb4 16. Nde2 Nb6 17. a4 Bc6 18. axb5 axb5 19. Nd4 Bxc3 20. bxc3 Nc4
+21. Bxc4 bxc4 22. Bd6 Kd7 23. Nc2 Ba4 24. Bf8+ Ke8 25. Bxg7 Rg8 26. Bxf6 Rxg2
+27. Rc1 Ra8 28. Nb4 Kd7 29. Rcg1 Re2 30. Rg7 Ke8 1-0
+
+[Event "Mexican op 54th"]
+[Site "Aguascalientes"]
+[Date "2008.03.23"]
+[Round "9"]
+[White "Garmendez Gonzalez, Florentino"]
+[Black "Fleitas Marti, Yuleikis"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2300"]
+[BlackElo "2217"]
+[PlyCount "0"]
+[EventDate "2008.03.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MEX"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+ 0-1
+
+[Event "Mexican op 54th"]
+[Site "Aguascalientes"]
+[Date "2008.03.23"]
+[Round "9"]
+[White "Nogueiras Santiago, Jesus"]
+[Black "Dominguez Aguilar, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "2549"]
+[BlackElo "2400"]
+[PlyCount "83"]
+[EventDate "2008.03.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "MEX"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 f5 6. Nge2 Nf6 7. d4 d6 8. dxe5
+Nxe5 9. b3 O-O 10. Ba3 Rb8 11. O-O b6 12. Nd4 Bd7 13. Qd2 Re8 14. Bb2 Re7 15.
+Rac1 Qe8 16. Qc2 c6 17. Rcd1 Rd8 18. a4 a6 19. Ba3 Nf7 20. Nf3 Bc8 21. h4 h6
+22. Ne2 Kh7 23. b4 c5 24. Nf4 Re4 25. Nd2 Rxe3 26. fxe3 Qxe3+ 27. Kh1 Qxa3 28.
+Nd3 Ng4 29. Rf3 Bb7 30. h5 Bxf3 31. hxg6+ Kh8 32. Nxf3 Ne3 33. Qe2 Nxd1 34.
+gxf7 Qxd3 35. Qe8+ Rxe8 36. fxe8=Q+ Kh7 37. Qh5 Bf6 38. Qf7+ Bg7 39. Qh5 Bf6
+40. Qf7+ Bg7 41. Nh4 Ne3 42. Qg6+ 1/2-1/2
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.19"]
+[Round "1"]
+[White "Filipovich, David"]
+[Black "Lenderman, Alex"]
+[Result "0-1"]
+[ECO "A11"]
+[WhiteElo "2208"]
+[BlackElo "2427"]
+[PlyCount "69"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Bf5 4. c4 c6 5. cxd5 cxd5 6. Qb3 Qb6 7. Qxb6 axb6 8.
+Nc3 Nc6 9. d3 e6 10. Nb5 Kd7 11. Nfd4 Bg6 12. f4 Bc5 13. Nb3 Nb4 14. Nxc5+ bxc5
+15. Na3 c4 16. Bd2 Rxa3 17. Bxb4 Ra4 18. Bc3 cxd3 19. exd3 Bxd3 20. Bf1 Bxf1
+21. Rxf1 Ng4 22. Bxg7 Rg8 23. Bc3 Re4+ 24. Kd2 Nxh2 25. Rf2 Ng4 26. Re2 Ra4 27.
+Kd3 Nh6 28. Rg2 Nf5 29. Rag1 Rxa2 30. g4 Nh4 31. Rg3 Ra4 32. Bf6 Ng6 33. f5
+exf5 34. gxf5 Nf4+ 35. Kc3 0-1
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.20"]
+[Round "2"]
+[White "Friedman, Josef"]
+[Black "Moroney, Timothy"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2182"]
+[PlyCount "61"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. b3 O-O 8. Bb2
+d6 9. d3 a6 10. Rc1 Qc7 11. e3 Nbd7 12. Qe2 Rac8 13. e4 Nb8 14. Ne1 Nc6 15. Nc2
+Rfe8 16. f4 Bf8 17. g4 g6 18. Nd1 Bg7 19. g5 Nd7 20. Bxg7 Kxg7 21. Nde3 Ne7 22.
+Qg4 h5 23. gxh6+ Kxh6 24. f5 exf5 25. exf5 g5 26. Bxb7 Qxb7 27. f6 Ng8 28. Nf5+
+Kg6 29. Nxd6 Qc6 30. Qf5+ Kh5 31. Rf3 1-0
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.20"]
+[Round "2"]
+[White "Mac Intyre, Paul"]
+[Black "Friedel, Joshua E"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2299"]
+[BlackElo "2487"]
+[PlyCount "64"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. h3 Bh5 5. d3 Nd7 6. Nbd2 e5 7. e4 Ngf6 8. O-O
+dxe4 9. dxe4 Bc5 10. Qe2 O-O 11. Rd1 Qc7 12. c3 Rfe8 13. b4 Bf8 14. Nc4 b5 15.
+Na5 Nc5 16. Bb2 Bg6 17. Nd2 Rad8 18. bxc5 Qxa5 19. Nb3 Qa4 20. f3 Rd7 21. Rxd7
+Nxd7 22. Qf2 f6 23. Kh2 Bf7 24. Bf1 Bxb3 25. axb3 Qxb3 26. c4 Bxc5 27. Qd2 Nb6
+28. cxb5 cxb5 29. Rxa7 Na4 30. Qd7 Qxb2+ 31. Kh1 Re7 32. Qd5+ Kf8 0-1
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.20"]
+[Round "2"]
+[White "Vigorito, David"]
+[Black "Formanek, Edward W"]
+[Result "1/2-1/2"]
+[ECO "A89"]
+[WhiteElo "2406"]
+[BlackElo "2274"]
+[PlyCount "114"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Nc6 8. d5
+Na5 9. Qd3 c5 10. dxc6 Nxc6 11. Rd1 Kh8 12. Rb1 Be6 13. b3 Bg8 14. Bb2 Qa5 15.
+a3 Rac8 16. Nd5 Qd8 17. Nxf6 Bxf6 18. Bxf6+ Rxf6 19. Rbc1 b6 20. e4 fxe4 21.
+Qxe4 Qd7 22. Qe3 Qf5 23. Ng5 Qe5 24. Ne4 Rff8 25. f4 Qg7 26. Rd2 Na5 27. Bh3
+Rc7 28. Rdc2 h6 29. Nd2 g5 30. fxg5 Qxg5 31. Qxg5 hxg5 32. Rc3 Kg7 33. b4 Nc6
+34. Nf3 Kg6 35. Re1 a5 36. b5 Na7 37. Re4 Nxb5 38. Rce3 Rxc4 39. Rxc4 Bxc4 40.
+Nd2 Bd5 41. Bf1 Nd4 42. Rxe7 Rf7 43. Re3 Nf3+ 44. Nxf3 Rxf3 45. Rxf3 Bxf3 46.
+Bb5 Kf5 47. Kf2 Bh5 48. Ke3 Ke5 49. Bc6 d5 50. h3 Bg6 51. h4 gxh4 52. gxh4 d4+
+53. Kd2 Kf4 54. Bd7 Be4 55. Be8 Bf5 56. h5 Kg5 57. Bg6 b5 1/2-1/2
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.20"]
+[Round "3"]
+[White "Iwu, Okechukwu N"]
+[Black "Forget, Luc"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2145"]
+[BlackElo "2037"]
+[PlyCount "57"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. b3 O-O 7. Bb2 d5 8. e3 c5
+9. Nc3 Nc6 10. cxd5 exd5 11. d4 Rb8 12. Rc1 cxd4 13. Nxd4 Nxd4 14. Qxd4 Bc5 15.
+Qa4 Qe7 16. Rfd1 Rfd8 17. Rc2 a5 18. Qh4 Bc6 19. Ne2 Rbc8 20. Bxf6 Qxf6 21.
+Qxf6 gxf6 22. Nf4 a4 23. Bxd5 axb3 24. axb3 Bxd5 25. Rxd5 Bb4 26. Rxd8+ Rxd8
+27. Rc6 Rd6 28. Rxd6 Bxd6 29. Nd5 1-0
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.20"]
+[Round "3"]
+[White "Slatin, David W"]
+[Black "Terrie, Henry L"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2052"]
+[BlackElo "2093"]
+[PlyCount "39"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Bd6 6. Bg2 Nge7 7. O-O O-O 8. Re1
+Qc7 9. c3 Bd7 10. Qe2 f6 11. Bh3 e5 12. Bxd7 Qxd7 13. exd5 Nxd5 14. Nb3 Rfe8
+15. Be3 Nxe3 16. Qxe3 b6 17. Qe4 Bf8 18. Rad1 Rad8 19. Nfd2 Qd5 20. Nf1 1/2-1/2
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.21"]
+[Round "4"]
+[White "Belliard Alonzo, Luis"]
+[Black "Ardaman, Miles"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2219"]
+[BlackElo "2314"]
+[PlyCount "73"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 c5 2. d5 b5 3. a4 Qa5+ 4. Bd2 b4 5. g3 d6 6. Bg2 Ba6 7. c3 Nd7 8. Nh3 g6
+9. Nf4 Bg7 10. h4 h6 11. Qc2 Ne5 12. O-O Rb8 13. cxb4 cxb4 14. Rc1 Nc4 15. Nd3
+Nf6 16. Na3 Nxd2 17. Qxd2 Bxd3 18. exd3 O-O 19. Nc4 Qd8 20. Ne3 Nd7 21. d4 Qb6
+22. Rc4 b3 23. a5 Qd8 24. Rac1 f5 25. Rc7 a6 26. Ra7 Rc8 27. Rc6 Nb8 28. Rb6 f4
+29. gxf4 Rxf4 30. Rbb7 Bxd4 31. Qd3 Rc1+ 32. Bf1 Kf7 33. Ra8 Bxe3 34. Qxe3 Rg4+
+35. Kh2 Rxf1 36. Qe6+ Kg7 37. Rxe7+ 1-0
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.21"]
+[Round "4"]
+[White "Iwu, Okechukwu N"]
+[Black "Moroney, Timothy"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2145"]
+[PlyCount "63"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. b3 Be7 7. Bb2 O-O 8. e3
+Qc7 9. Nc3 a6 10. Rc1 d6 11. Qe2 Nbd7 12. Rfd1 Rac8 13. d4 Qb8 14. Bh3 cxd4 15.
+exd4 d5 16. Ne5 dxc4 17. Nxd7 Nxd7 18. bxc4 Bf6 19. Ne4 Bxe4 20. Qxe4 b5 21.
+Bf1 bxc4 22. Ba3 Nb6 23. Bxf8 Kxf8 24. Qxh7 Qc7 25. Qh5 c3 26. Bxa6 Ra8 27. Qe2
+Na4 28. Bb5 Ra5 29. Bxa4 Rxa4 30. Qb5 Rxd4 31. Rxd4 Bxd4 32. Qb4+ 1-0
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.21"]
+[Round "4"]
+[White "Vigorito, David"]
+[Black "Chan, Julian M"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2406"]
+[BlackElo "2130"]
+[PlyCount "95"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nc2 e6 6. Nc3 Nf6 7. e3 Be7 8.
+Be2 O-O 9. O-O Rd8 10. e4 d6 11. Rb1 Qc7 12. Be3 b6 13. f4 Bb7 14. Bf3 Rac8 15.
+Rc1 Rd7 16. g4 Qd8 17. g5 Ne8 18. Qd2 Na5 19. b3 Nc7 20. Rcd1 Qe8 21. Nd4 Nc6
+22. Nde2 Rcd8 23. Bg2 Bf8 24. Ng3 Ne7 25. Bh3 Ng6 26. Qf2 Re7 27. Bg2 Red7 28.
+Rfe1 Bc6 29. a4 Ra8 30. Nf1 Qd8 31. h4 d5 32. exd5 exd5 33. f5 Bb4 34. Bd4 Ne7
+35. f6 Ng6 36. fxg7 Ne6 37. Bf6 Qc8 38. Nxd5 Bxe1 39. Rxe1 Bxd5 40. Bxd5 Rxd5
+41. cxd5 Nef4 42. Qg3 Nxd5 43. Bd4 Ndf4 44. Nh2 Nh3+ 45. Kh1 Ngf4 46. Qf3 h5
+47. gxh6 Qd8 48. Ng4 1-0
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.21"]
+[Round "5"]
+[White "Aleskerov, Faik"]
+[Black "Becerra Rivero, Julio"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2339"]
+[BlackElo "2573"]
+[PlyCount "54"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. d4 g6 3. e3 Bg7 4. Bd3 c5 5. O-O O-O 6. Ng5 d5 7. c3 Qc7 8. f4
+Bf5 9. Be2 Nc6 10. Nd2 Rad8 11. Ngf3 Ng4 12. Nb1 f6 13. dxc5 e5 14. Na3 Qe7 15.
+h3 Nh6 16. b4 a6 17. Re1 Be6 18. Qb3 Kh8 19. Qc2 Nf5 20. fxe5 fxe5 21. e4 dxe4
+22. Bg5 Bf6 23. Bxf6+ Qxf6 24. Qxe4 Bd5 25. Qg4 e4 26. c4 exf3 27. cxd5 f2+ 0-1
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.21"]
+[Round "5"]
+[White "Ibragimov, Ildar"]
+[Black "Perelshteyn, Eugene"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2605"]
+[BlackElo "2551"]
+[PlyCount "80"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. e3 cxd4 6. exd4 Nc6 7. c3 d5 8.
+Bd3 Bf5 9. Bxf5 gxf5 10. O-O Ne4 11. Bf4 e6 12. Ne1 O-O 13. f3 Nd6 14. Nd3 Ne7
+15. Bg5 f6 16. Bf4 Ng6 17. Re1 Re8 18. Qb3 Nf7 19. Be3 b6 20. c4 dxc4 21. Nxc4
+Rc8 22. Na3 Qd7 23. Rad1 Bf8 24. Nb5 Nd6 25. Nc3 Nc4 26. Nc5 bxc5 27. Qxc4 cxd4
+28. Qxd4 Qxd4 29. Bxd4 Bc5 30. Bxc5 Rxc5 31. Rd7 Ne5 32. Rxa7 Nd3 33. Rd1 Nxb2
+34. Rdd7 Rxc3 35. Rg7+ Kh8 36. Rxh7+ Kg8 37. h4 Rc1+ 38. Kh2 f4 39. Rag7+ Kf8
+40. Rb7 Kg8 1/2-1/2
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.22"]
+[Round "6"]
+[White "Adu, Oladapo"]
+[Black "Stripunsky, Alexander"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "2301"]
+[BlackElo "2570"]
+[PlyCount "74"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d3 d5 4. Nbd2 Nc6 5. g3 g6 6. Bg2 Bg7 7. O-O Nf6 8. Re1
+O-O 9. c3 a5 10. a4 b6 11. e5 Ng4 12. d4 cxd4 13. cxd4 Nb4 14. Nb1 Ba6 15. Bf1
+Bxf1 16. Rxf1 f6 17. Nc3 fxe5 18. Ng5 Nxf2 19. Rxf2 Rxf2 20. Kxf2 Qf6+ 21. Kg2
+exd4 22. Na2 Na6 23. Qb3 h6 24. Nh3 Qf5 25. Bf4 Nc5 26. Qxb6 Qe4+ 27. Kg1 d3
+28. Nf2 Bd4 29. Nc3 Qf5 30. Re1 Rf8 31. Ncd1 d2 32. Re2 Qb1 33. Kg2 Bxf2 34.
+Rxf2 Qe4+ 35. Kg1 Nd3 36. Qe3 Nxf2 37. Kxf2 e5 0-1
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.22"]
+[Round "6"]
+[White "Dougherty, Michael"]
+[Black "Aleskerov, Faik"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2200"]
+[BlackElo "2339"]
+[PlyCount "125"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 c5 2. c4 Nf6 3. g3 d6 4. Nc3 Nc6 5. Bg2 Be6 6. d3 Qc8 7. a3 Bh3 8. O-O
+g6 9. b4 Bxg2 10. Kxg2 cxb4 11. axb4 Nxb4 12. Qa4+ Nc6 13. Nd5 Nd7 14. Bb2 f6
+15. d4 Bg7 16. e4 g5 17. Rfe1 e6 18. Ne3 O-O 19. Ba3 Rd8 20. Rad1 a6 21. Bxd6
+Nb6 22. Qa3 Rxd6 23. c5 Rd7 24. Qb3 Kh8 25. Qxb6 Qd8 26. d5 g4 27. Nxg4 exd5
+28. exd5 Qxb6 29. cxb6 Nb4 30. d6 Rad8 31. Re6 Bf8 32. Rxf6 Bxd6 33. Ng5 h5 34.
+Rdxd6 Rxd6 35. Rxd6 Rxd6 36. Nf7+ Kh7 37. Nxd6 hxg4 38. Nxb7 Nd5 39. Nc5 Nxb6
+40. Nxa6 Kg6 41. h3 gxh3+ 42. Kxh3 Kf5 43. Nc5 Nd5 44. Kg2 Nc3 45. Kf3 Nb5 46.
+g4+ Ke5 47. Nd3+ Kd4 48. Nf4 Ke5 49. Ne2 Nd6 50. Ng3 Nb5 51. g5 Nd4+ 52. Kg4
+Ne6 53. Nh5 Nd4 54. f4+ Ke6 55. Ng3 Nc6 56. f5+ Ke5 57. g6 Kf6 58. Nh5+ Ke7 59.
+Kg5 Nd4 60. f6+ Kf8 61. Kh6 Kg8 62. f7+ Kf8 63. g7+ 1-0
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.22"]
+[Round "6"]
+[White "Figler, Ilya"]
+[Black "Ginsburg, Mark"]
+[Result "0-1"]
+[ECO "A49"]
+[WhiteElo "2332"]
+[BlackElo "2365"]
+[PlyCount "92"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. h3 Nbd7 7. d5 Nb6 8. Nc3
+Bd7 9. e4 c6 10. Re1 Rc8 11. dxc6 Bxc6 12. Nd4 e5 13. Nxc6 bxc6 14. a4 a5 15.
+b3 d5 16. Ba3 Re8 17. Qd2 d4 18. Nd1 Nbd7 19. Nb2 Bf8 20. Bxf8 Kxf8 21. Nc4 Ra8
+22. h4 Kg7 23. Bh3 Nc5 24. Bg2 d3 25. b4 axb4 26. Qxb4 Nfd7 27. a5 dxc2 28. Qc3
+Rb8 29. Qxc2 Nb3 30. Ra3 Ndc5 31. Rd1 Nd4 32. Qa2 Qc7 33. Nb6 Red8 34. Qc4 Nb7
+35. Rb1 Nxa5 36. Rxa5 Rxb6 37. Rxb6 Qxb6 38. Rxe5 Qb1+ 39. Qf1 Qb2 40. Re7 Ne2+
+41. Kh2 Rd2 42. e5 Nd4 43. e6 Nxe6 44. Kg1 Qd4 45. Bf3 Qf6 46. Qe1 Ra2 0-1
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.22"]
+[Round "6"]
+[White "Ippolito, Dean"]
+[Black "Ibragimov, Ildar"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2417"]
+[BlackElo "2605"]
+[PlyCount "33"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 a5 4. Nc3 Nf6 5. e4 d6 6. e5 dxe5 7. dxe5 Nfd7 8.
+Qg4 g6 9. Nf3 Nc6 10. O-O-O h6 11. Qg3 Qe7 12. Bd3 Nc5 13. Bc2 Bd7 14. a3 Bxc3
+15. Bxc3 a4 16. Nd2 O-O-O 17. Qe3 1/2-1/2
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.22"]
+[Round "6"]
+[White "Iwu, Okechukwu N"]
+[Black "Rosen, Eric S"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2145"]
+[PlyCount "89"]
+[EventDate "2008.03.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. b3 Be7 7. Bb2 O-O 8. Nc3
+Nc6 9. e3 Rc8 10. Rc1 d5 11. cxd5 exd5 12. d4 Ba6 13. Re1 cxd4 14. Nxd4 Nb4 15.
+Bf1 Bxf1 16. Rxf1 Ne4 17. a3 Nxc3 18. Rxc3 Rxc3 19. Bxc3 Na6 20. Nc6 Qd7 21.
+Qxd5 Qb7 22. Nxe7+ Qxe7 23. Qd4 Qg5 24. b4 Nc7 25. Qe5 Qxe5 26. Bxe5 Ne6 27.
+Rd1 f6 28. Bb2 Rc8 29. Rd7 Rc7 30. Rxc7 Nxc7 31. Kf1 Kf7 32. Ke2 Ke6 33. e4 Nb5
+34. Kd3 Nd6 35. Bd4 Nc8 36. f4 a6 37. f5+ Kd6 38. g4 h6 39. h4 b5 40. Bc5+ Ke5
+41. Ke3 a5 42. bxa5 b4 43. axb4 g6 44. fxg6 Ne7 45. Bd4+ 1-0
+
+[Event "Foxwoods op 10th"]
+[Site "Ledyard"]
+[Date "2008.03.22"]
+[Round "6"]
+[White "Szuper, Paul"]
+[Black "Sarkar, Justin"]

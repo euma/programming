@@ -1,0 +1,600 @@
+[Black "Nedochetov, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "D18"]
+[WhiteElo "2263"]
+[BlackElo "2354"]
+[PlyCount "40"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qb3 a5 10. Na2 Be7 11. Bd2 Qb6 12. Rfc1 Qxb3 13. Bxb3 O-O 14. Bc2 Bxc2
+15. Rxc2 Bd6 16. Nc1 e5 17. Bc3 exd4 18. Bxd4 Ne4 19. Nd2 Nxd2 20. Rxd2 Bb4
+1/2-1/2
+
+[Event "Pardubice Jihlavanka op-B 19th"]
+[Site "Pardubice"]
+[Date "2008.07.25"]
+[Round "8"]
+[White "Nikolaev, Leonid"]
+[Black "Schueler, Hendrik"]
+[Result "1-0"]
+[ECO "D29"]
+[WhiteElo "2297"]
+[BlackElo "2164"]
+[PlyCount "123"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 a6 5. d4 b5 6. Bb3 Bb7 7. O-O Nf6 8. Qe2
+Nbd7 9. Rd1 c5 10. Nc3 Qb8 11. d5 e5 12. e4 Bd6 13. Bc2 O-O 14. a4 b4 15. Nb1
+a5 16. Nbd2 Nb6 17. Bd3 Qa7 18. b3 Ne8 19. Bb2 f6 20. Nc4 Nxc4 21. Bxc4 Kh8 22.
+Nd2 Be7 23. Bd3 Nd6 24. Nc4 Nxc4 25. Bxc4 Bd6 26. Bc1 Rae8 27. Be3 Qb6 28. Bb5
+Re7 29. Rac1 Rc7 30. Rc4 Rfc8 31. Rdc1 f5 32. f3 f4 33. Bf2 Be7 34. Kh1 Qd6 35.
+Qc2 g5 36. Bc6 Bxc6 37. Bxc5 Qd7 38. Bxe7 Qxe7 39. Rxc6 Rxc6 40. dxc6 Kg7 41.
+c7 Qd6 42. h3 Kf7 43. Qc5 Qxc5 44. Rxc5 Ke6 45. Rxa5 Rxc7 46. Ra6+ Kf7 47. Rb6
+Rc3 48. Rxb4 h5 49. a5 g4 50. hxg4 hxg4 51. fxg4 Kg6 52. a6 Rc1+ 53. Kh2 Rc7
+54. Ra4 Ra7 55. b4 Kg5 56. b5 Kxg4 57. b6 Rh7+ 58. Kg1 Rd7 59. a7 f3 60. gxf3+
+Kg3 61. Ra1 Rd2 62. a8=Q 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.18"]
+[Round "1"]
+[White "Damjanovic, Dragan"]
+[Black "Djuza, Zivko"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "2293"]
+[BlackElo "2096"]
+[PlyCount "122"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Rc1 Bf8 13. Nxc6 bxc6 14. Na4 Bd7
+15. Bc5 Bxc5 16. Nxc5 Bg4 17. Re1 Qb6 18. h3 Bf5 19. b3 Rac8 20. e3 Qb4 21. Re2
+Be4 22. Nxe4 Nxe4 23. Rec2 Qd6 24. Qd3 Rc7 25. Qa6 Rec8 26. Bxe4 dxe4 27. Rc5
+g6 28. Qc4 Qd3 29. Qxd3 exd3 30. Rd1 Rd8 31. Rc3 d2 32. Kf1 Rd6 33. Ke2 Kf8 34.
+Rxd2 Rxd2+ 35. Kxd2 Ke7 36. Rd3 Rb7 37. Kc3 Rb5 38. Kc4 Ra5 39. Rd2 Re5 40. b4
+Rh5 41. h4 Re5 42. a4 a6 43. Rd4 g5 44. hxg5 hxg5 45. g4 f5 46. Kd3 c5 47. bxc5
+Rxc5 48. gxf5 Rxf5 49. Ke2 Rc5 50. Kf3 Rf5+ 51. Kg3 Rc5 52. f3 Rf5 53. Kg4 Rc5
+54. e4 Ra5 55. Rd5 Rxa4 56. Rxg5 Ra1 57. Kf5 a5 58. Rg6 a4 59. Ra6 a3 60. e5 a2
+61. Ra7+ Ke8 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.18"]
+[Round "1"]
+[White "Dodic, Dragan"]
+[Black "Andrijevic, Milan"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2151"]
+[BlackElo "2364"]
+[PlyCount "166"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bb5+ Nd7 8.
+Ne2 cxd4 9. Bxd7+ Bxd7 10. cxd4 Bc6 11. f3 Be7 12. O-O O-O 13. Qb3 Qa5 14. Nc3
+Rfd8 15. Be3 Rac8 16. Rfc1 b6 17. a3 Bf6 18. e5 Be7 19. a4 Bb4 20. Ne4 Bxe4 21.
+fxe4 Bd2 22. Rxc8 Rxc8 23. Qd3 Bxe3+ 24. Qxe3 g6 25. Qd3 Rd8 26. Qe3 Qb4 27.
+Rd1 Qxa4 28. Qd3 Qe8 29. Qa3 Rd7 30. Qa4 Qd8 31. Qc4 Rc7 32. Qb3 Qg5 33. h4
+Qxh4 34. d5 exd5 35. exd5 Qc4 36. Qf3 Rd7 37. e6 fxe6 38. Qf6 exd5 39. Qe6+ Rf7
+40. Qe8+ Kg7 41. Qe5+ Kh6 42. Qh2+ Kg5 43. Qg3+ Qg4 44. Rxd5+ Rf5 45. Qe3+ Qf4
+46. Qe7+ Kh6 47. Rxf5 Qxf5 48. Qxa7 b5 49. Qd4 g5 50. g4 Qe6 51. Kg2 Kg6 52.
+Kg3 Qc6 53. Qd3+ Kg7 54. Qd4+ Kf7 55. Qe5 h6 56. Qf5+ Ke7 57. Qe5+ Kd7 58. Qg7+
+Kc8 59. Qf8+ Kb7 60. Kf2 Qb6+ 61. Ke2 b4 62. Kd2 Qd4+ 63. Kc2 Qxg4 64. Qxh6
+Qc4+ 65. Kb1 g4 66. Qd6 Qb3+ 67. Ka1 Qc3+ 68. Kb1 g3 69. Qd7+ Kb6 70. Qd6+ Kb5
+71. Qd5+ Kb6 72. Qd6+ Kb7 73. Qd7+ Ka6 74. Qd6+ Kb5 75. Qd5+ Qc5 76. Qd3+ Qc4
+77. Qxg3 Ka4 78. Qg2 Qd3+ 79. Kb2 Qd4+ 80. Kb1 Qd1+ 81. Kb2 Qb3+ 82. Ka1 Qc3+
+83. Kb1 Qd3+ 1/2-1/2
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.18"]
+[Round "1"]
+[White "Lajthajm, Borko"]
+[Black "Rajkovic, Branislav"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2513"]
+[BlackElo "2212"]
+[PlyCount "101"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. Nc3 Be7 7. e3 O-O 8.
+Bd3 Re8 9. Qc2 c6 10. O-O h6 11. Bf4 Bb4 12. h3 Qe7 13. a3 Bd6 14. Bxd6 Qxd6
+15. b4 a6 16. Na4 Ne4 17. Nc5 Qg6 18. Nxd7 Bxd7 19. Ne5 Qe6 20. Bxe4 dxe4 21.
+Qc5 Rad8 22. Nc4 Bc8 23. Nb6 Qg6 24. Kh2 Be6 25. a4 f5 26. b5 axb5 27. axb5
+cxb5 28. g3 Qf7 29. Qxb5 Rd6 30. Rac1 f4 31. exf4 Rxd4 32. Rc7 Qg6 33. g4 Bf7
+34. Nc8 Qf6 35. f5 e3 36. Qc5 b6 37. Nxb6 e2 38. Re1 Rd1 39. Nd7 Qd6+ 40. Qxd6
+Rxd6 41. Rc2 Rxd7 42. Rcxe2 Rxe2 43. Rxe2 Kf8 44. Re3 Bc4 45. Rc3 Rd4 46. f3
+Kf7 47. Kg3 Kf6 48. Kh4 Bd5 49. Kg3 Bc4 50. Kh4 Bd5 51. Kg3 1/2-1/2
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.18"]
+[Round "1"]
+[White "Popovic, Milos T"]
+[Black "Kosa, Jeno"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2391"]
+[BlackElo "2154"]
+[PlyCount "91"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. e3 a6 5. Qc2 Bg4 6. Ne5 Be6 7. c5 Nbd7 8. f4
+Ne4 9. Bd3 f5 10. O-O g6 11. Nd2 Bg7 12. b4 O-O 13. a4 Nxe5 14. fxe5 Nxd2 15.
+Bxd2 Bd7 16. Rab1 Ra7 17. Rb2 e6 18. Ra1 Qc7 19. Rab1 Rfa8 20. Be1 Qd8 21. Bg3
+Bh6 22. Qf2 Qe8 23. h4 Qd8 24. Bf4 Bxf4 25. exf4 h5 26. Be2 Kh7 27. Rb3 b5 28.
+cxb6 Qxb6 29. a5 Qd8 30. Rg3 Qe7 31. Rgb3 Rb8 32. g3 Bc8 33. Qe1 Qb7 34. Qc3
+Qe7 35. Qxc6 Rc7 36. Qd6 Qxd6 37. exd6 Rd7 38. b5 axb5 39. Rxb5 Rxb5 40. Bxb5
+Rxd6 41. Rc1 Ba6 42. Rc6 Rxc6 43. Bxc6 Kg7 44. Kf2 Kf7 45. Ke3 Ke7 46. Kd2 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.18"]
+[Round "1"]
+[White "Sutorikhin, Vladimir"]
+[Black "Elez, Sinisa"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2354"]
+[BlackElo "2148"]
+[PlyCount "69"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 e5 10. h3 Qe7 11. Bb3 h6 12. Nh4 Re8 13. Nf5 Qf8 14. Nxd6 Qxd6 15.
+dxe5 Nxe5 16. f4 Ned7 17. Re1 Nc5 18. e4 Nxb3 19. axb3 Nd5 20. Nxd5 cxd5 21. e5
+Qe6 22. Be3 a6 23. Qd3 Bd7 24. Rac1 Bc6 25. Bd4 Qg6 26. f5 Qh5 27. g4 Qh4 28.
+Bf2 Qg5 29. Qg3 Qd8 30. Bd4 Qb8 31. g5 h5 32. Qf3 g6 33. Re3 Bd7 34. e6 fxe6
+35. fxg6 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.18"]
+[Round "1"]
+[White "Vince, Andrea"]
+[Black "Iveljic, Igor"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "2082"]
+[BlackElo "2280"]
+[PlyCount "114"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Bd3 b5 6. b3 e6 7. Nf3 Be7 8. O-O O-O
+9. Ne5 Bb7 10. Qc2 Nbd7 11. Bb2 Rc8 12. Nxd7 Qxd7 13. c5 g6 14. b4 Qc7 15. f4
+a5 16. bxa5 Qxa5 17. a4 b4 18. Na2 Rb8 19. Nxb4 Nd7 20. Bc3 Qa7 21. Bd2 Kg7 22.
+a5 f6 23. Qa4 Rfc8 24. a6 Ba8 25. Be2 e5 26. fxe5 fxe5 27. Bg4 exd4 28. exd4
+Bf6 29. Nd3 Re8 30. Bf4 Rbd8 31. Rae1 Re4 32. Rxe4 dxe4 33. Ne5 Nxe5 34. dxe5
+Qxc5+ 35. Kh1 Bxe5 36. Qxe4 Bxf4 37. Qxf4 Qe7 38. Qf2 c5 39. Re1 Qf8 40. Qg3
+Qd6 41. Qc3+ Qd4 42. Qg3 Qd6 43. Qh4 h5 44. Bh3 Qf6 45. Qc4 Qd4 46. Qc1 Rf8 47.
+Rd1 Qe5 48. Re1 Qd4 49. Rd1 Qe5 50. Re1 Qd6 51. Rd1 Qxa6 52. Rd7+ Rf7 53. Rd1
+Qc6 54. Qc3+ Qf6 55. Qc1 g5 56. Kg1 g4 57. Bxg4 Qf2+ 0-1
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.18"]
+[Round "1"]
+[White "Weinzettl, Ernst"]
+[Black "Vince, Viola"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2226"]
+[BlackElo "1930"]
+[PlyCount "101"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. Qb3 Nbd7 6. g3 Bd6 7. Bg2 O-O 8. O-O
+dxc4 9. Qxc4 e5 10. Rd1 Qe7 11. Qb3 h6 12. Nh4 Re8 13. Nf5 Qf8 14. Nxd6 Qxd6
+15. d5 e4 16. Bf4 Qe7 17. dxc6 bxc6 18. Qa4 Nb6 19. Qxc6 Bf5 20. Qb5 Bd7 21.
+Qa6 Qc5 22. Be3 Qh5 23. Bd4 e3 24. f3 Re6 25. Bxf6 Rxf6 26. Rxd7 Nxd7 27. Qb7
+Nb6 28. Rd1 Re8 29. Qxa7 Qe5 30. f4 Qb8 31. Qxb8 Rxb8 32. Rd3 Re6 33. Ne4 Rc8
+34. Bf3 Rc1+ 35. Kg2 Rc2 36. Rb3 Na4 37. Rb8+ Kh7 38. b3 Nb2 39. f5 Re5 40. f6
+Nd3 41. g4 Ne1+ 42. Kg3 Nxf3 43. Kxf3 Rxa2 44. fxg7 Kxg7 45. Ng3 Raa5 46. Nf5+
+Kh7 47. Rb7 Kg6 48. Rb6+ Re6 49. Rb8 Raa6 50. Rh8 Kf6 51. Kf4 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.19"]
+[Round "2"]
+[White "Perunovic, Miodrag"]
+[Black "Galunov, Todor"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2419"]
+[BlackElo "2278"]
+[PlyCount "139"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Bd3 Nbd7 6. b3 Bb4+ 7. Nbd2 e5 8. dxe5
+Ng4 9. e6 fxe6 10. Qc2 Nde5 11. Be2 O-O 12. Bb2 Nxf3+ 13. gxf3 Qh4 14. O-O-O
+Nxf2 15. Rhg1 Rf7 16. Rdf1 Qxh2 17. a3 Nh3 18. Rh1 Qxe2 19. axb4 e5 20. Re1 Qg2
+21. Bxe5 Bf5 22. Qc3 Nf2 23. Rhg1 Nd3+ 24. Kd1 Nf2+ 25. Kc1 Nd3+ 26. Kd1 Nf2+
+27. Kc1 Nd3+ 28. Kd1 Nf2+ 29. Kc1 Nd3+ 30. Kd1 Nf2+ 31. Kc1 Nd3+ 32. Kd1 Nf2+
+33. Kc1 Nd3+ 34. Kd1 Qh3 35. Re2 Nxe5 36. Qxe5 Qh5 37. Kc1 Bg6 38. Qc3 Re8 39.
+cxd5 cxd5 40. Kb2 Qe5 41. Qxe5 Rxe5 42. Ra1 a6 43. Kc3 Re8 44. Ra5 Rd7 45. Kd4
+Bf7 46. b5 axb5 47. Rxb5 h6 48. b4 Ra8 49. Nb3 Ra7 50. Nc5 Re7 51. Rb6 Bh5 52.
+Rf2 Ra3 53. Nd3 Ra1 54. Rd6 Bf7 55. Rd2 Rf1 56. Ne5 Rb1 57. Rb6 Be6 58. Ng6 Re8
+59. Rxb7 Rb3 60. Ne5 Ra8 61. Rg2 g5 62. f4 Ra4 63. Ng6 g4 64. f5 Bxf5 65. Ne7+
+Kg7 66. Nxf5+ Kf6 67. Nxh6 Raxb4+ 68. Rxb4 Rxb4+ 69. Kxd5 Kg5 70. Rxg4+ 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.19"]
+[Round "3"]
+[White "Karahmetovic, Adnan"]
+[Black "Rajkovic, Branislav"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2298"]
+[BlackElo "2212"]
+[PlyCount "79"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. h3 c6 8. c5 b6
+9. b4 a5 10. a3 Bb7 11. Bd3 Re8 12. O-O Bf8 13. Qc2 g6 14. Bg5 bxc5 15. bxc5
+Bg7 16. e4 dxe4 17. Nxe4 Qc7 18. Nd6 Rf8 19. Rab1 Bc8 20. Bf4 Nd5 21. Bg3 Qa7
+22. Qa4 Ba6 23. Bxa6 Qxa6 24. Rb7 Nc3 25. Qc4 Qxc4 26. Nxc4 Nf6 27. Bd6 Rfd8
+28. Nce5 Ne8 29. Nxf7 Nxd6 30. Nxd6 Ne2+ 31. Kh1 Nxd4 32. Rxg7+ Kxg7 33. Nxd4
+Kf6 34. Nxc6 Rd7 35. Re1 Rc7 36. Ne4+ Kg7 37. Ne5 Rd8 38. c6 Rd5 39. f4 h6 40.
+h4 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.19"]
+[Round "3"]
+[White "Maksimovic, Branimir"]
+[Black "Jurcsak, Andras"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2397"]
+[BlackElo "2212"]
+[PlyCount "81"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 Bg4 6. cxd5 cxd5 7. Qb3 Ra7 8. Ne5
+Bf5 9. Be2 e6 10. g4 Bg6 11. h4 h6 12. Nxg6 fxg6 13. e4 Nc6 14. e5 Nd7 15. Be3
+Be7 16. Bd3 O-O 17. h5 gxh5 18. Rxh5 Qb6 19. Nxd5 Qxb3 20. Nxe7+ Nxe7 21. axb3
+Nd5 22. Be4 N7b6 23. Kd2 Raa8 24. Rh2 Rad8 25. g5 hxg5 26. Rg1 Rd7 27. Rxg5 Nf4
+28. Rg4 Nbd5 29. Bh7+ Kh8 30. Be4+ Kg8 31. Rhh4 Nxe3 32. fxe3 Nd5 33. Rh2 Rf1
+34. Bh7+ Kf8 35. Bd3 Rd1+ 36. Ke2 Rf7 37. e4 Rxd3 38. Kxd3 Nb4+ 39. Kc4 Nc6 40.
+Rh8+ Ke7 41. Rg8 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.19"]
+[Round "3"]
+[White "Petrekanovic, Miroslav"]
+[Black "Scepanovic, Labud"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "2148"]
+[BlackElo "2288"]
+[PlyCount "49"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. Qc2 c6 7. e3 O-O 8. Bd3
+h6 9. Bf4 Bd6 10. Bxd6 Qxd6 11. Nf3 Nbd7 12. h3 Re8 13. O-O-O b5 14. Kb1 b4 15.
+Na4 Ne4 16. Rc1 b3 17. axb3 Rb8 18. Nc5 Ndxc5 19. dxc5 Qf6 20. Rhf1 Bxh3 21.
+gxh3 Qxf3 22. h4 Rxb3 23. Be2 Qf6 24. f3 Reb8 25. Bb5 0-1
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.19"]
+[Round "3"]
+[White "Popovic, Milos T"]
+[Black "Pletl, Akos"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2391"]
+[BlackElo "2227"]
+[PlyCount "91"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Bf4 e6 3. e3 c5 4. c3 Nf6 5. Nd2 Bd6 6. Bg3 cxd4 7. exd4 Nc6 8.
+Ngf3 Qc7 9. Bd3 a6 10. Qe2 Bxg3 11. hxg3 h6 12. Nb3 b6 13. Ne5 Nxe5 14. dxe5
+Nd7 15. f4 Nc5 16. Nd4 Nxd3+ 17. Qxd3 Qc4 18. Qe3 Bd7 19. g4 Bb5 20. Kd2 a5 21.
+g5 O-O-O 22. b3 Qc5 23. g6 Be8 24. g4 Qe7 25. gxf7 Qxf7 26. f5 Bd7 27. Rhf1 Qe8
+28. a4 Kb7 29. b4 axb4 30. a5 bxc3+ 31. Qxc3 Rc8 32. Qb4 b5 33. Qd6 Qd8 34.
+Qb6+ Qxb6 35. axb6 Kxb6 36. fxe6 Be8 37. Nf5 Rc7 38. Ra8 Rf8 39. Rfa1 Rc4 40.
+e7 Rg8 41. Nd6 Rd4+ 42. Ke3 Rxg4 43. Rxe8 Rxe8 44. Nxe8 Re4+ 45. Kd3 Rxe5 46.
+Nd6 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.20"]
+[Round "4"]
+[White "Boskovic, Zlatomir"]
+[Black "Nadj Hedjesi, Balind"]
+[Result "1-0"]
+[ECO "D47"]
+[WhiteElo "2205"]
+[BlackElo "2329"]
+[PlyCount "72"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bd6 9. O-O O-O 10. b3 Bb7 11. Bb2 a6 12. Ng5 c5 13. Nce4 Be7 14. dxc5 h6 15.
+Nxf6+ Nxf6 16. Nf3 Bxc5 17. Rc1 Rc8 18. Bb1 Qe7 19. Ne5 Rfd8 20. Qe2 Ne4 21.
+Rfd1 Bd6 22. Rxc8 Rxc8 23. h3 Bd5 24. Nxf7 Kxf7 25. Qg4 Qg5 26. Bxe4 Be7 27.
+Qf3+ Kg8 28. Bxd5 exd5 29. Rxd5 Qg6 30. Be5 Rf8 31. Qd1 Bh4 32. f4 Rf7 33. Rc5
+Qe6 34. Qd5 Qb6 35. Rc8+ Kh7 36. Qe4+ Qg6 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.20"]
+[Round "4"]
+[White "Kosa, Jeno"]
+[Black "Damjanovic, Dragan"]
+[Result "0-1"]
+[ECO "D17"]
+[WhiteElo "2154"]
+[BlackElo "2293"]
+[PlyCount "126"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. d4 c6 3. c4 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Bf4 e6 7. e3 Nd5 8. Bxb8
+Rxb8 9. Bxc4 Bb4 10. Qb3 Qa5 11. Rc1 Nb6 12. Ra1 Bc2 13. Qxc2 Nxc4 14. Rc1 Nb6
+15. Ra1 Nd5 16. Rc1 Be7 17. O-O Nb4 18. Qb3 O-O 19. Ne5 Rfd8 20. Ne4 Qd5 21.
+Qxd5 exd5 22. Nc5 f6 23. Ned3 Bxc5 24. Nxc5 Kf7 25. Rfd1 Ke7 26. Nd3 Nxd3 27.
+Rxd3 Kd6 28. b4 a5 29. bxa5 Ra8 30. Rc5 Ra6 31. Rb3 Kc7 32. Rb6 Rxb6 33. axb6+
+Kxb6 34. a5+ Kc7 35. h4 Ra8 36. g3 Kd6 37. Kg2 Ke6 38. Kf3 g6 39. g4 Kd6 40.
+Kg3 Rf8 41. Kf3 f5 42. g5 Re8 43. Kg3 Re4 44. a6 b6 45. a7 Re8 46. Rc1 Ra8 47.
+Ra1 Kc7 48. Kf4 Kb7 49. h5 Rxa7 50. hxg6 hxg6 51. Rh1 Ra2 52. f3 b5 53. Ke5 Re2
+54. Kf6 Rxe3 55. Rf1 c5 56. Kxg6 cxd4 57. Kxf5 d3 58. g6 d2 59. g7 Rxf3+ 60.
+Rxf3 d1=Q 61. g8=Q Qxf3+ 62. Ke5 Qc3+ 63. Kf5 Qc8+ 0-1
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.20"]
+[Round "4"]
+[White "Kostic, Vladimir G"]
+[Black "Weinzettl, Ernst"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[WhiteElo "2406"]
+[BlackElo "2226"]
+[PlyCount "22"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 1/2-1/2
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.20"]
+[Round "4"]
+[White "Pantelic, Sasa"]
+[Black "Budimir, Boris"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[WhiteElo "2267"]
+[BlackElo "2311"]
+[PlyCount "61"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 dxc4 5. e3 c5 6. Bxc4 cxd4 7. exd4 Be7 8.
+O-O O-O 9. Qe2 a6 10. Rd1 b5 11. Bd3 Bb7 12. a4 b4 13. Ne4 Nxe4 14. Bxe4 Bxe4
+15. Qxe4 Nd7 16. Qg4 Nf6 17. Qg3 Ne4 18. Qe5 Nd6 19. b3 Bf6 20. Qe1 a5 21. Bf4
+Nf5 22. Be5 Qd5 23. Bxf6 gxf6 24. Rd3 e5 25. Nd2 Nxd4 26. Ne4 Qe6 27. Qe3 f5
+28. Ng5 Qf6 29. f4 exf4 30. Qxd4 Qxg5 31. Rf3 1/2-1/2
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.20"]
+[Round "4"]
+[White "Scepanovic, Labud"]
+[Black "Lajthajm, Borko"]
+[Result "0-1"]
+[ECO "D03"]
+[WhiteElo "2288"]
+[BlackElo "2513"]
+[PlyCount "90"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Qc1 Ne4 6. Bf4 Nc6 7. c3 d5 8. Nbd2
+Nxd2 9. Nxd2 Bd7 10. Rb1 Rc8 11. Qd1 Ne7 12. Bd3 Ng6 13. Bg3 cxd4 14. exd4 Bb5
+15. Qe2 Bxd3 16. Qxd3 h5 17. h3 a6 18. O-O Bd6 19. Rfe1 h4 20. Bxd6 Qxd6 21.
+Qe3 Nf4 22. Qe5 Qxe5 23. Rxe5 f6 24. Re3 Kf7 25. Rbe1 Rc6 26. Nb3 b6 27. Nc1 a5
+28. Nd3 Nxd3 29. Rxd3 b5 30. a3 Rb8 31. Kf1 b4 32. axb4 axb4 33. Ra1 Rb7 34.
+Ke2 bxc3 35. bxc3 Rb2+ 36. Ke3 Rc2 37. Ra7+ Kg6 38. Ra3 Kg5 39. Ra7 g6 40. Rh7
+R6xc3 41. Rxc3 Rxc3+ 42. Kd2 Ra3 43. Ke2 Ra1 44. Ke3 Re1+ 45. Kf3 Re4 0-1
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.20"]
+[Round "5"]
+[White "Karahmetovic, Adnan"]
+[Black "Kostic, Vladimir G"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2298"]
+[BlackElo "2406"]
+[PlyCount "21"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. Nf3 d5 3. c4 Bb4+ 4. Nc3 Nf6 5. cxd5 exd5 6. Bg5 c6 7. e3 O-O 8.
+Bd3 Bg4 9. Qc2 h6 10. Bh4 Qc7 11. Bf5 1/2-1/2
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.20"]
+[Round "5"]
+[White "Maksimovic, Branimir"]
+[Black "Andrijevic, Milan"]
+[Result "1-0"]
+[ECO "D41"]
+[WhiteElo "2397"]
+[BlackElo "2364"]
+[PlyCount "141"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nc6 12. O-O b6 13. Rfe1 Bb7 14.
+Rad1 Na5 15. Bd3 Qe7 16. Qf4 Rfe8 17. h4 Rac8 18. h5 h6 19. d5 e5 20. Qg3 Rc5
+21. Rc1 f6 22. Nh4 Bc8 23. Be2 Nb7 24. Qe3 Bd7 25. Ba6 Rxc1 26. Rxc1 Nc5 27.
+Be2 Qd6 28. g3 Re7 29. Kh2 Rf7 30. g4 Rf8 31. f3 Rc8 32. Ng2 Na4 33. Rxc8+ Bxc8
+34. Bb5 Nc5 35. Bc6 a6 36. Qc3 Nd7 37. Ne3 Kf8 38. Kg3 Qc5 39. Qxc5+ Nxc5 40.
+Nc4 b5 41. Nd6 Bd7 42. Bxd7 Nxd7 43. Nb7 Ke7 44. Kf2 Nb6 45. Ke2 Na4 46. Kd2
+Kd7 47. Kc2 Kc7 48. Na5 Kd7 49. Nc6 Kd6 50. a3 Nb6 51. Kc3 Na4+ 52. Kb4 Nb2 53.
+Nd8 Nd3+ 54. Ka5 Ne1 55. Kxa6 Nc2 56. Kxb5 Nxa3+ 57. Ka4 Nc4 58. Ne6 Nd2 59.
+Nxg7 Nxf3 60. Nf5+ Kc5 61. Nxh6 Ng5 62. Ng8 Nxe4 63. h6 Ng5 64. Nxf6 Nf7 65. h7
+e4 66. Kb3 Kd6 67. g5 Nh8 68. Kc4 e3 69. Kd3 Ke5 70. Kxe3 Kf5 71. d6 1-0
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.20"]
+[Round "5"]
+[White "Pantelic, Sasa"]
+[Black "Kojovic, Dragan"]
+[Result "0-1"]
+[ECO "D79"]
+[WhiteElo "2267"]
+[BlackElo "2414"]
+[PlyCount "110"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. c4 c6 7. cxd5 cxd5 8. Nc3
+Nc6 9. Ne5 e6 10. Nxc6 bxc6 11. Qc2 Qb6 12. Rd1 Nd7 13. Na4 Qb5 14. Bf1 Ba6 15.
+b3 Rfc8 16. Ba3 Qa5 17. Bd6 c5 18. Bxc5 Bb5 19. Rac1 Bxa4 20. bxa4 Bxd4 21.
+Rxd4 Rxc5 22. Qd1 Rxc1 23. Qxc1 Qc5 24. Qd1 Rc8 25. e3 Ne5 26. Kg2 Qc2 27. Qxc2
+Rxc2 28. a3 a5 29. Bb5 f5 30. h3 Kg7 31. g4 Nf7 32. gxf5 gxf5 33. Bd7 Kf6 34.
+Rh4 Rc7 35. Be8 Kg7 36. Bxf7 Rxf7 37. Rd4 Rc7 38. Rd3 Rc4 39. Rb3 h5 40. Rb6
+Kf6 41. Rb3 f4 42. Kf3 Rxa4 43. Rc3 Kf5 44. Rc8 fxe3 45. Rf8+ Ke5 46. fxe3 h4
+47. Rh8 Kd6 48. Rh6 Re4 49. Rh8 Kc5 50. Rb8 Kc4 51. Rb6 Kd3 52. Rb3+ Kd2 53.
+Rb2+ Kc3 54. Rb6 a4 55. Rb1 Kc2 0-1
+
+[Event "Senta op-A 12th"]
+[Site "Senta"]
+[Date "2008.07.20"]
+[Round "5"]
+[White "Sutorikhin, Vladimir"]
+[Black "Rajkovic, Branislav"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2354"]
+[BlackElo "2212"]
+[PlyCount "150"]
+[EventDate "2008.07.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Qc2 Nbd7 8.
+Bd3 Re8 9. Nf3 c6 10. h3 h6 11. Bf4 Bb4 12. O-O Qe7 13. a3 Bd6 14. Bxd6 Qxd6
+15. b4 a6 16. Rfc1 Qe6 17. Nd2 b6 18. a4 c5 19. bxc5 bxc5 20. Nf3 c4 21. Bf5
+Qd6 22. e4 dxe4 23. Nxe4 Qf4 24. Ng3 Nb6 25. Qd2 Nfd5 26. a5 Bxf5 27. axb6 Bd3

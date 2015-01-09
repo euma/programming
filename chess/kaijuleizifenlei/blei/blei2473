@@ -1,0 +1,600 @@
+[Date "2008.09.20"]
+[Round "5"]
+[White "Florjan, Mladen"]
+[Black "Gladoic, Zvonko"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2023"]
+[PlyCount "79"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. f4 g6 3. d4 d6 4. Nf3 Bh6 5. Bd3 Bg4 6. h3 Bxf3 7. Qxf3 e5 8. dxe5
+dxe5 9. O-O Nd7 10. f5 g5 11. Bc4 Ngf6 12. Nc3 Qe7 13. Kh1 Rg8 14. g4 O-O-O 15.
+Be3 Nb6 16. Bb3 Bf8 17. a4 Kb8 18. Rad1 Rg7 19. Qf2 Qc7 20. Rxd8+ Qxd8 21. Rd1
+Qc7 22. Qd2 Bb4 23. Bxg5 Ng8 24. Bh6 Nxh6 25. Qxh6 Bf8 26. f6 Rg8 27. Qxh7 Rg6
+28. Qxf7 Qxf7 29. Bxf7 Rxf6 30. Bb3 Bh6 31. Kg2 Be3 32. Rf1 Rd6 33. h4 Rd2+ 34.
+Kf3 Bd4 35. g5 Rh2 36. Kg3 Rd2 37. g6 Be3 38. g7 Bf4+ 39. Rxf4 exf4+ 40. Kf3
+1-0
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "5"]
+[White "Jelecevic, Ivo"]
+[Black "Vidalina, Franja"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2235"]
+[BlackElo "2043"]
+[PlyCount "49"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Nxe7 Nxe7 11. Bd3 Bb7 12. Bxf6 gxf6 13. Qh5 Ng6 14. g3
+Qb6 15. Qf3 Qd8 16. O-O O-O 17. h4 d5 18. Rfd1 b4 19. h5 bxa3 20. hxg6 hxg6 21.
+b3 d4 22. c3 Kg7 23. cxd4 Qxd4 24. Bc2 Qb2 25. Bd3 1/2-1/2
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "5"]
+[White "Koruc, Ivan"]
+[Black "Zovkic, Fabijan"]
+[Result "0-1"]
+[ECO "B50"]
+[PlyCount "98"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. b3 Nc6 3. Bb2 e5 4. Nf3 d6 5. Bb5 Bd7 6. Nc3 Nf6 7. d3 Be7 8. Qd2
+O-O 9. h3 a6 10. Bxc6 Bxc6 11. g4 b5 12. Ne2 Qb6 13. Ng3 g6 14. Qh6 Kh8 15. Ng5
+Be8 16. f4 c4 17. fxe5 Qe3+ 18. Ne2 cxd3 19. Nxf7+ Bxf7 20. Qxe3 dxe2 21. exf6
+Bd8 22. Qh6 Rg8 23. Kxe2 Bb6 24. Rad1 Bc7 25. Rd5 Rae8 26. Kd3 Re6 27. Rg5 Ree8
+28. Rg1 Bb6 29. Rg2 Bc5 30. h4 d5 31. e5 Bf8 32. Qxf8 Rgxf8 33. Kd4 h6 34. Rxg6
+Bxg6 35. g5 h5 36. Kxd5 Bf7+ 37. Kc5 Kh7 38. Kb4 Kg6 39. Rf2 Re6 40. a4 Rb8 41.
+Rd2 bxa4+ 42. Kxa4 Rc8 43. c4 Rcc6 44. Rd7 Rc5 45. Rd5 Rc7 46. c5 Rec6 47. b4
+Bxd5 48. Bd4 Rb7 49. Ka5 Bb3 0-1
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "5"]
+[White "Mihalinec, Damir"]
+[Black "Kelemen, Miljenko"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2249"]
+[BlackElo "2105"]
+[PlyCount "115"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Bd3 Ne7 7. Qg4 Ng6 8.
+Bg5 f6 9. Bd2 Nc6 10. f4 O-O 11. Na3 d5 12. exd5 f5 13. Qg3 exd5 14. O-O-O Be6
+15. h4 Qf6 16. h5 Nge7 17. Rhe1 Bf7 18. Qh3 Nc8 19. Bxf5 Nd6 20. Be6 Ne4 21.
+Rxe4 dxe4 22. Bxf7+ Rxf7 23. Nc4 Bc7 24. g3 Rd8 25. Re1 b5 26. Ne3 a5 27. Bc3
+Qe7 28. h6 a4 29. Nd2 Ba5 30. Nb1 a3 31. Rd1 Bxc3 32. Rxd8+ Nxd8 33. Nxc3 Qc5
+34. Ncd5 axb2+ 35. Kb1 Rd7 36. Qh5 Qf8 37. hxg7 Rxg7 38. Nf5 Ra7 39. Nh6+ Kh8
+40. Qe5+ Rg7 41. Nf5 Nc6 42. Qxg7+ Qxg7 43. Nxg7 Kxg7 44. Kxb2 Nd4 45. c3 Nf5
+46. g4 Nd6 47. Ne3 Kg6 48. Kb3 h5 49. gxh5+ Kxh5 50. Kb4 Kg6 51. Kc5 Nf5 52.
+Nc2 Kh5 53. Kxb5 Kg4 54. a4 Kxf4 55. a5 Ne3 56. Nxe3 Kxe3 57. a6 Kd2 58. a7 1-0
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "5"]
+[White "Smuk, Zelimir"]
+[Black "Nagy, Zoltan"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2156"]
+[BlackElo "2306"]
+[PlyCount "184"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. f3 O-O 10. O-O Nbd7 11. Kh1 b5 12. a3 Nb6 13. Na5 Rc8 14. Qe1 d5 15.
+Bxb6 Qxb6 16. Nxd5 Bxd5 17. exd5 Rxc2 18. Bd3 Rc7 19. Be4 Bd6 20. Nc6 g6 21. g4
+Ne8 22. Qh4 f6 23. b4 Ng7 24. Qh6 f5 25. gxf5 Nxf5 26. Qh3 Ng7 27. Rg1 Qe3 28.
+Raf1 Rf6 29. Qh4 Rcf7 30. Qg4 Rf4 31. Qc8+ Rf8 32. Qd7 Rxe4 33. Qxd6 Ref4 34.
+Qxe5 Qxe5 35. Nxe5 Rd8 36. Rd1 Nf5 37. Nc6 Rd6 38. Rd3 Rc4 39. Rgd1 Kg7 40. Na5
+Rc2 41. Nb7 Rd7 42. Nc5 Rd6 43. Ne4 Rd7 44. d6 Rc6 45. Kg1 Kf7 46. R1d2 Kg7 47.
+Kf2 Kf7 48. Ke2 Kg7 49. Kd1 Kf7 50. Rc2 Rxc2 51. Kxc2 h6 52. Kc3 Rd8 53. d7 Ke7
+54. Nc5 g5 55. Rd5 Nd6 56. Re5+ Kf7 57. Re6 Rxd7 58. Rxh6 Rd8 59. Rh5 Kf6 60.
+Rxg5 Rh8 61. Rg2 Nc4 62. a4 Ne3 63. Rd2 bxa4 64. Rd6+ Ke5 65. Re6+ Kf4 66. Rf6+
+Ke5 67. Nd7+ Kd5 68. Rxa6 Nd1+ 69. Kc2 Ne3+ 70. Kd3 Nd1 71. Nb6+ Kc6 72. Nc4+
+Kb7 73. Rxa4 Rxh2 74. Ra5 Nf2+ 75. Kc3 Nd1+ 76. Kb3 Rh3 77. Rf5 Nf2 78. b5 Rh7
+79. Kb4 Rh4 80. Kb3 Rh7 81. Rf6 Nd3 82. Kc3 Nc5 83. Na5+ Ka7 84. Kb4 Nd7 85.
+Ra6+ Kb8 86. Nc6+ Kc7 87. Ne5 Rh4+ 88. Ng4 Ne5 89. Kc5 Nxg4 90. fxg4 Rxg4 91.
+Rh6 Rg5+ 92. Kb4 Rg1 1/2-1/2
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "5"]
+[White "Videkovic, Marina"]
+[Black "Dejanovic, Mladen"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "1952"]
+[PlyCount "76"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bc4 e6 8.
+Qe2 Ngf6 9. c3 Be7 10. Nh4 Nd5 11. Nxg6 hxg6 12. Ne4 N7f6 13. Bb3 Qa5 14. Bd2
+Nxe4 15. Qxe4 Qc7 16. g3 O-O-O 17. O-O-O Rh3 18. Qf3 Nf6 19. Be3 Rdh8 20. c4
+Rxh2 21. Rxh2 Rxh2 22. Kb1 c5 23. d5 exd5 24. cxd5 Bd6 25. Rc1 Kb8 26. Bg5 Qe7
+27. Bc2 Rh5 28. Bxf6 Qxf6 29. Qxf6 gxf6 30. g4 Rh2 31. Rf1 Rg2 32. Bd1 Kc7 33.
+Kc1 Bf4+ 34. Kb1 Kd6 35. b3 Rh2 36. Bf3 b6 37. a4 Be5 38. Be4 Bd4 0-1
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Blaga, Marijan"]
+[Black "Golubic, Miroslav"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2107"]
+[BlackElo "2029"]
+[PlyCount "19"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Qxd5 3. c4 Qe4+ 4. Qe2 Qxe2+ 5. Nxe2 e5 6. d4 Nc6 7. Be3 Bf5
+8. a3 Bd3 9. dxe5 Nxe5 10. b3 1/2-1/2
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Dejanovic, Mladen"]
+[Black "Monda, Laszlo"]
+[Result "1-0"]
+[ECO "B43"]
+[BlackElo "2149"]
+[PlyCount "77"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Nf6 7. Be2 Bb4 8.
+Bd2 Bxc3 9. Bxc3 Nxe4 10. Bb4 Qb6 11. c3 Nc6 12. f3 Nxb4 13. fxe4 Nc6 14. Qd2
+O-O 15. O-O-O Qa5 16. Kb1 Qe5 17. Nf3 Qxe4+ 18. Bd3 Qg4 19. Qf2 f5 20. h3 Qf4
+21. g3 Qc7 22. g4 Qf4 23. Qg2 d5 24. gxf5 Ne7 25. Rhg1 Nxf5 26. Nd4 Qh6 27.
+Bxf5 exf5 28. Qxd5+ Kh8 29. Rde1 Qf6 30. Rgf1 g6 31. Ne6 Bxe6 32. Rxe6 Qg7 33.
+Rfe1 Rad8 34. Qc5 Rc8 35. Qb4 Qd7 36. Re7 Qd3+ 37. Ka1 b5 38. Qh4 h5 39. Qg5
+1-0
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Horina, Miroslav"]
+[Black "Srebro, Mira"]
+[Result "0-1"]
+[ECO "B00"]
+[PlyCount "52"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 h5 2. Bc4 d6 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. O-O g5 7. d3 Nd7 8. Qg3
+Bh6 9. f4 h4 10. Qf2 Rh7 11. fxg5 Bxg5 12. Bxg5 Qxg5 13. Nc3 a6 14. d4 Rg7 15.
+Ne2 Ne7 16. Nf4 Ng6 17. Nxe6 fxe6 18. Bxe6 O-O-O 19. d5 Nf4 20. Bg4 Rf8 21. Qa7
+Kd8 22. Rf2 Ke7 23. Qxb7 Nxh3+ 24. Bxh3 Rxf2 25. Kxf2 Qg3+ 26. Kg1 Qxh3 0-1
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Koruc, Ivan"]
+[Black "Vojkovic, Zeljko"]
+[Result "1-0"]
+[ECO "B02"]
+[PlyCount "49"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 Nb6 4. Bb3 e6 5. d4 c6 6. Nf3 Be7 7. Nc3 d5 8. Ne2
+c5 9. c3 c4 10. Bc2 Na6 11. b3 h6 12. b4 Bd7 13. a4 Nxb4 14. cxb4 Bxb4+ 15. Bd2
+a5 16. Rb1 Qe7 17. O-O O-O 18. Qc1 Nxa4 19. Bxh6 f6 20. exf6 Qxf6 21. Bg5 Qf7
+22. Ne5 Qe8 23. Bg6 Qc8 24. Qe3 Bd6 25. Qh3 1-0
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Rogulj, Branko"]
+[Black "Kovacevic, Veljko"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[WhiteElo "2410"]
+[BlackElo "2268"]
+[PlyCount "27"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. Nf3 Be7 7. cxd5 exd5 8.
+Bd3 O-O 9. h3 Nc6 10. O-O h6 11. Bf4 Be6 12. a3 Bd6 13. Bxd6 Qxd6 14. Re1
+1/2-1/2
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Slamar, Velimir"]
+[Black "Vadla, Zeljko"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[WhiteElo "2217"]
+[BlackElo "2181"]
+[PlyCount "78"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+Nbd7 9. O-O-O Be7 10. Be2 h6 11. Bh4 g5 12. fxg5 Nh7 13. g6 Ne5 14. gxf7+ Kf8
+15. Qh5 Nf6 16. Bxf6 Bxf6 17. Rhf1 Qe7 18. Nf3 Bd7 19. Nxe5 Bxe5 20. Rf3 Qg5+
+21. Qxg5 hxg5 22. h3 Ke7 23. Rdf1 Raf8 24. Bd3 Rh7 25. Ne2 Rhxf7 26. Rxf7+ Rxf7
+27. Rxf7+ Kxf7 28. c3 Kf6 29. Kd2 Be8 30. Ng1 Bh5 31. g4 Be8 32. Nf3 Bf4+ 33.
+Ke2 Bc6 34. b4 d5 35. exd5 Bxd5 36. c4 Bxf3+ 37. Kxf3 Bd2 38. b5 axb5 39. cxb5
+b6 1/2-1/2
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Smuk, Zelimir"]
+[Black "Florjan, Mladen"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2156"]
+[BlackElo "2023"]
+[PlyCount "105"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Nf6 4. Nc3 Qd6 5. Nf3 a6 6. Be2 Nc6 7. Be3 Bf5 8.
+Nh4 Bg6 9. Qd2 e6 10. O-O-O O-O-O 11. f3 Be7 12. Nxg6 hxg6 13. Ne4 Qd5 14. c4
+Qa5 15. Qxa5 Nxa5 16. Ng5 Rhf8 17. a3 c5 18. dxc5 Nb3+ 19. Kc2 Bxc5 20. Rxd8+
+Kxd8 21. Rd1+ Ke7 22. Bxc5+ Nxc5 23. b4 Ncd7 24. c5 Nd5 25. Kb3 Rh8 26. h3 Nf4
+27. Bf1 Nd5 28. Bc4 Ne3 29. Rd2 Rd8 30. Re2 Nf5 31. Kc3 Nb8 32. a4 Rd1 33. Bb3
+Rd7 34. Re4 Kf6 35. f4 Ng3 36. Re3 Nf5 37. Re1 Nd4 38. Bc4 Ndc6 39. g4 Nd8 40.
+b5 a5 41. Bb3 Rc7 42. Kd4 Nd7 43. Ne4+ Ke7 44. Rc1 f5 45. Nf2 b6 46. c6 Nc5 47.
+Rxc5 bxc5+ 48. Kxc5 g5 49. gxf5 gxf4 50. fxe6 Nxe6+ 51. Bxe6 Kxe6 52. b6 Rf7
+53. b7 1-0
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Spoljaric, Stevo"]
+[Black "Gaco, Sefik"]
+[Result "0-1"]
+[ECO "B86"]
+[PlyCount "68"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. Bc4 Nf6 6. Nc3 e6 7. O-O Be7 8. Be3
+O-O 9. Qe2 b5 10. Bd3 Bb7 11. Rad1 b4 12. Na4 Bxe4 13. Bc4 d5 14. Bb3 Qc7 15.
+Bg5 Nc6 16. c3 Nxd4 17. Rxd4 a5 18. Bh4 Qc6 19. Bg3 Nd7 20. f3 Bg6 21. Kh1 Nc5
+22. Nxc5 Bxc5 23. Rd2 bxc3 24. bxc3 a4 25. Bc2 Be7 26. Bxg6 hxg6 27. Rc1 Bg5
+28. f4 Bf6 29. Rdc2 Qa6 30. Qg4 Qc4 31. Qf3 a3 32. Bf2 Rab8 33. h3 Rb2 34. Bd4
+Bxd4 0-1
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Vidalina, Franja"]
+[Black "Kalajzic, Ivan"]
+[Result "0-1"]
+[ECO "B08"]
+[WhiteElo "2043"]
+[BlackElo "2228"]
+[PlyCount "100"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Nc3 Bg4 5. Be2 g6 6. h3 Bxf3 7. Bxf3 e5 8. Ne2
+Bg7 9. c3 O-O 10. O-O Re8 11. Qc2 d5 12. exd5 Nxd5 13. dxe5 Nxe5 14. Bxd5 Qxd5
+15. Be3 Nc4 16. Bd4 Bh6 17. Rfd1 Qb5 18. b4 Nd6 19. Ng3 Bf4 20. a4 Qc4 21. Qd3
+Qxd3 22. Rxd3 Nc4 23. Rf3 Bh6 24. Nf1 Re2 25. Ng3 Re6 26. Rf6 Ree8 27. Rf3 a6
+28. Rd3 Re6 29. Rdd1 Rae8 30. a5 Bf4 31. Bc5 Bd2 32. Bd4 f5 33. Nf1 Bh6 34. Nh2
+Nd2 35. Nf3 Nxf3+ 36. gxf3 Bf8 37. Kf1 Kf7 38. Re1 Rxe1+ 39. Rxe1 Rxe1+ 40.
+Kxe1 Ke6 41. Ke2 Kd5 42. Kd3 c5 43. bxc5 Bxc5 44. Be3 Bxe3 45. fxe3 g5 46. c4+
+Ke5 47. Kd2 h5 48. Ke2 Kd6 49. Kd3 h4 50. e4 g4 0-1
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Videkovic, Marina"]
+[Black "Ivandija, Martin"]
+[Result "1-0"]
+[ECO "B72"]
+[WhiteElo "1952"]
+[PlyCount "51"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Bd7 8. f3
+Nc6 9. g4 O-O 10. h4 Rc8 11. Nxc6 bxc6 12. h5 Qa5 13. Qd2 Rb8 14. hxg6 fxg6 15.
+Bc4+ Kh8 16. Bb3 Ng8 17. Rh3 c5 18. O-O-O c4 19. Rxh7+ Kxh7 20. Rh1+ Nh6 21.
+Bxc4 Bxc3 22. Rxh6+ Kg7 23. Rh7+ Kxh7 24. Qh2+ Kg7 25. Qh6+ Kf6 26. g5+ 1-0
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.20"]
+[Round "6"]
+[White "Vuckovic, Milenko"]
+[Black "Premuzic, Zoran"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[BlackElo "2010"]
+[PlyCount "86"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be3 a6 6. Nc3 Qc7 7. Qd2 Nf6 8. f3
+Bb4 9. a3 Bxc3 10. Qxc3 d5 11. Nxc6 Qxc6 12. e5 Qxc3+ 13. bxc3 Nd7 14. Bd4 b6
+15. Rb1 b5 16. Bd3 Rb8 17. Kd2 Nb6 18. Bc5 Bd7 19. Rb4 Na4 20. Bd4 O-O 21. Rhb1
+Rbc8 22. g4 h6 23. Rg1 g6 24. f4 Kg7 25. f5 Rh8 26. Rbb1 Rcg8 27. Rbf1 g5 28.
+fxe6 Bxe6 29. Rf6 Re8 30. Bf5 Nb2 31. Rf1 Nc4+ 32. Kd3 Rhf8 33. h4 gxh4 34. Rh1
+Bxf5+ 35. Rxf5 Re6 36. Rxh4 Kg6 37. Rfh5 Rh8 38. Rh1 Nxa3 39. g5 Nc4 40. gxh6
+Kh7 41. Rf1 Kg6 42. Rfh1 Kh7 43. Rf1 Kg6 1/2-1/2
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.21"]
+[Round "7"]
+[White "Cenkovcan, Andrija"]
+[Black "Turk, Karlo"]
+[Result "0-1"]
+[ECO "B43"]
+[BlackElo "1720"]
+[PlyCount "72"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. a3 Nf6 7. Be3 Be7 8. Be2
+O-O 9. O-O b5 10. Bf3 Nc6 11. Nb3 Bb7 12. Bg5 Rac8 13. Re1 h6 14. Bh4 Ne5 15.
+Nd2 d6 16. Be2 Nxe4 17. Ndxe4 Bxh4 18. Qxd6 Bxe4 19. Nxe4 Qxd6 20. Nxd6 Rxc2
+21. g3 Be7 22. Ne4 Rxb2 23. f4 Nc6 24. a4 Nd4 25. Bd1 Bb4 26. Rf1 f5 27. Nf2
+Bc5 28. Kh1 Nc2 29. Rc1 Ne3 30. Re1 Rxf2 31. Rxc5 Nxd1 32. Rxd1 bxa4 33. Kg1
+Re2 34. Rc7 Rb8 35. Kf1 Rxh2 36. Kg1 Ra2 0-1
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.21"]
+[Round "7"]
+[White "Crnjakovic, Martin"]
+[Black "Buhin, Denis"]
+[Result "0-1"]
+[ECO "B27"]
+[BlackElo "1885"]
+[PlyCount "54"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 cxd4 5. cxd4 d5 6. e5 Qb6 7. Nc3 e6 8. b3
+Bd7 9. Be2 Ne7 10. Ba3 Qa5 11. Qc1 Nbc6 12. O-O a6 13. Bc5 Rc8 14. Na4 Nxd4 15.
+Nxd4 Bxa4 16. bxa4 Qxc5 17. Qxc5 Rxc5 18. f4 O-O 19. Rab1 Rc7 20. Rb6 Rfc8 21.
+Rfb1 Rc1+ 22. Kf2 Rxb1 23. Rxb1 Rc7 24. Rb3 g5 25. g3 Bh6 26. Ke3 gxf4+ 27.
+gxf4 Ng6 0-1
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.21"]
+[Round "7"]
+[White "Golubic, Miroslav"]
+[Black "Monda, Laszlo"]
+[Result "0-1"]
+[ECO "B26"]
+[WhiteElo "2029"]
+[BlackElo "2149"]
+[PlyCount "87"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d6 4. Bg2 Nc6 5. d3 g6 6. Nge2 Bg7 7. O-O Nge7 8. Be3
+O-O 9. Qd2 Re8 10. Bh6 Bh8 11. Nf4 Ne5 12. h3 N7c6 13. Nfe2 d5 14. f4 d4 15.
+fxe5 dxc3 16. bxc3 Bxe5 17. Qe3 b6 18. Qf2 Qd7 19. Rad1 Ba6 20. Bg5 Rac8 21. h4
+Bg7 22. Bf6 Bxf6 23. Qxf6 Qe7 24. Qf2 Rf8 25. Nf4 Ne5 26. Bh3 h5 27. Qe2 Kg7
+28. Rde1 Rce8 29. Rf2 Qd8 30. Ref1 Qb8 31. g4 hxg4 32. Bxg4 Nxg4 33. Qxg4 Qe5
+34. h5 g5 35. h6+ Kh7 36. Nh5 f5 37. exf5 Rxf5 38. Rxf5 exf5 39. Rxf5 Qe3+ 40.
+Rf2 Bc8 41. Qg3 Qxg3+ 42. Nxg3 Re1+ 43. Kg2 Bb7+ 44. Ne4 0-1
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.21"]
+[Round "7"]
+[White "Jelecevic, Ivo"]
+[Black "Blaga, Marijan"]
+[Result "1-0"]
+[ECO "B38"]
+[WhiteElo "2235"]
+[BlackElo "2107"]
+[PlyCount "35"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 d6 6. Nc3 Bg7 7. Be3 Nf6 8. Be2
+O-O 9. O-O Ne8 10. Nd5 Nc7 11. Rc1 Nxd4 12. Bxd4 Bxd4 13. Qxd4 Nxd5 14. exd5 b6
+15. h4 h5 16. Rc3 e6 17. dxe6 fxe6 18. Qe4 1-0
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.21"]
+[Round "7"]
+[White "Loncar, Robert"]
+[Black "Devcic, Darko"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "2446"]
+[BlackElo "2303"]
+[PlyCount "24"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Bd3 Nf6 7. O-O Bc5 8.
+Nb3 Be7 9. Kh1 d6 10. f4 b5 11. Qe2 Nbd7 12. Bd2 Bb7 1/2-1/2
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.21"]
+[Round "7"]
+[White "Mihalinec, Damir"]
+[Black "Smuk, Zelimir"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "2249"]
+[BlackElo "2156"]
+[PlyCount "77"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. Bb3 Bf5 6. Qf3 e6 7. Qxb7 d5 8. Bd2
+a5 9. Nc3 a4 10. Nxa4 Ra6 11. Nc5 Bxc5 12. dxc5 N6d7 13. Qb5 c6 14. Qe2 Nxc5
+15. Bb4 Nb7 16. c3 c5 17. Ba3 Qb6 18. Nf3 Na5 19. Ba4+ Nac6 20. Bxc6+ Qxc6 21.
+Nh4 Bg6 22. O-O Ra4 23. Nxg6 hxg6 24. f4 Nd7 25. Rf3 Nb6 26. Qe3 Ra5 27. Rh3
+Rg8 28. Rd1 Nc4 29. Qe2 Ke7 30. Rh7 Qa4 31. b3 Qxa3 32. bxc4 Qxc3 33. cxd5 exd5
+34. Rh3 Qc4 35. Qb2 Qxa2 36. Qb7+ Ke6 37. Rb3 Rd8 38. Rb6+ Kf5 39. Qxf7+ 1-0
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.21"]
+[Round "7"]
+[White "Srebro, Mira"]
+[Black "Gladoic, Zvonko"]
+[Result "1-0"]
+[ECO "B06"]
+[PlyCount "97"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d4 g6 3. c3 Bg7 4. Na3 Nf6 5. f3 O-O 6. h4 h5 7. Bg5 Nh7 8. g4 f6
+9. Bc4+ e6 10. Be3 d5 11. exd5 exd5 12. Be2 Re8 13. Qd3 Qe7 14. Nc2 hxg4 15.
+fxg4 f5 16. O-O-O Qe4 17. Bf3 Qxd3 18. Bxd5+ Kh8 19. Rxd3 f4 20. Bxf4 c6 21.
+Bf3 Nd7 22. Nh3 Ndf6 23. g5 Nd5 24. Bxd5 cxd5 25. Nf2 Bf5 26. Re3 Bxc2 27. Kxc2
+Rac8 28. Be5 Kg8 29. Rhe1 Bxe5 30. Rxe5 Kf7 31. Ng4 Rxe5 32. Rxe5 Re8 33. Rxe8
+Kxe8 34. Ne3 Kd7 35. Nxd5 Ke6 36. Ne3 Nf8 37. c4 Nd7 38. b4 b6 39. a4 Nb8 40.
+Kd3 Na6 41. Kc3 Nc7 42. b5 Kd6 43. Kd3 Ne6 44. Ke4 Ng7 45. c5+ bxc5 46. Nc4+
+Kc7 47. dxc5 Ne6 48. b6+ axb6 49. cxb6+ 1-0
+
+[Event "Bjelovar op 4th"]
+[Site "Bjelovar"]
+[Date "2008.09.21"]
+[Round "7"]
+[White "Zovkic, Fabijan"]
+[Black "Videkovic, Marina"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[BlackElo "1952"]
+[PlyCount "81"]
+[EventDate "2008.09.18"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]

@@ -1,0 +1,600 @@
+[Black "Vezzosi, Paolo"]
+[Result "1/2-1/2"]
+[ECO "A41"]
+[WhiteElo "2454"]
+[BlackElo "2352"]
+[PlyCount "161"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. Nf3 Bg4 3. c4 Nd7 4. Qb3 Rb8 5. g3 e5 6. Be3 c6 7. Bg2 Ngf6 8. Nc3
+Qa5 9. O-O Be7 10. Qc2 O-O 11. Rab1 Qa6 12. b3 Rfe8 13. Qd2 Bf5 14. Rbc1 h6 15.
+h3 Bh7 16. Rfd1 Bf8 17. Ne1 Qa5 18. Nc2 a6 19. f3 Qc7 20. Bf2 Bxc2 21. Rxc2
+Rbc8 22. e4 Be7 23. Ne2 Bd8 24. Qc1 Nf8 25. c5 exd4 26. cxd6 Qxd6 27. Bxd4 Qe7
+28. Bc5 Qc7 29. Kh2 Be7 30. Bf2 Qa5 31. Nd4 Ba3 32. Qb1 Rcd8 33. Nf5 Rxd1 34.
+Qxd1 Ne6 35. Qa1 Nd7 36. Rc4 Bf8 37. f4 Qd2 38. Be3 Qe2 39. Rc1 g6 40. Re1 Qb5
+41. Nd4 Nxd4 42. Qxd4 Qb4 43. Qxb4 Bxb4 44. Rd1 Nf8 45. Bb6 Re7 46. Rd4 a5 47.
+Rd8 Rd7 48. Rb8 Rd2 49. a3 Bxa3 50. Bxa5 Rd7 51. e5 Kg7 52. Bb6 Ne6 53. Bf1 Bc5
+54. Bxc5 Nxc5 55. b4 Ne4 56. Bg2 Nc3 57. Bf1 Nd5 58. b5 cxb5 59. Bxb5 Rc7 60.
+Bd3 Nc3 61. Kg2 Rd7 62. Bc4 b5 63. Bf1 f6 64. Bxb5 Rd2+ 65. Kf3 fxe5 66. fxe5
+Rd5 67. Rb7+ Kf8 68. Bc4 Rxe5 69. Rf7+ Ke8 70. Rf6 Rf5+ 71. Rxf5 gxf5 72. Bd3
+Kf7 73. Bxf5 Kf6 74. Be4 Ke5 75. Bc6 Kd6 76. Bb7 Ke5 77. Bc6 Kd6 78. Bb7 Ke5
+79. g4 Nb5 80. Ke3 Nd6 81. Ba6 1/2-1/2
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Cocchi, Andrea"]
+[Black "Lombardi, Mariano"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2323"]
+[BlackElo "2119"]
+[PlyCount "107"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 c5 2. c4 Nf6 3. g3 b6 4. Bg2 Bb7 5. Nc3 g6 6. O-O Bg7 7. d4 cxd4 8. Qxd4
+O-O 9. Qh4 d6 10. Bg5 Nbd7 11. b3 Re8 12. Rad1 Rc8 13. e4 Qc7 14. Bh3 a6 15.
+Nd4 Rb8 16. Nd5 Nxd5 17. exd5 Nf6 18. a4 Qc5 19. Rfe1 b5 20. axb5 axb5 21. Be3
+Qb4 22. Rc1 Ra8 23. g4 bxc4 24. bxc4 Nxd5 25. cxd5 Bxd4 26. Rb1 Bb2 27. Bh6
+Bxd5 28. Rxe7 Rxe7 29. Qxe7 Qe4 30. Qxe4 Bxe4 31. Rxb2 Ra1+ 32. Bf1 f5 33. f3
+Bxf3 34. gxf5 gxf5 35. Kf2 Be4 36. Be2 Kf7 37. Bf4 Rb1 38. Rxb1 Bxb1 39. Bxd6
+Kg6 40. Bf4 Ba2 41. Ke3 Kf6 42. Kd4 Bb1 43. Bd3 Ba2 44. Kc5 Kg6 45. Kd6 Kf6 46.
+Bg3 Bf7 47. Bh4+ Kg6 48. Be7 Be8 49. Ke6 Kh5 50. Bxf5 h6 51. Bd3 Kg4 52. Bf5+
+Kh5 53. Kf6 Bd7 54. Bxd7 1-0
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Contin, Daniel"]
+[Black "Puzzoni, Christian"]
+[Result "1-0"]
+[ECO "A10"]
+[WhiteElo "2304"]
+[BlackElo "2128"]
+[PlyCount "63"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 b5 2. cxb5 e5 3. d4 e4 4. Nc3 d5 5. Qb3 Be6 6. Bf4 Nf6 7. e3 Be7 8. Nge2
+O-O 9. Bg5 c5 10. Nf4 cxd4 11. exd4 Nbd7 12. Be2 h6 13. Nxe6 fxe6 14. Be3 Bd6
+15. a4 Qe7 16. O-O Nh7 17. Bg4 h5 18. Bh3 g5 19. Nxd5 exd5 20. Qxd5+ Kh8 21.
+Bxd7 Qxd7 22. Qxe4 Rae8 23. Qc6 Qd8 24. d5 Re4 25. Rac1 Qb8 26. h3 Rxa4 27. b6
+Ra2 28. bxa7 Qd8 29. Ra1 Rxa7 30. Rxa7 Bb8 31. Bd4+ Nf6 32. Rd7 1-0
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "De Florio, Federico"]
+[Black "Borgiani, Flavio"]
+[Result "1/2-1/2"]
+[ECO "A85"]
+[WhiteElo "2106"]
+[BlackElo "2215"]
+[PlyCount "103"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. Nf3 f5 3. c4 Nf6 4. Nc3 g6 5. Bg5 Nbd7 6. Qc2 c6 7. e3 Qc7 8. Rd1
+Bg7 9. Be2 O-O 10. O-O e5 11. c5 e4 12. cxd6 Qxd6 13. Bf4 Qe7 14. Ne5 Nb6 15.
+Nc4 Nxc4 16. Bxc4+ Be6 17. d5 cxd5 18. Nxd5 Qf7 19. Nxf6+ Bxf6 20. Bxe6 Qxe6
+21. b3 Rac8 22. Qe2 Be7 23. h3 g5 24. Bh2 f4 25. Qb5 b6 26. Qd7 Qxd7 27. Rxd7
+Bc5 28. b4 Bxb4 29. Rd4 fxe3 30. Rxb4 exf2+ 31. Kh1 e3 32. Rb2 Rfe8 33. Re2 h5
+34. g4 hxg4 35. hxg4 Rc4 36. Bg3 Kg7 37. Kg2 Rxg4 38. Kf3 Rge4 39. Bxf2 g4+ 40.
+Kg3 exf2 41. Rexf2 R8e7 42. Rf4 b5 43. Kxg4 a5 44. Rc1 Re2 45. Rc5 R2e5 46. Rf5
+Rxc5 47. Rxc5 Re4+ 48. Kf5 Rb4 49. Ke6 a4 50. Kd5 Rb2 51. a3 Kf6 52. Rc6+
+1/2-1/2
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Ferri, Stefano"]
+[Black "Sarno, Spartaco"]
+[Result "0-1"]
+[ECO "A34"]
+[WhiteElo "2146"]
+[BlackElo "2329"]
+[PlyCount "98"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. d4 cxd4 5. Nxd5 Nxd5 6. cxd5 Qxd5 7. Qxd4 Qxd4
+8. Nxd4 a6 9. g3 e5 10. Nc2 Bf5 11. Ne3 Be4 12. Bg2 Bxg2 13. Nxg2 Nc6 14. e3
+Be7 15. Bd2 Kd7 16. Ke2 Ke6 17. Rhd1 f5 18. Bc3 g5 19. Rd2 Rad8 20. Rad1 Rxd2+
+21. Rxd2 h5 22. f4 h4 23. gxh4 gxf4 24. exf4 Rg8 25. Kf1 e4 26. h5 Bb4 27. Rc2
+Bxc3 28. Rxc3 Rh8 29. Rb3 b5 30. Rc3 Nb4 31. a3 Nd3 32. h6 Kd7 33. Ne3 Rxh6 34.
+Nxf5 Rxh2 35. Ng3 Rf2+ 36. Kg1 Rxb2 37. Nxe4 Nxf4 38. Kf1 a5 39. Nc5+ Ke7 40.
+Rb3 Rc2 41. Rxb5 Rc1+ 42. Kf2 Rxc5 43. Rxc5 Nd3+ 44. Ke3 Nxc5 45. Kd4 Kd6 46.
+Kc4 Kc6 47. Kc3 Kb5 48. Kb2 Kc4 49. Ka2 Kc3 0-1
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.23"]
+[Round "5"]
+[White "Rorato, Giovanni"]
+[Black "Cordara, Michele"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[WhiteElo "2065"]
+[BlackElo "2146"]
+[PlyCount "72"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. Nc3 d6 5. e4 e5 6. Be2 Be7 7. O-O O-O 8. Rb1
+Na6 9. Nd2 Ne8 10. Nc4 Bg5 11. f4 Bxf4 12. Bxf4 exf4 13. Rxf4 Qg5 14. Qd2 Bh3
+15. Bf1 h6 16. Kh1 Bd7 17. a4 Nb4 18. Rf2 Qxd2 19. Rxd2 f5 20. e5 dxe5 21. Nxe5
+Rd8 22. d6 Be6 23. Rbd1 Nf6 24. Ng6 Rfe8 25. Bb5 Bd7 26. Bxd7 Rxd7 27. Ne7+ Kf7
+28. Nxf5 Re5 29. Ng3 Nc6 30. Nce2 b6 31. c3 Na5 32. b4 Nc4 33. Ra2 Rxd6 34.
+Rxd6 Nxd6 35. a5 cxb4 36. cxb4 bxa5 1/2-1/2
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Borgiani, Flavio"]
+[Black "Astengo, Marcello"]
+[Result "0-1"]
+[ECO "A11"]
+[WhiteElo "2215"]
+[BlackElo "2075"]
+[PlyCount "50"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. Qc2 g6 5. Nc3 Bg7 6. d4 O-O 7. Bd2 a6 8. c5
+Nbd7 9. e4 Nxe4 10. Nxe4 dxe4 11. Qxe4 e5 12. dxe5 Nxe5 13. Nxe5 Bf5 14. Qb4
+Bxe5 15. O-O-O a5 16. Qa3 Qh4 17. f3 Rfd8 18. g3 Bxg3 19. hxg3 Qxh1 20. Qc3
+Rxd2 21. Qxd2 Qxf3 22. Qg5 Qf2 23. Bd3 Qxc5+ 24. Kd2 Qd5 25. Kc3 Rd8 0-1
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Brancaleoni, Maurizio"]
+[Black "Rombaldoni, Axel"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[WhiteElo "2251"]
+[BlackElo "2374"]
+[PlyCount "106"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Be7 5. d4 exd4 6. Nxd4 O-O 7. Nf3 Bb4 8.
+Bd2 Re8 9. Be2 Ne5 10. O-O c6 11. Rc1 Qe7 12. Qc2 Bd6 13. Nd4 Bb8 14. Nf5 Qe6
+15. Nd4 Qd6 16. f4 Ng6 17. Nf5 Qc5 18. b4 Qf8 19. g4 d5 20. cxd5 cxd5 21. g5
+Ne4 22. Nxe4 dxe4 23. Bg4 Bd6 24. Nxd6 Qxd6 25. Bxc8 Raxc8 26. Qxc8 Rxc8 27.
+Rxc8+ Nf8 28. Bc3 Qd7 29. Ra8 Qg4+ 30. Kh1 Qe2 31. Re1 Qf3+ 32. Kg1 f6 33. gxf6
+gxf6 34. Bxf6 Qg4+ 35. Kf2 Kf7 36. Bd4 Qf3+ 37. Kg1 Ng6 38. Rxa7 Nh4 39. Rxb7+
+Ke6 40. Rg7 Qh3 41. Rf1 Nf3+ 42. Rxf3 exf3 43. b5 f2+ 44. Kxf2 Qxh2+ 45. Ke1
+Qh4+ 46. Kd2 Qf2+ 47. Kc3 Qe1+ 48. Kc4 Qc1+ 49. Kb4 Qb1+ 50. Kc5 Qc2+ 51. Kb4
+Qb1+ 52. Kc5 Qc2+ 53. Kb4 Qb1+ 1/2-1/2
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Cordara, Michele"]
+[Black "Foglia, Maurizio"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2146"]
+[BlackElo "2135"]
+[PlyCount "103"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 g6 4. c4 c6 5. b3 Bg7 6. Bb2 Bg4 7. O-O O-O 8. Na3
+Nbd7 9. cxd5 cxd5 10. Rc1 Rc8 11. Rxc8 Qxc8 12. Qa1 Qc5 13. Rc1 Qa5 14. h3 Bxf3
+15. Bxf3 e5 16. d3 b5 17. Nc2 Bh6 18. e3 d4 19. Nxd4 exd4 20. Bxd4 Qd8 21. Bc6
+a6 22. g4 Ne8 23. a4 b4 24. Bxd7 Qxd7 25. Bc5 Qxd3 26. Bxb4 Qxb3 27. Bxf8 Bxf8
+28. Rc6 a5 29. Qe5 Qd1+ 30. Kg2 Qd7 31. Rb6 Qxa4 32. Rb5 Nd6 33. Rxa5 Qc6+ 34.
+Qd5 Qxd5+ 35. Rxd5 f6 36. Ra5 Kf7 37. Ra7+ Be7 38. f4 h6 39. Kf3 f5 40. Ra6 Bf8
+41. Rxd6 Bxd6 42. gxf5 gxf5 43. e4 Kf6 44. exf5 Kxf5 45. h4 h5 46. Kg2 Kg4 47.
+f5 Be5 48. f6 Bxf6 49. Kh2 Kf3 50. Kg1 Kg3 51. Kh1 Kf2 52. Kh2 1/2-1/2
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Gioseffi, Massimiliano"]
+[Black "Tocco, Paolo"]
+[Result "1/2-1/2"]
+[ECO "A87"]
+[WhiteElo "2049"]
+[BlackElo "2174"]
+[PlyCount "88"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. c4 f5 3. Nf3 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. b3 e5 8. Bb2 e4
+9. Ne1 Nc6 10. d5 Ne5 11. Nc3 a6 12. f3 exf3 13. exf3 g5 14. Nd3 Ng6 15. f4 Ng4
+16. Rf3 Bd4+ 17. Kh1 gxf4 18. gxf4 Rf7 19. Qd2 Bd7 20. Ne2 Bxb2 21. Qxb2 Qf8
+22. h3 Nf6 23. Ng3 Re8 24. Re1 Rfe7 25. Rxe7 Rxe7 26. Qd4 Kf7 27. Re3 Qe8 28.
+Rxe7+ Qxe7 29. Kg1 Nh4 30. Bh1 Kf8 31. Kf2 Qg7 32. Qe3 b6 33. Ne1 Qe7 34. Qxe7+
+Kxe7 35. Nc2 Ne8 36. Nd4 Ng7 37. Nf3 Ng6 38. Ke3 h6 39. Bg2 Kf6 40. Bf1 Bc8 41.
+Bd3 Ne7 42. Nd4 Bd7 43. Nf3 Bc8 44. Nd4 Bd7 1/2-1/2
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Landi, Andrea"]
+[Black "Finocchiaro, Gianluca"]
+[Result "0-1"]
+[ECO "A59"]
+[WhiteElo "1837"]
+[BlackElo "2021"]
+[PlyCount "66"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 d6 4. c4 b5 5. cxb5 a6 6. bxa6 Bxa6 7. Nc3 g6 8. e4
+Bxf1 9. Kxf1 Nbd7 10. g3 Bg7 11. Kg2 O-O 12. Bf4 Qb6 13. Qe2 Ng4 14. h3 Nge5
+15. Bxe5 Nxe5 16. Nxe5 Bxe5 17. Qc2 Rfb8 18. Rab1 Qa5 19. Rhc1 Rb4 20. a3 Rbb8
+21. Nd1 Bd4 22. Nc3 Ra7 23. Ra1 Rab7 24. Ra2 Kg7 25. a4 Rb4 26. b3 c4 27. Qd2
+cxb3 28. Rb2 Rc4 29. Qd3 Bxc3 30. Qxc4 Bxb2 31. Rb1 Qc3 32. Qe2 Qc2 33. Rxb2
+Qxe2 0-1
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Sibilio, Mario"]
+[Black "Dvirnyy, Daniyl"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2361"]
+[BlackElo "2358"]
+[PlyCount "72"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 c5 2. b3 Nc6 3. c4 Nf6 4. Bb2 g6 5. Bxf6 exf6 6. Nc3 Bg7 7. g3 O-O 8.
+Bg2 f5 9. O-O a6 10. e3 b5 11. d4 Rb8 12. cxb5 axb5 13. Rc1 Qa5 14. Qd2 c4 15.
+bxc4 bxc4 16. Rfd1 Ba6 17. Ne1 Rfc8 18. Nd5 Qa3 19. Nc2 Qd6 20. Qc3 Rb5 21. Qa3
+Qxa3 22. Nxa3 Rb2 23. Bf1 Rxa2 24. Nxc4 Rd8 25. Ra1 Rxa1 26. Rxa1 Bxc4 27. Bxc4
+Rb8 28. h4 h5 29. Nf4 Kf8 30. Bd5 Nb4 31. Ra7 Ke7 32. Bc4 Bh6 33. Nd3 Nxd3 34.
+Bxd3 Bg7 35. Bc4 Bf6 36. Kg2 f4 1/2-1/2
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Ubezio, Marco"]
+[Black "Rorato, Giovanni"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2181"]
+[BlackElo "2065"]
+[PlyCount "51"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. c4 f5 5. Nc3 Bg7 6. g3 O-O 7. Bg2 Nc6 8. e3
+Re8 9. Nge2 Ne7 10. O-O Rb8 11. a4 Kh8 12. a5 a6 13. b4 d6 14. b5 Bd7 15. Rb1
+axb5 16. cxb5 c6 17. a6 bxa6 18. bxa6 Ra8 19. Qd3 Ra7 20. Rb7 Ra8 21. Ra1 Bc8
+22. Rbb1 d5 23. Nf4 Ra7 24. Rb8 Qd6 25. Qb1 Bd7 26. Rb6 1-0
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.25"]
+[Round "7"]
+[White "Contin, Daniel"]
+[Black "Sibilio, Mario"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "2304"]
+[BlackElo "2361"]
+[PlyCount "93"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 O-O 6. Rb1 e6 7. Nf3 d5 8. O-O
+a6 9. b4 d4 10. Na4 Nd7 11. Qc2 Ra7 12. a3 Ne7 13. e3 b5 14. Nb2 Nf5 15. a4
+dxe3 16. fxe3 bxc4 17. Nxc4 c5 18. b5 axb5 19. axb5 Bb7 20. g4 Ne7 21. Bb2 Bxb2
+22. Qxb2 Nb6 23. Nfe5 Nbd5 24. Rf2 f6 25. Rbf1 f5 26. g5 Nc8 27. h4 Nb4 28. Ng4
+h5 29. Nf6+ Rxf6 30. Qxf6 Qxf6 31. gxf6 Bd5 32. Ne5 Nd6 33. e4 Ba8 34. b6 Ra6
+35. Rc1 Nf7 36. Nxf7 Kxf7 37. exf5 gxf5 38. Bxa8 Rxa8 39. Rxc5 Rb8 40. Rc7+
+Kxf6 41. b7 Na6 42. Rc6 Nb4 43. Rb6 Nd5 44. Rb3 Ke7 45. Rg2 Kd6 46. Rg7 Ne7 47.
+Rb6+ 1-0
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.25"]
+[Round "7"]
+[White "De Florio, Federico"]
+[Black "Cordara, Michele"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "2106"]
+[BlackElo "2146"]
+[PlyCount "145"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 c5 3. e3 b6 4. Bd3 Bb7 5. Nbd2 g6 6. b3 cxd4 7. exd4 Nd5 8. c4
+Nf4 9. Ne4 Nxd3+ 10. Qxd3 Bg7 11. Bb2 d5 12. Ng3 O-O 13. O-O Nc6 14. Rad1 Ba6
+15. Rfe1 Rc8 16. Ba3 Re8 17. Qc3 dxc4 18. bxc4 Na5 19. c5 e6 20. Bb4 Nc6 21.
+Ne4 Nxb4 22. Qxb4 Bf8 23. Qa4 Bb7 24. Qxe8 Qxe8 25. Nf6+ Kg7 26. Nxe8+ Rxe8 27.
+cxb6 axb6 28. d5 Bb4 29. Re2 Rd8 30. Rb2 Bc5 31. d6 Bd5 32. Nd4 Rxd6 33. Nb5
+Rd7 34. Nc3 Bc6 35. Rxd7 Bxd7 36. Ne4 Bd4 37. Rc2 e5 38. Rc7 Be6 39. a4 Bb3 40.
+Nd6 Kf6 41. Rc6 Bxa4 42. Nb5+ Ke7 43. Nxd4 exd4 44. Rc4 b5 45. Rxd4 Bb3 46. f4
+Ke6 47. Kf2 Bc4 48. g4 h5 49. h3 hxg4 50. hxg4 Ke7 51. Ke3 Be6 52. Kf3 Bd7 53.
+g5 Bc6+ 54. Ke3 Ke6 55. Rd8 Bd5 56. Kd4 Bc4 57. Ke4 Bf1 58. Re8+ Kd6 59. Kd4
+Bc4 60. Re1 Be6 61. Ra1 b4 62. Ra6+ Ke7 63. Ke5 Kd7 64. f5 Bxf5 65. Rb6 Be6 66.
+Rb7+ Ke8 67. Rxb4 Kf8 68. Kf6 Kg8 69. Rb8+ Kh7 70. Rf8 Ba2 71. Rxf7+ Bxf7 72.
+Kxf7 Kh8 73. Kxg6 1-0
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.25"]
+[Round "7"]
+[White "Dvirnyy, Daniyl"]
+[Black "Bentivegna, Francesco"]
+[Result "1/2-1/2"]
+[ECO "A23"]
+[WhiteElo "2358"]
+[BlackElo "2329"]
+[PlyCount "93"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. g3 e5 2. c4 Nf6 3. Bg2 c6 4. Nc3 d5 5. cxd5 cxd5 6. d3 d4 7. Nb1 Nc6 8. Nf3
+Be7 9. O-O O-O 10. a3 a5 11. Bg5 Be6 12. Bxf6 Bxf6 13. Nbd2 Rc8 14. Qa4 Bd5 15.
+Rfc1 Re8 16. Rc2 Qb6 17. Rac1 Rcd8 18. Rc5 e4 19. dxe4 Bxe4 20. Rb5 Qa7 21.
+Nxe4 Rxe4 22. Qb3 a4 23. Qd3 Rde8 24. Rc2 g6 25. Ne1 Re3 26. fxe3 Rxe3 27. Rxb7
+Qxb7 28. Bxc6 Qa7 29. Rc4 Rxd3 30. Nxd3 Qe7 31. Bf3 h5 32. Rxa4 h4 33. Ra8+ Kg7
+34. Kg2 Qd7 35. Ra5 g5 36. g4 Qc7 37. Rc5 Qb8 38. a4 Qh8 39. a5 h3+ 40. Kg1 Qb8
+41. a6 Qa7 42. Rc6 Be5 43. b4 Bf4 44. b5 Be3+ 45. Kh1 Qe7 46. Rc5 Qe6 47. Rd5
+1/2-1/2
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.25"]
+[Round "7"]
+[White "Ferri, Stefano"]
+[Black "Borgiani, Flavio"]
+[Result "1/2-1/2"]
+[ECO "A53"]
+[WhiteElo "2146"]
+[BlackElo "2215"]
+[PlyCount "73"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. c4 Nf6 3. Nc3 Bf5 4. Nf3 h6 5. g3 c6 6. Bg2 Nbd7 7. O-O e5 8. Nh4
+Bh7 9. e4 Be7 10. Re1 O-O 11. Be3 exd4 12. Bxd4 Re8 13. f4 Nc5 14. Nf5 Bf8 15.
+b4 Ne6 16. Bf2 d5 17. cxd5 cxd5 18. Nxd5 Nxd5 19. exd5 Bxf5 20. dxe6 Bxe6 21.
+Qxd8 Raxd8 22. Bxb7 Bxb4 23. Red1 a5 24. Rxd8 Rxd8 25. a4 g5 26. fxg5 hxg5 27.
+Be3 f6 28. Kf2 Rb8 29. Bc6 Bc3 30. Rc1 Rb2+ 31. Kf3 g4+ 32. Ke4 Be5 33. Rc5
+Rb4+ 34. Kd3 Rb3+ 35. Ke4 Bc7 36. Bd5 Bxd5+ 37. Kxd5 1/2-1/2
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.25"]
+[Round "7"]
+[White "Foglia, Maurizio"]
+[Black "Puzzoni, Christian"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2135"]
+[BlackElo "2128"]
+[PlyCount "111"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. d4 d6 3. Bf4 g6 4. e3 Bg7 5. h3 O-O 6. Be2 c5 7. c3 Nbd7 8. O-O
+b5 9. Bxb5 Rb8 10. Qe2 Qb6 11. Na3 Bb7 12. Rab1 Qc7 13. Bh2 Ne4 14. Bd3 Ndf6
+15. Nc4 Ba8 16. Rfc1 Qb7 17. Ne1 Ng5 18. f3 Nh5 19. dxc5 dxc5 20. h4 Ne6 21.
+Bxb8 Qxb8 22. Nd2 Be5 23. Nf1 f5 24. Bc4 Qc8 25. f4 Bf6 26. Nf3 Kh8 27. Rd1 Nc7
+28. Rd2 e6 29. Rbd1 Bg7 30. Ng5 h6 31. Rd8 Qb7 32. Rxf8+ Bxf8 33. Nxe6 Nxe6 34.
+Bxe6 Qe7 35. Bd5 Nxf4 36. Qc4 Nxd5 37. Rxd5 Bxd5 38. Qxd5 Kh7 39. h5 Bg7 40.
+hxg6+ Kxg6 41. Qf3 Be5 42. Ng3 Qg5 43. Qc6+ Bf6 44. Qe8+ Kg7 45. Nh5+ Kh7 46.
+Qf7+ Bg7 47. Qxg7+ Qxg7 48. Nxg7 Kxg7 49. b4 Kf6 50. Kf2 Ke5 51. Kf3 cxb4 52.
+cxb4 a6 53. a3 h5 54. g3 Kd5 55. Kf4 Ke6 56. a4 1-0
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.25"]
+[Round "7"]
+[White "Tocco, Paolo"]
+[Black "Valsecchi, Alessio"]
+[Result "0-1"]
+[ECO "A43"]
+[WhiteElo "2174"]
+[BlackElo "2298"]
+[PlyCount "39"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 c5 2. d5 g6 3. d6 exd6 4. Nc3 Nc6 5. e4 Nd4 6. Nd5 Bg7 7. c3 Ne6 8. Nf3
+b6 9. Bc4 Bb7 10. O-O Ne7 11. Re1 O-O 12. Be3 Nc6 13. Nd2 Na5 14. f4 f5 15. Qc2
+fxe4 16. Qxe4 Kh8 17. Qd3 Nxc4 18. Nxc4 Rf5 19. Ndxb6 axb6 20. Nxd6 0-1
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.26"]
+[Round "8"]
+[White "Borgiani, Flavio"]
+[Black "Frugoli, Francesco"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2215"]
+[BlackElo "2163"]
+[PlyCount "110"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 Bg4 4. Ne5 Bh5 5. g3 e6 6. Bg2 Nbd7 7. Nxd7 Qxd7 8.
+c4 Be7 9. cxd5 exd5 10. Nc3 O-O 11. d4 Rfe8 12. a3 c6 13. O-O Bd6 14. Qd2 Bg4
+15. f3 Bh3 16. e4 Bxg2 17. Qxg2 dxe4 18. fxe4 Bc7 19. d5 Be5 20. Rae1 Rad8 21.
+Rf5 cxd5 22. Rxe5 Rxe5 23. Nxd5 Qxd5 24. exd5 Rxe1+ 25. Kf2 Rde8 26. Qf3 R1e2+
+27. Qxe2 Rxe2+ 28. Kxe2 Nxd5 29. Kd3 Ne7 30. Kc4 Kf8 31. Kc5 Nc8 32. a4 f6 33.
+g4 Ke7 34. Kd5 Kd7 35. g5 Ne7+ 36. Ke4 Ke6 37. Bd4 Nc6 38. gxf6 gxf6 39. Bf2 a6
+40. h3 h6 41. Be3 f5+ 42. Kd3 h5 43. Kc4 Ne5+ 44. Kd4 Nd7 45. Bc1 Nf6 46. Kc5
+Nd5 47. Kd4 b6 48. Bd2 Ne7 49. Bf4 Nc6+ 50. Kc4 Ne5+ 51. Kd4 Nf3+ 52. Ke3 Ne5
+53. Kd4 Nc6+ 54. Kc4 Na5+ 55. Kc3 Nc6 1/2-1/2
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.26"]
+[Round "8"]
+[White "Ubezio, Marco"]
+[Black "Tocco, Paolo"]
+[Result "1-0"]
+[ECO "A83"]
+[WhiteElo "2181"]
+[BlackElo "2174"]
+[PlyCount "109"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 f5 2. Nc3 Nf6 3. Bg5 e6 4. e4 fxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 b6 8.
+Bd3 Bb7 9. Qe2 Qe7 10. O-O-O Nc6 11. c3 O-O-O 12. Rhe1 g6 13. Ba6 Rhf8 14. Nc5
+bxc5 15. Qb5 Bxa6 16. Qxa6+ Kb8 17. d5 Ne5 18. Nxe5 Bxe5 19. Rxe5 Qf6 20. Qb5+
+Ka8 21. Qe2 exd5 22. Rexd5 Rde8 23. Qg4 d6 24. Qd7 Qf4+ 25. R5d2 Qf7 26. Qc6+
+Kb8 27. a4 Qb3 28. a5 Qb7 29. Qa4 a6 30. b4 cxb4 31. Rb2 Re4 32. f3 Rc4 33. Rd4
+Rxd4 34. cxd4 c5 35. dxc5 dxc5 36. Rd2 Qb5 37. Qxb5+ axb5 38. Rd6 Kc7 39. Rb6
+Rb8 40. Rf6 Rb7 41. a6 Rb6 42. a7 Rxf6 43. a8=Q Rb6 44. Qa7+ Kc6 45. Qxh7 Kd5
+46. Qd7+ Kc4 47. Kd2 b3 48. Qd3+ Kb4 49. Qc3+ Ka4 50. Qxc5 Rb7 51. Kc3 b4+ 52.
+Kb2 g5 53. Qc6+ Rb5 54. f4 gxf4 55. h4 1-0
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.27"]
+[Round "9"]
+[White "Contin, Daniel"]
+[Black "Borgo, Giulio"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2304"]
+[BlackElo "2442"]
+[PlyCount "71"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 b6 2. Nc3 Bb7 3. d4 e6 4. a3 f5 5. d5 Be7 6. g3 Bf6 7. Bd2 Ne7 8. Bg2 Nc8
+9. Nh3 Nd6 10. b3 a5 11. Rc1 O-O 12. O-O Na6 13. Nf4 e5 14. Nd3 Qe8 15. e4 a4
+16. exf5 axb3 17. Ne4 Nxf5 18. c5 Nxc5 19. Ndxc5 bxc5 20. Nxc5 b2 21. Rb1 Bc8
+22. Bb4 d6 23. Ne4 Bd8 24. Rxb2 Nd4 25. Re1 g5 26. h3 Qg6 27. g4 Qf7 28. Re3
+Kh8 29. Bc3 Qg7 30. Rd3 Rxa3 31. Rxd4 Rxc3 32. Ra4 Rc5 33. Nxc5 dxc5 34. Ra8
+Bd7 35. Rbb8 Qf6 36. Qf3 1-0
+
+[Event "ITA-ch sf"]
+[Site "Saint Vincent"]
+[Date "2008.07.27"]
+[Round "9"]
+[White "Rettore, Ludwig"]
+[Black "Borgiani, Flavio"]
+[Result "0-1"]
+[ECO "A82"]
+[WhiteElo "2230"]
+[BlackElo "2215"]
+[PlyCount "56"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. e4 f5 3. exf5 Bxf5 4. Bd3 Qd7 5. Nf3 Nf6 6. O-O Nc6 7. Bb5 a6 8.
+Ba4 b5 9. Bb3 Bg4 10. h3 Bh5 11. Re1 d5 12. c3 O-O-O 13. a4 b4 14. Qd3 Kb7 15.
+a5 Bxf3 16. Qxf3 e5 17. dxe5 Ne4 18. Bf4 Bc5 19. Rxe4 dxe4 20. Qxe4 Qd3 21. Nd2
+Rhf8 22. Bc2 Bxf2+ 23. Kxf2 Qxd2+ 24. Kg3 Rxf4 25. Qxf4 Qxc2 26. e6 Qg6+ 27.
+Qg4 Rd3+ 28. Kf4 Qh6+ 0-1

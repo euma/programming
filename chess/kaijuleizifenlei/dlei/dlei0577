@@ -1,0 +1,600 @@
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Nh4 Be6 7. e4 g6 8. Nf3
+c5 9. d5 Bc8 10. Bxc4 Bg7 11. Qb3 O-O 12. a5 Ng4 13. h3 Ne5 14. Nxe5 Bxe5 15.
+Bh6 Nd7 16. Bxf8 Qxf8 17. O-O-O Bf4+ 18. Kb1 Ne5 19. g3 Bh6 20. f4 Nxc4 21.
+Qxc4 b6 22. a6 Bd7 23. e5 Rb8 24. Rdf1 Qc8 25. Ne4 Bf5 26. g4 Bxe4+ 27. Qxe4
+Qxa6 28. g5 Bg7 29. f5 gxf5 30. Rxf5 b5 31. Rhf1 Qg6 32. Kc1 e6 33. dxe6 fxe6
+34. R5f4 Qxe4 35. Rxe4 Rf8 36. Rxf8+ Kxf8 37. h4 h5 38. Kd2 a5 39. b3 Ke7 40.
+Ke3 Kd7 41. Kf4 Kc6 42. Re1 c4 43. bxc4 bxc4 44. Ke4 Kc5 45. Ra1 Kb4 46. Kd4
+Kb3 47. Rxa5 c3 48. Rb5+ Kc2 49. Rc5 Kd2 50. Rxc3 1-0
+
+[Event "Madrid San Viator 10th"]
+[Site "Madrid"]
+[Date "2008.06.08"]
+[Round "5"]
+[White "Sarabia Utrilla, Joaquin"]
+[Black "Orfali, Marcelo Rafael"]
+[Result "0-1"]
+[ECO "D88"]
+[WhiteElo "1844"]
+[BlackElo "2083"]
+[PlyCount "78"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Bg4 12. f3 Na5 13. Bxf7+ Rxf7 14. fxg4
+Rxf1+ 15. Kxf1 b5 16. Rc1 Qd6 17. Kg1 Qe6 18. Nc3 a6 19. d5 Qe5 20. Qd3 Nc4 21.
+Bf2 Rf8 22. Ne2 Qg5 23. h3 h5 24. gxh5 gxh5 25. Rf1 Nd2 26. Rd1 Nf3+ 27. Kh1
+Ne5 28. Qg3 Qh6 29. Bd4 h4 30. Qc3 Qh5 31. Re1 b4 32. Qb3 Kh7 33. Ng1 Qg6 34.
+Bxe5 Bxe5 35. Nf3 Qg3 36. Re2 Rxf3 37. gxf3 Qxh3+ 38. Kg1 Bd4+ 39. Re3 Qxf3 0-1
+
+[Event "Madrid San Viator 10th"]
+[Site "Madrid"]
+[Date "2008.06.22"]
+[Round "7"]
+[White "Garcia Hernandez, Javier"]
+[Black "Orfali, Marcelo Rafael"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "1557"]
+[BlackElo "2083"]
+[PlyCount "58"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O 8. h3
+Nc6 9. Nf3 Na5 10. Bf4 a6 11. Be2 h6 12. b4 Nc6 13. Be3 Nxb4 14. Qb3 Nc6 15.
+Rd1 Qd6 16. a3 Na5 17. Qa2 Be6 18. Qb2 Nac4 19. Bxc4 Nxc4 20. Qxb7 Rfb8 21. e5
+Qxa3 22. Qxc7 Nxe3 23. fxe3 Rc8 24. Qb7 Qxc3+ 25. Kf2 Rab8 26. Qxa6 Rb2+ 27.
+Kg3 Qxe3 28. d5 Bxe5+ 29. Kh4 Qf2+ 0-1
+
+[Event "Madrid San Viator 10th"]
+[Site "Madrid"]
+[Date "2008.06.22"]
+[Round "7"]
+[White "Lopez Ayala, Pedro"]
+[Black "Andalon Gomez, Carlos Jesus"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "2043"]
+[BlackElo "2019"]
+[PlyCount "56"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. a3 Be7 8. Bd3
+O-O 9. Qc2 Re8 10. Nf3 Nf8 11. h3 Nh5 12. Bxe7 Qxe7 13. O-O Qf6 14. Qe2 Nf4 15.
+Qd1 Nxd3 16. Qxd3 Bxh3 17. gxh3 Qxf3 18. Kh2 Ng6 19. Qe2 Qf6 20. Rg1 Nh4 21.
+Rg3 Nf5 22. Rg4 Qd6+ 23. Kh1 Qh6 24. Kh2 Re6 25. Rag1 g6 26. Qf3 Kf8 27. b4
+Nxe3 28. fxe3 Rxe3 0-1
+
+[Event "Madrid San Viator 10th"]
+[Site "Madrid"]
+[Date "2008.06.22"]
+[Round "7"]
+[White "Sarabia Utrilla, Joaquin"]
+[Black "Fernandez Lledo, Javier"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "1844"]
+[BlackElo "1858"]
+[PlyCount "72"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 e6 6. Bg5 Be7 7. e3 a6 8. Bd3
+Nbd7 9. O-O b5 10. a3 Bb7 11. Rc1 O-O 12. Ne2 Rc8 13. Ng3 h6 14. Bf4 Ne4 15.
+Bxe4 dxe4 16. Nd2 g5 17. Bxg5 Rxc1 18. Qxc1 hxg5 19. Ndxe4 f5 20. Nc3 Nf6 21.
+Qd1 Kg7 22. Re1 Rh8 23. e4 f4 24. e5 fxg3 25. exf6+ Bxf6 26. fxg3 Qxd4+ 27. Kf1
+Qxd1 28. Rxd1 Bxc3 29. bxc3 Bd5 30. h3 g4 31. h4 Rc8 32. Rd4 Rc4 33. Rd3 Ra4
+34. Kf2 Rxa3 35. Rd4 Ra4 36. Rd2 Ra2 0-1
+
+[Event "Madrid San Viator 10th"]
+[Site "Madrid"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Lopez Ayala, Pedro"]
+[Black "Aburto Renobales, Rafael"]
+[Result "1-0"]
+[ECO "D51"]
+[WhiteElo "2043"]
+[BlackElo "1593"]
+[PlyCount "51"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 Nbd7 6. cxd5 cxd5 7. a3 b6 8. e3
+Bb7 9. Rc1 Be7 10. Bd3 O-O 11. O-O Rc8 12. b4 h6 13. Bh4 a6 14. Qb3 b5 15. a4
+bxa4 16. Nxa4 Nb6 17. Nc5 Bxc5 18. bxc5 g5 19. Bg3 Rc6 20. Ne5 Rc8 21. Rb1 Ne4
+22. Qxb6 Rc7 23. Bxe4 dxe4 24. Ng6 Rc8 25. Nxf8 Bd5 26. Bd6 1-0
+
+[Event "Madrid San Viator 10th"]
+[Site "Madrid"]
+[Date "2008.06.29"]
+[Round "9"]
+[White "Tobar Quinores, Jose Pablo"]
+[Black "Montero Montero, Juan Jose"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1875"]
+[BlackElo "1718"]
+[PlyCount "81"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 d5 4. c3 Bd6 5. Bg3 Nbd7 6. Bd3 Bxg3 7. hxg3 e5 8.
+Nd2 e4 9. Be2 Nb6 10. Nh3 Be6 11. Nf4 Qd7 12. Nxe6 Qxe6 13. Rc1 Rc8 14. c4 c6
+15. c5 Nbd7 16. b4 b5 17. a4 a6 18. axb5 axb5 19. Ra1 O-O 20. Nb3 Ra8 21. Na5
+g6 22. g4 g5 23. O-O Rfc8 24. g3 Kg7 25. Kg2 h6 26. Rh1 Ne8 27. Rh3 Nc7 28. Qd2
+Nf6 29. Rah1 Rh8 30. Nb7 Rab8 31. Nd6 Nfe8 32. Nf5+ Kf8 33. Rxh6 Rxh6 34. Rxh6
+Nf6 35. Qa2 Ra8 36. Qb1 Nce8 37. Rh8+ Ng8 38. Qh1 Qg6 39. Rxg8+ Qxg8 40. Qh6+
+Ng7 41. Qd6+ 1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Abdulla, Al Rakib"]
+[Black "Uttam, Raj Thapa"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2514"]
+[BlackElo "1853"]
+[PlyCount "100"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 Bf5 5. cxd5 cxd5 6. Qb3 Qb6 7. Nxd5 Qxb3 8.
+Nxf6+ exf6 9. axb3 Nc6 10. Nf3 Bd6 11. Bc4 O-O 12. O-O Nb4 13. Bd2 Be4 14. Bc3
+a6 15. Nd2 Bc6 16. Be2 Nd5 17. Nc4 Be7 18. Na5 Rac8 19. Rfc1 b5 20. Nxc6 Rxc6
+21. Bf3 Nxc3 22. bxc3 Rb6 23. c4 bxc4 24. bxc4 f5 25. c5 Rb2 26. d5 Rd2 27. d6
+Bxd6 28. cxd6 Rxd6 29. Rc6 Rxc6 30. Bxc6 Rd8 31. g3 g6 32. Rxa6 Kg7 33. Kg2 h6
+34. Ra7 Kf6 35. Bb5 Rc8 36. Rb7 Kg7 37. Ba4 Kf6 38. Bb3 Rf8 39. Kf3 Kg7 40. g4
+fxg4+ 41. Kxg4 Kf6 42. e4 h5+ 43. Kh4 g5+ 44. Kxh5 Rh8+ 45. Kg4 Rxh2 46. Rxf7+
+Kg6 47. e5 Rh4+ 48. Kg3 Rb4 49. Rf3 g4 50. Re3 Kf5 1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Chaudhari, Vikas"]
+[Black "Nimmy, A George"]
+[Result "0-1"]
+[ECO "D03"]
+[BlackElo "2217"]
+[PlyCount "74"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bf4 c6 5. Bxb8 Rxb8 6. Nbd2 Qb6 7. Nb3 Bg4 8.
+e3 e6 9. Be2 a5 10. Rb1 Bb4+ 11. Kf1 a4 12. Nbd2 Bxd2 13. Nxd2 Bxe2+ 14. Kxe2
+f5 15. f3 Nd6 16. Re1 O-O 17. Kf2 f4 18. c3 e5 19. dxe5 fxe3+ 20. Rxe3 Nf5 21.
+Qe2 Rbe8 22. f4 Nxe3 23. Qxe3 Rxf4+ 24. Ke2 Qxe3+ 25. Kxe3 g5 26. Nf3 Re4+ 27.
+Kf2 g4 28. Nd4 R4xe5 29. Rd1 h5 30. Rd2 h4 31. a3 Rf8+ 32. Nf3 h3 33. Kg3 gxf3
+34. gxf3 Rg5+ 35. Kh4 Rg6 36. Rd4 Kg7 37. Rf4 Rh8# 0-1
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Doshi, Sanket"]
+[Black "Joshi, Manish"]
+[Result "0-1"]
+[ECO "D20"]
+[BlackElo "2168"]
+[PlyCount "90"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. Nc3 e6 5. Bxc4 a6 6. a3 b5 7. Ba2 Bb7 8. Bb1
+c5 9. Nge2 b4 10. axb4 cxb4 11. Na2 Nxe4 12. f3 Nf6 13. O-O Nbd7 14. Be3 Nd5
+15. Bf2 g6 16. Nac1 Bd6 17. Bg3 Qb6 18. Re1 O-O 19. Bxd6 Qxd6 20. Ng3 Rfd8 21.
+Nb3 f5 22. Nd2 N5b6 23. Nb3 Bd5 24. Ba2 a5 25. Nc1 a4 26. Bxd5 Qxd5 27. Nge2 e5
+28. dxe5 Qc5+ 29. Qd4 b3 30. Qxc5 Nxc5 31. Nc3 Nc4 32. Nb5 Nxb2 33. Na3 Rd2 34.
+e6 Re8 35. e7 Kf7 36. Kf1 Rxe7 37. Rxe7+ Kxe7 38. Ne2 Nbd3 39. Nc4 Ra2 40. Rb1
+a3 41. Nd4 Rf2+ 42. Kg1 a2 43. Nc6+ Kf6 44. Na3 axb1=Q+ 45. Nxb1 Rc2 0-1
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Gagunashvili, Merab"]
+[Black "Suresh, Joshi"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2553"]
+[BlackElo "1838"]
+[PlyCount "65"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Be7 6. Bd3 Nbd7 7. O-O O-O 8. Qe2
+Re8 9. e4 Nxe4 10. Nxe4 dxe4 11. Bxe4 Nf8 12. Bf4 Bf6 13. Rad1 Qe7 14. Rfe1 Bd7
+15. Qc2 b6 16. d5 cxd5 17. cxd5 Rac8 18. d6 Qd8 19. Qb3 Rc5 20. Re2 Qc8 21. Be3
+Rb5 22. Qd3 Rxb2 23. Rc1 Qd8 24. Rxb2 Bxb2 25. Rc7 b5 26. Bxa7 b4 27. Qb3 Ba3
+28. Ne5 Qg5 29. Qe3 Qxe3 30. fxe3 Ba4 31. d7 Rd8 32. Rc8 Rxd7 33. Bc5 1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Gokhale, Chandrashekhar"]
+[Black "Chandi, Sachin"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2321"]
+[BlackElo "1732"]
+[PlyCount "75"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 g6 5. g3 Bg7 6. Bg2 a6 7. O-O O-O 8. a4 Bf5
+9. Qb3 Ra7 10. Bf4 dxc4 11. Qxc4 Nbd7 12. a5 Nd5 13. Nc3 Be6 14. Qd3 Nxf4 15.
+gxf4 Qc7 16. e3 Raa8 17. Rfc1 Rad8 18. Ng5 Bf5 19. Qc4 Nf6 20. b4 h6 21. Nf3
+Qd6 22. Ne5 Be6 23. Qe2 Bc8 24. Nc4 Qe6 25. Nb6 Qd6 26. Nca4 Qxb4 27. Nc5 Nd5
+28. Rcb1 Nc3 29. Qe1 Qxb1 30. Rxb1 Nxb1 31. Qxb1 Bf5 32. Qb4 e5 33. fxe5 Bxe5
+34. Nxb7 c5 35. Qxc5 Rc8 36. dxe5 Rxc5 37. Nxc5 Bc8 38. Bf1 1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Joshi, Pankaj"]
+[Black "Priya, VSS."]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "2284"]
+[BlackElo "1535"]
+[PlyCount "46"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nc6 2. Nf3 d5 3. c4 Bg4 4. Nc3 e6 5. Bf4 Qd7 6. e3 Nf6 7. Rc1 Be7 8. h3
+Bh5 9. c5 a6 10. a3 Ne4 11. b4 O-O 12. Be2 Bg6 13. O-O Rfd8 14. Qb3 h6 15. Rfd1
+Na7 16. Ne5 Qc8 17. Nxg6 fxg6 18. Nxe4 dxe4 19. Bc4 Kh7 20. Bxe6 Qb8 21. Qc2
+Nb5 22. a4 Na7 23. Qxe4 Nc8 1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Kamble, Vikramaditya"]
+[Black "Pranav, Zantye"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2378"]
+[BlackElo "1774"]
+[PlyCount "69"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Bd6 6. Qc2 Nbd7 7. g4 dxc4 8. Bxc4
+Nd5 9. Bd2 N7b6 10. Be2 Bd7 11. Ne4 Be7 12. Nc5 Qc7 13. Qc1 Bd6 14. e4 Ne7 15.
+Nd3 Ng6 16. a4 e5 17. a5 Nc8 18. dxe5 Bxe5 19. h4 Bxg4 20. h5 Bxf3 21. Bxf3 Qd6
+22. a6 Nce7 23. Ra3 Nf8 24. Nxe5 bxa6 25. Nc4 Qe6 26. Bb4 Nd7 27. Nd6+ Kf8 28.
+Qc4 Qxc4 29. Nxc4 c5 30. Bc3 Nb6 31. h6 f6 32. Nd6 Nec8 33. hxg7+ Kxg7 34. Nf5+
+Kf7 35. Rh6 1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Kapadia, Riddhish"]
+[Black "Lalith, Babu MR"]
+[Result "0-1"]
+[ECO "D05"]
+[WhiteElo "1703"]
+[BlackElo "2305"]
+[PlyCount "82"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 b6 3. e3 Bb7 4. Nbd2 e6 5. Bd3 d5 6. c3 Bd6 7. Qc2 c5 8. e4 c4
+9. e5 cxd3 10. Qxd3 Ba6 11. Qc2 O-O 12. Ng5 h6 13. exf6 hxg5 14. fxg7 Kxg7 15.
+Nf3 g4 16. Ng5 Rh8 17. Qd1 g3 18. Qg4 gxf2+ 19. Kd1 Kf8 20. Qf3 Qe7 21. Qxf2
+Ke8 22. h3 Nc6 23. Re1 Rg8 24. h4 Kd7 25. Re3 Rg7 26. Rf3 Rf8 27. Nh3 Rfg8 28.
+Ng5 Qe8 29. Bd2 Be7 30. g3 f6 31. Nh3 Bd6 32. Bf4 e5 33. dxe5 fxe5 34. Bh6 e4
+35. Rf6 Qh5+ 36. Kc2 Bd3+ 37. Kd2 Bxg3 38. Qe3 Bxh4 39. Bxg7 Rxg7 40. Rg1 Rxg1
+41. Nxg1 Bg5 0-1
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Lahiri, Atanu"]
+[Black "Patil, Chinmay"]
+[Result "1-0"]
+[ECO "D52"]
+[WhiteElo "2309"]
+[BlackElo "1711"]
+[PlyCount "61"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. Nf3 c6 6. e3 Bb4 7. Bd3 Qa5 8. O-O
+dxc4 9. Bxc4 Bxc3 10. bxc3 Qxc3 11. Rc1 Qa5 12. Qd3 Qf5 13. Qa3 h6 14. Bd3 Qg4
+15. Bf4 g5 16. Ne5 Qh5 17. Qd6 gxf4 18. Bg6 Ne4 19. Qxe6+ Kd8 20. Nxf7+ Kc7 21.
+Bxh5 Ndf6 22. Qe5+ Kb6 23. Nxh8 Nxh5 24. Rb1+ Ka6 25. Qxe4 fxe3 26. Qxe3 b5 27.
+Qf3 Bb7 28. Qa3+ Kb6 29. Qc5+ Kc7 30. Qxh5 Rxh8 31. Qe5+ 1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Pethe, Neel"]
+[Black "Konguvel, Ponnuswamy"]
+[Result "0-1"]
+[ECO "D01"]
+[WhiteElo "1773"]
+[BlackElo "2373"]
+[PlyCount "56"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 e5 7. Nf3 exd4 8.
+Qxd4 Bc5 9. Qd2 h6 10. Be3 O-O 11. Bd3 Bxe3 12. Qxe3 Ng4 13. Qf4 Qb6 14. Qxg4
+Nc5 15. Qf4 Qxb2 16. O-O Qxc3 17. Rad1 Be6 18. Nh4 Rad8 19. Rf3 Qd4+ 20. Kh1 g5
+21. Qg3 Nxe4 22. Qe1 gxh4 23. Qxh4 Kg7 24. Rf4 f5 25. Re1 Qf6 26. Bxe4 Qxh4 27.
+Rxh4 fxe4 28. Rhxe4 Bf5 0-1
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Praveen Kumar, C1."]
+[Black "Yohan, J."]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2287"]
+[BlackElo "1564"]
+[PlyCount "61"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. cxd5 exd5 8.
+Bd3 O-O 9. Qc2 h6 10. Bh4 Re8 11. O-O Ne4 12. Bg3 f5 13. Nxd5 Nxg3 14. Nxe7+
+Qxe7 15. hxg3 g6 16. Rae1 Nf6 17. Ne5 Kg7 18. f3 Nd5 19. a3 Qg5 20. Qf2 Rh8 21.
+f4 Qd8 22. g4 Ne7 23. gxf5 Nxf5 24. Bxf5 Bxf5 25. e4 Bd7 26. f5 gxf5 27. exf5
+Be8 28. f6+ Kf8 29. f7 Bd7 30. Ng6+ Kg7 31. Nxh8 1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Premnath, R."]
+[Black "Apurva, Abhyankar"]
+[Result "1-0"]
+[ECO "D60"]
+[WhiteElo "2265"]
+[BlackElo "1894"]
+[PlyCount "47"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 c6 5. Nc3 Be7 6. e3 Nbd7 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 c5 10. Qe2 a6 11. a4 Qc7 12. Rac1 cxd4 13. exd4 Nb6 14. Bb3 Qd6
+15. Ne4 Nxe4 16. Qxe4 Rd8 17. d5 f6 18. Bf4 e5 19. Be3 Nd7 20. Nh4 Kh8 21. Nf5
+Qb4 22. Rc4 Qxb3 23. Nxe7 a5 24. Qxh7+ 1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Sabnis, Om"]
+[Black "Palit, Somak"]
+[Result "0-1"]
+[ECO "D93"]
+[WhiteElo "1765"]
+[BlackElo "2368"]
+[PlyCount "68"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. Rc1 O-O 7. Nf3 Bg4 8. h3
+Bxf3 9. Qxf3 Qa5 10. Bd3 Nbd7 11. O-O dxc4 12. Bxc4 e5 13. dxe5 Nxe5 14. Bxe5
+Qxe5 15. Rfd1 a5 16. Bb3 Rfc8 17. Na4 Re8 18. Nc5 Re7 19. Rc2 Qc7 20. a4 Rae8
+21. Kh1 Qb6 22. Ba2 Qb4 23. Rd3 b6 24. Na6 Qxa4 25. Bb3 Qe4 26. Qxe4 Nxe4 27.
+f3 Ng3+ 28. Kh2 Nf1+ 29. Kg1 Nxe3 30. Rxc6 Nf5 31. Rd1 Bd4+ 32. Kh2 Be5+ 33.
+Kg1 Bg3 34. Rcc1 Re2 0-1
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Sharma, R Preetham"]
+[Black "Rai, Rakshith T"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2299"]
+[BlackElo "1659"]
+[PlyCount "79"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 a6 5. Qc2 b5 6. b3 Nbd7 7. Bd3 e6 8. O-O Be7
+9. Bb2 O-O 10. Ne5 Bb7 11. f4 g6 12. c5 Ne8 13. a4 f5 14. b4 Ndf6 15. Nd2 Ne4
+16. Nb3 N8f6 17. h3 Qc7 18. Kh2 Kh8 19. g4 Rg8 20. Rg1 Bd8 21. Ra2 Qe7 22. Bc3
+Bc7 23. Be1 Qg7 24. Qd1 Nd7 25. Qa1 Ndf6 26. Bh4 Bxe5 27. dxe5 Nd7 28. gxf5
+exf5 29. Bxe4 fxe4 30. e6 Qxa1 31. Rgxa1 Nf8 32. Bf6+ Rg7 33. axb5 cxb5 34. c6
+Bxc6 35. Rxa6 Rxa6 36. Rxa6 Be8 37. Ra8 Kg8 38. Rxe8 Rc7 39. e7 Kf7 40. exf8=Q#
+1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.11"]
+[Round "1"]
+[White "Swayams, Mishra"]
+[Black "Bhattacharjee, Shibu"]
+[Result "1-0"]
+[ECO "D69"]
+[WhiteElo "2235"]
+[PlyCount "85"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 c6 7. Rc1 O-O 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. dxe5 Nxe5 14. Nxe5
+Qxe5 15. Qb3 Qe7 16. Re1 Be6 17. Bxe6 Qxe6 18. Qxb7 Rfb8 19. Qxc6 Qxa2 20. Rec1
+h6 21. b3 Rd8 22. h3 Rab8 23. Qc7 Qa6 24. Qf4 Qa3 25. Qa4 Qb2 26. Qa5 Rd7 27.
+Rc8+ Rd8 28. Qxd8+ Kh7 29. Qd3+ g6 30. Qc4 Rb7 31. Qc3 Qxc3 32. R1xc3 Kg7 33.
+R8c7 Rb5 34. Rxa7 g5 35. Rcc7 Rxb3 36. Rxf7+ Kg6 37. g4 Rb6 38. Rg7+ Kf6 39.
+Raf7+ Ke5 40. Rf5+ Ke4 41. Rd7 Rb1+ 42. Kg2 Rb4 43. Rdd5 1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.12"]
+[Round "2"]
+[White "Akshat, Kamparia"]
+[Black "Sanjeev, Pitale"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2287"]
+[BlackElo "1971"]
+[PlyCount "103"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 e6 6. e3 Bd6 7. Bxd6 Qxd6 8.
+Bd3 Nc6 9. f4 Qb4 10. Qd2 g6 11. Nf3 O-O 12. O-O Re8 13. a3 Qe7 14. Qe2 a6 15.
+Ne5 Qd6 16. g4 Kg7 17. g5 Ng8 18. Rf3 f6 19. gxf6+ Nxf6 20. Kh1 Qe7 21. Rg1
+Nxe5 22. fxe5 Ne4 23. Rh3 Ng5 24. Rhg3 Ne4 25. Nxe4 dxe4 26. Bxe4 Qh4 27. Qg2
+Bd7 28. Rh3 Qxe4 29. Qxe4 Bc6 30. Qxc6 bxc6 31. Rc1 Rab8 32. Rxc6 Re7 33. b4 a5
+34. Rc4 axb4 35. axb4 Ra7 36. Rf3 Rbb7 37. Kg2 Ra2+ 38. Kg3 Rb2 39. Rf1 Rb3 40.
+Kf3 Ra7 41. Ke4 Raa3 42. Rc7+ Kh6 43. Rf3 g5 44. h3 g4 45. hxg4 Kg5 46. Rg7+
+Kh6 47. Re7 Kg5 48. Rxe6 Kxg4 49. Rh6 Rxb4 50. Rxh7 Rba4 51. Rg7+ Kh4 52. Rf1
+1-0
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.12"]
+[Round "2"]
+[White "Anup, Kumar S"]
+[Black "Nadig, Kruttika"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "1888"]
+[BlackElo "2213"]
+[PlyCount "108"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 Nbd7 8.
+O-O Nb6 9. Bd3 Nfd5 10. Nxd5 Nxd5 11. b3 c5 12. Bb2 Nb4 13. Bc4 Nc6 14. h3 Bf5
+15. Qe2 cxd4 16. Nxd4 Nxd4 17. Bxd4 Bxd4 18. Rad1 e5 19. exd4 exd4 20. Qd2 b5
+21. Bxb5 Qb6 22. Bc4 Rad8 23. Qf4 Be6 24. Bxe6 fxe6 25. Qe4 Rd6 26. Rd3 Qc5 27.
+f4 Qc2 28. Rf2 Qc1+ 29. Kh2 Rfd8 30. h4 Qc5 31. g4 Rc6 32. Rfd2 Rcd6 33. Rh3 d3
+34. h5 Qc3 35. Qe3 Qd4 36. hxg6 hxg6 37. Qxd4 Rxd4 38. Kg3 g5 39. fxg5 e5 40.
+Kf3 Kg7 41. Ke3 Kg6 42. Rf3 Rxg4 43. Rf6+ Kxg5 44. Rf7 Kg6 45. Rxa7 Rdd4 46.
+Ra4 Rge4+ 47. Kf2 Rf4+ 48. Ke3 Rfe4+ 49. Kf2 Rxa4 50. bxa4 Rxa4 51. Ke3 e4 52.
+Rf2 Kg5 53. Rd2 Kg4 54. Rf2 Kg3 1/2-1/2
+
+[Event "Mumbai op"]
+[Site "Mumbai"]
+[Date "2008.05.12"]
+[Round "2"]
+[White "Anwesh, Upadhyaya"]
+[Black "Md Aminismail, Khadri"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2178"]
+[BlackElo "1866"]
+[PlyCount "75"]
+[EventDate "2008.05.11"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]

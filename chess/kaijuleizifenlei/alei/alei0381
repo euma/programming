@@ -1,0 +1,600 @@
+[BlackElo "2168"]
+[PlyCount "55"]
+[EventDate "2008.02.15"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+[WhiteTeam "Latvia"]
+[BlackTeam "Sweden"]
+[WhiteTeamCountry "LAT"]
+[BlackTeamCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. h3 h5 7. Be2 g6 8. Be3 Nh7
+9. g4 h4 10. Nf3 f5 11. gxf5 gxf5 12. exf5 Bxf5 13. Bd3 Bxd3 14. Qxd3 Nf8 15.
+Rg1 Nbd7 16. Rg7 Bf6 17. Rg4 Qb6 18. O-O-O O-O-O 19. Ne4 Kb8 20. Rdg1 Be7 21.
+Rg7 Re8 22. Bg5 Bd8 23. Bxd8 Qxd8 24. Nfg5 Re7 25. Nf7 Rxf7 26. Rxf7 Rh6 27.
+Rgg7 Rg6 28. Rxd7 1-0
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Bischoff, Klaus"]
+[Black "Gschnitzer, Oswald"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2537"]
+[BlackElo "2408"]
+[PlyCount "67"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 Nf6 5. b3 Be7 6. Bb2 O-O 7. Qb1 d6 8. Be2
+Bg4 9. h3 Bh5 10. d3 h6 11. O-O Bg6 12. Rd1 d5 13. cxd5 Nxd5 14. a3 Nc7 15. Qa2
+Qd7 16. Rac1 Ne6 17. b4 cxb4 18. Nd5 Bd6 19. axb4 f6 20. b5 Ne7 21. d4 e4 22.
+Ne5 fxe5 23. dxe5 Nxd5 24. Qxd5 Qf7 25. exd6 Qxf2+ 26. Kh1 Bf7 27. Qd2 Qg3 28.
+Rf1 Ng5 29. Bg4 Rad8 30. d7 h5 31. Qd4 Ne6 32. Bxe6 Bxe6 33. Rxf8+ Rxf8 34.
+d8=Q 1-0
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Lichman, Petr"]
+[Black "Krause, Ullrich"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "2334"]
+[BlackElo "2279"]
+[PlyCount "115"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 f5 2. Bg5 g6 3. Nc3 Bg7 4. e4 fxe4 5. Nxe4 d5 6. Ng3 Nh6 7. Bxh6 Bxh6 8.
+h4 Qd6 9. c3 Nc6 10. Bb5 Bd7 11. Bxc6 Bxc6 12. Nf3 Bb5 13. a4 Ba6 14. b4 Bc4
+15. Ne5 Qe6 16. Qg4 Qxg4 17. Nxg4 Bf4 18. Ne2 Bxe2 19. Kxe2 h5 20. Ne3 c6 21.
+Nc2 Bd6 22. Kd3 O-O 23. f3 e5 24. dxe5 Bxe5 25. a5 a6 26. Rae1 Rae8 27. Re2 Bd6
+28. Rxe8 Rxe8 29. g4 hxg4 30. fxg4 Re4 31. Rg1 c5 32. bxc5 Bxc5 33. Nd4 Bxd4
+34. cxd4 Rf4 35. Kc3 Kf7 36. h5 gxh5 37. gxh5 Rh4 38. Rb1 Rxh5 39. Rxb7+ Ke6
+40. Kb4 Rh8 41. Rb6+ Kf5 42. Kc5 Ke4 43. Rxa6 Rh1 44. Re6+ Kd3 45. Kxd5 Ra1 46.
+Ke5 Rxa5+ 47. d5 Kc4 48. Rc6+ Kb5 49. Rc1 Kb6 50. Kd6 Kb7 51. Ke6 Ra2 52. Kd7
+Kb6 53. d6 Ra7+ 54. Rc7 Ra8 55. Rc6+ Kb5 56. Rc8 Ra1 57. Kc7 Kc5 58. d7 1-0
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Pajeken, Wolfgang"]
+[Black "Goy, Udo"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "2351"]
+[BlackElo "2282"]
+[PlyCount "219"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Nc6 6. Ne5 Nxc3 7. bxc3 Bd7
+8. Nxd7 Qxd7 9. e4 Bg7 10. Bb5 O-O 11. O-O e5 12. f4 exf4 13. d4 a6 14. Bxc6
+bxc6 15. Bxf4 Qe6 16. Rae1 Rfc8 17. Qa5 Qc4 18. e5 Rab8 19. Rb1 Qd5 20. Qxc7
+Ra8 21. Qb7 Qxa2 22. Rb3 Rf8 23. Bg5 h6 24. Rb2 Qc4 25. Be7 Qxc3 26. Bxf8 Qxd4+
+27. Rbf2 Rxf8 28. Qxc6 Qxe5 29. Qxa6 Qd5 30. Kh1 h5 31. Qa2 Qb7 32. Qc4 Qd7 33.
+Rf3 Qb7 34. Rb3 Qd7 35. Rd3 Qb7 36. Qd5 Qc7 37. Qb5 Qe7 38. Rd7 Qe6 39. Qd5
+Qxd5 40. Rxd5 Bh6 41. Rfd1 Kg7 42. Rd8 Bg5 43. Rxf8 Kxf8 44. Kg1 Be3+ 45. Kf1
+Bf4 46. h3 h4 47. Ke2 Ke7 48. Kf3 Bg3 49. Rd5 Kf6 50. Rb5 Be1 51. Rb6+ Kf5 52.
+Rb5+ Kf6 53. Rb7 Bg3 54. Ke4 Bh2 55. Kd5 Bg3 56. Ra7 Bh2 57. Kc6 Ke6 58. Ra4
+Bg3 59. Re4+ Kf5 60. Re7 f6 61. Kd5 Be5 62. Rb7 g5 63. Rb3 Bf4 64. Rf3 g4 65.
+hxg4+ Kxg4 66. Ke6 Be5 67. Kd5 Bf4 68. Ke4 f5+ 69. Kd3 Bg3 70. Ke2 f4 71. Rb3
+h3 72. gxh3+ Kxh3 73. Kf3 Kh4 74. Rb5 Bh2 75. Rd5 Bg3 76. Ke4 Kg4 77. Rd8 Bh4
+78. Rg8+ Bg5 79. Rg7 f3 80. Rf7 Bd2 81. Rg7+ Bg5 82. Rf7 Bd2 83. Rxf3 Kg5 84.
+Rf5+ Kg6 85. Ke5 Bc3+ 86. Ke6 Kg7 87. Rf7+ Kg8 88. Rc7 Bb2 89. Rc2 Bd4 90. Ke7
+Be5 91. Re2 Bd4 92. Ke6 Kg7 93. Rg2+ Kf8 94. Rd2 Bc3 95. Rd7 Bb2 96. Rf7+ Kg8
+97. Rf3 Bd4 98. Rf5 Kg7 99. Rf4 Bc3 100. Rg4+ Kf8 101. Rg3 Bb2 102. Rf3+ Kg7
+103. Rf7+ Kg8 104. Rf2 Bc3 105. Kf5 Kf8 106. Rf3 Bb2 107. Rb3 Bd4 108. Rf3 Ke7
+109. Rd3 Bb2 110. Rd7+ 1/2-1/2
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Salov, Sergei"]
+[Black "Heinig, Wolfram"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2282"]
+[BlackElo "2338"]
+[PlyCount "35"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 c5 6. e4 Nc6 7. Nbd2 d5 8. Re1
+e5 9. exd5 Nxd5 10. Nc4 f6 11. c3 Be6 12. a4 Qc7 13. Nfd2 Bf7 14. a5 b5 15.
+axb6 axb6 16. Rxa8 Rxa8 17. Ne4 Rd8 18. Qa4 1/2-1/2
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Schunk, Thomas"]
+[Black "Solonar, Stefan"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[WhiteElo "2284"]
+[BlackElo "2371"]
+[PlyCount "32"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 f5 2. g3 Nf6 3. Bg2 g6 4. Nc3 Bg7 5. d4 d6 6. Nf3 O-O 7. O-O c6 8. Qc2
+Na6 9. b3 Bd7 10. Rd1 Qe8 11. e3 Rc8 12. Ne1 g5 13. Nd3 Qg6 14. f4 h6 15. a4
+Ne4 16. Bb2 g4 1/2-1/2
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Siebrecht, Sebastian"]
+[Black "Kritz, Leonid"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2487"]
+[BlackElo "2592"]
+[PlyCount "84"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O g6 6. Nc3 Bg7 7. d4 cxd4 8. Qxd4
+d6 9. Rd1 Nbd7 10. Be3 Rc8 11. Rac1 a6 12. b3 O-O 13. Qh4 Rc7 14. Ng5 Bxg2 15.
+Kxg2 Qa8+ 16. f3 h5 17. g4 Nxg4 18. Bd4 Bxd4 19. Rxd4 Ne3+ 20. Kh1 Nf5 21. Qe4
+Qxe4 22. Rxe4 Nf6 23. Rf4 e5 24. Rxf5 gxf5 25. e4 f4 26. Rg1 Kh8 27. Rd1 Rd8
+28. a4 Kg7 29. Kg2 Kf8 30. Kf2 Ke7 31. h4 Rc6 32. Ke2 Rg8 33. Kd3 Rg7 34. Rg1
+Kd7 35. b4 Rc8 36. Ra1 Ne8 37. Nd5 Rb8 38. a5 bxa5 39. Rxa5 f6 40. Nh3 Rg3 41.
+Nf2 Nc7 42. Nxf6+ Ke7 0-1
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Tabatt, Hendrik"]
+[Black "Wehner, Janis"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2310"]
+[BlackElo "2184"]
+[PlyCount "131"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 c5 2. g3 Nf6 3. Bg2 Nc6 4. d4 cxd4 5. Nxd4 g6 6. O-O Bg7 7. Nxc6 dxc6 8.
+Qxd8+ Kxd8 9. Rd1+ Nd7 10. Nd2 Kc7 11. Nc4 Re8 12. Bf4+ e5 13. Be3 Bf8 14. Bd2
+f6 15. Ne3 a5 16. a4 Nc5 17. b3 b6 18. Bc3 Ba6 19. Kf1 f5 20. Ke1 Bh6 21. Bd2
+Bg7 22. Bc3 Bh6 23. Nf1 Bg7 24. Nd2 Re7 25. e4 Bh6 26. exf5 gxf5 27. Bf1 Bxf1
+28. Kxf1 Bxd2 29. Bxd2 Ne4 30. Be1 f4 31. Rd3 Rf8 32. Kg2 Ng5 33. Bd2 Rd7 34.
+Rxd7+ Kxd7 35. Re1 Kd6 36. gxf4 exf4 37. f3 Ne6 38. Re4 Rf5 39. Rc4 Rg5+ 40.
+Kf2 Rh5 41. Kg1 Rg5+ 42. Kh1 Rf5 43. Re4 Kd5 44. Bc1 Kd6 45. h4 Re5 46. Rxe5
+Kxe5 47. Kg2 Nd4 48. Bb2 Kd5 49. c4+ Ke5 50. Kf2 c5 51. Bc3 Ke6 52. Bxd4 cxd4
+53. Ke2 Kd6 54. Kd3 Kc5 55. Ke4 Kb4 56. Kxd4 Kxb3 57. Kd5 Kb4 58. h5 h6 59. Ke4
+Kxc4 60. Kxf4 b5 61. axb5 Kxb5 62. Ke4 Kc4 63. Ke3 Kc3 64. Ke2 a4 65. Kd1 a3
+66. Kc1 0-1
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Bischoff, Dieter"]
+[Black "Pajeken, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[WhiteElo "2155"]
+[BlackElo "2351"]
+[PlyCount "36"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. h3
+O-O 9. Bd3 Bd7 10. Bg5 b5 11. O-O c4 12. Bc2 a5 13. Re1 b4 14. Na4 Na6 15. Rc1
+Rc8 16. Qd2 Nc5 17. Nxc5 Rxc5 18. Qf4 Bb5 1/2-1/2
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Fridman, Daniel"]
+[Black "Graf, Felix"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2628"]
+[BlackElo "2177"]
+[PlyCount "53"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. b3 Be7 5. Bg2 O-O 6. Bb2 b6 7. O-O Bb7 8. e3
+Nbd7 9. Nc3 Ne4 10. Qc2 Ndc5 11. d4 Nxc3 12. dxc5 Ne4 13. cxd5 Bxd5 14. c6 Nd6
+15. Ne5 Bxg2 16. Kxg2 Bf6 17. Rfd1 Bxe5 18. Bxe5 Qe7 19. Rd3 f6 20. Bxd6 cxd6
+21. Rad1 Rad8 22. c7 Rc8 23. Rxd6 Rxc7 24. Rxe6 Qxe6 25. Qxc7 Rc8 26. Qxa7 Qe4+
+27. Kg1 1-0
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Heinig, Wolfram"]
+[Black "Naumann, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A32"]
+[WhiteElo "2338"]
+[BlackElo "2541"]
+[PlyCount "36"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Qb6 6. Bg2 Bc5 7. e3 Nc6 8. Nb3
+Bb4+ 9. N1d2 O-O 10. O-O d5 11. cxd5 Nxd5 12. Qe2 Nf6 13. Rd1 e5 14. Ne4 Nxe4
+15. Bxe4 Be6 16. Bd5 Bxd5 17. Rxd5 Rad8 18. e4 Rxd5 1/2-1/2
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Kunin, Vitaly L"]
+[Black "Grimberg, Boris"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2538"]
+[BlackElo "2261"]
+[PlyCount "61"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. c3 Bg7 5. Qb3 e6 6. Bg2 O-O 7. O-O d5 8. Ne5
+Nbd7 9. Bg5 Qe8 10. Bf4 Ne4 11. Nxd7 Qxd7 12. f3 Nd6 13. Nd2 b6 14. e4 c6 15.
+a4 Ba6 16. Rfe1 Nf7 17. exf5 exf5 18. a5 g5 19. Be5 Nxe5 20. dxe5 Qe7 21. Kh1
+Qc5 22. f4 gxf4 23. gxf4 Bh6 24. Nf3 Qf2 25. Qa4 c5 26. Qc6 Bxf4 27. axb6 axb6
+28. e6 Be2 29. Rxa8 Rxa8 30. Qxa8+ Kg7 31. e7 1-0
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Rotstein, Arkadij"]
+[Black "Sieber, Patrick"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2548"]
+[BlackElo "2236"]
+[PlyCount "137"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. b4 Bg7 5. Bb2 O-O 6. O-O d6 7. d4 c6 8. c4 Na6
+9. Qb3 Nc7 10. Nbd2 Kh8 11. e3 Be6 12. a4 Qe8 13. Qc2 h6 14. Ne1 g5 15. Nd3 Rc8
+16. Nb3 Qf7 17. Na5 Ne4 18. Rac1 b5 19. c5 bxa4 20. Qxa4 Nd5 21. cxd6 exd6 22.
+Nxc6 Rc7 23. b5 Nb6 24. Qb4 Rfc8 25. f3 Nf6 26. e4 Bc4 27. Rfd1 fxe4 28. fxe4
+Ng4 29. Bh3 Ne3 30. Re1 g4 31. Rxe3 gxh3 32. Rf1 Qe8 33. Rfe1 a6 34. d5 Bxb5
+35. Bxg7+ Rxg7 36. Qxd6 Rg6 37. Qe5+ Kh7 38. Qxe8 Rxe8 39. Nf4 Rg7 40. Nd4 Nc4
+41. Rc3 Rge7 42. Nfe6 Ne5 43. Rec1 Bd3 44. Nc5 Bb5 45. Nf5 Ra7 46. Ne6 Bd3 47.
+Rc7+ Rxc7 48. Rxc7+ Kh8 49. Nf4 Bxe4 50. Nd6 Nf3+ 51. Kf2 Nxh2 52. Nxe4 Rxe4
+53. Nxh3 Rd4 54. Nf4 Ng4+ 55. Kf3 h5 56. Nxh5 Ne5+ 57. Ke3 Rc4 58. d6 Rxc7 59.
+dxc7 Nc4+ 60. Kd4 Nb6 61. Kc5 Nc8 62. Kc6 a5 63. Kb5 Kg8 64. Kxa5 Kf7 65. Ka6
+Nd6 66. Ka7 Ke7 67. Kb8 Kd7 68. Nf6+ Ke6 69. Ne4 1-0
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Solonar, Stefan"]
+[Black "Salov, Sergei"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "2371"]
+[BlackElo "2282"]
+[PlyCount "62"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. d4 Nxc3 6. bxc3 g6 7. e3 Bg7 8.
+Be2 O-O 9. O-O Qc7 10. Ba3 Nd7 11. Qb3 b6 12. Bb2 e6 13. a4 a6 14. Rfd1 Bb7 15.
+c4 cxd4 16. exd4 Rfd8 17. a5 Bc6 18. d5 Bxb2 19. Qxb2 exd5 20. cxd5 Bb5 21.
+axb6 Qxb6 22. Rab1 Bxe2 23. Qxe2 Qd6 24. Rbc1 Rdc8 25. Rc6 Rxc6 26. dxc6 Qxc6
+27. Qe7 Nf8 28. Ng5 Qe8 29. Qb7 Rd8 30. Ra1 Qd7 31. Qxa6 Qd1+ 1/2-1/2
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Tischbierek, Raj"]
+[Black "Kachiani Gersinska, Ketino"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "2487"]
+[BlackElo "2395"]
+[PlyCount "159"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. g3 Nf6 2. Bg2 d5 3. Nf3 Bf5 4. O-O e6 5. d3 Be7 6. c4 c6 7. Nc3 Nbd7 8. Be3
+O-O 9. Qb3 Ng4 10. Bd2 Nc5 11. Qd1 d4 12. Nb1 a5 13. h3 Nf6 14. Na3 Na6 15. Nc2
+Bc5 16. a3 a4 17. Bf4 Bb6 18. Be5 c5 19. Nh4 Bc7 20. Bxc7 Qxc7 21. e4 dxe3 22.
+Nxe3 Bg6 23. Nxg6 hxg6 24. Qxa4 Nb4 25. Qb3 Nc6 26. Nc2 Rfd8 27. Rfd1 Rd6 28.
+Qc3 Rad8 29. b4 b6 30. bxc5 bxc5 31. a4 Qa5 32. Qxa5 Nxa5 33. Rab1 Nxc4 34. Rb5
+Ra6 35. Ra1 Ne5 36. Rxc5 Nxd3 37. Rc3 Nb2 38. a5 Nd5 39. Rb3 Nc4 40. Bf1 Nd2
+41. Bxa6 Nxb3 42. Ra3 Nc5 43. Bb5 Nc7 44. Bf1 N7a6 45. h4 Kf8 46. Ne3 Ke7 47.
+Ra2 Rb8 48. Nc4 Rb1 49. Kg2 Nb4 50. Rb2 Rxb2 51. Nxb2 Kd6 52. Kf3 Nb3 53. Nc4+
+Kc5 54. Ne5 f6 55. a6 Nxa6 56. Bxa6 fxe5 57. Kg4 Kd6 58. Kg5 Ke7 59. Kxg6 Kf8
+60. Bd3 Nc5 61. Bb1 Nd7 62. f3 Kg8 63. Kg5 Kf7 64. Bg6+ Ke7 65. h5 Kf8 66. h6
+gxh6+ 67. Kxh6 Nf6 68. g4 Ng8+ 69. Kh7 Nf6+ 70. Kh8 Nd5 71. g5 Nf4 72. Kh7 Nh3
+73. Kh6 e4 74. Bxe4 Nf2 75. Kh7 Nh3 76. g6 Ng5+ 77. Kh8 Ke7 78. g7 Nf7+ 79. Kh7
+Ng5+ 80. Kg6 1-0
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Bischoff, Klaus"]
+[Black "Kritz, Leonid"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2537"]
+[BlackElo "2592"]
+[PlyCount "49"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 d5 2. e3 Nf6 3. b3 Bg4 4. Bb2 Nbd7 5. d3 e5 6. h3 Bxf3 7. Qxf3 c6 8. Nd2
+Bd6 9. Qe2 Qe7 10. a3 e4 11. g3 Be5 12. d4 Bd6 13. c4 O-O 14. cxd5 cxd5 15. Nb1
+Rac8 16. Qd2 h6 17. Be2 a6 18. Nc3 Qe6 19. Kf1 Nh7 20. Kg2 f5 21. h4 g5 22.
+hxg5 hxg5 23. Rag1 g4 24. Na4 Ndf6 25. Rh6 1/2-1/2
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Naumann, Alexander"]
+[Black "Solonar, Stefan"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2541"]
+[BlackElo "2371"]
+[PlyCount "113"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c3 Bg7 5. Qb3 Nc6 6. Nh3 e6 7. Nd2 d5 8. Nf4 g5
+9. Nd3 O-O 10. Nf3 Ne4 11. Be3 Na5 12. Qc2 Nc4 13. Bc1 Bd7 14. b3 Ncd6 15. Nfe5
+Nf7 16. Nxf7 Rxf7 17. f3 Nd6 18. Ne5 Rf8 19. Nxd7 Qxd7 20. Bxg5 c5 21. e3 Rac8
+22. Qd2 cxd4 23. cxd4 Nf7 24. Bf4 e5 25. dxe5 Nxe5 26. O-O Ng6 27. Rad1 Nxf4
+28. exf4 d4 29. Rfe1 Rfe8 30. Bf1 Rxe1 31. Rxe1 Rc3 32. Bd3 b5 33. Qe2 a6 34.
+Kg2 Kf7 35. g4 fxg4 36. fxg4 h6 37. h3 Qc6+ 38. Qe4 Qxe4+ 39. Bxe4 Bf6 40. Rd1
+Re3 41. Bd3 Ke6 42. a4 Kd5 43. axb5 axb5 44. Bxb5 Rxb3 45. Bd3 Bh4 46. Rd2 Ra3
+47. Kf3 Rc3 48. Rd1 Ra3 49. g5 h5 50. g6 Bf6 51. Rd2 Rc3 52. Ke2 Rc7 53. Ra2
+Re7+ 54. Kd2 Rc7 55. Ra6 Bg7 56. f5 Bh6+ 57. Kd1 1-0
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Pajeken, Wolfgang"]
+[Black "Rotstein, Arkadij"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2351"]
+[BlackElo "2548"]
+[PlyCount "62"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 c5 5. Nc3 g6 6. b3 Bg7 7. Bb2 O-O 8. O-O
+Na6 9. d4 d5 10. dxc5 Nxc5 11. Nxd5 Nxd5 12. Bxg7 Kxg7 13. cxd5 Qxd5 14. Qxd5
+Bxd5 15. Rfd1 e6 16. Ne5 Bxg2 17. Kxg2 Rfd8 18. Rac1 f6 19. Nc6 Rdc8 20. Rd6
+Rc7 21. Nd4 Re7 22. b4 e5 23. Nc6 Ne4 24. Nxe7 Nxd6 25. Rc7 Nb5 26. Rb7 Kf7 27.
+Nd5+ Ke6 28. e4 f5 29. Nxb6 axb6 30. Rxb6+ Nd6 31. exf5+ gxf5 0-1
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Reuss, Andreas"]
+[Black "Goy, Udo"]
+[Result "1-0"]
+[ECO "A42"]
+[WhiteElo "2326"]
+[BlackElo "2282"]
+[PlyCount "55"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. e4 c6 2. d4 g6 3. c4 Bg7 4. Nc3 d6 5. h3 e5 6. d5 Nf6 7. Bg5 h6 8. Be3 cxd5
+9. cxd5 O-O 10. Qd2 Kh7 11. g4 Nxe4 12. Nxe4 f5 13. gxf5 gxf5 14. Nc3 f4 15.
+Qc2+ Bf5 16. Bd3 fxe3 17. Bxf5+ Kh8 18. Nf3 exf2+ 19. Kf1 Na6 20. Rh2 Qf6 21.
+Be4 Nc5 22. Rxf2 Rac8 23. Qe2 Qf4 24. Ng1 Qg5 25. Qg4 Qe3 26. Bf5 Rc7 27. Re1
+Qd4 28. Nb5 1-0
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Schunk, Thomas"]
+[Black "Braun, Arik"]
+[Result "0-1"]
+[ECO "A12"]
+[WhiteElo "2284"]
+[BlackElo "2536"]
+[PlyCount "74"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 c6 2. Nf3 d5 3. b3 dxc4 4. bxc4 e5 5. Qc2 Nd7 6. Bb2 Bd6 7. g3 Ngf6 8.
+Bg2 O-O 9. O-O Re8 10. d3 Nc5 11. Nc3 Qa5 12. Nd2 Bf5 13. Rad1 Rad8 14. h3 h5
+15. e4 Bc8 16. Nb3 Qc7 17. Ne2 h4 18. g4 Nh7 19. Bc1 Ne6 20. c5 Be7 21. f4 b6
+22. fxe5 bxc5 23. Bb2 Ba6 24. Kh1 Rd7 25. Nf4 Nhg5 26. Nxe6 Nxe6 27. Qf2 Bf8
+28. Qxh4 Rxd3 29. Rxd3 Bxd3 30. Rf5 g6 31. Nc1 Bb5 32. Rf2 Rd8 33. Bf3 Bg7 34.
+g5 Bxe5 35. Bg4 Nd4 36. Rf6 Bxf6 37. gxf6 Qf4 0-1
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Tabatt, Hendrik"]
+[Black "Krause, Ullrich"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "2310"]
+[BlackElo "2279"]
+[PlyCount "86"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 f5 2. Nf3 Nf6 3. Bg5 e6 4. Nbd2 Be7 5. e3 O-O 6. Bd3 d5 7. c4 c6 8. Qc2
+Ne4 9. Bxe7 Qxe7 10. Rb1 a5 11. Ne5 Nd7 12. Nxd7 Bxd7 13. O-O Nxd2 14. Qxd2 Qf6
+15. b4 axb4 16. Rxb4 Bc8 17. f4 Kh8 18. a4 h6 19. g3 g5 20. c5 Rg8 21. Kh1 Rg7
+22. Qf2 g4 23. Ra1 h5 24. a5 h4 25. Kg1 Rh7 26. Bf1 hxg3 27. hxg3 Qd8 28. Rb6
+Qc7 29. Qb2 Kg7 30. Be2 Rh3 31. Kg2 Kf6 32. Qc1 Qh7 33. Qg1 Bd7 34. Rf1 Rh8 35.
+Kf2 Rh2+ 36. Ke1 Qh3 37. Rxb7 Rg2 38. Kd2 Rxg1 39. Rxg1 Qh2 40. Re1 Ra8 41.
+Rxd7 Rxa5 42. Kc3 Ra2 43. Kd3 Qg2 0-1
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Buhmann, Rainer"]
+[Black "Markgraf, Alexander"]
+[Result "1-0"]
+[ECO "A87"]
+[WhiteElo "2570"]
+[BlackElo "2442"]
+[PlyCount "79"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. d4 d6 7. Nc3 Qe8 8. Re1
+Qf7 9. b3 Ne4 10. Bb2 c5 11. e3 Nc6 12. Qc2 Nxc3 13. Bxc3 e5 14. dxe5 dxe5 15.
+Ng5 Qe7 16. Bd5+ Kh8 17. Bxc6 Qxg5 18. Bd5 Qe7 19. Rad1 Rb8 20. Qb2 e4 21. b4
+Bxc3 22. Qxc3+ Qg7 23. Qa3 cxb4 24. Qxa7 Bd7 25. Qb6 Ba4 26. Rb1 Bc2 27. Rxb4
+Bd3 28. Rc1 h5 29. h4 g5 30. hxg5 Qxg5 31. Qd6 h4 32. Rxb7 Rbe8 33. Bf7 Rd8 34.
+Qe5+ Qg7 35. Qxf5 hxg3 36. Qf4 Qh7 37. fxg3 Be2 38. Qe5+ Qg7 39. Qxg7+ Kxg7 40.
+Bh5+ 1-0
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Goy, Udo"]
+[Black "Tabatt, Hendrik"]
+[Result "0-1"]
+[ECO "A43"]
+[WhiteElo "2282"]
+[BlackElo "2310"]
+[PlyCount "80"]
+[EventDate "2008.02.15"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. Bg5 e6 5. e4 Bb7 6. Nbd2 Qa5 7. Bxf6 gxf6 8. a4
+bxa4 9. Bc4 Bg7 10. O-O O-O 11. c3 Qb6 12. Qxa4 f5 13. exf5 exd5 14. Be2 Re8
+15. Rfe1 Nc6 16. Qg4 Ne5 17. Nxe5 Rxe5 18. Bd3 Rae8 19. Rxe5 Rxe5 20. Nf3 Re8
+21. Rb1 h6 22. h4 Kf8 23. Qf4 Ba8 24. Ra1 Qxb2 25. Rxa7 Qxc3 26. Qd6+ Kg8 27.
+Qxd7 Rf8 28. Bf1 Qf6 29. Ra6 Qd8 30. Qa7 c4 31. Qc5 Qc8 32. Qb6 Qxf5 33. Qa5
+Bb7 34. Rb6 Qd7 35. Qb4 Bc8 36. Be2 Qa7 37. Qb5 Qa1+ 38. Kh2 Be6 39. Ng1 Bd4
+40. Nh3 Bxb6 0-1
+
+[Event "GER-ch"]
+[Site "Bad Woerishofen "]
+[Date "2008.02.18"]
+[Round "4"]
+[White "Gschwendtner, Michael"]
+[Black "Sieber, Patrick"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2301"]
+[BlackElo "2236"]
+[PlyCount "0"]

@@ -1,0 +1,600 @@
+Kf2 g5 28. Nf3 Kf7 29. Nd2 h5 30. Re3 Re7 31. Rae1 Rxe3 32. Rxe3 Rh8 33. h4
+gxh4 34. gxh4 Rg8 35. Rg3 Re8 36. Re3 Rg8 37. Nf1 Be6 38. Rg3 Bg4 39. b3 b5 40.
+Ne3 Ke6 41. Rg1 Rg6 42. Rc1 Kd6 43. c4 bxc4 44. bxc4 dxc4 45. Rxc4 Bd7 46. Rc5
+f5 47. Rd5+ Ke7 48. Nxf5+ Bxf5 49. Rxf5 Rg4 50. Ke3 Rxh4 51. Ra5 Rh1 52. Rxa6
+h4 53. Ke4 h3 54. Kd5 Ra1 55. Re6+ Kd7 56. Re2 Rg1 57. Rh2 Rg5+ 58. Kc4 Rg2 59.
+Rxh3 Rxa2 1/2-1/2
+
+[Event "Budapest FS09 FM"]
+[Site "Budapest"]
+[Date "2008.09.13"]
+[Round "8"]
+[White "Borda, Lajos"]
+[Black "Koban, Balint"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2149"]
+[BlackElo "2148"]
+[PlyCount "43"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e3 O-O 7. Rc1 Nb6 8. f4
+N8d7 9. Ne4 Nf6 10. Nf2 Be6 11. b3 a5 12. Bc4 Nxc4 13. bxc4 c6 14. Nf3 b5 15.
+Ne5 bxc4 16. O-O c5 17. dxc5 Qc7 18. Nxc4 Qxc5 19. Nxa5 Qb5 20. a4 Qd7 21. Nc6
+Rfc8 22. Ne5 1/2-1/2
+
+[Event "Budapest FS09 FM"]
+[Site "Budapest"]
+[Date "2008.09.14"]
+[Round "9"]
+[White "Zilahi, Gabor"]
+[Black "Bodrogi, Laszlo"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2013"]
+[BlackElo "2104"]
+[PlyCount "69"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 e6 4. Nd2 Bd6 5. f4 b6 6. Ngf3 Bb7 7. Ne5 c6 8. O-O
+Nbd7 9. c3 Qc7 10. a4 a5 11. Rf3 g6 12. Qe2 Nf8 13. e4 dxe4 14. Nxe4 Nxe4 15.
+Bxe4 f6 16. Nc4 O-O-O 17. Nxd6+ Qxd6 18. Be3 f5 19. Bd3 Nd7 20. Rd1 Nf6 21. Bf2
+Nd5 22. Qd2 Rhe8 23. Bf1 Nc7 24. Rh3 Rd7 25. Bh4 Nd5 26. Rf3 Qf8 27. Bd3 h6 28.
+Re1 Rg7 29. Rf2 Qg8 30. Rfe2 Nxf4 31. Qxf4 g5 32. Qe5 gxh4 33. Bxf5 c5 34. d5
+Bxd5 35. Qxd5 1-0
+
+[Event "Budapest FS09 GM"]
+[Site "Budapest"]
+[Date "2008.09.11"]
+[Round "6"]
+[White "Farago, Ivan"]
+[Black "Nguyen Huynh Minh, Huy"]
+[Result "1/2-1/2"]
+[ECO "D44"]
+[WhiteElo "2482"]
+[BlackElo "2477"]
+[PlyCount "21"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. exf6 gxh4 10. Ne5 Qxf6 11. a4 1/2-1/2
+
+[Event "Budapest FS09 GM"]
+[Site "Budapest"]
+[Date "2008.09.11"]
+[Round "6"]
+[White "Kosic, Dragan"]
+[Black "Wittmann, Walter"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2516"]
+[BlackElo "2272"]
+[PlyCount "121"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Qc2 c6 5. Bg5 Nbd7 6. Nbd2 Qa5 7. Bxf6 Nxf6 8.
+a3 Be7 9. g3 Ne4 10. Bg2 Nxd2 11. Nxd2 Bb4 12. Rc1 Bxd2+ 13. Qxd2 Qxd2+ 14.
+Kxd2 Bd7 15. e4 dxe4 16. Bxe4 O-O-O 17. Ke3 Rhe8 18. f4 h6 19. Rhf1 Kc7 20. Bf3
+Bc8 21. Rfd1 f6 22. Be4 g5 23. b4 b6 24. c5 b5 25. Ra1 a6 26. Rd2 Bb7 27. Rf2
+Re7 28. Rd2 Bc8 29. Rf1 Rg8 30. Bc2 f5 31. Bb3 Rg6 32. Kd3 Rf7 33. Re2 Rff6 34.
+Re5 Bd7 35. a4 Bc8 36. axb5 axb5 37. Re2 Rg7 38. Ra2 Rgg6 39. Ra8 Rg7 40. Ke3
+h5 41. fxg5 Rxg5 42. Rf4 Rh6 43. Bd1 h4 44. Rxh4 Rxh4 45. gxh4 Rg2 46. Bf3 Rxh2
+47. h5 Rh4 48. Ra1 e5 49. dxe5 Be6 50. Rh1 Rxb4 51. h6 f4+ 52. Kd2 Rd4+ 53. Ke2
+Bc4+ 54. Kf2 Rd8 55. h7 Rh8 56. Be4 b4 57. Kf3 b3 58. Kxf4 Bd5 59. Bxd5 cxd5
+60. Kg5 b2 61. Kg6 1-0
+
+[Event "Budapest FS09 GM"]
+[Site "Budapest"]
+[Date "2008.09.13"]
+[Round "8"]
+[White "Berczes, David"]
+[Black "Nguyen Huynh Minh, Huy"]
+[Result "1-0"]
+[ECO "D52"]
+[WhiteElo "2458"]
+[BlackElo "2477"]
+[PlyCount "69"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 Bb4 8. Qc2
+O-O 9. Be2 c5 10. O-O cxd4 11. Nb3 Qb6 12. exd4 Bxc3 13. bxc3 dxc4 14. Bxc4 Qc7
+15. Qe2 Ne4 16. Qxe4 Qxc4 17. Nd2 Qxc3 18. Rac1 Qa5 19. Qg4 Qf5 20. Qxf5 exf5
+21. Nc4 Nb6 22. Nxb6 axb6 23. d5 h6 24. Be7 Re8 25. Rc7 Rxa2 26. Rd1 f4 27. d6
+Bg4 28. d7 Bxd7 29. Rcxd7 Re2 30. Bb4 Rb2 31. Bc3 Rc2 32. Be1 f3 33. gxf3 Re6
+34. Bd2 Rf6 35. f4 1-0
+
+[Event "Budapest FS09 GM"]
+[Site "Budapest"]
+[Date "2008.09.13"]
+[Round "8"]
+[White "Kosic, Dragan"]
+[Black "Kislik, Erik Andrew"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "2516"]
+[BlackElo "2302"]
+[PlyCount "103"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Be2 c5 7. c3 b6 8. Ne5
+Nfd7 9. Nef3 Nf6 10. O-O Nc6 11. Bb5 Bb7 12. Qa4 Qc8 13. Ne5 Nxe5 14. dxe5 a6
+15. Be2 Nd7 16. Bxe7 Re8 17. Qh4 Nxe5 18. Bf6 Qc6 19. Bxg7 Kxg7 20. Qg3 Rad8
+21. Rac1 b5 22. b4 c4 23. Nf3 Nxf3+ 24. Bxf3 Bc8 25. Rfd1 Bf5 26. Rd4 Bd3 27.
+Qg5 f5 28. h4 h6 29. Qf4 Rd7 30. Rd1 Red8 31. Rd2 Qf6 32. Qg3 Kh7 33. a4 a5 34.
+bxa5 bxa4 35. Ra2 Qc6 36. h5 gxh5 37. Kh2 Be4 38. Qe5 Qg6 39. Qg3 Qxg3+ 40.
+Kxg3 f4+ 41. Kxf4 Rf7+ 42. Kg3 Rg8+ 43. Kh2 Bxf3 44. gxf3 Rfg7 45. Rd1 Rg2+ 46.
+Kh3 R2g6 47. Rxa4 Rf6 48. f4 d4 49. Rxd4 Rg1 50. Rd7+ Kg6 51. a6 Kf5 52. a7 1-0
+
+[Event "Budapest FS09 GM"]
+[Site "Budapest"]
+[Date "2008.09.13"]
+[Round "8"]
+[White "Paschall, William M"]
+[Black "Wittmann, Walter"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2330"]
+[BlackElo "2272"]
+[PlyCount "17"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 c6 5. e3 Be7 6. a3 O-O 7. Bd3 c5 8. O-O b6
+9. Nbd2 1/2-1/2
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.07"]
+[Round "2"]
+[White "Kang Kai"]
+[Black "Lyell, Mark"]
+[Result "0-1"]
+[ECO "D02"]
+[BlackElo "2232"]
+[PlyCount "42"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nc6 2. d4 d5 3. e3 Bg4 4. Be2 Nf6 5. O-O Bxf3 6. Bxf3 e5 7. b3 Bd6 8.
+Nc3 e4 9. Be2 a6 10. Nb1 h5 11. c4 Bxh2+ 12. Kxh2 Ng4+ 13. Kg3 Qd6+ 14. f4
+exf3+ 15. Kxf3 h4 16. Qe1 h3 17. Bd3 Nh2+ 18. Ke2 Nxf1 19. Qxf1 hxg2 20. Qg1
+Qg3 21. cxd5 Rh1 0-1
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Simonyi, Zoltan"]
+[Black "Konnyu, Janos"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "2247"]
+[BlackElo "2314"]
+[PlyCount "156"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 a6 6. Bf4 Nc6 7. e3 Bg4 8. Be2
+e6 9. O-O Be7 10. Ne5 Bxe2 11. Qxe2 Rc8 12. Rfc1 Qa5 13. Nd3 O-O 14. a3 Ne4 15.
+Nxe4 dxe4 16. Nc5 Bxc5 17. Rxc5 Qa4 18. Rac1 Rcd8 19. Qg4 f5 20. Qe2 h6 21. h4
+Rd7 22. Kh2 Qb3 23. f3 Rdf7 24. h5 Qb6 25. fxe4 fxe4 26. g3 Ne7 27. b4 Nd5 28.
+Qg4 Kh8 29. Rc8 Qb5 30. Qg6 Qe2+ 31. Kh3 Nxf4+ 32. exf4 Rf5 33. Rxf8+ Rxf8 34.
+Qg4 Qe3 35. Rc7 Qxd4 36. Qxe6 Qd3 37. Re7 Qf3 38. Kh4 Qh1+ 39. Qh3 Qe1 40. Qg2
+Rxf4+ 41. Kh3 Rf5 42. Re8+ Kh7 43. Qxe4 Qxe4 44. Rxe4 Rxh5+ 45. Kg4 Rb5 46. Re6
+Kg8 47. Re7 Kf8 48. Rc7 Kg8 49. Re7 Kh7 50. Re6 Rg5+ 51. Kf4 Rg6 52. Re7 b6 53.
+Ra7 b5 54. Ra8 Rc6 55. Kg4 Kg6 56. Ra7 Kf6 57. Kh5 Rd6 58. Kg4 g6 59. Kf4 Rc6
+60. Kg4 Ke5 61. Rh7 h5+ 62. Kg5 Rc3 63. Kxg6 Rxg3+ 64. Kf7 Rxa3 65. Rxh5+ Kd4
+66. Ke6 Ra4 67. Rh4+ Kc3 68. Kd5 Rxb4 69. Rh3+ Kb2 70. Rh6 Rg4 71. Rxa6 b4 72.
+Rb6 b3 73. Rb8 Kc2 74. Rc8+ Kb1 75. Rb8 b2 76. Rc8 Ka2 77. Ra8+ Kb3 78. Rb8+
+Rb4 0-1
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.12"]
+[Round "7"]
+[White "Perez Aleman, Pedro Tomys"]
+[Black "Kang Kai"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[WhiteElo "2210"]
+[PlyCount "96"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 h6 6. Bh4 Nbd7 7. e3 a6 8. Qc2
+dxc4 9. Bxc4 b5 10. Bb3 c5 11. dxc5 Nxc5 12. O-O Nxb3 13. Rfd1 Qb6 14. Qxb3 Bb7
+15. Ne5 O-O 16. Bxf6 gxf6 17. Nd3 Rfd8 18. Nf4 f5 19. a4 b4 20. Nce2 Rxd1+ 21.
+Rxd1 Rd8 22. Ng3 Rxd1+ 23. Qxd1 Qc6 24. f3 Qc5 25. Qd2 Bg5 26. Kh1 e5 27. Nd3
+Qxe3 28. Qxe3 Bxe3 29. Nxf5 e4 30. fxe4 Bxe4 31. Nxe3 Bxd3 32. Kg1 Kf8 33. Kf2
+Ke8 34. Nd5 a5 35. Ne3 Ke7 36. Ke1 Ke6 37. Kd2 Ba6 38. g3 f5 39. Ng2 Ke5 40.
+Nf4 Ke4 41. Ng6 Kf3 42. Ne7 Kg4 43. Nc6 Kh3 44. Ke3 Kxh2 45. Kf4 Bd3 46. Nxa5
+Bc2 47. Nb7 Bxa4 48. Nd6 Bd7 1/2-1/2
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.12"]
+[Round "7"]
+[White "Simonyi, Zoltan"]
+[Black "Lengyel, Bela"]
+[Result "1/2-1/2"]
+[ECO "D66"]
+[WhiteElo "2247"]
+[BlackElo "2286"]
+[PlyCount "34"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 c6 8. Bd3
+h6 9. Bh4 dxc4 10. Bxc4 b5 11. Bd3 a6 12. a4 bxa4 13. Nxa4 Qa5+ 14. Nd2 Bb4 15.
+Nc3 c5 16. O-O cxd4 17. Nb3 Qb6 1/2-1/2
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.12"]
+[Round "7"]
+[White "Werner, Dimo"]
+[Black "To, Nhat Minh"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[WhiteElo "2329"]
+[BlackElo "2322"]
+[PlyCount "34"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Be2 Bd6 7. O-O Nbd7 8. Bd2
+Ne4 9. Rc1 Nxd2 10. Nxd2 e5 11. cxd5 cxd5 12. Nb5 Bb8 13. Bg4 Bxg4 14. Qxg4 O-O
+15. dxe5 Nxe5 16. Qe2 a6 17. Nd4 g6 1/2-1/2
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.14"]
+[Round "9"]
+[White "Simonyi, Zoltan"]
+[Black "Lyell, Mark"]
+[Result "0-1"]
+[ECO "D07"]
+[WhiteElo "2247"]
+[BlackElo "2232"]
+[PlyCount "100"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Bf4 Bxf3 5. gxf3 e6 6. e3 Bd6 7. Bg3 Nf6 8.
+Nc3 O-O 9. cxd5 exd5 10. Bd3 Qd7 11. Nb5 Bb4+ 12. Kf1 a6 13. Nc3 Qh3+ 14. Kg1
+Ne7 15. Ne2 Bd6 16. Qf1 Qh6 17. Bxd6 cxd6 18. h4 Nh5 19. Qg2 Qe6 20. Qg5 g6 21.
+Kh2 Rac8 22. Rag1 Kh8 23. Ng3 f6 24. Qg4 Qxg4 25. fxg4 Nxg3 26. Kxg3 Rc7 27. h5
+Kg7 28. Kf3 g5 29. h6+ Kg8 30. Ke2 Ng6 31. Bf5 Re8 32. Rc1 Ree7 33. Be6+ Kf8
+34. Rxc7 Rxc7 35. Bxd5 Rc2+ 36. Kf3 Rxb2 37. Rc1 Ne7 38. Bb3 Nc6 39. d5 Ne5+
+40. Kg3 b5 41. Rc7 Nf7 42. Ra7 Nxh6 43. Rxa6 f5 44. Rxd6 Nxg4 45. e4 Nxf2 46.
+Rf6+ Kg7 47. Rxf5 Nxe4+ 48. Kf3 Nd2+ 49. Kg4 Nxb3 50. axb3 h6 0-1
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.16"]
+[Round "11"]
+[White "Konnyu, Janos"]
+[Black "Csirik, Andras"]
+[Result "1-0"]
+[ECO "D21"]
+[WhiteElo "2314"]
+[BlackElo "2272"]
+[PlyCount "63"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. d5 e6 5. e4 exd5 6. exd5 Bd6 7. Bxc4 Ne7 8.
+O-O O-O 9. Nc3 a6 10. a4 Bg4 11. h3 Bxf3 12. Qxf3 Nd7 13. Bf4 Ne5 14. Bxe5 Bxe5
+15. Ne4 Qc7 16. Rad1 Nc8 17. Qh5 Bd4 18. Bd3 g6 19. Qh4 Bg7 20. Rc1 Qd8 21.
+Qxd8 Rxd8 22. Nxc5 Bxb2 23. Rc2 Bd4 24. Nxb7 Rxd5 25. Be4 Re5 26. Bf3 Rb8 27.
+Rd1 Bb6 28. a5 Bxa5 29. Nxa5 Rxa5 30. Rd8+ Kg7 31. Rdxc8 Rxc8 32. Rxc8 1-0
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.16"]
+[Round "11"]
+[White "Perez Aleman, Pedro Tomys"]
+[Black "To, Nhat Minh"]
+[Result "0-1"]
+[ECO "D18"]
+[WhiteElo "2210"]
+[BlackElo "2322"]
+[PlyCount "82"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qb3 Qb6 10. e4 Bg4 11. Be3 Bxc3 12. Qxc3 Nxe4 13. Qa3 Qc7 14. Ne5 Bf5
+15. g4 Bg6 16. Bf4 Qd8 17. f3 Nxe5 18. Bxe5 Nd2 19. Ba2 Nxf1 20. Rxf1 Qe7 21.
+Bd6 Qd7 22. a5 Bd3 23. Re1 Bb5 24. Be5 Qe7 25. Bd6 Qf6 26. Be5 Qg5 27. Bg3
+O-O-O 28. Qb4 h5 29. gxh5 Qxh5 30. Kg2 Rd7 31. Re5 Qh3+ 32. Kf2 Qf1+ 33. Ke3
+Qd3+ 34. Kf2 Qxd4+ 35. Qxd4 Rxd4 36. Ke1 g6 37. Re3 Rhd8 38. Bf4 Rd3 39. Rxd3
+Bxd3 40. Bb3 b6 41. Bg5 Rd7 0-1
+
+[Event "Budapest FS09 IM-A"]
+[Site "Budapest"]
+[Date "2008.09.16"]
+[Round "11"]
+[White "Vegh, Endre"]
+[Black "Lyell, Mark"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[WhiteElo "2298"]
+[BlackElo "2232"]
+[PlyCount "55"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 exd4 8.
+Ne2 Nf6 9. Nxd4 O-O 10. Qb3 Nxd4 11. Bxd4 Qa5+ 12. Bc3 Qf5 13. Bxf6 Qxf6 14.
+Bc4 Be6 15. Bxe6 fxe6 16. O-O Rad8 17. Qc2 c5 18. Rad1 b6 19. b3 Rd5 20. e4 Rd4
+21. Rxd4 Qxd4 22. Qe2 Rd8 23. Qa6 Rd7 24. h3 h6 25. Qc8+ Kh7 26. Qe8 e5 27. h4
+Rd6 28. Qe7 1/2-1/2
+
+[Event "Budapest FS09 IM-B"]
+[Site "Budapest"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Galyas, Miklos"]
+[Black "Li, Panru"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2463"]
+[BlackElo "2104"]
+[PlyCount "117"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 Nf6 6. e3 Bf5 7. Nge2 O-O 8.
+Ng3 Be6 9. Bd3 c5 10. dxc5 Bxc5 11. O-O Nc6 12. Rc1 d4 13. Nce4 Be7 14. Nf5
+Bxf5 15. Nxf6+ Bxf6 16. Bxf5 dxe3 17. Bxe3 Qxd1 18. Rfxd1 Bxb2 19. Rb1 Rfd8 20.
+Rxd8+ Rxd8 21. Kf1 Bd4 22. Rxb7 Bxe3 23. fxe3 a5 24. Bc2 Rd6 25. Bb3 Rf6+ 26.
+Ke2 Kf8 27. Rb5 Ke7 28. Bd5 Nb4 29. Rb7+ Ke8 30. Bb3 h6 31. a3 Nc6 32. Rc7 Ne5
+33. Rc5 Rf2+ 34. Kxf2 Nd3+ 35. Ke2 Nxc5 36. Bd5 f6 37. Kd2 Kd7 38. Kc3 Kc7 39.
+Kc4 Kb6 40. Bf3 Na6 41. h4 Nc7 42. h5 Nb5 43. a4 Na3+ 44. Kd4 Nc2+ 45. Ke4 Kc5
+46. Kf5 Nxe3+ 47. Kg6 Kb4 48. Kxg7 Kxa4 49. Kxh6 Kb5 50. Kg6 a4 51. h6 a3 52.
+h7 a2 53. h8=Q a1=Q 54. Qe8+ Kc4 55. Qxe3 Qh1 56. Qf4+ Kb3 57. Qxf6 Qb1+ 58.
+Kg7 Qe1 59. g4 1-0
+
+[Event "Budapest FS09 IM-B"]
+[Site "Budapest"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Petran, Pal"]
+[Black "Farago, Sandor"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2361"]
+[BlackElo "2271"]
+[PlyCount "56"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 g6 6. Bd2 Bg7 7. Nf3 O-O 8. Rc1 b5
+9. cxd5 cxd5 10. Qb3 Qd6 11. Ne5 Bb7 12. Bd3 Nc6 13. Nxc6 Bxc6 14. O-O Rfb8 15.
+a3 Nd7 16. Na2 a5 17. Qc2 Rc8 18. Bc3 e5 19. Qd2 exd4 20. exd4 Qc7 21. b3 Qb6
+22. Bc2 Nf8 23. Rcd1 Ne6 24. Bb2 Bb7 25. Bb1 Rc7 26. b4 a4 27. Nc1 Rac8 28. Ne2
+Rc4 1/2-1/2
+
+[Event "Budapest FS09 IM-B"]
+[Site "Budapest"]
+[Date "2008.09.12"]
+[Round "7"]
+[White "Galyas, Miklos"]
+[Black "Farago, Sandor"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2463"]
+[BlackElo "2271"]
+[PlyCount "97"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 g6 6. Bd3 Bg7 7. O-O O-O 8. h3 b5
+9. cxd5 cxd5 10. Bd2 Bb7 11. a4 b4 12. Na2 a5 13. Nc1 Nbd7 14. Nb3 Ba6 15. Bxa6
+Rxa6 16. Qe2 Qb6 17. Rfc1 Ne4 18. Rc2 Ra7 19. Rac1 Qb8 20. Be1 e6 21. Nfd2 Nd6
+22. Nc5 Nb6 23. b3 Rc8 24. Nf3 Qa8 25. Ne5 Rac7 26. f4 f6 27. Nf3 Re7 28. Qa6
+Qxa6 29. Nxa6 Rxc2 30. Rxc2 Ra7 31. Rc6 Rxa6 32. Rxd6 Kf7 33. Rc6 Bf8 34. g4
+Ke7 35. f5 exf5 36. gxf5 gxf5 37. Bg3 Kd7 38. Rxf6 Be7 39. Rh6 Ke8 40. Bc7 Bd8
+41. Bxd8 Kxd8 42. Ne5 Kc8 43. h4 Kb7 44. Rxh7+ Kc8 45. Rh6 Kb7 46. h5 Ra8 47.
+Rg6 Nc4 48. bxc4 b3 49. c5 1-0
+
+[Event "Budapest FS09 IM-B"]
+[Site "Budapest"]
+[Date "2008.09.14"]
+[Round "9"]
+[White "Petran, Pal"]
+[Black "Li, Panru"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2361"]
+[BlackElo "2104"]
+[PlyCount "72"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 Nf6 6. e3 Bf5 7. Nge2 O-O 8.
+Ng3 Be6 9. Bd3 c5 10. dxc5 Bxc5 11. O-O Nc6 12. a3 d4 13. Nce4 Be7 14. Nxf6+
+Bxf6 15. e4 Be5 16. Bd2 Bxg3 17. hxg3 Ne5 18. Bf4 f6 19. Bxe5 fxe5 20. Qh5 Qd6
+21. f4 Bf7 22. Qxe5 Qxe5 23. fxe5 Rac8 24. Rac1 a6 25. Be2 Be6 26. Rxf8+ Rxf8
+27. Bc4 Re8 28. Bxe6+ Rxe6 29. Rd1 Rxe5 30. Rxd4 Kf8 31. Kf2 Ke7 32. Rc4 Kd7
+33. Ke3 Re8 34. Rd4+ Ke7 35. Rb4 b5 36. a4 bxa4 1-0
+
+[Event "Budapest FS09 IM-B"]
+[Site "Budapest"]
+[Date "2008.09.15"]
+[Round "10"]
+[White "Li, Panru"]
+[Black "Farago, Sandor"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2104"]
+[BlackElo "2271"]
+[PlyCount "79"]
+[EventDate "2008.09.06"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "HUN"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 g6 6. a4 Bg7 7. Be2 O-O 8. O-O
+Nbd7 9. a5 e6 10. b3 Ne4 11. Bb2 f5 12. Nd2 Kh8 13. f3 Nxc3 14. Bxc3 c5 15. Qc2
+f4 16. dxc5 fxe3 17. Bxg7+ Kxg7 18. Qc3+ e5 19. Qxe3 d4 20. Qe4 Qg5 21. f4 Qh6
+22. Rad1 Nf6 23. Qxe5 Re8 24. Qc7+ Bd7 25. Bf3 Rac8 26. Qxb7 Qxf4 27. c6 Rc7
+28. cxd7 Rxb7 29. dxe8=N+ Nxe8 30. Bxb7 Qc7 31. Bf3 Nd6 32. Ne4 Nf5 33. Rd3
+Qxa5 34. Ng3 Ne3 35. Rc1 Qa3 36. Ne2 Qc5 37. b4 Qxb4 38. c5 Nc2 39. c6 Qc4 40.
+Rxd4 1-0
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.06"]
+[Round "1"]
+[White "Chunakov, Valery"]
+[Black "Zavalishin, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[BlackElo "1919"]
+[PlyCount "16"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. cxd5 cxd5 5. e3 e6 6. Bb5+ Nc6 7. O-O Be7 8.
+Nc3 O-O 1/2-1/2
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.06"]
+[Round "1"]
+[White "Skomorohin, Lev"]
+[Black "Obrezchikov, Mikhail"]
+[Result "0-1"]
+[ECO "D43"]
+[BlackElo "1992"]
+[PlyCount "54"]
+[EventDate "2008.09.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. a3 d5 4. Nc3 c6 5. Nf3 Nbd7 6. Bf4 dxc4 7. e4 b5 8. Be2
+Bb7 9. O-O Be7 10. Qc2 Nh5 11. Be3 O-O 12. Rad1 a6 13. Ne5 Nhf6 14. f4 Qc7 15.
+Rf3 c5 16. Rh3 b4 17. Nxd7 Nxd7 18. Na4 g6 19. dxc5 Nxc5 20. Nxc5 Bxc5 21. Bxc5
+Qxc5+ 22. Kh1 bxa3 23. bxa3 Rfd8 24. Rxd8+ Rxd8 25. Bxc4 Qxc4 26. Qxc4 Rd1+ 27.
+Qf1 Rxf1# 0-1
+
+[Event "Kstovo op"]
+[Site "Kstovo"]
+[Date "2008.09.06"]
+[Round "1"]

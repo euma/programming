@@ -1,0 +1,600 @@
+[BlackTeam "Trofaiach Niklasdorf"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. Bf4 Bg7 6. e3 O-O 7. h3 a6 8. c5 Nbd7
+9. b4 b6 10. cxb6 Qxb6 11. Rb1 a5 12. b5 a4 13. bxc6 Qxc6 14. Rc1 Qb6 15. Qd2
+Qa5 16. Bd3 Ba6 17. O-O Bxd3 18. Qxd3 Rfc8 19. Rc2 Qa6 20. Qxa6 Rxa6 21. Rfc1
+Rac6 22. Ne1 Nb6 23. Nxd5 Rxc2 24. Nxf6+ Bxf6 25. Rxc2 Rxc2 26. Nxc2 Nd5 27.
+Kf1 Kf8 28. Ke1 Nc3 29. Nb4 Ke8 30. f3 Kd7 31. Kd2 Nb5 32. Kd3 e6 33. Nc2 Be7
+34. e4 Kc6 35. Bd2 f5 36. g4 h5 37. gxh5 gxh5 38. Bf4 fxe4+ 39. fxe4 Bd6 40.
+Bxd6 Nxd6 41. e5 Nf7 42. h4 Nh8 43. Ne3 Ng6 44. Ng2 Kd5 45. a3 Kc6 46. Kc4 Kb6
+47. Kb4 Kc6 48. Kxa4 Kd5 49. Kb5 Kxd4 50. a4 Nxe5 51. Nf4 Nf3 52. Nxe6+ Ke5 53.
+Ng7 Nd4+ 54. Kb6 Nb3 55. Nxh5 Kf5 56. Ng3+ 1-0
+
+[Event "AUT-chT2M 0708"]
+[Site "Austria"]
+[Date "2008.04.05"]
+[Round "10.1"]
+[White "Farago, Ivan"]
+[Black "Schenk, Andreas"]
+[Result "1/2-1/2"]
+[ECO "D39"]
+[WhiteElo "2504"]
+[BlackElo "2509"]
+[PlyCount "125"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ansfelden II"]
+[BlackTeam "Fuerstenfeld"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. e5 h6 8. exf6
+hxg5 9. fxg7 Rg8 10. dxc5 Qxd1+ 11. Rxd1 Rxg7 12. Rd4 Bxc5 13. Rxc4 Na6 14. Rg4
+Be7 15. h4 Bd7 16. hxg5 O-O-O 17. Bb5 Nc5 18. Bxd7+ Rxd7 19. Ke2 Rd8 20. b4 Nd7
+21. Rd1 Nb6 22. Rxd8+ Bxd8 23. a4 f5 24. Rh4 Bxg5 25. Nxg5 Rxg5 26. Rh8+ Kd7
+27. Rh7+ Kc6 28. b5+ Kc5 29. Rxb7 Kb4 30. a5 Kxa5 31. Rxa7+ Kb4 32. Rb7 Nc4 33.
+Na2+ Kc5 34. Kf1 Nd2+ 35. Ke1 Nc4 36. g3 f4 37. gxf4 Rf5 38. Nc1 Rd5 39. Rb8
+Rd6 40. Ne2 Rd3 41. Ng3 Nd6 42. b6 Rb3 43. Nh5 Rxb6 44. Rxb6 Kxb6 45. Ng7 Kc6
+46. Nxe6 Kd7 47. Ng5 Ke7 48. Ke2 Kf6 49. Kf3 Kf5 50. Kg3 Ne8 51. Nf3 Nd6 52.
+Nh4+ Kf6 53. Kf3 Nc4 54. Ng2 Nd6 55. Ne3 Kg6 56. Kg4 Ne4 57. f5+ Kf6 58. f3
+Nf2+ 59. Kf4 Nd3+ 60. Ke4 Nf2+ 61. Kd4 Nh3 62. Kd5 Ng5 63. f4 1/2-1/2
+
+[Event "AUT-chT2M 0708"]
+[Site "Austria"]
+[Date "2008.04.05"]
+[Round "10.4"]
+[White "Pesorda, Ivan"]
+[Black "Izsak, Gyula"]
+[Result "0-1"]
+[ECO "D66"]
+[WhiteElo "2270"]
+[BlackElo "2427"]
+[PlyCount "68"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Graz Strassenbahn"]
+[BlackTeam "Trofaiach Niklasdorf"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 Nbd7 6. Rc1 c6 7. Nf3 O-O 8. Bd3
+b6 9. cxd5 exd5 10. O-O h6 11. Bh4 Bb7 12. Qa4 Re8 13. Rfd1 Ne4 14. Bxe7 Qxe7
+15. Ba6 Ndc5 16. dxc5 Nxc5 17. Qg4 Bxa6 18. Nd4 Qf6 19. Rc2 Bb7 20. b4 Ne6 21.
+Nf5 Rad8 22. h4 h5 23. Qf3 g6 24. Nd4 Qxh4 25. b5 Nxd4 26. Rxd4 Qe7 27. bxc6
+Bxc6 28. Rcd2 Rd6 29. Qd1 Re6 30. Nxd5 Bxd5 31. Rxd5 Qf6 32. Rd7 R8e7 33. Qa4
+Rxd7 34. Qxd7 Rc6 0-1
+
+[Event "AUT-chT2M 0708"]
+[Site "Austria"]
+[Date "2008.04.05"]
+[Round "10.3"]
+[White "Dietmayer Kraeutler, Marco"]
+[Black "Frank, Paul"]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[WhiteElo "2325"]
+[BlackElo "2201"]
+[PlyCount "61"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Leoben"]
+[BlackTeam "Villach"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Bd7 12. Qd2 Qa5 13. Rab1 Qxd2 14. Bxd2
+Nxd4 15. Rxb7 Bc6 16. Rxe7 Nxe2+ 17. Bxe2 Bf6 18. Rc7 Bxe4 19. Bc4 Bd8 20. Rd7
+Bf5 21. Rb7 Be4 22. Rb4 Ba5 23. Rb2 Bxd2 24. Rxd2 Rfd8 25. Rxd8+ Rxd8 26. Re1
+Rd4 27. Bb3 Kg7 28. f3 Bd5 29. Re7 Bxb3 30. axb3 Rb4 31. Rxa7 1/2-1/2
+
+[Event "AUT-chT2M 0708"]
+[Site "Austria"]
+[Date "2008.04.05"]
+[Round "10.6"]
+[White "Sternat, Roland"]
+[Black "Gruber, Gernot"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2126"]
+[BlackElo "2084"]
+[PlyCount "77"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Wolfsberg"]
+[BlackTeam "Voecklabruck"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. d4 e6 2. Nf3 d5 3. Bf4 Bd6 4. e3 Bxf4 5. exf4 Ne7 6. Bd3 b6 7. c3 a5 8. Ne5
+Ng6 9. Bb5+ Bd7 10. Nxd7 Nxd7 11. g3 O-O 12. O-O Nf6 13. Nd2 c5 14. Nf3 Ne4 15.
+Re1 c4 16. Ba4 b5 17. Bc2 Nd6 18. Ng5 Nf5 19. Qh5 h6 20. Nxe6 fxe6 21. Qxg6 Rf6
+22. Qh5 Qd6 23. a3 Raf8 24. Re5 Ne7 25. Rae1 Nc6 26. R5e3 b4 27. axb4 axb4 28.
+Qg4 b3 29. Bb1 Nd8 30. Re5 Kh8 31. h4 Qa6 32. Qe2 Qc6 33. h5 Qa6 34. f5 exf5
+35. Rxd5 f4 36. Qe4 g6 37. hxg6 Qb7 38. Rxd8 Qxe4 39. Rxf8+ 1-0
+
+[Event "AUT-chT2M 0708"]
+[Site "Austria"]
+[Date "2008.04.06"]
+[Round "11.6"]
+[White "Dumancic, Pero"]
+[Black "Kastner, Walter"]
+[Result "0-1"]
+[ECO "D48"]
+[WhiteElo "2175"]
+[BlackElo "2237"]
+[PlyCount "58"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Ansfelden II"]
+[BlackTeam "Graz Strassenbahn"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 c6 4. c4 e6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. e4 c5 11. d5 Qc7 12. dxe6 fxe6 13. Re1 c4 14. Bc2 Bd6 15. h3
+O-O 16. Qe2 Ne5 17. Nd4 Rae8 18. Be3 b4 19. Na4 Nxe4 20. Rac1 Qa5 21. b3 Nd3
+22. Bxd3 cxd3 23. Qxd3 Qd5 24. Qc4 Qe5 25. Nf3 Rxf3 26. gxf3 Qh2+ 27. Kf1 Nd2+
+28. Bxd2 Bxf3 29. Qg4 Qh1+ 0-1
+
+[Event "AUT-chT2M 0708"]
+[Site "Austria"]
+[Date "2008.04.06"]
+[Round "11.2"]
+[White "Bukal, Vladimir Jr"]
+[Black "Kuba, Guenter"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "2441"]
+[BlackElo "2396"]
+[PlyCount "82"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Trofaiach Niklasdorf"]
+[BlackTeam "Fuerstenfeld"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. Qc2 c6 7. e3 Nbd7 8.
+Bd3 Nh5 9. Bxe7 Qxe7 10. Nge2 g6 11. O-O-O Nb6 12. Kb1 Ng7 13. Ng3 Be6 14. Na4
+Nxa4 15. Qxa4 a5 16. Rc1 Bd7 17. h4 h5 18. Qb3 O-O 19. e4 dxe4 20. Bxe4 Be6 21.
+Qe3 f5 22. d5 f4 23. Qd3 cxd5 24. Bxg6 fxg3 25. Qxg3 Qf6 26. Rc7 Qxg6+ 27. Qxg6
+Bf5+ 28. Qxf5 Rxf5 29. Rd1 Rxf2 30. Rxd5 Rxg2 31. Rxb7 a4 32. a3 Rg4 33. Ka2
+Rf8 34. Rb4 Rff4 35. Rb8+ Kh7 36. Rb7 Kg6 37. Rdd7 Ne6 38. Rd6 Re4 39. Re7 Kf6
+40. Rh7 Rxh4 41. Rh6+ Kf5 0-1
+
+[Event "AUT-chT2M 0708"]
+[Site "Austria"]
+[Date "2008.04.06"]
+[Round "11.4"]
+[White "Izsak, Gyula"]
+[Black "Gergacz, Attila"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2427"]
+[BlackElo "2301"]
+[PlyCount "59"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Trofaiach Niklasdorf"]
+[BlackTeam "Fuerstenfeld"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Bb4 5. Qa4+ Nc6 6. Ne5 Bd7 7. Nxd7 Qxd7 8.
+a3 Be7 9. e3 O-O 10. Be2 Nb8 11. Qxd7 Nbxd7 12. b3 dxc4 13. Bxc4 c5 14. dxc5
+Nxc5 15. Bb2 Nfe4 16. Nxe4 Nxe4 17. Ke2 Bf6 18. Bxf6 Nxf6 19. Rac1 Rfd8 20.
+Rhd1 Rxd1 21. Rxd1 Kf8 22. f3 Ke7 23. Rd2 Rc8 24. Rc2 Nd7 25. Bd3 Rxc2+ 26.
+Bxc2 h6 27. Kd3 Ne5+ 28. Kc3 f5 29. Kd4 Kd6 30. h3 1/2-1/2
+
+[Event "AUT-chT2M 0708"]
+[Site "Austria"]
+[Date "2008.04.06"]
+[Round "11.3"]
+[White "Wegerer, Fred"]
+[Black "Dietmayer Kraeutler, Marco"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2266"]
+[BlackElo "2325"]
+[PlyCount "15"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Wolfsberg"]
+[BlackTeam "Leoben"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. c4 e6 2. Nf3 Nf6 3. e3 d5 4. cxd5 exd5 5. d4 c6 6. Nc3 Be7 7. Bd3 O-O 8. O-O
+1/2-1/2
+
+[Event "AUT-chT2M 0708"]
+[Site "Austria"]
+[Date "2008.04.06"]
+[Round "11.1"]
+[White "Srienz, Christian"]
+[Black "Sommerbauer, Norbert"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2214"]
+[BlackElo "2474"]
+[PlyCount "81"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Villach"]
+[BlackTeam "Voecklabruck"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Be3 c4 10. Ne5 Be6 11. Nxc4 dxc4 12. d5 Nxd5 13. Nxd5 Bf6 14. Nxf6+ Qxf6
+15. Bxc6 bxc6 16. Qd4 Qxd4 17. Bxd4 Rfd8 18. Rfd1 Rd7 19. Bc3 Rad8 20. Rxd7
+Rxd7 21. f3 h5 22. Kf2 g5 23. Ke1 g4 24. Rd1 Rxd1+ 25. Kxd1 gxf3 26. exf3 Kh7
+27. Ke2 Kg6 28. Ke3 Bd5 29. Kf4 f5 30. a3 a6 31. h4 c5 32. g4 fxg4 33. fxg4
+hxg4 34. Kxg4 Be6+ 35. Kf4 Bd7 36. Ke5 Bb5 37. Kd5 Kh5 38. Be1 Kg6 39. Kxc5 Kh5
+40. Kb4 Kg6 41. a4 1/2-1/2
+
+[Event "AUT-chT2M 0708"]
+[Site "Austria"]
+[Date "2008.04.06"]
+[Round "11.3"]
+[White "Neff, Gregor"]
+[Black "Ennsberger, Ulrich"]
+[Result "0-1"]
+[ECO "D40"]
+[WhiteElo "2136"]
+[BlackElo "2284"]
+[PlyCount "100"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Villach"]
+[BlackTeam "Voecklabruck"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bg5 O-O 8. Bd3
+dxc4 9. Bxc4 Nc6 10. O-O b6 11. Rc1 Bb7 12. a3 Rc8 13. Ba2 Nd5 14. Bxe7 Ncxe7
+15. Bb1 Nf6 16. Ne5 Qd6 17. Qd2 Rfd8 18. Rcd1 Nc6 19. Nf3 Na5 20. Ne5 Nb3 21.
+Qg5 h6 22. Qe3 Nxd4 23. Rd2 Qc5 24. Rfd1 Nc6 25. Rxd8+ Nxd8 26. Qxc5 bxc5 27.
+Nd7 Nd5 28. Nxd5 exd5 29. Bf5 Ne6 30. Re1 c4 31. Ne5 Re8 32. Nf3 Kf8 33. h3 Nc5
+34. Ne5 f6 35. Ng6+ Kf7 36. Rd1 Re2 37. Nf4 Re5 38. g4 g5 39. Nh5 Re2 40. Rb1
+Na4 41. Bd7 Rxb2 42. Re1 Nc3 43. Be8+ Kf8 44. Bg6 Re2 45. Rc1 d4 46. Ng3 Bf3
+47. a4 Rd2 48. Re1 Rd1 49. Rxd1 Bxd1 50. Kf1 Bxa4 0-1
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.01.13"]
+[Round "7.5"]
+[White "Daubner, Jakub"]
+[Black "Lednicky, Martin"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[WhiteElo "2141"]
+[BlackElo "2182"]
+[PlyCount "30"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. a3 Na5 13. Ne5 Rfc8 14. b4 Nc4
+15. f4 a5 1/2-1/2
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.01.13"]
+[Round "7.5"]
+[White "Prielozny, Stanislav"]
+[Black "Sokol, Milan"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2173"]
+[BlackElo "2124"]
+[PlyCount "53"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Bd6 7. O-O O-O 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Nf6 11. Bc2 c5 12. Bg5 b6 13. Qd3 g6 14. dxc5 bxc5
+15. Rad1 Be7 16. Qc3 Bd7 17. Ne5 Qe8 18. Bh6 Rd8 19. Bxf8 Bxf8 20. Nxg6 hxg6
+21. Qxf6 Bg7 22. Qh4 Bxb2 23. Rb1 Bd4 24. Rb7 Bc6 25. Rxa7 e5 26. Qf6 Rb8 27.
+Bxg6 1-0
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.01.13"]
+[Round "7.6"]
+[White "Dibala, Radovan"]
+[Black "Palecek, Peter"]
+[Result "0-1"]
+[ECO "D04"]
+[WhiteElo "2059"]
+[BlackElo "2277"]
+[PlyCount "50"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Bd3 d5 5. h3 O-O 6. O-O c5 7. c3 Nc6 8. Nbd2
+b6 9. Qe2 Bb7 10. Rd1 Qc7 11. e4 dxe4 12. Nxe4 cxd4 13. cxd4 Rad8 14. Be3 Nd5
+15. Rac1 Nf4 16. Bxf4 Qxf4 17. Qe3 Qxe3 18. fxe3 Bh6 19. Neg5 Nb4 20. h4 Rc8
+21. Rxc8 Rxc8 22. Kf2 Nxa2 23. b3 Nb4 24. Bc4 Bd5 25. Rc1 Nd3+ 0-1
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.01.13"]
+[Round "7.6"]
+[White "Dlabik, Jozef"]
+[Black "Berezjuk, Sergej"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2150"]
+[BlackElo "2433"]
+[PlyCount "60"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 d5 3. g3 c6 4. Bf4 Qb6 5. Bc1 Bf5 6. Bg2 e6 7. O-O h6 8. Nbd2
+Be7 9. c3 Nbd7 10. Nb3 O-O 11. Bf4 a5 12. Qc1 a4 13. Nbd2 c5 14. e3 a3 15. bxa3
+cxd4 16. exd4 Bxa3 17. Qd1 Bb2 18. Qb3 Qxb3 19. Nxb3 Bxa1 20. Rxa1 Rfc8 21. Bd6
+Rxc3 22. Nfd2 Bc2 23. Nc5 Nxc5 24. Bxc5 Bd3 25. a3 Rc2 26. Bb4 Rac8 27. h3 Rc1+
+28. Rxc1 Rxc1+ 29. Kh2 Ne4 30. Nxe4 Bxe4 0-1
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.02.09"]
+[Round "8.1"]
+[White "Saga, Vladimir"]
+[Black "Foglar, Ivan"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2113"]
+[BlackElo "2049"]
+[PlyCount "59"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. g3 Nf6 3. Bg2 c6 4. Nf3 Bf5 5. O-O e6 6. Nbd2 Be7 7. Re1 O-O 8. Nh4
+Be4 9. f3 g5 10. Nxe4 Nxe4 11. fxe4 gxh4 12. Bh6 Bg5 13. Bxf8 Be3+ 14. Kh1 Qxf8
+15. Qd3 Qh6 16. gxh4 dxe4 17. Bxe4 f5 18. Bxf5 exf5 19. Qxf5 Nd7 20. Qxd7 Rf8
+21. Rf1 Bf2 22. Rxf2 Rxf2 23. Rg1+ Kh8 24. Qe8+ Rf8 25. Qe5+ Qf6 26. Rf1 Kg7
+27. Qxf6+ Rxf6 28. Rxf6 Kxf6 29. Kg2 Kf5 30. Kf3 1-0
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.02.09"]
+[Round "8.3"]
+[White "Hlinka, Michal"]
+[Black "Stric, Dusan"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2255"]
+[BlackElo "2062"]
+[PlyCount "127"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 g6 2. Nf3 Bg7 3. g3 Nf6 4. Bg2 d5 5. O-O O-O 6. c4 c6 7. Qb3 Nbd7 8. cxd5
+cxd5 9. Nc3 Nb6 10. Ne5 Bf5 11. Bf4 h6 12. Rfd1 g5 13. Be3 e6 14. f3 Nfd7 15.
+Nxd7 Qxd7 16. Bf2 Rfd8 17. h3 Bg6 18. e4 Rac8 19. Rac1 Nc4 20. exd5 exd5 21. f4
+Nb6 22. fxg5 hxg5 23. a4 Be4 24. Bf1 Bf3 25. Re1 Nc4 26. Qc2 Rc6 27. b3 Nd6 28.
+Qd3 Qf5 29. g4 Qf4 30. Qe3 Qf6 31. Bg2 Bxg2 32. Kxg2 Nc8 33. Ne2 Re6 34. Qf3
+Ne7 35. Ng3 Ng6 36. Nf5 Nf4+ 37. Kh2 Rxe1 38. Rxe1 Bf8 39. Bg3 Ng6 40. Nh6+ Kg7
+41. Qxf6+ Kxf6 42. Rf1+ Nf4 43. Nf5 Bd6 44. Nxd6 Rxd6 45. h4 Rb6 46. hxg5+ Kxg5
+47. Bxf4+ Kxg4 48. Bb8 Rxb3 49. Rxf7 a6 50. a5 b6 51. Rb7 Rb2+ 52. Kg1 b5 53.
+Rb6 Kf3 54. Bd6 Rb1+ 55. Kh2 Ke4 56. Bc5 Ra1 57. Rxa6 Kd3 58. Kg3 Ra4 59. Kf4
+b4 60. Rb6 Rxa5 61. Rxb4 Ra8 62. Ke5 Rd8 63. Bd6 Kc3 64. Kxd5 1-0
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.02.09"]
+[Round "8.4"]
+[White "Hlinka, Vasil"]
+[Black "Szamos, Alexander"]
+[Result "0-1"]
+[ECO "D03"]
+[WhiteElo "2156"]
+[BlackElo "2246"]
+[PlyCount "66"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nf3 e6 4. Nbd2 Be7 5. Bxf6 Bxf6 6. e4 c5 7. e5 Be7 8.
+dxc5 Bxc5 9. Nb3 Be7 10. Bd3 Nc6 11. c3 Qc7 12. Qe2 Bd7 13. Nbd4 a6 14. O-O O-O
+15. Rac1 b5 16. Nxc6 Qxc6 17. Nd4 Qb6 18. Rfd1 Rfc8 19. Bxh7+ Kxh7 20. Qh5+ Kg8
+21. Rd3 g6 22. Rg3 Kg7 23. Rd1 Rh8 24. Qe2 a5 25. Rdd3 Rac8 26. h3 b4 27. Rdf3
+bxc3 28. Qd3 Rh6 29. Qe3 cxb2 30. Rxf7+ Kxf7 31. Qxh6 b1=Q+ 32. Kh2 Qxd4 33.
+Rf3+ Kg8 0-1
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.02.09"]
+[Round "8.4"]
+[White "Presalovic, Marcel"]
+[Black "Kovacs, Jozef"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2167"]
+[BlackElo "2116"]
+[PlyCount "79"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 e5 10. h3 Qe7 11. a3 a5 12. Ba2 h6 13. Nh4 Re8 14. Nf5 Qf8 15.
+Nxd6 Qxd6 16. dxe5 Qxe5 17. b4 Nf8 18. Bb2 Qh5 19. Qe2 Bg4 20. f3 Be6 21. Bb1
+axb4 22. axb4 Rxa1 23. Bxa1 Qh4 24. Ne4 Nxe4 25. Bxe4 f5 26. Qb2 Qe7 27. Bd3
+Ra8 28. Qe5 Ng6 29. Qc5 Qxc5 30. bxc5 Ra3 31. Rd1 Ne7 32. Bd4 Bb3 33. Rb1 Kf8
+34. Bb2 Ra5 35. Bc3 Rxc5 36. Rxb3 Nd5 37. Bd2 b5 38. Bxf5 Kf7 39. Bd3 Nc7 40.
+e4 1-0
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.02.09"]
+[Round "8.5"]
+[White "Banduka, Zeljko"]
+[Black "Belis, Rudolf"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2129"]
+[BlackElo "2135"]
+[PlyCount "81"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. g3 c6 3. Bg2 Nf6 4. Nf3 Bf5 5. O-O e6 6. c4 Be7 7. Nh4 Bg4 8. Nc3
+Nbd7 9. Qb3 Qb6 10. c5 Qa6 11. f3 Bh5 12. e4 b6 13. exd5 Nxd5 14. Nxd5 cxd5 15.
+c6 Nf6 16. Re1 O-O 17. Bd2 b5 18. Rac1 Qb6 19. Nf5 Bd8 20. Nd6 a6 21. Qe3 Bc7
+22. Nb7 a5 23. h4 Bxg3 24. Re2 h6 25. b4 a4 26. Be1 Bc7 27. Bf1 Bg6 28. Rc5 Nd7
+29. cxd7 Qxb7 30. Rg2 Kh7 31. Bxb5 Bb6 32. Bc6 Qa7 33. Qe5 Bxc5 34. dxc5 Qb8
+35. Bc3 f6 36. Qxe6 Qf4 37. Qg4 Qe3+ 38. Kh2 Qd3 39. Bxa8 Rxa8 40. h5 d4 41.
+Qxg6+ 1-0
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.02.09"]
+[Round "8.5"]
+[White "Buchnicek, Petr"]
+[Black "Repkova, Eva"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2322"]
+[BlackElo "2391"]
+[PlyCount "83"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Nf6 4. Bd3 c5 5. c3 Nc6 6. O-O b6 7. Nbd2 Bb7 8. Qe2
+Be7 9. Rd1 O-O 10. a3 Rc8 11. b4 cxb4 12. cxb4 a5 13. b5 Nb8 14. Bb2 Ne4 15.
+Rac1 Qd6 16. Bb1 Nd7 17. Nxe4 dxe4 18. Nd2 f5 19. Nc4 Qb8 20. Rc3 Bd5 21. Rdc1
+Rcd8 22. f3 exf3 23. gxf3 Bf6 24. a4 e5 25. R3c2 exd4 26. exd4 Qf4 27. Ne5 Rfe8
+28. Re1 Bb3 29. Qd3 Bd5 30. Qe3 Qh4 31. Rg2 g6 32. Bxf5 Bxf3 33. Qb3+ Kh8 34.
+Rg3 Nxe5 35. dxe5 Bd5 36. Qc3 Bg7 37. Bxg6 Rc8 38. Qe3 Rcd8 39. Bxe8 Rxe8 40.
+Qg5 Qxg5 41. Rxg5 Rc8 42. e6 1-0
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.02.09"]
+[Round "8.5"]
+[White "Krajnak, Martin"]
+[Black "Varholakova, Nikoleta"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "2270"]
+[BlackElo "2221"]
+[PlyCount "9"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 e6 4. Bd3 c5 5. c3 1/2-1/2
+
+[Event "SVK-chT1E 0708"]
+[Site "Slovakia"]
+[Date "2008.02.09"]
+[Round "8.6"]
+[White "Kovac, Lubomir"]
+[Black "Sokol, Lubomir"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2194"]
+[BlackElo "2176"]
+[PlyCount "69"]
+[EventDate "2007.10.13"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. e4 b5 6. a4 Bb4 7. Bd2 a5 8. axb5
+Bxc3 9. Bxc3 cxb5 10. b3 Bb7 11. bxc4 b4 12. Bb2 Bxe4 13. d5 Nf6 14. Qa4+ Qd7
+15. dxe6 fxe6 16. Nd4 Qxa4 17. Rxa4 Kf7 18. f3 Bg6 19. Be2 e5 20. Nb5 Nc6 21.
+Kf2 Nd7 22. Rd1 Nc5 23. Raa1 Rhd8 24. Rd5 Rxd5 25. cxd5 Nd4 26. Nxd4 exd4 27.
+Rc1 Na6 28. Bxd4 b3 29. Rc6 Nb4 30. Rc7+ Kf8 31. Bc4 Nd3+ 32. Ke3 b2 33. Bxg7+
+Ke8 34. Bb5+ Kd8 35. d6 1-0
+
+[Event "SVK-chT1E 0708"]

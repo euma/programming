@@ -1,0 +1,50 @@
+C60	Cozio Defense, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7
+C60	Tartakower Gambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.d4 exd4
+5.Nxd4 g6 6.Nc3 Bg7 7.Be3 O-O 8.Qd2 d5
+C60	Paulsen Variation, Cozio Defense, Ruy Lopez	1.e4 e5 2.Nf3 Nc6
+3.Bb5 Nge7 4.Nc3 g6
+C60	Vinogradov Var, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Qe7
+C60	Frankfort; Gunderam Var, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Qf6
+C61	Bird Defense, Ruy Lopez; C61	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4
+C61	Paulsen Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4
+exd4 5.O-O Ne7
+C62	Steinitz Defense, Ruy Lopez; C62	1.e4 e5 2.Nf3 Nc6 3.Bb5 d6
+C62	Nimzovich Attack, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7
+4.Nc3 Nf6 5.Bxc6
+C62	Center Gambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 exd4
+5.O-O
+C63	Schliemann; Jaenisch Var, Ruy Lopez; C63	1.e4 e5 2.Nf3 Nc6
+3.Bb5 f5
+C63	Exchange Variation, Schliemann Ruy Lopez	1.e4 e5 2.Nf3 Nc6
+3.Bb5 f5 4.Bxc6
+C63	Schoenemann Attack, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.d4
+C63	Jaenisch Gambit Accepted, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 f5
+4.exf5
+C63	Berger (Dyckhoff) Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 f5
+4.Nc3  
+C63	Kostic Defense, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4
+5.Nxe4 Be7
+C63	Moehring Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4
+5.Nxe4 d5 6.Nxe5 dxe4 7.Nxc6 Qd5
+C63	Tartakower Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4
+5.Nxe4 Nf6
+C63	Soviet Youth Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 f5
+4.Nc3 Nd4 5.O-O
+C63	Kostic Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 Nf6
+5.exf5 Bc5
+C64	Classical; Cordel Var, Ruy Lopez; C64	1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5
+C64	Spanish Wing Gambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.b4
+C64	Charousek Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 Bb6
+C64	Konikowski Gambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 d5
+C64	Cordel Gambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 f5
+C64	Benelux Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 Nf6
+5.d4 Bb6 6.O-O O-O
+C64	Boden Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 Qe7
+C64	Zaitsev Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.O-O Nd4
+5.b4
+C64	Zukertort Gambit, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.O-O Nf6
+5.c3
+C65	Berlin Defense, Ruy Lopez; C65	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6
+C65	Kaufmann Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5
+5.Be3
+C65	Anderssen Variation, Ruy Lopez	1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6

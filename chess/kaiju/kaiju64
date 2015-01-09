@@ -1,0 +1,50 @@
+D34	Advance Variation, Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5 c4
+D34	Spassky Variation, Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5 cxd4 10.Nxd4
+D34	Reti Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6
+6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.dxc5 Bxc5 10.Na4
+D34	Classical Tarrasch Gambit	1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5
+5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.dxc5 d4
+D35	D35	1.d4 d5 2.c4 e6 3.Nc3 Nf6
+D35	Harrwitz; Rubinstein Var, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bf4
+D35	Exchange Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5
+D35	Positional Variation, Exchange Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3
+Nf6 4.cxd5 exd5 5.Bg5
+D35	Saemisch Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Nf3
+Nbd7 6.Bf4
+D36	Reshevsky Variation, QGD; D36	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5
+5.Bg5 c6 6.Qc2
+D37	Three Knights Variation, QGD; D37	1.d4 d5 2.c4 e6 3.Nc3 Nf6
+4.Nf3
+D37	Harrwitz Attack, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.Bf4
+D38	Ragozin Variation, QGD; D38	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4
+D38	Alekhine Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4 5.Qa4
+D39	Vienna Variation, QGD; D39	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4
+5.Bg5 dxc4
+D40	Semi-Tarrasch Variation, QGD; D40	1.d4 d5 2.c4 e6 3.Nc3 Nf6
+4.Nf3 c5
+D40	Pillsbury Variation, Semi-Tarrasch	1.d4 d5 2.c4 e6 3.Nc3 Nf6
+4.Nf3 c5 5.Bg5
+D41	D41	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5  
+D41	San Sebastian Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5
+5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+ 9.Bd2 Bxd2+
+D42	D42	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e3 Nc6 7.Bd3
+D43	D43	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+D43	Anti-Meran Gambit, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5
+D44	Semi-Slav Defense Accepted; D44	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.Bg5 dxc4
+D44	Botvinnik Variation, QGD	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.Bg5 dxc4 6.e4 b5
+D44	Ekstrom Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.exf6 gxh4 10.Ne5
+D44	Lilienthal Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5 10.Bxg5 Nbd7
+D44	Alatortsev System, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 Nd5
+D44	Anti-Moscow Gambit	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 h6
+6.Bh4
+D44	Stonewall Defense, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6
+5.e3 Ne4 6.Bd3 f5
+D44	Vienna Variation, Semi-Slav	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 dxc4
+D45	D45	1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3

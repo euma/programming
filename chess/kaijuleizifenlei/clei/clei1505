@@ -1,0 +1,600 @@
+[BlackElo "2597"]
+[PlyCount "23"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Kosice"]
+[BlackTeam "Ptuj Veplas Velenje"]
+[WhiteTeamCountry "SVK"]
+[BlackTeamCountry "SLO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. d3 d6 8. a4
+Rb8 9. axb5 axb5 10. h3 O-O 11. Nc3 Be6 12. Nd5 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Roskar, Robert"]
+[Black "Tauber, Marek"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2269"]
+[BlackElo "2193"]
+[PlyCount "92"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Ptuj Veplas Velenje"]
+[BlackTeam "Kosice"]
+[WhiteTeamCountry "SLO"]
+[BlackTeamCountry "SVK"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. O-O Nf6 5. Re1 O-O 6. c3 c6 7. Bb3 Bg4 8. d4
+Nbd7 9. Nbd2 Qc7 10. Nf1 d5 11. Ng3 dxe4 12. Nxe4 Nxe4 13. Rxe4 Nf6 14. Rxe5
+Bd6 15. Re1 Bxh2+ 16. Kh1 Rfe8 17. Be3 Nd5 18. Bc2 g6 19. Bd3 Bf4 20. Bxf4 Qxf4
+21. Be2 Qh6+ 22. Nh2 Bxe2 23. Rxe2 Nf4 24. Rxe8+ Rxe8 25. Qf3 Qg5 26. g3 Nd5
+27. Ng4 h5 28. Ne5 f6 29. Nd3 h4 30. Kg2 hxg3 31. Qxg3 Qxg3+ 32. Kxg3 Re2 33.
+Rd1 Kf7 34. Kf3 Re8 35. Rh1 Kg7 36. Rh4 Re7 37. Re4 Kf7 38. c4 Nc7 39. Rxe7+
+Kxe7 40. Ke4 Kd6 41. Nc5 b6 42. Nd3 Ne6 43. Ne1 Ng5+ 44. Ke3 Ne6 45. Nf3 Nf8
+46. Nh4 Ke6 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Meier, Georg"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "2558"]
+[BlackElo "2734"]
+[PlyCount "67"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Werder Bremen"]
+[BlackTeam "Linex Magic"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "ESP"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 Qd6 8.
+Nxd4 Be7 9. Be3 Nf6 10. f3 O-O 11. Nc3 c5 12. Nde2 Be6 13. Nf4 Bc4 14. Rf2 Qc6
+15. Qe1 Rad8 16. Rd1 Rxd1 17. Qxd1 Rd8 18. Rd2 Rxd2 19. Qxd2 h6 20. b3 Be6 21.
+Nxe6 Qxe6 22. Ne2 Bd6 23. Qc3 Qe7 24. h3 Nd7 25. Nf4 Qg5 26. Ne2 Qe7 27. Kf1 c6
+28. Nf4 Be5 29. Qa5 Bd6 30. Qc3 Be5 31. Qd2 Nf8 32. Nd3 Bd4 33. Bxd4 cxd4 34.
+Qa5 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Ponomariov, Ruslan"]
+[Black "Nyback, Tomi"]
+[Result "1-0"]
+[ECO "C90"]
+[WhiteElo "2719"]
+[BlackElo "2634"]
+[PlyCount "83"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Linex Magic"]
+[BlackTeam "Werder Bremen"]
+[WhiteTeamCountry "ESP"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. a3 Re8 10. Ng5 Rf8 11. d4 Bg4 12. f3 Bh5 13. Nh3 Na5 14. Bc2 c5 15. d5
+c4 16. Nd2 Nd7 17. Nf1 Bg6 18. g4 Nc5 19. Be3 Nab3 20. Rb1 a5 21. Ng3 Rb8 22.
+Kh1 Re8 23. Nf5 Qc8 24. Qe2 Qa6 25. Rg1 b4 26. Nf2 Kf8 27. h4 Bxf5 28. exf5
+Bxh4 29. Ne4 h6 30. Bxb3 cxb3 31. Qxa6 Nxa6 32. axb4 axb4 33. Ra1 Ra8 34. c4
+Be7 35. f6 gxf6 36. Bxh6+ Kg8 37. g5 fxg5 38. Bxg5 Bxg5 39. Nxd6 Red8 40. Rxg5+
+Kf8 41. Ne4 Rdc8 42. d6 1-0
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Hansen, Torbjorn Ringdal"]
+[Black "Hammer, Jon Ludvig"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2436"]
+[BlackElo "2522"]
+[PlyCount "35"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Schakklubben av 1911"]
+[BlackTeam "OSS"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bd3 Nxe5
+8. Rxe5 O-O 9. Nc3 c6 10. Qe2 Bf6 11. Re3 Bd4 12. Bxh7+ Kxh7 13. Qd3+ Kg8 14.
+Rh3 Re8 15. Qh7+ Kf8 16. Qh8+ Ke7 17. Qh4+ Kf8 18. Qh8+ 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Bogut, Zeljko"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2464"]
+[BlackElo "2719"]
+[PlyCount "80"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Siroki Brijeg Hering"]
+[BlackTeam "Ural Sverdlovskaya"]
+[WhiteTeamCountry "BIH"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Bd3 Ne7 6. Bg5 Nbc6 7. c3 Bg4 8.
+Nbd2 Qd7 9. Nf1 f6 10. Bh4 Nf5 11. Bxf5 Bxf5 12. Bg3 O-O-O 13. Bxd6 Qxd6 14.
+Ne3 Ne7 15. Nxf5 Nxf5 16. O-O Rde8 17. Qd3 Qd7 18. Rae1 h5 19. Rxe8+ Rxe8 20.
+Re1 Nd6 21. Qg6 Rxe1+ 22. Nxe1 Qe6 23. Nd3 Qe2 24. h4 b6 25. Kh2 a5 26. a4 Kb7
+27. f3 Qe3 28. b3 f5 29. Ne5 Qxc3 30. Qxg7 Qxd4 31. Qf6 Qc3 32. Qe6 Qxb3 33.
+Qd7 Qc3 34. Qe6 Qd4 35. Ng6 Qxa4 36. Qxd5+ Qc6 37. Qe5 a4 38. Ne7 Qc4 39. g4
+fxg4 40. fxg4 a3 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.19"]
+[Round "3"]
+[White "Brkic, Ante"]
+[Black "Kamsky, Gata"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2558"]
+[BlackElo "2729"]
+[PlyCount "88"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Siroki Brijeg Hering"]
+[BlackTeam "Ural Sverdlovskaya"]
+[WhiteTeamCountry "BIH"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. O-O O-O 8. h3
+d6 9. Re1 Ne7 10. Nbd2 Ng6 11. Nf1 h6 12. Ng3 b5 13. d4 Bb7 14. a4 Re8 15. Bc2
+Bb6 16. d5 c6 17. dxc6 Bxc6 18. axb5 axb5 19. Rxa8 Bxa8 20. Nf5 d5 21. exd5
+Bxd5 22. Ne3 Be4 23. Bxe4 Nxe4 24. Qxd8 Rxd8 25. Kf1 Nc5 26. Rd1 Nb3 27. Ke1 e4
+28. Nd2 Nc5 29. g3 Ne5 30. Ke2 Ned3 31. b4 Nxc1+ 32. Rxc1 Nd3 33. Rf1 Bxe3 34.
+fxe3 Ne5 35. Nxe4 Nc4 36. Rd1 Re8 37. Rd4 f5 38. Nd6 Rxe3+ 39. Kf2 Rxc3 40.
+Nxf5 Ne5 41. Nd6 Rf3+ 42. Kg2 Rb3 43. Nxb5 Rb2+ 44. Kf1 Nc6 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Bradley, John"]
+[Black "Boe Olsen, Mads"]
+[Result "0-1"]
+[ECO "C24"]
+[BlackElo "2342"]
+[PlyCount "66"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Belfast"]
+[BlackTeam "Aarhus Skolerne"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "DEN"]
+
+1. e4 e5 2. Bc4 d6 3. d3 Nf6 4. Nc3 Be7 5. h3 c6 6. Nge2 O-O 7. O-O Nbd7 8. Ng3
+b5 9. Bb3 Nc5 10. Be3 g6 11. Nce2 d5 12. f3 a5 13. c3 dxe4 14. dxe4 Qc7 15. Bc2
+Be6 16. Qe1 Nfd7 17. a3 Bc4 18. Rd1 a4 19. Kh2 Ne6 20. Rf2 Rfd8 21. Nf1 Nf4 22.
+Nfg3 Bh4 23. Qd2 Nc5 24. Qc1 Nxe2 25. Nxe2 Bxf2 26. Bxf2 Ne6 27. Ng3 Rxd1 28.
+Bxd1 Rd8 29. Be2 Bxe2 30. Nxe2 Qd6 31. Bb6 Rd7 32. Be3 Qd1 33. Kg3 Qxe2 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "McDonnell, James J"]
+[Black "Sorensen, Jan"]
+[Result "0-1"]
+[ECO "C04"]
+[WhiteElo "2041"]
+[BlackElo "2416"]
+[PlyCount "91"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Belfast"]
+[BlackTeam "Aarhus Skolerne"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Nb3 a5 7. a4 Be7 8. Bb5
+Na7 9. Bd3 b6 10. c3 c5 11. Nbd2 Nc6 12. Nb1 O-O 13. O-O Ba6 14. Re1 Bxd3 15.
+Qxd3 cxd4 16. cxd4 Nb4 17. Qe2 Qc7 18. Nc3 Rfc8 19. Bg5 Bxg5 20. Nxg5 h6 21.
+Nf3 Qc4 22. Rad1 Qxe2 23. Rxe2 Rc4 24. g3 Rac8 25. Kg2 Nb8 26. Red2 N8a6 27.
+Kf1 Nc6 28. Kg2 Ne7 29. Kf1 Nf5 30. Kg2 Rb4 31. h3 Rc6 32. Kf1 Nc7 33. Kg2 g5
+34. g4 Ne7 35. h4 gxh4 36. Nxh4 b5 37. axb5 Nxb5 38. Nxb5 Rxb5 39. f4 Rcb6 40.
+Rb1 a4 41. Nf3 a3 42. Kf1 Nc6 43. Ke1 Rb3 44. Ke2 Na5 45. Ne1 Rxb2 46. Ra1 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Smirin, Ilia"]
+[Black "Iotov, Valentin"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2649"]
+[BlackElo "2532"]
+[PlyCount "72"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Ashdod Illit "]
+[BlackTeam "Thessaloniki ESTH"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "GRE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ngf3 g6 8. h4
+Qb6 9. h5 g5 10. Nxg5 cxd4 11. cxd4 Qxd4 12. Ndf3 Qb4+ 13. Bd2 Qe7 14. Nxh7
+Ncxe5 15. Nxe5 Nxe5 16. Bb5+ Bd7 17. Bxd7+ Kxd7 18. Qa4+ Nc6 19. Qb5 Kc7 20.
+Rc1 Rc8 21. Nxf8 Rhxf8 22. Rh3 Kb8 23. h6 f6 24. Rg3 Nd4 25. Rxc8+ Rxc8 26. Qd3
+Nf5 27. Rh3 Qf7 28. g4 Nd6 29. h7 Rh8 30. Qg3 e5 31. g5 Nf5 32. g6 Qg7 33. Qg4
+Ne7 34. Bh6 Qxg6 35. Qxg6 Nxg6 36. Bg7 Rg8 1-0
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Balogh, Csaba"]
+[Black "Volke, Karsten"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2616"]
+[BlackElo "2454"]
+[PlyCount "59"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Baden Advisory Invest"]
+[BlackTeam "Reichenstein"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
+b3 d5 16. Bg5 h6 17. Bh4 g5 18. Nxg5 hxg5 19. Bxg5 exd4 20. e5 Rxe5 21. Rxe5
+Nxe5 22. cxd4 Nc6 23. Qd3 Be7 24. Bh6 Bf8 25. Qe3 Ne4 26. Nxe4 dxe4 27. Qxe4
+Bxh6 28. Qh7+ Kf8 29. Qxh6+ Ke7 30. Re1+ 1-0
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Riff, Jean Noel"]
+[Black "Socko, Bartosz"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "2512"]
+[BlackElo "2631"]
+[PlyCount "98"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Reichenstein"]
+[BlackTeam "Baden Advisory Invest"]
+[WhiteTeamCountry "SUI"]
+[BlackTeamCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Nc6
+8. Qd2 Bg4 9. Be2 Qd7 10. O-O-O a6 11. Rhe1 O-O-O 12. Nd4 Bxe2 13. Rxe2 Bf6 14.
+Nxc6 Qxc6 15. Qd5 Qxd5 16. Rxd5 Rde8 17. Rdd2 Be5 18. Bg3 h5 19. Rd3 Bf4+ 20.
+Kd1 Rxe2 21. Kxe2 Bc1 22. Rf3 h4 23. Bf4 Bxb2 24. Kd3 f6 25. Be3 Kd7 26. Rf4 b5
+27. Rb4 Ba3 28. Rg4 Rh7 29. c4 c5 30. h3 Ke6 31. Re4+ Kf7 32. Bf4 Rh8 33. cxb5
+axb5 34. c4 g5 35. Bh2 d5 36. cxd5 Rd8 37. d6 c4+ 38. Kc2 Bxd6 39. Bxd6 Rxd6
+40. a4 bxa4 41. Rxc4 Ra6 42. Kb1 a3 43. g3 hxg3 44. fxg3 a2+ 45. Ka1 Ra3 46. h4
+Rxg3 47. hxg5 fxg5 48. Kxa2 Kg6 49. Kb2 Rd3 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Kobalia, Mihail"]
+[Black "Harikrishna, Penteala"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[WhiteElo "2630"]
+[BlackElo "2659"]
+[PlyCount "132"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Saransk TPS"]
+[BlackTeam "Baden-Baden"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4
+Bd7 9. Bd2 b4 10. c3 Rb8 11. Re1 O-O 12. h3 Qc8 13. a5 bxc3 14. bxc3 Be6 15.
+Bxe6 Qxe6 16. Qa4 d5 17. exd5 Qxd5 18. Bg5 Nd7 19. Bxe7 Nxe7 20. d4 Nc6 21.
+Nbd2 exd4 22. Nxd4 Nxd4 23. Qxd4 Nf6 24. Ne4 Qxd4 25. cxd4 Nxe4 26. Rxe4 Rb5
+27. Rc1 Rxa5 28. Rxc7 Rd5 29. f3 g6 30. Kf2 a5 31. Ra7 Rb8 32. g4 Rd6 33. Rf4
+Rf8 34. Rxa5 Rd7 35. d5 Rb8 36. Rd4 Rb3 37. h4 Kg7 38. Kg3 h6 39. Rc5 Rb1 40.
+d6 Rb6 41. Rcd5 Kf6 42. Kf4 g5+ 43. hxg5+ hxg5+ 44. Ke4 Ke6 45. f4 gxf4 46.
+Re5+ Kf6 47. g5+ Kg6 48. Red5 f6 49. Kxf4 Rd8 50. Rd3 Rb4+ 51. R3d4 Rb6 52. Ke4
+fxg5 53. Rd3 Rb4+ 54. R5d4 Rxd4+ 55. Rxd4 Kf6 56. Kd5 Kf5 57. Kc6 g4 58. Kc7
+Rg8 59. d7 g3 60. Rd1 Kf4 61. Rf1+ Kg4 62. Re1 g2 63. Rg1 Kf3 64. d8=Q Rxd8 65.
+Kxd8 Kf2 66. Rxg2+ Kxg2 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Najer, Evgeniy"]
+[Black "Naiditsch, Arkadij"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "2682"]
+[BlackElo "2678"]
+[Annotator "Knaak"]
+[PlyCount "56"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Saransk TPS"]
+[BlackTeam "Baden-Baden"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "GER"]
+
+{Arkadij Naiditsch holte für Baden-Baden 5,5 aus 7 und spielte dabei eine
+unterhaltsame Partie.  Angesichts des schönen schwarzen Sieges übersieht man
+leicht, dass der Weiße vielleicht eine bedeutsame Neuerung gebracht hat.} 1. e4
+e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 Ne5 8. Be2
+Qg6 9. O-O d6 10. f3 O-O 11. Kh1 d5 12. f4 $5 {Bisher erst einmal von
+Movsesian gespielt.} ({Üblich ist} 12. Nd2 dxe4 13. fxe4 Bg4 {und Schwarz kann
+zufrieden sein.}) 12... Qxe4 (12... Ng4 13. Bg1 Bxd4 14. f5 Qg5 15. Bxd4 Ne3
+16. Bxe3 Qxe3 $13) 13. b4 $5 {Neuerung!} (13. Bg1 Nc4 14. Bf3 Qg6 15. Qe2 c6
+16. a4 {1/2-1/2 Movsesian,S (2661)-Hracek,Z (2602)/Czechia 2001/EXT 2002})
+13... Bb6 (13... Bxd4 14. Bxd4 {- 13...Bb6 14.Bg1 Bxd4}) 14. Bg1 Bh3 $6 {Das
+läuft auf ein Figurenopfer hinaus.} ({Nun nicht} 14... Nc4 $2 {, denn nach} 15.
+Bxc4 dxc4 16. Re1 {geht der Ne7 verloren - daher der Zwischenzug 13.b4.}) ({
+Auch} 14... Bxd4 {ist nicht ohne Risiko, aber notwendig:} 15. cxd4 (15. Bxd4
+N5c6 (15... Nd7 $5) 16. Bd3 Qe6 17. f5 Qh6 18. f6 {behagte Naiditsch
+vielleicht nicht, aber die Bewertung dieser Stellung ist völlig unklar.} Ng6
+$13) 15... N5c6 16. b5 Na5 17. Bd3 Qe6 18. Qc2 $13 {[%cal Rc2c7,Rd3h7]}) 15.
+Rf2 Bxd4 16. cxd4 Ng4 17. Rf3 $1 ({Nach} 17. Bxg4 Bxg4 18. Qxg4 Qxd4 {würde
+Schwarz die Figur zurückgewinnen und behielte zwei Mehrbauern.}) 17... Bxg2+ {
+Kein Opfer, sondern Notwendigkeit.} 18. Kxg2 Nf5 {Es droht eine Gabel auf e3.}
+19. Qd2 $4 ({Nach} 19. Kh1 $1 {und z.B.} Rfe8 20. Bd3 Qe6 21. Nc3 {gibt es am
+weißen Vorteil keinen Zweifel, aber die technische Realisierung wäre wegen der
+schlechten Bauernstruktur nicht einfach.}) 19... Nh4+ $1 20. Kg3 Qg6 $1 21.
+Kxh4 {Der König hat keine Wahl.} Nf6 $1 22. Re3 (22. Rg3 $2 Qh6+ 23. Bh5 Qxh5#)
+(22. Rh3 $5 Ne4 23. Qc1 Qh6+ 24. Bh5 g6 25. Kg4 gxh5+ 26. Kf3 Qg6 27. Rh4 Nd6
+28. f5 Nxf5 29. Rf4 Rae8 30. Bf2 Kh8 31. Qg1 Qf6 $17 {/-+}) 22... Qxg1 {Weiß
+hat nun einfach nicht genug Zeit, um die restlichen Kräfte am Damenflügel zu
+entwickeln.} 23. Bf3 Rae8 24. Re5 Ne4 25. Bxe4 Rxe5 26. dxe5 dxe4 27. a4 e3 28.
+Qe2 Re8 {[%cal Re8e6]} 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Nisipeanu, Liviu Dieter"]
+[Black "Sakaev, Konstantin"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[WhiteElo "2684"]
+[BlackElo "2640"]
+[PlyCount "53"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Baden-Baden"]
+[BlackTeam "Saransk TPS"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. dxe5 Nc5 6. Nc3 c6 7. Nd4 g6 8. O-O
+Bg7 9. f4 O-O 10. Be2 Ne6 11. Nb3 f6 12. exf6 Qxf6 13. Be3 Nd7 14. Bd3 d4 15.
+Ne4 Qe7 16. Bd2 Nc7 17. Re1 Nd5 18. Ng5 Ne3 19. Bxe3 dxe3 20. Qf3 Nb6 21. Rxe3
+Qd6 22. Rf1 Bxb2 23. c3 Nd5 24. Bc4 b5 25. Bxd5+ Qxd5 26. Qf2 Ba3 27. Qh4
+1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Vallejo Pons, Francisco"]
+[Black "Volkov, Sergey"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2664"]
+[BlackElo "2632"]
+[PlyCount "119"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Baden-Baden"]
+[BlackTeam "Saransk TPS"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8. bxa5
+dxc3 9. Qxg7 Rg8 10. Qxh7 Nbc6 11. Nf3 Qc7 12. Bf4 Bd7 13. a6 O-O-O 14. Qd3 Rg4
+15. Bg3 Re4+ 16. Kd1 Rc4 17. Qh7 Re4 18. Rb1 Qa5 19. Bd3 Nf5 20. axb7+ Kb8 21.
+Re1 Qxa3 22. Rxe4 dxe4 23. Bxe4 Qa2 24. Rc1 Be8+ 25. Ke1 Qb2 26. Bf4 Qb4 27.
+Ng5 Nfd4 28. Be3 a5 29. Nxf7 Bxf7 30. Qxf7 Nb3 31. Bxc6 Nxc1 32. Qf6 Nd3+ 33.
+cxd3 Qb1+ 34. Ke2 Qxd3+ 35. Kf3 c2 36. Be4 Qd1+ 37. Kg3 Rg8+ 38. Bg6 Qd3 39.
+Qf8+ Rxf8 40. Bxd3 a4 41. Bxc2 a3 42. Bb3 Kxb7 43. Bxe6 Kc6 44. f4 Ra8 45. Ba2
+Rb8 46. Bc1 Rd8 47. Bb1 Rb8 48. Be4+ Kc7 49. Bxa3 Rb3+ 50. Kg4 Rxa3 51. h4 Ra4
+52. Kf5 Kd8 53. g4 Ke7 54. h5 Kf8 55. g5 Ra2 56. h6 Rh2 57. Kg6 Kg8 58. e6 Re2
+59. Bd5 Kh8 60. Kf6 1-0
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Volokitin, Andrei"]
+[Black "Bacrot, Etienne"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2659"]
+[BlackElo "2705"]
+[PlyCount "85"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Saransk TPS"]
+[BlackTeam "Baden-Baden"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 Ng6 11. Ne4 h6 12. b3 c5 13. Bb2 Kd7 14. e6+
+Kxe6 15. Rfe1 Kd5 16. Rad1+ Kc6 17. Rd8 b5 18. h4 Bd6 19. Rxh8 Nxh8 20. Bxg7
+Bg4 21. Ne5+ Bxe5 22. Bxe5 Ng6 23. Bg3 Re8 24. f3 Bf5 25. h5 Nf8 26. Bf4 Nd7
+27. g4 Bh7 28. Bxh6 Nf6 29. Nxf6 Rxe1+ 30. Kf2 Re6 31. Nxh7 Rxh6 32. Ng5 f6 33.
+Ne4 f5 34. Ng3 fxg4 35. fxg4 Kd5 36. g5 Rd6 37. h6 Ke6 38. Ne4 Rd8 39. Ng3 Kf7
+40. Nh5 Kg6 41. Nf4+ Kh7 42. Ke3 c4 43. bxc4 1/2-1/2
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Swinkels, Robin"]
+[Black "Vaganian, Rafael A"]
+[Result "0-1"]
+[ECO "C12"]
+[WhiteElo "2451"]
+[BlackElo "2590"]
+[PlyCount "44"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Eynatten"]
+[BlackTeam "Bank King"]
+[WhiteTeamCountry "BEL"]
+[BlackTeamCountry "ARM"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. Bd3 Nxd2 10. Kxd2 c5 11. h4 Bd7 12. h5 g5 13. f4 Nc6 14. fxg5 Qa5 15.
+dxc5 d4 16. Nf3 O-O-O 17. Ke2 dxc3 18. Rhb1 hxg5 19. Qe4 g4 20. Ng5 Be8 21. Qe3
+Rxh5 22. Be4 Rd2+ 0-1
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Ferguson, Mark"]
+[Black "Treybal, Dusan"]
+[Result "1-0"]
+[ECO "C22"]
+[WhiteElo "2398"]
+[BlackElo "2173"]
+[PlyCount "15"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Barbican"]
+[BlackTeam "Kosice"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "SVK"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Bb4+ 5. Nc3 Nf6 6. Bd2 O-O 7. O-O-O Re8
+8. Qg3 1-0
+
+[Event "EU-Cup 24th"]
+[Site "Kallithea"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Onischuk, Alexander"]
+[Black "Khmelniker, Ilya"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[WhiteElo "2644"]
+[BlackElo "2443"]
+[PlyCount "122"]
+[EventDate "2008.10.17"]
+[EventType "team-tourn"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Kiev Chess"]
+[BlackTeam "Beer Sheva"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Bf5 11. Nd4 Nxd4 12. cxd4 Ne6 13. Nf3 Bg4 14. Be3 Rc8
+15. Rc1 c6 16. h3 Bh5 17. Qd2 Bxf3 18. gxf3 Be7 19. f4 g6 20. Bc2 Ng7 21. f5
+Nxf5 22. Bxf5 gxf5 23. Kh2 Rg8 24. Rg1 Rg6 25. Qe2 Qd7 26. Qh5 Qe6 27. Qxh7 Kd7
+28. Rxg6 Qxg6 29. Qxg6 fxg6 30. Rg1 Rg8 31. Bg5 Bb4 32. Bf6 Ke6 33. h4 Bd2 34.
+h5 Kf7 35. Bg5 Bxg5 36. Rxg5 Rh8 37. e6+ Ke7 38. Rxg6 Rxh5+ 39. Kg3 a5 40. Kf4
+Kd6 41. e7+ Kxe7 42. Rxc6 Rh4+ 43. Ke5 Re4+ 44. Kxd5 Re2 45. f4 Rxb2 46. a3 Rb3
+47. Rb6 Rxa3 48. Rxb5 Re3 49. Rxa5 Re4 50. Ra7+ Kf6 51. Ra6+ Ke7 52. Kc5 Rxf4
+53. d5 Rf1 54. Ra7+ Kf6 55. d6 Rc1+ 56. Kd5 Rd1+ 57. Kc6 Rc1+ 58. Kd7 f4 59.
+Ra5 Rd1 60. Ra4 Ke5 61. Ra5+ Kf6 1/2-1/2
+
+[Event "EU-Cup 24th"]

@@ -1,0 +1,600 @@
+$16) 26. Raa1 (26. Ra2 a4 (26... Rf4 27. Qe3 Rh4 28. f4 gxf4 29. Nxf4 $16) 27.
+Qd4 axb3 28. Rb2 Qe8 $132) 26... a4 $5 (26... Rf4 27. Qe3 Rh4 28. f4 gxf4 29.
+Nxf4 a4 30. Rad1 $16) 27. Qd4 axb3 28. Rfb1 Qe8 $132) 25... Qe8 $1 ({The
+alternative} 25... Nxc4 26. bxc4 Bxd5 27. cxd5 Rb2 {offers certain chances to
+survive, although Black's task would have been unpleasant after} 28. Rxa5 {E.g.
+} Qf6 ({or} 28... Rbxf2 29. R5a4) 29. Rf1 Qf5 30. Ra4 $16) 26. Rxa5 Qxh5 27.
+Qxe4 Rbe8 {Shirov has activated all his pieces and achieved some compensation
+for the pawn.} 28. Be2 Qh4 $2 {Pity. This very strange decision can be
+explained only by the fact that Alexey was having problems with the time on
+the clock.} ({After the correct} 28... g4 {(threatening check on f3)} 29. Qd4
+Qg5 $1 {Black prepares the advance of the g-pawn, with sufficient play for the
+pawn. For instance:} (29... Re6 $2 30. Nf4) 30. g3 (30. Ra7 $2 Bxd5 31. Qxd5 g3
+$40) (30. b4 g3 31. fxg3 (31. f4 Qh4 $19) 31... Qxg3 32. Rf1 Rxf1+ 33. Kxf1
+Bxd5 34. Rxd5 (34. Qxd5 Qf4+ 35. Kg1 Ng4 $19) 34... Kg8 $44 {[%cal Ge8f8]} (
+34... Rf8+ 35. Bf3 Kg8 36. Qf2 Qf4 $44 {/=})) 30... Re6 {and White's extra
+pawn is of little importance for the moment, since the main battlefield is on
+the kingside.}) 29. Qxh4 gxh4 {In the endgame which arises, with a pawn down
+and doubled h-pawns Black obviously has a tough struggle for a draw.} 30. Ne3
+h3 {The best practical chance.} 31. gxh3 Nf3+ 32. Bxf3 Rxf3 33. Rh5 Rg8+ (33...
+Ref8 34. Ra2 $16) 34. Kf1 Rgf8 35. Nd1 $1 (35. Ra2 $4 Rxe3 $19) ({Weaker is} 
+35. Ra7 Be4) 35... Rd3 36. Rh4 $1 Bf3 37. Rd4 {Unfortunately for Shirov, White
+is right in time to protect everything.} Rxd4 38. cxd4 Rf4 (38... Bxd1 39. Rxd1
+Rf3 40. Rb1 Rxh3 41. Ke2 Rh5 42. b4 Rb5 43. d5 h5 44. Kd3 Rxd5+ 45. Kc4 $18)
+39. Ne3 Rxd4 40. Ra4 $1 {Powerful play by Anand, who skilfully neutralizes
+Black's activity.} Rd3 (40... Rxa4 41. bxa4 $18) 41. Rf4 Bh5 42. b4 d5 43. Kg2
+Bg6 44. Nf5 $1 Kg8 (44... Bxf5 45. Rxf5 Rb3 {Wouldn't have changed the result:}
+46. Rf4 Kg7 47. h4 Kg6 48. Kf1 Rb2 49. Ke1 {and Black is paralyzed, while the
+white king will soon chase away the opponent's rook from the b-file.}) (44...
+Rb3 45. Ne7 Be4+ 46. f3 $18) 45. Ne7+ Kg7 46. Nxg6 Kxg6 47. Rf3 $1 {The
+quickest win.} Rd1 48. Rb3 d4 49. Kf3 d3 50. Ke3 Rh1 51. b5 Rxh3+ 52. f3 Rh1
+53. b6 Re1+ 54. Kxd3 Re8 55. b7 Rb8 56. Ke4 h5 57. Kf4 1-0
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.02.29"]
+[Round "9"]
+[White "Leko, Peter"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "B19"]
+[WhiteElo "2753"]
+[BlackElo "2751"]
+[Annotator "Ftacnik"]
+[PlyCount "96"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Bb4 13. c3 Be7 14. c4 Qc7 15.
+O-O-O Ngf6 16. Kb1 O-O 17. Rhe1 {This critical opening position is somewhat
+special. Both players would love to storm the hideouts of the enemy king, but
+the flexible nature of the position forces them to concentrate their forces
+towards the centre.} (17. Qe2 Rfe8 (17... Rad8 18. Ne5 $1 (18. Bc3 Bd6 $132)
+18... c5 19. Ng6 $1 {Nataf-Chabanon, Port Barcares 2005/}) 18. Ne5 (18. Bc3 b5
+$1 $132) 18... b5 $5 (18... Nxe5 19. dxe5 Nd7 20. f4) (18... Rad8 19. f4 $1 c5
+20. Bc3 cxd4 21. Bxd4 Bc5 $13) (18... c5 $5 19. Bc3 cxd4 20. Bxd4 Nxe5 21. Bxe5
+Qc6 22. f4 Rac8 $13) 19. c5 $5 (19. cxb5 cxb5 20. Qxb5 Nxe5 21. dxe5 Nd5 $44) (
+19. f4 bxc4 20. Qxc4 c5 $132 {Manik-Zelcic, Mitropa Cup 2003}) (19. Rc1 $5 bxc4
+20. Rxc4 $1 c5 $132) 19... Nd5 20. f4 b4 21. Ne4 {/\ g4-g5}) 17... a5 {Less
+well known, but a very useful move helping to control the b4-square. Black is
+taking a useful step in his quest to get towards the white king.} (17... Rad8
+18. Qc2 (18. Qe2 Bd6 19. Ne4 Nxe4 20. Qxe4 Nf6 21. Qh4 Be7 $13) (18. Nf5 $6
+exf5 19. Rxe7 Ne4 $15) 18... Ng4 19. Bc3 Rfe8 20. Qe2 a5 21. Ne5 {1/2 Motylev,
+A (2632)-Dreev,A (2694)/Moscow 2005}) (17... Rfe8 18. Ne5 Bd6 (18... Rad8 19.
+Qf3 $36) (18... b5 19. Rc1 bxc4 20. Qxc4 c5 21. Nxf7 Kxf7 22. Rxe6 Kf8 23. Nf5
+Nb6 24. Qc2 Bd8 25. Rxe8+ Nxe8 26. dxc5 Nd5 27. Rd1 {0-1 Smikovski,I (2538)
+-Lastin,A (2594)/Moscow 2006 (101)}) 19. f4 Rad8 20. Qf3 c5 $1 21. Nxd7 Rxd7 (
+21... Nxd7 22. d5 Nb6 (22... exd5 23. Nf5 Nf6 24. Rxe8+ Rxe8 25. cxd5 Qd7 26.
+g4 Ne4 27. Be3 Bf8 $11) 23. dxe6 Nxc4 24. exf7+ Qxf7 25. Rxe8+ Rxe8 26. Bc1 Bf8
+$14) 22. d5 $1 exd5 23. Rxe8+ Nxe8 24. cxd5 {1-0 Karjakin,S (2658)
+-Mchedlishvili,M (2564)/Beersheba 2005/ (41)}) (17... Rfd8 $5 18. Qe2 (18. Nf5
+Bf8) 18... c5 19. Ne5 $1 Qb6 (19... cxd4 20. Nxf7 $1) 20. Nxf7 $5 Kxf7 21. Ba5
+$40) 18. Bc1 (18. a3 b5 19. cxb5 cxb5 20. Rc1 (20. Nf5 exf5 21. Rxe7 Qd6) 20...
+Qb7 21. Nf5 Bxa3 22. bxa3 exf5 23. Qxf5 b4 $17 {0-1 Lhoest,A (1870)-Hentzien,M
+(1970)/Champagne Ardennes 2003 (39)}) (18. Bc3 Rfe8 (18... Rfd8 19. Qe2 Bb4 $11
+) 19. Ne5 a4 $11) (18. Nf5 Bb4 19. Ng3 $11) 18... Rfd8 19. Qc2 a4 20. Ne5 $6 {
+Leko is becoming nervous and it shows in his reaction. The pawn structure will
+favour Black, which can be useful even in endgames.} (20. a3 $5 Bd6 21. Ne4
+Nxe4 22. Rxe4 Nf6 23. Rh4 Qe7 $11) 20... Nxe5 21. dxe5 Rxd1 22. Qxd1 Nd7 23. f4
+(23. a3 Nc5 24. f4 Qa5 $15) 23... Nc5 (23... Qa5 24. Bd2 Qa6 25. Re4 Nb6 26.
+Qe2 $11) 24. Ne4 (24. Qf3 Qa5 (24... Rd8 25. Rd1 b5 $15) 25. Rd1 Qb4 26. Qc3 (
+26. Qe2 a3) 26... Qxc3 27. bxc3 a3 28. Kc2 Ra4 29. Ne2 Kf8) (24. Qc2 a3 25. b3
+Bh4 $15) 24... Rd8 25. Qc2 Nxe4 26. Rxe4 (26. Qxe4 a3 27. b3 Bb4 28. Rf1 Rd7
+29. g4 Qd8 $15) 26... Qb6 $1 27. Qxa4 $6 {White reacts in a truly human way.
+Grabbing the pawn should compensate for the suffering caused by the need to
+fight for equality.} (27. Re1 a3 28. b3 Bb4 $15) 27... Qg1 28. Qc2 Rd1 29. Re2
+(29. Re3 Bb4 30. Rd3 Rxd3 31. Qxd3 Qxg2 $15) 29... Rf1 30. a3 Bc5 $1 {The
+trade off is clearly pleasant for Ivanchuk. The absence of the pawn is
+compensated for by the punishing impact of all his pieces.} (30... Rxf4 31. Ka2
+Rh4 32. Rd2 Qf1 $17) 31. Qd2 (31. Rd2 Bd4 $1 32. g3 c5 $17) 31... Rd1 32. Qc2
+Bd4 33. c5 (33. Rd2 Rf1 34. g3 c5) 33... Rf1 34. Rd2 Rxf4 35. Ka2 (35. Qc4 Bxe5
+36. Rd8+ Kh7 37. Qc2+ f5 $17) 35... Rf2 $1 {Black has won the pawn back and
+White will face the painful task of fighting on in a miserable endgame.} 36.
+Rxf2 Bxf2 37. g4 $6 (37. b3 Bxc5 38. Bb2 Qe3 $17) (37. Qd2 Bxc5 38. b4 Bf8 39.
+Bb2 c5 $17) 37... Bxc5 38. Bf4 Qd4 (38... Qxg4 39. Qxc5 Qxf4 40. Qb6 Qxe5 41.
+Qxb7 Qd5+ 42. Kb1 Qxh5 $17) 39. Qd2 Qe4 40. Ka1 (40. g5 $1 hxg5 41. Qd8+ Kh7
+42. Qxg5 Qc4+ 43. Ka1 Qf1+ 44. Ka2 Qh1 $17) 40... Bd4 {Ivanchuk methodically
+improves his pieces, Leko is fighting without a trace of hope.} 41. Qh2 c5 42.
+Ka2 b5 43. Qd2 (43. Qg3 Qe2 44. Bc1 c4 $19) 43... Qd5+ 44. Kb1 b4 $1 45. a4 (
+45. axb4 cxb4 46. Qd3 b3 47. Bd2 Bxe5 $19) 45... b3 46. Qd3 c4 47. Qe2 Qh1+ 48.
+Bc1 Qa8 (48... Qc6 $19) (48... Qa8 49. Qxc4 Qe4+ 50. Ka1 Bxb2+ $19) 0-1
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.01"]
+[Round "10"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2799"]
+[BlackElo "2733"]
+[PlyCount "43"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Ne7 13. a4 bxa4 14. Ncb4 O-O
+15. Qxa4 Nxd5 16. Nxd5 Bd7 17. Qa2 a5 18. Bd3 Bc6 19. O-O Qb8 20. Bc4 Kh8 21.
+b3 f5 22. exf5 1/2-1/2
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.01"]
+[Round "10"]
+[White "Ivanchuk, Vassily"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[WhiteElo "2751"]
+[BlackElo "2780"]
+[Annotator "Ftacnik"]
+[PlyCount "123"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 b4 12. Na4 Nbd7 13. f3 O-O 14. Rfd1 Kh8 15.
+Kh1 {White should have less reasons to remove the king to the corner, but
+praxis is proving good chances for the second player.} (15. Rac1 Ne5 16. Ne2
+Rb8 (16... a5 17. c4 bxc3 18. Nexc3 (18. Rxc3 Bd7 19. Nb6 Ra6 20. Nxd7 Nexd7
+21. Rdc1 a4 22. Bc2 Ra5 23. b4 axb3 24. Bxb3 Qa6 25. Nd4 {1/2 Zapata,A (2515)
+-Morovic Fernandez,I (2580)/Cienfuegos 1997 (48)}) 18... Ra6 19. f4 Ng6 20. Bc4
+Rc6 21. Bd3 Qb8 22. Qf3 Bb7 23. h3 d5 24. e5 d4 25. exf6 Rxc3 26. fxg7+ Kxg7
+27. Bxd4+ Kg8 {1/2 Zapata,A (2515)-Morovic Fernandez,I (2580)/Yopal 1997 (42)})
+17. c4 bxc3 18. Nexc3 Bd7 19. Nb6 Bc6 20. Kh1 Rfd8 21. Rc2 Nfd7 22. Nxd7 Bxd7
+23. Rcd2 Be8 24. f4 Nd7 25. f5 $14 {1-0 Comp Fritz 6-Van Wely,L (2643)/
+Eindhoven 2000 (36)}) (15. c3 bxc3 16. Nxc3 Nc5 17. Na4 Nxb3 18. Nxb3 a5 19.
+Rac1 Bd7 20. Nb6 Ra6 21. Nxd7 Nxd7 22. Bd4 e5 23. Bc3 a4 $11 {0-1 Zorko,J 
+(2339)-Lenic,L (2458)/Murska Sobota 2006 (38)}) (15. Ne2 a5 16. c3 Ra6 17. Qf2
+Ne5 18. c4 Bd7 19. c5 Bxa4 20. Bxa4 dxc5 21. Bxc5 Neg4 22. Qd4 e5 $19 {1-0
+Roskar,R (2284)-Vombek,D (2344)/Murska Sobota 2007 (40)}) 15... Ne5 16. a3 bxa3
+{Topalov is rightly mistrustful about the move 16..a5. The semi-open b- and
+c-files  should be sufficient for getting enough  counterplay.} (16... a5 17.
+Nb6 $1 Ra6 (17... Qxb6 18. Nxe6 Nh5 19. Qe1 Qb8 20. Nxf8 Bxf8 21. axb4 axb4 22.
+Rxa8 Qxa8 23. Qxb4 $16) 18. Nxc8 Rxc8 19. axb4 axb4 20. Qe1 $14) 17. Rxa3 Rb8
+18. Nc3 Ned7 19. Ra2 {Interesting tactics would be introduced the the rook
+advance to a5, but the evaluation of the position would remain unchanged.} (19.
+Ra5 $5 Qc7 (19... Nc5 20. Rxc5 dxc5 21. Nc6 Ra8 (21... c4 22. Qxb8 Qxb8 23.
+Nxb8 cxb3 24. cxb3 $14) 22. Nxe7 Qxe7 23. e5 Nd7 24. Ne4 Bb7 25. Ba4 Rfd8 $13)
+20. Ra4 Nc5 $13) 19... Nc5 20. Bc4 Qc7 (20... Qb4 21. Nc6 Qxc4 22. Nxb8 Bb7 23.
+Bxc5 Qxc5 24. Nxa6 Qb6 25. Rda1 Bxa6 (25... Ra8 26. Nb4 Rxa2 27. Nbxa2 $18) 26.
+Rxa6 Qxb2 27. Qe1 Qxc2 28. Ra7 $16) 21. b3 Bd7 22. Qe1 Rfc8 23. Rda1 Ne8 (23...
+Kg8 24. Nde2 $14) 24. Nde2 Bf6 25. Bd4 $6 {With each move Ivanchuk was
+masterfully improving the coordination of his pieces, but the last move helps
+the defender.} (25. Ra5 $1 Kg8 26. Bxc5 dxc5 27. Bxa6 $16) 25... Bxd4 26. Nxd4
+Qb6 (26... Rb6 27. Qe3 Nf6 28. Nde2 $16) 27. Qe3 Nc7 28. h3 h6 (28... Nb5 $5
+29. Nce2 Kg8 $11) 29. Ra5 Kg8 30. R1a2 Qb4 (30... Nb7 31. Rh5 (31. R5a3 Nc5)
+31... Nc5 $13) 31. Nce2 Qb6 32. Nc3 Qb4 33. Nce2 Qb6 34. Ng3 d5 $2 {Is Black
+wanting to punish White for avoiding the repetition? It was much better to
+keep playing with restraint, without disturbing the balance.} (34... Re8 35.
+Qc3 (35. Nh5 d5 36. Qc3 dxc4 37. Nc6 (37. Nf5 e5 38. Nfxg7 Nb5 $15) 37... f6
+38. Nxf6+ gxf6 39. Qxf6 Qxc6 40. Qg6+ $11) 35... g6 36. f4 e5 37. fxe5 Rxe5 $11
+) (34... Nb5 35. Bxb5 axb5 $11) 35. exd5 exd5 36. Ndf5 Re8 (36... dxc4 $2 37.
+Ne7+ Kh8 38. Nxc8 Rxc8 39. Qxc5) 37. Qxc5 $2 {White spoils his chance to
+unleash an extremely unpleasant attack with the wicked queen move to c3.} (37.
+Qc3 $1 f6 (37... Bxf5 38. Nxf5 Qg6 (38... f6 39. Bxd5+ Nxd5 40. Qxc5 $16) 39.
+Rxc5 dxc4 40. Qxc4 $16) (37... N5e6 38. Bxd5 Bb5 39. Be4 Rbd8 40. Qa1 Rd7 41.
+c4 Red8 42. Qg1 Rd1 43. Nf1 Qxg1+ 44. Kxg1 $16) (37... Qg6 38. Rxc5 dxc4 39.
+Qxc4 $16) 38. Nxg7 $1 Kxg7 (38... Rf8 39. Qd4 dxc4 40. Rxc5 cxb3 41. cxb3 Qxb3
+42. Qxd7 Rf7 43. Qd2 Rxg7 44. Nf5 $18) 39. Nh5+ Kg6 40. Rxc5 dxc4 (40... Qxc5
+41. Qxf6+ Kxh5 42. g4+ Bxg4 43. hxg4#) 41. Rxc7 Re1+ (41... Kxh5 42. Rxd7 $16)
+42. Qxe1 Qxc7 43. Qe7 Qe5 44. Qxd7 Qxh5 45. Rxa6 $18) 37... dxc4 38. bxc4 Bxf5
+(38... Qxc5 39. Rxc5 Ne6 40. Rca5 Nc7 41. Kh2 $16) 39. Nxf5 Re2 40. Qxb6 Rxb6
+41. Kh2 {Ivanchuk has a pleasant advantage, but Black will keep pestering him
+with his pieces.} (41. c5 Rb4 42. Nd6 $16) (41. Nd4 Re3 42. Kg1 $16) 41... Rd2
+(41... Rg6 42. Ng3 Rf2 43. Re5 $16) 42. h4 (42. Rc5 Ne6 43. Rd5 Re2 44. Ng3 Re1
+45. c5 Rc6 46. Ne4 $16) 42... Kh7 43. h5 (43. Rc5 Ne6 44. Rd5 Rf2 45. Rd7 g5
+46. Kg1 Re2 47. Ng3 $16) 43... Rf6 44. Re5 Ne6 45. Rxa6 $2 {The tactics work
+against White, the whole advantage now goes up in a smoke.} (45. c5 Nf4 46. Ne3
+$14) 45... Nd4 $1 46. Rxf6 Nxf3+ 47. Kh3 Nxe5 48. Rd6 $6 {Fortunatelly for the
+Ukrainian player this second mistake will be less costly.} (48. Ra6 Rxc2 (48...
+Nxc4 49. Ra7 Kg8 50. Ra8+ Kh7 51. Ra7 Ne5 52. Re7 Rd5 53. Kg3 $11) 49. Nd6 Nxc4
+50. Rc6 Ne3 51. Rxc2 Nxc2 52. Nxf7 $11) 48... Rxc2 49. Rd5 Nxc4 50. Rc5 Ne3 (
+50... Rf2 51. Rxc4 Rxf5 52. g4 $15) 51. Rxc2 Nxc2 52. g4 {Topalov will find it
+impossible too activate his king without exchanging pawns with a nearly
+immediate draw.} Ne1 53. Kg3 Nd3 54. Kf3 Kg8 55. Ke4 Nc5+ 56. Kd5 Nd7 57. Ke4
+Kf8 58. Kf4 Nc5 59. Ke5 Ne6 60. Kd5 Ke8 61. Ke5 Kf8 {Both super grandmasters
+have seen the knight sacrifice on g7, Black refused to try it on the board.} (
+61... Kd7 62. Nxg7 $1 Nxg7 63. Kf6 Nxh5+ 64. gxh5 Ke8 65. Kg7 f5 66. Kxh6 f4
+67. Kg7 f3 68. h6 f2 $11) 62. Ke4 1/2-1/2
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.03"]
+[Round "11"]
+[White "Leko, Peter"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2753"]
+[BlackElo "2733"]
+[PlyCount "123"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Ne7 13. h4 Bh6 14. a4 bxa4
+15. Ncb4 O-O 16. Qxa4 Nxd5 17. Nxd5 a5 18. Bb5 Be6 19. Bc6 Rb8 20. b4 Bxd5 21.
+Bxd5 axb4 22. cxb4 Qb6 23. Rb1 Kh8 24. O-O f5 25. Qa5 fxe4 26. Qxb6 Rxb6 27.
+Rb3 Rc8 28. Ra1 g6 29. Ra8 Rxa8 30. Bxa8 Bf8 31. b5 Be7 32. g3 Bd8 33. Bxe4 d5
+34. Bxd5 Rd6 35. Bc6 Bb6 36. Rb2 Rd3 37. Kg2 Kg7 38. Be4 Ra3 39. g4 Bd4 40. Rc2
+Rb3 41. Rc7+ Kh8 42. Rc8+ Kg7 43. Rc7+ Kh8 44. Rb7 Rb2 45. h5 Rxf2+ 46. Kg3 Rf4
+47. h6 Rf8 48. Rc7 Bf2+ 49. Kg2 Be3 50. g5 Rb8 51. Rc3 Bd4 52. Rc6 Kg8 53. Bd5+
+Kf8 54. Bc4 Ke7 55. Rc7+ Kd6 56. Rxh7 e4 57. Rg7 Kc5 58. Rc7+ Kd6 59. Rc6+ Ke5
+60. Rxg6 Kf5 61. Rd6 Be3 62. h7 1-0
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.03"]
+[Round "11"]
+[White "Radjabov, Teimour"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[WhiteElo "2735"]
+[BlackElo "2799"]
+[PlyCount "35"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3 Nf6 7. Nf4 e5 8.
+Nxg6 hxg6 9. dxe5 Qa5+ 10. Bd2 Qxe5+ 11. Qe2 Qxe2+ 12. Bxe2 Nbd7 13. O-O O-O-O
+14. Rad1 Nb6 15. Bc1 Bd6 16. Rfe1 Kc7 17. h3 Rhe8 18. Bd3 1/2-1/2
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.04"]
+[Round "12"]
+[White "Ivanchuk, Vassily"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2751"]
+[BlackElo "2735"]
+[PlyCount "115"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 Bg7 12. c3 f5 13. exf5 Bxf5 14. Nc2 Be6
+15. g3 O-O 16. Bg2 f5 17. O-O a5 18. Re1 Rc8 19. Nce3 Kh8 20. Qh5 b4 21. Rad1
+bxc3 22. bxc3 Ne7 23. c4 Nxd5 24. Bxd5 Qf6 25. Re2 f4 26. Be4 Qh6 27. Qxh6 Bxh6
+28. Rxd6 fxe3 29. Rxe6 exf2+ 30. Kf1 Rxc4 31. Rc6 Rxc6 32. Bxc6 Bg7 33. Be4 Rf6
+34. Rb2 Bf8 35. Rb5 a4 36. Rxe5 a3 37. Bf5 Rh6 38. h4 Bd6 39. Re8+ Kg7 40. Kxf2
+Rf6 41. g4 h5 42. Kf3 hxg4+ 43. Kxg4 Rf8 44. Re6 Rf6 45. Re3 Bb4 46. h5 Rd6 47.
+Be6 Kf6 48. Bb3 Rd4+ 49. Kf3 Bd2 50. Re6+ Kg5 51. Re5+ Kh6 52. Ke2 Bg5 53. Ra5
+Kxh5 54. Rxa3 Kg4 55. Be6+ Kf4 56. Bh3 Ke5 57. Ra5+ Rd5 58. Rxd5+ 1/2-1/2
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.06"]
+[Round "13"]
+[White "Ivanchuk, Vassily"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "B88"]
+[WhiteElo "2751"]
+[BlackElo "2799"]
+[PlyCount "45"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
+Nc6 9. f4 Qc7 10. Kh1 O-O 11. f5 Nxd4 12. Qxd4 b5 13. fxe6 Bxe6 14. Bf4 Qc5 15.
+Qd3 b4 16. Ne2 d5 17. e5 Ne4 18. Be3 Qc7 19. Nf4 Qxe5 20. Bxd5 Bxd5 21. Nxd5
+Rad8 22. Rad1 Bd6 23. Bf4 1/2-1/2
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.06"]
+[Round "13"]
+[White "Radjabov, Teimour"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2735"]
+[BlackElo "2755"]
+[Annotator "Radjabov"]
+[PlyCount "57"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. e4 {Well, I wanted to have my revenge after the first part in Morelia where
+I lost to Alexey with Black in the 7th round of this tournament. Also, ich
+brannte auf Revanche nach dem ersten Teil in Morelia, wo ich gegen Alexey mit
+Schwarz in der 7. Runde dieses Turniers verloren hatte.} c5 2. Nf3 d6 {An
+aggressive choice. Alexey was doing badly in Linares and wanted to change the
+situation finally. To win a game would be nice to start with. So the Najdorf.
+Eine aggressive Wahl. Alexey erging es in Linares nicht gut, und er wollte die
+Lage endlich ändern. Eine Partie zu gewinnen, wäre ein guter Anfang. Daher der
+Najdorf.} 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5 Be6 9.
+Bxf6 Bxf6 10. Qd3 {Black has many options here, but Shirov goes for the most
+natural. Black is developing and even attacking White's setup. An dieser
+Stelle hat Schwarz viele Möglichkeiten, aber Shirov wählt das Natürlichste.
+Der Nachziehende entwickelt sich und greitt den weißen Aufbau sogar an.} Nc6
+11. O-O-O Nd4 12. Nxd4 exd4 13. Nd5 Bxd5 14. exd5 O-O 15. Qf3 Re8 ({If Black
+goes for  Falls Schwarz hier} 15... Qa5 {follows wählt, so} 16. Kb1 (16. Bd3
+Qxa2 17. Qf5 Rfe8 18. Qxh7+ Kf8 19. Qh8+ Ke7 20. Rde1+ Be5 21. Qxg7 Qa1+ 22.
+Kd2 Qa5+ $11) 16... d3 17. Bxd3 Qb4 18. c3 $1 Bxc3 19. Bxh7+ Kxh7 20. Qxc3 $16)
+(15... d3 16. Bxd3 {with a pawn up for White and interesting play. mit
+Mehrbauern für Weiß und interessantem Spiel.}) 16. Bd3 Re5 {Black tries to
+activate his forces and go for Qa5-xd5. White has to be accurate if he wants
+to gain something.  Schwarz versucht, seine Kräfte zu aktivieren und zu
+Qa5-xd5 zu kommen. Weiß muss genau spielen, wenn er etwas herausholen will.}
+17. Kb1 {Waiting for Black's attack on the d5-pawn and protecting himself
+against ...Qa5. Wartet den Angriff von Schwarz auf den d5-Bauern ab und
+wappnet sich gegen ...Qa5.} Qa5 {Still now Black goes for the d5-pawn. So
+White has to react, otherwise it will be a simply drawish endgame after
+Qxd5-Qxd5-Rxd5 then g6-h5 and so on.   Trotzdem stürzt sich Schwarz jetzt auf
+den d5-Bauern. Weiß muss daher reagieren, sonst wird es einfach ein
+remisliches Endspiel nach  Qxd5-Qxd5-Rxd5, dann g6-h5 und so weiter.} 18. g4 $1
+{Now White prepares h4 with g5 to follow. I think that this exact position is
+quite playable for both sides. But White looks preferable - at least according
+to statistics! Jetzt bereitet der Anziehende h4 nebst g5 vor. Ich denke, dass
+genau diese Stellung für beide Seiten durchaus spielbar ist. Allerdings ist
+Weiß offenbar vorzuziehen - zumindest laut der Statistik!} Qxd5 19. Qxd5 Rxd5
+20. f4 {A pretty harmless looking endgame, which might be true if somebody
+finds an easy way to improve on Black's play; but still I was happy to have
+this position on the board. Das Endspiel wirkt ziemlich harmlos, was sogar
+zutreffen könnte, falls jemand einen einfachen Weg findet, das Spiel von
+Schwarz zu verbessern; nichtsdestoweniger war ich glücklch, die Stellung auf
+dem Brett zu haben.} Bh4 $2 (20... g6 $4 21. b4 $1 $18 Rc8 22. a4 Rc3 23. Ka2
+$18 {And Be4 to come , trapping the d5-rook and taking the point. nebst Be4,
+was den Turm d5 fängt und den Punkt einfährt.}) (20... g5 {This move is
+possible; after it White is slightly better in the endgame. There are some
+examples in the database. fxg5, Rdf1 and so on are possible. Still it was the
+best move here. Dieser Zug ist möglich; danach steht Weiß im Endspiel leicht
+besser. Dazu gibt es einige Beispiele in der Datenbank; weitergehen könnte es
+mit fxg5, Rdf1 usw. Dennoch war dies hier die beste Fortsetzung.}) (20... Rc5
+21. g5 Bd8 22. Rhe1 (22. Rde1 Kf8 23. h4 h5 24. Re4 Bb6 25. Rhe1)) 21. b4 $1 {
+Now rook is trapped on d5! Nun ist der Turm auf d5 gefangen!} Rc8 {The only
+way to try to bring the rook back into the game after 22.Be4 d3!!   Der
+einzige Versuch, den Turm wieder ins Spiel zu bringen, und zwar nach 22.Be4
+d3!!} 22. a4 $1 {The most precise. Now it's impossible to save the rook on d5.
+Am genauesten. Nun ist der Turm auf d5 nicht zu retten.} (22. c4 $5 dxc3 23.
+Bxh7+ Kxh7 24. Rxd5 c2+ 25. Kc1 Bf2 {and Black retains some drawing chances.
+und Schwarz wahrt einige Remischancen.}) 22... Rc3 (22... Bf6 23. Be4 $1 d3 24.
+c3 $3 Rxc3 25. Bxd5 Ra3 26. Ba2 $18 (26. Kc1 $18)) (22... f5 23. gxf5 $18) 23.
+Kb2 (23. Rc1 $5 {Both Grandmaster Ljuboevic and I saw this move instantly. I
+was at the board and I heard  Ljuboevic's assesment after the game  when he
+told me about this move. We discussed and we came to conclusion that it was
+ALSO winning, but in fact it was even slightly cleaner from cybernetic point
+of view. The main reason was that we considered the position after 23..f5! 24.
+gxf5 g6, then taking on f5 and going for Bf6 as STILL offering chances. But we
+also understood that fxg6-hxg6-Rhg1 SHOULD BE WINNING. But it's easily winning
+in fact. Just a totally winning position. So all we analysed was right. Sowohl
+Großmeister Ljuboevic als auch ich selbst sahen diesen Zug sofort. Ich saß am
+Brett und hörte nach der Partie Ljuboevics Einschätzung, als er mir von diesem
+Zug erzählte. Wir diskutierten, und wir kamen zu dem Ergebnis, dass er AUCH
+gewinnt, tatsächlich aber in kybernetischer Sicht etwas sauberer war. Der
+Hauptgrund war, dass wir die Stellung nach 23...f5! 24.gxf5 g6 nebst Schlagen
+auf f5 und der Absicht Bf6 als NOCH Chancen bietend einschätzten. Aber wir
+begriffen auch, dass fxg6-hxg6-Rhg1 GEWINNEN SOLLTE. Tatsächlich gewinnt es
+leicht. Einfach eine totale Gewinnstellung. Also war alles, was wir analysiert
+hatten, richtig.} f5 24. gxf5 g6 {The only way. Now Black wants to give up an
+exchange, get the pawn on f5 and bring the bishop to f6. This would create a
+sort of fortress. Die einzige Möglichkeit. Nun will Schwarz eine Qualität
+geben, den Bauern nach f5 bekommen und den Läufer nach f6 bringen. Danach
+entstünde eine Art Festung.} (24... Rxd3 {The idea is that now compared to the
+text White's rook is already on c1 instead of king on b2 which is more
+important here. White will have the possibility of penetration by  Rc8 or Rc7!
+Die Idee ist, dass nun im Vergleich zum Text statt des Königs auf b2 der weiße
+Turm bereits auf c1 steht, was hier wichtiger ist. Weiß wird die Möglichkeit
+haben, mit Rc8 oder Rc7 einzudringen!} 25. cxd3 Rxf5 26. Rc8+ $18) 25. Rhg1 $1
+Kf7 26. fxg6+ hxg6 27. Rg4 $1 {A strong intermediate move. Now Black can't
+play Rh5 due to Bxg6+, and also there is no single satisfactory square for the
+bishop. White goes for Rcg1 next, and it's totally winning due to the fact
+that the g6-pawn falls after   Ein starker Zwischenzug. Nun kann Schwarz nicht
+Rh5 spielten wegen Bxg6+, außerdem der Läufer kein einziges befriedigendes
+Feld. Weiß spielt als nächstes Rcg1 und steht total auf Gewinn aufgrund der
+Tatsache, dass der g6-Bauern fällt nach[%csl Rd5,Rg6][%cal Gc1g1]} Be7 28. Rcg1
+Bf6 29. R4g3 {[%csl Rg6][%cal Gd3e4]} Kf8 30. Rxg6 Kf7 31. Rh6 $18 {[%csl Rd5,
+Rf6,Rf7][%cal Gd3e4,Gh6h7]}) 23... f5 $8 (23... Rxd3 24. cxd3 $18 (24. Rxd3)) (
+23... Bf6 24. g5 $18 (24. Be4 d3 25. Bxd5 Rc5+ 26. Kb3 Rxd5 (26... Rc3+ 27. Ka2
+Rxc2+ 28. Ka3 Rc3+ 29. Bb3 $18) 27. Rxd3)) 24. gxf5 $1 (24. Bxf5 $2 Rxf5 25.
+gxf5 Rc4 $1 $132) 24... Rxd3 25. cxd3 Rxf5 26. Rc1 $1 {A very strong and
+important move! Otherwise Black still has chances to create some kind of
+fortress, by a5 or Bd8-b6-a5 etc... So White should not lose time here. Ein
+ganz starker und wichtiger Zug! Andernfalls hat Schwarz noch Chancen,
+irgendeine Art von Festung aufzubauen, mit a5 oder Bd8-b6-a5 usw... Daher
+sollte Weiß hier keine Zeit verlieren.} Rxf4 27. Rhf1 (27. Rc8+ Kf7 28. Rc7+
+Ke6 29. Rxb7 Rf2+ 30. Kb1 $18) 27... Rxf1 (27... g5 28. Rxf4 gxf4 29. Rf1 $18)
+28. Rxf1 Bd8 (28... Bg5 29. Rf2 $1 h5 30. a5 $1 $18 {White is much faster:
+Rc2-c7 and Rxb7 with b5. Also if Black promotes pawns it will be mate after a8
+Q - just in case :) Weiß ist viel schneller: Rc2-c7 und Rxb7 nebst b5. Auch
+falls Schwarz einen Bauern umwandelt, wird es nach a8 Q Matt sein - nur für
+den Fall:)}) 29. a5 $1 {The most precise and a great move. Now Black has to
+resign. White threatens to go Rc1-c8-b8 xb7 after which the position is
+totally winning. Am genauesten, und ein großartiger Zug. Nun muss Schwarz
+aufgeben. Weiß droht Rc1-c8-b8 xb7, wonach die Stellung total gewonnen ist.}
+1-0
+
+[Event "Morelia/Linares 25th"]
+[Site "Morelia/Linares"]
+[Date "2008.03.07"]
+[Round "14"]
+[White "Anand, Viswanathan"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2799"]
+[BlackElo "2780"]
+[PlyCount "45"]
+[EventDate "2008.02.15"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.04.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Qd3 Nc6 11. O-O-O Qb6 12. Qxd6 Be7 13. Nd5 Bxd5 14. Qxd5
+O-O 15. Qd2 Qxf2 16. Bc4 Qh4 17. Qe2 Rac8 18. a3 Bf6 19. Kb1 Nd4 20. Nxd4 exd4
+21. g3 Qg5 22. Rhf1 Qe3 23. Rf3 1/2-1/2
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.16"]
+[Round "1"]
+[White "Carnic, Srdjan"]
+[Black "Vasovski, Nikola"]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[WhiteElo "2327"]
+[BlackElo "2368"]
+[PlyCount "20"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 1/2-1/2
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.16"]
+[Round "1"]
+[White "Cetkovic, Miodrag"]
+[Black "Drljevic, Ljilja"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2252"]
+[BlackElo "2263"]
+[PlyCount "93"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 h6 6. Bf4 Nbd7 7. O-O-O a6 8. e5
+Nh5 9. e6 fxe6 10. Bd3 Nf8 11. Nf3 c6 12. Be3 Qa5 13. Nh4 Kf7 14. Kb1 Nf6 15.
+Qe2 Qh5 16. Nf3 b5 17. h3 b4 18. Ne4 Qa5 19. Nxf6 Bxf6 20. g4 Bb7 21. h4 Bg7
+22. Bc4 Rc8 23. Rhe1 d5 24. Bd3 Qc7 25. h5 c5 26. Bxg6+ Nxg6 27. hxg6+ Kxg6 28.
+Qd3+ Kf7 29. dxc5 e5 30. Qf5+ Kg8 31. Qe6+ Kf8 32. Nh4 Rh7 33. Ng6+ Ke8 34.
+Qg8+ Kd7 35. Qxh7 Bf6 36. f4 e4 37. Bd4 Bxd4 38. Qxe7+ Kc6 39. Qxc7+ Rxc7 40.
+Rxd4 Kxc5 41. c3 a5 42. Kc1 Ba6 43. f5 Bc4 44. Nf4 Rb7 45. Ne6+ Kd6 46. b3 Bd3
+47. c4 1-0
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.16"]
+[Round "1"]
+[White "Mijovic, Aleksandra"]
+[Black "Andrejic, Vladica"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[WhiteElo "2216"]
+[BlackElo "2269"]
+[PlyCount "250"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Kh1 Nxd4 9. Qxd4 Bc5 10. Qd3 b5 11. Bf3 Rb8 12. Bg5 h5 13. Bh4 Bb7 14. e5 Ng4
+15. Bxb7 Nxe5 16. Qg3 Rxb7 17. Qxg7 Ng6 18. Nd5 Qc6 19. Nf6+ Kd8 20. Bg5 d6 21.
+Nxh5+ Kc8 22. Nf4 Qe8 23. Qc3 Nxf4 24. Bxf4 Rc7 25. Qf3 Qc6 26. Qxc6 Rxc6 27.
+c3 Kd7 28. a4 b4 29. Rac1 bxc3 30. Rxc3 Rb8 31. b3 Bd4 32. Rd3 e5 33. Be3 Rc3
+34. Rxc3 Bxc3 35. Rb1 d5 36. Kg1 d4 37. Bg5 Ke6 38. f3 f5 39. Kf2 Kd5 40. h4 e4
+41. g4 fxg4 42. fxe4+ Kxe4 43. Kg3 d3 44. Kxg4 d2 45. h5 Rg8 46. Kh4 Kf3 47.
+Rh1 Be5 48. Rh3+ Ke2 49. Re3+ Kf2 50. Rd3 Rxg5 51. Kxg5 Ke2 52. Rd5 Bc3 53. h6
+d1=Q 54. Rxd1 Kxd1 55. h7 a5 56. b4 axb4 57. a5 b3 58. a6 b2 59. a7 b1=Q 60.
+a8=Q Qb5+ 61. Kg4 Qd7+ 62. Kf4 Qf7+ 63. Kg4 Qe6+ 64. Kf4 Bd2+ 65. Kg3 Qe5+ 66.
+Kg2 Qg5+ 67. Kf3 Qf4+ 68. Kg2 Qg4+ 69. Kf2 Qh4+ 70. Kg2 Qg4+ 71. Kf2 Qe2+ 72.
+Kg3 Be1+ 73. Kf4 Qh2+ 74. Kf5 Qxh7+ 75. Ke6 Qh3+ 76. Kd6 Bb4+ 77. Ke5 Qg3+ 78.
+Kf5 Qh3+ 79. Ke5 Bc3+ 80. Kd6 Qg3+ 81. Ke6 Qg4+ 82. Kd6 Qf4+ 83. Ke6 Qe5+ 84.
+Kd7 Qf5+ 85. Kd6 Bb4+ 86. Kc7 Qe5+ 87. Kc8 Qc5+ 88. Kd7 Qd6+ 89. Kc8 Qf8+ 90.
+Kb7 Qf3+ 91. Kb8 Bd6+ 92. Ka7 Bc5+ 93. Kb8 Qf8+ 94. Kb7 Qe7+ 95. Ka6 Qe2+ 96.
+Kb7 Qb5+ 97. Kc8 Qe8+ 98. Kb7 Qb5+ 99. Kc8 Qe8+ 100. Kb7 Qe4+ 101. Kb8 Bd6+
+102. Ka7 Qa4+ 103. Kb7 Qb5+ 104. Kc8 Qc5+ 105. Kd7 Qc7+ 106. Ke6 Qe7+ 107. Kd5
+Qe5+ 108. Kc4 Qe2+ 109. Kd4 Qf2+ 110. Kc4 Qc5+ 111. Kd3 Qc2+ 112. Kd4 Qf2+ 113.
+Kc4 Qe2+ 114. Kd4 Be5+ 115. Kc5 Qc2+ 116. Kb6 Bd4+ 117. Kb7 Qb3+ 118. Kc8 Qc4+
+119. Kb7 Qb5+ 120. Kc8 Qe8+ 121. Kb7 Qd7+ 122. Ka6 Qd6+ 123. Kb7 Qb6+ 124. Kc8
+Qe6+ 125. Kb7 Qd7+ 1/2-1/2
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.16"]
+[Round "1"]
+[White "Nadj Hedjesi, Balind"]
+[Black "Milovic, Jovan"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2376"]
+[BlackElo "2268"]
+[PlyCount "115"]
+[EventDate "2008.02.16"]
+[EventType "team"]
+[EventRounds "12"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 cxd4 5. O-O a6 6. Bc4 e6 7. d3 b5 8. Bb3
+Bb7 9. f4 Nf6 10. Nd2 Qb6 11. Nf3 h5 12. h3 Bc5 13. Ng5 Ke7 14. a4 Raf8 15. Bd2
+h4 16. axb5 axb5 17. Qe1 Rh5 18. Kh1 Ne8 19. Qe2 Rhh8 20. Ba5 Qc6 21. c3 Nf6
+22. Rfc1 Nh5 23. Qf3 Qd6 24. cxd4 Bb4 25. e5 Qxd4 26. Bxb4+ Qxb4 27. Qxb7 Qxb3
+28. Qc7 Rd8 29. Qd6+ Ke8 30. Ra7 Ng3+ 31. Kh2 Nf5 32. Qa3 Qxa3 33. bxa3 Ke7 34.
+Rcc7 Ne3 35. Ne4 Nd5 36. Rcb7 Rhe8 37. Nc5 Kf8 38. Nxd7+ Kg8 39. Nc5 Nxf4 40.
+Rxf7 Nh5 41. Rfd7 Rxd7 42. Rxd7 Ng3 43. Rd4 Nf5 44. Rb4 Rc8 45. Nxe6 Re8 46.
+Nd4 Nxd4 47. Rxd4 Rxe5 48. Rxh4 Rd5 49. d4 Kf7 50. Kg3 Rd7 51. Kf2 Kg6 52. Re4
+Rf7+ 53. Ke2 Ra7 54. Re3 Kf5 55. d5 Rd7 56. Rd3 Ke4 57. d6 g5 58. Kd2 1-0
+
+[Event "Belgrade tt"]
+[Site "Belgrade"]
+[Date "2008.02.16"]
+[Round "1"]
+[White "Nestorovic, Lazar"]
+[Black "Stojanovic, Marija R"]
+[Result "1-0"]

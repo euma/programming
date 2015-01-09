@@ -1,0 +1,600 @@
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2137"]
+[BlackElo "2363"]
+[PlyCount "73"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. h3 O-O 8. Bd3
+b6 9. O-O Bb7 10. Re1 Nc6 11. Bg5 Nb4 12. Bxf6 Bxf6 13. cxd5 Nxd3 14. Qxd3 Bxd5
+15. Nxd5 Qxd5 16. b3 Rfd8 17. Rad1 Rd6 18. Qe4 Rad8 19. g3 Qb5 20. Kg2 Qb4 21.
+h4 Rd5 22. Rc1 Qd6 23. Rc4 b5 24. Rc2 e6 25. Rec1 Bxd4 26. Rc6 Qe7 27. h5 gxh5
+28. Rc7 Qf6 29. Rc8 Bb6 30. R1c2 Rxc8 31. Rxc8+ Kg7 32. Qb4 Bd8 33. Rb8 Qf5 34.
+Qc3+ Bf6 35. Qc8 Rd8 36. Qb7 Rd3 37. Qa8 1-0
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "2.1"]
+[White "Rasidovic, Sead"]
+[Black "Grujic, Milenko"]
+[Result "1-0"]
+[ECO "B29"]
+[WhiteElo "2356"]
+[BlackElo "2086"]
+[PlyCount "175"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 e6 4. e5 Nd5 5. Nxd5 exd5 6. d4 d6 7. Bb5+ Nc6 8.
+O-O Be7 9. exd6 Qxd6 10. dxc5 Qxc5 11. Bd3 O-O 12. Be3 Qb4 13. Nd4 Bf6 14. Nb5
+Be6 15. c3 Qe7 16. Bf4 Rfd8 17. Re1 Qd7 18. Nc7 Rac8 19. Nxe6 fxe6 20. Qg4 Re8
+21. Re3 Qf7 22. Rh3 g6 23. Re1 a6 24. Bb1 Rcd8 25. Rf3 Qd7 26. Bg3 Bg7 27. h4
+e5 28. Qxd7 Rxd7 29. Rfe3 Red8 30. h5 gxh5 31. Bf5 Rd6 32. Rd3 Bf6 33. Red1 h4
+34. Bh2 b5 35. Rxd5 Rxd5 36. Rxd5 Rxd5 37. Be6+ Kf8 38. Bxd5 Nd8 39. Kf1 Ke7
+40. Ke2 Kd6 41. Be4 h6 42. Kd2 Ne6 43. Kc2 Bg5 44. b4 Bd8 45. Kd2 Bb6 46. Ke1
+a5 47. a3 axb4 48. axb4 Bd8 49. Ke2 Bg5 50. Bg1 Nf4+ 51. Kd1 Nd5 52. Kc2 Nf6
+53. Bd3 Kc6 54. c4 bxc4 55. Bxc4 Nd5 56. Kb3 Nf4 57. b5+ Kd6 58. Bf1 e4 59. Kc4
+Ke5 60. b6 Bd8 61. b7 Bc7 62. Bh2 Bb8 63. g3 hxg3 64. Bxg3 Ba7 65. Bh3 Bb8 66.
+Bc8 Bc7 67. Bg4 Bb8 68. Kc5 Bd6+ 69. Kc6 Bb8 70. Kd7 Kd4 71. Kc8 Be5 72. b8=Q
+Bxb8 73. Kxb8 Nd3 74. Be2 Nc1 75. Ba6 e3 76. f4 Ke4 77. Bb7+ Kf5 78. Bc8+ Kg6
+79. Bh4 Nd3 80. f5+ Kg7 81. Ba6 Nf4 82. Bc4 e2 83. f6+ Kf8 84. Be1 Ng6 85. Bb4+
+Ke8 86. f7+ Kd7 87. Bxe2 Ke6 88. f8=Q 1-0
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "2.1"]
+[White "Sadikovic, Jasmin"]
+[Black "Mestrovic, Zvonimir"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2042"]
+[BlackElo "2337"]
+[PlyCount "80"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nc6 2. d4 d6 3. Nc3 Nf6 4. f3 e5 5. d5 Ne7 6. Be3 c6 7. Qd2 cxd5 8. exd5
+Nf5 9. Bb5+ Bd7 10. Bxd7+ Nxd7 11. Bf2 Be7 12. Nge2 O-O 13. O-O g6 14. Rae1 a6
+15. Nc1 Rc8 16. Nd3 Nb6 17. f4 Nc4 18. Qc1 exf4 19. Nxf4 Bf6 20. Nd1 Qa5 21. a3
+Qd2 22. Nc3 Qxc1 23. Rxc1 Nxa3 24. Nfe2 Nc4 25. b3 Bxc3 26. Nxc3 Nce3 27. Ne4
+Nxf1 28. Kxf1 h5 29. h3 h4 30. c4 Kg7 31. Be1 Rce8 32. Bc3+ f6 33. Ng5 Ng3+ 34.
+Kf2 Ne2 35. Ne6+ Rxe6 36. Re1 Nxc3 37. Rxe6 f5 38. Ke3 Ne4 39. Re7+ Rf7 40. Re8
+b5 0-1
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "2.2"]
+[White "Ascic, Pero"]
+[Black "Koso, Ekrem"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2369"]
+[BlackElo "2074"]
+[PlyCount "166"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Be3 Nf6 7. O-O Ne5 8. h3
+Nxd3 9. cxd3 Be7 10. a4 d5 11. e5 Nd7 12. f4 O-O 13. Nd2 Nc5 14. N2b3 Nxb3 15.
+Qxb3 Qa5 16. Nf3 Qb4 17. Qxb4 Bxb4 18. Rfc1 Bd7 19. Bc5 Bxc5+ 20. Rxc5 Rfc8 21.
+Rxc8+ Rxc8 22. Nd4 a5 23. Kf2 Kf8 24. Ke3 Ke7 25. Kd2 f6 26. h4 h6 27. g3 b6
+28. b3 Kf7 29. Re1 f5 30. Rg1 Rc5 31. g4 fxg4 32. Rxg4 b5 33. axb5 g6 34. Rg1
+Bxb5 35. Ra1 Bd7 36. b4 axb4 37. Ra7 Ke8 38. h5 gxh5 39. f5 exf5 40. e6 Bxe6
+41. Nxe6 Rc6 42. Ng7+ Kf8 43. Nxh5 b3 44. Rb7 Rc2+ 45. Ke3 b2 46. Nf4 Kg8 47.
+Nxd5 Rh2 48. Nf4 h5 49. d4 h4 50. d5 Rc2 51. d6 Rc6 52. d7 Rd6 53. Nh5 Kf8 54.
+Kf4 Rxd7 55. Rxb2 Kf7 56. Kg5 h3 57. Nf4 Ra7 58. Rb6 h2 59. Rh6 Ke7 60. Rxh2
+Kd6 61. Kf6 Ra1 62. Rc2 Rb1 63. Rd2+ Kc6 64. Ke6 Re1+ 65. Kf6 Ra1 66. Ke7 Re1+
+67. Kf6 Ra1 68. Kxf5 Re1 69. Nd3 Rh1 70. Ke4 Rh4+ 71. Nf4 Rh8 72. Rc2+ Kd6 73.
+Ng6 Ra8 74. Rd2+ Kc5 75. Rd5+ Kb6 76. Rd1 Kc5 77. Rc1+ Kd6 78. Ne5 Ra4+ 79. Kf5
+Ra2 80. Rd1+ Kc5 81. Nd3+ Kc4 82. Ke5 Re2+ 83. Kd6 Kc3 1/2-1/2
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "2.2"]
+[White "Nurkic, Sahbaz"]
+[Black "Muratovic, Efim"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2402"]
+[BlackElo "2306"]
+[PlyCount "59"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. h3 Nh6 8. d3
+f6 9. Be3 b6 10. c3 Be6 11. d4 cxd4 12. cxd4 Nf7 13. Nc3 O-O 14. Qe2 Qe7 15.
+Red1 Rfd8 16. Rac1 f5 17. dxe5 Nxe5 18. Nxe5 Bxe5 19. exf5 Bxf5 20. Re1 Bd3 21.
+Qg4 Qf7 22. Rcd1 c5 23. Bg5 Rd4 24. Rxe5 Rxg4 25. hxg4 Qc4 26. Nd5 Rf8 27. Nf6+
+Rxf6 28. Bxf6 Qf4 29. g5 c4 30. Rde1 1-0
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "2.2"]
+[White "Predojevic, Borki"]
+[Black "Bodiroga, Predrag"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2634"]
+[BlackElo "2431"]
+[PlyCount "73"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 e6 8. Ne5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Nd7 11. f4 Ngf6 12. Bd2 Bd6 13. O-O-O O-O 14. Ne4 Nxe4
+15. Qxe4 Nf6 16. Qe2 h5 17. g4 Nxg4 18. Nxg4 hxg4 19. Qxg4 f5 20. Qe2 Rf6 21.
+Kb1 Bf8 22. h5 Kh7 23. Be1 Qd5 24. Bh4 Rf7 25. Qf2 Be7 26. Bxe7 Rxe7 27. Rhg1
+Rf8 28. Rg6 e5 29. fxe5 Rxe5 30. Rdg1 Re7 31. h6 Rfe8 32. Rxg7+ Kh8 33. b3 Re6
+34. Rxb7 c5 35. Rxa7 cxd4 36. h7 Qe5 37. Qg2 1-0
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "2.3"]
+[White "Kobas, Adnan"]
+[Black "Trumic, Enes"]
+[Result "1/2-1/2"]
+[ECO "B53"]
+[WhiteElo "2321"]
+[BlackElo "2332"]
+[PlyCount "17"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 bxc6 7. c4 e5 8.
+Qd3 Qc7 9. Nc3 1/2-1/2
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "2.3"]
+[White "Lugavic, Alija"]
+[Black "Bajramovic, Halid"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2072"]
+[BlackElo "2212"]
+[PlyCount "84"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 Nc6 4. c3 e5 5. Ne2 d5 6. exd5 Qxd5 7. O-O exd4 8.
+Bf4 Bd6 9. Bxd6 Qxd6 10. Nxd4 Nxd4 11. cxd4 O-O 12. Nc3 Rd8 13. Qc2 c6 14. Rad1
+Bg4 15. Rd2 Qf4 16. Ne4 h6 17. Nxf6+ Qxf6 18. Qc3 Rd7 19. f3 Be6 20. Bb1 Rad8
+21. Rfd1 Rd5 22. b3 c5 23. b4 cxd4 24. Qb2 R5d6 25. Bd3 Qf4 26. Be4 b5 27. Qa3
+a6 28. g3 Qf6 29. Kf2 Bc4 30. Qb2 R8d7 31. a3 g6 32. Kg2 h5 33. h3 Qe5 34. Bd3
+Qf6 35. Re2 Rd8 36. Qd2 Bd5 37. Be4 Bb3 38. Rde1 Re8 39. g4 Bc4 40. Rf2 h4 41.
+Qh6 Qd8 42. g5 Re5 0-1
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "2.3"]
+[White "Pasalic, Harun"]
+[Black "Komadaric, Edin"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2204"]
+[BlackElo "2122"]
+[PlyCount "46"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. d4 c6 5. Be2 Bg4 6. O-O e6 7. b3 Bd6 8. Ne5
+Bxe2 9. Qxe2 O-O 10. c4 Ne7 11. Nc3 Bb4 12. Bb2 Nf5 13. Rad1 Qa5 14. Ne4 Qxa2
+15. Rd3 Ba3 16. Qg4 f6 17. Bxa3 Qxa3 18. Nf3 Na6 19. d5 cxd5 20. cxd5 Nb4 21.
+dxe6 Nh6 22. Nxf6+ Rxf6 23. Qc4 Nxd3 0-1
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "2.5"]
+[White "Mrndzic, Muamer"]
+[Black "Tomic, Bosko"]
+[Result "1/2-1/2"]
+[ECO "B35"]
+[WhiteElo "2141"]
+[BlackElo "2379"]
+[PlyCount "51"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+O-O d6 9. h3 Bd7 10. Bb3 Qa5 11. f3 Rac8 12. Qd2 Rfe8 13. Nxc6 Bxc6 14. Rad1
+Nd7 15. Bd4 Bxd4+ 16. Qxd4 Qc5 17. Rf2 b5 18. Qxc5 Nxc5 19. a3 Rb8 20. Nd5 Kf8
+21. Ba2 Rec8 22. c3 a5 23. Nf4 Na4 24. Bb3 Nc5 25. Ba2 Na4 26. Bb3 1/2-1/2
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "2.5"]
+[White "Mujic, Hamza"]
+[Black "Mehmedovic, Mirza"]
+[Result "0-1"]
+[ECO "B15"]
+[WhiteElo "2319"]
+[BlackElo "2240"]
+[PlyCount "74"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 c6 3. Nc3 Bg7 4. Nf3 d5 5. h3 Nh6 6. Bd3 O-O 7. O-O f6 8. Qe2
+Nf7 9. Rd1 e6 10. Na4 Re8 11. c3 f5 12. exf5 exf5 13. Qc2 Nd7 14. Bf4 Nf8 15.
+Re1 Ne6 16. Bh2 Bd7 17. Nc5 Nxc5 18. dxc5 Qa5 19. Qb3 b6 20. cxb6 Qxb6 21.
+Rxe8+ Rxe8 22. Qxb6 axb6 23. a4 Rc8 24. a5 bxa5 25. Rxa5 c5 26. Bf4 h6 27. Bb1
+g5 28. Ra7 Be6 29. Re7 Rc6 30. Re8+ Bf8 31. Be3 Bd7 32. Ra8 f4 33. Bc1 Be6 34.
+b4 cxb4 35. Nd4 Rc8 36. Ra6 Bd7 37. Ra7 Be8 0-1
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.1"]
+[White "Burovic, Ismet"]
+[Black "Konjicanin, Muris"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2363"]
+[BlackElo "2250"]
+[PlyCount "124"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 Bg4 5. h3 Bh5 6. g4 Bg6 7. Ne5 Nd7 8.
+Nxg6 hxg6 9. d4 e6 10. Bg2 c6 11. Bf4 Ngf6 12. O-O Nb6 13. Be5 Nc4 14. Qe2 Nxe5
+15. dxe5 Nd7 16. a3 a5 17. Rfe1 Qc7 18. Nb1 Bc5 19. Nd2 Rd8 20. Rab1 O-O 21.
+Nf3 Nb6 22. b4 Be7 23. c4 axb4 24. axb4 Ra8 25. Qc2 Ra3 26. h4 Rfa8 27. h5 g5
+28. Qe4 Rc3 29. Bf1 Raa3 30. Re3 Rxe3 31. fxe3 Nd7 32. Bd3 Nf8 33. Nd4 Qb8 34.
+c5 Qa7 35. Nc2 Ra4 36. Rf1 Qb8 37. Qf3 f6 38. exf6 gxf6 39. Kg2 Qe5 40. Kh3 Kg7
+41. Bc4 Bxc5 42. Bb3 Bd6 43. Qxf6+ Qxf6 44. Rxf6 Rxb4 45. Rxf8 Rxb3 46. Rd8 Be5
+47. Kg2 Rb2 48. Rd2 b5 49. Kf3 Kf7 50. Ke4 Bf6 51. Rf2 Ke7 52. Kd3 b4 53. Rf1
+c5 54. Rc1 Rb3+ 55. Kd2 c4 56. h6 Rb2 57. Kd1 Kf7 58. Ra1 Kg6 59. Ra6 b3 60.
+Na3 Ra2 61. Ra5 Ra1+ 62. Kd2 c3+ 0-1
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.1"]
+[White "Mestrovic, Zvonimir"]
+[Black "Tutic, Resad"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2337"]
+[BlackElo "2232"]
+[PlyCount "39"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Nc6 5. d4 e5 6. Bb5 cxd4 7. Qe2 Bd7 8.
+Nxd4 Nxd4 9. cxd4 Qxd4 10. O-O Nf6 11. Nc3 Be7 12. Rd1 Qb4 13. Bxd7+ Nxd7 14.
+Nd5 Qd6 15. Be3 Rd8 16. Qb5 Qc6 17. Qa5 Nb6 18. Nxe7 Kxe7 19. Qxe5+ Qe6 20.
+Bc5+ 1-0
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.1"]
+[White "Pancevski, Filip"]
+[Black "Saric, Ibro"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2407"]
+[BlackElo "2558"]
+[PlyCount "72"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Nb3 Qc7 8. O-O
+Nf6 9. a3 Bb7 10. f4 d6 11. Kh1 Nbd7 12. Qe2 Be7 13. Bd2 O-O 14. Rae1 g6 15.
+Nd1 Nc5 16. Nxc5 dxc5 17. c4 bxc4 18. Bc2 Rad8 19. Bc3 Rd4 20. Ne3 Nxe4 21.
+Bxd4 cxd4 22. Nxc4 Bh4 23. Bxe4 Bxe4 24. Rc1 f5 25. Nd2 Qb7 26. Nxe4 fxe4 27.
+Qg4 Bf6 28. Qxe6+ Kg7 29. f5 e3 30. fxg6 hxg6 31. Qd6 Qe4 32. Rf4 Qe5 33. Qxe5
+Bxe5 34. Re4 d3 35. Rxe5 d2 36. Rd1 Rc8 0-1
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.2"]
+[White "Mahmutbegovic, Midhat"]
+[Black "Miskic, Sejfudin"]
+[Result "0-1"]
+[ECO "B28"]
+[WhiteElo "2088"]
+[BlackElo "2154"]
+[PlyCount "98"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 a6 3. g3 Nc6 4. Bg2 g6 5. O-O Bg7 6. c3 d6 7. h3 Nf6 8. Re1 O-O
+9. d4 Bd7 10. e5 Ne8 11. exd6 exd6 12. dxc5 dxc5 13. Be3 b6 14. Nbd2 Nd6 15.
+Bf4 Nb7 16. Nc4 Rc8 17. Nfe5 Nxe5 18. Nxe5 Bxe5 19. Bxb7 Bxf4 20. Bxc8 Qxc8 21.
+gxf4 Bxh3 22. Qf3 c4 23. Re5 Bg4 24. Qe3 Qc6 25. Re1 Be6 26. Qd4 b5 27. R1e3
+Qc8 28. Rc5 Qb8 29. f5 Rd8 30. Qe5 Qxe5 31. Rcxe5 gxf5 32. f4 Kg7 33. Rg3+ Kf6
+34. Re2 Rd1+ 35. Kf2 Rh1 36. Ke3 Ke7 37. Rgg2 Rh3+ 38. Kd2 Kd6 39. Rh2 Rg3 40.
+Rxh7 Rf3 41. Rh4 a5 42. Ke1 b4 43. cxb4 axb4 44. Rf2 Rg3 45. Rh8 Kc5 46. Rd8
+Rg1+ 47. Kd2 Ra1 48. Ra8 Kd4 49. Re2 Bd5 0-1
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.2"]
+[White "Tomic, Bosko"]
+[Black "Miljkovic, Miroslav"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2379"]
+[BlackElo "2427"]
+[PlyCount "15"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. O-O Ne7 6. Na3 Ng6 7. d4 cxd4 8.
+Qxd4 1/2-1/2
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.3"]
+[White "Abdic, Adnan"]
+[Black "Kojic, Tigran"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2152"]
+[BlackElo "2224"]
+[PlyCount "20"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 c6 5. Be3 b6 6. Qc1 Bg7 7. Bd3 Nbd7 8. Nge2
+c5 9. dxc5 dxc5 10. O-O O-O 1/2-1/2
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.3"]
+[White "Biti, Ozren"]
+[Black "Kobas, Adnan"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "2384"]
+[BlackElo "2321"]
+[PlyCount "16"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. d3 d5 3. exd5 Qxd5 4. Nc3 Qd8 5. g3 Nf6 6. Bg2 Nc6 7. Nge2 e5 8.
+O-O Be7 1/2-1/2
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.3"]
+[White "Kekic, Armen"]
+[Black "Terzic, Safet"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2233"]
+[BlackElo "2246"]
+[PlyCount "13"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nd7 5. Qd2 a6 6. f3 b5 7. a4 1/2-1/2
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.3"]
+[White "Muratovic, Enver"]
+[Black "Sutkovic, Damir"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2274"]
+[BlackElo "2329"]
+[PlyCount "19"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. O-O d6 6. h3 Nf6 7. Re1 O-O 8. Nd5
+Nxd5 9. Bxd5 Be6 10. c3 1/2-1/2
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.4"]
+[White "Komadaric, Edin"]
+[Black "Mrndzic, Armin"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2122"]
+[PlyCount "103"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. c3 Nc6 5. d5 Ne7 6. Ne2 Ng6 7. h4 h5 8. f3 Be7
+9. g3 a6 10. c4 Nd7 11. Nbc3 Nc5 12. Bc2 a5 13. Be3 O-O 14. Qd2 Bd7 15. O-O-O
+Qc8 16. Rdf1 Qd8 17. g4 hxg4 18. fxg4 Bxh4 19. Rf5 Bxf5 20. exf5 Nf4 21. Nxf4
+exf4 22. Bxf4 g5 23. fxg6 fxg6 24. Be3 Rf3 25. Kb1 Qf6 26. Bd4 Qf4 27. Qxf4
+Rxf4 28. Bxc5 dxc5 29. Rxh4 Kg7 30. b3 Re8 31. Rh2 Rxg4 32. Nb5 Re7 33. Rd2 Rf4
+34. Rg2 Rf6 35. Kb2 Ref7 36. Nc3 b6 37. Ne4 Rf1 38. Ng5 R7f6 39. Ne6+ Kf7 40.
+Ng5+ Kg7 41. Ne4 R6f4 42. Ng5 Rf6 43. Re2 R6f2 44. Re6 Rf6 45. Re7+ Kh6 46. Ne4
+Rf7 47. Re6 Re1 48. Rc6 Re2 49. Ng3 Rxc2+ 50. Kxc2 Rf2+ 51. Kc1 Rf3 52. Ne4 1-0
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.5"]
+[White "Buljubasic, Sabahudin"]
+[Black "Sadikovic, Jasmin"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[WhiteElo "2331"]
+[BlackElo "2042"]
+[PlyCount "106"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Be3
+b5 9. f3 Qc7 10. Qd2 Nc6 11. O-O-O Na5 12. Kb1 Nxb3 13. cxb3 e5 14. Nc2 Be6 15.
+Nb4 Qb7 16. g4 a5 17. Nbd5 Nxd5 18. Nxd5 Ra6 19. Qe2 Bd8 20. Rd2 O-O 21. a3 Rc6
+22. Rhd1 Re8 23. Rc2 Bd7 24. Rdc1 h6 25. Qd2 Kh7 26. h4 Rxc2 27. Rxc2 Bc6 28.
+h5 Re6 29. Rc1 Qd7 30. Qc2 Bb7 31. Qd3 Kg8 32. b4 Bxd5 33. exd5 Re8 34. Qe4
+axb4 35. axb4 Bg5 36. Bxg5 hxg5 37. Rc6 Ra8 38. Qe3 Qe7 39. Qc1 Kh7 40. Qc2+
+Kg8 41. Rc7 Qf6 42. Qe4 Qd8 43. Rc6 Qe7 44. Qf5 Qa7 45. Rc8+ Rxc8 46. Qxc8+ Kh7
+47. Qc6 Qa4 48. Qc1 Qxb4 49. Qxg5 Qe1+ 50. Ka2 Qa5+ 51. Kb1 Qe1+ 52. Ka2 Qa5+
+53. Kb1 Qe1+ 1/2-1/2
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.24"]
+[Round "3.5"]
+[White "Stavnjak, Lazar"]
+[Black "Nurkic, Sahbaz"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2261"]
+[BlackElo "2402"]
+[PlyCount "80"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Bc4 b5 5. Bb3 b4 6. Nce2 Nf6 7. Ng3 a5 8. a3
+bxa3 9. Rxa3 O-O 10. N1e2 d6 11. O-O Qb6 12. c3 Nbd7 13. Qc2 c5 14. d5 Nb8 15.
+Bc4 Ba6 16. Bxa6 Nxa6 17. f3 Rfb8 18. Ra2 c4+ 19. Kh1 Nd7 20. f4 Nac5 21. Be3
+Qb3 22. Qxb3 cxb3 23. Ra3 a4 24. Rfa1 Nb6 25. Bxc5 dxc5 26. e5 Nc4 27. Ne4 Nxb2
+28. Nd2 f6 29. Rb1 Nd3 30. e6 f5 31. Kg1 Bh6 32. g3 g5 33. fxg5 Bxg5 34. Nc4
+Bf6 35. Kg2 Ne5 36. Nb2 c4 37. Rxa4 Rxa4 38. Nxa4 Ra8 39. Nb2 Ra2 40. Nc1 Ra5
+0-1
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.25"]
+[Round "4.1"]
+[White "Buljubasic, Sabahudin"]
+[Black "Mestrovic, Zvonimir"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2331"]
+[BlackElo "2337"]
+[PlyCount "62"]
+[EventDate "2008.08.23"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nc6 2. d4 d6 3. Nc3 Nf6 4. Nf3 Bg4 5. Be3 d5 6. h3 Bxf3 7. Qxf3 e6 8. e5
+Nd7 9. a3 Ne7 10. Bb5 c6 11. Be2 c5 12. dxc5 Nc6 13. Rd1 Bxc5 14. Bxc5 Nxc5 15.
+Bb5 O-O 16. Bxc6 bxc6 17. O-O Nd7 18. Rfe1 Qc7 19. Qe2 f6 20. exf6 Rxf6 21. Qe3
+e5 22. Na4 Raf8 23. Re2 e4 24. c4 Ne5 25. cxd5 cxd5 26. Rxd5 Nd3 27. Rd4 Nxf2
+28. Re1 Nd3 29. Ra1 Nf2 30. Rf1 Nxh3+ 31. gxh3 Rg6+ 0-1
+
+[Event "BIH-chT1"]
+[Site "Neum"]
+[Date "2008.08.25"]
+[Round "4.1"]
+[White "Rogic, Davor"]
+[Black "Martinovic, Slobodan"]
+[Result "1-0"]
+[ECO "B57"]
+[WhiteElo "2477"]
+[BlackElo "2453"]
+[PlyCount "71"]

@@ -1,0 +1,600 @@
+[BlackElo "779"]
+[PlyCount "95"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. Nc3 Nc6 3. e3 Nf6 4. Nge2 Bc5 5. d4 exd4 6. exd4 Bb4 7. Bd2 Qe7 8.
+g3 Nxd4 9. Bg2 d6 10. O-O Bg4 11. Re1 O-O 12. Nxd4 Qd7 13. Qc2 Bh3 14. Bxh3
+Qxh3 15. Nf3 Qh5 16. Kg2 Ng4 17. Ne2 Qc5 18. Rf1 Rae8 19. Bxb4 Qxb4 20. Ng5 Nf6
+21. Rae1 h6 22. Nf3 b6 23. a3 Qa5 24. Ned4 Rxe1 25. Rxe1 Qa6 26. Qc3 Qb7 27.
+Nf5 d5 28. cxd5 Qxd5 29. Ne7+ Kh7 30. Nxd5 Nxd5 31. Qd3+ g6 32. Qxd5 f6 33.
+Qd7+ Kg8 34. Qxc7 b5 35. Qxa7 Rf7 36. Qxf7+ Kxf7 37. Nd4 b4 38. axb4 f5 39. b5
+f4 40. b6 g5 41. b7 fxg3 42. b8=Q gxf2 43. Kxf2 h5 44. Qe8+ Kf6 45. Qe5+ Kg6
+46. Qf5+ Kh6 47. Qf6+ Kh7 48. Re7+ 1-0
+
+[Event "Niedersachsen-chT U16"]
+[Site "Verden/Aller"]
+[Date "2008.05.01"]
+[Round "1.1"]
+[White "Bor, Tobias"]
+[Black "Schippa, Robert"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "1937"]
+[BlackElo "1296"]
+[PlyCount "61"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d6 5. e3 O-O 6. Bd3 Nbd7 7. O-O h6 8.
+Bh4 g5 9. Bg3 Re8 10. c4 Nh5 11. Rc1 Nxg3 12. hxg3 c5 13. Bb1 Nf8 14. dxc5 Bxb2
+15. Rc2 Ba3 16. cxd6 exd6 17. Nb3 Bg4 18. Rd2 Qc7 19. Rd4 f5 20. Qd3 Ne6 21.
+Rd5 a5 22. Nfd4 a4 23. Nxe6 Rxe6 24. Nd4 Rf6 25. Qxa3 Qxc4 26. Rxd6 Rxd6 27.
+Qxd6 Rc8 28. Qg6+ Kh8 29. Qxh6+ Kg8 30. Qxg5+ Kh7 31. Qxg4 1-0
+
+[Event "Niedersachsen-chT U16"]
+[Site "Verden/Aller"]
+[Date "2008.05.02"]
+[Round "2.3"]
+[White "Hurink, Maarten"]
+[Black "Rieping, Heiner"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "1728"]
+[BlackElo "1717"]
+[PlyCount "61"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Nf3 Nf6 5. Qc2 c6 6. cxd5 exd5 7. Bf4 Be7 8. e3
+O-O 9. Be2 Ne4 10. O-O Nd7 11. Rab1 g5 12. Be5 g4 13. Ne1 Nxe5 14. dxe5 Be6 15.
+Nd3 d4 16. Nf4 Ng5 17. Rfd1 c5 18. Nxe6 Nxe6 19. Bc4 Qd7 20. Qb3 Kf7 21. Ne2
+Bg5 22. exd4 Ke7 23. d5 Ng7 24. d6+ Kd8 25. e6 Qc8 26. e7+ Bxe7 27. dxe7+ Kxe7
+28. Nf4 Rd8 29. Rxd8 Kxd8 30. Ne6+ Nxe6 31. Bxe6 1-0
+
+[Event "Niedersachsen-chT U16"]
+[Site "Verden/Aller"]
+[Date "2008.05.02"]
+[Round "3.3"]
+[White "Schiffer, Nicolas"]
+[Black "Meier, Florian"]
+[Result "0-1"]
+[ECO "A81"]
+[WhiteElo "895"]
+[BlackElo "1269"]
+[PlyCount "52"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 f5 2. g3 g6 3. Bg2 Nf6 4. Nf3 Bg7 5. O-O O-O 6. Re1 d6 7. c4 Nc6 8. Nbd2
+e5 9. Nb3 e4 10. Nfd2 d5 11. e3 Be6 12. Bf1 b6 13. Qc2 Qd7 14. Nb1 a5 15. N3d2
+Kf7 16. b3 h5 17. h4 Rh8 18. Bh3 Nb4 19. Qc3 Nd3 20. Re2 Rac8 21. Nf1 f4 22.
+Bxe6+ Qxe6 23. exf4 Qg4 24. Qd2 Nxc1 25. Re3 Nd3 26. Nh2 Qd7 {..} 0-1
+
+[Event "Niedersachsen-chT U16"]
+[Site "Verden/Aller"]
+[Date "2008.05.02"]
+[Round "3.4"]
+[White "Oellrich, Torben"]
+[Black "Bonacic, Jascha"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[WhiteElo "1467"]
+[BlackElo "1745"]
+[PlyCount "85"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 f5 4. Nbd2 Nf6 5. c3 Be7 6. Qc2 O-O 7. e3 c5 8. Be2
+Nc6 9. dxc5 Bxc5 10. c4 d4 11. exd4 Nxd4 12. Nxd4 Bxd4 13. Nb3 e5 14. Nxd4 Qxd4
+15. Be3 Qh4 16. O-O-O b6 17. g3 Qh3 18. Bf1 Qh5 19. Bg2 e4 20. Bd4 Bb7 21. Kb1
+Rac8 22. Qb3 Kh8 23. Bxf6 Rxf6 24. c5 Rfc6 25. Rd7 Ba8 26. Rhd1 Qg5 27. Qd5 Rf6
+28. h4 Qg6 29. Rd8+ Rf8 30. Rxc8 Rxc8 31. Qd8+ Qe8 32. Qxe8+ Rxe8 33. cxb6 axb6
+34. Re1 Kg8 35. Kc2 Kf7 36. Bf1 Rd8 37. Rd1 Rxd1 38. Kxd1 Bd5 39. b3 Kf6 40.
+Kd2 g5 41. hxg5+ Kxg5 42. Ke3 Be6 43. Be2 1/2-1/2
+
+[Event "Niedersachsen-chT U16"]
+[Site "Verden/Aller"]
+[Date "2008.05.03"]
+[Round "4.1"]
+[White "Zwick, Felix"]
+[Black "Wierum, Colin"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "1524"]
+[BlackElo "1904"]
+[PlyCount "30"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 2. g3 Bg7 3. Bg2 c5 4. c4 Nc6 5. Nc3 e5 6. Nge2 Nge7 7. O-O O-O 8. d3
+d6 9. f4 f5 10. Rb1 Be6 11. a3 Qd7 12. b4 Rad8 13. Be3 b6 14. Qd2 Nd4 15. b5
+Rfe8 1/2-1/2
+
+[Event "Niedersachsen-chT U16"]
+[Site "Verden/Aller"]
+[Date "2008.05.03"]
+[Round "4.4"]
+[White "Schlachta, Viktor"]
+[Black "Baisakow, Christine"]
+[Result "0-1"]
+[ECO "A84"]
+[WhiteElo "866"]
+[BlackElo "1342"]
+[PlyCount "88"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 f5 5. g3 Nf6 6. Bg5 Be7 7. Bg2 Ne4 8. Bxe7
+Qxe7 9. Qc2 O-O 10. O-O g5 11. Nxe4 fxe4 12. Ne5 Qf6 13. b3 Nd7 14. Nxd7 Bxd7
+15. f3 Qxd4+ 16. Kh1 exf3 17. exf3 Rf7 18. Rad1 Qg7 19. Qe2 Re8 20. Bh3 d4 21.
+c5 b6 22. b4 bxc5 23. bxc5 e5 24. Bxd7 Rxd7 25. Qe4 Rd5 26. Rf2 Rxc5 27. Rxd4
+exd4 28. Qxe8+ Qf8 29. Qe6+ Qf7 30. Re2 Qxe6 31. Rxe6 d3 32. Re1 d2 33. Rd1 Rc1
+34. Rxc1 dxc1=Q+ 35. Kg2 Qd2+ 36. Kh3 c5 37. f4 gxf4 38. gxf4 Qxf4 39. Kg2 c4
+40. a4 c3 41. a5 c2 42. a6 c1=R 43. Kh3 Rc3+ 44. Kg2 Qd2+ 0-1
+
+[Event "Niedersachsen-chT U16"]
+[Site "Verden/Aller"]
+[Date "2008.05.04"]
+[Round "5.1"]
+[White "Kessler, Marcel"]
+[Black "Zwick, Felix"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "1745"]
+[BlackElo "1524"]
+[PlyCount "95"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 g6 2. c4 c6 3. e3 Bg7 4. Nc3 d5 5. Nf3 Bg4 6. b3 Nf6 7. Bb2 O-O 8. Be2
+Nbd7 9. O-O e6 10. h3 Bxf3 11. Bxf3 Rc8 12. Rc1 Qa5 13. a3 b5 14. b4 Qb6 15. c5
+Qc7 16. a4 a6 17. Ra1 Ra8 18. Ra3 Ra7 19. Qb3 e5 20. Rfa1 Rb8 21. Qc2 exd4 22.
+exd4 Re8 23. Qc1 Nf8 24. axb5 axb5 25. Qd2 Ne6 26. Ne2 h6 27. Nc1 Ng5 28. Nb3
+Nxf3+ 29. gxf3 Qd7 30. Na5 Rc7 31. Kg2 Qf5 32. Re3 Rf8 33. Re2 Nh5 34. Bc1 g5
+35. Qd1 Nf4+ 36. Bxf4 Qxf4 37. Rd2 f5 38. Ra3 Re8 39. Re2 Rxe2 40. Qxe2 Qxd4
+41. Qe6+ Kh8 42. Nxc6 Qf6 43. Ra8+ Kh7 44. Qg8+ Kg6 45. Nd8 Re7 46. Qxd5 h5 47.
+Qa2 Kh7 48. Ne6 1-0
+
+[Event "Niedersachsen-chT U16"]
+[Site "Verden/Aller"]
+[Date "2008.05.04"]
+[Round "5.2"]
+[White "Bor, Tobias"]
+[Black "Evers, Annika"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "1937"]
+[BlackElo "1515"]
+[PlyCount "81"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Nc6 4. Bg2 Be7 5. e3 O-O 6. Nge2 d6 7. d4 Re8 8. O-O
+Bf8 9. a3 Ne7 10. b4 c6 11. Qc2 Bf5 12. e4 Bg6 13. dxe5 dxe5 14. Rd1 Qc7 15.
+Bg5 Nd7 16. Rd2 f6 17. Be3 Nb6 18. Na4 Nxa4 19. Qxa4 a6 20. Rc1 Red8 21. Qb3
+Bf7 22. Qc3 Rxd2 23. Bxd2 c5 24. Be3 cxb4 25. axb4 Rd8 26. f4 Nc6 27. c5 Qd7
+28. fxe5 fxe5 29. Rb1 Nd4 30. Bxd4 exd4 31. Qd3 Qb5 32. Qxb5 axb5 33. Rd1 d3
+34. Nf4 Bc4 35. Nd5 g6 36. Bf1 Bxd5 37. Rxd3 Kf7 38. exd5 Ra8 39. d6 Ke8 40.
+Re3+ Kd8 41. Bxb5 1-0
+
+[Event "Niedersachsen-chT U16"]
+[Site "Verden/Aller"]
+[Date "2008.05.04"]
+[Round "5.2"]
+[White "Krause, Maximilian"]
+[Black "Orschulik, Nils"]
+[Result "1-0"]
+[ECO "A84"]
+[WhiteElo "1427"]
+[BlackElo "1974"]
+[PlyCount "64"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 d5 3. Nc3 f5 4. Nf3 Nf6 5. Bf4 c6 6. e3 Be7 7. Bd3 O-O 8. Qc2
+Ne4 9. g4 Na6 10. a3 Nc7 11. gxf5 Nxc3 12. Qxc3 exf5 13. Bxc7 Qxc7 14. cxd5 Bd6
+15. dxc6 bxc6 16. Qc2 Bb7 17. Ke2 Qd7 18. Rhg1 Rae8 19. Ng5 Kh8 20. Bc4 c5 21.
+d5 h6 22. Ne6 Rf7 23. Qd3 Qe7 24. Rg6 Be5 25. Rag1 f4 26. e4 Qh4 27. Nxc5 f3+
+28. Ke1 Bxb2 29. R6g4 Qd8 30. Kd1 Qa5 31. Nb3 Qxa3 32. R1g3 Bc1 {..} 1-0
+
+[Event "Niedersachsen-chT U16"]
+[Site "Verden/Aller"]
+[Date "2008.05.04"]
+[Round "5.4"]
+[White "Fedderke, Christoph"]
+[Black "Bonacic, Jascha"]
+[Result "0-1"]
+[ECO "A84"]
+[WhiteElo "1261"]
+[BlackElo "1745"]
+[PlyCount "42"]
+[EventDate "2008.05.01"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Nf3 Nf6 5. Bf4 c6 6. e3 Be7 7. Bd3 O-O 8. Qc2
+Ne4 9. g4 Bh4 10. Nxh4 Qxh4 11. gxf5 Nxc3 12. bxc3 exf5 13. Rg1 Be6 14. Be5 Rf7
+15. cxd5 cxd5 16. c4 Nc6 17. Bg3 Qe7 18. cxd5 Bxd5 19. a3 Nxd4 20. Qb1 Nf3+ 21.
+Kf1 Nd2+ 0-1
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.01"]
+[Round "1"]
+[White "Klobukov, Sergey"]
+[Black "Churkin, Vitaly"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "1971"]
+[BlackElo "2291"]
+[PlyCount "50"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Nc6 4. Bg2 Bc5 5. e3 O-O 6. Nge2 d5 7. cxd5 Nb4 8. d3
+Nfxd5 9. a3 Nxc3 10. Nxc3 Nxd3+ 11. Ke2 Bg4+ 12. f3 Nxc1+ 13. Qxc1 Be6 14. Na4
+Bd6 15. Rd1 Bb3 16. Rxd6 cxd6 17. Nc3 d5 18. Qd2 d4 19. exd4 exd4 20. Ne4 f5
+21. Nc5 Qe7+ 22. Kf2 Qxc5 23. Rc1 Qb6 24. f4 Rac8 25. Qd3 Rxc1 0-1
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.01"]
+[Round "1"]
+[White "Tkachev, Ivan"]
+[Black "Matrosov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "A90"]
+[WhiteElo "1951"]
+[BlackElo "2182"]
+[PlyCount "74"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. c4 f5 3. Nf3 Nf6 4. g3 d5 5. Bg2 c6 6. O-O Bd6 7. b3 Qe7 8. Nbd2
+O-O 9. Bb2 Bd7 10. Ne5 Be8 11. f4 Bh5 12. Bf3 Bxf3 13. exf3 Nbd7 14. Re1 Nh5
+15. Qe2 Rae8 16. a4 Nxe5 17. fxe5 Bb4 18. f4 g6 19. Rf1 Ng7 20. Nf3 h6 21. Qe3
+Kh7 22. c5 Rf7 23. a5 b6 24. axb6 axb6 25. cxb6 Qd8 26. Ra6 Rb7 27. Rc1 Rxb6
+28. Rxc6 Rxc6 29. Rxc6 Qa8 30. Qc1 Rb8 31. Rc2 Qa2 32. Rc7 Ba5 33. Ra7 Rxb3 34.
+Qc5 Rxb2 35. Rxg7+ Kxg7 36. Qe7+ Kg8 37. Qe8+ Kg7 1/2-1/2
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.02"]
+[Round "2"]
+[White "Matrosov, Vladimir"]
+[Black "Bene, Alina"]
+[Result "1-0"]
+[ECO "A02"]
+[WhiteElo "2182"]
+[BlackElo "1889"]
+[PlyCount "115"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. f4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d3 Nbd7 7. e4 Nc5 8. Nc3
+c6 9. Qe2 Qb6 10. Kh1 Bg4 11. Rb1 Qc7 12. h3 Bxf3 13. Qxf3 Nfd7 14. f5 Rae8 15.
+Bd2 e6 16. g4 d5 17. Bf4 e5 18. Bd2 d4 19. Ne2 Qd8 20. Qg3 Na6 21. g5 gxf5 22.
+Rxf5 Re6 23. Bf3 Nc7 24. Rf1 Nb5 25. Bg4 Re7 26. Qh4 Nd6 27. R5f2 c5 28. Ng3
+Rfe8 29. Nf5 Nxf5 30. Bxf5 Nf8 31. Qg4 Ng6 32. h4 Qd6 33. h5 Nf8 34. h6 Bh8 35.
+Qh5 Ng6 36. Bxg6 fxg6 37. Qf3 Rd7 38. Qh3 b6 39. a3 Qc6 40. Kg2 Qd6 41. Rf3 Qe7
+42. R3f2 Qd6 43. Qf3 Qe7 44. Kg3 Qd6 45. Kh4 Qe7 46. Qe2 Qd6 47. Rf3 Qe7 48.
+Qf2 Qd6 49. Rf7 Rc7 50. b4 Rd7 51. bxc5 bxc5 52. a4 Rc7 53. Bc1 Rd7 54. Ba3 Rc7
+55. Rxc7 Qxc7 56. Bxc5 Bg7 57. hxg7 Qxg7 58. Qf6 1-0
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.02"]
+[Round "2"]
+[White "Pischikov, Vadim"]
+[Black "Klobukov, Sergey"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[BlackElo "1971"]
+[PlyCount "112"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 b6 3. Bg5 Bb7 4. e3 g6 5. Bd3 Bg7 6. Nbd2 c5 7. c3 O-O 8. O-O
+d6 9. Qe2 Nbd7 10. e4 e5 11. d5 h6 12. Bh4 Qe7 13. a4 a5 14. Nc4 Bc8 15. Rfb1
+g5 16. Bg3 Nh5 17. b4 axb4 18. cxb4 Nf4 19. Bxf4 exf4 20. Ra2 g4 21. Ne1 g3 22.
+fxg3 fxg3 23. hxg3 Bd4+ 24. Kh1 cxb4 25. Rxb4 Bc5 26. Rbb2 Qg5 27. Qf3 Nf6 28.
+Qf4 Qg7 29. Qh4 Ng4 30. Nf3 Qc3 31. Bf1 Qc1 32. Ncd2 Re8 33. Rb1 Qc3 34. Rb3
+Qg7 35. Bb5 Rf8 36. Bc6 Ra7 37. Nc4 f5 38. Re2 fxe4 39. Rxe4 Nf2+ 40. Kh2 Nxe4
+41. Qxe4 Rxa4 42. Bxa4 Bf5 43. Qe1 Bc2 44. Qe6+ Kh8 45. Rxb6 Bxa4 46. Rb1 Re8
+47. Qf5 Bd7 48. Qf4 Rf8 49. Qh4 Bf5 50. Re1 Rg8 51. Ne3 Bh7 52. Nf1 Bf5 53. Re7
+Qf8 54. Nd4 Rg4 55. Qh5 Qxe7 56. Nxf5 Qg5 1/2-1/2
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.03"]
+[Round "3"]
+[White "Andreev, Konstantin"]
+[Black "Kozlov, Mikhail"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "2304"]
+[BlackElo "2095"]
+[PlyCount "67"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 f5 2. c4 e6 3. Nc3 Bb4 4. g3 Nf6 5. Bg2 O-O 6. Qb3 Qe7 7. a3 Bxc3+ 8.
+Qxc3 a5 9. b3 Ne4 10. Qc2 d5 11. f3 Nf6 12. Nh3 Nc6 13. Bb2 e5 14. dxe5 Nxe5
+15. Nf4 dxc4 16. bxc4 Qc5 17. Bxe5 Qxe5 18. O-O g5 19. Nd3 Qe3+ 20. Kh1 f4 21.
+gxf4 gxf4 22. Rg1 Kh8 23. Qc1 Qxc1 24. Raxc1 Nh5 25. Bf1 Rg8 26. Rb1 Ra6 27.
+Rb5 Rh6 28. Rxg8+ Kxg8 29. Rxa5 Ng3+ 30. Kg1 Nxf1 31. Ra8 Kf7 32. Rxc8 Ne3 33.
+Rxc7+ Ke8 34. Nxf4 1-0
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.03"]
+[Round "3"]
+[White "Babakhin, Anton"]
+[Black "Senkevich, Konstantin"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "1991"]
+[BlackElo "2136"]
+[PlyCount "52"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 f5 2. Bg5 c5 3. d5 h6 4. Bf4 d6 5. e3 Nf6 6. c4 g6 7. Bd3 Bg7 8. Nc3 O-O
+9. Nf3 Nh5 10. Bg3 Nxg3 11. hxg3 Nd7 12. Qc2 Qa5 13. O-O Ne5 14. Nh4 Nxd3 15.
+Qxd3 g5 16. Nf3 Bd7 17. Nd2 Rab8 18. f4 g4 19. Nb3 Qb4 20. e4 b5 21. Nd2 Qxb2
+22. Ne2 fxe4 23. Nxe4 bxc4 24. Qd1 Qxa1 25. Qxa1 Bxa1 26. Rxa1 Rb2 0-1
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.03"]
+[Round "3"]
+[White "Klobukov, Sergey"]
+[Black "Dodonov, Vladimir"]
+[Result "1-0"]
+[ECO "A26"]
+[WhiteElo "1971"]
+[BlackElo "1959"]
+[PlyCount "71"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. d3 e5 8. Bg5
+h6 9. Bxf6 Bxf6 10. Rb1 Bg7 11. b4 f5 12. b5 Ne7 13. Nd5 Be6 14. Nxe7+ Qxe7 15.
+Nh4 Qf7 16. Bxb7 Rad8 17. Bd5 Bxd5 18. cxd5 g5 19. Nf3 Qxd5 20. Qa4 g4 21. Nh4
+Rf7 22. Nxf5 Rxf5 23. e4 Qxd3 24. exf5 Qxf5 25. Qc4+ d5 26. Qxc7 Rd7 27. Qc8+
+Kh7 28. Rbc1 Qf7 29. Qc2+ e4 30. Rfd1 Re7 31. Re1 Bd4 32. Qd2 Bb6 33. a4 d4 34.
+a5 e3 35. fxe3 dxe3 36. Qc2+ 1-0
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.03"]
+[Round "3"]
+[White "Kudrjavich, Dmitry"]
+[Black "Matrosov, Vladimir"]
+[Result "0-1"]
+[ECO "A85"]
+[BlackElo "2182"]
+[PlyCount "58"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. e3 Bb4 5. Bd3 O-O 6. Nge2 b6 7. O-O Bb7 8. f3
+Bxc3 9. Nxc3 d6 10. Qc2 Nbd7 11. Bd2 Qe7 12. Rae1 a6 13. a3 Rae8 14. b4 Qf7 15.
+e4 fxe4 16. fxe4 e5 17. d5 Qg6 18. Rf5 h6 19. Ref1 Bc8 20. Be2 Rf7 21. Bh5 Nxh5
+22. Rxf7 Nhf6 23. R7xf6 Nxf6 24. Bc1 Rf8 25. Kh1 Rf7 26. Qe2 Bg4 27. Qc2 Nxe4
+28. Rxf7 Ng3+ 29. hxg3 Qxc2 0-1
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.04"]
+[Round "4"]
+[White "Andreev, Konstantin"]
+[Black "Rutman, Aleksandr"]
+[Result "0-1"]
+[ECO "A68"]
+[WhiteElo "2304"]
+[BlackElo "2266"]
+[PlyCount "54"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Bg4 10. O-O Nbd7 11. a4 Re8 12. h3 Bxf3 13. Bxf3 a6 14. g4 h6 15. h4 h5
+16. g5 Ng4 17. Bxg4 hxg4 18. e5 dxe5 19. f5 gxf5 20. Rxf5 e4 21. Qxg4 Ne5 22.
+Qxe4 Qd7 23. Rf1 Qh3 24. Qg2 Nf3+ 25. Rxf3 Re1+ 26. Kf2 Bd4+ 27. Kxe1 Qxg2 0-1
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.04"]
+[Round "4"]
+[White "Matrosov, Vladimir"]
+[Black "Fedoseev, Sergey"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[WhiteElo "2182"]
+[BlackElo "2175"]
+[PlyCount "72"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. f4 c5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. d3 d5 7. Qe1 d4 8. e4
+dxe3 9. Bxe3 Qb6 10. Nc3 Ng4 11. Bc1 Nc6 12. Na4 Qd8 13. h3 Nd4 14. hxg4 Nxc2
+15. Qe2 Nxa1 16. Be3 Qa5 17. Nc3 Nb3 18. axb3 Bxg4 19. Qc2 Rad8 20. Ne5 Be6 21.
+Nc4 Qc7 22. Nb5 Qd7 23. Nc3 Bd4 24. Re1 b6 25. Qf2 Bxc3 26. bxc3 Qxd3 27. Rc1
+f6 28. Bf3 Qd7 29. Qg2 Bg4 30. Be4 Qe6 31. Re1 Kh8 32. Nd2 Rd6 33. c4 Qd7 34.
+Bc2 Bf5 35. Ne4 Rc6 36. Bd1 Re6 1/2-1/2
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.05"]
+[Round "5"]
+[White "Fedoseev, Sergey"]
+[Black "Rutman, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2175"]
+[BlackElo "2266"]
+[PlyCount "29"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. d3 d5 6. Nbd2 Nbd7 7. e4 dxe4 8.
+Ng5 Be7 9. Ngxe4 Qc8 10. b3 Nxe4 11. Nxe4 O-O 12. Bb2 f5 13. Nd2 Bxg2 14. Kxg2
+Bf6 15. Bxf6 1/2-1/2
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.05"]
+[Round "5"]
+[White "Klobukov, Sergey"]
+[Black "Tkachev, Taras"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "1971"]
+[BlackElo "1986"]
+[PlyCount "146"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. c4 e6 2. g3 g6 3. Bg2 Bg7 4. Nf3 Nf6 5. O-O O-O 6. Nc3 d5 7. cxd5 exd5 8. d4
+c6 9. Bg5 Nbd7 10. Qd2 Re8 11. Ne1 Nb6 12. b3 Bf5 13. Nd3 Nbd7 14. Rac1 Qb6 15.
+Bxf6 Nxf6 16. e3 Bh6 17. Ne5 Ng4 18. Nxg4 Bxg4 19. Na4 Qd8 20. Nc5 Qe7 21. Rfe1
+Bf5 22. Rc3 Rad8 23. Nd3 Bxd3 24. Qxd3 f5 25. Rb1 a5 26. a3 Bf8 27. b4 axb4 28.
+axb4 Ra8 29. b5 Ra3 30. bxc6 bxc6 31. Rxa3 Qxa3 32. Qxa3 Bxa3 33. Rb3 Be7 34.
+Rc3 Rd8 35. Rxc6 Kf7 36. Rb6 Rd7 37. Bf3 Rd8 38. Kg2 Rd7 39. h4 h5 40. Bd1 Rd6
+41. Rxd6 Bxd6 42. Bb3 Ke6 43. Ba4 Be7 44. Be8 Kf6 45. Bd7 Bd6 46. f3 Bb4 47.
+Kf2 Bc3 48. Be8 Bd2 49. Ke2 Bc3 50. Bd7 Ke7 51. Bc6 Ke6 52. Bb7 Bb4 53. Bc8+
+Kf6 54. Ba6 Bc3 55. Bd3 Bb4 56. Bc2 Bd6 57. Kf2 Bb4 58. Bb3 Ke6 59. e4 fxe4 60.
+fxe4 Bc3 61. Bxd5+ Ke7 62. Ke3 Be1 63. Kf4 Bd2+ 64. Kf3 Bc3 65. Kf4 Bd2+ 66.
+Kf3 Bc3 67. e5 Bxd4 68. Kf4 Bc3 69. Bc4 Bd2+ 70. Kf3 Bc3 71. e6 Kf6 72. g4 Be1
+73. gxh5 gxh5 1/2-1/2
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.05"]
+[Round "5"]
+[White "Nikolaev, Vadim S"]
+[Black "Andreev, Konstantin"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2163"]
+[BlackElo "2304"]
+[PlyCount "101"]
+[EventDate "2008.05.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. Nf3 c5 3. dxc5 e6 4. c4 Bxc5 5. Nc3 b6 6. a3 Bb7 7. Qc2 O-O 8. Bg5
+h6 9. Bh4 Be7 10. e3 d6 11. Be2 Nbd7 12. O-O Rc8 13. Qb1 Bxf3 14. gxf3 Ne5 15.
+Qa2 Qc7 16. Nb5 Qb7 17. Nd4 Ng6 18. Bg3 h5 19. h3 h4 20. Bh2 Qd7 21. Qb1 Nh7
+22. f4 f5 23. Bd3 Bd8 24. Rd1 Ne7 25. b3 Rf6 26. f3 Nc6 27. Ne2 Qb7 28. Kf2 a6
+29. e4 Ne7 30. Kf1 Nf8 31. Bg1 Nd7 32. Bf2 Rh6 33. Bc2 e5 34. Rd2 exf4 35. Nxf4
+b5 36. Qd1 Qc6 37. exf5 bxc4 38. Be4 Qb5 39. bxc4 Qxc4+ 40. Kg2 Nf6 41. Rc2 Qf7
+42. Rxc8 Nxc8 43. Bc2 Kh7 44. Ne6 Qe7 45. Rb1 Qe8 46. Rb8 Be7 47. Ng5+ Kh8 48.
+Ba4 Nd7 49. Qc2 Bxg5 50. Rxc8 Bd8 51. Qc6 1-0
+
+[Event "St Petersburg Mai op"]
+[Site "St Petersburg"]
+[Date "2008.05.05"]
+[Round "5"]
+[White "Zhukov, Klim"]
+[Black "Matrosov, Vladimir"]
+[Result "0-1"]
+[ECO "A90"]
+[WhiteElo "2123"]
+[BlackElo "2182"]

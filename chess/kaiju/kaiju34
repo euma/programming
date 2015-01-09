@@ -1,0 +1,50 @@
+C24	Spielmann Attack, Bishop	1.e4 e5 2.Bc4 Nf6 3.d3 Bc5 4.Nc3
+C24	Kitchner Folly, Bishop	1.e4 e5 2.Bc4 Nf6 3.d3 Be7 4.Nf3 O-O
+C24	Vienna Hybrid, Bishop	1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nc3
+C24	Hromadka Variation, Bishop	1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nc3 Bb4
+5.Ne2
+C24	Ponziani Center Gambit, Bishop	1.e4 e5 2.Bc4 Nf6 3.d4 
+C24	Warsaw Gambit, Bishop	1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.c3
+C24	Urusov; Ouroussoff; Keidansky G	1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3
+C24	Keidansky Gambit, Bishop	1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nxe4
+5.Qxd4
+C25	Vienna; Hamppe Opening; C25	1.e4 e5 2.Nc3  
+C25	Zhuravlev Counter-Gambit, Vienna	1.e4 e5 2.Nc3 Bb4 3.Qg4
+C25	Zhuraviev Countergambit, Vienna	1.e4 e5 2.Nc3 Bb4 3.Qg4 Nf6
+C25	Anderssen Defense, Vienna	1.e4 e5 2.Nc3 Bc5
+C25	Hamppe-Mietner Variation, Vienna	1.e4 e5 2.Nc3 Bc5 3.Na4
+C25	Giraffe Attack, Vienna	1.e4 e5 2.Nc3 Bc5 3.Qg4
+C25	Omaha Gambit, Vienna	1.e4 e5 2.Nc3 d6 3.f4
+C25	Fyfe Gambit, Vienna	1.e4 e5 2.Nc3 Nc6 3.d4
+C25	Philidor Countergambit, Vienna	1.e4 e5 2.Nc3 Nc6 3.d4 f5
+C25	Alapin Variation, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4
+C25	Vienna Gambit	1.e4 e5 2.Nc3 Nc6 3.f4
+C25	Quelle Gambit, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 Bc5 4.fxe5 d6
+C25	Steinitz Gambit, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4
+C25	Fraser-Minckwitz Variation, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 exf4
+4.d4 Qh4+ 5.Ke2 b6
+C25	Zukertort Defense, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4 Qh4+
+5.Ke2 d5
+C25	Paulsen Defense, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4 Qh4+ 5.Ke2 d6
+C25	Soerensen Defense, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4 Qh4+
+5.Ke2 g5
+C25	Knight Variation, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3
+C25	Cunningham Defense, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 Be7
+C25	Hamppe-Muzio Gambit, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5
+5.Bc4 g4 6.O-O
+C25	Pierce Gambit, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.d4
+C25	Hamppe-Allgaier Gambit, Vienna	1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5
+5.h4 g4 6.Ng5
+C25	Hamppe-Allgaier-Thorold Gambit	1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5
+5.h4 g4 6.Ng5 h6 7.Nxf7 Kxf7 8.d4
+C25	Paulsen Variation, Vienna	1.e4 e5 2.Nc3 Nc6 3.g3
+C25	Mariotti Gambit	1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 h5 5.Nf3 h4
+C25	Polluck Gambit, Vienna	1.e4 e5 2.Nc3 Nf6 3.g3 Bc5 4.Bg2 Nc6 5.Nge2 d5
+6.exd5
+C25	Erben Gambit, Vienna	1.e4 e5 2.Nc3 Nf6 3.g3 d5 4.exd5 c6
+C25	Hamppe Meitner, Vienna	1.e4 e5 2.Nf3 Bc5 3.Na4
+C26	Falkbeer Variation, Vienna; C26	1.e4 e5 2.Nc3 Nf6
+C26	Mengarini Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.a3
+C26	Oxford Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4
+5.d3
+C26	Mieses Variation, Vienna	1.e4 e5 2.Nc3 Nf6 3.g3

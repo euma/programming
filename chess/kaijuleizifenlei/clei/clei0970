@@ -1,0 +1,600 @@
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. b3 g6 10. f4 Bg7 11. Qf2 Nb6 12. Be2 f6 13. Ba3 Qe6 14. O-O Bb7 15.
+Nd2 O-O-O 16. Bb2 fxe5 17. a4 a5 18. b4 e4 19. Bxg7 e3 20. Qf3 Rhg8 21. Nb3
+Rxg7 22. Nc5 Qe7 23. Nxb7 Kxb7 24. bxa5 Nc8 25. Rfb1+ Ka8 26. Rb3 Nd6 27. Qxe3
+Qxe3+ 28. Rxe3 Nf5 29. Rd3 Ka7 30. Rb1 Rb8 31. Rxb8 Kxb8 32. c5 Re7 33. Bf1 Ka7
+34. Kf2 d5 35. cxd6 Nxd6 36. Kf3 Re1 37. Be2 Rc1 38. g4 Rc5 39. a6 Ra5 40. Re3
+Rxa4 41. Re7 Ra3+ 42. Kg2 Kb6 43. Rxh7 Ra2 44. Re7 c5 45. Kf3 c4 46. Re3 Rxa6
+47. f5 gxf5 48. g5 Kc5 49. h4 Ne4 50. Kf4 Kd4 51. Bf3 c3 52. Bxe4 fxe4 53. h5
+c2 54. Re1 Ra8 55. g6 Rf8+ 56. Kg4 Rg8 57. Kf5 e3 58. h6 Kd3 59. h7 Rf8+ 60.
+Kg4 Kd2 61. Ra1 e2 62. g7 Ra8 63. g8=Q Rxa1 64. Qd5+ Ke1 65. Qh1+ Kd2 66. Qd5+
+Kc1 67. Qe5 Ra4+ 68. Kf3 Ra3+ 69. Kxe2 Kb1 70. Qb5+ Ka2 71. Kd2 Rc3 72. Kc1 1-0
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.16"]
+[Round "1"]
+[White "Golizadeh, Asghar"]
+[Black "Maleki, Amir"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2271"]
+[BlackElo "2086"]
+[PlyCount "54"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. dxc5 Bxc5 10. Bxc5 Nxc5 11. Qf2 Qb6 12. b4 Nd7 13. a4 Qxf2+ 14. Kxf2 bxa4
+15. Nxa4 Nxb4 16. Nd4 a5 17. c3 Na6 18. Bb5 O-O 19. Bxd7 Bxd7 20. Nb6 Rad8 21.
+Rxa5 Nb8 22. Rha1 Rfe8 23. Rc5 f6 24. Ra7 fxe5 25. fxe5 Rf8+ 26. Ke3 Rf7 27.
+Rcc7 g6 1-0
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.16"]
+[Round "1"]
+[White "Saravana, Krishnan P"]
+[Black "Ali, Akar"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2256"]
+[BlackElo "2025"]
+[PlyCount "57"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Nc6
+8. Qd2 Bg4 9. Be2 Qd7 10. h3 Bh5 11. O-O-O O-O-O 12. Rhe1 h6 13. g4 Bg6 14. Bb5
+a6 15. Ba4 Bf6 16. Nd4 Bxd4 17. cxd4 b5 18. Bb3 d5 19. Qc3 a5 20. a4 b4 21. Qc5
+f6 22. c4 bxc3 23. bxc3 Rhe8 24. Qb5 Be4 25. Qa6+ Kb8 26. Re2 Na7 27. Qxa5 Qc6
+28. Rde1 Rc8 29. Rxe4 1-0
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.17"]
+[Round "2"]
+[White "Golizadeh, Asghar"]
+[Black "Toufighi, Homayoon"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2271"]
+[BlackElo "2425"]
+[PlyCount "87"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Nf3
+Nc6 9. Bd3 c4 10. Be2 Bd7 11. O-O Nge7 12. Ne1 O-O-O 13. g3 f6 14. f4 Rdf8 15.
+Ng2 h6 16. exf6 gxf6 17. Nh4 Rfg8 18. Bh5 Kb8 19. Rf2 Ka8 20. Re2 Rg7 21. Be3
+Qa5 22. Qd2 Nc8 23. f5 Nd6 24. fxe6 Ne4 25. Qd1 Bxe6 26. Bf4 Rhg8 27. Bf3 Bg4
+28. Re3 Bxf3 29. Rxf3 Ne7 30. Kh1 Qa4 31. Qe2 Qd7 32. Qf1 Ng6 33. Nxg6 Rxg6 34.
+Re1 h5 35. Rfe3 Rg4 36. Rxe4 dxe4 37. Rxe4 h4 38. Re3 hxg3 39. Bxg3 f5 40. Rf3
+Qd5 41. Kg1 Qe4 42. Qg2 f4 43. Kf1 a5 44. d5 0-1
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.17"]
+[Round "2"]
+[White "Otchiyev, Arslan"]
+[Black "Khoroshev, Nikita"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2225"]
+[BlackElo "2162"]
+[PlyCount "136"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d4 Nxd4 8.
+Nxd4 exd4 9. e5 Ne4 10. f3 Nc5 11. Qxd4 Ne6 12. Qg4 h5 13. Qh3 Bc5+ 14. Kh1 Qe7
+15. Nc3 O-O-O 16. Nd5 Qf8 17. c3 Kb8 18. f4 g6 19. a4 d6 20. axb5 axb5 21. Nb4
+Bxb4 22. cxb4 dxe5 23. Bxe6 fxe6 24. Qxe6 Re8 25. Qd7 Qf5 26. Qxf5 gxf5 27. Rf2
+Rhg8 28. Kg1 Rd8 29. Be3 e4 30. Rc1 Rd6 31. Re2 Rgd8 32. Rc5 Rd3 33. Kf2 R8d5
+34. Rxd5 Bxd5 35. Rc2 c6 36. Rd2 Rb3 37. Rc2 Rxb4 38. Bc5 Rb3 39. Bd4 Kb7 40.
+Re2 Rd3 41. Bc3 c5 42. Re3 Rxe3 43. Kxe3 b4 44. Bf6 Kc6 45. g3 Kb5 46. Kd2 Kc4
+47. Be7 Bc6 48. Bf8 Bb5 49. Be7 Kd5 50. Bf8 Bd3 51. Be7 Kc4 52. Bf8 Kb5 53. Be7
+c4 54. Bf8 Ka4 55. Be7 Kb3 56. Bf6 Bf1 57. Bd4 c3+ 58. bxc3 bxc3+ 59. Ke3 Kc4
+60. Bf6 Bg2 61. Bg7 Bf3 62. Bf6 Bd1 63. Bg7 c2 64. Bb2 Kb3 65. Bc1 Ka2 66. Kd2
+Kb1 67. Ba3 Bg4 68. Bc1 e3+ 0-1
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.17"]
+[Round "2"]
+[White "Tologontegin, Semetery"]
+[Black "Saravana, Krishnan P"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2374"]
+[BlackElo "2256"]
+[PlyCount "49"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 h6 4. Be3 Bb4 5. Bd3 c5 6. dxc5 Nc6 7. exd5 exd5 8.
+Nge2 Nf6 9. O-O O-O 10. h3 Bxc3 11. bxc3 Ne5 12. Bd4 Qc7 13. Re1 Re8 14. Ng3
+Bd7 15. Qd2 Re6 16. Re2 Rae8 17. Rae1 Bc6 18. Qf4 Nfd7 19. Bf5 g5 20. Qc1 R6e7
+21. f4 gxf4 22. Qxf4 f6 23. Nh5 Qd8 24. Bxd7 Nxd7 25. Nxf6+ 1-0
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.18"]
+[Round "4"]
+[White "Debashish, Das"]
+[Black "Toufighi, Homayoon"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[WhiteElo "2294"]
+[BlackElo "2425"]
+[PlyCount "73"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5 Bxc5 8.
+O-O Nge7 9. Nb3 Bd6 10. Re1 O-O 11. Bd3 Qc7 12. h3 Nb4 13. Nbd4 Nxd3 14. Qxd3
+a6 15. c3 Bd7 16. Be3 Rae8 17. Rad1 Ng6 18. Qc2 Qc8 19. Qb3 Be6 20. Re2 Bb8 21.
+Rde1 Qc7 22. Bc1 Qd7 23. Qc2 Qd6 24. Qb3 b6 25. Qc2 Nh4 26. Bg5 Nxf3+ 27. Nxf3
+Rc8 28. Bh4 Qd7 29. Nd4 Rfe8 30. Bg3 Ba7 31. Qd2 b5 32. Be5 Bxd4 33. Bxd4 f6
+34. b4 Bf7 35. Rxe8+ Rxe8 36. Rxe8+ Qxe8 37. f3 1/2-1/2
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.18"]
+[Round "4"]
+[White "Maleki, Amir"]
+[Black "Ali, Akar"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2086"]
+[BlackElo "2025"]
+[PlyCount "31"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6
+8. Qd2 Be6 9. Nd4 Qd7 10. Be2 Bg4 11. Nxc6 Qxc6 12. O-O h5 13. a4 Bxe2 14. Qxe2
+Rf8 15. Rfe1 Bf6 16. Bd4+ 1-0
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.18"]
+[Round "4"]
+[White "Tologontegin, Semetery"]
+[Black "Khoroshev, Nikita"]
+[Result "1-0"]
+[ECO "C93"]
+[WhiteElo "2374"]
+[BlackElo "2162"]
+[PlyCount "189"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12. Nf1 Bb7 13. Ng3 Na5 14. Bc2 Nc4 15. b3
+Nb6 16. a4 bxa4 17. bxa4 a5 18. Bd3 d5 19. exd5 Qxd5 20. dxe5 Red8 21. Be2 Qxd1
+22. Bxd1 Nfd5 23. Ne4 Nc4 24. Bb3 Ba6 25. Bxc4 Bxc4 26. Ba3 Bxa3 27. Rxa3 Rab8
+28. Nd4 Rb6 29. Nd2 Bd3 30. N2f3 Rdb8 31. Nd2 Rd8 32. N2b3 Nxc3 33. Nxa5 Rxd4
+34. Rxc3 Rxa4 35. Rxd3 Rxa5 36. Rd8+ Kh7 37. Rd7 Re6 38. Rxf7 Raxe5 39. Rxe5
+Rxe5 40. Rxc7 Re2 41. g4 Ra2 42. Kg2 h5 43. Kg3 hxg4 44. hxg4 Ra3+ 45. f3 Kg6
+46. Rc6+ Kf7 47. Kf4 Ra4+ 48. Kg5 Ra5+ 49. Kh4 Ra4 50. Kh5 Rf4 51. Rc7+ Kg8 52.
+Rc8+ Kf7 53. Rc7+ Kg8 54. Rc3 Kh7 55. Kg5 Rf6 56. f4 Rg6+ 57. Kf5 Rf6+ 58. Ke5
+Ra6 59. Kf5 Ra5+ 60. Ke4 Ra4+ 61. Kf3 Kg6 62. Kg3 Rb4 63. Rc6+ Kf7 64. Rd6 Ra4
+65. Rb6 Rc4 66. Rb7+ Kg6 67. f5+ Kf6 68. Kh4 Rc1 69. Rb6+ Kf7 70. Kh5 Rc5 71.
+Kg5 Ra5 72. Rb7+ Kf8 73. Kg6 Ra6+ 74. Kh5 Ra5 75. g5 Rxf5 76. Kg6 Ra5 77. Rb8+
+Ke7 78. Rb7+ Kf8 79. Rb8+ Ke7 80. Rg8 Rb5 81. Rxg7+ Kf8 82. Ra7 Rc5 83. Ra6 Rc8
+84. Kh7 Rc7+ 85. Kh8 Rc5 86. Rg6 Rf5 87. Rg8+ Kf7 88. Kh7 Rf1 89. Rg6 Rf5 90.
+Rg7+ Kf8 91. Rg8+ Kf7 92. g6+ Ke7 93. g7 Rg5 94. Rf8 Rh5+ 95. Kg6 1-0
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.19"]
+[Round "5"]
+[White "Sadeh, Shahin"]
+[Black "Khoroshev, Nikita"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[WhiteElo "2247"]
+[BlackElo "2162"]
+[PlyCount "120"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Nb8 6. Nxe5 Qe7 7. Qd4 Nf6 8.
+Be3 c5 9. dxc6 Nxc6 10. Nxc6 dxc6 11. Nd2 Ng4 12. Bc4 Be6 13. O-O-O Nxe3 14.
+fxe3 b5 15. Bxe6 Qxe6 16. Ne4 f6 17. Nd6+ Bxd6 18. Qxd6 Qxd6 19. Rxd6 Rc8 20.
+Rhd1 O-O 21. Rd7 a5 22. Ra7 Rf7 23. Rxa5 Re7 24. Rd3 Rce8 25. Kd2 c5 26. c4
+bxc4 27. Rc3 Rb8 28. Kc2 Reb7 29. b3 cxb3+ 30. axb3 c4 31. bxc4 Rb2+ 32. Kd3
+Rxg2 33. c5 Rxh2 34. c6 Rc8 35. Ra7 Kf8 36. Rb3 h5 37. Rbb7 Rg2 38. Ke4 h4 39.
+Kf3 h3 40. Rb4 Rc2 41. Rh4 Kg8 42. Rxh3 R8xc6 43. Rg3 Rc7 44. Rxc7 Rxc7 45. Rg4
+Kf7 46. Ra4 Rb7 47. Ra6 g5 48. Rc6 Re7 49. Rb6 Re6 50. Rb7+ Kg6 51. Rb8 Ra6 52.
+Rc8 Ra5 53. Rb8 Re5 54. Ra8 Kf5 55. Rg8 g4+ 56. Kf2 Re7 57. Rh8 Kg6 58. Rg8+
+Rg7 59. Rxg7+ Kxg7 60. Kg3 f5 1/2-1/2
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.20"]
+[Round "6"]
+[White "Djuraev, Sokhib"]
+[Black "Maleki, Amir"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2324"]
+[BlackElo "2086"]
+[PlyCount "123"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ndf3 f6 8. exf6
+Nxf6 9. Nh3 Bd6 10. O-O O-O 11. Re1 Qe7 12. Nhg5 e5 13. dxe5 Nxe5 14. Nxe5 Bxe5
+15. Bxh7+ Kh8 16. g3 Nxh7 17. Nxh7 Kxh7 18. Qh5+ Kg8 19. Qxe5 Qf7 20. Bf4 b6
+21. Qg5 Be6 22. Re5 d4 23. cxd4 cxd4 24. b3 Rac8 25. Rae1 Rc6 26. Qh4 g6 27.
+R5e4 d3 28. Rd4 Rc5 29. g4 Re8 30. Be5 Qh7 31. Qf6 Rc6 32. Qf3 Rc5 33. Bd6 Rcc8
+34. Rxd3 Qf7 35. Qxf7+ Kxf7 36. h3 Rcd8 37. Red1 Rc8 38. Kg2 Rc2 39. R3d2 Rec8
+40. Be5 R8c5 41. f4 a6 42. Bd4 Rc6 43. Kf2 b5 44. Ke3 a5 45. Rb1 Bd5 46. Be5
+Rxd2 47. Kxd2 Be4 48. Rd1 Rc2+ 49. Ke3 Bg2 50. Rd6 Rxa2 51. Rf6+ Ke8 52. h4 Ra3
+53. Rxg6 Rxb3+ 54. Kd4 a4 55. h5 a3 56. h6 Rh3 57. Rg8+ Kd7 58. Rg7+ Kc6 59.
+Rg6+ Kb7 60. Kc5 Bf1 61. Rg7+ Ka6 62. h7 1-0
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.21"]
+[Round "7"]
+[White "Golizadeh, Asghar"]
+[Black "Ali, Akar"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[WhiteElo "2271"]
+[BlackElo "2025"]
+[PlyCount "138"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d3 Bg4 10. h3 Bh5 11. Nbd2 Re8 12. Nf1 Bf8 13. g4 Bg6 14. Bg5 Rb8 15.
+Ne3 Be7 16. Nf5 Nd7 17. Be3 Bf8 18. Kh1 Qc8 19. h4 Na5 20. h5 Nxb3 21. hxg6
+Nxa1 22. gxf7+ Kxf7 23. Ng5+ Kg8 24. Qf3 Nf6 25. Rxa1 g6 26. Rg1 Qd7 27. Qg3 h6
+28. Nf3 gxf5 29. gxf5+ Kf7 30. Bxh6 Bxh6 31. Qg6+ Ke7 32. Qxh6 Rg8 33. Rg7+
+Rxg7 34. Qxg7+ Kd8 35. Qxf6+ Qe7 36. Qh8+ Qe8 37. Qg7 Qe7 38. Qg8+ Qe8 39. Qg7
+Qe7 40. Qg6 Kd7 41. f6 Rh8+ 42. Kg2 Qh7 43. Qxh7+ Rxh7 44. d4 Rh5 45. Nh2 c5
+46. dxc5 dxc5 47. Ng4 a5 48. a3 Ke6 49. Kf3 b4 50. cxb4 axb4 51. axb4 cxb4 52.
+Ke3 Rh4 53. f3 Rh8 54. f7 Rd8 55. Nf2 b3 56. Nd3 Rc8 57. Kd2 Kxf7 58. Nxe5+ Ke6
+59. Nd3 Kd6 60. f4 Ke6 61. Ke1 Rc4 62. Kd2 Kd6 63. Ke3 Ke6 64. Kf3 Kd6 65. f5
+Rd4 66. Ke3 Rc4 67. Kf4 Rd4 68. Nc1 Rb4 69. Nd3 Rb8 1/2-1/2
+
+[Event "Asia-ch U18"]
+[Site "Teheran"]
+[Date "2008.07.21"]
+[Round "7"]
+[White "Maleki, Amir"]
+[Black "Khoroshev, Nikita"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2086"]
+[BlackElo "2162"]
+[PlyCount "101"]
+[EventDate "2008.07.16"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "IRI"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+O-O 9. d4 Bb6 10. Bg5 d6 11. a4 h6 12. Bh4 Re8 13. axb5 axb5 14. Rxa8 Bxa8 15.
+Na3 exd4 16. Nxb5 g5 17. Bg3 Rxe4 18. Nbxd4 Nxd4 19. Nxd4 Rxe1+ 20. Qxe1 Bd5
+21. Bxd5 Nxd5 22. Nf5 Qd7 23. Qe4 Nf6 24. Nxh6+ Kf8 25. Qf5 Qe6 26. h4 Ne4 27.
+Qxe6 fxe6 28. Kf1 Kg7 29. hxg5 Nxg3+ 30. fxg3 Kg6 31. Ng4 Kxg5 32. Nh2 Be3 33.
+Ke2 Bc1 34. b3 e5 35. c4 Kf5 36. Nf3 Kg4 37. Kf2 Bb2 38. b4 Ba3 39. Nh2+ Kf5
+40. g4+ Kf4 41. g3+ Ke4 42. b5 Kd3 43. g5 e4 44. Ng4 Bb2 45. g6 Bd4+ 46. Kg2 e3
+47. Nh2 Kxc4 48. Nf3 Bh8 49. Nh4 Kd3 50. Nf3 e2 51. Kf2 1/2-1/2
+
+[Event "Pardubice Synthesia rap op 19th"]
+[Site "Pardubice"]
+[Date "2008.07.17"]
+[Round "4"]
+[White "Chuprov, Dmitry"]
+[Black "Genba, Vladimir"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2577"]
+[BlackElo "2429"]
+[PlyCount "75"]
+[EventDate "2008.07.16"]
+[EventType "swiss (rapid)"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nbd2 d5 8.
+exd5 Nxd5 9. O-O O-O 10. a3 Be7 11. Qc2 Bg4 12. Re1 Bh5 13. b4 Bg6 14. Qb3 Nb6
+15. Bb2 Bf6 16. Rad1 Ne7 17. Bf1 Qd5 18. Qxd5 Nexd5 19. Ne5 a5 20. b5 Rfd8 21.
+Nxg6 hxg6 22. Ne4 Na4 23. Ba1 Be7 24. Rd3 f5 25. Nd2 Bf6 26. Nf3 Nab6 27. Rdd1
+Kf7 28. Rc1 Re8 29. Ne5+ Bxe5 30. dxe5 Ke6 31. Bd4 Rac8 32. g3 Red8 33. Rc2 Rd7
+34. Rec1 Rf7 35. f4 Rd7 36. Bf2 g5 37. fxg5 Kxe5 38. Re1+ 1-0
+
+[Event "Pardubice Synthesia rap op 19th"]
+[Site "Pardubice"]
+[Date "2008.07.17"]
+[Round "5"]
+[White "Mamedov, Rauf"]
+[Black "Sumaneev, Dmitry"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "2627"]
+[BlackElo "2465"]
+[PlyCount "77"]
+[EventDate "2008.07.16"]
+[EventType "swiss (rapid)"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O 12. Bg5 Qc7 13. Bh4 Ng4 14. h3 Rxf3 15.
+hxg4 Rf7 16. Bb5 Qb6 17. a4 Bd7 18. Qd2 a6 19. Bxc6 bxc6 20. Bg3 Bxg3 21. Nxg3
+Rb8 22. Qe3 e5 23. Qxe5 Re8 24. a5 Qa7 25. Qd6 Qxd4 26. b4 Ref8 27. Rad1 Qxg4
+28. f3 Qf4 29. Ne4 dxe4 30. Qxf4 Rxf4 31. Rxd7 exf3 32. Rxf3 Rxf3 33. gxf3 Rxf3
+34. Ra7 Rb3 35. Rxa6 Rxb4 36. Rxc6 Ra4 37. a6 h5 38. Kf2 Ra3 39. Rc8+ 0-1
+
+[Event "Pardubice Synthesia rap op 19th"]
+[Site "Pardubice"]
+[Date "2008.07.17"]
+[Round "5"]
+[White "Najer, Evgeniy"]
+[Black "Maslak, Konstantin"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2670"]
+[BlackElo "2521"]
+[PlyCount "143"]
+[EventDate "2008.07.16"]
+[EventType "swiss (rapid)"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. dxc5 Nxc5 10. O-O-O a6 11. f5 Ne4 12. Nxe4 dxe4 13. f6 gxf6 14. Qe1 Qa5
+15. Qxa5 Nxa5 16. exf6 Bxf6 17. Nd2 Be7 18. Bb6 e3 19. Nf3 Nc6 20. Bc4 Bd8 21.
+Bxe3 b5 22. Be2 Bc7 23. g3 Bb7 24. Rd7 Rac8 25. Bf4 e5 26. Bh6 Rfd8 27. Rhd1
+Nd4 28. Rxd8+ Rxd8 29. Nxd4 Rxd4 30. Rf1 Be4 31. Be3 Rd6 32. g4 Rc6 33. c3 Bb6
+34. Bxb6 Rxb6 35. h4 Rd6 36. Rd1 Rxd1+ 37. Kxd1 f5 38. gxf5 Bxf5 39. c4 Bd7 40.
+b4 Kf7 41. Kd2 Kf6 42. Ke3 bxc4 43. Bxc4 Bb5 44. Bb3 Kf5 45. Bc2+ Kg4 46. Bxh7
+Kxh4 47. Ke4 Kg3 48. Kxe5 Kf3 49. Kd4 Bc6 50. Bd3 Bb7 51. a4 Bc8 52. a5 Kf2 53.
+Bc4 Ke1 54. Kc5 Kd2 55. Bxa6 Bxa6 56. b5 Bc8 57. a6 Kc3 58. a7 Bb7 59. Kb6 Ba8
+60. Kc7 Kb4 61. b6 Kc5 62. b7 Bxb7 63. Kxb7 Kd6 64. a8=Q Kd5 65. Kb6+ Kd4 66.
+Qf3 Kc4 67. Qe4+ Kb3 68. Kc5 Kc3 69. Qe3+ Kc2 70. Kc4 Kb2 71. Qe2+ Ka3 72. Qf2
+1-0
+
+[Event "Pardubice Synthesia rap op 19th"]
+[Site "Pardubice"]
+[Date "2008.07.17"]
+[Round "8"]
+[White "Chuprov, Dmitry"]
+[Black "Buhmann, Rainer"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2577"]
+[BlackElo "2561"]
+[PlyCount "108"]
+[EventDate "2008.07.16"]
+[EventType "swiss (rapid)"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bg4 6. O-O Be7 7. Bg5 Nbd7 8.
+Nbd2 O-O 9. c3 h6 10. Bxf6 Nxf6 11. Qc2 Bxf3 12. Nxf3 Re8 13. Rae1 Bd6 14.
+Rxe8+ Qxe8 15. Re1 Qd8 16. Qb3 Rb8 17. c4 c6 18. cxd5 cxd5 19. g3 Qa5 20. Kg2
+Qb4 21. Qxb4 Bxb4 22. Rc1 Ba5 23. a4 a6 24. Bf5 Ne4 25. Ne5 Rd8 26. Rc8 Rxc8
+27. Bxc8 Nd6 28. Bd7 Bb6 29. Nf3 Kf8 30. h4 Ke7 31. Bh3 Nc4 32. Bc8 Nd6 33. Bh3
+h5 34. Kf1 g6 35. Ke2 f6 36. b3 Ba5 37. Ke3 Bc3 38. Ng1 Be1 39. Ke2 Ba5 40. Bg2
+Nf5 41. Kd3 Kd6 42. Bh3 Ne7 43. Ne2 Be1 44. Ke3 g5 45. hxg5 fxg5 46. f3 a5 47.
+g4 hxg4 48. fxg4 Ng8 49. Bg2 Nf6 50. Bf3 b6 51. Nc1 Bg3 52. Nd3 Ne8 53. b4 axb4
+54. Nxb4 Nc7 1/2-1/2
+
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "2008.07.16"]
+[Round "1"]
+[White "Ulfarsson, Magnus Orn"]
+[Black "Salama, Omar"]
+[Result "1/2-1/2"]
+[ECO "C73"]
+[WhiteElo "2403"]
+[BlackElo "2212"]
+[PlyCount "51"]
+[EventDate "2008.07.16"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 exd4 7. Nxd4 c5 8.
+Ne2 Nf6 9. Nbc3 g6 10. Bg5 h6 11. Bh4 Bg7 12. f4 g5 13. fxg5 Ng4 14. Qd2 Rb8
+15. O-O hxg5 16. Bxg5 Qxg5 17. Qxg5 Bh6 18. Qxh6 Rxh6 19. b3 Nxh2 20. Rf4 Be6
+21. Ng3 Ng4 22. Nd5 Kd7 23. Raf1 Ne5 24. Nf5 Bxf5 25. Rxf5 c6 26. Nc3 1/2-1/2
+
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "2008.07.16"]
+[Round "1"]
+[White "Westerinen, Heikki MJ"]
+[Black "Thorfinnsson, Bjorn"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2376"]
+[BlackElo "2422"]
+[PlyCount "47"]
+[EventDate "2008.07.16"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. O-O O-O 10. Be3 Bg4 11. Bxc6 bxc6 12. Qa4 Bxf3 13. gxf3 Ng5 14. Nd2 Ne6
+15. Nb3 Qh4 16. Qxc6 Rad8 17. Kg2 Rfe8 18. Rg1 Bxd4 19. Nxd4 Nxd4 20. Bxd4 Qxd4
+21. Qxc7 Qxb2 22. Rae1 Rc8 23. Qd7 Rcd8 24. Qc7 1/2-1/2
+
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "2008.07.17"]
+[Round "2"]
+[White "Westerinen, Heikki MJ"]
+[Black "Lagerman, Robert"]
+[Result "0-1"]
+[ECO "C80"]
+[WhiteElo "2376"]
+[BlackElo "2354"]
+[PlyCount "76"]
+[EventDate "2008.07.16"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. Nbd2 O-O 11. Nxe4 dxe4 12. Bxe6 fxe6 13. Nd2 Qd5 14. Qg4
+Nxe5 15. Qxe4 Rad8 16. Qxd5 exd5 17. Nb3 Nc4 18. Bc5 Rfe8 19. Rfe1 Bf6 20. Nd4
+Nxb2 21. Nc6 Ra8 22. Be7 Bc3 23. Re3 d4 24. Rg3 Kf7 25. Bb4 Bxb4 26. Nxb4 c5
+27. Nd5 Re2 28. Rf3+ Kg8 29. Rc1 Rae8 30. g3 c4 31. Nf4 Re1+ 32. Rxe1 Rxe1+ 33.
+Kg2 d3 34. cxd3 c3 35. Re3 Rxe3 36. fxe3 c2 37. Ne2 Nxd3 38. Kf3 b4 0-1
+
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "2008.07.18"]
+[Round "3"]
+[White "Lagerman, Robert"]
+[Black "Thorfinnsson, Bjorn"]
+[Result "0-1"]
+[ECO "C22"]
+[WhiteElo "2354"]
+[BlackElo "2422"]
+[PlyCount "128"]
+[EventDate "2008.07.16"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nc3 Nf6 3. d4 exd4 4. Qxd4 Nc6 5. Qe3 Bb4 6. Bd2 O-O 7. O-O-O Re8
+8. Qg3 Rxe4 9. Bd3 Rg4 10. Qh3 Ne5 11. Bf5 d6 12. Bxc8 Qxc8 13. f4 Bxc3 14.
+Qxc3 Ne4 15. Qe3 Nxd2 16. Qxd2 Nc4 17. Qd4 Qe6 18. g3 Ne3 19. Rd3 Nf5 20. Qd5
+Qxd5 21. Rxd5 Ne7 22. Rb5 b6 23. Nf3 Rg6 24. Re1 Kf8 25. Rh5 h6 26. f5 Rf6 27.
+g4 Ng8 28. Rh3 Re8 29. Rxe8+ Kxe8 30. Nd4 g6 31. Ra3 a5 32. h4 gxf5 33. Nxf5
+Kd7 34. Rg3 Ne7 35. Ne3 Rf2 36. Kd1 d5 37. Rg2 Rf4 38. Ke2 Re4 39. Kd2 Ke6 40.
+Nd1 Rd4+ 41. Ke1 f5 42. gxf5+ Nxf5 43. Rg6+ Ke7 44. h5 Rh4 45. Rc6 Kd7 46. Rf6
+Rxh5 47. Nf2 Nd6 48. Ng4 Rh1+ 49. Ke2 h5 50. Rh6 Ra1 51. Ne5+ Kc8 52. Rxh5 Rxa2
+53. Nd3 Nc4 54. Rxd5 Nxb2 55. Ne5 Na4 56. Kd2 Nc5 57. Nc4 Ra1 58. Kc3 Rh1 59.
+Nxa5 Ne4+ 60. Kd3 Rd1+ 61. Kxe4 Rxd5 62. Kxd5 bxa5 63. Kc5 c6 64. c3 Kb7 0-1
+
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "2008.07.19"]
+[Round "5"]
+[White "Sigfusson, Sigurdur"]
+[Black "Westerinen, Heikki MJ"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2324"]
+[BlackElo "2376"]
+[PlyCount "93"]
+[EventDate "2008.07.16"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. d4 d5 3. e5 Bd7 4. c3 a6 5. Nd2 Bb5 6. Bxb5+ axb5 7. Ne2 Ne7 8. O-O
+Nf5 9. Nf3 Nc6 10. Nf4 g6 11. Nd3 b4 12. Bg5 Be7 13. Bxe7 Qxe7 14. Qb3 O-O 15.
+Nxb4 Na5 16. Qd1 b6 17. Nd3 c5 18. dxc5 bxc5 19. b4 cxb4 20. cxb4 Nc6 21. a3
+Rfb8 22. Qd2 Qa7 23. Nc5 Qe7 24. Rfc1 Rb6 25. Qf4 Ra7 26. g3 Rb8 27. Nd3 Ra6
+28. g4 Nh4 29. Nxh4 Qxh4 30. f3 Qe7 31. Kg2 Qa7 32. Nc5 Rxb4 33. axb4 Rxa1 34.
+Rxa1 Qxa1 35. Nd7 Qa7 36. Nf6+ Kg7 37. Ne8+ Kf8 38. Nd6 Qe7 39. b5 Nd8 40. g5
+Kg8 41. h4 Nb7 42. Qf6 Qd7 43. Nxb7 Qxb7 44. Qd8+ Kg7 45. b6 Qa6 46. Kg3 Qf1
+47. Qf6+ 1/2-1/2
+
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "2008.07.19"]
+[Round "5"]
+[White "Ulfarsson, Magnus Orn"]
+[Black "Lagerman, Robert"]
+[Result "0-1"]
+[ECO "C60"]
+[WhiteElo "2403"]
+[BlackElo "2354"]
+[PlyCount "92"]
+[EventDate "2008.07.16"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[EventCategory "3"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O d6 5. c3 Ng6 6. d4 Bd7 7. d5 Nb8 8. Qb3
+Qc8 9. a4 Be7 10. Be3 O-O 11. Nbd2 f5 12. exf5 Bxf5 13. a5 Nd7 14. c4 Nc5 15.
+Qa2 Kh8 16. Ne1 Nd3 17. f3 Ngf4 18. g3 Bh3 19. Nxd3 Bxf1 20. Nf2 Ng2 21. Nxf1
+Nxe3 22. Nxe3 Rxf3 23. Re1 Bg5 24. Qb3 c6 25. dxc6 bxc6 26. Ba4 d5 27. cxd5

@@ -1,0 +1,600 @@
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c3 Nf6 6. Qe2 Nc6 7. O-O e6 8.
+d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Be3 Be7 12. Ne1 f6 13. f3 Ng5 14. Nd3 O-O 15.
+Nd2 f5 16. Nb3 b6 17. Rfc1 Nf7 18. a3 Rfc8 19. Nf4 Bg5 20. Nh5 Bxe3+ 21. Qxe3
+Ne7 22. Nf4 Nd8 23. Qd3 Rxc1+ 24. Rxc1 Rc8 25. h4 Rxc1+ 26. Nxc1 Kf7 27. Nb3
+Qa4 28. Kf2 Ndc6 29. Ke3 Na5 30. Nxa5 Qxa5 31. Kf2 Qa4 32. g4 Qc6 33. Ne2 Qc4
+34. Ke3 Qxd3+ 35. Kxd3 fxg4 36. fxg4 h5 37. gxh5 Nf5 38. Nc3 Ke7 39. Nb5 Kd7
+40. Nxa7 Nxh4 41. a4 Ng2 42. Nb5 Nf4+ 43. Ke3 Nxh5 44. Kf3 g5 45. b4 Nf4 46. a5
+Nd3 47. a6 Kc8 48. Nd6+ Kb8 49. b5 Nb4 50. Kg4 Nc2 51. Kxg5 Nxd4 52. Kf6 Ka7
+53. Ke7 Ka8 54. Kd7 Kb8 55. Ke7 Ka8 56. Kf6 Kb8 57. Kf7 Ka8 58. Ke7 Ka7 59. Kd8
+Nf3 60. Kc7 Nd4 61. Nc8+ Ka8 62. Nxb6+ Ka7 63. Nc8+ Ka8 64. b6 Nb5+ 65. Kc6
+Nd4+ 66. Kc5 Nb3+ 67. Kb4 Nd4 68. Ne7 1-0
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Szelag, Marcin"]
+[Black "Maksimenko, Andrei"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[WhiteElo "2474"]
+[BlackElo "2537"]
+[PlyCount "22"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Be2 Nbd7 8. g4
+h6 9. f4 g5 10. fxg5 hxg5 11. Bxg5 b5 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Szumilas, Pawel"]
+[Black "Kryvoruchko, Yuriy"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2164"]
+[BlackElo "2628"]
+[PlyCount "82"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Bc5 7. Nb3 Be7 8.
+O-O Nf6 9. f4 d6 10. Qf3 Nbd7 11. Bd2 b6 12. Rae1 Bb7 13. Kh1 O-O 14. Qh3 Rad8
+15. Re3 Rfe8 16. Rfe1 g6 17. f5 exf5 18. exf5 Ne5 19. fxg6 hxg6 20. R3e2 Nfg4
+21. Bf4 Kg7 22. Bxe5+ Nxe5 23. Qg3 Rh8 24. Rf1 Bh4 25. Qf4 Rh5 26. Be4 Bg5 27.
+Qg3 Bc8 28. Nd4 Rdh8 29. Nf3 Nxf3 30. gxf3 Bh4 31. Qf4 Be6 32. Rg1 R8h6 33. Rd2
+Bf6 34. Rgg2 Be5 35. Qe3 d5 36. Rxd5 Bxd5 37. Nxd5 Qc4 38. f4 Qf1+ 39. Qg1
+Qxg1+ 40. Kxg1 Bxb2 41. Kf1 Bd4 0-1
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Weglarz, Joanna"]
+[Black "Chlost, Marlena"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2026"]
+[BlackElo "2131"]
+[PlyCount "32"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Be6 9. f4 Qc7 10. Be3 Nbd7 11. f5 Bc4 12. Nd2 Bxe2 13. Qxe2 b5 14. a3 Qc6 15.
+Qf3 h5 16. Rac1 Nb6 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Wlodarczyk, Oskar"]
+[Black "Kuczynski, Robert"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2325"]
+[BlackElo "2497"]
+[PlyCount "83"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 d6 5. d4 cxd4 6. cxd4 Nc6 7. Bc4 Nb6 8. Bb3
+d5 9. Nc3 Bg4 10. Be3 e6 11. O-O Be7 12. Bc2 Bh5 13. Ne2 Bg6 14. Bxg6 hxg6 15.
+Nd2 Rc8 16. f4 Na5 17. b3 Qd7 18. Rc1 Rxc1 19. Nxc1 Qb5 20. Qe2 Qxe2 21. Nxe2
+Nc6 22. Nb1 a5 23. a4 Nb4 24. Rc1 Kd7 25. Bd2 Na8 26. h3 Nc7 27. Nbc3 Rb8 28.
+Ra1 Nc6 29. Nb5 b6 30. Nxc7 Kxc7 31. Kf2 b5 32. Rc1 Kd7 33. Ke3 bxa4 34. bxa4
+g5 35. g3 gxf4+ 36. gxf4 Bb4 37. Nc3 Rh8 38. Rh1 Rh4 39. Be1 Rh8 40. Bd2 g6 41.
+Nb5 Be7 42. Kf3 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.08"]
+[Round "3"]
+[White "Zezulkin, Jurij"]
+[Black "Wieczorek, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2448"]
+[BlackElo "2317"]
+[PlyCount "59"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Bc4 b5 5. Bb3 d6 6. Qf3 e6 7. Nge2 a5 8. a3 Ba6
+9. d5 cxd5 10. exd5 e5 11. Ne4 h6 12. g4 Nf6 13. N2g3 Nxe4 14. Nxe4 O-O 15. Qh3
+f5 16. gxf5 Bc8 17. Ng3 Rxf5 18. Qg2 Rf4 19. c3 Rh4 20. h3 Nd7 21. Bc2 Nf8 22.
+Be3 Qd7 23. Ne4 Qe7 24. f3 Bf5 25. Bf2 Rf4 26. Bg3 Nd7 27. h4 Rf8 28. Rd1 Kh8
+29. Rd2 Nb6 30. Bxf4 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Chlost, Marlena"]
+[Black "Korosciel, Aneta"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2131"]
+[BlackElo "2067"]
+[PlyCount "53"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qg4 Nf6 8.
+Qg3 Nc6 9. O-O d6 10. Nc3 b5 11. Kh1 Ne5 12. f4 Nxd3 13. cxd3 h5 14. e5 Ng4 15.
+Ne4 d5 16. Nd6+ Kf8 17. Bd2 Bb6 18. Rac1 Nh6 19. Qg5 Bd7 20. Qxd8+ Rxd8 21. Ba5
+Bxa5 22. Nxa5 Nf5 23. Nab7 Ra8 24. Rc7 Nxd6 25. exd6 Ke8 26. Rfc1 Rb8 27. Rxd7
+1-0
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Chojnacki, Krzysztof"]
+[Black "Zezulkin, Jurij"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2416"]
+[BlackElo "2448"]
+[PlyCount "36"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. c3 Bg7 12. exf5 Bxf5 13. Nc2 Be6 14. Nce3
+Ne7 15. g3 Nxd5 16. Nxd5 O-O 17. Bg2 a5 18. O-O f5 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Dudzinski, Piotr"]
+[Black "Robak, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[WhiteElo "2303"]
+[BlackElo "2264"]
+[PlyCount "123"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Nc7 9. Qe1 a6 10. a4 Rb8 11. a5 b5 12. axb6 Rxb6 13. Na4 Rb8 14. c4 e6 15. Bd2
+exd5 16. exd5 Bd7 17. Bc2 Ng4 18. h3 Re8 19. Qc1 Nh6 20. Rb1 Nf5 21. Re1 Nd4
+22. Nxd4 Bxd4+ 23. Kh1 Qh4 24. f5 Be5 25. Re4 Qg3 26. Rxe5 Qxe5 27. Bf4 Qf6 28.
+fxg6 hxg6 29. Nxc5 dxc5 30. Bxc7 Rb4 31. b3 Bxh3 32. Qf1 Qxf1+ 33. Rxf1 Bd7 34.
+Kg1 Rc8 35. Bf4 a5 36. Bd2 Rbb8 37. Bxa5 Ra8 38. Bb6 Ra2 39. Rf2 Ra6 40. Rf6
+Ra1+ 41. Kh2 Ra2 42. Bd1 Kf8 43. Rf1 f5 44. d6 Rd2 45. Bc7 Re8 46. Bf3 Rd3 47.
+Rb1 g5 48. b4 g4 49. Bd5 cxb4 50. Rxb4 g3+ 51. Kh3 Kg7 52. Kh4 Kf6 53. Rb8 Rxb8
+54. Bxb8 f4 55. Bf3 Rb3 56. Bc7 Rb1 57. Bd8+ Ke5 58. Kg5 Kxd6 59. Ba5 Bc6 60.
+Kxf4 Bxf3 61. Kxf3 Kc5 62. Kxg3 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Janaszak, Dawid"]
+[Black "Borgula, Rafal"]
+[Result "1-0"]
+[ECO "B86"]
+[WhiteElo "2353"]
+[BlackElo "2295"]
+[PlyCount "113"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Be3
+Qc7 9. g4 h6 10. Qe2 b5 11. f3 Nc6 12. O-O-O Bd7 13. h4 Na5 14. Kb1 Nc4 15. Bc1
+Qc5 16. f4 h5 17. gxh5 Nxh5 18. Rh3 Rc8 19. e5 dxe5 20. fxe5 Nxe5 21. Nf5 Nc4
+22. Nxe7 Qxe7 23. Ne4 Kf8 24. Rhd3 Be8 25. Ng5 Nf6 26. Bf4 Nd5 27. Bg3 Qf6 28.
+Bxc4 bxc4 29. Rf3 Qg6 30. Qxe6 Qxe6 31. Nxe6+ Kg8 32. Nxg7 Kxg7 33. Rxd5 Rh6
+34. Rg5+ Rg6 35. Be5+ Kg8 36. Kc1 Rxg5 37. hxg5 Kh7 38. Rf6 Kg8 39. Rh6 f6 40.
+Bxf6 Kf7 41. Kd2 Bb5 42. Kc3 Ke6 43. Bd4+ Kf5 44. Be3 Ke4 45. Bd2 Rf8 46. Rh4+
+Kf3 47. Rd4 Rg8 48. Kb4 Ke2 49. Bf4 Kf3 50. a4 Bc6 51. Bd2 Rb8+ 52. Ka3 Be4 53.
+Rxc4 Rd8 54. Bb4 Rd5 55. Be7 Rd1 56. Bf6 Rc1 57. Kb4 1-0
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Kanarek, Marcel"]
+[Black "Zawadzki, Stanislaw"]
+[Result "0-1"]
+[ECO "B04"]
+[WhiteElo "2349"]
+[BlackElo "2410"]
+[PlyCount "58"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 g6 7. O-O Bg7 8. Bf3
+Nd7 9. Nxd7 Bxd7 10. Na3 O-O 11. Nc4 Be6 12. Ne5 Nb6 13. Re1 Nd7 14. Bf4 Nxe5
+15. Bxe5 Bxe5 16. Rxe5 Qb6 17. b3 Qb4 18. Rc1 Rfd8 19. c3 Qa3 20. Rc2 Bd5 21.
+Bg4 f6 22. Re3 e5 23. b4 Bf7 24. Qf3 exd4 25. Re7 Re8 26. Rxe8+ Rxe8 27. h4
+dxc3 28. Qxf6 Qxb4 29. h5 Qxg4 0-1
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Kucypera, Malgorzata"]
+[Black "Gorecka, Joanna"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "2081"]
+[BlackElo "2136"]
+[PlyCount "84"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. e5 dxe5 5. Nxe5 Nbd7 6. Nc4 a6 7. a4 e6 8. g3
+Nb6 9. Qe2 Nxc4 10. Qxc4 Qd4 11. d3 Ng4 12. Qxd4 cxd4 13. Ne2 Bc5 14. Bg2 O-O
+15. O-O Ne5 16. a5 Rd8 17. Bd2 Nc6 18. Rfb1 e5 19. b4 Bd6 20. b5 axb5 21. Rxb5
+Ra6 22. Bd5 Bc7 23. Bc4 Ra7 24. Bd5 Ne7 25. Bg2 b6 26. f4 Bd7 27. Rbb1 bxa5 28.
+fxe5 Bxe5 29. Bb4 Nc6 30. Bc5 Ra6 31. Rb7 Bc8 32. Rb5 Bg4 33. Bb6 Rb8 34. Bxc6
+Raxb6 35. Rxe5 Bxe2 36. Rxe2 Rxc6 37. Rxa5 g6 38. Ra2 Rbc8 39. Kf2 Kg7 40. Ke1
+h5 41. Kd2 Re6 42. Rf2 Rf6 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Kulon, Klaudia"]
+[Black "Przezdziecka, Ewa"]
+[Result "1-0"]
+[ECO "B85"]
+[WhiteElo "2217"]
+[BlackElo "2096"]
+[PlyCount "81"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Be2 Nf6 8.
+O-O b5 9. a3 Bb7 10. Nb3 e6 11. f4 Be7 12. Bf3 O-O 13. g4 Rfe8 14. g5 Nd7 15.
+Bg2 Nb6 16. Nd2 Na5 17. Qh5 Nac4 18. Nxc4 Nxc4 19. Bd4 Bf8 20. Rf3 e5 21. Rh3
+h6 22. Bf2 g6 23. Qe2 exf4 24. gxh6 Kh7 25. b3 Ne3 26. Qd3 Rac8 27. Bxe3 fxe3
+28. Rxe3 d5 29. Rh3 d4 30. Nd5 Bxd5 31. exd5 Qxc2 32. Qf1 f5 33. a4 b4 34. Qxa6
+Re2 35. Bf1 Re4 36. Rg3 Rg4 37. Rxg4 fxg4 38. Bd3 Qc7 39. Qxg6+ Kh8 40. Qf6+
+Bg7 41. Qxg7+ 1-0
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Magnucka, Milena"]
+[Black "Weglarz, Joanna"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2080"]
+[BlackElo "2026"]
+[PlyCount "77"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2
+Nbd7 9. O-O-O Nb6 10. Bd3 Bb7 11. g4 Rc8 12. Kb1 Nfd7 13. Nce2 Ne5 14. g5 d5
+15. Ng3 Nec4 16. Bxc4 Nxc4 17. Qe2 Bc5 18. Bc1 Qb6 19. Nb3 O-O 20. Nxc5 Qxc5
+21. h4 a5 22. h5 a4 23. h6 g6 24. exd5 Bxd5 25. Ne4 Bxe4 26. Qxe4 Nd6 27. Qd3
+Nf5 28. Rhe1 e5 29. Qe4 Rfe8 30. Rd5 Qc7 31. b3 Nd6 32. Qd3 Nc4 33. Rxb5 axb3
+34. cxb3 Nd6 35. Rd5 Nf5 36. Bb2 Nd4 37. Bxd4 exd4 38. Rd1 Qg3 39. Qxd4 1-0
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Mielczarski, Miroslaw"]
+[Black "Dobrowolski, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "B38"]
+[WhiteElo "2242"]
+[BlackElo "2357"]
+[PlyCount "111"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. Nge2 Nc6 8. Qd2
+cxd4 9. Nxd4 Nxd4 10. Bxd4 Be6 11. Be2 Qa5 12. O-O Rfc8 13. b3 b5 14. b4 Qxb4
+15. Rab1 Qa5 16. Rxb5 Qc7 17. Nd5 Nxd5 18. cxd5 Bd7 19. Rb2 Bxd4+ 20. Qxd4 Rab8
+21. Rxb8 Rxb8 22. Rd1 a5 23. e5 dxe5 24. d6 exd6 25. Qxd6 Qxd6 26. Rxd6 Be6 27.
+a4 Rb4 28. Bb5 Bc4 29. Bxc4 Rxc4 30. Rd5 Rxa4 31. Rxe5 Ra2 32. h4 h5 33. Kh2 a4
+34. Ra5 a3 35. Ra7 Kg7 36. Kg3 Kf6 37. Ra6+ Ke5 38. Ra5+ Kd4 39. Ra7 Kc3 40.
+Rc7+ Kb3 41. Rb7+ Kc3 42. Rc7+ Kb4 43. Rb7+ Ka5 44. Ra7+ Kb5 45. Kf4 Rxg2 46.
+Rxa3 f6 47. Rc3 g5+ 48. Kf5 gxh4 49. f4 Rg3 50. Rc7 h3 51. Rh7 Kc4 52. Kxf6 Kd4
+53. Rxh5 Ke4 54. f5 Kf4 55. Rh4+ Kf3 56. Ke6 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.09"]
+[Round "4"]
+[White "Urban, Klaudiusz"]
+[Black "Orzech, Dominik"]
+[Result "1/2-1/2"]
+[ECO "B37"]
+[WhiteElo "2469"]
+[BlackElo "2472"]
+[PlyCount "26"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 c5 5. d4 cxd4 6. Nxd4 Nc6 7. Nc2 O-O 8.
+Be2 d6 9. O-O Nd7 10. Bd2 Nc5 11. f3 f5 12. exf5 Bxf5 13. Kh1 Rc8 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Dobrowolski, Aleksander"]
+[Black "Wieczorek, Zbigniew"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2357"]
+[BlackElo "2317"]
+[PlyCount "69"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Bc4 d6 5. Qf3 e6 6. Nge2 Nd7 7. O-O Ngf6 8. Be3
+O-O 9. Qg3 e5 10. f4 exd4 11. Nxd4 Nc5 12. e5 Ng4 13. exd6 Qxd6 14. Rad1 Qc7
+15. b4 Nxe3 16. Qxe3 Nd7 17. f5 Nf6 18. Qg5 Kh8 19. Rf4 Nh5 20. Rf3 Qd8 21. Qg4
+Qb6 22. Qh4 Bxf5 23. Kh1 Rad8 24. Nxf5 Bxc3 25. Nd6 Rxd6 26. Rxd6 Qxb4 27. Rd8
+Bf6 28. Rxf8+ Qxf8 29. Qf2 Qd6 30. g4 Bd4 31. Qe2 Nf6 32. g5 Ng8 33. Qe8 Qb4
+34. Bxf7 Qb1+ 35. Kg2 1-0
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Gorecka, Joanna"]
+[Black "Kulon, Klaudia"]
+[Result "1-0"]
+[ECO "B66"]
+[WhiteElo "2136"]
+[BlackElo "2217"]
+[PlyCount "143"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bg5 Be7 7. f4 Nc6 8. Qd2
+h6 9. Bxf6 gxf6 10. O-O-O a6 11. f5 Nxd4 12. Qxd4 b5 13. Be2 h5 14. Bf3 Rb8 15.
+Rhe1 b4 16. Ne2 e5 17. Qd3 Bd7 18. Ng3 Bb5 19. Qd2 h4 20. Nf1 Qa5 21. Kb1 Bc4
+22. b3 Bxf1 23. Rxf1 Qc7 24. Be2 Rb6 25. Bc4 Bf8 26. Rf3 Bh6 27. Qd5 Rg8 28. g3
+h3 29. c3 Rg4 30. cxb4 Kf8 31. Rc3 Kg7 32. Kb2 Rc6 33. Rc2 Be3 34. Qd3 Bd4+ 35.
+Kb1 Qb6 36. a3 a5 37. b5 Rc7 38. Qf3 Rg5 39. g4 Qc5 40. Ka2 Qb6 41. a4 Qb7 42.
+Rdc1 Qb8 43. Qxh3 Bc5 44. Qg3 Kf8 45. h4 Rg7 46. g5 fxg5 47. hxg5 Qd8 48. Rg2
+Ke8 49. f6 Rg8 50. Qh3 Qc8 51. Qh7 Rf8 52. g6 fxg6 53. Qxg6+ Kd8 54. Qh6 d5 55.
+Bxd5 Bd6 56. Rc6 Rxc6 57. bxc6 Qb8 58. Qg7 Qc7 59. Rh2 Kc8 60. Rh8 Rxh8 61.
+Qxh8+ Qd8 62. Qxd8+ Kxd8 63. Kb2 Bb4 64. Kc2 Kc7 65. Kd3 Be1 66. Ke2 Bh4 67. f7
+Be7 68. Kf3 Bd6 69. Kg4 Kd8 70. Kf5 Ke7 71. Kg6 Kf8 72. Kf6 1-0
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Korosciel, Aneta"]
+[Black "Magnucka, Milena"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2067"]
+[BlackElo "2080"]
+[PlyCount "90"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. Nf3 O-O 7. Bd3 Qc7 8. Bh6
+e5 9. Bxg7 Kxg7 10. dxe5 dxe5 11. Qg5 Re8 12. h4 h5 13. Nd1 Nbd7 14. Nh2 Nc5
+15. f3 Nxd3+ 16. cxd3 Qd6 17. Qe3 b6 18. Nf2 Ba6 19. O-O-O Rad8 20. g4 Qd4 21.
+Qxd4 Rxd4 22. Kc2 Red8 23. Nf1 hxg4 24. fxg4 Nd7 25. Rh3 Nc5 26. Rf3 Rh8 27. h5
+Ne6 28. hxg6 fxg6 29. Kc3 Rd7 30. Ne3 Nd4 31. Rh3 Ne2+ 32. Kd2 Rxh3 33. Nxh3
+Nf4 34. Nf2 Nxd3 35. Kc3 Nc5 36. Rxd7+ Nxd7 37. g5 Kf7 38. b3 Ke6 39. Nc2 Kd6
+40. Ne1 Nc5 41. Nf3 Ne6 42. Kd2 c5 43. Ng4 Bb7 44. Ke3 b5 45. Nh6 Ke7 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Kuczynski, Robert"]
+[Black "Krainski, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2497"]
+[BlackElo "2269"]
+[PlyCount "50"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Ne2 Nb6 8.
+Bd3 h6 9. Nf3 c5 10. c3 a6 11. O-O cxd4 12. Nexd4 Be7 13. Qe2 O-O 14. Ne5 Nbd7
+15. f4 Bc5 16. Kh1 Bxd4 17. cxd4 Re8 18. Bd2 Nf8 19. Bc3 Nd5 20. Rf3 f6 21. Ng4
+f5 22. Ne3 Ng6 23. Nxd5 exd5 24. Qd2 Bd7 25. Qc2 Qf6 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Markowski, Damian"]
+[Black "Klim, Kamil"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2258"]
+[BlackElo "2181"]
+[PlyCount "61"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. e5 Nd5 7. d4 cxd4 8. cxd4
+O-O 9. Nc3 Nxc3 10. bxc3 d5 11. exd6 Qxd6 12. a4 Qc7 13. Ba3 a6 14. Bxc6 bxc6
+15. Re1 Bf6 16. Ne5 Bf5 17. Qf3 Rfc8 18. a5 Rab8 19. Bc5 Bxe5 20. Rxe5 Qxa5 21.
+Ree1 Qb5 22. Bxe7 h5 23. h3 Qd3 24. Qf4 Qxc3 25. Rac1 Qd3 26. Rcd1 Qc2 27. Qh6
+Rb2 28. Rf1 f6 29. Bxf6 Kf7 30. Qg7+ Ke6 31. d5+ 1-0
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Robak, Zbigniew"]
+[Black "Dobrowolski, Piotr"]
+[Result "1/2-1/2"]
+[ECO "B57"]
+[WhiteElo "2264"]
+[BlackElo "2426"]
+[PlyCount "62"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e5 7. Nf3 h6 8. h3
+Be7 9. O-O O-O 10. Re1 Na5 11. Bf1 Qc7 12. a4 a6 13. Be3 Nc4 14. Bxc4 Qxc4 15.
+a5 Be6 16. Ra4 Qc7 17. Nd5 Nxd5 18. exd5 Bc8 19. c4 f5 20. Bb6 Qd7 21. c5 Bf6
+22. Rc4 e4 23. Nd4 Qf7 24. Nb3 Be5 25. cxd6 Bxd6 26. Qd4 Bd7 27. Nc5 Bb5 28.
+Rcc1 Bxc5 29. Rxc5 Rac8 30. Rec1 Rxc5 31. Rxc5 Qg6 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Rutkowski, Maciej"]
+[Black "Kanarek, Marcel"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "2380"]
+[BlackElo "2349"]
+[PlyCount "48"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nge7 9. c4 Nd4 10. Be3 Nxd5 11. cxd5 g6 12. Bd3 Bg7 13. O-O O-O 14. Qd2 f5 15.
+f3 f4 16. Bxd4 exd4 17. Nc2 Bd7 18. Nb4 Qa5 19. Rac1 Rac8 20. Rxc8 Rxc8 21. a3
+Be5 22. Rc1 Rc5 23. Be2 d3 24. Bxd3 Bd4+ 0-1
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Szelag, Marcin"]
+[Black "Antoniewski, Rafal"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[WhiteElo "2474"]
+[BlackElo "2503"]
+[PlyCount "128"]
+[EventDate "2008.09.06"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Be2 Qc7 8. Qd2
+b5 9. a3 Nbd7 10. O-O-O Rb8 11. f4 Bb7 12. Bf3 Nb6 13. Qd3 Nc4 14. Bf2 Rc8 15.
+Rhe1 Nd7 16. Nd5 exd5 17. exd5+ Kd8 18. Bh4+ Nf6 19. Qf5 Be7 20. Re6 Re8 21.
+Rde1 Nxb2 22. Bxf6 gxf6 23. Qxh7 Qc3 24. Rxe7 Nd3+ 25. Qxd3 Rxe7 26. Qxc3 Rxc3
+27. Rxe7 Kxe7 28. Kb2 Rc5 29. Nb3 Rc8 30. Na5 Ba8 31. h3 Rc5 32. Nb3 Rc4 33. g3
+f5 34. c3 Kf6 35. Nd4 Rc5 36. Nb3 Rc8 37. Nd4 Rh8 38. h4 Rg8 39. Ne2 Re8 40.
+Nd4 Re1 41. Kb3 Rb1+ 42. Kc2 Rg1 43. Ne2 Rf1 44. Nd4 Rf2+ 45. Kd3 Bb7 46. c4
+Ra2 47. Nc2 Rb2 48. Kc3 Rb1 49. cxb5 Rg1 50. bxa6 Bxa6 51. Nd4 Rxg3 52. Kd2 Rg1
+53. Nc2 Bb5 54. Nd4 Bd7 55. Kc3 Rc1+ 56. Kb4 Rb1+ 57. Nb3 Rb2 58. h5 Rh2 59.
+Nd4 Rd2 60. Kc3 Ra2 61. Kb3 Ra1 62. Kb4 Rb1+ 63. Kc3 Ba4 64. Be2 Bd7 1/2-1/2
+
+[Event "POL-chT1"]
+[Site "Ustron"]
+[Date "2008.09.10"]
+[Round "5"]
+[White "Tomczak, Jacek"]
+[Black "Pazdziora, Michal"]

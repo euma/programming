@@ -1,0 +1,600 @@
+[BlackElo "2214"]
+[PlyCount "76"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 Nc6 5. Nf3 Qa5+ 6. Bd2 Qb6 7. Nc3 Qxb2 8. Rb1
+Qxc2 9. Rc1 Qg6 10. Qxg6 hxg6 11. Nb5 Rb8 12. dxc5 f6 13. Bf4 a6 14. exf6 axb5
+15. Bxb8 Nxb8 16. Bxb5+ Nc6 17. Bxc6+ bxc6 18. f7+ Kxf7 19. Ne5+ Kf6 20. Nxc6
+Ne7 21. Na7 Ba6 22. c6 Nc8 23. Nxc8 Bb4+ 24. Kd1 Rxc8 25. a3 Ba5 26. Rc5 Bb6
+27. Rc3 Bd4 28. Rf3+ Ke7 29. Re1 Rxc6 30. Rf4 Bc3 31. Re3 d4 32. Ref3 Rb6 33.
+Rf7+ Kd6 34. Rf8 Rb2 35. Kc1 Bb7 36. R3f4 Bd5 37. Rd8+ Ke5 38. g3 d3 0-1
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.11"]
+[Round "2"]
+[White "Schuermans, Robert"]
+[Black "Barcelo Pujadas, Pedro Jose"]
+[Result "1/2-1/2"]
+[ECO "C12"]
+[WhiteElo "2128"]
+[BlackElo "2269"]
+[PlyCount "81"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. Bd3 Nxd2 10. Kxd2 c5 11. Nf3 Bd7 12. h4 Qe7 13. Qf4 Bc6 14. Nh2 Nd7 15.
+Ng4 O-O-O 16. Nxh6 f5 17. exf6 Nxf6 18. Ng4 Ne4+ 19. Bxe4 dxe4 20. Ne5 cxd4 21.
+Nxc6 bxc6 22. Qxe4 dxc3+ 23. Ke1 Qc5 24. Rh3 Rhf8 25. Re3 Rf6 26. Rd1 Rxd1+ 27.
+Kxd1 Qb5 28. Rxc3 Qf1+ 29. Qe1 Qxg2 30. f3 e5 31. Qxe5 Qh1+ 32. Qe1 Rd6+ 33.
+Rd3 Qxf3+ 34. Qe2 Rxd3+ 35. cxd3 Qf7 36. Qg4+ Kc7 37. a4 Qf1+ 38. Kc2 Qf2+ 39.
+Kb3 Qf7+ 40. Kc3 Qf6+ 41. Kb3 1/2-1/2
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Diez Fraile, Mariano"]
+[Black "Hutchinson, Paul A"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "2131"]
+[BlackElo "2213"]
+[PlyCount "78"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. cxd5 Qxd5 14. c4 Qd7
+15. Be3 Bf6 16. Ra2 Rad8 17. Rd2 Rfe8 18. Qb3 Qc8 19. Rfd1 Be4 20. h3 Ne7 21.
+Bf4 Ng6 22. Bg3 Re6 23. a4 Rde8 24. a5 c6 25. Qa2 h6 26. Ne5 Nxe5 27. dxe5 Bxe5
+28. Bg4 f5 29. Bh5 Rf8 30. Bxe5 Rxe5 31. f3 f4 32. fxe4 Rxh5 33. Rd7 f3 34. c5+
+Kh8 35. Qe6 Rg5 36. g4 f2+ 37. Kf1 b6 38. h4 Qa6+ 39. R1d3 Rxc5 0-1
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Fabregas Fontanet, Antonio"]
+[Black "Fruebing, Thomas"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2069"]
+[BlackElo "2241"]
+[PlyCount "61"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 Bb5 7. dxc5 Bxc5 8. O-O
+a5 9. a4 Bxd3 10. Qxd3 Ne7 11. Na3 Nd7 12. Nb5 Ng6 13. Qe2 O-O 14. h4 f6 15. b4
+axb4 16. cxb4 Bxb4 17. exf6 Nxf6 18. Be3 Qa6 19. Qb2 Ba5 20. Bd4 Rac8 21. Rfc1
+Rc6 22. Na7 Rxc1+ 23. Rxc1 e5 24. Bc5 Re8 25. Nb5 Ne4 26. h5 Nf4 27. Nxe5 Nxc5
+28. Rxc5 Qf6 29. g3 Nh3+ 30. Kg2 Nxf2 31. Rxd5 1-0
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.13"]
+[Round "4"]
+[White "Eriksson, Bo"]
+[Black "Spence, David"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[WhiteElo "2115"]
+[BlackElo "2214"]
+[PlyCount "88"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Bd2 Nc6 7. Nf3 cxd4 8. Nb5
+Bc7 9. Nxc7+ Qxc7 10. Bf4 Nge7 11. Bd3 f5 12. Qe2 Ng6 13. g3 Qb6 14. O-O-O Bd7
+15. Ng5 h6 16. Nf3 O-O-O 17. h4 Kb8 18. h5 Nge7 19. Qd2 Rc8 20. Be2 Na5 21. Qb4
+Qc7 22. Nxd4 Nec6 23. Nb5 Nxb4 24. Nxc7 Nxc2 25. Kxc2 Rxc7+ 26. Kb1 Ba4 27. Rc1
+Rxc1+ 28. Rxc1 Rc8 29. Rxc8+ Kxc8 30. Be3 Nc6 31. f4 Kd8 32. Kc1 Ke7 33. Kd2
+Kf7 34. Kc3 a6 35. Bc5 g6 36. b3 Bb5 37. Bd1 g5 38. Be3 g4 39. a4 Bf1 40. Bb6
+Ke8 41. Bc5 b5 42. b4 bxa4 43. Bxa4 Bb5 44. Bxb5 axb5 1/2-1/2
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.13"]
+[Round "4"]
+[White "Fabregas Fontanet, Antonio"]
+[Black "Scherer, Helmut"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "2069"]
+[BlackElo "2299"]
+[PlyCount "108"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nf5 Qxe4+ 6. Ne3 Bb4+ 7. Nd2
+Bxd2+ 8. Bxd2 Nge7 9. Bd3 Qh4 10. g3 Qh3 11. Bc3 O-O 12. Qf3 d5 13. Nxd5 Nxd5
+14. Qxd5 Bg4 15. Kd2 Rad8 16. Qg5 f6 17. Qc5 Bf5 18. Rad1 Bxd3 19. cxd3 Qe6 20.
+b3 Rd5 21. Qe3 Qd6 22. Kc2 Rd8 23. Rd2 a5 24. Re1 a4 25. Qe6+ Qxe6 26. Rxe6 Kf7
+27. Re4 axb3+ 28. axb3 Re8 29. f4 Ra8 30. Kb2 f5 31. Rc4 g6 32. h3 Ke6 33. Bg7
+Kd7 34. d4 Rda5 35. Be5 Ra2+ 36. Kc3 Rxd2 37. Kxd2 Ra2+ 38. Rc2 Rxc2+ 39. Kxc2
+Ne7 40. Kd3 h5 41. h4 Nd5 42. Bg7 Kc6 43. Bf8 Kb5 44. Ba3 Kc6 45. Bf8 Nf6 46.
+Bb4 Kd5 47. Be1 Ne4 48. Ke3 c5 49. dxc5 Nxc5 50. b4 Ne4 51. Kd3 b5 52. Bc3 Nxc3
+53. Kxc3 Ke4 54. Kc2 Kf3 0-1
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.13"]
+[Round "4"]
+[White "Juan Mas, Santiago"]
+[Black "Eriksson, Jorgen"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2095"]
+[BlackElo "2217"]
+[PlyCount "96"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. e5 Nfd7 6. d4 c5 7. c3 Be7 8. Bd3
+Ba6 9. Nf1 Bxd3 10. Qxd3 Nc6 11. a3 Na5 12. Ng3 cxd4 13. cxd4 Qc7 14. Nh5 g6
+15. Nf4 Qc4 16. Bd2 Nb3 17. Qxc4 dxc4 18. Rd1 g5 19. Ne2 g4 20. Nfg1 O-O-O 21.
+Bc3 b5 22. Nf4 Nb6 23. Nge2 Bg5 24. h4 Bxf4 25. Nxf4 h5 26. O-O Nd5 27. Ne2 Kb7
+28. Rfe1 a5 29. Bd2 Nxd2 30. Rxd2 Rc8 31. Rc2 Rc7 32. Rec1 Kb6 33. a4 Nb4 34.
+Rd2 Nd3 35. Ra1 Rd8 36. axb5 Nxe5 37. Nc3 Nd3 38. b3 Rxd4 39. bxc4 Rcxc4 40.
+Ne2 Rd5 41. Rad1 Nb4 42. Rxd5 Nxd5 43. Ng3 a4 44. Nxh5 a3 45. Ra1 Ra4 46. Ng3
+Nc3 47. Kf1 a2 48. Ke1 Rd4 0-1
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.13"]
+[Round "4"]
+[White "Lechado Artigues, Pedro"]
+[Black "Barcelo Pujadas, Pedro Jose"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "2021"]
+[BlackElo "2269"]
+[PlyCount "68"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qc7 12. Bg5 O-O 13. Bh4 Nh5 14. Qc2 h6 15.
+Bg6 Nf4 16. Nxf4 Bxf4 17. Bg3 Qb6 18. Rad1 Bd7 19. Bxf4 Rxf4 20. Qd2 Raf8 21.
+Rfe1 R8f6 22. Bb1 Be8 23. Rxe6 Bh5 24. Rde1 Bxf3 25. Re8+ Kf7 26. gxf3 Rxf3 27.
+Qe2 Qc7 28. Bh7 g5 29. Bg8+ Kg7 30. Bxd5 Rxf2 31. Qh5 Qf4 32. R1e7+ Nxe7 33.
+Rxe7+ Kh8 34. Re8+ Kg7 1/2-1/2
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.13"]
+[Round "4"]
+[White "Mercant Simon, Jaume"]
+[Black "Hoenick, Andreas"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2029"]
+[BlackElo "2172"]
+[PlyCount "100"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 Nc6 5. Nf3 h5 6. Qg3 Nh6 7. Bxh6 Rxh6 8. dxc5
+Qa5+ 9. c3 Qxc5 10. Nbd2 Bd7 11. Qf4 f6 12. Bd3 g5 13. Qg3 g4 14. Nb3 Qb6 15.
+exf6 gxf3 16. Bg6+ Kd8 17. gxf3 Qc7 18. f4 Be8 19. f7 Bxf7 20. Qg5+ Ke8 21. Bd3
+Qe7 22. Qg3 h4 23. Qh3 Kd8 24. O-O-O Kc7 25. Rhe1 Qd6 26. f5 Qf4+ 27. Kb1 e5
+28. f3 Rd8 29. Rg1 Bh5 30. Rdf1 Kb8 31. Bc2 Be7 32. Nc1 Bf6 33. Rg2 Rh7 34. Rg6
+Bxg6 35. fxg6 Re7 36. Rg1 d4 37. Nd3 Qe3 38. Re1 Qg5 39. Nc5 d3 40. Nxd3 e4 41.
+fxe4 Qb5 42. Nf4 Na5 43. a4 Qb6 44. b4 Nc4 45. Ka2 Qf2 46. Kb3 Nd2+ 47. Kb2
+Qxf4 48. Qg2 Nc4+ 49. Kb3 Qe5 50. Qh3 Rc7 0-1
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.14"]
+[Round "5"]
+[White "Serra Olives, Tomas"]
+[Black "Barcelo Pujadas, Pedro Jose"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2156"]
+[BlackElo "2269"]
+[PlyCount "77"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. a3 Qb6 10. Be2 cxd4 11. Nxd4 Bc5 12. Rd1 g5 13. g3 Bb7 14. Ne4 Bxd4 15. Nd6+
+Ke7 16. Bxd4 Qxd4 17. Qxd4 Nxd4 18. Rxd4 Bc6 19. Bh5 Raf8 20. Rd3 d4 21. O-O
+gxf4 22. gxf4 Rhg8+ 23. Rg3 f6 24. Re1 fxe5 25. fxe5 Nxe5 26. Nxb5 axb5 27.
+Rxe5 Kd6 28. Reg5 Rxg5 29. Rxg5 e5 30. Be2 e4 31. Rh5 Rg8+ 32. Kf1 e3 33. Rh6+
+Rg6 34. Rxg6+ hxg6 35. Bd3 g5 36. c3 dxc3 37. bxc3 Ke5 38. Ke1 Kf4 39. Ke2 0-1
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.15"]
+[Round "6"]
+[White "Fruebing, Thomas"]
+[Black "Lacrosse, Marc"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[WhiteElo "2241"]
+[BlackElo "2181"]
+[PlyCount "41"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 Bd7 9. Re1 h6 10. Bc1 Ne7 11. Bxd7 Qxd7 12. c4 Ng6 13. h3 Rae8 14. Nh2 Nh7
+15. Qg4 Qa4 16. Re2 Nf6 17. Qf3 Nh4 18. Qg3 Ng6 19. Qf3 Nh4 20. Qe3 Ng6 21. Qf3
+1/2-1/2
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.15"]
+[Round "6"]
+[White "Massanet Massanet, Sebastian"]
+[Black "Eriksson, Jorgen"]
+[Result "0-1"]
+[ECO "C16"]
+[WhiteElo "2299"]
+[BlackElo "2217"]
+[PlyCount "51"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. g3 Ba6 8. Bh3
+c5 9. Ne2 Nbc6 10. Nf4 O-O 11. Nh5 Ng6 12. f4 Qc7 13. Kf2 Rae8 14. Kg2 f6 15.
+Bxe6+ Rxe6 16. f5 Ree8 17. e6 Nge7 18. Qg4 Nxf5 19. Qxf5 cxd4 20. Bf4 Qe7 21.
+Rhe1 g6 22. Qxd5 Bb7 23. Kh3 gxh5 24. Bd6 Ne5 25. Qxd4 Qxe6+ 26. Kh4 0-1
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.15"]
+[Round "6"]
+[White "Spence, David"]
+[Black "Gaya Yodra, Juan"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2214"]
+[BlackElo "2257"]
+[PlyCount "103"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2
+Qc7 9. O-O-O b5 10. Ne2 Nb6 11. Ng3 c4 12. c3 b4 13. Qc2 Bd7 14. Kd2 Na4 15.
+Qxa4 Nxd4 16. Qxd7+ Kxd7 17. Bxd4 Qa5 18. Be2 bxc3+ 19. bxc3 Rb8 20. Ke3 Bc5
+21. Bxc4 Qxc3+ 22. Bd3 Rb2 23. Ne2 Qa3 24. Bxc5 Qxc5+ 25. Nfd4 Qa3 26. f5 exf5
+27. Nxf5 Re8 28. Kf4 g6 29. Nfd4 Qe7 30. Nf3 f6 31. Kg3 fxe5 32. Bxa6 Qd6 33.
+Bc4 d4 34. Kh3 g5 35. Nxg5 Qh6+ 36. Kg4 Rxe2 37. Bxe2 Rg8 38. h4 Ke7 39. Rb1
+Qe6+ 40. Kg3 Qf5 41. Rhf1 Rxg5+ 42. hxg5 Qxg5+ 43. Kh2 Qh6+ 44. Kg1 Qe3+ 45.
+Rf2 e4 46. Rbf1 d3 47. Bg4 Qd4 48. Kh1 Qe3 49. Rf6 d2 50. Re6+ Kd8 51. Rf8+ Kc7
+52. Rf7+ 1-0
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.16"]
+[Round "7"]
+[White "Eriksson, Bo"]
+[Black "Barcelo Pujadas, Pedro Jose"]
+[Result "0-1"]
+[ECO "C12"]
+[WhiteElo "2115"]
+[BlackElo "2269"]
+[PlyCount "134"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. h4 c5 10. Bd3 Nxd2 11. Kxd2 Nc6 12. Rh3 Qa5 13. Bxg6 Nxd4 14. Rg3 Rf8 15.
+Bd3 Bd7 16. Qg7 O-O-O 17. Qxh6 c4 18. Bh7 Nb5 19. Ne2 Bc6 20. Ke1 d4 21. Kf1
+dxc3 22. Kg1 Qa3 23. Nxc3 Nxc3 24. Qe3 Qb2 25. Qxc3 Qxc3 26. Rxc3 Rh8 27. Be4
+Bxe4 28. Rxc4+ Bc6 29. Re1 Rd5 30. Rf4 Rh7 31. Re3 Rd2 32. Rh3 Rxc2 33. Rg4 Re2
+34. Rg5 Kd7 35. a3 Ke7 36. h5 Be4 37. f3 Bf5 38. g4 Bc2 39. f4 Rh8 40. Kf1 Rd2
+41. f5 exf5 42. gxf5 Bd3+ 43. Ke1 Rd8 44. Re3 Rh2 45. e6 Bc2 46. Re2 Rxe2+ 47.
+Kxe2 Kf6 48. Rg3 Bxf5 49. exf7 Kxf7 50. h6 Kf6 51. Rg7 Rd7 52. Rg1 Rh7 53. Rh1
+Kg5 54. Kd2 Rxh6 55. Rg1+ Kf6 56. Kc3 Rh7 57. Re1 Re7 58. Rf1 Ke5 59. Kb4 Rc7
+60. Rd1 Be4 61. Rd8 Bd5 62. a4 Kd4 63. Rh8 Rc4+ 64. Ka3 Bc6 65. Rh4+ Kc5 66.
+Rh5+ Kb6 67. a5+ Ka6 0-1
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.16"]
+[Round "7"]
+[White "Scherer, Helmut"]
+[Black "Spence, David"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2299"]
+[BlackElo "2214"]
+[PlyCount "47"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Bxe4 8.
+Bxe4 c6 9. c4 Ngf6 10. Bc2 Be7 11. Bd2 c5 12. Bc3 cxd4 13. Nxd4 a6 14. Re1 O-O
+15. Qf3 Qc7 16. Nf5 Bc5 17. Nh6+ Kh8 18. Ng4 Be7 19. Qh3 g6 20. Rad1 e5 21.
+Rxe5 Nxe5 22. Bxe5 Qc6 23. Qh4 Rfe8 24. Bxf6+ 1-0
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.17"]
+[Round "8"]
+[White "Andersen, Mads"]
+[Black "Eriksson, Jorgen"]
+[Result "1-0"]
+[ECO "C16"]
+[WhiteElo "2156"]
+[BlackElo "2217"]
+[PlyCount "41"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 c5 10. Nf3 cxd4 11. cxd4 Qc7 12. O-O Ba6 13. Bxf5 Bxf1 14. Bxe6 Bc4
+15. Bxf7+ Kxf7 16. Ng5+ Kg8 17. Qe6+ Kf8 18. Qg6 Qe7 19. a4 Rh6 20. Nh7+ Rxh7
+21. Ba3 1-0
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.17"]
+[Round "8"]
+[White "Ehsan, Ali"]
+[Black "Spence, David"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2241"]
+[BlackElo "2214"]
+[PlyCount "57"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 c5 5. Bg2 Be7 6. Ngf3 Nc6 7. O-O O-O 8. e5
+Nd7 9. Re1 b5 10. Nf1 a5 11. h4 b4 12. Bf4 a4 13. N1h2 Ba6 14. Ng5 Qe8 15. Ng4
+a3 16. bxa3 bxa3 17. h5 Qd8 18. Nf3 Nd4 19. Rb1 Rb8 20. Rxb8 Nxf3+ 21. Qxf3
+Nxb8 22. h6 g6 23. Qe3 Nc6 24. Rb1 g5 25. Bxg5 Bxg5 26. Qxc5 Qc8 27. Qxa3 Bb7
+28. c4 dxc4 29. dxc4 1/2-1/2
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.17"]
+[Round "8"]
+[White "Fruebing, Thomas"]
+[Black "Planas Gene, Juan"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2241"]
+[BlackElo "2184"]
+[PlyCount "69"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qe2 Nc6 4. Nf3 Be7 5. c3 d6 6. h3 Na5 7. Bb5+ c6 8. Ba4
+b5 9. Bc2 Qc7 10. a4 bxa4 11. Bxa4 Be6 12. d3 Bb3 13. Nbd2 Rb8 14. O-O O-O 15.
+Qe3 c5 16. Bxb3 Nxb3 17. Nxb3 Rxb3 18. Nd2 Rb7 19. Nc4 Nd7 20. Qg3 Bf6 21. Ra6
+Nb6 22. Ne3 g6 23. f4 exf4 24. Qxf4 Be5 25. Qf3 Qe7 26. Bd2 Rd8 27. Ra2 Qe6 28.
+Rfa1 Rdd7 29. Ra5 d5 30. exd5 Nxd5 31. Nc4 Rbc7 32. Ra6 Qe7 33. Nxe5 Qxe5 34.
+Re1 Qf5 35. Re8+ 1-0
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.17"]
+[Round "8"]
+[White "Galiana Salom, Juan Ramon"]
+[Black "Gaya Yodra, Juan"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "2223"]
+[BlackElo "2257"]
+[PlyCount "42"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ngf3 Be7 8. O-O
+g5 9. b3 g4 10. Ne1 h5 11. Bb2 cxd4 12. cxd4 Qb6 13. Nc2 a5 14. Qe2 a4 15. Bc3
+Qc7 16. Bb5 Na7 17. Bxd7+ Bxd7 18. Qe3 Rc8 19. Nb1 Nb5 20. Rc1 Nxc3 21. Nba3
+Bxa3 0-1
+
+[Event "Calvia op"]
+[Site "Calvia"]
+[Date "2008.10.17"]
+[Round "8"]
+[White "Hutchinson, Paul A"]
+[Black "Hoenick, Andreas"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2213"]
+[BlackElo "2172"]
+[PlyCount "43"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. Re1
+b6 9. e5 Ne8 10. Nf1 a5 11. h4 Ba6 12. Ng5 Ra7 13. Bf4 b5 14. Ne3 c4 15. d4 b4
+16. c3 a4 17. Qxa4 b3 18. Qxc6 Bb7 19. Qb5 Qa8 20. Nxc4 dxc4 21. Bxb7 Rxb7 22.
+Qxc4 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.10"]
+[Round "1"]
+[White "Avalos Parra, Joao"]
+[Black "Doval, Oscar"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2267"]
+[BlackElo "1835"]
+[PlyCount "55"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 Be7 4. Nc3 d5 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 c5 8. Nb5
+Na6 9. Nd6+ Kf8 10. Nf3 g6 11. Ng5 Kg7 12. Ngxf7 Rf8 13. Bxa6 bxa6 14. Ng5 Rxf4
+15. Nf3 cxd4 16. O-O Rb8 17. Qd2 Rf8 18. Qxd4 Nb6 19. Qb4 Kg8 20. Nd4 Bd7 21.
+Qa3 Qg7 22. Nf3 Nc8 23. Nxc8 Rfxc8 24. Ng5 Qxe5 25. Qe7 Qg7 26. Rf7 Qd4+ 27.
+Kh1 Rb7 28. Rf8+ 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.10"]
+[Round "1"]
+[White "Calabro, Mario"]
+[Black "Medone, Raul"]
+[Result "1-0"]
+[ECO "C44"]
+[BlackElo "1738"]
+[PlyCount "71"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 Nc6 4. a3 Bc5 5. b4 Bb6 6. Be2 d6 7. O-O h6 8. Nbd2
+O-O 9. Nc4 Bd4 10. Nxd4 Nxd4 11. Re1 Nxe2+ 12. Qxe2 Be6 13. Ne3 Qd7 14. Bd2
+Rae8 15. Rac1 c6 16. c4 Rd8 17. Bc3 Nh7 18. Red1 Qe7 19. d4 f6 20. d5 cxd5 21.
+cxd5 Bd7 22. b5 a6 23. b6 Qe8 24. Bb4 Ng5 25. f3 Bb5 26. Qb2 Qg6 27. Kh1 Qh5
+28. Qf2 g6 29. Rc7 Rf7 30. Rdc1 Rfd7 31. h4 f5 32. g4 Nxe4 33. Qh2 fxg4 34.
+fxg4 Rf8 35. gxh5 gxh5 36. Qg2+ 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.10"]
+[Round "1"]
+[White "Frei, Alejandro"]
+[Black "Tamagnone, Santiago"]
+[Result "1-0"]
+[ECO "C49"]
+[WhiteElo "1911"]
+[PlyCount "81"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O Bc5 6. Bxc6 bxc6 7. Nxe5 Bb7
+8. d4 Bd6 9. Nxf7 Kxf7 10. e5 Bxe5 11. dxe5 Ne8 12. Qf3+ Kg8 13. Ne4 c5 14.
+Qb3+ Kf8 15. Qxb7 d6 16. Rd1 Qb8 17. Qxb8 Rxb8 18. exd6 cxd6 19. Nxd6 Rd8 20.
+Bf4 h6 21. Nxe8 Rxe8 22. Rd7 Kg8 23. Be3 Re5 24. Rxa7 Kh7 25. Rd1 Rg8 26. h4
+Rh5 27. Rdd7 Kg6 28. g3 Re5 29. Kg2 h5 30. a4 Rf5 31. a5 Rff8 32. Bxc5 Rc8 33.
+b4 Kh7 34. c3 Rc6 35. Bd4 Rg6 36. Rxg7+ R6xg7 37. Rxg7+ Rxg7 38. Bxg7 Kxg7 39.
+a6 Kf6 40. a7 Ke6 41. a8=Q 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.10"]
+[Round "1"]
+[White "Madeira, Wagner Martins"]
+[Black "Quinzio, Martin Javier"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2230"]
+[PlyCount "45"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Be7
+8. O-O O-O 9. Ne5 c5 10. dxc5 Qc7 11. Bf4 Qxc5 12. Qf3 Nd5 13. Bg3 f5 14. h3
+Nb4 15. Qe2 f4 16. Qe4 Nxd3 17. Nxd3 Qxc2 18. Rac1 Qd2 19. Bxf4 Qa5 20. Be5
+Qxa2 21. Rc7 Bf6 22. Bxf6 Rxf6 23. Rfc1 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.10"]
+[Round "1"]
+[White "Mirada, Luciano"]
+[Black "Cubas, Jose Fernando"]
+[Result "0-1"]
+[ECO "C14"]
+[WhiteElo "1755"]
+[BlackElo "2433"]
+[PlyCount "70"]

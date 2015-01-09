@@ -1,0 +1,600 @@
+[ECO "A43"]
+[WhiteElo "2508"]
+[BlackElo "2230"]
+[PlyCount "97"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c5 2. d5 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. d6 Qb6 6. e3 exd6 7. Bc4 O-O 8. Nge2
+Na6 9. Bxf6 Bxf6 10. Nd5 Qd8 11. c3 Nc7 12. Nef4 b6 13. Nxc7 Qxc7 14. h4 Bb7
+15. h5 g5 16. Nd5 Bxd5 17. Qxd5 h6 18. Rh3 Rae8 19. Qf5 Kg7 20. O-O-O Re5 21.
+Qd3 b5 22. Bd5 c4 23. Qc2 Qc5 24. Qd2 Rfe8 25. e4 a5 26. a3 Rb8 27. Rf3 b4 28.
+axb4 axb4 29. Rxf6 Kxf6 30. f4 gxf4 31. Qxf4+ Ke7 32. cxb4 Qxb4 33. Qxf7+ Kd8
+34. Qf6+ Kc7 35. Rd2 Rxh5 36. Bxc4 Rh1+ 37. Bf1 Rb6 38. Rc2+ Rc6 39. Rxc6+ dxc6
+40. Kc2 Qxe4+ 41. Kb3 Qe3+ 42. Ka2 Qa7+ 43. Kb1 Kb6 44. Qd4+ Kb7 45. Qg7+ Ka8
+46. Qg8+ Qb8 47. Qa2+ Qa7 48. Qg8+ Qb8 49. Qa2+ 1/2-1/2
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Arenas, Sergio"]
+[Black "Rodriguez Vila, Andres"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2155"]
+[BlackElo "2508"]
+[PlyCount "54"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 d6 2. d3 g6 3. g3 c5 4. Bg2 Nc6 5. Nf3 Bg7 6. O-O Rb8 7. c3 e5 8. a4 a6
+9. Be3 Nf6 10. h3 O-O 11. Qc1 c4 12. dxc4 Nxe4 13. Nh4 f5 14. Bh6 Na5 15. Bxg7
+Kxg7 16. Qc2 Qb6 17. Na3 Be6 18. c5 dxc5 19. Bxe4 fxe4 20. Qxe4 Rbe8 21. Qxe5+
+Kg8 22. b4 cxb4 23. cxb4 Nb3 24. a5 Qxb4 25. Nc2 Qd2 26. Rae1 Qxc2 27. Re2 Qc5
+0-1
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Bulcourf, Carlos"]
+[Black "Bruno, Gerardo Damian"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "2156"]
+[BlackElo "1738"]
+[PlyCount "71"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 Bf5 4. c4 e6 5. Qb3 Qc8 6. Nc3 c6 7. d4 dxc4 8. Bxc4
+Nbd7 9. Bd2 Bd6 10. Rc1 Nb6 11. Be2 Qd8 12. O-O O-O 13. Ne5 Bxe5 14. fxe5 Ne4
+15. Nxe4 Bxe4 16. Bf3 Bd5 17. Qd3 Bxf3 18. Rxf3 f5 19. exf6 Rxf6 20. Rh3 Rg6
+21. Rc5 Qf6 22. e4 Rf8 23. Be3 Nd7 24. Rch5 h6 25. e5 Qf7 26. R5h4 Rg5 27. Rf4
+Rf5 28. Rhf3 Nb6 29. Rxf5 exf5 30. g4 Qg6 31. Rg3 Qe6 32. gxf5 Rxf5 33. Bxh6
+Kh7 34. Bxg7 Nd5 35. Rg5 Ne7 36. Qh3+ 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Daneri, Martin"]
+[Black "Doval, Oscar"]
+[Result "1-0"]
+[ECO "A44"]
+[WhiteElo "2174"]
+[BlackElo "1835"]
+[PlyCount "61"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Be2 Be7 5. Nf3 Nf6 6. Nc3 O-O 7. O-O b6 8. h3 Na6
+9. Be3 Nc7 10. a4 Bd7 11. Nd2 Nxe4 12. Ndxe4 f5 13. Nd2 f4 14. Nde4 fxe3 15.
+fxe3 Bg5 16. Rxf8+ Kxf8 17. Qd3 Kg8 18. Nxd6 Bxh3 19. Nc4 Bd7 20. d6 Ne6 21.
+Nxe5 Bf6 22. Nxd7 Qxd7 23. Rd1 Rd8 24. Bg4 Bxc3 25. Qxc3 Rf8 26. Qe5 Rf6 27.
+Rf1 Kf7 28. Rxf6+ gxf6 29. Qd5 a6 30. b3 b5 31. a5 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Del Castillo, Gustavo"]
+[Black "Maucci, Luis Marcelo"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2247"]
+[BlackElo "1959"]
+[PlyCount "45"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Nbd7 5. d3 e5 6. Nbd2 Be7 7. e4 O-O 8. Re1
+Qc7 9. c3 Re8 10. b4 a5 11. Qb3 Bf8 12. a3 axb4 13. cxb4 dxe4 14. dxe4 Nb6 15.
+Rb1 Be6 16. Qc2 Rad8 17. Bb2 Bg4 18. h3 Bxf3 19. Nxf3 Nbd7 20. Bf1 h6 21. Nh4
+g6 22. Bc4 Bg7 23. Nxg6 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Gibson, Tomas"]
+[Black "Tristan, Leonardo"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2252"]
+[BlackElo "2393"]
+[PlyCount "67"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 g6 2. e4 d6 3. c4 Bg7 4. Nf3 Bg4 5. Be2 Nc6 6. Be3 e5 7. d5 Bxf3 8. Bxf3
+Nd4 9. Bxd4 exd4 10. Nd2 Ne7 11. O-O O-O 12. Be2 c5 13. Bd3 g5 14. Qg4 Ng6 15.
+Nf3 h6 16. g3 Bf6 17. Qh5 Kg7 18. h3 a6 19. Nh2 Ne5 20. Ng4 Nxg4 21. Qxg4 Qc8
+22. Qh5 b5 23. b3 Rb8 24. Rac1 Qd8 25. f4 Qa5 26. Rc2 bxc4 27. bxc4 Qa3 28. Qf3
+gxf4 29. e5 Bxe5 30. gxf4 Kh8 31. fxe5 Rg8+ 32. Kh1 dxe5 33. Qf6+ Rg7 34. Rg2
+1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Iregui, Victor"]
+[Black "Cerda, Guillermo"]
+[Result "0-1"]
+[ECO "A02"]
+[WhiteElo "2026"]
+[BlackElo "2242"]
+[PlyCount "112"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Bg4 5. g3 h5 6. d4 h4 7. Bg5 f6 8. Bxh4
+g5 9. Qd3 Bxf3 10. Qxf3 Nc6 11. Nc3 gxh4 12. O-O-O Qd7 13. e4 O-O-O 14. Bb5 Qg7
+15. Bxc6 bxc6 16. e5 Bb4 17. Qxc6 Bxc3 18. bxc3 Ne7 19. Qa6+ Kb8 20. exf6 Qg5+
+21. Kb1 Nd5 22. Ka1 Qxf6 23. Qxf6 Nxf6 24. Kb2 Ka8 25. Rhf1 Nd5 26. Rf7 Rb8+
+27. Kc1 hxg3 28. hxg3 Nxc3 29. Rd3 Nxa2+ 30. Kd2 Rh2+ 31. Ke3 Nb4 32. Rd1 Rxc2
+33. Ra1 Re8+ 34. Kf3 Nd3 35. Rf1 Rc3 36. Kg4 Re4+ 37. Kg5 Rxd4 38. Rb1 Rb4 39.
+Rh1 Ne5 40. Re7 Nf3+ 41. Kf6 a5 42. Rh5 Rb6+ 43. Kg7 c5 44. Rf7 Nd4 45. Kh8
+Rb8+ 46. Kh7 Rb7 47. Rxb7 Kxb7 48. g4 a4 49. g5 Ne6 50. g6 Nf8+ 51. Kg7 Nxg6
+52. Kxg6 a3 53. Rh2 Rd3 54. Ra2 Kb6 55. Kf5 Kb5 56. Ke4 c4 0-1
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Juliarena, Agustin"]
+[Black "Paternoste, Martin"]
+[Result "1-0"]
+[ECO "A50"]
+[WhiteElo "2084"]
+[PlyCount "62"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. e4 Bb7 5. f3 c5 6. d5 exd5 7. cxd5 d6 8. Bd3 g6
+9. Nge2 a6 10. a4 Bg7 11. Bg5 Nbd7 12. O-O O-O 13. Qd2 Ne5 14. h3 Re8 15. Ng3
+Qc7 16. Rae1 Nfd7 17. Be2 f6 18. Be3 Re7 19. f4 Nf7 20. h4 Rae8 21. h5 f5 22.
+hxg6 hxg6 23. Bd3 Nh6 24. e5 Ng4 25. Bxf5 Ndxe5 26. fxe5 Nxe3 27. Rxe3 gxf5 28.
+Nxf5 Rxe5 29. Rg3 R8e7 30. Qd3 Bc8 31. Nh6+ Kh8 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Leal, Joao Vitor"]
+[Black "Ligato, Guillermo Fernando"]
+[Result "0-1"]
+[ECO "A42"]
+[WhiteElo "2126"]
+[BlackElo "2049"]
+[PlyCount "134"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e5 5. d5 Ne7 6. Be3 f5 7. Bd3 O-O 8. Qc2 c6
+9. Nf3 cxd5 10. cxd5 fxe4 11. Bxe4 Nf5 12. Bxf5 Bxf5 13. Qb3 Nd7 14. Qxb7 Nc5
+15. Bxc5 dxc5 16. O-O Rb8 17. Qxa7 e4 18. Ne1 Rxb2 19. Qxc5 Qf6 20. Rc1 Bh6 21.
+Rb1 Rc8 22. Qa3 Rxb1 23. Nxb1 e3 24. fxe3 Qb6 25. Qb3 Bxe3+ 26. Kh1 Qxb3 27.
+axb3 Bxb1 28. Nf3 Rc1 29. Rxc1 Bxc1 30. d6 Ba3 31. d7 Be7 32. Ne5 Be4 33. b4
+Bd8 34. b5 Kf8 35. Kg1 Ke7 36. g3 Kd6 37. Nf7+ Kxd7 38. Nxd8 Kxd8 39. Kf2 Kc7
+40. Ke3 Bf5 41. Kf4 h5 42. Kg5 Kb6 43. h3 Kxb5 44. g4 hxg4 45. hxg4 Bb1 46. Kf6
+Kc6 47. Ke6 Kc5 48. Ke5 Bc2 49. g5 Bb1 50. Kf4 Kd4 51. Kf3 Ke5 52. Kg4 Bc2 53.
+Kg3 Kf5 54. Kh4 Kf4 55. Kh3 Kxg5 56. Kg3 Be4 57. Kf2 Kf4 58. Kf1 Kg3 59. Kg1 g5
+60. Kf1 Kh2 61. Kf2 g4 62. Ke3 g3 63. Kxe4 g2 64. Ke5 g1=Q 65. Ke4 Qg4+ 66. Ke3
+Kg3 67. Kd3 Kf3 0-1
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Lopez, Cosme Damian"]
+[Black "Alvarez, Roberto Gabriel"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1815"]
+[BlackElo "2099"]
+[PlyCount "102"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. b4 e6 2. Bb2 Nf6 3. a3 a5 4. b5 Be7 5. Nf3 O-O 6. e3 d6 7. c4 Nbd7 8. d4 c5
+9. Nc3 cxd4 10. exd4 b6 11. Be2 Bb7 12. O-O Qc7 13. Rc1 Rac8 14. Na4 Qb8 15.
+Nd2 Rfd8 16. Nb3 Qa8 17. f3 Qa7 18. Bd3 Ba8 19. Qd2 Ne8 20. Rfe1 Bf6 21. Be4 d5
+22. cxd5 Bxd5 23. Bxd5 exd5 24. Rxc8 Rxc8 25. Rc1 Qb7 26. Rxc8 Qxc8 27. Qc3
+Qxc3 28. Nxc3 Nc7 29. a4 Be7 30. Kf2 Bd6 31. g3 Kf8 32. Nc1 Ke7 33. Nd3 Ke6 34.
+Ke3 Ne8 35. Ne2 g5 36. h4 gxh4 37. gxh4 Kf5 38. Bc3 Ng7 39. Be1 Nh5 40. f4 Nf8
+41. Kf3 Ne6 42. Bd2 Nc7 43. Nf2 h6 44. Ng3+ Nxg3 45. Kxg3 h5 46. Kf3 Ne6 47.
+Be3 Nxf4 48. Bxf4 Bxf4 49. Nd3 Bd6 50. Nf2 Be7 51. Kg3 Bf6 0-1
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Micele, Omar"]
+[Black "Cuevas, Alex"]
+[Result "0-1"]
+[ECO "A65"]
+[WhiteElo "1935"]
+[BlackElo "2227"]
+[PlyCount "68"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 Bg7 8. Bd3
+a6 9. Nge2 h6 10. Bh4 b5 11. O-O Qb6 12. Kh1 O-O 13. Rb1 Re8 14. f3 b4 15. Na4
+Qa5 16. Bg3 Bd7 17. Bc2 Qc7 18. Nf4 Bb5 19. Re1 Nbd7 20. Nd3 a5 21. Nf2 Nh5 22.
+f4 Nxg3+ 23. hxg3 Bd4 24. Ng4 Kg7 25. f5 h5 26. Ne3 Nf6 27. Qf3 Ng4 28. Nd1 Rh8
+29. f6+ Nxf6 30. Nf2 Bd7 31. b3 Bg4 32. Qf4 h4 33. Nh3 Be5 34. Qe3 hxg3 0-1
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Real de Azua, Ernesto"]
+[Black "Granara Barreto, Sebastian A"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2413"]
+[BlackElo "2260"]
+[PlyCount "105"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 g6 4. Bxf6 exf6 5. Ne2 Bg7 6. g3 c6 7. Nd2 Bg4 8. Bg2
+O-O 9. O-O Qe7 10. Re1 Bxe2 11. Rxe2 f5 12. c4 dxc4 13. Nxc4 Nd7 14. Na5 Nb6
+15. Rc2 Rac8 16. Rb1 h5 17. b4 h4 18. b5 hxg3 19. hxg3 cxb5 20. Rxb5 Rxc2 21.
+Qxc2 Rb8 22. Rc5 Bh6 23. Rc7 Qb4 24. Qb3 Qe1+ 25. Bf1 Rf8 26. Nxb7 Nd5 27. Qxd5
+Bxe3 28. Qf3 Bxd4 29. Kg2 Bb6 30. Rc2 Qe7 31. Bc4 f4 32. gxf4 Kg7 33. Bd5 Qh4
+34. Qc3+ Kg8 35. Qg3 Qh5 36. Qg5 Kg7 37. Qxh5 gxh5 38. a4 Rb8 39. Bf3 a5 40.
+Rb2 Bc7 41. Bxh5 Bxf4 42. Rb5 Bc7 43. Kf3 Kf6 44. Bg4 Ke7 45. Ke4 Rg8 46. f3
+Ra8 47. Kd5 Ra6 48. Kc4 Rf6 49. Rf5 Rb6 50. Nxa5 Ra6 51. Kb4 Rb6+ 52. Rb5 Rf6
+53. Nc4 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Slipak, Sergio"]
+[Black "Amed, Stephanie"]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "2456"]
+[BlackElo "2142"]
+[PlyCount "93"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 e5 7. dxe5 Ng4 8. O-O
+Nxe5 9. Nxe5 dxe5 10. Nd2 Qe7 11. Nc4 Rd8 12. Qc1 Nc6 13. Bxc6 bxc6 14. Qe3 Re8
+15. Rfd1 Ba6 16. Na5 Qe6 17. c4 Bf8 18. Bc3 f6 19. Rd2 c5 20. Rad1 Bd6 21. Bb2
+Bc8 22. Ba3 Qe7 23. Qe4 Bf5 24. Qd5+ Be6 25. Qg2 Bf7 26. Nb7 e4 27. Nxd6 cxd6
+28. Rxd6 Qe5 29. Qh3 Rac8 30. Qh6 a5 31. Qc1 Be6 32. Bb2 Qf5 33. Qc3 a4 34.
+R1d5 Bxd5 35. Rxf6 Qe5 36. Qxe5 Rxe5 37. Bxe5 Bf7 38. Rb6 axb3 39. axb3 Be8 40.
+Rb7 h5 41. Kg2 Rc6 42. Kh3 Re6 43. Bb2 e3 44. f3 Bc6 45. Rc7 Kf8 46. Ba3 Ke8
+47. Bxc5 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Souto, Esteban"]
+[Black "Carrizo, Franco"]
+[Result "1/2-1/2"]
+[ECO "A85"]
+[PlyCount "63"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 f5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. a3 Bxc3+ 6. bxc3 d6 7. e3 O-O 8. Be2
+b6 9. O-O Bb7 10. Qb3 c5 11. Rd1 Qe8 12. dxc5 dxc5 13. Ne5 Nbd7 14. Bf3 Bxf3
+15. Nxf3 e5 16. a4 e4 17. Ng5 h6 18. Nh3 Ne5 19. Nf4 Rd8 20. Rxd8 Qxd8 21. Ne6
+Qd3 22. Nxf8 Kxf8 23. Ba3 Nxc4 24. Bxc5+ bxc5 25. Qb8+ Kf7 26. Qb3 Qe2 27. h3
+Kg6 28. Ra2 Qe1+ 29. Kh2 Nd2 30. Qb2 Nf1+ 31. Kg1 Nxe3+ 32. Kh2 1/2-1/2
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.12"]
+[Round "3"]
+[White "Vasquez, Rodrigo Rafael"]
+[Black "Landriel, Mario"]
+[Result "1-0"]
+[ECO "A58"]
+[WhiteElo "2522"]
+[BlackElo "2272"]
+[PlyCount "101"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. g3 g6 8. Bg2
+Bg7 9. Nf3 Nbd7 10. Rb1 O-O 11. O-O Ne8 12. Qc2 Nc7 13. Rd1 Bxc3 14. bxc3 Bc4
+15. e4 Rxa2 16. Rb2 Ra1 17. Nd2 Be2 18. Re1 Bb5 19. c4 Ba6 20. Qc3 Ra4 21. Qc2
+Rb4 22. Ra2 Qb8 23. Ba3 Rb6 24. Rea1 Qb7 25. Bb2 Rb8 26. Bc3 Ne8 27. h3 Qc8 28.
+f4 Ng7 29. Kh2 Bb7 30. g4 e6 31. Nf3 Qe8 32. Ba5 Ra6 33. Bc7 Rba8 34. Rxa6 Rxa6
+35. Rxa6 Bxa6 36. Bxd6 h5 37. g5 exd5 38. cxd5 Qd8 39. Ne5 Nxe5 40. Bxe5 Qb6
+41. Qb2 Qxb2 42. Bxb2 h4 43. Be5 Bd3 44. Kg1 Nh5 45. Kf2 c4 46. Ke3 Kf8 47. Bf3
+Ng3 48. d6 Nf1+ 49. Kd4 Nh2 50. Bd1 Bf1 51. Bf6 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.13"]
+[Round "4"]
+[White "Anelli, Antonio"]
+[Black "Garcia, Ezequiel"]
+[Result "1/2-1/2"]
+[ECO "A56"]
+[WhiteElo "2219"]
+[BlackElo "2053"]
+[PlyCount "104"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. d5 c5 6. g3 Be7 7. Bg2 O-O 8. Nge2
+Ne8 9. O-O g6 10. Be3 Ng7 11. Qd2 f5 12. exf5 gxf5 13. f3 Rb8 14. a3 Rf7 15.
+Rab1 b6 16. Rfc1 Nf8 17. b4 Ba6 18. bxc5 dxc5 19. Nb5 Qd7 20. a4 Ne8 21. Nec3
+Nd6 22. Qd3 Ng6 23. Bh3 Bc8 24. Nxd6 Bxd6 25. Nb5 a6 26. Nxd6 Qxd6 27. a5 e4
+28. Qf1 f4 29. Bxc8 Rxc8 30. Rxb6 Qe5 31. Bf2 fxg3 32. Bxg3 Qd4+ 33. Qf2 Rxf3
+34. Qxd4 cxd4 35. d6 Nf8 36. Rb7 d3 37. Rc7 d2 38. Rd1 e3 39. Rxc8 Rxg3+ 40.
+Kf1 Rg2 41. Rxf8+ Kxf8 42. d7 e2+ 43. Kxg2 exd1=Q 44. d8=Q+ Kf7 45. Qd7+ Kf6
+46. Qd6+ Kf5 47. Qd5+ Kf4 48. Qd4+ Kg5 49. Qe5+ Kh4 50. Qg3+ Kh5 51. Qe5+ Kh4
+52. Qg3+ Kh5 1/2-1/2
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.13"]
+[Round "4"]
+[White "Ligato, Guillermo Fernando"]
+[Black "Zuriel, Marisa"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2049"]
+[BlackElo "2189"]
+[PlyCount "68"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. O-O Nfd7 7. e4 e5 8. Be3
+Nc6 9. Nc3 exd4 10. Nxd4 Re8 11. f3 Nf6 12. Nxc6 bxc6 13. Bd4 Bh6 14. Bc4 Nh5
+15. Bf2 a5 16. Kh1 Rb8 17. Rb1 Be6 18. Bxe6 fxe6 19. Qd4 Rb4 20. Qa7 Qb8 21.
+Qxb8 Rexb8 22. b3 Bg7 23. Ne2 a4 24. g4 axb3 25. axb3 Nf6 26. Nd4 Nxe4 27. Nxc6
+Nd2 28. Nxb4 Rxb4 29. Be1 Rd4 30. Bxd2 Rxd2 31. c4 g5 32. b4 Be5 33. Kg1 Bxh2+
+34. Kh1 Be5 1/2-1/2
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.13"]
+[Round "4"]
+[White "Perez, Maximiliano"]
+[Black "Di Benedetto, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "A42"]
+[WhiteElo "2140"]
+[BlackElo "2312"]
+[PlyCount "79"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nc6 5. Be3 e5 6. d5 Nce7 7. Nf3 f5 8. Ng5
+Nf6 9. Bd3 f4 10. Bd2 O-O 11. f3 Nh5 12. Qe2 c6 13. O-O-O h6 14. Ne6 Bxe6 15.
+dxe6 Qc8 16. Kb1 Kh8 17. Bc1 Qxe6 18. Rd2 Rad8 19. Bc2 a6 20. Rhd1 Bf6 21. c5
+Nc8 22. Na4 Qe7 23. Qc4 Ng7 24. b3 dxc5 25. Nxc5 Nd6 26. Qb4 Qc7 27. Rxd6 Rxd6
+28. Nxa6 Qf7 29. Qxd6 bxa6 30. Qxc6 Ne6 31. Bb2 Nd4 32. Bxd4 exd4 33. e5 Bxe5
+34. Qxa6 d3 35. Qxd3 Rg8 36. Kc1 Qf6 37. Rd2 Bc3 38. Rd1 Bb2+ 39. Kb1 Ba1 40.
+Kc1 1/2-1/2
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.13"]
+[Round "4"]
+[White "Yakisich, Marcelo"]
+[Black "Daneri, Martin"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "1926"]
+[BlackElo "2174"]
+[PlyCount "48"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 e5 4. e4 g6 5. c4 Bg7 6. Nc3 Nge7 7. d3 d6 8. h3 O-O
+9. O-O h6 10. Ne1 Be6 11. Nc2 Qd7 12. Kh2 f5 13. f4 Kh7 14. Ne3 exf4 15. gxf4
+Nd4 16. Ned5 Nxd5 17. cxd5 Bg8 18. Qd2 Rae8 19. Kh1 b5 20. Qd1 b4 21. Nb1 c4
+22. e5 cxd3 23. Qxd3 dxe5 24. fxe5 Bxd5 0-1
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.14"]
+[Round "5"]
+[White "Arenas, Sergio"]
+[Black "Landriel, Mario"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2155"]
+[BlackElo "2272"]
+[PlyCount "98"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. d3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 d6 6. O-O Bg4 7. h3 Bxf3 8. Bxf3
+Nf6 9. Nd2 Nd7 10. Bg2 O-O 11. f4 Qc7 12. Nf3 b5 13. Rb1 b4 14. Kh2 a5 15. Be3
+Rab8 16. g4 a4 17. Qe1 Nd4 18. Qf2 Nxf3+ 19. Qxf3 a3 20. b3 Bd4 21. Bd2 Kh8 22.
+h4 f6 23. Qh3 e6 24. Bf3 Nb6 25. Kg2 d5 26. h5 dxe4 27. dxe4 gxh5 28. Qxh5 Rbd8
+29. Be2 Rg8 30. Kf3 Rd7 31. Rh1 Qc6 32. Bd3 c4 33. bxc4 Nxc4 34. Bxb4 f5 35.
+gxf5 Nb2 36. fxe6 Rdg7 37. Qd5 Rg3+ 38. Ke2 Rg2+ 39. Kf1 Qxd5 40. exd5 Nxd3 41.
+cxd3 Rxa2 42. e7 Rf2+ 43. Ke1 a2 44. Ra1 Rb2 45. Ba3 Rb1+ 46. Ke2 Bxa1 47. d6
+Rxh1 48. d7 Bc3 49. e8=Q Re1+ 0-1
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.14"]
+[Round "5"]
+[White "Flores, Diego"]
+[Black "Real de Azua, Ernesto"]
+[Result "0-1"]
+[ECO "A11"]
+[WhiteElo "2569"]
+[BlackElo "2413"]
+[PlyCount "90"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. e3 a6 5. Qc2 g6 6. b4 Bg7 7. Bb2 O-O 8. d4 Bg4
+9. Ne5 Be6 10. c5 Nfd7 11. Nxd7 Nxd7 12. Bd3 f5 13. O-O Bf7 14. f4 Nf6 15. Na4
+Nd7 16. Kh1 e6 17. Rg1 h5 18. Bc3 g5 19. g3 Bf6 20. Be2 Kg7 21. Nb2 Rh8 22. h4
+gxh4 23. gxh4+ Bg6 24. Rg2 Bxh4 25. Rag1 Nf8 26. Rh2 Kf7 27. Nd3 Bf6 28. Be1 h4
+29. Bf3 Rh6 30. Qg2 Nd7 31. Bxh4 Bxh4 32. Bh5 Qh8 33. Bxg6+ Ke7 34. Bh5 Rxh5
+35. Qg7+ Kd8 36. Qf7 Kc7 37. Rg7 Rd8 38. Ne5 Bf6 39. Rgg2 Rxh2+ 40. Rxh2 Qg7
+41. Rh7 Qxf7 42. Nxf7 Rg8 43. Rh6 Rg4 44. Nd6 Rh4+ 45. Rxh4 Bxh4 0-1
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.14"]
+[Round "5"]
+[White "Galati, Mario Augusto"]
+[Black "Sola, Ruben"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "2188"]
+[BlackElo "2338"]
+[PlyCount "102"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. Bd3 b6 5. O-O Nc6 6. c4 Be7 7. Nc3 O-O 8. d5
+exd5 9. cxd5 Nb4 10. Be2 d6 11. e4 Bb7 12. Bf4 Nh5 13. Be3 g6 14. Nd2 Ng7 15.
+Qa4 Qc8 16. a3 Na6 17. Bf4 Nc7 18. Nc4 Qd8 19. Rad1 Ba6 20. Qc6 Bxc4 21. Bxc4
+Rb8 22. e5 Nf5 23. Ne4 Ne8 24. Ba6 b5 25. Bxb5 Nd4 26. Rxd4 Rb6 27. Qd7 cxd4
+28. e6 Nc7 29. Bc6 fxe6 30. Bh6 Qxd7 31. Bxd7 Rd8 32. dxe6 d5 33. Bf4 Nxe6 34.
+Bxe6+ Rxe6 35. Nd2 Bf6 36. g4 g5 37. Bg3 Re2 38. Rd1 Rc8 39. Nf3 Rxb2 40. Nxd4
+Bxd4 41. Rxd4 Rd8 42. Kg2 Rd7 43. Be5 Re2 44. Bf6 h6 45. h4 gxh4 46. Bxh4 Re4
+47. Rxe4 dxe4 48. Bf6 Rd3 49. Be7 a5 50. Bc5 Rc3 51. Bd6 Kf7 0-1
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.14"]
+[Round "5"]
+[White "Quiroga, Facundo"]
+[Black "Bulcourf, Carlos"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2335"]
+[BlackElo "2156"]
+[PlyCount "142"]
+[EventDate "2008.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 c6 2. d4 b5 3. cxb5 cxb5 4. Nf3 Nf6 5. Nbd2 e6 6. g3 Bb7 7. Bg2 Be7 8.
+O-O O-O 9. Re1 Ne4 10. Ng5 Bxg5 11. Nxe4 Bxe4 12. Bxe4 d5 13. Bd3 Bf6 14. Be3
+Nc6 15. Bxb5 Qb6 16. Bxc6 Qxc6 17. Qd3 Rfc8 18. Bd2 Qc4 19. Qxc4 Rxc4 20. e3 e5
+21. Bc3 exd4 22. exd4 Bxd4 23. Bxd4 Rxd4 24. Rad1 Rxd1 25. Rxd1 Rd8 26. Rd4 Kf8
+27. Ra4 Rd7 28. Kf1 Ke7 29. Ra6 Kd8 30. Ke2 Kc8 31. Kd3 Kb7 32. Ra5 Kc6 33. Kd4
+Re7 34. Rc5+ Kb6 35. Rc2 Rd7 36. b3 a6 37. a3 Rd6 38. h4 h5 39. b4 Rf6 40. f4
+Re6 41. Rc3 Rd6 42. a4 Rd8 43. Rc5 Rb8 44. Rxd5 Kc6 45. Rc5+ Kd6 46. Kc4 Re8
+47. Rd5+ Kc6 48. Re5 Rh8 49. a5 Kd6 50. b5 Rc8+ 51. Kb4 axb5 52. Rxb5 Rc1 53.
+Rxh5 Kc6 54. Rg5 Rb1+ 55. Kc4 g6 56. f5 Rc1+ 57. Kd3 gxf5 58. Rxf5 Rd1+ 59. Ke2
+Rd7 60. h5 Re7+ 61. Kf3 Kd7 62. a6 Ke6 63. Ra5 Ra7 64. Kf4 f6 65. g4 Kf7 66.
+Kf5 Kg7 67. Ra1 Kf7 68. h6 Kg8 69. Kxf6 Kh7 70. g5 Kg8 71. Kg6 Kh8 1-0
+
+[Event "Villa Martelli Pro Am op 15th"]
+[Site "Villa Martelli"]
+[Date "2008.10.15"]
+[Round "6"]
+[White "Anelli, Antonio"]
+[Black "Benko, Francisco"]
+[Result "1/2-1/2"]
+[ECO "A52"]
+[WhiteElo "2219"]
+[BlackElo "2044"]
+[PlyCount "51"]

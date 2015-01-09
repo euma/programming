@@ -1,0 +1,600 @@
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "6"]
+[White "Rasmussen, Karsten"]
+[Black "Annaberdiev, Meilis"]
+[Result "0-1"]
+[ECO "E68"]
+[WhiteElo "2466"]
+[BlackElo "2444"]
+[PlyCount "112"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. d4 d6 6. e4 Nbd7 7. Nge2 e5 8. O-O
+exd4 9. Nxd4 Nc5 10. h3 a5 11. Bf4 Re8 12. Re1 Nfd7 13. b3 Ne5 14. Bf1 Ned3 15.
+Bxd3 Bxd4 16. Rc1 Bxh3 17. Bf1 Bxc3 18. Rxc3 Bxf1 19. Kxf1 Qd7 20. Kg2 Nxe4 21.
+Rce3 Nf6 22. Qd4 Rxe3 23. Rxe3 Ng4 24. Re2 Re8 25. Rxe8+ Qxe8 26. Bxd6 Qc6+ 27.
+Kg1 h5 28. Bf4 Qe6 29. Qd8+ Kh7 30. Qd2 c6 31. Bg5 Qe4 32. Bf4 a4 33. Bg5 Ne5
+34. Qf4 Nf3+ 35. Kf1 Qd3+ 36. Kg2 Nxg5 37. Qxg5 Qe4+ 38. Kg1 Qb1+ 39. Kg2 Qxa2
+40. Qf6 Kg8 41. Qd8+ Kg7 42. Qd4+ Kh7 43. Qf6 Kg8 44. Qd8+ Kh7 45. Qf6 Kg8 46.
+Qd8+ Kg7 47. Qd4+ f6 48. Qd7+ Kh6 49. Qe7 Qb1 50. Qf8+ Kg5 51. f4+ Kg4 52. Qc8+
+f5 53. Qe6 Qe4+ 54. Qxe4 fxe4 55. bxa4 h4 56. gxh4 Kxf4 0-1
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "6"]
+[White "Stefansson, Hannes"]
+[Black "Smerdon, David"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[WhiteElo "2575"]
+[BlackElo "2470"]
+[PlyCount "124"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. g3 d5 5. cxd5 Nxd5 6. Bg2 cxd4 7. Nxd4 Bb4+ 8.
+Bd2 Be7 9. O-O O-O 10. Nc3 Nb6 11. Bf4 N8d7 12. Ndb5 e5 13. Be3 Nc4 14. Bxa7
+Qa5 15. Qd5 Nxb2 16. Qb3 Bb4 17. Be3 Na4 18. Nd5 Qxb5 19. Qxb4 Qxb4 20. Nxb4
+Nc3 21. Rfe1 Nf6 22. Kf1 Be6 23. a3 Nfd5 24. Bd2 Nxb4 25. axb4 Nd5 26. Rec1 h5
+27. h4 Rfc8 28. Ke1 Rxc1+ 29. Rxc1 b5 30. e3 Ra4 31. Bf1 Bd7 32. Be2 Nxb4 33.
+Rb1 Nc2+ 34. Kd1 Na3 35. Rc1 Be6 36. Bc3 Bb3+ 37. Ke1 Nc2+ 38. Kf1 b4 39. Bxe5
+f6 40. Bd6 Ra2 41. Bxh5 Ba4 42. Bf3 Rb2 43. Bd5+ Kh7 44. Be4+ g6 45. h5 f5 46.
+hxg6+ Kxg6 47. Bd3 b3 48. g4 Bd7 49. Be5 Ra2 50. Rb1 Nb4 51. Bxf5+ Bxf5 52.
+gxf5+ Kxf5 53. Bc3 Nd3 54. f3 b2 55. Ke2 Ra1 56. Rxa1 bxa1=Q 57. Bxa1 Nc5 58.
+Bd4 Ne6 59. e4+ Kf4 60. Be3+ Ke5 61. Kf2 Nf8 62. f4+ Kxe4 1/2-1/2
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "7"]
+[White "Harikrishna, Penteala"]
+[Black "Korobov, Anton"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2659"]
+[BlackElo "2605"]
+[PlyCount "81"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 g6 2. Nf3 Nf6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 Nd7 10. O-O g5 11. Bg3 Nh6 12. h3 Kh8 13. dxe5 fxe5 14. b4 Nf7 15.
+Rc1 Nf6 16. c5 Nh5 17. Bh2 Nf4 18. cxd6 Nxd6 19. Nd2 Be6 20. Bg4 Bg8 21. Nb3
+Nc4 22. Qc2 Qd3 23. Nd5 Qxf1+ 24. Rxf1 Nxd5 25. exd5 Bxd5 26. Nc5 Rae8 27. Rd1
+c6 28. Nxb7 e4 29. Nd6 Nxd6 30. Bxd6 Rf6 31. Bc5 a6 32. Be2 Ra8 33. Bc4 Rf5 34.
+Bb3 h5 35. Qd2 Rd8 36. Ba4 Re8 37. Qxd5 cxd5 38. Bxe8 Kh7 39. Bc6 g4 40. hxg4
+hxg4 41. Bxd5 1-0
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "7"]
+[White "Lodhi, Mahmood"]
+[Black "Batchuluun, Cegmed"]
+[Result "0-1"]
+[ECO "E47"]
+[WhiteElo "2394"]
+[BlackElo "2346"]
+[PlyCount "157"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nge2 cxd4 7. exd4 d5 8. c5
+b6 9. cxb6 axb6 10. O-O Ba6 11. Nb5 Qd7 12. a4 Nc6 13. Bf4 Rfc8 14. Rc1 Nh5 15.
+Be3 Be7 16. Ng3 Nf6 17. Nh5 Nb4 18. Nxf6+ Bxf6 19. Be2 Rxc1 20. Qxc1 Rc8 21.
+Qb1 Nc6 22. Bd3 g6 23. g3 Na7 24. Nxa7 Qxa7 25. b3 Bxd3 26. Qxd3 Qa5 27. Bd2
+Qa7 28. Rc1 Rxc1+ 29. Bxc1 h5 30. h4 Kf8 31. Qc3 Kg7 32. Bb2 Qa6 33. Qc2 b5 34.
+Qd3 Qb6 35. axb5 Kg8 36. Kg2 Kg7 37. b4 Be7 38. Qc3 Qxb5 39. Qc7 Qxb4 40. Bc3
+Qd6 41. Qxd6 Bxd6 42. f4 Kf6 43. Kf3 Kf5 44. Bd2 Bc7 45. Bc3 Bb6 46. Bb2 Ba5
+47. Ba1 Bb4 48. Bb2 Bd2 49. Ba1 Be1 50. Bb2 Ba5 51. Ba1 Bc7 52. Bc3 f6 53. Bb2
+e5 54. dxe5 fxe5 55. fxe5 Bxe5 56. Bc1 Bd6 57. Be3 Be5 58. Bf2 Ke6 59. Ke3 Kd6
+60. Kd3 Kd7 61. Ke3 Kc6 62. Kd3 Kb5 63. Be1 Kc6 64. Bf2 Bd6 65. Be1 Bc5 66. Bd2
+Kd7 67. Bf4 Ke6 68. Ke2 Bd6 69. Kf3 Bxf4 70. Kxf4 Kf6 71. g4 hxg4 72. Kxg4 Ke5
+73. Kg5 d4 74. Kxg6 d3 75. h5 d2 76. h6 d1=Q 77. h7 Qd8 78. Kg7 Qe7+ 79. Kg8
+0-1
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "7"]
+[White "Mrva, Martin"]
+[Black "Ahmed, Abdul Sattar"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2467"]
+[BlackElo "2246"]
+[PlyCount "61"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 a5 13. bxa5 c6 14. Bd2 Rxa5 15.
+Qb3 Kh8 16. c5 fxe4 17. Ncxe4 Rb5 18. Qa4 Nxe4 19. Nxe4 dxc5 20. Bg5 cxd5 21.
+Qxb5 dxe4 22. Bxe4 Qc7 23. Rab1 Nc6 24. Qxc5 Qf7 25. f3 Nd4 26. Be7 Re8 27. Bd6
+Qxa2 28. Bd5 Qd2 29. Rbd1 Qf4 30. Rxd4 Qxd4+ 31. Qxd4 1-0
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "7"]
+[White "Neubauer, Martin"]
+[Black "Savickas, Airidas"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2422"]
+[BlackElo "2358"]
+[PlyCount "95"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5 7. Be3 c6 8. d5 c5
+9. Nd2 Ne8 10. O-O f5 11. exf5 gxf5 12. f4 e4 13. g4 fxg4 14. Bxg4 Nf6 15. Bxc8
+Qxc8 16. Ndxe4 Nxe4 17. Nxe4 Qf5 18. Ng5 Nd7 19. Qf3 Rae8 20. Kh1 b5 21. cxb5
+Kh8 22. Ne6 Rg8 23. Nxg7 Rxg7 24. Bd2 Nf6 25. Bc3 Rg6 26. Rae1 Rf8 27. Re6 Kg8
+28. Rxd6 Ne4 29. Rxg6+ hxg6 30. Rg1 Qxd5 31. Rxg6+ Kf7 32. Rg7+ Ke8 33. Kg1 Rg8
+34. Rxg8+ Qxg8+ 35. Kf1 Qd5 36. Qe3 Kd7 37. Ke1 Qf5 38. Qd3+ Kc8 39. Be5 Qh7
+40. Qd5 Qh4+ 41. Ke2 Qf2+ 42. Kd3 c4+ 43. Kxe4 Qe2+ 44. Kd4 Qd3+ 45. Kc5 Qe3+
+46. Kd6 Qb6+ 47. Qc6+ Qxc6+ 48. bxc6 1-0
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "7"]
+[White "Sadorra, Julio Catalino"]
+[Black "Esenov, Annaberdi"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2431"]
+[BlackElo "2319"]
+[PlyCount "69"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. h3 e5 7. d5 Nbd7 8. Bg5 h6
+9. Be3 Nc5 10. Nd2 a5 11. g4 h5 12. Bg5 hxg4 13. hxg4 Bd7 14. f3 c6 15. Qe2 Qb6
+16. Qh2 Rfe8 17. O-O-O a4 18. Bh6 a3 19. b3 Qb4 20. Ndb1 Bh8 21. dxc6 bxc6 22.
+Qc2 Reb8 23. Bd2 Qb7 24. Be3 Ne6 25. Rxd6 Qc7 26. Rd2 c5 27. Rxh8+ Kxh8 28.
+Rh2+ Kg8 29. Bg5 Nxg5 30. Qf2 Qd6 31. Qh4 Ngh7 32. Nd5 Kg7 33. Qh6+ Kg8 34. g5
+Qf8 35. Nxf6+ 1-0
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "7"]
+[White "Sandler, Leonid"]
+[Black "Sepp, Olav"]
+[Result "0-1"]
+[ECO "E69"]
+[WhiteElo "2357"]
+[BlackElo "2448"]
+[PlyCount "104"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. c4 g6 2. Nf3 Bg7 3. d4 Nf6 4. Nc3 O-O 5. g3 d6 6. Bg2 Nbd7 7. O-O e5 8. e4
+c6 9. h3 Qb6 10. Na4 Qa5 11. Bd2 Qa6 12. Qc2 b5 13. cxb5 cxb5 14. Nc3 Bb7 15.
+d5 Rfc8 16. Qd3 b4 17. Nb5 Nc5 18. Qe2 Ncxe4 19. Bxb4 Bxd5 20. Nc3 Bc4 21. Qe3
+Bxf1 22. Bxf1 Qb7 23. Ba3 Nxc3 24. bxc3 Nd5 25. Qd2 Nxc3 26. Bg2 d5 27. Re1 e4
+28. Nd4 Nb1 29. Qb2 Qxb2 30. Bxb2 Rab8 31. Ba1 Nc3 32. Nb3 f5 33. g4 d4 34.
+gxf5 gxf5 35. f3 e3 36. Bf1 e2 37. Bxe2 Nxe2+ 38. Rxe2 Rxb3 39. axb3 Rc1+ 40.
+Kg2 Rxa1 41. Rc2 Re1 42. Rc7 a5 43. Rd7 Re3 44. Rd5 Rxb3 45. Rxa5 d3 46. Rd5
+Rb2+ 47. Kg3 d2 48. Kf4 Rb4+ 49. Ke3 Bh6+ 50. Ke2 Rb1 51. Rd7 Re1+ 52. Kf2 Kf8
+0-1
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "7"]
+[White "Shabalov, Alexander"]
+[Black "Stefansson, Hannes"]
+[Result "1-0"]
+[ECO "E35"]
+[WhiteElo "2585"]
+[BlackElo "2575"]
+[PlyCount "52"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 c5 7. dxc5 h6 8.
+Bh4 g5 9. Bg3 Ne4 10. e3 Qa5 11. Nge2 Bf5 12. Be5 O-O 13. Nd4 Nxc3 14. Nxf5
+Ne4+ 15. Kd1 Nc6 16. Bd4 Nxd4 17. exd4 Rfe8 18. Bd3 Rac8 19. f3 Bxc5 20. fxe4
+dxe4 21. Bc4 Bf8 22. Rf1 Qb4 23. Rc1 e3 24. Ke2 Rxc4 25. Qxc4 Qd2+ 26. Kf3 e2
+1-0
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "7"]
+[White "Zhang Zhong"]
+[Black "Fier, Alexander Hilario T"]
+[Result "1-0"]
+[ECO "E13"]
+[WhiteElo "2649"]
+[BlackElo "2581"]
+[PlyCount "91"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. Nd2 h6 7. Bh4 Bxc3 8.
+bxc3 d6 9. f3 g5 10. Bf2 Nbd7 11. e4 c5 12. Bd3 Qe7 13. Qa4 Nh5 14. g3 Nhf6 15.
+Rb1 Kf8 16. O-O Kg7 17. Be3 e5 18. Rf2 Nf8 19. d5 Ng6 20. Nf1 Bc8 21. Bd2 Bh3
+22. Ne3 Bd7 23. Qa6 Rhb8 24. Qa3 a6 25. Qc1 Nh7 26. Qf1 b5 27. cxb5 axb5 28.
+Bxb5 Bxb5 29. Nf5+ Kf8 30. Rxb5 Qd7 31. a4 h5 32. Be3 Ne7 33. Nxe7 Kxe7 34.
+Rfb2 Rc8 35. Rb7 Rc7 36. Rxc7 Qxc7 37. Qb5 Ra7 38. c4 f6 39. Bd2 Nf8 40. a5 Nd7
+41. Qc6 Kd8 42. h4 gxh4 43. gxh4 Nb8 44. Qb5 Kc8 45. Qe8+ Qd8 46. Rxb8+ 1-0
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "8"]
+[White "Batchuluun, Cegmed"]
+[Black "Vavrak, Peter"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2346"]
+[BlackElo "2478"]
+[PlyCount "87"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 e6 2. c4 Nf6 3. g3 d5 4. Nf3 Bb4+ 5. Bd2 Be7 6. Qc2 c6 7. Bg2 O-O 8. O-O
+b6 9. Bf4 Ba6 10. Nbd2 Nbd7 11. Rac1 Rc8 12. Qa4 Bxc4 13. Nxc4 b5 14. Qxa7 bxc4
+15. b3 Ra8 16. Qb7 Qb6 17. Qxb6 Nxb6 18. Bc7 Nfd7 19. Ne5 Nxe5 20. dxe5 Nd7 21.
+bxc4 Rfc8 22. cxd5 cxd5 23. Bd6 Kf8 24. e4 d4 25. Rfd1 Bxd6 26. exd6 Rxc1 27.
+Rxc1 Ke8 28. e5 Rb8 29. Bc6 d3 30. Rd1 Kd8 31. Bxd7 Kxd7 32. Rxd3 Ra8 33. a3 g5
+34. Kg2 Ra4 35. Rc3 Ra5 36. f4 gxf4 37. gxf4 Ra4 38. Kg3 Ra5 39. Kg4 Ra4 40.
+Rc7+ Ke8 41. Re7+ Kf8 42. Rb7 Rxa3 43. Rb8+ Kg7 44. d7 1-0
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "8"]
+[White "Dao Thien Hai"]
+[Black "Kunte, Abhijit"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2510"]
+[BlackElo "2536"]
+[PlyCount "98"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 d5 8.
+Bg2 O-O 9. O-O Nbd7 10. Rac1 c5 11. Rfd1 Qe7 12. Qa4 Bb7 13. e3 h6 14. Ne5 Rfc8
+15. Nxd7 Nxd7 16. cxd5 exd5 17. dxc5 Nxc5 18. Qa3 Qf6 19. b4 Ne4 20. Nxe4 dxe4
+21. Rxc8+ Rxc8 22. Qxa7 Rc2 23. Qb8+ Kh7 24. Qf4 Qxf4 25. gxf4 Rxa2 26. Bf1 Rb2
+27. b5 Bc8 28. Rd6 Rb1 29. Kg2 Bg4 30. Bc4 Bf3+ 31. Kh3 Rg1 32. Bxf7 g5 33.
+fxg5 hxg5 34. Be6 Kg7 35. Bf5 Rg2 36. Rxb6 g4+ 37. Kh4 Rxh2+ 38. Kg5 Rxf2 39.
+Rb7+ Kf8 40. b6 Ke8 41. Rc7 Rb2 42. b7 g3 43. Rc8+ Ke7 44. b8=Q Rxb8 45. Rxb8
+g2 46. Rb1 Be2 47. Rg1 Bf1 48. Bh3 Kd6 49. Bxg2 Kd5 1-0
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "8"]
+[White "Erdos, Viktor"]
+[Black "Aveskulov, Valeriy"]
+[Result "1/2-1/2"]
+[ECO "E37"]
+[WhiteElo "2577"]
+[BlackElo "2544"]
+[PlyCount "117"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. e3 Qa5+ 10. Bd2 Qxc5 11. Rc1 O-O 12. Nf3 Nxd2 13. Qxd2 Rd8 14. cxd5
+Qxd5 15. Qxd5 Rxd5 16. Bc4 Rd8 17. Ke2 Bd7 18. Bd3 Kf8 19. Rc3 Be8 20. Rhc1 Ne7
+21. Be4 Bc6 22. Bxc6 Nxc6 23. Ng5 h6 24. Ne4 Ne7 25. Rc7 Rac8 26. Rxc8 Rxc8 27.
+Rxc8+ Nxc8 28. Nc5 Nd6 29. f3 Ke7 30. e4 b6 31. Nd3 Nc4 32. a4 Kd6 33. f4 e5
+34. g3 g6 35. b3 Na5 36. Nxe5 Nxb3 37. Nxf7+ Ke6 38. Nxh6 Nc5 39. g4 Nxe4 40.
+f5+ Kf6 41. fxg6 Kxg6 42. Nf5 Nc3+ 43. Kf3 Nxa4 44. h4 Nc5 45. Kf4 Nd3+ 46. Ke4
+Nf2+ 47. Kf3 Nd3 48. Ke4 Nf2+ 49. Kf3 Nd3 50. Ke4 Nc5+ 51. Kf4 a5 52. h5+ Kh7
+53. g5 Ne6+ 54. Kg4 Nxg5 55. Kxg5 a4 56. Nd4 a3 57. Nb3 a2 58. Na1 Kh8 59. Kg6
+1/2-1/2
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "8"]
+[White "Gonzalez Garcia, Jose"]
+[Black "Annaberdiev, Meilis"]
+[Result "1-0"]
+[ECO "E91"]
+[WhiteElo "2508"]
+[BlackElo "2444"]
+[PlyCount "41"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Bg4 7. Be3 Nfd7 8. Rc1
+e5 9. d5 Bxf3 10. Bxf3 a5 11. h4 f5 12. h5 Na6 13. hxg6 hxg6 14. g3 Nac5 15.
+Bg2 Qf6 16. exf5 gxf5 17. Qh5 f4 18. Bxc5 Nxc5 19. Ne4 Nxe4 20. Bxe4 fxg3 21.
+Bh7+ 1-0
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "8"]
+[White "Korobov, Anton"]
+[Black "Almasi, Zoltan"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[WhiteElo "2605"]
+[BlackElo "2663"]
+[PlyCount "221"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. a3 Ba5 10. Qe2 a6 11. Bd3 b5 12. b4 cxd4 13. Nxd4 Bb6 14. a4 Bxd4 15.
+exd4 bxa4 16. Nxa4 Nd5 17. Nc5 Qf6 18. Qe4 g6 19. Bh6 Re8 20. Rfe1 N7b6 21. b5
+a5 22. h4 a4 23. Bg5 Qg7 24. Nxa4 f5 25. Qf3 Qxd4 26. Be3 Nxe3 27. fxe3 Qxd3
+28. Nxb6 Rxa1 29. Rxa1 Qxb5 30. Nxc8 Rxc8 31. h5 Qe5 32. Rd1 g5 33. h6 Qf6 34.
+Qb7 Rf8 35. Qd7 Qxh6 36. Rd6 g4 37. Rxe6 Qg5 38. Re7 h5 39. Qd5+ Kh8 40. Qe5+
+Kg8 41. Qe6+ Kh8 42. Qe5+ Qf6 43. Qc7 g3 44. Qe5 Qxe5 45. Rxe5 Kg7 46. e4 Kg6
+47. exf5+ Rxf5 48. Re8 Kg5 49. Rg8+ Kf4 50. Ra8 Re5 51. Rf8+ Kg4 52. Rg8+ Rg5
+53. Rf8 h4 54. Ra8 Re5 55. Rg8+ Kf4 56. Rf8+ Ke3 57. Kf1 Ke4 58. Rh8 Rf5+ 59.
+Kg1 Ke3 60. Re8+ Kf4 61. Rh8 Kg5 62. Rg8+ Kh5 63. Rh8+ Kg4 64. Rg8+ Rg5 65. Ra8
+Rc5 66. Rg8+ Kf4 67. Rf8+ Ke3 68. Re8+ Kd3 69. Rd8+ Ke4 70. Re8+ Re5 71. Rh8
+Kd3 72. Rd8+ Ke2 73. Rd7 Ke3 74. Rd8 Rc5 75. Re8+ Kd3 76. Rd8+ Ke2 77. Re8+ Kd2
+78. Rd8+ Kc3 79. Kf1 Rf5+ 80. Kg1 Kc4 81. Rd7 Rd5 82. Rc7+ Kd3 83. Re7 Kd4 84.
+Re8 Ra5 85. Rd8+ Ke5 86. Re8+ Kf6 87. Re1 Kg5 88. Rb1 Rc5 89. Kh1 Rd5 90. Kg1
+Kf4 91. Kf1 Ke3 92. Re1+ Kf4 93. Ra1 Rd4 94. Rb1 Rd2 95. Rb4+ Ke3 96. Rb3+ Rd3
+97. Rb1 Kd2 98. Rb4 Ke3 99. Rb1 Rc3 100. Re1+ Kd2 101. Ra1 Kd3 102. Rd1+ Ke3
+103. Re1+ Kf4 104. Kg1 Rc2 105. Rf1+ Ke3 106. Re1+ Kd2 107. Kf1 Rc4 108. Ra1
+Rf4+ 109. Kg1 Rd4 110. Kf1 Ke3 111. Re1+ 1/2-1/2
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "8"]
+[White "Wu Shaobin"]
+[Black "Bagheri, Amir"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2455"]
+[BlackElo "2490"]
+[PlyCount "110"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+f3 d6 9. e3 Nbd7 10. Bd3 c5 11. b4 Rc8 12. Ne2 h6 13. Bh4 d5 14. dxc5 bxc5 15.
+b5 Qb6 16. a4 e5 17. Bf5 d4 18. Qd2 Rcd8 19. e4 Bc8 20. O-O Rde8 21. a5 Qd6 22.
+Nc3 Bb7 23. Ne2 Nh5 24. Kh1 Kh8 25. Bf2 Ndf6 26. Bh4 Ng8 27. Bf2 g6 28. Bg4
+Nhf6 29. Bh3 Rd8 30. Nc1 Kg7 31. Nd3 Nh7 32. Bg3 f6 33. f4 Rfe8 34. Rab1 Bxe4
+35. Rbe1 Bxd3 36. Qxd3 exf4 37. Bxf4 Qxf4 38. Rxf4 Rxe1+ 39. Rf1 Rde8 40. g3
+R8e3 41. Qd2 R1e2 42. Qd1 Ng5 43. Bg2 d3 44. b6 axb6 45. axb6 Rb2 46. h4 Ne6
+47. b7 Nd4 48. Re1 Ree2 49. Rg1 f5 50. h5 Nf6 51. Qa1 Ng4 52. Qa7 Nf2+ 53. Kh2
+Nf3+ 54. Bxf3 Ng4+ 55. Kh3 Rh2# 0-1
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "9"]
+[White "Ali Laith, A."]
+[Black "Hwang, Sungjae"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2283"]
+[PlyCount "103"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Bxd2+ 6. Qxd2 b6 7. e3 Bb7 8.
+Be2 d6 9. O-O Nbd7 10. b4 c5 11. Bb2 Rc8 12. b5 d5 13. cxd5 Bxd5 14. dxc5 Rxc5
+15. Bd4 Rc7 16. Rac1 Ne4 17. Qb2 f6 18. Qb4 e5 19. Bb2 Ndc5 20. Rfd1 Rd7 21. a4
+Nxa4 22. Qxa4 Qe7 23. Rxd5 Rxd5 24. Bc4 Qe6 25. Bxd5 Qxd5 26. Qc4 Qxc4 27. Rxc4
+Rd8 28. h3 Nc5 29. Ba3 Ne6 30. Rc6 Rd1+ 31. Kh2 Kf7 32. Rd6 Rxd6 33. Bxd6 Nd8
+34. Bb8 Nb7 35. Bxa7 Nd6 36. Bxb6 Nxb5 37. Bc5 Ke6 38. e4 Nc3 39. Nd2 g6 40.
+Be3 f5 41. f3 fxe4 42. Nxe4 Nd5 43. Bd2 Ne7 44. Kg3 Nf5+ 45. Kf2 Kf7 46. Ng5+
+Kg7 47. g4 Ne7 48. Bc3 Nc6 49. f4 h6 50. Nf3 Kf6 51. Nxe5 Ne7 52. Nc6+ 1-0
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "9"]
+[White "Bu Xiangzhi"]
+[Black "Paragua, Mark"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[WhiteElo "2714"]
+[BlackElo "2526"]
+[PlyCount "175"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. Re1 a6 11. h3 Rb8 12. b3 Nc5 13. Bf4 Bd7 14. Qd2 Qc8 15.
+Kh2 b5 16. cxb5 axb5 17. Bh6 Bxh6 18. Qxh6 b4 19. Nd5 Nxd5 20. exd5 Qa6 21. Qd2
+Qd3 22. Rxe8+ Bxe8 23. Qxd3 Nxd3 24. Bf1 Nxf2 25. Re1 f5 26. Re7 Ra8 27. Ne6
+Bf7 28. Rxc7 Ne4 29. Bg2 h6 30. h4 Nf6 31. Rc2 Ng4+ 32. Kg1 Ne3 33. Re2 Nxg2
+34. Kxg2 Ra5 35. Rd2 Be8 36. Kf3 Kf7 37. Nf4 Kf6 38. Re2 Bf7 39. Rd2 g5 40.
+hxg5+ hxg5 41. Ne6 Bxe6 42. dxe6 Kxe6 43. Re2+ Re5 44. Rc2 Re4 45. Rc8 d5 46.
+Re8+ Kd6 47. Rg8 g4+ 48. Kf2 d4 49. Rb8 Kc5 50. Rc8+ Kd5 51. Rd8+ Ke5 52. Re8+
+Kf6 53. Rf8+ Ke6 54. Rd8 Ke5 55. Re8+ Kd6 56. Rb8 Kc5 57. Rc8+ Kb6 58. Rb8+ Kc5
+59. Rc8+ Kb5 60. Rb8+ Ka5 61. Ra8+ Kb6 62. Rb8+ Kc5 63. Rc8+ Kd5 64. Rd8+ Ke5
+65. Re8+ Kf6 66. Rd8 f4 67. gxf4 Rxf4+ 68. Kg3 Re4 69. Rd5 Ke6 70. Rd8 Ke5 71.
+Re8+ Kd5 72. Rd8+ Kc5 73. Rc8+ Kb6 74. Rb8+ Kc6 75. Rd8 Kc7 76. Rd5 Kc6 77. Rd8
+Kc5 78. Rc8+ Kd5 79. Rd8+ Ke5 80. Re8+ Kf5 81. Rf8+ Kg6 82. Rg8+ Kh5 83. Rh8+
+Kg5 84. Rg8+ Kf5 85. Rf8+ Ke5 86. Re8+ Kd5 87. Rd8+ Kc5 88. Rc8+ 1/2-1/2
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "9"]
+[White "Dao Thien Hai"]
+[Black "Kravtsiv, Martyn"]
+[Result "0-1"]
+[ECO "E18"]
+[WhiteElo "2510"]
+[BlackElo "2549"]
+[PlyCount "61"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Re1 d6 10. Bf1 c5 11. b3 Bxf3 12. exf3 Bf6 13. Be3 Nc6 14. dxc5 Bxa1
+15. Qxa1 dxc5 16. f4 Qf6 17. Qc1 Rad8 18. Bg2 Nd4 19. Be4 h6 20. Kg2 Rd7 21. h4
+Rfd8 22. Qb1 Nf5 23. Bc1 Nd4 24. h5 Kh8 25. Bb2 Re7 26. Bc1 Rde8 27. Bd2 e5 28.
+fxe5 Rxe5 29. Bf4 R5e7 30. f3 Ne6 31. Bd6 0-1
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "9"]
+[White "Fesalbon, Rolando"]
+[Black "Mrva, Martin"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2061"]
+[BlackElo "2467"]
+[PlyCount "61"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e3 d6 6. Bd3 Re8 7. O-O e5 8. Bc2
+Nc6 9. dxe5 dxe5 10. Qxd8 Rxd8 11. e4 Bg4 12. Be3 Nd4 13. Bxd4 exd4 14. Nd5 c6
+15. Nxf6+ Bxf6 16. Bd3 a5 17. Nd2 a4 18. f3 Be6 19. g3 Be7 20. a3 b5 21. cxb5
+cxb5 22. Bxb5 Rdb8 23. Bc4 Rxb2 24. Bxe6 fxe6 25. Nc4 Rb3 26. Ne5 Bxa3 27. Rfd1
+Bb2 28. Ra2 a3 29. Kf2 Rc8 30. g4 Rc5 31. Nd3 0-1
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "9"]
+[White "Kraai, Jesse"]
+[Black "Erdogdu, Mert"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2502"]
+[BlackElo "2449"]
+[PlyCount "124"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. dxe5
+dxe5 9. Bg5 Qxd1 10. Rfxd1 h6 11. Be3 Be6 12. Nd5 Bxd5 13. exd5 Ne7 14. Nxe5
+Nfxd5 15. cxd5 Bxe5 16. Bxh6 Rfe8 17. Bc4 Nf5 18. Bg5 Nd6 19. Bf1 Bxb2 20. Rab1
+Be5 21. Rdc1 Rac8 22. g3 Bd4 23. Bf4 Bb6 24. Kg2 Rcd8 25. a4 a5 26. h4 Re4 27.
+Ra1 Rb4 28. Kf3 Rb3+ 29. Kg2 Rb2 30. Kh3 Rxf2 31. Rab1 Ra2 32. Bg5 Re8 33. Bf4
+Be3 34. Bxd6 cxd6 35. Re1 Re5 36. Rxb7 f5 37. Bb5 Bd4 38. Rxe5 Bxe5 39. h5 g5
+40. h6 Ra3 41. Kg2 Rxg3+ 42. Kf2 Rh3 43. Bd7 g4 44. Bxf5 Rf3+ 45. Kg2 Rxf5 46.
+Rb5 Bc3 47. Kg3 Rh5 48. Kxg4 Rxh6 49. Rb6 Bb4 50. Kf5 Kf7 51. Rb7+ Ke8 52. Rg7
+Kd8 53. Rf7 Kc8 54. Rg7 Rh3 55. Ke6 Re3+ 56. Kf7 Re5 57. Rg2 Rxd5 58. Ke6 Re5+
+59. Kf6 Kd7 60. Rh2 Kc6 61. Rc2+ Rc5 62. Rb2 Bc3+ 0-1
+
+[Event "WMSG Blitz Team 1st"]
+[Site "Beijing"]
+[Date "2008.10.13"]
+[Round "9"]
+[White "Le Quang, Liem"]
+[Black "Korobov, Anton"]
+[Result "0-1"]
+[ECO "E63"]
+[WhiteElo "2583"]
+[BlackElo "2605"]
+[PlyCount "96"]
+[EventDate "2008.10.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O a6 8. Nd5
+Bf5 9. Nxf6+ Bxf6 10. d5 Ne5 11. Nxe5 Bxe5 12. Bh6 Re8 13. Qd2 b5 14. Rac1 Rb8
+15. c5 Bh8 16. e4 Bc8 17. Bg5 Bf6 18. Bxf6 exf6 19. Qf4 f5 20. exf5 Bxf5 21.
+cxd6 cxd6 22. Rc6 Re5 23. Rxa6 Qe7 24. Qb4 Bd3 25. Rd1 Be2 26. Rc1 Rd8 27. Rac6
+Bc4 28. Rd1 Qf6 29. b3 Re2 30. Rf1 Rb2 31. Rxc4 bxc4 32. Qxc4 Rxa2 33. h4 Rb2
+34. h5 gxh5 35. Qe4 h4 36. gxh4 Kh8 37. Kh1 Rg8 38. Bf3 Rxb3 39. Bg2 Rb2 40.
+Bf3 Rb3 41. Bg2 Rgb8 42. Kg1 R3b4 43. Qe3 Rg8 44. f4 Rb2 45. Rf2 Rb1+ 46. Rf1
+Rxf1+ 47. Kxf1 Qa1+ 48. Kf2 Qb2+ 0-1

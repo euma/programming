@@ -1,0 +1,600 @@
+[Event "CZE-ch U16"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.12"]
+[Round "6"]
+[White "Straka, Vojtech"]
+[Black "Vala, Filip"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1909"]
+[BlackElo "2001"]
+[PlyCount "99"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. b3 d5 8. Nbd2
+c5 9. Bb2 Nc6 10. e3 Qc7 11. Rc1 Rfd8 12. Qc2 Rac8 13. dxc5 bxc5 14. a3 d4 15.
+exd4 Nxd4 16. Nxd4 cxd4 17. Qd3 Bxg2 18. Kxg2 e5 19. Rfe1 a5 20. f3 Nd7 21. Ne4
+f5 22. Nf2 g6 23. Qe2 Bg5 24. Rcd1 Be3 25. Nd3 Qb7 26. Bc1 e4 27. fxe4 fxe4 28.
+Nf4 Bxc1 29. Rxc1 e3+ 30. Qf3 Qxf3+ 31. Kxf3 Ne5+ 32. Ke4 Ng4 33. Nd5 Re8+ 34.
+Kxd4 e2 35. h3 Nf2 36. Nf6+ Kf7 37. Nxe8 Rxe8 38. Rc2 Rd8+ 39. Ke3 Nxh3 40.
+Rexe2 h5 41. c5 Ng5 42. b4 axb4 43. axb4 Ne6 44. Red2 Re8 45. Kf2 Ng5 46. Kg2
+Ne4 47. Re2 g5 48. c6 h4 49. Rxe4 Rxe4 50. c7 1-0
+
+[Event "CZE-ch U16"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.13"]
+[Round "7"]
+[White "Klecker, Tadeas"]
+[Black "Straka, Vojtech"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "2075"]
+[BlackElo "1909"]
+[PlyCount "82"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 d5 2. d4 c6 3. c4 Nf6 4. e3 e6 5. Nc3 Be7 6. Bd3 O-O 7. O-O Nbd7 8. b3
+a6 9. Bb2 b5 10. Rc1 Bb7 11. Qd2 Nb6 12. Ne5 Nfd7 13. Nxd7 Nxd7 14. cxd5 cxd5
+15. Ne2 Nf6 16. Ng3 Qb6 17. f3 Bd6 18. Ne2 Rac8 19. g4 h6 20. h4 g6 21. Kf2 Kg7
+22. h5 g5 23. Bb1 Rxc1 24. Nxc1 Nd7 25. Nd3 Rc8 26. Ne5 Nf6 27. Qd3 Qc7 28. Rc1
+Qe7 29. Rxc8 Bxc8 30. Bc3 Qc7 31. a4 bxa4 32. bxa4 Bb7 33. Kg2 Bc8 34. Kh3 Bb7
+35. Kg2 Bc8 36. Kh3 Bb7 37. Be1 Qc1 38. Bg3 Qh1+ 39. Bh2 Bxe5 40. dxe5 Qxf3+
+41. Bg3 Ne4 0-1
+
+[Event "CZE-ch U16"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.14"]
+[Round "8"]
+[White "Straka, Vojtech"]
+[Black "Vlasak, Lukas"]
+[Result "0-1"]
+[ECO "D48"]
+[WhiteElo "1909"]
+[BlackElo "2095"]
+[PlyCount "40"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. a3 c5 11. dxc5 Nxc5 12. Bc2 Qc7 13. Qe2 Ng4 14. g3 Bd6 15.
+Nd2 f5 16. Nb3 O-O 17. Nd4 Rf6 18. e4 Be5 19. exf5 Bxd4 20. Qxg4 Qc6 0-1
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.08"]
+[Round "1"]
+[White "Sediva, Kamila"]
+[Black "Palkova, Nikola"]
+[Result "0-1"]
+[ECO "D26"]
+[WhiteElo "1250"]
+[BlackElo "1647"]
+[PlyCount "31"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 dxc4 5. Bxc4 Nf6 6. Nf3 e6 7. O-O Be7 8.
+Nc3 O-O 9. Bf4 Nc6 10. Re1 b6 11. Nb5 Bb7 12. Ne5 a6 13. Nc3 Nxd4 14. Bd3 Nc6
+15. Ng4 Nxg4 16. Qxg4 0-1
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.09"]
+[Round "2"]
+[White "Glaserova, Lucie"]
+[Black "Sabolova, Gabriela"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1452"]
+[BlackElo "1752"]
+[PlyCount "72"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. e3 c5 3. c3 e6 4. Bd3 Nc6 5. f4 f5 6. Nf3 Nf6 7. Ne5 Be7 8. O-O O-O
+9. Nd2 Bd7 10. Ndf3 Be8 11. Bd2 Bh5 12. Be2 Bxf3 13. Rxf3 Bd6 14. Rh3 Bxe5 15.
+fxe5 Ne4 16. Bd3 Ne7 17. Be1 Qe8 18. Bxe4 fxe4 19. Qg4 Nf5 20. Bh4 Nxh4 21.
+Qxh4 Qg6 22. Rg3 Qf5 23. Rh3 c4 24. Rb1 a5 25. Qe1 b5 26. a3 b4 27. axb4 axb4
+28. cxb4 Rab8 29. Rg3 Rxb4 30. h3 Rb3 31. Rg4 Rfb8 32. Rf4 Qg6 33. Qf2 Qe8 34.
+Qe2 c3 35. Rf2 Rxb2 36. Rxb2 cxb2 0-1
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.09"]
+[Round "2"]
+[White "Janouchova, Marcela"]
+[Black "Rosenbaumova, Anna"]
+[Result "1-0"]
+[ECO "D06"]
+[WhiteElo "1516"]
+[BlackElo "1353"]
+[PlyCount "77"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 Bf5 4. Nf3 e6 5. Bg5 Be7 6. e3 Nc6 7. Be2 Bb4 8. a3
+Bxc3+ 9. bxc3 h6 10. Bxf6 Qxf6 11. cxd5 exd5 12. Bb5 O-O 13. Bxc6 Qxc6 14. Qb3
+Be4 15. Ne5 Qa6 16. f3 Bf5 17. Qxd5 c6 18. Qc4 Qb6 19. e4 Be6 20. Qb4 Qc7 21.
+c4 Rfd8 22. Qc3 f6 23. Nd3 Qd7 24. d5 cxd5 25. cxd5 Rac8 26. Qd2 Bxd5 27. exd5
+Qxd5 28. Rd1 Re8+ 29. Kf1 Red8 30. Kf2 Qd4+ 31. Kg3 Rc3 32. Qa2+ Kh8 33. Nf4
+Qb6 34. Rxd8+ Qxd8 35. Re1 g5 36. Ng6+ Kg7 37. Re7+ Kxg6 38. Qf7+ Kf5 39. Qh7#
+1-0
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.09"]
+[Round "2"]
+[White "Palkova, Nikola"]
+[Black "Pavelkova, Michaela"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1647"]
+[BlackElo "1906"]
+[PlyCount "61"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Nc6 5. Nbd2 Qb6 6. dxc5 Qxb2 7. Nb3 e5 8.
+Bg3 Bxc5 9. Nxc5 Qc3+ 10. Nd2 Qxc5 11. Be2 O-O 12. O-O Bf5 13. c4 d4 14. Nb3
+Qe7 15. exd4 Nxd4 16. Nxd4 exd4 17. Bf3 Rad8 18. Re1 Qb4 19. Qb3 Qxb3 20. axb3
+Bc2 21. Bd1 Bxd1 22. Rexd1 a6 23. Be5 d3 24. Bxf6 gxf6 25. Rd2 Rfe8 26. Rad1
+Rd6 27. f3 Red8 28. Kf2 Kg7 29. Ke3 Re8+ 30. Kf2 Red8 31. Ke3 1/2-1/2
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.09"]
+[Round "2"]
+[White "Soltysova, Andrea"]
+[Black "Sediva, Kamila"]
+[Result "1-0"]
+[ECO "D40"]
+[WhiteElo "1505"]
+[BlackElo "1250"]
+[PlyCount "41"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. e3 Nc6 5. Nc3 Nf6 6. Be2 Be7 7. O-O O-O 8. Re1
+b6 9. b3 Bb7 10. Bb2 Qc7 11. a3 Rad8 12. Qc2 e5 13. Nb5 Qb8 14. Nxe5 Nxe5 15.
+dxe5 Nd7 16. f4 a6 17. Nc3 d4 18. exd4 cxd4 19. Nd5 Bc5 20. Kh1 f6 21. e6 1-0
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.10"]
+[Round "3"]
+[White "Slivova, Veronika"]
+[Black "Soltysova, Andrea"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "1651"]
+[BlackElo "1505"]
+[PlyCount "63"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 Nbd7 8.
+Nf3 Ne4 9. Bxe7 Qxe7 10. Qc2 Ndf6 11. Ne5 a6 12. O-O O-O 13. a4 c5 14. Nxd5
+Nxd5 15. Bxe4 Nf6 16. Bd3 Re8 17. Nf3 g6 18. Qxc5 Qxc5 19. dxc5 Bg4 20. Nd4
+Rad8 21. h3 Bd7 22. b4 Rc8 23. Rfc1 Bc6 24. Nxc6 Rxc6 25. Rd1 a5 26. Kf1 Kf8
+27. Ke2 h6 28. Rd2 Rc7 29. Bc4 Ne4 30. Rd4 Nf6 31. Rad1 Rc6 32. e4 1-0
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.10"]
+[Round "4"]
+[White "Glaserova, Lucie"]
+[Black "Urgacsova, Sara"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1452"]
+[BlackElo "1250"]
+[PlyCount "21"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 Nc6 4. f4 Bg4 5. Nf3 e6 6. c3 Be7 7. Nbd2 O-O 8. O-O
+b6 9. Qc2 h6 10. Ne5 Qd7 11. Nxd7 1-0
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.10"]
+[Round "4"]
+[White "Janouchova, Marcela"]
+[Black "Strouhalova, Lenka"]
+[Result "1-0"]
+[ECO "D53"]
+[WhiteElo "1516"]
+[BlackElo "1398"]
+[PlyCount "65"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. Bxf6 Bxf6 10. Ne4 Be7 11. Rc1 Nd7 12. O-O O-O 13. Ng3 Rc8 14. e4 a6 15.
+Qd2 c5 16. dxc5 Bxc5 17. b4 Bd6 18. Rxc8 Qxc8 19. Rc1 Qb8 20. Ne2 Nf6 21. Qc2
+Bxb4 22. e5 Ng4 23. Be4 Ba5 24. Bxh7+ Kh8 25. Be4 Bb6 26. Rf1 Rc8 27. Qb1 Bc7
+28. Ng5 Kg8 29. Bxb7 Qxb7 30. Qh7+ Kf8 31. Qh8+ Ke7 32. Qxg7 Nxe5 33. f4 1-0
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.10"]
+[Round "4"]
+[White "Soltysova, Andrea"]
+[Black "Rosenbaumova, Anna"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[WhiteElo "1505"]
+[BlackElo "1353"]
+[PlyCount "119"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Nbd7 5. Nc3 Be7 6. e3 b6 7. Rc1 c5 8. cxd5
+exd5 9. Bb5 Bb7 10. Ne5 O-O 11. Nxd7 Nxd7 12. Bxe7 Qxe7 13. O-O Nf6 14. Qd2 Ne4
+15. Nxe4 dxe4 16. Rfd1 cxd4 17. Qxd4 Rad8 18. Qa4 Rxd1+ 19. Rxd1 Qe5 20. b4 Bc8
+21. Bc4 a5 22. bxa5 bxa5 23. Rd5 Qa1+ 24. Qd1 Qxd1+ 25. Rxd1 Bg4 26. Rd4 Re8
+27. Bd5 Bf5 28. Ra4 Rc8 29. h3 Rc5 30. Bxe4 Bxe4 31. Rxe4 Kf8 32. Kf1 Rc1+ 33.
+Ke2 Rc2+ 34. Kd3 Rxf2 35. Ra4 Rxg2 36. Rxa5 Rh2 37. Ra8+ Ke7 38. Ra7+ Kf6 39.
+a4 Rxh3 40. a5 Rh1 41. a6 Ra1 42. Ra8 h5 43. a7 h4 44. Rh8 Rxa7 45. Rxh4 Ra3+
+46. Ke2 g5 47. Rb4 Kf5 48. Kf3 g4+ 49. Kf2 Kg5 50. Rb7 f6 51. Rg7+ Kf5 52. Rg8
+Ra4 53. Kg3 Re4 54. Kf2 Ke5 55. Re8+ Kd5 56. Rd8+ Kc6 57. Rf8 Re6 58. Kg3 Rxe3+
+59. Kxg4 Re4+ 60. Kf5 1/2-1/2
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.10"]
+[Round "4"]
+[White "Zpevakova, Katerina"]
+[Black "Sevcikova, Marie"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1100"]
+[BlackElo "1600"]
+[PlyCount "62"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. Nbd2 e6 5. c3 c5 6. e3 Nc6 7. Bb5 a6 8. Bxc6+
+bxc6 9. O-O Be7 10. Qa4 Qb6 11. Ne5 Rc8 12. Ndf3 O-O 13. b3 cxd4 14. cxd4 c5
+15. Bg5 Rfd8 16. Rac1 h6 17. Bxf6 gxf6 18. Nd7 Qa7 19. Nxc5 Bxc5 20. Rxc5 Rxc5
+21. dxc5 Qxc5 22. Qxa6 Rc8 23. h3 Qc3 24. Nd4 Bd3 25. Nb5 Bxf1 26. Kxf1 Qc1+
+27. Ke2 Rc2+ 28. Kf3 Qd2 29. Kg4 Qxf2 30. Kh5 Qf5+ 31. Kxh6 Qg6# 0-1
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.11"]
+[Round "5"]
+[White "Novotna, Kristyna"]
+[Black "Soltysova, Andrea"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[WhiteElo "1441"]
+[BlackElo "1505"]
+[PlyCount "78"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 dxc4 6. Bxc4 e6 7. Nf3 Be7 8.
+O-O O-O 9. Re1 Nbd7 10. d5 exd5 11. Nxd5 Nxd5 12. Bxd5 Nf6 13. Bg5 Nxd5 14.
+Bxe7 Nxe7 15. Qxd8 Rxd8 16. Rxe7 Be6 17. Ng5 Rd7 18. Rxd7 Bxd7 19. Rc1 Bc6 20.
+Rc3 Rd8 21. h4 Rd2 22. Nf3 Rxb2 23. Ne5 Rxa2 24. Nxc6 bxc6 25. Rxc6 g6 26. Rc8+
+Kg7 27. Ra8 a5 28. g3 a4 29. Kg2 a3 30. Kf3 Ra1 31. Ra6 a2 32. Kf4 h6 33. f3
+Kf8 34. g4 Ke7 35. h5 g5+ 36. Kf5 Rf1 37. Rxa2 Rxf3+ 38. Ke5 f6+ 39. Kd5 Rf4
+1/2-1/2
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.12"]
+[Round "6"]
+[White "Janouchova, Marcela"]
+[Black "Novotna, Kristyna"]
+[Result "1-0"]
+[ECO "D53"]
+[WhiteElo "1516"]
+[BlackElo "1441"]
+[PlyCount "53"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Nbd7 5. Bg5 Be7 6. e3 c5 7. dxc5 Nxc5 8.
+cxd5 exd5 9. Bxf6 Bxf6 10. Rc1 Be6 11. Bb5+ Nd7 12. O-O O-O 13. Nxd5 Bxb2 14.
+Rc2 Ba3 15. Nc7 Bf5 16. Nxa8 Bxc2 17. Qxc2 Nf6 18. Nc7 Bd6 19. Rc1 Qe7 20. Bd3
+a6 21. e4 Bf4 22. e5 Bxe5 23. Nxe5 Qxe5 24. Qc3 Qd6 25. Qb3 Rd8 26. Be2 Qd2 27.
+Rd1 1-0
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.12"]
+[Round "6"]
+[White "Palkova, Nikola"]
+[Black "Rosenbaumova, Anna"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1647"]
+[BlackElo "1353"]
+[PlyCount "55"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bf5 4. e3 e6 5. Bb5 a6 6. Ba4 b5 7. Bb3 Nf6 8. Nbd2
+Na5 9. O-O c5 10. c3 c4 11. Bc2 Bxc2 12. Qxc2 Bd6 13. Bxd6 Qxd6 14. h3 Nc6 15.
+e4 e5 16. exd5 Nxd5 17. dxe5 Qe6 18. Nd4 Nxd4 19. cxd4 f6 20. exf6 Qxf6 21.
+Qe4+ Kf8 22. Qxd5 Rd8 23. Qc5+ Kf7 24. Nf3 Rhg8 25. Rfe1 g5 26. Ne5+ Kg7 27.
+Qc7+ Kh6 28. Ng4+ 1-0
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.12"]
+[Round "6"]
+[White "Soltysova, Andrea"]
+[Black "Chura, Petra"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1505"]
+[BlackElo "1250"]
+[PlyCount "77"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nc6 3. c3 e6 4. e3 Bd6 5. Bd3 Nf6 6. Nbd2 O-O 7. O-O Bd7 8. Re1
+Re8 9. e4 e5 10. exd5 Nxd5 11. Nc4 exd4 12. Rxe8+ Qxe8 13. Nxd6 cxd6 14. cxd4
+Bg4 15. Bd2 Nxd4 16. Bxh7+ Kh8 17. Bd3 Bxf3 18. gxf3 Rc8 19. f4 g6 20. Qg4 Nf6
+21. Qh4+ Kg7 22. Qg3 Qc6 23. Bc3 Nf3+ 24. Kf1 Qd5 25. Rd1 Nd4 26. Qg2 Qxg2+ 27.
+Kxg2 Ne6 28. Kg3 Nc7 29. Be4 d5 30. Bd3 Nce8 31. Bb5 Nc7 32. Bf1 Nce8 33. Bg2
+Kg8 34. Bxd5 Rd8 35. Bxf7+ Kxf7 36. Rxd8 Ne4+ 37. Kf3 Ke7 38. Rxe8+ Kxe8 39.
+Kxe4 1-0
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.12"]
+[Round "6"]
+[White "Zpevakova, Katerina"]
+[Black "Urgacsova, Sara"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1100"]
+[BlackElo "1250"]
+[PlyCount "117"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Nf6 4. e3 Bg4 5. Bb5 a6 6. Bxc6+ bxc6 7. Nbd2 e6 8.
+O-O c5 9. h3 Bh5 10. c3 Rb8 11. Rb1 Bg6 12. Ra1 Rxb2 13. Qa4+ Qd7 14. Qxa6 Be7
+15. Qa8+ Bd8 16. Ne5 Qb5 17. Nxg6 hxg6 18. Nf3 O-O 19. Qa3 cxd4 20. cxd4 Qb4
+21. Qxb4 Rxb4 22. Rfb1 Rxb1+ 23. Rxb1 Ne4 24. Rb8 g5 25. Bg3 Nxg3 26. fxg3 c6
+27. a4 f6 28. Rc8 Bb6 29. Rxc6 Ba7 30. Rxe6 Rc8 31. a5 Kf7 32. Ra6 Bb8 33. Ra8
+Ke7 34. a6 Kd7 35. a7 Bxa7 36. Rxa7+ Ke6 37. Rxg7 Kf5 38. h4 Kg4 39. hxg5 Rc1+
+40. Kh2 f5 41. Ne5+ Kh5 42. Rh7+ Kxg5 43. Rd7 Rd1 44. Rxd5 Re1 45. Nc4 Rf1 46.
+g4 Kxg4 47. Re5 Re1 48. d5 Kg5 49. d6 Kf6 50. Re8 f4 51. d7 Rxe3 52. Nxe3 fxe3
+53. d8=Q+ Kf7 54. Qe7+ Kg6 55. Rf8 e2 56. Qxe2 Kg7 57. Rf5 Kg6 58. Qg4+ Kh6 59.
+Rh5# 1-0
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.13"]
+[Round "7"]
+[White "Grussova, Helena"]
+[Black "Palkova, Nikola"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[WhiteElo "1766"]
+[BlackElo "1647"]
+[PlyCount "118"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 dxc4 5. Bxc4 Nf6 6. Nc3 e6 7. Nf3 Be7 8.
+O-O O-O 9. h3 Nbd7 10. Bf4 a6 11. Re1 b5 12. Bb3 Bb7 13. d5 exd5 14. Bxd5 Nxd5
+15. Nxd5 Bxd5 16. Qxd5 Bf6 17. Rad1 Ra7 18. Nh2 Qc8 19. Ng4 Bxb2 20. Re7 Nb6
+21. Qd6 Rxe7 22. Qxe7 Nc4 23. Qg5 Qe6 24. Rd8 Ba3 25. Rxf8+ Bxf8 26. Qd8 Qe7
+27. Qa8 Qe6 28. g3 h5 29. Ne3 Nxe3 30. Bxe3 f6 31. Bc5 Qf7 32. a3 a5 33. Bxf8
+Qxf8 34. Qxa5 Qe8 35. Qd2 Kh8 36. Qc3 Kg8 37. Qb3+ Kh8 38. Kg2 Qe4+ 39. Qf3 Qe8
+40. Qd5 Kh7 41. Kf3 g6 42. Qe4 Qd7 43. h4 Qd1+ 44. Kg2 Qd7 45. Qf3 Kg7 46. Kf1
+Kf7 47. Qb3+ Kg7 48. Ke1 Kf8 49. Ke2 Kg7 50. Qd3 Qe6+ 51. Kd2 Qc6 52. Qc3 Qd5+
+53. Kc2 Qa2+ 54. Qb2 Qc4+ 55. Kd2 Qd5+ 56. Kc1 Qc4+ 57. Qc2 Qd4 58. Kb1 Qd6 59.
+Qb3 Qe5 1/2-1/2
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.13"]
+[Round "7"]
+[White "Prokopova, Jirina"]
+[Black "Tomeckova, Aneta"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "1796"]
+[BlackElo "1633"]
+[PlyCount "47"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. O-O O-O 6. Nbd2 b6 7. e4 dxe4 8.
+Nxe4 Bb7 9. Nxf6+ gxf6 10. Bh6 Re8 11. Ne5 f5 12. Qh5 Bxe5 13. dxe5 Nd7 14.
+Rfe1 f6 15. Re3 Kh8 16. Rg3 Re7 17. Qh4 Rf7 18. Bc4 Qe7 19. Be2 fxe5 20. Bg5
+Qc5 21. Rd1 Rg8 22. Bh5 Rfg7 23. Rxd7 Rxd7 24. Bf6+ 1-0
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.14"]
+[Round "8"]
+[White "Glaserova, Lucie"]
+[Black "Spererova, Katerina"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1452"]
+[BlackElo "1572"]
+[PlyCount "64"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. e3 e6 3. Bd3 Nf6 4. Nd2 Bd6 5. f4 c5 6. c3 O-O 7. Ngf3 Bd7 8. Ne5
+Nc6 9. O-O Ne8 10. Rf3 f6 11. Nxc6 bxc6 12. Rh3 g6 13. Rg3 cxd4 14. cxd4 f5 15.
+Nf3 Nf6 16. Ne5 c5 17. Bd2 cxd4 18. exd4 Qb6 19. Bc3 Bxe5 20. fxe5 Ne4 21. Bxe4
+dxe4 22. Qh5 Rf7 23. Qh6 Raf8 24. Rd1 Bc6 25. a3 f4 26. Rh3 f3 27. gxf3 exf3
+28. Kf2 Qb3 29. Rd2 Bb5 30. Bb4 Rc8 31. Bc5 Qc4 32. Rxf3 Qf1+ 0-1
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.14"]
+[Round "8"]
+[White "Palkova, Nikola"]
+[Black "Sevcikova, Marie"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1647"]
+[BlackElo "1600"]
+[PlyCount "84"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Bf5 3. Bf4 e6 4. e3 Nf6 5. c4 Bxb1 6. Rxb1 Bb4+ 7. Ke2 O-O 8.
+Qb3 Bd6 9. Bxd6 Qxd6 10. cxd5 exd5 11. Qxb7 Nbd7 12. Qb3 c5 13. g3 cxd4 14.
+Nxd4 Nc5 15. Qa3 a5 16. Bg2 Ng4 17. h3 Qa6+ 18. Kd2 Nxf2 19. Rhg1 Nfe4+ 20.
+Bxe4 Nxe4+ 21. Ke1 a4 22. g4 Qa5+ 23. b4 axb3+ 24. Qxa5 Rxa5 25. axb3 Rfa8 26.
+Rg2 Kf8 27. b4 Ra1 28. Rgb2 Nc3 29. Rxa1 Rxa1+ 30. Kd2 Ne4+ 31. Kd3 Rd1+ 32.
+Ke2 Rh1 33. Kd3 Rxh3 34. b5 Nc5+ 35. Kd2 Rh2+ 36. Ne2 Ke8 37. b6 Nb7 38. g5 Kd7
+39. Rc2 Kd6 40. Rc7 Na5 41. Rxf7 Nc4+ 42. Kd3 Ne5+ 0-1
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.14"]
+[Round "8"]
+[White "Soltysova, Andrea"]
+[Black "Grussova, Helena"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1505"]
+[BlackElo "1766"]
+[PlyCount "56"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c3 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nbd2 O-O 6. e3 Nc6 7. Bd3 h6 8. Bf4
+Bd6 9. Bxd6 cxd6 10. O-O e5 11. e4 dxe4 12. Nxe4 Nxe4 13. Bxe4 d5 14. Bc2 e4
+15. Ne5 f5 16. f4 Be6 17. Re1 Nxe5 18. dxe5 Qb6+ 19. Qd4 Qxb2 20. Bb3 Rfd8 21.
+Qb4 Rd7 22. Rab1 Qd2 23. Rbd1 Qxf4 24. Qd4 Qg5 25. Kh1 f4 26. Rf1 Kh8 27. Rde1
+b6 28. Qa4 Qxe5 0-1
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.14"]
+[Round "8"]
+[White "Zpevakova, Katerina"]
+[Black "Chura, Petra"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1100"]
+[BlackElo "1250"]
+[PlyCount "43"]
+[EventDate "2008.03.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 e6 3. c3 Nf6 4. Bf4 Be7 5. Nbd2 Nc6 6. e3 O-O 7. Bd3 Bd7 8. O-O
+a6 9. Qc2 g6 10. Bh6 Re8 11. h3 Bf8 12. Bg5 e5 13. e4 exd4 14. exd5 Ne5 15.
+Rfe1 Nxf3+ 16. Nxf3 Be7 17. Nxd4 Nxd5 18. Bxe7 Rxe7 19. Qb3 Nb6 20. Qb4 Rxe1+
+21. Rxe1 Qg5 22. Re3 1/2-1/2
+
+[Event "CZE-ch U16 Girls"]
+[Site "Sec u Chrudimi"]
+[Date "2008.03.15"]
+[Round "9"]
+[White "Glaserova, Lucie"]
+[Black "Novotna, Kristyna"]

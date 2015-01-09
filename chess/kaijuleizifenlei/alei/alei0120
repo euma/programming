@@ -1,0 +1,600 @@
+[Site "Sweden"]
+[Date "2008.02.02"]
+[Round "7"]
+[White "Svenn, Gosta"]
+[Black "Gausel, Einar"]
+[Result "0-1"]
+[ECO "A56"]
+[WhiteElo "2358"]
+[BlackElo "2577"]
+[PlyCount "144"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Kamraterna"]
+[BlackTeam "Skara"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Nf3 Nbd7 7. Be2 O-O 8. O-O
+Ne8 9. a3 Kh8 10. b4 g6 11. Ne1 f5 12. Nd3 b6 13. a4 fxe4 14. Nxe4 Ndf6 15. Bf3
+Bf5 16. Re1 Qc8 17. Bh6 Ng7 18. Qb3 Rb8 19. Qc3 Nxe4 20. Bxe4 Bf6 21. a5 Rf7
+22. axb6 axb6 23. f3 Nh5 24. Qd2 Nf4 25. Bxf5 Qxf5 26. Bxf4 exf4 27. Rab1 Bd4+
+28. Kf1 cxb4 29. Re4 Be3 30. Qxb4 Rd8 31. Rd1 Kg8 32. Qb2 Rc7 33. Qa2 Rdc8 34.
+g4 Qf6 35. Qb2 Qxb2 36. Nxb2 b5 37. Rd3 Bc1 38. Re2 Bxb2 39. Rxb2 bxc4 40. Rd4
+c3 41. Rc2 g5 42. h4 h6 43. Rd3 Rc5 44. Kf2 Kf7 45. Kf1 R8c7 46. Kf2 Ke8 47.
+Ke1 gxh4 48. Kf2 Kf7 49. Kg2 Kg6 50. Kh2 h5 51. gxh5+ Kxh5 52. Kg2 Kg5 53. Kh2
+Kf5 54. Kh3 Re7 55. Rcxc3 Rxc3 56. Rxc3 Re3 57. Rc1 Rxf3+ 58. Kxh4 Rd3 59. Rc8
+Ke4 60. Rf8 Rxd5 61. Kg4 Ke3 62. Re8+ Re5 63. Ra8 d5 64. Ra4 Re4 65. Ra3+ Kd2
+66. Ra5 d4 67. Kf3 Re8 68. Kxf4 d3 69. Kf3 Kd1 70. Kf2 d2 71. Ra7 Rf8+ 72. Kg2
+Rd8 0-1
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.02"]
+[Round "7"]
+[White "Moberg, Karl Johan"]
+[Black "Eklund, Joel"]
+[Result "1-0"]
+[ECO "A70"]
+[WhiteElo "2305"]
+[BlackElo "2249"]
+[PlyCount "79"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Manhem"]
+[BlackTeam "Limhamn"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Bf4 Bg7 8. Qa4+
+Bd7 9. Qb3 Qc7 10. e4 O-O 11. Nd2 Nh5 12. Be3 Na6 13. Be2 Rab8 14. O-O b5 15.
+Nxb5 Bxb5 16. Bxb5 Qe7 17. Qa4 Nc7 18. Bc6 Rb4 19. Qd1 Rxb2 20. Nc4 Rbb8 21.
+Rb1 a6 22. Rxb8 Rxb8 23. a4 Qxe4 24. Nxd6 Qb4 25. Qc2 Be5 26. Bxc5 Qh4 27. g3
+Qh3 28. Nc4 Bf6 29. Bd6 Rc8 30. Bb7 Ne8 31. Bxc8 Qxc8 32. Qd3 Qg4 33. Bb8 Bd4
+34. Ne3 Bxe3 35. Qxe3 Qxa4 36. Re1 Nef6 37. d6 Kg7 38. Ba7 Qc6 39. Qe5 Qd7 40.
+Bd4 1-0
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.02"]
+[Round "7"]
+[White "Agrest, Evgenij"]
+[Black "Bergstrom, Christer"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "2668"]
+[BlackElo "2333"]
+[PlyCount "69"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Sollentuna"]
+[BlackTeam "Solna"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 d5 5. Nc3 Nf6 6. cxd5 Nxd5 7. Nxc6 bxc6
+8. Bd2 Nxc3 9. Bxc3 Qxd1+ 10. Rxd1 Be6 11. b3 Bd5 12. f3 f5 13. e3 a5 14. Bd3
+a4 15. e4 fxe4 16. fxe4 Be6 17. Bc4 Bxc4 18. bxc4 e6 19. Ke2 Bc5 20. Rhf1 Rf8
+21. Rxf8+ Bxf8 22. Rb1 Ra7 23. Bd4 Rd7 24. Be3 Bd6 25. h3 Rd8 26. Bd4 Bf8 27.
+Bc3 Kd7 28. Rb7+ Kd6 29. Ra7 Kc5 30. Rxa4 Rb8 31. Kd3 Rd8+ 32. Ke3 Rb8 33. Bd4+
+Kd6 34. Kf4 Rd8 35. Ra7 1-0
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.02"]
+[Round "7"]
+[White "Bergstrom, Magnus"]
+[Black "Lindberg, Bosse"]
+[Result "1/2-1/2"]
+[ECO "A35"]
+[WhiteElo "2206"]
+[BlackElo "2478"]
+[PlyCount "105"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Solna"]
+[BlackTeam "Sollentuna"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Nxc6 bxc6 7. Qd3 Nf6 8.
+e4 O-O 9. Be2 d6 10. O-O Rb8 11. Rb1 d5 12. cxd5 cxd5 13. Be3 Qa5 14. Nxd5 Nxd5
+15. Qxd5 Qxd5 16. exd5 Bf5 17. Rbc1 Rxb2 18. Bc4 a5 19. Bb3 Ra8 20. Rc7 a4 21.
+Bc4 Be5 22. Rxe7 Bd6 23. Ra7 Rxa7 24. Bxa7 Rc2 25. Bb5 Rxa2 26. Bd4 Bb4 27. g4
+Bxg4 28. Rb1 Bd6 29. Re1 f6 30. Re8+ Kf7 31. Ra8 Bh3 32. Ra7+ Kg8 33. Ra8+ Kg7
+34. Ra7+ Kh6 35. Rxa4 Rxa4 36. Bxa4 Kg5 37. f3 Bc8 38. Bb3 Ba6 39. Kg2 Bd3 40.
+Ba2 h5 41. h4+ Kf5 42. Bb3 g5 43. hxg5 fxg5 44. Ba4 Be5 45. Be3 h4 46. Bd7+ Kf6
+47. Be6 Bg3 48. Bd2 Bc4 49. Bc3+ Be5 50. Bd2 Bf4 51. Bc3+ Be5 52. Bd2 Bf4 53.
+Bc3+ 1/2-1/2
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.02"]
+[Round "7"]
+[White "Collett, Peter"]
+[Black "Hedman, Erik"]
+[Result "1/2-1/2"]
+[ECO "A67"]
+[WhiteElo "2262"]
+[BlackElo "2435"]
+[PlyCount "101"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Wasa"]
+[BlackTeam "Stockholm Rockaden"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 Qh4+ 10. g3 Qd8 11. Nf3 O-O 12. O-O a6 13. Bd3 Nf6 14. Re1 Bg4 15.
+Bf1 Nbd7 16. h3 Bxf3 17. Qxf3 Ne8 18. Be3 Rb8 19. Rad1 Qa5 20. Bc1 b5 21. axb5
+axb5 22. g4 c4 23. Kh1 b4 24. Ne2 g5 25. Nd4 gxf4 26. Bxf4 Qa2 27. Qe2 c3 28.
+bxc3 Qxe2 29. Rxe2 bxc3 30. Rc2 Rb2 31. Rxc3 Bxd4 32. Rxd4 Rf2 33. Bb5 Ne5 34.
+Bg3 Rb2 35. Bc6 f6 36. Ra4 Ng7 37. Ra8 h5 38. Rxf8+ Kxf8 39. Bxe5 fxe5 40. Bd7
+Re2 41. Rc4 Ke7 42. Bc8 Kf6 43. h4 hxg4 44. Bxg4 Rf2 45. Rc6 Ke7 46. Rc7+ Kf6
+47. Rd7 Rf4 48. Rxd6+ Kf7 49. Rd7+ Kf6 50. Rd6+ Kf7 51. Rd7+ 1/2-1/2
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.02"]
+[Round "7"]
+[White "Nordstrom, Felix"]
+[Black "Zadruzny, Nikolaj"]
+[Result "0-1"]
+[ECO "A90"]
+[WhiteElo "2215"]
+[BlackElo "2306"]
+[PlyCount "80"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Wasa"]
+[BlackTeam "Stockholm Rockaden"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 d5 5. O-O Bd6 6. c4 c6 7. b3 Qe7 8. Bb2 O-O
+9. Qc2 b6 10. Ne5 Bb7 11. Nd2 Nbd7 12. Ndf3 Rac8 13. Rac1 c5 14. e3 cxd4 15.
+exd4 dxc4 16. bxc4 Bxe5 17. dxe5 Ne4 18. Qe2 Ndc5 19. Nd4 Ng5 20. Nb5 f4 21. f3
+Rcd8 22. Bd4 Nf7 23. Rcd1 a6 24. Nc3 Qg5 25. g4 h5 26. gxh5 Nh6 27. Bf2 Qxh5
+28. Rd6 Rxd6 29. exd6 Rd8 30. Rd1 Nf7 31. Rd4 e5 32. Rd2 Rxd6 33. Nd5 Bxd5 34.
+cxd5 Rg6 35. Kh1 Qg5 36. Bxc5 bxc5 37. d6 Nxd6 38. Qxa6 Nf5 39. Qc8+ Kh7 40.
+Qxc5 Ne3 0-1
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.02"]
+[Round "7"]
+[White "Akesson, Ralf"]
+[Black "Johansson, Jan"]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2537"]
+[BlackElo "2489"]
+[PlyCount "89"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Vasteras"]
+[BlackTeam "Upsala"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 b6 5. Bg2 Bb7 6. O-O O-O 7. d3 d5 8. cxd5
+exd5 9. a3 Bxc3 10. bxc3 c5 11. Bg5 Nbd7 12. a4 Re8 13. Re1 h6 14. Bxf6 Qxf6
+15. d4 Re7 16. e3 Bc6 17. Nd2 Qd6 18. Qb3 Rae8 19. Red1 h5 20. dxc5 Nxc5 21.
+Qb4 Qf6 22. Qd4 Qg6 23. a5 Bd7 24. axb6 axb6 25. Bxd5 Bg4 26. Rdb1 Rd7 27. c4
+h4 28. Rb2 hxg3 29. hxg3 Bf5 30. Rba2 Qh5 31. Ra8 Rxa8 32. Rxa8+ Kh7 33. Nf3
+Ne6 34. Qh4 Qxh4 35. Nxh4 Bd3 36. Nf3 Rc7 37. Ne5 Be2 38. Nxf7 Nc5 39. Rh8+ Kg6
+40. Ne5+ Kf6 41. f4 Nd3 42. Nxd3 Bxd3 43. Rb8 Bxc4 44. Rxb6+ Kf5 45. Bf3 1-0
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.02"]
+[Round "7"]
+[White "Eriksson, Anders"]
+[Black "Glimbrant, Torbjorn"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2389"]
+[BlackElo "2313"]
+[PlyCount "38"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Vasteras"]
+[BlackTeam "Upsala"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d5 6. Nbd2 c5 7. e4 Nc6 8. Re1
+e6 9. c3 b6 10. e5 Nd7 11. d4 a5 12. Nf1 Ba6 13. Bg5 Qc7 14. Qd2 Rfc8 15. h4 b5
+16. h5 b4 17. hxg6 hxg6 18. Ne3 a4 19. a3 bxc3 1/2-1/2
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.02"]
+[Round "7"]
+[White "Norberg, Erik"]
+[Black "Jansson, Borje"]
+[Result "1/2-1/2"]
+[ECO "A21"]
+[WhiteElo "2281"]
+[BlackElo "2297"]
+[PlyCount "88"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Vasteras"]
+[BlackTeam "Upsala"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. c4 e5 2. Nc3 d6 3. g3 Be6 4. d3 c6 5. Bg2 Nf6 6. Nf3 h6 7. O-O Nbd7 8. e4
+Be7 9. Nh4 Nh7 10. Nf5 Bxf5 11. exf5 O-O 12. f4 Qb6+ 13. Kh1 Rfe8 14. g4 exf4
+15. Rb1 Bg5 16. Bxf4 Qd4 17. Bg3 Nc5 18. Qc2 Nf6 19. h3 Qxd3 20. Qxd3 Nxd3 21.
+Bxd6 Rad8 22. c5 Be3 23. b4 Bd4 24. Rb3 Ne1 25. a4 Nxg2 26. Kxg2 Re3 27. Rf3
+Rde8 28. Bf4 Rxc3 29. Rbxc3 Bxc3 30. Rxc3 Nd5 31. Rc4 Re2+ 32. Kf3 Rb2 33. Bb8
+Rb3+ 34. Kf2 Rxb4 35. Rxb4 Nxb4 36. Bxa7 Kf8 37. Ke3 Ke7 38. Bb8 Nd5+ 39. Kd4
+g6 40. fxg6 fxg6 41. Ke5 Ne3 42. Bd6+ Kf7 43. Kd4 Nd5 44. Ke5 Ne3 1/2-1/2
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Eklund, Joel"]
+[Black "Tallinger, Thomas"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "2249"]
+[BlackElo "2203"]
+[PlyCount "97"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Limhamn"]
+[BlackTeam "Astorp"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 e6 2. Nf3 Nf6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 Be7 6. O-O d6 7. b3 c5 8. Bb2
+Nc6 9. a3 O-O 10. Qe2 cxd4 11. exd4 Rc8 12. c4 Re8 13. Rac1 d5 14. Rfe1 Nd7 15.
+Rcd1 Na5 16. Ne5 Nxe5 17. dxe5 Bg5 18. cxd5 Bxd2 19. dxe6 fxe6 20. Rxd2 Qg5 21.
+f4 Qxf4 22. Rf1 Qg5 23. b4 Nb3 24. Rc2 Rxc2 25. Bxc2 Nd2 26. Bc1 Rd8 27. Rf2
+Nf3+ 28. Rxf3 Qxc1+ 29. Rf1 Qg5 30. Be4 Rd2 31. Qf3 Rxg2+ 32. Qxg2 Qe3+ 33. Qf2
+Qxf2+ 34. Rxf2 Bxe4 35. Rd2 Bd5 36. Rc2 a6 37. Rc7 h6 38. Ra7 Bc4 39. Rb7 b5
+40. Rb6 Kf7 41. Rxa6 Kg6 42. Rc6 Kf5 43. a4 Kxe5 44. a5 Bd5 45. Rc5 Kd6 46. a6
+Bc6 47. a7 Bb7 48. Rc8 Kd5 49. Rb8 1-0
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Hector, Jonny"]
+[Black "Johansson, Mikael"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2620"]
+[BlackElo "2369"]
+[PlyCount "90"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Limhamn"]
+[BlackTeam "Astorp"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Ne4 Qd5 5. d3 Nc6 6. f4 Nf6 7. Nxf6+ exf6
+8. Be3 Bb4+ 9. c3 O-O 10. Qf3 Qd6 11. Be2 Re8 12. Kf1 Bg4 13. Qxg4 Rxe3 14. Nf3
+Rae8 15. Re1 Qe7 16. Nh4 h5 17. Qxh5 g6 18. Qg4 Kf8 19. f5 g5 20. g3 Nd4 21.
+cxb4 Nxe2 22. Ng2 Re5 23. h4 Qd7 24. Rxe2 Qxd3 25. hxg5 Qd1+ 26. Ne1 Qxe2+ 27.
+Qxe2 Rxe2 28. Nf3 Kg7 29. gxf6+ Kxf6 30. g4 Rxb2 31. Rh6+ Kg7 32. g5 Ree2 33.
+f6+ Kg8 34. g6 Rf2+ 35. Ke1 fxg6 36. Rxg6+ Kf7 37. Ne5+ Ke6 38. Nd3 Rbe2+ 39.
+Kd1 Rd2+ 40. Ke1 Rh2 41. f7+ Kxf7 42. Ne5+ Ke7 43. Nf3 Rhe2+ 44. Kf1 Rxa2 45.
+Ne1 Re6 0-1
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Penalver, Osmani"]
+[Black "Helmertz, Per Inge"]
+[Result "0-1"]
+[ECO "A60"]
+[WhiteElo "2280"]
+[BlackElo "2290"]
+[PlyCount "80"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Limhamn"]
+[BlackTeam "Astorp"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Bg5 Be7 7. Nf3 a6 8. a4
+Bg4 9. Qb3 Bxf3 10. gxf3 Nbd7 11. Rg1 O-O 12. Bh3 Re8 13. Kf1 Ne5 14. Bf4 Bf8
+15. Bg5 Be7 16. Rd1 Nh5 17. Bc1 Rb8 18. f4 Ng6 19. f5 Ne5 20. f4 Nd7 21. e4 b5
+22. axb5 axb5 23. Ne2 Bf8 24. Qf3 Nhf6 25. Ng3 Ra8 26. Rg2 Ra1 27. Re2 c4 28.
+Rde1 Nc5 29. Bd2 Rxe1+ 30. Bxe1 Nd3 31. Bc3 Nd7 32. Nh5 f6 33. Qg4 Kh8 34. Rg2
+Qe7 35. Re2 Rc8 36. Qh4 b4 37. Bd4 c3 38. bxc3 bxc3 39. Rc2 Qxe4 40. Rxc3 Rb8
+0-1
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Schneider, Stefan"]
+[Black "Ivarsson, Stefan"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2453"]
+[BlackElo "2311"]
+[PlyCount "65"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Limhamn"]
+[BlackTeam "Astorp"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nh3 Bg7 5. Nf4 O-O 6. h4 Qe8 7. h5 g5 8. h6 Bh8
+9. Nd3 g4 10. Nc3 d6 11. d5 c6 12. Bg5 Na6 13. Nf4 Nc7 14. Qd3 Bd7 15. O-O-O
+Qf7 16. Kb1 Rac8 17. Qd2 c5 18. e4 b5 19. exf5 Bxf5 20. Rhe1 b4 21. Ne4 Nxe4
+22. Bxe4 Bxe4 23. Rxe4 Qf5 24. Qe2 Qxg5 25. Ne6 Nxe6 26. Rxg4 Bf6 27. Qxe6+ Kh8
+28. Rxg5 Bxg5 29. f4 Bf6 30. g4 Rc7 31. g5 Bd4 32. f5 Be5 33. g6 1-0
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Sjodahl, Pontus"]
+[Black "Jepson, Christian"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "2487"]
+[BlackElo "2438"]
+[PlyCount "69"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Astorp"]
+[BlackTeam "Limhamn"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. a4 O-O 8. Bc4 Bb7
+9. Nge2 e6 10. Rb1 axb5 11. axb5 exd5 12. Nxd5 d6 13. O-O Nbd7 14. b3 Nb6 15.
+Nxb6 Qxb6 16. b4 Be4 17. bxc5 dxc5 18. Rb2 Ng4 19. Ng3 Ne5 20. Nxe4 Nxc4 21.
+Rc2 Ne5 22. Rxc5 Ra1 23. Qb3 Qb8 24. h3 Re8 25. Rd5 Rc8 26. Bb2 Rxf1+ 27. Kxf1
+h6 28. Bxe5 Bxe5 29. Rd7 Rf8 30. Qd5 Bc7 31. g3 Qa7 32. Nf6+ Kg7 33. Ne8+ Kh7
+34. Nxc7 Qa1+ 35. Kg2 1-0
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Semcesen, Daniel"]
+[Black "Hamark, Jesper"]
+[Result "1/2-1/2"]
+[ECO "A32"]
+[WhiteElo "2413"]
+[BlackElo "2380"]
+[PlyCount "108"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Lund"]
+[BlackTeam "Kamraterna"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 e6 2. Nf3 c5 3. g3 cxd4 4. Nxd4 Nf6 5. Bg2 a6 6. c4 Qc7 7. b3 Bb4+ 8. Bd2
+Bc5 9. Bc3 Nc6 10. O-O d6 11. e3 e5 12. Nxc6 bxc6 13. Nd2 a5 14. a3 Bg4 15. Qc2
+O-O 16. b4 axb4 17. axb4 Bb6 18. Nb3 Rxa1 19. Rxa1 Nd7 20. Bb2 Be6 21. c5 dxc5
+22. Nxc5 Bxc5 23. bxc5 Bd5 24. Bh3 Nf6 25. Qc3 Re8 26. Qa5 Qxa5 27. Rxa5 h5 28.
+Bf5 g6 29. Bc2 Ne4 30. f3 Nd2 31. e4 Be6 32. Bc3 Nxf3+ 33. Kg2 Nd4 34. Ba4 Rc8
+35. Ra6 Bd7 36. Kf2 Ne6 37. Ra7 Nxc5 38. Bc2 Be8 39. Bxe5 Ne6 40. Ke3 Ng5 41.
+Bd3 Ne6 42. Bc4 Nf8 43. Bd6 Rd8 44. e5 Rc8 45. h3 Rd8 46. g4 hxg4 47. hxg4 Ne6
+48. Ra1 Bd7 49. Rd1 Bc8 50. Rf1 Re8 51. Rc1 Nd8 52. Be2 Be6 53. Bf3 Kg7 54. Rh1
+Bd5 1/2-1/2
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Schneider, Lars Ake"]
+[Black "Friberg, Hans"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2336"]
+[BlackElo "2285"]
+[PlyCount "41"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Manhem"]
+[BlackTeam "Skara"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e6 5. d4 Ne7 6. c4 O-O 7. Qc2 b6 8. Rd1
+Bb7 9. cxd5 exd5 10. Bf4 Na6 11. Nc3 c6 12. Rac1 Nc7 13. e4 Ne6 14. Be3 dxe4
+15. Qxe4 Nd5 16. Ne5 Nxe3 17. Qxe3 Rc8 18. Ne2 Bxe5 19. dxe5 Qe7 20. Nc3 Rcd8
+21. Ne4 1/2-1/2
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Agrest, Evgenij"]
+[Black "Johansson, Jan"]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[WhiteElo "2668"]
+[BlackElo "2489"]
+[PlyCount "77"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Sollentuna"]
+[BlackTeam "Upsala"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. a3 Bxc3 6. Qxc3 O-O 7. b4 b6 8. Bb2
+d6 9. e3 e5 10. Be2 Nbd7 11. O-O Bb7 12. d4 exd4 13. exd4 Re8 14. Rfe1 Nf8 15.
+d5 Ng6 16. Bf1 Qd7 17. bxc5 bxc5 18. g3 Qf5 19. Nd2 Rxe1 20. Rxe1 Re8 21. Rxe8+
+Nxe8 22. Bd3 Qh5 23. Bc2 Bc8 24. Qe3 Bd7 25. f3 Kf8 26. Nf1 Ne7 27. g4 Qh3 28.
+Ng3 Qh4 29. Bc3 f5 30. Bd1 Nf6 31. Qf4 Ne8 32. Qe3 Nf6 33. Qf4 Ne8 34. Qd2 Kg8
+35. Qe2 Kf8 36. Qd2 Nf6 37. Qf4 Ne8 38. Qd2 Nf6 39. Qf4 1/2-1/2
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Bergstrom, Christer"]
+[Black "Astrom, Goran"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2333"]
+[BlackElo "2266"]
+[PlyCount "85"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Solna"]
+[BlackTeam "Wasa"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 Ne4 8. Nxe4
+Bxe4 9. d3 Bb7 10. e4 d6 11. d4 cxd4 12. Nxd4 O-O 13. b3 Nd7 14. Bb2 a6 15. Qe2
+Qc7 16. Rad1 Rfe8 17. Kh1 Rad8 18. f4 Bf8 19. Nf3 Qb8 20. Rf1 b5 21. cxb5 axb5
+22. Ng5 h6 23. Nf3 b4 24. g4 Nc5 25. g5 Nxe4 26. gxh6 gxh6 27. Ne5 dxe5 28.
+Bxe4 Bg7 29. Rxd8 Rxd8 30. Rg1 Qa8 31. Bxb7 Qxb7+ 32. Rg2 f6 33. fxe5 f5 34. h3
+Qd5 35. Kh2 Kh8 36. Qe3 Rd7 37. Re2 Kh7 38. Rg2 Bh8 39. Qf4 Bg7 40. Qg3 Kh8 41.
+Qf4 Kh7 42. Qg3 Kh8 43. Qf4 1/2-1/2
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Eriksson, Johan"]
+[Black "Barkhagen, Jonas"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "2445"]
+[BlackElo "2549"]
+[PlyCount "58"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Vasteras"]
+[BlackTeam "Stockholm Rockaden"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg2 Bb7 5. O-O c5 6. Na3 b4 7. Nc4 cxd4 8. Qxd4
+d5 9. Nce5 Be7 10. a3 bxa3 11. bxa3 O-O 12. Rb1 Qc8 13. c4 Na6 14. cxd5 Bxd5
+15. Bg5 Bc5 16. Qh4 Ne4 17. Be7 Bxe7 18. Qxe7 f6 19. Rfc1 Nc3 20. e4 Bxe4 21.
+Nd4 fxe5 22. Bxe4 Rf7 23. Qh4 g6 24. Bxa8 exd4 25. Qg4 Qxa8 26. Qxe6 Nc5 27.
+Qe5 Nd7 28. Qd6 Ne2+ 29. Kf1 Nxc1 0-1
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]
+[White "Nilsson, Andre"]
+[Black "Engqvist, Thomas"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "2323"]
+[BlackElo "2427"]
+[PlyCount "77"]
+[EventDate "2007.10.19"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Vasteras"]
+[BlackTeam "Stockholm Rockaden"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. g3 d5 2. Bg2 c6 3. Nf3 Nf6 4. O-O Bg4 5. d3 Nbd7 6. c4 e6 7. Nc3 Bxf3 8.
+exf3 Be7 9. b3 O-O 10. Qc2 Ne8 11. Bb2 Nd6 12. f4 a5 13. Ne2 a4 14. c5 Nf5 15.
+b4 a3 16. Bc3 Bf6 17. d4 Nb8 18. Rab1 Na6 19. b5 Nc7 20. b6 Nb5 21. Rb4 Nxc3
+22. Qxc3 Ra5 23. Rfb1 Qa8 24. Bh3 Ra4 25. Qc2 Rxb4 26. Rxb4 Qa5 27. Qb3 Ra8 28.
+Bxf5 exf5 29. Nc3 Ra6 30. Kg2 g6 31. Nxd5 cxd5 32. c6 Rxb6 33. Rxb6 bxc6 34.
+Qb4 Qxb4 35. Rxb4 Kf8 36. Kf3 Ke7 37. Rb7+ Ke6 38. Ke3 h5 39. Rc7 1-0
+
+[Event "SWE-chT 0708"]
+[Site "Sweden"]
+[Date "2008.02.23"]
+[Round "8"]

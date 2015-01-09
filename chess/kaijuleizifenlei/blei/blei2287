@@ -1,0 +1,600 @@
+[Site "Cesenatico"]
+[Date "2008.08.30"]
+[Round "1"]
+[White "Rausis, Igors"]
+[Black "Green, Andrew"]
+[Result "1-0"]
+[ECO "B70"]
+[WhiteElo "2486"]
+[BlackElo "2038"]
+[PlyCount "77"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 g6 2. e4 c5 3. d4 cxd4 4. Nxd4 Nc6 5. Nb3 Bg7 6. Be2 Nf6 7. Nc3 O-O 8.
+O-O d6 9. Re1 Be6 10. Bf1 a5 11. a4 Bxb3 12. cxb3 Nb4 13. Nd5 Nd7 14. Bg5 Re8
+15. Qd2 Nc6 16. Rad1 Nc5 17. Bc4 Nd4 18. Be3 Nxe4 19. Qc1 e5 20. Bxd4 exd4 21.
+Qf4 Nf6 22. Rxe8+ Nxe8 23. Nb6 d5 24. Bxd5 Nf6 25. Bxf7+ Kxf7 26. Nxa8 Qxa8 27.
+Qc7+ Kf8 28. Rxd4 Ne8 29. Rd8 Qa6 30. Rxe8+ Kxe8 31. Qxg7 Qd3 32. Qg8+ Ke7 33.
+Qxh7+ Kf6 34. Qh4+ Kg7 35. Qe7+ Kg8 36. Qe6+ Kg7 37. Qe5+ Kf7 38. Qc7+ Kf8 39.
+Qb8+ 1-0
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.08.30"]
+[Round "1"]
+[White "Stokes, Ivan"]
+[Black "Meijers, Viesturs"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2047"]
+[BlackElo "2496"]
+[PlyCount "68"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 b5 6. Bd3 Bb7 7. a4 b4 8. Na2
+Qc7 9. c3 Nf6 10. Qe2 e5 11. Nb3 a5 12. Bd2 Nc6 13. O-O Be7 14. Qe1 Qd6 15. Bc4
+O-O 16. Rd1 Qb8 17. Bg5 Rd8 18. Bxf6 Bxf6 19. Nc5 Bc8 20. Qd2 Qc7 21. Bd5 Rb8
+22. cxb4 axb4 23. Nb3 Ne7 24. Rc1 Qa7 25. Rc5 Nxd5 26. Ra5 Ba6 27. exd5 Qb6 28.
+Rc1 h6 29. Qe3 Bg5 30. Qxb6 Rxb6 31. Rc7 Bd3 32. Nc5 Bb1 33. Nxd7 Rd6 34. Nxb4
+R6xd7 0-1
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.08.31"]
+[Round "2"]
+[White "Klocker, Daniel"]
+[Black "Vuelban, Virgilio"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2075"]
+[BlackElo "2263"]
+[PlyCount "56"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. f3 dxc5 6. Qxd8+ Kxd8 7. Be3 b6 8.
+a4 e6 9. Na3 Bd6 10. Nh3 Ke7 11. Be2 h6 12. O-O g5 13. Nf2 Bb7 14. Nc4 Bc7 15.
+a5 Ne5 16. axb6 axb6 17. b4 Nfd7 18. Rfc1 f5 19. exf5 exf5 20. Nxe5 Bxe5 21.
+Bb5 g4 22. Nd3 gxf3 23. Bxd7 Rxa1 24. Rxa1 Bxc3 25. Ra7 Kxd7 26. Rxb7+ Kc6 27.
+Re7 cxb4 28. Kf1 b3 0-1
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.08.31"]
+[Round "2"]
+[White "Ori, Marco"]
+[Black "Roeder, Mathias"]
+[Result "0-1"]
+[ECO "B52"]
+[WhiteElo "2138"]
+[BlackElo "2451"]
+[PlyCount "114"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 d5 7. exd5 Qxd5
+8. d4 e6 9. Be3 cxd4 10. Nxd4 Nxd4 11. Bxd4 Ne7 12. Qb3 Qc6 13. Nd2 Nf5 14. Nf3
+Bd6 15. Be5 Bc5 16. Rad1 O-O 17. Nd4 Bxd4 18. Bxd4 b6 19. Rd3 Rfd8 20. Rfd1 Rd7
+21. Be3 Rad8 22. Rxd7 Rxd7 23. Bf4 Nh4 24. f3 Qc5+ 25. Kf1 Rxd1+ 26. Qxd1 Qc4+
+27. Kg1 f6 28. Qd8+ Kf7 29. Qc7+ Qxc7 30. Bxc7 b5 31. Kf2 e5 32. g3 Ng6 33. Ke3
+Ke6 34. Kd3 Kd5 35. Bb8 a6 36. b3 Ne7 37. Ba7 Nc6 38. Bb6 f5 39. c4+ bxc4+ 40.
+bxc4+ Ke6 41. a3 g5 42. h3 h5 43. g4 hxg4 44. hxg4 e4+ 45. fxe4 Ne5+ 46. Kd4 f4
+47. c5 Nxg4 48. c6 f3 49. c7 Kd7 50. Kd3 Ne5+ 51. Kc3 g4 52. Bf2 Kxc7 53. Bg3
+Kd6 54. Kd4 Ke6 55. a4 Ng6 56. Kc5 Nf4 57. Kc4 Ne2 0-1
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.08.31"]
+[Round "2"]
+[White "Rotoni, Matteo"]
+[Black "Schaufelberger, Heinz"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2089"]
+[BlackElo "2307"]
+[PlyCount "35"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 e6 8. O-O
+Be7 9. Qe2 O-O 10. Qe4 Qc7 11. Re1 Bd7 12. Bg5 dxe5 13. dxe5 Nxe5 14. Qxe5 Qxc4
+15. Bxe7 Nxe7 16. Qd6 Nd5 17. Qxd7 Rfd8 18. Qxf7+ 1-0
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Facchetti, Gianni"]
+[Black "Borsos, Bogdan"]
+[Result "0-1"]
+[ECO "B03"]
+[WhiteElo "2135"]
+[BlackElo "2377"]
+[PlyCount "66"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. exd6 exd6 5. Be2 Be7 6. Nf3 O-O 7. O-O Bg4 8.
+c4 Nf6 9. Nc3 d5 10. c5 Re8 11. Bf4 c6 12. Ne5 Bxe2 13. Nxe2 Nbd7 14. Nxd7 Qxd7
+15. Ng3 Bf8 16. f3 b6 17. b4 a5 18. a3 axb4 19. axb4 bxc5 20. bxc5 Rxa1 21.
+Qxa1 g6 22. Re1 Bg7 23. Be5 h5 24. h4 Re6 25. Re2 Qe7 26. Qe1 Ne8 27. Bxg7 Nxg7
+28. Rxe6 Nxe6 29. Qe5 Qxh4 30. Ne2 Qe1+ 31. Kh2 Ng7 32. f4 Qf2 33. Kh1 h4 0-1
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Mrdja, Milan"]
+[Black "Kanina, Adriatik"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "2409"]
+[BlackElo "2128"]
+[PlyCount "85"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bg7 6. Be3 Nf6 7. Nxc6 bxc6 8.
+e5 Ng8 9. f4 Nh6 10. Qd2 O-O 11. O-O-O d6 12. exd6 exd6 13. h3 Nf5 14. Bf2 Qa5
+15. Bc4 Qb4 16. Bb3 Bxc3 17. Qxc3 Qxc3 18. bxc3 Rd8 19. g4 Ng7 20. Bh4 Rd7 21.
+Rhe1 a5 22. a4 d5 23. c4 Bb7 24. cxd5 cxd5 25. Re7 Rad8 26. Re5 Re8 27. Rxe8+
+Nxe8 28. Be1 Nc7 29. f5 gxf5 30. gxf5 Na6 31. Bxa5 Nc5 32. Rg1+ Kh8 33. Bb6 Ne4
+34. Bd4+ f6 35. Rg4 Rd6 36. a5 Bc8 37. Rf4 Ng3 38. Kd2 Bxf5 39. Rf3 Ne4+ 40.
+Ke3 Be6 41. c4 Nd2 42. c5 Nxf3 43. cxd6 1-0
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Popa, Claudio"]
+[Black "Rausis, Igors"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2172"]
+[BlackElo "2486"]
+[PlyCount "106"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d5 4. exd5 Nf6 5. Nf3 O-O 6. Be2 Qxd5 7. O-O c5 8.
+dxc5 Qxc5 9. Be3 Qc7 10. Na3 Nc6 11. Nb5 Qb8 12. Nbd4 Nd5 13. Bd2 Nxd4 14. Nxd4
+e5 15. Nc2 Be6 16. Ne3 Nf4 17. Bc4 Bxc4 18. Nxc4 b5 19. Na5 Qb6 20. Nb3 Rfd8
+21. Qf3 Nd3 22. Be3 Qc7 23. Bg5 f6 24. Bxf6 Bxf6 25. Qxf6 Nxb2 26. f4 exf4 27.
+Rxf4 Rf8 28. Qe6+ Kh8 29. Rxf8+ Rxf8 30. Rf1 Rxf1+ 31. Kxf1 Kg7 32. Kg1 Na4 33.
+Nd4 Nxc3 34. Qe3 Nd5 35. Ne6+ Kf6 36. Nxc7 Nxe3 37. Nxb5 a6 38. Nc7 a5 39. Kf2
+Nd1+ 40. Ke1 Nc3 41. a3 Ke5 42. Kd2 Nb1+ 43. Kc2 Nxa3+ 44. Kb3 Nb1 45. Kc2 Kd6
+46. Ne8+ Ke7 47. Nc7 Kd7 48. Nd5 Kc6 49. Nf6 Na3+ 50. Kb3 Nb5 51. Nxh7 Nd6 52.
+Ka4 Nc4 53. h4 Ne3 1/2-1/2
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.01"]
+[Round "3"]
+[White "Sveshnikov, Vladimir"]
+[Black "Lagrotteria, Salvatore"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2413"]
+[BlackElo "2196"]
+[PlyCount "106"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Bg4 5. c3 Nf6 6. Bf4 Nc6 7. Qb3 Qc8 8.
+Ne5 Bd7 9. Nd2 g6 10. Bd3 Bg7 11. h3 O-O 12. O-O Nh5 13. Bh2 Bxe5 14. dxe5 Be6
+15. Qa4 Qc7 16. Nf3 d4 17. Nxd4 Nxd4 18. Qxd4 Rfd8 19. Qe3 Ng7 20. Rfd1 Qc6 21.
+Qe2 a6 22. Be4 Qb6 23. b3 a5 24. Rxd8+ Rxd8 25. Rd1 Rxd1+ 26. Qxd1 a4 27. bxa4
+Bxa2 28. Bf4 Ne6 29. Be3 Qc7 30. Qa1 Bc4 31. Qb2 Ba6 32. Bd4 Qc4 33. Bxb7 Bxb7
+34. Qxb7 Nxd4 35. cxd4 Qc1+ 36. Kh2 Qf4+ 37. g3 Qxf2+ 38. Qg2 Qxd4 39. a5 Qxe5
+40. a6 Qe3 41. h4 h5 42. Qa8+ Kg7 43. a7 Qf2+ 44. Kh3 Qf5+ 45. Kg2 Qc2+ 46. Kh1
+Qb1+ 47. Kh2 Qa2+ 48. Kh3 Qe6+ 49. Kh2 Qa2+ 50. Kg1 Qb1+ 51. Kg2 Qc2+ 52. Kf3
+Qd3+ 53. Kg2 Qc2+ 1/2-1/2
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.02"]
+[Round "4"]
+[White "Mauro, Alan"]
+[Black "Roeder, Mathias"]
+[Result "0-1"]
+[ECO "B55"]
+[WhiteElo "2187"]
+[BlackElo "2451"]
+[PlyCount "64"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O g6 8.
+Kh1 Bg7 9. f4 O-O 10. Nd2 a5 11. Qe1 Nd7 12. Nf3 Nc5 13. Qh4 e6 14. Qh3 f5 15.
+e5 d5 16. Be3 Qe7 17. Bxc5 Qxc5 18. Ng5 h6 19. Nf3 Rb8 20. b3 Rb4 21. Nh4 g5
+22. a3 Rxf4 23. Rxf4 gxf4 24. Ng6 Rf7 25. Rf1 Qxa3 26. Qh4 Bd7 27. Rxf4 Qc1+
+28. Bf1 Kh7 29. Qh5 Bc8 30. Rf3 Qg5 31. Nf4 Qxh5 32. Nxh5 Bxe5 0-1
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Caprio, Guido"]
+[Black "Haertl, Siegfried"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2188"]
+[BlackElo "1993"]
+[PlyCount "47"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Nf3 Bxc5 6. Bd3 Nc6 7. O-O Nb4 8. Be2
+Qc7 9. a3 Nxc2 10. Bb5+ Kf8 11. Qxc2 a6 12. Bd3 Bd7 13. b4 Bb6 14. Qe2 Ne7 15.
+Be3 Ng6 16. Bxg6 hxg6 17. Bxb6 Qxb6 18. Nc3 Rc8 19. Rac1 Rc4 20. Qe3 Qxe3 21.
+fxe3 Rh5 22. Ne2 b5 23. Nf4 Rh6 24. Nd2 1-0
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Dittmar, Peter"]
+[Black "Brigati, Alessandro"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2354"]
+[BlackElo "2102"]
+[PlyCount "49"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Bg4 8. a5
+Nbd7 9. Be3 Qc7 10. Qd2 b5 11. axb6 axb6 12. d5 Nc5 13. dxc6 Rxa1 14. Rxa1
+Nfxe4 15. Nd5 Qxc6 16. Nxe7+ Kh8 17. Nxc6 Nxd2 18. Bxd2 Bxb2 19. Rb1 Bg7 20. h3
+Bd7 21. Ncd4 Ne4 22. Be3 Nc3 23. Rxb6 Nxe2+ 24. Nxe2 d5 25. Bd4 1-0
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Mrdja, Milan"]
+[Black "Lagrotteria, Salvatore"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2409"]
+[BlackElo "2196"]
+[PlyCount "67"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nd7 7. b3 a6 8. Bb2 Ne7
+9. Nbd2 Nc6 10. c4 Nxd4 11. Nxd4 cxd4 12. cxd5 Nxe5 13. dxe6 Bxe6 14. Nf3 Nc6
+15. Nxd4 Nxd4 16. Bxd4 Bd6 17. Bxg7 Rg8 18. Qd4 Qc7 19. g3 Rd8 20. Rad1 Rd7 21.
+Qc3 Qb6 22. Bf3 Rc7 23. Qb2 Bb4 24. Bd4 Qa5 25. Bf6 Be7 26. Bxe7 Rxe7 27. Rfe1
+Qf5 28. Be4 Qh5 29. Qd2 f6 30. Bxb7 Rg5 31. Bxa6 Rd5 32. Qc1 Rxd1 33. Qxd1 Qa5
+34. Qe2 1-0
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Okhotnik, Vladimir"]
+[Black "Kanina, Adriatik"]
+[Result "1-0"]
+[ECO "B27"]
+[WhiteElo "2468"]
+[BlackElo "2128"]
+[PlyCount "64"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 cxd4 5. cxd4 d5 6. e5 Bg4 7. Nc3 Nc6 8. Bb5
+f6 9. exf6 exf6 10. h3 Be6 11. O-O Nge7 12. Re1 Bf7 13. Bxc6+ bxc6 14. Qe2 Kf8
+15. b3 Nf5 16. g4 Nd6 17. Ba3 Kg8 18. Qe7 Bf8 19. Qxd8 Rxd8 20. Rac1 Be8 21. g5
+Kf7 22. gxf6 Kxf6 23. Ne5 Nf5 24. Bb2 Rg8 25. Na4 Rc8 26. Nc5 g5 27. Ng4+ Kg7
+28. Re5 h5 29. Rxf5 hxg4 30. Ne6+ Kg6 31. Rxf8 Rxf8 32. Nxf8+ Kf7 1-0
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Ronzano, Luca"]
+[Black "Mauro, Alan"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2000"]
+[BlackElo "2187"]
+[PlyCount "88"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 g6 2. e4 Bg7 3. c3 d6 4. f4 Nf6 5. Bd3 O-O 6. Nf3 Bg4 7. O-O c5 8. h3
+Bxf3 9. Qxf3 cxd4 10. e5 dxe5 11. fxe5 Nd5 12. Be4 Nc6 13. Bxd5 Nxe5 14. Qe4 e6
+15. Bb3 Nc6 16. Kh1 dxc3 17. Nxc3 Nd4 18. Be3 Nf5 19. Bf4 b6 20. Rad1 Qh4 21.
+Qf3 g5 22. g4 Nd4 23. Qg3 Qh6 24. Be3 Nxb3 25. axb3 Rac8 26. Rd7 b5 27. b4 Rc4
+28. Bc5 Rf4 29. Rfd1 Qf6 30. Bxf8 Bxf8 31. R7d3 a6 32. Kg2 Rxb4 33. R1d2 Bc5
+34. Nd1 Bd4 35. Qf3 Qe5 36. Qe2 Qd5+ 37. Qf3 Qe5 38. Re2 Qc5 39. Qa8+ Kg7 40.
+Qf3 Qc1 41. Qe4 Qc5 42. Qf3 Qc1 43. Qf1 Qc6+ 44. Qf3 Qc1 1/2-1/2
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.03"]
+[Round "5"]
+[White "Sikula, Vaszilij"]
+[Black "Mueller, Leonhard"]
+[Result "0-1"]
+[ECO "B78"]
+[WhiteElo "2540"]
+[BlackElo "2187"]
+[PlyCount "68"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Qc7 11. Bb3 Rfc8 12. g4 Na5 13. Kb1 Nc4 14. Bxc4 Qxc4
+15. h4 b5 16. h5 b4 17. Nce2 a5 18. hxg6 fxg6 19. Ng3 a4 20. Qe2 Qf7 21. Rh2 b3
+22. cxb3 axb3 23. a3 Ba4 24. Qd3 Nd7 25. Rdh1 Ne5 26. Qf1 Nc4 27. Qe1 Nxe3 28.
+Qxe3 Rc4 29. Nge2 h6 30. Nxb3 Rb8 31. Nec1 Rc7 32. Rd1 Bxb3 33. Nxb3 Rxb3 34.
+Rd3 Rcb7 0-1
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.04"]
+[Round "6"]
+[White "Klocker, Daniel"]
+[Black "Sveshnikov, Vladimir"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2075"]
+[BlackElo "2413"]
+[PlyCount "86"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3 d5 7. exd6 Qxd6 8. d4
+cxd4 9. cxd4 Bf5 10. O-O e6 11. Nc3 Be7 12. d5 exd5 13. Nxd5 Nxd5 14. Qxd5 Qxd5
+15. Bxd5 Nb4 16. Bb3 O-O 17. Bd2 Nd3 18. Bc3 Rad8 19. Bc2 Bc5 20. Ne1 Bd4 21.
+Rd1 Bxc3 22. bxc3 Nxe1 23. Rxd8 Nxc2 24. Rfd1 Be4 25. R1d2 Na3 26. R8d4 Bc6 27.
+c4 Re8 28. h3 Re1+ 29. Kh2 h6 30. R2d3 Nc2 31. Rd8+ Kh7 32. Rf8 Kg6 33. Rg3+
+Kf6 34. Rg4 Re4 35. Rxe4 Bxe4 36. Rd8 Bc6 37. Kg3 Nb4 38. a3 Nc2 39. Rd3 Be4
+40. Rc3 Ke5 41. f3 Kd4 42. Rb3 Bc6 43. c5 Kc4 0-1
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.04"]
+[Round "6"]
+[White "Mrdja, Milan"]
+[Black "Barletta, Mauro"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2409"]
+[BlackElo "2205"]
+[PlyCount "46"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng5 h6 6. N5f3 Bf5 7. Ne5 Nbd7 8.
+Ngf3 e6 9. Bc4 Nxe5 10. Nxe5 Bd6 11. Bf4 Qc7 12. Qe2 O-O-O 13. O-O-O Ng4 14. f3
+Nxe5 15. Bxe5 Bxe5 16. dxe5 Rxd1+ 17. Rxd1 Rd8 18. g4 Rxd1+ 19. Kxd1 Bg6 20.
+Qe3 h5 21. gxh5 Bxh5 22. Bd3 Qb6 23. Ke2 Qxb2 1/2-1/2
+
+[Event "Cesenatico op-A"]
+[Site "Cesenatico"]
+[Date "2008.09.04"]
+[Round "6"]
+[White "Trent, Lawrence"]
+[Black "Andonov, Bogomil"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2470"]
+[BlackElo "2326"]
+[PlyCount "69"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Qf3 b5 7. Bf4 d6 8.
+O-O-O Bb7 9. Bxb5+ axb5 10. Ndxb5 Qc8 11. Bxd6 Na6 12. Rd4 Ne7 13. Qe3 Nc6 14.
+Rc4 Qd8 15. Rd1 Na5 16. Bxf8 Qxd1+ 17. Nxd1 Nxc4 18. Bxg7 Rg8 19. b3 Na5 20.
+Nd6+ Ke7 21. Bf6+ Kxf6 22. Qf4+ Kg6 23. Qg4+ Kf6 24. Qh4+ Kg6 25. Ne3 h5 26. g4
+Rh8 27. e5 Rh6 28. Qf6+ Kh7 29. Qxf7+ Kh8 30. Ne8 Rxe8 31. Qxe8+ Kg7 32. Qe7+
+Kg8 33. Qd8+ Kg7 34. Qxa5 hxg4 35. Qd8 1-0
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.08.30"]
+[Round "1"]
+[White "Aschenbrenner, Robert"]
+[Black "Molnar, Attila"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2278"]
+[BlackElo "2070"]
+[PlyCount "78"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 a6 4. g3 b5 5. Bg2 Bb7 6. O-O d6 7. d4 cxd4 8. Nxd4
+Nd7 9. Qe2 Qc7 10. a3 Ngf6 11. g4 Ne5 12. g5 Nfd7 13. Qh5 g6 14. Qh3 Bg7 15.
+Nde2 Nc4 16. b3 Ncb6 17. Bb2 e5 18. Qg3 h6 19. h4 hxg5 20. hxg5 O-O-O 21. a4 b4
+22. Na2 Nc5 23. Qe3 a5 24. c3 d5 25. cxb4 d4 26. Qg3 Nxe4 27. Bxe4 Bxe4 28. f3
+Bc2 29. Rac1 d3 30. Nec3 axb4 31. Qg4+ Rd7 32. Nxb4 e4 33. Rf2 Bd4 34. Nxe4
+Qh2+ 35. Kf1 Qh1+ 36. Qg1 Bxb2 37. Rcxc2+ dxc2 38. Rxc2+ Rc7 39. Nd6+ Kd7 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.08.30"]
+[Round "1"]
+[White "Huber, Adolf"]
+[Black "Fahrner, Kurt"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2075"]
+[BlackElo "2285"]
+[PlyCount "46"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nd7 5. c3 b6 6. O-O Bb7 7. Qc2 e6 8. Re1
+Ne7 9. Nbd2 O-O 10. Nf1 c5 11. dxc5 Nxc5 12. Ng3 Qc7 13. b4 Na6 14. Bxa6 Bxa6
+15. Bd2 Rac8 16. Rac1 d5 17. e5 Nc6 18. Qa4 Bc4 19. Bf4 b5 20. Qa6 Qb6 21. Qa3
+a5 22. Be3 axb4 23. cxb4 d4 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.08.30"]
+[Round "1"]
+[White "Kokol, Peter"]
+[Black "Schnabel, Josef"]
+[Result "1-0"]
+[ECO "B41"]
+[WhiteElo "2253"]
+[BlackElo "2047"]
+[PlyCount "61"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. c4 a6 6. Be3 Qc7 7. Nc3 Nf6 8. Bd3
+Ne5 9. Rc1 Nxc4 10. Bxc4 Qxc4 11. b3 Qb4 12. O-O Be7 13. e5 Nd5 14. Nxd5 exd5
+15. Nf5 g6 16. Nxe7 Qxe7 17. Bc5 Qe6 18. Bd6 f5 19. b4 b5 20. Qc2 Kf7 21. Qc7
+g5 22. Rfd1 Re8 23. Rd3 f4 24. Rcd1 d4 25. Rxd4 Kg8 26. h4 h6 27. hxg5 hxg5 28.
+R1d3 Qxa2 29. Rh3 Qa1+ 30. Kh2 Qxd4 31. Qc2 1-0
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.08.30"]
+[Round "1"]
+[White "Krieger, Hermann"]
+[Black "Brunner, Gerhard"]
+[Result "1-0"]
+[ECO "B82"]
+[WhiteElo "2217"]
+[BlackElo "2009"]
+[PlyCount "99"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. a4 Be7 8. Bd3
+Nc6 9. Nb3 O-O 10. O-O Nb4 11. Be3 Nxd3 12. cxd3 Bd7 13. g4 Ne8 14. d4 b5 15.
+a5 Nf6 16. g5 Ne8 17. Ne2 g6 18. Ng3 f5 19. exf5 exf5 20. d5 Ng7 21. Nd4 Rc8
+22. h4 Qe8 23. Re1 Qf7 24. Qf3 Rfe8 25. Rac1 Bf8 26. Nc6 Bxc6 27. dxc6 Ne6 28.
+Red1 Nc7 29. Bd4 Re6 30. h5 Rce8 31. h6 R8e7 32. Bf2 Qe8 33. Qb3 Qf7 34. Qc3
+Qe8 35. Bb6 Qf7 36. Kf2 Qe8 37. Rc2 Qf7 38. b4 Qe8 39. Bd4 Qf7 40. Qd2 Re8 41.
+Bb2 Be7 42. Qd4 Kf8 43. Rcc1 Bd8 44. Re1 Rxe1 45. Rxe1 Rxe1 46. Kxe1 Be7 47.
+Kf2 d5 48. Bc3 Bd6 49. Ne2 Kg8 50. Qh8# 1-0
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.08.30"]
+[Round "1"]
+[White "Kunschek, Horst"]
+[Black "Loebler, Heimo"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2023"]
+[BlackElo "2233"]
+[PlyCount "46"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Qc7 6. Bd3 Nf6 7. h3 Be7 8.
+O-O O-O 9. c4 b6 10. Nc3 a6 11. Be3 d6 12. Rc1 Bb7 13. Nd4 Nbd7 14. Bb1 Rac8
+15. b3 Qb8 16. f3 Rfe8 17. Na4 b5 18. cxb5 axb5 19. Nc3 b4 20. Na4 d5 21. exd5
+Nxd5 22. Bd2 Qa7 23. Be1 Rxc1 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.08.30"]
+[Round "1"]

@@ -1,0 +1,600 @@
+[ECO "C41"]
+[WhiteElo "2579"]
+[BlackElo "2524"]
+[PlyCount "80"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8. Ba2
+exd4 9. Nxd4 Ne5 10. f4 Ng6 11. h3 Bd7 12. Be3 Qa5 13. Qf3 Qb4 14. Bf2 Rae8 15.
+Rfe1 Bd8 16. Rad1 Bb6 17. Kh1 Qxb2 18. Rb1 Qa3 19. Rb3 Qc5 20. f5 Ne5 21. Qf4
+Qa5 22. Rd1 Nc4 23. Bh4 Qe5 24. Qf2 d5 25. Bg3 Nxe4 26. Nxe4 Qxe4 27. a5 Nxa5
+28. Ra3 f6 29. Qf1 Bxd4 30. Rxa5 b5 31. c3 Bb6 32. Rxb5 Qe2 33. Qxe2 Rxe2 34.
+Rbxd5 cxd5 35. Bxd5+ Kh8 36. Bf3 Re7 37. Bd6 Rfe8 38. Bxe7 Rxe7 39. c4 Bxf5 40.
+c5 Bc7 0-1
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.06"]
+[Round "1.2"]
+[White "Gubajdullin, Alexey"]
+[Black "Chadaev, Nikolay"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2462"]
+[BlackElo "2567"]
+[PlyCount "158"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Nd7
+8. Qd2 Nc5 9. O-O-O O-O 10. Nd4 Re8 11. f3 c6 12. g4 Ne6 13. Be3 Nxd4 14. cxd4
+Be6 15. Kb1 Bd5 16. Bg2 Qd7 17. g5 Bf8 18. Rde1 Re7 19. h4 Rae8 20. Bf4 Rxe1+
+21. Rxe1 Rxe1+ 22. Qxe1 Qe6 23. Qxe6 Bxe6 24. Bf1 Be7 25. Bd3 g6 26. c4 Kf8 27.
+Kc2 Ke8 28. b4 Kd7 29. a4 a6 30. Kc3 f6 31. Bc2 Bd8 32. Bd3 Be7 33. b5 axb5 34.
+cxb5 fxg5 35. hxg5 Bd8 36. bxc6+ Kxc6 37. Bb5+ Kc7 38. Bc4 Kd7 39. d5 Ba5+ 40.
+Kb3 Bf5 41. Be2 Ke7 42. Kc4 Bd7 43. Kb3 Bf5 44. Bd1 Bd3 45. Bc2 Be2 46. Be4
+Bd1+ 47. Ka3 Bb6 48. Bd2 Bc5+ 49. Kb2 Bxa4 50. f4 Bd7 51. Kb3 b6 52. Bc1 Kd8
+53. Bd2 Kc7 54. Kb2 Bf5 55. Bf3 b5 56. Ba5+ Bb6 57. Bd2 Bd4+ 58. Kb3 Bd3 59.
+Bg2 Bc4+ 60. Kc2 Kd8 61. Be4 Ke7 62. f5 gxf5 63. Bxf5 Bxd5 64. Bxh7 Kf7 65. Bd3
+Bc4 66. Bf5 Be5 67. Bc3 Kg7 68. Kd2 Kf7 69. Kc2 Kf8 70. Be4 Kg7 71. Bf5 Bf7 72.
+Bxe5+ dxe5 73. Kc3 Be8 74. Kb4 Bg6 75. Bd7 Bd3 76. Kc5 Kg6 77. Kd5 e4 78. Bxb5
+Bxb5 79. Kxe4 Kxg5 1/2-1/2
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.06"]
+[Round "1.2"]
+[White "Kokarev, Dmitry"]
+[Black "Maslak, Konstantin"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2588"]
+[BlackElo "2544"]
+[PlyCount "54"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. Be2 a6 10. O-O b5 11. a3 Qc7 12. Nd1 f6 13. c3 fxe5 14. fxe5 Na5 15. Qc2
+cxd4 16. Bxd4 Nc4 17. Bd3 h6 18. Qe2 Nc5 19. Bc2 Ne4 20. Nf2 Bb7 21. Rab1 Qc6
+22. Nd3 a5 23. Kh1 Qe8 24. Nf2 Qc6 25. Nd3 Qe8 26. Nf2 Qc6 27. Nd3 Qe8 1/2-1/2
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.06"]
+[Round "1.3"]
+[White "Kryakvin, Dmitry"]
+[Black "Popov, Valerij"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[WhiteElo "2584"]
+[BlackElo "2542"]
+[PlyCount "84"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 a6 4. Nf3 Nf6 5. Bg5 dxe4 6. Nxe4 Be7 7. Bxf6 gxf6 8.
+Qd2 f5 9. Ng3 b5 10. Nh5 h6 11. a4 b4 12. Bc4 Bb7 13. Ne5 Bd5 14. Bxd5 Qxd5 15.
+O-O Nc6 16. Nxc6 Qxc6 17. c3 Rg8 18. g3 bxc3 19. bxc3 Qf3 20. Nf4 Bd6 21. Ng2
+h5 22. Rae1 O-O-O 23. c4 Bc5 24. Re3 Qg4 25. Qa5 Qxd4 26. Qxa6+ Kd7 27. Qb5+
+Ke7 28. Nf4 Qxf4 29. Qxc5+ Kf6 30. a5 h4 31. a6 hxg3 32. hxg3 Qd6 33. Qxd6 cxd6
+34. Rd1 Rd7 35. Rb3 Ke7 36. c5 dxc5 37. Rxd7+ Kxd7 38. Rb7+ Kc6 39. Rxf7 c4 40.
+Kf1 c3 41. Ke2 Rd8 42. Rh7 c2 1/2-1/2
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.06"]
+[Round "1.4"]
+[White "Deviatkin, Andrei"]
+[Black "Landa, Konstantin"]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "2563"]
+[BlackElo "2613"]
+[PlyCount "86"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. dxe5 Nc5 6. Be2 Be7 7. O-O O-O 8.
+Bf4 Bf5 9. Nc3 c6 10. Nd4 Bg6 11. Bg3 Ne6 12. Nxe6 fxe6 13. Bg4 Bf5 14. Bxf5
+exf5 15. Ne2 Na6 16. Qc1 Nc7 17. c4 d4 18. Rd1 Ne6 19. Qd2 c5 20. f4 Qb6 21.
+Nc1 Qa6 22. Qd3 Rab8 23. a4 Qc6 24. Qd2 g5 25. Nd3 g4 26. Qf2 Rf7 27. Bh4 Bf8
+28. Bf6 Bg7 29. Re1 Rbf8 30. Bh4 b6 31. Ra3 a6 32. Raa1 Rb8 33. Bf6 Rbf8 34. b3
+b5 35. axb5 axb5 36. h3 bxc4 37. bxc4 gxh3 38. gxh3 Bxf6 39. exf6 Rxf6 40. Kh2
+Kh8 41. Ne5 Qc7 42. Qh4 d3 43. Rg1 d2 1-0
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.06"]
+[Round "1.4"]
+[White "Khairullin, Ildar"]
+[Black "Kharlov, Andrei"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2575"]
+[BlackElo "2505"]
+[PlyCount "107"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Ne2 Nge7 7. Bf4 Ng6 8.
+Bxd6 Qxd6 9. O-O O-O 10. Nd2 Re8 11. h3 Nh4 12. Re1 Qh6 13. Nf4 Bf5 14. Bxf5
+Qxf4 15. Bd3 Qg5 16. Bf1 Rxe1 17. Qxe1 Kf8 18. Qe3 Qxe3 19. fxe3 Re8 20. Kf2
+Nf5 21. Re1 Nd6 22. g4 Nd8 23. Bg2 c6 24. e4 dxe4 25. Nxe4 Nxe4+ 26. Rxe4 Ne6
+27. Ke3 Rd8 28. Re5 Nc7 29. Kd3 a6 30. h4 h6 31. Bf3 Ne8 32. a4 Nd6 33. b4 f6
+34. Re1 Kf7 35. c4 f5 36. c5 fxg4 37. Bxg4 Ne8 38. Bh5+ g6 39. Bf3 Nc7 40. Kc4
+Kf6 41. Rf1 Kg7 42. Re1 Rd7 43. Re5 Kf6 44. Bg4 Rd8 45. h5 gxh5 46. Rxh5 Nd5
+47. Bf3 Ne3+ 48. Kd3 Nf5 49. d5 cxd5 50. Bg4 Ng3 51. Rxh6+ Kg5 52. Rd6 Re8 53.
+Bf3 Kf4 54. Bxd5 1-0
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.06"]
+[Round "1.4"]
+[White "Kokarev, Dmitry"]
+[Black "Maslak, Konstantin"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2588"]
+[BlackElo "2544"]
+[PlyCount "74"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Be2
+O-O 9. O-O f6 10. exf6 Nxf6 11. Kh1 Bd6 12. g3 cxd4 13. Bxd4 Nxd4 14. Qxd4 a6
+15. Bd3 b5 16. a3 Bb7 17. Rae1 Qd7 18. Qb6 Rac8 19. Qe3 Rce8 20. Qd2 Qc7 21.
+Nd4 Qb6 22. Nce2 Re7 23. c3 Rfe8 24. Ng1 Ne4 25. Qg2 g6 26. Ngf3 Kg7 27. Re2
+Rf8 28. Rfe1 Bc5 29. h4 Rf6 30. Kh2 Bd6 31. Ng5 e5 32. fxe5 Rxe5 33. Nxe4 dxe4
+34. Bxe4 Bc8 35. Bf3 Rxe2 36. Rxe2 Qd8 37. Bb7 Bd7 1-0
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.06"]
+[Round "1.5"]
+[White "Landa, Konstantin"]
+[Black "Deviatkin, Andrei"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2613"]
+[BlackElo "2563"]
+[PlyCount "90"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 d6 7. O-O Ba7 8. Nbd2
+O-O 9. h3 h6 10. Re1 Be6 11. Nf1 Bxb3 12. Qxb3 Qd7 13. Ng3 Ne7 14. d4 Ng6 15.
+Be3 Rfe8 16. dxe5 dxe5 17. Bxa7 Rxa7 18. Qc4 Raa8 19. a4 Rad8 20. a5 Nf4 21.
+Qb3 Qc6 22. Rad1 Rxd1 23. Qxd1 g6 24. Qd2 Kg7 25. b3 Qb5 26. b4 Re7 27. Qc2 c5
+28. Rb1 cxb4 29. cxb4 h5 30. Qb2 Nd3 31. Qc3 Nf4 32. Qb2 Nd3 33. Qc3 Nf4 34.
+Rb2 Re6 35. Rd2 b6 36. Kh2 bxa5 37. bxa5 Qc6 38. Qe3 Qc1 39. Nxe5 Rxe5 40. Qxf4
+Rxa5 41. e5 Nd5 42. Qg5 Kh7 43. Nxh5 Ra1 44. Nf6+ Nxf6 45. exf6 Qc7+ 1-0
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.07"]
+[Round "2.1"]
+[White "Amonatov, Farrukh"]
+[Black "Smikovski, Ivan"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2634"]
+[BlackElo "2558"]
+[PlyCount "71"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. Bd3 Nxd2 10. Kxd2 c5 11. Nf3 Bd7 12. h4 Qe7 13. Qf4 Bc6 14. Nh2 Nd7 15.
+Ng4 O-O-O 16. Rab1 Rdf8 17. f3 c4 18. Be2 h5 19. Nf6 Nxf6 20. exf6 Qc7 21. Qe3
+Rd8 22. f4 Rh7 23. Qe5 Rdh8 24. Bf3 Kd7 25. Rh3 Qd6 26. Rbh1 Qa3 27. g4 hxg4
+28. Bxg4 Qf8 29. h5 gxh5 30. f5 Qg8 31. fxe6+ fxe6 32. Bxh5 Kc8 33. Rg3 Qf8 34.
+Rg7 Bd7 35. Ke2 Rh6 36. Be8 1-0
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.08"]
+[Round "2.2"]
+[White "Khairullin, Ildar"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[WhiteElo "2575"]
+[BlackElo "2646"]
+[PlyCount "54"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15.
+Nf1 d5 16. Bg5 dxe4 17. Rxe4 Be7 18. Re2 exd4 19. Nxd4 g6 20. axb5 cxb5 21. Qe1
+Rc8 22. Nd2 Nc5 23. Bc2 Qd5 24. N4f3 Qd8 25. Nd4 Qd5 26. N4f3 Qd8 27. Nd4 Qd5
+1/2-1/2
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.08"]
+[Round "2.2"]
+[White "Smikovski, Ivan"]
+[Black "Amonatov, Farrukh"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2558"]
+[BlackElo "2634"]
+[PlyCount "82"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. c3 d6 8. Nbd2
+O-O 9. Nf1 h6 10. Ng3 Be6 11. O-O Bb6 12. h3 d5 13. Qe2 Re8 14. Rd1 a5 15. Be3
+a4 16. Bc2 d4 17. Bc1 a3 18. Bb3 Nd7 19. Bxe6 fxe6 20. Qc2 Qe7 21. cxd4 Nxd4
+22. Nxd4 Bxd4 23. Ne2 Bb6 24. bxa3 Rf8 25. Be3 Bxe3 26. fxe3 Qg5 27. Qd2 Rxa3
+28. Rf1 Rd8 29. Rf3 Qe7 30. Raf1 Nc5 31. Qb4 Raxd3 32. Qxb5 Nxe4 33. Qxe5 Nd2
+34. Rf7 Qg5 35. Rf8+ Rxf8 36. Qxe6+ Kh7 37. Rxf8 Qxe3+ 38. Qxe3 Rxe3 39. Nf4
+Ra3 40. Rc8 Rxa2 41. Rxc7 Ra1+ 1/2-1/2
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.09"]
+[Round "3.1"]
+[White "Vitiugov, Nikita"]
+[Black "Lysyj, Igor"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2638"]
+[BlackElo "2598"]
+[PlyCount "63"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. Be2 a6 10. O-O b5 11. a3 Qc7 12. Nd1 f6 13. c3 fxe5 14. fxe5 Na5 15. Qe1
+Nb3 16. Rb1 Rf7 17. Bd3 Nf8 18. Nf2 Bd7 19. Nh3 Be8 20. Qg3 cxd4 21. cxd4 Qb6
+22. Nhg5 Bxg5 23. Nxg5 Rf5 24. Rxf5 exf5 25. Qf3 Rd8 26. Bxf5 h6 27. Rf1 Nxd4
+28. Qf2 Ne2+ 29. Qxe2 d4 30. e6 dxe3 31. e7 Rd2 32. Bc2 1-0
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.10"]
+[Round "3.2"]
+[White "Savchenko, Boris"]
+[Black "Volkov, Sergey"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2648"]
+[BlackElo "2632"]
+[PlyCount "93"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bc1 Ne4 7. Qg4 Kf8 8. a3
+Ba5 9. Nge2 c5 10. dxc5 Nc6 11. b4 Nxe5 12. Qh3 Bc7 13. Nd4 Nc6 14. Nxc6 Qf6
+15. Qf3 bxc6 16. Qxf6 Nxf6 17. Bd3 e5 18. f3 e4 19. fxe4 Be5 20. Bb2 dxe4 21.
+Bc4 Bg4 22. h3 Bg3+ 23. Kf1 Bf5 24. Ne2 Nh5 25. Nd4 Bd7 26. Ke2 Bh4 27. Rhd1
+Ng3+ 28. Kf2 Ke7 29. Kg1 Rhd8 30. a4 a6 31. Ra3 f5 32. b5 axb5 33. axb5 Rxa3
+34. Bxa3 Bf6 35. c3 Bxd4+ 36. cxd4 cxb5 37. c6+ Kf6 38. Bxb5 Be6 39. c7 Ra8 40.
+Bd6 Ra5 41. Bc4 Bc8 42. Bxg3 g5 43. Be5+ Kg6 44. Rb1 e3 45. Rb8 Ra1+ 46. Kh2
+Bd7 47. Rg8+ 1-0
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.10"]
+[Round "3.5"]
+[White "Vitiugov, Nikita"]
+[Black "Lysyj, Igor"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2638"]
+[BlackElo "2598"]
+[PlyCount "69"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. h4
+Ne7 9. h5 h6 10. Rh4 Nf5 11. Rg4 cxd4 12. cxd4 b6 13. Bd3 Ba6 14. Bxf5 exf5 15.
+Rxg7 Qxd4 16. Rg3 f4 17. Rf3 Qxe5+ 18. Ne2 Qxh5 19. Bc3 Qh1+ 20. Kd2 Qxd1+ 21.
+Rxd1 Rg8 22. Nxf4 d4 23. Bxd4 Nc6 24. Bf6 Kf8 25. Kc1 Rg4 26. Rd6 Bb7 27. g3
+Re8 28. Rc3 Na5 29. Rc7 Ba6 30. Rdd7 Bc4 31. Bc3 Rxf4 32. gxf4 Be6 33. Rd1 Bg4
+34. Rg1 h5 35. Bb4+ 1-0
+
+[Event "RUS Cup final"]
+[Site "Serpukhov"]
+[Date "2008.11.12"]
+[Round "4.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Vitiugov, Nikita"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "2616"]
+[BlackElo "2638"]
+[PlyCount "120"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "6"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 c5 8.
+Ne5 a6 9. Be3 Qc7 10. Qa4+ Nd7 11. O-O-O cxd4 12. Bxd4 Bd6 13. Nxd7 Bxd7 14.
+Qc4 Qxc4 15. Bxc4 Rc8 16. Bb3 Bc6 17. f3 O-O 18. Bb6 Bf4+ 19. Kb1 h5 20. Rhe1
+h4 21. h3 Bg3 22. Re2 Rfe8 23. Bc2 f5 24. c4 g6 25. b4 e5 26. a4 e4 27. fxe4
+Bxe4 28. Kb2 Bc6 29. Red2 Be1 30. b5 Bxd2 31. Rxd2 Be4 32. Bb3 Kf7 33. c5+ Kf6
+34. Rd6+ Kg5 35. Bf7 Re5 36. Rxg6+ Kf4 37. bxa6 bxa6 38. Bc4 Rexc5 39. Bxc5
+Rxc5 40. Bxa6 Rc2+ 41. Kb3 Rxg2 42. Rh6 Rg3+ 43. Kb2 Rxh3 44. Bc4 Rh1 45. a5 h3
+46. a6 h2 47. Ba2 Kg5 48. Rh8 f4 49. a7 f3 50. Re8 Re1 51. Rxe4 Rxe4 52. a8=Q
+Re2+ 53. Kc3 h1=Q 54. Qg8+ Kf4 55. Qb8+ Kg4 56. Qg8+ Kh3 57. Bc4 Qc1+ 58. Kb4
+Re4 59. Qh7+ Rh4 60. Qf5+ Kg3 0-1
+
+[Event "RUS Cup final (Women)"]
+[Site "Serpukhov"]
+[Date "2008.11.05"]
+[Round "1.1"]
+[White "Girya, Olga"]
+[Black "Kryukova, Irina"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "2332"]
+[BlackElo "2258"]
+[PlyCount "72"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Be7 12. h3 Be6 13. Rad1 h6 14. Bf4 Qb6
+15. b3 Rad8 16. Na4 Qa5 17. Rfe1 Rd7 18. c3 c5 19. Bc2 Rfd8 20. Qd3 Bd6 21.
+Bxh6 gxh6 22. Rxe6 fxe6 23. Qg6+ Rg7 24. Qxf6 Re8 25. Bf5 exf5 26. Qxd6 d4 27.
+Qc6 Re5 28. Rd3 Kh7 29. Kh2 Re2 30. Qf3 Qc7+ 31. g3 Qe5 32. cxd4 cxd4 33. Kg2
+Rxa2 34. Qc6 Qe4+ 35. Qxe4 fxe4 36. Rxd4 Rf7 0-1
+
+[Event "RUS Cup final (Women)"]
+[Site "Serpukhov"]
+[Date "2008.11.06"]
+[Round "1.2"]
+[White "Charochkina, Daria"]
+[Black "Grabuzova, Tatiana"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2296"]
+[BlackElo "2343"]
+[PlyCount "111"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Be3 Ne4 7. Qg4 g6 8. a3
+Bxc3+ 9. bxc3 Nxc3 10. Bd3 Nc6 11. Nf3 Ne7 12. Bd2 Na4 13. O-O Bd7 14. Qh3 Bc6
+15. Bg5 Qd7 16. Bf6 O-O-O 17. Ng5 Rhf8 18. Nh7 Rh8 19. Bxh8 Rxh8 20. Qxh6 Qe8
+21. Qg7 Rg8 22. Qf6 Nb2 23. Ng5 Rf8 24. Qf4 Nxd3 25. cxd3 Bb5 26. Rfd1 Nc6 27.
+Rab1 Ba6 28. Nf3 Qe7 29. Qc1 Rh8 30. Rb3 Rh5 31. Qf4 Rf5 32. Qe3 Rxf3 33. gxf3
+Qh4 34. Rc1 Nxd4 35. Rb4 Nxf3+ 36. Qxf3 Qg5+ 37. Rg4 Qxc1+ 38. Kg2 Qc6 39. Rf4
+b6 40. Rxf7 Kb7 41. Rf6 g5 42. Rg6 g4 43. Rxg4 Qc3 44. Rg8 Bxd3 45. Rg3 Be4 46.
+Qxe4 Qxg3+ 47. Kxg3 dxe4 48. Kf4 Kc6 49. Kxe4 Kd7 50. f4 c5 51. Kd3 b5 52. h4
+b4 53. axb4 cxb4 54. h5 Ke7 55. h6 Kf8 56. f5 1-0
+
+[Event "RUS Cup final (Women)"]
+[Site "Serpukhov"]
+[Date "2008.11.06"]
+[Round "1.3"]
+[White "Girya, Olga"]
+[Black "Kryukova, Irina"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2332"]
+[BlackElo "2258"]
+[PlyCount "57"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. Nf4 Nxd4 10. Qh5+ Ke7 11. exf6+ Nxf6 12. Ng6+ hxg6 13. Qxh8 Kf7 14. Qh4
+e5 15. Nf3 Nxf3+ 16. gxf3 Bf5 17. Bxf5 gxf5 18. Bg5 Qa5+ 19. Kf1 Be7 20. Kg2
+Rc8 21. Rac1 Rc6 22. Rhe1 d4 23. Qg3 Rxc1 24. Rxc1 d3 25. Qh4 f4 26. Bxf6 Bxf6
+27. Qh7 d2 28. Rd1 e4 29. Qxe4 1-0
+
+[Event "RUS Cup final (Women)"]
+[Site "Serpukhov"]
+[Date "2008.11.08"]
+[Round "2.2"]
+[White "Ivkina, Olga"]
+[Black "Matveeva, Svetlana"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2229"]
+[BlackElo "2411"]
+[PlyCount "112"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. a3 g5 10. fxg5 cxd4 11. Nxd4 Ncxe5 12. Nf3 Bg7 13. O-O-O Bb7 14. Nxe5 Bxe5
+15. Kb1 Qc7 16. Bd4 Bxd4 17. Qxd4 O-O-O 18. h4 Kb8 19. Rh3 e5 20. Qf2 d4 21.
+Qxf7 dxc3 22. Rxc3 Nc5 23. Rxd8+ Rxd8 24. Qxc7+ Kxc7 25. Rxc5+ Kb6 26. Rxe5
+Rd1+ 27. Ka2 Rxf1 28. Re7 Bd5+ 29. b3 Rf2 30. Kb2 Rxg2 31. Kc3 a5 32. Rxh7 Be4
+33. Re7 Bxc2 34. b4 axb4+ 35. axb4 Kc6 36. Re5 Bd1 37. Rc5+ Kb6 38. Rd5 Bh5 39.
+Rd6+ Kc7 40. Rh6 Be8 41. Kd4 Rg4+ 42. Ke5 Rxb4 43. h5 Rg4 44. g6 b4 45. Rh7+
+Kb6 46. Re7 Bxg6 47. Re6+ Kc5 48. Rxg6 Rh4 49. Rg5 b3 50. Kf6+ Kc4 51. Kg6 b2
+52. Rg1 Kb3 53. h6 Ka2 54. h7 Rxh7 55. Kxh7 b1=Q+ 56. Rxb1 Kxb1 1/2-1/2
+
+[Event "RUS Cup final (Women)"]
+[Site "Serpukhov"]
+[Date "2008.11.10"]
+[Round "3.2"]
+[White "Stepovaia Dianchenko, Tatiana"]
+[Black "Turova, Irina"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2386"]
+[BlackElo "2381"]
+[PlyCount "34"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6
+8. Qd2 Be6 9. Bb5 a6 10. Be2 h6 11. O-O-O Qd7 12. Kb1 O-O-O 13. Nd4 Nxd4 14.
+cxd4 d5 15. Bf4 Bf5 16. Rhe1 Bd6 17. h3 Rhe8 1/2-1/2
+
+[Event "RUS Cup final (Women)"]
+[Site "Serpukhov"]
+[Date "2008.11.10"]
+[Round "3.4"]
+[White "Stepovaia Dianchenko, Tatiana"]
+[Black "Turova, Irina"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2386"]
+[BlackElo "2381"]
+[PlyCount "62"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Bc5 4. c3 Nf6 5. d3 d6 6. h3 a6 7. Bb3 h6 8. Nbd2
+Be6 9. Nf1 Ba7 10. Ng3 Qd7 11. Qe2 Ne7 12. Bc2 Ng6 13. d4 c6 14. Be3 Nf4 15.
+Bxf4 exf4 16. Nf1 O-O-O 17. O-O-O Qc7 18. N1d2 g5 19. Bb3 Rhe8 20. Ne1 Bxb3 21.
+axb3 Nxe4 22. Nxe4 f5 23. Nxd6+ Qxd6 24. Qc2 Qf6 25. Nd3 Bb8 26. Rhe1 Bd6 27.
+Re2 Re4 28. f3 Re3 29. Nf2 Bc7 30. Rde1 Rde8 31. Nd1 R3e6 1/2-1/2
+
+[Event "RUS Cup final (Women)"]
+[Site "Serpukhov"]
+[Date "2008.11.10"]
+[Round "3.5"]
+[White "Stepovaia Dianchenko, Tatiana"]
+[Black "Turova, Irina"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2386"]
+[BlackElo "2381"]
+[PlyCount "78"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Bc5 4. c3 Nf6 5. d3 d6 6. Bb3 a6 7. h3 h6 8. Nbd2
+Be6 9. Nc4 Qd7 10. Ne3 O-O 11. g4 d5 12. Nd2 d4 13. cxd4 Nxd4 14. Ndc4 Nxb3 15.
+axb3 Bd4 16. Nf5 b5 17. Nce3 Rad8 18. Rxa6 Bb6 19. Ke2 Nh7 20. h4 f6 21. Qc2
+Qf7 22. b4 Rd7 23. Ra3 Rfd8 24. Kf3 h5 25. Rg1 Nf8 26. Kg3 Ng6 27. gxh5 Nf4 28.
+h6 g6 29. Kh2 Kh7 30. Ng7 Rxd3 31. Rxd3 Nxd3 32. Nxe6 Qxe6 33. Nd5 Nf4 34. Bxf4
+exf4 35. Rd1 f3 36. Qc3 Kxh6 37. Qxf3 Qe5+ 38. Kg2 c6 39. Nxb6 Qxe4 1-0
+
+[Event "RUS Cup final (Women)"]
+[Site "Serpukhov"]
+[Date "2008.11.12"]
+[Round "4.2"]
+[White "Stepovaia Dianchenko, Tatiana"]
+[Black "Matveeva, Svetlana"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2386"]
+[BlackElo "2411"]
+[PlyCount "42"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. Qe2 Be7 3. g3 Nf6 4. e5 Nd5 5. Nc3 Nxc3 6. dxc3 O-O 7. Be3 Nc6 8.
+f4 f6 9. exf6 Bxf6 10. O-O-O d6 11. Qh5 Qe8 12. Qxe8 Rxe8 13. Bc4 Kh8 14. Nf3
+e5 15. fxe5 Bg4 16. Bd5 Nxe5 17. Nxe5 Rxe5 18. Bf4 Bxd1 19. Bxe5 Bxe5 20. Kxd1
+Rf8 21. Ke2 c6 1/2-1/2
+
+[Event "RUS Cup final (Women)"]
+[Site "Serpukhov"]
+[Date "2008.11.12"]
+[Round "4.3"]
+[White "Stepovaia Dianchenko, Tatiana"]
+[Black "Matveeva, Svetlana"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2386"]
+[BlackElo "2411"]
+[PlyCount "103"]
+[EventDate "2008.11.05"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "RUS"]
+[Source "ChessBase"]

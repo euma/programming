@@ -1,0 +1,50 @@
+B90	Freak Attack, Siicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6
+6.Rg1
+B91	Zagreb Variation, Sicilian; B91	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
+5.Nc3 a6 6.g3
+B92	Opocensky Variation, Sicilian; B92	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 a6 6.Be2
+B92	Opocensky Variation, Sicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
+5.Nc3 a6 6.Be2 e5
+B93	Amsterdam Variation, Sicilian; B93	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 a6 6.f4
+B94	B94	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5
+B95	B95	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6
+B96	B96	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+B96	Polugaevsky; Accelerated Najdorf	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 b5
+B96	Simagin Line, Najdorf Sicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6
+5.Nc3 a6 6.Bg5 e6 7.f4 b5 8.e5 dxe5 9.fxe5 Qc7 10.Qe2
+B97	Poisoned Pawn Variation, Najdorf Sicilian; B97	1.e4 c5 2.Nf3 d6 3.d4
+cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6
+B97	Poisoned Pawn Variation, Sicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2
+B97	Poisoned Pawn Accepted, Najdorf Sicilian	1.e4 c5 2.Nf3 d6 3.d4
+cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2
+B98	B98	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Be7
+B98	Argenitne; Goteborg Var, Sicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 h6 9.Bh4 g5
+B98	Browne Variation, Najdorf Sicilian	1.e4 c5 2.Nf3 d6 3.d4 cxd4
+4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 h6 9.Bh4 Qc7
+B99	B99	1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Be7 8.Qf3 Qc7 9.O-O-O Nbd7
+C00	Franco-Sicilian Defense	1.d4 e6 2.c4 c5  
+C00	French Defense; C00	1.e4 e6
+C00	Reti (Horwitz) Variation, French	1.e4 e6 2.b3
+C00	Papa-Ticulat Gambit, French	1.e4 e6 2.b3 d5 3.Bb2
+C00	Banzai-Leong Gambit, French	1.e4 e6 2.b4
+C00	Pinova Gambit	1.e4 e6 2.b4 Bxb4 3.e5
+C00	Bird Invitation, French	1.e4 e6 2.Bb5
+C00	Orthoschapp Variation, French	1.e4 e6 2.c4 d5 3.cxd5 exd5 4.Qb3
+C00	King"s Indian Attack	1.e4 e6 2.d3  
+C00	Reversed Philidor, French	1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 Nc6
+5.Be2
+C00	Franco-Hiva Gambit, French	1.e4 e6 2.d3 f5
+C00	Alapin; Witaker Gambit, French	1.e4 e6 2.d4 d5 3.Be3
+C00	Alapin-Diemer Gambit, French	1.e4 e6 2.d4 d5 3.Be3 dxe4 4.f3
+C00	Diemer-Duhm Gambit, French	1.e4 e6 2.d4 d5 3.c4
+C00	Steinitz Attack, French	1.e4 e6 2.e5
+C00	Bourdonnais (La Bourdonnais) Variation, French	1.e4 e6 2.f4  
+C00	Reuter Gambit, French	1.e4 e6 2.f4 d5 3.Nf3 dxe4 4.Ng5
+C00	Reti-Spielmann Attack, French	1.e4 e6 2.g3

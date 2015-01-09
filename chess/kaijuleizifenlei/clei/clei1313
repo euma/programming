@@ -1,0 +1,600 @@
+[Black "Matosec, Thomas"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2175"]
+[BlackElo "2038"]
+[PlyCount "87"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 Nf6 5. e5 Nfd7 6. Bd3 c5 7. c3 Nc6 8. O-O
+h5 9. dxc5 Ndxe5 10. Nb3 Nxd3 11. Qxd3 a5 12. Be3 e5 13. Qd2 a4 14. Nc1 Bg4 15.
+Ne2 Qd7 16. Ne1 Rd8 17. f3 Bf5 18. Rc1 h4 19. Nd3 Qe6 20. Rfd1 Qg6 21. Kh1 f6
+22. Nf2 Na5 23. Ng1 Nc4 24. Qe2 Kf7 25. Nfh3 Rhe8 26. Rxd5 Rxd5 27. Qxc4 Be6
+28. Qxa4 Red8 29. Nf2 f5 30. c4 R5d7 31. c6 bxc6 32. Qxc6 f4 33. Bb6 Rd2 34.
+Qe4 Qf6 35. Bxd8 Bxd8 36. Qb7+ Qe7 37. Qxe7+ Bxe7 38. Nd1 Bc5 39. Nh3 Bxc4 40.
+Ng5+ Kg6 41. Ne4 Re2 42. Ndc3 Bd4 43. Nxe2 Bxe2 44. h3 1-0
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.05"]
+[Round "7"]
+[White "Krieger, Hermann"]
+[Black "Rabiega, Robert"]
+[Result "0-1"]
+[ECO "C96"]
+[WhiteElo "2217"]
+[BlackElo "2552"]
+[PlyCount "100"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 exd4 13. cxd4 Nc6 14. Nf1 cxd4 15.
+Nxd4 Nxd4 16. Qxd4 Ne5 17. f4 Nc6 18. Qf2 Bh4 19. Ng3 Qf6 20. Rd1 Bb7 21. Qe3
+Bxg3 22. Qxg3 Nd4 23. Bd3 Bxe4 24. Qe3 Bxd3 25. Qxd3 Ne6 26. Qa3 Nc5 27. Be3
+Rfe8 28. Rd4 Re6 29. Rad1 Rae8 30. Bf2 Ne4 31. Qf3 g6 32. Kh2 Nxf2 33. Qxf2 Re2
+34. Qf1 Rxb2 35. Rxd6 Qh4 36. R6d2 Rxd2 37. Rxd2 Re3 38. Qf2 Qxf2 39. Rxf2 h5
+40. h4 Ra3 41. Re2 Kg7 42. g3 Kf6 43. Kg2 b4 44. Rb2 a5 45. Re2 Rc3 46. Kh3 Rc5
+47. Rb2 Ke6 48. a3 Rb5 49. axb4 axb4 50. g4 f5 0-1
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.05"]
+[Round "7"]
+[White "Meglitsch, Konstantin"]
+[Black "Zupe, Miran"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "1964"]
+[BlackElo "2346"]
+[PlyCount "37"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Bc4 c6 6. exd6 Bxd6 7. Be3 O-O 8.
+Nbd2 Nf6 9. h3 Nbd7 10. O-O Nb6 11. Bb3 Nbd5 12. Bg5 Be7 13. Nc4 h6 14. Bh4 c5
+15. Nce5 Be6 16. Re1 Re8 17. Ba4 Rf8 18. Bb3 Re8 19. Ba4 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.06"]
+[Round "8"]
+[White "Brunner, Gerhard"]
+[Black "Spelec, Darko"]
+[Result "1-0"]
+[ECO "C04"]
+[WhiteElo "2009"]
+[BlackElo "1997"]
+[PlyCount "51"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Be2 f6 7. exf6 Qxf6 8. c3
+Bd6 9. O-O O-O 10. Nb3 h6 11. Be3 Ne7 12. Qd2 Ng6 13. g3 b6 14. Ne1 e5 15. dxe5
+Ndxe5 16. Qxd5+ Be6 17. Qg2 Qf7 18. Rd1 Rad8 19. f4 Nc4 20. Bc1 Qd7 21. Qe4 Qf7
+22. f5 Bc5+ 23. Nxc5 Rxd1 24. Nxe6 Nd6 25. Qc2 Rxe1 26. Rxe1 1-0
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.06"]
+[Round "8"]
+[White "Poetz, Florian"]
+[Black "Schachinger, Mario"]
+[Result "1-0"]
+[ECO "C96"]
+[WhiteElo "2191"]
+[BlackElo "2314"]
+[PlyCount "83"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 d5 11. d4 Nxe4 12. dxe5 f5 13. exf6 Bxf6 14. Nbd2 Bb7 15.
+Nxe4 dxe4 16. Nd2 Bh4 17. Nxe4 Bxe4 18. Rxe4 Bxf2+ 19. Kh1 Qxd1+ 20. Bxd1 Bg3
+21. Bf3 Rae8 22. Be3 Nc4 23. Bc5 Rxe4 24. Bxe4 Bd6 25. Bd5+ Kh8 26. Bxd6 Nxd6
+27. a4 g6 28. axb5 axb5 29. b4 Rf5 30. Bf3 Re5 31. Ra6 Kg7 32. Rc6 Re7 33. Rc5
+Kf6 34. Kg1 h6 35. Kf1 g5 36. Kg1 Kg6 37. Bc6 Re1+ 38. Kf2 Rc1 39. Bf3 Nc4 40.
+Rxb5 Rxc3 41. Rc5 Rc2+ 42. Be2 1-0
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.06"]
+[Round "8"]
+[White "Saxer, Bernhard"]
+[Black "Drnovsek, Nejc"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "2008"]
+[BlackElo "2096"]
+[PlyCount "63"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8. Be3
+Ne7 9. Bg5 Bxf3 10. Bxf6 Bxd1 11. Bxe7 Bxc2 12. Bxf8 Rxf8 13. Nc3 Bxd3 14. Rfd1
+O-O-O 15. f3 Rd6 16. Rac1 Rfd8 17. Kf2 Bc4 18. b3 Rxd1 19. Rxd1 Rxd1 20. Nxd1
+Be6 21. h4 c5 22. Ne3 b5 23. Ke2 c4 24. bxc4 Bxc4+ 25. Nxc4 bxc4 26. Kd2 c5 27.
+Kc3 Kc7 28. Kxc4 Kc6 29. g4 g6 30. gxh5 gxh5 31. a4 f6 32. a5 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.07"]
+[Round "9"]
+[White "Mohr, Georg"]
+[Black "Rabiega, Robert"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2494"]
+[BlackElo "2552"]
+[PlyCount "18"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Qxe2+ 8.
+Bxe2 Nbd7 9. Nc3 h6 1/2-1/2
+
+[Event "Graz op-A"]
+[Site "Graz"]
+[Date "2008.09.07"]
+[Round "9"]
+[White "Stanec, Nikolaus"]
+[Black "Diermair, Andreas"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[WhiteElo "2538"]
+[BlackElo "2388"]
+[PlyCount "18"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4
+Rb8 9. axb5 axb5 1/2-1/2
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.08.31"]
+[Round "2"]
+[White "Ciloglu, Dogu"]
+[Black "Atalik, Suat"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1852"]
+[BlackElo "2585"]
+[PlyCount "62"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d4 exd4 5. Nxd4 Be7 6. Be3 Nf6 7. f3 Ne5 8.
+Bb3 O-O 9. O-O c5 10. Ne2 b5 11. c3 Bb7 12. Ng3 g6 13. Qe2 a6 14. f4 Ned7 15.
+Nd2 Re8 16. Bc2 Bf8 17. Rad1 Qc7 18. f5 Bg7 19. Bg5 d5 20. fxg6 fxg6 21. Bf4
+Qb6 22. e5 Nxe5 23. Bxe5 Nd7 24. Qf2 Nxe5 25. Rde1 Rf8 26. Qe2 c4+ 27. Kh1 d4
+28. cxd4 Qxd4 29. Qe3 Qxb2 30. Bb1 c3 31. Nb3 Qxg2# 0-1
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.08.31"]
+[Round "3"]
+[White "Bashkite, Viktoria"]
+[Black "Gurevich, Mikhail"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2157"]
+[BlackElo "1966"]
+[PlyCount "44"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Be6 6. Qf3 Qd7 7. h3 O-O-O 8.
+Ne2 Re8 9. Bf4 f5 10. Nd2 Nf6 11. O-O-O Ne4 12. Be5 Nxe5 13. dxe5 Qa4 14. Bb1
+Bd7 15. Nxe4 dxe4 16. Qg3 g6 17. f4 exf3 18. gxf3 Bh6+ 19. f4 Rxe5 20. Rd4 Qc6
+21. Rhd1 Rxe2 22. Rxd7 Qb6 0-1
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.03"]
+[Round "6"]
+[White "Bakr Jwan, J."]
+[Black "Sengul, Cengiz"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2269"]
+[BlackElo "2146"]
+[PlyCount "99"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Rd1+ Ke8 10. Nc3 a5 11. h3 Be7 12. Bg5 h6 13. Bxe7 Nxe7 14.
+Rd2 Ng6 15. Kh2 Ke7 16. Rad1 Re8 17. g4 Kf8 18. Rd8 Be6 19. Rxa8 Rxa8 20. Kg3
+Ke8 21. h4 Rd8 22. Rxd8+ Kxd8 23. h5 Ne7 24. Nd4 c5 25. Nxe6+ fxe6 26. f4 Nc6
+27. Ne4 b6 28. c3 Ne7 29. Kf3 Ke8 30. Ng3 a4 31. a3 Nc6 32. Ke4 Na5 33. Kd3 Kf7
+34. c4 Nc6 35. Ne2 g5 36. hxg6+ Kxg6 37. Ke4 Na5 38. f5+ exf5+ 39. gxf5+ Kf7
+40. Nf4 c6 41. Kd3 Nb3 42. Ne2 h5 43. Nf4 h4 44. Nh3 Nd4 45. Ke4 Kg7 46. Kf4
+Kf7 47. Ng5+ Kg7 48. Kg4 Kh6 49. e6 h3 50. e7 1-0
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.03"]
+[Round "6"]
+[White "Secer, Ata"]
+[Black "Raes, A."]
+[Result "1-0"]
+[ECO "C97"]
+[WhiteElo "2320"]
+[BlackElo "2201"]
+[PlyCount "119"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. d5 c4 13. b4 cxb3 14. axb3 Bd7 15. Ba3
+Bd8 16. Nbd2 Ne8 17. Rc1 Qb6 18. b4 Nb7 19. c4 bxc4 20. Nxc4 Qa7 21. Bb2 Bb5
+22. Na3 Nc7 23. Nxb5 Nxb5 24. Bd3 Bb6 25. Qe2 Nc7 26. Rc6 Rfd8 27. Ra1 Rd7 28.
+Bc1 Nd8 29. Rc2 Qb7 30. Rca2 Rc8 31. Bxa6 Nxa6 32. Qxa6 Rdc7 33. Bd2 Kf8 34.
+Qxb7 Rxb7 35. Rc1 Rxc1+ 36. Bxc1 Ke7 37. Bd2 g6 38. g4 f6 39. Kf1 Nf7 40. Ke2
+Ba7 41. Ne1 f5 42. f3 f4 43. h4 Kd7 44. Nd3 Bd4 45. Be1 Ra7 46. Rxa7+ Bxa7 47.
+Kd2 Kc7 48. Kc3 Bd4+ 49. Kc4 Kb6 50. Bf2 Bxf2 51. Nxf2 h5 52. g5 Nd8 53. Nd1
+Nb7 54. Kb3 Nd8 55. Ka4 Nf7 56. Nb2 Ka6 57. Nc4 Ka7 58. Ka5 Kb7 59. Kb5 Kc7 60.
+Ka6 1-0
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.04"]
+[Round "7"]
+[White "Annaberdiev, Meilis"]
+[Black "Klinova, Masha"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "2444"]
+[BlackElo "2290"]
+[PlyCount "83"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. Bxc6 bxc6 8.
+Qf3 c5 9. Nf5 h6 10. O-O Bxf5 11. exf5 Be7 12. Qc6+ Kf8 13. Re1 Rb8 14. Qa6 Kg8
+15. Qxa7 Kh7 16. b3 d5 17. Bf4 Bd6 18. Bg3 Qd7 19. Qa6 Bxg3 20. hxg3 Qxf5 21.
+Qd3 Qxd3 22. cxd3 c4 23. dxc4 dxc4 24. bxc4 Rb4 25. Nd5 Rxc4 26. Nxf6+ gxf6 27.
+Rec1 Rxc1+ 28. Rxc1 Rc8 29. a4 Kg7 30. Kf1 Kf8 31. Ke2 Ke7 32. Kd3 c5 33. Kc4
+Ra8 34. Kb5 Rb8+ 35. Kc6 Rb2 36. a5 Ra2 37. Rxc5 Rxf2 38. a6 Ra2 39. Kb6 Kd6
+40. Rb5 Kd7 41. a7 Kc8 42. Rc5+ 1-0
+
+[Event "Izmir op 7th"]
+[Site "Izmir"]
+[Date "2008.09.04"]
+[Round "7"]
+[White "Emiroglu, Cankut"]
+[Black "Secer, Ata"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2028"]
+[BlackElo "2320"]
+[PlyCount "110"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 Nc6 2. d3 e6 3. Nf3 d5 4. Nbd2 Nf6 5. g3 Be7 6. Bg2 O-O 7. O-O b5 8. Re1
+Nd7 9. e5 a5 10. Nf1 b4 11. h4 Ba6 12. Bf4 a4 13. Ne3 a3 14. Ng4 Rc8 15. b3 Nd4
+16. Ng5 c5 17. Nh2 Qe8 18. Bh3 Kh8 19. Rc1 Nb5 20. Qh5 Bxg5 21. hxg5 f5 22. Qf3
+Nc3 23. Ra1 c4 24. d4 cxb3 25. cxb3 Qe7 26. Bf1 Bxf1 27. Nxf1 Ne4 28. Qh1 Nxg5
+29. f3 Rc3 30. Ne3 Rfc8 31. Kf2 Nf7 32. Nd1 Rc2+ 33. Re2 Nb8 34. Qe1 Qb7 35.
+Kg1 Qb5 36. Rxc2 Rxc2 37. Rc1 Rxc1 38. Bxc1 Qd3 39. Be3 Nc6 40. Nf2 Qc2 41. Qa1
+Kg8 42. f4 Qb2 43. Qc1 Qxc1+ 44. Bxc1 Nxd4 45. Kf1 Nd8 46. Nd3 N8c6 47. Bd2
+Nxb3 48. Bxb4 Nc1 49. Nxc1 Nxb4 50. Ke2 d4 51. Nb3 Nxa2 52. Nxd4 Nc3+ 53. Kd3
+a2 54. Nb3 Ne4 55. g4 Nc5+ 0-1
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.08.30"]
+[Round "1"]
+[White "Stenzel, Harold"]
+[Black "Nikolayev, Igor"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2084"]
+[BlackElo "2316"]
+[PlyCount "30"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Nxe4 8.
+Bxb4 Nxb4 9. Bxf7+ Kxf7 10. Qb3+ d5 11. Qxb4 Rf8 12. O-O Kg8 13. Nc3 Rxf3 14.
+gxf3 Qg5+ 15. Kh1 Bh3 0-1
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.08.30"]
+[Round "2"]
+[White "Chandran, Kapil"]
+[Black "Stenzel, Harold"]
+[Result "1-0"]
+[ECO "C01"]
+[BlackElo "2084"]
+[PlyCount "77"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Be7 6. Nf3 O-O 7. Be2 Re8 8.
+O-O Nc6 9. Bg5 Be6 10. c5 h6 11. Bh4 Nh7 12. Bg3 Bf6 13. Qa4 Ne7 14. Rfd1 Nf5
+15. Bf4 Ng5 16. Ne5 c6 17. b4 Ne4 18. Nxe4 dxe4 19. b5 Bxe5 20. Bxe5 Bd5 21.
+Bc4 Qg5 22. Bxd5 cxd5 23. Qb3 Re6 24. Qxd5 Nh4 25. Qxe4 f6 26. Qxb7 Rae8 27.
+Bg3 Nf5 28. d5 R6e7 29. Qc6 Nd4 30. Qxe8+ Rxe8 31. Rxd4 Re2 32. Rad1 Kf7 33. h4
+Qf5 34. d6 Qxc5 35. d7 Qxb5 36. d8=Q Rxa2 37. Rd7+ Kg6 38. Qe8+ Kh7 39. Rxg7+
+1-0
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.08.30"]
+[Round "2"]
+[White "Rabin, Evan Z"]
+[Black "Parry, Matthew"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "1985"]
+[BlackElo "2270"]
+[PlyCount "59"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nc3 Nf6 4. d3 Na5 5. Nge2 Bc5 6. O-O c6 7. Bg5 h6 8.
+Bxf6 Qxf6 9. Kh1 g5 10. Ng3 d6 11. Rb1 Nxc4 12. dxc4 Be6 13. Qd3 h5 14. Nf5
+O-O-O 15. b4 Bd4 16. Nxd4 exd4 17. Ne2 c5 18. bxc5 dxc5 19. Qa3 Bxc4 20. Qxa7
+Qc6 21. Rb6 Qxe4 22. Ng3 Qd5 23. Rfb1 Kd7 24. Rxb7+ Ke8 25. Rb8 d3 26. cxd3
+Bxd3 27. Rxd8+ Qxd8 28. Rb8 Rh6 29. Rxd8+ Kxd8 30. Qxc5 1-0
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.08.30"]
+[Round "2"]
+[White "Sells, Philip G"]
+[Black "Tuhrim, Richard"]
+[Result "0-1"]
+[ECO "C11"]
+[BlackElo "2030"]
+[PlyCount "74"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nce2 Nc6 7. c3 Qb6 8. Nf3
+Be7 9. a3 a5 10. g3 a4 11. Bh3 Qb5 12. O-O Nb6 13. g4 h5 14. gxh5 Rxh5 15. Bg4
+Rh8 16. Ng3 g6 17. Rf2 Nc4 18. Qe2 b6 19. Be3 Ba6 20. Ng5 cxd4 21. Bxd4 Qb3 22.
+Qd1 Qxd1+ 23. Bxd1 Bxg5 24. fxg5 b5 25. Bc2 N4xe5 26. Re1 Nxd4 27. cxd4 Nc6 28.
+Rf4 Bc8 29. Bd3 Rb8 30. Rc1 Bd7 31. h4 Ke7 32. Rc5 Na5 33. Nh1 Rhc8 34. Nf2
+Rxc5 35. dxc5 Nc6 36. Rf3 e5 37. Bc2 Nd4 0-1
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.08.31"]
+[Round "3"]
+[White "Altschuler, Bruce"]
+[Black "Nikolayev, Igor"]
+[Result "0-1"]
+[ECO "C65"]
+[BlackElo "2316"]
+[PlyCount "68"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. O-O O-O 7. Bg5 h6 8. Bh4
+d6 9. Qd3 exd4 10. cxd4 g5 11. Bxc6 bxc6 12. Bg3 Nh5 13. Nc3 f5 14. exf5 Bxf5
+15. Qc4+ Kg7 16. Qxc6 Nxg3 17. hxg3 Qe8 18. Qxe8 Raxe8 19. Rfe1 g4 20. Nh4
+Rxe1+ 21. Rxe1 Bxd4 22. Re7+ Kh8 23. Rxc7 Bc2 24. Kh2 Rxf2 25. Nb5 Be5 26. Rxa7
+Bd3 27. Rb7 Re2 28. Nxd6 Bxd6 29. Rd7 Re6 30. a4 Kg8 31. b4 Kf8 32. b5 Ke8 33.
+Rg7 h5 34. b6 Re3 0-1
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.08.31"]
+[Round "3"]
+[White "Sharp, Dale Eugene"]
+[Black "Green, Liberty V"]
+[Result "1-0"]
+[ECO "C34"]
+[WhiteElo "2063"]
+[PlyCount "91"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. d4 d5 6. Be2 g6 7. O-O Be7 8. c4 c6
+9. Nc3 Na6 10. cxd5 cxd5 11. Bb5+ Kf8 12. Be2 h6 13. Ne1 Ng7 14. Bxf4 Nf5 15.
+Qd2 Kg7 16. Nc2 Be6 17. Ne3 Nb4 18. Nxf5+ Bxf5 19. Be3 Qd7 20. Rac1 Rad8 21. a3
+Nc6 22. h3 h5 23. Qe1 Be6 24. Qg3 Rc8 25. Nb5 Rcf8 26. Bg5 f6 27. exf6+ Bxf6
+28. Bxf6+ Rxf6 29. Rxf6 Kxf6 30. Nxa7 Nxd4 31. Qc3 Qa4 32. Nb5 Rc8 33. Rf1+ Ke7
+34. Qxd4 Qxd4+ 35. Nxd4 Bf7 36. Bd3 Rc7 37. Re1+ Kf6 38. Nb5 Rd7 39. Rc1 Re7
+40. Kf2 Be8 41. Re1 Bxb5 42. Bxb5 Rc7 43. Ke3 Rc5 44. Bd3 Rc6 45. Kd4 Rb6 46.
+Re5 1-0
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.08.31"]
+[Round "3"]
+[White "Stenzel, Harold"]
+[Black "Sells, Philip G"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2084"]
+[PlyCount "71"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 d5 9. exd5 Nxd5 10. Qb3 Nce7 11. O-O c6 12. Rfe1 O-O 13. Rac1 Qb6 14.
+Qa3 Qc7 15. Re5 Be6 16. Ng5 Qd7 17. Nxe6 fxe6 18. Rce1 Nf5 19. Rxe6 Nxd4 20.
+Re7 Qf5 21. Qg3 Rf7 22. Rxf7 Qxf7 23. Qe5 Nf5 24. Nf3 h6 25. Bb3 Kf8 26. g4
+Nfe7 27. Nd4 Qf6 28. Ne6+ Kf7 29. Qd6 Kg8 30. f4 Qxb2 31. Nc7 Rf8 32. Qxe7 Rxf4
+33. Qe2 Qd4+ 34. Kh1 Rxg4 35. Qe8+ Kh7 36. Bc2+ 1-0
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.08.31"]
+[Round "3"]
+[White "Zheng, Haotian"]
+[Black "Adamec, Carl"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[PlyCount "120"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. bxc3 Be7 7. Qd5 Nh6 8.
+Bxh6 O-O 9. Be3 d6 10. Qh5 Be6 11. Bxe6 fxe6 12. Nbd2 a6 13. O-O Bf6 14. Ng5
+Bxg5 15. Bxg5 Qd7 16. Nf3 e5 17. Rad1 Qe6 18. Rd5 Rf7 19. h3 h6 20. Re1 Rxf3
+21. Qxf3 hxg5 22. Qh5 Ne7 23. Rd3 Rf8 24. Qxg5 Qxa2 25. Qd2 Qc4 26. Rde3 b6 27.
+Ra1 a5 28. Qc2 Ng6 29. Ra4 Qe6 30. Qa2 Nf4 31. Qxe6+ Nxe6 32. g3 Rf7 33. h4 Nc5
+34. Ra2 Kf8 35. Kg2 Ke8 36. Kh3 Rf6 37. h5 Kd7 38. Kg4 Ne6 39. Rf3 Rh6 40. Rf5
+Ke7 41. Kf3 Nc5 42. Ke3 a4 43. c4 c6 44. Rg5 Ne6 45. Rg6 b5 46. Rxh6 gxh6 47.
+cxb5 cxb5 48. f3 Nd4 49. f4 Kf6 50. Kd3 Ne6 51. Rb2 exf4 52. gxf4 Nxf4+ 53. Ke3
+Nxh5 54. Rxb5 Ng7 55. Ra5 Ne6 56. Rxa4 Nc5 57. Rd4 Ke6 58. Rd5 Nd7 59. Rh5 Ne5
+60. Rxh6+ Kd7 1/2-1/2
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.08.31"]
+[Round "4"]
+[White "Sells, Philip G"]
+[Black "Thau, Peter L"]
+[Result "1-0"]
+[ECO "C16"]
+[PlyCount "51"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. a3 Bxc3+ 6. bxc3 b6 7. Nf3 Ba6 8.
+Bxa6 Nxa6 9. a4 Ne7 10. Qd3 Nb8 11. O-O Nbc6 12. Ng5 g6 13. Qf3 Nf5 14. g4 Ng7
+15. Qf6 O-O 16. Ba3 Rfc8 17. Rae1 h6 18. Re3 Ne8 19. Qf4 Kg7 20. Rh3 h5 21.
+gxh5 Nxd4 22. cxd4 c5 23. hxg6 Kf8 24. Rh8+ Ke7 25. Qxf7+ Kd8 26. Nxe6+ 1-0
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.09.01"]
+[Round "5"]
+[White "Chandran, Kapil"]
+[Black "Johnson, Ernest T"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "93"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bd3 Nc6
+8. Be3 Bg4 9. h3 Bh5 10. g4 Bg6 11. Qd2 Ne5 12. Nxe5 dxe5 13. O-O-O Bxd3 14.
+cxd3 Qd7 15. d4 e4 16. Qc2 f5 17. gxf5 Qxf5 18. Rhg1 Bf6 19. Rg4 O-O-O 20. Qxe4
+Qd7 21. Qg2 Qa4 22. a3 Rd6 23. d5 Qa5 24. Rd2 Rhd8 25. c4 Ra6 26. Bd4 Bxd4 27.
+Rgxd4 g6 28. Qg4+ Kb8 29. Qh4 Re8 30. Qxh7 Rf6 31. Qd7 Ref8 32. Re4 a6 33. Qg7
+Rxf2 34. Rxf2 Rxf2 35. Re8+ Ka7 36. Qd4+ Qb6 37. Qh8 Rf1+ 38. Kc2 Rf2+ 39. Kb1
+Rf1+ 40. Ka2 Qg1 41. Ra8+ Kb6 42. Qc3 Ra1+ 43. Kb3 Qd1+ 44. Kb4 c5+ 45. dxc6
+bxc6 46. Qe3+ Kc7 47. Qe7+ 1-0
+
+[Event "New York State-ch 130th"]
+[Site "Colonie"]
+[Date "2008.09.01"]
+[Round "5"]
+[White "Katz, Benjamin"]
+[Black "Aaron, Deepak"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2102"]
+[BlackElo "2009"]
+[PlyCount "113"]
+[EventDate "2008.08.30"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]

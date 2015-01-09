@@ -1,0 +1,600 @@
+[Round "2"]
+[White "Ui Laighleis, Gearoidin"]
+[Black "Loughran, John"]
+[Result "0-1"]
+[ECO "D15"]
+[WhiteElo "1985"]
+[BlackElo "1805"]
+[PlyCount "126"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Bf5 3. c4 e6 4. Nc3 c6 5. Bg5 Nf6 6. e3 Nbd7 7. Be2 h6 8. Bh4
+Be7 9. O-O O-O 10. Qb3 Qb6 11. Ne5 Rfe8 12. Nxd7 Nxd7 13. Bxe7 Rxe7 14. Qa3
+Ree8 15. b3 Nf6 16. Na4 Qd8 17. Nc5 Qe7 18. Qc1 e5 19. dxe5 Qxe5 20. Nd3 Bxd3
+21. Bxd3 Ng4 22. g3 Qh5 23. h4 g5 24. Kg2 Ne5 25. Qd1 Qxd1 26. Raxd1 Rad8 27.
+cxd5 Rxd5 28. Bb1 Red8 29. Rxd5 Rxd5 30. hxg5 hxg5 31. Rh1 Kg7 32. Rh7+ Kf6 33.
+Rh6+ Kg7 34. Rh7+ Kf6 35. Rh6+ Ke7 36. Rh1 Rd2 37. Rf1 Ng4 38. Kg1 Ke6 39. e4
+a6 40. a3 c5 41. Rc1 b6 42. Rf1 b5 43. f4 Ne3 44. f5+ Ke5 45. Rc1 c4 46. bxc4
+bxc4 47. Kh1 c3 48. Rxc3 Rd1+ 49. Kh2 Nf1+ 50. Kh3 Rxb1 51. Kg4 f6 52. Rc5+
+Kxe4 53. Rc4+ Kd5 54. Rc3 Rb6 55. Kh5 Kd4 56. Rf3 Ne3 57. Kg6 Nd5 58. Rf1 Rb3
+59. Rd1+ Rd3 60. Re1 Rxg3 61. Rd1+ Rd3 62. Ra1 Ke5 63. Re1+ Re3 0-1
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.07"]
+[Round "3"]
+[White "Benson, Oisin P"]
+[Black "Ui Laighleis, Gearoidin"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "1852"]
+[BlackElo "1985"]
+[PlyCount "87"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 Nbd7 8.
+Qc2 O-O 9. Nf3 Re8 10. O-O Nf8 11. Rab1 h6 12. Bh4 Ne4 13. Bxe7 Qxe7 14. Bxe4
+dxe4 15. Nd2 f5 16. b4 Rd8 17. Rfc1 Ne6 18. Na4 Kh8 19. b5 cxb5 20. Rxb5 g6 21.
+Nc5 b6 22. Nxe6 Qxe6 23. Re5 Qd7 24. Qc7 Re8 25. Rxe8+ Qxe8 26. Nc4 Be6 27.
+Qe5+ Kg8 28. Nd6 Qe7 29. d5 Rd8 30. Nc8 Qf7 31. Qxe6 Qxe6 32. dxe6 Kg7 33. g3
+Kf6 34. e7 Re8 35. Rc6+ Kg7 36. Rc7 Kf6 37. Rc6+ Kg7 38. Kf1 g5 39. Ke2 h5 40.
+h4 gxh4 41. gxh4 b5 42. Kd2 a6 43. Kc3 a5 44. Kb3 1-0
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.07"]
+[Round "3"]
+[White "Jeffares, Simon"]
+[Black "Fox, Anthony"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[WhiteElo "2111"]
+[BlackElo "2068"]
+[PlyCount "38"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. Bg5 O-O 6. e3 h6 7. Bxf6 Bxf6 8.
+cxd5 exd5 9. Be2 Be6 10. b4 c6 11. O-O Nd7 12. Rc1 Be7 13. a3 a5 14. Qb3 axb4
+15. axb4 b5 16. Ne1 Nb6 17. Nc2 Nc4 18. Rfe1 Qb6 19. Bd3 Rfd8 1/2-1/2
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.07"]
+[Round "3"]
+[White "Loughran, John"]
+[Black "Quinn, Ciaran"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "1805"]
+[BlackElo "2156"]
+[PlyCount "69"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 O-O 7. cxd5 exd5 8.
+Bd3 Re8 9. O-O c6 10. Qc2 h6 11. Bh4 Nf8 12. Rfb1 Nh5 13. Bg3 Nxg3 14. hxg3 Bd6
+15. b4 a6 16. a4 Bg4 17. b5 axb5 18. axb5 Rxa1 19. Rxa1 Qe7 20. bxc6 bxc6 21.
+Nh2 Bd7 22. Nf1 Ne6 23. Ra7 Qd8 24. Qa4 Nf8 25. Qc2 Qf6 26. Na4 Rb8 27. Nc5
+Bxc5 28. Qxc5 Rb2 29. f3 Rb8 30. Qa3 Bf5 31. Bxf5 Qxf5 32. Qe7 Rb2 33. e4 dxe4
+34. Ne3 Qb5 35. Qxf7+ 1-0
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.07"]
+[Round "3"]
+[White "Weeks, Manuel William"]
+[Black "Conquest, Stuart"]
+[Result "0-1"]
+[ECO "D22"]
+[WhiteElo "2174"]
+[BlackElo "2536"]
+[PlyCount "66"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 Bg4 5. Bxc4 e6 6. h3 Bh5 7. Nc3 a6 8. a4
+Nc6 9. O-O Bd6 10. Be2 O-O 11. b3 Qe8 12. Bb2 Rd8 13. Nd2 Bg6 14. Nc4 Bb4 15.
+Qc1 Ne4 16. Bf3 Bxc3 17. Bxc3 Qe7 18. Bb2 Qh4 19. Bxe4 Bxe4 20. Qc3 f6 21. Nd2
+Bg6 22. Nf3 Qe4 23. Rac1 Rd7 24. b4 Ne7 25. Qb3 Nd5 26. Rc5 Rfd8 27. b5 axb5
+28. Rxb5 b6 29. Rc1 Be8 30. Qc4 Rd6 31. Rb3 Rc6 32. Qa6 Rxc1+ 33. Bxc1 Qc2 0-1
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.08"]
+[Round "4"]
+[White "Quinn, Ciaran"]
+[Black "Carosso, Andrea"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2156"]
+[BlackElo "2046"]
+[PlyCount "81"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. g3 dxc4 5. Bg2 Be6 6. Nh3 Bxh3 7. Bxh3 Nbd7 8.
+f4 e6 9. O-O Qa5 10. Bg2 h5 11. e4 h4 12. g4 h3 13. Bf3 O-O-O 14. Qe2 Nb6 15.
+Be3 c5 16. d5 exd5 17. exd5 Nfxd5 18. Rfd1 Nxc3 19. Rxd8+ Kxd8 20. Qd2+ Kc7 21.
+bxc3 Be7 22. Bf2 Rd8 23. Qe3 Bf6 24. Qe4 Qa6 25. Bxc5 Na4 26. Bd4 Bxd4+ 27.
+cxd4 Qc6 28. Qe5+ Qd6 29. Rc1 Qxe5 30. Rxc4+ Kb8 31. dxe5 Nb6 32. Rc2 Rd3 33.
+Kf2 Nd5 34. f5 Nc7 35. g5 b6 36. Bh5 Rd7 37. Kg3 Rd3+ 38. Kh4 Re3 39. Re2 Rxe2
+40. Bxe2 g6 41. Bc4 1-0
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.09"]
+[Round "5"]
+[White "Butnorius, Algimantas"]
+[Black "Baburin, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2442"]
+[BlackElo "2526"]
+[PlyCount "19"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. b3 Bg4 7. Be2 e6 8. O-O Nbd7
+9. Bb2 Bd6 10. Ne5 1/2-1/2
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.09"]
+[Round "5"]
+[White "McCarthy, Tim"]
+[Black "Ui Laighleis, Gearoidin"]
+[Result "1-0"]
+[ECO "D97"]
+[WhiteElo "2020"]
+[BlackElo "1985"]
+[PlyCount "61"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 c6 8. Qb3
+Nfd7 9. Bg5 Nb6 10. Rd1 N8d7 11. e5 Nb8 12. Be2 Be6 13. Qc2 Nd5 14. O-O Re8 15.
+Qd2 Nxc3 16. bxc3 Nd7 17. Bh6 Bg4 18. Bxg7 Bxf3 19. Bh6 Bxe2 20. Qxe2 Nb6 21.
+h4 Nd5 22. Rd3 e6 23. Bg5 Ne7 24. h5 Qd5 25. Qe3 Nf5 26. Qf4 gxh5 27. Rh3 f6
+28. Bxf6 Kf7 29. Rxh5 h6 30. Rxh6 Nxh6 31. Qxh6 1-0
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.09"]
+[Round "5"]
+[White "Orr, Mark JL"]
+[Black "Quinn, Ciaran"]
+[Result "1/2-1/2"]
+[ECO "D66"]
+[WhiteElo "2258"]
+[BlackElo "2156"]
+[PlyCount "62"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Rc1 Re8 8. Bd3
+c6 9. O-O dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. Re1 Nxc3 13. Rxc3 e5 14. h3 e4
+15. Nd2 Nb6 16. Qh5 Be6 17. a3 Rad8 18. Bxe6 Qxe6 19. Qa5 Nd5 20. Rc2 a6 21.
+Qa4 Rd6 22. Qc4 Qd7 23. Qf1 Rg6 24. g3 b5 25. Kh2 f5 26. Nb1 f4 27. exf4 Qf5
+28. Rce2 Nxf4 29. gxf4 Qxf4+ 30. Kh1 Qf3+ 31. Kh2 Qf4+ 1/2-1/2
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.10"]
+[Round "6"]
+[White "Butnorius, Algimantas"]
+[Black "Greenfeld, Alon"]
+[Result "0-1"]
+[ECO "D87"]
+[WhiteElo "2442"]
+[BlackElo "2545"]
+[PlyCount "56"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Qd2 e5 13. dxe5 Be6 14. Rad1 Qe8
+15. Bh6 Nc4 16. Qc1 Bxh6 17. Qxh6 Nxe5 18. Nf4 Bxa2 19. c4 f6 20. Be2 Bxc4 21.
+Bxc4+ Nxc4 22. Nd5 Qf7 23. f4 Kh8 24. Qh3 Rad8 25. Qc3 b5 26. g4 Nb6 27. Nxf6
+Rxd1 28. Nd7+ Qg7 0-1
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.10"]
+[Round "6"]
+[White "Hebden, Mark"]
+[Black "Baburin, Alexander"]
+[Result "0-1"]
+[ECO "D27"]
+[WhiteElo "2520"]
+[BlackElo "2526"]
+[PlyCount "88"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 a6 5. Bxc4 e6 6. O-O b5 7. Bb3 Bb7 8. a4
+b4 9. Nbd2 c5 10. a5 Nbd7 11. Ba4 Be7 12. dxc5 Bxc5 13. e4 O-O 14. e5 Nd5 15.
+Ne4 Be7 16. Qd4 Qxa5 17. Bg5 Qd8 18. Nd6 Bxg5 19. Nxb7 Qc7 20. Nxg5 Qxb7 21.
+Qd3 g6 22. Qh3 h5 23. f4 Nc5 24. Bd1 Kg7 25. g4 Rh8 26. gxh5 Rad8 27. Rc1 Qb6
+28. Kh1 Qb5 29. Bg4 Nd3 30. Qg3 Nxc1 31. Rxc1 Ne7 32. hxg6 Nxg6 33. Bf3 Rd2 34.
+h3 Qd3 35. Ne4 Rxb2 36. Nd6 Rb1 37. Rxb1 Qxb1+ 38. Kh2 Qc1 39. f5 Qb2+ 40. Bg2
+Qxe5 41. fxg6 Qxg3+ 42. Kxg3 Kxg6 43. h4 a5 44. Bc6 b3 0-1
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.10"]
+[Round "6"]
+[White "McCarthy, Tim"]
+[Black "Cafolla, Peter"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2020"]
+[BlackElo "2055"]
+[PlyCount "76"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Qb3 Na5 13. Qc2 Bg4 14. Nf5 Bb4 15.
+h3 Bh5 16. Rfd1 Rc8 17. g4 Bg6 18. Rac1 Kh7 19. Qb1 Re5 20. Nxd5 Rxc1 21. Nxf6+
+Qxf6 22. Rxc1 Rxf5 23. gxf5 Bxf5 24. Qa1 Qg6 25. Bf4 Bd2 26. Bg3 Bxc1 27. Qxc1
+Qe6 28. Qf4 Bg6 29. b4 Nc6 30. b5 Na5 31. Qa4 b6 32. e4 Nc4 33. Qc2 Nd6 34. Qc6
+Nxe4 35. Qxe6 fxe6 36. Bxe4 Bxe4 37. Bb8 Bd3 38. Bxa7 Bxb5 1/2-1/2
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.11"]
+[Round "7"]
+[White "Baburin, Alexander"]
+[Black "Jessel, Stephen"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2526"]
+[BlackElo "2294"]
+[PlyCount "121"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. c4 d5 3. Nf3 c6 4. e3 Nf6 5. Bd3 Nbd7 6. O-O Bd6 7. Nbd2 O-O 8. e4
+e5 9. cxd5 cxd5 10. exd5 exd4 11. Ne4 Nxe4 12. Bxe4 Nf6 13. Bg5 Be7 14. Bc2
+Nxd5 15. Bxe7 Qxe7 16. Re1 Qf6 17. Qd3 g6 18. Qxd4 Qxd4 19. Nxd4 b6 20. Be4 Bb7
+21. Nb5 Rfd8 22. Rac1 Rd7 23. Red1 Rad8 24. Kh1 Nb4 25. Rxd7 Rxd7 26. Bxb7 Rxb7
+27. a3 Nd3 28. Rc2 Re7 29. h3 a6 30. Nd4 Re1+ 31. Kh2 Rb1 32. b3 a5 33. Rc6
+Nxf2 34. Rxb6 a4 35. Rb4 axb3 36. Rxb3 Ra1 37. Re3 Rd1 38. Nf3 f5 39. Kg3 Nd3
+40. Re8+ Kf7 41. Rd8 f4+ 42. Kh4 Kf6 43. a4 Nb2 44. Rxd1 Nxd1 45. Kg4 Nc3 46.
+a5 Nd5 47. Nd2 h5+ 48. Kf3 Kf5 49. h4 g5 50. hxg5 Kxg5 51. a6 h4 52. Nc4 Nc7
+53. a7 Na8 54. Ne5 Kf5 55. Nd3 Nc7 56. Nxf4 Na8 57. Nd5 Kg5 58. Ne3 Nb6 59. Ke4
+Na8 60. Kd5 Kf4 61. Nf1 1-0
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.11"]
+[Round "7"]
+[White "Hebden, Mark"]
+[Black "Daly, Colm"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[WhiteElo "2520"]
+[BlackElo "2311"]
+[PlyCount "107"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. c4 a6 5. Nc3 d5 6. cxd5 exd5 7. g3 Nc6 8. Bg2
+c4 9. Ne5 Bb4 10. O-O O-O 11. Bd2 Qd6 12. Nxc6 bxc6 13. a3 Bxc3 14. Bxc3 Re8
+15. b3 cxb3 16. Qxb3 Bf5 17. Rfc1 h5 18. Qb6 Reb8 19. Qc5 Qxc5 20. dxc5 Ne4 21.
+Be1 Rb5 22. f3 Ng5 23. h4 Ne6 24. Bf2 Bd3 25. e4 d4 26. Ra2 Rab8 27. Rd2 Rb1
+28. Rxb1 Rxb1+ 29. Kh2 Rb3 30. Bh3 Bc4 31. Bxd4 Rxa3 32. f4 Rd3 33. Rxd3 Bxd3
+34. Bxe6 fxe6 35. Bc3 Bxe4 36. Kg1 Kh7 37. Kf2 Kg6 38. Ke3 Bb1 39. Ba5 Kf5 40.
+Bd8 e5 41. fxe5 Kxe5 42. Bb6 g6 43. Kd2 Kd4 44. Kc1 Bf5 45. Kb2 Kc4 46. Ba7 Kb4
+47. Bb6 a5 48. Ba7 a4 49. Bb6 a3+ 50. Ka1 Bc2 51. Ba7 Bb3 52. Bb6 Kc4 53. Ba7
+Kd5 54. Bb6 1/2-1/2
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.11"]
+[Round "7"]
+[White "Orr, Mark JL"]
+[Black "Butnorius, Algimantas"]
+[Result "0-1"]
+[ECO "D91"]
+[WhiteElo "2258"]
+[BlackElo "2442"]
+[PlyCount "72"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 Nbd7 4. Nf3 g6 5. c4 c6 6. Nc3 Bg7 7. cxd5 Nxd5 8.
+Nxd5 cxd5 9. Be2 O-O 10. O-O Nb6 11. Rc1 Bg4 12. Ne1 Bxe2 13. Qxe2 Qd7 14. Nd3
+Rfe8 15. b3 Qf5 16. Bf4 Rac8 17. Qd2 Nd7 18. h3 h5 19. Bg3 Nf6 20. f3 Bh6 21.
+Bf2 Nd7 22. Rxc8 Rxc8 23. Rc1 Rxc1+ 24. Nxc1 Qb1 25. Kh2 Nb8 26. Ne2 Qf1 27.
+Nc3 e6 28. Nd1 Nc6 29. b4 Bf8 30. a3 a5 31. bxa5 Bxa3 32. e4 Bb4 33. Qc2 Bxa5
+34. exd5 exd5 35. Qb3 Bc7+ 36. g3 h4 0-1
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.12"]
+[Round "8"]
+[White "O'Connell, Gerard"]
+[Black "Carosso, Andrea"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "2122"]
+[BlackElo "2046"]
+[PlyCount "108"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 a6 6. Bf4 Bf5 7. e3 e6 8. Be2
+Be7 9. O-O O-O 10. Nh4 Bg6 11. Nxg6 hxg6 12. Qb3 b5 13. Rfc1 Bd6 14. g3 Bxf4
+15. gxf4 Nbd7 16. a4 bxa4 17. Rxa4 Ne4 18. Nxe4 dxe4 19. Rxa6 Rb8 20. Qc2 g5
+21. Qxe4 Rxb2 22. Bd3 Nf6 23. Qf3 g4 24. Qg2 Rd2 25. Be4 Nxe4 26. Qxe4 Qh4 27.
+Rf1 g6 28. Ra8 Rxa8 29. Qxa8+ Kg7 30. Qa5 Re2 31. Qb5 Rd2 32. Qb4 Re2 33. Qc4
+Rb2 34. Qc3 Rb5 35. e4 Qf6 36. Rd1 Qxf4 37. d5+ Qf6 38. e5 Qf3 39. Qxf3 gxf3
+40. d6 Rb8 41. h3 f6 42. Kh2 fxe5 43. Kg3 Kf7 44. Kxf3 Ke8 45. d7+ Kd8 46. Ke4
+Rb2 47. Kxe5 Rxf2 48. Rd3 g5 49. Kxe6 Rf1 50. Rd5 Re1+ 51. Kd6 Re3 52. Rxg5
+Rd3+ 53. Ke6 Re3+ 54. Kf7 Rxh3 1/2-1/2
+
+[Event "IRL-ch"]
+[Site "Dublin"]
+[Date "2008.07.13"]
+[Round "9"]
+[White "Benson, Oisin P"]
+[Black "Cafolla, Peter"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "1852"]
+[BlackElo "2055"]
+[PlyCount "139"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "IRL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 cxd4 10. Nxd4 Re8 11. Rc1 h6 12. Be3 Bg4 13. h3 Be6 14. Nxc6 bxc6
+15. Na4 Qd7 16. Kh2 Rab8 17. b3 Bf5 18. Bc5 Bd8 19. e3 Ne4 20. Bd4 Ng5 21. Nc5
+Qc8 22. h4 Ne6 23. Nxe6 Qxe6 24. Qd2 Rb7 25. Qc3 Rc7 26. Rfd1 Kh7 27. Qa5 Qd7
+28. Qa6 Re6 29. Qf1 g5 30. Bh3 Bxh3 31. Qxh3 gxh4 32. gxh4 Qd6+ 33. Qg3 Bxh4
+34. Qxd6 Rxd6 35. Be5 Rcd7 36. Bxd6 Rxd6 37. Rc2 Be7 38. Rdc1 Rf6 39. Kg2 c5
+40. Rd1 Rd6 41. Rcd2 Ra6 42. Rxd5 Kg6 43. R1d2 h5 44. Kh3 Re6 45. Rd1 Re4 46.
+Rg1+ Kh6 47. Rg8 c4 48. bxc4 Rxc4 49. Rh8+ Kg7 50. Rhxh5 Rc2 51. Kg2 Bb4 52. a4
+a5 53. Rxa5 Bxa5 54. Rxa5 Ra2 55. Kg3 Kg6 56. f4 Ra3 57. f5+ Kg5 58. Kf3 Ra1
+59. Ke4 Re1 60. Ra8 Rb1 61. Rd8 Ra1 62. Rd4 Ra3 63. Rb4 Kg4 64. Ke5+ Kg5 65. e4
+Rc3 66. Kd4 Rc1 67. Rc4 Re1 68. Kc5 Kf4 69. a5 Rb1 70. Rb4 1-0
+
+[Event "La Fere op 7th"]
+[Site "La Fere"]
+[Date "2008.07.05"]
+[Round "1"]
+[White "Brelot, Loic"]
+[Black "Vernede, Victor"]
+[Result "0-1"]
+[ECO "D53"]
+[WhiteElo "1848"]
+[BlackElo "1700"]
+[PlyCount "66"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nc6 4. Nf3 Nf6 5. Bg5 Be7 6. e3 O-O 7. a3 a5 8. Qc2 h6
+9. Bh4 dxc4 10. Bxc4 Nd5 11. Bxe7 Ncxe7 12. e4 Nf4 13. O-O Neg6 14. Kh1 c6 15.
+Rad1 b5 16. Be2 b4 17. axb4 axb4 18. Ra1 Rxa1 19. Rxa1 bxc3 20. bxc3 Nxe2 21.
+Qxe2 Bb7 22. e5 Qb6 23. Nd2 Ra8 24. Rb1 Qa6 25. Qd1 Nf4 26. g3 c5+ 27. Nf3 Qf1+
+28. Qxf1 Bxf3+ 29. Kg1 Ne2+ 30. Qxe2 Bxe2 31. Kg2 cxd4 32. cxd4 Ra4 33. Re1 Bd3
+0-1
+
+[Event "La Fere op 7th"]
+[Site "La Fere"]
+[Date "2008.07.05"]
+[Round "1"]
+[White "Dutel, Francois"]
+[Black "Rigolot, Lucie"]
+[Result "0-1"]
+[ECO "D04"]
+[WhiteElo "1871"]
+[BlackElo "1709"]
+[PlyCount "136"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Nf3 c6 3. e3 Nf6 4. Bd3 Bg4 5. Nbd2 Nbd7 6. c3 e5 7. e4 exd4 8.
+cxd4 dxe4 9. Nxe4 Be7 10. O-O O-O 11. Ng3 Nb6 12. Be3 Nbd5 13. h3 Be6 14. Bd2
+h6 15. Rc1 Bb4 16. a3 Bxd2 17. Qxd2 Nc7 18. Ne4 Bf5 19. Nxf6+ Qxf6 20. Bxf5
+Qxf5 21. Rc5 Nd5 22. b4 a6 23. a4 Qd7 24. Ne5 Qc7 25. b5 axb5 26. axb5 Qa5 27.
+Qb2 Qa4 28. bxc6 bxc6 29. Nxc6 Rfc8 30. Rfc1 Ra6 31. Ne7+ Nxe7 32. Rxc8+ Nxc8
+33. Rxc8+ Kh7 34. Qb1+ Rg6 35. Qd3 Qa1+ 36. Kh2 Qb2 37. Rc2 Qb7 38. d5 Qb8+ 39.
+g3 Qb6 40. Rc6 Qxf2+ 41. Kh1 Qxg3 42. Qxg3 Rxg3 43. Kh2 Rd3 44. Rd6 f6 45. h4
+Kg6 46. Rd7 Kh5 47. d6 Kxh4 48. Kg2 Kh5 49. Kf2 Kg6 50. Ke2 Rd5 51. Kf3 Kf5 52.
+Ke3 g6 53. Rh7 Rxd6 54. Rxh6 Kg5 55. Rh1 f5 56. Rg1+ Kf6 57. Kf4 Rd4+ 58. Ke3
+Ra4 59. Rb1 Re4+ 60. Kf3 g5 61. Rb6+ Re6 62. Rb4 g4+ 63. Kf4 Re4+ 64. Rxe4 fxe4
+65. Kxe4 Kg5 66. Ke3 Kh4 67. Kf2 Kh3 68. Kg1 Kg3 0-1
+
+[Event "La Fere op 7th"]
+[Site "La Fere"]
+[Date "2008.07.05"]
+[Round "1"]
+[White "Eeckhout, Jean Louis"]
+[Black "Molet, Asher"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "1771"]
+[BlackElo "1950"]
+[PlyCount "59"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 Nbd7 6. e3 O-O 7. cxd5 exd5 8.
+Bd3 Re8 9. O-O c6 10. Qc2 Nf8 11. h3 Ne4 12. Bxe7 Qxe7 13. a3 Ng6 14. b4 Nh4
+15. Bxe4 dxe4 16. Nxh4 Qxh4 17. g3 Qxh3 18. Ne2 g5 19. Qc5 h6 20. f4 exf3 21.
+Rxf3 Bg4 22. Rf2 Bxe2 23. Rxe2 Qxg3+ 24. Kf1 Rxe3 25. Rxe3 Qxe3 26. Re1 Qf3+
+27. Kg1 Qd5 28. Qc3 Rd8 29. Rd1 Re8 30. Qh3 0-1
+
+[Event "La Fere op 7th"]
+[Site "La Fere"]
+[Date "2008.07.05"]
+[Round "1"]
+[White "Gobeaut, Benjamin"]
+[Black "Vandervorst, Marc"]
+[Result "1/2-1/2"]
+[ECO "D95"]
+[WhiteElo "1732"]
+[BlackElo "1877"]
+[PlyCount "129"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. Qb3 dxc4 7. Bxc4 Nc6 8.
+Be2 Na5 9. Qc2 b6 10. e4 Nc6 11. d5 Nb4 12. Qa4 a5 13. O-O e6 14. a3 Na6 15.
+Bxa6 Bxa6 16. Rd1 exd5 17. Nxd5 Be2 18. Rd2 Bxf3 19. gxf3 Nxd5 20. Rxd5 Qf6 21.
+Qb3 Rad8 22. Bg5 Qxb2 23. Qxb2 Bxb2 24. Bxd8 c6 25. Rd6 Bxa1 26. Bxb6 Rc8 27.
+Bxa5 c5 28. Rd8+ Rxd8 29. Bxd8 c4 30. Kf1 Bb2 31. Ke1 Bxa3 32. Bf6 Bb4+ 33. Kd1
+Kf8 34. Kc2 Ke8 35. Bc3 Bc5 36. Kd2 Bxf2 37. Be5 Kd7 38. Kc3 Ke6 39. f4 Bg1 40.
+h3 Bh2 41. Bb8 Kd7 42. Kxc4 g5 43. Kd3 Bxf4 44. Ba7 Ke6 45. Ke2 f5 46. exf5+
+Kxf5 47. Kf3 h5 48. Bf2 Be5 49. Be1 Bd6 50. Bf2 Be5 51. Be1 Bd6 52. Bf2 Ke5 53.
+Be3 Be7 54. Bf2 Kd5 55. Be3 Kc4 56. Bb6 Kd3 57. Bc7 Kd2 58. Be5 Kd1 59. Bc3 Ba3
+60. Bf6 Bc1 61. Kf2 Bd2 62. Be7 Be1+ 63. Kf3 Bh4 64. Ke4 Ke2 65. Kf5 1/2-1/2
+
+[Event "La Fere op 7th"]
+[Site "La Fere"]
+[Date "2008.07.05"]
+[Round "1"]
+[White "Godart, Francois"]
+[Black "Bensdorp, Marlies"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "1985"]
+[BlackElo "2284"]
+[PlyCount "116"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 Bd6 5. Bg5 Qa5 6. e3 Nf6 7. Bxf6 gxf6 8. a3
+f5 9. c5 Be7 10. Bd3 Nd7 11. O-O O-O 12. b4 Qc7 13. b5 cxb5 14. Bxb5 Bf6 15.
+Rc1 Nb8 16. Na2 a6 17. Qa4 Bd7 18. Bxd7 Nxd7 19. c6 b5 20. Qb4 Nb6 21. Qa5 Rfc8
+22. Nd2 Be7 23. Nb4 Nc4 24. Nxc4 dxc4 25. Qxc7 Rxc7 26. d5 Bxb4 27. axb4 exd5
+28. Rfd1 Rd8 29. Rd4 Rxc6 30. Rcd1 c3 31. Kf1 Kg7 32. Rc1 Kf6 33. Rd3 c2 34.
+Rd2 Rdc8 35. Rxd5 Rc4 36. Rd6+ Ke5 37. Rxa6 Rxb4 38. Ke2 Rbc4 39. Ra2 b4 40.
+Rb2 f4 41. exf4+ Kxf4 42. f3 R8c6 43. g3+ Kf5 44. h4 Ke5 45. h5 Kd5 46. g4 Ke5
+47. Rb3 Kf4 48. Rb2 h6 49. Kf2 R6c5 50. Ke2 Re5+ 51. Kf2 Re3 52. Rcxc2 Rxf3+
+53. Kg2 Rg3+ 54. Kh2 Rxc2+ 55. Rxc2 Rxg4 56. Kh3 Kg5 57. Rc5+ f5 58. Rb5 Rc4
+0-1
+
+[Event "La Fere op 7th"]
+[Site "La Fere"]
+[Date "2008.07.05"]
+[Round "1"]
+[White "Gonzalez Garcia, Pierre Emmanuel"]
+[Black "Colnot, Loic"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1643"]
+[BlackElo "1470"]
+[PlyCount "71"]
+[EventDate "2008.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Bf4 Bf5 3. Nf3 Nf6 4. e3 e6 5. Bd3 Bxd3 6. Qxd3 Nc6 7. O-O Nb4 8.
+Qb3 e5 9. Nbd2 e4 10. Qc3 Nc6 11. a3 Be7 12. Qd3 O-O 13. c4 dxc4 14. Nxc4 b5
+15. Nce5 Nxe5 16. Nxe5 Qd5 17. Rac1 Rac8 18. Nc6 Rfe8 19. Nxe7+ Rxe7 20. Rc5
+Qd7 21. Qxb5 Qd8 22. Qa4 Re8 23. Rfc1 Ra8 24. Qc4 Ng4 25. Rxc7 Qh4 26. Bg3 Qf6
+27. Rc8 g6 28. Rxa8 Rxa8 29. h3 Nh6 30. Qc8+ Rxc8 31. Rxc8+ Kg7 32. Be5 Qxe5
+33. dxe5 Nf5 34. Rc7 h5 35. b4 Kf8 36. b5 1-0
+
+[Event "La Fere op 7th"]
+[Site "La Fere"]
+[Date "2008.07.05"]
+[Round "1"]
+[White "Jossien, Remy"]

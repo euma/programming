@@ -1,0 +1,600 @@
+[Site "Peterhof"]
+[Date "2008.08.03"]
+[Round "2"]
+[White "Petrov, Marin"]
+[Black "Kuzin, Anton"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "2043"]
+[BlackElo "2463"]
+[PlyCount "56"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Bd3 Qxd4 6. Be3 Qd8 7. Nf3 Bxe4 8.
+Bxe4 Qxd1+ 9. Rxd1 Nf6 10. Bd3 Nbd7 11. O-O e6 12. Rd2 Bc5 13. Nd4 Nd5 14. c4
+Nxe3 15. fxe3 Rd8 16. Nc2 Ne5 17. Rfd1 a5 18. a3 a4 19. Nb4 Bxe3+ 20. Kh1 Bxd2
+21. Rxd2 c5 22. Nc2 Rxd3 23. Re2 Rd1+ 24. Ne1 Nd3 25. h3 Rxe1+ 26. Rxe1 Nxe1
+27. Kg1 Ke7 28. Kf2 Nxg2 0-1
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.03"]
+[Round "2"]
+[White "Solovjov, Sergey"]
+[Black "Utkin, Alexander"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2434"]
+[BlackElo "2187"]
+[PlyCount "79"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 Ne7 12. Nxe7 Qxe7 13. O-O O-O 14. c4 f5
+15. Qh5 bxc4 16. Nxc4 Rb8 17. exf5 e4 18. Bc2 Bb7 19. Ne3 Rfd8 20. Rad1 Bxb2
+21. Bb3 Bg7 22. Rfe1 Rf8 23. Ng4 Rbc8 24. Re3 Rc3 25. Nh6+ Bxh6 26. Qxh6 Rfc8
+27. h3 d5 28. f6 Qf8 29. Qg5+ Kh8 30. Rxc3 Rxc3 31. Bxd5 Bxd5 32. Rxd5 h6 33.
+Qf4 Rc8 34. Rh5 Kh7 35. Qxe4+ Kh8 36. Qf4 Kh7 37. Rh4 Rc5 38. Qe4+ Kh8 39.
+Rxh6+ Qxh6 40. Qe8+ 1-0
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.03"]
+[Round "2"]
+[White "Uliashov, Dmitriy"]
+[Black "Mazurov, Georgy"]
+[Result "1-0"]
+[ECO "B27"]
+[WhiteElo "2256"]
+[PlyCount "81"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 g6 3. h4 h5 4. Bc4 Bg7 5. Nc3 Nc6 6. d3 Nf6 7. Bg5 d6 8. Qd2
+Bg4 9. Nh2 Bd7 10. f4 Nd4 11. e5 Ng4 12. O-O Nxh2 13. Kxh2 f6 14. exf6 exf6 15.
+Rae1+ Kf8 16. f5 fxg5 17. fxg6+ Nf5 18. Rxf5+ Bxf5 19. Qf2 Be5+ 20. Rxe5 dxe5
+21. Qxf5+ Kg7 22. Qf7+ Kh6 23. Ne4 g4 24. Nf6 g3+ 25. Kh3 Qc8+ 26. Be6 Qf8 27.
+g7 Qxf7 28. gxh8=Q+ Rxh8 29. Bxf7 Kg7 30. Bxh5 Kxf6 31. Bg4 c4 32. dxc4 Rd8 33.
+Bf3 Rd4 34. Bxb7 Rxc4 35. c3 Rc5 36. Be4 Rb5 37. b4 a5 38. a4 Rb6 39. b5 Rb8
+40. c4 Rc8 41. Bc6 1-0
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Anjuhin, Alex"]
+[Black "Skurygin, Anton"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2346"]
+[BlackElo "2252"]
+[PlyCount "65"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Bc4 b5 5. Bb3 d5 6. exd5 b4 7. Nce2 cxd5 8. Nf3
+Nf6 9. O-O O-O 10. Ne5 Bb7 11. a3 bxa3 12. Rxa3 Nbd7 13. Nf4 Nb6 14. Nfd3 Nfd7
+15. Nxd7 Nxd7 16. Be3 e6 17. Qd2 Bc6 18. Rfa1 Qb6 19. Ra6 Qb7 20. Qa5 Bf6 21.
+Rxa7 Bd8 22. Qa2 Rxa7 23. Qxa7 Qxa7 24. Rxa7 Bb6 25. Ra1 f6 26. c4 Rb8 27. Nb4
+Bb7 28. cxd5 e5 29. Nc6 Re8 30. dxe5 Bxe3 31. fxe3 fxe5 32. Ra7 Nc5 33. Bc4 1-0
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Dzhangobegov, Vladimir"]
+[Black "Nugaev, Nail"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2166"]
+[BlackElo "1960"]
+[PlyCount "61"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. e5 Ng8 7. Qg4 d5 8. Bg5
+Qc7 9. O-O-O h6 10. Bh4 g5 11. Bg3 h5 12. Qf3 Ne7 13. Qf6 Rg8 14. Ndb5 axb5 15.
+Nxb5 Qc5 16. Nd6+ Kd7 17. Kb1 h4 18. Qxf7 Bg7 19. Ne4 Qb6 20. Nf6+ Bxf6 21.
+exf6 Nbc6 22. fxe7 Nxe7 23. Be5 Qa5 24. Bc4 Re8 25. Rhe1 Qc5 26. Bd4 Qc6 27.
+Bb5 Qxb5 28. Qxe6+ Kc7 29. Be5+ Kd8 30. Qd6+ Qd7 31. Qb6+ 1-0
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Klimshin, Vladislav"]
+[Black "Forova, Tatiana"]
+[Result "0-1"]
+[ECO "B30"]
+[BlackElo "1875"]
+[PlyCount "66"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 d6 5. d3 Be7 6. Nd5 Nf6 7. c3 O-O 8. O-O
+a6 9. a4 Rb8 10. Bd2 b5 11. axb5 axb5 12. Bb3 Nxd5 13. Bxd5 Qb6 14. Be3 Be6 15.
+b4 Bf6 16. Qb3 Bxd5 17. Qxd5 Ne7 18. Qb3 Qc6 19. Ra2 Rfc8 20. bxc5 dxc5 21. d4
+cxd4 22. cxd4 Qxe4 23. dxe5 Bxe5 24. Ra7 Bf6 25. Bg5 Qd5 26. Qe3 Nc6 27. Ra3
+Bxg5 28. Nxg5 h6 29. Nf3 Re8 30. Qf4 b4 31. Raa1 b3 32. Rfd1 b2 33. Rab1 Qxd1+
+0-1
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Kuzin, Anton"]
+[Black "Uliashov, Dmitriy"]
+[Result "1/2-1/2"]
+[ECO "B53"]
+[WhiteElo "2463"]
+[BlackElo "2256"]
+[PlyCount "83"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8.
+Bg5 e6 9. O-O-O Be7 10. Rhe1 O-O 11. Kb1 Qb6 12. Qxb6 axb6 13. Nd4 Rfd8 14. f3
+Kf8 15. b4 Rdc8 16. Ndb5 h6 17. Bh4 Bxb5 18. Nxb5 Rc4 19. c3 g5 20. Bf2 d5 21.
+e5 Nd7 22. a3 Kg7 23. Rd3 Kg6 24. Bd4 Rc6 25. Rde3 Bc5 26. Kb2 Bxd4 27. Nxd4
+Rcc8 28. g3 Nb8 29. f4 Nc6 30. Nb5 Ne7 31. Nd6 Rc7 32. fxg5 hxg5 33. Rf3 Nc6
+34. h4 Rd7 35. Nb5 Rh8 36. Rf6+ Kg7 37. hxg5 Rh5 38. g6 Nxe5 39. gxf7 Rxf7 40.
+Rxf7+ Kxf7 41. Kb3 Nc4 42. Nc7 1/2-1/2
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Malofeev, Alex"]
+[Black "Shushpanov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[WhiteElo "2255"]
+[BlackElo "2367"]
+[PlyCount "15"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 d6 7. O-O Be7 8.
+Kh1 1/2-1/2
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Penkov, Aleksey"]
+[Black "Mushak, Alexandr"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2027"]
+[PlyCount "69"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 g6 2. e4 Bg7 3. c3 d6 4. Bc4 e6 5. Nf3 c6 6. a4 d5 7. Bb3 dxe4 8. Ng5 Nf6
+9. Qe2 Nbd7 10. Nd2 h6 11. Ngxe4 Nxe4 12. Nxe4 Nf6 13. Nxf6+ Qxf6 14. Bc4 b6
+15. O-O O-O 16. Qe4 Bd7 17. Bf4 Qf5 18. Qe3 h5 19. Bd3 Qd5 20. Be4 Qb3 21. Be5
+Rac8 22. Qe2 Bxe5 23. dxe5 b5 24. Rfd1 Rfd8 25. g4 hxg4 26. Qxg4 Be8 27. axb5
+cxb5 28. Qe2 a5 29. Rxd8 Rxd8 30. Rxa5 Qd1+ 31. Qxd1 Rxd1+ 32. Kg2 Re1 33. Kf3
+Rh1 34. Ra8 Rxh2 35. Rxe8+ 1-0
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Sarkisov, Vladimir"]
+[Black "Sakov, Anatolij J"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "1922"]
+[BlackElo "2102"]
+[PlyCount "69"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 g6 5. O-O Bg7 6. Re1 O-O 7. Bf1 Nc6 8. d4
+Bg4 9. d5 Ne5 10. Nbd2 a6 11. h3 Nxf3+ 12. Nxf3 Bxf3 13. Qxf3 b5 14. Bd2 Nd7
+15. Qe2 c4 16. f4 Qc7 17. Rad1 Rfc8 18. Be3 Nc5 19. Qf3 Na4 20. Re2 b4 21. Bd4
+bxc3 22. bxc3 Rab8 23. Bxg7 Kxg7 24. e5 Qc5+ 25. Rd4 Qa3 26. Rc2 Rb2 27. Rxb2
+Nxb2 28. exd6 Qxd6 29. Qf2 Qa3 30. Rd2 Nd3 31. Qd4+ Kg8 32. Bxd3 cxd3 33. Rxd3
+Qxa2 34. f5 Qc4 35. fxg6 1/2-1/2
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.04"]
+[Round "3"]
+[White "Sychev, Klementy"]
+[Black "Burshanov, Mikhail"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2114"]
+[BlackElo "1939"]
+[PlyCount "55"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 Be6 8. g4
+b5 9. g5 Nfd7 10. Nd5 Nc5 11. Bg2 Nbd7 12. Be3 Nb6 13. Nxb6 Qxb6 14. b4 O-O-O
+15. O-O h6 16. gxh6 gxh6 17. Ng3 Qc7 18. bxc5 dxc5 19. Qf3 Rg8 20. c3 Bc4 21.
+Rfc1 Be7 22. a4 Kb8 23. axb5 axb5 24. Bf1 Bxf1 25. Rxf1 h5 26. Qxh5 Rh8 27. Qf5
+Bh4 28. Rfb1 1-0
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Fedoseeva, Valentina"]
+[Black "Klimshin, Vladislav"]
+[Result "0-1"]
+[ECO "B48"]
+[PlyCount "92"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Qc7 7. g3 Nf6 8. Bg2
+Bb4 9. O-O Bxc3 10. bxc3 O-O 11. Bg5 Ne7 12. Qf3 Qe5 13. Bf4 Qc5 14. Nb3 Qa3
+15. Bg5 Ne8 16. Be3 d6 17. e5 Nf5 18. Bf4 f6 19. g4 Nh4 20. Qe4 Nxg2 21. Bc1 d5
+22. Bxa3 dxe4 23. Bxf8 Kxf8 24. Kxg2 fxe5 25. Rfe1 b6 26. Nd2 Nd6 27. Rab1 b5
+28. Nb3 Bb7 29. Rbd1 Bd5 30. Kg1 Rc8 31. Re3 Kf7 32. Na5 Kg6 33. Ra1 Kg5 34. h3
+h5 35. Rg3 hxg4 36. Rxg4+ Kf6 37. Nb3 Rxc3 38. Rc1 Rxh3 39. Kg2 Rc3 40. Rg3 e3+
+41. Kh2 Nf5 42. Rh3 g5 43. fxe3 g4 44. Rh8 Rxe3 45. Rd1 Re2+ 46. Kg1 Rg2+ 0-1
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Forova, Tatiana"]
+[Black "Pyatin, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[WhiteElo "1875"]
+[BlackElo "2006"]
+[PlyCount "42"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Ne4 4. Nce2 d4 5. c3 Nc6 6. cxd4 Ng5 7. f4 Ne6 8. Nf3
+Ncxd4 9. Nexd4 Nxd4 10. Qa4+ Nc6 11. Be2 e6 12. O-O Bc5+ 13. Kh1 O-O 14. Qe4
+Qd5 15. Bd3 g6 16. b3 Rd8 17. Bb1 Nd4 18. Qxd5 Rxd5 19. Be4 Rd8 20. Nxd4 Bxd4
+21. Rb1 c5 1/2-1/2
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Ignatiev, Igor"]
+[Black "Nugaev, Nail"]
+[Result "0-1"]
+[ECO "B99"]
+[WhiteElo "2166"]
+[BlackElo "1960"]
+[PlyCount "53"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. h3 b5 11. Bd3 Bb7 12. Qe2 O-O 13. Rhf1 Rfc8 14. f5 e5 15.
+Nf3 Nc5 16. Bxf6 Bxf6 17. g4 b4 18. Nb1 b3 19. Nc3 bxa2 20. Nxa2 d5 21. g5 dxe4
+22. gxf6 exd3 23. Rxd3 Nxd3+ 24. Kb1 Nf4 25. Qf2 Bxf3 26. Qg3 Qxc2+ 27. Ka1 0-1
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Kuzin, Anton"]
+[Black "Malofeev, Alex"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2463"]
+[BlackElo "2255"]
+[PlyCount "11"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 1/2-1/2
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Mandrikov, Sergey"]
+[Black "Duzhakov, Ilya"]
+[Result "0-1"]
+[ECO "B84"]
+[WhiteElo "2057"]
+[BlackElo "2267"]
+[PlyCount "96"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be2 e6 7. O-O Qc7 8. f4
+Be7 9. Be3 Nc6 10. Nb3 b5 11. Bd3 Bb7 12. a4 b4 13. Ne2 Ng4 14. Qd2 Nxe3 15.
+Qxe3 Bf6 16. Rab1 O-O 17. Kh1 Rac8 18. Qh3 g6 19. f5 exf5 20. exf5 Ne5 21. fxg6
+fxg6 22. Qe6+ Kg7 23. Nf4 Rce8 24. Qh3 Nxd3 25. cxd3 Qc2 26. Na1 Qc8 27. Qxc8
+Bxc8 28. Nd5 Bxb2 29. Nxb4 Bb7 30. Rxf8 Rxf8 31. h3 Be5 32. Nac2 Rf2 33. Ne3
+Rd2 34. Rc1 Kf6 35. Nbd5+ Ke6 36. Nb4 a5 37. Rc2 Bxg2+ 38. Kg1 Rxc2 39. Nbxc2
+Bxh3 40. d4 Bf4 41. Nc4 Bf5 42. Ne1 Kd5 43. Nb6+ Kxd4 44. Nf3+ Kc5 45. Na8 Kc6
+46. Nd4+ Kb7 47. Nb3 Kxa8 48. Nxa5 Bc2 0-1
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Penkov, Aleksey"]
+[Black "Sychev, Klementy"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2027"]
+[BlackElo "2114"]
+[PlyCount "102"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. f3 Bg7 5. Be3 O-O 6. Qd2 a6 7. Bh6 b5 8. h4 c5
+9. Nce2 Nc6 10. h5 Bxh6 11. Qxh6 cxd4 12. Nf4 Qa5+ 13. Kd1 g5 14. Qxg5+ Kh8 15.
+Qh6 Bd7 16. Ngh3 Rg8 17. Nd3 Ne5 18. Nhf2 Nc4 19. Ke2 Rac8 20. Qc1 Ne3 21. c3
+Nxf1 22. Kxf1 dxc3 23. b4 Qb6 24. Qc2 Qe3 25. Re1 Qd2 26. Re2 Qxc2 27. Rxc2 Rc7
+28. g4 h6 29. Ke2 Rgc8 30. Rhc1 e5 31. Rg1 Kh7 32. Rd1 Be6 33. Nc1 d5 34. Nfd3
+dxe4 35. Nxe5 exf3+ 36. Kxf3 Rc4 37. Rg1 Rxb4 38. Ncd3 Rd4 39. Ke3 Re4+ 40. Kf3
+Rd4 41. Nc1 Bd5+ 42. Ke3 Re4+ 43. Kd3 Rxe5 44. Rf2 Ne4 45. Rf4 Ng5 46. Rgf1
+Bc4+ 47. Kd4 Rd5+ 48. Ke3 Bxf1 49. Rxf1 Re8+ 50. Kf4 Kg7 51. Rf2 Nh3+ 0-1
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.05"]
+[Round "4"]
+[White "Petrov, Marin"]
+[Black "Kamasheva, Elvira"]
+[Result "0-1"]
+[ECO "B50"]
+[WhiteElo "2043"]
+[BlackElo "1973"]
+[PlyCount "48"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. g3 Nf6 5. Bg2 g6 6. O-O Bg7 7. Re1 e5 8. b3
+O-O 9. Bb2 Nh5 10. Nd5 f5 11. d3 f4 12. Nd2 Ne7 13. Nc4 Nxd5 14. exd5 b5 15.
+Nd2 fxg3 16. hxg3 Nf6 17. Ne4 Nxe4 18. dxe4 h5 19. Qd3 Bd7 20. Re3 Qb6 21. Rf3
+Bg4 22. Rxf8+ Rxf8 23. f3 c4+ 24. Kh1 cxd3 0-1
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Dimitrov, Dejan"]
+[Black "Burshanov, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2068"]
+[BlackElo "1939"]
+[PlyCount "64"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Nc3 Ngf6 5. g3 g6 6. Bg2 Bg7 7. O-O O-O 8. h3
+h6 9. Be3 Kh7 10. a4 Nh5 11. Nh2 Qe8 12. Nd5 Qd8 13. g4 Nhf6 14. f4 Nxd5 15.
+exd5 exf4 16. Bxf4 f5 17. gxf5 Rxf5 18. Be4 Rf8 19. Qd3 Qe8 20. Bg3 Nf6 21. Bg2
+Bf5 22. Qd1 Qd7 23. Ra3 Rae8 24. c4 Ne4 25. Be1 Ng5 26. h4 Nh3+ 27. Kh1 g5 28.
+Rxf5 Qxf5 29. Rxh3 g4 30. Rb3 b6 31. Nxg4 Rxe1+ 32. Qxe1 Qxg4 1/2-1/2
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Kamasheva, Elvira"]
+[Black "Forova, Tatiana"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1973"]
+[BlackElo "1875"]
+[PlyCount "37"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 Qc7 3. Nf3 e5 4. Bc4 h6 5. O-O Nf6 6. Qe2 Be7 7. d3 O-O 8. Nh4
+d6 9. f4 Nc6 10. f5 Rd8 11. Nd2 a6 12. Qf2 b5 13. Bd5 Bb7 14. Qg3 Bf8 15. Ndf3
+Kh7 16. Qh3 Na5 17. Ng5+ Kg8 18. Bxf7+ Kh8 19. Ng6# 1-0
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Kazakov, Konstantin"]
+[Black "Shushpanov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2154"]
+[BlackElo "2367"]
+[PlyCount "31"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c5 4. dxc5 Qa5+ 5. Nd2 Qxc5 6. Bd3 d6 7. Nb3 Qc7 8.
+Nf3 Nc6 9. O-O Nf6 10. Qe2 O-O 11. Bd2 Bg4 12. h3 Bxf3 13. Rxf3 Nd7 14. c3 Na5
+15. Kh2 Rac8 16. Re1 1/2-1/2
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Malofeev, Alex"]
+[Black "Solovjov, Sergey"]
+[Result "0-1"]
+[ECO "B70"]
+[WhiteElo "2255"]
+[BlackElo "2434"]
+[PlyCount "84"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Bg7 7. O-O O-O 8.
+Nb3 Nc6 9. Kh1 Be6 10. f4 Qc8 11. Bf3 Bc4 12. Re1 a5 13. Nd5 Nxd5 14. exd5 Nb4
+15. Rxe7 a4 16. Nd2 Bxd5 17. c3 Nd3 18. Qf1 Nxf4 19. Ne4 Ne6 20. Ng5 Bxf3 21.
+Qxf3 Nxg5 22. Bxg5 a3 23. bxa3 Qxc3 24. Qxc3 Bxc3 25. Rb1 Rxa3 26. Rexb7 Re8
+27. R7b3 Rxb3 28. axb3 f5 29. Kg1 Re1+ 30. Rxe1 Bxe1 31. Kf1 Bb4 32. Ke2 Kf7
+33. Kd3 d5 34. h3 Ke6 35. Bd2 Bxd2 36. Kxd2 g5 37. b4 h5 38. Ke3 f4+ 39. Kf3
+Kf5 40. b5 g4+ 41. hxg4+ hxg4+ 42. Ke2 Ke6 0-1
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Nugaev, Nail"]
+[Black "Utkin, Alexander"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "1960"]
+[BlackElo "2187"]
+[PlyCount "98"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. c4 Be7 10. Be2 a6 11. Nc3 O-O 12. O-O Nd7 13. Be3 f5 14. f3 Bg5 15.
+Qd2 Bxe3+ 16. Qxe3 f4 17. Qf2 a5 18. Ne4 Qe7 19. Rad1 b6 20. Bd3 Nc5 21. Qc2
+Nxe4 22. Bxe4 g5 23. a4 Bd7 24. b3 Qg7 25. Qf2 Rab8 26. Rde1 h5 27. Kh1 Qf6 28.
+Qc2 Kg7 29. Rf2 Kf7 30. Rff1 Ke7 31. Bh7 Rh8 32. Qg6 Qxg6 33. Bxg6 Rbg8 34. Be4
+g4 35. Rg1 h4 36. Ref1 Kf6 37. Re1 Rg5 38. Ref1 Rg7 39. Rd1 Rhg8 40. Rdf1 g3
+41. Rc1 gxh2 42. Kxh2 Rg3 43. Rc2 h3 44. Kh1 Bf5 45. Bxf5 Kxf5 46. Re2 Rh8 47.
+gxh3 Rgxh3+ 48. Kg2 Rg3+ 49. Kf1 Rxf3+ 0-1
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.06"]
+[Round "5"]
+[White "Sarkisov, Vladimir"]
+[Black "Sorokina, Anastasia"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "1922"]
+[BlackElo "2194"]
+[PlyCount "75"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 e6 5. Be2 Be7 6. O-O O-O 7. c4 Nb6 8. Nc3
+f6 9. exf6 Bxf6 10. Be3 Nc6 11. Ne4 Be7 12. Qc2 Rf5 13. Ng3 Rf7 14. Bd3 g6 15.
+a3 Bf6 16. Ne4 Nd7 17. Neg5 Re7 18. d5 exd5 19. cxd5 Nce5 20. Ne6 Nxf3+ 21.
+gxf3 Rxe6 22. dxe6 Ne5 23. Be4 Bxe6 24. Rac1 c6 25. f4 Ng4 26. Rce1 d5 27. Bd3
+Qd7 28. Bc1 Kf7 29. Re2 Nh6 30. Rfe1 Bg4 31. Re3 Nf5 32. Bxf5 Bxf5 33. Qb3 Rb8
+34. Bd2 Kg7 35. Qb4 Kf7 36. Bc3 d4 37. Bxd4 Qxd4 38. Re7+ 1-0
+
+[Event "Peterhof op"]
+[Site "Peterhof"]
+[Date "2008.08.07"]
+[Round "6"]
+[White "Bivol, Alina"]
+[Black "Dimitrov, Dejan"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1831"]
+[BlackElo "2068"]
+[PlyCount "215"]
+[EventDate "2008.08.02"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Bb5 Bd6 7. O-O Nge7 8.
+Bg5 O-O 9. Re1 Qb6 10. Bxc6 Nxc6 11. Qd2 cxd4 12. Nxd4 Nxd4 13. cxd4 Be6 14.
+Nc3 Rac8 15. Rac1 Rc4 16. Be3 Rfc8 17. b3 R4c6 18. Na4 Qc7 19. Rxc6 Qxc6 20.

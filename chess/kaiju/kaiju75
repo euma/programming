@@ -1,0 +1,50 @@
+E43	St. Petersburg Variation, Nimzo-Indian; E43	1.d4 Nf6 2.c4 e6 3.Nc3
+Bb4 4.e3 b6
+E44	Fischer Variation, Nimzo-Indian; E44	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 b6 5.Ne2
+E45	Bronstein Variation, Nimzo-Indian; E45; Byrne Variation	1.d4 Nf6 2.c4
+e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ba6
+E46	Normal Variation, Nimzo-Indian; E46	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O
+E46	Reshevsky Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Ne2
+E46	Simagin Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O
+5.Ne2 d5 6.a3 Bd6
+E46	Reshevsky Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Nge2
+E46	Simagin Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O
+5.Nge2 d5 6.a3 Bd6
+E47	Bishop Attack, Nimzo-Indian; E47	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Bd3
+E48	Classical Defense, Nimzo-Indian; E48	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Bd3 d5
+E48	Olafsson Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O dxc4 8.Bxc4 b6 9.Qe2 Bb7 10.Rd1 Qc8
+E48	Bronstein Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O dxc4 8.Bxc4 Bd7
+E48	Bronstein Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O dxc4 8.Bxc4 Nbd7 9.Ne2
+E48	Smyslov Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O
+5.Bd3 d5 6.Nf3 c5 7.O-O dxc4 8.Bxc4 Qe7
+E49	Botvinnik System, Nimzo-Indian; E49	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3
+E50	E50	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3
+E50	Huebner Deferred, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O
+5.Nf3 c5
+E51	Ragozin Variation, Nimzo-Indian; E51	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Nf3 d5
+E51	Saemisch Deferred, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O
+5.Nf3 d5 6.a3
+E52	Schlechter Defense, Nimzo-Indian; E52	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Nf3 d5 6.Bd3 b6
+E53	Bernstein Defense; Gligoric System; E53	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Nf3 d5 6.Bd3 c5
+E53	Keres Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O
+5.Nf3 d5 6.Bd3 c5 7.O-O b6
+E54	E54	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O
+dxc4 8.Bxc4
+E55	Bronstein Variation, Nimzo-Indian; E55	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Nbd7
+E55	Smyslov Variation, Nimzo-Indian	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O
+5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Qe7
+E56	Bernstein Variation, Nimzo-Indian; E56	1.d4 Nf6 2.c4 e6 3.Nc3 Bb4

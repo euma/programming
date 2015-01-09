@@ -1,0 +1,600 @@
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Rishon Le Ziyyon Feldklein"]
+[BlackTeam "Tel Aviv Moshe Czerniak"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "ISR"]
+
+ 1-0
+
+[Event "ISR-chT 08"]
+[Site "Israel"]
+[Date "2008.05.24"]
+[Round "10.5"]
+[White "Zak, Uriel"]
+[Black "Popilsky, Gil"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2323"]
+[BlackElo "2271"]
+[PlyCount "0"]
+[EventDate "2007.12.26"]
+[EventType "team-tourn"]
+[EventRounds "11"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Tel Aviv Moshe Czerniak"]
+[BlackTeam "Rishon Le Ziyyon Feldklein"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "ISR"]
+
+ 0-1
+
+[Event "ISR-chT 08"]
+[Site "Israel"]
+[Date "2008.05.24"]
+[Round "10.6"]
+[White "Ganor, Dotan"]
+[Black "Shutzman, Joseph"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2378"]
+[BlackElo "2312"]
+[PlyCount "0"]
+[EventDate "2007.12.26"]
+[EventType "team-tourn"]
+[EventRounds "11"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Rishon Le Ziyyon Feldklein"]
+[BlackTeam "Tel Aviv Moshe Czerniak"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "ISR"]
+
+ 0-1
+
+[Event "ISR-chT 08"]
+[Site "Israel"]
+[Date "2008.05.30"]
+[Round "11.5"]
+[White "Botvinnik, Mikhail2"]
+[Black "Khmelniker, Ilya"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "2300"]
+[BlackElo "2469"]
+[PlyCount "99"]
+[EventDate "2007.12.26"]
+[EventType "team-tourn"]
+[EventRounds "11"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Petah Tikva Hapoel"]
+[BlackTeam "Beer Sheva"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "ISR"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 e5 5. Bg2 Nxc3 6. bxc3 Bc5 7. Ba3 Qe7 8.
+Qa4+ Nd7 9. Bxc5 Qxc5 10. Nf3 O-O 11. O-O Qe7 12. d3 Nb6 13. Qc2 c6 14. a4 Nd5
+15. a5 Re8 16. Qb2 Nc7 17. Rfe1 Na6 18. Rab1 Rb8 19. Nd2 Be6 20. c4 f6 21. Qc3
+Nc5 22. Ne4 b5 23. axb6 axb6 24. Nxc5 Qxc5 25. Qb4 Qxb4 26. Rxb4 b5 27. cxb5
+cxb5 28. Bc6 Rec8 29. Rxb5 Rxb5 30. Bxb5 Rc5 31. Ba6 Bd5 32. f4 Kf7 33. Kf2 Ke7
+34. Rb1 Ra5 35. Bb7 Ba2 36. Rb2 Ra7 37. Be4 exf4 38. gxf4 g6 39. h4 Be6 40. Rb8
+f5 41. Bf3 Bf7 42. Rh8 h5 43. Rb8 Kd6 44. Ke3 Re7+ 45. Kd4 Rd7 46. Rb6+ Ke7+
+47. Ke5 Ra7 48. d4 Ra3 49. Rb7+ Kf8 50. d5 1-0
+
+[Event "ISR-chT 08"]
+[Site "Israel"]
+[Date "2008.05.30"]
+[Round "11.3"]
+[White "Zifroni, Dov"]
+[Black "Nabaty, Tamir"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "2500"]
+[BlackElo "2417"]
+[PlyCount "60"]
+[EventDate "2007.12.26"]
+[EventType "team-tourn"]
+[EventRounds "11"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Herzliya"]
+[BlackTeam "Beer Sheva II"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "ISR"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 e5 4. g3 g6 5. a3 Bg7 6. Rb1 a5 7. d3 Nge7 8. Bg2
+O-O 9. Bg5 f6 10. Bd2 d6 11. O-O Be6 12. Qa4 Qd7 13. Rfc1 Bh3 14. Bh1 g5 15.
+Ne1 h6 16. Bg2 h5 17. Qd1 h4 18. Bxh3 Qxh3 19. Ne4 g4 20. Nxd6 f5 21. Ng2 hxg3
+22. fxg3 Rf6 23. Nxb7 f4 24. gxf4 Rh6 25. Kf2 g3+ 26. hxg3 Nf5 27. Qg1 Qxg3+
+28. Kf1 Rf8 29. Be1 Ne3+ 30. Qxe3 Rh1+ 0-1
+
+[Event "ISR-chT 08"]
+[Site "Israel"]
+[Date "2008.05.30"]
+[Round "11.6"]
+[White "Umarov, Sabir"]
+[Black "Porat, Daniel"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2362"]
+[BlackElo "2258"]
+[PlyCount "80"]
+[EventDate "2007.12.26"]
+[EventType "team-tourn"]
+[EventRounds "11"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Beer Sheva II"]
+[BlackTeam "Herzliya"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "ISR"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. O-O c6 6. a4 Na6 7. Na3 Qd5 8. Qc2
+Nb4 9. Qxc4 Qxc4 10. Nxc4 Be7 11. d3 O-O 12. a5 Rd8 13. Bd2 Nfd5 14. Rfc1 Bd7
+15. Nfe5 Be8 16. Bh3 Nc7 17. Kf1 f6 18. Nf3 Bh5 19. Bg2 Rac8 20. Ra4 Nba6 21.
+Be1 Nb5 22. Ne3 Nc5 23. Rh4 Bxf3 24. Bxf3 f5 25. Rhc4 Nb3 26. Rb1 N5d4 27. Bg2
+b5 28. axb6 axb6 29. Nc2 c5 30. Rc3 Nxc2 31. Rxb3 Rd6 32. Bc3 Nd4 33. Ra3 b5
+34. Ra7 Bf6 35. Rc1 e5 36. Rb7 Nb3 37. Rc2 Na1 38. Rc1 Nb3 39. Rc2 Na1 40. Rc1
+Nb3 1/2-1/2
+
+[Event "ISR-chT 08"]
+[Site "Israel"]
+[Date "2008.05.30"]
+[Round "11.1"]
+[White "Rechlis, Gad"]
+[Black "Finkel, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "2473"]
+[BlackElo "2463"]
+[PlyCount "134"]
+[EventDate "2007.12.26"]
+[EventType "team-tourn"]
+[EventRounds "11"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Jerusalem Tikvatenu"]
+[BlackTeam "Tel Aviv Shlomo Har Zvi"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "ISR"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 Nh6 6. Nge2 Nf5 7. Rb1 a5 8. a3
+d6 9. b4 axb4 10. axb4 O-O 11. b5 Nce7 12. d3 c6 13. O-O Be6 14. Qb3 d5 15. Ba3
+dxc4 16. dxc4 Qd3 17. g4 Bxc4 18. Qb2 Nxe3 19. fxe3 Qxe3+ 20. Rf2 Rfe8 21. Bxe7
+Bxe2 22. bxc6 bxc6 23. Bxc6 Bd3 24. Nd5 Qa7 25. Bxe8 Rxe8 26. Qb7 Qa4 27. Bb4
+Bxb1 28. Qxf7+ Kh8 29. Nc3 Qc6 30. Nxb1 Rb8 31. Qe7 Qe4 32. Nc3 Qxg4+ 33. Kf1
+Qxb4 34. Qxb4 Rxb4 35. Ra2 Rf4+ 36. Ke2 h5 37. Ke3 Rh4 38. Kd3 Kh7 39. Ne4 Kh6
+40. Re2 Rf4 41. Kc4 g5 42. Kd5 Kg6 43. Ra2 Kf5 44. Ng3+ Kg4 45. Ne4 Kf5 46.
+Ng3+ Kg6 47. Ne4 h4 48. Ra6+ Kf5 49. Nd6+ Kg4 50. Ne4 Kh5 51. Ra7 Kg6 52. Ra6+
+Bf6 53. h3 Rf3 54. Rb6 Rf1 55. Ra6 g4 56. hxg4 h3 57. Ra2 Rh1 58. Ke6 Bg7 59.
+Ng3 Rg1 60. Nf5 Rg2 61. Nh4+ Kg5 62. Nxg2 hxg2 63. Rxg2 e4 64. Kd5 Kf4 65. Rf2+
+Kg3 66. Re2 e3 67. Ke4 Bh6 1/2-1/2
+
+[Event "ISR-chT 08"]
+[Site "Israel"]
+[Date "2008.05.30"]
+[Round "11.3"]
+[White "Gurevich, Gregory"]
+[Black "Zoler, Dan"]
+[Result "1-0"]
+[ECO "A36"]
+[WhiteElo "2361"]
+[BlackElo "2455"]
+[PlyCount "73"]
+[EventDate "2007.12.26"]
+[EventType "team-tourn"]
+[EventRounds "11"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Jerusalem Tikvatenu"]
+[BlackTeam "Tel Aviv Shlomo Har Zvi"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "ISR"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 e6 6. Nge2 Nge7 7. O-O O-O 8. a3
+b6 9. Rb1 Bb7 10. b4 d6 11. d3 Qd7 12. b5 Nd4 13. Nxd4 Bxd4 14. Ne2 Bg7 15. Bb2
+Bxb2 16. Rxb2 d5 17. exd5 exd5 18. Nf4 Rad8 19. Qc1 dxc4 20. dxc4 Bxg2 21. Kxg2
+Qb7+ 22. f3 Rd4 23. Re1 Nf5 24. Rbe2 Qd7 25. Nd5 Rxd5 26. cxd5 Qxd5 27. Re8
+Rxe8 28. Rxe8+ Kg7 29. Qc3+ Nd4 30. a4 Qa2+ 31. Kh3 Qxa4 32. Qe3 Ne6 33. Qe5+
+Kh6 34. Rxe6 fxe6 35. f4 Qxb5 36. Kh4 Qf1 37. Qf6 1-0
+
+[Event "ISR-chT 08"]
+[Site "Israel"]
+[Date "2008.05.30"]
+[Round "11.6"]
+[White "Bitansky, Igor"]
+[Black "Kreizberg, Michael"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2424"]
+[BlackElo "2312"]
+[PlyCount "46"]
+[EventDate "2007.12.26"]
+[EventType "team-tourn"]
+[EventRounds "11"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Tel Aviv Shlomo Har Zvi"]
+[BlackTeam "Jerusalem Tikvatenu"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "ISR"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e6 7. h3 Bh5 8. e4
+Qc7 9. Qe2 dxe4 10. dxe4 e5 11. b3 Be7 12. Bb2 O-O 13. Nc4 Bxf3 14. Qxf3 b5 15.
+Ne3 Rfe8 16. Rad1 Bf8 17. Ng4 a5 18. Qf5 Re6 19. f4 Nxg4 20. Qxg4 Rae8 21. f5
+Rd6 22. Kh2 Rd8 23. Qe2 Be7 1/2-1/2
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.02"]
+[Round "6"]
+[White "Ani, Virgil"]
+[Black "Sogues Tena, Pilar"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "1794"]
+[BlackElo "1688"]
+[PlyCount "111"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 d6 2. Nc3 g6 3. e3 Nf6 4. Nf3 Bg7 5. Bc4 O-O 6. O-O Bg4 7. h3 Bxf3 8.
+Qxf3 Nc6 9. a3 a6 10. b4 e5 11. d5 Nb8 12. e4 Nbd7 13. Rb1 b5 14. Ba2 Rc8 15.
+Bg5 h6 16. Bxf6 Nxf6 17. Ne2 c5 18. c3 cxb4 19. cxb4 Rc2 20. Bb3 Rd2 21. Qe3
+Rxe2 22. Qxe2 Qb6 23. Kh2 Qd4 24. f3 h5 25. Rfd1 Qb6 26. Rbc1 Ne8 27. Rc6 Qa7
+28. a4 a5 29. Qxb5 axb4 30. Qxb4 Bh6 31. Qb6 Bf4+ 32. g3 Be3 33. Qxa7 Bxa7 34.
+Rc8 Bc5 35. a5 Nf6 36. Rxf8+ Kxf8 37. Ba4 Ke7 38. Rb1 Nh7 39. a6 Ng5 40. Kg2
+Kd8 41. h4 Nh7 42. Bc6 Nf8 43. Rb8+ Ke7 44. Re8+ Kf6 45. Rxf8 Kg7 46. Rd8 f5
+47. Rxd6 fxe4 48. Rd7+ Kf6 49. fxe4 g5 50. hxg5+ Kxg5 51. a7 Bxa7 52. Rxa7 Kf6
+53. Kh2 Kg5 54. d6 h4 55. d7 hxg3+ 56. Kxg3 1-0
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.02"]
+[Round "6"]
+[White "Marina de la Torre, Ivan"]
+[Black "Sanchez Ibern, Eric"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "1969"]
+[BlackElo "1984"]
+[PlyCount "85"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Ne4 4. Bf4 Qb6 5. Nc3 Qxb2 6. Nxe4 Qb4+ 7. Qd2 Qxe4
+8. f3 Qd4 9. Qxd4 cxd4 10. O-O-O d6 11. Rxd4 g6 12. e4 Bg7 13. Rb4 a6 14. Bd3
+Nd7 15. Ne2 Nc5 16. Kd2 O-O 17. Be3 b5 18. c4 Bd7 19. a3 Nxd3 20. Kxd3 bxc4+
+21. Kc2 Rab8 22. Rhb1 Rxb4 23. Rxb4 c3 24. Bd4 a5 25. Bxg7 axb4 26. Bxf8 Ba4+
+27. Kc1 Kxf8 28. axb4 Bb5 29. Nxc3 Bf1 30. g3 Ke8 31. Kd2 e5 32. Ke3 Kd7 33.
+Kf2 Bd3 34. Kg2 f6 35. h4 h6 36. h5 g5 37. Kh3 f5 38. Kg2 Ke7 39. Kf2 Ke8 40.
+Ke3 fxe4 41. fxe4 Bf1 42. Kf3 Bh3 43. Nd1 1-0
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.02"]
+[Round "6"]
+[White "Murat Huertas, Eduard"]
+[Black "Martinez Hernandez, Emili"]
+[Result "0-1"]
+[ECO "A90"]
+[WhiteElo "1936"]
+[BlackElo "1914"]
+[PlyCount "92"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 c6 5. Nf3 d5 6. b3 Bd6 7. O-O Qe7 8. Bb2 O-O
+9. Re1 Ne4 10. a3 Nd7 11. Ne5 Qf6 12. f4 Qh6 13. Nd2 Ndf6 14. Nxe4 fxe4 15. e3
+g5 16. Rf1 Nh5 17. Qg4 Be7 18. h4 Nf6 19. Qxg5+ Qg7 20. Qxg7+ Kxg7 21. Kh2 Ne8
+22. Kh3 Nd6 23. g4 Bf6 24. Rac1 Nf7 25. g5 Be7 26. Kg3 Nd6 27. Bh3 a5 28. c5
+Nf7 29. Rf2 h6 30. Nxf7 Rxf7 31. Rcf1 hxg5 32. fxg5 Rxf2 33. Rxf2 Bd7 34. Bc3
+Ra6 35. Kf4 Bd8 36. Bf1 Ra8 37. Kg4 b6 38. h5 b5 39. g6 Bf6 40. Be2 a4 41. bxa4
+bxa4 42. Bb4 Rf8 43. Kg3 Bh4+ 44. Kxh4 Rxf2 45. Bg4 Kh8 46. Kg3 Rb2 0-1
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.02"]
+[Round "6"]
+[White "Romeo Ros, Joaquin"]
+[Black "Molano Lafuente, Ismael"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "1696"]
+[BlackElo "2071"]
+[PlyCount "46"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4 Qb6 5. Bxf6 gxf6 6. b3 cxd4 7. Qxd4 Bc5 8.
+Qxf6 Bxf2+ 9. Kd1 Rf8 10. Ng5 Bd4 11. e5 Bxa1 12. Nxh7 Qd4+ 13. Bd3 Qxe5 14.
+Qxe5 Bxe5 15. Nxf8 Kxf8 16. h4 Nc6 17. g4 d5 18. g5 Nb4 19. Be2 Nxa2 20. Rf1
+Bd7 21. Bh5 Be8 22. Bxf7 Bxf7 23. g6 Kg7 0-1
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.02"]
+[Round "6"]
+[White "Scalzi Evans, Federico"]
+[Black "Garcia Jimenez, Francisco Javier"]
+[Result "0-1"]
+[ECO "A59"]
+[WhiteElo "2005"]
+[BlackElo "2282"]
+[PlyCount "84"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. e4 Bxf1 8.
+Kxf1 d6 9. g3 Bg7 10. Kg2 O-O 11. Nge2 Nbd7 12. Qc2 Qb6 13. Rb1 Rfb8 14. b3 Qa6
+15. a4 c4 16. b4 Ne5 17. b5 Qa5 18. Bd2 Nd3 19. h3 Nd7 20. Be3 N7c5 21. Bd4 Be5
+22. Bxe5 dxe5 23. Nc1 Rc8 24. b6 Rab8 25. Rb5 Qa6 26. Qb1 Nxc1 27. Rxc1 Nb3 28.
+Rd1 Rxb6 29. f4 Rxb5 30. axb5 Qd6 31. fxe5 Qxe5 32. Qb2 Rb8 33. d6 exd6 34. Rd5
+Qe6 35. Qe2 Nc5 36. Qxc4 Ra8 37. b6 h5 38. Qe2 Ra3 39. Nb5 Nxe4 40. Nc7 Rxg3+
+41. Kf1 Qxh3+ 42. Ke1 Rg1+ 0-1
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.03"]
+[Round "7"]
+[White "Corrales Adamuz, Cristian"]
+[Black "Aparicio Escudero, Hector"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "1793"]
+[BlackElo "1829"]
+[PlyCount "79"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 Nc6 2. Nc3 e5 3. g3 Bc5 4. Bg2 a6 5. d3 Nf6 6. Bg5 h6 7. Bd2 O-O 8. e4 d6
+9. Nge2 Nb4 10. Nc1 Bg4 11. Qb3 Qd7 12. Na4 Nc6 13. Nxc5 dxc5 14. Be3 Nd4 15.
+Bxd4 cxd4 16. O-O Nh7 17. Qxb7 Rfb8 18. Qd5 Qxd5 19. exd5 Rxb2 20. h3 Bc8 21.
+Nb3 Rb8 22. Rfd1 Ng5 23. g4 f5 24. h4 Nf7 25. Na5 Nd8 26. Re1 fxg4 27. Rxe5 Nf7
+28. Re8+ Kh7 29. Nc6 Rb1+ 30. Rxb1 Rxb1+ 31. Kh2 Nd6 32. Re7 Bf5 33. c5 Nb5 34.
+Be4 Bxe4 35. Rxe4 Rb2 36. Kg3 Nc3 37. Re5 Rb5 38. d6 cxd6 39. cxd6 Rb7 40. Re7
+1-0
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.03"]
+[Round "7"]
+[White "Garnier, Alain"]
+[Black "Quintana Ortiz, Joaquin"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "1909"]
+[BlackElo "1990"]
+[PlyCount "75"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bb5+ Nfd7 8. a4
+a6 9. Bd3 b6 10. Nf3 Bg7 11. O-O O-O 12. Bf4 Nf6 13. h3 Nh5 14. Bh2 Re8 15. Re1
+Ra7 16. g4 Nf6 17. Bxd6 Nxd5 18. exd5 Rxe1+ 19. Qxe1 Qxd6 20. Qe8+ Qf8 21.
+Qxf8+ Kxf8 22. Rc1 Rd7 23. a5 b5 24. Be4 Bb7 25. Rd1 Re7 26. Ng5 h6 27. d6 Rd7
+28. Bxb7 Rxb7 29. Nge4 Bd4 30. Kg2 Nd7 31. f4 b4 32. Na4 Rb5 33. Nb6 Nxb6 34.
+axb6 Rxb6 35. d7 Ke7 36. Nxc5 Rd6 37. Re1+ Kf6 38. Ne4+ 1-0
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.03"]
+[Round "7"]
+[White "Gonzalez Rodriguez, Jorge Armando"]
+[Black "Munoz Pantoja, Miguel"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[WhiteElo "2405"]
+[BlackElo "2465"]
+[PlyCount "79"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Nf3 Bd6 5. c4 dxc4 6. Bxc4 Nf6 7. Nc3 O-O 8.
+Nb5 Bg4 9. h3 Bh5 10. Nxd6 Qxd6 11. Be2 Ne4 12. O-O f5 13. d3 Nf6 14. Rc1 f4
+15. e4 Bxf3 16. Bxf3 Rad8 17. Be2 Ne8 18. Rc4 a6 19. Qc1 Qg6 20. f3 Nd4 21.
+Bxd4 exd4 22. b4 c6 23. Bd1 Kh8 24. Bb3 Nc7 25. a4 Ne6 26. Rc2 Ng5 27. Kf2 Qd6
+28. Rc5 Qh6 29. Ke2 Qg6 30. Rf2 h6 31. h4 Nh7 32. Qc4 Qg3 33. h5 Qh4 34. Qe6
+Qh1 35. Bd1 Nf6 36. Qh3 Qg1 37. Rc1 Nd5 38. Qh4 Nxb4 39. Kd2 Na2 40. Rb1
+1/2-1/2
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.03"]
+[Round "7"]
+[White "Sanchez Criado, Lluis"]
+[Black "Vila Seuba, Joan Carles"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2184"]
+[BlackElo "1995"]
+[PlyCount "96"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. d4 g6 2. g3 Bg7 3. Bg2 d5 4. Nh3 Bxh3 5. Bxh3 Nc6 6. c3 e5 7. dxe5 Nxe5 8.
+O-O f5 9. Qb3 h5 10. Bg2 c6 11. f4 Nc4 12. Qxb7 Ne7 13. h4 a5 14. Qb3 a4 15.
+Qc2 Qb6+ 16. Kh1 O-O 17. Na3 Nxa3 18. bxa3 Qc5 19. Bd2 Nc8 20. Rab1 Nd6 21. Rb4
+Rfe8 22. Bf3 Ne4 23. Bxe4 Rxe4 24. Qd3 Rae8 25. e3 Rc4 26. Rxc4 dxc4 27. Qc2
+Qd5+ 28. Kh2 Rd8 29. Rf2 Rb8 30. Be1 Qd3 31. Qxd3 cxd3 32. c4 Rb2 33. Kg2 Rc2
+34. Kf3 Rxc4 35. Ba5 Rc2 36. Rd2 Bc3 37. Bxc3 Rxc3 38. e4 fxe4+ 39. Kxe4 Rxa3
+40. Rxd3 Rxd3 41. Kxd3 Kf7 42. Kc4 Ke6 43. Kb4 Kd5 44. Kxa4 Kd4 45. Kb3 Kd3 46.
+Kb4 Kd4 47. a4 c5+ 48. Ka3 c4 1-0
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.03"]
+[Round "7"]
+[White "Shatko, Danil"]
+[Black "Scalzi Evans, Federico"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[WhiteElo "1723"]
+[BlackElo "2005"]
+[PlyCount "80"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 e5 2. g3 f5 3. Bg2 Nf6 4. d3 Bb4+ 5. Nc3 O-O 6. e3 Bxc3+ 7. bxc3 d6 8.
+Ne2 c6 9. d4 Be6 10. d5 Bf7 11. O-O c5 12. Qc2 Bg6 13. f4 e4 14. Kh1 Nbd7 15.
+Bd2 Nb6 16. Qb3 a5 17. a4 Ra6 18. Rfb1 Bh5 19. Ng1 Be8 20. Nh3 h6 21. Nf2 Bh5
+22. Kg1 Rf7 23. Bh3 g6 24. Bg2 Be2 25. Bf1 Nxc4 26. Bc1 Rb6 27. Qa2 Rxb1 28.
+Rxb1 Bxf1 29. Kxf1 Nb6 30. c4 Nc8 31. Qb3 b6 32. Bb2 Nd7 33. Qc3 Kh7 34. g4 Nb8
+35. gxf5 gxf5 36. Ke2 Na6 37. Rg1 Qf8 38. h4 Nb4 39. h5 Na2 40. Qb3 Nb4 1/2-1/2
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.05"]
+[Round "9"]
+[White "Burgos Figueroa, Carlos Ernesto"]
+[Black "Barbero Senidic, Alejandro"]
+[Result "0-1"]
+[ECO "A11"]
+[WhiteElo "2246"]
+[BlackElo "2138"]
+[PlyCount "177"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. Nf3 Nf6 2. c4 g6 3. b3 Bg7 4. Bb2 O-O 5. g3 c6 6. Bg2 d5 7. d3 Re8 8. O-O
+Nbd7 9. d4 Ne4 10. Nbd2 Ndf6 11. e3 Bg4 12. Rc1 Ng5 13. h4 Nge4 14. Qc2 Bf5 15.
+Nxe4 Bxe4 16. Qe2 Rc8 17. Bh3 Bxf3 18. Qxf3 e6 19. Qe2 Ne4 20. cxd5 cxd5 21.
+Bg2 Qa5 22. Bxe4 dxe4 23. a3 Qb6 24. b4 Bf8 25. h5 Qd6 26. hxg6 hxg6 27. Rc4
+Qd5 28. Rfc1 Rxc4 29. Qxc4 Bd6 30. Kg2 Qf5 31. Qe2 Kg7 32. Rh1 Rc8 33. Rh4 Qf3+
+34. Qxf3 exf3+ 35. Kxf3 Rc2 36. Ba1 Rc1 37. Bb2 Rb1 38. Bc3 Rb3 39. Ba1 Rxa3
+40. d5+ e5 41. Rc4 Rd3 42. g4 Rxd5 43. Ke4 Rd1 44. Bc3 f6 45. f4 exf4 46. exf4
+Kf7 47. Bd4 Re1+ 48. Be3 f5+ 49. gxf5 gxf5+ 50. Kf3 Rb1 51. Bd2 Rb3+ 52. Ke2
+Ke6 53. Rd4 b5 54. Kd1 Bc7 55. Kc2 Bb6 56. Kxb3 Bxd4 57. Kc2 Kd5 58. Kd3 Bb6
+59. Bc1 Bc7 60. Be3 Bd6 61. Bxa7 Bxb4 62. Be3 Bc5 63. Bd2 b4 64. Bc1 Bd4 65.
+Bd2 Bc3 66. Be3 Bb2 67. Bd2 b3 68. Be3 Bf6 69. Bb6 b2 70. Kc2 Ke4 71. Bc7 Bd4
+72. Bd6 Be3 73. Kxb2 Bxf4 74. Bc5 Kd3 75. Be7 Be5+ 76. Kc1 f4 77. Kd1 Bc3 78.
+Bd6 f3 79. Bg3 Ke4 80. Bf2 Ba5 81. Bc5 Kf4 82. Bf2 Kg4 83. Kc2 Kh3 84. Kd3 Kg2
+85. Bd4 Be1 86. Bc5 Bf2 87. Be7 Bb6 88. Bh4 Bc7 89. Be1 0-1
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.05"]
+[Round "9"]
+[White "Catarineu Morales, Alex"]
+[Black "Badet Serrano, Lluis"]
+[Result "1/2-1/2"]
+[ECO "A21"]
+[WhiteElo "1817"]
+[PlyCount "36"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 e5 2. Nc3 d6 3. g3 Bd7 4. Bg2 Bc6 5. e4 Nf6 6. d3 Be7 7. f4 exf4 8. Bxf4
+O-O 9. Nge2 Nh5 10. Be3 Nf6 11. Nf4 Bd7 12. Nfd5 c6 13. Nxe7+ Qxe7 14. Bg5 h6
+15. Bf4 d5 16. cxd5 cxd5 17. O-O dxe4 18. Nxe4 Nxe4 1/2-1/2
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.05"]
+[Round "9"]
+[White "Corrales Adamuz, Cristian"]
+[Black "Torres Herrero, Joan Manel"]
+[Result "1/2-1/2"]
+[ECO "A24"]
+[WhiteElo "1793"]
+[BlackElo "1924"]
+[PlyCount "16"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d3 d6 6. e4 e5 7. Nge2 Nbd7 8. O-O
+Re8 1/2-1/2
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.05"]
+[Round "9"]
+[White "Gonzalez Rodriguez, Jorge Armando"]
+[Black "Zohaib Hassan, Mohamed"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2405"]
+[BlackElo "2110"]
+[PlyCount "93"]
+[EventDate "2007.12.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.03.04"]
+
+1. b3 d5 2. e3 e5 3. Bb2 Bd6 4. c4 c6 5. cxd5 cxd5 6. Nc3 Nf6 7. Nb5 O-O 8. Nf3
+e4 9. Nxd6 Qxd6 10. Nd4 Bg4 11. Be2 Bxe2 12. Qxe2 Nc6 13. Nxc6 bxc6 14. Qa6 Nd7
+15. Rc1 Qg6 16. O-O c5 17. Qa4 Qe6 18. Rfd1 Rfc8 19. Qa5 Rc6 20. d3 f5 21. d4
+Rac8 22. dxc5 Nxc5 23. Qxa7 R8c7 24. Qb8+ Kf7 25. Qd8 Nd3 26. Qxc7+ Rxc7 27.
+Rxc7+ Ke8 28. Bd4 f4 29. Rd2 Ne1 30. Rd1 Nd3 31. Rxg7 Qc6 32. Rf1 Qc2 33. h4 h6
+34. a4 f3 35. a5 Qe2 36. gxf3 Ne1 37. Rxe1 Qxe1+ 38. Kg2 Qxa5 39. Kg3 exf3 40.
+Kxf3 Qe1 41. b4 Qxb4 42. Kg4 Qb1 43. f4 Qd1+ 44. Kf5 Qh5+ 45. Ke6 Kf8 46. f5
+Qxh4 47. Rh7 1-0
+
+[Event "Llobregat op 1st"]
+[Site "Llobregat"]
+[Date "2008.01.05"]
+[Round "9"]

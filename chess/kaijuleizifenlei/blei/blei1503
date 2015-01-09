@@ -1,0 +1,600 @@
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 g6 4. Bd3 Bg7 5. O-O e6 6. Re1 Nge7 7. Bc2 O-O 8. d4
+cxd4 9. cxd4 e5 10. d5 Nb4 11. Bb3 d6 12. Nc3 Bd7 13. Be3 Na6 14. Rc1 b6 15.
+Qd2 Rc8 16. Bh6 f6 17. Bc2 Rf7 18. a3 Qf8 19. Bxg7 Kxg7 20. b4 Nc7 21. Bd3 h6
+22. h3 f5 23. Nxe5 dxe5 24. d6 f4 25. dxc7 Rxc7 26. Nb5 Rxc1 27. Rxc1 Nc8 28.
+Bc4 Re7 29. Qd5 Qe8 30. Nd6 Nxd6 31. Qxd6 Kh7 32. Bd5 Rg7 33. Rc7 Bc8 34. Rxg7+
+Kxg7 35. Qc7+ Kh8 36. Qxa7 b5 37. Qb8 Bd7 38. Qd6 Kg7 39. Bb7 Kf7 40. Qc7 Kf6
+41. Bd5 Qe7 42. Bc6 Ke6 43. Qxd7+ Qxd7 44. Bxd7+ Kxd7 45. Kf1 Kc6 46. Ke2 h5
+47. Kd3 g5 48. g4 hxg4 49. hxg4 Kd6 50. Kc3 Kc6 51. Kb3 Kb6 52. a4 Ka6 53.
+axb5+ Kxb5 54. f3 Kb6 55. Kc4 Kc6 56. b5+ Kd6 57. Kb4 Kc7 58. Kc5 Kd7 59. Kb6
+Kc8 60. Ka7 1-0
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.27"]
+[Round "1"]
+[White "Tratar, Willi"]
+[Black "Hupprich, Thorsten"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1846"]
+[BlackElo "2065"]
+[PlyCount "102"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. c3 d5 5. dxe5 Nxe4 6. Bxe4 dxe4 7. Qa4+ Nc6 8.
+Qxe4 g6 9. f4 Bf5 10. Qe2 Bc5 11. Be3 Bd3 12. Qf2 Be7 13. Ne2 Bh4 14. g3 Qd5
+15. Rg1 Be7 16. Nd2 O-O-O 17. Qf3 Qb5 18. b4 Rhe8 19. a4 Bxe2 20. Qxe2 Qxe2+
+21. Kxe2 f6 22. b5 Na5 23. exf6 Bxf6 24. Rac1 Re6 25. Rge1 b6 26. Kf3 Rd3 27.
+Ne4 Be7 28. Rcd1 Rxd1 29. Rxd1 Nc4 30. Bd4 Kb7 31. g4 a5 32. f5 gxf5 33. gxf5
+Rh6 34. f6 Bf8 35. Ng5 Rxh2 36. Ne6 Bh6 37. f7 Rh5 38. f8=Q Bxf8 39. Kg4 Rd5
+40. Nxf8 Ne3+ 41. Bxe3 Rxd1 42. Ne6 Ra1 43. Kf3 Rxa4 44. Ke2 h5 45. Kd3 Rg4 46.
+Bf4 h4 47. Ke3 a4 48. Nd8+ Kc8 49. Nc6 h3 50. Ne7+ Kd7 51. Nf5 a3 0-1
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.27"]
+[Round "1"]
+[White "Weissmann, Joerg"]
+[Black "Klotz, Elmar"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2082"]
+[BlackElo "1855"]
+[PlyCount "18"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nc6 2. Nf3 g6 3. d4 Bg7 4. c3 d6 5. Bb5 Bd7 6. Qb3 Na5 7. Qa4 c6 8. Bd3
+Nf6 9. b4 c5 1-0
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.28"]
+[Round "2"]
+[White "Kettering, Werner"]
+[Black "Weissmann, Joerg"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "1876"]
+[BlackElo "2082"]
+[PlyCount "113"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. Nxf6+ Qxf6 12. c3 Bb7 13. g3 O-O 14. Bg2
+Rfd8 15. Nc2 Ne7 16. Ne3 Qe6 17. O-O d5 18. exd5 Nxd5 19. Bxd5 Bxd5 20. Nxd5
+Rxd5 21. Qc2 Rad8 22. Rfd1 Qd6 23. Rxd5 Qxd5 24. a3 g6 25. Rc1 Qf3 26. Re1 f5
+27. Qe2 e4 28. h4 Qxe2 29. Rxe2 Rd1+ 30. Kg2 Rd3 31. Kf1 Kf7 32. Rc2 a5 33. c4
+b4 34. axb4 axb4 35. c5 b3 36. Rc4 Rd2 37. c6 Rc2 38. Rb4 Rxb2 39. c7 Rc2 40.
+Rb7 Ke6 41. Rxb3 Rxc7 42. Ke2 Kf6 43. f3 Re7 44. Ke3 Kg7 45. fxe4 Rxe4+ 46. Kf3
+Kh6 47. Ra3 Rb4 48. Ra7 g5 49. hxg5+ Kg6 50. Rc7 Rg4 51. Ra7 Rxg5 52. Ra6+ Kh5
+53. Kf4 Rg4+ 54. Kxf5 Rxg3 55. Kf4 Rg6 56. Ra1 Rf6+ 57. Kg3 1/2-1/2
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.28"]
+[Round "2"]
+[White "Schorn, Siegfried"]
+[Black "Meng, Gunter"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1296"]
+[BlackElo "2014"]
+[PlyCount "52"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Nf6 4. Nc3 Qd6 5. d4 a6 6. g3 Bg4 7. Bg2 Nc6 8.
+Bf4 Qb4 9. Qc1 O-O-O 10. a3 Qa5 11. Ne5 Nxe5 12. Bxe5 e6 13. O-O Bd6 14. b4 Qb6
+15. Na4 Qb5 16. Nc5 c6 17. c4 Qb6 18. Na4 Qc7 19. Qf4 Be2 20. c5 Bxe5 21. dxe5
+Bxf1 22. Nb6+ Kb8 23. Bxf1 Nd5 24. Qc4 Nxb6 25. cxb6 Qxb6 26. a4 Rd5 0-1
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.28"]
+[Round "2"]
+[White "Zimmer, Ketsarrin"]
+[Black "Weller, Werner"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1691"]
+[BlackElo "1952"]
+[PlyCount "116"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 e6 3. Nf3 g6 4. d4 cxd4 5. Qxd4 f6 6. Be3 Nc6 7. Qa4 a6 8. Be2
+Nge7 9. Nbd2 Rb8 10. Nc4 d5 11. Bb6 Qd7 12. Rd1 Bg7 13. Ne3 Ne5 14. Qb3 Qc6 15.
+Nd4 Qd6 16. O-O O-O 17. c4 Nd7 18. Ba5 Nc6 19. Nxc6 bxc6 20. Qc2 d4 21. c5 Qxc5
+22. Nc4 e5 23. Bc7 Qa7 24. Bxb8 Nxb8 25. Nd6 Be6 26. Bc4 Qd7 27. Qb3 Bxc4 28.
+Nxc4 Kh8 29. f4 Rd8 30. Qd3 exf4 31. Rxf4 c5 32. b3 Nc6 33. a3 Rb8 34. Nd2 Ne5
+35. Qxa6 Qe7 36. Qe2 d3 37. Qe3 Qa7 38. a4 Bh6 39. Kf1 Bxf4 40. Qxf4 Qe7 41.
+Qf2 Rd8 42. a5 Kg7 43. Rc1 Rc8 44. a6 Rc6 45. Ra1 Qa7 46. b4 Rxa6 47. Rxa6 Qxa6
+48. bxc5 Qc6 49. h3 Nd7 50. Nb3 Qxe4 51. Nd2 Qd5 52. Qe3 Qxc5 53. Qxd3 Ne5 54.
+Qb1 Qd5 55. Qc2 Qb5+ 56. Kg1 Qb6+ 57. Kf1 h5 58. Qc3 Kh6 0-1
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.28"]
+[Round "3"]
+[White "Goettel, Tobias"]
+[Black "Sievers, Andy"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1626"]
+[BlackElo "1924"]
+[PlyCount "76"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 g6 5. Nc3 Bg7 6. Nf3 Nf6 7. Bb5+ Bd7 8.
+Bxd7+ Qxd7 9. O-O O-O 10. Bg5 Nc6 11. Re1 Rfd8 12. Rc1 Rac8 13. Qa4 h6 14. Bd2
+b6 15. Nb5 d5 16. e5 Ne4 17. Nc3 Nxd2 18. Nxd2 e6 19. Nf3 Bf8 20. Qd1 Na5 21.
+Nd2 b5 22. Qe2 b4 23. Ncb1 Rxc1 24. Rxc1 Rc8 25. Qd1 Be7 26. Rc2 Bd8 27. Qc1
+Rxc2 28. Qxc2 Qc6 29. Qd1 Bb6 30. Nf3 Qb5 31. b3 Nc6 32. Qd2 Kg7 33. g4 a5 34.
+h4 Qa6 35. h5 Qa7 36. g5 hxg5 37. Qxg5 Qe7 38. Qxe7 Nxe7 0-1
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.28"]
+[Round "3"]
+[White "Leinen, Willi"]
+[Black "Klotz, Elmar"]
+[Result "0-1"]
+[ECO "B08"]
+[WhiteElo "1524"]
+[BlackElo "1855"]
+[PlyCount "46"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nc6 2. Nf3 g6 3. d4 Bg7 4. Nc3 d6 5. Bc4 Nf6 6. d5 Nb8 7. O-O O-O 8. h3
+Nbd7 9. Nh2 Nc5 10. Bd3 c6 11. Ng4 Nxg4 12. hxg4 Nxd3 13. cxd3 cxd5 14. Nxd5 e6
+15. Nc3 b6 16. d4 Qh4 17. f3 f5 18. gxf5 gxf5 19. Be3 f4 20. Bf2 Qg5 21. d5 Rf6
+22. Be1 Rg6 23. Qd2 Bd4+ 0-1
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.28"]
+[Round "3"]
+[White "Mandery, Markus"]
+[Black "Hupprich, Thorsten"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2181"]
+[BlackElo "2065"]
+[PlyCount "97"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d6 2. Nc3 Nf6 3. f4 g6 4. Nf3 Bg7 5. Bc4 O-O 6. d3 Nc6 7. a3 Bg4 8. h3
+Bxf3 9. Qxf3 Nd4 10. Qf2 Nd7 11. Be3 c5 12. O-O a6 13. Nd1 b5 14. Ba2 Rc8 15.
+c3 Nc6 16. Qh4 Bf6 17. Qg3 Bg7 18. Nf2 b4 19. Bd2 b3 20. Bxb3 Qb6 21. Bd5 Qxb2
+22. Ra2 Qb6 23. Ng4 Nf6 24. Nxf6+ Bxf6 25. f5 Kg7 26. h4 Ne5 27. h5 Rce8 28.
+fxg6 fxg6 29. Qh3 g5 30. Qf5 Nxd3 31. Kh1 Nf4 32. Bxf4 gxf4 33. Raf2 e5 34. g3
+Kh8 35. Qg4 Rg8 36. Bxg8 Rxg8 37. Qf5 Qd8 38. gxf4 exf4 39. Rxf4 Be5 40. Rg4
+Rxg4 41. Qxg4 Bxc3 42. Rf7 Qb8 43. Qf5 Qb1+ 44. Kg2 Qc2+ 45. Kh3 Qd3+ 46. Kg4
+Qe2+ 47. Qf3 Qxf3+ 48. Kxf3 Kg8 49. Ra7 1-0
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.28"]
+[Round "3"]
+[White "Tchiviksine, Valerie"]
+[Black "Schorn, Siegfried"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1914"]
+[BlackElo "1296"]
+[PlyCount "49"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nc6 4. d4 cxd4 5. cxd4 Bb4+ 6. Nc3 Nge7 7. a3 Bxc3+ 8.
+bxc3 O-O 9. Bd3 d6 10. O-O Qc7 11. Be3 f5 12. exf5 Nxf5 13. Qc2 h6 14. Bd2 Bd7
+15. Rfe1 Rac8 16. Bxf5 exf5 17. Re2 Rce8 18. Rae1 Rxe2 19. Rxe2 f4 20. Qe4 g5
+21. Qg6+ Kh8 22. Qxh6+ Kg8 23. Qxg5+ Kh8 24. Qh6+ Kg8 25. Bxf4 1-0
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.28"]
+[Round "3"]
+[White "Weissmann, Joerg"]
+[Black "Meng, Pascal"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2082"]
+[BlackElo "1526"]
+[PlyCount "67"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. g3 Nf6 5. Bg2 a6 6. d3 Nc6 7. h3 Bf5 8. Nf3
+O-O-O 9. Be3 e5 10. Qd2 Re8 11. O-O-O Ne7 12. d4 Ng6 13. Ng5 Qe7 14. Nd5 Nxd5
+15. Bxd5 Be6 16. Nxe6 fxe6 17. Be4 Qd6 18. Qc3 c6 19. Bxg6 hxg6 20. dxe5 Qc7
+21. h4 Be7 22. f4 Rd8 23. Qb3 Rd5 24. c4 Rxd1+ 25. Rxd1 Rd8 26. Qb6 Rxd1+ 27.
+Kxd1 Qd7+ 28. Ke2 Bd8 29. Qa7 Qe7 30. Bc5 Qf7 31. Qa8+ Kc7 32. Bd6+ Kd7 33.
+Qxb7+ Ke8 34. Qxc6+ 1-0
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.29"]
+[Round "4"]
+[White "Kettering, Werner"]
+[Black "Meng, Gunter"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1876"]
+[BlackElo "2014"]
+[PlyCount "96"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Be3 a6 6. Nf3 Bg4 7. Be2 Nc6 8.
+Qd2 Bxf3 9. Bxf3 O-O-O 10. O-O-O e6 11. Ne4 Qd5 12. Nc3 Qa5 13. a3 Nd5 14. Nxd5
+exd5 15. Qd3 g6 16. Qb3 Qb5 17. Qxb5 axb5 18. c3 h5 19. Rhe1 Bh6 20. Bxh6 Rxh6
+21. Re3 Rhh8 22. Rde1 Rhf8 23. Kc2 Rd6 24. Be2 Na7 25. Bd3 c6 26. h4 Kc7 27. g3
+Nc8 28. Kb3 Kd7 29. Rf3 f5 30. Rfe3 Rff6 31. Kc2 Rde6 32. f3 Rxe3 33. Rxe3 Nd6
+34. Kd2 f4 35. gxf4 Nc4+ 36. Bxc4 bxc4 37. Re5 Rxf4 38. Rg5 Rxf3 39. Rxg6 Rh3
+40. Rg7+ Kc8 41. Kc2 Rxh4 42. Kb1 Rg4 43. Rh7 h4 44. Ka2 Kb8 45. a4 Ka7 46. Ka3
+Ka6 47. Rh8 b6 48. Ra8+ Kb7 1/2-1/2
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.29"]
+[Round "4"]
+[White "Schorn, Siegfried"]
+[Black "Leinen, Willi"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[WhiteElo "1296"]
+[BlackElo "1524"]
+[PlyCount "77"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nf6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Nbd7 12. O-O-O Qa5 13. Kb1 O-O-O 14. Qe2
+Qb6 15. c4 c5 16. Ne5 Nxe5 17. dxe5 Nd7 18. Ne4 Nb8 19. Rxd8+ Qxd8 20. Rd1 Qc7
+21. Qg4 g5 22. hxg6 Rg8 23. Nd6+ Bxd6 24. exd6 Qd8 25. Qe2 Rxg6 26. Qe3 Nd7 27.
+g3 Qh8 28. Rh1 h5 29. Qf3 Nf6 30. Be5 Qh7 31. Ka1 Qh6 32. Bxf6 Rxf6 33. Qa3 Rf5
+34. Qxa7 Qd2 35. Qa8+ Kd7 36. Qxb7+ Kxd6 37. Qb6+ Ke7 38. a4 Qxf2 39. Qc7+
+1/2-1/2
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.29"]
+[Round "5"]
+[White "Mandery, Markus"]
+[Black "Kettering, Werner"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2181"]
+[BlackElo "1876"]
+[PlyCount "30"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 d6 4. Nf3 e5 5. fxe5 dxe5 6. Bc4 Be7 7. O-O Nf6 8. h3
+O-O 9. d3 h6 10. Nd5 Qd6 11. Be3 Be6 12. Nxf6+ Bxf6 13. Bxe6 fxe6 14. Qe1 Nd4
+15. Rc1 Rac8 1/2-1/2
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.29"]
+[Round "5"]
+[White "Tchiviksine, Valerie"]
+[Black "Tratar, Willi"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1914"]
+[BlackElo "1846"]
+[PlyCount "83"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. Be2 Nc6 7. Be3 Bg4 8.
+h3 Bh5 9. g4 Bg6 10. Bd3 O-O-O 11. Bxg6 hxg6 12. Qe2 Nxg4 13. O-O-O Nxe3 14.
+fxe3 f6 15. Ne4 Qe6 16. Nc5 Qxa2 17. c3 e6 18. Nd3 g5 19. Kd2 Na5 20. Ke1 g4
+21. Nd2 gxh3 22. Qg4 Qd5 23. Rxh3 Rxh3 24. Qxh3 Qf5 25. Qxf5 exf5 26. Kf2 c5
+27. Nf4 cxd4 28. exd4 g5 29. Ne6 Re8 30. d5 b6 31. b4 Nb7 32. Nc4 b5 33. Nb6+
+Kb8 34. Nd7+ Ka7 35. Ndxf8 Nd6 36. Rd3 a5 37. bxa5 Ne4+ 38. Kg2 Nd6 39. Nd7 Ne4
+40. Ndc5 Rc8 41. d6 Nxc5 42. Nxc5 1-0
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.29"]
+[Round "5"]
+[White "Weissmann, Joerg"]
+[Black "Ludy, Klaus"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2082"]
+[BlackElo "2128"]
+[PlyCount "9"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ 1/2-1/2
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.06.29"]
+[Round "5"]
+[White "Zimmer, Ketsarrin"]
+[Black "Van Leyen, Peter"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1691"]
+[BlackElo "1438"]
+[PlyCount "62"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 b6 5. Nc3 a6 6. Bd3 Qc7 7. O-O Bb7 8. Be3
+Nf6 9. h3 Be7 10. Nde2 d6 11. Ng3 Nbd7 12. Qe2 O-O 13. Rad1 b5 14. a3 Rac8 15.
+Bf4 g6 16. Bh6 Rfe8 17. h4 d5 18. exd5 exd5 19. Qf3 Ne5 20. Qe2 Neg4 21. Qd2
+Nh5 22. Nce2 Bxh4 23. Nf4 Bxg3 24. fxg3 Qc5+ 25. Rf2 Nxf2 26. Qxf2 Nxg3 27.
+Qxc5 Rxc5 28. Kf2 Ne4+ 29. Kf3 Nf6 30. Nh3 d4+ 31. Kf2 Ng4+ 0-1
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.07.04"]
+[Round "6"]
+[White "Kettering, Werner"]
+[Black "Tchiviksine, Valerie"]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteElo "1876"]
+[BlackElo "1914"]
+[PlyCount "84"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. f4 e6 5. Nf3 c5 6. Be2 Nc6 7. O-O Be7 8. Kh1
+O-O 9. Bb5 a6 10. Bxc6 bxc6 11. b3 f6 12. d4 fxe5 13. dxe5 Nb6 14. Ba3 Rxf4 15.
+Qd2 Rf5 16. Rae1 Nd7 17. Na4 Qc7 18. Qe3 d4 19. Qe4 Bb7 20. g4 Rf7 21. Nd2
+Rxf1+ 22. Nxf1 c4 23. Bd6 Bxd6 24. exd6 Qxd6 25. Qxe6+ Qxe6 26. Rxe6 cxb3 27.
+axb3 Kf7 28. Re1 Re8 29. Rxe8 Kxe8 30. Kg2 Ke7 31. Kg3 Kd6 32. Nd2 c5 33. Kf4
+Bd5 34. h4 Nf8 35. Kf5 Ng6 36. h5 Nh4+ 37. Kf4 Ng2+ 38. Kg5 Ne3 39. h6 gxh6+
+40. Kh5 Bf7+ 41. Kxh6 Bg6 42. Nc4+ Nxc4 0-1
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.07.04"]
+[Round "6"]
+[White "Tratar, Willi"]
+[Black "Klotz, Elmar"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "1846"]
+[BlackElo "1855"]
+[PlyCount "54"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 Nc6 2. f4 g6 3. Nf3 Bg7 4. c3 Nf6 5. Qc2 d6 6. Be2 e5 7. g3 Qe7 8. f5
+gxf5 9. exf5 e4 10. Nh4 Qe5 11. O-O Qc5+ 12. Kh1 Bd7 13. d3 Nd4 14. Qd1 Nxe2
+15. Qxe2 O-O-O 16. b4 exd3 17. Qxd3 Bb5 18. Qf3 Qd5 19. Rd1 Qxf3+ 20. Nxf3 Ne4
+21. Kg2 Rhe8 22. Nd4 Ba4 23. Rd3 c5 24. Ne2 cxb4 25. Bb2 Bb5 26. Re3 Bxe2 27.
+Rxe2 bxc3 0-1
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Goettel, Tobias"]
+[Black "Hennrich, Reinhard"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1626"]
+[BlackElo "1864"]
+[PlyCount "26"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. dxc5 Qxc5 7. Be3 Qa5 8.
+Be2 Nf6 9. Qb3 Qc7 10. Nbd2 e6 11. h3 Bf5 12. Nd4 Nxd4 13. Bxd4 e5 1/2-1/2
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Kettering, Werner"]
+[Black "Schorn, Siegfried"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "1876"]
+[BlackElo "1296"]
+[PlyCount "39"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 d6 6. Nc3 a6 7. Be3 Nbd7 8. f3
+Be7 9. Qd2 O-O 10. O-O-O b5 11. g4 h6 12. h4 Nh7 13. Nc6 Qe8 14. Nxe7+ Qxe7 15.
+g5 hxg5 16. hxg5 g6 17. Rh6 Kg7 18. Rxh7+ Kxh7 19. Qh2+ Kg7 20. Qh6+ 1-0
+
+[Event "RLP-ch MTB 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Zimmer, Ketsarrin"]
+[Black "Mader, Lena"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1691"]
+[BlackElo "1866"]
+[PlyCount "35"]
+[EventDate "2008.06.27"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 c5 2. c3 e6 3. Nf3 Nc6 4. d4 cxd4 5. cxd4 d5 6. exd5 exd5 7. Bb5 Bb4+ 8.
+Bd2 Qe7+ 9. Qe2 Qxe2+ 10. Bxe2 Bxd2+ 11. Nbxd2 Nf6 12. Bb5 Bd7 13. O-O O-O 14.
+Rac1 a6 15. Bxc6 Bxc6 16. Ne5 Bb5 17. Rfe1 Rac8 18. Nb3 1/2-1/2
+
+[Event "Bratislava Doprastav op"]
+[Site "Bratislava"]
+[Date "2008.06.28"]
+[Round "1"]
+[White "Benova, Zita"]
+[Black "Banas, Kamil"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "1811"]
+[BlackElo "2240"]
+[PlyCount "50"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+O-O 9. Bxf6 Bxf6 10. O-O Be6 11. Nd5 Bg5 12. Bg4 Nd7 13. Bxe6 fxe6 14. Nc3 Qb6
+15. Qe2 Rf7 16. Qc4 Re8 17. Kh1 Rxf2 18. Na4 Qe3 19. Rxf2 Qxf2 20. Rf1 Qh4 21.
+Nc3 Bf4 22. Rxf4 exf4 23. Ne2 Qe1+ 24. Ng1 Ne5 25. Qc3 Qxe4 0-1
+
+[Event "Bratislava Doprastav op"]
+[Site "Bratislava"]
+[Date "2008.06.28"]
+[Round "1"]
+[White "Chripko, Lubomir"]
+[Black "Marsina, Stefan"]
+[Result "0-1"]
+[ECO "B45"]
+[WhiteElo "1456"]
+[BlackElo "1996"]
+[PlyCount "62"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bg5 Be7 7. f4 Qb6 8.
+Nxc6 bxc6 9. Bxf6 Bxf6 10. e5 Qxb2 11. Ne4 Qb4+ 12. Nd2 Be7 13. g3 Bc5 14. Rb1
+Qd4 15. Qe2 Qd5 16. Bg2 Qxa2 17. Qd1 Qa5 18. Qg4 Be3 19. Qe2 Bc5 20. Kd1 Ba6
+21. Qg4 O-O 22. Nb3 Qb4 23. Bf1 Bxf1 24. Rxf1 f6 25. Qe2 fxe5 26. Qxe5 Rf5 27.
+Qc7 Rd5+ 28. Kc1 Be3+ 29. Kb2 Bd4+ 30. Kc1 Qa3+ 31. Kd1 Bb6+ 0-1
+
+[Event "Bratislava Doprastav op"]
+[Site "Bratislava"]
+[Date "2008.06.28"]
+[Round "1"]
+[White "Federic, Pavol"]
+[Black "Danada, Ondrej"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2245"]
+[BlackElo "1821"]
+[PlyCount "95"]
+[EventDate "2008.06.28"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. O-O-O e6 13. Rde1 Bd6 14. Nf5 Bf8
+15. g3 O-O-O 16. Ne3 Nc5 17. Qe2 Nce4 18. Nc4 Nxd2 19. Qxd2 c5 20. Nce5 cxd4
+21. Nxd4 Bc5 22. Nb5 Rxd2 23. Nxc7 Rxf2 24. Nxf7 Rf8 25. Nxe6 Rxf7 26. Nxc5 Rc7
+27. Nd3 Rcxc2+ 28. Kb1 Rh2 29. Rxh2 Rxh2 30. Re7 Nxh5 31. g4 Nf6 32. Rxg7 Rg2
+33. Ne5 Re2 34. Nf7 Re7 35. Nd6+ Kd8 36. Nxb7+ Kd7 37. Rg6 Kc7 38. Rxf6 Kxb7
+39. Rxh6 Re2 40. Rg6 Rg2 41. a4 a5 42. Ka2 Rg3 43. g5 Ka7 44. Rg8 Kb7 45. g6
+Ka7 46. g7 Kb7 47. Kb1 Kc7 48. Ra8 1-0

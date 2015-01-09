@@ -1,0 +1,600 @@
+[ECO "B23"]
+[WhiteElo "1874"]
+[BlackElo "1971"]
+[PlyCount "99"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. Be3 Bd4 7. Qd2 Bxe3 8.
+Qxe3 Qd4 9. Kd2 Nf6 10. h3 Nd7 11. f4 Nb6 12. Qxd4 cxd4 13. Nce2 c5 14. b4 cxb4
+15. Nf3 O-O 16. Nexd4 Na4 17. Rhb1 a5 18. a3 bxa3 19. Rxa3 Nc5 20. Rb5 Ne6 21.
+Nxe6 Bxe6 22. Rxb7 Rfe8 23. Rb5 a4 24. Rb4 Bd7 25. Ne5 Bc8 26. Raxa4 Rxa4 27.
+Rxa4 f6 28. Nc6 Bb7 29. Nb4 f5 30. Ra7 Ba8 31. Nd5 Bxd5 32. exd5 Kf8 33. Rd7 h6
+34. h4 Ra8 35. d6 exd6 36. Rxd6 Kf7 37. Ke3 Re8+ 38. Kf2 Rc8 39. c4 Rc5 40. h5
+gxh5 41. Rxh6 Ra5 42. Rxh5 Ra2+ 43. Kg1 Ra1+ 44. Kh2 Kg6 45. Rh3 Rc1 46. Re3
+Kf6 47. Re5 Rc3 48. Rd5 Ke6 49. g4 fxg4 50. Kg3 1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Darowicki, Mariusz"]
+[Black "Siemaszko, Robert"]
+[Result "0-1"]
+[ECO "B98"]
+[WhiteElo "1942"]
+[PlyCount "86"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. Be2 Nbd7 10. g4 b5 11. a3 Rb8 12. Bh4 Nc5 13. g5 Nfxe4 14. Nxe4 Nxe4 15.
+Qe3 Nc5 16. O-O g6 17. Rac1 Qb6 18. Bf2 Bb7 19. b4 Na4 20. Bf3 O-O 21. Qe2 Nc3
+22. Qd2 Qc7 23. Rfe1 Rfc8 24. f5 e5 25. f6 Bf8 26. Nc6 Bxc6 27. Qxc3 Qb7 28.
+Bxc6 Rxc6 29. Qh3 Rc4 30. c3 Qc8 31. Qe3 Qg4+ 32. Bg3 Rbc8 33. Kg2 Qd7 34. Qf3
+Qc6 35. Qxc6 R8xc6 36. Re3 h6 37. h4 hxg5 38. hxg5 Rg4 39. Kh3 Rxg5 40. Re4 Rf5
+41. Rh4 Rxf6 42. Kg4 Rc4+ 43. Kg5 Rf5# 0-1
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Ferenc, Jozef"]
+[Black "Bakalarz, Mieczyslaw"]
+[Result "0-1"]
+[ECO "B70"]
+[WhiteElo "2095"]
+[BlackElo "2336"]
+[PlyCount "82"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 a6 8. Qd2
+Qc7 9. f3 h5 10. O-O-O Nbd7 11. Kb1 b5 12. h3 Bb7 13. a3 Ne5 14. Rhe1 Nc4 15.
+Bxc4 Qxc4 16. Qd3 Rc8 17. Qxc4 Rxc4 18. Nb3 Ba8 19. Na5 Rc8 20. Rd3 O-O 21.
+Red1 Rfe8 22. a4 Nd7 23. axb5 Bxc3 24. Rxc3 Rxc3 25. bxc3 axb5 26. Kb2 f5 27.
+exf5 gxf5 28. c4 bxc4 29. Nxc4 d5 30. Kc1 Kf7 31. Bf4 Rg8 32. g3 Kf6 33. h4 e5
+34. Bg5+ Ke6 35. Nd2 Rc8 36. Re1 d4 37. Kb2 Rb8+ 38. Kc1 Kd5 39. Nb3 Bc6 40. f4
+e4 41. c3 Rxb3 0-1
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Gorzkiewicz, Lukasz"]
+[Black "Mickiewicz, Piotr"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2108"]
+[BlackElo "2347"]
+[PlyCount "84"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. Qxd4 Nc6 7. Qe4 f5 8. exf6
+Nxf6 9. Qh4 d5 10. Bd3 Bd6 11. Bg6+ Ke7 12. Bc2 h6 13. Bf4 e5 14. Qg3 exf4 15.
+Qxg7+ Ke6 16. O-O Be5 17. Re1 Kd6 18. Na3 Qg8 19. Nb5+ Kc5 20. b4+ Kb6 21. Qxg8
+Rxg8 22. a4 Bxc3 23. Nxc3 Nxb4 24. a5+ Kc5 25. Na4+ Kd6 26. Nd4 Nxc2 27. Nxc2
+Bd7 28. Nd4 Rac8 29. Nb2 Rc3 30. f3 Rg5 31. Rad1 Re5 32. Rxe5 Kxe5 33. Ne2 Ra3
+34. Nd3+ Kd6 35. Nexf4 Rxa5 36. h4 h5 37. Kf2 Ra2+ 38. Ke3 a5 39. Rb1 b5 40.
+Ne2 b4 41. g3 d4+ 42. Nxd4 Nd5+ 0-1
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Kanarek, Marian"]
+[Black "Lapinski, Krzysztof"]
+[Result "1-0"]
+[ECO "B30"]
+[BlackElo "2219"]
+[PlyCount "87"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 Nf6 6. O-O O-O 7. a3 d6 8. h3
+Rb8 9. Rb1 Be6 10. b4 d5 11. exd5 Nxd5 12. Nxd5 Bxd5 13. b5 Bxc4 14. bxc6 Bd5
+15. Nxe5 Bd6 16. Nd7 Bxc6 17. Nxf8 Bxf8 18. Bf4 Qd5 19. Qg4 Rd8 20. Qg5 Qxg5
+21. Bxg5 f6 22. Be3 a6 23. Rb3 Bd5 24. c4 Bc6 25. Rfb1 Rd7 26. Kf1 Kf7 27. f3
+h6 28. Ke2 Be7 29. Rb6 Ke6 30. Rxc6+ bxc6 31. Rb6 Rc7 32. Rxa6 Kd7 33. Kd2 Rb7
+34. Kc2 f5 35. Bd2 Bf6 36. Bc3 Bxc3 37. Kxc3 Kd6 38. d4 cxd4+ 39. Kxd4 g5 40.
+c5+ Kd7 41. Ke5 f4 42. a4 Rb2 43. Ra7+ Kc8 44. Kd6 1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Kulon, Klaudia"]
+[Black "Cyborowski, Lukasz"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2217"]
+[BlackElo "2546"]
+[PlyCount "68"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c6 2. d4 d5 3. Nc3 a6 4. e5 Bf5 5. Nf3 e6 6. Bg5 Be7 7. Bxe7 Nxe7 8. Bd3
+Bg4 9. h3 Bxf3 10. Qxf3 c5 11. dxc5 Nd7 12. Qg3 O-O 13. O-O-O Nxc5 14. Kb1 Rc8
+15. f4 Nxd3 16. cxd3 Qb6 17. Ne2 Rc6 18. Rc1 Rfc8 19. Qf3 Rxc1+ 20. Rxc1 Rxc1+
+21. Nxc1 Qg1 22. Qe2 h5 23. g4 hxg4 24. hxg4 Nc6 25. g5 Nd4 26. Qd2 Kh7 27. b4
+Kg6 28. Kb2 Nf3 29. Ne2 Qf2 30. Qc2 Nd4 31. Nxd4 Qxd4+ 32. Kb3 Qxf4 33. d4+ Qf5
+34. Qc7 b5 0-1
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Mazalon, Mateusz"]
+[Black "Iwanow, Anna"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1666"]
+[BlackElo "1979"]
+[PlyCount "162"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 Nc6 7. Nc3 d6 8. Nxd5
+exd5 9. Be2 Be7 10. O-O O-O 11. Be3 Bg4 12. exd6 Bxd6 13. Qb3 Na5 14. Qd3 Bh5
+15. Ne5 Bxe2 16. Qxe2 Re8 17. Nd3 Qf6 18. Qh5 Rad8 19. Rac1 Re4 20. g3 Bb8 21.
+Nc5 Ree8 22. Bg5 Qf5 23. g4 Qf3 24. Bxd8 Rxd8 25. Rc3 Qf6 26. Rh3 h6 27. Qh4
+Qxh4 28. Rxh4 b6 29. Na4 Nc4 30. f4 Nd2 31. Rf2 Ne4 32. Rf3 Nd2 33. Rf2 Ne4 34.
+Re2 Bxf4 35. Nc3 Ng5 36. Kf2 Kf8 37. Rc2 Rc8 38. Re2 Rd8 39. Kg2 Ne6 40. Rf2
+Bg5 41. Rh5 g6 42. Rxg5 Nxg5 43. Re2 Ne6 44. Re5 Nf4+ 45. Kg3 g5 46. Nb5 Rd7
+47. Re3 f6 48. Ra3 a5 49. Kf3 Kf7 50. Rc3 Re7 51. Nd6+ Kg6 52. Nf5 Rb7 53. Rc8
+Ne6 54. Rh8 Rh7 55. Rg8+ Kf7 56. Rb8 h5 57. Rb7+ Kg6 58. Rxb6 hxg4+ 59. Kxg4
+Nxd4 60. Nxd4 Rh4+ 61. Kg3 Rxd4 62. Rb5 a4 63. Rb6 Kf5 64. b4 Rd3+ 65. Kf2 Rd2+
+66. Kg3 Rxa2 67. Ra6 a3 68. b5 Ra1 69. b6 a2 70. b7 Rb1 71. Rxa2 Rxb7 72. Rf2+
+Ke5 73. Re2+ Kd4 74. Re6 f5 75. Rg6 Rb3+ 76. Kf2 g4 77. Rf6 Rf3+ 78. Ke2 Ke5
+79. Rf8 Rh3 80. Re8+ Kd4 81. Kf2 Rxh2+ 0-1
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Schmidt, Przemyslaw"]
+[Black "Koziej, Maciej"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[BlackElo "1987"]
+[PlyCount "40"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. a3 b6 3. Nf3 Bb7 4. d3 e6 5. g3 Nc6 6. Bg2 d6 7. O-O g6 8. c3 Bg7
+9. d4 e5 10. d5 Nce7 11. c4 Nf6 12. Nc3 O-O 13. Re1 h6 14. h4 Bc8 15. a4 Bg4
+16. Qd3 Ne8 17. Nh2 Bd7 18. Ra3 f5 19. f4 fxe4 20. Bxe4 Nf5 1/2-1/2
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Szurgot, Dominik"]
+[Black "Jacek, Krystian"]
+[Result "1-0"]
+[ECO "B26"]
+[WhiteElo "2003"]
+[BlackElo "1987"]
+[PlyCount "91"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Rb8 8. Nf3
+Nd4 9. Bxd4 cxd4 10. Nb5 Qb6 11. Qb4 Bf8 12. Qxd4 Qxd4 13. Nbxd4 Bd7 14. O-O
+Bg7 15. c3 Ne7 16. Rfe1 e5 17. Nc2 O-O 18. d4 h6 19. Rad1 Be6 20. b3 b5 21. Ne3
+Rfc8 22. d5 Bd7 23. c4 a5 24. Rc1 h5 25. cxb5 Bxb5 26. Bh3 Rxc1 27. Rxc1 Rb7
+28. Nc4 Rc7 29. Rc2 a4 30. Ne1 axb3 31. axb3 Bxc4 32. Rxc4 Rxc4 33. bxc4 Bf8
+34. Nd3 f6 35. Be6+ Kg7 36. Kf1 g5 37. f4 gxf4 38. gxf4 Ng6 39. f5 Nh8 40. Ke2
+Nf7 41. Bxf7 Kxf7 42. Kd2 h4 43. Ke3 Ke8 44. Kf3 Bh6 45. Kg4 Bg5 46. Ne1 1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Wozniak, Marcin"]
+[Black "Demianowicz, Maciej"]
+[Result "1-0"]
+[ECO "B25"]
+[WhiteElo "1944"]
+[BlackElo "1968"]
+[PlyCount "79"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Nf6 6. f4 d6 7. Nf3 O-O 8. O-O
+Nd4 9. h3 Qb6 10. Kh2 Nd7 11. f5 Rb8 12. Nd5 Qd8 13. Bg5 Nc6 14. c3 h6 15. Be3
+e6 16. Nf4 g5 17. Nh5 Nf6 18. Nxg7 Kxg7 19. Qd2 Nh7 20. f6+ Qxf6 21. Nxg5 Qg6
+22. Nxh7 Kxh7 23. Rf4 Rh8 24. Rg4 Qf6 25. Rf1 Qe7 26. Bxh6 f6 27. Rg7+ Qxg7 28.
+Bxg7 Kxg7 29. Qf4 Rf8 30. Qxd6 Ra8 31. Qxc5 Bd7 32. d4 Rae8 33. Qh5 Rh8 34.
+Qg4+ Kf7 35. e5 f5 36. Qg5 Reg8 37. Qf6+ Ke8 38. d5 Nd8 39. dxe6 Bxe6 40. Rd1
+1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Zakoscielna, Kinga"]
+[Black "Grabarczyk, Bogdan"]
+[Result "0-1"]
+[ECO "B75"]
+[WhiteElo "2125"]
+[BlackElo "2449"]
+[PlyCount "92"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 a6 8. Qd2
+Nbd7 9. O-O-O b5 10. Bh6 Bxh6 11. Qxh6 Bb7 12. Nb3 Qc7 13. Kb1 b4 14. Ne2 a5
+15. h4 a4 16. Nbd4 Ra5 17. c3 bxc3 18. Nxc3 a3 19. Ndb5 Qb6 20. b3 Ba6 21. Rc1
+Nc5 22. e5 dxe5 23. Qe3 O-O 24. h5 Bc8 25. g4 Na4 26. Qxe5 Nxc3+ 27. Rxc3 Bd7
+28. Rc5 Bxb5 29. Rxb5 Rxb5 30. Bxb5 Qf2 31. Qe2 Qxe2 32. Bxe2 Nd5 33. Rc1 gxh5
+34. gxh5 Kg7 35. Rc4 Kf6 36. Kc1 Rb8 37. Bd3 Nb4 38. Bb1 h6 39. Kd2 e6 40. Kc3
+Nd5+ 41. Kd4 Rd8 42. Kc5 Rg8 43. b4 Rg2 44. Rc2 Rg1 45. Rc4 Rxb1 46. b5 Rb2 0-1
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.09"]
+[Round "6"]
+[White "Zarow, Zdzislaw"]
+[Black "Kusmierek, Kasper Jan"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1964"]
+[BlackElo "1824"]
+[PlyCount "53"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 e6 2. f4 d5 3. Nc3 c5 4. Nf3 Nf6 5. e5 Ne4 6. Bb5+ Nd7 7. Nxe4 dxe4 8.
+Ng5 e3 9. Bxd7+ Bxd7 10. dxe3 Qa5+ 11. Kf2 Bc6 12. Bd2 Qb6 13. Bc3 Rd8 14. Qh5
+g6 15. Qh3 h6 16. Rhd1 Bg7 17. Nxe6 fxe6 18. Qxe6+ Kf8 19. Qxg6 Rg8 20. e6 Be8
+21. Rxd8 Qxd8 22. Qf5+ Ke7 23. Qxc5+ Kxe6 24. f5+ Kf7 25. Qc4+ Ke7 26. Qe6+ Kf8
+27. Bb4+ 1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Adamowicz, Maciej"]
+[Black "Iwanow, Anna"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[WhiteElo "1790"]
+[BlackElo "1979"]
+[PlyCount "131"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+Qc7 9. Kh1 Nc6 10. Nxc6 bxc6 11. Qd3 O-O 12. b3 Bb7 13. Qg3 Nd7 14. Bb2 e5 15.
+f5 Rad8 16. Rad1 Nf6 17. Bf3 Rfe8 18. Rfe1 Bf8 19. Na4 g6 20. c4 Bg7 21. c5 Bc8
+22. h3 dxc5 23. Bxe5 Qa7 24. Bb8 Qa8 25. Rxd8 Rxd8 26. Qc7 Re8 27. Nxc5 Bxf5
+28. Ba7 Nd5 29. Qb7 Qxb7 30. Nxb7 Nc3 31. Nc5 Bd4 32. e5 Nd5 33. Rd1 Bxe5 34.
+Bxd5 cxd5 35. Rxd5 Bf4 36. Rd1 Re2 37. a4 a5 38. Bb6 Be3 39. Nd7 Bxb6 40. Nxb6
+Be4 41. Rg1 Rb2 42. Nd7 Bc6 43. Nc5 Rc2 44. Nd3 Rc3 45. Rc1 Bxg2+ 46. Kxg2 Rxd3
+47. Rc5 Rxb3 48. Rxa5 Ra3 49. Ra8+ Kg7 50. a5 g5 51. a6 h5 52. a7 h4 53. Kh2 f5
+54. Kg1 g4 55. hxg4 fxg4 56. Rb8 Rxa7 57. Rb4 Ra1+ 58. Kg2 h3+ 59. Kh2 Ra2+ 60.
+Kh1 Rg2 61. Rb7+ Kf6 62. Rf7+ Kg5 63. Rf5+ Kh4 64. Rh5+ Kg3 65. Rxh3+ Kf2 66.
+Rf3+ 1/2-1/2
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Bakalarz, Mieczyslaw"]
+[Black "Hnydiuk, Aleksander"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2336"]
+[BlackElo "2387"]
+[PlyCount "98"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. Bf4 c5 3. e3 cxd4 4. exd4 Nc6 5. c3 Nf6 6. Bd3 Bg4 7. Qb3 Qd7 8.
+Nd2 e6 9. Ngf3 Bxf3 10. Nxf3 Bd6 11. Bxd6 Qxd6 12. O-O O-O 13. Rae1 Nd7 14. Qd1
+g6 15. Qd2 Rfe8 16. Qh6 e5 17. dxe5 Ncxe5 18. Qf4 Re6 19. Nxe5 Nxe5 20. Re3 Rd8
+21. Qh4 d4 22. cxd4 Qxd4 23. Qxd4 Rxd4 24. Be2 Rd2 25. Rb1 Kg7 26. f4 Nf3+ 27.
+Kf2 Nd4 28. Rxe6 fxe6 29. Ke3 Rxe2+ 30. Kxd4 Rxg2 31. Rc1 Rxb2 32. Rc7+ Kh6 33.
+a4 a5 34. h3 b5 35. axb5 Rxb5 36. Ra7 Rh5 37. Ra6 Rxh3 38. Rxe6 a4 39. Re7 Rh4
+40. Ke3 g5 41. fxg5+ Kxg5 42. Kf3 h5 43. Re5+ Kg6 44. Ra5 Rb4 45. Kg3 h4+ 46.
+Kh3 Kf6 47. Kh2 Ke6 48. Kh3 Kd6 49. Kh2 Kc6 0-1
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Demianowicz, Maciej"]
+[Black "Zareba, Grzegorz"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "1968"]
+[BlackElo "1681"]
+[PlyCount "123"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 c6 6. f4 Qc7 7. Bd3 Qb6 8. e5
+dxe5 9. dxe5 Nd5 10. Nxd5 cxd5 11. c3 Nc6 12. Bh4 Bh6 13. Bf2 Qc7 14. Be3 Be6
+15. Nf3 Rd8 16. O-O Qc8 17. Nd4 Nxd4 18. cxd4 O-O 19. f5 Bxe3+ 20. Qxe3 Bxf5
+21. Bxf5 gxf5 22. Qg5+ Kh8 23. Qxe7 Qe6 24. Qg5 h6 25. Qxf5 Qxf5 26. Rxf5 Kg7
+27. Raf1 Rc8 28. Rf6 Rc6 29. R6f4 f5 30. g4 Rc2 31. gxf5 Rxb2 32. Rg4+ Kf7 33.
+e6+ Kf6 34. Rg6+ Ke7 35. Rxh6 Rxa2 36. Rc1 Rg8+ 37. Kh1 Rag2 38. Rh7+ R2g7 39.
+Rc7+ Kf6 40. Rf7+ Rxf7 41. Rxf7+ Kg5 42. e7 Re8 43. f6 a5 44. Rf8 a4 45. Rxe8
+Kxf6 46. Rb8 Kxe7 47. Rxb7+ Kf6 48. Ra7 a3 49. Kg2 Kf5 50. Kf3 a2 51. Rxa2 Kg5
+52. Ra5 Kf6 53. Kf4 Ke6 54. Ra6+ Kd7 55. Ke5 Kc7 56. Rd6 Kb7 57. Ke6 Kc7 58. h4
+Kb7 59. Kd7 Kb8 60. Kc6 Kc8 61. Kb6 Kb8 62. Rd8# 1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Dukaczewski, Piotr"]
+[Black "Ferenc, Jozef"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2351"]
+[BlackElo "2095"]
+[PlyCount "29"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. Qd2 b5 8. Bd3
+Bb7 9. e5 b4 10. Ne2 Nd5 11. Bh6 Nd7 12. Ng3 f6 13. e6 N7b6 14. Nh4 c5 15. Nhf5
+1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Gorzkiewicz, Marta"]
+[Black "Gerasimowisz, Stanislaw"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1853"]
+[BlackElo "1951"]
+[PlyCount "55"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 d6 4. Nf3 Bg4 5. h3 Bxf3 6. Qxf3 a6 7. d3 g6 8. g4
+Nd4 9. Qf2 Bg7 10. Bg2 Rb8 11. O-O Nf6 12. g5 Nd7 13. f5 O-O 14. Nd5 Be5 15. f6
+Nc6 16. Qh4 exf6 17. Nxf6+ Nxf6 18. gxf6 Nd4 19. Rf2 Re8 20. c3 Ne6 21. Be3 h5
+22. Rd1 Qb6 23. Bf3 Qd8 24. Bxh5 Bxf6 25. Rxf6 gxh5 26. Bh6 d5 27. e5 Nf8 28.
+Qg5+ 1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Jacek, Krystian"]
+[Black "Stolarczyk, Anna"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "1987"]
+[BlackElo "2015"]
+[PlyCount "55"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Bxf6 12. g5 Be7 13. f5 Ne5 14. Qg3 b4 15.
+Nce2 g6 16. fxe6 Bxe6 17. Nxe6 fxe6 18. Nd4 Rc8 19. Bxa6 Ra8 20. Bb5+ Nd7 21.
+Nxe6 Qa5 22. Rxd6 Ra7 23. Rxd7 Rxd7 24. Ng7+ Kf8 25. Rf1+ Kxg7 26. Qe5+ Bf6 27.
+Qxf6+ Kg8 28. Qf8# 1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Jedras, Piotr"]
+[Black "Tarczykowski, Janusz"]
+[Result "0-1"]
+[ECO "B05"]
+[WhiteElo "1685"]
+[BlackElo "1938"]
+[PlyCount "86"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O Be7 7. h3 Bh5 8. a4
+O-O 9. Bd2 Nc6 10. exd6 cxd6 11. Nc3 Ndb4 12. Be3 d5 13. Na2 Nxa2 14. Rxa2 Rc8
+15. c3 Na5 16. Bd3 Nc4 17. Bc1 Bg6 18. Be2 Bd6 19. Nd2 Qa5 20. b4 Qc7 21. Nxc4
+dxc4 22. b5 e5 23. Be3 Qa5 24. dxe5 Bxe5 25. f4 Qxc3 26. Bd2 Bd4+ 27. Kh1 Qb3
+28. f5 Qxa2 29. fxg6 hxg6 30. Bg4 Rcd8 31. Qe1 Rfe8 32. Qc1 Be5 33. Bb4 Qb3 34.
+Bc5 b6 35. Bg1 Qxa4 36. Qe3 Qxb5 37. Qf3 f5 38. Bxf5 gxf5 39. Qxf5 Qd7 40. Qh5
+b5 41. Bc5 c3 42. Bd6 Bxd6 43. Qd5+ Qe6 0-1
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Krzyzanowski, Marcin"]
+[Black "Zakoscielna, Kinga"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2261"]
+[BlackElo "2125"]
+[PlyCount "71"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. a3 Bb7 7. Be2 Qc7 8. O-O
+Nf6 9. Bf3 d6 10. Re1 Nbd7 11. g3 Nc5 12. Bg2 Be7 13. g4 h6 14. Bd2 O-O-O 15.
+b4 Ncd7 16. a4 bxa4 17. b5 e5 18. bxa6 Bxa6 19. Nf5 Nc5 20. Nxa4 Bb7 21. Nxc5
+dxc5 22. Qe2 Rd7 23. Reb1 Bd8 24. Ba5 Qc6 25. Bc3 Bc7 26. f3 g6 27. Ne3 Kd8 28.
+Bf1 Bc8 29. Qg2 Qe6 30. Bb5 Rd6 31. Nc4 Rd4 32. Bxd4 exd4 33. Ra7 g5 34. Rxc7
+Kxc7 35. Qg3+ Kd8 36. Ne5 1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Lapinski, Krzysztof"]
+[Black "Czernicki, Bogdan"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2219"]
+[BlackElo "2032"]
+[PlyCount "43"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 d6 2. d4 c6 3. Nc3 g6 4. Bc4 Bg7 5. Qf3 e6 6. Nge2 Ne7 7. Bb3 O-O 8. h4
+d5 9. h5 f5 10. exd5 cxd5 11. hxg6 hxg6 12. Bg5 Nbc6 13. O-O-O Bd7 14. Nxd5
+exd5 15. Bxd5+ Rf7 16. Bxf7+ Kxf7 17. Rh7 Qa5 18. d5 Ne5 19. Qe3 Kg8 20. Rxg7+
+Kxg7 21. Qxe5+ Kg8 22. Bh6 1-0
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Ratajczyk, Rafal"]
+[Black "Schmidt, Przemyslaw"]
+[Result "0-1"]
+[ECO "B91"]
+[WhiteElo "1880"]
+[PlyCount "76"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 Nc6 7. Bg2 Bd7 8. O-O
+g6 9. h3 Nxd4 10. Qxd4 Bg7 11. Qd3 O-O 12. f4 Qc7 13. a4 Be6 14. Re1 Rac8 15.
+Be3 Nd7 16. Bd4 Bc4 17. Qd2 e5 18. fxe5 Nxe5 19. Rac1 b5 20. axb5 axb5 21. b3
+Be6 22. Nd5 Qb7 23. Ra1 Ra8 24. Rxa8 Rxa8 25. Rf1 Bxd5 26. exd5 Qd7 27. Qc3 Rc8
+28. Qb2 Qe7 29. Kh2 Qg5 30. Rf4 h5 31. Be4 h4 32. Rxh4 Qd2+ 33. Kh1 Qe1+ 34.
+Kg2 Qe2+ 35. Kh1 Nf3 36. Bxf3 Qxf3+ 37. Kh2 Qe2+ 38. Kg1 Rxc2 0-1
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Siemaszko, Robert"]
+[Black "Gabryjalowicz, Jakub"]
+[Result "0-1"]
+[ECO "B10"]
+[BlackElo "1726"]
+[PlyCount "120"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c6 2. e4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Bb5+ Bd7 6. Qb3 Bxb5 7. Qxb5+ Qd7
+8. Qxd7+ Nbxd7 9. Nc3 a6 10. Nf3 Nb6 11. d4 Nbxd5 12. Bd2 e6 13. O-O Bd6 14.
+Rac1 O-O 15. Nxd5 Nxd5 16. Rc2 Bb4 17. a3 Bxd2 18. Nxd2 b5 19. b4 Nf4 20. Nb3
+Rfc8 21. Rfc1 Rxc2 22. Rxc2 g6 23. g3 Nd5 24. Kf1 Kf8 25. Ke2 Ke7 26. Kd3 Kf6
+27. Rc6 h5 28. h4 g5 29. hxg5+ Kxg5 30. Ke4 Nf6+ 31. Kf3 Nd5 32. Rc5 Rh8 33.
+Rc6 h4 34. gxh4+ Rxh4 35. Nc5 Rh3+ 36. Ke2 Rxa3 37. Nxa6 Ra2+ 38. Kf3 Ra4 39.
+Rd6 Nxb4 40. Nxb4 Rxb4 41. Rb6 Kf5 42. Rb7 Rb3+ 43. Ke2 Ke4 44. Rxf7 Kxd4 45.
+Re7 e5 46. Rd7+ Ke4 47. Rb7 b4 48. Rb8 Rb2+ 49. Kf1 b3 50. Kg2 Kd3 51. Rd8+ Kc3
+52. Rc8+ Kd2 53. Re8 Rc2 54. Rxe5 b2 55. Rb5 Kc1 56. Kg3 b1=Q 57. Rxb1+ Kxb1
+58. f4 Kb2 59. Kg4 Kc3 60. Kf5 Re2 0-1
+
+[Event "Kochan Memorial op 19th"]
+[Site "Koszalin"]
+[Date "2008.08.10"]
+[Round "7"]
+[White "Weichhold, Pawel"]
+[Black "Szurgot, Dominik"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2022"]
+[BlackElo "2003"]
+[PlyCount "81"]
+[EventDate "2008.08.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]

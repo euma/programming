@@ -1,0 +1,600 @@
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "1868"]
+[BlackElo "2313"]
+[PlyCount "80"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O g6 6. Re1 d6 7. c3 Bg7 8. Nbd2
+O-O 9. Nf1 d5 10. Bb3 Be6 11. Ng3 Re8 12. h3 a6 13. Be3 Kh7 14. Bc2 d4 15. cxd4
+exd4 16. Bd2 Nd7 17. Bb3 Nc5 18. Bxe6 Rxe6 19. Qc2 Qe7 20. Ne2 Qf8 21. Qc4 b5
+22. Qc2 Rd8 23. Rac1 Nxe4 24. Nf4 Nxd2 25. Nxe6 Nxf3+ 26. gxf3 fxe6 27. Qxc6
+Rd5 28. Rxe6 Rg5+ 29. Kf1 Qf5 30. Ke2 Qxh3 31. Re7 Rf5 32. Rxg7+ Kxg7 33. Qd7+
+Kf6 34. Qd8+ Ke5 35. Qxc7+ Kf6 36. Qd8+ Ke5 37. Qe7+ Kf4 38. Qe4+ Kg5 39. Rg1+
+Kf6 40. Qc6+ Ke7 0-1
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.09"]
+[Round "2"]
+[White "Andrason, Pall"]
+[Black "Frigge, Paul Joseph"]
+[Result "1-0"]
+[ECO "C01"]
+[BlackElo "1828"]
+[PlyCount "79"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 c5 5. Be3 c4 6. c3 Bf5 7. b3 b5 8. a4 Qa5
+9. b4 Qa6 10. Nbd2 Nc6 11. Ne5 f6 12. Nxc6 Qxc6 13. axb5 Qxb5 14. Ra5 Qb7 15.
+g3 Bxb4 16. cxb4 Qxb4 17. Rxd5 Be4 18. Rb5 Qxb5 19. Nxe4 Qb4+ 20. Bd2 Qe7 21.
+Qa4+ Qd7 22. Nd6+ Ke7 23. Qxd7+ Kxd7 24. Nf7 Rc8 25. Bh3+ Ke7 26. Bxc8 Kxf7 27.
+Ba6 Nh6 28. Bxc4+ Kg6 29. Bxh6 Kxh6 30. O-O Rd8 31. Rd1 Kg5 32. Be6 f5 33. d5
+Kf6 34. Ra1 Ra8 35. Bd7 a5 36. Bc6 Ra6 37. Re1 Kf7 38. Re6 Kf8 39. Re8+ Kf7 40.
+d6 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.11"]
+[Round "3"]
+[White "Brynjarsson, Eirikur Orn"]
+[Black "Johannesson, Petur"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1686"]
+[PlyCount "69"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 d6 3. c3 Nc6 4. d4 Be7 5. h3 Nf6 6. d5 Nb8 7. Qc2 c6 8. c4 c5
+9. Bd3 O-O 10. a3 Na6 11. Bd2 Bd7 12. b4 Nc7 13. b5 b6 14. a4 a6 15. Na3 a5 16.
+O-O Qc8 17. Kh2 Bxh3 18. gxh3 Nh5 19. Rg1 Nf4 20. Bxf4 exf4 21. e5 g6 22. Rae1
+f5 23. exf6 Bxf6 24. Bxg6 Bg7 25. Bxh7+ Kh8 26. Qg6 Ne8 27. Rxe8 Qd7 28. Rxa8
+Qe7 29. Rxf8+ Qxf8 30. Qh5 Bh6 31. Rg8+ Kxh7 32. Rxf8 Kg7 33. Rf7+ Kg8 34. Qg6+
+Kh8 35. Qh7# 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.11"]
+[Round "3"]
+[White "Eliasson, Kristjan Orn"]
+[Black "Andrason, Pall"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "1917"]
+[PlyCount "67"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 g6 5. Be3 Bg7 6. c3 Nge7 7. Be2 O-O 8.
+Nd2 d6 9. O-O f5 10. Bc4+ d5 11. exd5 Nxd5 12. Qb3 Nce7 13. Bg5 Bf6 14. N2f3
+Kg7 15. Rfe1 c6 16. Rad1 Qb6 17. Qc2 h6 18. Bxf6+ Rxf6 19. Rd2 c5 20. Nb3 Be6
+21. Bf1 Re8 22. Ne5 Nf4 23. c4 Nc6 24. Nd7 Bxd7 25. Rxd7+ Kf8 26. Rxe8+ Kxe8
+27. Rh7 Nb4 28. Qd2 Qd6 29. Qe3+ Re6 30. Qc3 Re7 31. Rh8+ Kd7 32. g3 Nxa2 33.
+Qa5 Qd1 34. Rd8+ 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.11"]
+[Round "3"]
+[White "Kjartansson, Gudmundur"]
+[Black "Salama, Omar"]
+[Result "1-0"]
+[ECO "C76"]
+[WhiteElo "2307"]
+[BlackElo "2233"]
+[PlyCount "49"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 Bd7 6. c3 g6 7. O-O Bg7 8. Be3
+Nf6 9. Nbd2 O-O 10. h3 Qe8 11. Bc2 h6 12. dxe5 dxe5 13. Bc5 Nh5 14. Bxf8 Bxf8
+15. Nh2 Bc5 16. Qf3 Qe7 17. Rad1 Rf8 18. Rfe1 Kg7 19. Nc4 f5 20. Rxd7 Qxd7 21.
+exf5 e4 22. Bxe4 Qf7 23. b3 gxf5 24. Bxc6 bxc6 25. Ne5 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.11"]
+[Round "3"]
+[White "Lee, Gudmundur Kristinn"]
+[Black "Haraldsson, Sigurjon"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[BlackElo "2046"]
+[PlyCount "57"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Be3 Bg4 6. Be2 Ne7 7. Nc3 Nbc6 8.
+h3 Bh5 9. Qd2 Qd7 10. Nb5 Bg6 11. Nxd6+ Qxd6 12. a3 O-O 13. Bf4 Qd7 14. O-O Nf5
+15. Bb5 f6 16. Rfe1 Nd6 17. Ba4 Be4 18. Nh2 Nc4 19. Qc3 Bg6 20. Re2 Rae8 21.
+Rae1 Rxe2 22. Rxe2 Re8 23. Rxe8+ Bxe8 24. Bb3 b5 25. Bxc4 dxc4 26. Nf3 Ne7 27.
+Qe3 Nd5 28. Qd2 Bg6 29. c3 1/2-1/2
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.11"]
+[Round "3"]
+[White "Loftsson, Hrafn"]
+[Black "Sigfusson, Sigurdur"]
+[Result "0-1"]
+[ECO "C28"]
+[WhiteElo "2248"]
+[BlackElo "2313"]
+[PlyCount "62"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nc3 d6 3. Bc4 Nf6 4. d3 Nc6 5. f4 Bg4 6. Nf3 Nd4 7. Be3 c6 8. fxe5
+Bxf3 9. gxf3 dxe5 10. O-O Qd7 11. Kh1 O-O-O 12. f4 Qh3 13. Bxd4 exd4 14. Nb1
+Ng4 15. Qe2 Nxh2 16. Qg2 Qxg2+ 17. Kxg2 Nxf1 18. Kxf1 f6 19. Be6+ Kc7 20. Nd2
+Bd6 21. f5 g5 22. Kg2 g4 23. Rh1 h5 24. Rh4 Bf4 25. Nf1 Rh7 26. Ng3 Rdh8 27.
+Ne2 Be3 28. Kg3 Rg7 29. Kg2 Bg5 30. Rh2 h4 31. Nxd4 h3+ 0-1
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.11"]
+[Round "3"]
+[White "Olafsson, Thorvadur F"]
+[Black "Einarsson, Halldor"]
+[Result "1-0"]
+[ECO "C09"]
+[WhiteElo "2144"]
+[BlackElo "2279"]
+[PlyCount "39"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5 Bxc5 8.
+O-O Nge7 9. Nb3 Bd6 10. Re1 O-O 11. Bd3 h6 12. h3 Nf5 13. c3 Qf6 14. Bc2 Rd8
+15. Qd3 Ne5 16. Nxe5 Bxe5 17. g4 Ne7 18. f4 Bc7 19. Rxe7 Bb6+ 20. Nd4 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.11"]
+[Round "3"]
+[White "Omarsson, Dadi"]
+[Black "Kristinsson, Bjarni Jens"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "1999"]
+[BlackElo "1822"]
+[PlyCount "49"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Ne4 5. Nxe4 dxe4 6. Bc4 c5 7. d5 exd5 8.
+Qxd5 Qxd5 9. Bxd5 Nd7 10. Bf4 f5 11. exf6 Nxf6 12. Bb3 b5 13. c3 c4 14. Bc2 Bc5
+15. Ne2 O-O 16. O-O Bg4 17. Ng3 Rae8 18. Be3 Bxe3 19. fxe3 Nd5 20. Rxf8+ Kxf8
+21. h3 Nxe3 22. Bxe4 Be2 23. Re1 Bd3 24. Rxe3 h5 25. Rf3+ 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.11"]
+[Round "3"]
+[White "Sigurdsson, Pall"]
+[Black "Vigfusson, Vigfus"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "1863"]
+[BlackElo "2052"]
+[PlyCount "173"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Be2 Be7 6. O-O O-O 7. d3 Nf6 8.
+Nc3 d5 9. Bf4 c6 10. Re1 Nbd7 11. Bf1 Re8 12. Qd2 Nf8 13. h3 Ng6 14. Bh2 Bd7
+15. Re2 Qb6 16. Na4 Qb5 17. b3 c5 18. Rae1 Qc6 19. Ne5 Nxe5 20. Rxe5 Bd6 21.
+Rxe8+ Rxe8 22. Rxe8+ Bxe8 23. Bxd6 Qxd6 24. Qa5 b5 25. Nc3 a6 26. a4 b4 27. Ne2
+g6 28. c3 bxc3 29. Qxc3 d4 30. Qc4 Bd7 31. Nc1 Be6 32. Qc2 Bd5 33. Qb2 a5 34.
+Qd2 Qb6 35. Be2 Nd7 36. h4 Qc6 37. Qg5 f6 38. Qg3 Kf7 39. h5 g5 40. h6 Qb6 41.
+Bh5+ Kf8 42. Bd1 Qe6 43. Kf1 Qe5 44. Qh3 Ke7 45. Bg4 Nf8 46. Bf5 Be6 47. Bxe6
+Nxe6 48. Qf3 f5 49. Qb7+ Kf6 50. Qxh7 Qf4 51. Qh8+ Ke7 52. Ne2 Qd2 53. f3 Qd1+
+54. Kf2 Qxd3 55. h7 Qe3+ 56. Kf1 d3 57. Nc3 Qc1+ 58. Kf2 d2 59. Qe5 Qc2 60. Kg3
+f4+ 61. Kg4 Qxh7 62. Nd5+ Kd8 63. Qb8+ Kd7 64. Nf6+ Ke7 65. Nxh7 d1=Q 66. Qb7+
+Qd7 67. Qxd7+ Kxd7 68. Nxg5 Nd4 69. Kxf4 Nxb3 70. Ke5 c4 71. Ne4 Kc6 72. g4 Nc5
+73. Nc3 Nd3+ 74. Kd4 Kd6 75. g5 Ke6 76. Ne2 Nb2 77. f4 Nxa4 78. Kxc4 Nb6+ 79.
+Kb5 Nd5 80. Nd4+ Kf7 81. f5 Ne7 82. f6 Ng8 83. Nc6 Nxf6 84. Ne5+ Kg7 85. gxf6+
+Kxf6 86. Nc4 a4 87. Kxa4 1/2-1/2
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.11"]
+[Round "3"]
+[White "Thorgeirsson, Sverrir"]
+[Black "Brynjarsson, Helgi"]
+[Result "1-0"]
+[ECO "C69"]
+[WhiteElo "2120"]
+[BlackElo "1914"]
+[PlyCount "80"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8.
+Nb3 Qxd1 9. Rxd1 Bd6 10. Be3 b6 11. a4 Bb7 12. f3 Ne7 13. N1d2 O-O-O 14. Nc4
+Ng6 15. Bf2 Ne5 16. Ne3 g6 17. Nd2 h5 18. Ndc4 Rhe8 19. Nxd6+ cxd6 20. c4 Kc7
+21. b3 Rd7 22. Ra2 g5 23. Bg3 Red8 24. Rad2 Nf7 25. h3 Nh6 26. Kf1 g4 27. hxg4
+hxg4 28. Bf4 Ng8 29. Nxg4 Bc6 30. Ne3 Ne7 31. Kf2 b5 32. axb5 axb5 33. Bg3 Nc8
+34. Nf5 bxc4 35. bxc4 Ba4 36. Rb1 Bc6 37. Rdb2 Re8 38. Rb8 Re6 39. R8b6 Re8 40.
+Ne3 Kd8 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Einarsson, Halldor"]
+[Black "Benediktsson, Thorir"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2279"]
+[BlackElo "1930"]
+[PlyCount "49"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e5 3. e3 exd4 4. exd4 d5 5. Nc3 Bb4 6. Bd3 O-O 7. Nge2 dxc4 8.
+Bxc4 Nc6 9. a3 Bxc3+ 10. bxc3 Bf5 11. O-O Ne4 12. f3 Nd6 13. Ba2 Qf6 14. Ng3
+Bg6 15. Ne4 Nxe4 16. fxe4 Qe7 17. e5 Rad8 18. Qg4 Kh8 19. Bg5 f6 20. exf6 gxf6
+21. Bh6 Rfe8 22. Qh4 Rd6 23. Rae1 Qd8 24. Rxe8+ Bxe8 25. Bg5 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Johannesson, Petur"]
+[Black "Finnbogadottir, Hulda Run"]
+[Result "1-0"]
+[ECO "C44"]
+[BlackElo "1658"]
+[PlyCount "49"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e5 2. e4 Nf6 3. d3 Nc6 4. Nf3 d6 5. Be3 Bg4 6. Nbd2 Be7 7. Be2 O-O 8. O-O
+h6 9. Nb3 Qd7 10. Nh4 Bxe2 11. Qxe2 Ng4 12. h3 Nxe3 13. Qxe3 Bg5 14. Qg3 Qe7
+15. Nf5 Qf6 16. h4 Bf4 17. Qg4 g6 18. g3 Bd2 19. Nxd2 h5 20. Qg5 Qe6 21. g4
+hxg4 22. h5 Qd7 23. h6 Kh8 24. Qf6+ Kh7 25. Qg7# 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Kjartansson, David"]
+[Black "Johannesson, Ingvar Thor"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2288"]
+[BlackElo "2338"]
+[PlyCount "81"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nc6 5. Bb5 Bd6 6. c4 dxc4 7. d5 a6 8. Ba4
+b5 9. dxc6 bxa4 10. Qxa4 Ne7 11. O-O O-O 12. Nbd2 Rb8 13. a3 c3 14. bxc3 Rb6
+15. Re1 Be6 16. Nd4 Bd5 17. Nc4 Bxc4 18. Qxc4 Qa8 19. a4 a5 20. Bg5 Nxc6 21.
+Nf5 Ne5 22. Qa2 Rfb8 23. Rad1 h6 24. Be3 Rb2 25. Qa1 Ng4 26. Nxd6 Nxe3 27. Rxe3
+cxd6 28. h3 Qc6 29. Qa3 d5 30. Qe7 Qxa4 31. Rd4 Qa1+ 32. Kh2 Rxf2 33. Rg4 Qb1
+34. Qe5 g6 35. Qxd5 Qf5 36. Re5 Rxg2+ 37. Rxg2 Qf4+ 38. Kh1 Qf1+ 39. Kh2 Qf4+
+40. Kh1 Qf1+ 41. Kh2 1/2-1/2
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Kristinsson, Bjarni Jens"]
+[Black "Johannsdottir, Johanna Bjorg"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "1822"]
+[BlackElo "1905"]
+[PlyCount "77"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 O-O 8.
+O-O Ne5 9. Be2 d5 10. Nd2 a6 11. Kh1 Ba7 12. Qb3 c5 13. Nc2 c4 14. Qa3 b5 15.
+Rad1 Bb7 16. Bxa7 Rxa7 17. Qc5 Raa8 18. f4 Nd3 19. Qc7 Rab8 20. e5 Qh4 21. g3
+d4+ 22. Bf3 Bxf3+ 23. Nxf3 Qh6 24. Qxe7 dxc3 25. bxc3 Qb6 26. Qd6 Nf2+ 27. Kg2
+Nxd1 28. Qxb6 Rxb6 29. Rxd1 a5 30. a3 h6 31. Rd5 Ra8 32. Nfd4 b4 33. axb4 axb4
+34. Nxb4 Ra3 35. Kh3 Rxc3 36. Rd8+ Kh7 37. Nd5 Rd3 38. Nxb6 c3 39. Rc8 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Kristjansson, Atli Freyr"]
+[Black "Edvardsson, Kristjan"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "2019"]
+[BlackElo "2261"]
+[PlyCount "152"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 f5 4. d4 fxe4 5. Nxe5 Nf6 6. Bg5 Be7 7. Nd2 O-O 8.
+Be2 d5 9. Qb3 Kh8 10. f3 Nxe5 11. dxe5 Nh5 12. Bxe7 Qxe7 13. fxe4 Qh4+ 14. Kd1
+Ng3 15. Re1 Nxe2 16. Rxe2 Bg4 17. Nf3 Bxf3 18. gxf3 dxe4 19. Qb4 Rxf3 20. Kc2
+Rf2 21. Rae1 Rxh2 22. Kb3 Rxe2 23. Rxe2 a5 24. Qxb7 Qd8 25. Qxe4 Qd1+ 26. Ka3
+Rb8 27. Qc2 Qxc2 28. Rxc2 h5 29. e6 Re8 30. Re2 g6 31. Ka4 Kg7 32. Kxa5 h4 33.
+Kb5 Kf6 34. a4 Rxe6 35. Rf2+ Ke7 36. c4 Rb6+ 37. Kc5 Ra6 38. Kb5 Rb6+ 39. Kc5
+g5 40. a5 Rg6 41. Rh2 Kd7 42. Kd4 Rh6 43. Ke3 g4 44. Rd2+ Kc6 45. Kf2 Rf6+ 46.
+Kg2 Rf4 47. b3 Rf3 48. b4 Rc3 49. b5+ Kb7 50. b6 cxb6 51. axb6 Kxb6 52. Rd6+
+Kc5 53. Rh6 Rc2+ 54. Kh1 h3 55. Rh4 Rxc4 56. Rh5+ Kd4 57. Rg5 Ke3 58. Rg8 Kf3
+59. Rf8+ Kg3 60. Rf1 Re4 61. Kg1 Re2 62. Ra1 Kf3 63. Rf1+ Ke3 64. Rf8 Ra2 65.
+Re8+ Kf3 66. Rf8+ Kg3 67. Rf1 Kh4 68. Rb1 g3 69. Rb4+ Kg5 70. Rb5+ Kf4 71. Rb4+
+Ke5 72. Rb5+ Kd4 73. Rb4+ Kc3 74. Rb1 Rd2 75. Ra1 Kb2 76. Rf1 Kc2 0-1
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Petursson, Matthias"]
+[Black "Lee, Gudmundur Kristinn"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1902"]
+[PlyCount "54"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 Nge7 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Qxd2 d5 9. exd5 Nxd5 10. O-O O-O 11. Nc3 Nxc3 12. bxc3 Bg4 13. Qf4 Qd7 14.
+Bd3 Rfe8 15. Rab1 Rab8 16. Ng5 h6 17. Nf3 a6 18. Rb2 b5 19. Rfb1 Rb6 20. h3 Bh5
+21. a4 Reb8 22. axb5 Na7 23. Ne5 Qe6 24. Bf5 Qd6 25. Qh4 Bg6 26. Bxg6 fxg6 27.
+Nc4 Kh7 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.13"]
+[Round "4"]
+[White "Thorsteinsdottir, Hallgerdur"]
+[Black "Kjartansson, Dagur"]
+[Result "1-0"]
+[ECO "C04"]
+[WhiteElo "1867"]
+[PlyCount "135"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Ne4 6. Bb5 Nxd2 7. Bxd2 Bd7 8.
+Qe2 Nb4 9. Bxb4 Bxb4+ 10. c3 c6 11. cxb4 cxb5 12. O-O Qe7 13. a3 O-O 14. Nd2
+Rac8 15. Nb3 b6 16. Qd3 f6 17. f4 f5 18. Rac1 Qh4 19. Rce1 Rc7 20. Re3 Rfc8 21.
+Rh3 Qg4 22. Rf2 Be8 23. Rg3 Qh4 24. Qd2 Rc2 25. Qe3 Rxf2 26. Qxf2 Kf8 27. Qd2
+Rc4 28. Rh3 Qg4 29. Rxh7 Bh5 30. Rh8+ Kf7 31. Ra8 Qd1+ 32. Qxd1 Bxd1 33. Rxa7+
+Kg6 34. Nd2 Rxd4 35. Nf3 Rxf4 36. Re7 Rg4 37. Kf2 d4 38. Rxe6+ Kf7 39. Rxb6 d3
+40. Rxb5 Bxf3 41. gxf3 Rd4 42. Ke1 Rf4 43. Rd5 Rxf3 44. Kd2 Rf2+ 45. Kc3 d2 46.
+Rxd2 Rf3+ 47. Kd4 Ke6 48. Re2 g5 49. b5 g4 50. b6 f4 51. a4 Rh3 52. b7 Rh8 53.
+Kc5 f3 54. Rd2 Kxe5 55. Kc6 Ke4 56. Kc7 Rh7+ 57. Rd7 Rxd7+ 58. Kxd7 f2 59. b8=Q
+f1=Q 60. Qb7+ Ke3 61. Qb6+ Ke2 62. Qb5+ Kf2 63. Qxf1+ Kxf1 64. b4 Kg2 65. b5
+Kxh2 66. b6 g3 67. b7 Kh1 68. b8=Q 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.16"]
+[Round "5"]
+[White "Eidsson, Johann Oli"]
+[Black "Brynjarsson, Helgi"]
+[Result "1-0"]
+[ECO "C34"]
+[BlackElo "1914"]
+[PlyCount "23"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 f6 4. Bc4 g5 5. Nxg5 Nh6 6. Qh5+ Ke7 7. Nf7 Nxf7 8.
+Qxf7+ Kd6 9. d4 Bh6 10. e5+ fxe5 11. Qd5+ Ke7 12. Qxe5+ 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.16"]
+[Round "5"]
+[White "Johannsdottir, Johanna Bjorg"]
+[Black "Johannesson, Petur"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "1905"]
+[PlyCount "107"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Be7 5. O-O Bf6 6. Be3 Ne7 7. Nbd2 O-O 8.
+Re1 c6 9. Nf1 Ng6 10. Ng3 b5 11. Bb3 Bb7 12. Nf5 Be7 13. a4 b4 14. a5 a6 15.
+Bd2 c5 16. dxe5 dxe5 17. c3 Nf6 18. Bc2 Kh8 19. Nxe7 Qxe7 20. cxb4 Rad8 21.
+bxc5 Qxc5 22. Qb1 Bc6 23. Be3 Qb5 24. Bb6 Qc4 25. Bxd8 Rxd8 26. h3 Bd7 27. b3
+Qc8 28. Ng5 Kg8 29. Rd1 h6 30. Nf3 Nh5 31. Qb2 Re8 32. Kh2 Nhf4 33. Ng1 Nh4 34.
+Bd3 Nhxg2 35. Rac1 Qd8 36. Bf1 Qg5 37. Rxd7 Re6 38. Rc8+ Kh7 39. Rdd8 Nh4 40.
+Rh8+ Kg6 41. Rc3 Rd6 42. Rg3 Ne6 43. Rxg5+ Nxg5 44. Rb8 Rd3 45. Bxd3 f6 46.
+Bxa6 h5 47. Qc2 Nhf3+ 48. Nxf3 Nxf3+ 49. Kg3 Ng5 50. Qc6 Kh7 51. Be2 f5 52.
+Bxh5 f4+ 53. Kg2 f3+ 54. Kf1 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.16"]
+[Round "5"]
+[White "Thorgeirsson, Sverrir"]
+[Black "Einarsson, Halldor"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[WhiteElo "2120"]
+[BlackElo "2279"]
+[PlyCount "101"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5 Bxc5 8.
+O-O Nge7 9. Nb3 Bd6 10. Re1 O-O 11. Bd3 h6 12. h3 Bc7 13. c3 Qd6 14. Be3 b6 15.
+Nbd4 Nxd4 16. Bxd4 Nc6 17. Bc2 Nxd4 18. Qxd4 Ba6 19. Rad1 Rad8 20. Rd2 Rfe8 21.
+Re3 Rxe3 22. Qxe3 Bb5 23. Bd3 Bc6 24. Qd4 Re8 25. Re2 Rxe2 26. Bxe2 Bd8 27. Qe3
+Bd7 28. Bd3 Bf6 29. Nd4 Bg5 30. Qe2 g6 31. Nf3 Bf6 32. Qe3 Kg7 33. Bf1 a5 34.
+g3 b5 35. Qd2 b4 36. c4 d4 37. h4 Bc6 38. Ne1 Qe6 39. b3 Qg4 40. Bg2 Bxg2 41.
+Nxg2 Qf3 42. Ne1 Qc3 43. Qxc3 bxc3 44. Nd3 Kf8 45. Kf1 Ke7 46. Ke2 Kd6 47. a3
+Bg7 48. b4 axb4 49. axb4 g5 50. hxg5 hxg5 51. g4 1/2-1/2
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.18"]
+[Round "6"]
+[White "Brynjarsson, Helgi"]
+[Black "Palsson, Svanberg Mar"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1914"]
+[BlackElo "1820"]
+[PlyCount "91"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d3 Bc5 5. Be3 Bxe3 6. fxe3 d6 7. Nbd2 Bg4 8.
+h3 Bh5 9. g4 Bg6 10. Qb3 Qd7 11. O-O-O O-O-O 12. g5 Nh5 13. h4 Kb8 14. Bh3 Qe7
+15. Rhg1 f6 16. Be6 Na5 17. Qd5 b6 18. a4 Rhe8 19. b4 c6 20. Qa2 Qxe6 21. Qxe6
+Rxe6 22. bxa5 bxa5 23. d4 exd4 24. Nxd4 Rde8 25. Nxe6 Rxe6 26. Kb2 Bxe4 27.
+Nxe4 Rxe4 28. Rxd6 Kc7 29. Rd4 Rxe3 30. gxf6 gxf6 31. Kb3 f5 32. Rg5 Nf6 33.
+Rxf5 Ne4 34. Rf7+ Kb6 35. Rxh7 Nxc3 36. Kc2 Nd5 37. h5 Kc5 38. Rh4 Nb4+ 39. Kd2
+Ra3 40. Rxa7 Rxa4 41. h6 Ra2+ 42. Ke3 Nd5+ 43. Kf3 Ra3+ 44. Kg4 Ra4+ 45. Kg5
+Rxh4 46. Kxh4 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.18"]
+[Round "6"]
+[White "Finnbogadottir, Tinna Kristin"]
+[Black "Kjartansson, Dagur"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1658"]
+[PlyCount "65"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. c3 c6 6. Bd3 Bd6 7. O-O O-O 8. h3
+Re8 9. Bg5 Bc7 10. Nbd2 Qd6 11. Re1 Bd7 12. Qc2 h6 13. Bh4 Be6 14. Bxf6 gxf6
+15. Re2 Na6 16. Nf1 Qd7 17. Qd2 Bxh3 18. Qxh6 Bf5 19. Bxf5 Qxf5 20. Rae1 Rxe2
+21. Rxe2 Qg6 22. Qh3 Kg7 23. Nh4 Qg5 24. Ne3 Kf8 25. Nhf5 Kg8 26. Re1 Re8 27.
+Kf1 Bf4 28. Nc2 Rxe1+ 29. Nxe1 Bd2 30. Nf3 Qf4 31. Ne7+ Kg7 32. Nh4 Kh7 33.
+Nhf5+ 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.18"]
+[Round "6"]
+[White "Larusson, Agnar Darri"]
+[Black "Brynjarsson, Eirikur Orn"]
+[Result "1-0"]
+[ECO "C64"]
+[BlackElo "1686"]
+[PlyCount "83"]
+[EventDate "2008.01.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O d6 5. h3 Nf6 6. Re1 O-O 7. c3 Bd7 8. d3
+h6 9. Nbd2 Qc8 10. Nb3 Bb6 11. Be3 Bxh3 12. gxh3 Qxh3 13. Nh2 Ne7 14. Bxb6 axb6
+15. d4 Qh4 16. Qf3 c6 17. Bd3 Qg5+ 18. Qg3 Qxg3+ 19. fxg3 Nh5 20. Kg2 exd4 21.
+cxd4 c5 22. e5 Nc6 23. dxc5 Nb4 24. Be2 Nc2 25. Bxh5 Nxe1+ 26. Rxe1 Rxa2 27.
+Re2 dxc5 28. Bf3 Rb8 29. Nf1 c4 30. Nd4 Rd8 31. Nb5 Rd7 32. Ne3 Ra5 33. Na3 b5
+34. Nac2 Ra4 35. Nd5 Ra2 36. Ncb4 Ra1 37. Rd2 Kf8 38. Kf2 Ra4 39. Ke3 Rd8 40.
+Nc2 Re8 41. Nc3 Ra7 42. Rd5 1-0
+
+[Event "Reykjavik-ch"]
+[Site "Reykjavik"]
+[Date "2008.01.18"]
+[Round "6"]

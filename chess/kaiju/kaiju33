@@ -1,0 +1,50 @@
+4.Bc4 cxb2 5.Bxb2 Bb4+
+C21	Schlechter Defense, Center	1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2
+5.Bxb2 d5
+C21	Classical Defense, Danish Gambit	1.e4 e5 2.d4 exd4 3.c3 dxc3
+4.Bc4 cxb2 5.Bxb2 Nf6
+C21	Chigorin Defense, Danish Gambit	1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2
+5.Bxb2 Qe7
+C21	Svenonius Defense, Center	1.e4 e5 2.d4 exd4 3.c3 Ne7
+C21	Halasz-McDonnell Gambit	1.e4 e5 2.d4 exd4 3.f4
+C21	Crocodile Variation, Center Game	1.e4 e5 2.d4 exd4 3.f4 Bc5
+4.Nf3 Nc6 5.c3
+C21	Lanc-Arnold Gambit, Center	1.e4 e5 2.d4 exd4 3.Nf3 Bc5 4.c3
+C21	Scippler Gambit, Center	1.e4 e5 2.d4 exd4 3.Nf3 Bc5 4.c3 dxc3 5.Bc4
+C22	C22	1.e4 e5 2.d4 exd4 3.Qxd4
+C22	Hall Variation, Center	1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qc4
+C22	Paulsen Attack Variation, Center	1.e4 e5 2.d4 exd4 3.Qxd4 Nc6
+4.Qe3  
+C22	Berger Variation, Center	1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6  
+C22	Kupreichik Variation, Center	1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6
+5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re8 8.Bc4
+C23	Bishop's Opening; C23	1.e4 e5 2.Bc4
+C23	Anderssen Gambit	1.e4 e5 2.Bc4 b5 3.Bxb5 c6
+C23	Thorold Gambit	1.e4 e5 2.Bc4 b5 3.Bxb5 f5
+C23	Classical Variation, Bishop; Boi Variation	1.e4 e5 2.Bc4 Bc5  
+C23	MacDonnell Gambit, Bishop	1.e4 e5 2.Bc4 Bc5 3.b4
+C23	Labourdonnais-Denker Gambit, Bishop	1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4
+4.c3
+C23	McDonnell Double Gambit, Bishop	1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4
+C23	Philidor Variation, Bishop	1.e4 e5 2.Bc4 Bc5 3.c3
+C23	Lewis Counter-Gambit, Bishop	1.e4 e5 2.Bc4 Bc5 3.c3 d5
+C23	Lewis Countergambit, Bishop	1.e4 e5 2.Bc4 Bc5 3.c3 d5 4.Bxd5 Nf6
+C23	Walker Variation, Bishop	1.e4 e5 2.Bc4 Bc5 3.c3 d5 4.Bxd5 Nf6
+5.d4
+C23	Lewis Gambit, Bishop	1.e4 e5 2.Bc4 Bc5 3.d4
+C23	Stein Gambit, Bishop	1.e4 e5 2.Bc4 Bc5 3.f4
+C23	Lopez Variation, Bishop	1.e4 e5 2.Bc4 Bc5 3.Qe2
+C23	Lopez Gambit, Bishop	1.e4 e5 2.Bc4 Bc5 3.Qe2 Nf6 4.f4
+C23	Khan Gambit, Bishop	1.e4 e5 2.Bc4 d5
+C23	King's Gambit Reversed, Bishop	1.e4 e5 2.Bc4 f5
+C23	Calabrese Counter-Gambit	1.e4 e5 2.Bc4 f5
+C23	Kreijcik Gambit, Bishop	1.e4 e5 2.Bc4 Nf6 3.f3 Bc5 4.Ne2 Nc6 5.b4
+C23	Greco Gambit, Bishop	1.e4 e5 2.Bc4 Nf6 3.f4
+C23	Horwitz Gambit, Bishop	1.e4 e5 2.Bc4 Nf6 3.Nc3 b5
+C23	Blanel Gambit, Bishop	1.e4 e5 2.Bc4 Nf6 3.Nc3 Nxe4
+C23	Paschmann Gambit, Bishop	1.e4 e5 2.Bc4 Nf6 3.Ne2 Nxe4 4.Nec3
+C23	Meitner-Mieses Gambit, Vienna	1.e4 e5 2.Nc3 Nc6 3.Bc4 Bc5 4.Qg4 Qf6
+5.Nd5
+C23	Bronstein Gambit, Vienna	1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.f4 Nxe4
+5.Nf3
+C24	Berlin Defense, Bishop; C24	1.e4 e5 2.Bc4 Nf6  

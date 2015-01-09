@@ -1,0 +1,600 @@
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 Nc6 10. dxe5 Ngxe5 11. O-O Be6 12. Nd5 Kh8 13. Ne1 Nd7 14. Nc2 Nc5
+15. f3 a5 16. Kh1 Qd7 17. Bf2 f5 18. exf5 Bxf5 19. Nd4 Rae8 20. Nxf5 Rxf5 21.
+f4 Rf7 22. Bg4 Qd8 23. Bf3 Ne6 24. g3 Ncd4 25. Bg4 Qa8 26. Kg1 Qa6 27. Rc1 c6
+28. Bxe6 Nxe6 29. Nc3 Qxc4 30. Qxd6 Rd8 31. Qa3 Qb4 32. Qxb4 axb4 33. Na4 b5
+34. Nc5 Nd4 35. Kg2 Rf5 36. Rfd1 Rfd5 37. Nb7 R8d7 38. Na5 Ne2 39. Rxd5 Rxd5
+40. Rxc6 Bxb2 41. Rc8+ Kg7 42. Nc6 Bc3 43. Kf3 Nc1 44. Nxb4 Bxb4 45. Rxc1 Be7
+46. Rc7 Kf8 47. Rc8+ Kf7 48. Rc7 Ke6 49. Rc6+ Kd7 50. Rc2 b4 51. Ke4 Rb5 52.
+Rb2 Ra5 53. Bd4 Ra4 54. Rd2 Ke6 55. g4 b3 56. axb3 Rb4 57. Kd3 Rxb3+ 58. Kc4
+Rb4+ 59. Kc3 Ra4 60. Re2+ Kf7 61. Kd3 Bd6 62. f5 gxf5 63. gxf5 Ra3+ 64. Ke4 Rb3
+65. Ra2 Rb7 66. h3 Be7 67. Ra6 Bf8 68. Rc6 Rd7 69. Be5 Rb7 70. Bd4 Rd7 71. Rf6+
+Ke7 72. Ra6 Kf7 73. Ra8 Rb7 74. Rc8 Rd7 75. h4 Rb7 76. Ra8 Rd7 77. Rb8 Rc7 78.
+Be5 Rd7 79. f6 Ra7 80. Kf5 Rd7 81. Rc8 Rb7 82. Rd8 Ra7 83. Rd5 Rb7 84. Rd8 Ra7
+85. Kg4 Rb7 86. Bd6 Bxd6 87. Rxd6 Kg6 88. h5+ Kf7 89. Kg5 Rb5+ 90. Kh6 Rf5 91.
+Ra6 Rxf6+ 92. Rxf6+ Kxf6 93. Kxh7 Kf7 1/2-1/2
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.03"]
+[Round "6"]
+[White "Couso, Luis"]
+[Black "Glimbrant, Torbjorn"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[WhiteElo "2315"]
+[BlackElo "2228"]
+[PlyCount "20"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. h3 e5 7. d5 Na6 8. Bg5 h6
+9. Be3 Nc5 10. Nd2 a5 1/2-1/2
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.03"]
+[Round "6"]
+[White "Landgren, Andreas"]
+[Black "Ebenfelt, Anders"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2198"]
+[BlackElo "2272"]
+[PlyCount "47"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 Nbd7 7. Bg5 c6 8. Be2
+e5 9. d5 cxd5 10. cxd5 a5 11. O-O Nc5 12. Nd2 h6 13. Be3 b6 14. a3 Ne8 15. f3
+f5 16. b4 Nb7 17. Na4 axb4 18. axb4 f4 19. Bf2 g5 20. Nxb6 Rxa1 21. Qxa1 g4 22.
+fxg4 f3 23. Bxf3 Qg5 24. Qc3 1-0
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.06"]
+[Round "8"]
+[White "Henriksson, Jakob"]
+[Black "Jansson, Anders Owen"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "2241"]
+[BlackElo "2189"]
+[PlyCount "37"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. O-O exd4 8. Nxd4
+Re8 9. f3 Nc6 10. Be3 Nh5 11. f4 Nf6 12. Nxc6 bxc6 13. Bf3 Rb8 14. Qc2 Ng4 15.
+Bxg4 Bxg4 16. b3 c5 17. Rae1 c6 18. h3 Bc8 19. Rd1 1/2-1/2
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.06"]
+[Round "8"]
+[White "Landgren, Andreas"]
+[Black "Lind, Jan Olov"]
+[Result "0-1"]
+[ECO "E90"]
+[WhiteElo "2198"]
+[BlackElo "2206"]
+[PlyCount "198"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 a5 8. Bg5 h6
+9. Be3 Na6 10. Nd2 Nh5 11. g3 Qe8 12. Be2 Nf6 13. g4 Nh7 14. Rg1 Kh8 15. Nf3
+Rg8 16. Qd2 Qf8 17. O-O-O Bd7 18. h4 f5 19. gxf5 gxf5 20. exf5 Bxf5 21. Rg3 Nf6
+22. Rdg1 Nh5 23. R3g2 Nf4 24. Bxf4 exf4 25. Nd4 Qf6 26. Nxf5 Qxf5 27. Bg4 Bxc3
+28. Qxc3+ Qe5 29. Be6 Qxc3+ 30. bxc3 Rxg2 31. Rxg2 Rf8 32. Rg6 Kh7 33. h5 Nc5
+34. Kd2 Ne4+ 35. Ke2 f3+ 36. Ke3 Nxc3 37. Rg1 b6 38. a3 Ne2 39. Rg4 Nc3 40. Rd4
+Na4 41. Bg4 Nc5 42. Bxf3 Re8+ 43. Kf4 Kg7 44. Kg3 Re1 45. Rg4+ Kh7 46. Rf4 Re7
+47. Bg4 Kg7 48. Bf5 Kf6 49. Bg6+ Ke5 50. Rf8 Nd7 51. Rf4 b5 52. Re4+ Kf6 53.
+cxb5 Rxe4 54. Bxe4 Ke5 55. Bg2 Nb6 56. f4+ Kf5 57. Bh3+ Kf6 58. Bg2 Nc4 59. a4
+Nb2 60. Kf3 Nxa4 61. Ke3 Nc5 62. Kd4 Kf5 63. Ke3 a4 64. Bh3+ Kf6 65. Kd4 a3 66.
+Kc3 Nd3 67. Kb3 Nxf4 68. Bg4 Ke5 69. Kxa3 Kxd5 70. Kb4 Nd3+ 71. Ka5 Ne5 72. Be2
+Kc5 73. Ka6 d5 74. Kb7 Kd6 75. b6 cxb6 76. Kxb6 d4 77. Kb5 Kd5 78. Kb6 d3 79.
+Bd1 Nc4+ 80. Kc7 Ke5 81. Kd7 Kf6 82. Kc6 Ne3 83. Bb3 d2 84. Kc5 d1=Q 85. Bxd1
+Nxd1 86. Kd4 Kg5 87. Ke4 Nf2+ 88. Kf3 Ng4 89. Kg3 Nf6 90. Kh3 Nxh5 91. Kg2 Kg4
+92. Kh2 Nf4 93. Kg1 Kg3 94. Kh1 h5 95. Kg1 h4 96. Kh1 h3 97. Kg1 Nd3 98. Kh1
+Nf2+ 99. Kg1 h2+ 0-1
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.07"]
+[Round "9"]
+[White "Evertsson, Lennart"]
+[Black "Vas, Peter1"]
+[Result "0-1"]
+[ECO "E06"]
+[WhiteElo "2170"]
+[BlackElo "2196"]
+[PlyCount "54"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Nc3 O-O 6. Bg2 dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qb3 Bb7 10. Bf4 Nbd7 11. O-O c5 12. Rfd1 c4 13. Qc2 b4 14. Nb1 Rc8 15.
+Ne5 Bxg2 16. Kxg2 Qa5 17. e4 Nxe5 18. Bxe5 Ng4 19. Bf4 Rfd8 20. h3 Nf6 21. a3
+c3 22. axb4 Qxa1 23. Nxc3 Qa2 24. d5 exd5 25. exd5 Qc4 26. Qf5 Bxb4 27. b3 Qxb3
+0-1
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.07"]
+[Round "9"]
+[White "Glimbrant, Torbjorn"]
+[Black "Wickstrom, Lucas"]
+[Result "1-0"]
+[ECO "E10"]
+[WhiteElo "2228"]
+[BlackElo "2090"]
+[PlyCount "80"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. e3 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O Na6 8. h3 b6
+9. b3 Bb7 10. Bb2 Qe7 11. Re1 Rfd8 12. Rc1 d6 13. Bf1 Rac8 14. a3 Qf8 15. Nb5
+Rd7 16. Be2 Ba8 17. Rc2 Bc6 18. Qa1 cxd4 19. Nbxd4 Be4 20. Rcc1 Nc5 21. Nd2 Bb7
+22. Nb5 Nfe4 23. Nxe4 Bxe4 24. Bxg7 Qxg7 25. Qxg7+ Kxg7 26. Rc3 e5 27. f3 Bc6
+28. a4 a6 29. Na3 Bb7 30. Bd1 d5 31. cxd5 Rxd5 32. Be2 f6 33. Rec1 Rd2 34. Kf1
+Rcd8 35. Nc4 Ra2 36. Rd1 Rxd1+ 37. Bxd1 b5 38. Na5 Ra1 39. Nxb7 e4 40. Nxc5
+Rxd1+ 1-0
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.07"]
+[Round "9"]
+[White "Jansson, Anders Owen"]
+[Black "Bejtovic, Jasmin"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "2189"]
+[BlackElo "2364"]
+[PlyCount "63"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 Nf6 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nbd7 8. Be3
+exd4 9. Nxd4 Re8 10. f3 c6 11. Qd2 Qe7 12. Rad1 d5 13. cxd5 Nxd5 14. exd5 Qxe3+
+15. Qxe3 Rxe3 16. Kf2 Re8 17. dxc6 bxc6 18. Nxc6 Nb6 19. Nb5 Bb7 20. Ncxa7 Bxb2
+21. Rd2 Be5 22. Rfd1 Bf4 23. Rd3 Nc4 24. Rd7 Be3+ 25. Kg3 Na5 26. Nc7 Bxa7 27.
+Nxe8 Rxe8 28. Bb5 Re5 29. Rd8+ Kg7 30. a4 h5 31. h4 Bb6 32. R8d7 1/2-1/2
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.08"]
+[Round "10"]
+[White "Henriksson, Jakob"]
+[Black "Glimbrant, Torbjorn"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "2241"]
+[BlackElo "2228"]
+[PlyCount "109"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Qc2
+exd4 9. Nxd4 Re8 10. Bg5 h6 11. Be3 Nc5 12. f3 a5 13. Rad1 Bd7 14. Kh1 a4 15.
+Ndb5 Bxb5 16. Bxc5 Bc6 17. Bd4 Nh5 18. Bxg7 Kxg7 19. f4 Qh4 20. Bxh5 Qxh5 21.
+Nd5 Bxd5 22. cxd5 Kg8 23. a3 Re7 24. Rde1 Qg4 25. Re3 Qd7 26. Qf2 Rae8 27. f5
+g5 28. Qe2 Re5 29. Qh5 f6 30. Qxh6 Qg7 31. Qh5 R8e7 32. Qe2 c6 33. dxc6 bxc6
+34. Qc4+ d5 35. Qxc6 dxe4 36. Qxa4 g4 37. Qc4+ Qf7 38. Qe2 Qh5 39. h3 Rg7 40.
+Rxe4 Rxe4 41. Qxe4 gxh3 42. g4 Qh4 43. Kh2 Rc7 44. Rf3 Kg7 45. Qd3 Qe1 46. g5
+Qe5+ 47. Kxh3 fxg5 48. f6+ Kf8 49. Qg6 g4+ 50. Kxg4 Rc4+ 51. Kh3 Rh4+ 52. Kxh4
+Qh2+ 53. Kg4 Qf4+ 54. Kh3 Qh2+ 55. Kxh2 1/2-1/2
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.09"]
+[Round "11"]
+[White "Glimbrant, Torbjorn"]
+[Black "Bejtovic, Jasmin"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2228"]
+[BlackElo "2364"]
+[PlyCount "47"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Be3 exd4 8. Nxd4
+Re8 9. f3 c6 10. Bf2 Nbd7 11. O-O Qe7 12. Re1 a5 13. Qd2 Ne5 14. Rad1 Nh5 15.
+Na4 Be6 16. Nxe6 Qxe6 17. Qxd6 Qxd6 18. Rxd6 Nf4 19. Bf1 Nh3+ 20. gxh3 Nxf3+
+21. Kg2 Nxe1+ 22. Bxe1 Rxe4 23. Bc3 Re7 24. Bxg7 1/2-1/2
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.10"]
+[Round "12"]
+[White "Henriksson, Jakob"]
+[Black "Couso, Luis"]
+[Result "1/2-1/2"]
+[ECO "E34"]
+[WhiteElo "2241"]
+[BlackElo "2315"]
+[PlyCount "115"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 Qf5 7. Qxf5 exf5 8.
+a3 Bd6 9. Bg5 Nbd7 10. e3 a6 11. Bd3 h6 12. Bh4 g6 13. Bg3 Nb6 14. Bxd6 cxd6
+15. O-O Be6 16. Nd2 Rc8 17. Rac1 Ke7 18. f3 Nfd5 19. Nxd5+ Nxd5 20. Kf2 b5 21.
+e4 fxe4 22. fxe4 Nb6 23. Ke3 Na4 24. b3 Nb6 25. b4 f5 26. g3 fxe4 27. Bxe4 Nd5+
+28. Kd3 g5 29. Bxd5 Bxd5 30. Rce1+ Kd7 31. Rf6 Rcf8 32. Ref1 Rxf6 33. Rxf6 Ke7
+34. Rf1 Rc8 35. Re1+ Kf6 36. Ne4+ Bxe4+ 37. Rxe4 Rc1 38. Re3 Ra1 39. Ke4 Ke6
+40. d5+ Kf6 41. g4 Rd1 42. h3 Rf1 43. Kd4 Kf7 44. Ke4 Rf4+ 45. Kd3 h5 46. gxh5
+Rh4 47. Re6 Rxh5 48. Rxd6 Rxh3+ 49. Ke4 Rxa3 50. Kf5 Ke7 51. Re6+ Kd7 52. Kxg5
+Rd3 53. Rxa6 Rxd5+ 54. Kf4 Rd4+ 55. Ke3 Rxb4 56. Kd3 Rc4 57. Rb6 Rc5 58. Kd4
+1/2-1/2
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.10"]
+[Round "12"]
+[White "Semcesen, Daniel"]
+[Black "Glimbrant, Torbjorn"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2349"]
+[BlackElo "2228"]
+[PlyCount "9"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 1/2-1/2
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.11"]
+[Round "13"]
+[White "Couso, Luis"]
+[Black "Bejtovic, Jasmin"]
+[Result "0-1"]
+[ECO "E90"]
+[WhiteElo "2315"]
+[BlackElo "2364"]
+[PlyCount "50"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. h3 e5 7. d5 Na6 8. Bg5 Qe8
+9. Be2 Nh5 10. g3 f5 11. exf5 gxf5 12. Nh4 Nf6 13. Qc2 Nb4 14. Qb3 a5 15. a3
+Na6 16. Qc2 e4 17. Ng2 Nd7 18. O-O-O Ndc5 19. Kb1 Bd7 20. Qd2 Ba4 21. Nf4 Bxd1
+22. Rxd1 e3 23. Qc2 Nb4 24. axb4 axb4 25. Bh5 Qb8 0-1
+
+[Event "SWE-chC"]
+[Site "Vadso"]
+[Date "2008.07.11"]
+[Round "13"]
+[White "Landgren, Andreas"]
+[Black "Henriksson, Jakob"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2198"]
+[BlackElo "2241"]
+[PlyCount "62"]
+[EventDate "2008.06.28"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Nf3 Ba6 8.
+b4 d5 9. c5 c6 10. Bg5 Ne4 11. Bxd8 Nxc3 12. Bc7 bxc5 13. Bd6 Re8 14. Bxc5 Nd7
+15. e3 Bxf1 16. Rxf1 Nxc5 17. bxc5 Rab8 18. Kd2 Ne4+ 19. Kc2 f6 20. Nd2 Nxd2
+21. Kxd2 Rb2+ 22. Kc1 Reb8 23. g4 e5 24. h4 Kf7 25. h5 a5 26. f4 e4 27. a4 R8b3
+28. g5 Re2 29. Rb1 Rexe3 30. Rxb3 Rxb3 31. Kc2 Rb4 0-1
+
+[Event "RLP-ch Seniors 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Hiller, Joachim"]
+[Black "Fess, Klaus"]
+[Result "0-1"]
+[ECO "E76"]
+[WhiteElo "1984"]
+[BlackElo "1807"]
+[PlyCount "119"]
+[EventDate "2008.06.29"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. f4 Bg4 7. Be2 Bxe2 8. Qxe2
+O-O 9. Nf3 e6 10. dxe6 fxe6 11. O-O Nh5 12. g3 Nc6 13. Be3 Nd4 14. Qd2 e5 15.
+Nd5 Nf6 16. Nxf6+ Bxf6 17. Kg2 Qd7 18. fxe5 dxe5 19. Bh6 Rf7 20. Rad1 Qc6 21.
+Qe3 Re8 22. b3 Bg7 23. Bxg7 Kxg7 24. Ng5 Rfe7 25. Rd2 h6 26. Nh3 Rd7 27. Ng1
+Ree7 28. Nf3 Qe6 29. Rdf2 Rf7 30. h3 Rf6 31. Nh2 Rxf2+ 32. Rxf2 Rf7 33. Rxf7+
+Qxf7 34. Ng4 g5 35. Nxe5 Qc7 36. Nf3 Qd7 37. Nxd4 cxd4 38. Qd3 Kf6 39. Qf3+ Ke5
+40. Qd3 Qc6 41. Kf3 h5 42. b4 g4+ 43. hxg4 hxg4+ 44. Ke2 Qxe4+ 45. Qxe4+ Kxe4
+46. c5 d3+ 47. Kd2 a6 48. a4 Kd4 49. b5 Kxc5 50. bxa6 bxa6 51. Kxd3 Kb4 52. Kd4
+Kxa4 53. Kc4 Ka3 54. Kc3 a5 55. Kc2 Kb4 56. Kb2 Kc4 57. Ka3 Kd3 58. Ka4 Ke3 59.
+Kxa5 Kf3 60. Kb4 0-1
+
+[Event "RLP-ch Seniors 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Neumann, Horst"]
+[Black "Mueller, Waldemar"]
+[Result "0-1"]
+[ECO "E62"]
+[WhiteElo "1988"]
+[BlackElo "2137"]
+[PlyCount "46"]
+[EventDate "2008.06.29"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. g3 d6 6. Bg2 c6 7. O-O Qc7 8. Bd2
+Nbd7 9. e4 e5 10. Re1 a5 11. Rc1 exd4 12. Nxd4 Ne5 13. Bf1 Qb6 14. Nb3 Nfg4 15.
+c5 dxc5 16. Na4 Qd8 17. h3 c4 18. Bxc4 Nxc4 19. hxg4 b5 20. Rxc4 bxc4 21. Nbc5
+Re8 22. Qe2 Bxg4 23. Bxa5 Qxa5 0-1
+
+[Event "RLP-ch Seniors 27th"]
+[Site "Hoeheinoed"]
+[Date "2008.07.05"]
+[Round "7"]
+[White "Paulsen, Eckart"]
+[Black "Koellmer, Hans Peter"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "1854"]
+[BlackElo "1590"]
+[PlyCount "44"]
+[EventDate "2008.06.29"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 Nbd7 7. O-O e5 8. d5
+h6 9. Qc2 Nh7 10. Rb1 Ndf6 11. b4 Ne8 12. c5 f5 13. cxd6 Nxd6 14. Bb2 fxe4 15.
+Nxe4 Nxe4 16. Qxe4 Bf5 17. Qc4 Bxb1 18. Rxb1 Qd6 19. Nd2 Nf6 20. Bf3 Kh8 21.
+Qb5 Kg8 22. Re1 Rae8 1/2-1/2
+
+[Event "SVK-ch U20"]
+[Site "Trencin"]
+[Date "2008.06.29"]
+[Round "1"]
+[White "Csiba, Dominik"]
+[Black "Ondrus, Martin"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[WhiteElo "2143"]
+[BlackElo "2121"]
+[PlyCount "118"]
+[EventDate "2008.06.29"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+fxe6 9. Be2 Nc6 10. O-O Qb6 11. Kh1 Nd4 12. e5 dxe5 13. Nxe5 Bd7 14. Ne4 Bc6
+15. Ng5 Rad8 16. Bd3 Nd7 17. Qh5 Nf6 18. Qh3 Rd6 19. Ng4 Qc7 20. Be3 Re8 21.
+Rae1 Nxg4 22. Qxg4 Nf5 23. Bb1 b6 24. b3 Qb7 25. Nf3 Bxf3 26. Rxf3 Red8 27.
+Rff1 Bc3 28. Re2 Rd1 29. Rg1 Rxb1 30. Rxb1 Qe4 31. Rbe1 Bxe1 32. Bd2 Qb1 33.
+Rxe1 Qxa2 34. Bc3 Qxb3 35. Be5 a5 36. Qe2 Qe3 37. Qxe3 Nxe3 38. Bc7 Rc8 39.
+Rxe3 Rxc7 40. Rxe6 Rb7 41. Re8+ Kf7 42. Ra8 Kf6 43. g4 h5 44. h3 hxg4 45. hxg4
+g5 46. Kg2 gxf4 47. Kf3 Ke5 48. Rd8 Rf7 49. Rd5+ Ke6 50. Rd8 Rb7 51. Kxf4 b5
+52. cxb5 Rxb5 53. Ra8 Rb4+ 54. Ke3 a4 55. Ra5 Kd5 56. g5 Rg4 57. Kd3 Rg3+ 58.
+Kc2 Rg2+ 59. Kc3 Rg3+ 1/2-1/2
+
+[Event "SVK-ch U20"]
+[Site "Trencin"]
+[Date "2008.07.01"]
+[Round "4"]
+[White "Csiba, Dominik"]
+[Black "Justus, Ivan"]
+[Result "0-1"]
+[ECO "E76"]
+[WhiteElo "2143"]
+[BlackElo "2161"]
+[PlyCount "62"]
+[EventDate "2008.06.29"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. dxc5 Qa5 8. Bd3
+Qxc5 9. Qe2 Nc6 10. Be3 Qa5 11. O-O Bg4 12. Rac1 Rfe8 13. h3 Bxf3 14. Qxf3 a6
+15. a3 Nd7 16. e5 dxe5 17. f5 Nf6 18. fxg6 hxg6 19. g4 Rad8 20. Nd5 Rxd5 21.
+cxd5 Qxd5 22. Bc4 Qxf3 23. Rxf3 e4 24. Rf2 Ne5 25. g5 Nxc4 26. Rxc4 Nd5 27. Re2
+f5 28. gxf6 exf6 29. Rd4 Nxe3 30. Rxe3 f5 31. Rb4 a5 0-1
+
+[Event "SVK-ch U20 Girls"]
+[Site "Trencin"]
+[Date "2008.06.29"]
+[Round "1"]
+[White "Edes, Zsofia"]
+[Black "Machalova, Erika"]
+[Result "1-0"]
+[ECO "E24"]
+[WhiteElo "1789"]
+[BlackElo "2095"]
+[PlyCount "92"]
+[EventDate "2008.06.29"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. e3 O-O 6. a3 Bxc3+ 7. bxc3 c5 8. Bd3
+Nc6 9. Ne2 Qc7 10. Ra2 Rd8 11. Rc2 Na5 12. cxd5 exd5 13. c4 Bd7 14. Rc3 cxd4
+15. Nxd4 dxc4 16. Bb1 b5 17. O-O Nb7 18. Qc2 Nc5 19. Qd1 Qe5 20. Rc2 Nd3 21.
+Bd2 Qe7 22. Ra2 Nc5 23. Qe1 Nd5 24. e4 Qe5 25. Qf2 Nf6 26. f4 Qc7 27. e5 Nfe4
+28. Qh4 h6 29. Be1 a5 30. Re2 Qb7 31. f5 Qd5 32. Nxb5 Bxb5 33. Bxe4 Nxe4 34.
+Rxe4 Bc6 35. Rg4 Qxe5 36. Qxh6 Rd4 37. Qxc6 Rxg4 38. Qxa8+ Kh7 39. Qf3 Re4 40.
+Bxa5 Re3 41. Qh5+ Kg8 42. Bb4 c3 43. Qg4 Re1 44. Qf3 Re3 45. Qd1 Re2 46. Bxc3
+Qe4 1-0
+
+[Event "SVK-ch U20 Girls"]
+[Site "Trencin"]
+[Date "2008.06.30"]
+[Round "2"]
+[White "Dvoranova, Maria"]
+[Black "Machalova, Erika"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "1891"]
+[BlackElo "2095"]
+[PlyCount "47"]
+[EventDate "2008.06.29"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O Ne4 7. Qc2 f5 8. Nbd2
+Nxd2 9. Bxd2 O-O 10. e4 g6 11. b4 c5 12. bxc5 bxc5 13. d5 Na6 14. a3 fxe4 15.
+Bxe4 exd5 16. Bxg6 Bf6 17. Bxh7+ Kh8 18. Rab1 Rb8 19. cxd5 Bxd5 20. Be4 Bxe4
+21. Qxe4 d5 22. Qg6 Qe7 23. Qh5+ Qh7 24. Qxh7+ 1/2-1/2
+
+[Event "SVK-ch U20 Girls"]
+[Site "Trencin"]
+[Date "2008.07.01"]
+[Round "3"]
+[White "Edes, Zsofia"]
+[Black "Petrigacova, Daniela"]
+[Result "1-0"]
+[ECO "E76"]
+[WhiteElo "1789"]
+[BlackElo "1840"]
+[PlyCount "73"]
+[EventDate "2008.06.29"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 a6 8. a4 Qc7
+9. Bd3 Nbd7 10. O-O b6 11. Qe1 Bb7 12. Qh4 Nh5 13. Ng5 h6 14. Nh3 Bf6 15. Qg4
+Bd4+ 16. Kh1 Ndf6 17. Qh4 Bc8 18. Be2 Bxh3 19. Qxh3 Qd7 20. f5 Kg7 21. g4 Bxc3
+22. bxc3 Nxe4 23. gxh5 gxf5 24. Rg1+ Kh7 25. Qe3 Ng5 26. h4 f4 27. Qd3+ Kh8 28.
+hxg5 hxg5 29. Rxg5 Rg8 30. Bxf4 Rxg5 31. Bxg5 Rg8 32. Rg1 f6 33. Bxf6+ exf6 34.
+Rxg8+ Kxg8 35. Qg6+ Kf8 36. Qxf6+ Ke8 37. Qh8+ 1-0
+
+[Event "SVK-ch U20 Girls"]
+[Site "Trencin"]
+[Date "2008.07.01"]
+[Round "3"]
+[White "Machalova, Erika"]
+[Black "Borosova, Zuzana"]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[WhiteElo "2095"]
+[BlackElo "2231"]
+[PlyCount "85"]
+[EventDate "2008.06.29"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. e3 O-O 6. Nf3 c5 7. Bd2 Nc6 8. a3
+cxd4 9. exd4 Be7 10. c5 e5 11. dxe5 Ng4 12. Bd3 Bxc5 13. O-O Nd4 14. Qd1 Nxf3+
+15. Qxf3 Nxe5 16. Bxh7+ Kxh7 17. Qh5+ Kg8 18. Qxe5 Be6 19. Rad1 Be7 20. Qg3 Bh4
+21. Qd3 Bf6 22. Be3 Bxc3 23. Qxc3 Rc8 24. Qe5 Re8 25. Bd4 f6 26. Qg3 b6 27. Rd3
+Qe7 28. Qh4 Rc4 29. Qg3 Rc6 30. h4 Rf8 31. h5 Qc7 32. Qe3 Bf5 33. Rc3 Rxc3 34.
+Bxc3 Qf7 35. h6 Qg6 36. hxg7 Kxg7 37. Re1 Be4 38. f3 Bf5 39. Qd4 Qf7 40. Bb4
+Re8 41. Rc1 Rc8 42. Bc3 Rc4 43. Qd2 1/2-1/2
+
+[Event "SVK-ch U20 Girls"]
+[Site "Trencin"]
+[Date "2008.07.03"]
+[Round "6"]
+[White "Dvoranova, Maria"]
+[Black "Petrigacova, Daniela"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "1891"]
+[BlackElo "1840"]
+[PlyCount "69"]
+[EventDate "2008.06.29"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 Na6 8. O-O
+Ne8 9. Ne1 f5 10. f3 f4 11. Nd3 g5 12. b4 Nf6 13. Ba3 Rf7 14. b5 Nb8 15. c5 h5
+16. h3 Bf8 17. c6 Rg7 18. Nf2 bxc6 19. bxc6 Ba6 20. Rb1 Qc8 21. Nb5 Qd8 22. Qa4
+Bc8 23. Rb2 g4 24. hxg4 hxg4 25. fxg4 Nxg4 26. Nxg4 Bxg4 27. Bxg4 Rxg4 28. Rf3
+a6 29. Qa5 Nxc6 30. dxc6 axb5 31. Qb4 Qh4 32. Qc3 Rg3 33. Rxb5 Qg4 34. Rxg3
+fxg3 35. Qd3 0-1
+
+[Event "SVK-ch U20 Girls"]
+[Site "Trencin"]
+[Date "2008.07.03"]
+[Round "7"]
+[White "Edes, Zsofia"]
+[Black "Kantor, Reka"]
+[Result "1/2-1/2"]

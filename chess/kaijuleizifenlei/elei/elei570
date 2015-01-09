@@ -1,0 +1,600 @@
+[Site "Galapagar"]
+[Date "2008.07.24"]
+[Round "6"]
+[White "Mansilla Tolosa, Luis Eduardo"]
+[Black "Moreno Rodriguez, Jose M"]
+[Result "1-0"]
+[ECO "E01"]
+[WhiteElo "2016"]
+[BlackElo "2055"]
+[PlyCount "93"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Bb4+ 5. Nbd2 Nbd7 6. Qc2 O-O 7. Bg2 dxc4 8.
+Qxc4 Bd6 9. O-O Nb6 10. Qc2 Re8 11. e4 e5 12. dxe5 Bxe5 13. Rd1 Qe7 14. Nxe5
+Qxe5 15. b3 Qxa1 16. Bb2 Qxa2 17. Ra1 Qxa1+ 18. Bxa1 c6 19. f4 Be6 20. f5 Bd7
+21. Qc3 Rad8 22. g4 Re7 23. h4 Ne8 24. Qc5 Nc8 25. Nc4 b6 26. Qd4 c5 27. Qd2 b5
+28. Na5 Nb6 29. Nc6 Bxc6 30. Qxd8 Rc7 31. h5 Rc8 32. Qe7 Rc7 33. Qxc5 f6 34. g5
+fxg5 35. Qe3 h6 36. Bd4 Nc8 37. e5 Ne7 38. f6 Bxg2 39. Kxg2 Nd5 40. Qe4 Nf4+
+41. Kf3 Rc1 42. Qb7 gxf6 43. exf6 Rf1+ 44. Kg4 Ne6 45. Qe7 Rf4+ 46. Kg3 N8c7
+47. Be5 1-0
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.19"]
+[Round "1"]
+[White "Marszalek, Maciej"]
+[Black "Smalara, Kazimierz"]
+[Result "1-0"]
+[ECO "E69"]
+[WhiteElo "2355"]
+[BlackElo "1952"]
+[PlyCount "67"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 g6 2. Nf3 Bg7 3. c4 d6 4. g3 c6 5. Bg2 Nd7 6. O-O Ngf6 7. Nc3 O-O 8. e4
+e5 9. h3 Qc7 10. Be3 Re8 11. d5 c5 12. Ne1 a6 13. a4 b6 14. Nd3 Nf8 15. f4 exf4
+16. gxf4 Ra7 17. Bf2 Nh5 18. Qf3 Nd7 19. Rae1 Qd8 20. Re2 Bd4 21. Rfe1 Qh4 22.
+Kh2 Bxf2 23. Qxf2 Qxf2 24. Rxf2 f6 25. Rfe2 Kf8 26. Bf3 Ng7 27. Bg4 f5 28. Bf3
+Nb8 29. e5 Ree7 30. a5 Nd7 31. e6 Nf6 32. axb6 Rab7 33. Na4 Rb8 34. b4 1-0
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.19"]
+[Round "1"]
+[White "Mazalon, Mariusz"]
+[Black "Ziolkowski, Marcin"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2148"]
+[BlackElo "1802"]
+[PlyCount "103"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 Nbd7 6. h3 e5 7. d5 Nc5 8. Qc2 a5
+9. Bg5 h6 10. Be3 Ncd7 11. Be2 O-O 12. g4 Ne8 13. Rg1 b6 14. h4 Nc5 15. h5 g5
+16. Nd2 Bd7 17. f3 Bf6 18. Kf2 Ng7 19. b3 Qe7 20. a3 Na6 21. Qb2 Rfb8 22. b4
+Qe8 23. Nb5 Be7 24. Qc3 a4 25. Qd3 f6 26. Bd1 Qd8 27. Bxa4 Nc5 28. bxc5 Rxa4
+29. c6 Bc8 30. Nc3 Ra7 31. a4 Rba8 32. Ra2 Ne8 33. Rga1 Ra6 34. Nb3 Kh7 35. Qc2
+Bf8 36. Nb5 Be7 37. Qc3 Kg7 38. Ra3 Kh7 39. a5 Kg7 40. R1a2 Kh7 41. Qa1 Kg7 42.
+axb6 Rxa3 43. Rxa3 Rxa3 44. Qxa3 cxb6 45. Qa7 Kh8 46. Bxb6 Nc7 47. Bxc7 Qf8 48.
+Qb8 Ba6 49. Qxf8+ Bxf8 50. Bxd6 Bxb5 51. cxb5 Bxd6 52. b6 1-0
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.19"]
+[Round "1"]
+[White "Poniewierski, Piotr"]
+[Black "Kostecki, Rafal"]
+[Result "1-0"]
+[ECO "E66"]
+[WhiteElo "2049"]
+[PlyCount "89"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nc6 7. d5 Nb8 8. Nc3
+c5 9. h3 a6 10. a4 Nbd7 11. e4 Qc7 12. Bg5 h6 13. Be3 Kh7 14. Qc2 Rh8 15. Rad1
+Kg8 16. Nh2 Nh7 17. f4 e5 18. dxe6 fxe6 19. Qd2 Bf8 20. b3 Ndf6 21. Nf3 Ne8 22.
+e5 Bd7 23. Qc2 Kg7 24. Nh4 Rg8 25. Be4 Bc6 26. Bxg6 Kh8 27. Kh2 Rd8 28. Bxh7
+Qxh7 29. Qxh7+ Kxh7 30. Bxc5 Bg7 31. Rd3 d5 32. cxd5 exd5 33. Rfd1 Nc7 34. Bb6
+Rd7 35. Bxc7 Rxc7 36. Nxd5 Rf7 37. e6 Rff8 38. Ne7 Bf6 39. Nxc6 bxc6 40. Rd7+
+Rg7 41. Rxg7+ Bxg7 42. Rd7 Rf6 43. f5 Kg8 44. Rd8+ Kh7 45. e7 1-0
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.19"]
+[Round "1"]
+[White "Zajewski, Zbigniew"]
+[Black "Bugalski, Michal"]
+[Result "0-1"]
+[ECO "E53"]
+[WhiteElo "1912"]
+[BlackElo "2279"]
+[PlyCount "74"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Bxc3 8. bxc3
+dxc4 9. Bxc4 Qc7 10. Bd3 Nbd7 11. a4 b6 12. Ba3 Bb7 13. c4 Rad8 14. Qc2 e5 15.
+Nxe5 Nxe5 16. dxe5 Qxe5 17. Bb2 Qg5 18. f4 Qxg2+ 19. Qxg2 Bxg2 20. Bxh7+ Kxh7
+21. Kxg2 Rd2+ 22. Rf2 Rxf2+ 23. Kxf2 Ne4+ 24. Ke2 Rd8 25. Rd1 Rxd1 26. Kxd1 Nd6
+27. Ke2 Nxc4 28. Bc3 a6 29. Kd3 b5 30. axb5 axb5 31. e4 Nb6 32. Be5 b4 33. Bd6
+c4+ 34. Kc2 b3+ 35. Kc1 c3 36. Bb4 Na4 37. Be7 Nb2 0-1
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Fraczek, Zdzislaw"]
+[Black "Stolarczyk, Adam"]
+[Result "0-1"]
+[ECO "E61"]
+[BlackElo "2188"]
+[PlyCount "32"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e3 O-O 6. Bd3 c6 7. O-O a6 8. a4 a5
+9. h3 Nfd7 10. Re1 e5 11. Qb3 Na6 12. Bd2 Kh8 13. Re2 f5 14. dxe5 Ndc5 15. Qc2
+Nb4 16. Qb1 Ncxd3 0-1
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Khamitskiy, Sergei"]
+[Black "Bachan, Daniel"]
+[Result "1-0"]
+[ECO "E09"]
+[WhiteElo "2324"]
+[BlackElo "2097"]
+[PlyCount "57"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. c4 e6 3. g3 c6 4. Bg2 Nf6 5. Nf3 Be7 6. O-O O-O 7. Qc2 Nbd7 8. Nbd2
+b6 9. Rd1 Bb7 10. e4 Nxe4 11. Nxe4 dxe4 12. Qxe4 Qc7 13. Bf4 Bd6 14. Ne5 Rac8
+15. b4 Nxe5 16. Bxe5 Rfd8 17. f4 Rd7 18. c5 Bxe5 19. dxe5 Rxd1+ 20. Rxd1 bxc5
+21. bxc5 Qa5 22. Qd4 h6 23. Be4 Rf8 24. a3 Ba8 25. Qb4 Qa6 26. Kf2 g6 27. Rd6
+Kg7 28. g4 Rc8 29. f5 1-0
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Plewa, Piotr"]
+[Black "Dobrowolski, Henryk"]
+[Result "1-0"]
+[ECO "E91"]
+[BlackElo "1947"]
+[PlyCount "61"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 b6 7. O-O Bb7 8. Qc2
+Nbd7 9. Rd1 c5 10. d5 Ng4 11. Ng5 Ngf6 12. f4 a6 13. a4 Ne8 14. Ra3 Qc7 15. h4
+Bd4+ 16. Kh1 Ng7 17. h5 h6 18. Nxf7 Rxf7 19. hxg6 Rf6 20. f5 h5 21. g4 hxg4 22.
+Bxg4 Ne5 23. Qh2 Nxg6 24. fxg6 Rxg6 25. Bf5 Nxf5 26. exf5 Rg7 27. Ne4 Qd7 28.
+Rf1 Be5 29. Qh4 Rh7 30. Rg1+ Kh8 31. Qxh7+ 1-0
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Smalara, Kazimierz"]
+[Black "Grota, Mateusz"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "1952"]
+[BlackElo "1767"]
+[PlyCount "123"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 Nbd7 6. Be3 O-O 7. Bd3 c5 8. Nge2
+a6 9. Qd2 Qa5 10. O-O b6 11. g4 Rb8 12. g5 Ne8 13. Nd5 Qxd2 14. Nxe7+ Kh8 15.
+Bxd2 Bb7 16. Bc3 Nc7 17. dxc5 dxc5 18. Bxg7+ Kxg7 19. f4 Rfe8 20. Nd5 Bxd5 21.
+cxd5 c4 22. Bc2 Nc5 23. Ng3 Rbd8 24. Rf2 Nb5 25. Rd1 a5 26. a4 Nc7 27. Rd4 N7a6
+28. Rxc4 Nb4 29. Rd2 Rd7 30. Kg2 Nxc2 31. Rdxc2 Nd3 32. Rc7 Nxf4+ 33. Kf3 Rxc7
+34. Rxc7 Nd3 35. Rb7 Nxb2 36. Rxb6 Nxa4 37. Ra6 Nb2 38. Rxa5 Nc4 39. Ra7 Ne5+
+40. Kf4 Nd3+ 41. Ke3 Ne5 42. Rc7 Kf8 43. h4 Rd8 44. Ne2 Ke8 45. Nd4 Rd7 46. Rc3
+h5 47. Kf4 Ng4 48. Rb3 Ke7 49. Rb6 Rd6 50. Nc6+ Kf8 51. Rb8+ Kg7 52. Rb7 Kf8
+53. Nb4 Ke8 54. e5 Rd8 55. d6 Rd7 56. Rb5 Rd8 57. Nd5 Rc8 58. Nb6 Rd8 59. Ke4
+Rb8 60. Rb3 Nf2+ 61. Kd5 Ng4 62. Kc6 1-0
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "2"]
+[White "Ziolkowski, Marcin"]
+[Black "Walczak, Krystian"]
+[Result "0-1"]
+[ECO "E92"]
+[WhiteElo "1802"]
+[BlackElo "1988"]
+[PlyCount "109"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Re8 10. Bxf6 Bxf6 11. Nd5 Bd8 12. O-O-O c6 13. Nc3 Bc7 14. Nd2
+Bb6 15. Rhf1 Nd7 16. b4 a5 17. b5 Bd4 18. Na4 Nc5 19. Nxc5 Bxc5 20. Nb3 Ba3+
+21. Kb1 cxb5 22. cxb5 Be6 23. Rd2 a4 24. Na1 Rac8 25. Nc2 Bc5 26. Ne3 Bxe3 27.
+fxe3 Rc3 28. Rd3 Rec8 29. Rfd1 Bxa2+ 30. Kxa2 Rc2+ 31. Ka3 Rxe2 32. Rd8+ Rxd8
+33. Rxd8+ Kg7 34. Rd3 Rxg2 35. h3 Rg3 36. b6 Rxh3 37. Kxa4 h5 38. Rd7 Rxe3 39.
+Rxb7 Rxe4+ 40. Kb5 Re1 41. Rc7 Rb1+ 42. Ka6 g5 43. Rc5 Rxb6+ 44. Kxb6 Kf6 45.
+Kc6 Ke6 46. Rd5 h4 47. Rd8 h3 48. Rh8 g4 49. Rh6+ Kf5 50. Rh5+ Kf4 51. Kd5 f5
+52. Ke6 g3 53. Rxf5+ Kg4 54. Kxe5 h2 55. Rf4+ 0-1
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Bartkowiak, Damian"]
+[Black "Zielinski, Wojciech"]
+[Result "0-1"]
+[ECO "E90"]
+[WhiteElo "2088"]
+[BlackElo "1896"]
+[PlyCount "90"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. h3 b6 7. Bg5 Bb7 8. Bd3 c5
+9. d5 Nbd7 10. O-O h6 11. Bf4 g5 12. Bh2 g4 13. Nh4 gxh3 14. Nf5 hxg2 15. Re1
+Ne5 16. f4 Nxd3 17. Qxd3 Bc8 18. Nxg7 Kxg7 19. f5 Rg8 20. Re2 Kh7 21. Rae1 Ng4
+22. Bf4 e5 23. Bg3 Ba6 24. Rxg2 h5 25. Ree2 Qf6 26. Be1 Nh6 27. Qh3 Bxc4 28.
+Bh4 Qh8 29. Ref2 Ng4 30. Be7 Kh6 31. Rf3 f6 32. Rfg3 Kg7 33. Bxd6 Kf7 34. Bc7
+Ke7 35. b3 Ba6 36. Rd2 Qh6 37. Rd1 Ne3 38. Re1 Qf4 39. Rg6 Ng4 40. Qg2 Rxg6 41.
+fxg6 Rg8 42. d6+ Kd7 43. Nd5 Qg5 44. Ne7 Rg7 45. a4 h4 0-1
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Kotlowski, Tomasz"]
+[Black "Murawski, Wieslaw"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[WhiteElo "1920"]
+[BlackElo "2097"]
+[PlyCount "85"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. dxc5 Qa5 8. Bd2
+Qxc5 9. Bd3 Bg4 10. h3 Bxf3 11. Qxf3 Nc6 12. Na4 Nd4 13. Nxc5 Nxf3+ 14. gxf3
+dxc5 15. e5 Nh5 16. Be3 b6 17. Be4 Rad8 18. Kf2 e6 19. Rhg1 Rd7 20. Rad1 Rfd8
+21. Rxd7 Rxd7 22. Ke2 Kf8 23. b3 f5 24. exf6 Bxf6 25. Rg4 Bd8 26. Bc6 Rf7 27.
+f5 Rxf5 28. Bh6+ Kg8 29. Rg1 Bc7 30. Rd1 Nf4+ 31. Bxf4 Rxf4 32. Bd7 Kf7 33. Bc6
+Rd4 34. Rxd4 cxd4 35. Kd3 Be5 36. Ke4 Bg7 37. b4 Ke7 38. c5 bxc5 39. bxc5 Kd8
+40. Kd3 e5 41. Kc4 g5 42. Be4 h5 43. Kd5 1/2-1/2
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Marszalek, Maciej"]
+[Black "Pioch, Zygmunt"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2355"]
+[BlackElo "2180"]
+[PlyCount "103"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. O-O
+O-O 9. Bf4 a4 10. Nbd2 Bc3 11. Rb1 a3 12. Qc2 Bb2 13. Rbd1 Nc6 14. Ne4 Nxe4 15.
+Qxe4 h6 16. Qb1 Ne7 17. e4 f5 18. exf5 exf5 19. d5 d6 20. Nd4 Bxd4 21. Rxd4 Ng6
+22. Bc1 Qf6 23. Rdd1 Bc8 24. f4 Bd7 25. Qd3 Rfe8 26. Rfe1 Nf8 27. Bd2 Nh7 28.
+Bc3 Qf7 29. Qd4 Nf6 30. Bb4 Qh5 31. Qd3 Rxe1+ 32. Rxe1 Re8 33. Rxe8+ Qxe8 34.
+Qd2 Ne4 35. Qe2 Kf8 36. Bxa3 Nc3 37. Qxe8+ Bxe8 38. Bb4 Nxa2 39. Bd2 b5 40. Bf1
+b4 41. Bd3 Bh5 42. Bb1 Nc3 43. Bxc3 bxc3 44. Bc2 Bf3 45. Kf2 Be4 46. Bxe4 fxe4
+47. Ke3 h5 48. h3 Ke7 49. b4 Kf7 50. g4 hxg4 51. hxg4 g6 52. Ke2 0-1
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Mazalon, Mariusz"]
+[Black "Ziemann, Jaroslaw"]
+[Result "1-0"]
+[ECO "E08"]
+[WhiteElo "2148"]
+[BlackElo "1986"]
+[PlyCount "59"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Qc2 e6 5. g3 Be7 6. Bg2 O-O 7. O-O Nbd7 8. b3
+b6 9. Nc3 Ba6 10. Rd1 Rc8 11. Bb2 Qc7 12. e4 dxc4 13. e5 Nd5 14. Ne4 Nb4 15.
+Qd2 Nd5 16. Bf1 b5 17. Nd6 c3 18. Bxc3 Bxd6 19. Ba5 Qb8 20. exd6 Qxd6 21. a4
+Rb8 22. Qg5 Bc8 23. axb5 cxb5 24. Bd2 a6 25. Qh4 N7f6 26. Bd3 Bb7 27. Ne5 Rfd8
+28. Bg5 Rbc8 29. Ng4 Rc3 30. Bxf6 1-0
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Poniewierski, Piotr"]
+[Black "Plewa, Piotr"]
+[Result "0-1"]
+[ECO "E08"]
+[WhiteElo "2049"]
+[PlyCount "88"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 Be7 5. Bg2 O-O 6. O-O c6 7. Qc2 Nbd7 8. b3
+Ne4 9. Nfd2 Nxd2 10. Qxd2 Bf6 11. Bb2 b5 12. e4 bxc4 13. bxc4 Ba6 14. Na3 Nb6
+15. Qa5 Bxc4 16. Rfc1 Qd7 17. Qd2 Rac8 18. Bc3 Ba6 19. Bb4 Be7 20. Bxe7 Qxe7
+21. Qa5 Bd3 22. e5 f6 23. f4 fxe5 24. fxe5 Qg5 25. Qe1 Rf7 26. Rc3 Ba6 27. Nc2
+Rfc7 28. Nb4 Bc4 29. Nd3 Bxd3 30. Rxd3 c5 31. h4 Qg6 32. Qe2 c4 33. Rf3 c3 34.
+h5 Qe8 35. h6 c2 36. Rc1 Qa4 37. Qe3 Qe8 38. Qg5 Qg6 39. Qxg6 hxg6 40. hxg7
+Kxg7 41. Rf6 Rc4 42. Rxe6 Rxd4 43. Rf6 Rd2 44. Rf2 Rd1+ 0-1
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Suliborski, Artur"]
+[Black "Wrzesinski, Pawel"]
+[Result "1/2-1/2"]
+[ECO "E83"]
+[BlackElo "1999"]
+[PlyCount "67"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 d6 6. Be3 Nc6 7. Qd2 Re8 8. O-O-O
+e5 9. d5 Nd4 10. Nge2 Nxe2+ 11. Bxe2 Nd7 12. g4 Nf8 13. Rdg1 f6 14. h4 Bd7 15.
+Bd3 c5 16. f4 Qc8 17. f5 a6 18. Qf2 b5 19. g5 Qd8 20. Rf1 gxf5 21. exf5 bxc4
+22. Bxc4 Bb5 23. Nxb5 axb5 24. Bxb5 Re7 25. Bc4 Rb7 26. Rhg1 Kf7 27. Qe2 Ke7
+28. Rd1 Ra4 29. h5 Qb8 30. Bb3 Rxb3 31. axb3 Qxb3 32. h6 Ra1+ 33. Kd2 Qb4+ 34.
+Kc2 1/2-1/2
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Suliborski, Jakub"]
+[Black "Ciszewski, Marek"]
+[Result "0-1"]
+[ECO "E70"]
+[BlackElo "1987"]
+[PlyCount "76"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be3 O-O 6. g3 c5 7. Qd2 cxd4 8. Bxd4
+Nc6 9. Be3 Ng4 10. O-O-O Nxe3 11. Qxe3 Qa5 12. Nge2 Be6 13. b3 Qa3+ 14. Kb1 a5
+15. Qd2 a4 16. Nb5 Qc5 17. Nec3 axb3 18. axb3 Qb4 19. Kc2 Ra5 20. Rb1 Rfa8 21.
+Bd3 Ra2+ 22. Rb2 Nd4+ 23. Nxd4 Rxb2+ 24. Kxb2 Bxd4 25. Kc2 Bxc3 26. Qxc3 Ra2+
+27. Qb2 Rxb2+ 28. Kxb2 Qd2+ 29. Bc2 Qxf2 30. Ra1 f5 31. Kc3 fxe4 32. Ra8+ Kg7
+33. Rb8 e3 34. b4 e2 35. Kb2 e1=Q 36. Rxb7 Qd4+ 37. Kb3 Bxc4+ 38. Ka3 Qea1# 0-1
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Szczepaniec, Stanislaw"]
+[Black "Witbrodt, Jakub"]
+[Result "1-0"]
+[ECO "E01"]
+[WhiteElo "2171"]
+[BlackElo "1587"]
+[PlyCount "81"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. c4 e6 2. Nf3 d5 3. g3 c6 4. Bg2 Bd6 5. b3 Nf6 6. O-O O-O 7. d4 Nbd7 8. Qc2
+Ne4 9. Rd1 Qc7 10. Bb2 b6 11. Nbd2 Nxd2 12. Nxd2 Nf6 13. e4 Nxe4 14. Nxe4 dxe4
+15. Bxe4 f5 16. Bg2 Bb7 17. Re1 Rae8 18. c5 bxc5 19. dxc5 Be7 20. Rxe6 Qd7 21.
+Qc4 Kh8 22. Rae1 Bg5 23. h4 Bd2 24. Rxe8 Rxe8 25. Rxe8+ Qxe8 26. Bxg7+ Kxg7 27.
+Qd4+ Kg8 28. Qxd2 Qe7 29. Qg5+ Qxg5 30. hxg5 Kf7 31. f4 Ke6 32. Kf2 Ba8 33. Ke3
+Bb7 34. Kd4 Ba8 35. b4 Bb7 36. b5 Kd7 37. Ke5 Kc7 38. Bxc6 Bxc6 39. bxc6 Kxc6
+40. Kxf5 Kxc5 41. Ke6 1-0
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.20"]
+[Round "3"]
+[White "Walkusz, Miroslaw"]
+[Black "Zielinski, Stanislaw"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "1987"]
+[BlackElo "2145"]
+[PlyCount "52"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. Nf3 g6 2. d4 Nf6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. d5 a5 8. Bg5 h6
+9. Bh4 Na6 10. Nd2 Nc5 11. O-O Bd7 12. b3 Qe8 13. a3 g5 14. Bg3 Nfxe4 15. Ncxe4
+Nxe4 16. Nxe4 f5 17. Nd2 f4 18. Ne4 fxg3 19. hxg3 Qg6 20. Bd3 Bf5 21. Qc2 h5
+22. b4 axb4 23. axb4 Rxa1 24. Rxa1 h4 25. Ra3 Bh6 26. Qe2 Qf7 1/2-1/2
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Cichocki, Adam"]
+[Black "Stolarczyk, Adam"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2320"]
+[BlackElo "2188"]
+[PlyCount "74"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5 d6 5. e3 O-O 6. Bd3 c6 7. Nge2 a6 8. a4 a5
+9. O-O Qc7 10. f4 Nbd7 11. Qd2 e6 12. e4 h6 13. Bh4 e5 14. fxe5 dxe5 15. d5 Qd6
+16. Kh1 Nc5 17. Bc2 g5 18. Bf2 Nh5 19. Qe3 Nd7 20. c5 Qg6 21. Ng3 Nxg3+ 22.
+Bxg3 Nf6 23. Rad1 cxd5 24. Nxd5 Nxd5 25. Rxd5 Be6 26. Rd6 Rfd8 27. Qd2 Rxd6 28.
+Qxd6 Bc4 29. Qxg6 fxg6 30. Rf3 Rf8 31. Rxf8+ Bxf8 32. Bxe5 Bxc5 33. h3 Kf7 34.
+g3 Ke6 35. Bg7 h5 36. Kg2 Bd6 37. Bc3 Be5 1/2-1/2
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Mista, Aleksander"]
+[Black "Murdzia, Piotr"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[WhiteElo "2539"]
+[BlackElo "2481"]
+[PlyCount "20"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 1/2-1/2
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Plewa, Piotr"]
+[Black "Mazalon, Mariusz"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[BlackElo "2148"]
+[PlyCount "81"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. Nc3 Nd7 5. e4 e5 6. d5 Ngf6 7. Be2 O-O 8. O-O
+h6 9. Ne1 Nc5 10. f3 a5 11. Be3 Bd7 12. Nd3 b6 13. Qd2 Kh7 14. b3 Ng8 15. Rab1
+f5 16. a3 fxe4 17. fxe4 Nf6 18. Nf2 Nh5 19. b4 Nb7 20. g3 Nf4 21. Bg4 Bxg4 22.
+Nxg4 Qd7 23. Nf2 Nh5 24. Nd3 axb4 25. axb4 Rxf1+ 26. Rxf1 Nf6 27. c5 bxc5 28.
+bxc5 Nxc5 29. Nxc5 dxc5 30. Bxc5 Ne8 31. Qb2 Nd6 32. Bxd6 Qxd6 33. Rc1 Qc5+ 34.
+Kg2 Qe3 35. Rf1 Rf8 36. Rxf8 Bxf8 37. Qf2 Qxc3 38. Qxf8 Qc2+ 39. Kh3 Qxe4 40.
+Qf7+ Kh8 41. Qf8+ 1/2-1/2
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Smalara, Kazimierz"]
+[Black "Szczukiewicz, Maciej"]
+[Result "0-1"]
+[ECO "E14"]
+[WhiteElo "1952"]
+[PlyCount "140"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. Nc3 O-O 7. Qe2 Nc6 8. O-O
+Nb4 9. Bb1 d5 10. a3 Nc6 11. b3 Na5 12. Nd2 c5 13. Qd3 Bd6 14. dxc5 Bxh2+ 15.
+Kxh2 Ng4+ 16. Kg3 f5 17. cxd5 Qg5 18. Nf3 Qg6 19. Nh4 Qh5 20. b4 Nb3 21. Ra2 g5
+22. Rh1 Nxc1 23. Qc2 f4+ 24. exf4 gxf4+ 25. Kh3 exd5 26. Qxh7+ Qxh7 27. Bxh7+
+Kxh7 28. Rxc1 Bc8 29. f3 Ne3+ 30. Kh2 Kg7 31. g3 Rh8 32. Re2 Nf5 33. Kg1 Nxg3
+34. Rh2 d4 35. Nd5 Rxh4 36. Rxh4 Ne2+ 37. Kf2 Nxc1 38. Nxf4 bxc5 39. bxc5 Bf5
+40. Nd5 d3 41. Ne3 Bg6 42. Rd4 Nb3 43. Rd7+ Kh6 44. c6 d2 45. c7 Rc8 46. Ke2
+Be8 47. Re7 Bb5+ 48. Kd1 Kg6 49. Kc2 Kf6 50. Nd5+ Kg6 51. Nc3 Bc4 52. Ne4 Bd3+
+53. Kd1 Bxe4 54. fxe4 Rh8 55. Rd7 a5 56. Rd8 Rh1+ 57. Kc2 a4 58. Rxd2 Rc1+ 59.
+Kb2 Rxc7 60. Rd5 Rc4 61. Rd6+ Kf7 62. e5 Re4 63. e6+ Rxe6 64. Rxe6 Kxe6 65. Kc3
+Kd5 66. Kb4 Nc5 67. Kc3 Na6 68. Kd3 Kc5 69. Kc3 Nc7 70. Kd3 Nb5 0-1
+
+[Event "Gdansk op"]
+[Site "Gdansk"]
+[Date "2008.07.22"]
+[Round "4"]
+[White "Tyda, Krzysztof"]
+[Black "Suliborski, Artur"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2036"]
+[PlyCount "73"]
+[EventDate "2008.07.19"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O c6 8. h3 Re8
+9. dxe5 dxe5 10. Qb3 Qc7 11. Be3 Be6 12. Ng5 Nfd7 13. Rad1 Na6 14. Nxe6 Rxe6
+15. Bg4 Re7 16. Rd2 h5 17. Be2 Ndc5 18. Qd1 Ne6 19. a3 b6 20. Nd5 cxd5 21. cxd5
+Nd4 22. Bxa6 Qd6 23. f4 b5 24. fxe5 Bxe5 25. Bxd4 Qxa6 26. Bxe5 Rxe5 27. Qf3 f5
+28. Re2 Qb6+ 29. Kh1 Qd4 30. Rfe1 Rf8 31. Qg3 Kg7 32. Rd2 Qxd2 33. Qxe5+ Kh7
+34. Rf1 f4 35. h4 Qe3 36. Qe7+ Kg8 37. Qg5 1-0

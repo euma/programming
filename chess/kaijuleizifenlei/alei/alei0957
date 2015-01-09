@@ -1,0 +1,600 @@
+[WhiteElo "1685"]
+[BlackElo "1860"]
+[PlyCount "74"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 h6 4. Nc3 Bb4 5. Nd5 Nxd5 6. Bxd5 c6 7. Bg2 O-O 8. a3
+Be7 9. d4 d6 10. Nf3 Bf6 11. O-O Bg4 12. Be3 Nd7 13. Rc1 Qe7 14. b4 Rac8 15.
+dxe5 dxe5 16. Qc2 c5 17. Rfd1 e4 18. Ne1 Bf5 19. Bf4 Rfd8 20. Qb3 b6 21. Nc2
+Be5 22. Bxe5 Qxe5 23. Ne3 Be6 24. Nd5 Bxd5 25. Rxd5 Qe7 26. Rcd1 Nf6 27. Rxd8+
+Rxd8 28. b5 Rd6 29. h3 Qd7 30. Rxd6 Qxd6 31. Qc2 Qe6 32. e3 Kf8 33. a4 Ke7 34.
+Qc3 g6 35. Bf1 h5 36. a5 Nd7 37. axb6 axb6 1/2-1/2
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.15"]
+[Round "5"]
+[White "Dominguez Alfara, Miguel"]
+[Black "Diaz Rios, Ignacio Jose"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "1610"]
+[BlackElo "1815"]
+[PlyCount "68"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. e3 d6 3. Nf3 g6 4. Nbd2 Bg7 5. Bd3 Nc6 6. b3 O-O 7. c4 e5 8. Bb2
+Re8 9. d5 Ne7 10. O-O Nh5 11. e4 Nf4 12. Bc2 h6 13. Re1 g5 14. h3 Neg6 15. Kh2
+Qd7 16. Ng1 Qe7 17. g4 Bf6 18. Nf1 Kg7 19. Ng3 Bd7 20. Qd2 Rh8 21. Bd1 Rh7 22.
+Re3 Rah8 23. Qa5 h5 24. gxh5 Nxh5 25. Nxh5+ Rxh5 26. Bxh5 Rxh5 27. Kg2 Nf4+ 28.
+Kf1 g4 29. hxg4 Rh1 30. f3 Bh4 31. Bc1 Rh2 32. Ne2 Rf2+ 33. Kg1 Nxe2+ 34. Kh1
+Bg3 0-1
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.16"]
+[Round "6"]
+[White "Cruz Lledo, Pablo"]
+[Black "Silva Rodriguez, Julio"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2008"]
+[BlackElo "1837"]
+[PlyCount "103"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 d6 2. c4 e5 3. d5 f5 4. Nc3 Nf6 5. e4 g6 6. Bd3 Bg7 7. Qc2 Na6 8. exf5
+Bxf5 9. Bxf5 gxf5 10. Qxf5 O-O 11. Nf3 Nc5 12. Qc2 e4 13. Ng5 h6 14. Ne6 Nxe6
+15. dxe6 Re8 16. O-O Rxe6 17. Re1 Qe8 18. Bf4 a6 19. Qb3 Qc6 20. Ne2 Nd7 21.
+Rac1 Nc5 22. Qg3 Kh7 23. Be3 Be5 24. Qh3 Rg6 25. Bxc5 Qxc5 26. Nc3 Bxc3 27.
+Rxc3 Rag8 28. g3 Rf6 29. Qg2 Qf5 30. Qxe4 Qxe4 31. Rxe4 Rf5 32. h4 h5 33. Kg2
+c6 34. Rd3 d5 35. cxd5 cxd5 36. Re6 Rgf8 37. f3 Rc8 38. Re7+ Kg6 39. Rxb7 Rc2+
+40. Kh3 Re5 41. g4 hxg4+ 42. fxg4 Rc6 43. Rd7 Rc2 44. R7xd5 Ree2 45. Rd6+ Kg7
+46. g5 Rh2+ 47. Kg4 Rhg2+ 48. Kh5 Rxb2 49. Rxa6 Rxa2 50. Rd7+ Kg8 51. Rxa2 Rxa2
+52. Kh6 1-0
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.16"]
+[Round "6"]
+[White "Guerrero Olmos, Alicia"]
+[Black "Colchero Truniger, Alejandro"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1687"]
+[PlyCount "54"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. a3 e5 2. b4 d6 3. Bb2 Nf6 4. e3 Be7 5. Nf3 Bg4 6. Be2 Nbd7 7. d3 O-O 8. Nbd2
+h6 9. O-O c6 10. c4 Qc7 11. h3 Bh5 12. Nh4 Bg6 13. Bg4 Bxd3 14. Re1 Qd8 15.
+Bxd7 Nxd7 16. Nhf3 f5 17. Qb3 e4 18. Nd4 Qc8 19. c5+ d5 20. Qc3 Bf6 21. Qb3 Ne5
+22. a4 Qd7 23. Bc3 Kh8 24. Qb2 Rfe8 25. f4 Ng6 26. Ne2 Bh4 27. g3 Bd8 1/2-1/2
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.16"]
+[Round "6"]
+[White "Negredo Bahamonde, Miguel A"]
+[Black "Diaz Flores Sanchez, Pau"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "1573"]
+[BlackElo "1821"]
+[PlyCount "118"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. g3 g6 4. Bg2 Bg7 5. O-O Nf6 6. Re1 O-O 7. c3 e5 8. c4 a6
+9. Nc3 Qa5 10. d3 b5 11. Bd2 Qb6 12. Nd5 Qb7 13. Qc1 d6 14. Bh6 Nxd5 15. exd5
+Nb4 16. Bxg7 Kxg7 17. Qd2 Bf5 18. Nh4 Bxd3 19. a3 Nc2 20. Qxd3 Nxa1 21. Rxa1
+bxc4 22. Qxc4 Qxb2 23. Qc1 Rab8 24. Bf1 Qd4 25. Qg5 f6 26. Nf5+ Kh8 27. Nxd4
+fxg5 28. Ne6 Rf5 29. Bh3 Rf3 30. Nxg5 Rd3 31. Be6 Rb6 32. Nf7+ Kg7 33. Nd8 Kf6
+34. a4 c4 35. a5 Rb2 36. Rc1 c3 37. Bg4 c2 38. Kg2 Rd2 39. Bf3 Rb1 40. Rxc2
+Rxc2 41. Be4 Rbb2 42. Bxc2 Rxc2 43. Nc6 Rxc6 44. dxc6 Ke7 45. Kf3 d5 46. Ke3
+Kd6 47. c7 Kxc7 48. f4 e4 49. g4 Kd6 50. Kd4 Ke6 51. Ke3 h5 52. h3 hxg4 53.
+hxg4 Kd6 54. Kd4 Kc6 55. Ke3 Kc5 56. g5 Kd6 57. Kd4 Ke6 58. Ke3 Kf5 59. Kd4
+Kxf4 0-1
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.16"]
+[Round "6"]
+[White "Pintor Munoz, Antonio"]
+[Black "Rioboo de la Riva, Alvaro"]
+[Result "1-0"]
+[ECO "A96"]
+[WhiteElo "2076"]
+[BlackElo "1964"]
+[PlyCount "73"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 d6 6. O-O O-O 7. b4 Qe8 8. Bb2
+Nbd7 9. Nc3 Ne4 10. Nxe4 fxe4 11. Nd2 d5 12. cxd5 exd5 13. Qb3 Qf7 14. f3 e3
+15. f4 Nf6 16. Nf3 c6 17. b5 Ng4 18. bxc6 bxc6 19. Ne5 Qh5 20. Nxg4 Bxg4 21.
+Qxe3 Rab8 22. Ba3 Bxa3 23. Qxa3 Bxe2 24. Rfb1 Rbe8 25. Re1 g5 26. fxg5 Qxg5 27.
+Qc1 Qf6 28. Qd2 Qf2+ 29. Kh1 Re3 30. Rab1 Kg7 31. Rb2 Rxg3 32. Qxe2 Rxg2 33.
+Qe7+ Kh6 34. Rxf2 Rfxf2 35. Re6+ Kh5 36. Qxh7+ Kg4 37. Rg6+ 1-0
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.16"]
+[Round "6"]
+[White "Pozanco Romasanta, Marc"]
+[Black "Cerezo Gaston, Alberto"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1729"]
+[PlyCount "52"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. b4 d5 2. a3 e5 3. Bb2 Qd6 4. e3 Be6 5. Nf3 Nd7 6. h3 Be7 7. d3 Ngf6 8. Nbd2
+O-O 9. Be2 h6 10. c4 c6 11. d4 e4 12. Ne5 Nh7 13. Nxd7 Bxd7 14. c5 Qc7 15. a4
+f5 16. b5 f4 17. Nf1 fxe3 18. fxe3 Bh4+ 19. Kd2 Rf2 20. Kc1 Rxg2 21. Nd2 Rf8
+22. Bf1 Rh2 23. b6 axb6 24. cxb6 Qg3 25. Rxh2 Qxh2 26. Qh5 Be1 0-1
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "7"]
+[White "Arnedo Ruiz, Alberto"]
+[Black "Castillo Sanjuan, Daniel"]
+[Result "1-0"]
+[ECO "A56"]
+[BlackElo "1911"]
+[PlyCount "45"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 c5 2. d5 Nf6 3. c4 d6 4. Nc3 e6 5. g3 Na6 6. Bg2 Rb8 7. Nf3 Be7 8. O-O
+O-O 9. Nd2 Nc7 10. e4 a6 11. f4 e5 12. f5 g6 13. g4 gxf5 14. gxf5 h6 15. Rf3
+Kh7 16. Rg3 b5 17. Nf3 Nh5 18. Ng5+ Bxg5 19. Bxg5 f6 20. Qxh5 fxg5 21. Qg6+ Kh8
+22. Qxh6+ Kg8 23. Qg6+ 1-0
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "7"]
+[White "Cerezo Gaston, Alberto"]
+[Black "Martinez Ramirez, Erik"]
+[Result "0-1"]
+[ECO "A04"]
+[BlackElo "1839"]
+[PlyCount "76"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Nf3 Bg7 5. O-O d6 6. Re1 e6 7. d3 Nge7 8. c3
+Qb6 9. Na3 O-O 10. Nc2 e5 11. b3 d5 12. exd5 Nxd5 13. Bb2 Nc7 14. Ne3 Ne6 15.
+Nd5 Qd8 16. c4 Ned4 17. Nxd4 exd4 18. Qd2 Bf5 19. Ba3 Qd6 20. b4 Ne5 21. f4 Qa6
+22. fxe5 Qxa3 23. Ne7+ Kh8 24. Nxf5 gxf5 25. b5 Rae8 26. Bh3 Qc3 27. Qd1 Rg8
+28. Bxf5 Bxe5 29. Re4 Rg5 30. Qf1 Rxf5 31. Qxf5 Qxa1+ 32. Kf2 f6 33. Rh4 Bxg3+
+34. hxg3 Qxa2+ 35. Kf3 Qe2+ 36. Kf4 Qe3+ 37. Kg4 Rg8+ 38. Kh5 Rg5+ 0-1
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "7"]
+[White "Gutierrez Valero, Mario"]
+[Black "Salido Polo, Veronica"]
+[Result "1-0"]
+[ECO "A83"]
+[WhiteElo "1945"]
+[BlackElo "1835"]
+[PlyCount "63"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 e6 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Qh5+ g6 8.
+Qh6 Nc6 9. c3 d6 10. Bd3 Qe7 11. Nxf6+ Qxf6 12. Nf3 Ne7 13. O-O Qf8 14. Qd2 Bd7
+15. c4 h6 16. Rfe1 O-O-O 17. b4 Bc6 18. Be2 g5 19. b5 Be8 20. Qa5 Kb8 21. c5 g4
+22. b6 cxb6 23. cxb6 Nc6 24. bxa7+ Ka8 25. Qb6 gxf3 26. Rab1 Qg7 27. Bxf3 Rf8
+28. Re3 d5 29. Rxe6 Bg6 30. Rxg6 Qd7 31. Rd6 Qc8 32. Bg4 1-0
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "7"]
+[White "Lomba Gonzalez, Sergio"]
+[Black "Piriz Fernandez, Daniel"]
+[Result "0-1"]
+[ECO "A36"]
+[WhiteElo "1463"]
+[BlackElo "1752"]
+[PlyCount "34"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. a3 d6 6. Rb1 a5 7. Nf3 Bg4 8. O-O
+Nf6 9. h3 Bd7 10. e3 e5 11. d4 O-O 12. dxe5 dxe5 13. Qd6 Bf5 14. Qxd8 Rfxd8 15.
+e4 Nxe4 16. Nxe5 Nxc3 17. Nxc6 bxc6 0-1
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "7"]
+[White "Prieto Redondo, Guillermo"]
+[Black "Castillo Sanjuan, Alejandro"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "1808"]
+[BlackElo "1915"]
+[PlyCount "83"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. h3 Nbd7 7. O-O b6 8. Bh2
+c5 9. c3 Bb7 10. Nbd2 Ne4 11. Qc2 f5 12. Nxe4 fxe4 13. Ng5 Qc8 14. Qb3+ d5 15.
+Ne6 c4 16. Qa3 Rf7 17. Nc7 Rb8 18. Bg4 e5 19. dxe5 Bf8 20. Qa4 Re7 21. Qd1 Qxc7
+22. Bxd7 Rxd7 23. e6 Rd6 24. Qg4 Qe7 25. Rfd1 Rbd8 26. Bxd6 Rxd6 27. b3 b5 28.
+bxc4 bxc4 29. Rab1 Bc6 30. Rb8 Qxe6 31. Qf4 Qf6 32. Qg3 Rd8 33. Rdb1 Rxb8 34.
+Rxb8 Kg7 35. Qc7+ Kh6 36. Rxf8 Qxf8 37. Qxc6 Qa3 38. Qf6 Qc1+ 39. Kh2 Qa3 40.
+g4 Qa4 41. Qf8+ Kg5 42. Qf4+ 1-0
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "7"]
+[White "Ruiz Abad, Juan Manuel"]
+[Black "Martinez Fernandez, Raul"]
+[Result "0-1"]
+[ECO "A07"]
+[BlackElo "1726"]
+[PlyCount "56"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 Bf5 4. O-O Nbd7 5. d3 e5 6. Nbd2 Bd6 7. c4 c6 8. Rb1
+O-O 9. b4 Qe7 10. b5 e4 11. Nd4 Bg6 12. bxc6 exd3 13. exd3 bxc6 14. Nxc6 Qe8
+15. Re1 Qc8 16. cxd5 Bxd3 17. Rb3 Qa6 18. a3 Rfe8 19. Nf3 Bc4 20. Rbe3 Rxe3 21.
+Bxe3 Bxd5 22. Ncd4 Qxa3 23. Nb5 Qb4 24. Nxd6 Qxd6 25. Bf4 Qc6 26. Re3 Qb7 27.
+Qe1 h6 28. Re7 Bxf3 0-1
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "7"]
+[White "Sierra Soria, Maria"]
+[Black "Simon Escalona, Jorge"]
+[Result "1/2-1/2"]
+[ECO "A24"]
+[WhiteElo "1708"]
+[PlyCount "33"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d3 c6 8. Rb1
+Na6 9. a3 Nc7 10. b3 Re8 11. e4 c5 12. b4 b6 13. Be3 Bd7 14. Qd2 Ne6 15. Bg5
+Bc6 16. Ne1 Qc7 17. Nc2 1/2-1/2
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "8"]
+[White "Arnedo Ruiz, Alberto"]
+[Black "Pacheco Rubi, Rafael"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[BlackElo "1911"]
+[PlyCount "70"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. d4 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 Be7 6. O-O O-O 7. Re1 d5 8. e4
+c5 9. e5 Nfd7 10. c3 Nc6 11. a3 Qc7 12. Nf1 Rae8 13. Ng5 Bxg5 14. Bxg5 f5 15.
+Be2 h6 16. Bc1 Ne7 17. f4 Kf7 18. Kf2 Rh8 19. g3 Reg8 20. Be3 Ke8 21. Rc1 g6
+22. b4 c4 23. Bf3 a6 24. a4 Nf8 25. Re2 Kd8 26. Ke1 Kc8 27. Rcc2 Rg7 28. Kd2
+Rhg8 29. Kc1 Kb8 30. Kb1 Ka7 31. Bh1 Nh7 32. Rg2 Nc8 33. Ka1 Qf7 34. Rce2 Ne7
+35. Qc2 Bc6 1/2-1/2
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "8"]
+[White "Balague Camps, Marc"]
+[Black "Ladron de Guevara, Pinto Paolo"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "1685"]
+[BlackElo "1915"]
+[PlyCount "60"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. O-O Be7 8.
+a3 Be6 9. b4 a5 10. Rb1 f6 11. b5 Nd4 12. a4 O-O 13. d3 Nf5 14. Nd2 Rb8 15. Nb3
+Bb4 16. Ne4 Nd4 17. Nec5 Bd5 18. Nxd4 exd4 19. Ne4 f5 20. Nd2 Bxg2 21. Kxg2
+Qd5+ 22. Nf3 c5 23. Bf4 Rbe8 24. Bd2 Bxd2 25. Qxd2 Nxa4 26. Rfe1 Nc3 27. Ra1 b6
+28. Qb2 f4 29. Rac1 fxg3 30. hxg3 Nxe2 0-1
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "8"]
+[White "Llamazares Lopez, Marcos"]
+[Black "Guerrero Olmos, Alicia"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "1891"]
+[BlackElo "1687"]
+[PlyCount "116"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. Nc3 Nf6 5. Be2 d5 6. d3 dxc4 7. dxc4 Qxd1+ 8.
+Bxd1 Bd6 9. Ba4 Bd7 10. Bxc6 Bxc6 11. e5 Bxf3 12. exd6 Bc6 13. O-O O-O 14. Bg5
+Rfd8 15. Bxf6 gxf6 16. Rfd1 Rd7 17. Rd2 Rad8 18. Rad1 a6 19. a4 f5 20. f3 f6
+21. b3 Kf7 22. a5 e5 23. Na4 Bxa4 24. bxa4 Ke6 25. Rb1 Rc8 26. Rb6 Kf7 27. Rdb2
+Rc6 28. Rxc6 bxc6 29. Rb6 Rxd6 30. Rxa6 Rd4 31. Rxc6 Rxc4 32. Rc7+ Ke6 33. a6
+Rxa4 34. Rxc5 Rxa6 35. Rc7 f4 36. h4 Rd6 37. h5 Rd7 38. Rc6+ Kf7 39. Kh2 Re7
+40. Kh3 f5 41. Rc1 Kf6 42. g3 Kg5 43. gxf4+ Kxf4 44. Kg2 Kg5 45. Rh1 Re6 46.
+Kf2 Rh6 47. Re1 Re6 48. Rh1 e4 49. fxe4 Rxe4 50. Kf3 Ra4 51. Rg1+ Kxh5 52. Rg7
+h6 53. Rg8 Rg4 54. Rf8 Kg5 55. Rg8+ Kh5 56. Rf8 Kh4 57. Rxf5 Rg3+ 58. Kf2 h5
+1/2-1/2
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "8"]
+[White "Negredo Bahamonde, Miguel A"]
+[Black "Martin Hernandez, Ruben"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "1573"]
+[BlackElo "1950"]
+[PlyCount "49"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Be3 Ng6 5. c4 Nf6 6. f3 a5 7. Nc3 Be7 8. Nge2
+d6 9. Nc1 Nh5 10. Nd3 Bg5 11. Qd2 Bxe3 12. Qxe3 Nhf4 13. Nxf4 Nxf4 14. Rc1 b6
+15. g3 Ng6 16. Bg2 O-O 17. h4 h5 18. Qg5 Qe8 19. Nb5 f6 20. Qxh5 Nf4 21. Qxe8
+Nxg2+ 22. Kf2 Rxe8 23. Nxc7 Ba6 24. Nxa8 Rxa8 25. Kxg2 1-0
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "8"]
+[White "Piriz Fernandez, Daniel"]
+[Black "Colchero Truniger, Alejandro"]
+[Result "1-0"]
+[ECO "A83"]
+[WhiteElo "1752"]
+[PlyCount "83"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 d5 5. Bxf6 exf6 6. Qh5+ g6 7. Qxd5 Qe7 8.
+Qxe4 Nc6 9. O-O-O Qxe4 10. Nxe4 Kf7 11. Bc4+ Kg7 12. Ne2 Bf5 13. N2g3 Bc8 14.
+h4 h5 15. Rhf1 Bb4 16. c3 Bd6 17. Nxd6 cxd6 18. f4 Bg4 19. Rde1 Rae8 20. Ne4
+Rd8 21. Nf2 Bf5 22. Bd5 Rhe8 23. Kd2 Ne7 24. Bf3 Kf7 25. b3 Nc6 26. Nd3 a5 27.
+Bd5+ Kg7 28. Nb2 Kf8 29. Nc4 Ra8 30. Rxe8+ Kxe8 31. Nxd6+ Kd7 32. Nxf5 gxf5 33.
+Re1 Kd6 34. Bxc6 bxc6 35. Kd3 Rg8 36. Re2 Rg3+ 37. Kc4 Rg4 38. Re8 Rxg2 39. Rh8
+Rxa2 40. Rxh5 a4 41. bxa4 Rxa4+ 42. Kd3 1-0
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "8"]
+[White "Pozanco Romasanta, Marc"]
+[Black "Pedrera Busselo, Asier"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1729"]
+[PlyCount "156"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. b4 e5 2. a3 d5 3. Bb2 f6 4. e3 Be6 5. h3 Bd6 6. Nf3 Ne7 7. d3 a6 8. Nbd2
+Nbc6 9. Be2 O-O 10. c4 dxc4 11. dxc4 Ng6 12. Qc2 Re8 13. Rd1 Bf8 14. Bd3 Bf7
+15. Be4 Be7 16. Bxc6 bxc6 17. c5 Qb8 18. O-O a5 19. Bc3 axb4 20. axb4 Ra2 21.
+Qc1 Qa7 22. Nb1 Ra8 23. Rd2 Rxd2 24. Nbxd2 Qa3 25. Qa1 Bf8 26. Bb2 Qa4 27. Qxa4
+Rxa4 28. Bc3 Ra3 29. Nb1 Ra4 30. Rd1 Bd5 31. Nfd2 e4 32. Nf1 Ne5 33. Bxe5 fxe5
+34. Nc3 Rxb4 35. Nxd5 cxd5 36. Rxd5 Rb5 37. Rxe5 Rxc5 38. Rxc5 Bxc5 39. Nd2 Bb6
+40. Nxe4 Kf7 41. Kf1 h6 42. Ke2 Ke6 43. Kd3 Kd5 44. Ng3 g6 45. Ne2 g5 46. Nc3+
+Ke5 47. Na4 Ba7 48. Nb2 h5 49. Nc4+ Kf5 50. Nd2 h4 51. Nf3 Kf6 52. Nd4 Kg6 53.
+Nc6 Bb6 54. Ke4 Kf6 55. f4 gxf4 56. exf4 Bf2 57. Kf3 Bg3 58. Kg4 Ke6 59. Nd4+
+Kf6 60. Ne2 Bf2 61. Nc3 Kg6 62. Ne4 Be1 63. f5+ Kf7 64. Kf4 Ke7 65. Ke5 Bb4 66.
+Kd5 c5 67. Kc4 Kf7 68. Kd3 Kg7 69. Nd6 Kf6 70. Ke4 Ke7 71. Nc4 Kf6 72. Kf4 Be1
+73. Ne3 Bd2 74. Ke4 Bxe3 75. Kxe3 Kxf5 76. Kd3 Kf4 77. Kc4 Kg3 78. Kxc5 Kxg2
+0-1
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "8"]
+[White "Quintin Navarro, Alberto"]
+[Black "Ontanon Gomez, Pablo"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "2062"]
+[BlackElo "1874"]
+[PlyCount "91"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bc5 7. Qc2 Qb6 8.
+Be3 Na6 9. Bxc5 Nxc5 10. N1c3 O-O 11. e3 g6 12. f3 e4 13. O-O-O Re8 14. d6 Na6
+15. Nxe4 Nxe4 16. fxe4 Qxe3+ 17. Qd2 Qxd2+ 18. Rxd2 Bd7 19. Nc3 Nc5 20. Bd3
+Rac8 21. Kb1 Re6 22. Bc2 Bc6 23. Re1 b6 24. Nd5 Bxd5 25. Rxd5 Rd8 26. b4 Nb7
+27. e5 Rdxd6 28. exd6 Rxe1+ 29. Kb2 Re8 30. d7 Rd8 31. Ba4 Rb8 32. Re5 Kg7 33.
+Re8 Nd8 34. Bb5 f5 35. Ba6 b5 36. Bc8 Nc6 37. d8=Q Nxd8 38. Rxd8 Kf6 39. Kc3
+Ke7 40. Rh8 Kd6 41. Kd4 a6 42. h4 Ra8 43. Rg8 Ra7 44. h5 Ra8 45. hxg6 hxg6 46.
+Rxg6+ 1-0
+
+[Event "ESP-ch U14"]
+[Site "Padron"]
+[Date "2008.07.17"]
+[Round "8"]
+[White "Rubio Campos, Juan"]
+[Black "Rodriguez Ferraz, Borja"]
+[Result "0-1"]
+[ECO "A00"]
+[BlackElo "1901"]
+[PlyCount "70"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e3 e5 2. e4 Nf6 3. Nf3 Nc6 4. Nc3 Bb4 5. Nd5 Ba5 6. c3 d6 7. d3 Nxd5 8. exd5
+Ne7 9. Qa4+ c6 10. dxc6 Nxc6 11. Be2 O-O 12. O-O h6 13. Be3 Bd7 14. Qc2 Re8 15.
+Rad1 Rc8 16. d4 e4 17. Nd2 d5 18. Qb3 Ne7 19. c4 Be6 20. c5 Rb8 21. Bf4 Bc7 22.
+Qg3 Bxf4 23. Qxf4 Ng6 24. Qg3 Kh7 25. f3 f5 26. fxe4 dxe4 27. Nb3 f4 28. Qf2
+Qg5 29. Kh1 e3 30. Qe1 Bd5 31. Rg1 Nh4 32. Qf1 Rf8 33. Bf3 Nxf3 34. gxf3 Qh5
+35. Rg4 Qxg4 0-1
+
+[Event "Sabadell op 1st"]
+[Site "Sabadell"]
+[Date "2008.07.14"]
+[Round "2"]
+[White "Almeida Quintana, Omar"]
+[Black "Alcazar Pascual, Lluis"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2524"]
+[BlackElo "1991"]
+[PlyCount "54"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 d6 2. Nf3 Bg4 3. c4 Nd7 4. Qb3 Rb8 5. h3 Bh5 6. Nc3 c6 7. Be3 Bxf3 8.
+exf3 g6 9. d5 c5 10. f4 Nh6 11. g4 Bg7 12. Be2 Qa5 13. O-O O-O 14. Bd2 Qd8 15.
+f5 Kh8 16. fxg6 fxg6 17. Ne4 Nf7 18. Bc3 Nf6 19. Ng3 Ng5 20. f4 Nge4 21. Nxe4
+Nxe4 22. Bxg7+ Kxg7 23. g5 e5 24. dxe6 Nxg5 25. Qc3+ Kg8 26. fxg5 Qxg5+ 27. Kh2
+Ra8 1-0
+
+[Event "Sabadell op 1st"]
+[Site "Sabadell"]
+[Date "2008.07.14"]
+[Round "2"]
+[White "Jovanic, Ognjen"]
+[Black "Otero Salgas, Carles"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "2493"]
+[BlackElo "1973"]
+[PlyCount "33"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. e3 c6 5. Bd3 d6 6. Qc2 Be7 7. Nf3 O-O 8. e4
+fxe4 9. Nxe4 h6 10. O-O Qc7 11. Re1 e5 12. dxe5 dxe5 13. Nxf6+ Bxf6 14. Qe2 Bg4
+15. h3 Bxf3 16. Qxf3 Bh4 17. Bh7+ 1-0
+
+[Event "Sabadell op 1st"]
+[Site "Sabadell"]
+[Date "2008.07.14"]
+[Round "2"]
+[White "Movsziszian, Karen"]
+[Black "Alonso Castillo, Sergi"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2560"]
+[BlackElo "2118"]
+[PlyCount "79"]
+[EventDate "2008.07.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
